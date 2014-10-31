@@ -1,0 +1,35 @@
+#!/usr/bin/perl
+#----------------------------------------------------------------
+# Script by Arbaces of Ravenmud, basically a copy of a script by
+# Lawrence Cecil (further edited by Digger around 11/2000).  This
+# script updates equipment in game by calling an external program
+# called eqUpdate.
+#
+#-----------------------------------------------------------------
+
+use Carp;
+use Cwd;
+use Env;
+
+if(open UPDATES, "$HOME/sys/etc/updates") {
+   my $vnums = "";
+   my $count = 0;
+
+   while(my $vnum = <updates>) {
+      chomp($vnum);
+      $vnums .= "$vnum ";
+      $count++;
+      if($count == 19) {
+         print SYSLOG "Updating $vnums\n";
+         system("$HOME/bin/equpdate $vnums");
+         $vnums = ""; $count = 0;
+      }
+   }
+   if($count > 0) {
+      print SYSLOG "Updating $vnums\n";
+      system("$HOME/bin/equpdate $vnums")
+   }
+   close UPDATES;
+   unlink("$HOME/sys/etc/updates");
+}
+
