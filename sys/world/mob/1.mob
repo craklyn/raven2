@@ -1,0 +1,699 @@
+#100
+U D 0~
+zombie corpse dead undead~
+the zombie~
+An undead zombie is standing here.
+~
+  The zombie is what remains of some poor adventure's corpse. The flesh
+has begun to decay, but some magical energy manages to keep it together.
+The same magical energy binds it to the person who created it.
+~
+8 0 0 0 0 0 0 0 -200
+8 10 8 1d20+60 2d9+7
+45 90
+9 9 0 0 4 -1
+#101
+H W 0~
+mother house~
+the house mother~
+The house mother is here, counting her profits.
+~
+   She is quite a large woman, quite capable of throwing you out on your ear
+should you attempt to stay longer than you pay for.  She turns to you and says,
+"My prices and policies are listed on the sign, be sure to read it before
+trying to get me to rent you a room!  " With that she turns around and goes
+back to counting her money.    
+~
+2058 0 0 0 132136 0 0 0 0
+51 -15 -10 1d1+30000 28d20+100
+90 100
+9 9 2 0 -1 -1
+#102
+H W 0~
+housekeeper member staff cleaning woman maid~
+the maid~
+A member of the housekeeping staff is here cleaning the halls.
+~
+   Dressed in a simple uniform, this maid surely wouldn't put up much of a 
+fight. Then again why would you attack someone like her? She's not exactly
+happy with having to clean up after all the adventures that run through this 
+hole in the wall!
+~
+2125 0 0 0 1032 0 0 0 500
+15 3 2 10d10+300 1d2+15
+40 40
+9 9 2 0 -1 -1
+#103
+H W 0~
+carpenter worker man~
+the carpenter~
+A carpenter is here expanding the boarding house.
+~
+   Seems the house mother has made enough money to add an addition onto the
+boarding house. Then again, she hasn't made enough money to hire more then
+one poor carpenter to do the job. If ever you feel like complaining that the
+boarding house isn't big enough, just remember that there is only one poor
+man working on it...give him time.
+~
+2186 0 0 0 1032 0 0 0 1000
+20 1 3 2d20+300 1d8+10
+40 40
+9 9 1 0 -1 -1
+#104
+H T 0~
+homeless beggar man drunk~
+the homeless man~
+A poor homeless man is here, begging for food.
+~
+   If he's desperate enough to eat here, he's sunk to the bottom of the
+barrel. Mother Risen gives out food to the homeless sometime, but its so
+bad even they wont eat it! Either this man has a strong stomach, or he
+doesn't care anymore.
+~
+142 0 0 0 8 0 0 0 0
+10 10 3 5d10+100 2d1+5
+35 40
+7 9 1 0 -1 -1
+#105
+H W 0~
+punching bag~
+the punching bag~
+Vex's personel punching bag is standing here.
+~
+	WOW! This punching bag has the best job in the universe!
+~
+8 0 0 0 0 0 0 0 0
+50 0 0 1d1+999 1d1+1
+80 90
+9 9 0 8 8 4
+#110
+U D 0~
+skeleton undead corpse bones~
+the skeleton~
+An undead skeleton is standing here.
+~
+   Consisting of nothing other than bones, this creation should not even be
+able to stand.  Powerful magical forces must have had a hand in its creation.
+The skeleton's strange glowing eyes send a slight shiver down your spine.    
+~
+8 0 0 0 0 0 0 0 -100
+4 15 10 1d15+30 2d9+3
+40 90
+9 9 0 0 16 -1
+#111
+U D 0~
+ghast undead corpse~
+the ghast~
+A grey-skinned humanoid stands hunched over here.
+~
+   The flesh of this creature has turned grey...  Cleary it's no living thing,
+yet it stands here before you.  Its arms are long and end in vicious claws, its
+eyes glow red and glare at you malevolently.    
+~
+32776 0 0 0 0 0 0 0 -200
+19 5 4 1d50+150 3d8+11
+50 90
+9 9 0 8 4 -1
+#112
+U D 0~
+wight undead corpse~
+the wight~
+An undead warrior stands here, glaring at you.
+~
+   This creatures body is decayed considerably, much of the flesh is
+shrivelled, its eyes have rotted from the sockets of its skull.  None the less,
+it is a sentient being, bound in servitude to its creator.    
+~
+2072 0 0 0 8200 0 0 0 -400
+22 4 3 1d50+200 3d9+14
+60 90
+9 9 0 19 -1 -1
+#113
+U D 0~
+ghost spirit undead~
+the ghost~
+The ghostly visage of a dead warrior floats here.
+~
+   This spirit had been raised not long after its death and is filled with 
+the horror of its own demise and realization of what it has become. To 
+look in its eyes now is to know the terror of your own death.
+~
+2056 0 0 0 8 32 0 0 -500
+25 0 0 1d66+266 4d9+14
+65 80
+9 9 0 19 12 -1
+#114
+U D 0~
+banshee spirit wail~
+the banshee~
+A banshee screams at you in fury and horror.
+~
+   This wailing horror once was a living, breathing woman full of life.
+Cheated and stripped of her eternal rest, she screams in hatred and fear
+at the living. Envious of their light, she uses all her unholy powers of
+undeath to torture mortal man.
+~
+2056 0 0 0 74760 2097152 0 0 -500
+28 -3 -3 1d66+333 4d9+17
+70 80
+9 9 2 19 15 0
+#115
+U D 0~
+minion spectre spectral knight~
+the spectral minion~
+A spectral image wearing ancient armor stands here vigilantly.
+~
+   This is a being of considerable power, torn back from death by powerful
+magic.  While it may be forced into servitude by the same magic that created
+it, it desires only to bring the same misery to others as it now endures.    
+~
+2056 0 0 0 204840 1024 0 0 0
+33 -5 -6 1d66+400 4d9+20
+75 90
+9 9 0 14 19 13
+#116
+V D 0~
+undead humanoid minion vampiric~
+the vampiric minion~
+An ashen warrior, clad in the bones of the dead, stands here
+~
+   This vampiric apparition has been summoned from the nether regions to
+do its master's bidding. The sunken, red eyes glare out at you from a
+helm of bone, creating a frightening image. This spectral minion is a 
+vampire, far stronger than any mortal man. While it awaits your command,
+it stares in greedy desire at the living, craving their &08blood&00.
+~
+2056 0 0 0 -1610152920 16384 0 0 -700
+35 -7 -9 1d66+466 6d7+60
+80 100
+9 9 0 20 19 15
+#120
+U D 0~
+ghoul undead corpse~
+the ghoul~
+An undead creation stands here staring at you.
+~
+   The flesh of this creation has begun to dry on its bones. Extremely 
+powerful magic has preserved this once dead corpse's flesh into a state
+known as undeath. 
+~
+131080 0 0 0 0 0 0 0 -200
+13 8 6 1d50+100 3d9+7
+50 90
+9 9 0 0 8 -1
+#130
+A R 0~
+puppy dog level1~
+the puppy~
+A small but loyal puppy is here.
+~
+   The puppy couldn't be more than a few days old. Its eyes have just 
+recently been opened to the wonders of the world. Not extremely 
+helpful in battle this little courageous fighter could become cannon
+fodder if you're not careful.
+~
+8 0 0 0 0 0 0 0 0
+6 15 0 1d25+100 1d3+7
+40 40
+9 9 1 4 -1 -1
+#131
+A W 0~
+kitten cat level1~
+the kitten~
+A small but loyal kitten is here.
+~
+   The kitten isn't more than a few days old. When it first opened its 
+eyes it bonded with its current master, hence it is loyal to its 
+master until its death. Its not much in a fight, but it makes up for
+that with its companionship.
+~
+8 0 0 0 262144 0 0 0 0
+6 18 0 1d25+100 1d3+5
+40 40
+9 9 2 8 -1 -1
+#132
+A W 0~
+cub bear level1~
+the bear cub~
+A small but loyal bear cub is here.
+~
+   Away from his mother for the first time in his short life, the bear
+cub is certainly afraid. It fights its fear with an undying sense of 
+loyalty towards his master, nothing, short of death, would cause him
+to leave his master.
+~
+8 0 0 0 0 0 0 0 0
+6 13 2 1d25+150 1d3+10
+35 40
+9 9 1 8 -1 -1
+#133
+A M 0~
+bird level1~
+the bird~
+A bird is here, singing for its master.
+~
+   This small bird would use its speed to distract and annoy 
+an opponent during a fight. Even though it is nothing more than
+a songbird, this bird would do whatever it could to help its
+master in a battle.
+~
+8 0 0 0 65536 0 0 0 0
+6 18 0 1d25+100 1d6+5
+35 65
+9 9 2 16 -1 -1
+#134
+A W 0~
+pony horse level1~
+the pony~
+A small, but loyal, pony is standing here.
+~
+   This small pony must have learned to walk only recently. His legs
+are extremely skinny, and at times it looks like he is about to fall
+over! One thing about the pony, he is extremely loyal to his master.
+He will try to help his master out whenever asked.
+~
+8 0 0 0 0 0 0 0 0
+6 15 -10 1d25+75 1d3+5
+35 40
+9 9 2 23 -1 -1
+#140
+N R 0~
+hound dog level2~
+the hound dog~
+A large hunting dog is hunting for prey here.
+~
+   This hound has been bread for hunting. His keen sense of smell
+help him find his quarry in even the roughest of weather. Most
+important of all is his unfailing loyalty to his master.
+~
+8 0 0 0 1024 0 0 0 0
+16 11 -7 1d50+300 1d8+15
+100 40
+9 9 1 8 4 -1
+#141
+A W 0~
+cat level2~
+the cat~
+A cat is here, preening herself.
+~
+   The cat glances in your direction, but hardly seems to notice you. 
+This cat certainly follows the typical perception that cats are 
+extremely self centered. It does seem to have some concern for its 
+master, and might even follow his commands...if she felt like it.
+~
+8 0 0 0 263168 0 0 0 0
+16 5 -5 1d50+300 3d6+14
+45 40
+9 9 1 8 4 -1
+#142
+A W 0~
+black bear level2~
+the black bear~
+A small black bear is here waiting on his master's command.
+~
+   Smaller than some of its larger cousins, this black bear
+would still be a match for most people. His sharp claws
+could rip through human flesh without much difficulty. He 
+gives you a cautious glance and a small growl as he sees you.
+~
+8 0 0 0 1024 0 0 0 0
+16 11 -7 1d75+500 3d6+5
+50 40
+9 9 1 8 4 9
+#143
+A W 0~
+raven bird black level2~
+the raven~
+A large black raven is perched here, waiting for something.
+~
+   Some creatures evoke powerful emotions in people. Ravens tend
+to provoke fear and sometimes dread, and this one is no different.
+There seems to be a presence that regards you from beyond his
+glassy eyes, you had better watch your step.
+~
+8 0 0 0 65536 0 0 0 0
+12 11 0 1d8+75 1d6+3
+35 40
+9 9 1 16 -1 -1
+#144
+A W 0~
+horse riding level2~
+the riding horse~
+A dun colored riding horse has been left here by someone.
+~
+   This horse was bred to the saddle. Perhaps the most common of all 
+horses, he can be ridden, worked, or raced. He has obviously be 
+extremely well trained, he isn't scared of you at all. With out
+a doubt he would follow any command that his master gave him.
+~
+8 0 0 0 1024 0 0 0 0
+16 9 -15 1d75+300 1d6+8
+55 40
+9 9 2 23 18 -1
+#150
+A D 0~
+dog blink level3~
+the blink dog~
+A large dog is here, fading in and out of sight.
+~
+   This dog is a legendary blink dog, it is in a constant state
+of flux, teleporting in and out. In actual combat he would be 
+almost impossible to hit. Whatever magic brought him here must 
+also have bound him to a specific master. You're only hope would
+be to kill him.
+~
+8 0 0 0 132128 16416 0 0 0
+26 5 -9 1d75+600 2d6+15
+125 40
+9 9 1 4 8 -1
+#151
+A W 0~
+black panther cat level3~
+the panther~
+A huge black panther is here, stalking something...
+~
+   Rippling muscles bulge beneath this beast's smooth coat. 
+Muscles that could pounce on you in a second, and rip out your
+heart in the next second. It would not be a good idea to get on
+the wrong side of this cat's owner.
+~
+8 0 0 0 918528 0 0 0 0
+26 -2 -9 1d75+600 4d6+16
+75 60
+9 9 2 4 8 16
+#152
+A W 0~
+brown bear level3~
+the brown bear~
+A large brown bear is pacing here.
+~
+   This bear has chosen to leave his natural habitat for some 
+strange reason. Large claws make him a formidable opponent in any
+fight. Don't be fooled into thinking he's slow either, he would
+rip your head off before you had a chance to respond!
+~
+8 0 0 0 132096 1024 0 0 0
+26 5 -13 1d100+1000 3d6+10
+50 60
+9 9 1 8 4 9
+#153
+A R 0~
+aarakocra man birdman bird level3~
+the Aarakocra~
+A strange birdman stands here, watching you cautiously.
+~
+   This creature is half man, half bird. His arms extend into 
+giant wings that he could use to take flight if needed. He looks
+quite intelligent, judging by his facial expressions. And he must
+have superior eyesight, he saw you well before you saw him.
+~
+8 0 0 0 4391936 2048 0 0 0
+26 5 -9 1d75+600 2d6+10
+50 40
+9 9 1 8 16 20
+#154
+A P 0~
+war horse level3~
+the war horse~
+A large war horse stands here defiantly.
+~
+   This horse would dwarf a normal riding horse. Trained in the
+ways of combat, and armored like a knight, this horse is more
+prepared for battle than most adventurers. 
+~
+8 0 0 0 132096 0 0 0 0
+26 3 -20 1d75+600 2d6+10
+55 40
+9 9 1 23 4 18
+#160
+N D 0~
+death dog level4~
+the death dog~
+A strange two-headed dog snaps at you, twice...
+~
+   This dog has two heads protruding from its torso. Each head 
+has large fangs for tearing flesh from bones. Its feral look upon
+you with a deep hunger, a hunger for blood.
+~
+8 0 0 0 537003048 180256 0 0 -500
+36 4 -14 1d75+900 4d6+10
+125 40
+9 9 1 4 9 -1
+#161
+A M 0~
+beast displacer cat level4~
+the displacer beast~
+A strange cat is here, fading in and out of sight.
+~
+   It almost seems as if this cat is able to make itself invisible
+for a short while. Long wavy tentacles sway from its shoulders in
+a strange, hypnotic, dance. Its black fur coat causes it to blend
+into the shadows, what possible place could this creature be from?
+~
+8 0 0 0 537789480 0 0 0 0
+36 -5 -10 1d75+900 2d6+8
+75 60
+9 9 2 4 10 8
+#162
+A W 0~
+grizzly bear brown level4~
+the grizzly bear~
+A giant grizzly bear is wandering here.
+~
+   This creature fills you with a great sense of awe, his size 
+alone would dwarf a half giant. The fact that any creature could
+be this large scares you, maybe because you realize it must be 
+mainly muscle under that thick hide.
+~
+8 0 0 0 537003048 1024 0 0 0
+36 4 -14 1d100+1300 5d6+8
+50 60
+9 9 1 8 4 9
+#163
+A M 0~
+roc bird level4~
+the roc~
+A huge bird of prey is here, eyeing your horse.
+~
+   Looking almost too big to be real, birds of this size could
+pick up large animals in their sharp talons. Its wingspan almost
+dwarfs you in size, and its beak could certainly tear you to 
+shreds. It would be wise to leave this creature alone.
+~
+8 0 0 0 541262888 2080 0 0 0
+36 2 -10 1d75+750 3d6+8
+50 175
+9 9 1 8 16 -1
+#164
+A P 0~
+man manlike creature horse centaur level4~
+the centaur~
+A powerful centaur stands here, staring at you.
+~
+   This creature has the upper body of a man and the lower body of
+a horse. Since they are merely the creatures of legend, powerful
+magic must have been involved in this ones creation.
+~
+8 0 0 0 537003048 0 0 0 0
+36 2 -35 1d100+1050 3d6+8
+100 60
+9 9 1 23 13 -1
+#170
+A R 0~
+hell hound hellhound level5~
+the hell hound~
+A demonic hell hound stands here, breathing fire.
+~
+   He resembles a large hound with rust-red colored fur and red
+glowing eyes. All his features, teeth, tongue, nails are soot 
+black. He stands 3 feet tall and has the distinct odor of sulfur.
+As you watch him, he begins to bay which sends a shiver up your
+spine.
+~
+8200 0 0 0 132264 180256 0 0 0
+46 -5 -15 5d70+1250 6d9+25
+125 60
+9 9 1 4 9 21
+#171
+A A 0~
+similodon cat great level5~
+the Similodon~
+A great cat, with an intelligent look, carefully examines you.
+~
+   This is a legendary Similodon, one of the few cats which have
+a genuine intelligence. There is a wisdom behind his soft blue
+eyes, one that seems to judge the merit of your soul. Something
+tells you that he would be a cunning warrior in a battle.
+~
+8200 0 0 0 538850344 0 0 0 500
+46 -10 -10 1d75+1200 8d10+20
+75 60
+9 9 1 8 4 -1
+#172
+A W 0~
+polar bear white level5~
+the polar bear~
+A huge polar bear is standing here.
+~
+   This white bear is actually larger than his cousin the grizzly
+bear, this alone is enough to cause you to tremble in fear. Razor
+sharp claws could tear you to shreds, if he doesn't decide to 
+just eat you whole.
+~
+8200 0 0 0 132264 1024 0 0 0
+46 0 -15 1d150+1650 7d7+20
+50 60
+9 9 1 8 4 9
+#173
+A M 0~
+bird phoenix level5~
+the phoenix~
+A large phoenix is burning in flames here.
+~
+   This bird has over a 20 foot wingspan and is covered in 
+multi-colored feathers. Its beak and claws are a deep scarlet in 
+color, while his eyes are a deep violet-blue. This is certainly an
+extra planer creature and should be dealt with extreme caution.
+~
+8200 0 0 0 4392104 2080 0 0 0
+46 0 -10 1d100+1100 4d5+15
+50 175
+9 9 0 8 20 21
+#174
+N D 0~
+horse night nightmare mare level5~
+the nightmare~
+A jet black horse stands here on flaming hooves.
+~
+   His coat is of the darkest black possible, his eyes glow deep
+red as he looks upon you. Fire rings his hooves and nostrils. When
+you look at him, you could swear you see contempt in his eyes. He
+seems to be using all his self-control to keep himself from killing
+every living thing he sees.
+~
+8200 0 0 0 132264 0 0 0 0
+46 -5 -50 1d150+1400 4d5+14
+100 60
+9 9 1 23 20 -1
+#180
+N D 0~
+demon minor cambion~
+the cambion~
+A cambion stares at you from behind red feral eyes.
+~
+   This creation is half human, half demon. His appearance is revolting,
+his humanoid form is covered with pitch black skin. As he flashes you an
+evil grin, you glimpse his sickly fangs, hungry for blood. His eyes 
+seem to probe you for any sign of weakness. You best be on your guard 
+around him.
+~
+2056 0 0 0 1032 0 0 0 -800
+39 -4 -2 1d100+725 10d3+25
+50 60
+9 9 1 15 20 -1
+#181
+N M 0~
+demon minor alu-demon~
+the alu-demon~
+A alu-demon smiles at you seductively.
+~
+    The alu-demon is half-human, half-demon. She looks much like a human
+female of great beauty. Her horns barely poke through her long black hair
+and her small bat wings are'nt visible from the front when furled.
+~
+2056 0 0 0 66568 0 0 0 -800
+39 -4 -4 1d100+650 10d3+25
+50 60
+9 9 2 20 -1 -1
+#182
+N A 0~
+demon minor rutterkin~
+the rutterkin~
+A mishapen demon with an ugly pointed head stands here.
+~
+    This creature resembles a human, albeit a very ugly one. Its body is
+hairless, its skull pointed with a large mouth filled with small, but sharp
+teeth. It's limbs and body are deformed, its small beady eyes glare at you
+spitefully.
+~
+8 0 0 0 1032 0 0 0 -800
+39 -4 -4 1d100+750 3d10+27
+50 60
+9 9 0 15 4 -1
+#183
+N T 0~
+demon minor dretch~
+the dretch~
+A small fat demon looks at you and slobbers.
+~
+    This demon is a fairly weak member of its kind, standing only three and
+a half feet tall. It's body is round and rubbery with spindly limbs. It's
+hair is short and bristly, its small hands have three fingers ending in long
+talons, which it twitches spasmodically. It's eyes glow white as they stare
+into your own.
+~
+8 0 0 0 1032 0 0 0 -800
+39 -4 -4 1d100+700 10d3+25
+50 60
+9 9 0 8 -1 -1
+#190
+N R 0~
+demon majorI bar-lgura ape~
+the bar-lgura~
+A broad shouldered ape-like demon stands here.
+~
+    This demon is similiar to an orangutan, only its visage is more hideous
+and its eyes glow cherry red. It's hands and feet are clawed and the beast
+looks quite strong, even thou it stands only five feet tall.
+~
+2056 0 0 0 263176 0 0 0 -1000
+44 -6 -6 1d100+825 10d3+31
+65 75
+9 9 1 15 -1 -1
+#191
+N M 0~
+demon majorI chasme fly~
+the chasme~
+A large fly-like demon flies here.
+~
+    This loathesome creature appears like a cross between a human and a
+monstrous fly. It's head is humanoid, with a tiny mouth filled with sharp
+teeth and saucer eyes like those of it's insectoid cousin. The nose thou, is
+long, sharp and horn-like, used to stab and drain the blood from its victims.
+~
+2056 0 0 0 66568 0 0 0 -1000
+44 -6 -6 1d100+775 10d4+26
+65 75
+9 9 0 4 -1 -1
+#192
+N D 0~
+demon majorI vrock vulture~
+the vrock~
+A tall vulture-like demon looks down at you malevolently.
+~
+    This grotesque creature stands well over eight feet tall. It's even
+uglier than the vulture's it resembles, any many times stronger. It stands
+like a man, with it's broad feathered wings furled behind it, and powerfull
+arms crossed on its chest.
+~
+8 0 0 0 66568 0 0 0 -1000
+44 -6 -6 1d100+825 10d3+31
+65 75
+9 9 0 8 16 -1
+#193
+N D 0~
+demon majorI hezrou~
+the hezrou~
+A horrible demon resembling a giant toad squats here.
+~
+    This creature is possibly the most disgusting monstrosity you have ever
+seen. Horrid sores over the creatures wet-looking skin continuously ooze
+a disgusting looking (and smelling) yellow pus. While it looks some what like
+an enourmous toad, it has arms ending in prehensile hands rather than fore
+limbs and its large mouth is full of large, sharp teeth.
+~
+8 0 0 0 66568 0 0 0 -1000
+44 -6 -6 1d100+825 1d40+31
+65 75
+9 9 0 4 -1 -1
+$

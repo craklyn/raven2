@@ -1,0 +1,110 @@
+# @configure_input@
+
+# Let's support a portable installation by allowing the user to specify
+# the destinations via the command line  at the time of configuration.
+#
+prefix          = @prefix@
+exec_prefix     = @exec_prefix@
+
+bindir          = @bindir@
+includedir      = @includedir@
+libdir          = @libdir@
+
+# The following variables are defined to allow the lower level Makefiles
+# to find out where everything is in the directory hierarchy. The _L suffix
+# is used to denote the variables used when building the package locally
+# and the _I suffix is used to denote the variables that are used when
+# building and installing the package in a configured directory for general
+# access and use (ie. make install).
+#
+INC             = $(TOPSRC)/include
+LIB             = $(TOPSRC)/lib
+BIN             = $(TOPSRC)/bin
+DOCS            = $(TOPSRC)/docs
+VPATH           = $(LIB)
+
+INC_DIR_I      := ${includedir}
+LIB_DIR_I      := ${libdir}
+BIN_DIR_I      := ${bindir}
+JAR_DIR_I      := $(TOPSRC)
+
+JAVAROOT       := $(TOPSRC)
+CONFIG_DIR      = $(TOPSRC)
+
+# Not all configurations will support automatic dependency generation and/or
+# shared libraries so we must be able to detect it and pass it on. The
+# following variables are set via m4 macros in the acsite.m4 file.
+#
+noautodeps      = @noautodeps@
+nosharedlibs    = @nosharedlibs@
+
+ifdef nosharedlibs
+LIBEXT          = a
+else
+LIBEXT          = so
+endif
+
+CUR_DIR        := $(subst /tmp_mnt,$(empty),$(shell pwd))
+CUR_SUB        := $(subst $(TOPSRC)/,$(empty),$(CUR_DIR))
+
+# The rest of this file contains standard variable settings.
+#
+CC              = @CC@
+CXX             = @CXX@
+INSTALL         = @INSTALL@
+INSTALL_PROGRAM = @INSTALL_PROGRAM@
+INSTALL_DATA    = @INSTALL_DATA@
+RANLIB          = @RANLIB@
+
+SHLIB_CFLAGS    = @shlib_compile_flags@
+SHLIB_LDFLAGS   = @shlib_link_flags@
+SHEXE_RFLAGS    = @shexe_rpath_flags@
+
+STDINCS         = -I. -I.. -I$(INC) $(INCLUDE_DIRS)
+
+STDLIBS         = -L. -L$(LIB) $(SHEXE_RFLAGS) $(LIBRARY_DIRS) \
+                  $(LIBDEPEND) @LIBS@ @CRYPTLIB@
+
+# Setup the compiler, linker, and utility flags.
+#
+CPPFLAGS       := $(CPPFLAGS) -D@acsite_os_def@ @DEFS@ $(STDINCS)
+CFLAGS         := @CFLAGS@ $(SHLIB_CFLAGS)
+CXXFLAGS       := @CXXFLAGS@ $(SHLIB_CFLAGS)
+LDFLAGS        := @LDFLAGS@ $(LDLIBS) $(STDLIBS)
+LDFLAGS        := $(LDFLAGS) $(LDLIBS) $(STDLIBS)
+# MFLAGS       := -s
+
+# If runtime profiling is enabled, add the -pg switch to the compilers and
+# linker. Solaris also needs the -ldl switch for linking. This might be
+# non-portable.
+#
+rtprofiling     = @rtprofiling@
+ifdef rtprofiling
+CFLAGS         := -pg $(CFLAGS)
+CXXFLAGS       := -pg $(CXXFLAGS)
+LDFLAGS        := -pg $(LDFLAGS) -ldl
+endif
+
+# Define the file name rules.
+#
+CXXSRC         := $(CXXSRC) $(CLASS:%=%.C) $(NONCLASS:%=%.C)
+OBJ            := $(CXXSRC:%.C=%.o) $(CSRCS:%.c=%.o) $(OBJ)
+HDR            := $(HDR) $(CLASS:%=%.hpp) $(CSRCS:%.c=%.h) $(INSTALL_HDRS)
+DEPS            = $(CXXSRC:%.C=.%.d) $(CSRCS:%.c=.%.d) $(BINARIES:%=.%.d)
+
+# Figure out where to install things.
+#
+ifeq "$(INSTALL_SDIR)" ""
+HEADERS         = $(HDR:%=$(INC)/%)
+INSTALL_HEADERS = $(HDR:%=$(INC_DIR_I)/%)
+else
+HEADERS         = $(HDR:%=$(INC)/$(INSTALL_SDIR)/%)
+INSTALL_HEADERS = $(HDR:%=$(INC_DIR_I)/$(INSTALL_SDIR)/%)
+endif
+
+INSTALL_BINARIES= $(INSTALL_BINS:%=${BIN_DIR_I}/%)
+INSTALL_LIBRARY = ${LIB_DIR_I}/${LIBRARY}.${LIBEXT}
+
+INSTALL_PERLLIBS= $(PERLLIBS:%=${LIB_DIR_I}/%)
+INSTALL_PERLBINS= $(PERLBINS:%=${BIN_DIR_I}/%)
+

@@ -1,0 +1,379 @@
+#100
+An unfinished room~
+You stand in an unfinished room.
+~
+1 0 0 0 0 0 255 0
+S
+#101
+The Common Room~
+   This a large room where all the occupants of the inn can rest and relax.
+This is the room where Mother Risen serves the daily meal to her boarders.
+This room is filled with tables, most of which are empty. Perhaps not too many
+people will take Mother Risen up on her offer of free food.
+~
+1 32776 0 0 0 0 255 0
+D3
+~
+~
+0 -1 102
+S
+#102
+Mother Risen's Boarding House~
+   This is the only boarding house in the city. If you can't find a room in
+one of the inns or you'll be staying in this city for awhile, you've come to
+the right place. To the east is the common room where you can probably find
+the owner of this establishment if you want to get a room. To the north is a
+small hallway where your room is if you've got one.
+~
+1 32780 0 0 0 0 255 0
+D0
+~
+~
+0 -1 103
+D1
+~
+~
+0 -1 101
+D2
+~
+~
+0 -1 18018
+S
+#103
+A Hallway on the Ground Floor~
+   The hallway is rather small, but it is in good condition. Rooms for paying
+customers are to the east and west. Be careful not to mess up the hallway,
+Mother Risen's staff of cleaning persons do a pretty good job around here it
+seems.
+~
+1 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 104
+D1
+To the east is room number 10.
+~
+door oaken~
+2 110 110
+D2
+~
+~
+0 -1 102
+D3
+To the west is room number 11.
+~
+door oaken~
+2 111 111
+S
+#104
+A Hallway on the Ground Floor~
+   The hallway is rather small, but it is in good condition. Rooms for paying
+customers are to the east and west. Be careful not to mess up the hallway,
+Mother Risen's staff of cleaning persons do a pretty good job around here it
+seems.
+~
+1 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 105
+D1
+To the east you can see room 12.
+~
+door oaken~
+2 112 112
+D2
+~
+~
+0 -1 103
+D3
+To the west you can see room 13.
+~
+door oaken~
+2 113 113
+S
+#105
+A Hallway on the Ground Floor~
+   The hallway is rather small, but it is in good condition. Rooms for paying
+customers are to the east and west. Be careful not to mess up the hallway,
+Mother Risen's staff of cleaning persons do a pretty good job around here it
+seems.
+~
+1 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 106
+D1
+To the east you can see room 14.
+~
+door oaken~
+2 114 114
+D2
+~
+~
+0 -1 104
+D3
+To the west you can see room 15.
+~
+door oaken~
+2 115 115
+S
+#106
+A Hallway on the Ground Floor~
+   The hallway is rather small, but it is in good condition. Rooms for paying
+customers are to the east and west. Be careful not to mess up the hallway,
+Mother Risen's staff of cleaning persons do a pretty good job around here it
+seems.
+~
+1 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 107
+D1
+~
+door oaken~
+2 116 116
+D2
+~
+~
+0 -1 105
+D3
+~
+door oaken~
+2 117 117
+S
+#107
+A Hallway on the Ground Floor~
+   The hallway is rather small, but it is in good condition. Rooms for paying
+customers are to the east and west. Be careful not to mess up the hallway,
+Mother Risen's staff of cleaning persons do a pretty good job around here it
+seems.
+~
+1 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 108
+D1
+~
+door oaken~
+2 118 118
+D2
+~
+~
+0 -1 106
+D3
+~
+door oaken~
+2 119 119
+S
+#108
+An Unfinished Stairwell~
+   It seems as if Mother Risen's boarding house is working on an addition to
+meet future demands. The carpenters are working on adding another level to
+this old building. If demand is high you're sure Mother Risen would make them
+finish post haste!
+~
+1 32781 0 0 0 1 255 0
+D2
+~
+~
+0 -1 107
+S
+Z 1299
+#109
+a hidden cell~
+   This cell was made to hold and imprison one of this realms most finest and
+law abiding citizens.  The cell itself is extremely small.  An old rusted bed
+rests next to the wall.  A small bookshelf made from pieces of smuggled wood is
+next to the bed.  A tin cup and tin plate rest near the door.  Constant weeping
+can be heard from within, as she does not know why she is even here.  At the
+top of cell there is a window with 3 iron bars.  It allows some fresh air and
+light to fill this dull and dreary room.  A soft breeze flows through the room.
+Cooling the steam down from the gruel this poor, poor lady is being fed.    
+~
+1 2097216 4 0 0 0 255 0
+S
+#110
+Room Ten~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D3
+A sturdy oaken door leads back to the hallway.
+~
+door oaken~
+2 110 103
+S
+#111
+Room Eleven~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D1
+A large oaken door blocks the way back to the hallway.
+~
+door oaken~
+2 111 103
+S
+#112
+Room Twelve~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D3
+A large oaken door blocks the way back to the hallway.
+~
+door oaken~
+2 112 104
+S
+#113
+Room Thirteen~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D1
+A large oaken door blocks the way to the hallway.
+~
+door oaken~
+2 113 104
+S
+#114
+Room Fourteen~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D3
+A large oaken door blocks the exit to the hallway.
+~
+door oaken~
+2 114 105
+S
+#115
+Room Fifteen~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D1
+The door to the east leads back to the hallway.
+~
+door oaken~
+2 115 105
+S
+#116
+Room Sixteen~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D3
+A large oaken door leads back to the main hallway.
+~
+door oaken~
+2 116 106
+S
+#117
+Room Seventeen~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D1
+~
+door oaken~
+2 117 106
+S
+#118
+Room Eighteen~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D3
+~
+door oaken~
+2 118 107
+S
+#119
+Room Nineteen~
+   This small room is leased out by Mother Risen on a monthly basis. Its
+cramped and dirty, but what did you expect for the price you paid! Make sure
+you don't stay longer than you paid for. Not only will you be locked out, but
+Mother Risen will sell all your possessions that you leave behind.
+~
+1 32780 0 0 0 0 255 0
+D1
+~
+door oaken~
+2 119 107
+S
+#120
+Town Meeting Hall~
+Chairs and tables have been organized throughout the room forming a large square.
+Take a seat, take a load off, and get ready to discuss some issues and ideas.
+~
+1 648 4 0 0 0 255 0
+S
+#179
+A graden path~
+   A circular path surrounds a magnificent domed temple in the center of the
+city.  Flowers have withered away and the once lush trees are bare.  Vines and
+ivy creep up the sides of the temple and entangle themselves around your feet.
+  
+~
+1 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 5203
+D3
+~
+~
+0 0 5204
+S
+#180
+The Tap~
+   As you glide down the wooden stairway, you enter into an open bar room
+outlayed with wood paneling.  Soft music can be heard in the background.  
+"Where Everybody Knows Your Name" is playing on a nearby Jukebox.  As you
+glance around this dim room, you notice crytal champagne glasses hanging on a
+rack just a bove the bar.  Liquor and beer from around the globe fill the
+shelves behind the Oaken bar table.  A you man wa its for you behind the bar
+with a glass of aged sweet red wine.  As you take the glass, he raises his
+glass to y ou, and with a Boston accent, proudly says, "Cheers!"
+~
+1 399964 4 0 0 0 255 0
+D4
+~
+Cellar door~
+1 0 27222
+S
+Z 19817
+$~

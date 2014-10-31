@@ -1,0 +1,569 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please
+report it immediately using the BUG command.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#1
+head severed token~
+a severed head~
+A severed head sits here, looking disgusting.~
+~
+13 100728844 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#2
+gold coins~
+a pile of gold~
+A pile of gold is lying here.~
+~
+20 65548 0 0 0 1 0 0 0
+1 0 0 0
+1 1 0
+B
+0 0 0 0
+#3
+wall bones o3~
+a wall made of bones~
+This should be filled in by the code.~
+~
+12 8388672 0 0 0 0 0 0 0
+0 0 0 0
+250 1 0
+E
+cage bones~
+Surrounding you on all sides, this cage is made of loosely interlocked bone
+pieces.  It prevents movement in all directions, effectively trapping you
+where you are.  Fortunately, perhaps, it does not look as if it will hold
+together for long.
+~
+B
+0 0 0 0
+D1
+#4
+mars bar~
+a mars bar~
+A mars bar slowly melts under the heat of the sun.~
+~
+19 4 0 0 0 1 0 0 0
+1 50 154 0
+1 1 3
+B
+0 0 0 0
+#13
+a halo of power~
+a halo of power~
+A halo of power hoves above the ground.~
+~
+9 33554560 0 0 0 65537 0 0 0
+0 0 0 0
+10 1000000 18960
+A
+13 -100
+A
+13 -100
+A
+14 -100
+A
+14 -100
+A
+14 -100
+A
+13 -100
+B
+2560 4194312 0 0
+#14
+a burning desire~
+a burning desire~
+A burning ball flickers on the ground.~
+~
+10 80 0 0 0 65537 0 0 0
+50 129 1 69
+1 1000000 101000
+A
+19 3
+A
+18 3
+A
+13 25
+B
+0 0 0 0
+#15
+bling bling to the max~
+bling bling to the max~
+Bling bling to the max is on the ground~
+~
+9 0 0 0 0 32769 0 0 0
+0 0 0 0
+1 1 0
+A
+29 30
+A
+29 30
+A
+29 30
+A
+29 30
+A
+29 30
+A
+33 55
+B
+0 0 0 0
+#16
+a &13quest&00 list~
+a &13quest&00 list~
+A quest list lies here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 0
+E
+list quest~
+1.  Legend has it that ________, one of the oldest and wisest of the gold
+dragons, once battled Takhisis herself.
+2.  ________, The current Lord of Moria is a very powerful looking dwarf.
+3.  One of the most magnificent grey hunting dogs stands before you.
+4.  He was once the supreme pontiff of the dragons, until he retired to
+serve on the temple.
+5.  Appearing as a giant sea turtle with the face of a beautiful human female,
+6.  Wild red hair frames the stern lines on the forhead of the God of Thunder.
+7.  A shimmering form stands before you.  It appears to be taking aim with a bow...
+8.  This beautiful and graceful creature has an extremely enlarged snake-like
+body covered with silvery scales.
+9.  ________ appears to be the owner of this Tavern due to the fact his name is on
+the welcome sign.
+10. You see a large lizard about 24 feet long, with a huge fan like fin along it's
+back.
+11. The trumpet he holds is bigger than he is, but he gives it his best.
+12. This vile construction has been masterfully sewn together from the body parts
+of butchered humans.
+13. ________ is the ship's navigator and mage.
+14. The horse is clad in full plate barding with Soth's banner displayed on each
+    side of the horse.
+15. ________ points to one item and say 'Rendorian Chain, from the Province of
+    Rendor, a bargain at the price'
+16. Another of the dark elves, outcasts from the elven community because of
+    their affiliations with black magic
+17. ________ proudly holds the Church Flag as he fights back the forces of Lord Skul.
+18. He is a centaur and a well trained archer. No one can escape his arrows.
+19. The killer whale is massive, with characteristic black and white patterns on
+    his flanks and underbelly
+20. In the darkened recesses of a cowl you see the glint of red tinted eyes and
+    pearl with fangs that seem to lengthen as you look.
+~
+B
+0 0 0 0
+#17
+a reporter's notepad~
+&12A reporter's notepad&00~
+A notepad lies on the ground~
+~
+9 0 0 0 0 16385 0 0 0
+15 0 0 0
+1 1 4390
+A
+12 50
+A
+13 50
+A
+18 4
+A
+19 4
+B
+128 0 0 0
+#18
+scroll~
+a test scroll~
+A test scroll~
+~
+2 0 0 0 0 1 0 0 0
+1 1 1 1
+1 100000 10000
+B
+0 0 0 0
+#21
+axe grunt orc~
+a double-headed axe named "&02Skull&00&01Splitter&00"~
+A double-headed axe lies here.~
+~
+5 33554432 0 0 0 8193 0 0 0
+0 4 12 10
+2 10000 3225
+A
+12 35
+A
+19 4
+A
+24 -5
+B
+0 0 0 0
+#60
+board wisdom~
+&03Board&00 of &13Wisdom&00~
+&00The &03Board&00 of &13Wisdom&00 floats here, in mid &13air&00.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#68
+gems gold coins~
+a large pile of gold and gems~
+A giant pile of gold, gems, and coins lies here begging to be picked up.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+Z 95
+B
+0 0 0 0
+#69
+rift fissure crack mobgenerator~
+a large crack in the ground~
+A gaping fissure opens the ground here, glowing a dull red.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+Z 69
+B
+0 0 0 0
+#70
+corwin~
+this obj got corrupted~
+Corrupted obj~
+~
+11 67108864 0 0 0 2049 0 0 0
+0 0 0 0
+0 0 1680
+A
+19 4
+A
+19 4
+A
+19 4
+A
+33 51
+B
+0 0 0 0
+#71
+black silk face~
+a black silk facemask~
+A plain silk mask is lying here~
+~
+9 0 0 0 0 524289 0 0 0
+15 0 0 0
+0 30000 2050
+A
+18 4
+A
+18 4
+A
+18 4
+A
+18 4
+A
+18 4
+A
+33 51
+B
+0 0 0 0
+#72
+black shirt skin~
+a skintight black shirt~
+A pool of evil lies here~
+~
+9 524288 0 0 0 9 0 0 0
+15 0 0 0
+0 0 3680
+A
+19 4
+A
+19 4
+A
+19 4
+A
+17 -30
+A
+18 4
+A
+33 51
+B
+4194304 0 0 0
+#73
+plain siver ring~
+a plain silver ring~
+A plain silver ring lies here~
+~
+11 65544 0 0 0 3 0 0 0
+0 0 0 0
+0 0 3250
+A
+17 -20
+A
+17 -20
+A
+17 -20
+A
+17 -20
+A
+17 -20
+A
+33 51
+B
+0 0 0 0
+#74
+splain silk scarf~
+a plain silk scarf~
+A pool of evil lies here~
+~
+11 8 0 0 0 5 0 0 0
+0 0 0 0
+0 0 3250
+A
+17 -20
+A
+17 -20
+A
+17 -20
+A
+17 -20
+A
+17 -20
+A
+33 51
+B
+1048576 0 0 0
+#75
+memnoch~
+a thick silver bracelet~
+A ring of silver lies here~
+~
+9 8 0 0 0 4097 0 0 0
+15 0 0 0
+0 0 2620
+A
+19 4
+A
+17 -20
+A
+1 4
+A
+2 4
+A
+2 4
+A
+33 51
+B
+0 0 0 0
+#76
+memnoch~
+black leather gloves~
+A pool of evil lies here~
+~
+9 524296 0 0 0 129 0 0 0
+15 0 0 0
+0 0 1230
+A
+19 4
+A
+29 4
+A
+3 4
+A
+32 4
+A
+33 51
+B
+65536 0 0 0
+#77
+memnoch~
+a pair of black tabi~
+A pool of evil lies here~
+~
+9 524288 0 0 0 65 0 0 0
+15 0 0 0
+0 0 1980
+A
+19 4
+A
+19 4
+A
+19 4
+A
+33 51
+B
+0 0 0 0
+#78
+memnoch~
+a soft black rope~
+A pool of evil lies here~
+~
+11 67108864 0 0 0 2049 0 0 0
+0 0 0 0
+0 0 1680
+A
+19 4
+A
+19 4
+A
+19 4
+A
+33 51
+B
+0 0 0 0
+#80
+memnoch ace~
+an ace of spades~
+A playing card lies here.~
+~
+5 58720260 0 0 0 0 0 0 0
+0 1 1 1
+0 0 2
+A
+33 55
+B
+0 0 0 0
+#81
+memnoch miasma~
+a soft grey greatcloak~
+A miasma of moving shadows lies on the ground here~
+~
+11 33554432 0 0 0 1025 0 0 0
+0 0 0 0
+0 0 2800
+A
+33 51
+A
+19 4
+A
+19 4
+A
+19 4
+A
+19 4
+A
+19 4
+B
+16908288 0 0 0
+#82
+memnoch~
+a thin silver chain~
+A sparking chain lies here~
+~
+11 33554432 0 0 0 32769 0 0 0
+0 0 0 0
+0 0 2600
+A
+17 -20
+A
+17 -20
+A
+17 -20
+A
+17 -20
+A
+30 30
+A
+33 51
+B
+0 0 0 0
+#84
+potion knowledge nkowledge~
+a potion of knowledge~
+A potion bottle lies here on the ground.~
+~
+10 33554436 0 0 0 1 0 0 0
+50 76 33 136
+0 0 0
+B
+0 0 0 0
+#85
+potion grey pale~
+a pale &07grey&00 potion~
+A small vial of &07pale grey&00 fluid lies on the ground here.~
+~
+10 33619968 0 0 0 16385 0 0 0
+1 139 138 0
+0 0 250
+A
+24 -5
+B
+0 0 0 0
+#86
+potion knowledge practice~
+a potion of knowledge~
+A potion, oozing wisdom lies here.~
+~
+10 100663300 0 0 0 1 0 0 0
+50 308 0 0
+0 0 0
+B
+0 0 0 0
+#87
+a snickers bar~
+a Snickers bar~
+A king size snickers bar temps you seductively.~
+~
+10 8388608 0 0 0 1 0 0 0
+50 36 77 98
+0 0 0
+B
+0 0 0 0
+D5000
+#88
+a blessing upon you~
+a blessing upon you~
+A blessing was discarded~
+~
+10 16842764 0 0 0 1 0 0 0
+50 3 55 132
+1 2 0
+B
+0 0 0 0
+#90
+spandex suit~
+&10A Bright Yellow Spandex Suit with "I" embroidered on it&00~
+A pile of &10Spandex&00 lies here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+0 0 0
+A
+10 -50
+A
+11 100
+A
+33 51
+B
+0 0 0 0
+#95
+sword~
+the singing sword (silent)~
+An innocent looking sword is lying here quietly.~
+~
+5 0 4194304 0 0 8193 0 0 0
+0 2 2 3
+0 0 6
+B
+0 0 0 0
+#99
+air wisp~
+a swirling mass of partical laden air~
+Some air blows around your feet~
+~
+11 0 0 0 0 65537 0 0 0
+0 0 0 0
+0 0 0
+B
+65536 0 0 0
+$~

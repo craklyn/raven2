@@ -1,0 +1,2117 @@
+#3000
+The City of Midgaard~
+This zon was reworked as a low-level jump-off point.  The mobs were
+toned down and the city has been relinked west of the main city of
+Samsera. Several wld, mob, obj and zon changes were also made.
+
+Smythe
+July 1996
+~
+30 516 28 0 0 1 255 0
+S
+#3001
+&12Temple Square&00~
+   The Temple has been constructed from giant marble blocks, eternal in
+appearance, and most of the walls are covered by ancient paintings depicting
+Gods, Dragons, Giants, and Mortals.  The donation room is in a small alcove to
+your east and the guild halls are to the west.  A spiraled staircase leads to
+the second story of the temple.    
+~
+30 28 0 0 0 0 255 0
+D0
+At the northern end of the temple hall is a statue and a huge altar.
+~
+~
+0 -1 3054
+D1
+In the east, you see a small alcove with a rickety wooden sign which
+reads "Midgaard Donation Room."
+~
+~
+0 -1 3063
+D2
+You look down the huge stone steps at the temple square below.
+~
+~
+0 -1 3018
+D3
+~
+~
+0 0 3066
+D4
+~
+~
+0 0 3034
+E
+walls paintings~
+   You see a ferocious looking Minotaur, known to many as the god Xiuhtecuhtli.
+He wields a huge Reaver Axe, which he is using to smite down a faerie goddess.
+  
+~
+S
+#3002
+Cleric's Inner Sanctum~
+   This is the inner sanctum.  A picture of the mighty Thor, is hanging on
+the wall, just above the altar which is set against the western wall. 
+~
+30 393800 4 0 0 1 255 0
+D2
+~
+~
+0 -1 3004
+D5
+~
+~
+0 0 3110
+S
+#3003
+&03The Temple of the Apprentice&00~
+                  Welcome to RavenMud!!
+  You stand inside a small, humbly constructed Temple which bustles with
+people most of the time. Explorers of all races and class will wander in 
+and out of this area at all times of day and night.
+  To the north is the New Hope Guild. There you can find help, friends,
+advice and all the things you need to start you on your great adventure.
+~
+30 12 0 0 0 0 255 0
+D0
+~
+~
+0 0 3071
+S
+#3004
+Entrance to Cleric's Guild~
+   The entrance hall is a small modest room, reflecting the true nature of
+the Clerics.
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3002
+D2
+~
+~
+0 -1 3066
+S
+#3005
+The Grand Square of Midgaard~
+  Welcome to the Grand City of Midgaard, the city of Knowledge. Here you 
+will learn all the wondrous tips and tricks that you will need to become 
+a great adventurer. 
+  You are standing in the Grand Square of Midgaard, the center of the city. 
+To the north huge marble steps lead up to the Temple of Wisdom. There you 
+will find several things that will be very helpful as you start your journey 
+into this world. The entrance to the Hall of Guilds is to the west. There 
+you can practice you special skills and spells. The old Grunting Boar Inn 
+is to the east. there you can rent out when you become tired. Just south of 
+here you see the market square, full of shops that buy and sell everything 
+an adventurer would ever need.
+~
+30 0 2 0 0 1 255 0
+D1
+You see the good old Grunting Boar Inn.
+~
+~
+0 -1 3036
+D2
+You see the Market Square.
+~
+~
+0 -1 3037
+D3
+~
+~
+0 0 3028
+D4
+~
+~
+0 0 3022
+S
+#3006
+Entrance Hall of the Grunting Boar Inn~
+   You are standing in the entrance hall of the Grunting Boar Inn.  The hall
+has been wisely decorated with simple, functional furniture.  A small staircase
+leads up to the reception and the bar is to the east.    
+~
+30 8 0 0 0 1 255 0
+D1
+Surprise!  You see the bar.
+~
+~
+0 -1 3007
+D3
+You see the temple square.
+~
+~
+0 -1 3036
+D4
+You see the reception.
+~
+~
+0 -1 3008
+S
+#3007
+The Grunting Boar~
+   You are standing in the bar.  The bar is set against the northern wall,
+old archaic writing, carvings and symbols cover its top.  A fireplace is
+built into the western wall, and through the southeastern windows you can
+see the temple square.  This place makes you feel like home.
+A small sign with big letters is fastened to the bar.
+~
+30 8 0 0 0 1 255 0
+D3
+You see the exit to the entrance hall.
+~
+~
+0 -1 3006
+E
+sign~
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+~
+S
+#3008
+The Reception~
+   You are standing in the reception.  The staircase leads down to the
+entrance hall.  An exit to the north leads to the Cryogenic Center.
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3064
+D5
+~
+~
+0 -1 3006
+S
+#3009
+The Bakery~
+   You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+A small sign is on the counter.
+~
+30 12 0 0 0 1 255 0
+D2
+You see the market street.
+~
+~
+0 -1 3013
+E
+danish pastry~
+You see that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc.  etc.
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+
+~
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+S
+#3010
+Waldorf's General Store~
+   You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.
+
+A small note hangs on the wall.
+~
+30 12 0 0 0 1 255 0
+D2
+You see the market street.
+~
+~
+0 -1 3015
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3011
+The Weapon Shop~
+   You are inside the weapon shop.  There is a small note on the counter.
+~
+30 12 0 0 0 1 255 0
+D2
+You see the market street.
+~
+~
+0 -1 3016
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3012
+Market Street~
+   You are at the end of the market street of Midgaard.  South of here is the
+entrance to the Alchemist.  The street continues east towards the market square.  
+The magic shop is to the north and to the west is the city gate.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the magic shop.
+~
+~
+0 -1 3033
+D1
+You see the market street.
+~
+~
+0 -1 3013
+D2
+You see the Alchemist's shop.
+~
+~
+0 -1 3084
+D3
+You see the city gate.
+~
+~
+0 -1 3040
+S
+#3013
+Market Street~
+   You are on the market street passing through the City of Midgaard.  South of
+here is the entrance to the Armory, and the bakery is to the north.  East of
+here is the market square.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the bakery.
+~
+~
+0 -1 3009
+D1
+You see the market square.
+~
+~
+0 -1 3014
+D2
+You see the armory.
+~
+~
+0 -1 3020
+D3
+You see the market street.
+~
+~
+0 -1 3012
+S
+#3014
+Market Street Center~
+   You are standing on the market square, the famous Square of Midgaard.
+A large, peculiar looking statue is standing in the middle of the square.
+Roads lead in every direction, north to the temple square, south to the
+common square, east and westbound is the market street.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the temple square.
+~
+~
+0 -1 3037
+D1
+You see the market street.
+~
+~
+0 -1 3015
+D2
+You see the common square.
+~
+~
+0 -1 3025
+D3
+You see the market street.
+~
+~
+0 -1 3013
+S
+#3015
+East Market Street~
+   You are on the market street crossing through town.  To the north is the
+general store, and the market street continues east.  To the west you see and
+hear the market place, to the south a small door leads into the Pet Shop.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the general store.
+~
+~
+0 -1 3010
+D1
+You see the market street.
+~
+~
+0 -1 3016
+D2
+You see the Pet Shop.
+~
+~
+0 -1 3031
+D3
+You see the market square.
+~
+~
+0 -1 3014
+S
+#3016
+The Market Street~
+   The market street, to the north is the weapon shop and to the south is
+Wally's Wonderful World of Water. To the east you leave town and to the
+west the street leads to the market square.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the weapon shop.
+~
+~
+0 -1 3011
+D1
+You see the city gate.
+~
+~
+0 -1 3041
+D2
+You see Wally the Watermaster's shop.
+~
+~
+0 -1 3058
+D3
+You see the market street leading to the market square.
+~
+~
+0 -1 3015
+S
+#3017
+Entrance to Mage's Guild~
+   The entrance hall is a small, poor lighted room.
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3019
+D2
+~
+~
+0 -1 3070
+S
+#3018
+&12The Entrance to the Temple of Wisdom&00~
+   From the large terrace overlooking the terracotta rooftops surrounding the
+village square and to the river beyond.  Large steps lead down, descending the
+huge mound upon which the temple is built and end at the Grand Square below.  
+
+~
+30 4 0 0 0 1 255 0
+D0
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 3022
+S
+#3019
+Mage's Laboratory~
+   This is the Magical Experiments Laboratory.  Dark smoke-stained stones
+arch over numerous huge oaken tables, most of these cluttered with strange-
+looking pipes and flasks.  The floor is covered with half-erased pentagrams
+and even weirder symbols, and a blackboard in a dark corner has only been
+partially cleaned, some painful-looking letters faintly visible.  
+~
+30 393800 4 0 0 1 255 0
+D2
+~
+~
+0 -1 3017
+D5
+~
+~
+0 0 3118
+S
+#3020
+The Armory~
+   The armory with all kinds of armors on the walls and in the window.  You
+see helmets, shields and chain mails.  To the north is the market street.
+On the wall is a small note.
+~
+30 12 0 0 0 1 255 0
+D0
+You see the market street.
+~
+~
+0 -1 3013
+E
+note~
+  You can use these commands for trading:
+
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                             NO HAGGLING
+~
+S
+#3021
+Entrance Hall to the Guild of Swordsmen~
+   The entrance hall to the Guild of Swordsmen.  A place where one has to be
+careful not to say something wrong (or right).  
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3067
+D2
+~
+~
+0 -1 3023
+S
+#3022
+&10Stairs to the Temple Entrance&00~
+   A pretty town with a lovely fountained square.  On the banks of the river
+this bustling town with lively weekend markets, will keep any explorer busy for
+a few days.    
+~
+30 4 0 0 0 1 255 0
+D4
+~
+~
+0 0 3018
+D5
+~
+~
+0 0 3005
+S
+#3023
+The Tournament and Practice Yard~
+   The only way to become better at battle is to experience it. While not a
+perfect substitute, this practice arena can give students a good base of
+skills to draw upon. Warriors of all skill levels train other in their skills,
+but there is no substitute for the feel of battle, eventually you must go out
+and try your hand at it.
+~
+30 393800 4 0 0 1 255 0
+D0
+~
+~
+0 -1 3021
+D5
+~
+~
+0 0 3113
+S
+#3024
+Eastern End of Common Street~
+   You are at the poor alley.  South of here is the Grubby Inn and to the
+east you see common square.  The street continues further west.
+~
+30 0 0 0 0 1 255 0
+D1
+You see the common square.
+~
+~
+0 -1 3025
+D2
+You see the Inn.
+~
+~
+0 -1 3048
+D3
+You see common street.
+~
+~
+0 -1 3044
+S
+#3025
+The Common Square~
+   The common square, people pass you, talking to each other.  To the
+north, this square is connected to the market square.  From the south
+you notice a nasty smell.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the market square.
+~
+~
+0 -1 3014
+D1
+You see common street east.
+~
+~
+0 -1 3026
+D2
+You see the city dump.
+~
+~
+0 -1 3030
+D3
+You see common street west.
+~
+~
+0 -1 3024
+S
+#3026
+Common Street East~
+   The dark alley, to the west is the common square. The street continues
+east.
+~
+30 0 0 0 0 1 255 0
+D1
+The street continues east.
+~
+~
+0 -1 3045
+D3
+You see the common square.
+~
+~
+0 -1 3025
+E
+guild~
+It is the thieves guild, don't enter if you care about your health or money.
+~
+S
+#3027
+Entrance to the Midgaard Hall of Thieves~
+   To the south is the entrance of the Midgaard Thief Guild Hall.  Many unwise
+travelers have entered this hall, only to return with an empty purse.  
+Although the Baron of Midgaard keeps a tight watch against such activities, he
+can not control what goes on behind this guild's closed doors.    
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3069
+D2
+~
+~
+0 -1 3029
+S
+#3028
+Market Square~
+   The Market Square is a beautiful square with an impressive city hall and
+guild houses with stepped gables and gilt statues.  Today's Market Square is a
+lively centre with many pubs and shops and the statue of the legendary Brabo
+Dragon in the middle.    
+~
+30 8 0 0 0 1 255 0
+D1
+~
+~
+0 0 3005
+D3
+~
+~
+0 0 3062
+S
+#3029
+The Secret Yard~
+   Here is where the great masters plot out their elaborate rouses. Only the
+best and most original are allowed to teach here, passing on their skills to
+the next generation of thieves. Any thief however is allowed to practice here,
+the masters hoping that a few will be able to attain their brilliance.
+~
+30 1442376 4 0 0 1 255 0
+D0
+~
+~
+0 -1 3027
+D5
+~
+~
+0 0 3117
+S
+#3030
+The Dump~
+A bridge spans this massive pit where the trash of Midgaard is deposited.
+There is a grate in the ground here.
+~
+30 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3025
+D5
+A large grate on the ground, it looks like you could pull it up.
+~
+grate down door~
+1 -1 19201
+S
+#3031
+The Pet Shop~
+   The Pet Shop is a small crowded store, full of cages and animals of
+various sizes.  There is a sign on the wall.
+~
+30 28 0 0 0 1 255 0
+D0
+You see the market street.
+~
+~
+0 -1 3015
+E
+sign~
+The sign reads:
+
+  Use 'List' to see the available pets.
+  Use 'Buy <pet>' to buy yourself a pet.
+
+  Instructions for having pets:
+
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order followers <instructions>'
+
+  You can name the pet you buy as : "buy <pet> <name>"
+
+ Regards,
+.
+ The Shopkeeper
+~
+S
+Z 3031
+#3032
+Pet Shop Store~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+30 2097680 4 0 0 1 255 0
+S
+Z 3031
+#3033
+The Magic Shop~
+   Behind the counter you see various items, neatly placed in racks,
+presumably most of them are magic.
+~
+30 12 0 0 0 1 255 0
+D2
+You see the market street.
+~
+~
+0 -1 3012
+S
+#3034
+&12A Spiraled Staircase&00~
+   These stairs lead down to the ground floor of the Temple.  You will find the
+donation room, the Policy Board, the main discussion board and the exits out in
+to the world.    
+~
+30 540 0 0 0 0 255 0
+D3
+~
+~
+0 0 3071
+D5
+~
+~
+0 0 3001
+S
+#3035
+New Hope Guild Main Office~
+Welcome to RavenMud and New Hope Guild.
+  Here in the office you can rest, relax,
+chat with other New Hope Guild Friends
+or get help if needed.
+  You can also receive some important
+item and advice for the new explorer.
+Good Luck!
+~
+30 393756 0 0 0 0 255 0
+D2
+~
+~
+0 0 3071
+S
+#3036
+Market Square~
+   The Market Square is a beautiful square with an impressive city hall and
+guild houses with stepped gables and gilt statues.  Today's Market Square is a
+lively centre with many pubs and shops and the statue of the legendary Brabo
+Dragon in the middle.    
+~
+30 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 22700
+D1
+~
+~
+0 0 3006
+D3
+~
+~
+0 0 3005
+S
+#3037
+Heading to Market Street~
+   You are standing on the market square, the famous Square of Midgaard.  A
+large, peculiar looking statue is standing in the middle of the square.  Roads
+lead in every direction, north to the temple square, south to the common
+square.    
+~
+30 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 3005
+D2
+~
+~
+0 0 3014
+S
+#3040
+Inside the West Gate of Midgaard~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Market Street
+leads east and Wall Road leads south from here.
+~
+30 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3086
+D1
+You see market Street.
+~
+~
+0 -1 3012
+D2
+You see the road running along the inner side of the city wall.  You notice
+that it is called Wall Road.
+~
+~
+0 -1 3042
+D3
+The city gate is to the west.
+~
+gate~
+1 3133 3052
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3041
+Inside the East Gate of Midgaard~
+  You stand inside the east gate of Midgaard. Market Street leads west to shops
+full of all sorts of helpful things for young advenurers.
+~
+30 0 0 0 0 1 255 0
+D1
+You see the city gate.
+~
+gate~
+1 3133 3053
+D2
+~
+~
+0 -1 3056
+D3
+You see market Street.
+~
+~
+0 -1 3016
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3042
+Wall Road~
+   You are walking next to the western city wall.  The road continues further
+south and the city gate is just north of here.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the city gate.
+~
+~
+0 -1 3040
+D2
+The road continues further south.
+~
+~
+0 -1 3043
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3043
+Wall Road~
+   You are walking next to the western city wall.  Wall Road continues further
+north and south.  A small, poor alley leads east.  To the west you see a huge
+Tower made of solid Ivory.  Some letters have been written on the wall here.  
+~
+30 0 0 0 0 1 255 0
+D0
+The road continues further north.
+~
+~
+0 -1 3042
+D1
+Common Street leads east.
+~
+~
+0 -1 3044
+D2
+The road continues further south.
+~
+~
+0 -1 3047
+D3
+you see a gate
+~
+~
+0 0 1699
+E
+wall writing letters~
+The Ivory Tower
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3044
+Common Street~
+   You are on common street west, which continues further east. You see the
+city wall to the west and the entrance to the Ian & Ian Brewery to the north.
+~
+30 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 11101
+D1
+The street leads east.
+~
+~
+0 -1 3024
+D3
+The street leads west.
+~
+~
+0 -1 3043
+S
+#3045
+Common Street East~
+   You are standing in the street which continues east and west.  South of
+here you see the levee.
+~
+30 0 0 0 0 1 255 0
+D1
+The street leads east.
+~
+~
+0 -1 3046
+D2
+You see the levee.
+~
+~
+0 -1 3049
+D3
+The street leads west.
+~
+~
+0 -1 3026
+S
+#3046
+Eastern end of Common Street East~
+   You are standing at the eastern end of the alley, the city wall is just
+east, blocking any further movement.  
+~
+30 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3056
+D2
+~
+~
+0 -1 3050
+D3
+You see the street.
+~
+~
+0 -1 3045
+S
+#3047
+Wall Road~
+   You are standing on the road next to the western city wall, which
+continues north.  South of here is a bridge across the river.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the road.
+~
+~
+0 -1 3043
+D2
+You see the bridge.
+~
+~
+0 -1 3051
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3048
+Grubby Inn~
+   You are inside the old Grubby Inn.  This place has not been cleaned for
+several decades; vile smells make you dizzy.
+~
+30 8 0 0 0 1 255 0
+D0
+You see the street.
+~
+~
+0 -1 3024
+S
+#3049
+Levee~
+  You are at the levee.  South of here you see the river gently flowing west.
+The river bank is very low making it possible to enter the river.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the street.
+~
+~
+0 -1 3045
+D5
+You see the river flowing west and east.
+~
+~
+0 0 3203
+S
+#3050
+Wall Road~
+   You are standing on the road next to the eastern city wall, which
+continues north.  South of here is a bridge across the river.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the road.
+~
+~
+0 -1 3046
+D2
+You see the bridge.
+~
+~
+0 -1 3085
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3051
+On the Bridge~
+   You are standing on the stone bridge crosses the river.  The bridge is
+built out from the western city wall and the river flows west through an
+opening in the wall ten feet below the bridge.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the road.
+~
+~
+0 -1 3047
+D2
+You see the Concourse.
+~
+~
+0 -1 3100
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3052
+Outside the West Gate of Midgaard~
+   You stand on the outskirts of the large city of Midgaard
+The road leads north into the peace and quiet - and dangers - of the forest;
+and to the east it becomes the main street of the town; surrounded by a
+confusion of shops, bars, and market places.
+~
+30 4 0 0 0 1 255 0
+D0
+you see the gnome village
+~
+~
+0 0 2201
+D1
+The city gate is to the east.
+~
+gate~
+1 3133 3040
+D3
+~
+~
+0 0 3092
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3053
+Outside the East Gate of Midgaard~
+  You stand before the east gate of Midgaard, the City of Knowledge.
+The citizens of this fair city have devoted their lives to teaching
+young adventurers how to survive the world of RavenMud.
+
+A large, important looking sign hangs before you.
+
+~
+30 4 0 0 0 1 255 0
+D1
+~
+~
+0 -1 11401
+D3
+You see the city gate.
+~
+gate~
+1 -1 3041
+E
+sign~
+Welcome to the city of Midgaard, located straight west from the west gate of Samsera.
+It's many shops and guild halls cater to those new to the realm of RavenMUD.
+The areas surrounding the City of Midgaard offer many opportunities for young adventurers.
+The Baron recommends visiting.... 
+the Ian & Ian brewery, 
+the Giant Ant Hill, 
+the Gnome village, 
+the Farm, 
+The Forest 
+and a trip through the undercity, home of the Gully Dwarves, could prove to be a welcome change from the ordinary hustle and bustle of the City proper.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3054
+&12By the Temple Altar&00~
+   You are by the temple altar in the northern end of the Temple of Wisdom.  A
+huge altar made from white polished marble is standing in front of you and
+behind it is a ten foot tall statue of Xiuhtecuhtli, watcher of all new
+adventurers.  To the north, steps lead out the back of the temple towards the
+countryside.    
+~
+30 20 0 0 0 0 255 0
+D0
+You see the vast Midgaard countryside.
+~
+~
+0 -1 3059
+D2
+You see the southern end of the temple.
+~
+~
+0 -1 3001
+E
+altar~
+Even though the altar is more than ten feet long it appears to be made from a
+single block of white virgin marble.
+~
+S
+#3055
+Odin's Store~
+   This is the small dark room in which Odin keeps the player items that he
+takes care of.  It is vital that this room's virtual number is exactly one
+larger than the room by the temple altar.
+~
+30 0 0 0 0 1 255 0
+S
+#3056
+Wall Road~
+   You are walking next to the eastern city wall.  The road continues further
+south and the city gate is just north of here.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the city gate.
+~
+~
+0 -1 3041
+D2
+The road continues further south.
+~
+~
+0 -1 3046
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3058
+Ye Olde Water Shoppe~
+   You are in Wally's World O' Water, whose proprietor, Wally, is sure to
+have something to meet all of your water needs.
+~
+30 12 0 0 0 1 255 0
+D0
+You see the East Gate.
+~
+~
+0 -1 3016
+S
+#3059
+&12Behind the Temple Altar&00~
+   The stairs lead down to a well traveled dirt path leading in to the
+neighborhoods of Northern Midgaard.  Several new houses and shops are being
+built all the time.    
+~
+30 20 0 0 0 0 255 0
+D2
+You see the Temple Altar.
+~
+~
+0 -1 3054
+D5
+~
+~
+0 0 3060
+S
+#3060
+North Gate~
+   You are at the northern entrance to Midgaard proper.  To the north lies
+North Midgaard, a suburb where "those who can afford it" have been rapidly
+building homes.  To the south, the entrance to the walled city of Midgaard.  
+~
+30 0 0 0 0 0 255 0
+D0
+North Street continues on ahead.
+~
+~
+0 -1 3301
+D4
+~
+~
+0 0 3059
+S
+#3062
+The Post Office~
+   You are in the central post office for Midgaard.  Piles of assorted mail lay
+untouched in the corners, collecting cobwebs.  Several large crates have been
+pried open by curious customs agents, and are now stacked along the west wall,
+hiding plenty of 'WANTED' posters.
+   There is a sign posted on the wall here.
+~
+30 60 0 0 0 1 255 0
+D1
+~
+~
+0 0 3028
+E
+sign~
+**********************************************************
+*                                                        *
+*    Mail Instructions :                                 *
+*                                                        *
+*      To send a note to someone :                       *
+*         MAIL <playername>                              *
+*                                                        *
+*      To see if you have any mail :                     *
+*         CHECK                                          *
+*                                                        *   
+*      To get the Postmaster to give you your mail :     *
+*         RECEIVE                                        *
+*                                                        *
+*         Stamps cost 350 coins per letter               *
+*         Type 'HELP MAIL' for more info                 *
+**********************************************************
+~
+E
+mail assorted~
+Envelopes of all sizes are heaped into hugh piles around the room.  As you look
+closer, you see a letter that you had posted a full week ago, laying unnoticed
+and slightly rat-chewed towards the bottom of the pile.
+~
+E
+cobwebs~
+They seem to cover everything here, even the Postmaster himself.
+~
+E
+crates opened large~
+As you know, it is illegal to send contraband items through the Midgaard mail.
+The custom's agents use this as a great excuse to seize liquor, rare spices,
+and just about anything they might find useful or profitable.
+~
+E
+WANTED posters poster wall~
+Faces of various known Killers and Thieves can barely be seen behind the crates
+on the west wall.  Some of them look quite familar, sorta like that guy who you
+saw in the Reception a minute ago...but then again, they are rather hard to see
+past the crates.
+~
+S
+#3063
+&12Temple of Wisdom's Donation Room&00~
+   You are in a small, undecorated room just off of the main Temple.  On the
+wall is a large sign, it maybe helpful, you should &11look sign&00.  This is
+where older adventurers will send equipment, weapons, lights and other helpful
+things.  These item are all marked !sell, meaning the shop keepers will not buy
+To the west you see the main Temple Square.    
+~
+30 28 0 0 0 0 255 0
+D0
+~
+~
+0 0 3089
+D2
+~
+~
+0 0 3090
+D3
+The busy temple is back west.
+~
+~
+0 -1 3001
+E
+sign~
+                         &22Welcome to the Midgaard Donation Room&00
+
+This is where you will find all sorts of things to help you in your adventures. 
+1. Learn commands. Type command and a list of all the commands used here 
+will appear. A quick cut, paste, and print will save you several head aches.
+2. To find the stats on an item or piece of equipment, you need to buy a scroll
+of knowing or find a mage who can cast the 'identify' spell.  You can also just
+try a piece of equipment on.  If it zaps you then you are not able to use it
+because of your race, class, alignment, or level.
+3. Use Help Files. This can NOT be stressed enough. Help files are there to Help. 
+~
+S
+#3064
+The Cryogenic Center~
+    You are standing in an impossible white sterile room with cylindrical
+body-length canisters lined up against the walls.  The Reception is to the
+south.
+~
+30 8 0 0 0 1 255 0
+D2
+The Reception is to the south.
+~
+~
+0 -1 3008
+S
+#3065
+Just North of the West Gate of Midgaard~
+    You see the West Gate of Midgaard just south of where you are standing.
+This appears to be some sort of path along the outer wall of the town that,
+while it isn't in the town proper, seems to be well travelled an maintained.
+A large factory looms over you to the north.  This must be where they make 
+all those swell items that are sold in town. 
+~
+30 0 0 0 0 1 255 0
+D2
+Outside the West Gate of Midgaard
+~
+~
+0 -1 3052
+S
+#3066
+Hall of Guilds~
+You have entered the Great Hall of Guilds of Midgaard.  
+The guildmasters of all the guilds of Midgaard are 
+present, each with their own training room.
+  
+To the North is the Clerics Guild
+To the South is the Solamnic Knights Guild.
+~
+30 12 0 0 0 1 255 0
+D0
+To the north, you see the training area for Clerics.
+~
+~
+0 -1 3004
+D1
+~
+~
+0 -1 3001
+D2
+To the south is the training area for Solamnic Knights.
+~
+~
+0 -1 3072
+D3
+~
+~
+0 -1 3067
+S
+#3067
+Hall of Guilds~
+You have entered the Great Hall of Guilds of Midgaard.  
+The guildmasters of all the guilds of Midgaard are 
+present, each with their own training room.
+  
+To the North is the Rangers Guild
+To the South is the Warriors Guild.
+~
+30 8 0 0 0 1 255 0
+D0
+To the north, you see the training area for Rangers.
+~
+~
+0 -1 3074
+D1
+~
+~
+0 -1 3066
+D2
+To the south is the training area for Warriors.
+~
+~
+0 -1 3021
+D3
+~
+~
+0 -1 3068
+S
+#3068
+Hall of Guilds~
+You have entered the Great Hall of Guilds of Midgaard.  
+The guildmasters of all the guilds of Midgaard are 
+present, each with their own training room.
+  
+To the North is the Death Knight Guild
+To the South is the Shou Lin Guild.
+To the West is the Necromancer Guild.
+~
+30 8 0 0 0 1 255 0
+D0
+To the north, you see the training area for Death Knights.
+~
+~
+0 -1 3076
+D1
+~
+~
+0 -1 3067
+D2
+To the south is the training area for Shou Lin.
+~
+~
+0 -1 3078
+D3
+~
+~
+0 0 39001
+D4
+~
+~
+0 -1 3069
+S
+#3069
+Hall of Guilds~
+You have entered the Great Hall of Guilds of Midgaard.  The guildmasters of all
+the guilds of Midgaard are present, each with their own training room,
+
+To the North is the Assassains Guild.
+To the South is the Thieves Guild.
+~
+30 8 0 0 0 1 255 0
+D0
+To the north, you see the training area for Assassins.
+~
+~
+0 -1 3080
+D1
+~
+~
+0 -1 3070
+D2
+To the south is the training area for Thieves.
+~
+~
+0 -1 3027
+D5
+~
+~
+0 -1 3068
+S
+#3070
+Hall of Guilds~
+You have entered the Great Hall of Guilds of Midgaard.  
+The guildmasters of all the guilds of Midgaard are 
+present, each with their own training room,
+  
+To the North is the Mages Guild
+To the South is the Shadow Dancers Guild.
+~
+30 8 0 0 0 1 255 0
+D0
+To the north, you see the training area for Magic users.
+~
+~
+0 -1 3017
+D1
+~
+~
+0 -1 3071
+D2
+To the south is the training area for Shadow Dancers.
+~
+~
+0 -1 3082
+D3
+~
+~
+0 -1 3069
+S
+#3071
+New Hope Tavern~
+   This is the Tavern of New Hope Guild.  There are several comfortable
+looking couches and chairs spread around the spacious room.  A small bar is
+situated along the east wall, and a small fountain of clear water is in the
+center of the room.    
+  A waiter is here to take you order and a Gruff looking man offers you
+a story and a reward of treasure if you have a mind to do his bidding.
+~
+30 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 3035
+D1
+~
+~
+0 0 3034
+D2
+~
+~
+0 0 3003
+D3
+A hallway leads west from here, between training rooms.
+~
+~
+0 -1 3070
+S
+#3072
+Entryway to the Guild of Solamnic Knights.~
+    There are several chairs situated around the room for those
+awaiting instruction.  A guard blocks the doorway to the training
+room.
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3066
+D2
+~
+~
+0 -1 3073
+S
+#3073
+The Training Room~
+   This is the main practice chamber for the guild. Rows of swords line each
+wall, and large practice dummies stand waiting for a fight. Several battle
+masters prepare new troops in the way of the sword, each knight teaching a
+recruit some important piece of information. All knights are allowed to
+practice here, so feel free to pick up a weapon and train with the best!
+~
+30 393800 4 0 0 1 255 0
+D0
+~
+~
+0 -1 3072
+D5
+~
+~
+0 -1 3112
+S
+#3074
+Entryway to the Guild of Rangers.~
+    There are several chairs situated around the room for those
+awaiting instruction.  A guard blocks the doorway to the training
+room.
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3075
+D2
+~
+~
+0 -1 3067
+S
+#3075
+The Training Room~
+   This room serves as protection and as a training ground for all new
+rangers. The ranger's chose this location for their guild for several reasons.
+First, it was the closest they could get to nature inside the city walls.
+Second, if you can't survive up here, then there is no way you'll survive in
+the wild. Any ranger must start his or her training here.
+~
+30 393800 4 0 0 1 255 0
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 3074
+D5
+~
+~
+0 0 3111
+S
+#3076
+Entryway to the Guild of Death Knights.~
+    There are several chairs situated around the room for those
+awaiting instruction.  A guard blocks the doorway to the training
+room.
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3077
+D2
+~
+~
+0 -1 3068
+S
+#3077
+The Training Room~
+   This chamber is used to carry out the dark rituals of the death knights.
+The black alter here is no doubt used for human sacrifices to evil gods. Death
+knights must also follow a strict combat code, which is also taught here.
+Judging by the blood that covers the walls, several students have died in
+training.
+~
+30 393800 4 0 0 1 255 0
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 3076
+D5
+~
+~
+0 0 3114
+S
+#3078
+Entryway to the Guild of Shou Lin.~
+    There are several chairs situated around the room for those
+awaiting instruction.  A guard blocks the doorway to the training
+room.
+~
+30 1048584 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3068
+D2
+~
+~
+0 -1 3079
+S
+#3079
+The Training Room~
+   These are the chambers of the Grand Master of Flowers, highest and wisest
+shou-lin. He sees to the running of the temple, but is never too busy to help
+with the training of new students. Several students practice their skills
+here, in fact, you could practice here too if you have the time.
+~
+30 393800 4 0 0 0 255 0
+D0
+~
+~
+0 -1 3078
+D2
+~
+~
+0 -1 -1
+D5
+~
+~
+0 0 3115
+S
+#3080
+Entryway to the Guild of Assassins.~
+    There are several chairs situated around the room for those
+awaiting instruction.  A guard blocks the doorway to the training
+room.
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3081
+D2
+~
+~
+0 -1 3069
+S
+#3081
+The Training Room~
+   This is the hidden lair of the assassins. Even an assassin should train
+with a master from time to time, and here is the place where they can. The
+authorities might frown on this type of training however, so most of the
+training must be done in secret, here, far below the surface of town.
+~
+30 393800 4 0 0 1 255 0
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 3080
+D5
+~
+~
+0 0 3116
+S
+#3082
+Entryway to the Guild of Shadow Dancers.~
+    There are several chairs situated around the room for those
+awaiting instruction.  A guard blocks the doorway to the training
+room.
+~
+30 8 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3070
+D2
+~
+~
+0 -1 3083
+S
+#3083
+The Training Room~
+   This is the hidden guild of the Shadow Dancers. Combining the secrecy and
+quickness of thieves with the intelligence of a mage, shadow dances take
+skills from both classes. Their fighting style is unlike any other class,
+their moves when done properly, appear to be a dance, a dance of death.
+   If you're a shadow dancer and need training, you've come to the right place.
+~
+30 393800 4 0 0 1 255 0
+D0
+~
+~
+0 -1 3082
+D2
+~
+~
+0 -1 -1
+D5
+~
+~
+0 0 3119
+S
+#3084
+Alchemist~
+The alchemist has a nice selection of potions and is working on new ones
+all the time.
+~
+30 12 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3012
+S
+#3085
+On the Bridge~
+   You are standing on the stone bridge crosses the river.  The bridge is
+built out from the eastern city wall and the river flows west through an
+opening in the wall ten feet below the bridge.
+~
+30 0 0 0 0 1 255 0
+D0
+You see the road.
+~
+~
+0 -1 3050
+D2
+You see the Concourse.
+~
+~
+0 -1 3104
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3086
+Tanner~
+The tanner has a wide selection of leather armors.
+~
+30 12 0 0 0 1 255 0
+D2
+~
+~
+0 -1 3040
+S
+#3087
+chute #1~
+exits:
+3040, 3043, 3051, 3013, 3024, 3014
+~
+30 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3040
+D1
+~
+~
+0 -1 3040
+D2
+~
+~
+0 -1 3051
+D3
+~
+~
+0 -1 3013
+D4
+~
+~
+0 -1 3024
+D5
+~
+~
+0 -1 3014
+S
+#3088
+chute #2~
+exits:
+3041, 3046, 3085, 3015, 3026, 3025
+~
+30 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3041
+D1
+~
+~
+0 -1 3046
+D2
+~
+~
+0 -1 3085
+D3
+~
+~
+0 -1 3015
+D4
+~
+~
+0 -1 3026
+D5
+~
+~
+0 -1 3025
+S
+#3089
+&12The Board of Wisdom&00~
+   This is where important news can be heard or read.  All the important
+information for adventurers is posted here.  Current policy statements from the
+immortals can be viewed in the room two south of here.  A large sign hangs on
+the wall here, you should &11look at it.  &00
+~
+30 60 0 0 0 0 255 0
+D2
+~
+~
+0 0 3063
+E
+sign~
+   This is where some basic information about RavenMUD is posted.
+   
+For information on Policy/Rules, type "policy".
+For information about the Immortals, type "wizlist".
+For information about the areas of RavenMUD, type "help area".
+For information about spells/skills, type "help <spell/skill>"
+~
+S
+#3090
+&12Temple Policy Chamber&00~
+   This is the place where immortals post messages pertinent to current mud
+policy.  It is the responsibility of the players to keep them selves informed
+of what the rules of play are.    
+~
+30 52 0 0 0 0 255 0
+D0
+~
+~
+0 0 3063
+S
+#3092
+The Road West~
+   You are on an road west and are leaving Midgaard behind.  The road winds its
+way past scattered houses interspersed with bushes and trees.    
+~
+30 0 0 0 0 1 255 0
+D1
+You see a city
+~
+~
+0 0 3052
+D3
+You see a road
+~
+~
+0 0 3093
+S
+#3093
+The Road West~
+   You are on an road west and are leaving Midgaard behind.  The road winds its
+way past scattered houses interspersed with bushes and trees
+~
+30 0 0 0 0 1 255 0
+D1
+You see a road leading to a city
+~
+~
+0 0 3092
+D3
+You see a road
+~
+~
+0 0 3094
+S
+#3094
+The Road West~
+   You are on an road west and have left Midgaard behind.  The road winds its
+way thru heavier growth and small groves of trees.  There is a fair amount of
+traffic still, travellers on horse, merchant wagons with armed escorts, and the
+occasional patrol from Midgaard.  You wonder where everyone might be headed.  
+~
+30 0 0 0 0 1 255 0
+D1
+you see a road
+~
+~
+0 0 3093
+D3
+You see a road
+~
+~
+0 0 34180
+S
+#3095
+The Road West~
+The road winds it's way west in great sweeping curves.  As you travel you catch
+a glimpse of a mountain range far to the north.  As the road dips south you
+catch a faint whiff of brackish tang indicating you might be approaching a
+coastline or a great river.    
+~
+30 0 0 0 0 1 255 0
+D1
+You see a raod
+~
+~
+0 0 1160
+D3
+~
+~
+0 0 3096
+S
+#3096
+The Road West~
+The terrain becomes rougher as the road dips and rises thru rippling folds in
+the ground.  You cross several small bridges that span ravines choked with
+brambles and several small streams.    
+~
+30 0 0 0 0 1 255 0
+D1
+You see a road
+~
+~
+0 0 3095
+D3
+You see a road
+~
+~
+0 0 3097
+S
+#3097
+The Road to Caergoth~
+The terrain is nearly impassable as the road snakes it's way up and down a
+series of ever-deepening canyons.  If not for the occasional bridge, further
+progress would be impossible.  From your fellow travellers come tales of
+conflict and danger in the lands ahead.  Armies are clashing and bandits roam
+the land preying on the chaos of war.    
+~
+30 0 0 0 0 1 255 0
+D1
+You see a road
+~
+~
+0 0 3096
+D2
+You see a road
+~
+~
+0 0 3098
+D3
+You see a large canyon
+~
+~
+0 0 18301
+S
+#3098
+The Road to Caergoth~
+If not for the occasional bridge, further progress would be impossible.  From
+your fellow travellers come tales of conflict and danger in the lands ahead.  
+Armies are clashing and bandits roam the land preying on the chaos of war.    
+~
+30 0 0 0 0 1 255 0
+D0
+You see a road
+~
+~
+0 0 3097
+D3
+You see the far end of the bridge
+~
+~
+0 0 18510
+S
+$~

@@ -1,0 +1,33 @@
+
+Welcome to RavenMUD!
+
+This is our first release, so I don't know what problems you'll 
+encounter when you try to run this software.
+
+To use this software, in the ravenOpen directory, type:
+
+  ./configure
+
+Change directory to src:
+
+  cd src
+
+Compile:
+
+  make
+
+If this does not work, you should verify that you're using gcc version 
+3.x.  To do this, type gcc --version.  If you're using version 4.x, 
+you'll need to edit the makedefs file.  Set CC = gcc to instead be CC = 
+gcc3.4 or whatever the name of your gcc3.x program.
+
+
+Once it's been compiled, you can run the executable moon which is the 
+basic game.  You want to do something like the following from the main 
+directory:
+
+  ./bin/moon -d sys 6060
+
+
+Good luck!
+Arbaces

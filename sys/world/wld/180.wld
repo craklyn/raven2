@@ -1,0 +1,4165 @@
+#18000
+The City of Samsera - Zones 180 and 181~
+This large city serves as the main Hub for all of Ravenmud's characters
+and is its main town. It has a number of different shopkeepers, and
+well balanced upper level guardsman. Spans 2 zonefiles 180 and 181.
+This area was made by Tyr of RavenMud.
+Kurse
+Jan, 98
+~
+180 8 0 0 0 0 255 0
+D5
+~
+~
+0 0 18001
+S
+#18001
+The Center of Samsera~
+   You stand at the Center of the great walled city of Samsera.  The wide
+cobblestone streets teem with citizens scurrying off to their destinations and
+merchants peddling their wares.    
+The main streets of the city lead off in the four compass directions: 
+north, south, east, and west.
+The well-known Adventurer's Guild 'RavensPeak' stands to the south-east;
+anyone new to the city would do well to get their bearings there.
+~
+180 0 2 0 0 1 255 0
+D0
+~
+~
+0 -1 18003
+D1
+~
+~
+0 -1 18006
+D2
+~
+~
+0 -1 18008
+D3
+~
+~
+0 -1 18005
+D4
+Above you are large steps which extend to the Temple of the Journeyman.
+~
+~
+0 -1 18102
+S
+#18002
+The North-west corner of Towne Square~
+   You stand in the north-west corner of a large plaza. This is the center of
+the community.  Government buildings important to the survival of this
+city line the square.
+   To your north lies the Hall of Justice and to your west is the Bank of Samsera.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18003
+D2
+~
+~
+0 -1 18005
+S
+#18003
+Towne Square~
+   This large cobblestone-paved square is the main area of the city of
+Samsera.  All major buildings needed for the city to survive are easily within
+walking distance from here.  This square has been turned into a meeting area
+and a market place for the stores of Samsera.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18015
+D1
+~
+~
+0 -1 18004
+D2
+~
+~
+0 -1 18001
+D3
+~
+~
+0 -1 18002
+S
+#18004
+The North-east corner of Towne Square~
+   Along this corner of the square sits the only inns that will service
+adventurers in the city of Samsera. The Laughing Wench Inn isn't the cleanest
+inn in town, but it will allow rowdy adventurers to stay for a time, while the
+boarding house next door will support the less transient adventurer.
+~
+180 0 0 0 0 1 255 0
+D2
+~
+~
+0 -1 18006
+D3
+~
+~
+0 -1 18003
+S
+#18005
+Towne Square~
+   This is where east main street meets the town square. The wide street
+extends far off into the distance to your west, eventually leading out the
+massive gates in the wall surrounding Samsera.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18002
+D1
+~
+~
+0 -1 18001
+D2
+~
+~
+0 -1 18007
+D3
+~
+~
+0 -1 18085
+S
+#18006
+Towne Square~
+   Peddlers have set up small carts all around the town square. They offer
+only samples of the products contained in their stores, which are along
+business row.
+   The building containing the adventuring school looms in the east.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18004
+D1
+~
+~
+0 -1 18018
+D2
+~
+~
+0 -1 18009
+D3
+~
+~
+0 -1 18001
+S
+#18007
+The South-west corner of Towne Square~
+   This section of the square is populated by the less fortunate members of
+the society. Beggars and pan-handlers accost you for a few coins at every turn.
+This crowd has been attracted by the new domed building to the south of 
+here. It looks like the main entrance to it is off South Street, across 
+from the Adventurer's Guild.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18005
+D1
+~
+~
+0 -1 18008
+S
+#18008
+Towne Square~
+   This large cobblestone-paved square is the main area of the city of Samsera.
+All major buildings needed for the city to survive are easily within walking
+distance from here.  This square has been made into a meeting area and a
+gathering place.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18001
+D1
+~
+~
+0 -1 18009
+D2
+~
+~
+0 -1 18011
+D3
+~
+~
+0 -1 18007
+S
+#18009
+The South-east corner of Towne Square~
+   The square is quite busy in this small corner.  To the south lies the
+RavensPeak Inn.  Adventurers wanting to keep up with the current news of the
+world will find it in their best interest to travel there.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18006
+D3
+~
+~
+0 -1 18008
+S
+#18010
+Corner of South Wind and Guild Way~
+   The busy street of the South Wind widens slightly at this intersection,
+extending into Guild Way, which runs perpendicular at this point.  To the west
+is the Way of Survival, known to be occupied by a number of guilds dedicated to
+the fighting and survival arts.  The street to the east is empty and darker
+than the rest of town, as it always is.  Most citizens avoid this 'bad' part of
+town, as accidents seem to happen there too often.    
+~
+180 12 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18011
+D1
+   The street is empty and darker than the other way.  All of the lamp posts
+seem to have been extinguished.    
+~
+~
+0 -1 18019
+D2
+~
+~
+0 0 18035
+D3
+Even from here, you can hear the sound of steel ringing on steel from the west.
+~
+~
+0 0 18196
+S
+#18011
+The Street of the South Wind~
+   You stand at the entrance to a large town square. The square extends off 
+in the distance to your north. A small adventurers guild is to the east, its
+weather beaten exterior offering promise to young lads wishing to make a name
+for themselves. The newly built cathedral of questing is to the west.
+~
+180 0 0 0 0 1 255 0
+D0
+   The noise of the crowded bazaar overwhelms you, it comes from the town
+square to your north.
+~
+~
+0 -1 18008
+D1
+   To the east you see the Samsera Adventurers Guild.
+~
+~
+0 -1 18012
+D2
+~
+~
+0 -1 18010
+D3
+Beautiful stained glass double doors open into the Cathedral.
+~
+glass doors stained~
+1 -1 18083
+E
+marker post~
+   The tone marker says you are exactly 2 paces south of the town 
+fountain. 
+~
+S
+#18012
+&03RavensPeak Inn&00~
+   RavensPeak, the hall where all the adventurers in Samsera gather.  This
+famed inn is where important news can be heard or read.  All the important
+information for adventurers is posted here.  Current policy statements from the
+Immortals of the world can be viewed in the room down from here.    
+   The town square is to the north, south main street is to the west, and a 
+map room is to your east.
+~
+180 188 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18013
+D3
+~
+~
+0 -1 18011
+D4
+You see a set of stairs leading up.
+~
+~
+0 0 18105
+D5
+~
+~
+0 0 18069
+E
+sign signs~
+   This is where some basic information about RavenMUD is posted.
+   
+For information on Policy/Rules, type "policy".
+For information about the Immortals, type "wizlist".
+For information about the areas of RavenMUD, type "help area".
+For information about spells/skills, type "help <spell/skill>".
+For information on the locations of some of the areas, go one east to the
+map room.
+
+~
+S
+#18013
+The Transcention~
+   This room has been recently remodeled and a scent of fresh paint drifts
+through the air.  At one point this room housed a giant scale model of the city
+of Samsera.  A slight impression in the floor can still be seen where small
+pillars supported the miniature piece of architecture.  Unfortunately, the
+Samserian city model was lost in a fire that has been rumored to of been
+started by some gnome adolescents.  The room has been redecorated with eleven
+different murals.  Each mural depicts the likeness of Samsera's guild masters.
+In the center of the room a huge plague carved from obsidian rests on the
+floor.  The plague is covered with pieces of parchment, which appear to have
+notes scrawled on each one.    
+~
+180 188 0 0 0 0 255 0
+D3
+   The Adventurers Guild lies in that direction.
+~
+~
+0 -1 18012
+S
+#18014
+The Hall of Justice~
+   This is the building where all Justice in Samsera is carried out.  A huge
+stone desk and an altar sit imposingly near the front of the main chamber.  
+This is where the town magistrate sit during a trial and where Samsera's High
+Priestess may receive Judgement from the Immortals on a particular crime.  
+Judge, Jury, and Execution of Punishment can all be carried out in this chamber
+under the eyes of the Immortals.    
+You cannot escape the feeling that your every movement is being closely
+observed in this chamber.
+~
+180 168 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 18015
+D3
+~
+~
+0 0 -1
+S
+#18015
+The Street of the North Wind~
+   This street is dedicated to the strong mountain winds that blow from the
+northern mountain ranges. Even here you can feel a chill in the breeze.
+   Far in the distance you can see the massive North Gate, designed to protect
+against the northern raiders.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18030
+D1
+To the east lies the famed Laughing Wench Inn, the finest in half star accomodations.
+~
+door~
+1 -1 18016
+D2
+~
+~
+0 -1 18003
+D3
+To the west stands the imposing Samsera Hall of Justice.
+~
+door~
+1 -1 18014
+S
+#18016
+The common room of the Laughing Wench~
+   You stand in the common room of the inn. The warmth of the fire relaxes
+you and laughter and the smell of good food surround you.
+   You see that some of the patrons are heading upstairs, to their rooms no
+doubt. If you want to rent a room for the night you should follow them
+upstairs, the innkeeper is probably renting rooms up there due to the noise
+down here.
+~
+180 8 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 18015
+D4
+~
+~
+0 -1 18017
+S
+#18017
+The Laughing Wench Inn~
+   This is one of the few locations in Samsera that will let you stay the
+night, not all the inns allow adventurers, they attract unpleasant company.
+   A small sign hangs on the wall, perhaps you should read it.
+~
+180 60 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18094
+D5
+   The strong odor of fresh cooked food arises from the common room below.
+~
+~
+0 -1 18016
+E
+sign small~
+   Its says:
+
+     "It's my way or the highway!"
+         There is no credit here, its pay as you go...and if you don't have
+         the money to pay...you GO! no exceptions, no excuses.
+
+                                                        - The Management
+~
+S
+#18018
+The Street of the East Wind~
+   The east wind is the fairest wind, born with the summer rains. It is the
+signal of new times, and of new beginnings. As such, this street is dedicated
+to helping those new to the town.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 102
+D1
+~
+~
+0 -1 18024
+D3
+~
+~
+0 -1 18006
+S
+#18019
+A Darkened Street~
+   Described by some citizens as the 'Black Quarter', you get the idea.  Since
+the lamp posts have either broken or been put out, the street is by far the
+darkest part of town.  Large two and three story buildings loom over either
+side of the street, seemingly empty.  Uneasy about your surroundings, you spot
+a small light to the east.  Perhaps you should head there.    
+~
+180 1 0 0 0 1 255 0
+D1
+~
+~
+0 0 18020
+D3
+~
+~
+0 0 18010
+S
+#18020
+A Darkened Street~
+   You continue to warily walk down the street, a sense that you are being
+followed in the back of your mind.  To the south the gloom is pierced by a
+small light in a shop window.  Below the light is a sign: 'Samsera Butcher'.  
+Aha!  This is where many citizens go to get the finest chops of veal, steak, or
+venison in the city.  Perhaps you should drop on in to see their selection.  
+~
+180 1 0 0 0 1 255 0
+D1
+~
+~
+0 0 18021
+D3
+~
+~
+0 0 18019
+S
+#18021
+A Darkened Street~
+   The silent street makes a sharp turn here where two tall buildings with
+boarded up fronts stand.  Due to the shadow cast by the buildings, it is near
+pitch darkness here, even in the middle of the day.  Something catches the
+corner of your eye, and you reflexively check your belt to make sure your coin
+purse is still attached.  The street proceeds to the north and west from this
+point.    
+~
+180 1 0 0 0 1 255 0
+D0
+~
+~
+0 0 18022
+D1
+~
+~
+0 0 38901
+D3
+~
+~
+0 0 18020
+S
+#18022
+A Darkened Street~
+   You proceed further on the street, feeling very uneasy about your safety.  
+It seems to you that eyes peer from every hole, and that your every move is
+being watched.  The street comes to a sharp corner to the south.    
+~
+180 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 18023
+D1
+~
+~
+0 0 18131
+D2
+~
+~
+0 0 18021
+S
+#18023
+A Darkened Street~
+   The street here is quite empty, in fact near deserted.  You can't help but
+notice that all the street lamps are not burning, adding to the gloomy feel.  
+While a few small businesses line the street behind their steel barred
+storefronts, others have been vacated and boarded up.    
+~
+180 1 0 0 0 1 255 0
+D0
+~
+~
+0 0 18024
+D2
+~
+~
+0 0 18022
+S
+#18024
+Corner of East Wind and Guild Way~
+   A cool wind blows through the street, creating a refreshing updraft against
+the buildings.  West Wind intersects with Guild way at this point.  The
+northern Way of Secrets is home to the impressive guild of Mages, an awe
+inspiring tower.  It also is contains the secretive Guild of Shadow Dancers.  
+The street to the south is rather derserted, except for a few men at the corner
+watching you with interest.  You notice that all the lights along the street
+are not lit.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18025
+D1
+~
+~
+0 0 18049
+D2
+~
+~
+0 0 18023
+D3
+~
+~
+0 0 18018
+S
+#18025
+The Way of Secrets~
+   What could only be explained as an absence of light is what flows from the
+entrance to the elaborately carved entrance of the Guild of Shadow Dancers to
+the east.  You are unable to penetrate the darkness and see within, but feel
+that a presence is watching you.
+You are able to see Mother Risen's boarding house off to the west. The Way 
+of Shadows intersects the Street of the East Wind to the south.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18026
+D1
+A coherent darkness lies to the south, from within the Guild of Shadow Dancers.
+~
+~
+0 0 18128
+D2
+~
+~
+0 0 18024
+S
+#18026
+The Way of Secrets~
+   The street extends north-south at this point, the ebony cobblestones
+glinting slightly from the glow of the many enchanted street lights which line
+it.  You can see to the north east the towering spire of the Mage's Guild.  To
+the south a unnatural darkness seems to flow onto the street from the entry of
+what could only be the Guild of Shadow Dancers.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18027
+D2
+~
+~
+0 0 18025
+S
+#18027
+The Way of Secrets~
+   The Way of Secrets, home to some of the most powerful magics in the realm.
+To the east lies the entry chamber to the Guild of Mage's Tower, where many
+young magi are made or broken.  Somewhere to the south is the Guild of Shadow
+Dancers, which is said contain no lights at all.  The street takes a sharp turn
+West or South here.    
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18122
+D2
+~
+~
+0 0 18026
+D3
+~
+~
+0 0 18028
+S
+#18028
+The Way of Secrets~
+   Lamp posts enchanted by a permanent continual light spell, a gift from the
+Mage's guild to the city, flank each side of the street.  To the north lies a
+thick iron-wrought gate, the entrance to the stronghold of the Guild of Death
+Knights.  A large figure wearing a full suit of blackened armor and wielding a
+broadsword guards against intruders.  You can see the entrance to the mage
+guild, and its impressive tower to the east.    
+~
+180 0 0 0 0 1 255 0
+D0
+   A thick iron gate stands to the north, separating Samsera Proper from the
+unholy earth of the Death Knight's Guild.    
+~
+~
+0 0 38501
+D1
+~
+~
+0 0 18027
+D3
+~
+~
+0 0 18029
+S
+#18029
+The Way of Secrets~
+   The Way of Secrets is marked by a finely wrought black cobblestone.  Iron
+streetlights line the Way, giving off a warm yellow glow from the from the
+permanent continual light spells cast within them.  A Thick iron-wrought gate
+of black stands to the northeast.  The entry to the Mage's Guild lies far to
+the east.
+To the north lies the Hall of Clans, the well-known Laughing Wench Inn to the South.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18028
+D3
+~
+~
+0 0 18030
+S
+#18030
+Corner of North Wind and Guild Row~
+   North Wind widens at this intersection as the cobbled stone road stretches
+onto Guild way, the location of many of the world's central Guilds.  To the
+east lies the Way of Secrets, where the guilds of the Arcane Arts are known to
+lie.  To the west is the Way of Faith, home to the Clerics and Monastery of the
+mystic Shou-Lin.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18088
+D1
+To the east the cobbled stone whitens, following the Way of Faith.
+~
+~
+0 0 18029
+D2
+~
+~
+0 0 18015
+D3
+To the west, the cobbled stone darkens, absorbing the heat of the sun and giving off a haze.
+~
+~
+0 0 18031
+S
+#18031
+The Way of Faith~
+   The way of Faith is famous in Samsera, for it is considered by some to be
+the true spiritual center of the city, not the Church of All Gods.  Favorites
+among the citizens are the Clerics and the Solamnics, who have long upheld
+values of justice and protection.  The white cobbled street meets the street of
+the north wind to the east, and extends further west.    
+The Church of All Gods can be seen to the north, the Hall of Justice to the south.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18030
+D3
+~
+~
+0 0 18032
+S
+#18032
+The Way of Faith~
+   The white cobbled way stretches east-west here.  The street is quite busy,
+as people often are petitioning the Knights and Clerics for some favor or
+another.  To the north is Solgaard Keep, the white-stoned fortress that is home
+to the Guild of Solamnic Knights here in Samsera.  Off to the south you are
+able to see the rear of the Bank of Samsera.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18110
+D1
+~
+~
+0 0 18031
+D3
+~
+~
+0 0 18033
+S
+#18033
+The Way of Faith~
+   To the north lies the mighty Cleric's Guild, home to those who worship the
+Gods of Healing as well as the Gods of Decay.  As large as the Church of all
+Gods, the Guild of Clerics is truly a testament to the power of prayer.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18113
+D1
+~
+~
+0 0 18032
+D2
+~
+~
+0 0 18034
+S
+#18034
+The Way of Faith~
+   You follow the bleached stone street past the Monastery, or Guild of Shou
+Lin.  This building, which lies to your east is rather nondescript, and not
+decorated with carvings and sculptures than many of the other guilds have.  
+The building's simplicity is beauty in itself, and sets it apart from the rest
+of the surrounding abodes.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18033
+D2
+~
+~
+0 0 18100
+D3
+~
+~
+0 0 18107
+S
+#18035
+The Street of the South Wind~
+   You've reached the government section of town. To the west is the Towne
+Hall, where all important business is discussed. To your east is the post
+office, the only government shop so to speak.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18010
+D1
+~
+~
+0 -1 18036
+D2
+~
+~
+0 -1 18038
+D3
+~
+~
+0 -1 18037
+S
+#18036
+The Samsera Post Office~
+   Wanted posters hang on the walls of this grand post office. There is a sign
+declaring the post office is not responsible for missing mail or damaged mail,
+and a box of shredded mail right beneath it just make sure everyone understands.
+In general the post office is fairly efficient though, so don't worry about it.
+   An important looking sign is hanging here.
+~
+180 572 4 0 0 0 255 0
+D3
+~
+~
+0 -1 18035
+E
+sign important~
+The sign reads:
+    Use these commands to insure proper handling of your mail!
+      Check - used to see if you have any mail waiting.
+      Receive - used to pick up your mail
+      Mail (player) - used to mail a letter to another player. The other
+        player does not need to be connected and will receive his/her mail
+        when they do connect to the MUD.
+
+                                               - The Postmaster General
+~
+S
+#18037
+The Samsera Towne Hall~
+   This large chamber is where the town's leaders discuss the important issues
+facing the community. Large oaken chairs fill the room, there are many extras
+just for the viewing public. Since this is the only known town in the 
+world, it is reasonable to say this is where all the important issues 
+facing the world are discussed.
+~
+180 8 0 0 0 0 255 0
+D1
+   The large oak door leads out to South Main Street.
+~
+~
+0 -1 18035
+S
+#18038
+The corner of South Wind and Business Row~
+   Business owners decided it was in their best interest to locate in a
+similar area. While people shop for food, they can also stop in on the local
+blacksmith and have their horse taken care of. Most of the shops in Samsera
+can be found on Business Row, which is to the east and west of here. Chances
+are if you need to buy something, you can find it here.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18035
+D1
+   The smell of smoke and the sound of metal on metal can be heard from the
+forges of the armor and weapon shop, located in that direction.
+~
+~
+0 -1 18039
+D2
+~
+~
+0 -1 18080
+D3
+~
+~
+0 -1 18078
+S
+#18039
+The Business Road~
+   Most of the shops that exist in Samsera are located on this road. The road
+itself makes a circle around the town square, if you were to travel on it you
+would eventually return to this spot.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18041
+D3
+~
+~
+0 -1 18038
+S
+#18040
+The Shop of the Singing Swordsman~
+   The name of this shop is obviously in reference to the owners skill with
+the blades that she sells. The elf that sits behind the counter is likely to
+be a legendary blade singer, her cuts so quick they seem to sing a melody and
+lull their opponents into a slumber...of eternal sleep.
+~
+180 12 0 0 0 0 255 0
+D2
+~
+~
+0 0 18041
+S
+#18041
+The Business Road~
+   Most of the shops that exist in Samsera are located on this road. The road
+itself makes a circle around the town square, if you were to travel on it you
+would eventually return to this spot.
+   The city's armor shop is to your south.
+   The city's weapon shop is to your north.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18040
+D1
+~
+~
+0 -1 18190
+D2
+   You hear the sound of metal being shaped coming from the armor shop in the
+south.
+~
+~
+0 -1 18042
+D3
+~
+~
+0 -1 18039
+S
+#18042
+Ruby's Armor Shop~
+   Suits of new and used armor line the walls of this small, but busy shop.
+Armor is a mainstay of the adventurer, and this would be the best, not to
+mention the only shop to buy it in. It seems Ruby has a lock on the market
+for armors.
+
+   A sign hangs on the wall here.
+~
+180 12 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18041
+E
+sign~
+It reads:
+   My motto is simple - Let the Buyer Beware! All items in this shop are sold
+      as is!
+
+   Type "list" to see the available stock
+   Type "buy (item)" to buy any item listed
+   Type "sell (item)" to sell me something you have, and it better be good!
+
+                                         - Ruby
+~
+S
+#18043
+The South-east Corner of Business Row~
+   People moving from shop to shop fill the street, all looking for the best
+bargains available. Street peddlers seem to do almost as well as the businesses
+themselves, perhaps you should try to trade with them.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18187
+D1
+You see the Samsera Stables.
+~
+~
+0 0 18081
+D3
+~
+~
+0 -1 18189
+S
+#18044
+Near Filthy's Restaurant~
+   The people in this section of town are certainly better dressed than you
+are used to seeing! Fancy dresses and fine tailored clothes seem to be the
+norm, even the knights are wearing their honor armor. You almost don't believe
+your eyes when you see that they're all heading to the Filthy Inn!? Tis a
+strange town indeed...
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18046
+D1
+~
+~
+0 -1 18045
+D2
+~
+~
+0 -1 18186
+D3
+~
+~
+0 0 38220
+S
+#18045
+The Grubby Inn~
+   Filthy sure has cleaned the place up over the years. This Inn was
+originally named for its poor condition, but now its one of the few business's
+to survive over the years and has gone upscale. They even have a wine cellar
+downstairs and let people go down to select their own bottle...maybe you
+should try a glass, eh?
+~
+180 8 0 0 0 0 255 0
+D3
+   Sunlight streams in from the door leading back to Business Row.
+~
+~
+0 -1 18044
+S
+#18046
+Business Row~
+   Some of the finest arms and armors can be found in this section of Business
+Row. To your east is the finest boyer/fletcher in all Samsera. It is easy for
+him to make this claim, for he is the only boyer/fletcher in town.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18048
+D1
+~
+~
+0 -1 18047
+D2
+~
+~
+0 -1 18044
+D3
+~
+~
+0 0 18188
+S
+#18047
+Eagle Eye's Bowyer/Fletchery Store~
+   A man in leather armor sits behind the counter, working on an ornate
+long bow. Several bows of various types and sizes hang from the walls, but
+most of the bows are made special, keeping the inventory down. However, the
+shop has a large supply of arrows and bolts if you already have a bow.
+~
+180 12 0 0 0 0 255 0
+D3
+~
+~
+0 -1 18046
+S
+#18048
+The corner of East Wind and Business Row~
+   The masses of Samsera swarm around you like flies. This is where the common
+folk shop for their daily needs and supplies. Most of the businesses in Samsera
+can be found somewhere on Business Row, with the shops specializing in war to
+your south, and those aimed at helping the injured to your north.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18050
+D1
+~
+~
+0 -1 18092
+D2
+~
+~
+0 -1 18046
+D3
+~
+~
+0 -1 18049
+S
+#18049
+The Street of the East Wind~
+  The east wind is the fairest wind, born with the summer rains. It
+is the signal of new times, and of new beginnings. As such, this 
+street is dedicated to helping those new to the town.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18048
+D3
+~
+~
+0 -1 18024
+S
+#18050
+Healer's Way~
+   This section of Samsera's business district specializes in the healing arts
+and nature stores. There are several stores to help those in need of magical
+aid, most of which are run by clerics.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18052
+D1
+~
+~
+0 -1 18051
+D2
+~
+~
+0 -1 18048
+S
+#18051
+The Healer's Shop~
+   Dedicated to the health and welfare of all human beings, this store
+specializes in spells to help those in poor health. Whatever ails you, be
+it a small cut to a large gash, a bout of heartburn, or a nasty fall, this
+store will have something to help.
+   A small sign hangs on the wall here.
+~
+180 572 0 0 0 0 255 0
+D3
+~
+~
+0 -1 18050
+E
+sign small~
+   The sign says:
+      Due to the rapidly changing field of health care, please type "list" to
+    see what I have available to "buy" today.
+~
+S
+#18052
+Healer's Way~
+   Samsera is a new city, and some of the streets make this apparent. Several
+stores remain unfinished, waiting for someone with a dream to open a business.
+Even though several are unfinished, all the streets are well maintained at all
+times.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18185
+D1
+~
+~
+0 -1 18053
+D2
+~
+~
+0 -1 18050
+S
+#18053
+The Map Shop~
+   Shelves filled with maps and scroll cases line the shop walls.  A large
+slanted desk stands in the back with ink wells and loose parchment scattered
+about.  Possibly you can find just what or where it is your looking for in
+here. A sign hangs on the desk.
+~
+180 8 0 0 0 1 255 0
+D3
+~
+~
+0 -1 18052
+E
+sign~
+&03--------------------
+:                  :
+:  Many areas lie  :
+:  beyound  those  :
+: depicted on these:
+:       maps       :
+:                  :
+--------------------
+~
+S
+#18054
+The Square of Life~
+   The Clerics of the city have had a lot of influence in this part of the
+business district. Most of the shops in this area have something to do with
+health and well-being, and the upkeep of the street reflects that. Healthy
+trees and beautiful plants line the street as far as the eye can see.
+~
+180 0 0 0 0 1 255 0
+D2
+~
+~
+0 -1 18184
+D3
+~
+~
+0 -1 18183
+S
+#18055
+Healer's Way~
+   Healer's Way specializes in making people feel better. Most shops here tend
+to treat the physical ailments, often using magical aid. But the shop to your
+north is a little different, it specializes in mental wellbeing and therapy.
+What better way to forget about your troubles than by weaving a basket?
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18056
+D1
+~
+~
+0 -1 18182
+D3
+~
+~
+0 -1 18057
+S
+#18056
+The House of Weaving~
+   This shop was started by a man who used basket weaving to keep his sanity.
+Baskets of all shapes and sizes cover the walls and shelves. Be careful which
+basket you select however, it seems the owner has a personal attachment to
+many of them and could become irate should you attempt to take one away from
+him.
+~
+180 12 0 0 0 0 255 0
+D2
+   The door leads back to Business Row.
+~
+~
+0 -1 18055
+S
+#18057
+Healer's Way~
+   All the shops in Samsera that help people recover from wounds are located
+on this section of street. Whatever the wound, someone here should be able to
+help. Even if your not injured, but want to improve yourself, shops like the
+MetaPhysican's to your north can help.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18058
+D1
+~
+~
+0 -1 18055
+D3
+~
+~
+0 -1 18059
+S
+#18058
+The MetaPhysician's Shop~
+   You have entered a shop that pulsates with magic so strong that it makes the
+hair on the back of your neck stand on end.  It is rumored that the old man
+standing behind the counter has the ability to boost your physical abilities,
+but at a great cost.  The old man will actually operate on the neurons in your
+brain, causing you to be smarter, quicker, or whatever you like.  It is rather
+traumatic however, and could cause you to lose some of your memory, but
+everything has its price right?    
+~
+180 12 0 0 0 1 255 0
+D2
+   The doorway leads back to the confusion of the Business Row.
+~
+~
+0 -1 18057
+S
+#18059
+The corner of North Wind and Business Row~
+   Many people walk by you here as they browse the shops of 
+business row. This section of the street, east and west of you, 
+is dedicated to all things arcane in nature. Potions, salves, 
+wands, staves, and many other magical trinkets can be found here.
+~
+180 0 0 0 0 1 255 0
+D0
+   In the distance you can see the massive North Gate.
+~
+~
+0 -1 18082
+D1
+   The crowds obscure your attempt to see down Business Row.
+~
+~
+0 -1 18057
+D2
+   In the distance you can see the Intersection with Guild Row.
+~
+~
+0 -1 18088
+D3
+  The crowds obscure your attempt to see down Business Row.
+~
+~
+0 -1 18060
+S
+#18060
+The Road of Wonders~
+   Magical faerie fire covers the buildings in this corner of town. You've
+defiantly stumbled upon the homes of Samsera's magical community. It seems as
+if this section of town has been turned into the magical trading community,
+where any magical good can be bought or traded.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18061
+D1
+~
+~
+0 -1 18059
+D3
+~
+~
+0 -1 18062
+S
+#18061
+&12The Raven Oracle&00-NewsStand and Offices~
+   You stand before a large wooden counter which fronts an elaborate 
+looking building. Neatly organized upon the counter are issue upon issue
+of Samsera's only newspaper. A sign 'The Oracle' stretches above a door
+in the building. From where you stand, you are able to see many elves
+running about hastily with pens and paper..likely trying to prepare for
+the next issue. The newsstand clerk smiles and winks at you as if he
+knows something you don't.
+~
+180 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18060
+E
+sign~
+A Massive, iron-wrought sign is here reading:
+   &12THE RAVEN ORACLE&00-Est. Year 215
+~
+E
+stand~
+This newsstand is made of the finest elven woods and makes a lovely
+storefront to sell anything! It is covered in what you perceive to be
+thousands of newspapers!
+~
+S
+#18062
+The Road of Wonders~
+   Businesses of a magical nature seem to be grouped in this section of town.
+You can see several mages traveling from shop to shop, trying to find just the
+right ingredient for a new spell.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18063
+D1
+~
+~
+0 -1 18060
+D3
+~
+~
+0 -1 18181
+S
+#18063
+The Magic Shop~
+   Magical items abound in this shop. Even though some mages feel magical
+items gives too many of the mundane the ability to use magic, this store feels
+everyone should have some access to the arcane. However, you'll only be able
+to find some of the minor magic here, mages don't want mundanes to become too
+powerful, now do they?
+~
+180 12 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18062
+S
+#18064
+The Square of Mysteries~
+   This section of town is often host to the magical bazaar. Mages from all
+over the lands come here to sell their magical wears when the bazaar is in
+town. The town has to spend months cleaning up and rebuilding after the
+bazaar, from all the spell misfires and accidents, so the bazaar is not
+commonplace. Consider yourself lucky should it be in town.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18179
+D2
+~
+~
+0 -1 18178
+S
+#18065
+The Road of Wonders~
+   The magical nature of this neighborhood tends to have you on guard. Several
+times you could swear you saw movement out of the corner of your eye, only to
+find nothing when you turned to face it. And you also think you hear whispers,
+talking about you perhaps.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18177
+D2
+~
+~
+0 -1 18067
+D3
+~
+~
+0 -1 18066
+S
+#18066
+The Apothecary~
+   If magical potions are what you desire then you've certainly come to the
+right place. Bottles and beakers of strange fluids abound in this quaint shop
+of the arcane. While the shop itself only makes a few stock potions,
+adventurers sell many a strange item to the shop, causing the inventory to
+become quite large at times.
+   A small sign hangs on the wall.
+~
+180 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18065
+E
+sign small wooden~
+   The sign says:
+       Since we can never be totally sure of inventory, please type "list" to
+         see a reasonable estimation of what we have on hand.
+       Type "sell <item>" and we'll try to buy it from you.
+       Type "offer <item>" and we'll see how much something is worth for you.
+         oh, and of course
+       Type "buy <item>" to buy anything we have on hand.
+~
+S
+#18067
+The Road of Wonders~
+   Magical intervention has played a part in the creation of this section of
+town. It appears as if many different mages have practiced their skills in the
+building of this place. Construction of several buildings would be impossible
+using normal techniques, they look so unstable. Only magical forces keep most
+of the buildings standing.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18065
+D1
+~
+~
+0 0 18091
+D2
+~
+~
+0 -1 18087
+D3
+~
+~
+0 -1 18068
+S
+#18068
+Elie's Appraisal Shop~
+   From floor to ceiling, the room is stacked with magical implements of all
+kinds.  Balls of yarn that fight with inanimate cats scurry throughout the
+room, and nearly a dozen objects glow with Avernesque hellfire.  Animals are at
+home in the nooks and crannies of cubbards and jars and books are fighting each
+other for dominance in the so-called "Order of the Alfo Betics", a new school
+of though Elie has recently heard of from the far eastern lands.    
+~
+180 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18067
+S
+#18069
+The Raven Policy Chamber~
+   You step into this large room, which is occupied by a single tablet of
+stone.  Though never viewed, this is the place where the Immortals post message
+pertinent to current Mud policy.  It is the responsibility of the adventuring
+mortals of the world to keep themselves informed of what these rules of play
+here.  Read carefully.    
+~
+180 60 0 0 0 0 255 0
+D4
+~
+~
+0 0 18012
+S
+#18070
+The Street of the West Wind~
+  This street is dedicated to the western winds, the winds of the
+summer rains. Samsera hopes to ward off future destruction by showing
+its respect for the powers of nature that once destroyed this humble
+settlement. The street continues to the Western Gate, or back to
+Town Square.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18119
+D3
+~
+~
+0 -1 18087
+S
+#18071
+Shadow Road~
+   The large buildings in this section of town cast deep, dark shadows, ideal
+for thieves and others who would rather not be recognized buying a certain
+piece of merchandise.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18087
+D2
+~
+~
+0 -1 18073
+D3
+~
+~
+0 -1 18072
+S
+#18072
+The Jewelry Store~
+   Fine jewels are the object of this storekeeper's desire. Many adventurers
+find ancient jewelry in the deepest depths of dungeons. While most stores wont
+accept gems in place of gold, this store will turn your gems into gold. Of
+course since you usually have no idea what the gem is worth, the dealer is
+probably going to get a better deal.
+~
+180 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18071
+S
+#18073
+Shadow Road~
+   Several poor adventurers come out of the store to your west. It looks like
+they sold everything they could in order to afford some food to keep them
+alive through the coming weeks.
+   You mumble a silent prayer that this doesn't happen to you.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18071
+D2
+~
+~
+0 -1 18176
+D3
+~
+~
+0 -1 18074
+S
+#18074
+The Kender's Pouch~
+   The name to this store is a curiosity in itself, for no one knows what a
+kender is. But this store is the equivalent of the local pawn store, you can
+sell something here and buy it back at the same price. However, the item will
+be up for sale and anyone could buy it, so if you really want the item back
+you'll have to hurry.
+~
+180 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18073
+S
+#18075
+The Square of Deceit~
+   This square is cloaked in shadows. It is a favorite meeting place for
+illegal merchants trying to sell stolen goods of various types. You doubt that
+anything here isn't stolen, but you can't beat the prices!
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18175
+D1
+~
+~
+0 -1 18192
+S
+#18076
+Shadow Road~
+   Shadows cloak this road in secrecy. Several shapes disappear into small
+alleyways as you approach, apparently deciding you too tough a target to rob,
+or perhaps running to ambush you at a later time, you can't decide.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18078
+D2
+~
+~
+0 -1 18077
+D3
+~
+~
+0 -1 18191
+S
+#18077
+The Leather Shop~
+   Fine leather goods are all this shop sells. All work is done on site by an
+expert leather worker. Judging from the amount of equipment hanging on the
+walls, you'd say he does a fairly fine business. Of course, not many people
+can afford more than leather, and leather is better than nothing.
+~
+180 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18076
+S
+#18078
+Shadow Road~
+   Although the street in this section of town is slightly decaying, but the
+shadows for which this street is named hides it well. Most stores in this
+section of town have some illegal or "shadow" dealings, so the street is aptly
+named.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18038
+D2
+~
+~
+0 -1 18079
+D3
+~
+~
+0 -1 18076
+S
+#18079
+The Towne Locksmith~
+   This is one of the strangest shops you have ever seen. The walls, floors,
+and even the ceiling are covered with doors, each with a seperate lock. In
+fact if you had closed the door behind you, you're not sure if you would be
+able to figure out which door is the correct one out!
+   A small sign hangs on one of the doors.
+~
+180 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18078
+E
+sign small~
+   It says:
+      This is the exit you dope!
+~
+S
+#18080
+The Street of the South Wind~
+    The street is quiet here, free for once from the general bustle of the
+city. The street leads to some goverment buildings to the north while to the
+south is the wharf district.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18038
+D1
+~
+~
+0 0 34701
+D2
+~
+~
+0 -1 18114
+S
+#18081
+The Stables of Samsera~
+   You have entered a rather large stable. Someone has started building
+a counter against the far wall, but as yet it is incomplete. Large bails
+of hay and sacks of grain are stockpiled in the loft above your head.
+
+~
+180 156 0 0 0 0 255 0
+D3
+~
+~
+0 -1 18043
+S
+Z 19314
+#18082
+The Street of the North Wind~
+   The road continues north to the Great North Gate or south to the Town
+Square.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18159
+D2
+~
+~
+0 -1 18059
+S
+#18083
+The High Cathedral of Questing~
+   You gasp in wonder as you enter this wondrous room.  Its walls and floor are
+covered in intricate carved stone murals, obviously by the most skilled dwarven
+craftsmen.  The ceiling is domed, and made of colored panels of stained glass,
+each one depicting an Immortal.  This room seems to be a monument to those
+mortals who constantly overcome the tests and adversities placed before them by
+the Gods.    
+
+An ancient &10tome&00 sits upon a stone pedestal in the center of the room.
+~
+180 8 0 0 0 1 255 0
+D1
+~
+door glass~
+2 0 18011
+E
+increase power accuracy~
+&03Temporary Damage and Accuracy Power-Ups&00
+---------------------------------------
+
+1) Both Damage and Hitroll power ups are added onto your current stats.
+   (ie. If you have a 60 absolute damroll and a 20 absolute hitroll, with
+   a 5/5 modifier (8 qp value), you stats will change to 65 Damroll and
+   25 hitroll.)
+
+2) A maximum of 5 damage and 5 hitroll can be purchased at one time.
+
+3) The effects of these powerups is temporary. They are active from the moment
+   the Immortal bestows them upon you until: A) You rent. or B) The mud
+   crashes.
+
+4) The Immortals are not responsible for the powerup loss in case of the mud
+   crashing. In certain circumstances, they may regrant you your powerup.
+
+5) Powerups can be requested from any Higher Immortal at any time they
+   are present. If you wish to be granted a powerup at a specific time, you
+   may wish to contact an Immortal via mudmail and make a appointment.
+
+~
+E
+customization~
+&10Equipment Customization&00
+
+A piece of quest gear can have a maximum of two unique updates done to it.
+For example you could add 1 point of strength and 2 points of dex. This of 
+course will cost extra QP's, but the order of RavenMUD has always been
+Good, Better, Best, Never Rest! The chart below represents additional prices 
+apart from the base price of 1,000 Quest Points on the gear you purchase.
+
+&10Deviating Slot from Base Quest Gear&00
+
+About Body - 300 Qpoints
+Ankles - 400 Qpoints
+Body - 400 Qpoints
+Bracelet - 200 Qpoint
+Ear - 400 Qpoints
+Face - 400 Qpoints
+Feet - 300 Qpoints
+Finger - 400 Qpoints
+Held - (Mage & Necro - 400) (All Other Classes - 300)
+
+&10Bonus Stats&00
+
+Strength - 250 Qpoints per +1 increment, max of 5
+Dexterity - 250 Qpoints per +1 increment, max of 5
+Int/Wis - 300 Qpoints per +1 increment, max of 5
+Constitution - 150 Qpoints per +1 increment, max of 5
+Vigor - 15 Move = 150 Qpoints, 30 Move = 300 Qpoints (Feet Only)
+Armor - 100 Qpoints per -1 decrease, max of -10
+Hitroll - 100 Qpoints per +1 increment, max of 4
+Saves - 150 Qpoint per -1 decrease, max of 5 (includes para, spell, petri, & breath)
+Spell Duration - 800 Qpoints for a 30 percent increase, no less no more.
+
+&10Perma Spell Affects&00
+
+If you purchase a perma affect that your class already has it will be much cheaper than
+a class that does not have such a spell. In the chart below the first number will 
+represent the cost of QPs for those classes that already have the spell, second number 
+for those classes that do not.
+
+Detect invisibility - 500/1,000 Qpoints
+Sense Life - 500/1,200 Qpoints
+Infravision 500/1,200 Qpoints
+Fly - 400/800 Qpoints
+Regen - 500/800 Qpoints
+
+&10Bonus Additions&00
+
+Turn your held item into a portal and set the location of where your portal will take you.
+MUST be in one of the major cities. This will cost 1,000 Qpoints
+
+Block the affects of the sun from your Drow or Vampire character. This will cost an 
+additional 1,000 Qpoints.
+
+~
+E
+equipment~
+Mortals can sacrifice quest points for a specialized artifact of 
+great power. These items can be named to whatever the mortal wishes
+As well, the area where the artifact will be worn can be chosen from 
+one of the following:
+HEAD, LEGS, HANDS, WAIST, CLOAK, NECK, ARMS, SHIELD
+
+&10Warrior&00
+13AC, +5 to DAMROLL, +50 to MAXHIT, +10 to MAXMOVE
+&10Solamnic Knight&00
+15AC +5 to DAMROLL, +30 to MAXHIT, +20 to MAXMANA
+&10Death Knights&00
+15AC +5 to DAMROLL, +30 to MAXHIT, +15 to MAXMANA, +1 to HITROLL
+&10Ranger&00
+13AC  +5 to DAMROLL, +30 to MAXHIT, +15 to MAXMANA, +10 to MAXMOVE
+&10Assassin&00
+13AC +5 to DAMROLL, +3 to HITROLL, +20 to MAXHIT, +20 to MAXMOVE
+&10Thief&00
+13AC +5 to DAMROLL, +4 to HITROLL, +20 to MAXHIT, +15 to MAXMOVE
+&10Shadow Dancer&00
+13AC +5 to DAMROLL, +25 to MAXHIT, +20 to MAXMANA, +1 to HITROLL
+&10Mage&00
+13AC +4 to DAMROLL, +20 to MAXHIT, +40 to MAXMANA, +1 to HITROLL
+&10Cleric&00
+13AC +4 to DAMROLL, +10 to MAXHIT, +50 to MAXMANA, +1 to HITROLL
+&10Shou-lin&00
++5 to DAMROLL, +30 to MAXHIT, +15 to MAXMANA, -8 to ARMOR
+&10Necromancer&00
+13AC +4 to DAMROLL, +25 to MAXHIT, +35 to MAXMANA, +1 to HITROLL
+
+For those players that want the very BEST, you can add some customizations
+to your quest equipment. Type '&03look customization&00' for more info.
+~
+E
+tome book pedestal~
+   You come closer to the large tome and open it. Noticing a thick velvet and silk
+marker hanging from its top, you decide to turn the ancient pages to that point.
+At the top of the page reads 'The Bestowal and Gifts of the Gods'.
+You quickly skim through much of the text, which rambles on in heavily worded
+jargon about the Immortal's running of quests for their mortal brethren and
+awarding them Sacred Blessings for their deeds.
+
+   These 'Blessings' are known in the mortal realm as 'Quest Points' and can
+be accumulated over a mortal's lifetime. To reward their daring, Immortals
+award mortals for their daring with divine gifts. The greater amount of Quest
+Points a mortal has, the greater their reward can be.
+
+
+You finally come to a point where it reads '&10Known Quest Rewards&00'..
+
+To read the listings on quest equipment rewards, '&03Look equipment&00'.
+Some stats on equipment can be further customized, '&03look customization&00' for more info
+
+To purchase a reward, '&03list&00' then '&03buy <name>&00'
+
+To purchase a temporary orbital, '&03look orbital&00' for information.
+
+To purchase a temporary power increase, '&03look power&00' for information.
+
+~
+E
+orbitals~
+Temporary orbitals are available for purchase with Quest Points awarded
+by the gods. Each orbital gives different enhancements to the player.
+Their names may or may not indicate their exact function, and all of them
+have functions above and beyond what may be immediately apparent.
+&00
+Each orbital has a timer for a half day worth of play time, so won't 
+disintegrate during a normal play session. They are !rent so you cannot 
+save them between play sessions, and therefore also cannot be placed 
+in lockers for storage. Further, if you drop an orbital it will explode 
+into non-existence. No refunds for such an occurance will be given.
+&00
+Each orbital goes into the 'orbit' equipment slot, so only one may be used
+at a time. It is left to the players to discover what precisely each orbital
+does.
+&00
+Type 'list' to see prices for both the orbitals and regular purchasable spell
+enhancements.
+~
+S
+#18084
+The Mayor's House~
+   Samsera provides for its mayor well.  Plush furniture decorates each room,
+some of the most expensive you've seen.  Of course the mayor does have a hard
+job.  It is the mayor's job to lock and unlock each gate of the town.  And
+don't forget, he has to fight off those that would criticize the work he is
+doing; he can't let just anyone have a key to the city.    
+~
+180 8 0 0 0 0 255 0
+D0
+Outside lies the street of the north wind, one of Samsera's main highways.
+~
+door~
+1 -1 18085
+S
+#18085
+The Street of the West Wind~
+   This street is dedicated to the western winds, the winds of the summer
+rains. Samsera hopes to ward off future destruction by showing its respect for
+that powers of nature that once destroyed this humble settlement.
+~
+180 0 0 0 0 1 255 0
+D0
+To the north lies the bank of Samsera.
+~
+door~
+1 -1 18086
+D1
+~
+~
+0 -1 18005
+D2
+A lavish mansion lies to the south, the residence of Samsera's current Mayor.
+~
+door~
+1 -1 18084
+D3
+~
+~
+0 -1 18119
+S
+#18086
+The Bank of Samsera~
+   Constructed of tightly fitting stone blocks, this is certainly one of the
+most defensible and impregnable buildings in the city. This is where a smart
+adventurer would store his money before running off on some dangerous journey.
+   There is a sign hanging on the wall.
+~
+180 140 0 0 0 0 255 0
+D0
+~
+vault~
+1 18180 41101
+D2
+The sounds of town life come from the southern door.
+~
+door~
+1 -1 18085
+E
+sign wall~
+   The sign reads:
+       You may use the following transactions to deal with your money here
+           Deposit (number of coins): will put your money into the bank
+           Withdraw (number of coins): to take out money from your account
+           Balance: to see how much money you have in the bank
+
+                                                - The Manager
+~
+S
+#18087
+The corner of West Wind and Business Row~
+   Most of the streets in Samsera are fairly deserted, this street however, is
+packed with hundreds of shoppers. Shoppers flock from store to store, browsing
+and talking as they go. Apparently shopping is the social event in this town,
+not much else to do unless you are an adventurer. Perhaps you should take a
+look at the shops on business row too.
+~
+180 0 0 0 0 1 255 0
+D0
+   A strange and wonderful street lies in that direction, you can tell it must
+be the work of powerful mages.
+~
+~
+0 -1 18067
+D1
+~
+~
+0 -1 18070
+D2
+   The road to the south lies cloaked in shadows, obviously a dangerous place.
+~
+~
+0 -1 18071
+D3
+~
+~
+0 -1 18095
+S
+#18088
+The Street of the North Wind~
+   As you walk by this section of street, you hear the chants of a wedding
+coming from the church to your west. All weddings in Samsera take place here,
+and all divorces take place in the court across the street from the church!
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18059
+D1
+To the east stands a small oddly shaped building, the Hall of Clans.
+~
+door marble wood~
+1 -1 18089
+D2
+~
+~
+0 -1 18030
+D3
+   A beautiful church sits proudly in that direction.
+~
+~
+0 -1 18090
+S
+#18089
+The Hall of Clans~
+   You step into a large multi-sided chamber which reminds you of some sort of
+museum.  Each panel, rendered in fine marble, gives information about one of
+the infamous clans known to at one time inhabit the realms.  Much information
+about the Clans of old has been lost in the great Upheavals, but these panels
+give you an idea of what they might have been like.  From side to side, the
+clan names have been listed:
+
+The Valar                  The Damned                       The Avail
+
+The Warriors of Faith      The Wanderers                    The Watchers
+
+Dark Justice               The Elysian Spirits              The Mandala
+
+The Forsaken               The House of the Shadowlurkers   The Blackmere
+~
+180 8 0 0 0 0 255 0
+D3
+A wood and marble inlaid door leads to the street outside.
+~
+door marble wood~
+1 -1 18088
+E
+wanderers~
+Etched deeply into the polished stone is the following........
+
+&03Clan Name:&00 &09The Wanderers&00
+&03Clan Leader/s:&00 Dragos, Caliquendi
+&03Rumored Location of Clan Hall:&00 Somewhere north of Samsera
+&03Gods Worshipped/Religion:&00
+&03Clan Entry Restrictions:&00
+~
+E
+Forsaken~
+Etched deeply into the polished stone is the following........
+
+&03Clan Name:&00 &08The Forsaken&00
+&03Clan Leader/s:&00 &08Gangrel, Yashiro&00
+&03Rumored Location of Clan Hall:&00 Unknown
+&03Gods Worshipped/Religion:&00 We don't need no stinkin gods...
+&03Clan Entry Restrictions:&00
+1- Applicant must be a minimum of level 35 to apply.
+2- Applicant must be Sponsored by a member in good standing.
+3- Applicant must pass a vote to all members.
+4- Applicant must pass an interview by a Leader.
+~
+E
+House of the the Shadowlurkers HS~
+Etched deeply into the polished stone is the following........
+
+&03Clan Name:&00 &04House of the Shadowlurkers&00
+&03Clan Leader/s:&00 Squall, Regis, Prettz
+&03Rumored Location of Clan Hall:&00 Eastern Cities-Unknown
+&03Gods Worshipped/Religion:&00 None
+&03Clan Entry Restrictions:&00
+1- Applicant must be a minimum of Level 30.
+2- Applicant may apply to any member of HS Clan.
+3- Applicant will undergo an 'interviewing' process with a HS Clan Leader.
+4- Applicant must receive majority approval from the Clan Leaders.
+5- Applicant will be granted Plebe status upon completion of a sacred Clan Ritual.
+~
+E
+dark justice DJ~
+Etched deeply into the polished stone is the following........
+
+&03Clan Name:&00 &05Dark Justice&00
+&03Clan Leader/s:&00 Berzerker, Calideon, Daedelus
+&03Rumored Location of Clan Hall:&00 Freehold
+&03Gods Worshipped/Religion:&00
+&03Clan Entry Restrictions:&00
+1- Must be Level 30 to Apply
+2- Must apply in writing to Berzerker, explaining how and why you feel
+you would make a good addition of Dark Justice.
+3- General opinion of possible Plebe is discussed within clan.
+4- Applicant is approved to be granted Plebe status only upon unanimous
+      approval from all clan Leaders.
+~
+E
+elysian spirits ES~
+Etched deeply into the polished stone is the following........
+
+&03Clan Name:&00 &13The Elysian Spirits&00
+&03Clan Leader/s:&00 Cresus
+&03Rumored Location of Clan Hall:&00 New Thalos
+&03Gods Worshipped/Religion:&00
+&03Clan Entry Restrictions:&00
+~
+E
+Mandala~
+Etched deeply into the polished stone is the following........
+
+&03Clan Name:&00 &11The Mandala&00
+&03Clan Leader/s:&00 Mithros, Cloud, Elmdor
+&03Rumored Location of Clan Hall:&00 The Lost City
+&03Gods Worshipped/Religion:&00
+&03Clan Entry Restrictions:&00
+~
+E
+plaque bronze small~
+It reads:
+   The police used to watch over the people,
+      Now they're watching the people....
+~
+E
+stone bench desk~
+  The large desk is not unlike that of the bench a judge would sit behind.
+There is a small bronze plaque near the bottom, out of sight of the casual
+observer.
+~
+S
+#18090
+The Church of All Gods~
+   Huge stain glass windows allow the sunlight to bathe the church in a
+heavenly glow. The entire church is carved out of pure marble, and gold
+accents have been used to highlight the accessories. This church was created to
+represent all faiths no matter how large or small, all may worship here in
+their own way.
+~
+180 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18088
+D5
+A cellar door leads down to the mortuary.
+~
+cellar door~
+1 -1 18096
+S
+#18091
+The Bakery~
+   The aroma of fresh baked bread sets your mouth watering and your stomach
+growling. Few mortals can resist the fine samples this shop provides,
+especially after a hard day of adventuring. You should eat something to keep
+your strength up, better this than the remains of some dog.
+~
+180 12 0 0 0 0 255 0
+D3
+~
+~
+0 0 18067
+S
+#18092
+The Street of the East Wind~
+   A strong wind blows through this section of town. All the buildings here
+have been shuttered and bolted down for a storm, even though storms are
+controlled in Samsera by a powerful djinn.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18151
+D3
+~
+~
+0 -1 18048
+S
+#18093
+Before the West Gate~
+   You stand before the massive structure of the West Gate. Designed to
+protect against intruders, it is not the most massive gate in the town, but
+none the less impressive. High above you can see guards looking down over the
+population from small arrow slits. If you continue farther west, you will
+leave the city limits.
+~
+180 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18166
+D1
+~
+~
+0 -1 18095
+D2
+~
+~
+0 -1 18168
+D3
+~
+~
+0 0 18098
+S
+#18094
+The Samsera Dressing Room~
+   This small chamber is equipped with a small bench and rack for hanging
+equipment.  Its primary use is for those adventurers who need to equip or
+unequip themselves before or after spending some time in the safety of the Inn.
+It looks quite safe, and you are positive you will not disturbed by anything
+aside from the wayward adventurer.    
+~
+180 140 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18017
+S
+#18095
+The Street of the West Wind~
+   Houses in this section of the street are still closed, waiting for new
+owners to take possession of them. Samsera is still a growing town, new houses
+and shops are built almost everyday.
+   The street continues to the west gate to your west, and to the center of
+town in your east.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18087
+D3
+~
+~
+0 -1 18093
+S
+#18096
+The Mortuary~
+   This room lies deep below the earth keeping the temperature a low as
+possible. Many bodies lie here, many days past death. Here is where they wait
+for a proper burial, or to be taken by the necromancers for study.
+~
+180 156 0 0 0 0 255 0
+D2
+You see a small trap door.
+~
+trap door~
+1 0 7038
+D4
+A short circular stairway leads upwards into the rear of the Church of All Gods.
+There is a cellar door which keeps intruders out.
+~
+cellar door~
+1 -1 18090
+D5
+~
+trap door~
+1 0 39010
+S
+#18097
+The East Gate to Samsera~
+   The massive stone gate looms above you.  Each granite block has been
+perfectly fitted together, not a seam anywhere.  You notice however, several
+small holes high above you.  No doubt soldiers lay in wait to throw spears or
+arrows at you should you prove to be a bandit in disguise.  An impressive
+building of gray stone lies far to the north, protected by a small stand of
+lush trees.  A warm glow emanates from its open doorway.    
+~
+180 8 0 0 0 1 255 0
+D0
+~
+~
+0 0 20097
+D1
+   A small road leads out the east gate and in the distance you can see the
+turning point, where you can go to the gnome village, the dwarven village, or
+into the forest.
+~
+~
+0 -1 3503
+D3
+Before you is one of Samsera's massive stone gates, able to bar all entry from the city.
+~
+Gate~
+1 18103 18151
+S
+#18098
+The West Gate to Samsera~
+   The impressive West gate towers above you, its stone construction
+testifying to the power of the city. A lesser town might have a wooden gate or
+no gate at all, but Samsera is well defended by this gate. No raiders would
+dare attack a town with this as a defense.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18093
+D3
+~
+~
+0 0 6092
+S
+#18099
+The North Gate to Samsera~
+   The massive construction of the North gate looms above you. This is the
+largest and most well defended gate in Samsera, made to deal with the threats
+from the north. Not even a dragon could crack this construction, and you've
+heard rumors that they've tried.
+~
+180 8 0 0 0 1 255 0
+D0
+   To the north you see large fields, and in the distance a great mountain
+range reaching to the sky.
+~
+~
+0 -1 10601
+D2
+~
+~
+0 0 18159
+S
+#18100
+The Way of Faith~
+   You stand upon the Way of Faith, the quarter devoted to the guilds of the
+Shou-Lin, Cleric, and Solamnic Knight.  The street is made of fine white
+cobblestone and lined with iron lamps, giving off a warm yellow glow.    
+To the northwest you spot the Monastery, to the west you are able to see the bakery, and
+to the east you easily spot the side of the Samsera Bank.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18034
+D2
+~
+~
+0 0 18119
+E
+book blood~
+   This is the &08Book of Blood&00. Sign it if you wish but bear in mind
+   that once a signature has been entered it may &09never&00 be removed.
+~
+S
+#18101
+The Estate of the Ranger's Guild~
+   The 'estate' of forest which makes up the training grounds for the Guild of
+Rangers is enormous, taking up more room than any other three guilds combined.
+This forest lies in the southwest quarter of the city and is rumored to extend
+past the city walls in some places.  It is contained at this point by a large
+stone wall, preventing entry from any place other than the gate you stand
+before now.    
+~
+180 516 0 0 0 3 255 0
+D1
+~
+~
+0 0 18121
+D3
+~
+~
+0 0 38101
+E
+block_msg_char~
+$N quickly steps in front of you, preventing passage into the Ranger's Guild. 
+~
+E
+block_msg_room~
+$N steps in front of $n, blocking $s passage into the guild.
+~
+E
+block_dir~
+west
+~
+S
+#18102
+&13The Temple of the Journeyman&00~
+   Large stone steps lead down into the Center of Samsera from this large
+elevated plateau.  The Temple is made of a cracked white marble, adding to the
+feeling of purity and peace you always experience here.  Large columns reach to
+the sky, surrounded by many benches and tables.  Faces, both familiar and
+strange, relax here, seeking a brief shelter and safety from the rigors of the
+world below.    
+~
+180 393756 2 0 0 0 255 0
+D2
+~
+Fate~
+2 0 37802
+D4
+~
+~
+0 0 1401
+D5
+~
+~
+0 0 18001
+S
+#18103
+Wall Road~
+You stand at the base of the mighty city wall. Designed to protect the city
+from any invading force, their seventy-five foot height would be a challenge
+for even the mightiest of dragons.
+   The road you are currently on, Wall Road, follows the walls around the city.
+~
+180 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 18162
+D3
+~
+~
+0 0 18111
+S
+#18104
+The Guild of Warriors~
+   Massive stone statues adorn the single entrance to the guild depicting some
+of the greatest fighters this land has ever seen.  This building is dedicated
+to warriors and the purest of the fighting arts.  Few unarmed skills are taught
+here, for they believe the finest weapon a fighter can have, is a piece of
+steel at their side.    
+~
+180 524 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18125
+D2
+~
+~
+0 -1 38001
+E
+block_msg_char~
+$N grabs you by the throat and throws you back to the street. 'No Entry, Dog!'
+~
+E
+block_msg_room~
+$N grabs $n by the throat and shoves them backwards.
+~
+E
+block_dir~
+south
+~
+S
+#18105
+Upstairs at the Inn~
+You are in an upstairs hallway at the Inn. There are several rooms on this floor
+devoted to the quieter pursuits of some of the guests 
+~
+180 32 0 0 0 0 255 0
+D2
+To the south lies a thick leather lined door.
+~
+door thick leather~
+1 -1 18106
+D5
+Below lies the common room of the Ravenspeak Inn.
+~
+~
+0 0 18012
+S
+#18106
+The &08Crimson Library&00~
+&08&00You are standing in an eerily quiet room &00that is bathed entirely in
+&08red.  &00The floor is covered by a thick and luxuriant &08crimson rug
+&00that looks to have had some heavy use.  Standing in the center of the room
+is a &08ruby-red crystalline podium.  &00On it is a large tome bound in
+&08scarlet leather.  &00The room is enclosed by floor-to-ceiling bookshelves
+all of which are crowded with volumes.  Scattered about the room are four deep
+armchairs facing the four sides of the room.  &00
+~
+180 393400 0 0 0 0 255 0
+D0
+To the north lies a thick leather lined door.
+~
+door thick ~
+1 -1 18105
+S
+#18107
+The Sakya Monestary~
+   You stand before the entrance to the Sakya Monestary, home to the guild of
+the Shou-lin.  The monestary is quite large, with high stone walls of painted
+grey brick.  The tangy scent of burning juniper wafts from outdoor burners, and
+a feeling of peace comes over you.    
+~
+180 524 0 0 0 0 255 0
+D1
+~
+~
+0 0 18034
+D3
+~
+~
+0 0 38201
+E
+block_msg_room~
+$N quickly steps in front of $n. It's obvious $e is not welcome within.
+~
+E
+block_msg_char~
+$N deftly steps in front of you, blocking your entry. His eyes warn you of danger.
+~
+E
+block_dir west~
+west
+~
+S
+#18108
+The Fishing Shack~
+If fishing is your game than the Fishing Shack is the right spot to be!
+The walls are lined with rods, reels, lures, kreels, riggings, maps,
+and bait. Signs offering charters and guides fill the small amount of
+empty space.
+~
+180 28 0 0 0 0 255 0
+D2
+~
+~
+0 0 18140
+S
+#18110
+Before Solgaard Keep~
+   Across a shallow moat lies the gate to Solgaard Keep, home to the Solamnic
+Knights of Samsera and training grounds for the city's militia.  The Keep is a
+cross somewhere between a cathedral and a castle, built to withstand a siege.
+Also known as the 'Fortress within a Fortress' because of Samsera's own
+perimeter defense.  Knights train within the fortress in preparation for
+battle, even in times of peace.  This is a Knight's duty.    
+~
+180 524 0 0 0 1 255 0
+D0
+A large wooden drawbridge leads over a shallow moat into the keep.
+~
+drawbridge~
+1 -1 38401
+D2
+~
+~
+0 0 18032
+E
+block_dir~
+north
+~
+E
+block_msg_char~
+$N glares at you and says, 'You're no knight!' He shoves you backwards roughly.
+~
+E
+block_msg_room~
+$N glares at $n and tells him, 'You're no Knight!'. $n is shoved backwards roughly.
+~
+S
+Z 38401
+#18111
+Wall Road~
+You stand at the base of the mighty city wall. Designed to protect the city
+from any invading force, their seventy-five foot height would be a challenge
+for even the mightiest of dragons.
+   The road you are currently on, Wall Road, follows the walls around the city.
+~
+180 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 18103
+D3
+~
+~
+0 0 18112
+S
+#18112
+Wall Road~
+You stand at the base of the mighty city wall. Designed to protect the city
+from any invading force, their seventy-five foot height would be a challenge
+for even the mightiest of dragons.
+   The road you are currently on, Wall Road, follows the walls around the city.
+~
+180 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 18111
+D3
+~
+~
+0 0 18163
+S
+#18113
+The Grand Church of the Clerics~
+   You stand just before the mighty Guild of Clerics.  Located in the largest
+church you have ever seen, the guild is only accessible to those who are true
+to the cleric fate.  This Grand Church was obviously designed with defense in
+mind, as it looks near impregnable from the outside.  Gold sculptures and
+marble carvings decorate the church in praise to the almighty gods of this
+realm.  The clerics are very strict about only letting their own join in
+services, it would not be wise to attempt further entry unless you are a
+cleric.    
+~
+180 524 0 0 0 0 255 0
+D0
+~
+~
+0 -1 38301
+D2
+~
+~
+0 -1 18033
+E
+block_msg_room~
+$N smacks $n in the head with his shield and says, 'No entry for you!'
+~
+E
+block_msg_char~
+$N knocks you in the head with his shield, sending you reeling backwards.
+~
+E
+block_dir north~
+north
+~
+S
+#18114
+The Street of Southwind~
+The street is quiet here, free for once from the general bustle of the
+city. The street leads to some goverment buildings to the north while to the
+south is the wharf district.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18080
+D2
+~
+~
+0 0 18137
+S
+#18115
+Wall Road~
+The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18123
+D2
+~
+~
+0 0 40018
+S
+#18116
+DELETE~
+DELETE
+~
+180 524 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18117
+D2
+~
+~
+0 -1 18028
+E
+block_dir~
+north
+~
+E
+block_msg_room~
+$N kicks $n in the face, sending them staggering backwards. Duh.
+~
+E
+block_msg_char~
+$N boots you in the head and knocks you to the ground.
+~
+S
+#18117
+DELETE~
+DELETE
+~
+180 393740 4 0 0 0 255 0
+D2
+~
+~
+0 -1 18116
+D5
+~
+~
+0 -1 18118
+S
+#18118
+DELETE~
+DELETE
+~
+180 520 0 0 0 0 255 0
+D4
+~
+~
+0 -1 18117
+S
+#18119
+Corner of West Wind and Guild Row~
+   East Wind extends further here, and opens up slightly to meet Guild way,
+which runs north-south at this point.  To the north lies a finely cobbled path
+into the Way of Faith.  According to some nearby shopkeepers, the entrance to
+the impressive Solamnic Stronghold is located there.  The southern part of the
+street is called the Way of Survival, as the famed Ranger's Guild is located
+there with a few other guilds dedicated to the fighting arts.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18100
+D1
+~
+~
+0 0 18085
+D2
+~
+~
+0 0 18120
+D3
+~
+~
+0 0 18070
+S
+#18120
+The Way of Survival~
+   This quarter of town is dedicated to those Guilds which are proficient in
+the arts of fighting and survival.  Even from here you can hear the clash of
+sword on shield from the south.  To the southwest lies an immense forest
+preserve which contains the Ranger's Guild.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18119
+D2
+~
+~
+0 0 18121
+S
+#18121
+The Way of Survival~
+   The street stretches north south here, from the street of the west wind
+which lies north, to the Guild of Warriors, which is close to the south.  To
+your immediate west is a massive forest, segregated from the city by high stone
+walls.  It is within this forest that the Guild of Rangers lies.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18120
+D2
+~
+~
+0 0 18125
+D3
+~
+~
+0 0 18101
+S
+#18122
+The Tower of the Arcane~
+   You stand before the entry of a small circular building from which emanates
+a yellow glow.  This building is said to house the entrance to the Tower of the
+Arcane, the Mage's Guild of Samsera.  The Tower, an inpregnable spire
+surrounded by an enchanted garden of thorns, is one of the Three of the Realms
+and is where the most powerful mages of the realm study and train.  It looms
+over Samsera, untold magics and mysteries within.    
+~
+180 524 0 0 0 0 255 0
+D1
+~
+~
+0 0 38601
+D3
+~
+~
+0 0 18027
+E
+block_dir~
+east
+~
+E
+block_msg_char~
+The ground arises into a massive guardian of earth and stone that blocks your path!
+~
+E
+block_msg_room~
+The ground shifts and morphs into a massive guardian that blocks the path of $n.
+~
+S
+#18123
+Wall Road~
+The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18126
+D2
+~
+~
+0 0 18115
+S
+#18124
+The Western Wall Road~
+The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18127
+D2
+~
+~
+0 0 18164
+S
+#18125
+The Way of Survival~
+   You stand in the corner of the square of survival, just north of the oldest
+of Samsera's guilds, the Warrior Guild.  Sounds of combat ring clearly in your
+ears here from the guild.  To your west, you see the expansive treeline of the
+Ranger's Guild.  The street extends to the north and east at this point.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18121
+D1
+~
+~
+0 -1 18169
+D2
+~
+~
+0 0 18104
+S
+#18126
+Wall Road~
+The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18170
+D2
+~
+~
+0 0 18123
+S
+#18127
+The Western Wall Road~
+The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18197
+D2
+~
+~
+0 0 18124
+S
+#18128
+The Samsera Dance-hall~
+   The dance hall is a large building with hard wooden floors. It is often
+used for dance lessons and even an occasional party. The large size however,
+allows many martial arts groups enough space to practice their techniques. It
+isn't unusual to see a Kendo training class instead of a ballet class.
+~
+180 524 0 0 0 0 255 0
+D1
+~
+~
+0 0 38701
+D3
+~
+~
+0 0 18025
+E
+block_msg_room~
+$N kicks $n in the face, sending them staggering backwards. Duh.
+~
+E
+block_msg_char~
+$N boots you in the head and knocks you to the ground.
+~
+E
+block_dir~
+east
+~
+S
+#18129
+Old SD Guild - REUSE~
+   Various dance equipment is held here. It also seems that several of the
+martial arts groups store their equipment here too. Several swords are hanging
+on the wall, except they look incredibly real to be used in a training class.
+Perhaps you're missing something here.
+~
+180 520 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18130
+S
+#18130
+Old SD Guild - REUSE~
+   This is the hidden guild of the Shadow Dancers. Combining the secrecy and
+quickness of thieves with the intelligence of a mage, shadow dancers take
+skills from both classes. Their fighting style is unlike any other class,
+their moves when done properly, appear to be a dance, a dance of death.
+   If you're a shadow dancer and need training, you've come to the right place.
+~
+180 393741 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18129
+S
+#18131
+A Well-Kept Alley~
+   This alley appears to be very well maintained.  You don't see any of the
+garbage you would expect to see in a backstreet alley.  As for the usual smell
+of rotting food, all you can smell is the delicious aromas wafting from the end
+of the alley where you can see a small outdoor restaurant.  You can't wait to
+taste the food that can make such a wonderful smell.  As you get closer to the
+restaurant you notice several people look up and eye you over but you brush it
+off and concentrate on finding a table to eat.    
+~
+180 4 0 0 0 0 255 0
+D2
+You see the source of the delicious aromas you followed and see
+many people eating and talking at this out of the way restaurant.
+~
+~
+0 0 38801
+D3
+~
+~
+0 0 18022
+S
+#18134
+The Town Butcher's Shop~
+   Display cases full of fresh (and not so fresh) meat crowd the store.
+Samsera is a very large city and consumes plenty of fresh food, so a store
+like this won't go out of business no matter what quality of food it sells.
+Which is a good thing, because some of it doesn't look like the kind of food
+you're used to eating...
+~
+180 524 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18020
+E
+block_dir~
+south
+~
+E
+block_msg_room~
+$N kicks $n in the face, sending them staggering backwards. Duh.
+~
+E
+block_msg_char~
+$N boots you in the head and knocks you to the ground.
+~
+S
+#18135
+The Butcher's Meat Locker~
+   Large slabs of beef and pork hang on meat hooks from the ceiling. This room
+is kept cold by large blocks of ice, it's not freezing however. Some of the
+larger pieces of meat are carved into more manageable slices for the store.
+Several of the slabs look strange, almost as if they were humans, but the
+butcher certainly wouldn't sell human meat...would he?
+~
+180 520 0 0 0 0 255 0
+D0
+The Freezer door leads back to the butcher shop.
+~
+freezer door~
+1 -1 18134
+D5
+~
+~
+0 -1 18136
+S
+#18136
+The Hall of Death~
+   This is the hidden lair of the assassins. Even an assassin should train
+with a master from time to time, and here is the place where they can. The
+authorities might frown on this type of training however, so most of the
+training must be done in secret, here, far below the surface of town.
+~
+180 393740 0 0 0 0 255 0
+D4
+~
+~
+0 -1 18135
+S
+#18137
+Olde River Road~
+   The refreshing smell of the river is overpowering here. From here you can
+see the river that feeds the city's water supply, and in the distance you can
+see the ocean, which the river empties into.
+   This is the road where all the shipping related stores and businesses can
+be found.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18114
+D1
+~
+~
+0 -1 18138
+D3
+~
+~
+0 -1 18171
+S
+#18138
+Olde River Road East~
+   The smells of the river assault your senses. Fish jump into the air from
+the pure river water in an attempt to avoid the nets of the fisherman. This is
+the trade center for the city, various ships from around the globe dock here
+with their strange and mysterious wares.
+~
+180 0 0 0 0 1 255 0
+D1
+   In the distance you can see large vessels unloading their cargo at the
+Samsera docks.
+~
+~
+0 -1 18140
+D3
+   The road leads back to the Street of the South Wind.
+~
+~
+0 -1 18137
+S
+#18139
+Captain Jack's Import/Export Shop~
+   Strange items from around the planet can be found in this store. Half the
+items here are indescribable and are far out of your price range. However, a
+few of the more commonplace items are for sale, if you are willing to part
+with some of your gold.
+~
+180 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18171
+S
+#18140
+Olde River Road East~
+The smell of fish and the screech of seagulls invite you to the docks.
+Ships of all sorts dock and unload their cargo. Filling the shops
+with everything from everyday goods to strange unthinkable treasures
+from afar.
+To the north the Fishing Shacks open door invites you to try your hand
+at one of the more relaxing pastimes in Raven.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18108
+D1
+   Slightly to your east you can see the docks, and in the distance you can
+see a massive stone tower.
+~
+~
+0 -1 18198
+D3
+   Old River Road continues back to the main section of town.
+~
+~
+0 -1 18138
+S
+#18141
+A massive stone chamber~
+   This chamber has been crafted as a holding bay for something large.  Three
+Adamantium cages are spaced out in the chamber.  A tall woman can be seen
+rustling around the chamber unpacking various objects.  Taking a closer
+inspection to one of the smaller cages a creature lunges forward and manages to
+slash your boot.  Realizing that it was actually a baby dragon, you step back
+realizing you are standing in a chamber filled with captured dragons and that
+Woman is in fact the infamous traveler, Langou.    
+~
+180 2097176 4 0 0 0 255 0
+D2
+   The door leads back out to the Old River Road.
+~
+~
+0 -1 18172
+S
+#18142
+Langous mob storage room~
+   This room is to be used as the load up room for Mobs to be sold at Langous
+dragon chamber r18141
+~
+180 2097200 4 0 0 1 255 0
+S
+#18143
+The Boat House~
+   This small warehouse is cluttered with boats in various stages of repair.
+Sawdust covers the floor, no doubt created in the sculpting of the vessels.
+This shop makes any size boat, from a small raft, to an ocean going vessel. If
+you need a boat, you've come to the right place.
+~
+180 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18198
+S
+#18144
+The Tower of the Winds~
+   You have entered the mighty fortress of the winds. The citizens of Samsera
+have learned to respect the winds, if a little late. It was a mighty storm
+that destroyed the town of Midgaard long ago. In seeking to protect their new
+town, the citizens made a deal with the powerful djinn, Redferne. High above
+the city in his citadel he watches, and protects the town from any dangerous
+storms that might arise.
+~
+180 140 0 0 0 0 255 0
+D1
+~
+~
+0 0 40037
+D3
+~
+door~
+1 -1 18198
+S
+#18145
+The Eastern Wall Road~
+   This section of road ends at the doorstep to the massive Tower of the Winds.
+Built to protect the city from any form of magical attack, it is the home of a
+powerful djinn who has granted his services to the city in return for a home.
+   Access to the Tower of the Winds is provided by the portcullis to the south.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18148
+D2
+~
+door~
+1 -1 40047
+S
+#18146
+The Dock~
+   The &08Red Sail Tavern&00 is the busiest of all the Samsera businesses.  
+Built of salvaged fittings and timbers from many wrecked or scrapped vessels.
+It's dim, dark paneled and smokey, a place where sailors go to drink and talk
+business.  Landlubbers, authorities, and anyone else not ready to do business
+with sailors aren't very welcome.    
+~
+180 0 16 0 0 1 255 0
+D0
+~
+~
+0 -1 18198
+D1
+~
+door~
+1 0 40010
+D2
+~
+~
+0 -1 18147
+S
+#18147
+The End of the Dock~
+   This is the main dock of Samsera. Here is where the winding river meets the
+mighty ocean. The docks were located here so they could service both river and
+ocean traffic.
+~
+180 4 16 0 0 1 255 0
+D0
+   The docks continue back to the city in that direction.
+~
+~
+0 -1 18146
+D1
+~
+door~
+1 0 40009
+D5
+   A quick flowing river lies beneath the docks.
+~
+~
+0 -1 3209
+S
+#18148
+The Eastern Wall Road~
+   This road follows the large city walls around town. Built to protect the
+city from any invasion, the granite walls would certainly be a match against
+any awakened creature. The bricks themselves seem to have been perfectly
+matched, or magically constructed.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18149
+D2
+~
+~
+0 -1 18145
+S
+#18149
+The Eastern Wall Road~
+   The stone headquarters of the cityguard looms in the west, complimenting
+the massive stone wall to your east. Guard patrols in this area are frequent,
+you see many guards check in at the headquarters and leave to new posts
+somewhere in the city.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18151
+D1
+A massive metal door blocks your entry to the city guard barracks.
+~
+door massive metal~
+1 18102 18150
+D2
+~
+~
+0 -1 18148
+S
+#18150
+The City Guard Headquarters~
+   This is where the guards of Samsera work out plans to make the city a safer
+place for all its citizens. You can see plans to place the best soldiers in
+critical areas, and have lesser soldiers patrol the streets at all hours of
+the day and night. While many people contribute to the plans, it is the Master
+at Arms who has the final say on what to do.
+~
+180 8 0 0 0 0 255 0
+D3
+A massive metal door leads outside.
+~
+door massive metal~
+1 0 18149
+S
+#18151
+Before the East Gate~
+   The massive Eastern gate looms above you. If you were to go east you would
+be under its' impressive arch, and subject to the scrutiny of the guards. Only
+law abiding citizens are allowed entry into the city, and the city's
+protection does not extend beyond these walls. So be careful out in the wild.
+~
+180 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18152
+D1
+Before you is one of Samsera's massive stone gates, able to bar all entry from the city.
+~
+Gate~
+1 18103 18097
+D2
+~
+~
+0 -1 18149
+D3
+~
+~
+0 -1 18092
+S
+#18152
+The Eastern Wall Road~
+   This road follows the city walls around the city. Seventy-five feet above
+you can see the guards that stand watch along the top of the wall, waiting for
+enemy forces to attempt an invasion. You would judge the city defenses as more
+than adequate, but the guards remain ever vigilant.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18153
+D2
+~
+door iron banded~
+1 18104 18151
+S
+#18153
+The Eastern Wall Road~
+   The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18154
+D2
+~
+~
+0 -1 18152
+S
+#18154
+The Eastern Wall Road~
+   This cobblestone road follows the city wall that surrounds Samsera. The
+massive granite walls are crafted so well that you can hardly feel the seam
+between the bricks that form it, Dwarven craftsmanship must have been involved
+in its creation.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 40036
+D2
+~
+~
+0 -1 18153
+S
+#18155
+Before a Corner Tower~
+   The impressive north and east city walls meet here, at a strong and mighty
+tower. No doubt guards and weapons are housed within its stone walls. Each
+tower is built to be a fortress, capable of waiting out even the longest
+siege. If the city was under attack, they would be one of the safest places to
+be.
+~
+180 0 0 0 0 1 255 0
+D2
+~
+~
+0 -1 40034
+D3
+~
+~
+0 -1 40033
+S
+#18156
+The Northern Wall Road~
+   You stand at the base of the mighty city wall. Designed to protect the city
+from any invading force, their seventy-five foot height would be a challenge
+for even the mightiest of dragons.
+   The road you are currently on, Wall Road, follows the walls around the city.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 40031
+D3
+~
+~
+0 -1 18157
+S
+#18157
+The Northern Wall Road~
+   This road follows the city walls around the city. Seventy-five feet above
+you can see the guards that stand watch along the top of the wall, waiting for
+enemy forces to attempt an invasion. You would judge the city defenses as more
+than adequate, but the guards remain ever vigilant.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18156
+D3
+~
+~
+0 -1 18158
+S
+#18158
+The Northern Wall Road~
+   The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18157
+D3
+~
+~
+0 -1 18159
+S
+#18159
+Before the North Gate~
+   You have reached the end of the road and have finally arrived at the mighty
+North Gate. The walls of the city extend to your east and west for as far as
+your eyes can see. The walls must be fifty feet high at least, for they are
+more massive than any you've seen. Quite an adequate protection from raiders
+in your opinion.
+~
+180 4 0 0 0 1 255 0
+D0
+A large gate.
+~
+gate~
+1 0 18099
+D1
+   A small street follows the city wall as far off as you can see.
+~
+~
+0 -1 18158
+D2
+   A wide street dedicated to the Northern Winds leads back to the center of
+the city.
+~
+~
+0 -1 18082
+D3
+   A small street follows the city wall for as far as you can see.
+~
+~
+0 -1 18160
+S
+#18160
+The Northern Wall Road~
+   The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18159
+D3
+~
+~
+0 -1 18161
+S
+#18161
+The Northern Wall Road~
+   This cobblestone road follows the city wall that surrounds Samsera. The
+massive granite walls are crafted so well that you can hardly feel the seam
+between the bricks that form it, Dwarven craftsmanship must have been involved
+in its creation.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18160
+D3
+~
+~
+0 -1 18162
+S
+#18162
+The Northern Wall Road~
+   You stand at the base of the mighty city wall. Designed to protect the city
+from any invading force, their seventy-five foot height would be a challenge
+for even the mightiest of dragons.
+   The road you are currently on, Wall Road, follows the walls around the city.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18161
+D3
+~
+~
+0 -1 18103
+S
+#18163
+Before a Corner Tower~
+   The impressive north and west city walls meet here, at a strong and mighty
+tower. No doubt guards and weapons are housed within its stone walls. Each
+tower is built to be a fortress, capable of waiting out even the longest
+siege. If the city was under attack, they would be one of the safest places to
+be.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18112
+D2
+~
+~
+0 -1 18197
+S
+#18164
+The Western Wall Road~
+   This road follows the city walls around the city. Seventy-five feet above
+you can see the guards that stand watch along the top of the wall, waiting for
+enemy forces to attempt an invasion. You would judge the city defenses as more
+than adequate, but the guards remain ever vigilant.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18124
+D2
+~
+~
+0 -1 18165
+S
+#18165
+The Western Wall Road~
+   The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18164
+D2
+~
+~
+0 -1 18166
+S
+#18166
+The Western Wall Road~
+   This street follows the massive city walls that surround the city.  To your
+west is the smooth surface of the seventy five foot high wall.  To your west is
+the city's jail.  Set up so passer-byes can see the entire jail, you are
+encouraged to ridicule and torment the prisoners.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18165
+D2
+~
+~
+0 -1 18093
+D3
+~
+bars cell~
+2 -1 18167
+S
+#18167
+The City Jail~
+   Never have you seen a more wretched hive of scum and villainy, you should be
+cautious. This is where the lawbreakers of Samsera are thrown to pay their
+penance, perhaps staying a few days, or an entire lifetime. The cell is set up
+so the citizens can walk by and ridicule any prisoners, an interesting
+addition to punishment.
+~
+180 2097837 0 0 0 0 255 0
+D1
+~
+bars cell~
+2 -1 18166
+S
+#18168
+The Western Wall Road~
+   This street follows the town walls that surround the city. This section in
+particular leads to the famous Ivory Tower, home of the Samsera royalty for
+generations. You can see the tower looming to your south.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18093
+D2
+~
+~
+0 -1 18170
+S
+#18169
+The Way of survival~
+   The street here is busy with commotion as out of town peddlers try to sell
+warriors used weapons and armor they have scavenged from the outer realms.  
+It's true the equipment is dirt cheap.  But if you want quality, you had best
+look elsewhere.    
+~
+180 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 18196
+D3
+~
+~
+0 0 18125
+S
+#18170
+Wall Road~
+The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18168
+D2
+~
+~
+0 0 18126
+S
+#18171
+Olde River Road~
+   This cobblestone road is beginning to fall into disrepair. Several of the
+stones are loose or missing. Obviously this is not one of the better sections
+of town, and certainly one of the older ones. Several of the buildings in this
+section are vacant, so be careful where you go.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18139
+D1
+~
+~
+0 -1 18137
+D3
+~
+~
+0 -1 18172
+S
+#18172
+Olde River Road~
+   You are currently in the oldest section of town. After the destruction of
+the town, the seaport was the first priority for the inhabitants to rebuild.
+Now however, the roads are beginning to crumble as less importance is placed on
+shipping for survival.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18141
+D1
+~
+~
+0 -1 18171
+D3
+~
+~
+0 -1 18173
+S
+#18173
+Olde River Road~
+   The pungent smell of the city's sewer system accosts you as you walk this
+section of street, no doubt from the Samsera Water Works to your north. The
+water works must draw some fresh water from the river, or be dumping the dirty
+water in the river. Knowing the city's politicians its probably the latter.
+~
+180 0 0 0 0 1 255 0
+D0
+   You hear the grinding noise coming from the water pumps at the city's
+water works.
+~
+~
+0 -1 18174
+D1
+   Olde River Road continues back to the main section of town in that
+direction.
+~
+~
+0 -1 18172
+D3
+~
+~
+0 0 40004
+S
+#18174
+The City's Water Works~
+   When the city was rebuilt, an indoor plumbing system was added to every
+building. Not only is fresh water carried into the homes, but the dirty water
+is taken out. The household sewage comes here for processing and is later
+reused, but the water from the storm drains is simply diverted into the river.
+   There is a sewer access grate here.
+~
+180 4 0 0 0 1 255 0
+D2
+   The doorway leads back to Olde River Road.
+~
+~
+0 -1 18173
+D5
+~
+~
+0 -1 7030
+S
+#18175
+Shadow Road~
+   The large buildings in this section of town cast deep, dark shadows, ideal
+for thieves and others who would rather not be recognized buying a certain
+piece of merchandise.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18176
+D2
+~
+~
+0 0 18075
+S
+#18176
+Shadow Road~
+   The large buildings in this section of town cast deep, dark shadows, ideal
+for thieves and others who would rather not be recognized buying a certain
+piece of merchandise.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18073
+D2
+~
+~
+0 -1 18175
+S
+#18177
+The Road of Wonders~
+   The magical nature of this neighborhood tends to have you on guard. Several
+times you could swear you saw movement out of the corner of your eye, only to
+find nothing when you turned to face it. And you also think you hear whispers,
+talking about you perhaps.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18178
+D2
+~
+~
+0 -1 18065
+S
+#18178
+The Road of Wonders~
+   The magical nature of this neighborhood tends to have you on guard. Several
+times you could swear you saw movement out of the corner of your eye, only to
+find nothing when you turned to face it. And you also think you hear whispers,
+talking about you perhaps.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18064
+D2
+~
+~
+0 -1 18177
+S
+#18179
+The Road of Wonders~
+   Businesses of a magical nature seem to be grouped in this section of town.
+You can see several mages traveling from shop to shop, trying to find just the
+right ingredient for a new spell.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18181
+D3
+~
+~
+0 -1 18064
+S
+#18180
+The Samsera Vault~
+  You have entered a large room surrounded by walls several feet
+deep of chiseled stone. There is no air circulation and you fear you
+may not be able to hold your breath any longer.
+IF YOU DON'T HAVE THE COMBINATION TO THIS VAULT, YOU DO NOT BELONG
+HERE AND SHOULD NOT TAKE ANYTHING FROM THESE PREMISES! Any offenses to
+this policy are punishable by death and worse.
+~
+180 2097832 0 0 0 0 255 0
+D2
+~
+bank~
+2 18180 18086
+S
+#18181
+The Road of Wonders~
+   Businesses of a magical nature seem to be grouped in this section of town.
+You can see several mages traveling from shop to shop, trying to find just the
+right ingredient for a new spell.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18062
+D3
+~
+~
+0 -1 18179
+S
+#18182
+Healer's Way~
+More trees and lush vegitation abound here.  To the west the traffic is a much
+heavier.    
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18183
+D3
+~
+~
+0 0 18055
+S
+#18183
+Healer's Way~
+Trees and flora abound on this part of Healer's way, just walking along
+boulevard you feel refreshed.    
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18054
+D3
+~
+~
+0 -1 18182
+S
+#18184
+Healer's Way~
+Moving along a quiet section of Healer's Way is peaceful.  Trees line the
+boulevard and birds chirp happily.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18054
+D2
+~
+~
+0 0 18185
+S
+#18185
+Healer's Way~
+Healer's Way specializes in making people feel better.  This is a quiet portion
+of Healer's Way.    
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18184
+D2
+~
+~
+0 0 18052
+S
+#18186
+The Business Road~
+   Most of the shops that exist in Samsera are located on this road. The road
+itself makes a circle around the town square, if you were to travel on it you
+would eventually return to this spot.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18044
+D2
+~
+~
+0 -1 18187
+S
+#18187
+The Business Road~
+   Most of the shops that exist in Samsera are located on this road. The road
+itself makes a circle around the town square, if you were to travel on it you
+would eventually return to this spot.
+~
+180 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 18186
+D2
+~
+~
+0 0 18043
+S
+#18188
+The Village Grocer~
+   Fresh produce from all over the land is available here. The grocer is a
+kind man, always willing to give some advice about a particular fruit. Of
+course, fruits in general are rare and quite expensive, but they contain
+important vitamins and minerals that a growing adventurer needs.
+~
+180 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 18046
+S
+#18189
+The Business Road~
+   Most of the shops that exist in Samsera are located on this road. The road
+itself makes a circle around the town square, if you were to travel on it you
+would eventually return to this spot.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18043
+D3
+~
+~
+0 0 18190
+S
+#18190
+The Business Road~
+   Most of the shops that exist in Samsera are located on this road. The road
+itself makes a circle around the town square, if you were to travel on it you
+would eventually return to this spot.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18189
+D3
+~
+~
+0 0 18041
+S
+#18191
+Shadow Road~
+   Shadows cloak this road in secrecy. Several shapes disappear into small
+alleyways as you approach, apparently deciding you too tough a target to rob,
+or perhaps running to ambush you at a later time, you can't decide.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18076
+D3
+~
+~
+0 0 18192
+S
+#18192
+Shadow Road~
+   Shadows cloak this road in secrecy. Several shapes disappear into small
+alleyways as you approach, apparently deciding you too tough a target to rob,
+or perhaps running to ambush you at a later time, you can't decide.
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18191
+D3
+~
+~
+0 0 18075
+S
+#18193
+Along the City Wall~
+   The city wall now approaches the Great Ivory Tower. This is where the
+Samsera royal family lives and hence, it is the most well defended location in
+all of Samsera. The tower also serves to anchor the city walls, but that
+purpose seems secondary in all its magnificence.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18192
+S
+#18194
+Before the Tower of the Winds~
+   You stand along the city wall, approaching the great Tower of the Winds.
+Access to the tower is provided by a small door leading to the second floor of
+the tower. The tower was constructed to anchor the floating citadel of a djinn.
+It is against the law for any towns person to enter without invitation.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18176
+D2
+~
+~
+0 -1 18195
+S
+#18195
+The Tower of the Winds~
+   You have ascended to the second floor of the amazing tower. Small windows
+allow you to appreciate how high off the ground you are, the window seems to
+draw your attention. Above you can see the mighty chain of Narsis that allows
+access to the citadel of the djinn.
+~
+180 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18194
+D5
+~
+~
+0 -1 18144
+E
+window small~
+You look out the window.
+WOW! you can see your house from up here!
+~
+S
+#18196
+The Way of Survival~
+   The road narrows here into the Way of Survival, known to be hone to the
+Ranger's and Warrior's guilds in the town.  It is said the Warrior's guild has
+its own battle arena, and that the Ranger's Guild is covered with a forest near
+half the size of Haon-Dor.    
+~
+180 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 18010
+D3
+~
+~
+0 0 18169
+S
+#18197
+The Western Wall Road~
+The massive city wall forms the western barrier to this road. Seventy-five
+feet high, the walls provide adequate protection from any invading force, if
+Midgaard had walls this strong perhaps the city would never have fallen.
+~
+180 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18163
+D2
+~
+~
+0 0 18127
+S
+#18198
+Before the Pier~
+   You have reached the docks of Samsera. Cargo from recent arrivals sits on
+the docks, waiting to be taken to one of the many shops of the city.
+   This is the home of some of the more inhospitable people of the city. Many
+of the people here would just as soon slit your throat rather than give you
+the time of day!
+~
+180 0 0 0 0 1 255 0
+D0
+   A large boathouse is in that direction.
+~
+~
+0 -1 18143
+D1
+   To your east is the iron gate that allows entrance to The Tower of the Four
+Winds.
+~
+door~
+1 -1 18144
+D2
+   A massive wooden pier leads off in that direction.
+~
+~
+0 -1 18146
+D3
+   Old River Road continues back to the main section of town.
+~
+~
+0 -1 18140
+S
+#18199
+Floating in the Ether~
+  You have just experienced death and lived! Relax - Regenerate - Kill.
+Through the mist to the north stands a large fountain in a grand city.
+South is the Quest for Glory room.
+~
+180 393744 0 0 0 0 255 0
+D0
+~
+Center~
+1 0 18001
+D2
+~
+~
+0 0 20097
+D5
+~
+~
+0 0 30758
+S
+$~

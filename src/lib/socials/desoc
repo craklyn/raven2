@@ -1,0 +1,31 @@
+#!/usr/bin/perl
+
+;# POS_DEAD       0
+;# POS_MORTALLYW  1
+;# POS_INCAP      2
+;# POS_STUNNED    3
+;# POS_SLEEPING   4
+;# POS_RESTING    5
+;# POS_SITTING    6
+;# POS_FIGHTING   7
+;# POS_STANDING   8
+
+$NO_SOCIAL = 1;
+
+print "Unpacking ....\n\n";
+
+while(<>){
+	if( /^\s/ ){
+		$NO_SOCIAL = 1;
+	}
+
+	elsif( $NO_SOCIAL ){
+		($THIS_SOCIAL) = /(\w+)/;
+		open( OUTFILE, "> $THIS_SOCIAL.soc" );
+		$NO_SOCIAL = 0;
+		print "Extracting $THIS_SOCIAL\n";
+	}
+
+	if( !/^\s/ ){ print OUTFILE; }
+}
+

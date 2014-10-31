@@ -1,0 +1,36 @@
+
+--------------------------------------------------------------------------------
+                                 RavenMUD News
+--------------------------------------------------------------------------------
+
+******************&08The Quick Fix List - For the Sake of Boredom&00******************
+
+2/14/09 -RavenMUD's code repository initialized.
+
+3/04/09 -Added new "testing" branch for advancement patch development.
+
+3/06/09 -Make, autoconf, and directory clean up of RavenMUD's file structure.
+
+3/07/09 -Removed command 'detect trap', 'search trap' still default for skill.
+
+3/09/09 -Cleaned up line returns in a few spells (righteous vis, eyes of dead).
+
+3/10/09 -RavenMUD ported over to a live working copy from the code repository!
+
+3/12/09 -Newb code for light expiration warnings!
+
+3/14/09 -Reply command added for tells. Command 'reply' will send private 'tell' to last sender.
+
+3/16/09 -Reply command removed for debugging purposes.
+
+3/20/09 -Cleaned up some of the "messiness" in thirst check on vampires.
+
+3/20/09 -Blood drink types now vampire useable.
+
+3/20/09 -Balanced out Midgaard for low level players *Thanks Nicodaemus*
+
+4/13/09 -Updated logging system to. Now we can watch out for all you BAD players!
+
+4/15/09 -Updated code for boards. Riddance of bugs, stability, and allowance of year display.
+
+8/11/09 -Updated where command so players are listed under zone name.

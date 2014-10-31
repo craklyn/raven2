@@ -1,0 +1,1399 @@
+#18001
+H W 0~
+master arms commander guard 18001~
+the Master of Arms~
+The Samsera Master of Arms is here, keeping watch over his men.
+~
+   The Master at Arms is in charge of the city's defenses at times of
+war and at times of peace. He is in charge of maintaining order and 
+preventing acts of thievery, hence he is a strong man and an impressive
+warrior.
+~
+165963 0 0 0 1507516 0 0 0 1000
+50 -20 -10 1000d5+20000 20d20+75
+80 90
+9 9 1 0 13 23
+#18002
+H P 0~
+warrior priest guardsman cityguard city samsera_guard 18002~
+the Warrior Priest~
+A warrior-priest is keeping watch over the people here.
+~
+A warrior-priest of Samsera prowls through the streets here.  He
+is of average build and stature, and holds his blade as if he were
+a trained bladesman.
+~
+2057 0 0 0 0 0 0 0 1000
+35 -5 -5 10d10+4000 10d3+20
+50 60
+9 9 1 0 -1 -1
+#18003
+H W 0~
+guard knight brave paladin city samsera_knight 18003~
+the Knight Paladin of Samsera~
+A stalwart knight paladin patrols the surrounding area.
+~
+   The figure before you continuously glances around the area, on guard for any
+possibility of danger.  Enlisted from the Solamnic Keep here in Samsera, he
+is wrapped in a pure white greatcoat emblazoned with a holy symbol on the back.
+His mannerisms give him a stern and confident appearance.    
+~
+2057 0 0 0 537001984 0 0 0 1000
+35 -10 -10 100d3+9000 15d4+30
+50 60
+9 9 1 3 13 23
+#18004
+H W 0~
+guard guardsman member town militia samsera_militia~
+the Militia Soldier~
+A member of the town militia is here, watching out for trouble.
+~
+   The militia of Samsera is composed entirely of volunteers, hence they
+are not very well skilled and tend to be a bit overzealous in their duty.
+These are the part timers that are looking to make a name for themselves
+by locking the most people up, whether they were guilty or not!
+~
+2057 0 0 0 0 0 0 0 750
+20 5 0 200d2+350 5d3+10
+40 40
+9 9 1 0 -1 -1
+#18005
+E W 0~
+guard elite royal guardsman samsera_elite~
+the Elite Royal Guard~
+An elite royal guardsman is here, protecting the citizens.
+~
+   The elite guardsman are perhaps the best fighters in the realm. Their
+skills have been honed since birth, a sword was perhaps their first toy.
+Their moves are fluid and graceful, you would be hard fought to try to 
+stand against even one, let alone the entire city's worth.
+~
+134412315 0 0 0 165032 0 0 0 1000
+51 -50 -10 1d1+30000 20d58+90
+80 90
+9 9 1 0 -1 -1
+#18006
+H C 0~
+priestess female woman leader young~
+the Priestess of Samsera~
+A priestess is here, her bearing noble and aloof.
+~
+   With the coming of the creatures of the night, the city turned to 
+anarchy.  With the city in turmoil, the people turned to their high
+priestess to guide them through the chaos.  The figure before you was
+high priestess of the time, and is now raised to the prestigious office
+of town leader.  
+~
+2056 0 0 0 124 0 0 0 1000
+50 -30 -10 1d1+15000 10d10+50
+80 90
+9 9 2 0 -1 -1
+#18007
+H W 0~
+samserian guardsman 18007~
+the Samserian Guardsman~
+A tall guardsman watches out against intruders here.
+~
+   Competently trained in the Samsera Militia, these guardsmen' duty is to
+watch over and protect the near impregnable gates of Samsera.  They wear a full
+complement of chain and plate mail, and are equipped with keenly sharp
+broadswords and crossbows.  As you pass, they keenly look you over, suspicious.
+  
+~
+161866 0 0 0 132140 0 0 0 900
+51 -10 0 2d1000+9000 8d8+30
+90 100
+9 9 1 3 0 -1
+#18010
+H A 0~
+grandfather father elderly man guildmaster assassins assassin_guildmaster~
+the Grandfather of Assassins~
+An elderly man is here, reading a book.
+~
+   While at first glance he appears to be no more than an elderly 
+gentleman, you suddenly realize that not all is what it seems! His moves
+are fluid and graceful, like a cat about to pounce! You have no doubt that
+this man could teach you much...
+~
+2075 0 0 0 124 0 0 0 -1000
+51 -30 -10 1d1+30000 20d10+100
+90 100
+9 9 1 0 -1 -1
+#18011
+H M 0~
+sorcerer gold huge ancient grand guildmaster mage_guildmaster~
+the Grand Sorcerer~
+An ancient huge, gold dragon sits here, pondering your fate.
+~
+   With a wink of the dragon's eye, the illusion disappears, allowing you to
+catch your breath and check your shorts.  The dragon illusion was so
+believable, you have no doubt that this must be the most powerful sorcerer you
+have ever met.  You could learn a lot from this man.    
+~
+2075 0 0 0 124 0 0 0 0
+51 -30 -10 1d1+30000 20d10+50
+90 100
+9 9 1 0 -1 -1
+#18012
+H P 0~
+high paladin rose guildmaster knight_guildmaster~
+the High Paladin of the Rose~
+A knight in rose colored armor is here, sharpening his sword.
+~
+   The Grand Knight is a kind old man, yet an expert in the art of war.  He has
+been forced to kill hundreds, perhaps thousands, of men in his time to advance
+his righteous crusade against evil.  His age speaks of his experience and his
+ability to maintain the order of the Solamnic Knights.    
+~
+2075 0 0 0 136236 40960 0 0 1000
+51 -30 -10 1d1+30000 20d20+100
+90 100
+9 9 1 0 -1 -1
+#18013
+H S 0~
+flowers grandmaster elderly priest master shoulin_guildmaster guildmaster~
+the Grandmaster of Flowers~
+An elderly priest rests here in meditation.
+~
+   The grandmaster of flowers is a kind and gentle man, unless you have
+the unfortunate chance to meet him in battle. He looks like a man who
+is in constant contemplation, even in battle it looks as if he was working
+out every possible move before he executed it. He would be a good role model
+to follow.
+
+~
+2075 0 0 0 262332 0 0 0 1000
+51 -50 -10 1d1+30000 20d30+100
+90 100
+9 9 1 0 -1 -1
+#18014
+H C 0~
+adept high man holy cleric~
+the High Adept~
+A holy man in brown robes is here, praying to the power that be.
+~
+   The High Cleric is the most sacred thing on this realm to clerics of 
+your order. He was chose by your deity for his wisdom and his abilities. 
+You would never question his teachings, and would follow him wherever he
+wanted to go. He is your teacher and your mentor...
+~
+2075 0 0 0 124 0 0 0 1000
+51 -30 -10 1d1+30000 10d10+75
+90 100
+9 9 1 0 -1 -1
+#18015
+H T 0~
+DELETE~
+DELETE~
+DELETE
+~
+   The Dark Lord represents all that is holy to the death knights. He once
+followed the code of the Solamnic Knights, but soon was tempted as all 
+knights are, and broke the ridged codes. He has now give over to evil, and
+has become the chosen of the dark gods. He can teach you all that you 
+need to know...
+~
+2074 0 0 0 124 0 0 0 -1000
+51 -50 -10 1d1+30000 20d20+100
+90 100
+9 9 1 0 -1 -1
+#18017
+H W 0~
+weapons master large warrior~
+the Warrior Guildmaster~
+A rather large warrior begins swordplay with you as you enter.
+~
+   This man has trained for years with every different type of weapon 
+imaginable. He can teach you the sword, dagger, rapier, polearm, or some
+of the special moves that a warrior can use in battle to gain an advantage.
+~
+2075 0 0 0 124 0 0 0 1000
+51 -50 -10 1d1+30000 20d10+100
+90 100
+9 9 1 0 -1 -1
+#18018
+H R 0~
+lord ranger master blind gentleman samsera_guildmaster~
+the Ranger Lord~
+A blind gentleman glances in your direction as you enter this room.
+~
+   The ranger lord is guardian of the forests, he can speak with the animals
+and with the trees, and will allow no harm to come to them. He seems to be
+at peace with nature, living in harmony whenever possible. He is the ideal
+ranger, and as such, tries to pass on what he has learned to the novice 
+rangers.
+~
+2075 0 0 0 124 0 0 0 1000
+51 -60 -10 1d1+30000 30d10+75
+90 100
+9 9 1 0 -1 -1
+#18019
+H H 0~
+blade-singer man young shadow dancer shadowdancer samsera_guildmaster~
+the Master ShadowDancer~
+A young man is here, practicing the dance of death.
+~
+   Dancing with the shadows is a dangerous trade, one must be skilled with
+magic and with the blade. Because they are not as skilled with a blade
+as warriors, they tend to be sneakier, like thieves. Call the master 
+dancer a thief however, and you'll likely get your throat slit!
+~
+2075 0 0 0 1148 0 0 0 0
+51 -40 -10 1d1+25000 10d10+60
+90 100
+9 9 1 0 -1 -1
+#18027
+H D 0~
+DELETE~
+DELETE~
+DELETE
+~
+   This knight is of the lowest knight level possible. He trains whenever
+he can, and has been given the menial job of guarding the knight's 
+equipment room. If you need to buy an item, he would be the knight to see.
+~
+2059 0 0 0 0 0 0 0 -1000
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#18028
+H A 0~
+apprentice assassin man young storekeeper samsera_store~
+the assassin apprentice~
+A young man in a white coat is cutting off a slab of meat.
+~
+   He glances at you with ice blue eyes. Assuming that the butcher upstairs
+let you down here, he knows exactly what you are and doesn't trust you for
+a second. He pulls out some equipment that was stashed behind some meat and
+asks you if you need anything...well do you?
+~
+2059 0 0 0 0 0 0 0 -1000
+50 0 0 1d1+30000 20d8+40
+80 90
+9 9 1 0 -1 -1
+#18029
+H H 0~
+dancer shadow thief shadowdancer man young storekeeper samsera_store~
+Reuse~
+Old SD shop keeper reuse.
+~
+   This young man is in training to be a shadow dancer. He was lucky enough
+to be granted a job in the guild, giving him much more time to watch others 
+practice if nothing else. You have no doubt he would be difficult to fight, 
+but he only wants to sell you guild items...if you need any.
+~
+2059 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#18030
+H W 0~
+warrior fighter proud hero champion~
+the warrior champion~
+A proud warrior prevents your further entry into the guild.
+~
+   This man is the champion of the guild this month, he has won the 
+warriors tournament and was proclaimed the best warrior in the city. While
+you have had much more practical experience than him, he no doubt has had
+more and better training then you...
+~
+16801866 0 0 0 1179652 0 0 0 0
+50 -20 -20 1d1+30000 25d25+100
+80 90
+9 9 1 22 0 3
+#18031
+H R 0~
+ranger man old lord guardian~
+the Ranger Lord~
+An old man kindly asks you to state your business here.
+~
+   The old man looks half blind and is probably going senile, but upon
+closer inspection you notice that his muscles are still strong, and his 
+one good eye tracks your movements with ease. He would be a cunning 
+opponent and it would be wise to leave him be.
+~
+16801866 0 0 0 1441792 0 0 0 500
+50 -20 -10 1d1+30000 25d25+100
+80 90
+9 9 1 0 -1 -1
+#18032
+H S 0~
+wise monk ancient man old shou-lin lin shou master~
+the wise old man~
+An ancient monk stands watch over the temple here.
+~
+   This elderly shou-lin has been assigned the duty to prevent outsiders from
+entering the temple proper.  In recent years there has been tension between to
+two main orders of the guild and suspicion has arose that assassins may have
+been hired to murder one of the Grandmasters..  Thus, it has been decided that
+it would be best to avoid contact with the outside world as much as possible.
+  
+~
+16777306 0 0 0 1310756 0 0 0 0
+50 -30 -30 1d1+30000 40d40+100
+80 90
+9 9 1 0 -1 -1
+#18033
+H C 0~
+templar knight guardian cleric~
+the knight templar~
+The Knight Templar diligently prevents unauthorized access to the guild.
+~
+   The Knight Templar is a former Knight of one of the Solamnic Orders who has
+pledged his allegiance to the Cleric's Guild.  He stoicly stangs guard against
+those who are not of the faith, and will strike down all who try to enter the
+guild without permission.  The Knight will follow his orders until death.    
+~
+16801866 0 0 0 131204 0 0 0 0
+45 -15 -7 1d1+30000 40d40+100
+65 75
+9 9 1 3 7 0
+#18034
+H D 0~
+Reuse Me~
+the unholy guardian~
+A pair of red glowing eyes keep watch over you from the darkness.
+~
+Old DK guard. Can be reused.
+~
+155722 0 0 0 8236 0 0 0 0
+50 -30 -30 1d1+30000 25d25+100
+80 90
+9 9 1 0 -1 -1
+#18035
+H P 0~
+knight crown guard solamnic ~
+the knight of the crown~
+A stoic knight stands here, keeping watch over those who enter the Keep.
+~
+   Any knight is allowed access to the keep, but the knights are suspicious of
+outsiders.  They worry that everyone is a spy or thief for some unholy god or
+an evil minion intent on destroying the knights.  Hence, only those of the
+Solamnic Order are allowed access to the inner keep.    
+~
+16834634 0 0 0 135172 0 0 0 0
+50 -30 -30 1d1+30000 25d25+100
+80 90
+9 9 1 0 -1 -1
+#18036
+F M 0~
+pile earth elemental guardian~
+the earth elemental~
+A small pile of earth and stone lies here, undisturbed.
+~
+The pile is a mixture of stone from the road, dark earth, and other debris. You can't help
+but notice that it has an odd odor, much like that of spice.
+~
+16801866 0 0 0 132128 4 0 0 0
+50 -10 -10 1d1+30000 25d25+100
+80 90
+9 9 1 17 6 0
+#18037
+H T 0~
+thief bouncer mercenary hired muscle guardian~
+the Mercenary~
+The thieves hired muscle stands here, guarding the door.
+~
+   The thieves of Samsera know that many people would like to get their
+hands on the people inside this building, as such they have hired the 
+best and largest warrior they could find. It would not be wise to try and
+force your way into this building with this man standing guard!
+~
+16801882 0 0 0 819200 0 0 0 0
+50 -10 -10 1d1+30000 40d40+100
+80 90
+9 9 1 0 -1 -1
+#18038
+H H 0~
+shadow dancer shadowdancer guardian instructor dance~
+the Shadow Dancer~
+A dance instructor is trying to teach a class here.
+~
+   After watching him for a few minutes you can tell that this instructor
+is not all that he seems to be. His style is different, he moves more like
+a warrior than a dancer, and the steps his students are performing almost 
+look more like a swordfight than a dance....unless its the dance of death.
+~
+16932938 0 0 0 1077937184 0 0 0 0
+50 -10 -10 1d1+30000 40d40+100
+80 90
+9 9 1 0 -1 -1
+#18039
+H A 0~
+butcher assassin guardian~
+the Butcher~
+The butcher stands here, expertly cutting up meat.
+~
+   A kind old man, the butcher spends his day cutting up meat for the
+people of Samsera. He has spent his entire life cutting meat, but you 
+tend to think he's a little too good at it....like he had more training
+than just cutting up cows.
+~
+16801882 0 0 0 262176 0 0 0 0
+50 -40 -40 1d1+30000 40d40+100
+80 90
+9 9 1 0 -1 -1
+#18040
+H W 0~
+baker man storekeeper samsera_store~
+the Baker~
+A large man is here, baking bread.
+~
+   The baker is quite a mountain of a man. He must have sampled quite
+a few pastries over the years to get to be this size. You notice that he
+keeps a club under the counter, and he certainly had some training at some
+point in his life.
+~
+2075 0 0 0 263336 0 0 0 0
+50 0 0 1d1+30000 10d10+40
+80 90
+9 9 1 0 -1 -1
+#18041
+H W 0~
+weaver man storekeeper samsera_store~
+the Weaver~
+The weaver is here working on a basket, he looks somewhat psychotic.
+~
+   The weaver is a strange man. It seems that he had a few life altering
+experiences, and now uses weaving as a way of calming him down. His store
+isn't open too often due to his occasional (or quite often) fits of 
+psychotic behavior.
+~
+2075 0 0 0 262276 0 0 0 0
+50 0 0 1d1+30000 10d10+40
+80 90
+9 9 1 0 -1 -1
+#18042
+H W 0~
+filthy bartender man samsera_store~
+Filthy~
+Filthy the bartender asks you what you'd like to drink.
+~
+   Filthy's bar was one of the only places left standing after the winds
+came that destroyed the city. As such he made out like a bandit! He rebuilt
+his Inn and went uptown so to speak, here the finest that Samsera has to 
+offer can be found.
+   Filthy says to you, "Welcome! Please be seated. I'm sorry we are so busy
+right now that we ran out of wine, if you'd like you some feel free to go 
+down and get a bottle for yourself on the house."
+   After saying that he runs off to seat another party.
+~
+2075 0 0 0 262276 0 0 0 0
+51 0 0 1d1+30000 20d3+50
+90 100
+9 9 1 0 -1 -1
+#18043
+G M 0~
+alchemist mage potionmaker samsera_store~
+the Alchemist~
+The alchemist is here mixing up new potions.
+~
+   The alchemist is a strange old man that seems to have been sniffing his
+potions for much too long a time. His brain is fried and he can barely 
+get your request straight.
+~
+134219803 0 0 0 1064 0 0 0 0
+40 0 -10 1d1+30000 12d2+30
+65 75
+9 9 1 0 -1 -1
+Z 7417
+Z 7414
+Z 7415
+#18044
+H M 0~
+mage itemmaker enchanter smasera_store~
+the enchanter~
+An enchanter stands watch over his wares here.
+~
+   The enchanter specializes in magical goods of all types possible. He
+tries to stay stocked in wands, staves, and scrolls. He is usually willing
+to buy any such item, and if you really need the item he might be willing
+to part with something in his collection.
+~
+2075 0 0 0 1064 0 0 0 0
+40 0 -10 1d1+30000 15d2+30
+65 75
+9 9 1 0 -1 -1
+#18045
+H W 0~
+watermaster waterworks chief supervisor head samsera_store~
+the Watermaster~
+The waterworks supervisor is checking the filtration system here.
+~
+   The supervisor is a dirty old man that has spent his life in the city's 
+sewer system. Because of that he is not the kindest man you have ever met. 
+He's even started a side business selling the city's water for a profit! 
+~
+26651 0 0 0 8 0 0 0 0
+10 5 4 1d1+300 1d5+2
+35 40
+9 9 1 0 -1 -1
+#18046
+H W 0~
+captain warfmaster samsera_store~
+the Captain~
+A weathered captain is here selling boats to travelers.
+~
+   The captain has spent his life on the sea, and has only recently decided
+to open up this shop. He sells the finest boats in all Samsera, which isn't
+really saying much since he's the only boat shop in town!
+~
+2075 0 0 0 8 0 0 0 0
+40 -10 -10 1d1+30000 12d4+20
+65 75
+9 9 1 0 -1 -1
+#18047
+H R 0~
+storekeeper eagle eye axam ranger samsera_store~
+Axam the "eagle eye"~
+The storekeeper is here working on some arrows.
+~
+   Eagle eye got his name from his superior skill with the bow, it is
+rumored that he once killed an eagle at 200 yards with a shot that went 
+right through the eagle's eye (hence the name). Now of course he got arrested
+for shooting a bird in the zoo...but hey...it was worth it...
+~
+2075 0 0 0 8 0 0 0 0
+50 -20 -20 1d1+30000 15d3+40
+80 90
+9 9 1 0 -1 -1
+#18048
+H W 0~
+ruby armorer storekeeper samsera_store~
+Ruby the Armorer~
+Ruby is at the forge, hard at work.
+~
+   Ruby is the finest armorer in all the land.  Taught by the mythical figure
+of Talos, the triple iron golem, Ruby has only improved on his lessons.  No
+better armors can be found in the realms, and certainly not at a cheaper
+price....    
+~
+134219803 0 0 0 1032 0 0 0 0
+50 -10 -10 1d1+30000 12d4+30
+80 90
+9 9 0 0 -1 -1
+Z 18009
+Z 18010
+Z 18011
+#18049
+E W 0~
+elf weaponsmith bladesinger shopkeeper samsera_store~
+the Elven Weaponsmith~
+An elf asks if you need any assistance.
+~
+   The elf's moves remind you of a cat about to pounce on its prey. The elf
+makes some of the lightest yet strongest blades that money can buy, hence 
+this is the only weapon store that can survive in the city, no one makes
+a finer blade.
+~
+2075 0 0 0 8 0 0 0 0
+51 -10 -10 1d1+30000 20d3+30
+90 100
+9 9 2 0 -1 -1
+#18050
+H T 0~
+leather elf leather-clad boy punk samsera_store wild~
+the Elven Storekeeper~
+A leather-clad elf jumps up and tries to take your measurements.
+~
+   This young elf is clad head to toe in leather. He begins to tell you
+the benefits of wearing leather rather than steel armor, most likely only
+to try and convince you to buy something because everyone knows that 
+steel makes better armor than leather.
+~
+2075 0 0 0 8 0 0 0 0
+40 0 0 1d1+20000 12d2+20
+65 75
+9 9 1 0 -1 -1
+#18051
+H R 0~
+cartographer man old samsera_store~
+the Cartographer~
+An old man is busy drawing maps here.
+~
+   The cartographer has spent many years trying to map out every place
+known to man within the realms. He has maps of citys young and old, of 
+forests such as Han-dor and the Black Forest. Of course the landscape
+is always changing, so his collection must also change, type "list" to 
+find out what he has in stock.
+~
+2075 0 0 0 8 0 0 0 0
+30 0 0 1d1+15000 15d2+25
+50 60
+9 9 1 0 -1 -1
+#18052
+H W 0~
+town crier boy~
+the town crier~
+A young boy is here, shouting out the days news.
+~
+   The town crier has perhaps one of the most annoying jobs in the city. 
+Everyone hates the town crier because the always end up hearing him over and
+over and over...he's worse than that little pink bunny!
+~
+2056 0 0 0 8 0 0 0 0
+15 5 5 1d1+5000 1d5+10
+35 40
+9 9 1 0 -1 -1
+#18053
+A W 0~
+mascot raven bird RavenMUD~
+the RavenMUD raven~
+The mascot of RavenMUD is perched here, watching your progress.
+~
+   The raven sits perched above a bust of some famous figure, watching
+you with unblinking eyes...eyes that seem to stare into your very soul.
+You have the strange feeling that he's judging you, not your abilities, but
+the worth of your very soul.
+~
+2138 0 0 0 136 0 0 0 0
+51 -20 -20 1d1+30000 40d10+100
+90 100
+9 9 0 0 -1 -1
+#18054
+A W 0~
+dog mutt disgusting 18054~
+the&02 mutt&00~
+A disgusting &02mutt&03 is here, going through the garbage.
+~
+   The mutt is scrounging around for food, he will take whatever he can
+find. You even notice that he eats the corpses of dead rats!
+~
+9 0 0 0 0 0 0 0 0
+3 17 10 1d1+10 5d1+1
+35 40
+9 9 0 4 4 4
+#18055
+A W 0~
+alley cat stray dirty tom~
+the alley&02 cat&00~
+An alley &02cat&03 is looking for food here.
+~
+   The feline is quite scraggly in appearance.  Its fur is plastered to its
+body in several places, and coated in mud and other goo you don't even want to
+begin guessing as to what it is.    
+~
+9 0 0 0 0 0 0 0 0
+2 20 10 1d1+5 3d1+0
+35 40
+9 9 0 0 -1 -1
+#18056
+H W 0~
+gypsy man flamboyant~
+a flamboyant &12gypsy&00~
+&00A flamboyant &12gypsy&00 performer is here working the crowds.&00
+~
+   The gypsy is dark and lean, with flashing eyes and a long, curving
+handlebar mustache which hangs to his shoulders.  He performs quite
+a flashy routine as his cohorts work through the crowds gathering
+contributions from usually unwitting patrons.  
+~
+13 0 0 0 0 0 0 0 0
+10 7 7 1d10+45 1d4+4
+35 40
+9 9 1 0 -1 -1
+#18057
+H W 0~
+builder workman carpenter worker~
+the workman~
+A city workman is busy with the construction of this building.
+~
+   The workmen are trying to complete this shop, but of course they work
+for the city, so they are taking the own sweet time. They refuse to work at
+all with you watching them, so if you'd like to see this building completed
+you had better leave.
+~
+10 0 0 0 0 0 0 0 0
+15 5 5 3d10+100 1d5+8
+35 40
+9 9 1 0 -1 -1
+#18058
+H W 0~
+mercenary hired thug lowlife~
+the mercenary~
+A mercenary is here looking for a job.
+~
+   The mercenary works only for himself, and doesn't care what kind
+of job he has to take to make a living.
+~
+2056 0 0 0 0 0 0 0 0
+10 8 8 1d10+40 1d4+9
+35 40
+9 9 1 0 -1 -1
+#18059
+H W 0~
+man dockworker worker~
+the dockworker~
+A dockworker is unloading cargo here.
+~
+   The dockworker is a strong man, the hundreds of times he's had to lift
+cargo such as this making his muscles incredibly strong. He would be a 
+difficult opponent if he had a weapon.
+~
+2058 0 0 0 8 0 0 0 0
+20 0 0 20d4+1000 4d5+10
+40 40
+9 9 1 0 -1 -1
+#18060
+H W 0~
+guard sleeping tired~
+the guardsman~
+A guard is fast asleep in his bunk here.
+~
+   The guards have to sleep sometime, and this must be his shift to sleep.
+A guard only gets 6 hours to sleep and must spend twelve of his waking 
+hours on duty. So I wouldn't wake him if I were you, he's not likely to 
+be in a good mood.
+~
+2056 0 0 0 0 0 0 0 0
+20 -5 -5 50d2+1000 3d8+15
+40 40
+4 9 1 0 -1 -1
+#18063
+H W 0~
+pet boy child little poor~
+the boy~
+A small boy is here, selling his pet collection.
+~
+   The boy desperately needs money to survive. It seems he was recently 
+orphaned when his parents left town. Now he has to sell off the only things
+he has left in this world...his pets.
+~
+2056 0 0 0 8 0 0 0 0
+10 5 5 10d2+50 1d8+3
+35 40
+9 9 1 0 -1 -1
+#18064
+H W 0~
+grocer green samsera_storekeeper~
+the Grocer~
+The grocer is here sorting out the fruits.
+~
+   The grocer is busy sorting the fruit and vegetables. He is an older man
+but judging by the way he walks he had some training as a fighter. It could
+be just from his line of work, but you'd guess that a grocer doesn't get 
+in many fights.
+~
+2075 0 0 0 8 0 0 0 0
+50 -10 -10 1d1+30000 3d8+40
+80 90
+9 9 1 0 -1 -1
+#18065
+E R 0~
+elven elf ranger slave~
+the elven ranger~
+An elven ranger is bound in chains and awaiting orders here.
+~
+   The slave is not at all happy, but will serve you loyally for a time.
+~
+8 0 0 0 0 0 0 0 0
+10 10 10 1d1+100 1d8+5
+35 40
+9 9 1 0 -1 -1
+#18066
+W W 0~
+dwarf warrior slave dwarven~
+the dwarven warrior~
+A dwarven warrior is bound in chains and awaiting orders here.
+~
+   The slave is not at all happy, but will serve you loyally for a time.
+~
+8 0 0 0 0 0 0 0 0
+10 10 10 1d1+100 1d8+5
+35 40
+9 9 1 0 -1 -1
+#18067
+H M 0~
+human mage slave~
+the human mage~
+A human mage is bound in chains and awaiting orders here.
+~
+   The slave is not at all happy, but will serve you loyally for a time.
+~
+8 0 0 0 0 0 0 0 0
+10 10 10 1d1+100 1d8+5
+35 40
+9 9 1 0 -1 -1
+#18068
+A W 0~
+dog puppy beagle pet~
+the puppy~
+A small beagle is here, looking for its owner.
+~
+   He is a small dog with big droopy ears. He is so cute you wonder how
+anyone would want to kill him.
+~
+8 0 0 0 0 0 0 0 0
+5 5 5 1d10+30 1d1+8
+35 40
+9 9 1 20 -1 -1
+#18070
+A W 0~
+cat kitten pet~
+the kitten~
+A small kitten is here, looking for its owner.
+~
+   The kitten looks like a fierce little fighter. You wonder why anyone
+would want to kill it...and then it scratches your leg and you know why!
+~
+8 0 0 0 0 0 0 0 0
+5 0 0 1d10+15 1d1+2
+35 40
+9 9 1 0 -1 -1
+#18071
+A W 0~
+wolf large gray~
+the wolf~
+A large wolf stares at you with big yellow eyes.
+~
+   The wolf stares at you with yellow eyes, you have no doubt that it 
+would kill you in an instant if it wanted to.
+~
+8 0 0 0 0 0 0 0 0
+10 0 0 1d10+40 1d8+5
+35 40
+9 9 1 0 -1 -1
+#18072
+H C 0~
+reception innkeeper wench receptionist wench~
+the Receptionist~
+The Laughing Wench receptionist offers you a room to rent.
+~
+   The receptionist is a kind old woman who asks to see your money. She 
+points to a sign on the wall just in case you aren't sure of the house 
+rules.
+~
+27 0 0 0 1064 0 0 0 1000
+51 -10 -10 1d1+30000 10d10+100
+90 100
+9 9 2 0 -1 -1
+#18073
+H W 0~
+master post postmaster general~
+the Postmaster~
+The postmaster general is sorting the towns mail here.
+~
+   The postmaster is a stressed out old man. Whenever there is a problem 
+with the mail he gets the blame, and from the looks of it he's gotten the
+blame quite often!
+~
+2075 0 0 0 8 0 0 0 1000
+51 -10 -10 1d1+30000 30d5+70
+90 100
+9 9 1 0 -1 -1
+#18074
+H W 0~
+jack captain samsera_storekeeper~
+Captain Jack~
+Captain Jack, owner of the store, guards his wares cautiously.
+~
+   Captain Jack is an experienced traveler that knows most of the realms
+like the back of his hand. It has been said that he's been to the Abyss and
+back, as well as to the land of the Gods. And now he's decided to open up
+a little trading shop to pass away his remaining days....
+~
+2075 0 0 0 8 0 0 0 0
+10 -10 0 1d1+1 2d2+25
+35 40
+9 9 1 0 -1 -1
+#18075
+H W 0~
+jeweler geek storekeeper samsera_storekeeper~
+the Jeweler~
+The jeweler is here appraising some new finds.
+~
+   The jeweler is a pudgy old man, with a constant bead of sweat rolling 
+off his forehead. He always seems nervous too, well I guess you would be too
+if one slip you made could turn an expensive gem into worthless powder!
+~
+2075 0 0 0 8 0 0 0 -250
+50 -10 -10 1d1+20000 5d5+100
+80 90
+9 9 1 0 -1 -1
+#18076
+L W 0~
+pawn pawnman kender storekeeper samsera_storekeeper~
+the Storekeeper~
+A very short man stands behind the counter, apparently the storekeeper.
+~
+   The man behind the counter, or rather the child behind the counter asks
+you would you'd like to sell. At first glance you would have sworn he was
+a child, but now that you look at him he looks to be much older than any 
+child, but just sized like a child.
+~
+2075 0 0 0 8 0 0 0 0
+50 -10 -10 1d1+30000 20d10+100
+80 90
+9 9 1 0 -1 -1
+#18077
+H W 0~
+locksmith lock man elderly storekeeper samsera_storekeeper~
+the Locksmith~
+An elderly man is here, trying to copy a key.
+~
+   The locksmith is a strange old man, one would have to be a bit strange
+to design a shop like this! His fingers are nimble and he can cut a new 
+key in seconds, but he has a habit of talking to himself! As you try to 
+get closer to hear what he's saying he runs through one of the doors and 
+comes out somewhere else in the shop....all very strange in your opinion!
+~
+2075 0 0 0 8 0 0 0 0
+50 -10 -10 1d1+30000 10d10+75
+80 90
+9 9 1 0 -1 -1
+#18078
+H C 0~
+medicine man healer cleric shopkeeper~
+the Healer~
+The Healer stands before you, awaiting your request.
+~
+This man wears a long, white coat and has a strange looking listening
+device draped around his neck.  You also notice that he wears a ring
+bearing a caduceus on it.  As he approaches you, you can actually feel 
+the aura of magic surrounding him.
+~
+2075 0 0 0 8 0 0 0 0
+50 -50 -10 1d1+30000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#18079
+H M 0~
+shopkeeper storekeeper harbormaster~
+the Harbormaster~
+The harbormaster stands here, overseeing a new vessel's construction.
+~
+The Harbormaster is in charge of all goings on at Samsera's busy docks.
+A former ship navigator, the harbormaster was asked to hang up his
+sextant and maps to keep the city's port safe from all suspect foreign
+travellers and merchandise. Interrupted by your prescense he strides
+over to you and asks: 'What business have you today, my friend?'.
+~
+253963 0 0 0 4 0 0 0 700
+1 -30 10 100d1+10000 10d10+10
+35 40
+9 9 1 0 -1 -1
+#18080
+N H 0~
+demon alley cat~
+the demon cat~
+An alley &00cat&03 is looking for food here.
+~
+Upon further inspection, this cat isn't so normal after all.  Its jet-black
+fur has a dull reddish glow to it, and its eyes are a rather disconcerting
+shade of purple.  Noticing your scutiny, it arches its back and hisses
+loudly, warning you off.
+~
+34310156 0 0 0 1455144 0 0 0 0
+41 -20 -10 1d1+10000 1d100+20
+65 75
+9 9 0 11 4 8
+Z 18080
+#18081
+A W 0~
+cute cuddly brown puppy~
+the puppy~
+A cuddly brown puppy plays here.
+~
+The puppy is sooo cute.  It has brown fur, loose skin, and happy puppy-dog
+eyes.  It runs around in circles, chasing its tail.
+~
+8 0 0 0 0 0 0 0 0
+1 20 10 1d1+0 1d1+0
+35 40
+9 9 1 0 -1 -1
+Z 18081
+#18082
+A W 0~
+werewolf demonic black~
+the demonic werewolf~
+A demonic black werewolf with glowing red eyes is rampaging here.
+~
+The werewolf is killing and destroying everything it can get its claws on.
+Its soot-black hair is patchy, and stinks of the rotting blood from previous
+kills.  Its ragged tongue lolls out the side of its mouth.
+~
+76027948 0 0 0 -2146294784 0 0 0 -1000
+35 0 -5 10d1000+1000 3d40+20
+50 60
+9 9 1 8 4 23
+#18083
+H M 0~
+elie mage~
+Elie the Mage~
+Elie the mage pierces you with Delphian eyes.
+~
+   Elie the mage has seen his fair share of trauma and danger over the years.
+He once was returning to Samsera from the Hightower of Sorcery with magical
+impliments when a band of robbers waylaid him.  They kidnapped him and sold him
+into bondage to the duegar king, Bregnar.  In order to hide his impliments, he
+swallowed them.  They imbued him with clairvoyance.    
+~
+10 0 0 0 1064 0 0 0 0
+51 20 10 1d6000+0 20d20+20
+90 100
+9 9 0 0 -1 -1
+#18084
+H M 0~
+immanuel kant advancement_mob~
+Kant~
+Kant sits here, thick book in hand.
+~
+   This being looks ancient and wise.  His hair is white and curled.  He acts
+slowly, carefully.  He pays you no small amount of attention.    
+~
+10 0 0 0 0 0 0 0 0
+51 20 10 1d1+0 1d1+0
+0 0
+9 9 0 0 -1 -1
+#18090
+E T 0~
+storekeeper shopkeep samsera_storekeeper Rhyvis~
+Rhyvis~
+Rhyvis, editor-in-chief of the Raven Oracle, stands here.
+~
+   Rhyvis, a former master thief from Haon-Dor, travels the roads of 
+Raven gathering stories and gossip for his newspaper, the &12Raven Oracle&00.
+He gives you a wry smile, and proudly thrusts a crisply rolled newspaper
+in your direction. You take the paper and reach for your coinpurse, which
+Rhyvis has already opened on his table and taken 50 coins from. Hey!
+~
+134219803 0 0 0 0 0 0 0 -2
+45 -30 10 50d50+5000 10d10+50
+65 75
+9 9 1 0 -1 -1
+Z 7418
+Z 7414
+Z 7415
+#18091
+H P 0~
+gate guard guardsman~
+the Gate Guard~
+A tall guardsman watches out against intruders here.
+~
+   Competently trained in the Samsera Militia, these guardsmen' duty is to
+watch over and protect the near impregnable gates of Samsera.  They wear a full
+complement of chain and plate mail, and are equipped with keenly sharp
+broadswords and crossbows.  As you approach, they keenly look you over, suspicious.
+~
+716830 0 0 0 538051624 0 0 0 0
+51 -10 -5 2d1000+9000 8d7+75
+90 100
+9 9 1 0 -1 -1
+#18092
+H P 0~
+guard~
+the Guard~
+A tall guardsman watches out against intruders here.
+~
+   Competently trained in the Samsera Militia, these guardsmen' duty is to
+watch over and protect the near impregnable gates of Samsera.  They wear a full
+complement of chain and plate mail, and are equipped with keenly sharp
+broadswords and crossbows.  As you approach, they keenly look you over, suspicious.
+~
+712734 0 0 0 538051624 0 0 0 0
+51 -10 -5 2d1000+9000 8d7+75
+90 100
+9 9 1 0 -1 -1
+#18093
+H P 0~
+guard~
+the Guard~
+A tall guardsman watches out against intruders here.
+~
+   Competently trained in the Samsera Militia, these guardsmen' duty is to
+watch over and protect the near impregnable gates of Samsera.  They wear a full
+complement of chain and plate mail, and are equipped with keenly sharp
+broadswords and crossbows.  As you approach, they keenly look you over, suspicious.
+~
+712734 0 0 0 537003048 0 0 0 0
+51 -10 -5 2d1000+9000 8d7+75
+90 100
+9 9 1 0 -1 -1
+#18094
+H P 0~
+guard~
+the Guard~
+A tall guardsman watches out against intruders here.
+~
+   Competently trained in the Samsera Militia, these guardsmen' duty is to
+watch over and protect the near impregnable gates of Samsera.  They wear a full
+complement of chain and plate mail, and are equipped with keenly sharp
+broadswords and crossbows.  As you approach, they keenly look you over,
+suspicious.
+~
+716890 0 0 0 1082408 0 0 0 0
+51 -10 -5 2d1000+900 8d7+75
+90 100
+9 9 1 0 -1 -1
+#18097
+H A 0~
+crimson red blood guardian~
+the Crimson Blood Guard~
+&08A massive guardian stands here.&00
+~
+   If not for the glowing crimson eyes that seem to be staring right
+into your soul, you  would swear that the guard  was a statue carved
+from ruby.  There is an archway that leads  off to the east  but you
+get the  distinct impression  that the guard might prevent  you from
+entering it.
+~
+90 0 0 0 124 0 0 0 0
+50 -10 0 1d1+10000 5d5+30
+80 90
+9 9 1 15 9 17
+#18098
+H M 0~
+cryogenicist cryo~
+the Cryogenist~
+A man that looks skilled in the art of cryogenics stands here.
+~
+   The cryogenicist is an odd looking individual who resembles the man
+in town that claims to be a physician of some sort. You get the feeling
+that the service this man performs is a bit out of the realm of simple
+magic and that it probably isn't an exact science.
+~
+2075 0 0 0 8 0 0 0 0
+50 -10 -10 1d1+30000 10d10+75
+80 90
+9 9 1 0 -1 -1
+#18099
+H M 0~
+metaphysician meta physician doctor~
+the Metaphysician~
+An odd looking sort of fellow wearing thin rubber gloves is here.
+~
+   The metaphysician is an odd looking individual who resembles the man
+in town that claims to be a cryogenicist of some sort. You get the feeling
+that the service this man performs is a bit out of the realm of simple
+magic and that it probably isn't an exact science. Odd ... are they twins ?
+~
+27 0 0 0 8 0 0 0 0
+50 -10 -10 1d1+30000 10d10+75
+80 90
+9 9 1 0 -1 -1
+#18100
+H R 0~
+shop shop_keeper samsera_shop cartographer~
+the Cartographer~
+The Cartographer stands here looking over an old map.
+~
+An old ranger stands before you with grey flaked brown hair and a thick
+beard and mustache. His skin has been thickened like tan leather from 
+the harsh elements. Who knows where he's been, possibly places that have
+only been spoken of in tales around the campfire.
+~
+254043 0 0 0 132156 0 0 0 0
+50 -30 -20 1d1+20000 3d8+100
+80 90
+9 9 1 0 -1 -1
+#18101
+H R 0~
+trask bounty hunter~
+Trask the bounty hunter~
+The bounty hunter Trask is kneeled here, searching for someone.
+~
+   Trask is said to come from the other side of Raven, where he carved
+out a notorious reputation for himself by bringing in criminals for whoever
+would pay the price. Beady eyes set in a hardened face glare out from
+thick locks of windswept hair. He wears about him a dark green cloak, masking
+his form. It is rumored he has come to Samsera at the request of Varsis,
+the Mayor...and that he will be staying until the current crime problem
+from murder and thefts has been cleared.
+~
+190488 0 0 0 427052 0 0 0 20
+45 -20 -10 1d1+20000 10d10+100
+65 75
+9 9 1 7 0 13
+#18102
+H C 0~
+mayor_samsera samsera varsis~
+the Mayor of Samsera~
+The Mayor of Samsera greets you to his fair city.
+~
+   Before coming to office as Mayor of Samsera, Varsis was a well known cleric
+in the western lands.  After many years of adventuring he moved back east and
+became involved in politics, resulting in his current position.  The past few
+years have been good to him, as he's developed a nice round middle and rosy
+cheeks from all the dwarven spirits he has imbibed at political functions.  
+But there is something beneath his jovial exterior that tells you he is still
+not a man to be trifled with.    
+~
+134234248 0 0 0 538051756 0 0 0 750
+51 -20 -6 10d10+30000 25d25+25
+90 100
+9 9 1 0 7 17
+#18103
+H W 0~
+magistrate town samsera~
+the Town Magistrate~
+The town magistrate is seated here, looking over his agenda.
+~
+   The town magistrate, jointly appointed by Samsera's Mayor and the High
+Priestess, is responsible for carrying out all legal proceedings in Samsera's
+High Court.  In consultation with the High Priestess, the course of action
+taken against known criminals is made by him and documented.  The magistrate is
+dressed in the standard garb of his office, a thick velvet robe and cape
+clasped together at the chest by the seal of Samsera.    
+~
+26698 0 0 0 537001984 0 0 0 0
+40 -15 10 10d10+10000 12d6+100
+65 75
+7 7 1 13 -1 -1
+#18104
+H A 0~
+contract killer samsera militia~
+the Samserian Assassin~
+A thickly muscled figure is crouched here, waiting.
+~
+   In times of need, the Samserian authorities call upon outside contract
+mercenaries and killers to fill their ranks. This man, actually a citizen
+of Samsera willingly agreed to enlist in the militia and add his already
+reknowned killing skills to their formidable garrison. He stands about
+5'5 and wears a black clothed version of the standard militia garb, altered
+for the necessary stealth of a rogue. Magically spell enhanced by the
+Sorcerer's guild, you feel safer knowing he is on Your side.
+~
+161882 0 0 0 1075741736 0 0 0 1000
+40 -30 -5 1d1+10000 12d10+100
+65 75
+9 9 1 11 -1 -1
+#18105
+H R 0~
+pete walleyed shop~
+Walleyed Pete~
+A large man with bulging eyes and a cigar stands here.
+~
+Pete takes your money and bags up your purchases. Named for his big, bulging eyes, 
+Pete is a middle-aged, retired sailor with white hair, bad teeth and a cigar always 
+on hand. He likes to chat with the customers and passes out cigars on his birthday. 
+Pete calls everybody fella' or sweetie', depending on gender.
+~
+245787 0 0 0 1064 0 0 0 0
+51 -1 -10 1d1+30000 50d50+100
+90 100
+9 9 0 0 -1 -1
+#18106
+H R 0~
+inky fish master tournament~
+Inky, the Fish Master~
+Inky stand here with his scales and score sheets.
+~
+   Inky handles all official accounting, weighing the fish from the fishermen,
+and even transporting the grand prize in the Fishing Tournament.  Named for the
+ink stains always on his fingers, Inky's real name is Alonzo.  The son of a
+local madame and a traveling bard, Inky is charming and boyishly good-looking,
+with blond hair and green eyes.  He wanders in and out of the shop on his many
+errands, chatting with everyone, humming a song, and flirting with the pretty
+women.    
+~
+778250 0 0 0 5244072 32 0 0 0
+50 -11 -15 1d1+30000 65d65+100
+80 90
+9 9 0 0 -1 -1
+#18141
+H R 0~
+Langou traveler ~
+Langou the traveler ~
+A tall muscular woman notices your arrival with a nod.
+~
+   This voluptuous woman prides herself on her looks as well as her trade.  
+She is a Dragon trader.  She is a tall muscular woman with long raven hair and
+dark green eyes.  She is wearing a crimson cloak and black leather strides.  
+Her stance makes her seem confidant and not one to be messed with.    
+~
+516170 0 0 0 536871996 0 0 0 0
+51 -30 -10 1d1+29000 1d1+0
+100 200
+9 9 0 4 23 20
+#18142
+D R 2~
+xiuhcoatl fire serpent~
+a Xiuhcoatl~
+A fire serpent snorts in your direction
+~
+   This serpent is smaller then the usual dragon.  It has short stout legs with
+razor sharp claws and a curved snout.  It has bursts of fire leaping forth as
+it surveys its surroundings.    
+~
+8 0 0 0 0 0 0 0 0
+10 15 10 1d1+99 4d7+0
+100 20
+9 9 0 16 20 8
+#18143
+D R 7~
+yinglong dragon~
+a Yinglong dragon~
+A huge dragon watches your every move
+~
+   This dragon has been captured from the darkest corner of the realm.  It has
+been broken and tamed and now a formidable foe to have fighting along side you.
+Unlike most dragons this one has no scales.  He is an older dragon from the far
+realm of the five emperors.  His kin are rumoured to be from within the clouds
+of heaven.  As the dragon takes a step the room begins to rumble.    
+~
+8 0 0 0 66596 0 0 0 0
+20 10 10 1d1+148 6d7+0
+100 30
+9 9 1 4 8 16
+#18144
+D R 4~
+zaltys serpent~
+a Zaltys snake~
+A serpent begins to hiss as you enter the room
+~
+   This serpent is rumoured to be harmless unless provoked.  If provoked it
+will unleash a deadly strike upon any who dare come near.  It is green in color
+and can blend into any terrain.  A famous prophet was quoted saying "Do not
+leave a dead zaltys on a field, bury it.  The sight of a dead zaltys would
+cause the Sun to cry.  "
+~
+8 0 0 0 66600 0 0 0 0
+30 5 10 1d1+198 8d7+0
+100 20
+9 9 2 16 21 8
+#18150
+N S 0~
+Tiny thief hunter~
+Tiny, the calm~
+A very calm looking man leans against the fountain here.
+~
+Just watching the people pass and time fly. The look of calmness is almost unnerving.
+~
+256011 0 0 0 542606524 0 0 0 0
+51 -30 -10 1d1+30000 25d25+100
+90 100
+9 9 1 0 -1 -1
+#18160
+H W 0~
+peacekeeper~
+the Peace Keeper~
+A grim-looking man stands here, armed.
+~
+You see before you a large well-built soldier clad in heavy chainmail.  Over
+the mail is worn a long cloak thrown back on one side to free up his sword arm.
+The glitter of his long straight blade is matched by the glitter of his eyes.
+The fine stitching of the large S rune woven into his cloak is matched by the
+fine engraving of the words 'Peace is our profession' on his blade.    
+~
+784472 0 0 0 5739708 0 0 0 1000
+50 0 -9 1d1+30000 30d30+70
+80 90
+9 9 1 3 3 3
+#18199
+H M 0~
+Slick Willy~
+Slick Willy~
+Slick Willy is here ready to do some gambling.
+~
+   Tall, dark and ugly.  He is huntched over a cardboard box with 3 shells on
+it, obviously some sort of game, or con.    
+~
+1073995786 0 0 0 5342376 32 0 0 0
+51 -30 -40 100d1+30000 100d100+100
+100 100
+9 9 0 0 -1 -1
+Z 18196
+Z 18197
+Z 18198
+Z 18199
+$
