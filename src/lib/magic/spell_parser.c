@@ -1112,7 +1112,7 @@ ACMD(do_cast)
 
 /* Assign the spells on boot up */
 
-void spello(int spl, int lv0, int lv1, int lv2, int lv3, int lv4, int lv5, int lv6, int lv7, int lv8, int lv9, int lv10,
+void spello(int spl, int lv0, int lv1, int lv2, int lv3, int lv4, int lv5, int lv6, int lv7, int lv8, int lv9, int lv10, int lv11,
 	         int max_mana, int min_mana, int mana_change, int minpos,
 	         int targets, int violent, int routines, byte grouplvl)
 {
@@ -1127,6 +1127,7 @@ void spello(int spl, int lv0, int lv1, int lv2, int lv3, int lv4, int lv5, int l
   spell_info[spl].min_level[CLASS_DEATH_KNIGHT] = lv8;
   spell_info[spl].min_level[CLASS_SHADOW_DANCER] = lv9;
   spell_info[spl].min_level[CLASS_NECROMANCER] = lv10;
+  spell_info[spl].min_level[CLASS_BARD] = lv11;
   spell_info[spl].mana_max = max_mana;
   spell_info[spl].mana_min = min_mana;
   spell_info[spl].mana_change = mana_change;
