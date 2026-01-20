@@ -1,0 +1,24 @@
+' say &13$* &00
+ar gems;look
+j cast 'life drain' $*
+invis cast 'invisibility' $*
+f clan &13 x=x=x&14$* &13x=x=x&00
+oo c 'identify' $*
+fw clanwho
+g gt &13==>&14$* &13<==&00
+b c 'blindness' $*
+str c 'strength' $*
+fly c 'fly' $*
+sum c 'summon' $*
+infra c 'infravision'
+elven get elven beetle;rec elven
+kaon get bread beetle;get bread beetle;eat bread;eat bread;put all.bread beetle;drink color;save
+shield c 'shield' $*
+a assist $*
+kawos pour color out;fill color fount
+armor get oak bee;rem tail;hold oak;use oak $*;rem oak;hold tail;put oak bee;save
+locate cast 'locate object' $*
+m cast 'magic missile' $*
+flame cast 'flame blade' $*
+stone cast 'stoneskin' $*
+1 assist trona

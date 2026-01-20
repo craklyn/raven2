@@ -1,0 +1,25 @@
+j exit
+di cast 'detect invis' $1
+id cast 'identify' $1
+gate cast 'gate'
+fly cast 'fly' $1
+invis cast 'invisibility' $1
+shield cast 'shield' $1
+fb cast 'flame blade' $1
+haste cast 'haste' $1
+db cast 'doom bolt' $1
+loc cast 'locate object' $1
+rc cast 'remove curse' $1
+port cast 'portal' $1
+cp cast 'charm person' $1
+nex cast 'nexus' $1
+ts cast 'true sight' $1
+mm cast 'magic missile' $1
+infra cast 'infravision'
+awake cast 'awaken' $1
+blind cast 'blindness' $1
+air cast 'airsphere' $1
+sum cast 'summon' $1
+lo get all all.corpse
+sac destroy corpse
+str cast 'strength' $1

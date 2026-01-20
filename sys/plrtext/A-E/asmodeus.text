@@ -1,0 +1,13 @@
+wanderer title :: &09Wanderer&00
+id cast 'identify' $*
+blind cast 'blind' $*
+locate cast 'locate' $*
+sum cast 'summon' $*
+fly cast 'fly' $*
+shield cast 'shield' $*
+fb cast 'flame blade' $*
+spray cast 'color spray' $*
+mm cast 'magic missile' $*
+infra cast 'infra'
+awaken cast 'awaken' $*
+cw clanwho

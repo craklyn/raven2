@@ -1,0 +1,35 @@
+walk cast 'shadow walk'
+b cast 'shadow blades' $*
+cl clan &10 $* &00
+3 recite mid mid
+l delusion
+ss shadowstep $*
+loot get all all.lolita;wea all;wie shard;wea cru neck;hol eye;get all all.lolita;dest lolita
+t throw $*
+m cast 'dance of mist' $*
+tit2 title ... i &07AM&00 a &01death&14dancer&00 for &02hire&00
+o order follower kill $*
+cc cast 'charm' $*
+ii cast 'invis' $*
+ggg get all all.cor
+bl cast 'blur' $*
+gt gtell &05xxx&14$* &00&05xxx&00
+' say &08xxx&14$* &08xxx&00
+v cast 'shadow visi' $*
+gg get gol all.cor
+c clan &12xxx&14$* &12xxx&00
+tr trip $*
+up ord fol wake;ord follower stand;ord fol report
+ls cast 'sense'
+wa wake;stand
+sm shadowmist $*
+k backstab $*
+dr cast 'dance of dreams' $*
+a assist shadow
+de delusion
+lan clan $*
+sk sc
+do cast 'dance of shadows' 
+sh cast 'shadow sphere'
+tit title says,I &12[&07AM&12] &01Nasty &14Girl, who &07Shadow&12Dances &14for &09Money&00
+sv cast 'shadow vision' $*

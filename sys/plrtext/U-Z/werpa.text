@@ -1,0 +1,38 @@
+invis cast 'invisibility' $*
+age cast 'age'
+mata wake;stand;look
+ch e;e;e;e;e;s;s;s;s;s;e;say horse;e;n
+emb c 'embalm' $*
+ent cast 'entomb' $*
+cor cast 'consume corpse' cor
+wf cast 'wraithform'
+deb cast 'debilitate' $*
+slow cast 'slow' $*
+sil cast 'silence' $*
+ed cast 'energy drain' $*
+nox cast 'nox' $*
+ld cast 'life drain' $*
+g gt &12$* &00
+fly cast 'fly' $*
+f clan &12$* &04
+sp cast 'soul pierce' $*
+infra cast 'infra'
+sen cast 'sense life'
+fw clanwho
+di cast 'detect invis' $*
+b cast 'blind' $*
+sum cast 'summon' $*
+sh cast 'shield' $*
+' say &12$* &00
+ok order follow kill $*
+cw cast 'create warding'
+bw cast 'bone wall' $*
+rp c 'resist poison' $*
+mal c 'maledict' $*
+o order follower $*
+ec cast 'explode corpse' $*
+cs cast 'summon corpse' $*
+cc cast 'charm corpse' $*
+ccc cast 'charm corpse' cor
+kk order follower kill $*;ass min
+minions say 8s3e2sd30es6e6e2nwn

@@ -1,0 +1,266 @@
+#2000
+D W 4~
+black hatchling dragon baby~
+the dragon hatchling~
+A dragon hatchling is here, chewing on a bone.
+~
+This small dragon hisses at you as you enter the room.  Although it is only a
+few feet long, its sharp teeth make you think twice about petting it.
+~
+74 524288 0 4096 262144 0 0 0 0
+7 12 4 4d8+100 1d8+2
+35 40
+9 9 0 4 -1 -1
+#2001
+I W 4~
+draconian~
+the Draconian~
+The Draconian is standing here.
+~
+This horrible creature is a bizarre cross between a man and a dragon.  He 
+has black scales and a seven foot wingspan.  He scowls at you and hefts his 
+spear as you enter the room.
+~
+2094 8 0 4096 262144 0 0 0 0
+13 8 2 13d13+130 2d6+3
+35 40
+9 9 1 8 -1 -1
+#2002
+U W 4~
+master~
+the dragon master~
+The lord of this crypt is here.
+~
+He doesn't look happy to see you.
+~
+2094 524288 0 4096 262144 0 0 0 0
+27 0 -5 27d27+270 6d6+8
+40 40
+9 9 1 8 4 -1
+#2003
+H M 0~
+man mage wizard~
+a powerful mage~
+A man is here, studying some books.
+~
+A powerful looking mage is standing in this room studying his spells.  You are
+surprised at the fact that he is human, and realize that he must be very
+powerful to have been accepted by the creatures which live here.
+~
+10 138 0 4096 262144 0 0 0 0
+22 0 3 22d22+220 4d8+10
+40 40
+9 9 1 0 -1 -1
+#2004
+I C 1~
+cleric draconian~
+the holy Draconian~
+A Draconian is here, deep in thought.          
+~
+A Draconian stands here, dressed in simple robes.  Around his neck you 
+notice a golden medallion in the shape of a five headed dragon.  
+~
+46 136 0 4096 262144 0 0 0 0
+22 1 0 22d22+220 5d5+6
+40 40
+9 9 1 0 -1 -1
+#2005
+I W 2~
+king draconian questmaster~
+the Draconian King~
+A Draconian wearing fine clothes is here, pondering his greatness.          
+~
+The king of the draconians sits here on a golden throne.  He looks as 
+though he could crush your head with a single blow.  Yet you sense that he 
+is controlled by a greater power. 
+~
+134217742 136 0 4096 263208 0 0 0 0
+26 0 -10 26d26+260 2d8+12
+40 40
+9 9 1 8 -1 -1
+#2006
+I A 1~
+concubine draconian~
+a concubine~
+A concubine is resting here. 
+~
+This is a concubine of the king.  She is lounging here, wearing nothing at 
+all.  You find yourself strangely repulsed as she draws a knife and 
+prepares to defend herself. 
+~
+10 0 0 4096 262144 0 0 0 0
+6 16 5 6d10+50 2d3+1
+35 40
+9 9 2 8 -1 -1
+#2007
+I W 3~
+bodyguard draconian~
+a bodyguard~
+A bodyguard is here, staring at you menacingly. 
+~
+This creature has devoted its life to defending the king.  Your intrusion has
+not pleased it.
+~
+44 42 0 4096 262144 0 0 0 0
+18 3 -10 18d18+180 4d8+15
+35 40
+9 9 1 0 -1 -1
+#2020
+D M 6~
+fryscillius dragon~
+Fryscillius~
+Fryscillius the Mistress of Dragons hisses at you as you enter this room.
+~
+You see before you the master of this Tower, Fryscillius.  She frowns at you 
+as she prepares to make you pay for your insolence ... with your lives!
+~
+526446 132264 0 4096 5702824 32 0 0 0
+55 0 -7 10d50+15500 15d9+55
+90 100
+9 9 2 21 8 4
+#2021
+D W 1~
+dragon red~
+the Great Red Dragon~
+A red dragon is here, contemplating your existence. 
+~
+This huge red dragon dominates the chamber.  As you turn to flee, he grins at
+you and invites you to stay ... forever! 
+~
+2097198 40 0 4096 262144 0 0 0 0
+45 0 -1 10d50+3800 6d8+40
+65 75
+9 9 1 21 8 4
+#2022
+D W 4~
+dragon black~
+the Great Black Dragon~
+A black dragon is here, laughing at your insolence. 
+~
+This huge black wyrm laughs at your puny weapons.  You realize that he is not
+going to roll over and die for you.
+~
+46 40 0 4096 262144 0 0 0 0
+39 1 -3 10d50+2500 6d8+34
+50 60
+9 9 1 21 8 4
+#2023
+D W 3~
+dragon white~
+the Great White Dragon~
+A white dragon is here, waiting for you. 
+~
+This dragon towers over you.  Recalling your previous experiences with white
+dragons, you are not afraid.  She smiles at you and says 'I think you will find
+me a greater challenge than my offspring.'
+~
+46 40 0 4096 262144 0 0 0 0
+37 0 -3 10d50+2200 6d8+30
+50 60
+9 9 2 21 8 4
+#2025
+D W 2~
+dragon green~
+the Ancient Green Dragon~
+A green dragon is here, looking distraught. 
+~
+This huge beast appears to be the most directly related to the draconians. 
+She looks at you with sorrow in her eyes and says 'You have slaughtered my 
+children.  Prepare to die.'
+~
+46 40 0 4096 262144 0 0 0 0
+41 0 -2 10d50+2900 6d8+36
+65 75
+9 9 2 21 8 4
+#2026
+D W 6~
+hydra~
+a large hydra~
+A hydra is here, blocking the doorway. 
+~
+A hydra is here, guarding the entrance to a sealed vault.  You have the feeling
+it isn't happy to see you.
+~
+46 40 0 4096 262144 0 0 0 0
+18 3 0 5d50+1400 5d8+27
+35 40
+9 9 0 4 -1 -1
+#2027
+H W 0~
+slave human~
+a human slave~
+A Human slave is here, hard at work.          
+~
+He looks like he's under a lot of stress.  He would probably like it if you
+left him alone.
+~
+10 0 0 4096 262144 0 0 0 0
+5 16 6 1d10+50 1d6+4
+35 40
+9 9 1 0 -1 -1
+#2040
+U W 0~
+zombie draconian~
+a Draconian zombie~
+A Draconian zombie is here, staring at nothing in particular.
+~
+This used to be one of the warriors of this tribe.  He was denied his final
+rest, however, and now guards this corridor tirelessly as a zombie.
+~
+46 40 0 4096 262144 0 0 0 0
+9 9 4 1d100+175 1d8+6
+35 40
+9 9 0 8 -1 -1
+#2041
+D M 4~
+dragon phase~
+the phase dragon~
+A Phase Dragon is darting around the room.          
+~
+This small dragon looks like he's up to no good. 
+~
+236 40 0 4096 262144 0 0 0 0
+10 11 3 10d10+150 2d6+6
+35 40
+9 9 1 4 1 -1
+#2042
+I T 5~
+fool jester draconian~
+the draconian jester~
+A Jester is here, making fun of you.          
+~
+This dragon man looks VERY foolish, dressed in a green and blue striped 
+suit.  As you enter the room, he points at you and laughs. 
+~
+200 0 0 4096 262144 0 0 0 0
+5 16 5 1d10+50 3d3+4
+35 40
+9 9 1 8 -1 -1
+#2043
+I C 5~
+queen draconian~
+the Draconian Queen~
+A Female Draconian sits, here, looking very important.          
+~
+This draconian looks VERY busy as she orders her slaves around.  You think 
+it might be a good idea to leave her alone. 
+~
+14 168 0 4096 262144 0 0 0 0
+20 1 2 20d20+200 3d4+8
+40 40
+9 9 2 8 -1 -1
+#2044
+D D 2~
+young dragon~
+a young dragon~
+A young dragon stands here with its wings awkwardly folded.
+~
+You see a young dragon of a greenish-bronze color.  This is one of Frycillius's
+offspring.  At this moment it seems clumsy but someday it will grow into a
+fearsome creature of air and fire
+~
+1056558 0 0 0 1049640 0 0 0 0
+25 5 -6 1d1+1500 8d8+16
+40 40
+9 9 1 4 8 21
+$

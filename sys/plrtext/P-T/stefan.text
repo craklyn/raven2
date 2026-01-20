@@ -1,0 +1,21 @@
+rp cast 'remove para' $*
+rc c 'remove curse' $*
+ba c 'banish' $*
+di c 'detect invis' $*
+dm c 'divine mission'
+z dest cor
+pray c 'prayer' $*
+da c 'detect align'
+rv c 'righteous vision'
+r rescue $*
+holy c 'holy armor'
+divine c 'divine mission'
+food c 'create food'
+wk wak;sta
+b bash $*
+cru c 'crusade'
+pfe c 'protection from evil'
+cb c 'cure blind' $*
+tit title .::&03O&07D&00:: $*
+trem cast 'tremor'
+regen c 'regen' $*

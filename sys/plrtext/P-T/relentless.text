@@ -1,0 +1,46 @@
+da c 'detect alignment' $*
+f c 'death touch' karias
+elv mist duckling
+elven mist duckling
+wa wake;stand
+g e;e;e;e;e;e;e;e;e;n;sa gs
+infra c 'eyes of the dead'
+sam sa samsera
+msam mist rhyvis
+b bash $*
+armor c 'chaos armor'
+clan clan &00&06$* &00
+cw clanwho
+gt gt &06$* &00
+say say &06$* &00
+o order fol kil $1
+black cas 'black brea
+regen c 'regen' $*
+death c 'death tou' $*
+chaos c 'chaos armor'
+blind c 'blind' $*
+ani c 'animate dead' $*
+&14:&00 &03The&00 &01Destroyer&00 
+di c 'detect invis' $*
+dartn c 'black dart' $* n
+darts c 'black dart' $* s
+dartu c 'black dart' $* u
+dartd c 'black dart' $* d
+dartw c 'black dart' $* w
+darte c 'black dart' $* e
+dart c 'Black Dart' $*
+aura c 'aura of apocalypse'
+dev devour $*
+pest c 'pest'
+0 get all all.cor
+pfe cas 'protection from g
+cur cas 'curse' $1
+oa order follower assist
+dt c 'death touch' $*
+bl c 'blind' $*
+refresh get mino mir;q mino
+r rescue $*
+word c 'unholy word'
+ad c 'animate dead' $*
+of order followers $*
+pfg c 'protection from good'

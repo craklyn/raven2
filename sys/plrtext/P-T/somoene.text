@@ -1,0 +1,26 @@
+cw clanwho
+revive cast 'revive' $*
+di cast 'detect invis' $*
+infra cast 'infra'
+fly cast 'fly' $*
+sanc cast 'sanc' $*
+fort cast 'fort' $*
+sense cast 'sense' $*
+haste cast 'assist'
+cleanse cast 'cleanse' $*
+sagac cast 'sagac' $*
+relo cast 'relocat'e $*
+holy cast 'holy word'
+para cast 'remove para' $*
+regen cast 'regen' $*
+word cast 'word of recall' $*
+heal cast 'heal' $*
+bless cast 'bless' $*
+cb cast 'cure blind' $*
+blind cast 'blind' $*
+armor cast 'armor' $*
+gt gt &10$* &00
+say say &10$* &00
+rev cast 'revive' $*
+sum cast 'summon' $*
+zerk emote has gone berserk!

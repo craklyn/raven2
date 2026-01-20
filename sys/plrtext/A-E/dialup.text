@@ -1,0 +1,28 @@
+slo c 'slow' $*
+78 wear veil
+88 rem veil
+0 wake;;stand
+consume c 'consume corpse' $*
+invis c 'invis' $*
+age c 'age' $*
+sense c 'sense life' $*
+emb c 'embalm corpse' $*
+cc c 'charm corpse' $*
+nox c 'noxious skin' $*
+b c 'blind' $*
+gt gtell &08 $*  &00
+infra c 'infra'
+/ rec elv
+shi c 'shield' $*
+fly c 'fly' $*
+life c 'life drain' $*
+sum c 'summon' $*
+11 c 'soul pierce' $*
+di c 'detect invis' $*
+99 say samsera
+89 wear spec
+77 rem spec
+of order follower $*
+ff flee;;flee
+5 drop all
+6 get all

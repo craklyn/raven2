@@ -1,0 +1,23 @@
+g kill 2.
+h or shadow kill $*;rescue shadow;or 2.shadow kill $*;rescue 2.shadow;or 3.shadow kill $*;rescue 3.shadow
+ter c 'terror' $*
+b bash $*
+1 get all all.corpse
+sour recall to turrian. 2e4se 
+r rescue $*
+sh shield $*
+2 get coins all.corpse
+cit 52576
+wa wake;stand
+clan clan &14$*&00
+eatt get bread bask;eat bread
+y get sam bask;rec sam rec
+eastt get bread bask;eat bread
+elv get elv bask;rec elv
+k kick $*
+level remove azure;remove azure;remove beard;wear jew;wear jew;wear spect
+dam remove jew;remove jew;rem spect;wear azure;wear azure;wear beard
+gt gt &08$*&00
+x exit
+prep put all.scroll bask;put all.bean bask;put all.carr bask;put all.dust bask;put all.bread bask
+armor remove fatale;hold oak;use oak self;rem oak;hold fatale

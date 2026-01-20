@@ -1,0 +1,25 @@
+z w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;s;e;s;s;s;s;s;s;s;s;s;s;s;s;s;s;e;e;e;e;e;e;e;s;s;s
+sense c 'sense life'
+cur c 'curse' $1
+9 c 'sense life'
+8 c 'shadow walk'
+3 back $1
+2 sneak
+4 c 'invis' $1
+bl c 'blind' $1
+r rec elven
+5 c 'shad sphere'
+wake wake;st
+6 c 'dance of shadow'
+7 c 'blur
+a ass
+v trip;stand
+q get all all.cor
+sv c 'shadow vision' $1
+f flee
+1 c 'dance of dreams' $1
+say say &07 JIG&00&14$* &00&08JIG&00
+clan clan &07 JIG&00&14$* &00&08JIG&00
+gt gt &07 JIG&00&14$* &00&08JIG&00
+charm c 'charm' $1
+poison c 'poison' $1

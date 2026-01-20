@@ -1,0 +1,8 @@
+di cast 'detect invis'
+2 take $* panties
+1 put $* panties
+nox cast 'nox'
+gt gt &12$*&00
+j cast 'soul pierce' $*
+0 recite elven
+db drink water

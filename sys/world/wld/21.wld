@@ -1,0 +1,976 @@
+#2100
+The credit room~
+   I stuck my nose in again. This time on a challenge from
+Vex, and because of numerous complaints from players about
+what a waste of space this area was.
+   I found a small Celtic fable and tried to make the area 
+into it. The story is of the Saving of Tara. The story is
+also at the incoming ftp, if you would like to read.
+   I also tried something new, I placed clipart into a mobs
+description. And it worked, to me looks kewl. And credit
+for art goes to Goodwin, I stole off the web.
+   The level of play here is 25+, due to the eq and objects
+that can be gotten. Plus is more for rouge classes, th, sd,
+and as. That was more on accident. The eq just seem to fit
+them more, and the sleeping mobs seemed like they would be
+quite inviting to any of that class with a smidgen of
+brains. I put no +hp, +dam, +mana or +anything. I used con,
+dex ect, and never more than 1 per item. 
+   Anyway, enough rambling, hope it's up to par, and worth
+the bandwidth.
+Hasana
+~
+21 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 -1
+S
+#2101
+The holy grove~
+   The dark half of the year takes up it's reign once more,
+growing strong, forcing you to confront the shadows of
+Primordial Night. All barriers are lifted, all boundaries
+removed. Those of the Otherworld walk among us. It is their
+night, and they will not have a mortal such as you keep
+them from destroying all that they see. The Demon shall
+send his fire to strip this world of all human and Druids.
+~
+21 9 0 0 0 5 255 0
+D1
+The path winds its way through the tall trees, towards a
+clearing faintly seen.
+~
+~
+0 0 2102
+D2
+you see tall trees.
+~
+~
+0 0 2104
+D3
+~
+~
+0 0 6153
+S
+#2102
+The holy grove~
+   You are standing amidst the ancient oaks and poplars in
+the holy grove. You feel unusually relaxed, as if great
+burdens have been lifted from your shoulders. From here,
+paths lead east, west and south.
+~
+21 9 0 0 0 5 255 0
+D1
+The path winds its way through the tall trees, towards a
+clearing faintly seen.
+~
+~
+0 0 2103
+D2
+The path winds its way through the tall trees, towards an
+open area barely visible in the distance.
+~
+~
+0 0 2105
+D3
+The path winds its way through the tall trees, disappearing
+out of sight.
+~
+~
+0 0 2101
+S
+#2103
+A clearing in the woods~
+   You are standing in a clearing in the light woods.
+Somehow, this place seems powerfully DIFFERENT from the
+rest of the forest, as if something is severely strained in
+the fabric of reality here.  There is a notice tacked  
+on one of the trees.
+~
+21 9 0 0 0 5 255 0
+D2
+There is a path winding its way south through the tall
+poplars, disappearing out of sight some 100 yds. away.
+~
+~
+0 0 2106
+D3
+There is a path leading west through the tall trees.
+~
+~
+0 0 2102
+E
+tree notice~
+I, the King of Tara, pledge that if any man among us who
+can keep Tara standing till dawn, on the night of the Feast
+of Samhain, will have bestowed upon him his rightful
+inheritance. This is with the assurances of the four kings
+of the provinces and of the Druids.
+~
+S
+#2104
+The holy grove~
+   You are standing amidst the ancient oaks and poplars in
+the holy grove. You feel calm and relaxed here, and a bit
+tired.  From here,  paths lead east, north and south.
+~
+21 9 0 0 0 5 255 0
+D0
+The path winds its way through the tall trees, disappearing
+out of sight.
+~
+~
+0 0 2101
+D1
+The path winds its way through the tall trees, towards a
+clearing faintly seen.
+~
+~
+0 0 2105
+D2
+The path winds its way through the tall trees, into the
+grove.
+~
+~
+0 0 2107
+S
+#2105
+The sacred glade~
+   You are standing in the middle of the sacred glades,
+where the citizens come to celebrate the spring, where
+farmers give thanks for bountiful harvest in the fall, and
+where lovers stroll in summer. You feel seasons of
+remembered happiness and joy, sorrows and worries. You seem
+to hear a very soothing sound of music.  Paths lead into
+the holy grove to the east, north and west, while to the
+south a wide  field slopes down to a dark looking forest.
+To the north-west of you is a strange shimmering, almost
+like something from another world....
+~
+21 9 0 0 0 5 255 0
+D0
+The path winds its way north, disappearing through the tall
+trees.
+~
+~
+0 0 2102
+D2
+To the south, a wide, field stretch out, to a path sloping
+down towards a dark forest.
+~
+~
+0 0 2108
+D3
+The path winds its way west between stately poplars and
+oaks.
+~
+~
+0 0 2104
+S
+#2106
+The Path~
+   You are standing standing on a well worn path leading
+towards a clearing  to the south.
+~
+21 9 0 0 0 5 255 0
+D0
+The path winds its way through the tall trees, disappearing
+out of sight.
+~
+~
+0 0 2103
+D2
+To the south, just beyond the trees, you can see a wide
+green lawn, and past the lawn, a  mansion.
+~
+~
+0 0 2109
+S
+#2107
+The holy grove~
+   You are standing amidst the tall, majestic trees in the
+holy grove. Paths lead north, south and east. To the east,
+You can see a wide, open field. Somehow, here you feel an
+inexplicable giddiness,as if the world's troubles no longer
+really matter to you. The music surrounds you and beckons
+you to rest and sleep.
+~
+21 9 0 0 0 5 255 0
+D0
+The path leading north is soon lost out of sight amongst
+the ancient oaks and poplars.
+~
+~
+0 0 2104
+D1
+To the east, the path leads out into a wide field.
+~
+~
+0 0 2108
+D2
+~
+~
+0 0 2130
+S
+#2108
+The field~
+   You are standing in the middle of a wide field. There is
+a fragrance of spring in the air, a sound of summer and a
+feeling of eternal Saturday afternoon. To the south is a
+path, leading to a dark forest, and to the north and west
+is the holy grove. You feel as if you could spend the rest
+of your life here, lying on your back and looking at the
+stars and moon as you gently drift asleep.
+~
+21 8 0 0 0 2 255 0
+D0
+There is a path leading north towards the sacred glade.
+~
+~
+0 0 2105
+D2
+There is a path leading towards a dark forest.
+~
+~
+0 0 2129
+D3
+There is a small path leading into the woods to the west.
+~
+~
+0 0 2107
+S
+#2109
+The lawn~
+   You are standing on a immaculately manicured green lawn,
+the kind you only get after 200 years of meticulous work.
+There is a winding stone path leading from the wood's edge
+to the north, and to the mansion to the south. You seem to
+be getting very tired. Maybe you should rest.
+~
+21 4 0 0 0 2 255 0
+D0
+To the north, the winding stone path leads into the holy
+grove.
+~
+~
+0 0 2106
+D2
+To the south, the path leads straight up to the front door
+of the mansion.
+~
+~
+0 0 2120
+S
+#2110
+The foyer~
+   You are standing in the foyer. The wide double door to
+the  lawn is to the north, flanked by large windows. The
+walls are panelled in oak and hung with strange paintings.
+There is door in the south and stairs to the east. Your
+eyes are having a hard time staying open. Maybe you should
+rest.
+~
+21 12 0 0 0 0 255 0
+D0
+Through the windows next to the door you can see the lawn.
+~
+door~
+1 -1 2120
+D1
+You see the stairs to the top floor.
+~
+~
+1 -1 2121
+D2
+~
+door~
+1 -1 2111
+D3
+~
+door~
+1 -1 2116
+E
+painting paintings~
+They are strange indeed, works of breathtaking precision
+depicting obviously impossible motifs, like a sky filled
+with headless men, all dressed in some black costume
+(including hats), or a lady standing, blue
+from the waist up, or some pieces of plankwood that seems
+to be melting away like snow, or a night sky with a
+dove-shaped hole of bright day sky in the middle.
+~
+S
+#2111
+The hallway~
+   You are in the north end of a connecting hallway,
+tastefully decorated with oak paneling and the coat-of-arms
+of various famous nobles hung on the walls. The hallway
+leads south, and there doors east, west, and north.
+~
+21 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 2110
+D1
+~
+door~
+1 -1 2115
+D2
+~
+~
+0 0 2113
+D3
+~
+door~
+1 -1 2118
+S
+#2112
+The blue room~
+   You are in the blue room, one of the guest rooms in
+mansion. The walls are (surprise!) blue, and the rest of
+the room is decorated in similar shades, producing a very
+nice, cool effect. There is a large bed and a matching set
+of easy-chairs and a small table. Through the curtains in
+front of the large east window you can see the edge of the
+grove. The bed looks very comfortable. Maybe you should
+sleep.
+~
+21 8 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 2124
+S
+#2113
+The hallway~
+   You are standing in the south end of the hallway. There
+is door in the elegant oak-panelled walls to the west. Many
+different coat-of-arms adorn the walls here.
+~
+21 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 2111
+D3
+~
+door~
+1 -1 2117
+D4
+~
+~
+1 0 2127
+S
+#2114
+The red room~
+   You are in the red room, one of the guest rooms in
+mansion. The walls are a deep warm red, and dark mahogany
+panelling nicely complements them. There is a large, warm
+bed and a group of fine crafted chairs of dark wood with
+leather upholstery, including a large table. Heavy brown
+curtains are pulled away from the wide windows, to reveal a
+moon-lit view of the grove. You could rest here very
+comfortably.
+~
+21 8 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 2125
+S
+#2115
+The kitchen~
+   You are standing in the middle of kitchen. There are a
+large variety of foodstuffs found here on the shelves.
+There are numerous jars and baskets of tomatoes, peas, corn
+etc., vines of garlic, a large array of small spice jars
+along several shelves. A big oven is lurking in a corner.
+There is a door to the west.
+~
+21 8 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 2111
+S
+#2116
+The ballroom~
+   You are standing in the middle of a vast palisander
+floor. This is where the owner entertains large number of
+guests, but the cloth-covered chairs standing forlornly in
+a corner suggests that this does not happen often. There
+are doors in the south, west and east walls..
+~
+21 8 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 2110
+D2
+~
+door~
+1 -1 2118
+D3
+~
+door~
+1 -1 2122
+S
+#2117
+The greenhouse~
+   This is the greenhouse. Green light filters in slantwise
+through the plants, giving the room a subtropical ambiance.
+It is not really hot in here,though, rather a pleasantly
+warm temperature. The walls are all windows, except 
+the eastern one joining the greenhouse to the main
+building, but it is hard to see out for all the greenery
+here. There is a set of easy-chairs and a glass table. To
+the north,there is a wide double door out to a terrace.
+~
+21 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 2119
+D1
+~
+door~
+1 -1 2113
+S
+#2118
+The dining hall~
+   This is the dining hall. There is a large long solid oak
+table, seating at least 24, with heavy, wooden chairs to
+match. The oak panel walls are filled with paintings. There
+are doors to the north and east, and to the west there is a
+wide double door opening out onto the terrace.
+~
+21 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 2116
+D1
+~
+door~
+1 -1 2111
+D3
+~
+wide door~
+1 -1 2119
+E
+painting paintings~
+There are many, many beautiful paintings of history and
+literature. Over the head of the table hangs a rather
+modest portrait of a King.
+~
+S
+#2119
+The terrace~
+   You are standing on a terrace in front of mansion. To
+the west, there is a splendid view of the dark forest and
+the lake. To the north you can see a lightning storm,
+while a double door leads into the house proper to the
+east. It is warm and calm here. There is a white-painted
+table here,together with a matched set of chairs Maybe you
+should sleep, before you travel on.
+~
+21 12 0 0 0 0 255 0
+D0
+~
+~
+1 -1 2122
+D1
+~
+double door~
+1 -1 2118
+D2
+~
+door~
+1 -1 2117
+S
+#2120
+Before the Mansion~
+You stand at the door of a stately mansion. You are almost
+to tired to open the door. Maybe if you just slept right
+here for awhile. That beautiful music would lull you to
+sleep in no time.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2109
+D2
+~
+door~
+1 -1 2110
+S
+#2121
+The Stairs~
+In front of you are the stairs leading to the second floor.
+Maybe you could find a nice place to take a long nap.
+~
+21 9 0 0 0 5 255 0
+D3
+~
+~
+0 0 2110
+D4
+~
+~
+0 0 2123
+S
+#2122
+The terrace~
+The view is lovely, except for that lightening storm to
+the north. The doors to the ballroom are east.
+~
+21 9 0 0 0 5 255 0
+D1
+~
+door~
+1 -1 2116
+D2
+~
+~
+0 0 2119
+S
+#2123
+Top of the stairs~
+You are exhausted, your mind is clouded, all you hear is
+the music, lulling you to sleep.
+~
+21 9 0 0 0 5 255 0
+D2
+~
+~
+0 0 2124
+D5
+~
+~
+0 0 2121
+S
+#2124
+The hall~
+The thick carpet under your feet feels very soft and
+comfortable. It would make a soft cushion to sleep on.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2123
+D2
+~
+~
+0 -1 2125
+D3
+~
+door~
+1 -1 2112
+S
+#2125
+The hallway~
+The darkness of the oak walls and the softness of the
+carpet make you wish for sleep more and more. 
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2124
+D2
+~
+~
+0 0 2127
+D3
+~
+door~
+1 -1 2114
+S
+#2127
+Top of the stair~
+These stairs lead down into the connection hall on the
+first floor.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2125
+D5
+~
+~
+0 0 2113
+S
+#2129
+The holy grove~
+You stand at the the far edge of the holy grove. To the
+west is a small path leading towards a lake and a dark
+forest.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2108
+D3
+~
+~
+0 0 2130
+S
+#2130
+The holy grove~
+The music is getting louder and louder, it is almost
+magically telling you to sleep. Maybe you should do as the
+others and just give in.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2107
+D1
+~
+~
+0 0 2129
+D2
+~
+~
+0 0 4437
+D3
+~
+~
+0 0 2131
+S
+#2131
+At the edge of the grove~
+     You are standing at the edge of a dark grove of trees,
+and your heart is filled with dread.  This does not look
+like a safe place to recover from the wounds of
+adventuring, but you are so very tired.  A faint path
+around the lake lies to the north and south.
+~
+21 9 0 0 0 5 255 0
+D0
+A faint trail leads around the lake
+~
+~
+0 0 2133
+D1
+you see a path leading into the grove
+~
+~
+0 0 2130
+D2
+~
+~
+0 0 2144
+D3
+~
+~
+0 0 2132
+S
+#2132
+The lake~
+The water is cold, but  you feel as if you could float here
+forever, even sleep.
+~
+21 13 0 0 0 6 255 0
+D0
+~
+~
+0 0 2136
+D1
+~
+~
+0 0 2131
+D2
+~
+~
+0 0 2143
+D3
+~
+~
+0 0 2139
+S
+#2133
+Inside the grove~
+    As you walk among the stately oaks of this grove, you
+feel very tired.  The trail turns towards the west, leading
+into the secluded trees of the Druids' holy grove.
+~
+21 9 0 0 0 5 255 0
+D0
+You see the stately oaks and poplars of the holy grove.
+~
+~
+0 0 2134
+D2
+You see the shadows of the of tress.
+~
+~
+0 0 2131
+D3
+You see the shadows of the of tress.
+~
+~
+0 0 2136
+S
+#2134
+Inside the grove~
+    As you walk among the tress, you feel as if your feet
+have turned to brick. The trail turns towards the west.
+~
+21 9 0 0 0 5 255 0
+D2
+You see the shadows of the of tress.
+~
+~
+0 0 2133
+D3
+You see the shadows of the of tress.
+~
+~
+0 0 2135
+S
+#2135
+Inside the grove~
+    As you walk in the darkness, you become even more
+exhausted. Is that music you hear ever going to stop?
+~
+21 9 0 0 0 5 255 0
+D1
+You see the shadows of alot of tress.
+~
+~
+0 0 2134
+D2
+You see the shadows of alot of tress.
+~
+~
+0 0 2136
+D3
+You see the shadows of alot of tress.
+~
+~
+0 0 2137
+S
+#2136
+At the edge of the lake~
+     You are standing at the edge of a dark lake.  This
+looks like a safe place to recover from the wounds of
+adventuring, and you are so very tired.
+~
+21 9 0 0 0 5 255 0
+D0
+You see the shadows of alot of tress.
+~
+~
+0 0 2135
+D1
+You see the shadows of alot of tress.
+~
+~
+0 0 2133
+D2
+You see a very dark lake.
+~
+~
+0 0 2132
+D3
+You see the shadows of alot of tress.
+~
+~
+0 0 2138
+S
+#2137
+A Dark Cloud~
+     You find yourself among twisted,gnarled trunks of
+giant thorn trees. Mist covers the forest floor and
+everything is completely silent. To the north you see a
+huge mound with a shimmering darkness in its middle.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+shimmering mound door~
+1 -1 2146
+D1
+You see mist swirling around you.
+~
+~
+0 0 2135
+D2
+You see mist swirling around you.
+~
+~
+0 0 2138
+S
+#2138
+The dark grove~
+There is a small path here, heading north, into darkness,
+and south into a very thick woods. The path east looks much
+safer.   
+~
+21 9 0 0 0 5 255 0
+D0
+You see the shadows of alot of tress.
+~
+~
+0 0 2137
+D1
+You see the shadows of alot of tress.
+~
+~
+0 0 2136
+D2
+You see the shadows of alot of tress.
+~
+~
+0 0 2139
+S
+#2139
+The dark grove~
+   You can barely see around you, the vegetation is so
+thick.
+~
+21 9 0 0 0 5 255 0
+D0
+You see the shadows of alot of tress.
+~
+~
+0 0 2138
+D1
+You see a dark lake. 
+~
+~
+0 0 2132
+D2
+You see the shadows of alot of tress.
+~
+~
+0 0 2140
+S
+#2140
+A dark forest~
+   You are headed deeper and deeper into darkness. The
+trees and vegetation is so thick you must cut your way
+through it.
+~
+21 9 0 0 0 5 255 0
+D0
+You see the shadows of alot of tress.
+~
+~
+0 0 2139
+D1
+You see the shadows of alot of tress.
+~
+~
+0 0 2143
+D2
+You see a small clearing.
+~
+~
+0 0 2141
+S
+#2141
+A Clearing~
+   You stand in a small clearing in front of a large mound.
+You can feel a powerful magic here. Even though there is no
+sound, your ears ring and the hairs on your arm begins to
+rise with the static in the air. This does not seem like a
+place you should be.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2140
+D1
+~
+door~
+1 -1 2142
+S
+#2142
+Fiacha's Hut~
+   Blue haze, swirling light, streaks of lightening and a
+loud pounding, greet you as you enter. At first you are
+sure you should turn and run, then your eyes begin to
+focus. The blue haze is smoke coming from a large forge in
+the middle of the room. The swirling lights and streaks of
+lightening are sparks flying from the red hot metal being
+pounded, "loudly", into a the shape of a mystical looking
+weapon, by an even more mystical looking man.
+~
+21 8 0 0 0 5 255 0
+D3
+~
+door~
+1 -1 2141
+S
+#2143
+The dark forest~
+The vegetation is to dense, you must turn back
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2132
+D1
+~
+~
+0 0 2144
+D3
+~
+~
+0 0 2140
+S
+#2144
+A dark  forest~
+   Your path is slowed by thick, choking vegetation,
+grabbing your boots and scratching at you with every
+movement.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2131
+D2
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2143
+S
+#2145
+The dark forest~
+The vegetation is too thick, you must turn back.
+~
+21 9 0 0 0 5 255 0
+D0
+~
+~
+0 0 2144
+S
+#2146
+The In Between~
+You have exposed yourself to the powers of chaos and
+uncertainty, the great expanse of the unknown stretches
+before you, and you stand alone with neither stone under
+you nor star above you for guidance.
+~
+21 521 0 0 0 9 255 0
+D2
+~
+shimmering darkness~
+1 -1 2137
+S
+$~

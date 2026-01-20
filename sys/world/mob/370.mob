@@ -1,0 +1,186 @@
+#37002
+H W 0~
+injured warrior~
+the injured warrior~
+A warrior is kneeling here, mourning the loss of his comrades.
+~
+   The warrior here has been injured badly.  The sheer number of bodies in this
+area tell a scene of grisly proportions.  His entire torso is littered with
+scars of past battles.  His breathing is labored and it seems he even struggles
+to kneel.  A large flesh wound in his side will surely kill him soon.
+~
+24590 0 0 0 5342312 0 0 0 500
+35 -10 -9 1d100+2000 4d50+40
+35 0
+9 9 1 1 2 3
+Z 37001
+#37003
+P W 0~
+droid guard ancient~
+the ancient droid guard~
+The ancient droid stands here, guarding the gate.
+~
+   This droid is very human like in nature.  While it has not moved in centuries
+the armor it wears remains fairly clean.  The vegetation, however, has claimed
+the lower half of the the body preventing the droid from moving very far.  It
+seems to sense that something is nearby and begins to power up battle systems.
+Within seconds it is combat ready.
+~
+256058 0 0 0 542180584 32 0 0 0
+40 -15 -7 1d100+2500 1d1+35
+35 100
+9 9 0 0 -1 -1
+#37006
+P W 0~
+plant vine~
+a large vine~
+A large vine seems to traverse the walls with ease.
+~
+   This vine is a dark green and seems to have a pattern embedded in the skin.
+It slides with ease from wall to wall and the ceiling.  While the vine itself
+doesn't seem to increase in length when it moves, it more or less has no roots
+and seems to be able to travel the vegetation like a boat would on water.  
+Other than that it is featureless.
+~
+57453 0 0 0 542474344 2097152 0 0 -500
+40 -10 -11 1d100+3500 10d10+40
+10 100
+9 9 0 15 10 9
+#37012
+P H 0~
+vegetation large vine~
+an immense vine~
+An immense vine attempts to swallow you whole.
+~
+   This vine is absolutely colossal.  With centuries to grow and prey on unlucky
+heroes, it has reached an immense size.  Large thorns protrude from all sides
+and appear to have some sort of poison on the ends.  It is impossible to tell
+which side is the front because it is featureless, save the thorns.  It is,
+however, advancing towards you.
+~
+122938 0 0 0 1079477472 2097184 0 0 0
+49 -20 -13 1d100+5000 12d12+45
+50 0
+9 9 0 15 10 9
+#37019
+H K 0~
+earth elemental~
+the earth elemental~
+A large earth elemental stands here ready to crush anything.
+~
+   This earth elemental is very large.  Made out of solid onyx and equipped in
+armor that is made out of vegetation it is truly a sight to behold.  It lets out
+a massive grunt as it starts to lumber you way.  It seems intent on killing you.
+It isn't stopping.  It is on you quickly.
+~
+1073858602 0 0 0 5473504 2097184 0 0 0
+50 -20 -10 1d100+6000 10d10+40
+60 100
+8 8 0 0 0 0
+#37020
+P W 0~
+giant growth~
+a giant growth~
+A small seed quickly germinates into a giant growth!
+~
+   The growth of vegetation looks much like a seeder only on a much larger
+scale.  The tentacles whip around in the air gathering bits and pieces of
+organic intelligence.  Oddly, it does not make a sound as it moves through the
+darkness.
+~
+583789 0 0 0 542474336 2097184 0 0 -1000
+47 -20 -12 1d100+5000 12d12+45
+10 100
+8 8 0 15 10 9
+#37022
+A W 0~
+hybrid large spider~
+a hybrid spider~
+A large spider covered in plant growth lumbers around.
+~
+   Over time, the vegetation here has slowly begun to adapt itself to the
+mechanical spiders that roam.  It would appear that when the vegetation attaches
+to the spider it becomes immune to the infrared scans.  The spider seems to lag
+a touch.
+~
+583789 0 0 0 542474344 2097184 0 0 0
+47 -20 -12 1d100+5000 12d12+45
+10 100
+8 8 0 15 10 9
+#37035
+H D 0~
+ancient juggernaut machine~
+the ancient juggernaut~
+A gigantic mechanical juggernaut is here, bringing death with it.
+~
+   This is a machine of war.  While the legs are made of hundreds of moving
+parts, the torso is allowed to rotate in a complete circle.  The sound of
+whirling blades is the only thing you can distinguish as it communicates in an
+unintelligible language.  It starts to advance.  
+~
+1073866858 0 0 0 5473512 2097184 0 0 0
+50 -20 -10 1d100+6000 10d10+40
+60 100
+9 9 0 0 0 0
+#37050
+H M 0~
+my tester~
+suck it~
+wtf is that
+~
+It looks, err, unfinished.
+hmmmm
+~
+8 0 0 0 0 0 0 0 -1000
+0 20 10 1d1+0 1d1+0
+0 0
+9 9 0 0 -1 -1
+#37070
+A W 0~
+mechanical spider~
+a mechanical spider~
+A mechanical spider patrols the halls.
+~
+   This is a medium sized spider.  As it crawls along, small pulses of infrared
+light flash out.  Anything organic in nature is immediately seen as a threat.  
+For being mechanical, this spider moves very fast and is awfully quiet.
+~
+57453 0 0 0 5604584 2097152 0 0 0
+43 -10 -10 1d100+4000 12d12+35
+10 100
+8 8 0 16 16 16
+#37071
+P W 0~
+black vine pitch seeder~
+a pitch black seeder~
+A pitch black seeder watches you with caution.
+~
+   Dozens of small tentacles flailing wildly coupled with a large circular area,
+what some may call a mouth, with thousands of sharp teeth make this a dark
+monster indeed.  As is quietly sits and stares at you, the amount of small seeds
+that surround it are suspect.  Within seconds the seeds sprout and advance in
+size rapidly.
+~
+57453 0 0 0 5604552 2097152 0 0 -1000
+43 -10 -10 1d100+4000 12d12+35
+10 100
+9 9 0 1 1 1
+#37072
+H K 0~
+large machine guard ancient keeper gate~
+the ancient Gate-Keeper~
+An immense armored machine stands guard here.
+~
+   This machine is very large.  Towering over you it gives off an aura of
+authority.  Large mechanical wings sprout out of its back giving this machine a
+wide range of motion.  As it tries to communicate it various languages that you
+don't understand you begin to notice small, red, glowing rings dangling from
+what appear to be fingers.  It goes silent after a while and starts to lose
+interest in you.
+~
+57374 0 0 0 5342440 2097184 0 0 0
+51 -25 -15 1d1+29999 25d12+100
+80 80
+8 8 0 20 8 20
+Z 37072
+$

@@ -1,0 +1,28 @@
+df drink fount
+ld c 'life drain' $*
+is c 'ice storm'
+cow c 'monster summon'
+inv c 'inv' $*
+str c 'str' $*
+skill c 'color spray'
+infra c 'infra'
+fly c 'fly' $*
+sp c 'color spray' $*
+awk c 'awaken' $*
+fb c 'flame blade' $*
+bl c 'blind' $*
+di c 'detect invis' $*
+lo c 'locate object' $*
+id c 'identify' $*
+cp c 'charm person' $*
+sum c 'summon' $*
+shi c 'shield' $*
+rr rec rec rec
+ep enter port
+br get brea pou;eat bread
+h c 'haste' $*
+bhp get shot pou;brew haste shot
+bfb get shot pou;brew flame_blade shot
+ts c 'true sight' $*
+bts get shot pou;brew true shot
+wake wak;stand

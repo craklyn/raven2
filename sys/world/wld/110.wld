@@ -1,0 +1,1293 @@
+#11000
+The Mountain Monastery~
+This area (11001-11051) was created as a mid to higher level exp gathering 
+area.  Also included are items specifically for the shou-lin class.  My 
+first area for RavenMUD.  I hope it brings hours of distraction.
+
+Smythe
+(Improved/Updated December 1995)
+~
+110 0 0 0 0 0 255 0
+S
+#11001
+Entrance of the Mountain Monastery~
+    Candles in wall sconces light this small entryway.  A woven reed mat
+covers the floor and there are wall pegs from which one could hang one's
+cloak.  A dimly lit hallway leads north.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11002
+D2
+~
+double door~
+1 -1 11051
+S
+#11002
+Central Hallway ~
+    Candlelight flickers along the walls of this long corridor.  The
+Hallway continues north and south.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11003
+D2
+~
+~
+0 -1 11001
+S
+#11003
+Central Hallway ~
+    Candlelight flickers along the walls of this long corridor.  The
+hallway continues north and south.  There is a heavy wooden door to the
+west.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11004
+D2
+~
+~
+0 -1 11002
+D3
+~
+door~
+1 -1 11034
+S
+#11004
+Central Hallway ~
+    Candlelight flickers along the walls of this long corridor.  The
+hallway continues north and south.  There is a heavy wooden door in the
+east wall.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11005
+D1
+~
+door east~
+1 -1 11029
+D2
+~
+~
+0 -1 11003
+S
+#11005
+Central Hallway ~
+    Candlelight flickers along the walls of this long corridor.  The
+hallway continues north and south.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11006
+D2
+~
+~
+0 -1 11004
+S
+#11006
+Central Hallway ~
+    Candlelight flickers along the walls of this long corridor.  The
+hallway continues north and south.  There are heavy wooden doors on
+both the east and west walls.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11007
+D1
+~
+door east~
+1 -1 11022
+D2
+~
+~
+0 -1 11005
+D3
+~
+door west~
+1 -1 11015
+S
+#11007
+End of Central Hallway ~
+    Candlelight flickers along the walls of this corridor.  The hallway
+continues to the south.  There is a heavy wooden door in the north wall.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+door north~
+1 -1 11008
+D2
+~
+~
+0 -1 11006
+S
+#11008
+Hall of Tranquility~
+    You have entered a small, dimly lit area.  Some large, comfortable
+looking pillows are arranged around an incense-burning brazier. You can
+hear chanting coming from behind the heavy woolen curtains  that  border
+this area to the north, east, and west.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+curtain~
+1 -1 11011
+D1
+~
+curtain~
+1 -1 11013
+D2
+~
+door~
+1 -1 11007
+D3
+~
+curtain~
+1 -1 11009
+S
+#11009
+Hall of Tranquility~
+    You have entered a small, dimly lit area.  Some large, comfortable
+looking pillows are arranged around an incense-burning brazier. You can
+hear chanting coming from behind the heavy woolen curtains  that  border
+this area to the north and east.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+curtain~
+1 -1 11010
+D1
+~
+curtain~
+1 -1 11008
+S
+#11010
+Hall of Tranquility~
+    You have entered a small, dimly lit area.  Some large, comfortable
+looking pillows are arranged around an incense-burning brazier. You can
+hear chanting coming from behind the heavy woolen curtains  that  border
+this area to the east and south.
+~
+110 8 0 0 0 0 255 0
+D1
+~
+curtain~
+1 -1 11011
+D2
+~
+curtain~
+1 -1 11009
+S
+#11011
+Hall of Tranquility~
+    You have entered a small, dimly lit area.  Some large, comfortable
+looking pillows are arranged around an incense-burning brazier. You can
+hear chanting coming from behind the heavy woolen curtains  that  border
+this area to the west, south and east.  There is a heavy wooden door in
+the north wall.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 11014
+D1
+~
+curtain~
+1 -1 11012
+D2
+~
+curtain~
+1 -1 11008
+D3
+~
+curtain~
+1 -1 11010
+S
+#11012
+Hall of Tranquility~
+    You have entered a small, dimly lit area.  Some large, comfortable
+looking pillows are arranged around an incense-burning brazier. You can
+hear chanting coming from behind the heavy woolen curtains  that  border
+this area to the west and south.
+~
+110 8 0 0 0 0 255 0
+D2
+~
+curtain~
+1 -1 11013
+D3
+~
+curtain~
+1 -1 11011
+S
+#11013
+Hall of Tranquility~
+    You have entered a small, dimly lit area.  Some large, comfortable
+looking pillows are arranged around an incense-burning brazier. You can
+hear chanting coming from behind the heavy woolen curtains  that  border
+this area to the west and north.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+curtain~
+1 -1 11012
+D3
+~
+curtain~
+1 -1 11008
+S
+#11014
+Cubicle of the Monk Priest~
+    Rudimentary  furnishings  adorn  this  room.  Next to the woven reed
+sleeping mat is a small  shrine to Buddha,  with the familiar brazier of
+incense.   It appears as if the Monk Priest spends most of his time here.
+The only obvious exit is a heavy wooden door to the south.
+~
+110 12 0 0 0 0 255 0
+D2
+~
+door~
+1 -1 11011
+S
+#11015
+Hall of Martial Discipline~
+    The sounds of monks completing various  physical  exercises echo from
+the walls of this large room.   The  hall is  divided into  seperate areas
+by function rather than actual physical barriers.  Separate practice areas
+lie to the north, west and south.  A heavy wooden door lies to the east.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11020
+D1
+~
+door~
+1 -1 11006
+D2
+~
+~
+0 -1 11016
+D3
+~
+~
+0 -1 11018
+S
+#11016
+Hall of Martial Discipline~
+    The sounds of monks completing various  physical  exercises echo from
+the walls of this large room.   The  hall is  divided into  seperate areas
+by function rather than actual physical barriers.  Separate practice areas
+lie to the north and west.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11015
+D3
+~
+~
+0 -1 11017
+S
+#11017
+Hall of Martial Discipline~
+    The sounds of monks completing various  physical  exercises echo from
+the walls of this large room.   The  hall is  divided into  seperate areas
+by function rather than actual physical barriers.  Separate practice areas
+lie to the east and north.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11018
+D1
+~
+~
+0 -1 11016
+S
+#11018
+Hall of Martial Discipline~
+    The sounds of monks completing various  physical  exercises echo from
+the walls of this large room.   The  hall is  divided into  seperate areas
+by function rather than actual physical barriers.  Separate practice areas
+lie to the north, east and south.  A heavy wooden door is in the west wall.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11019
+D1
+~
+~
+0 -1 11015
+D2
+~
+~
+0 -1 11017
+D3
+~
+door~
+1 -1 11021
+S
+#11019
+Hall of Martial Discipline~
+    The sounds of monks completing various  physical  exercises echo from
+the walls of this large room.   The  hall is  divided into  seperate areas
+by function rather than actual physical barriers.  Separate practice areas
+lie to the east and south.
+~
+110 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11020
+D2
+~
+~
+0 -1 11018
+S
+#11020
+Hall of Martial Discipline~
+    The sounds of monks completing various  physical  exercises echo from
+the walls of this large room.   The  hall is  divided into  seperate areas
+by function rather than actual physical barriers.  Separate practice areas
+south and west.
+~
+110 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 11015
+D3
+~
+~
+0 -1 11019
+S
+#11021
+Cubicle of the Shou Lin Master~
+    The walls of this room are covered with woven  tapestrys  depicting
+employment of various martial  arts  techniques.   You get the destinct
+feeling that you  wouldn't  want to be on  the receiving  end of any of
+them.  The  only  obvious exit is a heavy  wooden door in the east wall.
+~
+110 12 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 11018
+D5
+~
+secret~
+2 11001 11040
+S
+#11022
+Hall of Nourishment~
+    This large hall is filled with long tables.  The way the tables are
+arranged makes this room seem like a maze.
+There are more tables to the north, east and south.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11023
+D1
+~
+~
+0 -1 11025
+D2
+~
+~
+0 -1 11027
+D3
+~
+door~
+1 -1 11006
+S
+#11023
+Hall of Nourishment~
+    This large hall is filled with long tables.  The way the tables are
+arranged makes this room seem like a maze.
+There are more tables to the east and south.
+~
+110 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11024
+D2
+~
+~
+0 -1 11022
+S
+#11024
+Hall of Nourishment~
+    This large hall is filled with long tables.  The way the tables are
+arranged makes this room seem like a maze.
+There are more tables to the south and west.
+~
+110 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 11025
+D3
+~
+~
+0 -1 11023
+S
+#11025
+Hall of Nourishment~
+    This large hall is filled with long tables.  The way the tables are
+arranged makes this room seem like a maze.
+There are more tables to the north, south and west.  There is a heavy
+wooden door in the east wall.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11024
+D1
+~
+door~
+1 -1 11028
+D2
+~
+~
+0 -1 11026
+D3
+~
+~
+0 -1 11022
+S
+#11026
+Hall of Nourishment~
+    This large hall is filled with long tables.  The way the tables are
+arranged makes this room seem like a maze.
+There are more tables to the north and west.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11025
+D3
+~
+~
+0 -1 11027
+S
+#11027
+Hall of Nourishment~
+    This large hall is filled with long tables.  The way the tables are
+arranged makes this room seem like a maze.
+There are more tables to the north and east.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11022
+D1
+~
+~
+0 -1 11026
+S
+#11028
+Kitchen~
+    Basic cooking utensils hang on wall pegs.  It looks like whatever
+the monks eat is prepared in this room.  The only obvious exit is the
+door in the west wall.
+~
+110 8 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 11025
+S
+#11029
+Hall of Life~
+    Here is where the monks grow things.  It resembles a large greenhouse
+and contains various plants and some small animals.  A path winds through
+the man-made jungle.
+The path leads east.  There is a heavy wooden door in the west wall.
+~
+110 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11030
+D3
+~
+door~
+1 -1 11004
+S
+#11030
+Hall of Life~
+    Here is where the monks grow things.  It resembles a large greenhouse
+and contains various plants and some small animals.  A path winds through
+the man-made jungle.
+The path leads east and south from here.
+~
+110 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11031
+D2
+~
+~
+0 -1 11033
+D3
+~
+~
+0 -1 11029
+S
+#11031
+Hall of Life~
+    Here is where the monks grow things.  It resembles a large greenhouse
+and contains various plants and some small animals.  A path winds through
+the man-made jungle.
+The path leads south and west from here.
+~
+110 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 11032
+D3
+~
+~
+0 -1 11030
+S
+#11032
+Hall of Life~
+    Here is where the monks grow things.  It resembles a large greenhouse
+and contains various plants and some small animals.  A path winds through
+the man-made jungle.
+The path leads north and west from here.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11031
+D3
+~
+~
+0 -1 11033
+S
+#11033
+Hall of Life~
+    Here is where the monks grow things.  It resembles a large greenhouse
+and contains various plants and some small animals.  A path winds through
+the man-made jungle.
+The path leads north and east from here.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11030
+D1
+~
+~
+0 -1 11032
+S
+#11034
+Hall of Peace~
+    Bunk beds and small cubicles dominate this area.  Obviously, this is
+where the monks' individual living spaces are.
+There are more bunks to the north, west and south.  There is a heavy
+wooden door in the east wall.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11039
+D1
+~
+door~
+1 -1 11003
+D2
+~
+~
+0 -1 11035
+D3
+~
+~
+0 -1 11037
+S
+#11035
+Hall of Peace~
+    Bunk beds and small cubicles dominate this area.  Obviously, this is
+where the monks' individual living spaces are.
+There are more bunks to the north and west.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11034
+D3
+~
+~
+0 -1 11036
+S
+#11036
+Hall of Peace~
+    Bunk beds and small cubicles dominate this area.  Obviously, this is
+where the monks' individual living spaces are.
+There are more bunks to the north and east.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11037
+D1
+~
+~
+0 -1 11035
+S
+#11037
+Hall of Peace~
+    Bunk beds and small cubicles dominate this area.  Obviously, this is
+where the monks' individual living spaces are. There are more bunks to
+the north, east and south. There is an open doorway to the west.
+~
+110 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11038
+D1
+~
+~
+0 -1 11034
+D2
+~
+~
+0 -1 11036
+D3
+~
+~
+0 -1 11067
+S
+#11038
+Hall of Peace~
+    Bunk beds and small cubicles dominate this area.  Obviously, this is
+where the monks' individual living spaces are.
+There are more bunks to the east and south.
+~
+110 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11039
+D2
+~
+~
+0 -1 11037
+S
+#11039
+Hall of Peace~
+    Bunk beds and small cubicles dominate this area.  Obviously, this is
+where the monks' individual living spaces are.
+There are more bunks to the south and west.
+~
+110 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 11034
+D3
+~
+~
+0 -1 11038
+S
+#11040
+Dark Tunnel~
+    You are in a dark tunnel underneath the Shou Lin Master's room.
+I wonder where it leads...
+~
+110 9 0 0 0 0 255 0
+D3
+~
+~
+0 -1 11041
+D4
+~
+secret~
+2 11001 11021
+S
+#11041
+Dark Tunnel~
+    You are in a dark tunnel underneath the Shou Lin Master's room.
+I wonder where it leads...
+~
+110 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11040
+D3
+~
+~
+0 -1 11042
+S
+#11042
+Dark Tunnel~
+    You are in a dark tunnel underneath the Shou Lin Master's room.
+I wonder where it leads...
+~
+110 9 0 0 0 0 255 0
+D0
+~
+secret~
+2 11003 11044
+D1
+~
+~
+0 -1 11041
+D3
+~
+~
+0 -1 11043
+S
+#11043
+Dead End~
+    You have reached a dead end in the dark tunnel.
+~
+110 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11042
+S
+#11044
+Dark Tunnel~
+    You are in a dark tunnel underneath the Shou Lin Master's room.
+I wonder where it leads...
+~
+110 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11045
+D2
+~
+secret~
+2 11003 11042
+S
+#11045
+Dark Tunnel~
+    You are in a dark tunnel underneath the Shou Lin Master's room.
+I wonder where it leads...
+~
+110 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 11044
+D3
+~
+~
+0 -1 11046
+S
+#11046
+Dark Tunnel~
+    You are in a dark tunnel underneath the Shou Lin Master's room.
+I wonder where it leads...
+~
+110 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11049
+D1
+~
+~
+0 -1 11045
+D3
+~
+secret~
+2 11004 11047
+S
+#11047
+Dark Tunnel~
+    You are in a dark tunnel underneath the Shou Lin Master's room.
+I wonder where it leads...
+~
+110 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11048
+D1
+~
+secret~
+2 11004 11046
+S
+#11048
+Dead End~
+    You have reached a dead end in the tunnel.
+~
+110 9 0 0 0 0 255 0
+D0
+~
+secret~
+2 11005 11050
+D2
+~
+~
+0 -1 11047
+S
+#11049
+Dead End~
+    You have reached a dead end in the tunnel.
+~
+110 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 11046
+S
+#11050
+Chamber of the Ivory Buddha~
+    This room is resplendent with color, light, and golden reflections.
+Mosaic tiles of white, red and black cover the floor.  Even the corners
+of this room are brightly lit.  Directly across the room stands a 15 foot
+tall statue.  Cupped in the statue's hands is the Sacred Ivory Buddha of
+the Mountain Monks.
+~
+110 8 0 0 0 0 255 0
+D2
+~
+secret~
+2 11005 11048
+D5
+~
+secret grey stone~
+2 11017 11052
+S
+#11051
+In Front of the Mountain Monastery~
+    You are standing in front of the entrance to the mountain monastery.
+To the north is a large set of double doors that look to be as old as the
+mountains themselves.
+~
+110 4 0 0 0 5 255 0
+D0
+~
+double door~
+1 -1 11001
+D2
+~
+~
+0 -1 10801
+S
+#11052
+Catacombs~
+You have entered the catacombs under the mountain monastery.  It is
+quite dark and the air is dry here.
+~
+110 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11053
+D4
+~
+secret grey stone~
+2 11017 11050
+S
+#11053
+Catacombs~
+You have entered the catacombs under the mountain monastery.  It is
+quite dark and the air is dry here.
+~
+110 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11055
+D2
+~
+~
+0 -1 11052
+S
+#11054
+Catacombs~
+You are in a small alcove.  There is a very unnerving feeling here...
+maybe you should leave.
+~
+110 9 0 0 0 0 255 0
+D0
+Along the north wall, you see a small niche containing a basalt urn.
+It would be unwise to disturb the remains of one honored enough to be
+placed here.
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11055
+S
+#11055
+Catacombs~
+You have entered the catacombs under the mountain monastery.  It is
+quite dark and the air is dry here.
+~
+110 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11054
+D1
+~
+~
+0 -1 11056
+D3
+~
+~
+0 -1 11053
+S
+#11056
+Catacombs~
+You have entered the catacombs under the mountain monastery.  It is
+quite dark and the air is dry here.
+~
+110 73 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11059
+D2
+~
+~
+0 -1 11057
+D3
+~
+~
+0 -1 11055
+S
+#11057
+Catacombs~
+You are in a small alcove.  There is a very unnerving feeling here...
+maybe you should leave.
+~
+110 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11056
+D2
+Along the south wall, you see a small niche containing a basalt urn.
+It would be unwise to disturb the remains of one honored enough to be
+placed here.
+~
+~
+0 -1 -1
+S
+#11058
+Catacombs~
+You are in a small alcove.  There is a very unnerving feeling here...
+maybe you should leave.
+~
+110 9 0 0 0 0 255 0
+D0
+Along the north wall, you see a small niche containing a basalt urn.
+It would be unwise to disturb the remains of one honored enough to be
+placed here.
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11059
+S
+#11059
+Catacombs~
+You have entered the catacombs under the mountain monastery.  It is
+quite dark and the air is dry here.
+~
+110 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11058
+D1
+~
+~
+0 -1 11060
+D3
+~
+~
+0 -1 11056
+S
+#11060
+Catacombs~
+You have entered the catacombs under the mountain monastery.  It is
+quite dark and the air is dry here.
+~
+110 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11063
+D2
+~
+~
+0 -1 11061
+D3
+~
+~
+0 -1 11059
+S
+#11061
+Catacombs~
+You are in a small alcove.  There is a very unnerving feeling here...
+maybe you should leave.
+~
+110 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11060
+D2
+Along the south wall, you see a small niche containing a basalt urn.
+It would be unwise to disturb the remains of one honored enough to be
+placed here.
+~
+~
+0 -1 -1
+S
+#11062
+Catacombs~
+You are in a small alcove.  There is a very unnerving feeling here...
+maybe you should leave.
+~
+110 9 0 0 0 0 255 0
+D0
+Along the north wall, you see a small niche containing a basalt urn.
+It would be unwise to disturb the remains of one honored enough to be
+placed here.
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11063
+S
+#11063
+Catacombs~
+You have entered the catacombs under the mountain monastery.  It is
+quite dark and the air is dry here.
+~
+110 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 11062
+D1
+~
+~
+0 -1 11064
+D3
+~
+~
+0 -1 11060
+S
+#11064
+Catacombs~
+You have entered the catacombs under the mountain monastery.  It is
+quite dark and the air is dry here.
+~
+110 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11065
+D3
+~
+~
+0 -1 11063
+S
+#11065
+Catacombs~
+You have reached a dead end in the catacombs.  To the east is a large
+door of solid basalt.  On it are inscriptions in an ancient language
+that only the masters of the monastery above would be able to decifer.
+~
+110 9 0 0 0 0 255 0
+D1
+~
+door basalt~
+2 11018 11066
+D3
+~
+~
+0 -1 11064
+S
+#11066
+Vault of the Mountain Monastery~
+You have entered the vault of the mountain monastery.  This is where the
+monks have stored their relics and the coins that allow them to exist as
+they do.
+~
+110 620 0 0 0 0 255 0
+D1
+A strange looking portal shimmers in the east wall here.
+~
+portal~
+0 -1 11068
+D3
+~
+door basalt~
+2 11018 11065
+S
+#11067
+Shou Lin Quartermaster~
+You stand before a monk who is busy writing on a large roll of parchment.
+~
+110 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 11037
+S
+#11068
+Hall of Contemplation~
+You stand before the door to the ancient Wise Man of the mountains. If 
+you are deemed worthy by the guardians, you will soon be in the presence
+of the Wise Man himself.  To the south lies a strange landing.
+~
+110 620 0 0 0 0 255 0
+D0
+A large door made from the heart of the mountains blocks your path.
+~
+door~
+2 11028 11070
+D2
+~
+~
+0 0 11071
+D3
+A portal to the mountain monastery shimmers in the west wall.
+~
+~
+0 -1 11014
+S
+#11070
+Point of Tranquility~
+   High above a huge mountain, this peak allows you the most beautiful view you
+have ever seen.  As the sun touches the horizon, you feel as though all the
+problems of the world might be solved from this very spot.  A small
+weatherbeaten man seems to agree with you as he sits here and meditates
+silently.    
+~
+110 620 0 0 0 0 255 0
+D2
+~
+door~
+2 11028 11068
+S
+#11071
+A High Ledge~
+   You blunder on, tired from the long march to find yourself now in greater
+danger than before.  Standing upon a ledge in some forgotten northern mountain
+you gasp for air, the altitude is staggering.  A vast continent stretches out
+before you to the south.    
+~
+110 512 0 0 0 5 255 0
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 11051
+S
+#11080
+A Mountain Lake~
+The lake spreads out to the east, its still dark waters spotted with tendrils
+of mist.    
+~
+110 32768 16 0 0 6 255 0
+D1
+the lake continues
+~
+~
+0 0 11081
+D3
+the lake continues
+~
+~
+0 0 10724
+S
+#11081
+A Mountain lake~
+This dark forboding body of water widens even further.  There is a stillness in
+the air and barely a ripple on the water.  Looking east you see a dark mass
+rising from the water.    
+~
+110 32768 0 0 0 6 255 0
+D1
+you see an isle
+~
+~
+0 0 11082
+D3
+the lake continues
+~
+~
+0 0 11080
+S
+#11082
+A Shoreline~
+The shoreline of an island rears up abruptly.  A short steep slope rises up for
+a few feet to be met by a thick wall of trees.  You feel a strange tingling as
+you climb out of the water.    
+~
+110 32768 0 0 0 0 255 0
+D1
+~
+~
+0 0 39801
+D3
+~
+~
+0 0 11081
+S
+$~

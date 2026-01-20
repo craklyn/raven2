@@ -1,0 +1,36 @@
+title title &08Forsaken&00 
+summon cast 'summon' $*
+charm cast 'charm person' $*
+doom cast 'doom bolt' $*
+wrath cast 'wrath'
+gate cast 'gate'
+blink cast 'blink'
+portal cast 'portal' $*
+col cast 'color spray' $*
+ff order follower k $*
+monster cast 'monster sum'
+life cast 'life drain' $*
+str cast 'strength' $*
+fb cast 'flame blade' $*
+cw clanwho
+say say &10$* &00
+gt gt &10$* &00
+fly cast 'fly' $*
+sum cast 'summon' $*
+invis cast 'invis' $*
+id cast 'identify' $*
+shield cast 'shield' $*
+infra cast 'infra'
+mm cast 'magic missile' $*
+blind cast 'blind' $*
+spray cast 'color spray'$*
+ts cast 'true sight' $*
+haste cast 'haste' $*
+nex cast 'nexus' $*
+port cast 'portal' $*
+locate cast 'locate' $*
+feeble cast 'feeble' $*
+air cast 'air' $*
+clan clan &00&03 $* &00  &11
+bl c 'blind' $*
+awaken c 'awaken' $*

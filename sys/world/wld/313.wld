@@ -1,0 +1,1670 @@
+#31300
+The Rabbit Hole~
+This area (31301-31399) was created as a place for lower level 
+characters to gain some exp on their own as well as learn some basic MUD 
+commands.  
+And to help those mid-level players that must share elvens and gnolls, with high levels who need to keep alignment.
+~
+313 0 0 0 0 0
+S
+#31301
+Entrance to the Rabbit Hole~
+    You are standing next to the giant rabbit hole.  It's quite a large 
+hill...the rabbits that live inside must be REALLY big.  The hillside 
+slopes to the north, east, west and south.  There is a large hole going down
+into the dirt...I bet that's where the rabbits are.
+~
+313 0 0 0 0 4
+D2
+~
+~
+0 0 31392
+D5
+~
+~
+0 -1 31302
+S
+#31302
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice 
+that the tunnel walls have roots of trees and weeds sticking out of 
+them. The tunnel continues to the north, east and down.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31303
+D1
+~
+~
+0 -1 31328
+D4
+~
+~
+0 -1 31301
+D5
+~
+~
+0 -1 31382
+S
+#31303
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice 
+that the tunnel walls have roots of trees and weeds sticking out of 
+them. The tunnel continues to the south and down.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31302
+D5
+~
+~
+0 -1 31304
+S
+#31304
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the west and up.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31305
+D4
+~
+~
+0 -1 31303
+S
+#31305
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the east and down.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31304
+D5
+~
+~
+0 -1 31306
+S
+#31306
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the north and up.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31307
+D4
+~
+~
+0 -1 31305
+S
+#31307
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the west, south and down.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31306
+D3
+~
+~
+0 -1 31320
+D5
+~
+~
+0 -1 31308
+S
+#31308
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the east and up.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31309
+D4
+~
+~
+0 -1 31307
+S
+#31309
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the west and down.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31308
+D5
+~
+~
+0 -1 31310
+S
+#31310
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the east and up.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31311
+D4
+~
+~
+0 -1 31309
+S
+#31311
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the west and down.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31310
+D5
+~
+~
+0 -1 31312
+S
+#31312
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the east and up.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31313
+D4
+~
+~
+0 -1 31311
+S
+#31313
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the west and down.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31312
+D5
+~
+~
+0 -1 31314
+S
+#31314
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the north and up.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31315
+D4
+~
+~
+0 -1 31313
+S
+#31315
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the east and south.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31316
+D2
+~
+~
+0 -1 31314
+S
+#31316
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31317
+D2
+~
+~
+0 -1 31319
+D3
+~
+~
+0 -1 31315
+S
+#31317
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31318
+D3
+~
+~
+0 -1 31316
+S
+#31318
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31317
+D3
+~
+~
+0 -1 31319
+S
+#31319
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31316
+D1
+~
+~
+0 -1 31318
+S
+#31320
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the east and down.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31307
+D5
+~
+~
+0 -1 31321
+S
+#31321
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues down and up.
+~
+313 d 0 0 0 0
+D4
+~
+~
+0 -1 31320
+D5
+~
+~
+0 -1 31322
+S
+#31322
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the west and up.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31323
+D4
+~
+~
+0 -1 31321
+S
+#31323
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them. The
+tunnel continues to the east and south.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31322
+D2
+~
+~
+0 -1 31324
+S
+#31324
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31323
+D1
+~
+~
+0 -1 31325
+D2
+~
+~
+0 -1 31327
+S
+#31325
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31326
+D3
+~
+~
+0 -1 31324
+S
+#31326
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31325
+D3
+~
+~
+0 -1 31327
+S
+#31327
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31324
+D1
+~
+~
+0 -1 31326
+S
+#31328
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31329
+D3
+~
+~
+0 -1 31302
+S
+#31329
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31328
+D5
+~
+~
+0 -1 31330
+S
+#31330
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31331
+D4
+~
+~
+0 -1 31329
+D5
+~
+~
+0 -1 31350
+S
+#31331
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31330
+D5
+~
+~
+0 -1 31332
+S
+#31332
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31333
+D4
+~
+~
+0 -1 31331
+S
+#31333
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31332
+D5
+~
+~
+0 -1 31334
+S
+#31334
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31335
+D4
+~
+~
+0 -1 31333
+S
+#31335
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31336
+D3
+~
+~
+0 -1 31334
+D5
+~
+~
+0 -1 31340
+S
+#31336
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31339
+D1
+~
+~
+0 -1 31337
+D3
+~
+~
+0 -1 31335
+S
+#31337
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31338
+D3
+~
+~
+0 -1 31336
+S
+#31338
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31337
+D3
+~
+~
+0 -1 31339
+S
+#31339
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31338
+D2
+~
+~
+0 -1 31336
+S
+#31340
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31341
+D4
+~
+~
+0 -1 31335
+S
+#31341
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31340
+D5
+~
+~
+0 -1 31342
+S
+#31342
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31343
+D4
+~
+~
+0 -1 31341
+S
+#31343
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31342
+D5
+~
+~
+0 -1 31344
+S
+#31344
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31345
+D4
+~
+~
+0 -1 31343
+S
+#31345
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31344
+D2
+~
+~
+0 -1 31346
+S
+#31346
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31345
+D2
+~
+~
+0 -1 31347
+D3
+~
+~
+0 -1 31349
+S
+#31347
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31346
+D3
+~
+~
+0 -1 31348
+S
+#31348
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31349
+D1
+~
+~
+0 -1 31347
+S
+#31349
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31346
+D2
+~
+~
+0 -1 31348
+S
+#31350
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31351
+D4
+~
+~
+0 -1 31330
+S
+#31351
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31350
+D3
+~
+~
+0 -1 31352
+S
+#31352
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31351
+D5
+~
+~
+0 -1 31353
+S
+#31353
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31354
+D4
+~
+~
+0 -1 31352
+S
+#31354
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31353
+D5
+~
+~
+0 -1 31355
+S
+#31355
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31356
+D4
+~
+~
+0 -1 31354
+S
+#31356
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31355
+D5
+~
+~
+0 -1 31357
+S
+#31357
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31358
+D4
+~
+~
+0 -1 31356
+S
+#31358
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31359
+D3
+~
+~
+0 -1 31357
+D5
+~
+~
+0 -1 31367
+S
+#31359
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31358
+D5
+~
+~
+0 -1 31360
+S
+#31360
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31361
+D4
+~
+~
+0 -1 31359
+S
+#31361
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31362
+D2
+~
+~
+0 -1 31360
+S
+#31362
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31363
+D3
+~
+~
+0 -1 31361
+S
+#31363
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31364
+D2
+~
+~
+0 -1 31362
+D3
+~
+~
+0 -1 31366
+S
+#31364
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31363
+D3
+~
+~
+0 -1 31365
+S
+#31365
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31364
+D2
+~
+~
+0 -1 31366
+S
+#31366
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31365
+D1
+~
+~
+0 -1 31363
+S
+#31367
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31368
+D4
+~
+~
+0 -1 31358
+S
+#31368
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31367
+D5
+~
+~
+0 -1 31369
+S
+#31369
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31370
+D4
+~
+~
+0 -1 31368
+S
+#31370
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31369
+D5
+~
+~
+0 -1 31371
+S
+#31371
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31373
+D3
+~
+~
+0 -1 31372
+D4
+~
+~
+0 -1 31370
+S
+#31372
+Dead End~
+    You have come to a dead end in the rabbit's tunnel system...Isn't that
+strange?
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31371
+S
+#31373
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31371
+D5
+~
+~
+0 -1 31374
+S
+#31374
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31376
+D4
+~
+~
+0 -1 31373
+S
+#31375
+Bunny burrow~
+    You are in the bunny burrow  I hope the mother rabbit and her
+guards aren't around.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31378
+D2
+~
+~
+0 -1 31376
+S
+#31376
+Bunny burrow~
+    You are in the bunny burrow. I hope the mother rabbit and her
+guards aren't around.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31375
+D1
+~
+~
+0 -1 31379
+D2
+~
+~
+0 -1 31377
+D3
+~
+~
+0 -1 31374
+S
+#31377
+Bunny burrow~
+    You are in the bunny burrow. I hope the mother rabbit and her
+guards aren't around.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31376
+D1
+~
+~
+0 -1 31380
+S
+#31378
+Bunny burrow~
+    You are in the bunny burrow. I hope the mother rabbit and her
+guards aren't around.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31379
+D3
+~
+~
+0 -1 31375
+S
+#31379
+Bunny burrow~
+    You are in the bunny burrow. I hope the mother rabbit and her
+guards aren't around.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31378
+D1
+~
+~
+0 -1 31381
+D2
+~
+~
+0 -1 31380
+D3
+~
+~
+0 -1 31376
+S
+#31380
+Bunny burrow~
+    You are in the bunny burrow. I hope the mother rabbit and her
+guards aren't around.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31379
+D3
+~
+~
+0 -1 31377
+S
+#31381
+The Mother Rabbit's Burrow~
+    Well, you have discovered the mother's burrow, now what are you
+going to do?  Whatever it is, her personal guards will most likely
+disapprove...if they are here.
+~
+313 cd 0 0 0 0
+D3
+~
+~
+0 -1 31379
+S
+#31382
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D3
+~
+~
+0 -1 31383
+D4
+~
+~
+0 -1 31302
+S
+#31383
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31382
+D5
+~
+~
+0 -1 31384
+S
+#31384
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31385
+D3
+~
+~
+0 -1 31391
+D4
+~
+~
+0 -1 31383
+S
+#31385
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31384
+D5
+~
+~
+0 -1 31386
+S
+#31386
+Underground in the Rabbit Hole~
+    You are in the tunnels underneath the Rabbit Hole.  You notice that the
+tunnel walls have roots of trees and weeds sticking out of them.
+~
+313 d 0 0 0 0
+D2
+~
+~
+0 -1 31387
+D4
+~
+~
+0 -1 31385
+S
+#31387
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31386
+D2
+~
+~
+0 -1 31388
+D3
+~
+~
+0 -1 31390
+S
+#31388
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31387
+D3
+~
+~
+0 -1 31389
+S
+#31389
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D0
+~
+~
+0 -1 31390
+D1
+~
+~
+0 -1 31388
+S
+#31390
+Sleeping Burrow~
+    You have entered a large sleeping burrow inside the rabbit hole.  The
+walls of the burrow are covered with the same soft fur that you
+have seen on the tunnel walls.  
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31387
+D2
+~
+~
+0 -1 31389
+S
+#31391
+Dead End~
+    Rabbit's don't make dead ends...do they?
+~
+313 d 0 0 0 0
+D1
+~
+~
+0 -1 31384
+S
+#31392
+On the Side of the Rabbit Hole~
+    You are on the southern slope of the Rabbit Hole.  It looks like this
+is the direction the rabbits take when they go into the Rabbit Hole.  To the
+north you can see the entrance to the rabbits' tunnels.  These rabbits must
+be pretty big to live in a hill this size.
+~
+313 0 0 0 0 4
+D0
+~
+~
+0 -1 31301
+D3
+~
+~
+0 -1 31393
+S
+#31393
+On the Side of the Rabbit Hole~
+    You are on the western slope of the Rabbit Hole. You can continue around
+the side of the Rabbit Hole to the  north or to the  east.  To the west, the
+hill is very steep and it  looks like it  would be a very  painful way to
+descend.
+~
+313 0 0 0 0 4
+D0
+~
+~
+0 -1 31394
+D1
+~
+~
+0 -1 31392
+S
+#31394
+On the Side of the Rabbit Hole~
+    You are on the northern slope of the Rabbit Hole.  You are actually
+higher up the slope from the entrance to the rabbits' tunnels.  You can
+continue around the side of the hill to the south or down from here.
+The hill to the north ends in a long, steep drop.
+~
+313 0 0 0 0 4
+D2
+~
+~
+0 -1 31393
+D5
+~
+~
+0 -1 31395
+S
+#31395
+On the Side of the Rabbit Hole~
+    You are on the eastern slope of the Rabbit Hole.  You can continue up
+the hill or go around to the west.  To the east the hill is very steep
+and it looks like it would be a very painful way to descend.
+~
+313 0 0 0 0 4
+D0
+~
+~
+0 0 6163
+D3
+~
+~
+0 -1 31392
+D4
+~
+~
+0 -1 31394
+S
+#31396
+rabbit Chute #1~
+This chute drops rabbits into 31317, 31319, 31327, 31325, 31388 and 31390.
+~
+313 h 0 0 0 0
+D0
+~
+~
+0 -1 31317
+D1
+~
+~
+0 -1 31319
+D2
+~
+~
+0 -1 31327
+D3
+~
+~
+0 -1 31325
+D4
+~
+~
+0 -1 31388
+D5
+~
+~
+0 -1 31390
+S
+#31397
+rabbit Chute #2~
+This chute drops rabbits into 31364,31366,31337,31339,31347 and 31349.
+~
+313 h 0 0 0 0
+D0
+~
+~
+0 -1 31364
+D1
+~
+~
+0 -1 31366
+D2
+~
+~
+0 -1 31337
+D3
+~
+~
+0 -1 31339
+D4
+~
+~
+0 -1 31347
+D5
+~
+~
+0 -1 31349
+S
+#31398
+bunny Chute #1~
+This chute drops rabbits into 31316,31324,31336,31346,31363 and 31387.
+~
+313 h 0 0 0 0
+D0
+~
+~
+0 -1 31316
+D1
+~
+~
+0 -1 31324
+D2
+~
+~
+0 -1 31336
+D3
+~
+~
+0 -1 31346
+D4
+~
+~
+0 -1 31363
+D5
+~
+~
+0 -1 31387
+S
+#31399
+rabbit Chute #3~
+This chute drops rabbits into 31330,31307,31354,31359,31370 and 31343.
+~
+313 h 0 0 0 0
+D0
+~
+~
+0 -1 31330
+D1
+~
+~
+0 -1 31307
+D2
+~
+~
+0 -1 31354
+D3
+~
+~
+0 -1 31359
+D4
+~
+~
+0 -1 31370
+D5
+~
+~
+0 -1 31343
+S
+$~

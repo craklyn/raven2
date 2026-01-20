@@ -1,0 +1,24 @@
+ass ass drak
+nox cast 'noxious skin' $*
+age cast 'age' $*
+sl cast 'sense life' $*
+inv cast 'invis' $*
+cl clan &11(&13>&08-&13<&11) &14$*  &11(&13>&08-&13<&11)&00
+gt gtell &11(&13>&08-&13<&11) &14$*  &11(&13>&08-&13<&11)&00
+say emote says, '&11(&13>&08-&13<&11) &14$*  &11(&13>&08-&13<&11)&00'
+g get all.gold
+h hug 2.
+x get all corpse
+z des corpse
+c get all.scroll all.corpse
+kk kill 2.
+ld cast 'life drain' $*
+shi cast 'shield' $*
+fly cast 'fly' $*
+di cast 'det inv' $*
+sp cast 'soul pierce' $*
+bli cast 'blind' $*
+infra cast 'infra'
+lo look in corpse
+foo cast 'create food'
+dr drink thimble

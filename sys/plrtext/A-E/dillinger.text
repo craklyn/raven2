@@ -1,0 +1,21 @@
+v gt v
+arm rem bag;hold oak;use oak $*;rem oak;hold bag
+id togg color off;use wand $*;togg color on
+life innereye
+sv innereye
+t trip $*
+z scan
+b back $*
+goto mist $*
+gs gsay $1
+x dust 
+wa wake;stand
+p enter portal
+c circle
+say sa &01$* &00
+clan cla &00&01$* &00
+home mist elken
+q get all all.dill;wear lad cloakwear char;wear robe bod;wear all;get all all.dill;wear all;wie pen;hold bag;rem bee;wear sig
+g say rev dill 
+m rem pen;enven pen;enven pen;wiel pen
+a k grim

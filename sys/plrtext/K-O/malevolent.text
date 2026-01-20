@@ -1,0 +1,42 @@
+ani cast 'animate dead' $1
+i c 'unholy word' 
+word cast 'unholy word'
+wwq gt Going;w;q oab;toss oab
+eeq gt Going;e;q oab;toss oab
+nnq gt Going;n;q oab;toss oab
+ssq gt Going;s;q oab;toss oab
+uuq gt Going;u;q oab;toss oab
+ddq gt Going;d;q oab;toss oab
+dd gt Going;d;k $*
+uu gt Going;u;k $*
+ww gt Going;w;k $*
+ee gt Going;e;k $*
+ss gt Going;s;k $*
+nn gt Going;n;k $*
+r rescue $*
+dt cast 'death touch' $*
+dart cast 'black dart' $*
+align cast 'detect align' $*
+chaos cast 'chaos'
+blind cast 'blind' $*
+curse c 'curse' $*
+breath c 'black breath' $*
+gt gt &06$* &00
+afk toggle afk
+reflect c 'reflection' $*
+infra c 'eyes of the dead'
+di c 'detect invis' $*
+regen c 'regen' $*
+armor c 'chaos armor'
+aura c 'aura'
+bd c 'black dart' $*
+fear c 'fear' $*
+pest c 'pestilence'
+pfg c 'protection from good'
+1 sa take me to elru
+tit title no longer the &03o&00l&03d&00 douche!
+call c 'call steed';;mount drake
+bl c 'blind' $1
+wa wake;;stand
+o murd wyv;;stand;;flee;flee
+dis dismount

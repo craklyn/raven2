@@ -1,0 +1,19 @@
+env remove dagger;envenom dagger;wield dagger
+armor remove eye;get oak hole;hold oak;use oak $*;remove oak;put oak hole;hold eye
+know remove stick;hold bargain;use bargain $*;remove bargain;hold stick
+k murder $*
+h hide;score
+en envenom $*
+wa wake;stand
+sense cast 'sense'
+t track $*
+infra cast 'infra'
+rs escape south
+rn escape north
+rw escape west
+re escape east
+ru escape up
+rd escape down
+j scan
+m meditate
+a assist jubei

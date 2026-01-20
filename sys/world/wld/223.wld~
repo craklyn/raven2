@@ -1,0 +1,2488 @@
+#22300
+Credits Room~
+The land of Avalon and its scheming Royal Family was brought to you by Oberon
+in memory of Roger Zelazny, who gave me so much pleasure with his books -
+March, 1997.  Lvl range 40+ group and linked to 21347 in the Enchanted Forest
+as well as 17601 Sellatr-Under-The-Sea
+~
+223 128 0 0 0 4 255 0
+D5
+~
+~
+0 0 -1
+S
+#22301
+Entrance To The Design~
+The trees open up and a large cliff face appears.  You are standing before a
+large stone arch.  A cold radiance shines from within and as you look in, you
+see a glowing tracery of fire weaving its way across a floor of black glass.  
+Above the arch is an inscription carved in the stone.    
+~
+223 64 0 0 0 4 255 0
+D0
+North lies the entrance to the Design~
+~
+0 -1 22302
+D1
+To the east you see a stone wall~
+~
+0 -1 -1
+D2
+to the south you see trees~
+~
+0 -1 21347
+D3
+to the west you see a stone wall~
+~
+0 -1 -1
+E
+inscription~
+The inscription reads This place is for those of the Blood of Avalon.
+If you are my kinfolk remember...Do Not Stray From The Path!
+		Lord Joll
+~
+S
+#22302
+The Glowing Path~
+A shower of sparks and flames leap up around you.  As you move forward along
+the glowing line on the floor you feel some unseen force pushing against you..
+Your hair is standing on end.    
+~
+223 589 0 0 0 5 255 0
+D0
+To the north the sparks leap higher~
+~
+0 -1 22304
+D1
+To the east columns of fire twist around each other~
+~
+0 -1 -1
+D2
+to the south the path has vanished~
+~
+0 -1 -1
+D3
+to the west you see a wall of flames~
+~
+0 -1 -1
+S
+#22303
+A Wall of Fire~
+You have strayed from the path! You scream in agony as flames wash
+over you!
+~
+223 514 0 0 0 0 255 0
+D3
+~
+~
+0 0 22308
+S
+#22304
+The Glowing Path~
+The Path curves back and forth, glowing so brightly you find it hard
+to see. You sway briefly as the hidden forces pull at you. A blue-white
+spark flies past your face crackling and hissing.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north the sparks leap higher~
+~
+0 -1 22305
+D1
+To the east columns of fire twist around each other~
+~
+0 -1 22306
+D2
+to the south the path has vanished~
+~
+0 -1 -1
+D3
+to the west you see a glowing fog~
+~
+0 -1 22301
+S
+#22305
+A Wall of Fire~
+You have strayed from the path! You scream in agony as flames wash
+over you!
+~
+223 514 0 0 0 0 255 0
+D2
+~
+~
+0 0 22304
+S
+#22306
+The Glowing Path~
+The magic here pulls at your mind and unbidden images flash through
+your head as you struggle to keep to the Path. A valley of prisms
+beneath a purple sky....Garments lashed by gales of light... a dust
+of rainbows on your boots dances to the reverberation of a million gongs.
+~
+223 585 0 0 0 5 255 0
+D1
+To the east columns of fire twist around each other~
+~
+0 -1 -1
+D2
+to the south you see a wall of flames~
+~
+0 -1 22307
+D3
+to the west the path has vanished~
+~
+0 -1 -1
+S
+#22307
+The Glowing Path~
+The images continue A huge field upon which two warring armies of
+demons clash.......A lonely tower window, from which a terrible
+sobbing emanates, stares down at a dead lawn dotted with broken
+statues.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north the path vanishes~
+~
+0 -1 -1
+D1
+To the east columns of fire twist around each other~
+~
+0 -1 22308
+D2
+to the south you see a wall of flames~
+~
+0 -1 -1
+D3
+to the west you see a huge fan-shaped column of sparks~
+~
+0 -1 -1
+S
+#22308
+The First Veil~
+A glowing curtain hangs across the Path and you struggle to move
+your feet even an inch. You summon your strength and make a desperate
+effort to break through.
+~
+223 841 0 0 0 5 255 0
+D0
+To the north you see a wall of flames~
+~
+0 -1 22310
+D1
+To the east flames reach out to ensnare you~
+~
+0 -1 22303
+D2
+to the south you see a stone wall~
+~
+0 -1 -1
+D3
+to the west the path vanishes~
+~
+0 -1 -1
+S
+#22309
+The Study~
+You see a small room with a desk and a wooden chair. In a corner
+there are several bookcases. On the desk is a lamp and several rough
+sketches on vellum. this appears to be a little too comfortable for
+a prison yet there appears to be no way out. Perhaps this is a place
+for self-imposed imprisonment.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north are some shelves~
+~
+0 -1 -1
+D1
+to the east are some cabinets~
+~
+0 -1 -1
+D3
+to the west is a wall that isn't really there~
+transparent~
+1 -1 22399
+E
+transparent~
+A wall that has a ghostly insubstantial quality to it~
+S
+#22310
+The Glowing Path~
+You walk inside a arching web of shimmering light, beautiful to look
+at and deadly to the touch. Delicate jeweled spiders race back and
+forth along glowing strands.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north you see a wall of flames~
+~
+0 -1 22311
+D1
+To the east flames reach out to ensnare you~
+~
+0 -1 22301
+D2
+to the south you see a stone wall~
+~
+0 -1 -1
+D3
+to the west the path vanishes~
+~
+0 -1 -1
+S
+#22311
+The Glowing Path~
+Again fragments of images assault your senses. A crescent moon
+shatters into a swarm of meteors each wearing a skull-face. You
+wrench your thoughts back to the task of staying on the Path.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north you see a wall of flames~
+~
+0 -1 22313
+D1
+To the east the flames seem to be receding~
+~
+0 -1 22312
+D2
+to the south the path vanishes~
+~
+0 -1 -1
+D3
+to the west you see a single column of flame~
+~
+0 -1 -1
+S
+#22312
+A Whirlpool of fire~
+You spin around and around in a vast flaming pool of liquid fire.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north you see the edge of the whirlpool~
+~
+0 -1 -1
+D1
+To the east the flames seem to be receding~
+~
+0 -1 22301
+D2
+to the south you see the edge of the whirlpool~
+~
+0 -1 -1
+D3
+to the west you see the edge of the whirlpool~
+~
+0 -1 -1
+S
+#22313
+The Glowing Path~
+A burning cats-head appears and grins at you. A peal of laughter
+like thunder shatters the air. The head fades slowly to be replaced
+by a roaring waterfall of molten copper. The sound gets louder...
+Louder...LOUDER!
+~
+223 585 0 0 0 5 255 0
+D0
+To the north you see a glowing mist~
+~
+0 -1 -1
+D1
+To the east the flames seem to be receding~
+~
+0 -1 22301
+D2
+to the south the path vanishes~
+~
+0 -1 -1
+D3
+to the west you see a single column of flame~
+~
+0 -1 22314
+S
+#22314
+The Glowing Path~
+A light breeze plucks at your clothing and above the hiss and crackle
+of the flames you hear a rumbling sound. You frantically peer through
+the sparks and flames trying to find the source.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north you see a glittering helix~
+~
+0 -1 22301
+D1
+To the east the path vanishes~
+~
+0 -1 -1
+D2
+to the south you see nothing but blackness~
+~
+0 -1 22303
+D3
+to the west you see something shimmer~
+~
+0 -1 22316
+S
+#22316
+The Glowing Path~
+The breeze becomes a violent wind and the rumbling becomes a
+shattering roar from overhead.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north you see a glowing fog~
+~
+0 -1 -1
+D1
+To the east the path vanishes~
+~
+0 -1 -1
+D2
+to the south you see blackness~
+~
+0 -1 -1
+D3
+to the west it seems brighter~
+~
+0 -1 22317
+S
+#22317
+The Second Veil~
+Another glowing curtain bars your way. Muscles screaming with the
+effort you push through.
+~
+223 841 0 0 0 5 255 0
+D0
+To the north you see a glowing fog~
+~
+0 -1 -1
+D1
+To the east the path vanishes~
+~
+0 -1 -1
+D2
+to the south you see blackness~
+~
+0 -1 22318
+D3
+to the west it seems brighter~
+~
+0 -1 -1
+S
+#22318
+The Glowing Path~
+For a moment the flames part and you see the Design twisting and
+turning across the floor and into the distance.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north the path vanishes~
+~
+0 -1 -1
+D1
+To the east you see a shower of sparks~
+~
+0 -1 -1
+D2
+to the south you see blackness~
+~
+0 -1 22301
+D3
+to the west you see dancing columns of fire~
+~
+0 -1 22319
+S
+#22319
+The Glowing Path~
+The Design twists and turns burning itself into your mind and more
+images appear. A lonely beach under a night sky lit by uncounted
+glittering swords thrust into bodies that dot the sand. The stars
+appear on either side ..then below and you walk a gauzy path through
+a cold unfeeling universe.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north it seems darker~
+~
+0 -1 22320
+D1
+To the east the path vanishes~
+~
+0 -1 -1
+D2
+to the south you think you see a shape~
+~
+0 -1 22301
+D3
+to the west you see fountains of sparks~
+~
+0 -1 -1
+S
+#22320
+The Glowing Path~
+The flames and sparks surround you. Every movement leaves you gasping
+for breath. Your legs are weakening as the air in your lungs grows
+hotter. But to stop is to remain here forever as a testament to foolish
+courage. You raise your foot and take another step.
+~
+223 585 0 0 0 5 255 0
+D0
+To the north you see the helix of flames again~
+~
+0 -1 22321
+D1
+To the east you see darkness~
+~
+0 -1 -1
+D2
+to the south the path vanishes~
+~
+0 -1 -1
+D3
+to the west you see dancing shapes of fire~
+~
+0 -1 -1
+S
+#22321
+The Glowing Path~
+You are walking in a sea of flames and the heat is overpowering.
+Sparks singe your exposed skin cratering your flesh. You slap at
+your skin to extinguish the pain and burning. You smell burning
+hair and reach up to find your eyebrows have been singed off!
+~
+223 585 0 0 0 5 255 0
+D0
+To the north you see darkness~
+~
+0 -1 -1
+D1
+To the east you see a brighter light~
+~
+0 -1 22322
+D2
+to the south the path vanishes~
+~
+0 -1 -1
+D3
+to the west you see an explosion of sparks~
+~
+0 -1 -1
+S
+#22322
+The Final Veil~
+A final burst of flame and sound sends you reeling. This is the last
+obstacle, a solid wall of white hot flames You hold your hands in
+front of your face as you summon your remaining will and move your
+feet a few final inches.
+~
+223 841 0 0 0 5 255 0
+D0
+To the north you see daylight~
+~
+0 -1 22323
+D1
+To the east you a skeleton capering in the flames~
+~
+0 -1 -1
+D2
+to the south you see a hand waving~
+~
+0 -1 -1
+D3
+to the west the path vanishes~
+~
+0 -1 -1
+S
+#22323
+The Designs' End~
+You are surrounded on three sides by rocky walls and you smell fresh
+grass as a breeze wafts in from ahead.
+~
+223 585 0 0 0 0 255 0
+D0
+To the north you see an opening in the rock~
+~
+0 -1 22324
+D1
+To the east you see a rock wall~
+~
+0 -1 -1
+D2
+to the south you see a rock wall~
+~
+0 -1 -1
+D3
+to the west you see a rock wall~
+~
+0 -1 -1
+S
+#22324
+The Stone Arch~
+A great stone arch leads you out of the ordeal you have just undergone and into
+the vast Forest ahead
+~
+223 585 0 0 0 0 255 0
+D0
+To the north you see a vast forest~
+~
+0 -1 22325
+D1
+To the east you see a rock wall~
+~
+0 -1 -1
+D2
+to the south you see a rock wall~
+~
+0 -1 -1
+D3
+to the west you see a rock wall~
+~
+0 -1 -1
+S
+#22325
+The Forest of Gwalen~
+You are in a vast cathedral of trees.  They soar like dark green towers with
+sunlight filtering through like golden strands.  The air is rich with life and
+perhaps....  Death.  There are several trails here leading deeper into the
+Forest.    
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see a vast forest~
+~
+0 -1 22335
+D1
+To the east you see dense underbrush blocking~
+your way
+~
+0 -1 -1
+D2
+to the south you see a stone arch~
+~
+0 -1 -1
+D3
+to the west a you hear the rustle of movement~
+~
+0 -1 22326
+S
+#22326
+A Path Through the Forest~
+Here are enormous pines, oaks and maples and others you cannot identify There
+are several trails here leading deeper into the Forest.    
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see a vast forest~
+~
+0 -1 22336
+D1
+To the east you see dense underbrush~
+~
+0 -1 22325
+D3
+to the west a you hear the rustle of movement~
+~
+0 -1 22327
+S
+#22327
+A Path Through the Forest~
+You walk between tree trunks like Greek columns, making you feel as
+though you are in some temple of the gods. There are several trails
+here leading deeper into the Forest.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see a vast forest~
+~
+0 -1 22337
+D1
+To the east you see dense underbrush~
+~
+0 -1 22326
+D2
+to the south the way is blocked by tree trunks~
+~
+0 -1 -1
+D3
+to the west the path continues~
+~
+0 -1 22328
+S
+Z 13
+#22328
+A Small Clearing~
+There is a small clearing here where the under-brush has been trampled
+down. You notice arrows sticking out of several tree trunks and a
+rotting corpse grins at you. The trail continues on.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see a vast forest~
+~
+0 -1 22338
+D1
+To the east you see dense underbrush~
+~
+0 -1 22327
+D2
+to the south the way is blocked by tree trunks~
+~
+0 -1 -1
+D3
+to the west the way is blocked by tree trunks~
+~
+0 -1 -1
+S
+Z 13
+#22329
+A Path Through the Forest~
+A deer suddenly leaps out from the brush and vanishes on the other
+side of the trail. Off in distance you hear the faint sound of a
+horn. The trail continues on.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see back along the trail~
+~
+0 -1 22334
+D1
+To the east the forest begins to thin~
+~
+0 -1 22330
+D2
+to the south the way is blocked by tree trunks~
+~
+0 -1 -1
+D3
+to the west the way is blocked by tree trunks~
+~
+0 -1 -1
+S
+Z 13
+#22330
+A Path Through the Forest~
+The trees thin out and the soil becomes sandy.  Ahead you see the
+forest coming to and end and your hear the sound of surf.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the way is blocked by dense undergrowth~
+~
+0 -1 -1
+D1
+To the east you see a beach~
+~
+0 -1 22331
+D2
+to the south the way is blocked by tree trunks~
+~
+0 -1 -1
+D3
+to the west you see back along the path~
+~
+0 -1 22329
+S
+#22331
+A Beach~
+A beautiful crystalline beach stretches north.  You look across a magnificent
+deep emerald sea as foaming breakers crash against the shore.  Far out to sea
+you barely make out a small rocky island with a lighthouse
+~
+223 512 0 0 0 3 255 0
+D0
+To the north the beach continues~
+~
+0 -1 22332
+D1
+To the east you see the ocean~
+~
+0 -1 -1
+D2
+to the south the way is blocked by a huge dune~
+~
+0 -1 -1
+D3
+to the west you see back along the path~
+~
+0 -1 22330
+S
+#22332
+A Beach~
+A large stone cairn is here on the beach marking the location of the undersea
+stairway that leads to Avalon's sister city Sellatr-Under-The-Sea Due to the
+end of the crisis the entrance has been re-opened.    
+~
+223 512 0 0 0 3 255 0
+D1
+To the east you see the oceanyou see a bay
+~
+~
+0 -1 17601
+D2
+to the south you see sand~
+~
+0 -1 22331
+D3
+to the west you see dunes~
+~
+0 -1 22333
+S
+#22333
+Some Low Dunes~
+Several small dunes are here with a few stunted 
+shrubs poking out from the sand
+~
+223 512 0 0 0 3 255 0
+D0
+To the north you see the forest~
+~
+0 -1 22344
+D1
+To the east you see the beach~
+~
+0 -1 22332
+D2
+to the south the way is blocked by a huge dune~
+~
+0 -1 -1
+D3
+to the west you see the forest~
+~
+0 -1 22334
+S
+#22334
+The Forest of Gwalen~
+Walking softly you hear birds occasionally twitter high up the branches.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the way is blocked by underbrush~
+~
+0 -1 -1
+D1
+To the east you see the dunes~
+~
+0 -1 22333
+D2
+to the south you see a path~
+~
+0 -1 22329
+D3
+to the west you see a path~
+~
+0 -1 22335
+S
+Z 13
+#22335
+The Forest of Gwalen~
+The soft silence is broken by the harsh baying of hounds and your hear shouts
+and the braying of a horn.    
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the way is blocked by trees~
+~
+0 -1 -1
+D1
+To the east you see back along the path~
+~
+0 -1 22334
+D2
+to the south you see a path~
+~
+0 -1 22325
+D3
+to the west you see a path~
+~
+0 -1 22336
+S
+Z 13
+#22336
+The Forest of Gwalen~
+The noises of a hunt seem to fade away but the trees are so thick you wonder if
+anyone or anything might be lurking nearby
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see trees~
+~
+0 -1 -1
+D1
+To the east you see trees~
+~
+0 -1 22335
+D2
+to the south you see some more trees~
+~
+0 -1 22326
+D3
+to the west you see trees~
+~
+0 -1 22337
+S
+#22337
+The Forest of Gwalen~
+Trees continue to hem you in all around and for the first time you aware that
+you might be trespassing.    
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the way is blocked by trees~
+~
+0 -1 -1
+D1
+To the east you see trees~
+~
+0 -1 22336
+D2
+to the south you see some more trees~
+~
+0 -1 22327
+D3
+to the west you see trees~
+~
+0 -1 22338
+S
+#22338
+The Forest of Gwalen~
+The Forest butts up against a rocky cliff.  Several corpses lie about along
+with pieces of armor and weapons rotting and rusting among the moss.    
+~
+223 0 0 0 0 3 255 0
+D0
+To the north the path continues~
+~
+0 -1 22339
+D1
+To the east you see trees~
+~
+0 -1 22337
+D2
+to the south you see some more trees~
+~
+0 -1 22328
+D3
+to the west the way is blocked by a rocky cliff~
+~
+0 -1 -1
+S
+#22339
+The Forest of Gwalen~
+The path continues between the cliff and the trees
+~
+223 512 0 0 0 3 255 0
+D0
+To the north the path is blocked by a cliff~
+~
+0 -1 -1
+D1
+To the east you see trees~
+~
+0 -1 22340
+D2
+to the south you see some more trees~
+~
+0 -1 22338
+D3
+to the west the way is blocked by a rocky cliff~
+~
+0 -1 -1
+S
+#22340
+A Narrow Path~
+The giant trunks close in around you so that there is barely room to walk.  
+The air is heavy and still.    
+~
+223 769 0 0 0 3 255 0
+D0
+To the north the path is blocked by trees~
+~
+0 -1 -1
+D1
+To the east you see trees~
+~
+0 -1 22341
+D2
+to the south the way is blocked by trees~
+~
+0 -1 -1
+D3
+to the west you see a path~
+~
+0 -1 22339
+S
+#22341
+The Forest ~
+The trail widens, trampled as if by the passage of many men and
+beasts. The smell of ashes is in the air and you hurry past the
+rotting corpse of a horse, partially eaten.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the path is blocked by trees~
+~
+0 -1 -1
+D1
+To the east you see a clearing~
+~
+0 -1 22342
+D2
+to the south there is a narrow path~
+~
+0 -1 22336
+D3
+to the west you see trees~
+~
+0 -1 22340
+S
+#22342
+The Scorched Clearing~
+A blast of smoke stench rolls over you as you stumble out of the
+trees into a clearing that has been blasted by fire. Trees are
+nothing but charred stumps and there are several lumps of charcoal
+that once were living things.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see a path~
+~
+0 -1 22347
+D1
+To the east you see the forest~
+~
+0 -1 22343
+D2
+to the south the way is blocked by fallen trees~
+~
+0 -1 -1
+D3
+to the west you see trees~
+~
+0 -1 22341
+S
+#22343
+The Forest of Gwalen~
+A sudden blast of sound assails you as horns blow, dogs bay and men
+shout.  Several small animals scurry  for shelter and birds screech
+alarms and take flight
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see a path~
+~
+0 -1 22346
+D1
+To the east you see the forest~
+~
+0 -1 22344
+D2
+to the south the way is blocked by fallen trees~
+~
+0 -1 -1
+D3
+to the west you see trees~
+~
+0 -1 22342
+S
+#22344
+The Forest of Gwalen~
+A slight motion makes you look up and see three bodies hanging from a tree
+branch overhead.  The ropes creak as they sway slightly.  Obviously someone
+here does not like visitors.  To proceed any further north would likely gain
+you the same fate or worse.    
+~
+223 513 0 0 0 3 255 0
+D0
+To the north you see a clearing with some thing standing beckoning you to your
+death
+~
+~
+0 -1 22345
+D1
+To the east you the path is blocked by trees~
+~
+0 -1 -1
+D2
+to the south the path widens~
+~
+0 -1 22333
+D3
+to the west you see trees~
+~
+0 -1 22343
+S
+Z 13
+#22345
+The Circle~
+A large ring of giant toadstools surround grass that is black and
+metallic. The blades sway and twist as if alive. This is an accursed
+place and only a living death awaits those who tarry here
+~
+223 518 0 0 0 0 255 0
+D0
+To the north the circle blocks your way~
+~
+0 -1 -1
+D1
+To the east the circle blocks your way~
+~
+0 -1 -1
+D2
+to the south the circle blocks your way~
+~
+0 -1 22344
+D3
+to the west the circle blocks your way~
+~
+0 -1 -1
+S
+#22346
+The Forest of Gwalen~
+The light is faint, the air is damp and oppressive and you begin
+to feel as though this forest goes on forever.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the trail continues~
+~
+0 -1 22356
+D1
+To the east the path is blocked an unseen force~
+~
+0 -1 -1
+D2
+to the south the trail continues~
+~
+0 -1 22343
+D3
+to the west you see trees~
+~
+0 -1 22347
+S
+#22347
+A Path~
+Fear begins to guide your steps and you hurry your pace, crashing
+recklessly through the undergrowth.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the way is blocked by trees~
+~
+0 -1 -1
+D1
+To the east you see the path behind you~
+~
+0 -1 22346
+D2
+to the south the path is almost blocked by a fallen tree~
+~
+0 -1 22342
+D3
+to the west you see trees~
+~
+0 -1 22348
+S
+#22348
+A path~
+You continue to pick up your pace through these huge symbols of living and
+growing.  Sadly it seems they only conceal death within their leafy boughs.  
+
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the way is blocked by trees~
+~
+0 -1 -1
+D1
+To the east you see the path behind you~
+~
+0 -1 22347
+D2
+to the south the path is blocked by thick bushes~
+~
+0 -1 -1
+D3
+to the west you see trees~
+~
+0 -1 22349
+S
+#22349
+A Path~
+The path is now studded with small rocky out-croppings and the trees
+thin out somewhat, giving way to smaller pines.
+~
+223 513 0 0 0 3 255 0
+D0
+To the north the way is blocked rocks~
+~
+0 -1 -1
+D1
+To the east you see the path behind you~
+~
+0 -1 22348
+D2
+to the south the path is blocked by a fallen tree~
+~
+0 -1 -1
+D3
+to the west you see a clearing~
+~
+0 -1 22350
+S
+#22350
+The Vale of Zon~
+The trees give way to a narrow valley walled in by rocky walls. The
+grass is lush and bright green. Carpets of lapis flowers make this
+a place of great beauty and peacefulness.
+~
+223 8 0 0 0 3 255 0
+D0
+To the north the valley continues~
+~
+0 -1 22351
+D1
+To the east you see the path behind you~
+~
+0 -1 22349
+D2
+to the south the cliff blocks your way~
+~
+0 -1 -1
+D3
+to the west the cliff blocks your way~
+~
+0 -1 -1
+S
+#22351
+Tomb Entrance~
+Set into the north end of the valley is a small low ivory building
+with two benches in front. Great ropes of mountain ivy drape themselves
+across the top and sides of the cenotaph. A square of marble 3 feet
+high stands in front with letters carved into it.
+~
+223 512 0 0 0 3 255 0
+D0
+To the north the tomb is sealed by a silver door~
+door silver~
+2 22301 22359
+D1
+To the east you see a trail through the cliff~
+~
+0 -1 22352
+D2
+to the south lies a valley~
+~
+0 -1 22350
+D3
+to the west the cliff blocks your way~
+~
+0 -1 -1
+E
+marble~
+The inscription reads:
+
+In Memory of Prince Corey gone these many years. Though his remains lay in Darkness this place waits in the hope that some day his body will come home and be laid to rest in sight of that which he loved so well and died for.
+~
+E
+door silver~
+A massive solid silver door is set into the marble entranceway.
+~
+S
+#22352
+Foothills~
+A path winds up through the foothills. Ahead lies the mighty peak of Canth.
+~
+223 4 0 0 0 5 255 0
+D0
+To the north steep hills block the way~
+~
+0 -1 -1
+D1
+To the east the path twists and turns~
+~
+0 -1 22353
+D2
+to the south the cliff blocks your way~
+~
+0 -1 -1
+D3
+to the west lies a somber place~
+~
+0 -1 22351
+S
+#22353
+Stairs of Canth~
+A jagged mountain stands before you towering into the sky. This is
+Canth the Mighty and up the sheer peak is carved a winding stair a
+thousand feet high. 
+~
+223 512 0 0 0 5 255 0
+D0
+To the north jagged rocks block the way~
+~
+0 -1 -1
+D1
+To the east a sheer cliff blocks the way~
+~
+0 -1 -1
+D2
+to the south a sheer drop awaits you~
+~
+0 -1 -1
+D3
+to the west lies the hills~
+~
+0 -1 22352
+D4
+upwards winds the steps~
+~
+0 -1 22354
+S
+#22354
+Stairs of Canth~
+It is said that a handful of men can hold off an army here. Legend
+has it that Prince Bwoine once battled his way to the top  by fighting
+single-handedly against 80 guards who tried to prevent his entrance
+during one of Avalon's many family disputes.
+~
+223 512 0 0 0 5 255 0
+D0
+To the north jagged rocks block the way~
+~
+0 -1 -1
+D1
+To the east a sheer cliff blocks the way~
+~
+0 -1 -1
+D2
+to the south a sheer drop awaits you~
+~
+0 -1 -1
+D3
+to the west is nothing but air~
+~
+0 -1 -1
+D4
+upwards wind the steps~
+~
+0 -1 22357
+D5
+down lies the safety of firmer ground~
+~
+0 -1 22353
+S
+Z 13
+#22355
+Forest of Gwalen~
+The trees begin to change, many are stunted or blackened and dying.
+Bats flit through the air even in daylight. You feel something evil
+has invaded this part of the forest. Something that brings terrible
+consequences to those who find it.
+~
+223 512 0 0 0 3 255 0
+D0
+To the north you feel a terrible menace~
+~
+0 -1 22356
+D1
+To the east dead trees block the way~
+~
+0 -1 -1
+D2
+to the south you see trees~
+~
+0 -1 22346
+D3
+to the west a sheer cliff blocks the way~
+~
+0 -1 -1
+S
+#22356
+The Black Road~
+You shriek in horror as you step upon a road not meant for the living.
+Some say the road leads all the way through the Darkness to Darknyte
+but for you it is the road to dying.
+~
+223 514 0 0 0 0 255 0
+D2
+~
+~
+0 0 22346
+S
+#22357
+Stairs of Canth~
+Onward and upward the stairs go as you are close to exhaustion. As
+the path turns you catch a glimpse of the towers of a palace.
+~
+223 512 0 0 0 5 255 0
+D0
+To the north jagged rocks block the way~
+~
+0 -1 -1
+D1
+To the east a sheer cliff blocks the way~
+~
+0 -1 -1
+D2
+to the south a sheer drop awaits you~
+~
+0 -1 -1
+D3
+to the west is nothing but air~
+~
+0 -1 -1
+D4
+upwards wind the steps~
+~
+0 -1 22358
+D5
+down lies the safety of firmer ground~
+~
+0 -1 22354
+S
+#22358
+Top of the stairs~
+At last you have reached the top. A wide landing is here and beyond
+is a mighty gate set into the granite walls of Avalon.
+~
+223 512 0 0 0 5 255 0
+D0
+To the north is the entrance to Avalon~
+~
+0 -1 22360
+D1
+To the east a sheer cliff blocks the way~
+~
+0 -1 -1
+D2
+to the south a sheer cliff blocks the way~
+~
+0 -1 -1
+D3
+to the west lies the summit of Canth~
+~
+0 -1 -1
+D5
+down drops the steps for a thousand feet~
+~
+0 -1 22357
+S
+Z 13
+#22359
+The Cenotaph~
+It is dark inside these somber walls and you feel a sense of sadness
+as you see a large rectangular shape in the center of the room. It
+is a terrible thing to have no final resting place...no final peace.
+~
+223 553 0 0 0 5 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+To the east is a wall~
+~
+0 -1 -1
+D2
+to the south lies the entrance~
+door silver~
+2 22301 22351
+D3
+to the west is a wall~
+~
+0 -1 -1
+E
+door silver~
+A massive solid silver door is set into the marble entranceway.
+~
+S
+#22360
+The Palace Gate~
+Here is the vast iron gate that leads to the palace grounds. You
+just know that archers and other nasty surprises lie hidden along
+the walls. Breaking the door down doesn't appear to be an option.
+~
+223 4 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+To the east is the gate~
+iron~
+2 22302 22361
+D2
+to the south lies the summit of Canth~
+~
+0 -1 22358
+D3
+to the west a sheer cliff blocks the way~
+~
+0 -1 -1
+E
+gate iron~
+A massive iron gate stands 30 feet tall and is criss-crossed
+with silver bosses.
+~
+S
+Z 13
+Z 13
+#22361
+The Courtyard~
+A large courtyard spreads out before you and for the first time you
+get a full view of the Palace of Avalon. Silver towers rise in
+companionship to the mighty rock spires of Canth. 
+~
+223 512 0 0 0 1 255 0
+D0
+To the north the courtyard continues~
+~
+0 -1 22370
+D1
+To the east the courtyard continues~
+~
+0 -1 22362
+D2
+to the south is the wall of the palace~
+~
+0 -1 -1
+D3
+to the west lies the gate~
+iron~
+2 22302 22360
+S
+#22362
+The Courtyard~
+This part of the courtyard has less of the hustle and bustle then
+elsewhere. You stop and rest for a moment, hoping the guards will
+leave you alone. Sooner or later you know you will have to face
+them again if you wish to enter the Palace.
+~
+223 512 0 0 0 1 255 0
+D0
+To the north is the palace wall~
+~
+0 -1 -1
+D1
+To the east is the palace wall~
+~
+0 -1 -1
+D2
+to the south is the wall of the palace~
+~
+0 -1 -1
+D3
+to the west lies the gate~
+~
+0 -1 22361
+S
+#22363
+Servants Quarters~
+Here is where the many busy servants live who dedicate themselves
+to making the palace run smoothly. Its not an easy job keeping up
+with the non-stop comings and goings, banquets, balls, diplomatic
+missions arriving night and day. As if to emphasize this a maid
+runs up and screams ' get OUT! Cant you see we're trying to sleep?
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a hall~
+wooden~
+1 -1 22368
+D1
+To the east are bedrooms~
+~
+0 -1 -1
+D2
+to the south is the wall of the palace~
+~
+0 -1 -1
+D3
+to the west are bedrooms~
+~
+0 -1 -1
+E
+wooden door~
+A wooden door has a unicorn carved in its oak panels.
+~
+S
+#22364
+The Library~
+Bookshelves soar to the ceiling in this quiet and comfortable place.
+The walls are paneled and carved with battle scenes. A large crackling
+fire burns throwing gleaming highlights on the deep red leather
+armchairs.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a hall~
+wooden door~
+2 22343 22367
+D1
+To the east are bookcases~
+bookcase door~
+1 -1 22365
+D2
+to the south is the fireplace~
+~
+0 -1 -1
+D3
+to the west are bookcases~
+~
+0 -1 -1
+E
+wooden door~
+A wooden door has a unicorn carved in its oak panels.
+~
+E
+bookcase door~
+This bookcase appears to be slightly different.
+~
+S
+#22365
+The Salle D'Arms~
+You are in a large gymnasium-like room. Around the walls are racks
+of weapons and armor. Practice dummies are scattered around as are
+pieces of exercise equipment. Some of the dummies lie hacked to
+pieces. The bookcase swings shut behind you.....click!
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a row of spears in holders~
+~
+0 -1 -1
+D1
+To the east are large charts showing various sword skills~
+~
+0 -1 -1
+D2
+to the south are a row of dummies adorned with pieces of armor~
+~
+0 -1 -1
+D3
+to the west is a bookcase full of military tomes~
+bookcase door~
+1 -1 22364
+E
+bookcase~
+This bookcase appears to be slightly different.
+~
+S
+#22366
+The Conference Room~
+A huge malachite table is here and the walls are covered in maps
+depicting Avalon and its neighboring nations. The business of power
+and politics is conducted here.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+To the east is a wall~
+~
+0 -1 -1
+D2
+to the south is the wall ~
+~
+0 -1 -1
+D3
+to the west is the door~
+wooden door~
+2 22344 22367
+E
+wooden door~
+A wooden door has a unicorn carved in its oak panels.
+~
+S
+#22367
+The Hall~
+You are at one end of a long hall. This part of the hall is decorated
+with small paintings. The pictures here are of the deceased family
+members Lunnanr, Otar, and Corey. Each has a black ribbon stretched
+diagonally across the upper right-hand corner. It is said that although
+officially they died off in Darkness fighting to preserve Avalon, it
+may be that they died to protect the crown from their ambitions.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+to the east is the door~
+wooden door~
+2 22344 22366
+D2
+to the south is a door~
+wooden door~
+2 22343 22364
+D3
+to the west the hall continues~
+~
+0 -1 22368
+E
+wooden door~
+A wooden door has a unicorn carved in its oak panels.
+~
+S
+#22368
+The Hall~
+You are in the middle of a long hall. The walls are paneled in a
+beautiful dark walnut. You do your best to appear as though you have
+permission to be here. Servants brush by you as they rush back and forth.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north the hall continues~
+~
+0 -1 22377
+D1
+to the east the hall continues~
+~
+0 -1 22367
+D2
+to the south is a door~
+wooden door~
+1 -1 22363
+D3
+to the west is the entrance~
+~
+0 -1 22369
+E
+wooden door~
+A wooden door has a unicorn carved in its oak panels.
+~
+S
+#22369
+The Entrance~
+You stand in the entranceway to the magnificent palace. A huge crystal
+chandelier hangs from a ceiling adorned with frescos. On the north
+wall is a huge painting of the Royal Family. Of course it would take
+several paintings to completely portray all of Joll's wives, sons,
+and daughters but this picture  represents the living at least.
+Servants wait  here to escort you....IF you have an appointment.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north you see a painting~
+~
+0 -1 -1
+D1
+to the east the hallway continues~
+~
+0 -1 22368
+D2
+to the south you see a painting~
+~
+0 -1 -1
+D3
+to the west lies the courtyard~
+double door~
+1 -1 22370
+E
+double door~
+A an ornate set of double doors carved from solid ebony.
+~
+E
+painting~
+A large painting depicts a Unicorn resting in a glade.
+~
+S
+#22370
+The Courtyard~
+There is always a whirlwind of activity here. Guards, servants,
+visitors all hustle back and forth. Some do stop to glance at you.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north you see the wall of the palace~
+~
+0 -1 -1
+D1
+to the east is the entrance~
+double door~
+1 -1 22369
+D2
+to the south the courtyard continues~
+~
+0 -1 22361
+D3
+to the west are the stables~
+~
+0 -1 22371
+E
+double door~
+A an ornate set of double doors carved from solid ebony.
+~
+S
+#22371
+The Stables~
+Here are the royal stables of Avalon. Stableboys and grooms are busy
+taking care of the family's horses. There is nothing royal about the
+smell though.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north you see the wall of the palace~
+~
+0 -1 -1
+D1
+to the east is the courtyard~
+~
+0 -1 22370
+D2
+to the south is the livery area~
+~
+0 -1 -1
+D3
+to the west are the stalls~
+~
+0 -1 -1
+S
+#22372
+The Kitchen~
+A blast of noise assails your ears, the crash of plates and cutlery,
+shouted orders from the chefs as they struggle to keep the royal
+family well-fed.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a hallway~
+~
+0 -1 22373
+D1
+to the east are freezers and cabinets~
+~
+0 -1 -1
+D2
+to the south are more cabinets~
+~
+0 -1 -1
+D3
+to the west are the ovens~
+~
+0 -1 -1
+S
+#22373
+The Hallway~
+You walk along a beautiful parquet floor. Your boots are making just
+a little too much noise for your own good.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+to the east the hallway continues~
+~
+0 -1 22374
+D2
+to the south are wonderful smells~
+~
+0 -1 22372
+D3
+to the west is the wall~
+~
+0 -1 -1
+S
+#22374
+The Hallway~
+You walk along a beautiful parquet floor with several carpets of a
+strange fabric colored a beautiful sky blue.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+to the east the hallway continues~
+~
+0 -1 22375
+D2
+to the south is a wall~
+~
+0 -1 -1
+D3
+to the west is the hallway~
+~
+0 -1 22373
+S
+#22375
+The Hallway~
+You walk along another carpet this one embroidered with a huge
+gold griffin. From your experiences so far it would not surprise
+you if a real griffin appeared at any moment.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north are stairs~
+~
+0 -1 22382
+D1
+to the east the hallway continues~
+~
+0 -1 22376
+D2
+to the south is a wall~
+~
+0 -1 -1
+D3
+to the west is the hallway~
+~
+0 -1 22374
+S
+#22376
+The Hallway~
+You walk along a beautiful parquet floor made from squares of
+a beautiful flame-grained wood.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a room~
+~
+0 -1 22381
+D1
+to the east the hallway continues~
+~
+0 -1 22377
+D2
+to the south is a wall~
+~
+0 -1 -1
+D3
+to the west is the hallway~
+~
+0 -1 22375
+S
+#22377
+The Hallway~
+You walk along a beautiful parquet floor.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a room~
+~
+0 -1 22380
+D1
+to the east is a large room~
+~
+0 -1 22378
+D2
+to the south is the hallway~
+~
+0 -1 22368
+D3
+to the west is the hallway~
+~
+0 -1 22376
+S
+#22378
+The Ballroom~
+You walk into a magnificent ballroom suitable for a royal party.
+The room is decorated in gold and white. There is a bandstand fit
+for an orchestra in one corner. In your imagination you see the
+beautifully gowned women dancing with young nobles and hear the
+faint strains of a waltz.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north the ballroom continues~
+~
+0 -1 22379
+D1
+to the east is a huge stained glass window~
+~
+0 -1 -1
+D2
+to the south are tables laden with food and drink~
+~
+0 -1 -1
+D3
+to the west is the hallway~
+~
+0 -1 22377
+S
+#22379
+The Ballroom~
+The ballroom continues to astound you with its magnificence. A servant
+comes up to you and offers a glass of champagne. Suddenly the glass
+is knocked from your hand!
+~
+223 521 0 0 0 1 255 0
+D0
+To the north are several bars~
+~
+0 -1 -1
+D1
+to the east is a huge stained glass window~
+~
+0 -1 -1
+D2
+to the south is the dancefloor~
+~
+0 -1 22378
+D3
+to the west is a room of some importance~
+~
+0 -1 22380
+S
+#22380
+The Throne Room~
+Here is the center of Avalon's power. On a throne carved from red
+marble is Rane the current Lord of Avalon. He holds court here dealing
+with a myriad of diplomats and visiting nobility from other kingdoms.
+He is joined by his Queen Jessica .
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a waiting line of guests~
+~
+0 -1 -1
+D1
+to the east you see a party~
+~
+0 -1 22379
+D2
+to the south is a hall~
+~
+0 -1 22377
+D3
+to the west it appears dinner is being served~
+~
+0 -1 22381
+S
+#22381
+The Dining Room~
+Here a feast is being served at a huge dining table crowded with
+guests and family. There is a happy buzz of conversation, laughter 
+and the clink of plates. All conversation comes to a halt as you enter
+and all eyes turn to you. You feel like a true uninvited guest.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north a beautiful tapestry is hanging~
+~
+0 -1 -1
+D1
+to the east you see the throne room~
+~
+0 -1 22380
+D2
+to the south is a hall~
+~
+0 -1 22376
+D3
+to the west is a hall~
+~
+0 -1 22382
+S
+#22382
+The Staircase~
+Here is a large winding stairway with a carved oak banister that
+looks like it might be fun to slide down.
+~
+223 4 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+to the east you see the dining room~
+~
+0 -1 22381
+D2
+to the south is a hall~
+~
+0 -1 22375
+D3
+to the west you hear the murmur of voices~
+~
+0 -1 22383
+D4
+the stairs lead upwards~
+~
+0 -1 22387
+S
+#22383
+The Guardroom~
+This the headquarters of Avalon's guard. The room is crowded with
+those responsible for the safety of the royal family and they take
+their jobs very...very...seriously.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a rack of swords~
+~
+0 -1 -1
+D1
+to the east is the hall~
+~
+0 -1 22382
+D2
+to the south is a group of men at arms looking in your direction~
+~
+0 -1 -1
+D3
+to the west is another room~
+~
+0 -1 22384
+S
+#22384
+The Armory~
+This is where the arms and armor are kept. The room is crowded with
+racks of weapons and suits of armor of all shapes and sizes. One
+entire wall is hung with shields.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a heavily barred door~
+barred~
+2 22303 22385
+D1
+to the east is the guardroom~
+~
+0 -1 22383
+D2
+to the south several men are trying on armor~
+~
+0 -1 -1
+D3
+to the west is the shield wall~
+~
+0 -1 -1
+E
+barred door~
+A barred door has steel panels and a small grill.
+~
+S
+#22385
+The Dark Stairs~
+A gloomy dusty set of stairs leads downwards into the deep dungeons
+where Avalon's less fortunate souls contemplate their offenses.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+to the east is a wall~
+~
+0 -1 -1
+D2
+to the south is a barred door~
+barred~
+2 22303 22384
+D3
+to the west is the wall~
+~
+0 -1 -1
+D5
+downwards is a dark place~
+~
+0 -1 22397
+E
+barred door~
+A barred door has steel panels and a small grill.
+~
+S
+#22386
+The Bedroom~
+You have entered a bedroom done in shades of blue and white with a
+small canopied bed. On the night stand is a deck of cards.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a window~
+~
+0 -1 -1
+D1
+to the east is a door~
+wooden~
+2 22306 22387
+D2
+to the south is a dresser~
+~
+0 -1 -1
+D3
+to the west is the wall~
+~
+0 -1 -1
+E
+wooden door~
+A wooden door has a unicorn carved in the panels.
+~
+S
+#22387
+The Upstairs Hall~
+This hall leads along the living quarters of the royal family.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a wooden door.~
+wooden~
+2 22342 22395
+D1
+to the east the hall continues~
+~
+0 -1 22388
+D2
+to the south is a wall~
+~
+0 -1 -1
+D3
+to the west is a bedroom~
+wooden~
+2 22346 22386
+D5
+looking down you see the stairs~
+~
+0 -1 22382
+E
+wooden door~
+A wooden door has a unicorn carved in the panels.
+~
+S
+#22388
+The Upstairs Hall~
+This hall leads along the living quarters of the royal family. You
+try to walk quietly so as not to annoy anyone trying to sleep.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a bedroom~
+wooden~
+2 22341 22394
+D1
+to the east the hall continues~
+~
+0 -1 22389
+D2
+to the south is a paneled wall~
+~
+0 -1 -1
+D3
+to the west the hall continues~
+~
+0 -1 22387
+E
+wooden door~
+A wooden door has a unicorn carved in the panels.
+~
+S
+#22389
+The Upstairs Hall~
+This hall leads along the living quarters of the royal family. The
+floorboards creak and you stop for a moment gritting your teeth.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a bedroom~
+wooden~
+1 -1 22393
+D1
+to the east the hall continues~
+~
+0 -1 22390
+D2
+to the south is a paneled wall~
+~
+0 -1 -1
+D3
+to the west the hall continues~
+~
+0 -1 22388
+E
+wooden door~
+A wooden door has a unicorn carved in the panels.
+~
+S
+#22390
+The End of the Hall~
+This hall ends here with a large tapestry hanging from one wall
+depicting the Forest of Gwalen.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a bedroom~
+wooden~
+1 -1 22392
+D1
+to the east you see a tapestry~
+tapestry~
+1 -1 22391
+D2
+to the south is a paneled wall~
+~
+0 -1 -1
+D3
+to the west the hall continues~
+~
+0 -1 22389
+E
+wooden door~
+A wooden door has a unicorn carved in the panels.
+~
+E
+tapestry~
+This tapestry is done in exquisite shades of green.
+~
+S
+#22391
+The Hiding Place~
+Someone has constructed a clever hiding place here but who?... and
+why?. Whoever it was does not have the best of intentions.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+to the east you see a wall~
+~
+0 -1 -1
+D2
+to the south is a wall~
+~
+0 -1 -1
+D3
+to the west you see a tapestry~
+tapestry~
+1 -1 22390
+E
+tapestry~
+This tapestry is done in exquisite shades of green.
+~
+S
+#22392
+The Bedroom~
+You have entered a bedroom decorated in cream and yellow with a large
+brass bed. On the night-stand is a sheathed dagger. 
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a window~
+~
+0 -1 -1
+D1
+to the east is a window~
+~
+0 -1 -1
+D2
+to the south is a door~
+wooden~
+1 -1 22390
+D3
+to the west is the wall~
+~
+0 -1 -1
+E
+wooden door~
+A wooden door has a unicorn carved in the panels.
+~
+S
+#22393
+The Bedroom~
+You have entered a bedroom painted mauve. There is a very large mirror
+and a huge closet bed. On the  bureau is a large selection of exotic
+fragrances.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a window~
+~
+0 -1 -1
+D1
+to the east is a armoire~
+~
+0 -1 -1
+D2
+to the south is a door~
+wooden~
+1 -1 22389
+D3
+to the west is the wall~
+~
+0 -1 -1
+E
+wooden door~
+A wooden door has a unicorn carved in the panels
+~
+S
+#22394
+The Bedroom~
+You have entered a bedroom decorated in green and white. There is
+a king-sized bed leading to an obvious conclusion. On a small table
+is a deck of cards.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a window~
+~
+0 -1 -1
+D1
+to the east is a closet~
+~
+0 -1 -1
+D2
+to the south is a door~
+wooden~
+2 22341 22388
+D3
+to the west is the wall~
+~
+0 -1 -1
+E
+wooden door~
+A wooden door has a unicorn carved in the panels.
+~
+S
+#22395
+The Bedroom~
+You have entered a bedroom different from the others. The walls are
+plain white and the furniture is very spartan. It seems perhaps
+the room of someone used to the harsh life of constant campaigning.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a window~
+~
+0 -1 -1
+D1
+to the east is a small writing table~
+~
+0 -1 -1
+D2
+to the south is a door~
+wooden~
+2 22342 22387
+D3
+to the west is the wall~
+~
+0 -1 -1
+E
+wooden door~
+A wooden door has a unicorn carved in the panels.
+~
+S
+#22396
+The Clammy Hall~
+The hall comes to an end here. Come to think of it the hall probably
+isn't the only thing that has come to an end here.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a cell~
+cell~
+2 22303 22399
+D1
+to the east is a wall~
+~
+0 -1 -1
+D2
+to the south is a wall~
+~
+0 -1 -1
+D3
+to the west is the way out~
+~
+0 -1 22397
+E
+cell door~
+A steel door with no opening except a small slot at the bottom.
+~
+S
+#22397
+The Clammy Hall~
+This hall has dark stone walls cold and wet to the touch. If you
+listen carefully you imagine you can hear the whispers and moans
+of Avalon's prisoners.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a cell~
+cell~
+2 22303 22398
+D1
+to the east is the hall~
+~
+0 -1 22396
+D3
+to the west is a wall~
+~
+0 -1 -1
+D4
+looking up you see stairs leading to a door~
+~
+0 -1 22385
+E
+cell door~
+A steel door with no opening except a small slot at the bottom.
+~
+S
+#22398
+The Cell~
+You see a small lightless room with filthy straw matted on the floor.
+The stench of decay attests to the unfortunate end of the occupant.
+~
+223 521 0 0 0 1 255 0
+D0
+To the north is a wall~
+~
+0 -1 -1
+D1
+to the east is a wall~
+~
+0 -1 -1
+D2
+to the south is a door~
+cell~
+2 22303 22397
+D3
+to the west is a wall~
+~
+0 -1 -1
+E
+cell door~
+A steel door with no opening except a small slot at the bottom.
+~
+S
+#22399
+The Empty Cell~
+You see a small lightless room with something odd here. A sharpened
+spoon, a burnt pile of straw, and an empty wine bottle lie on the
+ground. You shine your light closer and see that on two of the walls
+something has been scratched into the stone. Someone was confined here
+yet now they are gone. Odd.....very odd.
+~
+223 525 0 0 0 1 255 0
+D0
+To the north is a drawing of the Lighthouse of Habra~
+~
+0 -1 -1
+D1
+to the east a drawing has been scratched into the wall~
+drawing~
+1 -1 22309
+D2
+to the south is a door~
+cell~
+2 22303 22396
+D3
+to the west is a wall~
+~
+0 -1 -1
+E
+drawing~
+A drawing of what appears to be a study with a desk.
+~
+S
+$~

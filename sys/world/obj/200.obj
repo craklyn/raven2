@@ -1,0 +1,203 @@
+#20000
+key flag plain gold flag-item~
+a plain gold key~
+A plain gold key has been left here.~
+~
+18 65540 256 0 0 1 0 0 0
+2 0 0 0
+1 1 0
+E
+gold key~
+This key is made from solid gold.
+~
+B
+0 0 0 0
+D200
+#20001
+gold-flag-item flag battle standard flag-item flaggame~
+a Gold Battle Standard~
+A Gold Battle Standard waves here in the breeze.~
+~
+8 65540 256 0 0 16385 0 0 0
+0 0 0 0
+1 100 0
+Z 20003
+E
+gold battle standard~
+The gold battle standard is the symbol of the Golden Fortress.  It is 
+made of the finest materials and is held sacred to defenders of the 
+Golden Fortress.
+~
+B
+0 0 0 0
+D100
+#20002
+gauntlet entry~
+the gauntlet entry~
+The entry to the dungeon known as The Gauntlet is set in the floor here.~
+~
+12 2 0 0 0 0 0 0 0
+0 0 0 0
+2 1 0
+B
+0 0 0 0
+#20003
+flag-item standard battle gold~
+the &10Gold&00 Battle Standard~
+The &10Gold&00 Battle Standard rests here on the ground.~
+~
+12 33554436 256 0 0 16385 0 0 0
+0 0 0 0
+0 0 910
+A
+19 4
+A
+18 4
+B
+0 0 0 0
+#20020
+A storage container~
+a storage container~
+A storage container is in the center of the room.~
+~
+15 0 0 0 0 0 0 0 0
+10000 5 -1 0
+10000 10 10000
+B
+0 0 0 0
+#20051
+cap~
+a baseball cap with "IMM" embroidered on it~
+An important looking baseball cap lies here.~
+~
+9 67633219 0 0 0 17 0 0 0
+10 0 0 0
+1 500000 2690
+E
+baseball cap~
+This baseball cap is made from the finest wools, and fitted to its owner's
+head.  A label inside reads "IMMS only (tm)".
+~
+A
+19 4
+A
+18 4
+A
+19 4
+A
+19 4
+A
+19 4
+A
+33 51
+B
+1323008 0 0 0
+#20052
+shield~
+silk boxer shorts which read "Hug a god"~
+Some smelly boxer shorts have been tossed down here by some slob.~
+~
+9 524355 0 0 0 33 0 0 0
+10 0 0 0
+1 500000 2060
+E
+boxer boxers shorts~
+These silk boxers remind you of Richard Simmons, and the slogan reminds
+you of Barney.
+~
+A
+19 4
+A
+18 4
+A
+18 4
+A
+18 4
+A
+18 4
+A
+33 51
+B
+0 32 0 0
+#20090
+portquest key quest flag~
+a Portquest key~
+A portquest key is lying here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#20095
+wand questing flag-item~
+a wand of questing~
+A strange gold and black wand lies here.~
+~
+3 33619983 0 0 0 16385 0 0 0
+50 5 5 76
+1 0 0
+E
+wand questing~
+This wand surges with power, but of what nature you are uncertain.
+~
+B
+0 0 0 0
+#20096
+wand questing flag-item~
+a wand of questing~
+A strange gold and black wand lies here.~
+~
+3 33619983 0 0 0 16385 0 0 0
+50 5 5 77
+1 0 0
+E
+wand questing~
+This wand surges with power, but of what nature you are uncertain.
+~
+B
+0 0 0 0
+#20097
+questing wand flag-item~
+a wand of questing~
+A strange gold and black wand lies here.~
+~
+3 33619983 0 0 0 16385 0 0 0
+50 3 3 102
+1 0 0
+E
+wand questing~
+This wand surges with power, but of what nature you are uncertain.
+~
+B
+0 0 0 0
+#20098
+questing wand flag-item~
+a wand of questing~
+A strange gold and black wand lies here.~
+~
+3 33619983 0 0 0 16385 0 0 0
+50 2 2 113
+1 0 0
+E
+questing wand~
+This wand surges with power, but of what nature you are uncertain.
+~
+B
+0 0 0 0
+#20099
+key quest stone flag-item~
+the Key of Questing~
+The key to the Flag Game Arena rests here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 1 0
+E
+stone key~
+This key is inscribed in gold and black runes, spelling
+out 'Gate to the Field of Questbattle'.
+~
+B
+0 0 0 0
+$~

@@ -1,0 +1,24 @@
+wa wake;;stand
+rn retreat north
+rs retreat south
+rd retreat down
+ru retreat up
+re retreat east
+r rescue $1
+gd gt &08GOING DOWN&00;d;kill $*
+gu gt &08GOING UP&00;u;kill $*
+gw gt &08GOING WEST&00;w;kill $*
+gn gt &08GOING NORTH&00;n;kill $*
+ge gt &08GOING EAST&00;e;kill $*
+2 bash 2.
+ret retreat $*
+terror c 'terror' $*
+b bash $*
+wake wake;stand
+pr ord 2.falc kill falc
+sto remove forsaken;stop
+` say samsera
+rw retreat west
+o gs going;;e;;kill mother;;kick mother
+gt gtell &14$* &00
+/ rec elv

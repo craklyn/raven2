@@ -1,0 +1,41 @@
+ok order simi k $*;order follower assist simi;ass
+infra c 'infra
+gate c 'gate'
+x c 'life drain' $*
+rc c 'remove curse' $*
+di c 'detect invis' $*
+p enter port
+port c 'port' $*
+ghas rem book;hol quil;get parch bee;scribe hast parch;rem quil;hol book;rec hast bee
+air c 'air' $*
+ts c 'true si' $*
+awaken c 'awaken' $*
+invis c 'invis' $*
+stat tog color off;stat $*; tog color on
+id tog color off;c 'ident' $*; tog color on
+bl c 'blind' $*
+mm cas 'magic mis' $*
+sum c 'summon' $*
+wa wake;stand
+charm c 'charm' $*
+ms c 'monster summon
+o order follower $*
+shie c 'shie' $*
+fly c 'fly' $*
+flame c 'flame bl' $*
+v c 'color sp' $*
+gs gtell &10$*&00
+hast c 'hast' $*
+m c 'shriek' $*
+has c 'hast' $*
+z scan
+nex c 'nexus' $*
+kk order ruler k $*;order follower assist ruler;ass
+f c 'magic mis' ruff $*;c 'magic mis' 2.ruff $*
+a c 'color sp' grim
+scribe rem chest;hold pen;get parch bee;scribe $* parch;rem pen;hold chest
+b c 'lightning bolt' $*
+lk order cent k $*;order follower assist cent;ass
+pk order bear k $*;order follower assist bear;ass
+r get gold corp;get belt corp;op belt;get all belt;des corp;put belt bag
+q get all all.teme;wear all;get all all.teme;wear amu cloak;wie dagg;hold broom;rem bee;wear tar

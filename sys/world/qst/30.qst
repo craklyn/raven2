@@ -1,0 +1,643 @@
+#3001
+newbiequest #1: Kill a Midgaard child~
+Hello, $n!  I have a small task for you, if
+you're game.  I want you to find one of the
+children wandering town, and fight it to the
+death!  If you win, bring the proof of your
+kill back here and give it to me, and I shall
+reward you.
+~
+Find a little boy or a little girl and kill them, then return the
+proof of the kill to the Questmaster.
+~
+1 15 25165824 7 10 5
+G 3098
+O MOB 3057
+O MOB 3056
+R GOLD 25000
+$N gives you 25000 coins!
+$N tells you, 'Good work!  You can kill all the people'
+$N tells you, 'in midgaard to gain experience.  When you'
+$N tells you, 'gain enough experience, you will rise a'
+$N tells you, 'level.'
+~
+#3002
+newbiequest #2: Find a scroll of knowing~
+Hello!  I have an object here that I wish to
+learn about.  Could you please go and find me
+an ancient scroll of knowing?  I will pay you
+for your trouble!
+~
+Find an ancient scroll of knowing and return it to the Questmaster.  You
+can find them on many of the creatures in town, or you can buy them from
+the Magic Shop.  There is also one that appears in the Donation Room from
+time to time.
+~
+1 15 8388608 10 10 5
+G 3098
+O OBJ 3050
+R GOLD 30000
+$N gives you 30000 coins!
+$N tells you, 'Thankyou!  This will help me learn about'
+$N tells you, 'my object.  You can use these scrolls to'
+$N tells you, 'get information about objects yourself,'
+$N tells you, 'by reciting them on something.  See the'
+$N tells you, 'help for it with "help recite".'
+~
+#3003
+newbiequest #3: Kill a pigeon~
+I have a small problem I'd like your assistance
+with.  The pigeons on the Chessboard have been
+flying into town and cooing outside my window.
+The noise is driving me crazy!  Please go to
+the Chessboard and kill one, maybe that will
+stop them coming.
+~
+~
+3 9 8388608 12 10 5
+G 3098
+O MOB 1698
+R SPELL 1
+$N tells you, 'Ahh, excellent!  That'll teach the blighters!'
+$N tells you, 'As a reward, I will cast the &11armor&00'
+$N tells you, 'spell on you to help you in combat.'
+$N utters some strange words and waves $S hand.
+~
+#3004
+newbiequest #4: Drunken worker~
+Welcome back.  I have another task for you,
+if you're up to it.  On the west side of
+Common Street lies the Ian & Ian Brewery.
+In there, you will find a number of enemies
+to fight.  Go there and kill a drunken
+worker, and I will give you some gold
+to help you on your journeys.
+~
+Go to the Ian & Ian brewery and kill a drunken worker, and return the
+proof of the kill to the Questmaster before your time runs out.
+~
+3 15 25165824 9 10 5
+G 3098
+P 3001
+O MOB 11101
+O MOB 11107
+R GOLD 20000
+$N tells you, 'Excellent work.  The Brewery is a great place'
+$N tells you, 'to earn experience.'
+$N gives you 20000 coins!
+~
+#3005
+newbiequest #5: Get a tin cup~
+Hello!  Could you do a job for me?
+The bar staff here will give me a
+refill of my whiskey, but I've lost
+my cup!  Go into Midgaard and find
+a tin cup that I can use, and I will
+reward you well.
+~
+Find a tin cup in Midgaard and return it to the Questmaster for
+the reward.
+~
+3 15 8388608 9 10 5
+G 3098
+O OBJ 31240
+R GOLD 45000
+$N thanks you deeply, and gives you 45000 coins.
+$N says, 'Oh, bartender, fill me up!'
+~
+#3006
+newbiequest #6: A magic candle~
+You look like a decent sort.  I'll
+let you in on a secret: there's a
+magic candle to be found in the
+Ian & Ian Brewery.  Bring it back
+to me, and I will extract the
+essence of magic from it to give you
+an even better light!
+~
+Find a magic candle and take it to the Questmaster.
+~
+3 15 8388608 12 10 5
+G 3098
+O OBJ 11102
+R OBJ 3063
+$N concentrates briefly, then waves $S hand.
+The light of the candle drifts out and towards you!
+~
+#3007
+newbiequest #7: kill a pawn~
+On the Chessboard are two opposing teams,
+the Black team and the White team.  One
+represents evil, and the other good.  Go
+kill a pawn from one of the teams, and
+return the proof to me.
+~
+Kill a pawn of either the white team or the black team and return the
+proof to the Questmaster.
+~
+4 60 25165824 10 10 5
+G 3098
+O MOB 1608
+O MOB 1638
+R GOLD 26000
+$N tells you, 'Here at RavenMUD you can be'
+$N tells you, 'one of three alignments:'
+$N tells you, '&08Evil&00, &14Neutral&00, and &11Good&00.'
+$N tells you, 'Killing white pawns will make'
+$N tells you, 'you more evil, and killing'
+$N tells you, 'black pawns will make you'
+$N tells you, 'more good.  Read the help for'
+$N tells you, 'align for more details.'
+$N gives you 26000 coins.
+~
+#3008
+newbiequest #8: drunken supervisor~
+You've killed a drunken worker, so now I 
+want you to take on a drunken supervisor.  
+They're worth more experience, but are a 
+little harder to kill.  Bring the proof 
+of your kill back to me for a reward.
+~
+Kill a drunken supervisor in the Ian & Ian Brewery and return the
+proof to the Questmaster.
+~
+5 15 8388608 8 10 5
+G 3098
+P 3004
+O MOB 11102
+R GOLD 33000
+$N tells you, 'Good job.  As you gain levels, you'
+$N tells you, 'will want to find bigger and better'
+$N tells you, 'things to kill.'
+$N gives you 33000 coins.
+~
+#3009
+newbiequest #9: Kill a worker ant~
+There is a nest of giant ants outside the
+west gate of town.  They are a terrible
+nuisance to the farm near them, so if you
+kill a worker ant and return its severed
+head to me I will reward you for it!
+~
+Find and kill a worker ant in the Ant Hill west of Midgaard.
+~
+5 15 8388608 9 10 5
+G 3098
+P 3004
+O MOB 10901
+R GOLD 40000
+$N says, 'Ahh, excellent.'
+$N gives you 40000 coins.
+~
+#3010
+newbiequest #10: kill a Street Cleaner~
+I have a new job for you.  In Northern
+Midgaard there are a number of Street
+Cleaners.  They haven't been doing their
+job lately, so I want you to kill one and
+return me the proof of the kill.
+~
+Kill a Street Cleaner in Northern Midgaard.
+~
+5 15 8388608 8 10 5
+G 3098
+P 3005
+O MOB 3312
+R GOLD 45000
+$N says, 'Aha!  That will keep them in line.'
+$N says, 'Often these cleaners are carrying a'
+$N says, 'a large bag.  You can put things'
+$N says, 'the bag to free more space for'
+$N says, 'picking items up.'
+$N gives you 45000 coins.
+~
+#3011
+newbiequest #11: kill the firedrake~
+Your task today is to kill the Firedrake.
+This beast lives in the sewers south of
+the Common Square.  Find and kill it and
+I will reward you.
+~
+Find and kill the Firedrake in the Sewers beneath Midgaard.
+~
+7 15 8388608 15 10 5
+G 3098
+P 3008
+O MOB 19209
+R GOLD 50000
+$N says, 'Good work!  Here's your reward.'
+$N gives you 50000 coins.
+$N says, 'By now you probably have a lot of gold.'
+$N says, 'Find a bank and deposit it to keep it safe.'
+~
+#3012
+newbiequest #12: flour+water=bread~
+I have a magic trick I want to show you.
+Fetch me a sack of flour and a bottle of
+water and I will produce magic loaves of
+bread!
+~
+Search the Chessboard for a sack of flour, and buy a bottle of water,
+then return both items to the Questmaster.
+~
+6 60 8388608 20 10 5
+G 3098
+P 3007
+O OBJ 3006
+O OBJ 1610
+R OBJ 3064
+$N says some strange words over the flour and water.
+A bright &14flash&00 obscures your vision for a moment!
+$N gives you four loaves of bread.
+$N says, 'These loaves are magical!  They will'
+$N says, 'heal you when you eat them.'
+~
+R OBJ 3064
+~
+R OBJ 3064
+~
+R OBJ 3064
+~
+#3013
+newbiequest #13: find a toy boomerang~
+There is a native gnome village nearby.
+Please find a gnome child and return me
+his toy boomerang so I can study it.
+~
+Find and return a toy boomerang to the Questmaster.
+~
+9 15 8388608 10 10 5
+G 3098
+P 3009
+O OBJ 2202
+R GOLD 60000
+$N says, 'Thankyou.  We will learn a great'
+$N says, 'deal about gnome culture from this!'
+$N gives you 60000 coins.
+~
+#3014
+newbiequest #13: kill the queen ant~
+Kill the Queen in the Ant Hill and return
+the proof for a reward.
+~
+Kill the Queen ant in the Ant Hill west of Midgaard.
+~
+9 15 0 10 15 5
+G 3098
+P 3011
+O MOB 10904
+R SPELL 28
+$N says, 'Good work!  Allow me to offer you a'
+$N says, 'protective spell for your further'
+$N says, 'adventures.'
+~
+R SPELL 111
+~
+#3030
+Positioner Getter Helper etc~
+So you want to be the Master of Midgaard?  You must prove to me that you know
+all that there is to know about Midgaard if you want that title.  I will give
+you a series of challenges.  If you pass them all, you will be deemed a
+Master of Midgaard.  The first challenge put before you is this:  Bring me
+the head of one each of the helper mobs that are scattered about that are
+meant to explain what to do to new citizens of Ravenmud.  I am referring to 
+the Helper, Reader, Socialite and other such mobs.  Do this and be rewarded! 
+~
+I am referring to the Helper, Reader, Socialite and other such mobs.  Do this
+and be rewarded!
+~
+35 50 8388608 20 30 15
+G 3097
+O MOB 1624
+O MOB 1623
+O MOB 1622
+O MOB 1615
+O MOB 1612
+O MOB 1614
+O MOB 1613
+O MOB 1611
+O MOB 1610
+R QP 2
+Head, shoulders, knees and toes.  Good job.  Take these 2 QPs!
+A helper, a reader, a score keeper, a saver, a getter, a combat teacher, a positioner, a feeder and a socialite?  You know it all!
+~
+#3031
+Peaceful Pond - crawdad, goldfish, tadpole frog & duck~
+Excellent, you have come back for more!  Your next assignment is to leave
+Midgaard off the south edge of town and enter the Peaceful Pond.  There you will
+find swarms of little animals.
+Kill the little green frogs!
+Crush the crawdads!
+Smash the goldfish.
+Destroy the little yellow ducks!
+Tap out the tadpoles...
+And bring me the remains!
+~
+Head south out of Midgaard and wade into the peaceful pond.  Collect the heads of the crawdads and company!
+~
+30 50 8388608 25 30 20
+G 3097
+P 3030
+O MOB 27284
+O MOB 27284
+O MOB 27283
+O MOB 27283
+O MOB 27282
+O MOB 27282
+O MOB 27281
+O MOB 27281
+O MOB 27280
+O MOB 27280
+R QP 1
+Good job!  Two of each was just what it took.
+Take this quest point.
+~
+#3032
+Greize & Terwin and Madam Ravenclaw~
+You still think you can claim the title of Master of Midgaard?  If so then show
+me that you know Northern Midgaard.  Find Greize and bring me his head.  He
+resides near the black maple tree.  Once you complete that task, turn right at
+the white marble shield and stop Terwin.  Finally, on your way back to me with
+these two trophies find Madam Ravenclaw and he crumpled note that is in her
+pinebox.  Bring me these 4 tropies and you will be rewarded.
+~
+Greize's head & Terwin and Ravenclaw and her posessions are needed by me.
+~
+30 50 8388608 25 35 20
+G 3097
+P 3030
+O OBJ 3316
+O MOB 3318
+O MOB 3315
+O MOB 3320
+R QP 2
+   Excellent.  You have passed another test.  Return to me in a bit and I'll
+have another challenge for you.  For now, these 2 quest points should hold you
+over.
+~
+#3034
+Many mobs in Krynn~
+You must know more than just Midgaard to be the master.  Head north into the
+Knights of Krynn.  Head down down down into the camp and find Skyla, Sowkow,
+Halbleib and Graeme.  Bring me their heads.  Just to prove you are a master,
+also bring me the heads of Bonin, Vrignaud & Aeghwaet.
+~
+Head down down down into the camp and find Skyla, Sowkow, Halbleib and Graeme.
+Bring me their heads.  Just to prove you are a master, also bring me the heads of
+Bonin, Vrignaud & Aeghwaet.
+~
+30 50 8388608 30 40 20
+G 3097
+P 3032
+O MOB 18307
+O MOB 18306
+O MOB 18305
+O MOB 18313
+O MOB 18312
+O MOB 18311
+O MOB 18310
+R QP 2
+Excellent job.  Though the marks were easy to defeat.  Here are &14two quest points&00
+for your effort.
+~
+#3035
+Enter the maze of Krynn, kill hulk, guard, xorn & troll~
+Well done.  This next task is more difficult.  Enter the maze deep under Krynn
+and bring me the heads of a Umber Hulk, a doom guard, a Xorn and a huge troll.
+Do not get lost before time runs out!
+~
+Enter the maze deep under Krynn and bring me the heads of a Umber Hulk, a doom
+guard, a Xorn and a huge troll.
+~
+30 50 8388608 20 30 15
+G 3097
+P 3034
+O MOB 18315
+O MOB 18321
+O MOB 18323
+O MOB 18314
+R QP 2
+Well done!
+  Take these 2 quest points.  Did you get lost?
+~
+#3036
+black rose tattoo from behind a secret door in Krynn~
+Do you know all that there is to know from the Undergrund Passage maze by the
+Umber Hulks?  Is that so?  Prove it by fetching me a black rose tattoo from the
+corpse of a dying man.  It is hidden behind a scret.
+~
+Bring me a black rose tattoo from the Underground Passage in Krynn
+~
+30 50 8388608 45 50 15
+G 3097
+P 3035
+O OBJ 18373
+R QP 2
+That was well done!
+Take these 2 quest points as a reward.
+~
+#3037
+Orchard - pixie & spriggan~
+To be the master of Midgaard you must know it's surrounding lands.  Head to the
+Orchard and kill a &11pixie&00 and a &03spriggan&00 and bring me their heads as proof.
+~
+In the Orchard,  kill a &11pixie&00 and a &03spriggan&00.
+~
+30 50 8388608 20 30 15
+G 3097
+P 3030
+O MOB 17406
+O MOB 17402
+R QP 1
+That was easy.  It was only worth 1 quest point.  Maybe the next one will be more
+rewarding?
+~
+#3038
+Faerie City - female, male, Luatha & items~
+So you know about the Orchard.  Do you know what lies beyond the orchard?  Pass
+through it and bring me the head of one adult male faerie and one adult female
+faerie as proof.  Also find the dancing faerie, Luatha, and make her stop
+dancing.  That town has many useful shops.  I've been meaning to get a pair of
+greaves of thisles and some golden threads.  Bring those to me also and I will
+reward you.
+~
+Bring heads from Luatha and adults from the Orchard and the greaves and threads from the shops.
+~
+30 50 8388608 30 30 20
+G 3097
+P 3037
+O OBJ 17412
+O OBJ 17409
+O MOB 17469
+O MOB 17414
+O MOB 17413
+R GOLD 250000
+~
+R QP 2
+Good job.  I hope you identified this equipment.  It's valuable to the young who
+inhabit Midgaard.  Take this gold and thse quest points as your reward.
+~
+#3039
+Gnome village mobs~
+Just outside the west gate there lies a gnome village.  Go there and find the
+chief gnome and the gnome scientist.  Cruelly slay them.  Venture past their
+village to the hobgoblin caves and slay their treasurer and the king of the
+hobgoblins.  Do these things and return to me with tribute and you'll be
+rewarded.
+~
+Go to gnome village and slay the chief and scientist. Venture further into the hobgoblin caves and slay the king and treasurer.
+~
+30 50 8388608 20 30 15
+G 3097
+P 3030
+O MOB 2205
+O MOB 2221
+O MOB 2219
+O MOB 2203
+R QP 1
+~
+R GOLD 200000
+~
+R EXP 200000
+Excellent.  The gnome village is a good place to suggest to new players to
+venture.
+~
+#3040
+Farm - Kill farmer and family.~
+Just outside of town there is a farm.  It is ran by the large farmer.  He works
+the farm with his wife and son and child and dog.  He is behind on his debts.  
+Collect this debt in the form of his head!  Also take the heads of his whole
+family.  His wife, son, daughter, other children and even his dog must pay!
+~
+Kill the farmer and his whole family.
+~
+30 50 8388608 20 40 15
+G 3097
+P 3039
+O MOB 17215
+O MOB 17205
+O MOB 17203
+O MOB 17202
+O MOB 17201
+O MOB 17200
+R QP 2
+Good work.  Come back in a bit and i'll have another task for you.  Take these
+two quest points for now.
+~
+#3041
+Crystal Palace Shavir, Kastir & Shield of Crystal~
+West of Midgaard is a fortress of righeousness.  Go forth to this crystal palace
+and topple two of the knights therein.  Bring me Shavir and Kastir's crystal
+dove.  It is a powerful magical tool.  Also bring me the Shield of Crystal that
+can be found in this Crystal Palace.
+~
+Overpower Shavir & Kastir and Return with crystal doves and a Shield of Crystal.
+~
+30 50 8388608 15 30 15
+G 3097
+P 3030
+O MOB 34111
+O MOB 34109
+O OBJ 34138
+O OBJ 34135
+O OBJ 34135
+R QP 2
+You have done well to survive the Crystal Palace.  Will you accept this reward of two quest points?
+~
+#3042
+Start Black Market - Aura & Inkeeper & trailrobber.~
+This next series of quests will take you beyond southern &06&19Midgaard&00.  If you still
+want to be the master of &06&19Midgaard&00 you must master all the lands around &06&19Midgaard&00
+Head west out of southern &06&19Midgaard&00 and enter the Black Market.  Track down Aura
+the Great mage and kill her.  She charmed my beloved away from me!  From there
+find the aged inkeeper.  I tried to rent a room there and he refused me!  
+Terminate him.  And finally, find the trailrobber that stands outside the gate
+and take his key.  Bring me the GateKey.
+~
+Go to the Black Market and find Aura, the GateKey and the aged inkeeper.
+~
+30 50 8388608 25 35 15
+G 3097
+P 3030
+O MOB 15417
+O MOB 15415
+O MOB 15408
+O OBJ 15414
+R QP 2
+Well done.  I hope you familiarized yourself with Aura's equipment.  Here are
+two quest points for your work.  If you return to me tomorrow I will have
+another quest for you in the Black Market.  Study the market between now and
+then!
+~
+#3043
+Black Market - Wren, Faligra & Pickpocket~
+Go back to the Black Market and find me a dagger.  I am looking for the First
+Dagger to go with the one from Aura.  Once you have this dagger use it to kill
+Faligra the Wizard.  In order to keep balance in the market, after you kill her
+remove Wren's head and bring me his Spirit Hammer.  Do these things and I will
+reward you.
+~
+Wren and Faligra must pay!  Bring me a spirit hammer and First Dagger.
+~
+30 50 8388608 25 35 15
+G 3097
+P 3042
+O MOB 15428
+O OBJ 15426
+O MOB 15451
+O MOB 15412
+R QP 2
+Well done.  I like the matching daggers.  You know the market well.  Take these
+2 quest points as a reward.  I will have to deliberate and determine if there is
+anything else you should know about the Black Market area.
+~
+#3044
+Black Market - L'orin, Third Dagger, Hye & Captain of the Rumrunner~
+Yes, come to think of it, there is something else you should know about the
+black market.  Prove to me that you are better than the Captain of the
+Rumrunner.  Find Hye the ranger and bring me his quiver of arrows.  Enough of
+you.  If you are to be rewarded again you must do something for me.  Bring me
+the Third Dagger and make sure no one comes looking for it!  And bring me the
+rugged sailor's sextant.  I hear those things are useful!
+~
+Third dagger, Captain of the Rum Runner, Hye and his quiver and a sextant.
+~
+30 50 8388608 25 35 15
+G 3097
+P 3043
+O MOB 15429
+O MOB 15411
+O MOB 15421
+O MOB 15405
+O OBJ 15429
+O OBJ 15464
+O OBJ 15433
+R QP 3
+Useless!  The sextant, I mean.  Thank you for the dagger, it is very nice.  
+Here is one quest point for that.  The quiver of arrows is useful to anyone who
+can shoot.  You deserve one quest point for bringing it to me.  And the Captain
+of the Rumrunner was a slosh.  His removal from this land is worth a quest point
+as well.  That should be three.  Enjoy.
+~
+#3045
+Ebony Queen and Silvery Lady captains - Kaleff & gravic~
+&00This mission is straight forward, if not difficult.  First go to the Silvery
+Lady and overthrow her captain, &06Captain Kaleff&00.  Second go to the Ebony Queen
+and overthrow her captain, &06Captain Gravic&00.  Bring me both of their heads and
+both of their rings.  This will prove for once and for all that you know the
+Black Market area well.
+~
+Slay Captain Gravic of the Ebony Queen and Captain Kaleff of the Silver Lady and return with their rings.
+~
+30 50 8388608 45 60 30
+G 3097
+P 3044
+O MOB 7901
+O MOB 8201
+O OBJ 7904
+O OBJ 8204
+R QP 4
+Well done master.  You have succeeded all hopes and aspirations.  You are a
+master of Midgaard.  Here, take these 4 quest points!
+~
+$~

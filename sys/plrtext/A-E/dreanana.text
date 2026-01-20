@@ -1,0 +1,38 @@
+gh wake;stand;d;n;n;n;n;n;n;n;n;n;w;w;od;e;e
+sense cast 'sense life'
+assist cast 'assistant' $*
+calm cast 'calm' $*
+title2 title ARENA: Karias slain by Dreanana.
+say say &00 &02~&00&05*&00&02~&00&07$*&00 &02~&00&05*&00&02~&00
+gt gt &00 &02~&00&05*&00&02~&00&06$*&00 &02~&00&05*&00&02~&00
+ooc ooc &00 &02~&00&05*&00&02~&00&09$*&00 &02~&00&05*&00&02~&00
+clan clan &00 &02~&00&05*&00&02~&00&01$*&00 &02~&00&05*&00&02~&00
+recall cast 'word of recall' $*
+9 cast 'word of recall' group
+rp cast 'remove poison' $*
+regen cast 'regenerate' $*
+0 des corpse
+bag put all bag;get thim bag
+ar cast 'armor' $*
+title1 title &05I'm Back!!&00
+fly cast 'fly' $*
+di cast 'detect invisibility' $*
+infra cast 'infravision'
+blind cast 'blindness' $*
+food cast 'create food'
+know junk knowing
+knowing get knowing bag
+elven rec elven
+mid rec mid
+sams rec sams
+heal cast 'heal' $*
+ward cast 'ward' $*
+summon cast 'summon' $*
+sanc cast 'sanctuary' $*
+title3 title When life gives you &10lemons&00.....Make &01apple&00 juice!!
+gate open gate
+title4 title brought to you by sand its everywhere get used to it
+bless cast 'bless' $*
+word cast 'word' $*
+sit rest
+way eat waybread

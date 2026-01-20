@@ -1,0 +1,556 @@
+#12400
+Freehold Cathedral~
+This area (12401-12433) was written by Dayan the Epee Artist.
+Modifications neccessary for it's intergration with Ravenmud were carried
+out by Vex.  Additional mods by Kaidon.
+~
+124 0 0 0 0 0
+S
+#12401
+Entrance Hall~
+  In sharp contrast to the world outside, everything in the cathedral is quiet
+and somber.  The entrance hall runs south.  The main hall of the cathedral is
+to the west, and a staircase leads up to the balcony here.
+~
+124 12 0 0 0 0
+D1
+~
+~
+0 -1 12243
+D2
+~
+~
+0 -1 12402
+D3
+~
+~
+0 -1 12409
+D4
+~
+~
+0 -1 12407
+S
+#12402
+Entrance Hall~
+  In sharp contrast to the world outside, everything in the cathedral is quiet
+and somber.  The entrance hall runs north.  The main hall of the cathedral is
+to the west, and a staircase leads up to the balcony here.
+~
+124 12 0 0 0 0
+D0
+~
+~
+0 -1 12401
+D3
+~
+~
+0 -1 12410
+D4
+~
+~
+0 -1 12403
+S
+#12403
+Marble Staircase~
+  You stand in a marble staircase thats continues to rise above you.  To the
+west, you can see the balcony seating used by the nobility when worshipping.
+~
+124 12 0 0 0 0
+D3
+~
+~
+0 -1 12411
+D4
+~
+~
+0 -1 12404
+D5
+~
+~
+0 -1 12402
+S
+#12404
+Hall~
+  You stand in a hall that leads west to private rooms of the High Church
+Officials.
+~
+124 12 0 0 0 0
+D3
+~
+~
+0 -1 12413
+D5
+~
+~
+0 -1 12403
+S
+#12405
+Belltower~
+  You stand amidst hundreds of bells in this tower.
+~
+124 12 0 0 0 0
+D5
+~
+~
+0 -1 12406
+S
+#12406
+tower~
+  You stand on the stairs leading up to one of the highest towers in the Keep.
+~
+124 12 0 0 0 0
+D4
+~
+~
+0 -1 12405
+D5
+~
+~
+0 -1 12407
+S
+#12407
+Marble Staircase~
+  You stand in a marble staircase thats continues to rise above you.  To the
+west, you can see the balcony seating used by the nobility when worshipping.
+~
+124 12 0 0 0 0
+D3
+~
+~
+0 -1 12408
+D4
+~
+~
+0 -1 12406
+D5
+~
+~
+0 -1 12401
+S
+#12408
+On the Balcony~
+  You stand on the balcony reserved for use by the nobility and other
+influential persons of Freehold.  The stairs lie to the east.
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 -1 12407
+D3
+~
+~
+0 -1 12415
+S
+#12409
+In the Cathedral~
+  You stand amidst aisles of pews listening to a distant choir chant hymns.
+The cathedral entrance lies to the east.
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 -1 12401
+D2
+~
+~
+0 -1 12410
+D3
+~
+~
+0 -1 12416
+S
+#12410
+In the Cathedral~
+  You stand amidst aisles of pews listening to a distant choir chant hymns.
+The cathedral entrance lies to the east.
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 -1 12409
+D1
+~
+~
+0 -1 12402
+D3
+~
+~
+0 -1 12417
+S
+#12411
+On the Balcony~
+  You stand on the balcony reserved for use by the nobility and other
+influential persons of Freehold.  The stairs lie to the east.
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 -1 12403
+D3
+~
+~
+0 -1 12418
+S
+#12412
+Dayan's Room~
+  You stand in the Bedroom of the First Patriach of the Church.  It does not
+seem that anyone has been here in a long time.
+~
+124 12 0 0 0 0
+D2
+~
+door~
+1 -1 12413
+S
+#12413
+Hall~
+You stand in a nonedescript hall.  To the East, you can see the stairs.  To
+the west, you can see the bedrooms.
+~
+124 12 0 0 0 0
+D0
+~
+door~
+1 -1 12412
+D1
+~
+~
+0 -1 12404
+D3
+~
+~
+0 -1 12421
+S
+#12414
+On the Balcony~
+  You stand on the balcony reserved for use by the nobility and other
+influential persons of Freehold.
+~
+124 8 0 0 0 0
+D2
+~
+~
+0 -1 12415
+D3
+~
+~
+0 -1 12423
+S
+#12415
+On the Balcony~
+  You stand on the balcony reserved for use by the nobility and other
+influential persons of Freehold.
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 -1 12414
+D1
+~
+~
+0 -1 12408
+S
+#12416
+In the Cathedral~
+  You stand amidst aisles of pews listening to a distant choir chant hymns.
+More pews lie to the east and west.
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 -1 12409
+D2
+~
+~
+0 -1 12417
+D3
+~
+~
+0 -1 12425
+S
+#12417
+In the Cathedral~
+  You stand amidst aisles of pews listening to a distant choir chant hymns.
+More pews lie to the east and west.
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 -1 12416
+D1
+~
+~
+0 -1 12410
+D3
+~
+~
+0 -1 12426
+S
+#12418
+On the Balcony~
+  You stand on the balcony reserved for use by the nobility and other
+influential persons of Freehold.
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 -1 12411
+D2
+~
+~
+0 -1 12419
+S
+#12419
+On the Balcony~
+  You stand on the balcony reserved for use by the nobility and other
+influential persons of Freehold.
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 -1 12418
+D3
+~
+~
+0 -1 12428
+S
+#12420
+Annanais' Office~
+  You stand in the Office of the Primate Annanais.  A parchment lies open on
+the desk.
+~
+124 12 0 0 0 0
+D2
+~
+door~
+1 -1 12421
+D3
+~
+door~
+1 -1 12429
+E
+parchment~
+  To Lord Skul, OverLord of the Irredenta
+
+        The Michaeline Knights will be troublesome to our plans my liege.
+     my attempts to waylay there counter-attack have failed.  Duke Arilan is
+     also marshalling his forces even as we speak.
+
+                                  Annanais, primate of Freehold
+~
+S
+#12421
+Hall~
+  You stand in a non-descript hall.  Two doors branch off to the north and to
+the south here.
+~
+124 12 0 0 0 0
+D0
+~
+door~
+1 -1 12420
+D1
+~
+~
+0 -1 12413
+D2
+~
+door~
+1 -1 12422
+D3
+~
+~
+0 -1 12430
+S
+#12422
+Bedroom~
+  You stand in the lavish bedroom of a high Church Official.  From the
+furnishings in here, it is obvious that this guy never took a vow of poverty.
+~
+124 12 0 0 0 0
+D0
+~
+door~
+1 -1 12421
+S
+#12423
+Private seating~
+  You stand before the seats reserved for the Duke and his personal family.
+As you look down, you have a superb view of the entire Cathedral.
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 -1 12414
+S
+#12424
+Choir Seating~
+  The choir is here singing hymns written 1000 years before they were born.
+~
+124 12 0 0 0 0
+D2
+~
+~
+0 -1 12425
+S
+#12425
+In the Cathedral~
+  You stand amidst aisles of pews listening to a distant choir chant hymns.
+The altar lies to the west, and an alcove in which some of the choir stands is
+to the north.
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 -1 12424
+D1
+~
+~
+0 -1 12416
+D2
+~
+~
+0 -1 12426
+D3
+~
+~
+0 -1 12431
+S
+#12426
+In the Cathedral~
+  You stand amidst aisles of pews listening to a distant choir chant hymns.
+The altar lies to the west, and an alcove in which some of the choir stands is
+to the south.
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 -1 12425
+D1
+~
+~
+0 -1 12417
+D2
+~
+~
+0 -1 12427
+D3
+~
+~
+0 -1 12432
+S
+#12427
+Choir Seating~
+  The choir is here singing hymns written 1000 years before they were born.
+~
+124 12 0 0 0 0
+D0
+~
+~
+0 -1 12426
+S
+#12428
+Private seating~
+  You stand before the seats reserved for visiting Church officials.  As you
+look down, you have a superb view of the entire Cathedral.
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 -1 12419
+S
+#12429
+Annanais' private bedroom~
+  The exesses you saw before in no way matches the opulence of this room.
+Priceless artwork and tapestries line the walls, and the bed is of solid gold.
+~
+124 12 0 0 0 0
+D1
+~
+door~
+1 -1 12420
+S
+#12430
+End of the Hall~
+  You stand at the end of the Hall.  One last doorway lies to the south.
+~
+124 12 0 0 0 0
+D1
+~
+~
+0 -1 12421
+D2
+~
+door~
+1 -1 12433
+S
+#12431
+Altar~
+  You stand in front of a giant altar and an elevated pulpit.
+~
+124 12 0 0 0 0
+D1
+~
+~
+0 -1 12425
+D2
+~
+~
+0 -1 12432
+S
+#12432
+by the Altar~
+  You stand before the main altar here.  Supplicants come to seek the Bishop's
+blessing here.
+~
+124 12 0 0 0 0
+D0
+~
+~
+0 -1 12431
+D1
+~
+~
+0 -1 12426
+S
+#12433
+Cullen's Room~
+  This is the room of the Bishop Cullen.  It is much more modest than the
+previous bedroom, almost spartan.  There is a simple wooden bed, and a desk.
+On the desk lies a lone paper.
+~
+124 12 0 0 0 0
+D0
+~
+door~
+1 -1 12430
+E
+desk~
+A paper lies upon the desk
+~
+E
+paper~
+  Allister,
+
+      I have reason to believe that Annanais is secretly plotting with Lord
+Skul to overthrow Duke Arilan.  It is imperitive that the Knights be
+mobilized even if it is in direct opposition to Annanais's wishes.
+
+                            Cullen, Bishop of the Irredenta
+~
+S
+#99999
+$~

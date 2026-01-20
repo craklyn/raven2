@@ -1,0 +1,27 @@
+op c 'heal' ifal
+way c 'create food'
+heal c 'heal' reid
+food c 'create food'
+ui c 'heal' ben
+y c 'heal' ben
+fly c 'fly' $1
+ooc ooc &09$* &00
+gt gt &09$* &00
+say say &09$* &00
+det c 'detect i' $1
+regen c 'regen' $1
+rest stop;sleep
+wake wak;sta
+cb c 'cure blind'
+recall cast 'word'
+sanc c 'sanc' $1
+armor c 'armor' $1
+bli c 'blin' $1
+grec c 'word' gr
+ward c 'ward' $1
+bless c 'bless' $1
+sum c 'summon' $1
+ht c 'heal' reid
+genesis title &07believes in partheno&00:&04G&00:&07enesis&00
+jk c 'heal' akari
+title titl &01Forever Forsaken&00 &07to carry 10 times his body weight!&00

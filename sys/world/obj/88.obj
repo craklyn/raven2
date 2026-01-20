@@ -1,0 +1,485 @@
+#8800
+fountain small~
+a fountain~
+A small fountain rests here, pouring forth a clear liquid.~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 0 0
+1000 0 0
+E
+liquid clear~
+   Hmm looks like water, and very tasty water at that.
+~
+E
+fountain small~
+   It looks very old and worn.  You're suprised that it's still running.
+~
+B
+0 0 0 0
+#8801
+cross platinum~
+a platinum cross~
+A small cross made of platinum is laying on the ground.~
+~
+8 2100480 2560 0 0 16385 0 0 0
+0 0 0 0
+3 5000 220
+E
+cross platinum~
+   Made out of the purest platinum this cross causes a peace to enter
+your soul as you gaze upon it.
+~
+A
+4 2
+A
+6 2
+A
+12 10
+B
+0 0 0 0
+#8802
+key small~
+a small key~
+A small key rests on the ground.~
+~
+18 65548 0 0 0 1 0 0 0
+2 0 0 0
+1 0 0
+E
+key small~
+   It's a small metal key.
+~
+B
+0 0 0 0
+#8803
+key silver~
+a silver key~
+A small silver key rests on the ground.~
+~
+18 65548 4096 0 0 1 0 0 0
+2 0 0 0
+1 0 0
+E
+key silver~
+   It's a small key made of pure silver.
+~
+B
+0 0 0 0
+#8804
+chest wooden~
+a wooden chest~
+A small wooden chest rests in a corner of the church.~
+~
+15 0 0 0 0 0 0 0 0
+500 15 8803 0
+30 0 500
+E
+chest wooden~
+   Despite that the chest is made of wood it is very sturdy and resists
+all of your attempts to open it.
+~
+B
+0 0 0 0
+#8805
+case display~
+a display case~
+A display case rests in the center of the room.~
+~
+15 0 0 0 0 0 0 0 0
+250 5 -1 0
+100 0 250
+E
+case display~
+   You rub away at the dirt covering it, but despite all of your attempts
+you can't get the glass clean enough to see what's inside.
+~
+B
+0 0 0 0
+#8806
+rations~
+some rations~
+Some rations lay on the ground here.~
+~
+19 0 0 0 0 1 0 0 0
+20 0 0 0
+2 15 60
+E
+rations~
+   They look quite nutritional.  You think that given enough of these
+they could feed a small family for several years.
+~
+B
+0 0 0 0
+#8807
+water root hogweed~
+a hogweed root~
+A root lays, slightly covered in dirt, on the ground.~
+~
+17 0 0 0 0 1 0 0 0
+60 43 0 0
+8 200 600
+E
+root hogweed~
+   It feels quite moist to your touch.
+~
+B
+0 0 0 0
+#8808
+lunch picnic~
+a picnic lunch~
+A picnic lunch lays on the ground.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+5 10 36
+E
+lunch picnic~
+   Delicious smells waft up to your nose as you look inside the small
+basket it rests in.
+~
+B
+0 0 0 0
+#8809
+gloves weeding~
+a pair of weeding gloves~
+A pair of tough leather gloves lays in the dirt.~
+~
+9 2621440 0 0 0 129 0 0 0
+8 0 0 0
+1 200 100
+E
+gloves weeding~
+   Tough leather forms these nimble looking gloves.
+~
+A
+2 1
+B
+0 0 0 0
+#8810
+hoe gardening~
+a gardening hoe~
+A gardening hoe rests againt a wall.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 5 3
+6 100 80
+E
+hoe gardening~
+   This gardening tool has a wickedly sharp end on it.
+~
+A
+5 1
+B
+0 0 0 0
+#8811
+doll small~
+a doll~
+A small doll looks up at you with black bead eyes.~
+~
+12 64 0 0 0 16385 0 0 0
+0 0 0 0
+1 10 330
+E
+doll small~
+   Obviously once belonging to a little girl.  This little doll is
+falling apart.  Stuffing is falling out of ripped seams and it's black
+bead eyes are almost ready to fall off.
+~
+A
+6 1
+A
+9 -12
+B
+0 0 0 0
+#8812
+horseshoe rusty~
+a rusty horseshoe~
+An old horseshoe lies here in a small pile of rust.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+3 126 40
+E
+horseshoe rusty~
+   Rusted steel flakes off in your hand as you look over this old horseshoe.  
+You've heard tales that horseshoes are supposed to bring good luck.    
+~
+A
+18 1
+B
+0 0 0 0
+#8813
+ringmail suit rusty~
+a rusty suit of ringmail~
+An old suit of ringmail lays in a pile of rust.~
+~
+9 2621440 0 0 0 9 0 0 0
+8 0 0 0
+23 386 100
+E
+ringmail suit rusty~
+   Rust covers this ancient armor.  Tarnishing it's hidden beauty.
+~
+A
+2 -1
+B
+0 0 0 0
+#8814
+nail rusty~
+a rusty nail~
+An old nail lays in a pile of rust.~
+~
+10 64 0 0 0 16385 0 0 0
+30 1 54 0
+1 2000 200
+E
+nail rusty~
+   It's so old and brittle that it bends and nearly breaks at your touch.
+~
+B
+0 0 0 0
+#8815
+leaf bloody~
+a bloody leaf~
+A leaf covered in blood lays here.~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 1 0
+E
+leaf bloody~
+   This leaf is covered in dried blood.
+~
+B
+0 0 0 0
+#8816
+vine hogweed~
+a hogweed vine~
+A vine grows out of the dirt here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 8 3 3
+4 679 345
+E
+vine hogweed~
+   This small vine was once part of a much bigger plant.  It's covered
+in spots with dried blood.
+~
+A
+19 1
+B
+0 0 0 0
+#8817
+vine jagged hogweed~
+a jagged hogweed vine~
+A very dangerous looking vine grows out of the dirt here.~
+~
+5 17920 0 0 0 8193 0 0 0
+0 3 11 10
+4 20000 675
+E
+vine jagged hogweed~
+   This vine has wickedly sharp leafs on it.  It looks capable of tearing
+flesh with great ease.
+~
+A
+19 1
+A
+18 1
+A
+2 2
+B
+0 0 0 0
+#8818
+spirit guardian~
+a guardian spirit~
+A ghostly apparition floats before you.~
+~
+9 69731648 576 0 0 9 0 0 0
+14 0 0 0
+10 750000 430
+E
+guardian spirit~
+   A spirit encircles this object and protects those pure of heart.  The spirit
+once had a human form and was renowned as a mighty knight.  His life came to an
+end when Lord Soth decapitated him in battle.  However, his spirit lives on....
+  
+~
+E
+insert_fail_room~
+You hear the clang of two metals being rubbed together.
+~
+E
+insert_fail_char~
+You fiddle around with the Guardian Spirit. To bad you have no idea what you're doing.
+~
+E
+insert_to_room~
+A blue glow suddenly attracts your attention, but disappears before you can distinguish where it came from.
+~
+E
+insert_to_char~
+The Guardian Spirit and the Plate of Solamnus merge together, giving off a holy blue light.
+~
+E
+insert_item~
+8107
+~
+E
+new_item~
+8825
+~
+A
+12 20
+A
+2 1
+B
+0 0 0 0
+#8819
+beads wooden string~
+a string of wooden beads~
+A set of beads lay in the dirt.~
+~
+9 2622528 0 0 0 33 0 0 0
+10 0 0 0
+3 50000 220
+E
+beads wooden string~
+   All of these beads are held together by a string.  They look like
+they are meant to be tucked into a belt and left dangling on your legs.
+~
+A
+12 15
+A
+2 1
+B
+0 0 0 0
+#8820
+seed hogweed~
+a hogweed seed~
+A small seed lays embedded in the dirt.~
+~
+19 0 0 0 0 16385 0 0 0
+24 0 0 -1
+1 570 72
+E
+seed hogweed~
+   It's a rather small seed, especially considering what it grows.  It
+does look edible though.
+~
+B
+0 0 0 0
+#8821
+crutch pot~
+a strange looking potion~
+A strange looking potion lies here.~
+~
+10 50397509 0 0 0 1 0 0 0
+50 154 36 77
+1 55555 5555
+B
+0 0 0 0
+#8822
+tangled armor thorns ~
+a tangled mass of thorns~
+A tangled mass of deadly looking thorns rests here. ~
+~
+11 8255433 32 0 0 9 0 0 0
+0 0 0 0
+19 900000 4620
+E
+tangled armor thorns~
+   The god known as Xiuhtecuhtli once took a favorable attitude towards a
+powerful but simple minded hogweed.  Xiuhtecuhtli touched of the plants
+appendages, a mass of razor sharp thorns sprouted from its body.  This mass of
+tangled squirming thorns served as a special type of armor.  Only a force that
+is harmonized between good and evil and able to control the instinctual habits
+of a violent animal would ever dare wear this mass of deadly thorns.    
+~
+A
+19 4
+A
+1 4
+A
+18 -5
+A
+12 40
+A
+13 -55
+B
+0 0 0 0
+#8823
+blacksmith lantern~
+the blacksmith's lantern~
+An old lantern rests on the ground.~
+~
+1 0 2048 0 0 16385 0 0 0
+0 0 -1 0
+1 150 1090
+E
+blacksmith lantern~
+   The town blacksmith took this lantern from his shop before he went in search
+of the hogweeds.    
+~
+A
+1 1
+A
+19 1
+B
+0 0 0 0
+#8824
+black forge hammer~
+a black iron hammer~
+A forging hammer rests here in the dirt.~
+~
+5 5132288 32801 0 0 8193 0 0 0
+0 9 2 7
+16 600 320
+E
+forge iron hammer~
+   This is a large hammer with a good grip and a heavy end of black iron.  It
+was most likely used to forge other metal.    
+~
+A
+19 2
+A
+17 -5
+B
+0 0 0 0
+#8825
+spirit plate solamnus~
+the Spirit Plate of Solamnus~
+Some plate armor has been left here, it wavers between reality and the spirit world.~
+~
+9 7331136 544 0 0 9 0 0 0
+15 0 0 0
+1 600000 720
+E
+spirit plate solamnus~
+   This armor is the unity of soul and steel.  The union of the two have forged
+an object that is unmatched in its perfection and more importantly in its
+protection.    
+~
+A
+19 2
+A
+1 3
+A
+2 2
+A
+12 20
+A
+17 -5
+B
+0 0 0 0
+#8899
+locker rift shadow~
+&07A Rift in the Shadows&00.~
+&07A Rift in the Shadows&00.~
+~
+15 0 0 0 0 0 0 0 0
+1000 21 -1 0
+0 0 1000
+B
+0 0 0 0
+$~

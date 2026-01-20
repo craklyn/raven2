@@ -1,0 +1,10 @@
+gc get all from corpse
+mm cast 'magic missile' %1
+fast remove thorn;wear bakka;reci pig bag;remove bakka;wear thorn
+ice cast 'ice storm'
+say say &04-&05*&04-&06 $* &04-&05*&04-&00
+9 reci sam
+m toss revive
+y scan
+c ass
+g n;n;open door e;s;s

@@ -1,0 +1,293 @@
+#12205
+Overpower guards of Freeport~
+The City of Freehold is guarded on all fronts by an array of guards.  If you
+are to become the master of Freehold, you must master one of each of these
+guard.  Defeat in battle a caravan guard, a ducal guard, a gate guard and
+a red church guard and bring me proof!
+~
+Slay one of each guard around Freehold!
+~
+30 50 8388608 10 30 15
+G 12298
+O MOB 12219
+O MOB 12222
+O MOB 12220
+O MOB 12217
+R QP 2
+You have done well to overcome the guard.  Take these two quest points as a
+reward!
+~
+#12206
+Slay 4 urchin and 4 thief around Freehold~
+   &09Urchins and thieves infest the city proper.  The Duke wants them removed.  
+They disgust him.  Do this and be rewarded.
+~
+&09Freehold is infested with urchins and thiefs.  They hide in the city.  Remove
+the infestation.  &00
+~
+30 50 8388608 25 30 20
+G 12298
+O MOB 12225
+O MOB 12225
+O MOB 12225
+O MOB 12225
+O MOB 12216
+O MOB 12216
+O MOB 12216
+O MOB 12216
+R QP 3
+The bowels of Freehold are now known well to you.  You are a good hunter.  Take these 3 qp as a reward.
+~
+#12207
+Quiet the Choir~
+The questmaster says, '&09I have been retained by one who hates music.  There
+is a choir near here.  My client wants it silenced.  Not the temporary type
+of silence either.  If you are up to this gruesome task I can share with you
+some of my retainer.&00'
+~
+&09Silence the choir, permanently.  All of it!&00
+~
+30 50 8388608 25 30 20
+G 12298
+O MOB 12409
+O MOB 12409
+O MOB 12409
+O MOB 12409
+R QP 2
+The questmaster whispers to you, '&09Excellent!  Take these 2 quest points.'&00
+~
+#12208
+Kill a Soldier of Skul~
+&09The Duke wants tranquility to surround Freehold.  You'll have to be quick and
+crafty to succeed at this mission.  Kill a Soldier of Lord Skul to scare those
+forces.  Also head to the Warcamp and defeat a pikeman soldier.  And thirdly,
+off the Great Orc Chieftan that's west of town.  &00 &00
+~
+Kill a soldier of Lord Skul, a pikeman soldier and the Great Orc Chief.
+~
+30 50 8388608 20 30 15
+G 12298
+O MOB 20202
+O MOB 13903
+O MOB 12103
+R QP 3
+Capital!  Hopefully you survived your ordeal.  Take these 3 quest points as a
+reward for your bravery.
+~
+R EXP 125000
+~
+#12209
+Kill Baron Von Mimbre~
+&09Lord Skul is &00&08not&00&09 pleased with this turn of events.  He has put a large bounty on
+the forces working against him.  If you were to defeat Baron Von Mimbre, the
+Duke's closest advisor, you would surely be richly rewarded.  Such an attempt
+would be dangerous and foolish.  Do you dare?  &00
+~
+Baron Von Mimbre will see to your death now.
+~
+30 50 8388608 30 40 25
+G 12298
+P 12208
+O MOB 12305
+R QP 3
+~
+R GOLD 250000
+~
+R EXP 250000
+&09Well done!  Lord Skul will be pleased.  I'll take these trophies to him immediately.
+You take these rewards.
+&00 
+You have received 3 quest points!
+You have received 250,000 gold coins!
+You have received 250,000 experience points!
+~
+#12210
+Grey enfan and Warcamp Swordsman~
+&09 I am troubled by the strange childlike creatures west of here.  Bring me two
+grey specimen to study.  Also, there is a war camp east of here.  If they are of
+sufficient skill they may be able to help us in our defense.  Test the battle
+strength of two of their swordman.  If you overpower them, bring me their
+weapons.  &00
+~
+Find the grey enfans and swordsman of the war camp.
+~
+30 50 8388608 25 35 20
+G 12298
+O OBJ 13919
+O OBJ 13919
+O MOB 13919
+O MOB 13919
+O MOB 5302
+O MOB 5302
+R QP 2
+   It is a shame that the swordmen were so easily defeated by the likes of you.
+Do they have any more powerful warriors in their camp?  The specimen of grey
+enfan were helpful.  Thank you for your assistance.  Come back in a while and
+I'll have another chore for you.  Please accept this gift of two quest points.
+~
+#12211
+war camp guard and green enfan~
+&09 Ha, you are back.  If you are to assist me you must return to the war camp and
+test their strength again.  I hear their warcamp guards are their best fighters.
+Are they strong enough to defeat you?  If so, they could be worthy allies.  
+Test your strength against a couple of them.  I also will need more samples from
+the child-like demons.  Bring me samples of two of the green child-like
+creatures if you wish to assist me.  &00 &00
+~
+Go back to the camp and test the warcamp guard.  Also bring me samples of green enfan.
+~
+30 50 8388608 30 35 20
+G 12298
+P 12210
+O MOB 13908
+O MOB 13908
+O MOB 5303
+O MOB 5303
+R QP 3
+Excellent, the gaurd in the war camp are strong.  They will make good allies.  
+I learned much from studying the head of the green enfan.  You have proven
+useful.  You deserve a reward.  Take these 3 gold coins.
+
+Actually, they're quest points, but that is acceptable, right?
+~
+R GOLD 3
+~
+#12212
+yellow enfan~
+&09Return to the land of the child like creatures and bring me a yellow one.&00
+~
+Return to the land of the child like creatures and bring me a yellow one.
+~
+30 50 8388608 25 30 20
+G 12298
+P 12211
+O MOB 5305
+R QP 2
+Great!  This is just what I wanted.  Take these 2qp as your reward.
+~
+#12213
+Usurpers - Mayor's secretary and fire elemental~
+There is a village south of here that was usurped by magic and evil.  How can a
+mayor allow that?  Punish the mayor by slaying the mayor's secretary.  We do not
+want the fire of this magic to spread.  There is a fire elemental secreted away
+within this usurped village.  Extinguish this fire elemental.
+~
+Go to the usurped village and kill the mayor's secretary and fire elemental.
+~
+30 50 8388608 25 35 20
+G 12298
+P 12212
+O MOB 24737
+O MOB 24713
+R QP 3
+You are proving to know a great deal about the lands around Freehold.  That will
+pay off with insubstansial rewards.  Here's a more solid reward of 2 quest
+points.
+~
+#12214
+Devrell in Usurpers of Hochenyana~
+Poor poor Devrell.  He was a fine paladin.  Now his soul is destroyed.  He is
+trapped in his body.  He deserves to be released from that hell.  Those bastard
+usurpers ruined this world to him.  Return to that town and free him!  Please
+release him to heaven!  For this I will reward you!
+~
+Free Devrell from the hell inflicted upon him by the usurpers!
+~
+30 50 8388608 20 30 15
+G 12298
+O MOB 24744
+R QP 2
+Devrell thanks you, my lord thanks you and I thank you with these 2 quest points!
+~
+#12215
+Scare the Freehold Thieve's Guild~
+The Thieve's Guild here in Freehold is getting too brave.  They need to be
+shocked back into place.  March down their and punch them in the face.  Take out
+a couple of their council members.  While you are at it go into their meal hall
+and take out a couple thieves there.  Bring me their heads and daggers and food
+as proof.
+~
+Put the fear of the Duke back into the theieves guild!  Hit their council and hit their galley!
+~
+30 50 8388608 15 30 15
+G 12298
+O MOB 12502
+O MOB 12502
+O OBJ 12512
+O OBJ 12506
+O MOB 12510
+O OBJ 12512
+O OBJ 12506
+O MOB 12510
+R QP 3
+Good job.  Did you get the dust out of your eyes yet?  Maybe these 3 quest
+points can wash out the dust?
+~
+#12216
+Black Hand Torturers and witch~
+There is a land of evil southwest of Freehold.  It is rumored that there are a
+few Torturers in this Blackhand land.  Put a stop to their ways.  Therein lies
+also a witch that wails in agony on the ground.  She is so weak that her
+Knuckle-Bones are showing.  Were she to recover, she'd be a threat to our
+defenses.  Put her out of her misery, but beware her magical might!
+~
+Go to the Blackhand and stop the three torturers and put the witch out of her misery.
+~
+30 50 8388608 30 40 22
+G 12298
+O OBJ 12610
+O MOB 12609
+O MOB 12604
+O MOB 12604
+O MOB 12604
+R QP 3
+~
+R GOLD 250000
+Well done!  Our own hospital will have less patients to treat because of you.  Take these 3 quest points as thanks.
+~
+#12217
+Dragonor Keep Flower, Beetle, Golem & Fire elemental~
+Dragonor Keep lies near the child like Enfans.  The keep is full of mysteries,
+enigmas and corpse.  You are to venture there and fell 3 foes and 1 triviality
+for me.  There is a giant Flower there.  Prune it!  There are several Golems.  
+Slay one.  There is a Fire Elemental.  Extinguish it.  And there is a beetle.  
+Stomp it!  Return to me with their heads and their items for I want to know
+these trinkets are good for.
+~
+Go to Dragonor Keep and prune the Flower, slay the Golem, extinguish the Fire Elemental and stomp the Beetle.
+~
+30 50 8388608 25 30 15
+G 12298
+O MOB 12811
+O MOB 12808
+O MOB 12806
+O MOB 12805
+R QP 3
+Good job!  I hope you were able to hide from the strange stage creatures.  Did
+you know they can't see those that hide?  Take these 3 quest points are your
+reward.
+~
+#12218
+Mongo's Dagger, Bertram's lantern and the Pegasi~
+This task will be simpler.  Bring me one of Mongo's daggers.  They are good when
+you have nothing else.  Also bring me one of Bertram's bullseye lanters.  They
+last a long time.  And finally, since I do not like unnatural creatures, kill
+the duke's Pegasi.  I can't stand a winged horse!
+~
+Fetch Mongo's dagger, Bertram's lantern and the head of a Pegasi.
+~
+33 50 8388608 30 35 15
+G 12298
+P 12215
+P 12208
+O OBJ 12243
+O OBJ 12207
+O MOB 12317
+R QP 3
+That was a worthy fight!  Take these 3 quest points as your reward.  I see you
+had to restore.  Take this money as restitution as well.
+~
+R GOLD 250000
+
+~
+$~

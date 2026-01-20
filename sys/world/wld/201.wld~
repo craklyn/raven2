@@ -1,0 +1,2311 @@
+#20100
+Black Team Jail~
+After being brutally killed, you now get to stay in jail until released. Kick,
+back, relax and wait for the oppurtunity for revenge.
+~
+201 2490904 4 0 0 0 255 0
+D2
+A sturdy door blocks your return to the games!
+~
+jail~
+2 20100 20100
+S
+Z 20197
+#20101
+A Stone Bridge~
+Steaming waters rage north and south beneath this stone bridge.  An 
+east-west road connects to either end of the bridge and a door marked 
+'BLACK JAIL' remains shut to the north.
+~
+201 4194304 0 0 0 1 255 0
+D1
+~
+portcullis~
+0 20090 20001
+D3
+A road leads to the Black Fortress.
+~
+~
+0 -1 20102
+S
+#20102
+A stone bridge~
+   Water gushes below the bridge, A strong current pulls the water out the
+channel and into the sea
+~
+201 0 0 0 0 2 255 0
+D0
+A field of ACTIVE geysers lies to the north.
+~
+~
+0 -1 20199
+D1
+A sturdy stone bridge crosses a raging river to the east.
+~
+~
+0 -1 20101
+D2
+A field of ACTIVE geysers lies to the south.
+~
+~
+0 -1 20199
+D3
+The road to the Black Fortress continues west.
+~
+~
+0 -1 20103
+D5
+~
+water~
+0 0 24811
+S
+Z 20104
+Z 20009
+#20103
+A Well Worn Road~
+This road looks as if it has seen many pounding feet rush by.  To the 
+north and south lie fields of ACTIVE geysers and the road continues east 
+and west.
+~
+201 0 0 0 0 2 255 0
+D0
+A field of ACTIVE geysers lies to the north.
+~
+~
+0 -1 20157
+D1
+The worn road continues to the east.
+~
+~
+0 -1 20102
+D2
+A field of ACTIVE geysers lies to the south.
+~
+~
+0 -1 20199
+D3
+The road to the Black Fortress continues west.
+~
+~
+0 -1 20104
+S
+Z 20104
+#20104
+A Well Worn Road~
+This road looks as if it has seen many pounding feet rush by.  To the 
+north and south lie fields of ACTIVE geysers and the road continues east   
+and west.
+~
+201 0 0 0 0 2 255 0
+D0
+A field of ACTIVE geysers lies to the north.
+~
+~
+0 -1 20199
+D1
+The worn road continues to the east.
+~
+~
+0 -1 20103
+D2
+A field of ACTIVE geysers lies to the south.
+~
+~
+0 -1 20156
+D3
+The road to the Black Fortress continues west.
+~
+~
+0 -1 20105
+S
+Z 20104
+#20105
+A Well Worn Road~
+This road looks as if it has seen many pounding feet rush by.  To the 
+north and south lie fields of ACTIVE geysers and the road continues east 
+and west.
+~
+201 0 0 0 0 2 255 0
+D0
+A field of ACTIVE geysers lies to the north.
+~
+~
+0 -1 20170
+D1
+The worn road continues to the east.
+~
+~
+0 -1 20104
+D2
+A field of ACTIVE geysers lies to the south.
+~
+~
+0 -1 20199
+D3
+The road to the Black Fortress continues west.
+~
+~
+0 -1 20106
+S
+Z 20104
+#20106
+Before The Drawbridge~
+A drawbridge lies to the west towards the Fortress and the worn road 
+continues to the east.  North and south lie NO MAN'S LAND, littered with
+bones of fallen warriors.
+~
+201 0 0 0 0 2 255 0
+D0
+NO MAN'S LAND lies to the north.
+~
+~
+0 -1 20137
+D1
+A well worn road continues to the east.
+~
+~
+0 -1 20105
+D2
+NO MAN'S LAND lies to the south.
+~
+~
+0 -1 20138
+D3
+A drawbridge lies to the west.
+~
+drawbridge~
+1 -1 20107
+S
+Z 20104
+#20107
+A Drawbridge~
+A drawbridge covers a trenchline running north and south.
+~
+201 0 0 0 0 2 255 0
+D1
+A road begins to the east.
+~
+drawbridge~
+1 -1 20106
+D3
+Black tiles lead to the the Black Fortress.
+~
+~
+0 -1 20108
+S
+Z 20104
+#20108
+A Black Tiled Path~
+A path made of black tiles leads off to the west.  A drawbridge rests to 
+the east and training grounds are just off the path to the north and 
+south.
+~
+201 0 0 0 0 2 255 0
+D0
+What looks like a training ground can be seen to the north.
+~
+~
+0 -1 20111
+D1
+A drawbridge lies to the east.
+~
+~
+0 -1 20107
+D2
+What looks like a training ground can be seen to the south.
+~
+~
+0 -1 20122
+D3
+Black tiles lead to the Black Fortress.
+~
+~
+0 -1 20109
+S
+Z 20104
+#20109
+A Black Tiled Path~
+A path of black tiles leads to the steps of the Black Fortress to the 
+west.  Just off the path north and south lie training grounds and the 
+tiled path continues to the east.
+~
+201 0 0 0 0 2 255 0
+D0
+What looks like a training ground can be seen to the north.
+~
+~
+0 -1 20110
+D1
+~
+~
+0 -1 20108
+D2
+~
+~
+0 -1 20121
+D3
+Steps lead up to the Black Fortress.
+~
+~
+0 -1 20171
+S
+Z 20104
+#20110
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20112
+D1
+~
+~
+0 -1 20111
+D2
+~
+~
+0 -1 20109
+S
+#20111
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20113
+D2
+~
+~
+0 -1 20108
+D3
+~
+~
+0 -1 20110
+S
+#20112
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20114
+D1
+~
+~
+0 -1 20113
+D2
+~
+~
+0 -1 20110
+S
+#20113
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20115
+D2
+~
+~
+0 -1 20111
+D3
+~
+~
+0 -1 20112
+S
+#20114
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 20115
+D2
+~
+~
+0 -1 20112
+S
+#20115
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the 
+ground.  To the east is the entrance to a deep trench.
+~
+201 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 20118
+D2
+~
+~
+0 -1 20113
+D3
+~
+~
+0 -1 20114
+S
+#20116
+A Bunker~
+Nestled snugly into the end of the trench, this bunker looks like a 
+great place to hide out if overrun by the enemy.
+~
+201 9 0 0 0 0 255 0
+D2
+A Sturdy metal door is camouflaged with sod!
+~
+sod~
+1 -1 20117
+S
+#20117
+The End of a Trenchline~
+This northernmost part of the trenchline comes to a dead end.  The 
+trenchline continues back to the south.  The exit to NO MAN'S LAND
+is a steep climb to the east.
+~
+201 0 0 0 0 3 255 0
+D0
+The sod at the end of the trenchline doesn't look quite right.
+~
+sod~
+1 -1 20116
+D1
+~
+~
+0 -1 20134
+D2
+~
+~
+0 -1 20118
+S
+#20118
+The Trenchline~
+Cold and wet, this deep trench runs from north to south.  Far to the 
+south you see a tunnel under a bridge.  Immediately west is the entrance 
+and exit to this dreary defensive position.
+~
+201 0 0 0 0 3 255 0
+D0
+The trenchline ends up ahead.
+~
+~
+0 -1 20117
+D2
+~
+~
+0 -1 20119
+D3
+~
+~
+0 -1 20115
+S
+#20119
+The Trenchline~
+Cold and wet, this trenchline runs north and south.  Far to the south is 
+a tunnel under the drawbridge.  The trenchline continues to the north.
+~
+201 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 20118
+D2
+~
+~
+0 -1 20120
+S
+#20120
+The Trenchline~
+Cold and wet, this trenchline runs north and south.  Far to the north, 
+you see the end of the trenchline.  Directly south, the trenchline 
+continues after crawling under the drawbridge.
+~
+201 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 20119
+D2
+It looks like you have to crawl under the drawbridge to continue.
+~
+~
+0 -1 20127
+S
+#20121
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20109
+D1
+~
+~
+0 -1 20122
+D2
+~
+~
+0 -1 20123
+S
+#20122
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20108
+D2
+~
+~
+0 -1 20124
+D3
+~
+~
+0 -1 20121
+S
+#20123
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20121
+D1
+~
+~
+0 -1 20124
+D2
+~
+~
+0 -1 20125
+S
+#20124
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20122
+D2
+~
+~
+0 -1 20126
+D3
+~
+~
+0 -1 20123
+S
+#20125
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the ground.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20123
+D1
+~
+~
+0 -1 20126
+S
+#20126
+Training Grounds~
+Practice weapons of all kinds lie about in various forms of use.  Some 
+are stuck hilt deep in dummies while others rest harmlessly on the 
+ground.  To the east is the entrance to a deep trench.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20124
+D1
+~
+~
+0 -1 20129
+D3
+~
+~
+0 -1 20125
+S
+#20127
+The Trenchline~
+Cold and wet, this trenchline runs north and south.  To the north, you  
+must crawl through a tunnel under the drawbridge.  The trenchline continues
+to the south.  
+~
+201 0 0 0 0 3 255 0
+D0
+You must crawl through the tunnel to reach the other side of the trench.
+~
+~
+0 -1 20120
+D2
+~
+~
+0 -1 20128
+S
+#20128
+The Trenchline~
+Cold and wet, this trenchline runs north and south.  Far to the south, 
+you see the end of the trench.
+~
+201 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 20127
+D2
+~
+~
+0 -1 20129
+S
+#20129
+The Trenchline~
+Cold and wet, this trenchline runs north and south.  Immediately to the 
+west lies the entrance and exit to this dreary defensive position.  To
+the south, the trench comes to a dead end.
+~
+201 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 20128
+D2
+~
+~
+0 -1 20130
+D3
+~
+~
+0 -1 20126
+S
+#20130
+The End of a Trenchline~
+This southernmost part of the trenchline comes to a dead end.  The 
+trenchline continues back to the north.  The exit to NO MAN'S LAND
+is a steep climb to the east.
+~
+201 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 20129
+D1
+A steep climb up this bank will get you to NO MAN'S LAND.
+~
+~
+0 -1 20141
+D2
+The sod at the end of the trenchline doesn't look quite right.
+~
+sod~
+1 -1 20131
+S
+#20131
+A Bunker~
+Nestled snugly into the end of the trench, this bunker looks like a 
+great place to hide out if overrun by the enemy.
+~
+201 9 0 0 0 0 255 0
+D0
+A Sturdy metal door is camouflaged with sod!
+~
+sod~
+1 -1 20130
+S
+#20132
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the south.
+~
+201 0 0 0 0 2 255 0
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20158
+D2
+~
+~
+0 -1 20133
+S
+#20133
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the north.
+~
+201 0 0 0 0 2 255 0
+D0
+More bones are littered to the north.
+~
+~
+0 -1 20132
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20159
+D2
+~
+~
+0 -1 20134
+S
+#20134
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the north.
+~
+201 0 0 0 0 2 255 0
+D0
+More bones are littered to the north.
+~
+~
+0 -1 20133
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+~
+~
+0 -1 20135
+D5
+A deep trench drops down.
+~
+~
+0 -1 20117
+S
+#20135
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the north.
+~
+201 0 0 0 0 2 255 0
+D0
+More bones are littered to the north.
+~
+~
+0 -1 20134
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+~
+~
+0 -1 20136
+D5
+A deep trench drops down.
+~
+~
+0 -1 20118
+S
+#20136
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the north.
+~
+201 0 0 0 0 2 255 0
+D0
+More bones are littered to the north.
+~
+~
+0 -1 20135
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+~
+~
+0 -1 20137
+D5
+A deep trench drops down.
+~
+~
+0 -1 20119
+S
+#20137
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the north.
+~
+201 0 0 0 0 2 255 0
+D0
+More bones are littered to the north.
+~
+~
+0 -1 20136
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20170
+D2
+A well worn road lies to the south.
+~
+~
+0 -1 20106
+D5
+A deep trench drops down.
+~
+~
+0 -1 20120
+S
+#20138
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the south.
+~
+201 0 0 0 0 2 255 0
+D0
+A well worn road lies to the north.
+~
+~
+0 -1 20106
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+piles of littered bones lie to the south.
+~
+~
+0 -1 20139
+D5
+A deep trench drops down.
+~
+~
+0 -1 20127
+S
+#20139
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the south.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20138
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20144
+D2
+piles of littered bones lie to the south.
+~
+~
+0 -1 20140
+D5
+A deep trench drops down.
+~
+~
+0 -1 20128
+S
+#20140
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the south.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20139
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20155
+D2
+piles of littered bones lie to the south.
+~
+~
+0 -1 20141
+D5
+A deep trench drops down.
+~
+~
+0 -1 20129
+S
+#20141
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the south.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20140
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+piles of littered bones lie to the south.
+~
+~
+0 -1 20142
+D5
+A deep trench drops down.
+~
+~
+0 -1 20130
+S
+#20142
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the south.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20141
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+piles of littered bones lie to the south.
+~
+~
+0 -1 20143
+S
+#20143
+NO MAN'S LAND~
+This area between the trenchline and the field of ACTIVE geysers is 
+littered with the bones of fallen adventurers.  You shudder in thinking 
+of escape from attack here, it's either down into the trenches or taking 
+your chances with the geysers.  NO MAN'S LAND continues to the north.
+~
+201 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 20142
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+S
+#20144
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20145
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20155
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20139
+S
+#20145
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20146
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20144
+S
+#20146
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20147
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20145
+S
+#20147
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20146
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20148
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20148
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20147
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20149
+S
+#20149
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20148
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20150
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20150
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20149
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20151
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20151
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20150
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20152
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20152
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20153
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20151
+S
+#20153
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.  The steaming river looks 
+particularly shallow to the east.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20154
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20152
+S
+#20154
+River Crossing~
+You have come to a shallow part of the steaming river.  You might could 
+actually cross the river at this point if you were very careful.  Don't 
+forget to roll up your leggings!
+~
+201 64 0 0 0 6 255 0
+D1
+~
+~
+0 -1 20054
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20153
+S
+#20155
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20144
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20140
+S
+#20156
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+A well worn road lies to the north.
+~
+~
+0 -1 20104
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+A field of ACTIVE geysers lies to the south.
+~
+~
+0 -1 20199
+D3
+A field of ACTIVE geysers lies to the west.
+~
+~
+0 -1 20199
+S
+#20157
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+A field of ACTIVE geysers lies to the north.
+~
+~
+0 -1 20199
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+A well worn road lies to the south.
+~
+~
+0 -1 20103
+D3
+A field of ACTIVE geysers lies to the west.
+~
+~
+0 -1 20199
+S
+#20158
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20159
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20132
+D5
+~
+~
+0 0 -1
+S
+#20159
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20158
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20160
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20133
+S
+#20160
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20161
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20159
+S
+#20161
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20160
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20162
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20162
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20161
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20163
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20163
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20162
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20164
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20164
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20165
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20163
+S
+#20165
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.  A Steaming river runs 
+along the eastern side of the field of ACTIVE geysers.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20166
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20164
+S
+#20166
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.  A Steaming river runs 
+along the eastern side of the field of ACTIVE geysers.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20167
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20165
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20167
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.  A Steaming river runs 
+along the eastern side of the field of ACTIVE geysers.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20168
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20166
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20168
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.  The steaming river 
+looks particularly shallow to the east.
+~
+201 0 0 0 0 5 255 0
+D0
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+D1
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20169
+D2
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20167
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20199
+S
+#20169
+River Crossing~
+You have come to a shallow part of the steaming river.  You might could 
+actually cross the river at this point if you were very careful.  Don't 
+forget to roll up your leggings!
+~
+201 64 0 0 0 6 255 0
+D1
+~
+~
+0 -1 20069
+D3
+Steam belches forth from the rumbling ground.
+~
+~
+0 -1 20168
+S
+#20170
+ACTIVE Geyser Field~
+You meticulously choose your footing as pockets of steam explode around 
+you.  May your next step be a VERY careful one.
+~
+201 0 0 0 0 5 255 0
+D0
+A field of ACTIVE geysers lies to the north.
+~
+~
+0 -1 20199
+D1
+A field of ACTIVE geysers lies to the east.
+~
+~
+0 -1 20199
+D2
+A well worn road lies to the south.
+~
+~
+0 -1 20105
+D3
+NO MAN'S LAND lies to the west.
+~
+~
+0 -1 20137
+S
+#20171
+Steps of the Fortress~
+Pure onyx steps lead up to a huge set of oaken double doors reinforced 
+with iron plates.  You get the feeling that you might need an invitation
+to get into this place.  Maybe there's a dress code or something.
+~
+201 0 0 0 0 1 255 0
+D1
+A tiled path leads through a training ground
+~
+~
+0 -1 20109
+D3
+The door looks like it would be hard to break down.
+~
+double doors~
+2 20100 20172
+E
+fortress~
+Built by masters of masonry, it looks easily defended.
+~
+S
+Z 20104
+#20172
+The Great Hall~
+A long table dominates the center of this room.  A kitchen leads off to 
+the north with servant's quarters to the south.  A set of thick double 
+doors keeps intruder's away to the east.
+~
+201 8 0 0 0 0 255 0
+D0
+~
+kitchen~
+1 -1 20180
+D1
+A set of huge double doors prevents intrusions
+~
+double doors~
+2 20100 20171
+D2
+~
+door~
+1 -1 20175
+D3
+The great hall continues west.
+~
+~
+0 -1 20173
+S
+#20173
+The Great Hall~
+A long table dominates the center of this room.  A kitchen leads off to 
+the north with servant's quarters to the south.  The trophy display area 
+lies to the west and the hall continues to the east.
+~
+201 8 0 0 0 0 255 0
+D0
+~
+kitchen~
+1 -1 20179
+D1
+~
+~
+0 -1 20172
+D2
+~
+door~
+1 -1 20176
+D3
+~
+~
+0 -1 20174
+S
+#20174
+Trophy Display Area~
+This room was built for the soul purpose of displaying captured flags.  
+Near the great hall to the east, it is conveniently close to the food 
+and wine so the celebration can begin quickly after conquering your 
+opponents!  A spiral staircase leads to an upper floor from here.
+~
+201 8 0 0 0 0 255 0
+D0
+To the north past a solid door lies the lounge, a room of rest.
+~
+door~
+1 -1 20178
+D1
+~
+~
+0 -1 20173
+D2
+The steel door to the war room usually remains closed.
+~
+Steel~
+1 -1 20177
+D4
+The staircase dissapears abrubtly into the ceiling!
+~
+trapdoor~
+1 -1 20181
+S
+#20175
+Servant's Quarters~
+This sparse living area has been set aside for the servants.  Close to 
+the great hall to the north, the servants are quick to answer a guest's 
+call.
+~
+201 520 4 0 0 0 255 0
+D0
+A door seperates this room from the Great Hall.
+~
+door~
+1 -1 20172
+D3
+~
+~
+0 -1 20176
+S
+#20176
+Servant's Quarters~
+This sparse living area has been set aside for the servants.  Close to 
+the great hall to the north, the servants are quick to answer a guest's
+call.
+~
+201 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 20173
+D1
+~
+~
+0 -1 20175
+S
+#20177
+The War Room~
+Here, many of the major plans against the enemy are first created.  Maps 
+line the walls and a table heavily burdened with the weight of dozens of 
+parchments of war plans stands in the middle of the room.
+~
+201 8 0 0 0 0 255 0
+D0
+The steel door of the war room usually remains closed.
+~
+steel~
+1 1 20174
+E
+maps~
+The maps look worn and used...there is even one that attempted to 
+determine a safe course throught the field of ACTIVE geysers!
+~
+E
+table~
+The table groans under the weight of all the war plans.
+~
+E
+plans~
+The plans are old and bearly legible.
+~
+S
+#20178
+The Gauntlet Entry~
+   Deep beneath the earth lies the Gauntlet, a series of treacherous passages, filled
+with water and traps. If one succeeds in passing through the dungeon alive, it is
+rumored that they can make their way to the opposing Team's castle chambers. A number of seats
+line the walls here for weary adventurers. The Trophy Display Area is to the south.
+~
+201 8 0 0 0 0 255 0
+D2
+To the south past a door is the war..why not just stay here and relax?
+~
+door~
+1 -1 20174
+D5
+A huge metal Iris is set in the floor here. It is constricted shut, preventing passage.
+~
+gauntlet dungeon iris metal grate~
+1 20100 20401
+S
+Z 20007
+#20179
+The Kitchen~
+This kitchen seems neat and orderly with everything in its place.  You 
+would hate to fight in here and mess everything up.
+~
+201 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 20180
+D2
+~
+kitchen~
+1 -1 20173
+S
+#20180
+The Kitchen~
+This kitchen seems neat and orderly with everything in its place.  You 
+would hate to fight in here and mess everything up.
+~
+201 8 0 0 0 0 255 0
+D2
+~
+kitchen~
+1 -1 20172
+D3
+~
+~
+0 -1 20179
+S
+#20181
+Hall of Mirrors~
+You look around you in amazement at all the mirrors.  They are everywhere!
+Suddenly you catch a glimpse of what looks like a Black Standard, but 
+was it to the north, south, east, or west??  It could be anywhere!  A 
+trapdoor lies at your feet.
+~
+201 9 0 0 0 0 255 0
+D0
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D1
+Mirrors everywhere!
+~
+~
+0 -1 20182
+D2
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D3
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D5
+A trapdoor lies at your feet.
+~
+trapdoor~
+1 -1 20174
+S
+Z 20102
+#20182
+Hall of Mirrors~
+You look around you in amazement at all the mirrors.  They are everywhere!
+Suddenly you catch a glimpse of what looks like a Black Standard, but 
+was it to the north, south, east, or west??  It could be anywhere!
+~
+201 9 0 0 0 0 255 0
+D0
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D1
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D2
+Mirrors everywhere!
+~
+~
+0 -1 20183
+D3
+Mirrors everywhere!
+~
+~
+0 -1 20188
+S
+Z 20101
+#20183
+Hall of Mirrors~
+You look around you in amazement at all the mirrors.  They are everywhere!
+Suddenly you catch a glimpse of what looks like a Black Standard, but 
+was it to the north, south, east, or west??  It could be anywhere!
+~
+201 9 0 0 0 0 255 0
+D0
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D1
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D2
+Mirrors everywhere!
+~
+~
+0 -1 20182
+D3
+Mirrors everywhere!
+~
+~
+0 -1 20185
+S
+#20184
+Hall of Mirrors~
+You look around you in amazement at all the mirrors.  They are everywhere!
+Suddenly you catch a glimpse of what looks like a Black Standard, but 
+was it to the north, south, east, or west??  It could be anywhere!
+~
+201 9 0 0 0 0 255 0
+D0
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D1
+Mirrors everywhere!
+~
+~
+0 -1 20183
+D2
+Mirrors everywhere!
+~
+~
+0 -1 20185
+D3
+Mirrors everywhere!
+~
+~
+0 -1 20188
+S
+#20185
+Hall of Mirrors~
+You look around you in amazement at all the mirrors.  They are everywhere!
+Suddenly you catch a glimpse of what looks like a Black Standard, but 
+was it to the north, south, east, or west??  It could be anywhere!
+~
+201 9 0 0 0 0 255 0
+D0
+Mirrors everywhere!
+~
+~
+0 -1 20184
+D1
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D2
+Mirrors everywhere!
+~
+~
+0 -1 20186
+D3
+Mirrors everywhere!
+~
+~
+0 -1 20188
+S
+#20186
+Hall of Mirrors~
+You look around you in amazement at all the mirrors.  They are everywhere!
+Suddenly you catch a glimpse of what looks like a Black Standard, but 
+was it to the north, south, east, or west??  It could be anywhere!
+~
+201 9 0 0 0 0 255 0
+D0
+Mirrors everywhere!
+~
+~
+0 -1 20185
+D1
+Mirrors everywhere!
+~
+~
+0 -1 20187
+D2
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D3
+Mirrors everywhere!
+~
+~
+0 -1 20188
+S
+#20187
+Hall of Mirrors~
+You look around you in amazement at all the mirrors.  They are everywhere!
+Suddenly you catch a glimpse of what looks like a Black Standard, but 
+was it to the north, south, east, or west??  It could be anywhere!  You 
+catch the scent of fresh air and see a trapdoor overhead.
+~
+201 9 0 0 0 0 255 0
+D0
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D1
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D2
+Mirrors everywhere!
+~
+~
+0 -1 20188
+D3
+Mirrors everywhere!
+~
+~
+0 -1 20186
+D4
+Tiny beams of light spill in from the cracks around a trapdoor.
+~
+trapdoor~
+1 -1 20189
+S
+#20188
+Hall of Mirrors~
+You suddenly feel very light as the floor beneath you collapses, 
+dropping you onto a steep slide made of smooth metal.
+
+                W
+                   H
+                      E
+                         E
+                            !
+                               !
+
+You find yourself suspended right above the Great Hall.  It looks like a 
+good fall, but maybe if you hang down, you will be ok.
+~
+201 9 0 0 0 0 255 0
+D5
+10 feet and you are back in the game!
+~
+~
+0 -1 20172
+S
+#20189
+The Parapet~
+You shield your eyes and take in the view from the roof.  You can see 
+the whole battlefield from here, but what catches your eye the most is 
+the black standard that you see billowing in the wind!  A catwalk winds 
+its way around to the flag.
+~
+201 512 4 0 0 1 255 0
+D2
+The roof ends abrubtly.
+~
+~
+0 -1 20196
+D3
+~
+~
+0 -1 20190
+D5
+A trapdoor leads to darkness below.
+~
+trapdoor~
+1 -1 20187
+S
+Z 20104
+#20190
+The Parapet~
+You shield your eyes and take in the view from the roof.  You can see 
+the whole battlefield from here, but what catches your eye the most is 
+the black standard that you see billowing in the wind at the eastern 
+side of the fortress!  You must follow the catwalk to get to it.
+~
+201 512 4 0 0 1 255 0
+D0
+~
+~
+0 -1 20191
+D1
+~
+~
+0 -1 20189
+D2
+The roof ends abrubtly.
+~
+~
+0 -1 20196
+D3
+~
+~
+0 -1 20196
+S
+Z 20104
+#20191
+The Parapet~
+You shield your eyes and take in the view from the roof.  You can see 
+the whole battlefield from here, but what catches your eye the most is 
+the black standard that you see billowing in the wind in the middle of 
+the eastern side of the tower!  You must follow the catwalk to get to it.
+~
+201 512 4 0 0 1 255 0
+D0
+~
+~
+0 -1 20192
+D2
+~
+~
+0 -1 20190
+D3
+~
+~
+0 -1 20196
+S
+Z 20104
+#20192
+The Parapet~
+You shield your eyes and take in the view from the roof.  You can see 
+the whole battlefield from here, but what catches your eye the most is 
+the black standard that you see billowing in the wind in the middle of 
+the eastern side of the tower!  You must follow the catwalk to get to it.
+~
+201 512 4 0 0 1 255 0
+D0
+~
+~
+0 -1 20196
+D1
+~
+~
+0 -1 20193
+D2
+~
+~
+0 -1 20191
+D3
+~
+~
+0 -1 20196
+S
+Z 20104
+#20193
+The Parapet~
+You shield your eyes and take in the view from the roof.  You can see 
+the whole battlefield from here, but what catches your eye the most is 
+the black standard that you see billowing in the wind in the middle of 
+the eastern side of the tower!  You must follow the catwalk to get to it.
+~
+201 512 4 0 0 1 255 0
+D0
+~
+~
+0 -1 20196
+D1
+~
+~
+0 -1 20194
+D3
+~
+~
+0 -1 20192
+S
+Z 20104
+#20194
+The Parapet~
+You shield your eyes and take in the view from the roof.  You can see 
+the whole battlefield from here, but what catches your eye the most is 
+the black standard that you see billowing in the wind in the middle of 
+the eastern side of the tower!  You must follow a catwalk to get to it.
+~
+201 512 4 0 0 1 255 0
+D0
+~
+~
+0 -1 20196
+D1
+~
+~
+0 -1 20196
+D2
+~
+~
+0 -1 20195
+D3
+~
+~
+0 -1 20193
+S
+#20195
+The Standard~
+You have reached the highest point of the fortress.  It is at this very
+spot that the Black Standard is so proudly displayed on the top of the 
+fortress.  
+~
+201 35127808 4 0 0 1 255 0
+D0
+~
+~
+0 -1 20194
+D1
+~
+~
+0 -1 20196
+S
+Z 20104
+#20196
+A Very Long Fall~
+As you fall off of the top of the fortress, your body accelerates to a 
+very high velocity.  The speed doesn't bother you at all, but the sudden 
+sharp stop is a killer!
+
+
+                            THUD! 
+
+
+
+
+~
+201 2 0 0 0 0 255 0
+S
+#20197
+Rogue Hideout~
+This is a safe room for you to relax, heal, and plot your revenge
+upon those who have slain you.
+~
+201 2490904 0 0 0 0 255 0
+S
+Z 20196
+#20198
+Gold Team Jail~
+After being brutally killed, you now get to stay in jail until released. Kick,
+back, relax and wait for the oppurtunity for revenge.
+~
+201 2490904 4 0 0 0 255 0
+D2
+A sturdy door blocks your return to the games!
+~
+jail~
+2 20000 20001
+S
+Z 20198
+#20199
+ACTIVE Geyser Field~
+As you make your way through the field of ACTIVE geysers, the ground 
+beneath you grows intensely hotter and steam erupts between your legs!
+With lightning reflexes you attempt to cover your scalding YaYa's.
+
+TOO LATE!!!!
+
+Steamed Adventurer, Anyone?!?!?
+~
+201 514 0 0 0 0 255 0
+S
+$~

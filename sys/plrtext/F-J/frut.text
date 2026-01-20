@@ -1,0 +1,40 @@
+pp cas 'portal' guardian_royal
+reg q cof
+port cas 'port' $*
+cp cas 'charm person' $*
+o order follower $*
+g get all.gold all.corpse
+slo cas 'slow' $*
+c castout
+iden cast 'iden' $*
+dr drink thimble
+sum c 'sum' $*
+ld c 'life drain' $*
+di c 'det invis' $*
+fb c 'flame blade' $*
+bli c 'bli' $*
+fly c 'fly' $*
+mm c 'mag miss' $*
+shie c 'shie' $*
+sto c 'sto' $*
+inv c 'invis' $*
+cw clanwho
+gtt gt &08{[]}&13$* &08{[]}&00
+gt gt &08{[]}&13$* &08{[]}&00
+cl clan &08{[]}&13$* &08{[]}&00
+slp c 'sleep' $*
+z des corpse
+ts cast 'true sight' $*
+is cast 'ice storm' $*
+ca 'shriek' $*
+shri ca 'shriek' $*
+ha CAST 'HASTE' $*
+pimdad title &08.::&07Cursed&08::. &08P&13i&12m&11p &08D&13a&12d&11d&10y&00
+sil cas 'silence' $*
+ff eat bre
+lo look in corpse
+x get all corpse
+12 kill 2.
+oo order follower assist
+cf get bre leather
+ass ass otacon

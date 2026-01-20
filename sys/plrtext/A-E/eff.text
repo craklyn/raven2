@@ -1,0 +1,12 @@
+g get all all.eff
+switch                     rem nez neck;wear bakka;q gib;rem bakka;wear nez neck
+dis disarm $*
+gt gt &07[&08F&07]&08$* &07[&08F&07]&00
+clan clan &07[&08F&07]&08$* &07[&08F&07]&11
+feign feign;st
+say say &08$*&00
+b bli $*
+fgt emote tells the group, ' &08 $* &00 '
+gs gt going south;s;k 2.
+ar look n;look s;look e;look w;look u;look d
+fei feign

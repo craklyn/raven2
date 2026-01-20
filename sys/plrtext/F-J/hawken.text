@@ -1,0 +1,8 @@
+1 cas 'heal' $1
+bli cas 'blind' $1
+fix cas 'fly' $1 ; cas 'det inv' $1 ; cas 'rege' $1 ; cas 'ward' $1 ; cas 'arm' $1
+heal cast 'heal' $1
+h cast 'heal' $1
+r cast 'regen' $1
+bl cast 'blind' $1
+fly cast 'fly' $1

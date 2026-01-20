@@ -1,0 +1,24 @@
+a assist telchar
+cc cast 'consume corpse' $*
+g get all all.corpse
+ps cast 'poison skin'
+wo who
+poi cast 'poison' $*
+bl cast 'blind' $*
+rp cast 'resist poison' $*
+shield cast 'shield' $*
+dr cast 'life drain' $*
+di cast 'detect invis' $*
+m meditate
+j scan
+invis cast 'invis' $*
+sum cast 'summon' $*
+curse cast 'curse' $*
+sense cast 'sense life'
+pc cast 'poison cloud'
+cs cast 'call skeleton'
+o order followers $*
+age cast 'age' $*
+f cast 'soul pierce' $*
+ed cast 'energy drain' $*
+wa wake;stand

@@ -1,0 +1,12 @@
+ff flee
+b backstab 2.
+ss steal $* $*
+f backstab 2.
+say emote &07utters,&00 '&14$* &00'
+sneak sneak
+c circle $*
+dd dust $*
+gt gt &10}{&14$* &10}{&00
+bb backstab 2.
+clan clan &14$*&00
+k kick $*

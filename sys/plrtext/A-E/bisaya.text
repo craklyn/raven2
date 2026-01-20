@@ -1,0 +1,46 @@
+exp c 'explode corpse' corpse
+ma c 'maledict'$*
+entomb c 'entomb' $*
+p look ghost
+cons c 'consume' $*
+o look ghost
+inv c 'invis' $*
+, get all all.corp
+sp cast 'soul pierce' $*
+resc ord fol rescue bisaya
+wake wake;stand
+pud1 clan Pudortu tells the group, ' i'm gonna fuck lilis in the ass
+gang1 say Gangrel says, '+ My ball sucks ass. +'
+clan clan &07<&00&01*&00&07>&00  &06$*&00   &07<&00&01*&00&07>&00
+pig rec pig pig
+call c 'call to corpse' $*
+dis c 'disease' $*
+bone c 'bone' $*
+shi c 'shield' $*
+deb c 'debilitate' $*
+charm c 'charm cor' $*
+ed c 'energy drain' $*
+wraith c 'wraith' $*
+li c 'life' $*
+rp c 'res poison' $*
+fly c 'fly' $*
+nox c 'nox' $*
+say emote says, '&03$*&00'
+bl c 'blind' $*
+so c 'soul' $*
+cl calm
+res buy restore
+di c 'det inv' $*
+sum c 'summon' $*
+age c 'age' $*
+infra c 'infra'
+of order follow $*
+ward c 'create ward'
+poi c 'poison' $*
+emb c 'embalm' $*
+gt gt &03$* &00
+ji gt  Mulegen.Youarethebestcleric.Iwouldreallyappreciateasummonwhenyougetachance.Thanks.
+sil c 'silence' $*
+tit title - &07The Forsaken Necrophiliac&00
+sl c 'slow' $*
+slow c 'slow' $*

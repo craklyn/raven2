@@ -1,0 +1,12 @@
+gn gt GOING NORTH; north; k 2.
+ge gt GOING EAST; east; kill 2.
+gs gt GOING SOUTH; south; k 2.
+lark w; w; w; w; w; w; w; open gate; w; w; w; w; w; w; w;s; s; e
+gnoll w; w; w; w; w; w; w; open gate; w; w; w; w; w; w; w; w; w; w; w; w; s; s; s
+galoe u;u;n;n;n;d;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n
+;n;n;n;w;w;w;s;w;w;n;n;w;n;n;e;n;open gat;n;n
+now disarm; gore; kick; bash; stand
+say say &11$* &00
+gt gt &11$* &00
+save rescue lanfear
+mid rec rec mid

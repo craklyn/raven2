@@ -1,0 +1,16 @@
+g cast 'soul pierce' ruff
+cc cast 'consume corpse'$*
+sum cast 'summon'$*
+emb cast 'embalm'$*;get $*
+charm cast 'charm corpse' $*
+b cast 'blind'$*
+rp cast 'resist poison'$*
+invis cast 'invis'$*
+sense cast 'sense life'$*
+f cast 'fly'$*
+sh cast 'shield'$*
+di cast 'detect invis'$*
+wa wake;stand
+loot get all strahd;wear all;get all strahd; destroy strahd
+blad cast 'soul pierce'$*
+de cast 'infra'$*

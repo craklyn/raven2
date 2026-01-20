@@ -1,0 +1,36 @@
+p get all all.farore;wear all;get all all.far
+stone rem peb;hold bone;use bone self;rem bone;hold peb
+qe gt &08QUAFFING EAST&00;e;q oab
+qd gt &08QUAFFING DOWN&00;d;q oab
+qu gt &08QUAFFING UP&00;u;q oab
+qw gt &08QUAFFING WEST&00;w;q oab
+qs gt &08QUAFFING South&00;s;q oab
+qn gt &08QUAFFING NORTH&00;n;q oab
+gu gt &08GOING UP&00;u;k 2.
+ge gt &08GOING EAST&00;e;k 2.
+gw gt &08GOING WEST&00;w;k 2.
+gs gt &08GOING SOUTH&00;s;k 2.
+gd gt &08GOING DOWN&00;d;k 2.
+gn gt &08GOING NORTH&00;n;k 2.
+[ wa;st
+/ em &14sweats&00 a &08BIG&00 &13cold&00 &11Drop&00
+\ destroy corpse
+= auc -info
+armor rem peb;hold oak;use wand self;rem wand;hold peb
+say say &03(&02#&00&03)&08$* &00&03(&02#&00&03)&00
+lvl rem cold;wear gloves;rem thorn;wear feather
+gt gt &09<&08^&09>&08$* &09<&08^&09>&00
+] destroy 1.
+clan clan &09<&08^&09>&08$* &09<&08^&09>&00
+r rescue $*
+h q candus
+z get all all.farore;wear all;get all all.farore
+' rec mid
+;wear girdle;rem khan;wear pelt
+e;rem ruby;wear fire;rem pelt;wear khan
+t;rem cerb;wear cloak;wear girdle
+hp rem fire;rem fire;wear herc;wear ruby;rem skull;wear horn;rem peb;hold bow;rem strange;rem azure;wear mith;wear mith;rem hippoly
+;rem cloak;wear cerb cloak;rem ruby;wear fire
+r;rem cloak;wear pelt cloak;rem nem;wear khan
+dam rem bow;hold peb;rem mith;wear strange;rem mith;wear azure;rem girdle;wear hippolyte;rem extensions;wear skull;rem herc;wear fi
+a shi 2.

@@ -1,0 +1,15 @@
+1 get all all.cor
+buff c 'sanc' $1 ; c 'fort' $1 ; c 'bless' $1
+healt c 'heal' turkey
+healr c 'heal' 
+recall c 'word' gr
+blind c 'blind' $1
+sanc c 'sanc' $1
+infra c 'infra
+assistant c 'assistant'
+armor c 'armor' gr
+fly c 'fly' gr
+gt gt &13$* &00
+sum c 'summon' $1
+heal c 'heal' $1
+bless c 'bless' gr

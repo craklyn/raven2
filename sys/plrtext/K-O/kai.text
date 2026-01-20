@@ -1,0 +1,30 @@
+9 c 'harm' eld
+harm c 'harm' $*
+fs c 'flame strike' $*
+rev c 'rev' $*
+f cast 'fly'$*
+di cast 'detect invis'$*
+sanc cast 'sanc'$*
+rel cast 'relocate' $*
+bless cast 'bless' $*
+regen c 'regen' $*
+cb c 'cure blind' $*
+fort cast 'fort' $*
+gtell gtell &11$* &00
+sense cast 'sense' $*
+sum cast 'summon' $*
+wa wake;stand
+clan cla &13$*&11 
+gt gtell &08$*&00
+heal c 'heal' $*
+sa emote says, '&19&25$*&00
+of order follower $*
+3 c 'flame strike' $*
+rp c 'remove para' $*
+cleanse c 'cleanse' $*
+6 get all all.cor
+ll c 'blind' drel
+99 c 'cleanse' ferrix 
+5 unlock alt
+7 c 'summon' roc 
+8 c 'flame strike' grim

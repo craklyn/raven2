@@ -1,0 +1,354 @@
+#12000
+key~
+an old rusty key~
+A crude piece of metal is buried in the dirt.~
+~
+18 33619972 0 0 0 81921 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+D90
+#12001
+scripture wood plank~
+a small wooden plank~
+A small wooden plank with some scriptures burned onto it hangs on the wall.~
+   "And like a plague of boils, the race of man covered the earth.  But on the
+third day of the newest light will come the Harvest, when the blood of men will
+flow like wine, when the Master will walk among them once more.  The earth will
+belong to the Old Ones...  And Hell itself will come to town.  "
+~
+16 67108864 0 0 0 1 0 0 0
+0 0 0 0
+2 5000 0
+B
+1048704 262144 0 0
+#12002
+key skeleton~
+a skeleton key~
+A scrap of metal sticks out of the dirt.~
+~
+18 33619972 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+D90
+#12003
+aegis bone~
+an Aegis of Human Bones~
+A small pile of bones half buried in dirt.~
+~
+9 679395328 16386 0 0 9 0 0 0
+15 0 0 0
+32 1000000 1110
+A
+19 2
+A
+13 15
+A
+18 2
+A
+12 15
+A
+17 -15
+B
+0 0 0 0
+#12004
+coil soul entrapped~
+a coil of entrapped souls~
+An endless stream of freed souls rush towards the sky.~
+~
+9 8380416 16386 0 0 257 0 0 0
+6 0 0 0
+14 1000000 730
+A
+19 2
+A
+18 2
+A
+13 20
+A
+12 20
+B
+0 0 0 0
+#12005
+wine sacramental~
+Sacramental wine~
+A flask of sacramental wine lies covered in dust.~
+~
+10 33555456 0 0 0 1 0 0 0
+50 77 166 0
+3 10000 1000
+B
+0 0 0 0
+#12006
+cabinet wine~
+a wine cabinet~
+An old beaten up wine cabinet is against the wall.~
+~
+15 0 0 0 0 0 0 0 0
+100 5 -1 0
+0 0 100
+B
+0 0 0 0
+#12007
+chest iron~
+a large iron chest~
+A large iron chest is nestled in the corner.~
+~
+15 0 0 0 0 0 0 0 0
+1000 15 12014 0
+0 0 1000
+B
+0 0 0 0
+#12008
+bracelet black fire~
+a bracelet of &07black&00 fire~
+A pile of leather lies in the dirt.~
+~
+9 8314880 16390 0 0 4097 0 0 0
+10 0 0 0
+5 1000000 690
+A
+19 2
+A
+18 2
+A
+13 20
+A
+12 10
+B
+0 0 0 0
+#12009
+cabinet wine~
+a wine cabinet~
+An old beaten up wine cabinet is against the wall.~
+~
+15 0 0 0 0 0 0 0 0
+100 15 12000 0
+0 0 100
+B
+0 0 0 0
+#12010
+wine bottle~
+a jagged broken wine bottle~
+A cracked and broken wine bottle is stuck in the dirt.~
+~
+13 65540 0 0 0 1 0 0 0
+0 0 0 0
+10 0 0
+Z 12001
+Z 12005
+B
+0 0 0 0
+#12011
+bible~
+a bible~
+A large bible on a podium.~
+The bible has been left open to passage Ezekiel 25:17.  It reads:
+
+
+   "The path of the righteous man is beset on all sides by the iniquities of
+the selfish and the tyranny of evil men.  Blessed is he who, in the name of
+charity and good will, shepherds the weak through the valley of the darkness.
+For he is truly his brother's keeper and the finder of lost children.  And I
+will strike down upon thee with great vengeance and furious anger those who
+attempt to poison and destroy my brothers.  And you will know my name is The
+Lord when I lay my vengeance upon thee.  "
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#12012
+key metal~
+a scrappy metal key~
+A long thin scrap of metal sticks in the dirt.~
+~
+18 65540 0 0 0 1 0 0 0
+0 0 0 0
+2 0 0
+B
+0 0 0 0
+D90
+#12013
+coffin~
+a coffin~
+A coffin rests in the center of the room.~
+~
+15 0 0 0 0 0 0 0 0
+1 5 -1 0
+0 0 1
+Z 12003
+B
+0 0 0 0
+#12014
+key chain~
+a tiny key on a chain~
+A small clump of metal chains lies here.~
+~
+18 65548 0 0 0 32769 0 0 0
+0 0 0 0
+5 50000 0
+B
+0 0 0 0
+D30
+#12015
+torch~
+a torch~
+A torch is hung on the wall, lighting the room.~
+~
+1 0 0 0 0 16384 0 0 0
+0 0 -1 0
+0 0 1000
+Z 12006
+E
+torch~
+The torch seems to do more than light the room.
+~
+B
+0 0 0 0
+#12016
+torch~
+a torch~
+A torch is hung on the wall, lighting the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 0 1000
+Z 12007
+E
+torch~
+The torch seems to do more than light the room.
+~
+B
+0 0 0 0
+#12017
+torch~
+a torch~
+A torch is hung on the wall, lighting the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 0 1000
+Z 12008
+E
+torch~
+The torch seems to do more than light the room.
+~
+B
+0 0 0 0
+#12090
+fast learn~
+fast learning~
+Fast learn helps learn skills and spells faster.~
+~
+10 0 0 0 0 1 0 0 0
+50 154 0 0
+0 100000 10000
+E
+fast learn~
+fast learn helps learn skills and spells faster.
+~
+B
+0 0 0 0
+#12093
+scroll protection ~
+a scroll of protection~
+A scroll of ancient origin has been discarded in the dirt.~
+~
+2 0 0 0 0 1 0 0 0
+50 36 77 0
+2 100000 10000
+B
+0 0 0 0
+#12094
+bird crystal~
+a crystal bird~
+A crystal bird has been left behind.~
+~
+12 0 0 0 0 65537 0 0 0
+0 0 0 0
+3 50000 3900
+A
+1 5
+A
+2 5
+A
+4 5
+A
+3 5
+A
+5 5
+A
+5 5
+B
+197672 0 0 0
+#12095
+glass shard~
+a shard of broken glass~
+Shards of broken glass scatter the ground.~
+~
+5 1536 16386 0 0 24577 0 0 0
+0 1 1 11
+10 7635 2
+B
+0 0 0 0
+#12096
+portal shimmering o12096~
+a &06shimmering&00 portal~
+You catch a faint glimpse of a portal fading in and out of existance.~
+~
+24 0 0 0 0 0 0 0 0
+16321 -1 10 0
+10 1000000 0
+B
+0 0 0 0
+#12097
+pencil 12097~
+a No. 2 Pencil~
+A yellow pencil is stuck in the foam ceiling above.~
+~
+5 0 0 0 0 8193 0 0 0
+0 100 100 11
+0 0 2513185
+A
+33 51
+B
+0 0 0 0
+#12098
+aura evil~
+an aura of absolute evil~
+You sense the presence of absolute evil.~
+~
+9 0 0 0 0 65537 0 0 0
+15 0 0 0
+23 666666 300
+A
+29 30
+A
+30 10
+A
+30 30
+A
+30 30
+A
+30 30
+A
+33 51
+B
+5244072 0 0 0
+#12099
+calebs sack~
+&08Caleb's&00 &09Sack&00~
+&08Caleb's&00 &09Sack&00~
+~
+15 67108876 0 0 0 1 0 0 0
+100 1 -1 0
+0 0 100
+B
+0 0 0 0
+D1
+$~

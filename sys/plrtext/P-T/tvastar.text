@@ -1,0 +1,22 @@
+dur gtell assist
+pray c 'prayer' $*
+rv c 'righteous'
+regen c 'regen' $*
+cl clan &03$* &00
+di cast 'detect invis' $*
+armor cast 'armor' $*
+pfe cast 'protection from evil'
+gt gt &14$* &00
+cs cast 'cure serious' $*
+rp cast 'remove poison' $*
+food cast 'create food'
+wanderer title :: &09Wanderer&00
+holy cast 'holy armor'
+cwho clanwho
+f scan
+cc c 'cure crit' $*
+cb c 'cure blind' $*
+r rescue $*
+divine c 'divine'
+g give fish inky
+para c 'remove para' $*

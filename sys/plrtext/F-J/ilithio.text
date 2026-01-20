@@ -1,0 +1,17 @@
+t cast 'tremor'
+title title the &14Rock&00 &07Head&00
+0 exits
+aa assist $*
+ss scan $*
+ds destroy corpse
+g get all corpse
+inv examine back
+11 get all.roll all.cor
+1 get all.roll all.cor
+3 tell xan rev
+2 tell xan grec
+4 tell xan sanc
+5 tell xan arm
+clan clan &03|&00&14:&00&03|&00&14$* &00&03|&00&14:&00&03|&00
+say say &03|&00&14:&00&03|&00&14$* &00&03|&00&14:&00&03|&00
+gsay gsay &03|&00&14:&00&03|&00&14$* &00&03|&00&14:&00&03|&00

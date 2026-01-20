@@ -1,0 +1,45 @@
+g c 'summon' barry
+v c 'revive' duke
+fr c 'demon fire'eld;des cor
+b c 'blindness' $*
+li c 'chain lightning' 
+cb c 'cure blind' $*
+a c 'banish' $*
+cl c 'cleanse' $*
+y  
+di c 'detect invisibility' $*
+dis c  'dishearten'$*
+h cast 'heal' $*
+wa wa;st
+gt gt &07:/&11$*&07:/&00
+rel c 'relocate' $*
+rpa cast 'remove paralysis' $*
+rp cast 'remove poison' $*
+ble cast 'bless' $*
+wr cast 'word of recal' $*
+rc cast 'remove curse' $*
+reg cast 'regenerate' $*
+ar cast 'armor' $*
+fly cast 'fly' $*
+war cast 'ward' $*
+su cast 'summon' $*
+da cast 'detect alignment'
+se cast 'sense life' $*
+wat cast 'create water'$*
+fo cast 'fortify' $*
+ass cast 'assistant'
+sag cast 'sagacity'$*
+foo c 'create food'; eat way
+r c 'revive' $*
+sa emote starts to emanate &07Smoke&00.; c 'sanctuary' $*
+cc c 'cure critic' $*
+ha c 'harm' $*
+de c 'dispel evil' $*
+hw c 'holy word' $*
+m flee
+f c 'demon fire' $*
+x c 'maledict' $*
+go c 'summon' dolophonos
+j get all all.talis;wear all;get all all.talis;wear all;wiel lol;hold sac;save
+fe c 'demon fire' ruffian;des cor
+t c 'revive' tenx

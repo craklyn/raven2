@@ -1,0 +1,37 @@
+sit rest
+o who; clanwho
+ooc ooc &14$* &09
+9 cast 'heal' group
+gt gt &14$* &00
+\ cast 'detect alignment' $*
+relocate cast 'relocate' $*
+heal cast 'revive' $*
+fort cast 'fortify' $*
+bless cast 'bless' $*
+0 des corp
+= cast 'detect invis' $*
+ward cast 'ward' $*
+armor cast 'armor' $*
+word cast 'word of recall' $*
+summon cast 'summon' $*
+- cast 'sense life'
+food cast 'create food'
+33 cast 'word of recall' $*
+blind cast 'blindness' $*
+3 cast 'word of recall' group
+fly cast 'fly' $*
+6 cast 'heal' $*
+harm cast 'harm' $*
+sanct cast 'sanctuary' $*
+faeriebook w; w; w; w; w; w; w; w; w; w; n; e; n; e; n; e; n; n; enter book; d; d; w; s; e; d; s; d; s; s; d; s
+regen cast 'regen' $*
+werewolf s;s;s;s;s;s;s;s;e;e;e;s;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n
+assist cast 'assistant'
+banish cast 'banish' $*
+cleanse cast 'cleanse' $*
+earth cast 'earthquake'
+grimlocks 14w2s2w3se2sw14s6e2s4e3n7ese6s
+clan clan &09$* &11
+say emote croaks, '&09$*&00 '
+2 cast 'revive' pinch
+1 cast 'revive' $*

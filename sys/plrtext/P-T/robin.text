@@ -1,0 +1,13 @@
+gt gt &06{&07^&06} &02$* &06{&07^&06}&00
+armor c 'armor' $*
+pfe c 'protection from evil'
+rs retreat south
+ret retreat east
+rw retreat west
+rn retreat north
+ru retreat up
+rd retreat down
+food c 'create food' 
+m rec rec rec
+di c 'detect invis' $*
+title title The Brave Sir

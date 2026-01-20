@@ -1,0 +1,564 @@
+#13801
+G W 0~
+zeus god~
+Zeus~
+Zeus, ruler of Olympus, stands before you.
+~
+You see before you Zeus, god of the Air and ruler of Olympus. It seems as
+if he could destroy you with a thought.  Every glance penetrates deep
+into your soul. You now know what true fear is.
+~
+192602 0 0 0 1180860 0 0 0 1000
+51 -20 -10 10d10+28000 18d18+100
+90 100
+9 9 1 12 -1 -1
+#13802
+G R 0~
+prometheus god~
+Prometheus~
+Prometheus stands here smiling.
+~
+Son of the Titan Iapetus, Promethius is the wisest of the Titans.  His
+great wisdom led him to side with Zeus against Cronus and the Titans,
+and thus avoid the severe punishments visited upon them by the victorious
+gods.  He now holds his own place here in Olympus among the gods.
+
+~
+12378 0 0 0 1180840 0 0 0 1000
+50 -10 -10 5d10+8000 15d3+20
+80 90
+9 9 1 18 17 -1
+#13803
+H T 0~
+hermes~
+Hermes~
+Hermes paces impatiently here.
+~
+This is the messenger of the Gods.  He wears a winged helm and boots,
+and darts from place to place.  He looks very busy, and it seems as if
+he doesn't even notice your presence.
+~
+28760 0 0 0 1180840 0 0 0 0
+50 -10 -7 5d10+8000 15d3+20
+80 90
+9 9 1 0 -1 -1
+#13804
+G W 0~
+poseidon~
+Poseidon~
+Poseidon is resting here.
+~
+He is the brother of Zeus himself, chosen to rule the seas.  He spends
+much of his time visiting Mount Olympus.  
+~
+28762 0 0 0 1180840 0 0 0 -70
+50 -20 -10 5d100+15000 20d3+50
+80 90
+9 9 1 0 -1 -1
+#13805
+G W 0~
+apollo~
+Apollo~
+Apollo is here, playing a tune.
+~
+This jovial God is strumming on a lyre.  You notice a dangerous looking
+bow by his side, however, and think that he knows more than music.
+~
+28762 0 0 0 1180840 0 0 0 700
+50 -10 -10 5d100+6000 15d3+30
+80 90
+9 9 1 0 -1 -1
+#13806
+G W 0~
+ares~
+Ares~
+Ares stands before you, anticipating combat.
+~
+Ares, the God of War is always equipped for combat and will take every
+opportunity to practice his art.
+
+~
+30590 0 0 0 1213628 0 0 0 -1000
+50 -20 -10 5d100+15000 20d5+20
+80 90
+9 9 1 0 -1 -1
+#13807
+H W 0~
+athena goddess~
+Athena~
+Athena is relaxing here.
+~
+Athena, goddess of wisdom and combat, is resting here comfortably.  She
+looks like she would be equally comfortable in battle.
+~
+31066 0 0 0 1049772 0 0 0 1000
+50 -20 -10 5d100+15000 20d5+20
+80 90
+7 9 2 0 -1 -1
+#13808
+G W 0~
+hephaestus smith~
+Hephaestus~
+Hephaestus the Smith is here, perfecting his craft.
+~
+This God is the only one who is not physically perfect.  He is lame
+and very ugly.  You sense kindness in his eyes, however.
+~
+28762 0 0 0 1049768 0 0 0 0
+42 0 -7 5d10+7000 13d6+25
+65 75
+9 9 1 0 -1 -1
+Z 13801
+#13809
+H W 0~
+handmaid golden~
+a Golden Maiden~
+A Handmaid of gold is here, assisting the smith.
+~
+As you gaze upon this creation, you realize that she is made from solid
+gold.  She seems to be very lifelike as she assists the smith in his work.
+~
+28762 0 0 0 1049640 0 0 0 0
+30 0 0 10d5+500 2d8+20
+50 60
+9 9 2 0 -1 -1
+#13810
+H W 0~
+soldier~
+a Soldier~
+A mortal soldier is here, assisting Ares.
+~
+This mortal was chosen by Ares to assist him in Olympus.  Although he
+does not look very strong, you realize that Ares would not have any
+weaklings working for him.
+~
+32622 0 0 0 1068 0 0 0 -1000
+35 0 -5 1d500+1000 10d3+10
+50 60
+9 9 1 0 -1 -1
+#13811
+H W 0~
+musician apprentice~
+an apprentice musician~
+A musician is here, learning from Apollo.
+~
+This mortal has been chosen by the gods to learn music from Apollo so
+that he may teach it to other mortals.  Apollo's students tend to be
+excellent warriors as well....
+~
+28762 0 0 0 1064 0 0 0 700
+30 0 0 1d200+800 10d3+10
+50 60
+9 9 1 0 -1 -1
+#13812
+H W 0~
+boy serving servant~
+a servant~
+A servant of the gods is here.
+~
+This mortal has been chosen to serve the gods.  Here on Olympus, even the
+servants must be skilled warriors.
+~
+24584 0 0 0 1049640 0 0 0 0
+35 0 -7 1d100+400 6d5+5
+50 60
+9 9 1 0 -1 -1
+#13813
+A W 0~
+hound dog war~
+a hound of war~
+A large hound snarls at you.
+~
+This great beast can barely be called a dog.  It has been bred to cause fear
+on the battle field, and you have no doubt that it does its job well.
+~
+32634 0 0 0 1068 0 0 0 -600
+35 0 0 1d100+450 2d12+10
+50 60
+9 9 1 4 -1 -1
+#13814
+H H 0~
+tyche~
+Tyche~
+Tyche, goddess of Good Fortune is resting here.
+~
+Tyche appears as a rather small, almost elfin, human woman.  She isn't
+as well-known as some of her brother and sister gods, but her services
+as goddess of good fortune are in high demand in gambling halls and
+battle fields everywhere.
+~
+30794 0 0 0 1246396 0 0 0 0
+50 -10 -10 1d1+7000 15d2+30
+80 90
+9 9 2 0 -1 -1
+#13815
+H W 0~
+baker shopkeeper~
+the Baker~
+The baker stands here.
+~
+The baker awaits your order.
+~
+57418 0 0 0 33852 0 0 0 0
+50 -30 -10 2d50+30000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#13816
+H W 0~
+alchemist shopkeeper~
+the Alchemist~
+The ancient, wizened Alchemist stands here.
+~
+Skilled in all manner of magic, as well as the ancient art of alchemy, he
+stands ready to supply the inhabitants of Olympus with all manner of
+arcane supplies.
+~
+57418 0 0 0 33852 0 0 0 0
+50 -30 -10 2d50+30000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#13817
+H W 0~
+weapon smith shopkeeper~
+the Weapon Smith~
+The weapon smith stands here.
+~
+The weapon smith awaits your order.
+~
+57418 0 0 0 33852 0 0 0 0
+50 -30 -10 10d30+30000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#13818
+H W 0~
+armorer shopkeeper~
+the Armorer~
+The Armorer stands here.
+~
+The armorer awaits your order.
+~
+57418 0 0 0 33852 0 0 0 0
+50 -30 -10 2d50+30000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#13819
+H W 0~
+theseus~
+Theseus~
+Theseus, hero of Athens, stands here.
+~
+Theseus looks almost as strong as his cousin, Hercules.  He is, however,
+very open and brutally honest.  It would be wise not to arouse his anger.
+~
+30792 0 0 0 1184812 0 0 0 1000
+45 -10 -10 1d1+1500 10d3+20
+65 75
+9 9 1 0 -1 -1
+#13820
+D M 0~
+chimera~
+a chimera~
+A chimera prowls the cell.
+~
+This bizarre creature has three heads - one of a goat, one of a lion, and one
+of a dragon.  It growls at you as you enter the cell, then suddenly attacks!
+~
+135214 0 0 0 525502 0 0 0 -1000
+34 0 -3 10d10+5000 10d10+45
+50 60
+9 9 1 8 4 4
+#13821
+G W 0~
+hera~
+Hera~
+Hera, goddess of marriage and intrigue is here.
+~
+Hera appears as a very tall woman.  She seems disturbed about something.
+~
+30794 0 0 0 132268 0 0 0 300
+50 -25 -10 5d10+10000 20d3+25
+80 90
+9 9 2 0 -1 -1
+#13822
+A W 0~
+roc~
+a roc~
+A roc is here.
+~
+This is a giant bird.  It looks at you quizzically, then makes a noise and
+looks away.
+~
+14 0 0 0 532650 0 0 0 0
+25 0 0 1d8+400 3d8+6
+40 40
+9 9 0 8 16 -1
+#13823
+H W 0~
+citizen mortal resident~
+a mortal citizen~
+A mortal citizen of Olympus is standing here.
+~
+This is one of the mortals priveledged enough to have been chosen by
+the gods of Olympus to serve them.  He looks happy and carefree.
+~
+26828 0 0 0 1064 0 0 0 0
+30 5 6 1d200+500 5d5+5
+50 60
+9 9 1 0 -1 -1
+#13824
+A W 0~
+pegasus horse~
+a pegasus~
+A large horse with wings is here.
+~
+This horse is snow white with large wings.  Although it doesn't look very
+threatening, it seems as though it would be dangerous if provoked.
+~
+14 0 0 0 532650 0 0 0 0
+14 12 4 1d8+500 5d5+10
+35 40
+9 9 0 23 -1 -1
+#13825
+H W 0~
+craftsman shopkeeper~
+the Craftsman~
+The craftsman is here, hard at work.
+~
+The craftsman looks at you expectantly.
+~
+57418 0 0 0 33852 0 0 0 0
+50 -30 -10 2d50+30000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#13826
+H W 0~
+guard~
+a guard~
+A guard is here, watching for intruders.
+~
+He looks as though he has spent a lot of time underground, guarding the
+prisoners.
+~
+28778 0 0 0 1064 0 0 0 0
+35 0 -8 1d500+1000 10d3+20
+50 60
+9 9 1 0 -1 -1
+#13827
+H W 0~
+hestia~
+Hestia~
+Hestia, goddess of the Hearth is resting here.
+~
+Hestia, sister of Zeus and goddess of the Hearth, looks like a normal
+human woman.  She is dressed as any maid or nanny might be dressed...
+but you can still sense the power of a goddess beneath the simple
+clothing...
+~
+30798 0 0 0 1180840 0 0 0 500
+50 -10 -10 1d1+9000 20d2+20
+80 90
+9 9 2 0 -1 -1
+#13828
+H W 0~
+aphrodite~
+Aphrodite~
+Aphrodite, goddess of Love, Beauty, and Passion lounges here.
+~
+You see before you the most beautiful creature you could possibly imagine.
+The longer you look at her, the more you wish to stay here and serve her..
+forever.
+~
+30794 0 0 0 1180840 0 0 0 700
+50 -10 -10 1d1+5000 13d2+20
+80 90
+6 9 2 0 -1 -1
+#13829
+H W 0~
+artemis diana~
+Artemis~
+Artemis, goddess of the hunt, stands here.
+~
+Somtimes called "Diana", this goddess appears tom-boyish in her hunting
+garb.  Even so, she is very beautiful...and very good at her vocation.
+~
+30794 0 0 0 427176 0 0 0 800
+50 -20 -10 1d1+10000 20d2+20
+80 90
+9 9 2 0 -1 -1
+#13830
+A W 0~
+eagle white~
+the White Eagle of Zeus~
+Zeus' giant white eagle is perched here.
+~
+This appears to be a GIANT bald eagle with pure white feathers.  Since
+it is Zeus' pet, you know it is much more..
+~
+161866 0 0 0 99580 0 0 0 0
+30 0 -5 10d10+8000 10d10+25
+50 60
+9 9 0 16 8 -1
+#13831
+H W 0~
+achilles~
+Achilles~
+Achilles stands before you.
+~
+A tall warrior clad in golden chainmail stands here.
+~
+30792 0 0 0 33836 0 0 0 800
+40 0 -10 1d1+1000 10d3+20
+65 75
+9 9 1 0 -1 -1
+#13832
+H W 0~
+bellerophon~
+Bellerophon~
+Bellerophon stands before you.
+~
+Bellerophon is a tall warrior who is famous for defeating the chimerae.
+~
+30792 0 0 0 33836 0 0 0 1000
+30 0 -7 1d1+1000 10d3+10
+50 60
+9 9 1 0 -1 -1
+#13833
+H M 0~
+circe~
+Circe~
+Circe cackles with insane glee.
+~
+Circe looks like a very capable mage....she also looks very evil and
+quite insane.
+~
+32618 0 0 0 1082412 0 0 0 -1000
+45 -10 -7 1d1+3000 15d3+30
+65 75
+9 9 2 12 -1 -1
+#13834
+G W 0~
+greater cyclops~
+a greater cyclops~
+A greater cyclops assists Hephaestus.
+~
+This 21 foot tall, one-eyed giant was a gift from Hera to Hephaestus.
+He assists Hephaestus in his smithy.
+~
+30750 0 0 0 33836 0 0 0 0
+40 -5 -50 1d500+1000 20d2+25
+65 75
+9 9 1 18 17 -1
+#13835
+H W 0~
+demeter~
+Demeter~
+Demeter, goddess of agriculture, stands here.
+~
+Demeter appears as a beautiful woman. She holds a wooden shield and wields
+a wooden spear.
+~
+63562 0 0 0 4326572 0 0 0 800
+50 -10 -10 1d1+5000 20d2+20
+80 90
+9 9 2 0 -1 -1
+#13836
+H W 0~
+dionysus~
+Dionysus~
+Dionysus, god of wine, revels here.
+~
+Dionysus appears as a young man wearing purple robes. He seems to be
+enjoying himself.
+~
+30794 0 0 0 1442988 0 0 0 -100
+50 -10 -10 1d1+8000 20d2+20
+80 90
+9 9 1 0 -1 -1
+#13837
+H W 0~
+jason~
+Jason~
+Jason, hero of the quest for the golden fleece, stands here.
+~
+Jason appears weathered after years of travel on his ship, the Argo.
+~
+30792 0 0 0 295976 0 0 0 800
+30 0 -7 1d1+1500 10d3+20
+50 60
+9 9 1 0 -1 -1
+#13838
+H W 0~
+nike~
+Nike~
+Nike, goddess of victory, stands here.
+~
+Nike appears as a 6 foot tall woman with wings.  She also appears to be
+annoyed with your presence.
+~
+30826 0 0 0 165036 0 0 0 200
+50 -10 -10 1d1+8000 20d2+20
+80 90
+9 9 2 0 -1 -1
+#13839
+H W 0~
+odysseus~
+Odysseus~
+Odysseus stands here.
+~
+Odysseus is only 5'8" tall, but he is made of solid muscle. 
+~
+30792 0 0 0 295976 0 0 0 500
+35 0 -8 1d1+1000 10d3+10
+50 60
+9 9 1 0 -1 -1
+#13840
+H W 0~
+perseus~
+Perseus~
+Perseus stands here.
+~
+Perseus is the famed warrior who defeated the first and most powerful
+medusa.  He wields a very nice looking longsword.
+~
+30792 0 0 0 132140 0 0 0 1000
+40 0 -8 1d1+1500 15d2+10
+65 75
+9 9 1 0 -1 -1
+#13841
+H W 0~
+bartender shopkeeper~
+the Bartender~
+the bartender stands here.
+~
+The bartender awaits your order.
+
+~
+57418 0 0 0 33852 0 0 0 0
+50 -30 -10 2d50+30000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#13842
+H W 0~
+receptionist olympian~
+the Olympian Receptionist~
+The receptionist stands here.
+~
+The receptionist looks at you expectantly.
+~
+57418 0 0 0 33852 0 0 0 0
+50 -30 -10 2d50+30000 10d10+100
+80 90
+9 9 2 0 -1 -1
+#13843
+H W 0~
+olympian immortal soldier guard~
+an Olympian Soldier~
+An Olympian soldier stands here, ready to obey his god.
+~
+He is well-equipped and looks prepared for any contingency.
+~
+192606 0 0 0 13468 0 0 0 0
+40 0 -8 10d10+6000 10d10+10
+65 75
+9 9 1 0 -1 -1
+$

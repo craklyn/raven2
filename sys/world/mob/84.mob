@@ -1,0 +1,507 @@
+#8401
+H M 0~
+Garckin Mage~
+Garckin~
+Garckin spins at your interruption and screams 'YOU DARE!!'
+~
+Garckin is an old and wisened wizard with a salt-n-pepper beard.  Looking into
+his eyes you can see the depth of much hard earned knowledge, contrasted with a
+look of sorrow.    
+~
+1599530 0 0 0 40 0 0 0 150
+25 5 -6 100d3+2000 7d8+12
+40 40
+9 9 1 21 -1 -1
+#8402
+H P 0~
+quiglee hunter demon~
+Quiglee~
+A demon hunter is here looking for demons.
+~
+   Quiglee looks to have some experience at his chosen profession.  Well built
+and muscular, he looks like he could crack your skull with his bare hands.
+~
+2440 0 0 0 16 0 0 0 500
+20 10 -5 100d3+1000 8d7+8
+40 40
+9 9 1 13 -1 -1
+#8403
+N A 0~
+imp higgins~
+Higgins~
+An imp is skulking through the underbrush here.
+~
+Higgins flashes you an evil grin and says, "Beware the woods."
+~
+2252 0 0 0 262144 0 0 0 -350
+20 10 -3 100d6+500 8d7+6
+40 40
+9 9 1 0 -1 -1
+#8404
+N A 0~
+imp brockhearst~
+Brockhearst~
+An imp is skulking through the underbrush here.
+~
+Brockhearst flashes you an evil grin and says "Beware the Inn."
+~
+2252 0 0 0 262144 0 0 0 -350
+20 10 -3 100d6+500 8d7+6
+40 40
+9 9 1 0 -1 -1
+#8405
+A W 0~
+bird lizard~
+a lizard-bird~
+A strange reptilian looking creature is scavenging through the underbrush.
+~
+You see a creature with a very thick hide, but small feather covered wings 
+scrounging around looking for food.
+~
+72 0 0 0 0 0 0 0 1000
+15 14 5 5d10+500 6d5+4
+35 40
+9 9 0 4 -1 -1
+#8406
+A W 0~
+spider cat~
+a spider-cat~
+A strange looking creature hangs from a web.
+~
+This thing has the body and tail of a cat, 
+but the head and legs of a large spider.
+It doesn't look very friendly.
+~
+72 0 0 0 0 0 0 0 1000
+15 14 5 5d10+500 6d5+4
+35 40
+9 9 0 8 -1 -1
+#8407
+A W 0~
+deer boar~
+a deer-boar~
+You hear the sounds of a wild boar.
+~
+Something very strange is going on here. 
+A head of a wild boar on the body of a deer
+is just not natural.
+~
+72 0 0 0 0 0 0 0 1000
+15 14 5 5d10+500 6d5+4
+35 40
+9 9 0 9 -1 -1
+#8408
+A W 0~
+turtle rabbit~
+a rabbit-turtle~
+A strange creature hides in the bushes.
+~
+A turtle with long ears and a cotton tail.
+Someone is messing with nature.
+~
+72 0 0 0 0 0 0 0 1000
+15 14 5 5d10+500 6d5+4
+35 40
+9 9 0 10 -1 -1
+#8409
+A W 0~
+chicken~
+a woolly chicken~
+A strange looking chicken pecks at the ground.
+~
+Thick, gray wool has replaced the feathers of this 
+thing, and it scratches at the ground with hooves.
+~
+72 0 0 0 0 0 0 0 1000
+15 14 5 5d10+500 6d5+4
+35 40
+9 9 0 16 -1 -1
+#8410
+H W 0~
+citizen~
+a citizen~
+A citizen of Twixt walks through town, with a sad look on his face.
+~
+The citizen turns towards you and says 'Beware the woods."
+~
+204 0 0 0 0 0 0 0 1000
+15 12 3 5d10+800 6d5+6
+35 40
+9 9 1 13 -1 -1
+#8411
+H W 0~
+citizen~
+a citizen~
+A citizen of Twixt walks through town, with a worried look on his face.
+~
+The citizen turns towards you and says 'Beware the Inn."
+~
+204 0 0 0 0 0 0 0 1000
+15 12 3 5d10+800 5d6+6
+35 40
+9 9 1 13 -1 -1
+#8412
+H W 0~
+citizen~
+a citizen~
+A citizen of Twixt walks through town, with a frightened look on his face.
+~
+The citizen turns towards you and says 'Any of "THEM" around?"
+~
+204 0 0 0 0 0 0 0 1000
+15 12 3 5d10+800 6d5+6
+35 40
+9 9 2 13 -1 -1
+#8413
+H W 0~
+citizen~
+a citizen~
+A citizen of Twixt sits here with a dazed look on his face.
+~
+The citizen turns towards you and says 'I saw one of "THEM".
+~
+204 0 0 0 0 0 0 0 1000
+15 12 3 5d10+800 6d5+6
+35 40
+9 9 2 13 -1 -1
+#8414
+H W 0~
+soldier member militia~
+a soldier~
+A member of the town's militia is here, drowning his sorrows.
+~
+The soldier is trying very hard to forget his job.  He looks
+worried.
+~
+6154 0 0 0 0 0 0 0 1000
+20 10 2 50d3+1000 7d5+8
+40 40
+6 6 1 0 -1 -1
+#8415
+H W 0~
+soldier member militia~
+a soldier~
+A member of the town's militia is here keeping things in relative order.
+~
+The soldier looks completely unthrilled with his job.  He looks worried.    
+~
+6216 0 0 0 0 0 0 0 1000
+20 10 2 50d3+1000 7d5+8
+40 40
+9 9 1 0 -1 -1
+#8416
+H W 0~
+captain militia~
+the Captain~
+The Captain of the Militia is here, drinking.
+~
+The Captain looks to be well skilled officer, who unfortunately for him, got
+assigned to this pathetic little hole of a town. You hear him mutter, "Why me?"
+~
+530442 0 0 0 0 0 0 0 1000
+25 10 -2 100d3+1800 8d7+10
+40 40
+6 6 1 9 -1 -1
+#8417
+N M 0~
+isstvaan~
+Isstvaan~
+Isstvaan says, "Welcome to my humble Inn.'
+~
+Isstvaan looks like something out of your nightmares.  His skin is
+totally white, with long white hair flowing down his back.  He can't
+seem to wipe the grin off his face. He looks like he knows a great
+secret.
+~
+92187 0 0 0 131208 0 0 0 -600
+30 1 -8 100d3+1100 10d2+10
+50 60
+6 6 1 12 -1 -1
+#8418
+N T 0~
+abdool~
+Abdool~
+Abdool jumps up as you walk in, eager for your money.
+~
+Abdool has to be the slimiest salesman you have ever seen.  Never
+before have you felt so sized up just for walking in the door.  By
+the glint in his eye you think he guessed how much gold your
+carrying, down to the coin.
+~
+26715 0 0 0 262276 0 0 0 0
+25 5 -6 100d3+100 5d2+5
+40 40
+9 9 1 0 -1 -1
+#8419
+H W 0~
+baker~
+the Baker~
+The baker frosts a large white cake.
+~
+The baker is a round faced, pleasant looking fellow, who looks like
+he has to sample everything he bakes.
+~
+18459 0 0 0 262276 0 0 0 0
+20 2 -7 100d1+150 7d4+5
+40 40
+6 6 1 0 -1 -1
+#8420
+H W 0~
+grover grocer~
+Grover~
+Grover hurries over to help you.
+~
+Grover the grocer enjoys his job and the money it brings him. He is
+very glad to see a stranger wander into his shop. He will be able to
+use his special "welcome sucker...err...stranger" rates.
+~
+18459 0 0 0 262276 0 0 0 0
+30 8 -4 1d1+1500 3d6+12
+50 60
+9 9 1 0 -1 -1
+#8421
+H W 0~
+mayor maynard~
+Maynard~
+The Mayor tips his hat as he rushes by.
+~
+Maynard the mayor is in quite the hurry, but at least he does say
+hello.
+~
+2188 0 0 0 136 0 0 0 500
+30 8 -4 1d1+1500 3d6+12
+50 60
+9 9 1 0 -1 -1
+#8422
+H W 0~
+accountant arnie~
+Arnie~
+A young man is buried in papers here.
+~
+Arnie peers up at you from behind huge piles of papers that overflow
+from his desk. He has a very worried look upon his face as he asks
+you, "Did you come from the Inn?".
+~
+2190 0 0 0 136 0 0 0 500
+15 8 -4 1d1+500 3d6+12
+35 40
+9 9 1 0 -1 -1
+#8424
+H W 0~
+jarl smithy~
+Jarl, the Smithy~
+Jarl, the Smithy mutters as he goes about his work.
+~
+A large, soot covered man, that swings a huge hammer like you would a
+feather. He has a very worried look on his face and seems to be
+mumbling something about crooked noblemen.
+~
+134473755 0 0 0 263340 0 0 0 0
+50 5 -10 1d1+30000 100d100+100
+80 90
+9 9 1 0 0 0
+Z 7413
+Z 7414
+Z 7415
+#8425
+H W 0~
+trader truman~
+Truman~
+Truman dusts off all his treasures for you to see.
+~
+Dark olive skin and a wide smile tell you right away he is not from
+around here. He seems to be a nomad that gave up wandering for a nice
+little shop. You just can't figure out why he picked here.
+~
+18459 0 0 0 262276 0 0 0 0
+30 8 -4 1d1+1500 3d6+12
+50 60
+9 9 1 0 -1 -1
+#8426
+N H 0~
+shadow demon~
+shadow demon~
+A shadow slithers across the floor.
+~
+A large shadow with teeth!
+~
+18638 0 0 0 1074529322 0 0 0 -500
+20 8 -4 1d1+500 3d6+12
+40 40
+9 9 1 4 8 19
+#8427
+N D 0~
+pile bones~
+a pile of bones~
+The pile of bones rises to its feet.
+~
+You blink several times. A skeleton knight? You must be dreaming.
+~
+18654 0 0 0 0 0 0 0 -500
+20 8 -4 1d1+500 3d6+12
+40 40
+7 9 1 19 15 -1
+#8428
+F M 0~
+flame~
+a flame~
+A flame of red fire burns a path towards you.
+~
+The fire elemental glares at you hungrily. You feel your skin start
+to blister.
+~
+18638 0 0 0 0 0 0 0 -500
+20 8 -4 1d1+500 3d6+12
+40 40
+9 9 1 21 4 -1
+#8429
+T A 0~
+troll~
+the troll~
+A troll staggers to his feet and asks, "Are you supper?"
+~
+Filthy, smelly and down right gross, this huge troll drools as he
+eyes you up and down.
+~
+18654 0 0 0 0 0 0 0 -500
+20 8 -4 1d1+500 3d6+12
+40 40
+9 9 1 15 18 4
+#8430
+V W 0~
+vampire~
+a vampire~
+A vampire smiles at you.
+~
+Showing you yellow stained fangs, this gruesome looking vampire tries
+to make you feel very welcome by offering a relaxing neck massage.
+~
+18654 0 0 0 0 0 0 0 -500
+20 8 -4 1d1+500 3d6+12
+40 40
+7 9 1 20 4 -1
+#8431
+A W 0~
+goose pig~
+a goose-pig~
+You see a pig with wings.
+~
+A large pig with the wings of a goose and webbed feet.
+When pigs fly?
+~
+200 0 0 0 0 0 0 0 -1000
+5 15 5 7d6+10 2d4+3
+35 40
+9 9 0 0 -1 -1
+#8432
+A W 0~
+horse cow hoow~
+a hoow~
+A hoow looks over at you.
+~
+The front is a horse, the back is a cow.
+Should you ride it, or milk it?
+~
+200 0 0 0 0 0 0 0 -1000
+5 15 5 7d6+10 2d4+3
+35 40
+9 9 0 0 -1 -1
+#8433
+H W 0~
+barkeep~
+the Barkeep~
+The Barkeep stands here nodding his head.
+~
+He has a far away look on his face and a pasted on smile.
+You know he isn't even listening to his customers sad stories.
+~
+2186 0 0 0 136 0 0 0 500
+30 8 -4 1d1+1500 3d6+12
+50 60
+9 9 1 0 -1 -1
+#8434
+R W 0~
+werebadger badger~
+a werebadger~
+A werebadger laughs at you.
+~
+Standing on his back legs and glaring right at you this creature
+calmly says, "you want to play also?"
+~
+57370 0 0 0 1196 0 0 0 -500
+30 -9 -10 100d1+1000 10d6+5
+50 60
+9 9 1 4 8 16
+#8435
+U W 0~
+zombie~
+the zombie~
+A large zombie staggers towards you.
+~
+Pieces of dried and decaying flesh hang loosly over the skeletal
+remains of this creature. The hollow blackness the has replaced his
+eye tells you that this thing knows no fear, only death. Yours.
+~
+24728 0 0 0 33960 0 0 0 -1000
+40 -5 -8 10d10+20000 10d6+40
+65 75
+9 9 1 0 -1 -1
+#8436
+A W 0~
+snake water~
+a water snake~
+A large snake slithers towards you.
+~
+A body as big around as a tree and fangs as long as your hand, this
+snake coils around you and begins to squeeze.
+~
+8 0 0 0 33964 0 0 0 -1000
+50 -8 -10 10d20+15000 13d4+60
+80 90
+9 9 0 4 15 17
+#8437
+A T 0~
+look this mob~
+a &09Look at this&00~
+A &09Look at this&00 shouts, "Look at this."
+~
+LOOK
+For studying your surroundings. Examples:
+look                                      
+look AT the angel
+look IN the bag
+look to the south   (or just: look south)
+Note that if you LOOK AT CORPSE you will not see its inventory.
+To see what's inside a container (i.e. a corpse) use LOOK IN <OBJECT>.
+SEE ALSO: EXAMINE, READ
+~
+714892 0 0 0 99372 0 0 0 0
+5 20 8 2d3+60 1d3+0
+35 40
+9 9 1 0 4 0
+#8498
+J S 0~
+digger dikfer~
+a tiny dikfer~
+A dikfer dashes past you in a blur.
+~
+It reminds you of Digger.
+~
+524428 0 0 0 8 0 0 0 0
+10 15 5 10d10+10 5d5+5
+35 40
+9 9 0 0 -1 -1
+#8499
+V A 0~
+Kellory enforcer~
+Kellory's enforcer~
+One of Kellory's enforcers is hunting here!!!
+~
+The enforcer is hunting someone who has pissed off Kellory.  Best wishes
+to the deceased.
+~
+253978 0 0 0 2000042 0 0 0 -1000
+51 -30 -20 5d100+5000 100d100+100
+90 100
+9 9 2 19 16 21
+$

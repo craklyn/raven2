@@ -1,0 +1,48 @@
+war ord fol k 2.war
+ele ord fol k ele
+cor drop all.cor;get all.cor
+chi ord fol k chish
+o tell beat bash
+cl clan &10$* &00
+em cast 'embalm' cor
+bone cast 'bone wall' $*
+charm cast 'charm corpse' $*;gr all
+say say &10$* &00
+gt gt &10$* &00
+emb cast 'embalm' $*
+wf cast 'wraith'
+ed cast 'energy' $*
+cs c 'summon corpse' $*
+bw c 'bone' $*
+ent c 'entomb' $*
+ld c 'life drain' $*
+shield c 'shield' $*
+fly c 'fly' $*
+sum c 'summon' $*
+slow cast 'slow' $*
+deb cast 'debil' $*
+poison cast 'pois' $*
+infra c 'infra' $*
+di cast 'detect invis' $*
+sp c 'soul pierce' $*
+ward c 'create ward'
+invis cast 'invis' $*
+entomb cast 'entomb' $*
+sense cast 'sense' $*
+bl cast 'blindness' $*
+nox cast 'noxious skin' $*
+c cast 'charm corpse' corpse
+a calm
+wr cast 'wraithform'
+elv rec elven
+ccc cast 'consume' $*
+t ord fol k turn
+g get all all.cor
+gshield cast 'shield' group
+gfly cast 'fly' group
+k ord fol k *
+min ord fol k 2.min
+consume cast 'consume' 1.
+sil cast 'silence' $*
+fl flee;flee
+j tell mortis ass

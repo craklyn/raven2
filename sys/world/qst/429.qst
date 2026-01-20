@@ -1,0 +1,273 @@
+#42900
+Hugo~
+   So, you're interested in assisting me in my task.  Many moons ago I created
+a drink for King Xerxes himself, and as a reward he had a flask crafted just
+for me.  Ever since then, I've been unable to recreate the drink, due to a lack
+of supplies.  If you could gather the ingredients for me I could reconnect with
+my roots and attempt to remake the drink.  I really think that would be just
+the thing I need to get back in the groove of things.  If you're interested,
+the ingredients needed for brewing are some special fungus, barley, a cask,
+some malt, and some yeast.    
+~
+Gather some special fungus, barley, a cask, some malt, and some yeast for Hugo.
+~
+25 60 276824064 60 20 15
+G 42900
+O OBJ 42905
+O OBJ 42913
+O OBJ 42914
+O OBJ 42915
+O OBJ 42916
+R OBJ 42917
+Hugo exlaims, 'I think that's everything that I need to make the special intoxicant!'
+Hugo collects all of the ingredients and heads to the backroom of the Tavern.
+A few minutes later, Hugo returns with a weird smelling cask in his hand.
+Hugo grins brightly, 'Thanks to you, I've done it!
+Hugo hands you the &07Darkened Ale of King Xerxes&00.
+Hugo smiles, 'You shall be the first to be served that drink other than the King!'
+~
+R OBJ 42912
+Hugo reaches into a bag under the counter and pulls out a flask with a strange emblem on it.
+Hugo says, "I'll never be able to thank you enough for helping me in this matter."
+Hugo hands you &13the &00&06Flask &00&13of &00&06Brewing &00&13Expertise&00.
+Hugo says, 'That is the flask King Xerxes had crafted for me to reward me for my service.'
+Hugo nods as he says, 'You deserve it now as much as I did then. Enjoy!'
+~
+R QP 5
+&10You have been rewarded with 5 quest points for your assistance.&00
+~
+#42901
+Fubar~
+   The Flame Champion demands your assistance in the destruction of the Holy
+Chishan Forces.  Prove your worth by finding the vile winged creature that has
+assisted Hugo since he was a child.  Decimate him and bring me proof of his
+demise and we shall let you live, possibly even reward you.    
+~
+Find Hugo's winged friend and decimate him.
+~
+35 50 8388608 15 20 15
+G 42946
+O MOB 42919
+R QP 1
+Yuber looks at you with disgust.
+Yuber says, 'Took you long enough, but I guess I shall let you live..'
+Yuber grins evilly, 'Come back when you think you can do things a bit faster.'
+&10You have received one quest point for your contribution to the Fire Champion.&00
+~
+#42902
+Caesar and Apple~
+   So you want to prove your worth to the Flame Champion, huh?  Well, go within
+the Chishan Village and find the dirty tactician and his little annoying
+helper.  Destroy them both and bring me proof of their demise.  Try to make it
+quick, I'm not known for my patience.    
+~
+Find the Chishan tactician and his helper and kill them both.
+~
+35 50 8388608 15 20 15
+G 42946
+P 42901
+O MOB 42932
+O MOB 42933
+R QP 2
+Yuber rolls his eyes at your laziness.
+Yuber says, 'Your blatant disrespect by taking so long annoys me, but nevertheless you did as you were asked.'
+&10You have received two quest points for helping the Flame Champion's cause.&00
+~
+#42903
+Queen, Aila, Ace~
+   So if you're looking to assist us with the destruction of Chishan scum,
+you've come to the right place.  But before joining our legions, you must first
+aid us in destroying the vile creatures within this village.  Travel into the
+Chieftain mansion and destroy the key holder, Geddoe's best friend, and the
+spirit whisperer.  The death of these three will hit that idiot Geddoe where it
+hurts.    
+~
+Find the Chieftain mansion and kill the key holder, the chieftain's best friend, and a spirit whisperer.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42902
+O MOB 42922
+O MOB 42921
+O MOB 42923
+R QP 3
+Yuber raises his eyebrows in surprise.
+Yuber says, 'It pains me to say this, but very nicely done. That should show Geddoe that the Flame Champion will not stand for his insolence.'
+&10You have received three quest points for your assistance.&00
+~
+#42904
+Hallec, Fred, Augustine~
+   To further the advancement of the Flame Champion's campaign, you're being
+recruited to seek out three different individuals and eliminate them.  The
+Flame Champion could easily show her true power and destroy this entire village
+but she wishes to do this in a more personal way.  Your assignment is to seek
+out a noble obsessed with a rose, a barbarian, and a member of the Maximillian
+knights.  Once you find them show them no mercy.  Remember, your life depends
+on it.    
+~
+Seek out a man obssessed with roses, a barbarian, and a member of the Maximillian knights and destroy them.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42903
+O MOB 42920
+O MOB 42924
+O MOB 42925
+R GOLD 300000
+Yuber glares at you relentlessly.
+Yuber says, 'Your idle waiting is really starting to annoy me, but you at least got what we asked of you done.'
+&10You have been rewarded with 300,000 gold coins for assisting the Flame Champion's campaign.&00
+~
+#42905
+Jordi, Lucia, and Sanae~
+   You've come a long ways within the mercenary ranks of the Fire Bringer.  I
+really didn't think you had it in you to even past the first test.  Your next
+assignment is to find a high ranking duck, the mother of hugo, and a martial
+arts princess within the Village.  Once you find them put them out of their
+misery.  I expect you to bring me proof of your deeds or else you will be
+eliminated.    
+~
+Find a high ranking duck, the mother of hugo, and a martial arts princess and kill them.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42904
+O MOB 42926
+O MOB 42927
+O MOB 42929
+R QP 3
+Yuber grins evilly at you.
+Yuber says with a smirk, 'I guess I've underestimated you. Here is your reward.'
+&10You have been given three quest points for assisting the Flame Champion.&00
+~
+#42906
+Estella, Viki, and Nadir~
+   So you are serious about joining our ranks, aren't you?  Your next
+assignment is to destroy three more Chishan members.  Within the village, you
+will find a pathological liar, a blinking magician, and a famous entertainer.
+Kill all three of them and return to me with their heads before I grow
+impatient.    
+~
+Seek and destroy a pathological liar, a blinking magician, and a famous entertainer.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42905
+O MOB 42930
+O MOB 42931
+O MOB 42934
+R GOLD 350000
+Yuber says, 'Took you long enough.'
+Yuber shrugs his shoulders.
+&10You have been rewarded with 350,000 gold coins for assisting the Flame Champion's campaign.&00
+~
+#42907
+Emily, Ikanov, and Zapon~
+   I can tell you're just not going to give up.  This next challenge will take
+some hard work for snakes tend to be a bit restless when cornered.  Find the
+chief of the Lizard Clan, a world-renowned painter, and a daughter of a
+blacksmith and kill all three of them.  If you do not return soon you better
+hope that you're already dead.  For I promise you, death to my hand will be not
+an easy fate.    
+~
+Slay the chief of the Lizard Clan, a world-renowned painter, and a daughter of a blacksmith.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42906
+O MOB 42935
+O MOB 42936
+O MOB 42938
+R QP 3
+Yuber nods approvingly.
+Yuber says, 'Here is your reward. You're getting extremely close to becoming one of us.'
+&10You have been rewarded with three quest points for assisting the Flame Champion.&00
+~
+#42908
+Dominic, Gordon, and Salome~
+   Your next challenge will not be an easy one.  These three individuals all
+fleed our forces previously and I seriously doubt you will be able to end their
+lives.  However, to join us, you must decapitate a supply shop owner, a
+stubborn proprietor, and the military chief of the Chishan Village.  Do this
+and return to me proof of your completion and you will be one step closer to
+serving the Flame Champion.    
+~
+Slay a supply shop owner, a stubborn proprietor, and the military chief of the Chishan Village.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42907
+O MOB 42940
+O MOB 42939
+O MOB 42941
+R QP 3
+Yuber inspects each head very thoroughly.
+Yuber says, 'I am amazed that they fell to someone as puny as yourself.'
+&10You have been rewarded with three quest points by the Flame Champion.&00
+~
+#42909
+Sana~
+   Your next challenge may be the most difficult one you've faced so far.  You
+must find your way into the Chieftain mansion and locate the wife of the Chief.
+She will not be an easy victim for her husband is very protective.  The rune on
+her hand has kept her alive for a long time and I seriously doubt someone like
+you could put an end to her life.  But, if you do so, you will be rewarded
+greatly and be one step closer to joining our ranks.    
+~
+Slay the wife of the Chieftain.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42908
+O MOB 42928
+R QP 1
+Yuber takes a look at the head of the Chieftain wife and nods.
+Yuber says, 'Here is your reward.'
+&10You have been rewarded with one quest point by the Flame Champion.&00
+~
+#42910
+Chris~
+   Your next trial will be to crush the spirit of the protective forces of
+Chishan.  The armed forces of this village adore their leader and without her
+they would be devistated.  Her name has been lost among the Fire Bringer but
+she is known to most as the Silver Maiden.  She is a very decent opponent and
+should not be taken lightly.  Kill her and return to me with her head or else
+the wrath of the Fire Bringer will be brought down upon you.    
+~
+Slay the Silver Maiden and return the head to Yubar.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42909
+O MOB 42909
+R QP 2
+Yuber nods approvingly as he inspects the head of the Silver Maiden.
+Yuber says, 'She was the only Chishan I actually had respect for.'
+&10You have been rewarded with two quest points by the Flame Champion.&00
+~
+#42911
+Geddoe~
+   Your final test will be the last step needed for the Flame Champion to arise
+and decimate those who have stood in her way.  The trials to join our ranks are
+coming to a close but what you must do now is destroy the spirit of hope within
+this village.  The citizens here respect and look up to their Chief and without
+him they will be no match for the power of the Fire Bringer.  Go within the
+Chieftain mansion and slay him once and for all.  With his death, the death of
+this pathetic village will be quickly forthcoming.    
+~
+Find the Chieftain and slay him.
+~
+35 50 8388608 20 20 15
+G 42946
+P 42910
+O MOB 42917
+R QP 5
+Yuber laughs evilly.
+Yuber says, 'You have no idea what you've done.'
+&10You have been rewarded with five quest points for your assistance by the Flame Champion.&00
+~
+R OBJ 42948
+Yuber hands you the Orb of the &01Flame Champion&00.
+Yuber says, 'Look deep into the Orb and you will find all of the answers you have searched for.'
+~
+$~

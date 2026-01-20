@@ -1,0 +1,62 @@
+#51
+The City of Drow~
+5199 53 2 0
+M 0 5100 15 5122     * Mob : the goblin slave
+M 0 5101 10 5118     * Mob : the Drow commoner
+E 1 5100 50 19       * Eqp : a commoner's longsword
+M 0 5101 10 5133     * Mob : the Drow commoner
+E 1 5100 50 19       * Eqp : a commoner's longsword
+M 0 5102 4 5104      * Mob : the drow warrior noble
+E 1 5101 12 19       * Eqp : a noble's longsword
+M 0 5102 4 5124      * Mob : the drow warrior noble
+E 1 5101 12 19       * Eqp : a noble's longsword
+M 0 5102 4 5108      * Mob : the drow warrior noble
+E 1 5101 12 19       * Eqp : a noble's longsword
+M 0 5102 4 5111      * Mob : the drow warrior noble
+E 1 5101 12 19       * Eqp : a noble's longsword
+M 0 5103 4 5104      * Mob : the drow mage noble
+E 1 5102 12 19       * Eqp : a snake headed whip
+M 0 5103 4 5124      * Mob : the drow mage noble
+E 1 5102 12 19       * Eqp : a snake headed whip
+M 0 5103 4 5108      * Mob : the drow mage noble
+E 1 5102 12 19       * Eqp : a snake headed whip
+M 0 5103 4 5111      * Mob : the drow mage noble
+E 1 5102 12 19       * Eqp : a snake headed whip
+M 0 5104 4 5104      * Mob : the drow priestess
+E 1 5103 12 19       * Eqp : a snake headed whip
+M 0 5104 4 5124      * Mob : the drow priestess
+E 1 5103 12 19       * Eqp : a snake headed whip
+M 0 5104 4 5108      * Mob : the drow priestess
+E 1 5103 12 19       * Eqp : a snake headed whip
+M 0 5104 4 5111      * Mob : the drow priestess
+E 1 5103 12 19       * Eqp : a snake headed whip
+M 0 5105 3 5118      * Mob : the drow master
+E 1 5105 3 19        * Eqp : a black longsword
+E 1 5110 5 20        * Eqp : a silvery blue wand
+M 0 5105 3 5120      * Mob : the drow master
+E 1 5104 2 19        * Eqp : a snake headed whip
+E 1 5110 5 20        * Eqp : a silvery blue wand
+M 0 5105 3 5116      * Mob : the drow master
+E 1 5104 2 19        * Eqp : a snake headed whip
+E 1 5110 5 20        * Eqp : a silvery blue wand
+M 0 5106 2 5150      * Mob : the weaponsmaster
+E 1 5105 3 19        * Eqp : a black longsword
+E 1 5109 1 12         * Eqp : a pair of gauntlets
+M 0 5106 2 5101      * Mob : the weaponsmaster
+E 1 5105 3 19        * Eqp : a black longsword
+M 0 5107 3 5125      * Mob : the Matron Mother
+E 1 5106 3 19        * Eqp : a snake headed whip
+G 1 5114 3 -1        * Give: a small bright green hat
+M 0 5107 3 5105      * Mob : the Matron Mother
+E 1 5106 3 19        * Eqp : a snake headed whip
+E 1 5111 2 6         * Eqp : a small helmet
+M 0 5107 3 5109      * Mob : the Matron Mother
+E 1 5106 3 19        * Eqp : a snake headed whip
+E 1 5108 2 13        * Eqp : a pair of bracers
+M 0 5108 1 5113      * Mob : the Matron Mother
+E 1 5107 1 19        * Eqp : a snake headed whip
+E 1 5112 1 1         * Eqp : a small ruby ring
+M 0 5109 1 5148      * Mob : the yochlol
+E 1 5113 1 19        * Eqp : a spider shaped dagger
+S
+$

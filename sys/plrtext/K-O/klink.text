@@ -1,0 +1,24 @@
+z c ' heal ' robben
+x c ' heal ' $*
+wo who
+rc c ' remove curse ' $*
+rpp c ' remove poison ' $*
+f c ' fly ' $*
+see c ' sense life ' 
+2 c ' armor ' $*
+b c ' blind ' $*
+3 c ' word ' $*
+6 c ' ward ' $*
+a assist
+4 c ' create food ' 
+1 get all corp
+di c ' detect invis ' $*
+cb c ' cure blind ' $*
+cw clanwho
+cc c ' cure crit ' $*
+0 c ' summon ' $*
+inf c ' infra '
+tit tit &10Rapture&00 &052.0&00
+rp c ' remove para ' $*
+ear c ' earthquake '
+h c ' harm ' $*

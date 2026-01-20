@@ -1,0 +1,34 @@
+dream c 'dance of dreams'$*
+p get all all.sancho;wear all
+\ dro lucky dice;get lucky dice
+' rec rec rec
+4 c 'curse'$*
+ge gt &08GOING EAST&00;e;bac 2.
+gu gt &08GOING UP&00;u;bac 2.
+gd gt &08GOING DOWN&00;d;bac 2.
+gw gt &08GOING WEST&00;W;bac 2.
+gs gt &08GOIN SOUTH&00;S;bac 2.
+gn gt &08GOING NORTH&00;N;bac 2.
+clan clan &08+&07{&00$* &07}&08+&11
+gt gt &10-&00&06$* &10-&00
+charm c 'charm person'$*
+inv c 'invis'$*
+dance c 'dance of shadows
+blur c 'blur
+blind c 'blind'$*
+1 c 'shadow blades'$*
+= auc -info
+sv c 'shadow vision'$*
+[ wa;st
+sphere c 'shadow sphere
+sen c 'sense
+2 c 'dance of dreams'$*
+say say &08+&07{&00$* &07}&08+&00
+] destroy 1.
+3 c 'dance of mist'$*
+k murder $*
+- em checks his body then checks his crotch.;say im cool
+m GT &08GOING&00;shadowstep n;q oab
+as assist;shad
+o order followers $*
+5 c 'poison'$*

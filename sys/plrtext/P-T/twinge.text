@@ -1,0 +1,31 @@
+h kill 2.
+k backstab 8.
+gt gt &11(&00&01FI&00&11)&14$* &11(&00&01RE&00&11)
+eh cast 'enhanced stealth'
+sen cast 'sense life' me
+1 get all all.cor
+step shadowstep $*
+sd shadow $*
+wall cast 'wall of fire'
+sph cast 'shadow sphere'
+sp cast 'shadow sphere'
+stepd shadowstep down
+stepu shadowstep up
+steps shadowstep south
+stepn shadowstep north
+stepw shadowstep west
+stepe shadowstep east
+dr cast 'dance of dreams' $*
+blur cast 'blur' $*
+sv cast 'shadow vision' $*
+walk cast 'shadow walk'
+dance cast 'dance of shadows'
+tt trip $*
+dream cast 'dance of dreams' $*
+sb cast 'shadow blades' $*
+mist cast 'dance of mists' $*
+del delusion;assist shad
+dd cast 'dance of dreams' $*
+gg emote assists
+j jump $*
+jump shadowjump $*

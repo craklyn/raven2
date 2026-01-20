@@ -1,0 +1,2805 @@
+#17200
+The Farm~
+This area is just a small crappy farm that i thought i'd whip up due to the lack
+of low level areas on the mud. It is designed for levels 1-10.
+Designed and Written By Sauron. Feb 1995.
+~
+172 0 0 0 0 1 255 0
+D1
+To your east are the farm gates.
+~
+~
+0 -1 17201
+S
+#17201
+The Farm Gates~
+You are just inside the gates of a small farm. To the east is a wheatfield and
+to the west is a paddock in which you can see assorted farmyard animals. Off to
+the north is a farmhouse, and two wagon ruts head off towards it.
+~
+172 32772 0 0 0 1 255 0
+D0
+You see a road heading off towards the farmhouse
+~
+~
+0 -1 17202
+D1
+Over the fence to the east, you see wheatfields stretching off into the 
+distance
+~
+~
+0 -1 -1
+D2
+Just outside the gates, you see a well kept road heading east and west
+~
+gate gates~
+1 -1 2201
+D3
+Over the fence to the west you see the grazing paddock.
+~
+~
+0 -1 -1
+E
+gate gates~
+The gates look old and rusted, however they still seem to be more than adequate
+for their purpose
+~
+S
+#17202
+The path to the farm~
+Two deep wagon ruts head off toward the farmhouse, you have to be careful not
+to twist your ankle. There is a paddock to your west and wheatfields to the
+east.
+~
+172 32768 0 0 0 1 255 0
+D0
+The road continues to your north
+~
+~
+0 -1 17203
+D1
+Over the fence to the east, you see wheatfields stretching off into the
+distance
+~
+~
+0 -1 -1
+D2
+The path heads towards the gate to your south.
+~
+~
+0 -1 17201
+D3
+Over the fence to the west you see the grazing paddock.
+~
+~
+0 -1 -1
+S
+#17203
+The path to the farm~
+Two deep wagon ruts head off toward the farmhouse, you have to be careful not
+to twist your ankle. There is a paddock to your west and wheatfields to the
+east.
+~
+172 32768 0 0 0 1 255 0
+D0
+The road continues to your north
+~
+~
+0 -1 17204
+D1
+Over the fence to the east, you see wheatfields stretching off into the
+distance
+~
+~
+0 -1 -1
+D2
+The path heads towards the gate to your south.
+~
+~
+0 -1 17202
+D3
+Over the fence to the west you see the grazing paddock.
+~
+~
+0 -1 -1
+S
+#17204
+The path to the farm~
+Two deep wagon ruts head off toward the farmhouse, you have to be careful not
+to twist your ankle. There is a paddock to your west and wheatfields to the
+east.
+~
+172 32768 0 0 0 1 255 0
+D0
+The path comes to an end to your north
+~
+~
+0 -1 17205
+D1
+Over the fence to the east, you see wheatfields stretching off into the
+distance
+~
+~
+0 -1 -1
+D2
+The path heads towards the gate to your south.
+~
+~
+0 -1 17203
+D3
+Over the fence to the west you see the grazing paddock.
+~
+~
+0 -1 -1
+S
+#17205
+Before the Farmhouse~
+In front of you is the doorway to a small farmhouse, it seems quite old but
+well maintained. A path heads south towards the farm gates, there is a gate to
+the west which leads into a paddock in which there are animals grazing, and to 
+the east there is a gap in the fence providing entry into the wheatfields. 
+~
+172 32768 0 0 0 1 255 0
+D0
+The door to the farmhouse appears to be made of solid wood
+~
+door doorway~
+1 -1 17279
+D1
+To the east there is wheat swaying in the wind for as far as the eye can see.
+~
+~
+0 -1 17230
+D2
+The path heads south towards the farm gates.
+~
+~
+0 -1 17204
+D3
+There is a gate to your west, leading into the grazing paddock.
+~
+gate~
+1 -1 17206
+E
+door doorway~
+The door to the farmhouse seems to be made of solid wood, and looks quite
+sturdy.
+~
+E
+gate~
+The gate into the paddock seems to be well oiled and looks like it is used
+regularly.
+~
+S
+#17206
+At the paddock gate~
+You are at the entrance to the paddock. There is a gate to the east with a sign
+on it and the paddock extends to your west and south. There are animals
+everywhere.
+~
+172 32768 0 0 0 2 255 0
+D0
+The wall of the farmhouse blocks the way northwards.
+~
+~
+0 -1 -1
+D1
+There is a gate to the east, seperating the paddock from the rest of the farm.
+~
+gate~
+1 -1 17205
+D2
+The paddock extends to the south.
+~
+~
+0 -1 17213
+D3
+The paddock extends to the west.
+~
+~
+0 -1 17207
+E
+gate~
+The paddock gate looks to be well oiled and appears to be used regularly. A
+painted sign hangs off it
+~
+E
+sign~
+The sign looks like it was created by a professional signwriter and says:
+
+
+------------------------------------------------------------------------------
+|                                                                            |
+|                                                                            |
+|     P L E A S E       K E E P       T H E       A N I M A L S      I N     |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|         K E E P        T H E        G A T E         C L O S E D            |
+|                                                                            |
+|                                                                            |
+------------------------------------------------------------------------------
+
+~
+S
+#17207
+In the paddock~
+You are at the north end of the paddock, no matter where you go you seem to be
+surrounded by the noisy, smelly animals of the farm.
+~
+172 32768 0 0 0 2 255 0
+D0
+The wall of the farmhouse blocks the way northwards.
+~
+~
+0 -1 -1
+D1
+Off to the east you see the gate to the paddock. Ahhh, an escape!!!
+~
+~
+0 -1 17206
+D2
+The paddock extends to the south
+~
+~
+0 -1 17212
+D3
+To the west is the entrance to the barn
+~
+~
+0 -1 17208
+S
+#17208
+In front of the barn~
+You are at the north end of the paddock. To your north are the barn's huge
+double doors, you wonder if you have the strength to open them.
+~
+172 32768 0 0 0 2 255 0
+D0
+To the north is the barn, which can only be entered through large double doors.
+~
+double door~
+1 -1 17272
+D1
+The paddock continues to your east.
+~
+~
+0 -1 17207
+D2
+The paddock leads off to the south.
+~
+~
+0 -1 17211
+D3
+To the west is the northwest corner of the paddock.
+~
+~
+0 -1 17209
+E
+double door~
+The double doors leading into the barn are made of huge planks of wood. You are
+filled with awe, and some sadness, as you think of the size of the tree that 
+they must have came from.
+~
+S
+#17209
+At the corner of the paddock~
+You are at the north-west corner of the paddock, it seems to be a little more
+peaceful here than in the rest of the field.
+~
+172 32768 0 0 0 2 255 0
+D0
+To the north is the wall of the barn.
+~
+~
+0 -1 -1
+D1
+The entrance to the barn is off to the east.
+~
+~
+0 -1 17208
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17210
+D3
+You think you can see the walls of a village far off to the west.
+~
+~
+0 -1 -1
+S
+#17210
+At the edge of the paddock~
+You are at the edge of the paddock. Watch out you dont scratch yourself on
+the fence.
+~
+172 32768 0 0 0 2 255 0
+D0
+The corner of the paddock is off to the north.
+~
+~
+0 -1 17209
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17211
+D2
+The paddock continues along to the fence to the south.
+~
+~
+0 -1 17217
+D3
+You think you can see the walls of a village far off to the west.
+~
+~
+0 -1 -1
+S
+#17211
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17208
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17212
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17216
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17210
+S
+#17212
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17207
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17213
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17215
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17211
+S
+#17213
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock gate is off to the north.
+~
+~
+0 -1 17206
+D1
+There is a road over the fence to the east.
+~
+~
+0 -1 -1
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17214
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17212
+S
+#17214
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17213
+D1
+There is a road over the fence to the east.
+~
+~
+0 -1 -1
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17221
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17215
+S
+#17215
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17212
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17214
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17220
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17216
+S
+#17216
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17211
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17215
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17219
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17217
+S
+#17217
+At the edge of the paddock~
+You are at the edge of the paddock. Watch out you dont scratch yourself on
+the fence.
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17210
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17216
+D2
+The paddock continues along to the fence to the south.
+~
+~
+0 -1 17218
+D3
+You think you can see the walls of a village far off to the west.
+~
+~
+0 -1 -1
+S
+#17218
+At the edge of the paddock~
+You are at the edge of the paddock. Watch out you dont scratch yourself on
+the fence.
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17217
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17219
+D2
+The paddock continues along to the fence to the south.
+~
+~
+0 -1 17225
+D3
+You think you can see the walls of a village far off to the west.
+~
+~
+0 -1 -1
+S
+#17219
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17216
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17220
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17224
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17218
+S
+#17220
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17215
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17221
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17223
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17219
+S
+#17221
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17214
+D1
+There is a road over the fence to the east.
+~
+~
+0 -1 -1
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17222
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17220
+S
+#17222
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17221
+D1
+There is a road over the fence to the east.
+~
+~
+0 -1 -1
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17229
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17223
+S
+#17223
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17220
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17222
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17228
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17224
+S
+#17224
+In the paddock~
+You find yourself near the middle of the paddock, surrounded by the filthy,
+smelly animals of the farm. There seems to be no escape from the stench. Oh,
+and be careful where you put your feet.
+
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17219
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17223
+D2
+The paddock continues off to the south.
+~
+~
+0 -1 17227
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17225
+S
+#17225
+At the edge of the paddock~
+You are at the edge of the paddock. Watch out you dont scratch yourself on
+the fence.
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17218
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17224
+D2
+The paddock continues along to the fence to the south.
+~
+~
+0 -1 17226
+D3
+You think you can see the walls of a village far off to the west.
+~
+~
+0 -1 -1
+S
+#17226
+At the corner of the paddock~
+You are at the corner of the paddock. It seeme much quieter here.
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17225
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17227
+D2
+There is a well travelled road over the fence to the south.
+~
+~
+0 -1 -1
+D3
+You think you can see the walls of a village far off to the west.
+~
+~
+0 -1 -1
+S
+#17227
+At the southern edge of the paddock~
+You are at the edge of the paddock. Watch out you dont scratch yourself on
+the fence.
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17224
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17228
+D2
+There is a well travelled road over the fence to the south.
+~
+~
+0 -1 -1
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17226
+S
+#17228
+At the southern edge of the paddock~
+You are at the edge of the paddock. Watch out you dont scratch yourself on
+the fence.
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17223
+D1
+The paddock continues off to the east.
+~
+~
+0 -1 17229
+D2
+There is a well travelled road over the fence to the south.
+~
+~
+0 -1 -1
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17227
+S
+#17229
+At the south-eastern corner of the paddock~
+You are at the corner of the paddock. It seems much quieter here.
+~
+172 32768 0 0 0 2 255 0
+D0
+The paddock continues off to the north.
+~
+~
+0 -1 17222
+D1
+There is a small road over the fence to the east. Behind the road is a large
+field full of wheat.
+~
+~
+0 -1 -1
+D2
+There is a well travelled road over the fence to the south.
+~
+~
+0 -1 -1
+D3
+The paddock continues off to the west.
+~
+~
+0 -1 17228
+S
+#17230
+The north-east corner of the wheatfield~
+You are at the north-east corner of the wheatfield. At last you were able to
+find the way out.
+~
+172 32768 0 0 0 2 255 0
+D0
+Looking to the north you see the wall of the farmstead
+~
+~
+0 -1 -1
+D1
+All you can see is golden wheat, waving in the breeze.
+~
+~
+0 -1 17231
+D2
+All you can see is golden wheat, waving in the breeze.
+~
+~
+0 -1 17243
+D3
+To the west is a path and the entrance to the farmhouse.
+~
+~
+0 -1 17205
+S
+#17231
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17232
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17242
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17230
+S
+#17232
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17233
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17241
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17231
+S
+#17233
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17234
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17240
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17232
+S
+#17234
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17235
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17239
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17233
+S
+#17235
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17236
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17238
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17234
+S
+#17236
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17237
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17235
+S
+#17237
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17236
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17250
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17238
+S
+#17238
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17235
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17237
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17249
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17239
+S
+#17239
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17234
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17238
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17248
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17240
+S
+#17240
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17233
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17239
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17247
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17241
+S
+#17241
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17232
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17240
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17246
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17242
+S
+#17242
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17231
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17241
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17245
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17243
+S
+#17243
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17230
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17242
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17244
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+S
+#17244
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17243
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17245
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17257
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+S
+#17245
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17242
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17246
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17256
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17244
+S
+#17246
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17241
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17247
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17255
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17245
+S
+#17247
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17240
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17248
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17254
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17246
+S
+#17248
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17239
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17249
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17253
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17247
+S
+#17249
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17238
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17250
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17252
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17248
+S
+#17250
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17237
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17251
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17249
+S
+#17251
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17250
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17264
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17252
+S
+#17252
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17249
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17251
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17263
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17253
+S
+#17253
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17248
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17252
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17262
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17254
+S
+#17254
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17247
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17253
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17261
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17255
+S
+#17255
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17246
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17254
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17260
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17256
+S
+#17256
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17245
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17255
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17259
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17257
+S
+#17257
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17244
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17256
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17258
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+S
+#17258
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17257
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17259
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17271
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+S
+#17259
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17256
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17260
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17270
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17258
+S
+#17260
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17255
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17261
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17269
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17259
+S
+#17261
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17254
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17262
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17268
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17260
+S
+#17262
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17253
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17263
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17267
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17261
+S
+#17263
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17252
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17264
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17266
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17262
+S
+#17264
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17251
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17265
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17263
+S
+#17265
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17264
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17266
+S
+#17266
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17263
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17265
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17267
+S
+#17267
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17262
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17266
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17268
+S
+#17268
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17261
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17268
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D3
+you see a huge ant hill
+~
+~
+0 -1 10678
+S
+#17269
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17260
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17268
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17270
+S
+#17270
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17259
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17269
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17271
+S
+#17271
+In the wheatfields~
+You are deep within the wheatfields, all around you is golden wheat waving in
+the breeze. Which way was the exit again?
+~
+172 32768 0 0 0 2 255 0
+D0
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17258
+D1
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 17270
+D2
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+D3
+All you can see is golden wheat waving in the breeze.
+~
+~
+0 -1 -1
+S
+#17272
+Inside the Barn.~
+It seems quite musty in here, with a strong smell of horses and rotting hay.
+Above you you can see the loft and there are some stables off to the west.
+~
+172 32776 0 0 0 0 255 0
+D0
+You see a ladder to the north.
+~
+~
+0 -1 17273
+D1
+The wall of the barn is to your east.
+~
+~
+0 -1 -1
+D2
+Through the double doors to the south is the paddock
+~
+double door~
+1 -1 17208
+D3
+There are some stables through the stall doors to your west.
+~
+door stall~
+1 -1 17275
+S
+#17273
+At the ladder~
+You are at the base of a ladder leading up into the loft. There are some stables
+off to your west.
+~
+172 32776 0 0 0 0 255 0
+D0
+The wall of the barn is to your north.
+~
+~
+0 -1 -1
+D1
+The wall of the barn is to your east.
+~
+~
+0 -1 -1
+D2
+The entrance to the barn is to the south.
+~
+~
+0 -1 17272
+D3
+There are some stables through the stall doors to your west.
+~
+door stall~
+1 -1 17274
+D4
+Looking upwards you see the loft. You wonder what could be up there.
+~
+~
+0 -1 17276
+S
+#17274
+In the stalls.~
+You find yourself in a room which has the floor covered with hay and a leaking
+bucket half full of grain attached to the walls. The smell of horses is very
+strong in the air.
+~
+172 32776 0 0 0 0 255 0
+D0
+You see the stable wall to the north
+~
+~
+0 -1 -1
+D1
+To the east you see a ladder in the barn
+~
+door stall~
+1 -1 17273
+D2
+To the south is the stable wall.
+~
+~
+0 -1 -1
+D3
+There is a wall to the west.
+~
+~
+0 -1 -1
+S
+#17275
+In the stall~
+You find yourself in a room which has the floor covered with hay and a leaking
+bucket half full of grain attached to the walls. The smell of horses is very
+strong in the air.
+~
+172 32776 0 0 0 0 255 0
+D0
+You see the stable wall to the north
+~
+~
+0 -1 -1
+D1
+To the east you see the barn entrance.
+~
+door stall~
+1 -1 17272
+D2
+To the south is the stable wall.
+~
+~
+0 -1 -1
+D3
+There is a wall to the west.
+~
+~
+0 -1 -1
+S
+#17276
+In the loft~
+You are up in the loft. There are various farm implements lying about, most
+of them are in a fair degree of disrepair. It is really a mess up here and
+anything could be hidden amongst the junk. There is a ladder leading down here.
+~
+172 32776 0 0 0 0 255 0
+D0
+To the north is the barn wall
+~
+~
+0 -1 -1
+D1
+There is a wall blocking your way east.
+~
+~
+0 -1 -1
+D2
+Looking south over the rail you see the entrance to the barn down below.
+~
+~
+0 -1 -1
+D3
+The loft extends to the west.
+~
+~
+0 -1 17277
+D5
+Looking down the ladder you see the ground floor of the barn.
+~
+~
+0 -1 17273
+S
+#17277
+In the loft~
+You are up in the loft. There are various farm implements lying about, most
+of them are in a fair degree of disrepair. It is really a mess up here and
+anything could be hidden amongst the junk. 
+~
+172 32776 0 0 0 0 255 0
+D0
+To the north is the barn wall
+~
+~
+0 -1 -1
+D1
+The ladder down is to your east.
+~
+~
+0 -1 17276
+D2
+The loft extends to the south.
+~
+~
+0 -1 17278
+D3
+There is a wall to your west.
+~
+~
+0 -1 -1
+S
+#17278
+In the loft~
+You are up in the loft. There are various farm implements lying about, most
+of them are in a fair degree of disrepair. It is really a mess up here and
+anything could be hidden amongst the junk. Is that the farmers daughter hiding
+in the corner? And who is she with?
+~
+172 32776 0 0 0 0 255 0
+D0
+To the north is more of the loft.
+~
+~
+0 -1 17277
+D1
+To the east is a rail over which you can see the ground floor of the barn.
+~
+~
+0 -1 -1
+D2
+The wall of the barn is to the south.
+~
+~
+0 -1 -1
+D3
+There is a wall to your west.
+~
+~
+0 -1 -1
+S
+#17279
+The Front Door~
+You are just inside the front door of a cosy little farmstead. There is a door
+to either side of you and a hallway stretching off to the north. The door to
+your south leads outside to the front of the farm.
+~
+172 32776 0 0 0 0 255 0
+D0
+The hallway continues to the north.
+~
+~
+0 -1 17283
+D1
+There is a door to your east.
+~
+door~
+1 -1 17280
+D2
+There is a door leading outside to your south.
+~
+door~
+1 -1 17205
+D3
+There is a door to the west with a sign hanging from the handle.
+~
+door~
+1 -1 17281
+E
+handle~
+The handle is made of metal and is very well crafted, what a work of art!
+~
+E
+sign~
+The sign says on it :
+
+               D O      N O T       D I S T U R B ! ! !
+
+~
+S
+#17280
+The Master Bedroom~
+In this room you see a beautifully crafted four-poster bed. There is a chest of
+drawers next to which is a full length, ornate mirror. It seems like this farm 
+must be making a little bit of a profit by the value of the exquisite furniture
+within this room. A door leads west into the hall and there is another leading 
+north, probably into an en suite.
+~
+172 32776 0 0 0 0 255 0
+D0
+Through a door to the north is the master bedroom's en suite.
+~
+door~
+1 -1 17282
+D1
+Through a window to the east you can see wheat, wheat and more wheat.
+~
+~
+0 -1 -1
+D2
+Through the window to the south you can see the wheatfields, the paddock and
+the front gate, now there's a view you could come to love.
+~
+~
+0 -1 -1
+D3
+The hallway is through the door to the west.
+~
+door~
+1 -1 17279
+E
+window~
+The window looks quite small, you dont think you could fit through it, no
+matter how much you suck in your stomach.
+~
+E
+drawers~
+This is where the farmer and his wife keep their clothes. I wonder if there's
+anything else hidden in there?
+~
+E
+mirror~
+The mirror is about 7 feet tall and is surrounded by an intricate cast iron
+framework. It looks fantastic, you wouldn't want to break it, even if you
+aren't superstitious.
+~
+E
+bed~
+The bed is absolutely gorgeous. There is plenty of room on it for two people to
+move about, perhaps even three!
+~
+S
+#17281
+The Childrens bedroom.~
+This room is obviously where the farmer's children sleep. All four beds are
+unmade and there is a jumble of clothes all over the ground. This place is a
+real mess, whats that over there? Surely its not the floor! A door leads east
+into the houses main hallway.
+~
+172 32776 0 0 0 0 255 0
+D0
+There is a wall covered with drawings to the north.
+~
+~
+0 -1 -1
+D1
+Through the door to the east is the hallway.
+~
+door~
+1 -1 17279
+D2
+Through the window to the south you can see the wheatfields, the paddock and
+the front gate, now there's a view you could come to love.
+~
+~
+0 -1 -1
+D3
+Through the window to the west is a view of the barn.
+~
+~
+0 -1 -1
+E
+window~
+The window looks quite small, you dont think you could fit through it, no
+matter how much you suck in your stomach.
+~
+E
+floor~
+You cant seem to find it, it is well hidden.
+~
+S
+#17282
+En Suite~
+This en suite is well kept and clean. There is a bath and a basin, as well
+as a toilet. A mirror hangs on the wall behind which there are a few
+sanitation implements. The only exit is south back into the master bedroom.
+~
+172 32776 0 0 0 0 255 0
+D0
+There  is nothing to the north but a mirror on the wall.
+~
+~
+0 -1 -1
+D1
+There is a small window to your east through which you can see wheatfields
+stretching off into the distance.
+~
+~
+0 -1 -1
+D2
+The master bedroom is through a door to the south.
+~
+door~
+1 -1 17280
+D3
+There is a wall to the west seperating you from the hall beyond.
+~
+~
+0 -1 -1
+E
+mirror~
+You see an ugly face looking at you from the mirror, who could it be???
+~
+S
+#17283
+Hallway~
+You are in the hallway, you can see the front door to your south and the back
+door off to your north. A door leads off to the west into what appears to be 
+the dining area.
+~
+172 32776 0 0 0 0 255 0
+D0
+To your north the hallway continues.
+~
+~
+0 -1 17284
+D1
+There is a wall to your east, who put that there???
+~
+~
+0 -1 -1
+D2
+The front door to the house is at the end of the hallway to your south.
+~
+~
+0 -1 17279
+D3
+There is a door to the west, through which you can see the dining room.
+~
+door~
+1 -1 17286
+S
+#17284
+In the hallway.~
+You are in the hallway, you can see the front door to your south and the back
+door off to your north. A door leads off to the east into what appears to be
+a linen cupboard.
+~
+172 32776 0 0 0 0 255 0
+D0
+To your north the hallway continues to the back door.
+~
+~
+0 -1 17288
+D1
+There is a door to the east through which is a large linen cupboard.
+~
+door~
+1 -1 17285
+D2
+The front door to the house is at the end of the hallway to your south.
+~
+~
+0 -1 17283
+D3
+There is a wall to the west, who put that there???
+~
+~
+0 -1 -1
+S
+#17285
+Linen Cupboard~
+You are in a large walk-in linen cupboard. There are folded sheets, blankets
+and towels neatly placed on shelves in here. One of the floorboards creaks as
+you enter, it was probably nothing, its an old house after all.
+~
+172 32776 0 0 0 0 255 0
+D3
+The door to your west leads out into the hall
+~
+door~
+1 -1 17284
+D5
+~
+secret~
+1 -1 17291
+S
+#17286
+Dining Room~
+This is the dining room of the house. There is a large wooden table surrounded
+by six chairs. The table has been set for tonights dinner and it is a very
+pretty setting. The exits from this room are east to the hall and north, through
+folding doors to the kitchen.
+~
+172 32776 0 0 0 0 255 0
+D0
+To the north you see the kitchen through some folding doors.
+~
+doors door folding~
+1 -1 17287
+D1
+The hallway is through a door to the east.
+~
+door~
+1 -1 17283
+D2
+There is no way through the wall to your south.
+~
+~
+0 -1 -1
+D3
+Through the window to the west is a view of the barn, how romantic!
+~
+~
+0 -1 -1
+S
+#17287
+The Kitchen~
+Along the window on the west wall of the kitchen is the sink, and there is a
+wood fired stove on the wall to the north with a large flue going out through
+the roof. Next to the stove is a big copper pot which is full of wood, all
+ready for the next meal to be cooked.
+~
+172 32776 0 0 0 0 255 0
+D0
+You can try to get through the oven if you like...
+~
+~
+0 -1 -1
+D1
+There is a wall to your east, do you want to break it down?
+~
+~
+0 -1 -1
+D2
+Through folding doors to the south is the dining room.
+~
+doors door folding~
+1 -1 17286
+D3
+Through the window to your west you can see the barn, and off in the distance
+the walls of a village.
+~
+~
+0 -1 -1
+S
+#17288
+At the back door~
+Looking through the glass of the back door you can see a small back garden,
+which seems to have been fenced off from the wilds of the rest of the farm.
+To your east is a solid oak door and to your west is the lavatory.
+~
+172 32776 0 0 0 0 255 0
+D0
+Looking through the glass of the back door you can see a small back garden,
+which seems to have been fenced off from the wilds of the rest of the farm.
+~
+door~
+1 -1 17292
+D1
+You see a large oak door, it looks impressive and somewhat foreboding.
+~
+oak door~
+1 -1 17289
+D2
+The hall heads of south towards the front door. There are a number of doors
+heading off on either side.
+~
+~
+0 -1 17284
+D3
+Through a door to the west is the lavatory.
+~
+door~
+1 -1 17290
+S
+#17289
+In the Den~
+You are in the den, there are a few hunting trophies hanging on the wall behind
+a large desk and the entire room has a feeling of power about it. You are
+held somewhat in awe and can't help but breathe a sigh of relief that you 
+haven't been called in here to get in trouble.
+~
+172 32776 0 0 0 0 255 0
+D0
+The wall to the north is decorated with framed sheets of paper.
+~
+~
+0 -1 -1
+D1
+On the eastern wall are the stuffed and mounted trophies of the farmer's past.
+~
+~
+0 -1 -1
+D2
+Can't get out that way!
+~
+~
+0 -1 -1
+D3
+There is a large oak door leading out into the hall.
+~
+oak door~
+1 -1 17288
+E
+trophy trophies hunting~
+It looks like the farmer must have been a quite accomplished hunter un his day.
+On the way are mounted heads of deer, boars, bears and even a tiger.
+~
+E
+paper sheet sheets framed~
+These framed sheets are letters of thanks and also some congratulating the
+farmer for winning several hunting tournaments. They seem like they have
+been here for a while and are highly treasured.
+~
+S
+#17290
+The Lavatory~
+You could at least have knocked!
+~
+172 32776 0 0 0 0 255 0
+D0
+You see toilet paper attached to the wall on a dispenser.
+~
+~
+0 -1 -1
+D1
+Through a door to the east is the hallway.
+~
+door~
+1 -1 17288
+D2
+There is a calendar on the southern wall of this room, fascinating to look at
+while you are otherwise occupied.
+~
+~
+0 -1 -1
+D3
+There is a small opaque window letting some light in from the west.
+~
+~
+0 -1 -1
+S
+#17291
+Wine Cellar~
+By the looks of the dust in here, maybe even the farmer doesn't know of its
+existence. There are dozens of stacks of wine bottles, most of which look like
+they have aged beyond salvation. There are a few barrels over on the north wall,
+they might be worth a look.
+~
+172 32777 0 0 0 0 255 0
+D1
+You see stacks upon stacks of wine bottles
+~
+~
+0 -1 -1
+D2
+You see stacks upon stacks of wine bottles
+~
+~
+0 -1 -1
+D3
+You see stacks upon stacks of wine bottles
+~
+~
+0 -1 -1
+D4
+You see a trapdoor in the roof
+~
+trapdoor secret~
+1 -1 17285
+S
+#17292
+In the Backyard~
+This small backyard seems to have been seperated from the rest of the farm to
+provide the younger children with a safe place to play. There is a tyre hanging
+on a rope from a tree and there is a dog running around madly. What a quaint
+setting. To the south is the backdoor of the house.
+~
+172 32768 0 0 0 2 255 0
+D0
+There is more of the backyard to the north.
+~
+~
+0 -1 17295
+D1
+There is more of the backyard to the east.
+~
+~
+0 -1 17297
+D2
+To your south is the backdoor of the house.
+~
+door backdoor~
+1 -1 17288
+D3
+There is more of the backyard to the west.
+~
+~
+0 -1 17293
+S
+#17293
+In the Backyard~
+This small backyard seems to have been seperated from the rest of the farm to
+provide the younger children with a safe place to play. There is a tyre hanging
+on a rope from a tree and there is a dog running around madly. What a quaint
+setting.
+~
+172 32768 0 0 0 2 255 0
+D0
+There is more of the backyard to the north.
+~
+~
+0 -1 17294
+D1
+There is more of the backyard to the east.
+~
+~
+0 -1 17292
+D2
+To your south is the wall of the house.
+~
+~
+0 -1 -1
+D3
+There is a fence to the west.
+~
+~
+0 -1 -1
+S
+#17294
+In the Backyard~
+This small backyard seems to have been seperated from the rest of the farm to
+provide the younger children with a safe place to play. There is a tyre hanging
+on a rope from a tree and there is a dog running around madly. What a quaint
+setting.
+~
+172 32768 0 0 0 2 255 0
+D0
+There is a fence to the north.
+~
+~
+0 -1 -1
+D1
+There is more of the backyard to the east.
+~
+~
+0 -1 17295
+D2
+There is more of the backyard to your south.
+~
+~
+0 -1 17293
+D3
+There is a fence to the west.
+~
+~
+0 -1 -1
+S
+#17295
+In the Backyard~
+This small backyard seems to have been seperated from the rest of the farm to
+provide the younger children with a safe place to play. There is a tyre hanging
+on a rope from a tree and there is a dog running around madly. What a quaint
+setting.
+~
+172 32768 0 0 0 2 255 0
+D0
+There is a fence to the north.
+~
+~
+0 -1 -1
+D1
+There is more of the backyard to the east.
+~
+~
+0 -1 17296
+D2
+There is more of the backyard to your south.
+~
+~
+0 -1 17292
+D3
+There is more of the backyard to the west.
+~
+~
+0 -1 17294
+S
+#17296
+In the Backyard~
+This small backyard seems to have been seperated from the rest of the farm to
+provide the younger children with a safe place to play. There is a tyre hanging
+on a rope from a tree and there is a dog running around madly. What a quaint
+setting.
+~
+172 32768 0 0 0 2 255 0
+D0
+There is a fence to the north.
+~
+~
+0 -1 -1
+D1
+There is a fence to the east.
+~
+~
+0 -1 -1
+D2
+There is more of the backyard to your south.
+~
+~
+0 -1 17297
+D3
+There is more of the backyard to your west.
+~
+~
+0 -1 17295
+S
+#17297
+In the Backyard~
+This small backyard seems to have been seperated from the rest of the farm to
+provide the younger children with a safe place to play. There is a tyre hanging
+on a rope from a tree and there is a dog running around madly. What a quaint
+setting.
+~
+172 32768 0 0 0 2 255 0
+D0
+There is more of the backyard to the north.
+~
+~
+0 -1 17296
+D1
+There is a fence to the east.
+~
+~
+0 -1 -1
+D2
+There is a fence to the south.
+~
+~
+0 -1 -1
+D3
+There is more of the backyard to your west.
+~
+~
+0 -1 17292
+S
+$~

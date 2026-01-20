@@ -1,0 +1,1690 @@
+#30501
+Inside the East Gate~
+You have reached the easternmost extent of Apple Ave., the long road that
+bisects the city.  Tall, mithril gates rise above you to the west, standing
+open as they always are, save in times of trouble.  Guards nod politely at you,
+but remain alert.  Above you, you see murderholes in the floor of the
+gatehouse, allowing defenders to pour boiling oil upon any foolish enough to
+storm the gates.  Doors to the north and south allow you to enter the towers
+flanking the gatehouse.    
+~
+305 12 0 0 0 0 255 0
+D0
+~
+~
+0 0 30502
+D1
+~
+~
+0 0 30545
+D2
+~
+~
+0 0 30503
+D3
+~
+~
+0 0 30627
+S
+#30502
+Inside the Guard Tower~
+You are standing inside the northern guard tower at the east gate.  This tower
+is a circular affair approximately twenty feet in diameter and forty feet high.
+Straw has been scattered across the stone floor, and some plain but functional
+wooden furniture, deeply scored with dagger cuts, has been arranged about the
+room for off-duty guards.  Several pewter mugs half-full of the local brew sit
+about near a game of draughts.  A spiral staircase winds its way up to the next
+floor in one corner.  A fire burns merrily away in a hearth to the east, the
+smoke escaping through a small shaft that runs up one side of the turret.    
+~
+305 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 30501
+D4
+~
+~
+0 0 30425
+S
+#30503
+Inside the Guard Tower~
+You are standing inside the southern guard tower at the east gate.  This tower
+is a circular affair approximately twenty feet in diameter and forty feet high.
+Straw has been scattered across the stone floor, and some plain but functional
+wooden furniture, deeply scored with dagger cuts, has been arranged about the
+room for off-duty guards.  A spiral staircase winds its way up to the next
+floor in one corner.  A fire burns merrily away in a hearth to the east, the
+smoke escaping through a small shaft that runs up one side of the turret.  A
+small cat purrs contentedly near the fire.    
+~
+305 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 30501
+D4
+~
+~
+0 0 30427
+S
+#30504
+The Roof of the Tower~
+You are standing on the roof of the tower. Looking around, you can see the
+sprawl of Fairhaven to the east, the beauty of the grassy Commons dominating 
+the scene in the mid-center. To the west you can see the vast forest that 
+stretch for miles to the distant mountain ranges, where few have dared to 
+travel. To the south lies more forest, divided up by features such as the 
+river of Fairhaven.
+~
+305 4 0 0 0 5 255 0
+D5
+~
+trap door~
+1 0 30498
+S
+#30505
+Roof of the Tower~
+You are standing on the roof of the tower. Looking around, you can see the
+sprawl of Fairhaven to the east, the beauty of the grassy Commons dominating 
+the scene in the mid-center. To the west you can see the vast forest that 
+stretch for miles to the distant mountain ranges, where few have dared to 
+travel. To the south lies more forest, divided up by features such as the 
+river of Fairhaven.
+~
+305 0 0 0 0 5 255 0
+D5
+~
+trap door~
+1 0 30450
+S
+#30506
+Roof of the Tower~
+You are standing on the roof of the tower. Looking around, you can see the
+sprawl of Fairhaven to the west, the beauty of the grassy Commons dominating 
+the scene in the mid-center. To the east you can see the vast forest that 
+stretch for miles to the distant mountain ranges, where few have dared to 
+travel. To the south lies more forest, divided up by features such as the 
+river of Fairhaven.
+~
+305 0 0 0 0 0 255 0
+D5
+~
+trap door~
+1 0 30473
+S
+#30507
+Roof of the Tower~
+You are standing on the roof of the tower. Looking around, you can see the
+sprawl of Fairhaven to the west, the beauty of the grassy Commons dominating 
+the scene in the mid-center. To the east you can see the vast forest that 
+stretch for miles to the distant mountain ranges, where few have dared to 
+travel. To the south lies more forest, divided up by features such as the 
+river of Fairhaven.
+~
+305 0 0 0 0 0 255 0
+D5
+~
+trap door~
+1 0 30475
+S
+#30508
+Northwest Tower~
+   This room serves as the quarters of the commanders of the north and west
+wall guards.  It is sparsely decorated, featuring only two beds, two wardrobes,
+a mirror and two footlockers.  A few weapons are neatly arranged on one wall,
+and a throw rug lies near the staircase.    
+~
+305 8 0 0 0 0 255 0
+D4
+~
+~
+0 0 30512
+D5
+~
+~
+0 0 30455
+S
+#30509
+Southwest Tower~
+This room serves as quarters to the Elven Wall Guards.
+This room resembles a chapel more than anything, with 
+two small cots arranged near an altar bearing a chalice 
+and a ewer.
+~
+305 8 0 0 0 0 255 0
+D4
+~
+~
+0 0 30514
+D5
+~
+~
+0 0 30493
+S
+#30510
+Southeast Tower~
+This room serves as the quarters of the commanders of the south and east wall
+guards.  It is sparsely decorated, featuring only two beds, two wardrobes, a
+mirror and two footlockers.  A few weapons are neatly arranged on one wall, and
+a throw rug lies near the staircase.    
+~
+305 8 0 0 0 0 255 0
+D4
+~
+~
+0 0 30516
+D5
+~
+~
+0 0 30480
+S
+#30511
+A Dusty Chamber~
+   This room has an evil feel to it.  The smashed furniture, bloodstains and
+broken bones are bad enough, but in addition there is a definite evil aura to
+this fell domain, as if some foul deed has been perpetrated here.  You get the
+distinct feeling that this place is haunted.    
+~
+305 9 0 0 0 0 255 0
+D4
+~
+~
+0 0 30518
+D5
+~
+iron trap~
+1 30502 30468
+S
+#30512
+The Top of Northwest Tower~
+   This room is the quarters of the Elven Guards Provost-Marshal, He is a
+rather senile old veteran of more wars than he could possibly count.  The room
+is littered with memorabilia, probably worth a fortune to a collector, but
+useless to you.  Then again, maybe not...    
+~
+305 8 0 0 0 0 255 0
+D4
+~
+~
+0 0 30513
+D5
+~
+~
+0 0 30508
+S
+#30513
+Roof of the Northwest Tower~
+   The Marshal uses this area as a relaxation area.  There is a deckchair and a
+small table, for use on sunny days- the Marshal sports a very healthy tan.  An
+umbrella lies folded up next to a bookcase with several tattered magazines.  
+
+~
+305 0 0 0 0 0 255 0
+D5
+~
+~
+0 0 30512
+S
+#30514
+The Battlemage's Quarters~
+Here reside the battlemages currently in the employ of the City. As they
+spend little free time doing anything but meditating or learning new spells,
+this room has little of interest. There is a bookcase full of scrolls, but
+none of them are magical.
+~
+305 8 0 0 0 0 255 0
+D4
+~
+~
+0 0 30515
+D5
+~
+~
+0 0 30509
+S
+#30515
+Roof of the Southwest Tower~
+This roof is totally featureless. Peering through the crenelations, you
+get a good view of southwestern Fairhaven, though. Due south lies the cursed
+forest wherein a Witches' Coven is supposed to exist, and beyond that lies
+the fabled Fairhaven River.
+~
+305 0 0 0 0 0 255 0
+D5
+~
+~
+0 0 30514
+S
+#30516
+The Healing Chambers~
+In this room, generous Elven Clerics of Fairhaven give up their time to tend to
+the illnesses of the city guards.  They will tend to others' injuries as well,
+for a fee.  Such is the way of Fairhaven.    
+~
+305 24 0 0 0 0 255 0
+D4
+~
+~
+0 0 30517
+D5
+~
+~
+0 0 30510
+S
+#30517
+Roof of the Southeast Tower~
+This roof has been recently swept clean, and a stone altar erected to the
+Gods. The sun is caught by a reflecting crystal so that it shines directly
+onto the altar at all times during the day. The effect is quite splendid.
+You feel totally at ease in this place.
+~
+305 393220 0 0 0 0 255 0
+D5
+~
+~
+0 0 30516
+S
+#30518
+A Dusty Chamber~
+   This room has an evil feel to it.  The smashed furniture, bloodstains and
+broken bones are bad enough, but in addition there is a definite evil aura to
+this fell domain, as if some foul deed has been perpetrated here.  You get the
+distinct feeling that this place is haunted.    
+~
+305 8 0 0 0 0 255 0
+D4
+~
+trap door~
+1 0 30519
+D5
+~
+~
+0 0 30511
+S
+#30519
+The Roof of the Cursed Northeast Tower~
+   This roof has not been visited in a long time.  The trapdoor is covered in
+silvery mystic runes, as is the stone around it.  A chill wind blows here, at
+all times, and birds have been known to die when flying too close.  It is truly
+a cursed place.    
+~
+305 9 0 0 0 0 255 0
+D5
+~
+trap door~
+1 0 30518
+S
+#30520
+Base of Northwest Tower~
+You have reached the bottom of Northwest tower, the huge tower at the
+northwestern corner of the walls of the City of Fairhaven. It appears to serve
+as some sort of storage area, being as it is full of weapons and armor.
+There are no visible exits, besides the staircase back up.
+~
+305 8 0 0 0 0 255 0
+D4
+~
+~
+0 0 30408
+S
+#30521
+Base of Northest Tower~
+   This room is dusty and full of cobwebs.  It probably hasn't been entered in
+ages.  Coughing, you make your way through a jumble of debris, looking for
+another exit, but you find none.  You do spy several torn scraps of what looks
+like scrolls scattered about, though.    
+To the north a small hole has been dug through the wall.
+~
+305 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 2497
+D4
+~
+~
+0 0 30421
+S
+#30522
+Base of Southwest Tower~
+This chamber serves as quarters for the wall guard smith.  He spends most of
+his day down here in this smithy, repairing the damaged equipment of the
+guards.  He may even repair yours.    
+~
+305 8 0 0 0 0 255 0
+D4
+~
+~
+0 0 30444
+S
+#30523
+Base of Southeast Tower~
+This rooms is totally devoid of furniture, and looks to have been swept
+recently.  Wonder what it will be used for...?    
+~
+305 8 0 0 0 0 255 0
+D4
+~
+~
+0 0 30431
+S
+#30524
+The Stream~
+This is where the Elven River flows into the Midgaard River, which
+Northeast you can see Migaard's Wharves and Levee which extend
+Northeast you can see Midgaard's Wharves and Levee which extend
+merchant ships can be seen just off the port side of the Levee, waiting
+their turn to unload their precious cargoes and depart upon their next
+voyage.  To the South the Elven River continues to flow on into the
+distance, towards the City of FairHaven.
+~
+305 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 3202
+D2
+~
+~
+0 0 30525
+S
+#30525
+The Stream~
+The crystal clear waters of the Elven River allow you to see the fish 
+and various other aquatic life forms as they go about their business in the
+water's depths.  Stone ledges and out croppings on either side of the
+River prevent you from beaching your canoe and exploring the wonders
+of the Elven Forests.  Beautiful trees with leaves of gold, crimson, 
+silver,and emerald appear to sway from side to side in the warm breeze, almost
+if they were alive and dancing to the forests beautiful music.  To the
+Northeast you can see the City of Migaard, getting smaller and smaller
+in the distance as you travel to the South.
+~
+305 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 30524
+D2
+~
+~
+0 0 30526
+S
+#30526
+The Stream~
+The crystal clear waters of the Elven River allow you to see the fish 
+and various other aquatic life forms as they go about their business in the
+water's depths.  Stone ledges and out croppings on either side of the
+River prevent you from beaching your canoe and exploring the wonders
+of the Elven Forests.  Beautiful trees with leaves of gold, crimson, 
+silver, and emerald appear to sway from side to side in the warm breeze, almost
+if they were alive and dancing to the forests beautiful music.  To the
+North the you can see the City of Migaard, getting smaller and smaller
+in the distance as you travel to the South.
+~
+305 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 30525
+D2
+~
+~
+0 0 30527
+S
+#30527
+A River~
+The crystal clear waters of the Elven River allow you to see the fish 
+and various other aquatic life forms as they go about their business in the
+water's depths.  Stone ledges and out croppings on either side of the
+River prevent you from beaching your canoe and exploring the wonders
+of the Elven Forests.  Beautiful trees with leaves of gold, crimson, 
+silver, and emerald appear to sway from side to side in the warm breeze, almost
+if they were alive and dancing to the forests beautiful music.  To the
+North the you can see the City of Migaard, getting smaller and smaller
+in the distance as you travel to the South.
+~
+305 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 30526
+D2
+~
+~
+0 0 30528
+S
+#30528
+A River~
+The crystal clear waters are seems to get extremely shallow towards the east, 
+however you can still see the smooth pebbles and colorful rocks on the water's 
+bottom.  At this point you can abandon the River and set forth on foot, through
+the Elven Forests to the City of FairHaven, or follow the Elven River,
+which continues on towards the South. To the North, the Elven River appears to 
+expand and flow towards the City of Migaard.
+~
+305 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 30527
+D1
+~
+~
+0 0 30579
+D2
+~
+~
+0 0 30529
+S
+#30529
+A Fork in the River~
+The crystal clear waters of the Elven River appear to be moving a 
+little quicker at the Fork, to the West you can hear what you believe 
+to be the roar of thunder, perhaps there is a storm brewing in the distance, 
+While to the East the river slowly makes its winding way to the ancient City,
+and to the North the horizon of the City of Migaard is slowly being
+consumed by the beautiful sights of the Elven Forests.  Due to the
+magical nature of the Elven Forest you are either basked in the glow of
+the warm sunshine or pale moon light, there only appears to be one
+season in the forest, that of spring.
+~
+305 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 30528
+D1
+~
+~
+0 0 30530
+D3
+~
+~
+0 0 3600
+S
+#30530
+A River~
+The crystal clear waters of the Elven River allow you to see the fish 
+and other aquatic life forms as they go about their business in the water's
+depths.  To the West you can see the Fork of the Elven River, at which
+point the two halves of the River join together and continue to flow
+North towards the City of Migaard.  To the East the River continues
+to flow in a peaceful fashion, taking you slowly but surely to the
+Elven City.
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30531
+D3
+~
+~
+0 0 30529
+S
+#30531
+A River~
+The crystal clear waters of the Elven River allow you to see the fish 
+and other aquatic life forms as they go about their business in the water's
+depths.  To the North the Forest fills your vision in a beautiful 
+horizon of glittering golden, silver, and crimson leaves dancing in the warm
+breezes.  To the East, the River continues to flow on towards the Elven
+City, as you squint into the bright sunlight you think you can make out 
+the shapes and images of the Elven Forests, sacred land of the 'Long 
+Lived.'
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30532
+D3
+~
+~
+0 0 30530
+S
+#30532
+A River~
+The Elven River appears to dwindle to the North in its volume of water as 
+the banks of the Forests slowly begin to creep back in and take control of 
+the scenery.  The crystal clear waters are getting shallow, however you can
+still see the fish and various other life forms going about their 
+business in the water's depths.  To the East, the Elven River appears to expand
+and fill your vision.
+~
+305 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 30557
+D1
+~
+~
+0 0 30533
+D3
+~
+~
+0 0 30531
+S
+#30533
+A River~
+The crystal clear waters of the Elven River allow you to see the fish 
+and other aquatic life forms as they go about their business in the water's
+depths.  To the West you can see the Fork of the Elven River, at which
+point the two halves of the River join together and continue to flow
+North towards the City of Migaard.  To the East the River continues
+to flow in a peaceful fashion, taking you slowly but surely to the
+Elven City.
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30534
+D3
+~
+~
+0 0 30532
+S
+#30534
+A River~
+The Elven River appears to dwindle to the North in its volume of water as 
+the banks of the Forests slowly begin to creep back in and take control of 
+the scenery.  The crystal clear waters are getting shallow, however you can
+still see the fish and various other life forms going about their 
+business in the water's depths.  To the East, the City of FairHaven appears 
+to expand and fill your vision. To the North, the River continues towards a 
+stone ledge which extends out in to the River, the entrance to the Elven 
+Forest, and gateway to the City beyond.
+~
+305 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 30535
+D1
+~
+~
+0 0 30551
+D3
+~
+~
+0 0 30533
+S
+#30535
+Southwest Corner of the Circuit Road~
+You are travelling around the southwest corner of the Circuit Road, a broad,
+paved path that circles the city, provided by the Rulers for the benefit of
+travellers who wish to bypass the city on their journeys.    
+~
+305 4 0 0 0 0 255 0
+D0
+~
+~
+0 0 30536
+D1
+~
+~
+0 0 30550
+D2
+~
+~
+0 0 30534
+S
+#30536
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles the
+city, provided by the Rulers for the benefit of travellers who wish to bypass
+the city on their travels.    
+~
+305 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 30537
+D2
+~
+~
+0 0 30535
+S
+#30537
+Outside the West Gates~
+You are standing outside the Gates at the western end of town.  They loom high
+above you, tall, gleaming mithril valves designed to keep the most persistent
+of intruders out.  Guards wander back and forth both on the below and the
+battlements high above, where they are barely visible through the crenelations.
+  
+~
+305 4 0 0 0 0 255 0
+D0
+~
+~
+0 0 30538
+D1
+~
+~
+0 0 30401
+D2
+~
+~
+0 0 30536
+D3
+~
+~
+0 0 30573
+S
+#30538
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles the
+city, provided by the Rulers for the benefit of travellers who wish to bypass
+the city on their travels.    
+~
+305 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 30539
+D2
+~
+~
+0 0 30537
+S
+#30539
+Northwest Corner of Circuit Road~
+You are travelling around the northwest corner of the Circuit Road, a broad,
+paved path that circles the city, provided by the Rulers for the benefit of
+travellers who wish to bypass the city on their journeys.    
+~
+305 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 30540
+D2
+~
+~
+0 0 30538
+S
+#30540
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles the
+city, provided by the Rulers for the benefit of travellers who wish to bypass
+the city on their travels.    
+~
+305 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 30541
+D3
+~
+~
+0 0 30539
+S
+#30541
+Path to the Forest~
+At this point in the Circuit Road, a narrow path wanders off north in to the
+forest, toward some unseen destination.  Looking back directly south, you can
+see the gleaming rooftops of the magnificent Towers of Fairhaven.    
+~
+305 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 30580
+D1
+~
+~
+0 0 30542
+D3
+~
+~
+0 0 30540
+S
+#30542
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles the
+city, provided by the Rulers for the benefit of travellers who wish to bypass
+the city on their travels.    
+~
+305 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 30543
+D3
+~
+~
+0 0 30541
+S
+#30543
+Northeast Corner of the Circuit Road~
+You are travelling around the northeast corner of the Circuit Road, a broad,
+paved path that circles the city, provided by the Rulers for the benefit of
+travellers who wish to bypass the city on their journeys.    
+~
+305 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 30544
+D3
+~
+~
+0 0 30542
+S
+#30544
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles the
+city, provided by the Rulers for the benefit of travellers who wish to bypass
+the city on their travels.    
+~
+305 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 30543
+D1
+~
+~
+0 0 23680
+D2
+~
+~
+0 0 30545
+S
+#30545
+Outside the East Gate~
+You are standing outside the Gates at the eastern end of town.  They loom high
+above you, tall, gleaming mithril valves designed to keep the most persistent
+of intruders out.  Guards wander back and forth both on the below and the
+battlements high above, where they are barely visible through the crenelations.
+  
+~
+305 4 0 0 0 0 255 0
+D0
+~
+~
+0 0 30544
+D2
+~
+~
+0 0 30546
+D3
+~
+~
+0 0 30501
+S
+#30546
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles the
+city, provided by the Rulers for the benefit of travellers who wish to bypass
+the city on their travels.    
+~
+305 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 30545
+D2
+~
+~
+0 0 30547
+S
+#30547
+Southeast Corner of the Circuit Road~
+You are travelling around the southeast corner of the Circuit Road, a broad,
+paved path that circles the city, provided by the Rulers for the benefit of
+travellers who wish to bypass the city on their journeys.  To the south you see
+the river and to the west are the docks.    
+~
+305 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 30546
+D3
+~
+~
+0 0 30548
+S
+#30548
+The Pier~
+Several small punts and a couple of larger scows are moored at the jetty here.
+A couple of burly laborers work at moving several heavy barrels onto one of the
+scows.  They grunt in greeting as you watch.    
+~
+305 0 16 0 0 0 255 0
+D0
+~
+~
+0 0 30695
+D1
+~
+~
+0 0 30547
+D3
+~
+~
+0 0 30549
+D5
+~
+~
+0 0 30553
+S
+#30549
+The Pier~
+Several small punts and a couple of larger scows are moored at the jetty here.
+A couple of burly laborers work at moving several heavy barrels onto one of the
+scows.  They grunt in greeting as you watch.    
+~
+305 0 16 0 0 0 255 0
+D0
+~
+~
+0 0 30694
+D1
+~
+~
+0 0 30548
+D3
+~
+~
+0 0 30550
+D5
+~
+~
+0 0 30552
+S
+#30550
+Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles the
+city, provided by the Rulers for the benefit of travellers who wish to bypass
+the city on their travels.  To the east you see the busy docks and to the south
+is a deep river.    
+~
+305 0 16 0 0 0 255 0
+D1
+~
+~
+0 0 30549
+D3
+~
+~
+0 0 30535
+D5
+~
+~
+0 0 30551
+S
+#30551
+The River~
+You are floating along the Fairhaven River, past the grand Elven city of the
+same name.  To the east are the ever busy docks and to the west the river flows
+towards the great ocean and even more adventures.    
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30552
+D3
+~
+~
+0 0 30534
+D4
+~
+~
+0 0 30550
+S
+#30552
+The River~
+You are floating past the docks of the grand Elven City of Fairhaven.  You can
+hear the hussle and bussle of busy dock workers and merchants loading and
+unloading their cargo.  To the west the river runs out in to the great ocean
+and to the east it flows towards a huge moutain range.    
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30553
+D3
+~
+~
+0 0 30551
+D4
+~
+~
+0 0 30549
+S
+#30553
+The River~
+You are floating past the docks of the grand Elven City of Fairhaven.  You can
+hear the hussle and bussle of busy dock workers and merchants loading and
+unloading their cargo.  To the west the river runs out in to the great ocean
+and to the east it flows towards a huge moutain range.    
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30554
+D3
+~
+~
+0 0 30552
+D4
+~
+~
+0 0 30548
+S
+#30554
+The River~
+You are floating along the Fairhaven River, to the west is the grand Elven city
+of the same name.  To the east the river flows towards a huge mountain range.
+  
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30555
+D3
+~
+~
+0 0 30553
+S
+#30555
+The River~
+You are floating along the Fairhaven River, to the west is the grand Elven city
+of the same name.  To the east the river flows towards a huge mountain range.
+  
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30556
+D3
+~
+~
+0 0 30554
+S
+#30556
+The River~
+The river continues its journey eastward flowing through the plains.  To the
+east you see the peaks of large snow capped mountains and to the west you see
+the outline of a large city.    
+~
+305 0 0 0 0 7 255 0
+D1
+~
+~
+0 -1 -1
+D3
+~
+~
+0 0 30555
+S
+#30557
+Entrance to Mirkwood~
+You have entered the quasi-magical Elven forest of Mirkwood, populated by
+Sylvan Elves and their mysterious allies.  Strangers are frowned upon here, so
+be on your guard.  It is rumored that many different races of Elves actually
+inhabit this forest, in various parts and sometimes they are carefully hidden,
+away from the prying eyes of strangers.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 30558
+D2
+~
+~
+0 -1 30532
+S
+#30558
+The Path Through Mirkwood~
+You are advancing along a narrow path that runs deep into the forest of
+Mirkwood.  Giant, ancient trees tower over you to either side, and sweet
+songbirds sing in their lofty branches.  However, despite this serene scene,
+you can't shake the feeling that you're being watched.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30559
+D2
+~
+~
+0 -1 30557
+S
+#30559
+The Path Through Mirkwood~
+You are advancing along a narrow path that runs deep into the forest of
+Mirkwood.  Giant, ancient trees tower over you to either side, and sweet
+songbirds sing in their lofty branches.  However, despite this serene scene,
+you can't shake the feeling that you're being watched.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30560
+D2
+~
+~
+0 -1 30558
+S
+#30560
+A Fork in the Path~
+You have reached a point where the path branches, with paths running to the
+east and west.  A wild animal suddenly howls angrily some distance away, and
+you involuntarily jump.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 3567
+D1
+~
+~
+0 -1 30561
+D2
+~
+~
+0 -1 30559
+D3
+~
+~
+0 -1 30574
+S
+#30561
+A Broad Path~
+This branch of the path widens out after a short distance, and you notice signs
+of heavy use, evidently by non-Elves, as Elves do not leave footprints.  The
+trees are thinner and smaller in this part of the forest, giving the impression
+that it has been recently cleared.    
+~
+305 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 30562
+D3
+~
+~
+0 -1 30560
+S
+#30562
+Another Junction~
+The path once again divides, this time into northern and southern branches.  
+To the north an impressive-looking citadel looms over the treetops, while to
+the south the trail becomes significantly narrower, and overgrown.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30563
+D2
+~
+~
+0 -1 30565
+D3
+~
+~
+0 -1 30561
+S
+#30563
+A Bend in the Road~
+The northern road bends to the east at this point, allowing you to gaze upon a
+wondrous Elven Fortress.  Although you are more than a mile away, it still
+looms large ahead of you.    
+~
+305 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 30564
+D2
+~
+~
+0 -1 30562
+S
+#30564
+A Cleared Road~
+The road opens onto an area cleared of trees here, a broad plain dotted with
+the occasional hedge or distant farmhouse.    
+~
+305 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 30591
+D2
+~
+~
+0 0 30573
+D3
+~
+~
+0 -1 30563
+S
+#30565
+The Southern Trail~
+Progress along this narrow, overgrown path is next to impossible, and you find
+yourself having to stop several times for a rest.  There doesn't seem to be any
+quick end to it either.    
+~
+305 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 30562
+D2
+~
+~
+0 -1 30566
+S
+#30566
+The Southern Trail~
+Progress along this narrow, overgrown path is next to impossible, and you find
+yourself having to stop several times for a rest.  There doesn't seem to be any
+quick end to it either.    
+~
+305 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 30565
+D2
+~
+~
+0 -1 30567
+S
+#30567
+The Southern Trail~
+Progress along this narrow, overgrown path is next to impossible, and you find
+yourself having to stop several times for a rest.  There doesn't seem to be any
+quick end to it either.  At this point you may follow a side trail which runs
+to the east.  It seems to be a little less overgrown.    
+~
+305 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 30566
+D1
+~
+~
+0 -1 30568
+S
+#30568
+The Eastern Path~
+This path is certainly less overgrown than the north-south one.  You actually
+find yourself able to move relatively quickly through the forest, stopping only
+occasionally to hack away an overhanging branch or vine.    
+~
+305 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 30569
+D3
+~
+~
+0 -1 30567
+S
+#30569
+The Eastern Path~
+This path is certainly less overgrown than the north-south one.  You actually
+find yourself able to move relatively quickly through the forest, stopping only
+occasionally to hack away an overhanging branch or vine.    
+~
+305 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 30570
+D3
+~
+~
+0 -1 30568
+S
+#30570
+A Bend in the Path~
+You have reached a point where the path bends to the north.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30572
+D3
+~
+~
+0 -1 30569
+S
+#30572
+The Northern Path~
+The path here is fairly clear and free of vegetation.  It actually looks fairly
+well-maintained.  You think you can hear a distant singing to the north.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30573
+D2
+~
+~
+0 -1 30570
+S
+#30573
+The Road~
+The path widens and turns in to a well groomed road.  To the east stands the
+open gates of a beautiful city.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 30564
+D1
+~
+~
+0 0 30537
+D2
+~
+~
+0 -1 30572
+S
+#30574
+The Western Path~
+This path is rather overgrown but it is still easily navigable.  You can see a
+tall oak near the eastern side of the road.    
+~
+305 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 30560
+D3
+~
+~
+0 -1 30575
+S
+#30575
+A Bend to the North~
+The path bends to the north here, running for some distance toward a stream.  
+
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30576
+D1
+~
+~
+0 -1 30574
+S
+#30576
+A Northern Path~
+This path is fairly even and well-used, so going is not as rough as the
+previous paths.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30577
+D2
+~
+~
+0 -1 30575
+S
+#30577
+A Cliff~
+You stand at the edge of a very steep cliff.  Below is a river running east and
+west.  To the east you can see a large city and to the south is a thick forest.
+The cliff looks easy enough to climb down.    
+~
+305 0 0 0 0 2 255 0
+D2
+~
+~
+0 -1 30576
+D5
+~
+~
+0 0 30578
+S
+#30578
+The Hill~
+The path you are on here runs down a gently sloping hill, to the base of a
+beautiful valley below.    
+~
+305 0 0 0 0 2 255 0
+D4
+~
+~
+0 -1 30577
+D5
+~
+~
+0 -1 30579
+S
+#30579
+The Base of the Hill~
+You can proceed up to the summit above, or return to the river below.    
+~
+305 0 0 0 0 2 255 0
+D3
+~
+~
+0 0 30528
+D4
+~
+~
+0 -1 30578
+S
+#30580
+A Northern Path~
+This path is fairly even and well-used, so going is not as rough as the
+previous paths.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30581
+D2
+~
+~
+0 -1 30541
+D3
+~
+~
+0 0 30596
+S
+#30581
+A Broad Junction~
+You have come to another junction in the forest.  The path to the east runs
+through some handsome aspen and pine, but the northern passage is lined by
+sickly-looking, dying trees of unidentifiable type.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30582
+D2
+~
+~
+0 -1 30580
+S
+#30582
+An Evil Section of the Forest~
+There is a palpable evil in this area that causes you to shiver as you pass by
+the blighted vegetation that lines this twisted gray path.  The sky can no
+longer be seen overhead- instead a canopy of decaying leaves and rotten
+branches obscures your view.    
+~
+305 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 30583
+D2
+~
+~
+0 -1 30581
+S
+#30583
+An Evil Section of the Forest~
+There is a palpable evil in this area that causes you to shiver as you pass by
+the blighted vegetation that lines this twisted gray path.  The sky can no
+longer be seen overhead- instead a canopy of decaying leaves and rotten
+branches obscures your view.    
+~
+305 0 0 0 0 2 255 0
+D2
+~
+~
+0 -1 30582
+D3
+~
+~
+0 -1 30584
+S
+#30584
+An Evil Section of the Forest~
+   There is a palpable sense of evil in this area that causes you to shiver as
+you pass by the blighted vegetation that lines this twisted gray path.  The sky
+can no longer be seen overhead- instead a canopy of decaying leaves and rotten
+branches obscures your view.  The dying screams of some animal can be heard.  
+~
+305 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 30583
+D3
+~
+~
+0 -1 30585
+S
+#30585
+An Evil Section of the Forest~
+   There is a palpable sense of evil in this area that causes you to shiver as
+you pass by by the blighted vegetation that lines this twisted gray path.  The
+sky can no longer be seen overhead- instead a canopy of decaying leaves and
+rotten branches obscures your view.  Maggots crawl from a decaying Elven corpse
+hanging from an overhead branch.  The stench is unbearable.    
+~
+305 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 30584
+D3
+~
+~
+0 -1 30586
+S
+#30586
+An Evil Section of the Forest~
+There is a palpable evil in this area that causes you to shiver as you pass by
+the blighted vegetation that lines this twisted gray path.  The sky can no
+longer be seen overhead- instead a canopy of decaying leaves and rotten
+branches obscures your view.    
+~
+305 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 55101
+D1
+~
+~
+0 -1 30585
+D2
+~
+~
+0 -1 30587
+S
+#30587
+A Bend in the Path~
+You reach a bend in the path, where you can head north or west.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30586
+D3
+~
+~
+0 -1 30588
+S
+#30588
+A Bend in the Path~
+You reach a bend in the path, where you can head south or east.    
+~
+305 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 30587
+D2
+~
+~
+0 -1 30589
+S
+#30589
+A Path~
+The path once again heads into northern part of the forest.  To the north lies
+another bend in the trail,
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30588
+D3
+~
+~
+0 -1 30590
+S
+#30590
+A Bend in the Path~
+Here, the path bends sharply to the east, heading toward an area of the forest
+that is very different from the previous section.  A second path runs to the
+north.    
+~
+305 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 30589
+D2
+~
+~
+0 0 30591
+S
+#30591
+A Junction~
+You have come out of Mirkwood onto a rather dusty trail.  At this point you may
+proceed east toward some well-cultivated fields, or south and west back into
+the forest.    
+~
+305 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 30590
+D1
+~
+~
+0 -1 30592
+D3
+~
+~
+0 -1 30564
+S
+#30592
+Cultivated Field~
+This field borders the edge of a huge mountain range.  The path leads west in
+to a thick forest or east along the cliffs.    
+~
+305 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 30593
+D3
+~
+~
+0 -1 30591
+S
+#30593
+A Desolate Section of the Forest~
+You have entered a rather forlorn section of the forest, littered with dead and
+dying trees, plus the occasional corpse.  Howls and cries of pain sound far off
+to the south.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30594
+D3
+~
+~
+0 -1 30592
+S
+#30594
+A Desolate Section of the Forest~
+You have entered a rather forlorn section of the forest, littered with dead and
+dying trees, plus the occasional corpse.  Howls and cries of pain sound far off
+to the south.    
+~
+305 0 0 0 0 3 255 0
+D1
+~
+~
+0 0 30595
+D2
+~
+~
+0 -1 30593
+S
+#30595
+A Desolate Section of the Forest~
+You have entered a rather forlorn section of the forest, littered with dead and
+dying trees, plus the occasional corpse.  Howls and cries of pain sound far off
+to the north.    
+~
+305 0 0 0 0 3 255 0
+D2
+~
+~
+0 -1 30596
+D3
+~
+~
+0 0 30594
+S
+#30596
+Mirkwood~
+The forest begins to surround you as you step into its depths.  The path heads
+to the north and back south to the river.    
+~
+305 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 30595
+D1
+~
+~
+0 0 30580
+S
+#30599
+Cave of Wishes~
+   You have stubbled in to the long lost cave of a magical Genie.
+Rumor has it that if you release the lamp from this magical
+place and give it to an immortal, you will be granted one wish.
+The wishes are simple ones, but very handy.
+~
+305 885 0 0 0 0 255 0
+S
+$~

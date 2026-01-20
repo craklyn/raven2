@@ -1,0 +1,37 @@
+1 scan
+c calm
+mm dismount wyvern
+m mount wyvern
+cc cast 'call steed'
+t turn $*
+bb block
+ds disarm $*
+re rescue $*
+g guard $*
+r retarget $*
+k kick $*
+b bash $*
+bn cast 'banish' $*
+da cast 'det align' $*
+di cast 'det invis' $*
+rv cast 'righteous vis'
+water cast 'create water' $*
+food cast 'create food'
+reg cast 'regen' $*
+rpo cast 'rem poison' $*
+rp cast 'rem para' $*
+rc cast 'rem curse' $*
+cp cast 'cure plague' $*
+cb cast 'cure blind' $*
+h cast 'prayer of life' $*
+pfe cast 'protect from evil'
+dm cast 'div mission'
+cr cast 'crusade'
+ha cast 'holy armor'
+ar cast 'armor' $*
+dd retreat down
+uu retreat up
+ww retreat west
+ee retreat east
+ss retreat south
+nn retreat north

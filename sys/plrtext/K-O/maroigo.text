@@ -1,0 +1,37 @@
+0 recite recal recal
+r order follower rescue maroigo;kiss rook
+rr order follower rescue rook
+j kiss rook
+h hug rook
+or order follower rescue $*
+f kiss rook
+ccc cast 'consume' corpse
+g get all all.cor
+db cast 'debil' $*
+sc scan
+ok order follower kick $*
+o order follower kill $*
+cc cast 'charm corpse' $*
+eb cast 'embalm' cor
+ii cast 'invis' $*
+sum cast 'summon' $*
+loot get all all.maroi;wea all;wie morn;hol via;wea all all.maroi;wea all;des maroi
+3 rec midg midg
+fly cast 'fly' $*
+ld cast 'life drain' $*
+sp cast 'soul pierce' $*
+di cast 'detect invis' $*
+sh cast 'shield' $*
+cl clan &10$* &00
+b cast 'blind' $*
+' say &07<&00&06AM&07>&14$* &07<&00&06AM&07>&00
+ls cast 'sense'
+rp cast 'resist poison' $*
+wa wake;stand
+title titl :: &06Evil&07 Incarnate&00 - &14In Training&00 [/-|\/\]
+nox cast 'nox' $*
+tit title &06Demon&01Defiler &14of &07Cursed &00&03Carcass &13[&07AM&13]&00
+cw cast 'create ward'
+gt gtell &07{&00&06MIST&07}&13-|&14$* &13|-&07{&00&06MIST&07}&00
+rrr order follower rescue mihawk
+bw cast 'bonewal' $*

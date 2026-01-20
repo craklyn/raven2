@@ -1,0 +1,342 @@
+#24401
+H T 0~
+child small fair~
+a small child~
+A small child waits in line for the Big Top.
+~
+He is standing in line, whining and complaining that his feet hurt.  Why don't you put him out of your misery?
+~
+16394 0 0 0 1064 0 0 0 1000
+10 16 -1 1d1+100 8d7+0
+35 40
+9 9 1 0 -1 -1
+#24402
+H W 0~
+father dad man fair~
+the childs father~
+The childs father is here.
+~
+The child's father seems irked that you have been pushing past the others in line.
+~
+16394 0 0 0 1064 0 0 0 500
+25 7 -1 1d1+400 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24403
+H W 0~
+mother mom woman fair~
+the childs mother~
+The child's mother stands here, patiently waiting in line.
+~
+The mother is tired of taking care of her son, and wishes she was in a bubble bath at home right now.
+~
+16394 0 0 0 1064 0 0 0 500
+25 7 -2 1d1+400 8d7+0
+40 40
+9 9 2 0 -1 -1
+#24404
+H T 0~
+boy bobby fair~
+Bobby~
+Little Bobby is lost, and is looking for his mommy.
+~
+Bobby is scared, he should never have ran off to look at the Bearded Lady. Besides being lost, he is now psychologically scarred.
+~
+16396 0 0 0 1064 0 0 0 500
+15 10 -2 1d1+120 8d7+0
+35 40
+9 9 1 0 -1 -1
+#24405
+H W 0~
+woman mom mother fair~
+Bobby's mother~
+Bobby's mother is here, frantically calling out her son's name.
+~
+Bobby's mother is looking quite worried.  If you see Bobby, you will tell her, won't you?
+~
+16392 0 0 0 1064 0 0 0 500
+25 7 -1 1d1+500 8d7+0
+40 40
+9 9 2 0 -1 -1
+#24406
+H W 0~
+lady bearded fair~
+the Bearded Lady~
+The Bearded Lady sits here.
+~
+The Bearded Lady is kind of scary looking.  She looks at you with lust in her eyes.   RUN!!!!
+~
+16394 0 0 0 1064 0 0 0 -1000
+25 7 -2 5d5+500 8d7+0
+40 40
+7 9 2 0 -1 -1
+#24407
+H W 0~
+Illusionist mage fair~
+the Illusionist ~
+The Illusionist is here, doing tricks to amaze the crowd.
+~
+He puts on quite a show.  If you couldn't see the wires on half of his creations, you might actually be amazed.
+~
+16394 0 0 0 1064 0 0 0 -1000
+25 7 -2 5d5+500 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24408
+H W 0~
+midget fair~
+a midget~
+A Midget is here, doing acrobatics to amuse the crowd.
+~
+The Midget acts very silly, but you see a cunning gleam in his eye.  This is one to watch out for.
+~
+542734 0 0 0 1064 0 0 0 -500
+25 7 -2 5d5+500 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24409
+H W 0~
+Ivan strongman man strong fair~
+Ivan~
+Ivan the Strongman poses for the crowd.
+~
+   Ivan really is an impressive figure of a man, You will want to think twice
+before tangling with him.
+~
+542730 0 0 0 1064 0 0 0 -500
+25 7 -2 5d5+500 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24410
+H W 0~
+swallower fair~
+the Sword Swallower~
+The Sword Swallower is in the act of swallowing an entire bastard sword.
+~
+This guy has eaten more swords than you have even seen.  He probably knows how to use his sword as well.
+~
+542730 0 0 0 1064 0 0 0 -500
+25 7 -2 5d5+500 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24411
+H T 0~
+member audience fair~
+a member of the audience~
+A member of the audience goes "Ooooh!   Ahhhhh!
+~
+This person is so interested in the show, he doesn't even realize you are here. 
+~
+16394 0 0 0 1064 0 0 0 500
+25 7 -1 1d1+300 8d7+0
+40 40
+9 9 0 0 -1 -1
+#24412
+H T 0~
+clown red fair~
+a red-nosed clown~
+A red-nosed clown is ready to throw a pie in your face.
+~
+The clown is laughing and throwing pies, and generally being a nuisance.  
+He turns towards you with a pie.  DUCK!
+~
+542732 0 0 0 1064 0 0 0 500
+25 7 -1 1d1+200 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24413
+H T 0~
+clown big fair~
+a clown with big shoes~
+A clown with big shoes is trying to get into a small car.
+~
+The clown is trying to fit his shoes into the carriage.  It will be a tight fit.
+~
+542732 0 0 0 1064 0 0 0 500
+25 7 -1 1d1+200 8d7+0
+40 40
+9 9 2 0 -1 -1
+#24414
+H T 0~
+clown big fair~
+a big clown~
+A big clown is getting ready to throw confetti at you.
+~
+The big clown has a bucket full of confetti.  Or is it water?  Better stay away from him until you know.
+~
+542732 0 0 0 1064 0 0 0 500
+25 7 -1 1d1+250 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24415
+G W 0~
+ring master fair~
+the Ringmaster~
+The Ringmaster is introducing the next act.
+~
+The Ringmaster is dressed in a red coat, and is wearing a big black top hat. He was probably hired because he has a voice you could hear over a roaring dragon (which, incidently, is the next act).
+~
+542730 0 0 0 1064 0 0 0 -100
+30 7 -2 1d1+500 8d7+0
+50 60
+9 9 1 0 -1 -1
+#24416
+H R 0~
+thrower knife fair~
+the knife thrower~
+The knife thrower is getting ready to throw knifes at his assistant.
+~
+He is getting ready to put on a blind fold.  He has spent years of practice, and is completely confident in his skills.  He also has a handkerchief he keeps wiping his face with.
+You here him mumble, 'maybe I shouldn't have stopped by the Grunting Boar before my act'.
+~
+542730 0 0 0 1064 0 0 0 -500
+26 7 -2 1d1+500 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24417
+H T 0~
+assistant fair~
+the knife thrower's assistant~
+The knife thrower's assistant is asleep against the target.
+~
+The assistant dreams a drugged sleep.  It seems she thought she would be helping with the animals, until a slight mishap last night during the knife throwers rehearsal last night.
+She did wonder why the dashing knife thrower invited her out to dinner.
+~
+16394 0 0 0 0 0 0 0 1000
+25 7 -1 1d1+200 8d7+0
+40 40
+4 4 2 0 -1 -1
+#24418
+H W 0~
+tamer fair~
+the lion tamer~
+The lion tamer is putting his head in a lion's mouth.
+~
+He is a dashing man, who seems at home with the deadly beasts.  He controls the animals with whip and force of mind.
+~
+57354 0 0 0 537003048 0 0 0 500
+30 7 -2 1d1+500 8d7+0
+50 60
+9 9 1 0 -1 -1
+#24419
+A W 0~
+lion fair~
+a lion~
+A ferocious Lion leaps from his stand to attack you!
+~
+This is the King of the Beasts, and you understand why as he tears a chunk of flesh from your body!
+~
+542762 0 0 0 1064 0 0 0 -200
+15 7 -2 1d1+200 8d7+0
+35 40
+9 9 1 0 -1 -1
+#24420
+H H 0~
+walker tightrope fair~
+a tightrope walker~
+A tightrope walker balances on the wire.
+~
+The only way past him seems to be to push him off.  You wouldn't do that, would you? 
+~
+542730 0 0 0 1064 0 0 0 500
+25 7 -1 1d1+300 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24421
+H W 0~
+keeper fair~
+the animal keeper~
+An animal keeper is here, taking care of the animals.
+~
+She loves her work, and takes good care of the animals, despite the cheap supplies bought for them by the Circus Owner.
+~
+16394 0 0 0 1064 0 0 0 500
+25 7 -2 1d1+500 8d7+0
+40 40
+9 9 2 0 -1 -1
+#24422
+A S 0~
+elephant fair~
+the elephant~
+An elephant nudges you with his trunk, asking for peanuts.
+~
+This is a gigantic animal!  But he seems pretty docile.  Good thing.  You probably would not want to get him angry.
+~
+81994 0 0 0 1064 0 0 0 1000
+20 7 -3 1d1+300 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24423
+A W 0~
+bear fair~
+the bear~
+The trained bear hasn't been fed in a week.  Look out!
+~
+The bear hasn't been fed for a long time.  The Circus Owner figures he can save a lot of money buy feeding the bear on unwary adventurers like yourself.
+~
+608330 0 0 0 263208 0 0 0 500
+20 7 -2 1d1+300 8d7+0
+40 40
+9 9 1 0 -1 -1
+#24424
+A W 0~
+horse fair~
+a horse~
+A trained horse is here, prancing in anticipation.
+~
+The horse has been trained by the bare back rider.  These are magnificent animals, although they look like they could use more food.  More evidence of the cheapness of the Circus Owner.
+~
+542730 0 0 0 1064 0 0 0 500
+20 7 -2 1d1+300 8d7+0
+40 40
+9 9 2 20 23 4
+#24425
+A W 0~
+unicorn horse white fair~
+the poor horse~
+A poor white horse is here, about to have a horn implanted in it's head.
+~
+This poor animal had the unfortunate luck of being white.  Just what the Circus Owner was looking for.
+~
+542730 0 0 0 1064 0 0 0 500
+20 7 -1 1d1+300 8d7+0
+40 40
+9 9 2 4 23 20
+#24426
+H W 0~
+owner fair~
+the Circus Owner~
+The greedy Circus owner is about to cut into the poor horse.
+~
+This man has no scruples.  When the Owner got the thought of putting a horn on a regular horse and passing it off as a Unicorn, he almost wet his pants with delight.
+This man is in trouble if the ASPCA ever finds out, but until then, he will probably keep making a LOT of money.
+~
+542732 0 0 0 1192 0 0 0 -1000
+30 7 -4 1d1+1000 8d7+1
+50 60
+9 9 1 0 -1 -1
+#24427
+H T 0~
+vendor fair~
+the cotton candy vendor~
+The cotton candy vendor waits to take your money.
+~
+He is wearing a colorful pair of overalls and a bright painter's cap.  He makes cotton candy in a big tub, where all the kids can watch him.
+~
+542730 0 0 0 1064 0 0 0 500
+30 8 -1 1d10+3000 7d7+5
+50 60
+9 9 1 0 -1 -1
+#24429
+A W 0~
+dog guard~
+the guard dog~
+A guard dog growls at you, then attacks.
+~
+He looks like he has been purposely abused to keep him mean.  Maybe if you gave him a pie, he would be your friend?
+~
+542762 0 0 0 1064 0 0 0 -1000
+15 13 -1 6d2+300 8d7+3
+35 40
+9 9 1 4 4 4
+$

@@ -1,0 +1,111 @@
+#20100
+key flag plain black flag-item~
+a plain black key~
+A plain black key has been left here~
+~
+18 65540 256 0 0 1 0 0 0
+2 0 0 0
+1 1 0
+E
+black key~
+This key is carved from solid onyx.
+~
+B
+0 0 0 0
+D200
+#20101
+flag battle standard flag-item black-flag-item flaggame~
+a Black Battle Standard~
+A Black Battle Standard waves here in the breeze.~
+~
+8 65540 256 0 0 16385 0 0 0
+0 0 0 0
+0 100 0
+Z 20103
+E
+black battle standard~
+The black battle standard is the symbol of the Black Fortress.  It is 
+made of the finest materials and is held sacred to defenders of the 
+Black Fortress.
+~
+B
+0 0 0 0
+D100
+#20102
+gauntlet entry~
+the gauntlet entry~
+The entry to the dungeon known as The Gauntlet is set in the floor here.~
+~
+12 2 0 0 0 0 0 0 0
+0 0 0 0
+2 1 0
+B
+0 0 0 0
+#20103
+flag black standard battle~
+the &07Black&00 Battle Standard~
+The &07Black&00 Battle Standard rests here on the ground.~
+~
+8 65540 256 0 0 16385 0 0 0
+0 0 0 0
+0 0 910
+Z 20103
+A
+19 4
+A
+18 4
+B
+0 0 0 0
+#20150
+board tome book pedes glory~
+the Quest for Glory Tome, Vol I~
+A board shaped like a large tome sits on a marble pedestal here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+This board is to be used for the general discussions of the projects
+and/or ideas for this mud.
+~
+B
+0 0 0 0
+#20197
+a sign~
+a sign~
+A sign is posted here.~
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+1000 1 0
+E
+sign~
+Use the command "gimme" to be spelled up.
+~
+B
+0 0 0 0
+#20198
+cloud rogue~
+&08The red cloud of the ROGUE&00~
+&08A red cloud rests here&00~
+~
+12 109117772 0 0 0 65537 0 0 0
+0 0 0 0
+0 0 9060
+A
+12 50
+A
+13 50
+A
+19 4
+A
+18 4
+A
+17 -50
+A
+13 50
+B
+1096778984 1240096 0 0
+D50
+$~

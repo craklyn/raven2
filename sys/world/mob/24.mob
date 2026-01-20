@@ -1,0 +1,466 @@
+#2400
+E M 0~
+elven wizard~
+the Elven Wizard~
+An Elven Wizard is here, creating fireworks for the festivities.
+~
+The Elven Wizard looks at you in a solemn sort of way.  His gaze seems to
+penetrate through your innermost being.  He is wearing a silvery cloak
+and holding a multi-colored staff.  Although he appears to be older
+than the oldest man, he seems to have an inner strength which most mortals
+cannot overcome.
+~
+74 0 0 0 8 0 0 0 500
+18 5 0 18d18+180 3d2+15
+35 40
+9 9 1 0 -1 -1
+#2401
+L W 0~
+ring keeper~
+the Keeper of the Ring~
+The Keeper of the Ring is here, guarding his treasure jealously.
+~
+The Ring Keeper is a rather big but short halfling.  His short stature and
+bulbous nose belie his true nature.  An elven sword that glows with a blue
+light hangs from his belt, and on his finger you see the One Ring.  Although
+usually a halfling of peace, he will fight you to the death if you attempt
+to take away that which belongs to him.
+~
+74 0 0 0 138 0 0 0 0
+30 0 -5 1d1+1200 3d5+20
+50 60
+9 9 1 0 -1 -1
+#2402
+L W 0~
+farmer gamgee~
+Farmer Gamgee~
+Farmer Gamgee sniffs the air, wondering if harvest time is near.
+~
+Farmer Gamgee is a short, stout halfling of thirty years.  His skin has
+been tanned from working the fields night and day.  He's quite a jolly
+chap, always ready to befriend an injured bunny rabbit.
+~
+138 0 0 0 0 0 0 0 350
+7 14 4 7d7+77 1d4+5
+35 40
+6 6 1 0 -1 -1
+#2403
+L W 0~
+toddler~
+a toddler~
+A toddler crawls about, looking for something to chew on.
+~
+The toddler is dressed in nothing but his birthday suit.  He crawls about
+for he hasn't learned to walk yet.  He peers up at you and asks "da da?"
+~
+138 0 0 0 0 0 0 0 100
+2 19 9 2d2+22 1d3+1
+35 40
+7 7 1 0 -1 -1
+#2404
+L C 0~
+nursemaid~
+a nursemaid~
+A nursemaid wanders about, trying to keep track of all the toddlers.
+~
+The nursemaid looks rather tired and worn out.  Taking care of so many
+toddlers for too long has evidently taken its toll.  She looks to you and
+in her eyes you can see her longing for a better life.
+~
+10 0 0 0 0 0 0 0 100
+5 16 5 5d5+55 1d3+4
+35 40
+9 9 2 0 -1 -1
+#2405
+A W 0~
+cow~
+a cow~
+A cow is here, chewing her cud.
+~
+The cow looks like it hasn't been milked in quite some time.  Although she
+is past her prime, you see that she still has a lot of years left, and that
+if provoked, her rear kick can be quite deadly.
+~
+330 0 0 0 0 0 0 0 0
+4 17 6 4d4+44 1d4+3
+35 40
+6 6 0 0 -1 -1
+#2406
+A W 0~
+pig~
+a pig~
+A pig wallows in the mud and oinks in contentment.
+~
+The pig appears quite happy to be a pig.  He is oblivious to your presence
+and cares only for the care-free life that he leads.  It is enormously fat
+and consequently cannot move around very quickly.
+~
+330 0 0 0 0 0 0 0 0
+3 17 7 3d3+33 2d2+1
+35 40
+6 6 0 0 -1 -1
+#2407
+A W 0~
+hen french xmas~
+the french hen~
+A hen says "bonjour".
+~
+A french hen.
+~
+330 0 0 0 0 0 0 0 0
+2 20 7 2d2+22 1d4+0
+35 40
+7 7 2 0 -1 -1
+#2408
+A W 0~
+bull~
+a bull~
+A bull scratches at the ground and lowers his head.
+~
+The bull is in top condition.  He looks like quite a fighter, nothing to be
+reckoned with.  With his horns and his hooves he can attack just about
+anything.
+~
+42 0 0 0 0 0 0 0 0
+6 15 4 6d6+66 1d4+4
+35 40
+9 9 1 0 -1 -1
+#2409
+A W 0~
+horse~
+a horse~
+A horse becomes frightened by your presence.
+~
+The horse looks at you and turns away.  You can tell that it is afraid of you.
+~
+330 0 0 0 0 0 0 0 0
+4 17 6 4d4+44 1d8+0
+35 40
+9 9 0 0 -1 -1
+#2410
+L W 0~
+sheriff~
+a sheriff~
+A sheriff of the Shire looks for signs of trouble.
+~
+The sheriff is over waist high, quite tall for a halfling.  His eyes are
+ever roaming, looking for signs of trouble from riff-raff like you.  In
+his belt is a thin dagger, and on his body he wears a suit of leather armor.
+This is one halfling you don't want to mess with.
+~
+76 0 0 0 0 0 0 0 150
+8 13 5 8d8+88 1d4+5
+35 40
+7 7 1 0 -1 -1
+#2411
+L W 0~
+sheriff~
+a sheriff~
+A sheriff of the Shire looks for signs of trouble.
+~
+The sheriff is over waist high, quite tall for a halfling.  His eyes are
+ever roaming, looking for signs of trouble from riff raff like you.  In
+his belt is a thin dagger, and on his body he wears a suit of leather armor.
+This is one halfling you don't want to mess with.
+~
+76 0 0 0 0 0 0 0 150
+8 13 5 8d8+88 1d4+5
+35 40
+7 7 1 0 -1 -1
+#2412
+L W 0~
+thain~
+the Thain~
+The Thain commands respect from all Shire folk.
+~
+A personable yet serious halfling, the Thain looks at you and yells a
+deep 'Hullo'.  He walks about comfortably, secure in the knowledge that
+as long as he's in office, the Shire will always remain a safe haven for
+Shire folk.
+~
+72 0 0 0 0 0 0 0 400
+14 7 -3 14d14+140 1d4+12
+35 40
+7 7 1 0 -1 -1
+#2413
+L W 0~
+innkeeper~
+the Innkeeper~
+The Innkeeper stands here awaiting your order.
+~
+The Innkeeper is a jolly old halfling who spends his days eavesdropping on
+local gossip.  In his younger days, he was quite a seasoned traveller.
+~
+74 0 0 0 0 0 0 0 200
+12 9 2 12d12+120 1d4+10
+35 40
+9 9 1 0 -1 -1
+#2414
+L W 0~
+miller~
+the Miller~
+The Miller is here, overseeing his busy mill workers.
+~
+The Miller is an impatient young halfling, always trying to command more
+respect from his workers than he can get.  He looks like the type of person
+who deserves a spanking but never got one.
+~
+204 0 0 0 0 0 0 0 50
+6 15 4 6d6+66 1d4+4
+35 40
+9 9 1 0 -1 -1
+#2415
+L W 0~
+mill worker~
+the mill worker~
+The mill worker runs to and fro.
+~
+The mill worker is in fine shape from the hard labor that he does at the
+mill.  He doesn't notice your presence, but he looks like he could break you
+in two without thinking about it.
+~
+10 0 0 0 0 0 0 0 0
+5 16 5 5d5+55 1d6+3
+35 40
+9 9 1 0 -1 -1
+#2416
+E W 0~
+elven warrior~
+the elven warrior~
+The elven warrior watches you solemnly.
+~
+The tall elven warrior is light and fair-skinned.  The expression that he wears
+on his countenance is solemn and tragic.  He cares not for this world any
+longer and wearies of it.
+~
+6154 0 0 0 0 0 0 0 600
+17 4 -4 17d17+170 1d4+15
+35 40
+7 7 1 0 -1 -1
+#2417
+W W 0~
+dwarven prince~
+the dwarven prince~
+The dwarven prince sits here patiently for the return of his king.
+~
+Grim and cold, the dwarven prince is quite strong and bulky, even for the
+dwarves of his land.  His glowing eyes peer out of his bushy face and stare
+beyond your gaze.
+~
+6154 0 0 0 0 0 0 0 200
+20 6 -8 1d1+300 2d4+15
+40 40
+7 7 1 0 -1 -1
+#2418
+L W 0~
+shopkeeper~
+the shopkeeper~
+the shopkeeper smiles and patiently waits for you to buy something.
+~
+The shopkeeper will fight like a madman to protect his store from riff-raff
+like you.
+~
+11 0 0 0 128 0 0 0 600
+40 -2 -12 1d1+3000 4d5+30
+65 75
+9 9 1 0 -1 -1
+#2419
+L W 0~
+grocer~
+the grocer~
+The grocer offers you the finest breads in all the land.
+~
+The grocer is a large, jovial halfling who knows how to enjoy his pipeweed.
+However, he also knows that it's worth protecting and so will do everything
+in his power to prevent riff-raff like you from stealing it.
+~
+11 0 0 0 128 0 0 0 600
+40 -2 -12 1d1+3000 4d5+30
+65 75
+9 9 1 0 -1 -1
+#2420
+L W 0~
+blacksmith~
+the blacksmith~
+The blacksmith bids you welcome to his humble store.
+~
+The blacksmith is a lean and mean fighting machine.  His knowledge of weapons
+and armour would certainly help him in any fight against riff-raff like you.
+~
+11 0 0 0 128 0 0 0 600
+40 -20 -30 1d1+3000 4d5+30
+65 75
+9 9 1 0 -1 -1
+#2421
+L W 0~
+battle master~
+the battle master~
+The battle master offers you the services of his fine trainees.
+~
+The battle master is a wizened fighter, with many scars to prove his worth.
+~
+10 0 0 0 0 0 0 0 350
+25 -2 -15 25d25+250 2d6+20
+40 40
+9 9 1 0 -1 -1
+#2422
+L W 0~
+halfling youth~
+a halfling youth~
+A halfling youth stands here, waiting for nothing in particular.
+~
+The halfling youth is not yet quite in the prime of his youth.  He's knee
+high and you get the sudden urge to step on him.
+~
+200 0 0 0 0 0 0 0 0
+3 18 7 3d3+33 1d6+1
+35 40
+9 9 1 0 -1 -1
+#2423
+L W 0~
+seasoned adventurer~
+a seasoned adventurer~
+A seasoned adventurer sits here, telling tales of fame and fortune.
+~
+The seasoned adventurer has seen his share of glory days.  Although he is
+past his prime, he still looks like he could put up more than his share of
+a good fight.
+~
+10 0 0 0 0 0 0 0 100
+8 13 3 8d8+88 2d3+7
+35 40
+7 7 1 0 -1 -1
+#2424
+L W 0~
+local gossip~
+a local gossip~
+A local gossip tells you, "Have you heard the latest?"
+~
+The gossip is all talk and no action.  You're transfixed by her ability to
+talk so much so quickly.
+~
+138 0 0 0 0 0 0 0 0
+4 17 6 4d4+44 1d4+2
+35 40
+7 7 2 0 -1 -1
+#2425
+L W 0~
+halfling beauty~
+a halfling beauty~
+A halfling beauty stares dreamily into your eyes.
+~
+She is the most beautiful creature you've seen in quite some time.  As you
+stare at her, thoughts of all else vanish.  You get the sudden urge to grovel
+at her feet, hoping she'll take you in like a lost puppy.  You wouldn't dare
+harm a hair on her precious little head.
+~
+10 0 0 0 0 0 0 0 1000
+6 15 4 6d6+66 1d4+4
+35 40
+9 9 2 0 -1 -1
+#2426
+L W 0~
+trainee~
+a trainee~
+A trainee screams a death cry as he delivers the fatal blow to a dummy.
+~
+The trainee smiles smugly, aware of your interest in him.  He's a little
+fresh, but his enthusiasm and desire to please more than make up for what
+he lacks in skill.
+~
+10 0 0 0 0 0 0 0 0
+5 16 5 5d5+55 1d6+3
+35 40
+9 9 1 0 -1 -1
+#2427
+L W 0~
+chic urbanite~
+a chic urbanite~
+A chic urbanite sits here, enjoying his class status.
+~
+The urbanite seems very much at home in his surroundings.  His clothes are
+all of the latest fashions and his manners impeccable.  He offers you some
+coins if you'd be so good as to order a drink for him.
+~
+138 0 0 0 0 0 0 0 0
+4 17 6 4d4+44 2d2+2
+35 40
+7 7 1 0 -1 -1
+#2428
+L W 0~
+country bumpkin~
+a country bumpkin~
+A country bumpkin dreams of pipeweed and its many uses.
+~
+The country bumpkin snores noisily.
+~
+10 0 0 0 0 0 0 0 0
+5 16 5 5d5+55 1d4+3
+35 40
+4 4 1 0 -1 -1
+#2430
+L W 0~
+innkeeper~
+the Innkeeper~
+The Innkeeper stands here awaiting your order.
+~
+The Innkeeper is a jolly old halfling who spends his days eavesdropping on
+local gossip.  In his younger days, he was quite a seasoned traveller.
+~
+10 0 0 0 0 0 0 0 200
+12 9 2 12d12+120 1d4+10
+35 40
+9 9 1 0 -1 -1
+#2431
+L W 0~
+receptionist~
+the receptionist~
+The receptionist sits here, signing forms.
+~
+He is a very professional looking type.
+~
+24586 0 0 0 0 0 0 0 200
+12 4 -2 12d12+120 1d8+14
+35 40
+9 9 1 0 -1 -1
+#2432
+L W 0~
+sheriff~
+a sheriff~
+A sheriff of the Shire looks for the lost halfling youth.
+~
+The sheriff is over waist high, quite tall for a halfling.
+He looks at you, smiles and asks you if you have seen a halfling youth
+somewhere outside the sheriff.
+~
+10 0 0 0 0 0 0 0 150
+8 13 5 8d8+88 1d4+6
+35 40
+9 9 1 0 -1 -1
+#2433
+L M 0~
+halfling questmaster mage~
+the Halfling Questmaster~
+The Halfling Questmaster stands here.
+~
+Short... curly hair... bare fuzzy feet... yep, it's a Halfling.
+~
+134299656 0 0 0 1049768 0 0 0 0
+51 -20 0 1d1+15000 1d1+90
+90 100
+9 9 1 0 -1 -1
+#2434
+U M 0~
+Witch King Nasgoul~
+the Witch King of Agmar~
+The Witch King of Agmar rides his black dragon in search of the One Ring.
+~
+   The strongest and most powerful of the nine kings.  This undead wraith is
+hungry for the power of the One Ring, and will stop at nothing to obtain it.  
+
+~
+3672092 0 0 0 273777832 2623488 0 0 -1000
+51 0 -10 1d1+30000 10d10+90
+80 90
+9 9 1 3 10 19
+$

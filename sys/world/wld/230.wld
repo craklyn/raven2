@@ -1,0 +1,1767 @@
+#23000
+Zone Room -   The Perceptory~
+   This zone is made by Brighteyes on Raven Mud, 1998.  It describes the siege
+of papal forces on a small perceptory where the Knight Templars have stashed
+away relics and treasure to save it from the greed of the French King and the
+Pope.    
+~
+230 0 0 0 0 0 255 0
+S
+#23001
+The tomb of the slain Grandmaster~
+   You have arrived in a room all painted in black and silver.  In the middle
+of the room you see a large coffin surrounded by three large chandelers and on
+it a silver plate with the inscription I.  B.  M is fastened.  In the east
+there is an altar upon which lies an open Bible and 9 lighted candles.  In the
+air you can feel a weak smell of incense adding to the mystic feel of this
+room.    
+~
+230 520 0 0 0 0 255 0
+D0
+~
+~
+1 -1 23006
+D1
+The altar is set against the wall.
+~
+altar~
+2 23019 23072
+D3
+~
+~
+0 -1 23002
+E
+bible book read~
+The Bible is open on the beginning of the Gospel of S:t John.
+"In principio erat Verbum et Verbum erat apud Deum et Deus erat Verbum"
+~
+S
+#23002
+The room of eternal damnation~
+   This room is a gloomy and dark, in the middle of it you see what appears to
+be an open grave.  The walls have murals describing what appears to be a huge
+battlescene and the room is all still.  Perhaps this is the calm before the
+storm.    
+~
+230 521 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23001
+D3
+~
+altar~
+1 -1 23003
+E
+mural wall painting picture~
+The mural is depicting some kind of demon killing off an army of warriors with 
+assistance of Knights of the Temple. Behind the demon you see a tall person 
+with a regal posture, controlling the demon with some kind of object.
+~
+S
+#23003
+The shrine~
+   You have arrived to a small chapel, painted all in gold and blue.  The
+ceiling is painted to look like the open sky on a starbright night, and the
+floor is chequered with alternating white and black squares.  In the east you
+see an altar upon which there is an open Bible and three lit candles.  Inset in
+the floor is a blazing 6-pointed star, and directly above it you can see an oil
+lamp suspended from the ceiling.    
+~
+230 393736 0 0 0 0 255 0
+D0
+The reinforced door looks very strong
+~
+door strong reinforced~
+2 -1 23004
+D1
+The altar is set against the wall
+~
+altar~
+1 -1 23002
+D4
+~
+~
+0 -1 23071
+E
+bible book text~
+The Bible is open on a passage in Matthew.
+"Petite et dabitur vobis quaerite et invenietis pulsate et aperietur vobis
+ Omnis enim qui petit accipit et qui quaerit invenit et pulsanti aperietur"
+~
+S
+#23004
+Passage of death~
+   This dark passage is far to small to contain more than one person at the
+time, the air is stale and hard to breathe, to the point where you almost feel
+like you are suffocating.  Going through it might be a tight squeeze but you
+feel confident that you will make it through.  Next to the door is an
+inscription in both English and Latin.    
+~
+230 525065 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23005
+D2
+~
+~
+2 -1 23003
+E
+latin text english inscription~
+The Latin text reads:
+"Innocens manibus et mundo corde qui non exaltavit frustra animam suam et non 
+ iuravit dolose"
+and the English text:
+"Yea, though I walk through the valley of the shadow of death, I will fear no 
+ evil: for thou art with me; thy rod and thy staff they comfort me."
+~
+S
+#23005
+Passage of death~
+   This dark passage is far to small to contain more than one person at the
+time, the air is stale and hard to breathe, to the point where you almost feel
+like you are suffocating.  Going through it might be a tight squeeze but you
+feel confident that you will make it through.  On the floor you see skeletal
+parts of previous visitors here, not as lucky as you have been this far.    
+~
+230 525065 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23006
+D3
+~
+~
+0 -1 23004
+S
+#23006
+Passage of death~
+   This dark passage is far to small to contain more than one person at the
+time, the air is stale and hard to breathe, to the point where you almost feel
+like you are suffocating.  Going through it might be a tight squeeze but you
+feel confident that you will make it through.  South there appears to be an
+opening leading out from this narrow crawlspace.  Besides the opening you see
+another incription.    
+~
+230 525065 0 0 0 0 255 0
+D2
+~
+~
+1 -1 23001
+D3
+~
+~
+0 -1 23005
+E
+inscription latin text~
+The text reads in Latin:
+Beatius est magis dare quam accipere
+~
+S
+#23007
+The Templar Church~
+   You are standing at the center of a huge circular domed Church.  From
+stained glass windows light is pouring down upon those gathered here in solemn
+worship of the one allmighty God.  Here in the center there is a huge bronze
+plate with an inscription, and the floor is tiled with alternating white and
+black marble squares.  Standing here you feel an inner peace and you feel the
+power surge through you.    
+~
+230 393224 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23008
+D1
+~
+~
+0 -1 23009
+D2
+~
+~
+0 -1 23010
+D3
+~
+~
+0 -1 23011
+D5
+You look upon a large bronze plate having the inscription.
+Iacobius Burgundius Molensis, Bustus Anno Domini Nostri Ieusu Christi, MCCCXIV
+~
+plate bronze~
+1 -1 23070
+E
+huge bronze plate description test~
+"In memoriam Iacobius Burgundius Molensis, bustus anno Domini nostri
+ Iesu Christi MCCCXIV."
+~
+S
+#23008
+The Templar Church~
+   You are standing at the north end of a huge domed hall of worship, where the
+Knights of the Temple gather to receive the word of God.  The church is very
+tastefully decorated albeit in a simple manner fitting for the humble Knights
+who has taken the Crusaderers wov.  The stained glass windows in the dome
+filters the rays of the sun, shining down on the black and white chequered
+floor.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23012
+D1
+~
+~
+0 -1 23009
+D2
+~
+~
+0 -1 23007
+D3
+~
+~
+0 -1 23011
+S
+#23009
+The Templar Church~
+   You are standing at the east end of a huge domed hall of worship, where the
+Knights of the Temple gather to receive the word of God.  The church is very
+tastefully decorated albeit in a simple manner fitting for the humble Knights
+who has taken the Crusaderers wov.  The stained glass windows in the dome
+filters the rays of the sun, shining down on the black and white chequered
+floor.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23008
+D1
+~
+~
+0 -1 23013
+D2
+~
+~
+0 -1 23010
+D3
+~
+~
+0 -1 23007
+S
+#23010
+The Templar Church~
+   You are standing at the south end of a huge domed hall of worship, where the
+Knights of the Temple gather to receive the word of God.  The church is very
+tastefully decorated albeit in a simple manner fitting for the humble Knights
+who has taken the Crusaderers wov.  The stained glass windows in the dome
+filters the rays of the sun, shining down on the black and white chequered
+floor.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23007
+D1
+~
+~
+0 -1 23009
+D2
+~
+~
+0 -1 23014
+D3
+~
+~
+0 -1 23011
+S
+#23011
+The Templar Church~
+   You are standing at the west end of a huge domed hall of worship, where the
+Knights of the Temple gather to receive the word of God.  The church is very
+tastefully decorated albeit in a simple manner fitting for the humble Knights
+who has taken the Crusaderers wov.  The stained glass windows in the dome
+filters the rays of the sun, shining down on the black and white chequered
+floor.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23008
+D1
+~
+~
+0 -1 23007
+D2
+~
+~
+0 -1 23010
+D3
+~
+~
+0 -1 23015
+S
+#23012
+Corridor to the Church~
+   You are standing in a brightly lit corridor going from north to south.  
+Compared to the passageways following the outer wall of this perceptory the
+walls and ceilings here are all bare not having any decorations at all.  As
+always here you hear the soft echo of your steps as you move through this room.
+  
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23046
+D2
+~
+~
+0 -1 23008
+S
+#23013
+Corridor to the Church~
+   You are standing in a brightly lit corridor going from west to east.  
+Compared to the passageways following the outer wall of this perceptory the
+walls and ceilings here are all bare not having any decorations at all.  As
+always here you hear the soft echo of your steps as you move through this room.
+  
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23016
+D3
+~
+~
+0 -1 23009
+S
+#23014
+Corridor to the Church~
+   You are standing in a brightly lit corridor going from north to south.  
+Compared to the passageways following the outer wall of this perceptory the
+walls and ceilings here are all bare not having any decorations at all.  As
+always here you hear the soft echo of your steps as you move through this room.
+  
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23010
+D2
+~
+~
+0 -1 23034
+S
+#23015
+Corridor to the Church~
+   You are standing in a brightly lit corridor going from west to east.  
+Compared to the passageways following the outer wall of this perceptory the
+walls and ceilings here are all bare not having any decorations at all.  As
+always here you hear the soft echo of your steps as you move through this room.
+  
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23011
+D3
+~
+~
+0 -1 23040
+S
+#23016
+Eastern corridor~
+   You are standing in a crossing between corridors coming from north, south
+and west.  To your east you see the passage to the gatehouse where vigilant
+Knight Templars stand on guard all day and night guarding their perceptory from
+enemy incursions.  The ceiling is covered by a large mural depicting a stage of
+the history of the Knight Templars, and you hear the soft echo of your steps as
+you move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23051
+D1
+~
+~
+0 -1 23017
+D2
+~
+~
+0 -1 23029
+D3
+~
+~
+0 -1 23013
+E
+ceiling painting mural picture history~
+In this mural you see the last Grand Master of the Knight Templars being burned 
+at the stake on an Island in the Seine, 1314 after denying the charges laid on him
+during the mock trial staged by Philip IV. With his last dying breath he spells
+out a terrible curse stating that within a year after his death he will stand 
+before the throne of God, together with Clement V the Pope, and Philip IV the King
+where God will pass judgement upon them. Within a year both of them are dead...
+~
+S
+#23017
+Perceptory gatehouse~
+   Entering the front gate you are now standing inside a large gatehouse where
+the Knight Templar guards can offer additional resistance in the case of a
+breakthrough of the outer defences.  To your east you see the huge iron-clad
+oaken doors leading out to the drawbridge, to your west there is another
+reinforced door leading further into the structure.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23018
+D3
+~
+~
+0 -1 23016
+S
+#23018
+Drawbrige to the perceptory~
+   You are standing on the drawbridge of the perceptory, looking up you can't
+help feeling small in comparision to the giant structure you have to your west.
+To your east you see the camp of the papal forces laying siege to the
+perceptory in the hope of claiming some of the wealth the Knight Templar order
+is rumored to have gathered during the crusades.    
+~
+230 4 0 0 0 2 255 0
+D1
+~
+~
+0 -1 23019
+D3
+~
+~
+0 -1 23017
+S
+#23019
+Encampement~
+You are walking on a path through the camp of an army.  The ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  From here
+the path continues north and south, and to your west you see the drawbridge to
+the perceptory.    
+~
+230 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23021
+D2
+~
+~
+0 -1 23025
+D3
+~
+~
+0 -1 23018
+S
+#23020
+In a tent~
+   You are inside a tent where the common soldier of this army is housed, the
+tent is very spartan only fulfilling the basic needs of a solier in the field.
+A dry place to sleep on, and some protection from the forces of nature.  Lined
+against the walls are the sleeping places of the individual soldiers, and in
+the middle there is a stove to keep the tent dry and somewhat warm.    
+~
+230 8 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23022
+S
+#23021
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  From here
+the path continues south and east, and to your north you see a tent where some
+of the hired troops are waiting for the assault.    
+~
+230 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23023
+D1
+~
+~
+0 -1 23022
+D2
+~
+~
+0 -1 23019
+S
+#23022
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  The path
+continues east and west from here, and to your south you see a tent, obviously
+the home of some of the soldiers in this army.    
+~
+230 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23024
+D1
+~
+~
+0 -1 23052
+D2
+~
+~
+0 -1 23020
+D3
+~
+~
+0 -1 23021
+S
+#23023
+In a tent~
+   You are inside a tent where the common soldier of this army is housed, the
+tent is very spartan only fulfilling the basic needs of a solier in the field.
+A dry place to sleep on, and some protection from the forces of nature.  Lined
+against the walls are the sleeping places of the individual soldiers, and in
+the middle there is a stove to keep the tent dry and somewhat warm.    
+~
+230 8 0 0 0 2 255 0
+D2
+~
+~
+0 -1 23021
+S
+#23024
+In a tent~
+   You are inside a tent where the common soldier of this army is housed, the
+tent is very spartan only fulfilling the basic needs of a solier in the field.
+A dry place to sleep on, and some protection from the forces of nature.  Lined
+against the walls are the sleeping places of the individual soldiers, and in
+the middle there is a stove to keep the tent dry and somewhat warm.    
+~
+230 8 0 0 0 2 255 0
+D2
+~
+~
+0 -1 23022
+S
+#23025
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  The path
+branches off to your north, south and to your east.    
+~
+230 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23019
+D1
+~
+~
+0 -1 23026
+D2
+~
+~
+0 -1 23027
+S
+#23026
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  The path
+continues to your east and west.    
+~
+230 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 23057
+D3
+~
+~
+0 -1 23025
+S
+#23027
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  The path
+continues north, and to your east you see a small tent, to the south you see
+one of the larger tents of this encampmend.  The tent is flying the colors of
+the French King, obviously that is the tent of Philip the IVth, also known as
+Philipe Bel.    
+~
+230 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23025
+D1
+~
+~
+0 -1 23028
+D2
+~
+~
+0 -1 23058
+S
+#23028
+In a tent~
+   You are inside a tent where the common soldier of this army is housed, the
+tent is very spartan only fulfilling the basic needs of a solier in the field.
+A dry place to sleep on, and some protection from the forces of nature.  Lined
+against the walls are the sleeping places of the individual soldiers, and in
+the middle there is a stove to keep the tent dry and somewhat warm.    
+~
+230 8 0 0 0 2 255 0
+D3
+~
+~
+0 -1 23027
+S
+#23029
+Eastern corridor~
+You are standing in a brightly lit corridor going from north to south. 
+If you look out thwough the window to your east you see the surroundings 
+of this perceptory. The ceiling is covered by a large mural depicting
+a stage of the history of the Knight Templars, and you hear the soft echo 
+of your steps as you move through this room. 
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23016
+D2
+~
+~
+0 -1 23030
+E
+ceiling painting mural picture history~
+You see nine knights riding east towards Jerusalem and the Holy Land. They are
+all dressed in crusaders outfits and wear shining armor.
+~
+S
+#23030
+Eastern corridor~
+You are standing in a brightly lit corridor going from north to south. 
+If you look out thwough the window to your east you see the surroundings 
+of this perceptory. The ceiling is covered by a large mural depicting
+a stage of the history of the Knight Templars, and you hear the soft echo 
+of your steps as you move through this room. 
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23029
+D2
+~
+~
+0 -1 23031
+E
+ceiling painting mural picture history~
+The nine knights have arrived to the east, and there they meet seven oriental
+Christians who greet them as friends and savoirs, inviting them in to their
+homes.
+~
+S
+#23031
+Southeastern tower~
+   You are standing in a brightly lit tower with corridors going north and
+west.  If you look out thwough the windows to your east and south you see the
+surroundings of this perceptory.  The ceiling is covered by a large mural
+depicting a stage of the history of the Knight Templars, and you hear the soft
+echo of your steps as you move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23030
+D3
+~
+~
+0 -1 23032
+E
+ceiling painting mural picture history~
+The cursaders are sitting around a table eating when an elder comes in with
+a golden box. He then hands some old documents from the box to the knights, 
+teaching them about old and long forgotten mysteries.
+~
+S
+#23032
+Southern corridor~
+   You are standing in a brightly lit corridor going from east to west.  If you
+look out thwough the window to your south you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23031
+D3
+~
+~
+0 -1 23033
+E
+ceiling painting mural picture history~
+The knights arrive to Jerusalem, and the Temple mound now carrying the golden
+box. They are greeted by the King of Jerusalem who gives them the Temple mound
+as a quarter where they take shelter in the great Mosque now converted into a 
+stable.
+~
+S
+#23033
+Southern corridor~
+   You are standing in a brightly lit corridor going east to west.  If you look
+out thwough the window to your south you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23032
+D3
+~
+~
+0 -1 23034
+E
+ceiling painting mural picture history~
+The nine knights are now digging through the floor of the mosque apparently 
+trying to locate something mentioned in the ancient documents. They are all
+cheering as they find a long forgotten tunnel.
+~
+S
+#23034
+Southern corridor~
+   You are standing in a crossing between corridors coming from north, east and
+west.  If you look out thwough the window to your south you see the
+surroundings of this perceptory.  The ceiling is covered by a large mural
+depicting a stage of the history of the Knight Templars, and you hear the soft
+echo of your steps as you move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23014
+D1
+~
+~
+0 -1 23033
+D3
+~
+~
+0 -1 23035
+E
+ceiling painting mural picture history~
+Three of the nine are riding back west in a hurry, bringing with them the
+golden box. Arriving to the coast they board a ship taking them back home.
+~
+S
+#23035
+Southern corridor~
+   You are standing in a brightly lit corridor going east to west.  If you look
+out thwough the window to your south you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23034
+D3
+~
+~
+0 -1 23036
+E
+ceiling painting mural picture history~
+Arriving back to Europe they meet S:t Bernard of Clairvaux to whom they hand 
+some of the documents they have obtained. He examines them carefully, getting 
+more and more excited.
+~
+S
+#23036
+Southern corridor~
+   You are standing in a brightly lit corridor going east to west.  If you look
+out thwough the window to your south you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23035
+D3
+~
+~
+0 -1 23037
+E
+ceiling painting mural picture history~
+S:t Bernard is hurrying away from his monestary towards Rome and the Pope,
+carrying with him the documents he got from the three knights. Getting there
+he is given an audience with the Pope who also examines the papers. The Pope
+then prompltly sends for the knights.
+~
+S
+#23037
+Southwestern tower~
+   You are standing in a brightly lit tower with corridors going turning north
+and east.  If you look out thwough the windows to your south and west you see
+the surroundings of this perceptory.  The ceiling is covered by a large mural
+depicting a stage of the history of the Knight Templars, and you hear the soft
+echo of your steps as you move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23038
+D1
+~
+~
+0 -1 23036
+E
+ceiling painting mural picture history~
+The three knights are kneeling infront of the pope who hand them a Charter to
+form a religious order subject only to the authority of the pope. No king or
+bishop should hold any authority over them, and they are expempt from all
+taxes in the lands where they live.
+~
+S
+#23038
+Western corridor~
+   You are standing in a brightly lit corridor going from north to south.  If
+you look out thwough the window to your west you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23039
+D2
+~
+~
+0 -1 23037
+E
+ceiling painting mural picture history~
+The three knights are given a suit of colors to be used as a sign of recognition
+differencing them from other crusadres. Their garb is to be all white and on the
+shoulder they are to carry a red cross, the cross of S:t George. They are also
+given a battle standard, the beau-seant, half white, half black, signifying their
+struggle with the forces of darkness.
+~
+S
+#23039
+Western corridor~
+   You are standing in a brightly lit corridor going from north to south.  If
+you look out thwough the window to your west you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23040
+D2
+~
+~
+0 -1 23038
+E
+ceiling painting mural picture history~
+The three knights are traveling back east. All of them are dressed in the 
+white garb with the red cross on the shoulder and they are all well equipped. 
+Arriving to Jerusalem they are greeted by the six knights who stayed there 
+digging.
+~
+S
+#23040
+Western corridor~
+   You are standing in a crossing between corridors coming from north, south
+and east.  If you look out thwough the window to your west you see the
+surroundings of this perceptory.  The ceiling is covered by a large mural
+depicting a stage of the history of the Knight Templars, and you hear the soft
+echo of your steps as you move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23041
+D1
+~
+~
+0 -1 23015
+D2
+~
+~
+0 -1 23039
+E
+ceiling painting mural picture history~
+The six remaining knights takes the three knights who had been away to see
+what was discovered during their abscense. They are guided through a long 
+narrow tunnel going deep under the Temple mound, and there they come to a
+large chamber. Apparently remains of the temple the romans destroyed. 
+~
+S
+#23041
+Western corridor~
+   You are standing in a brightly lit corridor going from north to south.  If
+you look out thwough the window to your west you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23042
+D2
+~
+~
+0 -1 23040
+E
+ceiling painting mural picture history~
+By removing a tile from the floor they had found a hidden chamber under the
+old Temple, and one knight is lowered there holding onto a rope.  Under the
+floor one see the chamber and its full of treasures. Among the treasure one
+can see a chalice glowing in the dark.
+~
+S
+#23042
+Western corridor~
+   You are standing in a brightly lit corridor going from north to south.  If
+you look out thwough the window to your west you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23043
+D2
+~
+~
+0 -1 23041
+E
+ceiling painting mural picture history~
+Here one see the knights recruiting new members to the Order, expanding from
+the original nine members into a sizable force. Many wealthy landowners give
+large donations to the Order making it an extremly wealthy order.
+~
+S
+#23043
+Northwestern tower~
+   You are standing in a brightly lit tower with corridors going turning south
+and east.  If you look out thwough the windows to your west and north you see
+the surroundings of this perceptory.  The ceiling is covered by a large mural
+depicting a stage of the history of the Knight Templars, and you hear the soft
+echo of your steps as you move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23044
+D2
+~
+~
+0 -1 23042
+E
+ceiling painting mural picture history~
+Here you see the Knight Templars gathering a huge fleet of galleys, which 
+they use to transport people to and from the Holy Land. All the galleys are
+flying the maritime battleflag of the Knight Temlars, a black flag with a 
+white skull and crossbones.
+~
+S
+#23044
+Northern corridor~
+   You are standing in a brightly lit corridor going east to west.  If you look
+out thwough the window to your north you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23045
+D3
+~
+~
+0 -1 23043
+E
+ceiling painting mural picture history~
+Here you can see several battlescenes, where the Knight Templars participate
+in the crusades to free the Holy Land from the infidels. Among the battlescenes
+you see heroic feats made by Knight Templars prefering to die rather than to
+surrender.
+~
+S
+#23045
+Northern corridor~
+   You are standing in a brightly lit corridor going east to west.  If you look
+out thwough the window to your north you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23046
+D3
+~
+~
+0 -1 23044
+E
+ceiling painting mural picture history~
+Because of the treacherous bickering among the nobles who have come to the Holy 
+Land eventually the relatively few Knight Templars are unable to withstand the
+Moslem hordes, and the Holy Land is lost to the infidels.
+~
+S
+#23046
+Northern corridor~
+   You are standing in a crossing between corridors coming from east, south and
+west.  If you look out thwough the window to your north you see the
+surroundings of this perceptory.  The ceiling is covered by a large mural
+depicting a stage of the history of the Knight Templars, and you hear the soft
+echo of your steps as you move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23047
+D2
+~
+~
+0 -1 23012
+D3
+~
+~
+0 -1 23045
+E
+ceiling painting mural picture history~
+Now the Knight Templars are concentrating their efforts back to Europe where 
+they are trying to persuade the regents to amass another crusade to once 
+again regain what was lost. But to no avail as the rulers are more interested
+in fighting their neighbours than to fight for the faith.
+~
+S
+#23047
+Northern corridor~
+   You are standing in a brightly lit corridor going east to west.  If you look
+out thwough the window to your north you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23048
+D3
+~
+~
+0 -1 23046
+E
+ceiling painting mural picture history~
+King Philip IV of France, is looking at his own emopty treasury with a sad
+look on his face, then he looks out through the window seeing the Temple in
+Paris where the Knigh Templars has their French headquarters. One can see the
+envy in the face of the King as he see the wealth of the Order.
+~
+S
+#23048
+Northern corridor~
+   You are standing in a brightly lit corridor going east to west.  If you look
+out thwough the window to your north you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 23049
+D3
+~
+~
+0 -1 23047
+E
+ceiling painting mural picture history~
+Philip decides to act, and tries to get the Pope to support him. The Pope
+refuses and Philip decides to replace the Pope with another one, better suited
+following his commands. Thus he order a servant to kill the old pope, and then
+he manages to get another servant of his elected new Pope under the name of
+Clement V.
+~
+S
+#23049
+Northeastern tower~
+   You are standing in a brightly lit tower with corridors going turning south
+and west.  If you look out thwough the windows to your north and east you see
+the surroundings of this perceptory.  The ceiling is covered by a large mural
+depicting a stage of the history of the Knight Templars, and you hear the soft
+echo of your steps as you move through this room.    
+~
+230 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 23050
+D3
+~
+~
+0 -1 23048
+E
+ceiling painting mural picture history~
+Philip then accuse the Order of heresy, and supported by his puppet pope Clement V
+he then plans the downfall of the Templars, sending out his orders in sealed envelopes 
+to all garrisons around France.
+~
+S
+#23050
+Eastern corridor~
+   You are standing in a brightly lit corridor going from north to south.  If
+you look out thwough the window to your east you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23049
+D2
+~
+~
+0 -1 23051
+E
+ceiling painting mural picture history~
+Friday the 13th October, 1307 the Kings men strike, taking control over all the
+perceptories in France. To their great surprise they find almost no treasure at
+all, the night before a fleet of sixteen galleys have left the Temple in Paris
+carrying all the treasures of the Templars away never to be seen again.
+~
+S
+#23051
+Eastern corridor~
+   You are standing in a brightly lit corridor going from north to south.  If
+you look out thwough the window to your east you see the surroundings of this
+perceptory.  The ceiling is covered by a large mural depicting a stage of the
+history of the Knight Templars, and you hear the soft echo of your steps as you
+move through this room.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23050
+D2
+~
+~
+0 -1 23016
+E
+ceiling painting mural picture history~
+The remaining Templars are all arrested, being under order from the grandmaster 
+not to resist. The following trial is a very unfair one where the prosecution use
+hired witnesses and torture to make the captured Templars confess. Almost none of 
+them submit to the torture confessing most of the prefering to die rather than to
+betray their Order.
+~
+S
+#23052
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  Here the
+path branches off to your west, giving you the option of either going north,
+south, or west.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23053
+D2
+~
+~
+0 -1 23056
+D3
+~
+~
+0 -1 23022
+S
+#23053
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  From here
+you can continue either north or south on the path.    
+~
+230 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23055
+D2
+~
+~
+0 -1 23052
+S
+#23054
+Path through the forest~
+   You are walking on a path through the woods, the path seems to be in heavy
+use and you can see the evidence that many humans have walked this way
+recently.  In the far distance you can hear people talking and laughing, and
+something you think you hear sounds like metal striking against metal.    
+~
+230 0 0 0 0 3 255 0
+D1
+~
+~
+0 0 23073
+D3
+~
+~
+0 -1 23055
+S
+#23055
+Path through the forest~
+   You are walking on a path through the woods, the path seems to be in heavy
+use and you can see the evidence that many humans have walked this way
+recently.  From the south you can hear people talking and laughing, and now and
+then you think you hear sounds like metal striking against metal.    
+~
+230 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 23054
+D2
+~
+~
+0 -1 23053
+S
+#23056
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  The path
+continues to your north and to your south.    
+~
+230 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 23052
+D2
+~
+~
+0 -1 23057
+S
+#23057
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.  Here the
+path makes a sharp turn leaving you the options to go north, west or east.    
+~
+230 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23056
+D1
+~
+~
+0 -1 23059
+D3
+~
+~
+0 -1 23026
+S
+#23058
+Tent of the French King~
+   You are standing the the luxuorious tent of Philip IVth, the King of France.
+It looks more like a suite in a castle than a tent, and you get the feeling
+that the king is very much into living an easy life.  Surprisingly enough he
+has taken upon himself the destruction of the Knight Templar Order, the reason
+probably being that see a chance to fill up his dwindling treasury with loot.
+  
+~
+230 8 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23027
+S
+#23059
+Encampment~
+   You are walking on a path through the camp of an army, the ground here is
+all mud and dirt after being trampled by many armored feet.  Everywhere you see
+evidence of the hired hands of the sieging forces.  It seems like they are now
+gathering their strength for the final assault on the perceptory.    
+~
+230 0 0 0 0 2 255 0
+D2
+~
+~
+0 -1 23060
+D3
+~
+~
+0 -1 23057
+S
+#23060
+The Papal tent~
+   Entering this tent you suddenly feel yourself transported to a luxorious
+palace, all the tent is filled with different objects of art, most of them with
+religious motives.  Examining the paintings closer you get an eire feeling as
+most of them contain some twisted elements giving most of the art a pervert
+impression on you.  The floor is covered with soft thick rugs, imported from
+the lands of the heretic followers of Muhammed, and the air is stale by the
+fumes of incense mixed with hashish.    
+~
+230 8 0 0 0 2 255 0
+D0
+~
+~
+0 -1 23059
+S
+#23061
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23063
+D1
+~
+~
+0 -1 23062
+D2
+~
+~
+0 -1 23064
+D3
+~
+~
+0 -1 23061
+D4
+~
+~
+0 -1 23070
+S
+#23062
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23062
+D1
+~
+~
+0 -1 23063
+D2
+~
+~
+0 -1 23064
+D3
+~
+~
+0 -1 23061
+S
+#23063
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23063
+D1
+~
+~
+0 -1 23063
+D2
+~
+~
+0 -1 23065
+D3
+~
+~
+0 -1 23062
+S
+#23064
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23061
+D1
+~
+~
+0 -1 23065
+D2
+~
+~
+0 -1 23067
+D3
+~
+~
+0 -1 23064
+S
+#23065
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23067
+D1
+~
+~
+0 -1 23063
+D2
+~
+~
+0 -1 23068
+D3
+~
+~
+0 -1 23067
+S
+#23066
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23063
+D1
+~
+~
+0 -1 23063
+D2
+~
+~
+0 -1 23068
+D3
+~
+~
+0 -1 23065
+D5
+~
+~
+0 -1 23071
+S
+#23067
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23064
+D1
+~
+~
+0 -1 23067
+D2
+~
+~
+0 -1 23067
+D3
+~
+~
+0 -1 23067
+S
+#23068
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23065
+D1
+~
+~
+0 -1 23069
+D2
+~
+~
+0 -1 23068
+D3
+~
+~
+0 -1 23064
+S
+#23069
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719113 0 0 0 0 255 0
+D0
+~
+~
+0 -1 23066
+D1
+~
+~
+0 -1 23063
+D2
+~
+~
+0 -1 23063
+D3
+~
+~
+0 -1 23067
+S
+#23070
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719181 0 0 0 0 255 0
+D4
+~
+~
+0 -1 23007
+D5
+~
+~
+0 -1 23061
+S
+#23071
+In the fog~
+   You are standing in a room all filled with a hot dense fog.  The fog makes
+you loose your sense of direction and your visibility is down to almost zero.
+You take a deep breath of the fog and is burned as the hot air enters your
+lungs.  Perhaps you'd better move on finding your way out of this steaming
+hell.    
+~
+230 4719181 0 0 0 0 255 0
+D4
+~
+~
+0 -1 23066
+D5
+~
+~
+0 -1 23003
+S
+#23072
+Knight Templar treasury~
+   You are standing in the Knight Templar treasury, here you see most of the
+relics and treasures the Order has collected during its short but intense
+existance.  Most of the items have no real monetary value for people outside of
+the Order, but there are some that has a value to the Outside world also.    
+~
+230 520 0 0 0 0 255 0
+D3
+~
+~
+2 23019 23001
+S
+#23073
+Path through the forest~
+   You are standing on a narrow trail through the forest.  Despite its size it
+is apparent if you check the ground that many iron clad shoes has been
+trampling the ground in the recent past.    
+~
+230 0 0 0 0 3 255 0
+D1
+~
+~
+0 0 23074
+D3
+~
+~
+0 0 23054
+S
+#23074
+Path through the forest~
+   You are standing at the start of a very narrow trail going through the
+forest.  Despite its size it is apparent if you check the ground that many iron
+clad shoes has been trampling the ground in the recent past.  Perhaps the trail
+leads to some kind of settlement.    
+~
+230 4 0 0 0 3 255 0
+D1
+~
+~
+0 0 21369
+D3
+~
+~
+0 0 23073
+S
+#23098
+Yun's mob dispensing room...~
+   You are in a room containing a multiture of exits, where Yun disposes of
+mobs to make a visit to the mortals.    
+~
+230 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18001
+D1
+~
+~
+0 0 18003
+D2
+~
+~
+0 0 18005
+D3
+~
+~
+0 0 18006
+D4
+~
+~
+0 0 18008
+D5
+~
+~
+0 0 3014
+S
+#23099
+Yun's Abode~
+   You have entered the small comfortable abode of Yun.  Whenever Yun is not
+busy elsewhere she tries to spend her time here, recuperating after a hard days
+work.  The room is painted in all bright colours picturing a small forest glen.
+When you listen carefully you hear faint noises like ones you can hear on a
+bright summers day.  In one of the corners you see a comfortable bed and on the
+desk that is standing in the shade under an oaktree you see a large tome where
+Yun keeps a record of all that she is doing, and what she plans on doing.    
+~
+230 393744 0 0 0 3 255 0
+D0
+~
+~
+0 0 1210
+D4
+~
+~
+0 0 1204
+D5
+~
+~
+0 0 18001
+S
+$~

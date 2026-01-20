@@ -1,0 +1,683 @@
+#6600
+Credits Room~
+The Temple of Time was brought to you by Oberon. Its a nice little
+place with some low level cl/mu/de/as gear. it links to gorge
+in mts n of samsera 10833~
+66 128 0 0 0 4 255 0
+S
+#6601
+A Narrow Cleft~
+The gorge narrows to barely the width of your shoulders
+and in the dim light you perceive something odd ahead in
+the distance. 
+~
+66 5 0 0 0 5 255 0
+D0
+North, the canyon continues~
+~
+0 -1 6602
+D2
+to the south is the gorge~
+~
+0 -1 10833
+S
+#6602
+A Narrow Cleft~
+The canyon twists and turns and the walls soar like a cathedral
+above your head almost shutting out the sky.
+~
+66 1 0 0 0 5 255 0
+D0
+North, the canyon continues~
+~
+0 -1 6603
+D2
+to the south is the canyon~
+~
+0 -1 6601
+S
+#6603
+A Narrow Cleft~
+The canyon twists and turns and up ahead you see the walls
+suddenly fall away. The glow is brighter and you hear the murmur
+of voices and some chanting.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a misty glow~
+~
+0 -1 6604
+D2
+to the south is the canyon~
+~
+0 -1 6602
+S
+#6604
+The Gathering Place~
+You come out into a wide flat area lit by torches. Around you are
+little groups of huddled people wearing ill-fitting dirty white
+robes. They all look apprehensive and occasionally cast nervous
+glances at two tall priestly figures standing on either side
+of a doorway carved into the rock opposite where you have entered.
+It is from the doorway that the glow, you noticed earlier, leaps
+and flickers, accompanied buy a soft roaring noise. To your right is 
+dimly light sign.
+~
+66 513 0 0 0 5 255 0
+D0
+North lies a glowing doorway~
+~
+0 -1 6605
+D2
+to the south is the canyon~
+~
+0 -1 6603
+E
+sign~
+WELCOME Pilgrims..Behold the Temple of Time.
+As you have heard this place is a place where
+the streams of Time sometimes overflow and burn
+a hole thru to our world. Legend tells that 
+one in a million who enter to seek the knowledge
+of all Time, shall receive that prize. 
+But for the rest... nothing but a horrible death
+awaits you at the hands of He Who Guards The
+Gates of Time
+~
+S
+#6605
+The Doorway To Yesterday~
+As you approach the doorway the light from within grows
+hurtfully bright and begins to pulsate. The priests on either
+side off the doorway wave their hands at you and they chant
+loudly. You wonder if their prayers are for you to receive
+a quick and merciful death rather than wander the halls slowly
+dying of starvation. After all there is NO way out except by
+dying, except for the one selected by the guardian among the
+hundreds and thousands who have entered and died for untold years. 
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a misty glow~
+~
+0 -1 6606
+D2
+to the south is the clearing~
+~
+0 -1 6604
+S
+#6606
+The Well of Forever~
+Before you is a low stone wall enclosing a hole some forty feet across
+and within is a glowing, spinning, misty pinwheel.Your face is bathed
+in an unearthly radiance as whispy tentacles of plasma reach towards
+you. A clamor of infinite voices pours forth in a roaring babble that
+assails your ears till you cry out and clap your hands over them!
+      a dreadful whisper comes through the roar and says,
+
+                   'Welcome To Never'
+
+
+~
+66 1 0 0 0 5 255 0
+D2
+to the south is the entrance~
+~
+0 -1 6605
+D5
+nothingness~
+~
+0 -1 6607
+S
+#6607
+Forever~
+You take a deep breath and step forward,
+
+Down
+    n
+     n
+      n
+       n
+        n
+         n you fall, flailing wildly as you are swallowed up
+in a vast spinning whirlpool of light and sound.
+
+your stomach LURCHES as a dizzying wave of nausea passes thru you
+
+With a sickening elevator-drop sensation your fall accelarates and
+you begin to scream soundlessly.
+
+You Fall and
+            Fall
+               and
+                  Fall
+finally with a light bump, you recover to find yourself on a plain
+marble floor. Getting to your feet you stumble forward.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6609
+D4
+overhead is a glowing funnel~
+~
+0 -1 -1
+S
+#6609
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stonned floor.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6614
+D1
+East is a hall~
+~
+0 -1 6610
+D2
+to the south is a glow~
+~
+0 -1 -1
+D3
+West is a hall~
+~
+0 -1 6618
+S
+#6610
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stonned floor.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6611
+D2
+to the west is a hall~
+~
+0 -1 6609
+S
+#6611
+The Misty Hall~
+The hall is lined with half-hidden columns. As you walk your
+eyes catch a glimmer of something that isn't really there.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6612
+D3
+to the west is a hall~
+~
+0 -1 6610
+S
+#6612
+The Hall of Tomorrow~
+The hall is lined with half-hidden columns. As you walk your
+ears detect a distant wailing.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6623
+D2
+south lies a hall~
+~
+0 -1 6611
+D3
+west lies a hall~
+~
+0 -1 6613
+S
+#6613
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6612
+D2
+to the south is a hall~
+~
+0 -1 6610
+D3
+west is a hall~
+~
+0 -1 6614
+S
+#6614
+The Misty Halls~
+The hall is lined with half-hidden openings. As you walk your
+nerves begin to fray a little.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6613
+D2
+to the south is a faint glow~
+~
+0 -1 6609
+D3
+west lies a hall~
+~
+0 -1 6615
+S
+#6615
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stonned floor.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6620
+D1
+to the east is a hall~
+~
+0 -1 6614
+D2
+south lies a hall~
+~
+0 -1 6618
+D3
+to the west is a hall~
+~
+0 -1 6616
+S
+#6616
+Temporal Distortion~
+Whoooooaaaaa !!!!!...Your stomach lurches into your mouth as the
+floor slides out from under you and a wave of dizziness sweeps 
+over you. Your senses are stunned and when you awaken you are
+sitting on the floor legs tangled. You wonder where you are.
+~
+66 1 0 0 0 5 255 0
+D3
+to the west is a hall~
+~
+0 -1 6618
+S
+#6617
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6616
+D1
+to the east is a hall~
+~
+0 -1 6618
+S
+#6618
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a misty glow~
+~
+0 -1 6609
+D3
+to the west is a hall~
+~
+0 -1 6617
+S
+#6619
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6620
+D2
+to the south is hall~
+~
+0 -1 6616
+S
+#6620
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6621
+D2
+to the south is a hall~
+~
+0 -1 6619
+D3
+west lies a hall~
+~
+0 -1 6619
+S
+#6621
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6622
+D2
+to the south is a hall~
+~
+0 -1 6614
+D3
+west lies a hall~
+~
+0 -1 6620
+S
+#6622
+The Hall of Yesterday~
+The hall is alive with whispers that seem to say,
+
+             'Go back!.....Go back!'
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6627
+D1
+east lies a hall~
+~
+0 -1 6623
+D2
+to the south is a hall~
+~
+0 -1 6613
+D3
+west lies a hall~
+~
+0 -1 6621
+S
+#6623
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6628
+D2
+to the south is a hall~
+~
+0 -1 6612
+S
+#6624
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6629
+D1
+east is a hall~
+~
+0 -1 6620
+D2
+to the south is  a hall~
+~
+0 -1 6619
+S
+#6625
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6630
+D2
+to the south is a hall~
+~
+0 -1 6620
+D3
+west is a hall~
+~
+0 -1 6624
+S
+#6626
+The Hall of Yesterday~
+The hall is alive with unseen presences that chill the very
+air with a terrible feeling of sadness. The hair on the back
+of your neck stands up as you realize that wandering these halls
+are the spirits of all the pilgrims that have come here for hundreds
+of years and died horrible useless deaths. 
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6631
+D1
+east lies a hall~
+~
+0 -1 6627
+D2
+to the south is a hall~
+~
+0 -1 6621
+S
+#6627
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stonned floor.
+On one wall you notice something scratched on the stone.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6632
+D1
+east lies a hall~
+~
+0 -1 6628
+D2
+to the south is a hall~
+~
+0 -1 6622
+D3
+west is a hall~
+~
+0 -1 6626
+E
+scratch stone~
+God help us...the Shrike is here.
+~
+S
+#6628
+A Rip In Time~
+Whoooooaaaaa !!!!!...Your stomach lurches into your mouth as the
+floor slides out from under you and a wave of dizziness sweeps
+over you. Your senses are stunned and when you awaken you are
+sitting on the floor legs tangled. You wonder where you are.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6611
+S
+#6629
+The Hall of Sorrow~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up against odds and ends such as empty canteens
+and discarded clothing.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a horrible sight~
+~
+0 -1 6634
+D1
+to the east is a hall~
+~
+0 -1 6630
+D2
+south is a hall~
+~
+0 -1 6624
+S
+#6630
+The Hall of Sorrow~
+Out of the corner of your eye, something flickers, then is gone.
+You begin to wonder if,in your gamble to win eternal knowledge,
+you may have instead won eternal pain.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 6635
+D1
+east is a hall~
+~
+0 -1 6636
+D2
+to the south is a hall ~
+~
+0 -1 6625
+D3
+west lies a hall~
+~
+0 -1 6629
+S
+#6631
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D1
+east is a hall~
+~
+0 -1 6632
+D2
+to the south is  a hall~
+~
+0 -1 6626
+D3
+west is a hall~
+~
+0 -1 6630
+S
+#6632
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D0
+North lies a hall~
+~
+0 -1 -1
+D2
+to the south is a hall~
+~
+0 -1 6627
+D3
+west is a hall~
+~
+0 -1 6631
+S
+#6633
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D2
+south is a hall~
+~
+0 -1 6628
+D3
+west is a hall~
+~
+0 -1 6632
+S
+#6634
+The Slaughter~
+You shriek in horror as you enter the room. The walls are 
+splattered with blood and gore. A vision of your death flashes
+through your mind and you resign yourself to your fate.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6635
+D2
+to the south is a hall~
+~
+0 -1 6629
+S
+#6635
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D1
+east lies a hall~
+~
+0 -1 6636
+D2
+to the south is a hall~
+~
+0 -1 6630
+D3
+west is a hall~
+~
+0 -1 6634
+S
+#6636
+The Twisty Halls~
+The hall is lined with half-hidden columns. As you walk your
+feet scuff up puffs of  dust from the flag-stoned floor.
+~
+66 1 0 0 0 5 255 0
+D2
+to the south is  a hall~
+~
+0 -1 6631
+D3
+west lies a hall~
+~
+0 -1 6635
+S
+$~

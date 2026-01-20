@@ -1,0 +1,11 @@
+bl c 'blind' $1
+ass order wight assist
+animate cast 'animate dead' corpse
+bd cast 'black dart' $1
+regen cast 'regen' me
+chaos cast 'chaos' me
+pfg cast 'pro fro go' me
+aoa cast 'aura of apoc' me
+di cast 'detect invis' me
+say say &08--+#&00&07$*&00 &08#+--&00
+gt gt &08--+#&00&07$*&00 &08#+--&00

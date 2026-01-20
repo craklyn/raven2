@@ -1,0 +1,151 @@
+#192
+Rats Lair (1-10)~
+19299 15 2 0
+D 0 19201 4 1        
+D 0 19219 1 1        
+M 0 19217 5 19219    * Mob : the green Ooze
+D 0 19231 1 2        
+M 0 19217 5 19231    * Mob : the green Ooze
+O 0 19204 9 19223    
+P 0 19220 9 19204    * Put : a torch
+M 0 19205 4 19223    * Mob : a large rat
+E 1 19218 99 19      * Eqp : a barbed whip
+O 0 19209 5 19222    
+D 0 19222 3 1        
+O 0 19206 2 19221    
+P 1 19210 99 19206   * Put : food fit for rats
+D 0 19221 1 1        
+M 0 19201 25 19220   * Mob : a small rat
+D 0 19220 3 1        
+O 0 19208 2 19217    
+P 1 19210 99 19208   * Put : food fit for rats
+D 0 19217 1 1        
+M 0 19204 10 19217   * Mob : a rat
+O 0 19207 2 19218    
+P 1 19210 99 19207   * Put : food fit for rats
+D 0 19218 3 1        
+M 0 19201 25 19211   * Mob : a small rat
+D 0 19211 1 1        
+D 0 19211 3 1        
+O 0 19204 9 19211    
+P 0 19220 9 19204    * Put : a torch
+M 0 19201 25 19203   * Mob : a small rat
+D 0 19203 3 1        
+D 0 19203 1 1        
+O 0 19204 9 19203    
+P 0 19220 9 19204    * Put : a torch
+M 0 19201 25 19204   * Mob : a small rat
+D 0 19204 1 1        
+D 0 19204 3 1        
+O 0 19204 9 19204    
+P 0 19220 9 19204    * Put : a torch
+M 0 19201 25 19209   * Mob : a small rat
+D 0 19209 1 1        
+D 0 19208 3 1        
+M 0 19204 10 19208   * Mob : a rat
+M 0 19201 25 19207   * Mob : a small rat
+D 0 19207 1 1        
+M 0 19201 25 19205   * Mob : a small rat
+D 0 19205 1 1        
+D 0 19210 3 1        
+M 0 19201 25 19210   * Mob : a small rat
+D 0 19202 3 1        
+D 0 19202 1 1        
+M 0 19201 25 19202   * Mob : a small rat
+O 0 19204 9 19202    
+P 0 19220 9 19204    * Put : a torch
+D 0 19242 0 1        
+M 0 19202 1 19242    * Mob : Snigger the Cute Man-Eating Snake
+D 0 19241 2 1        
+M 0 19203 1 19241    * Mob : Sammy, Hatchet's Cute Flesh-Clawing Kitten
+D 0 19240 2 1        
+D 0 19240 0 1        
+M 0 19215 1 19240    * Mob : the mortal manifestation of Overlord Hatchet
+M 0 19216 1 19240    * Mob : the mortal manifestation of Goddess Icaza
+D 0 19239 1 1        
+D 0 19238 3 1        
+D 0 19238 0 2        
+O 0 19205 9 19238    
+P 0 19223 9 19205    * Put : a ruby gem
+O 0 19212 9 19238    
+P 1 19219 9 19212    * Put : Holy Rod of Icaza
+D 0 19214 1 1        
+D 0 19214 3 1        
+O 0 19204 9 19214    
+P 0 19220 9 19204    * Put : a torch
+D 0 19213 1 1        
+D 0 19213 3 1        
+O 0 19204 9 19213    
+P 0 19220 9 19204    * Put : a torch
+D 0 19212 3 1        
+D 0 19212 1 1        
+O 0 19204 9 19212    
+P 0 19220 9 19204    * Put : a torch
+D 0 19206 3 1        
+D 0 19216 3 1        
+D 0 19215 1 1        
+D 0 19226 1 2        
+D 0 19227 3 2        
+D 0 19226 3 2        
+D 0 19228 1 2        
+D 0 19230 3 2        
+D 0 19237 2 2        
+O 0 19204 9 19224    
+P 0 19220 9 19204    * Put : a torch
+M 0 19206 1 19206    * Mob : a wererat
+E 1 19211 99 19      * Eqp : a wooden stake
+M 0 19207 1 19215    * Mob : a wererat guard
+E 1 19213 99 19      * Eqp : a long rusted knife
+E 1 19215 99 9       * Eqp : tin leggings
+M 0 19207 2 19216    * Mob : a wererat guard
+E 1 19213 99 19      * Eqp : a long rusted knife
+E 1 19216 99 13      * Eqp : tin armguards
+M 0 19207 3 19215    * Mob : a wererat guard
+E 1 19213 99 19      * Eqp : a long rusted knife
+E 1 19215 99 9       * Eqp : tin leggings
+M 0 19207 4 19216    * Mob : a wererat guard
+E 1 19213 99 19      * Eqp : a long rusted knife
+E 1 19216 99 13      * Eqp : tin armguards
+M 0 19208 3 19224    * Mob : a wererat
+E 1 19211 99 19      * Eqp : a wooden stake
+M 0 19208 3 19224    * Mob : a wererat
+E 1 19211 99 19      * Eqp : a wooden stake
+M 0 19208 3 19224    * Mob : a wererat
+E 1 19211 99 19      * Eqp : a wooden stake
+M 0 19210 1 19228    * Mob : the wererat leader
+E 1 19217 99 19      * Eqp : a spiked flail
+E 1 19214 99 17      * Eqp : a tin bracer
+E 1 19214 99 18      * Eqp : a tin bracer
+E 1 19215 99 9       * Eqp : tin leggings
+E 1 19216 99 13      * Eqp : tin armguards
+M 0 19211 2 19228    * Mob : a large rat
+M 0 19211 2 19228    * Mob : a large rat
+M 0 19212 1 19230    * Mob : a wererat slavemaster
+E 1 19218 99 19      * Eqp : a barbed whip
+E 1 19214 99 17      * Eqp : a tin bracer
+E 1 19214 99 18      * Eqp : a tin bracer
+G 1 19203 99 -1      * Give: an iron key
+O 0 19205 9 19229    
+P 0 19222 9 19205    * Put : a sapphire gem
+O 0 19205 9 19230    
+P 0 19223 9 19205    * Put : a ruby gem
+O 0 19205 9 19232    
+P 0 19222 9 19205    * Put : a sapphire gem
+O 0 19205 9 19233    
+P 0 19222 9 19205    * Put : a sapphire gem
+O 0 19205 9 19234    
+P 0 19223 9 19205    * Put : a ruby gem
+O 0 19205 9 19235    
+P 0 19222 9 19205    * Put : a sapphire gem
+O 0 19205 9 19236    
+P 0 19222 9 19205    * Put : a sapphire gem
+O 0 19205 9 19237    
+P 0 19223 9 19205    * Put : a ruby gem
+M 0 19214 2 19237    * Mob : a human slave
+M 0 19214 2 19235    * Mob : a human slave
+M 0 19209 1 19226    * Mob : a firedrake
+E 1 19202 9 3        * Eqp : a key on a necklace
+O 0 19201 9 19227    
+O 0 19221 9 19227    
+S
+$

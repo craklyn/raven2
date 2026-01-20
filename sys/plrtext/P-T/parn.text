@@ -1,0 +1,13 @@
+blind c 'cure blind' $*
+gate open gate $*
+reg c 'reg' $*
+holy c 'holy armor
+ev c 'protec fro evil
+x c 'creat food
+. auc -info
+m c 'divine mission
+armor c 'armor
+b bash $*
+dis disarm $*
+, c 'detec invis' $*
+door open door $*

@@ -1,0 +1,929 @@
+#40200
+A Dark Hallway~
+   The hallway, and the tracks, terminate in this chamber, which apparently
+serves as a storeroom of some sort, used to contain little-used items.  The
+mysterious elf apparently deposited several sacks of chisels and hand drills,
+forged from a strange black metal and arranged near the far wall, where the
+tracks end.  Crates and containers filled with other mining tools lie about,
+some covered in dust, others recently disturbed.  The bulk of the tools needed
+by the stone giants are carried by them, those stored here are surplus, hence
+their state of disuse.  A single door lies to the north.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 40201
+D1
+~
+~
+0 -1 40197
+S
+#40201
+A Short Passage~
+   This passage bends to the west and south, terminating in each direction at a
+stout wooden door.  The door to the west bears a very strange glyph that is
+nonetheless still vaguely familiar, while the door to the south is devoid of
+markings.  No dust or cobwebs mar this passage, it has, in fact, been
+thoroughly cleaned recently.    
+~
+402 8 0 0 0 0 255 0
+D2
+~
+door~
+1 -1 40200
+D3
+~
+door~
+1 0 40202
+E
+glyph~
+The glyph is certainly elvish, though of an archaic design, it could
+even be Drowic...
+~
+S
+#40202
+A Storage Chamber~
+   This storage room is actually a wine cellar, packed to the roof with large
+brown barrels and smaller black tuns of wine and spirits.  Far too large to
+shift without a considerable force of laborers, they are all marked with a bung
+seal impressed with a death's head, which may well be an indication of the
+strength of this alcohol.  Strange glyphs similar to those outside mark the
+sides.  Whoever owns these alcoholic brews, they certainly aren't giants.    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+door~
+1 0 40201
+S
+#40203
+A Dark Corridor~
+   This corridor, like most of those under the Steading, is for the most part
+either partially or totally unlit, forcing you to move slowly through the
+gloom, relying solely on your own light source, which seems feeble in the face
+of this encompassing darkness.  Sounds of warriors moving about, on errands of
+their own or the giants' behest, echo all around you, it will be very difficult
+to avoid detection for very long in this area.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40184
+D2
+~
+~
+0 -1 40204
+S
+#40204
+A Dark Corridor~
+   The corridor continues, devoid of doors or light fixtures, save a couple of
+wooden stubs, unlit and thrust into iron cressets.  The walls are bare and
+unadorned by even threadbare tapestries, the hill giants of all giants prefer
+function over form, though most of their products are crude as well as ugly to
+the eye.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40203
+D2
+~
+~
+0 -1 40205
+S
+#40205
+A Dark Corridor~
+   To the south, this corridor meets with a wider, lit corridor running
+east-west through the underground level of the Steading.  Shouting and
+screaming echoes at sporadic intervals from this direction, as do,
+interestingly enough, the sounds of combat.  A single torch is lit here,
+marking the impending junction.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40204
+D2
+~
+~
+0 -1 40213
+S
+#40206
+Bugbear Chambers~
+   This brightly-lit room is filled with tables littered with eating utensils
+and half-eaten meals, while spilled goblets of wine stain the straw-covered
+floor.  Hides cover the walls, save for the east wall, where a passage leads
+into the sleeping chambers of these loathsome beasts.  Doors are set in the
+north and south walls, and while both are quite sturdy they appear to be
+unlocked.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 40187
+D1
+~
+~
+0 -1 40209
+D2
+~
+door~
+1 -1 40207
+S
+#40207
+A Darkened Antechamber~
+   This room is unadorned and apparently devoid of inhabitants.  Totally
+shrouded in darkness, there aren't even any unlit torches or lanterns.  
+Whatever purpose this chamber serves, it is certainly not used with any
+regularity.  Doors to the north and south indicate that it may be simply an
+access way, or perhaps it is a buffer zone during times of strife where
+ambushes can be laid.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 40206
+D2
+~
+door~
+1 0 40208
+S
+#40208
+A Guard Room~
+   This small chamber has been hurriedly arranged to form a crude blockade
+against the southern exit, tables, chairs and other furniture have been crammed
+into the doorway, allowing those within to hurl flask of oil and hand axes at
+those who may launch an assault from this direction.  But who (or what) would
+be threatening the giants and their allies so deeply within the Steading?    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+door~
+1 0 40207
+D2
+~
+~
+1 -1 40227
+S
+#40209
+Sleeping Area~
+   Several open doorways lead onto the chambers of the bugbears that serve the
+giants of the Steading.  There are always many of them here, bugbears are
+slothful beasts, and not prone to working for long hours, or with any
+regularity.  A foul smell, which includes wine, urine and blood, assaults your
+nostrils.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40210
+D1
+~
+~
+0 -1 40212
+D2
+~
+~
+0 -1 40211
+D3
+~
+~
+0 -1 40206
+S
+#40210
+Sleeping Area~
+   This room is sparsely decorated by a few hides and furs, while the floor is
+mostly covered with sleeping pallets and straw.  Stools, crates and boxes,
+containing the possessions of those quartered here, lie scattered about, while
+haunches of meat and wineskins cover the remaining surface space.    
+~
+402 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 40209
+S
+#40211
+Sleeping Area~
+   This room is sparsely decorated by a few hides and furs, while the floor is
+mostly covered with sleeping pallets and straw.  Stools, crates and boxes,
+containing the possessions of those quartered here, lie scattered about, while
+haunches of meat and wineskins cover the remaining surface space.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40209
+S
+#40212
+Sleeping Area~
+   This room is sparsely decorated by a few hides and furs, while the floor is
+mostly covered with sleeping pallets and straw.  Stools, crates and boxes,
+containing the possessions of those quartered here, lie scattered about, while
+haunches of meat and wineskins cover the remaining surface space.    
+~
+402 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 40209
+S
+#40213
+A Shadowy Hallway~
+   This hall runs east and west, past several doors set in the southern wall,
+while a second hall runs north, towards the center of this lower level of the
+Steading.  Sounds of combat ring up and down the hall, originating somewhere to
+the east.  It would seem you aren't the only enemy of these foul giants.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40205
+D1
+~
+~
+0 -1 40227
+D2
+~
+door~
+2 40165 40226
+D3
+~
+~
+0 -1 40214
+S
+#40214
+A Shadowy Hallway~
+   This hall runs east and west, past several doors set in the southern wall,
+while a second hall runs north, towards the center of this lower level of the
+Steading.  Sounds of combat ring up and down the hall, originating somewhere to
+the east.  It would seem you aren't the only enemy of these foul giants.    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 40213
+D2
+~
+door~
+1 0 40225
+D3
+~
+~
+0 -1 40215
+S
+#40215
+A Long Hallway~
+   At this point the hall becomes brighter, as the light sources become both
+stronger and more frequent, including several bullhorn lanterns, hanging from
+hooks set in the ceiling.  Sounds of metalworking echo from down a side branch
+to the southwest, the loud clanging ringing in your ears.  To the west, the
+corridor continues for a short distance before terminating in a wide chamber,
+the specifics of which are not immediately apparent from here.    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 40214
+D2
+~
+~
+0 -1 40216
+D3
+~
+~
+0 -1 40219
+S
+#40216
+The Armory~
+   The corridor passes into a series of interlinked chambers, which are for the
+most part piled high with all manner of tools and equipment.  Long benches
+laden with piles of iron line the walls, while numerous forges, accompanied by
+large bellows, can be seen.  Heavy iron hammers dangle from hooks set in the
+walls, as do many whips, oddly enough.  A long wooden beam set with pairs of
+manacles is apparently used here to bind slaves used as manual labor in the
+production of weapons.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40215
+D2
+~
+~
+0 -1 40217
+S
+#40217
+The Armory~
+   This section of the armory is where the giant in charge "works", in fact, he
+spends large amounts of time lazing about and drinking, while the dwarven
+slaves labor endlessly to the north.  Giants, hill giants at least, are poor
+smiths indeed compared to the dwarves, and as such it makes a good deal of
+sense for them to use the dwarves' superior skills.  This workspace hasn't seen
+a lot of work, a cloth has been draped over a bench, and several mugs of ale
+and some dice arranged there.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40216
+D2
+~
+~
+0 -1 40218
+S
+#40218
+The Smithy~
+   This smoky chamber is dominated by rows of spears, hammers and axes,
+obviously of dwarven make, in various stages of (dais)repair.  The giant
+charged with their care is apparently rather dedicated, for a giant, numerous
+tasks appear to be in the process of being completed, and the tools all look
+well used, and recently too.  A large forge in the wall near the entrance
+radiates immense waves of heat and smoke.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40217
+S
+#40219
+A Long Hallway~
+   The hall here boasts another branch, running north towards what from here
+looks like a cell block.  Guards can be seen, bugbears it seems, standing
+before heavy wooden doors set in the walls.  The giants are lazy creatures,
+relying heavily on slave labor to complete even the most basic of tasks.  Thus
+they expend a great deal of time and money ensuring that these slaves are kept
+under control, though it seems, judging from the turmoil to the east, that they
+aren't always entirely successful.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40221
+D1
+~
+~
+0 -1 40215
+D3
+~
+~
+0 -1 40220
+S
+#40220
+The Torture Chamber~
+   This high-ceiling chamber is filled with all manner of the requisite
+trappings of torture chambers.  Racks, maidens, iron chairs and chains fill
+most of the area, along with a workbench covered with knives and screws,
+branding irons and pliers.  Several braziers filled with coals complete the
+picture, as do numerous whips dangling from the walls.  A heavy iron bracket
+hanging from the ceiling enables them to dangle even very tall prisoners (such
+as fellow giants).    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 40219
+S
+#40221
+Slave Quarters~
+   This chamber boasts three wooden doors, set in the walls, opening presumably
+onto chambers containing orc slaves in the process of being "trained".  Howls
+and cries echo from the cells, as the many unwilling prisoners express their
+opinions on their predicament.  Orcs are vile creatures, for certain, but few
+creatures deserve the fate of serving the abominable hill giants.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 40224
+D1
+~
+door~
+1 -1 40223
+D2
+~
+~
+0 -1 40219
+D3
+~
+door~
+1 -1 40222
+S
+#40222
+Orcish Prisoners~
+   The interior of this dark cell is filthy.  The floor is partially covered
+with moldy straw, while benches are set into the walls, fitted with iron
+manacles.  Empty torch cressets line the walls, and a securely locked door bars
+any chance of escape.    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 40221
+S
+#40223
+Orcish Prisoners~
+   The interior of this dark cell is filthy.  The floor is partially covered
+with moldy straw, while benches are set into the walls, fitted with iron
+manacles.  Empty torch cressets line the walls, and a securely locked door bars
+any chance of escape.    
+~
+402 8 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 40221
+S
+#40224
+Orcish Prisoners~
+   The interior of this dark cell is filthy.  The floor is partially covered
+with moldy straw, while benches are set into the walls, fitted with iron
+manacles.  Empty torch cressets line the walls, and a securely locked door bars
+any chance of escape.    
+~
+402 8 0 0 0 0 255 0
+D2
+~
+door~
+1 -1 40221
+S
+#40225
+Orcish Prisoners~
+   The interior of this dark cell is filthy.  The floor is partially covered
+with moldy straw, while benches are set into the walls, fitted with iron
+manacles.  Empty torch cressets line the walls, and a securely locked door bars
+any chance of escape.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+door~
+1 0 40214
+S
+#40226
+Orcish Prisoners~
+   The interior of this dark cell is filthy.  The floor is partially covered
+with moldy straw, while benches are set into the walls, fitted with iron
+manacles.  Empty torch cressets line the walls, and a securely locked door bars
+any chance of escape.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+door~
+2 40165 40213
+S
+#40227
+A Shadowy Hallway~
+   This hall runs east and west, past several doors set in the southern wall,
+while a second hall runs north, towards the center of this lower level of the
+Steading.  Sounds of combat ring up and down the hall, originating somewhere to
+the east.  It would seem you aren't the only enemy of these foul giants.  A
+crude blockade, of rocks and broken furniture, partially blocks the exit to the
+east, and it is from behind this obstruction that sounds of conflict issue
+strongest.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40208
+D1
+~
+~
+0 -1 40229
+D2
+~
+door~
+1 0 40228
+D3
+~
+~
+0 -1 40213
+S
+#40228
+Orcish Prisoners~
+   The interior of this dark cell is filthy.  The floor is partially covered
+with moldy straw, while benches are set into the walls, fitted with iron
+manacles.  Empty torch cressets line the walls, and a securely locked door bars
+any chance of escape.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+door~
+1 0 40227
+S
+#40229
+Skirmish~
+   This side of the blockade, there is evidence of many recent battles.  
+Corpses lie scattered across the floor, along with broken weapons and rent
+shields and shattered helms.  Pools of dried blood have collected, adding to
+the foul stench that permeates this area.  A revolt of some sort is apparently
+in full effect.  To the east, the corridor passes into a series of natural
+caverns.    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 40235
+D2
+~
+~
+0 -1 40230
+D3
+~
+~
+0 -1 40227
+S
+#40230
+A Dark Corridor~
+   This long narrow corridor is unlit, and boasts little of interest, save for
+a pile of rubble to the southwest, hastily erected by the orcish rebels, to
+keep out some unknown peril.  A vile smell issues from the rubble, though it
+seems to be coming from behind the rubble rather than from within it.  To the
+southeast, the corridor ends as it passes into a large natural cavern.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+1 -1 40229
+D2
+~
+~
+0 -1 40234
+D3
+~
+rubble~
+1 -1 40231
+S
+#40231
+The Abandoned Temple~
+   Strange purplish rock, shifting and morphing as you watch, surrounds you,
+covered in writhing black murals of a loathsome and disturbing nature.  A
+deathly chill issues from them, you can already see why the orcs felt it
+necessary to blockade this foul place.  A yellowish altar rises to the west,
+while the area to the south has collapsed, and is mostly filled with rubble.  
+It doesn't appear as if anyone has ventured here for quite some time, though
+there is, curiously enough, no dust covering the greasy stone floor or walls.
+  
+~
+402 8 0 0 0 0 255 0
+D1
+~
+rubble~
+1 -1 40230
+D2
+~
+~
+0 -1 40233
+D3
+~
+door~
+2 40178 40232
+S
+#40232
+Chantry of Vile Evil~
+   The altar rises here, atop three shallow ridged steps, verily glowing with
+evil, a pulsating warmth issuing from the yellowish stone.  The walls are a
+sickly shade of mauve, and writhe with violet amorphous forms, twisting and
+crying out in a dire cacophony of unholy sound.  A single glance at the far
+wall, covered with glassy black tentacle-like relief, causes your very mind to
+become temporarily unhinged, tarrying here overlong could result in far worse.
+  
+~
+402 8 0 0 0 0 255 0
+D1
+~
+door~
+2 40178 40231
+S
+#40233
+The Vestry~
+   The blackened stone of the ceiling collapsed here some time ago, thus
+blocking the stairway at the end with tons of rubble.  What little can be seen
+of the uncovered walls is enough to make you glad you cannot see more.  
+Disgusting murals, of writhing bat like creatures copulating in obscene fashion
+with hapless humans of both genders, cover them, as do scenes of torture and
+mutilation, of demons rampaging through the towns of humans and elves.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40231
+S
+#40234
+The Natural Caverns~
+   This series of natural caves was discovered accidentally by whoever was the
+original builder and inhabitant of these dungeons, they certainly weren't
+created by the lazy giants.  The floor is littered with sleeping pallets, piles
+of makeshift weapons, and barrels of food stolen from the giants.  The orcish
+rebels can be seen moving about the area.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40230
+D1
+~
+~
+0 -1 40237
+S
+#40235
+The Natural Caverns~
+   This series of natural caves was discovered accidentally by whoever was the
+original builder and inhabitant of these dungeons, they certainly weren't
+created by the lazy giants.  The floor is littered with sleeping pallets, piles
+of makeshift weapons, and barrels of food stolen from the giants.  The orcish
+rebels can be seen moving about the area.    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 40236
+D3
+~
+~
+1 -1 40229
+S
+#40236
+The Natural Caverns~
+   This series of natural caves was discovered accidentally by whoever was the
+original builder and inhabitant of these dungeons, they certainly weren't
+created by the lazy giants.  The floor is littered with sleeping pallets, piles
+of makeshift weapons, and barrels of food stolen from the giants.  The orcish
+rebels can be seen moving about the area.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40238
+D2
+~
+~
+0 -1 40237
+D3
+~
+~
+0 -1 40235
+S
+#40237
+The Natural Caverns~
+   This series of natural caves was discovered accidentally by whoever was the
+original builder and inhabitant of these dungeons, they certainly weren't
+created by the lazy giants.  The floor is littered with sleeping pallets, piles
+of makeshift weapons, and barrels of food stolen from the giants.  The orcish
+rebels can be seen moving about the area.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40236
+D3
+~
+~
+0 -1 40234
+S
+#40238
+The Natural Caverns~
+   This series of natural caves was discovered accidentally by whoever was the
+original builder and inhabitant of these dungeons, they certainly weren't
+created by the lazy giants.  The floor is littered with sleeping pallets, piles
+of makeshift weapons, and barrels of food stolen from the giants.  The orcish
+rebels can be seen moving about the area.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+1 -1 40239
+D2
+~
+~
+0 -1 40236
+S
+#40239
+Cave of Trogs~
+   This section of the caves is devoid of orcish inhabitants, instead, there
+are piles of fungus present, arranged as beds by the odiferous troglodytes that
+now lair within.  Hated and feared by the orcs to the south, they have become
+trapped here, and are biding their time until they can make a break for it,
+fleeing the dungeon altogether.  The cave continues to the northwest, and in
+the northeast corner a body of water can be seen, a stream you could dive into.
+  
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40240
+D2
+~
+~
+0 -1 40238
+D5
+~
+stream~
+1 -1 40241
+S
+#40240
+Realm of the Lizard~
+   The entirety of this cavern is coated in a dark, thick fungus, that almost
+seems to absorb what little light is present.  A vile odor wafts in from the
+trog lair to the southeast, though this chamber is possessed of a more neutral,
+yet still annoying, odor.  Piles of trog and orc skeletons indicate that
+whatever lives here is friend to neither race, though this does not mean you
+will receive any different treatment...    
+~
+402 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 40239
+S
+#40241
+Diving into the Stream~
+   You hit the icy water and sink like a stone, the cold water chilling you to
+the bone, your sodden clothing and armor bearing you down.  A swift current
+pulls at you, dragging you northward through a jagged rocky tunnel that the
+stream passes through on the way to its unknown destination.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40242
+D5
+~
+~
+0 -1 40239
+S
+#40242
+A Sudden End~
+   The current drags you along the tunnel, depositing you unceremoniously on a
+jagged pile of rocks as it rushes down a narrow edit in the bottom of the
+tunnel.  Coughing and gasping for air, you nurse your vicious cuts and crawl,
+exhausted, out of the treacherous waterway.    
+~
+402 8 0 0 0 0 255 0
+D4
+~
+~
+0 -1 40243
+S
+#40243
+A Secret Cavern~
+   Dragging your soaked body up onto the shore, you gaze about at where the
+river has deposited you, wondering how you are going to get back, the current
+is far too strong to swim against.  Bones and other debris lie scattered all
+over the floor, it would seem you are far from the first lost soul to become
+stranded here.  A dull roar reverberates throughout the chamber, sounding much
+like a waterfall, which you now presume must be where the stream was flowing,
+increasing significantly in size and force as it travelled downwards.    
+~
+402 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 40244
+S
+#40244
+A Secret Cavern~
+   The cavern terminates here, before a solid wall of natural stone, which is
+covered in the now-familiar lichens, fungus and molds, none of which appear to
+be anything other than the normal subterranean varieties.  You have heard
+rumors in many taverns of growths of similar nature that can inflict great harm
+if inhaled, ingested or even ventured near, at least you appear to be free from
+such a threat here.  This still doesn't offer a way out of here, though the
+collection of debris lying everywhere does offer a way to spend the time,
+searching through it all.    
+~
+402 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 40243
+S
+#40245
+A Dark Hallway~
+   This narrow hall heads towards a darkened corridor, littered with rubble,
+that bends away to the northeast.  No sound comes from this direction, it is
+apparently a deserted section of the Steading.  A fresh spate of yelled orders
+from the west indicates the approach of yet more guards, and potentially more
+peril.    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 40196
+D3
+~
+~
+0 -1 40186
+S
+#40246
+The Top of the Hill~
+   You reach the top quicker than you anticipated, and find yourself staring at
+the great wooden doors that bar entrance to the steading, some thirty yards to
+the west.  Gazing at the structure, you note that it is quite large, stretching
+back for at least two hundred yards, indicating that a large volume of giants
+and their dark allies may well lair within the wooden walls.  Constructed over
+a series of years, the Steading has been treated with a substance that renders
+the wood quite resistant to flame, and would frustrate any attempt to ignite
+it, a wise precaution indeed.    
+~
+402 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 40100
+D5
+~
+~
+0 -1 40247
+S
+#40247
+Climbing the Stair~
+   A stiff breeze catches at you as you warily climb the stone steps, and more
+than once you slip and almost tumble back down.  The steps are worn smooth by
+decades of use, and you wonder how many doughty souls before you have attempted
+a crusade against these foul beasts, only to perish deep in their foul lair.  
+Who knows what dangers may lie within the dark wooden keep atop the hill?    
+~
+402 8 0 0 0 0 255 0
+D4
+~
+~
+0 -1 40246
+D5
+~
+~
+0 -1 40248
+S
+#40248
+Approaching the Hill~
+   At this point you find a set of steps cut into the side of the hill,
+allowing for an easy ascent to the Steading itself, should you so wish.  Birds
+of prey circle far overhead, as if, having observed such behavior before, they
+are expecting an imminent feast.  The steps are much larger than even a troll
+would need, and progress would be quite tricky for a halfling, who would have
+to literally climb each one.  This is another indication of the giantish nature
+of the inhabitants of the Steading.    
+~
+402 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 40249
+D4
+~
+~
+0 -1 40247
+S
+#40249
+Base of the Hill~
+   The trail ends here, at the base of a small hill, atop which rests a great
+wooden citadel, visible clearly even from the base, such is its size.  A chill
+breeze suddenly gusts along the trail, and you shiver without realizing as you
+regard this place, surely the abode of a fell tribe of hill giants.  Rumors of
+giantish insurrection have plagued the land for months, mayhap you have
+stumbled upon their source?    
+~
+402 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 40922
+D3
+~
+~
+0 -1 40248
+S
+$~

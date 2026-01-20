@@ -1,0 +1,33 @@
+mm c 'magic miss'$*
+p o young k$*
+web c 'web'$*
+charm c 'charm'$*
+nex c 'nexus'$*
+color c 'color spray'$*
+blind c 'blind'$*
+haste cast 'haste' $*
+id cast 'identify' $*
+shield cast 'shield' $*
+2 cast 'web' $*
+sum cast 'summon' $*
+str cast 'strength' $*
+titl title - &03OD &00
+say say &10* &13$*  &10*&00
+gt gt &10* &13$*  &10*&00
+cw clanwho
+r rec rec rec
+5 cast 'life drain' $*
+invis cast 'invis' $*
+3 cast 'shock'
+fly cast 'fly' $*
+infra cast 'infra' $*
+rr rec elven$*
+z o cent k ant$*
+ts c 'true sight'$*
+call c 'monster summon'$*
+fb c 'flame blade'$*
+pp c 'awaken'$*
+loc c 'locate'$*
+awake c 'awaken'$*
+port cast 'portal' $1
+di cast 'detect' invis' $1

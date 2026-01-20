@@ -1,0 +1,17 @@
+ward cas 'ward' $1
+infra cas 'infra' $1
+si cas 'sense life' $1
+bless cas 'bless' $1
+cw cas 'create water' $1
+di cas 'detect invis' $1
+he cas 'heal' $1
+sum cas 'sum' $1
+regen cas 'regen' $1
+rec cas 'word of recall' $1
+grec cas 'word of recall' group
+cf cas 'create food' 
+arm cas 'armor' $1
+bl cas 'blind' $1
+a3 assist banana
+h13 c 'cure critic' banana
+rps c 'remove paralysis'

@@ -1,0 +1,407 @@
+#21500
+G W 0~
+umber hulk~
+an umber hulk~
+An umber hulk lumbers toward you!
+~
+This is a large, bulky creature with a thick purple hide. Multiple eyes
+glare at you from above two huge jagged tusks that protrude from its drooling
+maw. This grotesque has slain many adventurers- lets hope you're not next!
+~
+16488 0 0 0 0 0 0 0 -1000
+35 -6 -5 1d800+3000 8d3+25
+50 60
+9 9 0 0 -1 -1
+#21501
+A W 0~
+riding lizard~
+a riding lizard~
+A Drow riding lizard glares sullenly at you.
+~
+This reptile resembles a huge Komodo dragon, save that it has a leather saddle
+upon its back, and an ornate bridle upon its huge scaly head. Its eyes are
+sullen and mean, but also rather lifeless, as if domesticity has drained the
+urge to kill from this beast.
+~
+16458 0 0 0 0 0 0 0 0
+28 1 0 6d4+425 2d6+4
+40 40
+9 9 0 0 -1 -1
+#21502
+X W 0~
+drow merchant~
+a Drow merchant~
+A Drow merchant eyes you suspiciously.
+~
+Drow are dark-skinned elves, evil brethren of the fair surface-dwelling elves
+that you are familiar with. And while most Drow attack any outsiders on sight,
+this fellow holds back, for he is a merchant first and a drow second, and will
+never alienate potential customers...
+~
+16458 0 0 0 0 0 0 0 -1000
+26 0 -3 5d10+600 3d7+9
+40 40
+9 9 1 0 -1 -1
+#21503
+C W 0~
+bugbear~
+a bugbear guard~
+A bugbear guard, eyes you suspiciously as he hefts his weapon.
+~
+Bugbears are evil creatures, eight feet tall and covered with patchy grey
+fur. Beady red eyes stare from a feline face topped with huge ears. They
+are very aggressive, but not when controlled by their Drow masters, whom they
+hate and fear.
+~
+16490 0 0 0 0 0 0 0 -1000
+25 -5 -5 5d5+625 2d8+15
+40 40
+9 9 0 0 -1 -1
+#21504
+C W 0~
+trog troglodyte~
+a troglodyte slave~
+A troglodyte slave snarls menacingly.
+~
+The weakest creatures native to the underdark, these pathetic miscreants
+resemble slimy reptillian elves, with large fins atop their heads. They
+typically wield clubs and spears while serving as guards, but usually are
+found bearing heavy parcels for their Drow masters.
+~
+16586 0 0 0 0 0 0 0 -1000
+16 9 5 4d5+240 2d5+5
+35 40
+9 9 0 0 -1 -1
+#21505
+A W 0~
+displacer beast~
+a displacer beast~
+A displacer beast shimmers into existence and attacks!
+~
+These creatures resemble giant panthers with four suckered tentacles 
+protruding from their abdomens. They have the ability to distort the
+perceptions of their victims, making them very hard to hit.
+~
+16488 0 0 0 0 0 0 0 -1000
+32 2 0 1d400+800 5d5+10
+50 60
+9 9 0 10 4 -1
+#21506
+A W 0~
+hook horror~
+a hook horror~
+Seconds after you hear the dreadful clicking, a hook horror attacks!
+~
+Hook horrors are giant scaly creatures with giant sets of pincers for hands,
+which rend the flesh of their foes, causing horrific injuries. Hook horrors 
+are infamous for the distinctive clicking they make with their claws, which 
+warn an alert traveller of their imminent attack.
+~
+16488 0 0 0 0 0 0 0 0
+31 0 0 1d700+1700 2d5+10
+50 60
+9 9 0 0 -1 -1
+#21507
+B W 0~
+gnome svirfneblin~
+a Svirfneblin~
+A Svirfneblin, or Deep Gnome, cautiously approaches you.
+~
+These gnomes are distant cousins of the surface-dwelling variety of gnomes,
+and share many characteristics. They are the only good-natured race native
+to the underdark, but are by no means weak because of it. They share a close
+friendship with earth elementals, and it wouldn't be wise to challenge a
+deep gnome when one is nearby.
+~
+16584 0 0 0 0 0 0 0 400
+22 3 1 5d5+375 3d6+2
+40 40
+9 9 1 0 -1 -1
+#21508
+X H 0~
+drow scout~
+a Drow scout~
+A Drow scout curses as you spot him!
+~
+These scouts are intended for reconnaissance, not combat, and thus this Drow
+is irritated at being discovered, for he is woefully unprepared to deal with
+you.
+~
+16584 0 0 0 1032 0 0 0 -1000
+23 6 4 3d4+313 3d4+5
+40 40
+9 9 1 0 -1 -1
+#21509
+N W 0~
+nightmare~
+a nightmare~
+A nightmare, steed of some Drow noble, is here.
+~
+These fell black stallions are native to the Lower Planes. They reek of fire
+and brimstone, and flame spews from their mouths at will.
+~
+16490 0 0 0 0 0 0 0 -1000
+31 0 0 1d700+1700 2d5+10
+50 60
+9 9 0 0 -1 -1
+#21510
+N D 0~
+mezzodaemon demon~
+a Mezzodaemon~
+A huge Mezzodaemon roars and attacks!
+~
+This daemon is a huge bloated grotesque creature with massive claws and tiny
+wings that don't seem capable of supporting its weight, but they do.
+~
+20586 0 0 0 128 0 0 0 -1000
+41 -8 -8 1d1200+1200 6d5+35
+65 75
+9 9 0 8 4 -1
+#21511
+A A 0~
+piercer~
+a piercer~
+A piercer drops from the ceiling toward you.
+~
+These nasties are sentient predators that resemble stalactites, and drop
+down on unwitting passers-by.
+~
+16428 0 0 0 0 0 0 0 0
+24 2 3 5d3+480 3d5+5
+40 40
+9 9 0 0 -1 -1
+#21512
+A A 0~
+lurker above~
+a lurker above~
+A lurker above seeks to enfold and suffocate you!
+~
+This foul aberration feeds on any and all that enter its lair- even the
+drow and corporeal undead avoid it...
+~
+16426 0 0 0 0 0 0 0 0
+32 2 0 1d400+800 3d3+5
+50 60
+9 9 0 0 -1 -1
+#21513
+A W 0~
+gelatinous cube~
+a gelatinous cube~
+A gelatinous cube oozes toward you.
+~
+This huge transparent cube secretes a powerful acid that will quickly dissolve
+your flesh!
+~
+16488 0 0 0 0 0 0 0 0
+19 6 4 3d4+313 3d4+5
+35 40
+9 9 0 0 -1 -1
+#21514
+P W 0~
+gray ooze~
+a gray ooze~
+A pile of gray liquid oozes toward you.
+~
+"Oh," I hear you say. "How threatening". Well, just you wait!
+~
+16424 0 0 0 0 0 0 0 -1000
+32 2 0 1d400+800 3d3+5
+50 60
+9 9 0 0 -1 -1
+#21515
+A W 0~
+kuotoa kuotoan scout~
+a Kuotoan scout~
+A Kuotoan scout snarls at you and attacks!
+~
+This fanatic worshipper of Blibdoolpoolp seeks to eradicate all non-aquatic
+creatures, of whose ranks you number.
+~
+16552 0 0 0 0 0 0 0 -1000
+24 2 3 5d3+480 3d5+5
+40 40
+9 9 1 0 -1 -1
+#21516
+F W 0~
+earth elemental~
+an earth elemental~
+An earth elemental lumbers ungainly along here.
+~
+This earthen automaton is under the control of the Svirfneblin.
+~
+16458 0 0 0 0 0 0 0 0
+40 -6 -10 1d800+5400 6d2+25
+65 75
+9 9 0 0 -1 -1
+#21517
+N M 0~
+nycadaemon daemon demon~
+a nycadaemon~
+A nycadaemon cackles insanely and strikes!
+~
+This is a tall (7'), slender black-skinned daemon with a horned head and 
+sharp claws. However, it wields an evil-looking battleaxe as well.
+~
+18538 0 0 0 128 0 0 0 -1000
+40 -8 -8 1d2000+2000 6d5+45
+65 75
+9 9 0 0 -1 -1
+#21518
+U W 0~
+ghoul~
+a ghoul~
+A ghoul gibbers insanely and attacks!
+~
+This demented undead creature is under the control of some faraway Drow
+priestess.
+~
+16490 0 0 0 0 0 0 0 -1000
+19 6 4 3d4+313 3d4+5
+35 40
+9 9 0 0 -1 -1
+#21519
+U W 0~
+ghast~
+a ghast~
+A ghast gibbers insanely and attacks!
+~
+This demented undead creature is under the control of some faraway Drow
+priestess.
+~
+16490 0 0 0 0 0 0 0 -1000
+24 2 3 5d3+480 3d5+5
+40 40
+9 9 0 0 -1 -1
+#21520
+C A 0~
+jermlaine~
+a jermlaine~
+A jermlaine plans some mischief!
+~
+These tiny faerie-kin are not intrinsically evil, but they do enjoy a good
+bashing of surface dwellers who stray into their lairs.
+~
+16618 0 0 0 0 0 0 0 0
+17 6 4 4d5+155 3d5+3
+35 40
+9 9 0 0 -1 -1
+#21521
+V M 0~
+drow vampire mage~
+a Drow vampire mage~
+A Drow vampire mage laughs diabolically at you!
+~
+This fellow was evil enough before he met his succubus lover- now he's 
+utterly diabolical!
+~
+18538 0 0 0 0 0 0 0 -1000
+39 -3 -3 1d700+2000 4d6+25
+50 60
+9 9 1 0 -1 -1
+#21522
+N M 0~
+succubus~
+a succubus~
+A beautiful female smiles charmingly at you, revealing sharp fangs...
+~
+You see a dazingly attractive voluptuous naked female here. Wait a minute.
+Is it your imagination, or does she have little horns and fangs...?
+~
+16458 0 0 0 0 0 0 0 -1000
+38 -4 -2 1d800+2500 4d4+18
+50 60
+9 9 2 0 -1 -1
+#21523
+B W 0~
+gnome slave~
+a gnome slave~
+A gnome slave stares blankly at you.
+~
+This poor fellow has been drained of all his will.
+~
+16586 0 0 0 0 0 0 0 0
+16 9 5 4d5+240 2d5+5
+35 40
+9 9 1 0 -1 -1
+#21524
+A T 0~
+wererat lycanthrope ratman~
+a wererat~
+A wererat in ratman form brandishes a sharp Drow sword menacingly.
+~
+These fell creatures are mercenaries who work for any race as long as the
+pay is right.
+~
+16618 0 0 0 0 0 0 0 -400
+26 -1 0 1d300+600 3d5+10
+40 40
+9 9 1 0 -1 -1
+#21525
+X C 0~
+drow priestess~
+a Drow priestess~
+A Drow priestess screams at you and attacks!
+~
+She is in charge of this outpost and it won't look good on her report if she
+fails to apprehend a simple adventurer.
+~
+16490 0 0 0 1032 0 0 0 -1000
+26 -1 0 1d600+1250 3d5+15
+40 40
+9 9 2 0 -1 -1
+#21526
+X W 0~
+drow guard~
+a Drow guard~
+A drow guard loads his hand crossbow and fires!
+~
+These are simple male Drow soldiers- cannon fodder so to speak.
+~
+16490 0 0 0 0 0 0 0 -1000
+24 2 3 5d3+480 3d5+5
+40 40
+9 9 1 0 -1 -1
+#21527
+X M 0~
+drow mage~
+a Drow mage~
+A Drow mage prepares a spell.
+~
+This fellow is actually a noble, a member of house Barrison del'Armgo, a
+influential house in the under dark, and will not let his house's reputation
+suffer by letting you escape!
+~
+16426 0 0 0 1032 0 0 0 -1000
+25 10 5 4d4+200 2d5+5
+40 40
+9 9 1 0 -1 -1
+#21528
+A W 0~
+purple worm~
+a purple worm~
+A dreaded purple worm attacks!
+~
+This foul creature is over thirty feet long and has a circular mouth with
+row upon row of razor sharp teeth, which it is trying to sink into you!
+~
+16490 0 0 0 0 0 0 0 0
+40 -6 -10 1d800+5400 6d2+25
+65 75
+9 9 0 4 1 -1
+#21529
+X W 0~
+drow sentry~
+a drow sentry~
+A Drow sentry nods curtly and warns you to stay clear of the southern path.
+~
+This fellow is used to seeing all manner of creatures enter the city, and
+compared to them you're but a minor curiosity. He doesn't really know why
+you want to enter, nor does he really care. He's actually looking forward to
+a good romp with his dryad slave girls, then some goblin hunting in the
+mushroom forests after he finishes his shift.
+~
+16458 0 0 0 1024 0 0 0 -1000
+24 2 3 5d3+480 3d5+5
+40 40
+9 9 1 0 -1 -1
+$

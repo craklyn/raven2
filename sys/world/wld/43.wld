@@ -1,0 +1,1981 @@
+#4300
+Before the Castle of Swords.~
+You stand on a path, to the south you see the great castle of Swords, the home
+of the King, Queen and his knights.
+There is a large sign which demands you attention here.
+~
+43 4 0 0 0 2 255 0
+D0
+A swirling blue portal of light.
+~
+~
+0 -1 4390
+D2
+You see a guarded Drawbridge.
+~
+~
+0 -1 4301
+E
+sign~
++----------------------------------------------------------------------------+
+|                            This is a warning!                              |
+|                                                                            |
+|             If you are below level 20 DO NOT enter this zone.              |
+|                   You enter this castle at you own peril.                  |
+|                                                                            |
+|                            You have been warned!                           |
+|                                                                            |
+|                                              King of Swords                   |
++----------------------------------------------------------------------------+
+~
+S
+#4301
+On the Drawbridge.~
+You stand on the drawbridge, a portcullis looms high above you and you are
+now aware of how large and impressive this castle is.
+~
+43 0 0 0 0 2 255 0
+D0
+You see a path leading away from the castle.
+~
+~
+0 -1 4300
+D2
+You see a stone corridor decorated with shields and tapestries.
+You can hear the strains of laughter and music from the end of the corridor.
+~
+~
+0 -1 4302
+S
+Z 13
+#4302
+Entrance corridor.~
+This is a cold corridor, due to the wind blowing in from the exit. You can
+feel a warmth coming from the south where there appears to be a great feast
+being held.
+~
+43 8 0 0 0 0 255 0
+D0
+You see the drawbridge, the only exit from the castle.
+~
+~
+0 -1 4301
+D2
+You see a junction between two corridors.
+~
+~
+0 -1 4303
+S
+#4303
+Junction between 2 corridors.~
+You are standing at a junction. There is an east/west corridor lit by torch
+light. To the north you see sunlight and to the south you see a large very
+bright room
+~
+43 8 0 0 0 0 255 0
+D0
+You see daylight in the distance.
+~
+~
+0 -1 4302
+D1
+You see a corridor.
+~
+~
+0 -1 4311
+D2
+You see a large room. Sounds of music and laughter comes from there.
+~
+~
+0 -1 4326
+D3
+You see a corridor.
+~
+~
+0 -1 4304
+S
+#4304
+A dimly lit corridor.~
+This is a dimly lit corridor. You can sense a great evil as you look west.
+There is a tapestry hanging on the wall.
+~
+43 8 0 0 0 0 255 0
+D1
+You see a junction between two corridors.
+~
+~
+0 -1 4303
+D3
+You see a darker corridor and sense great evil.
+~
+~
+0 -1 4305
+E
+tapestry~
+This depicts a scene from Gawain's first quest. It shows him riding a horse
+towards the castle holding the head of the white stag in his hand, but around
+the neck of his horse is hung the head of a lady whom he killed, by accident,
+because he would not grant mercy to a knight whom he was in battle with.
+~
+S
+#4305
+A dim corridor.~
+The torches here seem dimmer and offer little comfort. The sense of evil is
+growing greater here.
+~
+43 8 0 0 0 0 255 0
+D1
+The corridor gets brighter in this direction.
+~
+~
+0 -1 4304
+D3
+The corridor ends here, it looks dark, gloomy and the sense of evil is very
+strong.
+~
+~
+0 -1 4306
+S
+#4306
+End of the dark corridor.~
+There are still torches here, but there light appears to be fighting a losing
+battle against the gloom. To the north you see the entrance to a tower and the
+evil presence appears to be coming from here.
+~
+43 8 0 0 0 0 255 0
+D0
+You see an entrance to a dark tower.
+~
+~
+0 -1 4307
+D1
+You see a corridor which appears to be brighter and more welcoming.
+~
+~
+0 -1 4305
+S
+#4307
+The entrance to the tower.~
+This is an entrance to a dark tower. A shield is hanging on the wall and there
+are still a few torches here. There is a stairway to your west leading up into
+the tower.
+~
+43 12 0 0 0 0 255 0
+D2
+You are relieved to see the exit from this tower.
+~
+~
+0 -1 4306
+D4
+You see a dark spiral staircase.
+~
+~
+0 -1 4308
+E
+shield~
+You see a large shield bearing the emblem of the Sword.
+~
+S
+#4308
+On the stairway.~
+The stairway is lit by torches, but there is no comfort in their light.
+~
+43 9 0 0 0 0 255 0
+D4
+The stairway continues up in to the tower.
+~
+~
+0 -1 4309
+D5
+The stairway leads down to the ground floor of the tower.
+~
+~
+0 -1 4307
+S
+#4309
+On the spiral stairway.~
+You see a light further up from here, but it is a cold and unwelcoming light.
+Perhaps you should turn back now before it is too late.
+~
+43 8 0 0 0 0 255 0
+D4
+You see a coldly lit platform up from here.
+~
+~
+0 -1 4310
+D5
+The stairway gets lighter in this direction.
+~
+~
+0 -1 4308
+S
+#4310
+A platform on the stairway.~
+You are standing on a platform halfway up the tower. The torches here gives
+off a light that provides little comfort, light or warmth. There is a door
+here.
+~
+43 8 0 0 0 0 255 0
+D4
+You see a door.
+~
+door~
+2 4302 4368
+D5
+You see a dark stairway.
+~
+~
+0 -1 4309
+E
+door~
+A sturdy wooden door with a mystical symbol written on it.
+~
+E
+symbol~
+This is a runic symbol placed by the king to prevent the door being passed
+through by any means other than by opening it with the key.
+~
+S
+#4311
+A lighter corridor~
+You are standing in a bright corridor that runs in an east/west direction.
+There is a large tapestry on the wall here.
+~
+43 8 0 0 0 0 255 0
+D1
+You see a bright corridor.
+~
+~
+0 -1 4312
+D3
+You see a junction between two corridors.
+~
+~
+0 -1 4303
+E
+tapestry~
+This shows the scene after the King's wedding where the knights agree to live
+by the laws set down by their Lord. These laws are beautifully embroidered around
+the edge of the tapestry.
+~
+E
+words word law laws edge edges~
+On their honor the knights swore to be merciful when mercy was asked, and to
+protect damsels, ladies, gentlewoman and widows, to enforce their rights and
+to never enforce lust on them. They also promised never to fight in an unjust
+cause or to fight for personal gain and every year at the high feast of
+Pentecost they were to renew these vows.
+~
+S
+#4312
+A brightly lit corridor.~
+This is a bright and airy corridor. From the east you hear the sounds of music
+and poetry.
+~
+43 8 0 0 0 0 255 0
+D1
+You see a junction in the corridor.
+~
+~
+0 -1 4313
+D3
+You see a corridor.
+~
+~
+0 -1 4311
+S
+#4313
+A junction in the corridor.~
+You are standing at a bend in the corridor. The corridor continues to the
+south and the west but to the north you see an entrance to a tower.
+~
+43 8 0 0 0 0 255 0
+D0
+You see an entrance to a tower, the strains of music appears to be louder from
+this direction.
+~
+~
+0 -1 4348
+D2
+You see a long corridor.
+~
+~
+0 -1 4314
+D3
+You see a corridor.
+~
+~
+0 -1 4312
+S
+#4314
+The corridor.~
+You are standing at one end of a long running north/south corridor.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a bend in the corridor.
+~
+~
+0 -1 4313
+D2
+The corridor continues.
+~
+~
+0 -1 4315
+S
+#4315
+The long corridor.~
+This is a long corridor, but it is brightly decorated and well lit.
+There is a tapestry hanging on the wall here.
+~
+43 8 0 0 0 0 255 0
+D0
+The corridor continues.
+~
+~
+0 -1 4314
+D2
+You see a junction in the corridor.
+~
+~
+0 -1 4316
+E
+tapestry~
+This is a most beautifully embroidered tapestry. It shows the King sitting on
+his horse with a few knights with him and his pack of hunting dogs in a forest
+glade.
+~
+S
+#4316
+A junction in the corridor.~
+You are standing at a cross-roads in the corridor. The main corridor continues
+in a north/south direction. To the west you hear sounds of music and laughter
+and to the east you see a small room.
+~
+43 8 0 0 0 0 255 0
+D0
+The corridor continues.
+~
+~
+0 -1 4315
+D1
+You see a room containing a large round table.
+~
+~
+0 -1 4347
+D2
+The corridor continues.
+~
+~
+0 -1 4317
+D3
+You see a corridor leading to a grand banqueting hall.
+~
+~
+0 -1 4346
+S
+#4317
+The long corridor.~
+You are standing in a long north/south running corridor that appears to run
+the full length of the castle.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a junction in the corridor.
+~
+~
+0 -1 4316
+D2
+The corridor continues.
+~
+~
+0 -1 4318
+S
+#4318
+A stone corridor.~
+You are standing in a stone corridor.
+There is a tapestry on the wall.
+~
+43 8 0 0 0 0 255 0
+D0
+The corridor continues.
+~
+~
+0 -1 4317
+D2
+You see a junction in the corridor.
+~
+~
+0 -1 4319
+E
+tapestry~
+This depicts a scene set in a churchyard.
+The King and Queen hold hands as they great all visitors, welcoming all to
+worship with them.
+~
+S
+#4319
+A Junction in the corridor.~
+You are standing at a junction in the corridor. The corridor continues to the
+west and the north but to the south there is an entrance to a tower.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a long corridor.
+~
+~
+0 -1 4318
+D2
+You see the entrance to a tower.
+~
+~
+0 -1 4352
+D3
+You see a long corridor.
+~
+~
+0 -1 4320
+S
+#4320
+The corridor~
+You are standing in a very long east/west running corridor.
+~
+43 8 0 0 0 0 255 0
+D1
+You see a junction in the corridor.
+~
+~
+0 -1 4319
+D3
+The corridor continues.
+~
+~
+0 -1 4321
+S
+#4321
+A bright corridor.~
+You are standing in a bright part of the corridor.
+On the wall there is a large tapestry with words written around its border.
+~
+43 8 0 0 0 0 255 0
+D1
+The corridor continues.
+~
+~
+0 -1 4320
+D3
+You see a junction in the corridor.
+~
+~
+0 -1 4322
+E
+tapestry~
+This shows a scene set outside a castle. The castle is called Castle Dangerous.
+This depicts the scene where a knight is granting the another dark knight his life.
+Beside him is the Lady Pookie, his companion on this his first quest. In
+one of the windows of the castle you can just make out Lady Ngatai, who later
+became Sir Kellory's wife, whom the knight has just saved by defeating the dark
+Knight.
+~
+E
+border word words~
+A scene from the quest of Sir Gareth, the Knight who began his court life as a
+kitchen servant.
+~
+S
+#4322
+A junction in the corridor.~
+You are standing at a point in the corridor where there is a room to the south.
+~
+43 8 0 0 0 0 255 0
+D1
+The corridor continues.
+~
+~
+0 -1 4321
+D2
+You see a small chapel.
+~
+~
+0 -1 4388
+D3
+The corridor continues.
+~
+~
+0 -1 4323
+S
+#4323
+Long corridor.~
+You are standing on a long east/west running corridor.
+~
+43 8 0 0 0 0 255 0
+D1
+You see a junction in the corridor.
+~
+~
+0 -1 4322
+D3
+The corridor continues.
+~
+~
+0 -1 4324
+S
+#4324
+Long Corridor~
+You are standing on a long corridor but you can see the end of it to the west.
+There is a large tapestry on the wall, with words written around its border.
+~
+43 8 0 0 0 0 255 0
+D1
+The corridor continues.
+~
+~
+0 -1 4323
+D3
+The end of the corridor.
+~
+~
+0 -1 4325
+E
+tapestry~
+This shows a very dramatic scene set at the tournament beside the castle of
+the Earl Yniol.
+It shows the jousting match between Sir Geraint and Sparrow-Hawk, the Earl's
+nephew. Geraint wins the contest and also marries Enid, the fair daughter of
+the Earl.
+~
+E
+border word words~
+This tapestry shows the end of the quest of Sir Geraint who went out to avenge
+the Queen, as Sparrow-Hawk had insulted her.
+~
+S
+#4325
+The End of the Corridor.~
+You are standing at the end of the corridor, to the south you notice a tower.
+~
+43 8 0 0 0 0 255 0
+D1
+You see a long corridor.
+~
+~
+0 -1 4324
+D2
+You see a tower.
+~
+~
+0 -1 4356
+S
+#4326
+Before the Banqueting Hall.~
+You are at the entrance to a grand banqueting hall. This lies to the south and
+to the north you can feel the cold air coming in from the entrance to the
+castle.
+~
+43 8 0 0 0 0 255 0
+D0
+You can see a junction between two corridors and the exit from the castle.
+~
+~
+0 -1 4303
+D2
+You see a large room, from which the sounds of music and laughter emanate from.
+~
+~
+0 -1 4327
+S
+#4327
+Entrance to the Banqueting Hall~
+You are standing at the entrance to a Great room. You can hear the music
+clearly now and can see a huge fire to the south. Everybody in this room
+appears to be enjoying the festivities.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a corridor leading away from the Hall and out of the castle.
+~
+~
+0 -1 4326
+D1
+You see a quiet corner.
+~
+~
+0 -1 4328
+D2
+You see a Great Fire in the centre of the Hall where the music appears to be
+coming from.
+~
+~
+0 -1 4330
+D3
+You see a quiet corner.
+~
+~
+0 -1 4329
+S
+#4328
+A Quiet Corner~
+You are in a quiet corner of the Hall. From here you can observe the floor
+show at your leisure and also in peace.
+~
+43 8 0 0 0 0 255 0
+D2
+You see the tables where the lesser dignitaries sit.
+~
+~
+0 -1 4331
+D3
+You see the entrance to the Hall.
+~
+~
+0 -1 4327
+S
+#4329
+A quiet corner.~
+This a quiet corner in this room from where the festivities can be watched in
+peace.
+~
+43 8 0 0 0 0 255 0
+D1
+You see the northern end of the hall.
+~
+~
+0 -1 4327
+D2
+You see the tables where the lesser court dignitaries sit.
+~
+~
+0 -1 4332
+S
+#4330
+The Centre of the Hall.~
+You are standing in the centre of the Hall near the great fire. Around the
+fire there are entertainers performing tricks and minstrels singing songs.
+~
+43 8 0 0 0 0 255 0
+D0
+You see the way out of the Hall.
+~
+~
+0 -1 4327
+D1
+You see the tables of the lesser court dignitaries and also a way out of the
+Hall.
+~
+~
+0 -1 4331
+D2
+You see the Dais where the King and Queen are sitting.
+~
+~
+0 -1 4333
+D3
+You see the tables where the lesser court dignitaries sit, past these you see
+a corridor leading to the Kitchen.
+~
+~
+0 -1 4332
+E
+fire~
+A large roaring fire gives off great warmth and light. The smoke from the fire
+disappear through a hole in the ceiling.
+~
+S
+#4331
+East end of Banqueting Hall.~
+This is where the lesser court dignitaries sit to eat and watch the floor show
+that takes place in the centre of the room.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a quiet corner.
+~
+~
+0 -1 4328
+D1
+You see a corridor leading away from the hall.
+~
+~
+0 -1 4346
+D2
+You see the tables where the higher courtiers sit.
+~
+~
+0 -1 4334
+D3
+You see the entertainment's taking place in the centre of the hall.
+~
+~
+0 -1 4330
+S
+#4332
+West end of Banqueting Hall.~
+There are tables here filled with food and wine. The people here are obviously
+having a good time. To the centre of the hall you see the acrobats performing
+their feats for the King and the onlookers' amusement.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a quiet corner.
+~
+~
+0 -1 4329
+D1
+You see the centre of the room, where the acrobats are entertaining the crowds.
+~
+~
+0 -1 4330
+D2
+You see the tables where the higher dignitaries of the court sit.
+~
+~
+0 -1 4335
+D3
+You see a corridor leading to the kitchen.
+~
+~
+0 -1 4336
+S
+#4333
+On the Dais.~
+You see two very large grand thrones, on which the King and Queen are sitting
+watching over this feast. Behind the thrones is a wooden wall from which
+banners are hanging.
+~
+43 520 0 0 0 0 255 0
+D0
+You see a Great fire and the floor show.
+~
+~
+0 -1 4330
+D1
+You see a corner where the higher court dignitaries sit.
+~
+~
+0 -1 4334
+D2
+You see a a wooden wall.
+~
+panel~
+2 4301 4345
+D3
+You see a corner where the higher courtiers sit.
+~
+~
+0 -1 4335
+E
+wall~
+You can see a wooden wall. You notice one of the panels has some odd marks on
+it.
+~
+E
+panel marks~
+The marks would appear to be some sort of stonemason's mark.
+~
+E
+banners~
+The banners have embroidered on them a rampant lion.
+The embroidery was done by the Queen and the ladies of the court.
+~
+E
+throne thrones~
+These are two great chairs, beautifully carved out of oak. You can see animals
+carved into the feet and arms of the chair and notice that the eyes of the
+animals are in fact precious jewels.
+~
+S
+#4334
+A Select Corner~
+You are standing in a select corner of the room where the higher court
+dignitaries are seated.
+~
+43 8 0 0 0 0 255 0
+D0
+You see more tables where the lesser dignitaries sit.
+~
+~
+0 -1 4331
+D3
+You see the Dais where the King and Queen are seated.
+~
+~
+0 -1 4333
+S
+#4335
+A select corner.~
+The tables here are laden with food and the wine seems to be flowing more
+freely. The higher dignitaries of the court sit here.
+~
+43 8 0 0 0 0 255 0
+D0
+You see the tables where the lesser court dignitaries sit.
+~
+~
+0 -1 4332
+D1
+You see the Dais where the King and Queen sit.
+~
+~
+0 -1 4333
+S
+#4336
+Kitchen corridor~
+This is obviously the corridor that the serving maids use to bring the food
+from the kitchen to the hall.
+~
+43 8 0 0 0 0 255 0
+D1
+You see the banqueting hall.
+~
+~
+0 -1 4332
+D3
+You can see the kitchen.
+~
+door~
+0 -1 4337
+S
+#4337
+Kitchen~
+This a very warm room, due to the large fire in the centre of it. A large
+haunch of venison is cooking on it. The room is filled with jars of herbs and
+pickles. There is a door to the west that leads out to a small garden.
+~
+43 8 0 0 0 0 255 0
+D1
+You see a corridor leading to the Banqueting hall.
+~
+~
+0 -1 4336
+D3
+You see a door.
+~
+iron door~
+2 4306 4338
+E
+iron door~
+A small iron door.
+~
+S
+#4338
+On a path in the garden.~
+You are standing on a path in a small garden. You see a small hut at one end
+of the garden and can hear dogs barking. You can feel the window your face and
+breathe fresh air.
+~
+43 0 0 0 0 2 255 0
+D0
+You see a small vegetable patch.
+~
+~
+2 4306 4341
+D1
+You see a door.
+~
+door~
+2 -1 4337
+D2
+You see a flower garden.
+~
+~
+0 -1 4342
+D3
+The path continues.
+~
+~
+0 -1 4339
+S
+#4339
+Before the soothsayers hut.~
+You are standing on a small path in the walled garden, near by is a small hut.
+You can hear the barking of a dog to the south and the smell of herbs to the
+north.
+~
+43 0 0 0 0 2 255 0
+D0
+To the north you see a small herb garden.
+~
+~
+0 -1 4344
+D1
+You see a path leading back to the castle.
+~
+~
+0 -1 4338
+D2
+You see the kennels, and hear the barking of a dog.
+~
+~
+0 -1 4343
+D3
+You see a small hut.
+~
+~
+0 -1 4340
+S
+#4340
+The Soothsayer's Hut.~
+This is a small hut, it is very light and airy but is cluttered by many
+objects in it. There are numerous shelves containing many potions and jars.
+There is a small table, on it you notice a small picture with a red rose
+beside it.
+~
+43 8 0 0 0 0 255 0
+D1
+You can see a small path leading through the garden back to the castle.
+~
+~
+0 -1 4339
+S
+#4341
+Vegetable patch.~
+You are standing in the middle of a well-kept vegetable patch. The smell of
+herbs emanate from the west.
+~
+43 0 0 0 0 2 255 0
+D2
+You see a small path near the castle.
+~
+~
+0 -1 4338
+D3
+You see a small herb garden.
+~
+~
+0 -1 4344
+S
+#4342
+Flower garden.~
+You are standing in a flower garden. Roses, daffodils and other flowers grow
+here. The smells of these plants relax you as does the splendor of the
+colors you can see.
+~
+43 0 0 0 0 2 255 0
+D0
+You see a small path.
+~
+~
+0 -1 4338
+D3
+You hear the barking of dogs.
+~
+~
+0 -1 4343
+S
+#4343
+The kennels~
+You see the kennels where the hunting dogs of the King live. The smell here is
+not pleasant, and you see half eaten bones and scraps of meat lying around.
+~
+43 0 0 0 0 2 255 0
+D0
+You see a small path, outside of a hut.
+~
+~
+0 -1 4339
+D1
+You see a flower garden.
+~
+door~
+0 -1 4342
+S
+#4344
+Herb Garden.~
+You are standing in a corner of the garden. There are herbs growing here, and
+they are well looked after. The smells from this area stimulate your senses.
+~
+43 0 0 0 0 2 255 0
+D1
+You see a small vegetable patch.
+~
+~
+0 -1 4341
+D2
+You see a small path outside of a hut.
+~
+~
+0 -1 4339
+S
+#4345
+A secret room.~
+This is a small room. You see an exit down which appears to lead to a glowing
+passageway.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a wooden wall.
+~
+panel~
+2 4306 4333
+D5
+You see a magical glowing passage.
+~
+~
+0 -1 4376
+S
+#4346
+Before the Banqueting Hall.~
+You are standing under an arch. To the west you hear music and laughter, to
+the east you see a torchlit corridor.
+~
+43 8 0 0 0 0 255 0
+D1
+You see a corridor.
+~
+~
+0 -1 4316
+D3
+You see the entrance to the Banqueting Hall.
+~
+~
+0 -1 4331
+S
+#4347
+The room of the Round Table.~
+This is a large and beautiful room. At the centre of the room, and its main
+focus, is a large round table. There are chairs around the table. One of them
+stands out from all the rest, this is Siege Perilous.
+~
+43 8 0 0 0 0 255 0
+D3
+You see a junction in the corridor.
+~
+~
+0 -1 4316
+E
+table round~
+You see a large round table that was presented to the King on his wedding day
+as part of Queen's dowry from her father King Lodegrance of Camylarde.
+There are words written on it in gold.
+~
+E
+word words~
+The words show the names of the knights of the King of Swords who have a place at
+this most grand table.
+~
+E
+siege perilous~
+This is the chair that only the most perfect knight in the world can sit in.
+It is certain death for any other knight that should try.
+~
+S
+#4348
+An entrance to a tower.~
+You are at the base of a tower that is ideally suited for relaxing in. There
+is an exit to the south and a stairway leading up the tower. There is an arch
+above the entrance to the stairway there are words written above it.
+~
+43 12 0 0 0 0 255 0
+D2
+You see an exit to a corridor.
+~
+~
+0 -1 4313
+D4
+You see a stairway leading up the tower.
+~
+~
+0 -1 4349
+E
+word words~
+"Welcome to the tower of Arthur's personal minstrel ---- Taliesin"
+~
+S
+#4349
+On the stairway.~
+You are standing on a bright stairway. The walls are white here and you here
+music all around you although it does seem to emanate from above.
+~
+43 8 0 0 0 0 255 0
+D4
+The stairway continues.
+~
+~
+0 -1 4350
+D5
+You see the entrance to the tower.
+~
+~
+0 -1 4348
+S
+#4350
+On the stairway.~
+You are standing on a spiral stairway, you must now be halfway up the tower.
+~
+43 8 0 0 0 0 255 0
+D4
+You see a small platform on the stairs.
+~
+~
+0 -1 4351
+D5
+The stairway continues.
+~
+~
+0 -1 4349
+S
+#4351
+A small platform on the stairway.~
+You are standing on a small platform on the stairway. There is a door blocking
+your progress further up the tower.
+~
+43 8 0 0 0 0 255 0
+D4
+You see a door.
+~
+door~
+2 4304 4372
+D5
+The stairway continues down.
+~
+~
+0 -1 4350
+E
+door~
+There is a small door here with a strange symbol on it.
+~
+E
+symbol~
+The symbol has been placed on the door by the king to prevent the door being
+opened by any other means apart from with the appropriate key.
+~
+S
+#4352
+Entrance to a tower.~
+You are standing at the entrance to a very clean and bright tower. There is a
+stairway leading up the tower and beside this hangs a shield.
+~
+43 12 0 0 0 0 255 0
+D0
+You see a corridor.
+~
+~
+0 -1 4319
+D4
+You see a marble stairway leading up the tower.
+~
+~
+0 -1 4353
+E
+shield~
+You see a large shield bearing the emblem of the Sword.
+~
+S
+#4353
+On the marble stairway.~
+You are standing on a beautifully white marble stairway.
+~
+43 8 0 0 0 0 255 0
+D4
+The stairway continues.
+~
+~
+0 -1 4354
+D5
+You see the exit from the tower.
+~
+~
+0 -1 4352
+S
+#4354
+On the marble stairway.~
+You are standing on the white marble stairway, as you are climbing this tower
+you feel as though you are getting closer to God.
+~
+43 8 0 0 0 0 255 0
+D4
+You see a small platform on the stairway
+~
+~
+0 -1 4355
+D5
+The stairway continues.
+~
+~
+0 -1 4353
+S
+#4355
+Platform on the stairs.~
+You are standing on a small platform on the stairway up the tower.
+~
+43 8 0 0 0 0 255 0
+D4
+You see a white door.
+~
+door~
+2 4303 4364
+D5
+The stairway continues.
+~
+~
+0 -1 4354
+E
+door white~
+You see a white door with a curious little symbol marked on it in red.
+~
+E
+symbol red~
+This is a mark made on the door by the king to prevent access to the rest of the
+tower by anyone except the holder of the key.
+~
+S
+#4356
+Entrance to the Tower~
+You are standing at the base of a tall tower. You see a stairway leading up
+the tower, on the wall beside this hangs a shield.
+~
+43 12 0 0 0 0 255 0
+D0
+You see the end of a corridor.
+~
+~
+0 -1 4325
+D4
+You see a spiral staircase.
+~
+~
+0 -1 4357
+E
+shield~
+This is a large shield bearing the emblem of the Sword.
+~
+S
+#4357
+On the stairway.~
+You are standing on a stairway that leads up to the top of this tower.
+~
+43 8 0 0 0 0 255 0
+D4
+The stairway continues.
+~
+~
+0 -1 4358
+D5
+You see the entrance to the tower.
+~
+~
+0 -1 4356
+S
+#4358
+On the Stairway~
+You are about halfway up the tower now. Up one more flight of stairs you can
+see a small platform.
+~
+43 8 0 0 0 0 255 0
+D4
+You see a small platform.
+~
+~
+0 -1 4359
+D5
+The stairway continues.
+~
+~
+0 -1 4357
+S
+#4359
+Platform in the Tower~
+You are standing on a small platform about mid-way up the tower.
+~
+43 8 0 0 0 0 255 0
+D4
+You see a door.
+~
+door~
+2 4305 4360
+D5
+The stairway continues.
+~
+~
+0 -1 4358
+E
+door~
+You see a wooden door, with a curious symbol on it.
+~
+E
+symbol~
+This is a rune placed on the door by the King to prevent entry by any other
+means than by using the proper key.
+~
+S
+#4360
+Top of the stairs.~
+You have reached the top of the stairs. You can feel a cool breeze blowing
+from the west.
+~
+43 8 0 0 0 0 255 0
+D3
+You see the Entrance to the private chambers.
+~
+~
+0 4305 4361
+D5
+You see a door.
+~
+door~
+2 -1 4359
+E
+door~
+You see a wooden door.
+~
+S
+#4361
+The entrance to the Private rooms.~
+You are standing in a very large room. To the south you can see an occupied
+room and to the west you see the top of the stairs.
+~
+43 8 0 0 0 0 255 0
+D1
+You see the top of the stairs.
+~
+~
+0 -1 4360
+D2
+You see the first knight's private room.
+~
+~
+0 -1 4362
+S
+#4362
+The First Knight's Private room.~
+This is a very plain and unadorned room. This is a room that is not used too
+much by the owner, as he prefers to be outside riding around the country.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a way out of here.
+~
+~
+0 -1 4361
+D1
+You see a balcony.
+~
+~
+0 -1 4363
+S
+#4363
+The Balcony~
+You are standing on an open balcony. You can see the whole countryside around
+you, and it is a very beautiful view. The wind is strong up here and you feel
+your hair blown back into your face.
+~
+43 8 0 0 0 0 255 0
+D3
+You can see the room of the first knight.
+~
+~
+0 -1 4362
+S
+#4364
+Top of the tower.~
+You are standing in a brilliant white room situated at the top of the tower.
+To the south you see the private room of the occupier of the tower.
+~
+43 8 0 0 0 0 255 0
+D2
+You see the Dark Knight's Private room.
+~
+~
+0 -1 4365
+D5
+You see a white door.
+~
+door~
+2 4303 4355
+E
+door white~
+You see a white door.
+~
+S
+#4365
+The Dark Knight's Private Room.~
+You are standing in a spartan room, almost cell like in appearance. To the
+south you see what appears to be a large treasure room. Of course the
+treasure just might be a lure to a deadly trap. To the west you see
+a brilliant white light.
+~
+43 8 0 0 0 0 255 0
+D0
+You see the top of the stairs.
+~
+~
+0 -1 4364
+D2
+You see what appears to be a great room filled with gold, which does not seem
+in keeping with the room you are standing in. Remember what your mother said
+"All that glistens...."
+~
+~
+0 -1 4367
+D3
+You see a brilliant white light. The light is drawing you in, pulling you,
+demanding your attention, it appears to want you and once it has you will it
+let you go again?
+~
+~
+0 -1 4366
+S
+#4366
+The room of the Eternal light.~
+You are standing in a room surrounded by light. You feel you must be standing
+in the presence of God himself and so you do not feel like leaving....Ever.
+~
+43 140 0 0 0 0 255 0
+S
+#4367
+A Glistening Room.~
+As you enter this room you suddenly realize that what you thought was gold
+from the distance is actually oil. You can feel yourself slowly falling
+through the oil as you begin to plummet down the well that is containing it.
+The oil is clogging you throat and you will not survive to reach the bottom.
+~
+43 14 0 0 0 0 255 0
+D0
+~
+~
+0 0 4365
+S
+#4368
+Top of the stairs.~
+You have reached the top of the tower, and are now about to enter the private
+rooms of the occupier of this tower. To the south you see a private bedroom,
+probably of a relative of the occupier of the tower.
+~
+43 8 0 0 0 0 255 0
+D2
+You see a beautiful bedroom. You catch a glimpse of its attractive occupier,
+who briefly looks at you and indicates for you to enter. Is she from a 
+dream? or maybe its a vision of your final doom..
+~
+~
+0 -1 4370
+D3
+An entrance to the occupier's private chambers.
+~
+~
+0 -1 4369
+D5
+You see a door.
+~
+door~
+2 4302 4310
+E
+door~
+You see a sturdy wooden door.
+~
+S
+#4369
+Before the Private room of the Black Knight.~
+You feel nervous standing here. The stories you have heard about this knight
+and his mother are not pleasant. This room is dark and gloomy and does not
+help to put you at your ease.
+~
+43 8 0 0 0 0 255 0
+D1
+You can see back to the top of the stairs.
+~
+~
+0 -1 4368
+D2
+You see a room that is very ornate and you gather that the occupier of this
+room values material wealth and power above all else.
+~
+~
+0 -1 4371
+S
+#4370
+Your Doom~
+As you enter this room the occupier approaches you and kisses you. You feel
+relaxed and take of your armour when the occupier asks you to. When this is
+done you hear a loud cackle. The whole room and everything in it seems to
+dissolve around you and you find yourself naked and surrounded by 20 knights
+and Morgan Le Fay is standing with them.
+
+Lets just say your skills as a fighter were not up to this challenge and you
+did not last very long!
+~
+43 14 0 0 0 0 255 0
+D0
+~
+~
+0 0 4368
+S
+#4371
+The Private room of the Black Knight.~
+As you enter this room it is not what you expected to see. It is a highly
+luxurious room, everything in it seems to be ornate, but you get the feeling
+it is over done. It all seems very beautiful but very cold, just likes its
+owner.
+You notice a very large tapestry.
+~
+43 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 4369
+E
+tapestry~
+This is the finest tapestry you have ever seen but the scene it depicts is
+horrific.
+It shows the King standing before a maid whose is dying before him. The
+reason why she is dying seems to be due to the fact that the silver cloak she
+is wearing is burning her skin causing it to blister and her to bleed to death.
+~
+S
+#4372
+Top of the Tower~
+There is a window here which allows the sunlight into this room. The air here
+is filled with music and it is very relaxing. To the east the music appears to
+be stronger, whereas you feel a cool breeze coming from the north.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a room with only 3 walls, an ideal place for throwing yourself from
+the castle to your death as a pact of love.
+~
+~
+0 -1 4374
+D1
+You see the private room of Sir Shade.
+~
+~
+0 -1 4373
+D5
+You see a door.
+~
+door~
+2 4304 4351
+E
+window~
+You see the road winding its way back to Samsera.
+~
+E
+door~
+You see a small door.
+~
+S
+#4373
+The Private room of Sir Shade.~
+This is a large and comfortable room. Around this room you see many papers
+containing all the stories and legends ever told in this castle. There is a
+large painting, around the frame there is an inscription, on the wall.
+~
+43 8 0 0 0 0 255 0
+D0
+You can hear the strains of some very enchanting music.
+~
+~
+0 -1 4375
+D3
+You see the top of the tower.
+~
+~
+0 -1 4372
+E
+painting picture~
+This is possibly one of the finest oil paintings you have ever seen.
+It shows a couple standing together in each others arms on a deserted beach.
+There is a full moon in the dark night sky and this is reflected in both the
+sea and the lady's brown eyes.
+Her long, brown, curled hair cascades down her shoulders. She is wearing a
+long white dress, giving the impression that she is floating above the
+ground. Around her neck she wears a very elegant cloak. She is standing here
+staring in to the deep blue eyes of the gentleman she is with.
+The gentleman is tall, strong, dark and handsome. His long black hair flows
+down on to his broad shoulders. He is wearing some very fine clothes and
+around his neck he is wearing an ermine lined dark cloak.
+These two people are obviously very much in love and are an inspiration to us
+all.
+~
+E
+inscription frame~
+This painting is dedicated to two very special people and the love they have
+for each other.
+~
+S
+#4374
+Lover's Leap~
+As you enter this room you notice the words on the wall saying that this room
+is dedicated to those lovers who feel that death is the only way for their love
+to survive.
+
+You feel yourself sliding to the northern end of the room. Unfortunately there
+is no wall here and you fall out of the castle plummeting down to your death
+on the rocks at the side of the moat below.
+~
+43 14 0 0 0 0 255 0
+D2
+~
+~
+0 0 4372
+S
+#4375
+Room of Endless Music.~
+   A gorgeous lullaby drifts elegantly in the air here, causing you to
+instantly relax and become calm.  So beautiful are the cascading arrangements
+of notes that you decide here would be a lovely place to sit and rest...  Yes,
+have a seat and stay to listen... Listen forever.
+~
+43 140 0 0 0 0 255 0
+S
+#4376
+The Glowing Passageway.~
+The walls of this room appear to be glowing, giving it light but also a cold
+feeling.
+~
+43 8 0 0 0 0 255 0
+D0
+The passageway continues.
+~
+~
+0 -1 4377
+D4
+You see a small room.
+~
+~
+0 -1 4345
+S
+#4377
+A Glowing Passageway.~
+The walls of this room appear to be glowing, giving it light but also a cold
+feeling.
+~
+43 8 0 0 0 0 255 0
+D0
+The passageway continues.
+~
+~
+0 -1 4378
+D1
+The passageway continues.
+~
+~
+0 -1 4378
+D2
+The passageway continues.
+~
+~
+0 -1 4376
+D3
+The passageway continues.
+~
+~
+0 -1 4377
+S
+#4378
+A Glowing Passageway.~
+The walls of this room appear to be glowing, giving it light but also a cold
+feeling. To the west you notice the smells of sulphur and death.
+~
+43 8 0 0 0 0 255 0
+D0
+The passageway continues.
+~
+~
+0 -1 4378
+D1
+The passageway continues.
+~
+~
+0 -1 4377
+D2
+The passageway continues.
+~
+~
+0 -1 4379
+D3
+You see the Mages laboratory here. This is where the King's Mage practices his spells,
+all sorts of horrors lie here. There is dry blood still visible beneath the
+door and the sounds from the room are deathly.
+~
+~
+0 -1 4380
+S
+#4379
+A Glowing Passageway.~
+The walls of this room appear to be glowing, giving it light but also a cold
+feeling. You see a beautiful cave to the east. There is an old man in there
+who appears to be warning you about something although you cannot hear what he
+is saying.
+~
+43 8 0 0 0 0 255 0
+D0
+The passageway continues.
+~
+~
+0 -1 4377
+D1
+You see a beautiful decorated cave, where an old man is resting. The old man
+appears to be a great wizard and yet he seems as though he is unable to leave
+the cave, thus making it his own personal prison.
+~
+~
+0 -1 4382
+D2
+The passageway continues.
+~
+~
+0 -1 4378
+D3
+The passageway continues.
+~
+~
+0 -1 4381
+S
+#4380
+The Mage's Laboratory.~
+This room is filled with cobwebs and you deduce that it has not been used for
+some time.
+
+Unfortunately as you walk in to the room you catch the cobwebs and break them,
+this causes a minor chain of events which eventually leads to a shelf falling
+off the wall.
+
+The shelf contained a number of bottles, these broke as they hit the ground
+causing mysterious gases to be released. You can feel your armour melting
+away, but you are unable to move as the gas that is filling your lungs is
+making you feel faint. Eventually you are left standing naked and the room
+itself now appears to be melting away from your vision, like a sweet dream in
+the first light of dawn.
+~
+43 14 0 0 0 0 255 0
+D1
+~
+~
+0 0 4381
+S
+#4381
+A Glowing Passageway.~
+The walls of this room appear to be glowing, giving it light but also a cold
+feeling.  To the west you notice the smells of sulphur and death as well as a
+trickle of vapor that curls out and up from the edge of the half-open door.  
+As you look lower you see a what appears to be a foot protruding slightly thru
+the door as though the vapors from within had fatal effects on anyone entering.
+  
+~
+43 8 0 0 0 0 255 0
+D0
+The passageway continues.
+~
+~
+0 -1 4381
+D1
+The passageway continues.
+~
+~
+0 -1 4383
+D2
+The passageway continues.
+~
+~
+0 -1 4378
+D3
+You see the Mage's laboratory here. This is where the King's Mage practices his spells,
+all sorts of horrors lie here. There is dry blood still visible beneath the
+door and the sounds from the room are deathly.
+~
+~
+0 -1 4380
+S
+#4382
+A beautiful cave.~
+This was the room the Mage designed for him and Dawn to live in, but as he
+entered the room she used the powerful magic he taught to her to trap him in
+it. The old man you see here is the King's Mage himself.
+There is a large tapestry, with words written around the border, on the wall.
+~
+43 140 0 0 0 0 255 0
+D3
+~
+~
+0 0 4379
+E
+mage~
+A tall and wise man stands before you. He knew his own fate and is resigned to
+it. He rests here until his lover decides to release him for it is only she who
+has the power to do this.
+~
+E
+tapestry~
+You see a scene of a beautiful summer picnic set in a quiet forest glade.
+On the right you notice Lily, Strix, Silent, Karma, Ariana, Alanon and Puck,
+who is standing with her husband, Underdog. As you move around you see a group
+of slightly more important people, among them are Plague, War, Murphoon,
+Dracor and to one side you see Slash and Tamara, pleasantly enjoying each
+other's company. Standing beside them is Nomad, Kwint, Azrharn, Hand and
+Bach, who is holding Lunitari very gently in his arms. To the far left you see
+Ares, with his pet Fang, talking with Ratboy, Tyv, Tem, Grim, Great, Rodric,
+Johann, Laern, Isil, Vortahn, Sera, Kik, and Wynheim. At the centre of the 
+scene captivating the other group is Crysania, with her you see Chaser, Lux, 
+Fyord, Nikki, Halon with Macey, Katt with Tor, Clint, Ariel, and Cinderella.
+~
+E
+word words border~
+This is my parting gift to a few of my friends who I have been glad to know
+over my 9 months of playing this MUD.
+~
+S
+#4383
+A Glowing Passageway.~
+The walls of this room appear to be glowing, giving it light but also a cold
+feeling. You see a beautiful cave to the east. There is an old man in there
+who appears to be warning you about something although you cannot hear what he
+is saying.
+~
+43 8 0 0 0 0 255 0
+D0
+The passageway continues.
+~
+~
+0 -1 4379
+D1
+You see a beautiful decorated cave, where an old man is resting. The old man
+appears to be a great wizard and yet he seems as though he is unable to leave
+the cave, thus making it his own personal prison.
+~
+~
+0 -1 4382
+D2
+The passageway continues.
+~
+~
+0 -1 4384
+D3
+The passageway continues.
+~
+~
+0 -1 4378
+S
+#4384
+A Glowing Passageway.~
+The walls of this room appear to be glowing, giving it light but also a cold
+feeling.
+~
+43 8 0 0 0 0 255 0
+D0
+The passageway continues.
+~
+~
+0 -1 4385
+D1
+The passageway continues.
+~
+~
+0 -1 4379
+D2
+The passageway continues.
+~
+~
+0 -1 4378
+D3
+The passageway continues.
+~
+~
+0 -1 4381
+S
+#4385
+End of the passageway.~
+You are standing at the end of the corridor. There is a strong magical
+presence to your north.
+~
+43 520 0 0 0 0 255 0
+D0
+You see a bright room.
+~
+~
+0 -1 4386
+D2
+The passageway continues.
+~
+~
+0 -1 4384
+S
+#4386
+Entrance to Lady Dawn's private chamber.~
+You are standing beneath a large arch. The Arch is made from white marble and
+is impregnated with crystals that light the room with every color imaginable.
+~
+43 8 0 0 0 0 255 0
+D0
+You see Dawn's private chamber.
+~
+~
+0 -1 4387
+D2
+You see the passageway.
+~
+~
+0 -1 4385
+S
+#4387
+Lady Dawn's Private chamber.~
+You are standing in one of the most beautiful rooms you have ever seen. The
+rooms is lit magically by different colored balls of light. The whole room
+has a warm feeling about it, but a great sadness and loneliness appear to
+linger here.
+~
+43 520 0 0 0 0 255 0
+D2
+You see the exit from this room.
+~
+~
+0 -1 4386
+S
+#4388
+Chapel~
+You stand in a small room. At the south end of the room you see a large window
+with an altar beneath it.
+~
+43 8 0 0 0 0 255 0
+D0
+You see a corridor.
+~
+~
+0 -1 4322
+E
+window~
+You see a large stained glass window. The sunlight coming in through the
+window causes the room to be lit by many different colors.
+~
+E
+altar~
+This is a small altar. On it there is a large gold cross and a sword.
+~
+E
+sword three~
+This is an exact replica of the Three of Swords.
+~
+S
+#4389
+A road.~
+The road leads to the west and turns into Main Street to the
+east.  Off in the distance, to the southwest, you can see a large 
+castle.  The road turns to the south just ahead.
+~
+43 4 0 0 0 0 255 0
+D1
+~
+~
+0 0 1343
+D3
+~
+~
+0 0 4390
+S
+#4390
+A bend in the road.~
+The road turns to the south here.  A huge castle climbs into the
+sky to the south.  To the east you can make out a few figures 
+wandering about, taking care of their everyday chores.
+~
+43 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 4389
+D2
+~
+~
+0 0 4300
+S
+$~

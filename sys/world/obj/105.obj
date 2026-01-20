@@ -1,0 +1,472 @@
+#10500
+info superchute book~
+an info book for the superchute~
+An info book for the superchute has been left here by some god.
+~
+~
+12 268435468 32768 0 0 1 0 0 0
+0 0 0 0
+300 0 0
+E
+info superchute book~
+At the time of creation, all 100 rooms were used(0-99) for this zone.
+Everything loads into room 01.  Room 01 has doors in every direction.
+Currently only 02,03 and part of 04 rooms are used for distribution.
+The rest of 04, all of 05, 06, and 07 can be used later by simply 
+editing the zon file to not close the doors from room 01 to those rooms.
+The unused portions are ready to be used anytime for any sort of mob
+distribution.  The Zon file closes the doors to the unused parts of
+the chute.
+
+Once a mob wanders out of the 02-07 rooms, any NSWE takes it to a zone.
+Up, down connects all the rooms of the lowest teir.
+
+5 mobs load every 5 ticks, each with a potion.  only 50 mobs are
+allowed, but 100 potions are allowed, so that potions will still load
+on mobs even if a few players have a few potions on themselves.
+~
+B
+0 0 0 0
+#10501
+ravinza bottle~
+a ravinza bottle~
+A strange bottle hovers just above the ground here, pulsating.~
+~
+10 67174407 0 0 0 1 0 0 0
+40 28 42 0
+1 35412 3541
+E
+ravinza~
+This powerful potion puslates with magic.  It floats just above whatever it
+appeares to be resting on.    
+~
+B
+0 0 0 0
+#10502
+quick bread~
+some quick bread~
+Some bread sits here.~
+~
+19 65544 0 0 0 1 0 0 0
+12 30 87 0
+1 5000 36
+E
+quest token point~
+Turn this in to your nearest imm to receive 10 qp's.
+Grats!
+~
+B
+0 0 0 0
+#10503
+torch~
+the torch~
+The torch is here~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 -1 0
+1 1 1000
+B
+0 0 0 0
+#10510
+alpha~
+alpha~
+Alpha~
+~
+11 0 64 0 0 3 0 0 0
+0 0 0 0
+0 0 0
+E
+new_item~
+10513
+~
+E
+insert_item~
+10512
+~
+E
+insert_to_char~
+A blinding flash occurs as your mortal hands join alpha into gamma!
+~
+E
+insert_to_room~
+Alpha and beta join in a blinding flash!
+~
+E
+insert_fail_char~
+You moron, they don't fit together.
+~
+E
+insert_fail_room~
+Some dumbass can't put two and two together.
+~
+B
+0 0 0 0
+#10511
+beta~
+beta~
+Beta~
+~
+0 0 64 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#10512
+gamma~
+gamma~
+Gamma~
+~
+0 0 128 0 0 3 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#10513
+alpharesult~
+alpharesult~
+Alpharesult~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#10514
+betaresult~
+betaresult~
+Betaresult~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#10543
+snowball~
+a snowball~
+A snowball~
+snowball
+~
+4 0 0 0 0 16385 0 0 0
+50 10 10 87
+0 0 0
+B
+0 0 0 0
+#10550
+contract marlash head~
+a contract on Marlash's head~
+A blood red document lies here.~
+~
+2 64 128 0 0 1 0 0 0
+1 0 1 0
+1 1000 100
+E
+portal~
+Through the shifting colours and flashing lights you think you see something.
+~
+B
+0 0 0 0
+#10551
+clue2 rusty dagger~
+a rusty dagger~
+A rusty dagger lies here.  Is this a clue?~
+~
+5 4 64 0 0 1 0 0 0
+0 1 1 0
+100 0 1302
+E
+insert_fail_room~
+Someone looks quite confused.
+~
+E
+insert_fail_char~
+These two things just don't make any sense.
+~
+E
+insert_to_room~
+Someone has successfully joined two clues.  Maybe they have the third?
+~
+E
+insert_to_char~
+You successfully combine two clues.  Now you just need the third clue.
+~
+E
+insert_item~
+10550
+~
+E
+new_item~
+10553
+~
+A
+3 -5
+A
+4 -5
+B
+0 0 0 0
+#10552
+clue3 gag~
+a dirty, used gag~
+A used gag lies here.  Is this a clue?~
+~
+0 0 64 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+E
+insert_fail_char~
+You just can't figure out why 2+2 makes 4.
+~
+E
+insert_fail_room~
+Someone's an idiot.
+~
+E
+insert_to_room~
+Someone figured out that the bad guys came from a vast underground city!
+~
+E
+insert_to_char~
+You've put all the clues together!
+The kidnappers must of came from the Under Dark!
+~
+E
+insert_item~
+10553
+~
+E
+new_item~
+10554
+~
+B
+0 0 0 0
+#10553
+clue4 pieces~
+two clue pieces~
+Two clue pieces lie here!~
+~
+0 0 128 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#10554
+clue5 solution~
+the solution~
+The solution to the mystery lies here!~
+~
+0 33554432 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+E
+solution mystery clue~
+Where in Under Dark could they possibly be hiding these two beautiful women?
+~
+B
+0 0 0 0
+#10555
+slaver's key~
+a slaver's key~
+A slaver's key lies here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+220 0 0
+B
+0 0 0 0
+#10588
+therock rock~
+the rock~
+The rock lies here.  Amazing!~
+~
+4 0 0 0 0 16384 0 0 0
+50 4 4 77
+1700 1000000 3360
+E
+your corpse~
+Its uncanny how familiar this body looks.  You swear your looking in a mirror.
+This has to be you, but what could this possibly mean?
+~
+A
+19 4
+A
+19 4
+A
+19 4
+A
+19 4
+A
+19 4
+A
+19 4
+B
+0 0 0 0
+#10590
+golden whisker~
+JUNK ME immediately~
+This whisker should be destroyed~
+~
+8 67108868 0 0 0 540672 0 0 0
+0 0 0 0
+2000 1 30
+E
+golden whisker~
+The whisker of a great cat has turned to gold.  It must be very valuable.
+Turn it into Enki and you will be rewarded.
+~
+A
+2 1
+B
+0 0 0 0
+D1
+#10591
+heap whiskers~
+a heap of &21&10w&00h&21&10i&00s&21&10k&00e&21&10r&00s~
+A &21&10heap of whiskers&00 floats here.~
+~
+8 67108864 0 0 0 1 0 0 0
+0 0 0 0
+1 1 0
+E
+heap whiskers~
+This heap is a collection of 25 &21&10golden whiskers&00.  It is worth the same
+as 25 individual whiskers.
+~
+B
+0 0 0 0
+#10592
+bundle whiskers~
+JUNK this item now. ~
+This whisker should be destroyed.~
+~
+8 67108868 0 0 0 0 0 0 0
+0 0 0 0
+2000 1 0
+E
+bundle whiskers~
+This &21&10bundle of whiskers&00 is a collection of 5 &21&10golden whiskers&00.  It has the same
+value as 5 individual whiskers.  It exists as a convenient way to store 5
+whiskers.
+~
+B
+0 0 0 0
+#10593
+formal thankyou you letter~
+a formal thank you~
+A formal thank you lies here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+E
+formal thankyou you letter~
+I just wanted to say THANKS for the birthday card.  Sending it a couple weeks
+early demonstrates eagerness and your typical gleeful approach to fun stuff.  
+
+
+
+Hugs,
+Enki
+~
+B
+0 0 0 0
+#10594
+platinum whiskers flea~
+&21&14Platinum Whiskers&00~
+Flea left his &21&14Platinum Whiskers&00 here.  He'll like them back.~
+~
+12 108457992 33554464 0 0 524289 0 0 0
+0 0 0 0
+1 1000 1
+E
+platinum whisker flea~
+These are Flea's Platinum Whiskers.  He earned them for winning the Whisker
+Quest of June 2014.  No other character besides Flea may wear them.  They will
+last until the end of December 31st, 2014.
+~
+A
+19 4
+A
+18 4
+A
+31 10
+A
+17 -10
+A
+33 49
+B
+32 0 0 0
+D100000
+#10595
+bow horizon~
+the Bow of the Horizons~
+An unimaginable bow streaches from horizon to horizon here.~
+~
+6 0 0 0 0 16385 0 0 0
+1 4 1 0
+1200 1000000 0
+A
+33 51
+A
+27 -40
+A
+30 30
+B
+0 0 0 0
+#10596
+eraser~
+an eraser~
+An eraser is here.  Destroy it!~
+~
+2 0 0 0 0 0 0 0 0
+50 26 101 108
+0 0 0
+B
+0 0 0 0
+#10597
+crown~
+the lilth &03golden crown&00 of an elven princess~
+A &03lilth golden crown&00 has been left here.~
+~
+2 0 0 0 0 17 0 0 0
+44 64 57 56
+1 1 0
+B
+0 0 0 0
+#10598
+divine intervention~
+a scroll of divine intervention~
+A scroll of divine intervention is here.~
+~
+2 4 0 0 0 1 0 0 0
+50 36 77 69
+1 1 0
+E
+scroll divine intervention~
+If you're not working for a god right now, junk this or be subject
+to being purged.
+~
+B
+0 0 0 0
+#10599
+soapbox~
+a huge jewel encrusted soap box~
+A glittering jewel encrusted soap box glows malevolently here.~
+~
+15 0 0 0 0 16387 0 0 0
+50 1 1235 0
+1 1 3950
+A
+1 5
+A
+2 5
+A
+3 5
+A
+4 5
+A
+5 5
+A
+1 5
+B
+512 0 0 0
+$~

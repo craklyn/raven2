@@ -1,0 +1,10 @@
+b cast 'blindness' $*
+f clan $*
+sh cast 'shield' $*
+col cast 'color spray' $*
+str cast 'strength' $*
+g gt $*
+sum cast 'summon' $*
+aw cast 'awaken'
+fb cast 'flame blade' $*
+id cast 'identify' $*

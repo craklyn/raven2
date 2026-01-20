@@ -1,0 +1,25 @@
+bles cast 'bless' $*
+cda cast 'detect alignment' $*
+h cast 'heal' $*
+zg cast 'word of recall' group
+z cast 'word of recall' $*
+clan clan &00&03>>&00&13$*&00 &03<<&00
+cr cast 'regenerate' $*
+ci cast 'infravision'
+earth cast 'earthquake'
+crc cast 'remove curse' $*
+cf cast 'fly' $*
+gt gtell &03>>&00&13$*&00 &03<<&00
+bli cast 'blindness' $*
+csl cast 'sense life' $*
+crp cast 'remove poison' $*
+ca cast 'armor' $*
+cdi cast 'detect invisibility' $*
+ccb cast 'cure blind' $*
+ccf cast 'create food' $*
+ward cast 'ward' $*
+t sting $*
+heal cast 'heal' $*
+sum cast 'summon' $*
+harm cast 'harm' $*
+cb cast 'bless'

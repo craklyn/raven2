@@ -1,0 +1,24 @@
+sanc c 'sanc' $*
+1 c 'word' group
+cb c 'cure blind' $*
+rp c 'remove poison' $*
+sec c 'assistant'
+gt gt &09$* &00
+fort c 'fortify' $*
+heal c 'heal' $*
+fly c 'fly' $*
+regen c 'regenerate' $*
+sense c 'sense life'
+di c 'detect invisibility' $*
+arm c 'armor' $*
+word c 'word of recall' $*
+ward c 'ward' $*
+bl c 'blindness' $*
+sum c 'summon' $*
+infra c 'infravision' 
+food c 'create food'
+sag c 'sagacity' $*
+relo c 'relocate' $*
+rev c 'revive' $*
+cl c 'cleanse' $*
+h c 'revive' tenx

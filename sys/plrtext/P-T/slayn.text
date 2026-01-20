@@ -1,0 +1,42 @@
+ts c 'true sight' $*
+9 c 'enchant' thrower
+air c 'air' $*
+1 c 'summon' $*
+feeb c 'feeble' $*
+blink c 'blink'
+youth c 'fountain'
+fb c 'flame blade' $*
+ms c 'monster summon'
+port c 'portal' $*
+lb c 'lightning bolt' $*
+shield c 'shield' $*
+mm c 'magic missile' $*
+summon c 'summon' $*
+/ rec rec scroll
+di c 'detect invis' $*
+ice c 'ice storm'
+shriek c 'shriek' $*
+charm c 'charm' $*
+fire c 'fireball' $*
+gt gt &08{&14-&08}&14$* &08{&14-&08}&00
+clan clan &08{&14-&08}&14$* &08{&14-&08}&00
+' say &08<&14-&08>&14$*&08 <&14-&08>&00
+fly c 'fly' $*
+o order follower $*
+infra c 'infra' $*
+invis c 'invis' $*
+cs c 'color spray' $*
+id c 'identify' $*
+locate c 'locate' $*
+b c 'blind' $*
+nexus c 'nexus' $*
+drain c 'life drain' $*
+gate c 'gate'
+wrath c 'wrath'
+doom c 'doom bolt' $*
+ce c 'conjure elemental'
+str c 'strength' $*
+web c 'web' $*
+99 c 'wrath'
+meteor c 'meteor swarm'
+haste c 'haste' $*

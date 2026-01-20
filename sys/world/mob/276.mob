@@ -1,0 +1,273 @@
+#27600
+T W 0~
+king unger troll 27600~
+King Unger of the trolls~
+The troll king Unger the great is sitting here.
+~
+   King Unger only recently has taken the crown as king of the trolls after the
+untimely death of the last king who was found dead under Unger's large axe.  
+
+~
+24618 0 0 0 4195464 0 0 0 -500
+45 0 -3 100d10+4500 20d5+10
+65 75
+9 9 1 0 -1 -1
+#27601
+T W 0~
+troll soldier 27601~
+the troll soldier~
+A soldier of the troll army is standing here.
+~
+   The troll looks to be rather young for a troll going to war.  He doesn't
+seem all that thrilled about it so is taking his time going up the mountain.  
+
+~
+24586 0 0 0 197632 0 0 0 -500
+34 10 1 10d100+1300 10d6+10
+50 60
+9 9 1 0 -1 -1
+#27602
+T W 0~
+troll warrior 27602~
+the troll warrior~
+A tough looking troll is glaring at you.
+~
+   Older and larger than the trolls were on the trail before this troll still
+doesn't seem to thrilled to be here other than getting a chance to kill
+something.    
+~
+1073162 0 0 0 197632 0 0 0 -500
+34 9 -2 2d1000+900 10d6+10
+50 60
+9 9 1 0 -1 -1
+#27603
+T W 0~
+veteran troll 27603~
+the veteran troll~
+A troll army veteran is standing here.
+~
+   On the field of battle since they could swing a club the veteran doesn't
+know anything but war and death.    
+~
+1073162 0 0 0 197632 0 0 0 -700
+35 10 1 3d1000+1000 10d8+10
+50 60
+9 9 1 0 -1 -1
+#27604
+H W 0~
+foot soldier 27604~
+a foot soldier~
+A human foot soldier is standing here.
+~
+Young and scrawny this soldier looks like he just came from the fields.
+~
+1073162 0 0 0 65536 0 0 0 100
+24 10 1 10d120+1100 10d7+6
+40 40
+9 9 1 0 -1 -1
+#27605
+H R 0~
+human scout 27605~
+a human scout~
+A scout for the human army is here.
+~
+Lean with a few years of fighting and with little armor he vanishes
+back into the mountain.
+~
+1073162 0 0 0 853024 0 0 0 250
+30 10 1 2d2000+800 10d8+10
+50 60
+9 9 1 0 -1 -1
+#27606
+H K 0~
+human knight 27606~
+a human knight~
+A human knight is standing here preparing for battle.
+~
+   Trained in the arts of chivalry and honor the knights look upon the race
+wars as a chance to show the lesser races what honor and dying for honor is all
+about.    
+~
+1073162 0 0 0 201736 0 0 0 500
+40 9 -2 3d800+900 10d8+10
+65 75
+9 9 1 0 -1 -1
+#27607
+H K 0~
+king heldane 27607~
+King Heldane IV~
+King Heldane IV is sitting here.
+~
+   King Heldane is carrying on the cause that his grandfather King Heldane the
+II started.  He isn't a very large for a human and his large nose looks rather
+funny on his small head.    
+~
+1073162 0 0 0 541230120 0 0 0 600
+45 6 -5 1d1000+4000 10d10+10
+65 75
+7 9 1 0 -1 -1
+#27608
+B W 0~
+gnome faithful 27608~
+the gnome faithful~
+A faithful follower of the gnome movement is standing here.
+~
+Short like every gnome but with a bald head and wearing non metal armor this
+gnome actually looks tough.    
+~
+1064970 0 0 0 66560 0 0 0 30
+32 12 -1 1d1000+1000 10d6+10
+50 60
+9 9 1 0 -1 -1
+#27609
+B C 0~
+gnome elder 27609~
+gnome warrior elder~
+An elder of the gnomish warrior forces is standing here.
+~
+Even as an elder that isn't saying much for a gnome. He just happened to live
+through more explosions than others and hasn't been in a fight yet.
+~
+1073162 0 0 0 4260906 0 0 0 300
+45 -25 -1 5d30+100 10d10+10
+65 75
+9 9 2 0 -1 -1
+#27610
+B M 0~
+gnome spy 27610~
+a gnomish spy~
+A spy for the gnome army is hiding here.
+~
+Well for once the small size of the gnome comes in handy here. The gnome doesn't
+seem to eager to fight anyone but still is very curious.
+~
+1073160 0 0 0 1078789178 0 0 0 100
+35 12 -2 2d800+1000 10d5+10
+50 60
+9 9 2 4 4 -1
+#27611
+B M 0~
+king gnomilies 27611~
+King Gnomilies the great~
+Grand king Gnomilies the great is sitting here.
+~
+Descended from a long line of kings who came from nowhere to
+become king of the gnomes they take the name Gnomilies in honor
+of the first gnome king. Although they forgot his name Gnomilies
+seemed good considering he was a gnome and was the king.
+~
+1138698 0 0 0 197768 0 0 0 400
+40 4 -5 4d1000+3000 10d7+10
+65 75
+9 9 1 0 -1 -1
+#27612
+O W 0~
+ogre soldier 27612~
+an ogre soldier~
+A young ogre is looking around for food here.
+~
+While looking rather young he is still nice sized for an ogre.
+~
+1073162 0 0 0 65536 0 0 0 -200
+26 9 1 3d800+1000 9d7+10
+40 40
+9 9 1 0 -1 -1
+#27613
+O W 0~
+ogre veteran 27613~
+a veteran ogre~
+A large irritated ogre is swinging a tree limb wildly.
+~
+Large with numerous cuts and bruises all over his body the ogre uses
+bits and pieces of metal and leather for his armor.
+~
+1073162 0 0 0 41984 0 0 0 -400
+34 9 -1 2d1000+1500 9d8+5
+50 60
+9 9 1 5 -1 -1
+#27614
+O D 0~
+27614 bigtooth tooth chief ogre~
+Chief Bigtooth~
+Chief Bigtooth of the ogre clans is standing here.
+~
+   Ogres never really have kings to begin and wouldn't know the difference
+between a chief and a king to begin with.  Chief Bigtooth got his name from the
+large tooth that has split his upper lip and that he uses to bite the heads of
+gnomes and dwarves that they torture.    
+~
+1073194 0 0 0 230560 0 0 0 -700
+45 4 1 3d1000+3000 10d10+10
+65 75
+9 9 1 20 -1 -1
+#27615
+W W 0~
+dwarf soldier 27615~
+a dwarven soldier~
+A dwarven soldier is marching to the top of the mountain.
+~
+Amazingly enough most of the dwarves seem to be of middle years
+with a decent amount of fighting in them. King Akabron has his soldiers
+swap out on a regular basis with his dwarves in the mines to keep the men
+fresh.
+~
+1073162 0 0 0 4293632 0 0 0 0
+24 12 -1 3d600+1000 10d6+10
+40 40
+9 9 1 0 -1 -1
+#27616
+W W 0~
+dwarf engineer 27616~
+the dwarven engineer~
+A dwarven engineer is preparing for battle.
+~
+The dwarves brought in engineers to help keep the trail clean
+and the troops flowing at an even pace to avoid the same problems
+that the other races have run into.
+~
+1073162 0 0 0 66568 0 0 0 0
+34 11 -4 3d1000+1200 10d6+10
+50 60
+9 9 2 0 -1 -1
+#27617
+W W 0~
+dwarf elite fighter 27617~
+an elite dwarven fighter~
+An elite dwarven fighter is crouching here.
+~
+Trained in ways that most dwarves never think of the elite fighter
+usually can sneak onto the field of battle and take the enemy by
+surprise.
+~
+1073182 0 0 0 65536 0 0 0 -200
+35 9 1 3d1000+1000 10d7+10
+50 60
+9 9 1 0 -1 -1
+#27618
+W R 0~
+king akabron 27618~
+King Akabron~
+The dwarven king Akabron is standing here.
+~
+King Akabron and the dwarves seem to have a different reason for trying to
+win the quest. They don't want it for themselves they just can't stand the idea
+of any other race winning.
+~
+1073178 0 0 0 4424864 0 0 0 20
+45 4 -1 4d1000+4000 10d9+10
+65 75
+9 9 1 0 -1 -1
+#27619
+H S 0~
+guardian angel 27619~
+a guardian angel~
+A small female glowing with a holy aura and small wings is here.
+~
+Chosen by the fallen angel to guard the shrine to her the angel keeps
+anyone not true of heart away.
+~
+16490 0 0 0 536871982 0 0 0 1000
+40 0 -2 100d10+3500 10d10+30
+65 75
+9 9 2 0 -1 -1
+$

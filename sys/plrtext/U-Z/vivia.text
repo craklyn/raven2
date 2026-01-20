@@ -1,0 +1,17 @@
+infra cast 'infra' self
+fly cast 'fly' self
+armor cast 'armor' self
+q q poir
+ward cast 'ward' self
+h cast 'heal' self
+cc cast 'cure critic'
+li cast 'call lightning'
+cp brew cure_critic cup
+di cast 'detect invisibility'
+sl cast 'sense life'
+g get all all.corpse
+dr cast 'create food';eat way;dr flagon
+mal cast 'mal'
+ge get all all.vivia; wear all;wield mand;hold ca
+r rec mid
+dg cast 'dispel good'

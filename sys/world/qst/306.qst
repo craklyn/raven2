@@ -1,0 +1,189 @@
+#30601
+Fetch a bottle of Ian's best.~
+I am meeting a friend for a lunch picnic
+but I have forgot to bring a drink!  Ohh
+what I wouldn't do for a bottle of Ian's
+best.  You do know where Ian and Ian's
+brewery is, don't you?
+~
+Bring me a bottle of Ian's best for me to drink on my picnic.
+~
+15 25 8388608 20 25 15
+G 30699
+O OBJ 11107
+R GOLD 20000
+~
+R QP 1
+Estani embraces you and giggles, 'my hero!  Take this quest point and gold!
+~
+#30602
+Bring and end to the bouncing braless female student.~
+Humans are so silly.  A female student is running
+around the midgaard university without a bra.  Stop
+her, using any means necessary.
+~
+Stop the bouncing.  A female student is romping around the university with no bra on!
+~
+15 20 8388608 15 20 10
+G 30699
+O MOB 22729
+R QP 1
+Estani blushse as she asks, 'It wasn't too obscene was it?'
+Estani nods.
+Estani says, 'Here is a quest point.  Thank you.'
+~
+#30603
+Fetch the Garamon sword from the store.~
+My brother likes to play elves and orcs with his friends, but he needs a 
+better sword.  Could you bring me the best sword from the kingdom
+of Garamond?
+~
+Bring me the best sword from the land of King Garamond.
+~
+15 22 8388608 20 25 10
+G 30699
+O OBJ 1916
+R QP 1
+Estani takes the sword tentatively and thanks you.
+You just earned one quest point!
+~
+#30604
+Kill a ferret and parrot in the Hamlet of Dusk.~
+The cooky old hag in the marsh asked me if 
+I've ever eaten ferret or parrot.  Good gracious
+I haven't!  But she does.  She lives on them.
+Kill one of each and bring me proof and I'll
+reward you.  Try checking  north of the gypsie
+fair in the Hamlet of Dusk.
+~
+&18Estani tells you, 'kill a ferret and a parrot and bring me proof.'&00
+&18Estani tells you, 'Try north of the gypsie fair.'&00
+~
+15 25 8388608 20 30 10
+G 30699
+O MOB 9812
+O MOB 9800
+R QP 1
+Estani says, 'Ohh thank you!  I can't imagine eating a ferret!'
+Estani kisses you on the cheek and giggles.
+You've earned one quest point!
+~
+#30605
+Kill Queen Dalphreal and return the tiny pearl.~
+Queen Dalphreal stole my tiny pearl.  She keeps
+it with her up in the air.  Can you
+bring it back to me?  I'll love you for ever
+and ever and ever and ever!  Make sure she does
+not try to steal it again.
+~
+&18Estani tells you, 'Be my vengence!  Queen dalphreal and my tiny pearl!'&00
+~
+15 25 8388608 20 30 10
+G 30699
+O MOB 1416
+O OBJ 1406
+R QP 1
+Estani cradles the pearl in her hands and beams you a smile.
+You have earned a quest point!
+~
+#30606
+Kill a gremlin from the orchard.~
+&08Gremlins&00!  Kill one and bring me its head.
+~
+&18Estani tells you, '&08Gremlins&00&18!  Kill one and bring me its head.&00'
+~
+15 25 8388608 15 20 10
+G 30699
+O MOB 17405
+R QP 1
+Estani thanks you and throws the gremlin's head into her bag.
+You have earned a quest point!
+~
+#30607
+Kill King Trent and return his Robes of Valor~
+Have you ever seen the Robes of Valar?  They are
+marvelous!  I deserve them!  Bring them to me after
+you slay their rightful owner, King Trent.
+He should be somewhere in Xanth.
+~
+Slay King Trent and bring Estani his Robes of Valar.
+~
+21 30 8388608 25 35 17
+G 30699
+O OBJ 8306
+O MOB 8306
+R QP 2
+Estani tries on the Robes of Valar; They fit perfectly!
+You have earned two quest points.
+~
+#30608
+Kill the farmer and fetch his pitchfork.~
+Go to the farm, west of Midgaard, and find the farmer.
+Bring me his pitchfork and make sure he doesn't follow
+you back.
+~
+&18Estani tells you, 'Bring me the farmer's pitchfork and kill him.'&00
+~
+12 20 8388608 15 20 10
+G 30699
+O MOB 17200
+O OBJ 17200
+R QP 1
+Estani thanks you for your work.
+You have earned a quest point!
+~
+#30609
+Slay two Piranha in Garamond.~
+A friend of mine was hurt trying to get the sword from Garamond
+when she fell in the moat.  Piranha attacked her and mauled her
+left arm.  Go there, and kill two piranha and bring me the
+severed heads of both and I will reward you.
+~
+Kill 2 piranha in Garamond and bring back their heads.
+~
+15 25 8388608 20 25 12
+G 30699
+P 30603
+O MOB 1911
+O MOB 1911
+R QP 1
+Estani sings, 'Fish heads, fish heads, rolly-polly fish heads
+               Fish heads, fish heads, eat them  up, yum!'
+You have earned another quest point!
+~
+#30610
+Kill the queen and and bring back the queen ant's antenna.~
+Remember my picnic?  Well a hundred ants ruined it!  They
+cralwed all over everything, ruining it all.  Even the bottle
+of Ian's best that you brought me.  I want vengence.  Kill
+the queen ant and bring me the queen ant's antenna.
+~
+~
+15 25 8388608 25 30 20
+G 30699
+P 30601
+O OBJ 10903
+O MOB 10904
+R OBJ 8808
+~
+R QP 1
+Estani beams with joy and says, 'Thank you!  Now maybe I can picnic in peace.'
+You have earned another quest point.
+~
+#30611
+Kill the Baron of Midgaard and bring is signet ring to Estani.~
+The Baron of Midgaard has grown too arrogant for his breeches.
+Remove him from office, by any means necessary and bring me
+his Baronial Signet Ring.
+~
+Kill the Baron of Midgaard and bring is signet ring to Estani.
+~
+15 25 8388608 25 30 17
+G 30699
+O MOB 3143
+O OBJ 3138
+R QP 1
+Estani thanks you for this public service you have completed.
+You have earned a quest point!
+~
+$~

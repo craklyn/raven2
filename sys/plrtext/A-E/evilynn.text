@@ -1,0 +1,32 @@
+t rec mid
+j toss rev
+h cast 'haste' $*
+of order follow $*
+sl cast 'slow' $*
+kk   cast 'ice'
+charm cast 'charm' $1
+inv cast 'invis' $*
+sum cast 'summon' $*
+id cast 'id' $*
+str cast 'str' $*
+b cast 'blind' $1
+ll look in corpse
+dc destroy corpse
+gg get all corpse
+fb cast 'flame b' $*
+stone cast 'stone' $*
+fl cast 'fly' $*
+web cast 'web' $1
+sh cast 'shield' $*
+shr cast 'shriek' $*
+ss cast 'sand' $*
+sil cast 'silen' $*
+' order fol assist
+[ order fol flee
+oo assist kni
+f flee
+7 dri thim
+8 get bread pou;eat bread
+o assist
+port cast 'portal' $1
+loc cast 'locate' $1

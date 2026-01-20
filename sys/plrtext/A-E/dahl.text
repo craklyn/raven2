@@ -1,0 +1,38 @@
+ter cast 'terror' $*
+wa wa;sta
+stock put all chalice;get all.elv chal
+look scan
+sp cast 'color spray' $*
+sh cast 'shocking grasp' $*
+2 destroy corpse
+kick order follower kick $*
+f cast 'fireball' $*
+say say &07$*&00
+port cast 'portal' $*
+o order follower $*
+haste cast 'haste' $*
+charm cast 'charm person' $*
+ts cast 'true sight' $*
+fly cast 'fly' $*
+shi cast 'shield' $*
+go get all all.dahl;wear all;get all all.dahl;wield mastery;hold tusk
+b c 'blindness' $*
+guild n;n;n;e;e;e;e;e;say friend;u;n
+noguild s;d;ent port;w;w;w;w;w;s;s;s
+1 get all cor
+fla cast 'flame blade' $*
+sum cast 'summon' $*
+inv cast 'invisibility' $*
+wh who;clanwho
+gate cast 'gate'
+loc cast 'locate object' $*
+air cast 'airsphere' $*
+id cast 'identify' $*
+fee cast 'feeblemind' $*
+bo cast 'doom bolt' $*
+wra cast 'wrath of the ancients' $*
+r order follower rescue $*
+awa cast 'awaken
+mons cast 'monster summon'
+gt gt &07$*&00
+as ass;order follower ass

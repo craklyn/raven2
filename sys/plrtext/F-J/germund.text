@@ -1,0 +1,8 @@
+sum c 'summon' $*
+em c 'embalm' corpse
+fly c 'fly' $*
+di c 'detect invis' $*
+invis c 'invisibility' $*
+if c 'infra'
+sp c 'soul pierce' $*
+wk wak

@@ -1,0 +1,10 @@
+f kill 15.
+ga get all 
+gs gt &02|&00&03$*&00 &02|&00
+h hands $*
+g get all all.corpse
+r recite rec rec
+dc destroy corpse
+df drink fou
+check look u;look d;look n;look s;look e;look w
+gg get belt corpse;open belt;get all belt;put belt beet

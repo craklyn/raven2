@@ -1,0 +1,1928 @@
+#36500
+Darkness Falls~
+   The narrow path is composed of crumbling flagstones, partially overgrown
+with decayed weeds where it borders the rolling fields to either side.  
+Running southwards, it descends down the gentle side of a small tor, at the
+base of which rests the village of Gilchrist.  To the east, winking lights mark
+Heddick's Bluff, and the manor of the Baron DuChesne.  To the west the ominous
+outline of the Hillside Cemetery unbraces the horizon, its ugly protrusion
+casting a shadow over the valley.  Although the visage is peaceful and quiet,
+it is a little too quiet...  No birds chirp in the gnarled trees, no animals
+scamper through the grass, which is stained an unpleasant brown.  Light from
+sun and moon is obscured by heavy overhanging clouds, tinged with an angry
+purplish shade.  The air is still, and humid, as before a thunderstorm.  The
+pervading aura of gloom would appear to lend credence to the purported curses
+laid upon this place by agents of the dark power known only as the Necromancer.
+  
+~
+365 13 0 0 0 3 255 0
+D0
+~
+~
+0 0 36501
+D2
+~
+~
+0 0 -1
+S
+#36501
+A Quiet Journey~
+   The path continues, wending its way ribbonlike down the slope of the grassy
+hill.  Trees of various types have burst sporadically through the soil to
+either side over the centuries, making the sloping terrain resemble a patchwork
+quilt of green and brown shades.  Twisted, gnarled things, they loom
+menacingly like the foot soldiers of some army of flora.  The cobblestones
+shift underfoot occasionally, evidence of insufficient maintenance.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36502
+D2
+~
+~
+0 0 36500
+S
+#36502
+The Valley Floor~
+   After several hundred yards the path flattens out as it reaches the valley
+floor, which houses Gilchrist, nestled between the surrounding hills,
+ostensibly secure in their protective earthen embrace.  The hills to either
+side bear the other noteworthy landmarks of the valley, and to the north a
+junction marks the point where disparate roads rise to meet these destinations.
+  
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36503
+D2
+~
+~
+0 0 36501
+S
+#36503
+A Meeting of Paths~
+   At this point the valley path is met by another trail, running west towards
+the base of the forbidding hill that houses Hillside cemetery, the cursed
+resting place of the restless dead.  Since the coming of the Witch and her
+curse, none have dared venture any nearer this former site of remembrance and
+respect.  Agents of the Necromancer abound in these lands, it would seem.  The
+trees near here shift slightly, as if troubled by a breeze, though the air
+remains quite still.  A chill tinges the air, enough to warrant an extra cloak,
+and the faint stench of death drifts ever so slightly from the west.    
+~
+365 589 0 0 0 2 255 0
+D1
+~
+~
+0 0 36551
+D2
+~
+~
+0 0 36502
+D3
+~
+~
+0 0 36504
+S
+#36504
+Approaching the Hillside~
+   Precariously perched atop one of the many hills that surround the valley,
+Hillside cemetery could not have been more appropriately named.  The blackened
+metal gates are visible at the end of this long and winding path that winds up
+the side of the hill, towards the entrance to the haunted graveyard.  
+Lightning flashes along the horizon, heralding the approach of a thunderstorm.
+  
+~
+365 9 0 0 0 2 255 0
+D1
+~
+~
+0 0 36503
+D3
+~
+~
+0 0 36505
+S
+#36505
+The Base of the Hill~
+   Hillside cemetery has been in place for so long that the locals have not
+really used the name of the hill upon which it rests for decades.  Known as
+Rannu's Tor, it is the tallest hill in the region, and the effort required to
+carve the path into its side that begins here was extensive.  Rannu was a hero
+born in this region, who rose centuries ago to cast down the dread tyrant
+Xarad-Bar'qh, slaying him and his many minions before perishing himself at the
+hands of the tyrant's concubines.  However, that is ancient history to those of
+Gilchrist, who simply refer to the hill as Hillside, when they rarely broach
+the subject of the cursed graveyard.    
+~
+365 9 0 0 0 2 255 0
+D1
+~
+~
+0 0 36504
+D4
+~
+~
+0 0 36506
+S
+#36506
+The Top of Rannu's Tor~
+   After a long, exhausting ascent, the path levels out and heads west towards
+the gloomy gates of Hillside.  Bleached bones lie scattered to either side,
+ample evidence of evil activities both within and without the cemetery.  Those
+who have been sent here by the Baron or the towns folk to lay the evil presence
+to rest have never returned...    
+~
+365 9 0 0 0 2 255 0
+D3
+~
+~
+0 0 36507
+D5
+~
+~
+0 0 36505
+S
+#36507
+Hillside Cemetery~
+   The blackened metal gates bar the single entrance to this resting place of
+the ancestors of those who live in the valley.  The metal is twisted and
+scarred, as if by red hot hands grasping and rending at them.  The air here is
+putrescent, reeking of rotting flesh and decaying organs.  Numerous body parts
+have been thrust onto the metal spikes that line the ornate game, partially
+obscuring the name- HILLSIDE CEMETARY.    
+~
+365 589 0 0 0 2 255 0
+D1
+~
+~
+0 0 36506
+D3
+~
+gate~
+2 36516 36509
+S
+#36508
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D2
+~
+~
+0 0 36509
+D3
+~
+~
+0 0 36511
+S
+Z 36511
+#36509
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36508
+D1
+~
+gate~
+2 36516 36507
+D2
+~
+~
+0 0 36510
+S
+#36510
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36509
+D3
+~
+~
+0 0 36513
+S
+Z 36513
+#36511
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D1
+~
+~
+0 0 36508
+D2
+~
+~
+0 0 36512
+D3
+~
+~
+0 0 36514
+S
+Z 36503
+#36512
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36511
+D1
+~
+~
+0 0 36509
+D2
+~
+~
+0 0 36513
+D3
+~
+~
+0 0 36515
+S
+#36513
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36512
+D1
+~
+~
+0 0 36510
+D3
+~
+~
+0 0 36516
+S
+#36514
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+The barred door of the chapel lie to the north. A keening wail can be
+heard from behind them.
+~
+365 9 0 0 0 2 255 0
+D0
+~
+door~
+2 36575 36520
+D1
+~
+~
+0 0 36511
+D2
+~
+~
+0 0 36515
+D3
+~
+~
+0 0 36517
+S
+Z 36504
+#36515
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36514
+D1
+~
+~
+0 0 36512
+D2
+~
+~
+0 0 36516
+D3
+~
+~
+0 0 36518
+S
+#36516
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36515
+D1
+~
+~
+0 0 36510
+D3
+~
+~
+0 0 36519
+S
+Z 36503
+#36517
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D1
+~
+~
+0 0 36514
+D2
+~
+~
+0 0 36518
+S
+Z 36513
+#36518
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36517
+D1
+~
+~
+0 0 36515
+D2
+~
+~
+0 0 36519
+S
+#36519
+The Desecrated Graveyard~
+   Twisted, blackened tombstones tear through the tainted soil like the granite
+teeth of some gargantuan subterranean beast, gnashing and grinding at the
+mangled corpses that stagger from beneath them, all abandoning their resting
+places, eager to walk upon the surface once more.  Filled with a dark
+malevolence, they stagger among the gaping graves, eager to drink their fill of
+the blood of innocents.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36518
+D1
+~
+~
+0 0 36516
+S
+Z 36511
+#36520
+The Unholy Sanctuary~
+   The darkened interior of the chapel reeks of death and decay, and is filled
+with an almost overwhelming evil presence that even the most ignorant could not
+help but detect.  Stains cover the walls, of various substances, mostly
+unmentionable.  The shattered windows admit driving rain, a sign that the storm
+you sighted earlier has finally struck.  The floor is slick with water, and
+something else...  Fresh blood?    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36521
+D2
+~
+door~
+2 36575 36514
+S
+#36521
+The Chapel~
+   A foulness fills the air of the chapel, a certain malevolence not easily
+quantifiable.  It is more than the corpses lying amongst the pews, more than
+the bloodstains covering the walls, more than the mutilated bodies hanging from
+the scorched rafters, depositing the occasional piece of burnt flesh.  It is a
+presence, as of some dark force that was defiling soul as well as body and
+mind.  Shattered remnants of various religious objects tell the tale of the
+sorry fate suffered by the worshippers who were caught here when the evil
+arrived, doubtlessly minions of the fell Necromancer.  Without a doubt, the
+rumors of his machinations are proved by what has transpired within this
+chapel.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36524
+D1
+~
+~
+0 0 36523
+D2
+~
+~
+0 0 36520
+D3
+~
+~
+0 0 36522
+S
+#36522
+The Chapel~
+   Dark stains, marking the point where wounded victims attempted to scale the
+walls to clamber out the broken stained glass windows, cover the once-white
+walls, a grim reminder of the unpleasant fate suffered by those whose bodies
+litter the chapel.  A thick stench causes constant discomfort, although it is
+not as bad here as in the central worship area.  Scrawling and scribbling cover
+the walls here scribed in blood by some deranged man.    
+~
+365 589 0 0 0 2 255 0
+D1
+~
+~
+0 0 36521
+E
+sribbling scrawling wall blood~
+
+&08BEWARE THE WITCH!
+THE NECROMANCER COMETH!
+ONLY THE HAND OF THE DEAD CAN OPEN THE CRYPT!&00
+~
+S
+#36523
+The Chapel~
+   The bulk of this wing of the chapel has been filled with bodies, piled high
+for some unfathomable purpose.  Most of them are in various stages of decay,
+and show signs of having been at least partially devoured over the last few
+weeks, as if some beast pauses to nibble every now and again on the protruding
+pieces of flesh.  Faces agape in visages of pure terror, these unfortunates
+have been damned, their souls taken as easily as their bodies.    
+~
+365 9 0 0 0 2 255 0
+D3
+~
+~
+0 0 36521
+S
+#36524
+Diabolic Sanctum~
+   The end of the chapel bears the most sickening sight of all- an altar,
+formerly devoted to law and goodness, now corrupted to serve as a tool in the
+worship of dark powers.  Surely those of an evil persuasion would revel in such
+a flagrant defilement of this icon of benevolence.  Blood covers the altar, as
+well as the walls, and the staked corpses affixed to the wall gaze down at the
+altar in sheer horror; at least as best they can- their eyes have exploded in
+their heads, one of the many fates they suffered as they perished, horribly, at
+this altar.    
+~
+365 9 0 0 0 2 255 0
+D2
+~
+~
+0 0 36521
+S
+Z 36505
+#36525
+The Subterranean Catacombs~
+   A low-ceilinged tunnel lies here, running beneath the chapel, undoubtedly to
+various tombs and storage rooms.  Most churches of this region bear similar
+underground tombs; indeed, many of the saints are interred beneath the altars
+of churches and cathedrals.  Past nobility and others of means would have been
+buried in specially constructed crypts, spaced along the twisting tunnels that
+honeycomb through the hill.  The air here is foul, as would be expected, though
+there is more than the stale stench of such tombs.  Something evil.    
+~
+365 8 0 0 0 2 255 0
+D0
+~
+~
+0 0 36538
+S
+#36526
+The Hidden Crypt~
+   A narrow, dusty crawl space runs behind the false wall, heading into the
+darkness, presumably towards the final resting place of someone of importance.
+Why the tomb has been concealed thus far remains a mystery.  Cobwebs fill the
+shadowed ceiling, of which very little can be seen.  Several pairs of
+footprints in the thick dust covering the floor indicates someone has been here
+recently...    
+~
+365 9 0 0 0 2 255 0
+D1
+~
+~
+0 0 36527
+S
+#36527
+The Hidden Crypt~
+   The passage ends here, at the top of a narrow stair that descends into the
+darkness, out of the range of any light source.  A chill fills the air,
+accompanied by occasional gusts of wind from somewhere far below.  Moans are
+carried on this unnatural breeze, moans of sheer anguish and despair.    
+~
+365 9 0 0 0 2 255 0
+D3
+~
+~
+0 0 36526
+D5
+~
+~
+0 0 36528
+S
+#36528
+The Resting Place of Lord Tarrant~
+   The stairs end some thirty feet down in a cavernous chamber, the walls of
+which are lined with unlit torches thrust into metal sconces, set at regular
+intervals around the perimeter.  In between each sconce hangs a portrait, of
+knights of ages past.  Above each portrait hangs a coat of arms of that
+knight's house, a mark of respect to the knight and to his house.  Piles of
+corroded weapons lie atop moldering clothing below each picture; the remains of
+the knight's battle garb, worn so bravely in life and now left to rot in death.
+Of their bodies, though, there is no sign.  Only a single coffin can be seen in
+the room, placed in the center of the chamber, atop a stone plinth.  It is from
+this coffin that the breeze, and the sounds it carries, appears to emanate...
+  
+~
+365 13 0 0 0 2 255 0
+D4
+~
+~
+0 0 36527
+S
+Z 36520
+Z 36528
+#36529
+The Demonic Chantry~
+   Long stone passages beckon, rife with the evil infestation that has cast
+such a pall over the valley.  Surely one need look no further for ample
+evidence of the Necromancer's black hand reaching out over this region.  His
+minions abound, pursuing their insane, nihilistic plans to thrust the world
+into eternal darkness.  Howls and screams, expected in this fell domain, echo
+down the greasy stone halls.    
+~
+365 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 36531
+D2
+~
+~
+0 0 36546
+D3
+~
+door~
+1 0 36530
+S
+#36530
+A Dark Study~
+   At one stage a quiet research area used by the priests, this chamber has
+been usurped and converted to a not dissimilar function, though the texts now
+researched here would cause the eyes of a priest to explode in their sockets,
+followed closely by their brains.  Dark tomes of ancient origin line a wooden
+shelf set in the west wall; a reddish glow suffuses them, indicating the
+presence of a magical force field, to deter unwanted perusal- as if the very
+fact that reading most of these tomes leads to agonizing death was not enough.
+  
+~
+365 393804 4 0 0 0 255 0
+D1
+~
+door~
+1 0 36529
+S
+#36531
+The Demonic Chantry~
+   In ages past, these narrow passages served as access for the priests to
+bless the resting places of the dead, but now these dead have risen and the
+priests have all been slain.  Evil reigns supreme here, seeming to envelop all
+in an almost-quantifiable grasp.  Cold hands clutch at those who pass, as if
+the disturbed souls of the restless dead seek to exact their vengeance at this
+final insult.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36532
+D1
+~
+~
+0 0 36534
+D2
+~
+~
+0 0 36529
+S
+#36532
+The Demonic Chantry~
+   A gaping pit lies here, beyond a pentagram where unholy ceremonies have
+created a gateway to the inhospitable plane of the hellish ones who rule this
+dark cabal.  It would be sheer folly to pass into such a place, where chaos
+reigns supreme.  Strange noises come from the pit, as of a beast in tremendous
+pain.  Trails of blood run from the dark pentacle into the pit, accompanied by
+a slurping sound, as if this ichor were sustaining something...    
+~
+365 589 4 0 0 0 255 0
+D2
+~
+~
+0 0 36531
+D5
+~
+~
+0 0 36533
+S
+#36533
+The Pit~
+   The soft earthen floor conceals the half-buried remains of a score or more
+of victims of the cabal, hurled down here during the unholy rituals to their
+dark masters.  The air is cold, and damp, and carries the familiar putrescent
+odor common to most of this place.  Something foul lives here, something no
+mortal was meant to ever see...    
+~
+365 589 4 0 0 0 255 0
+D4
+~
+~
+0 0 36532
+S
+#36534
+The Demonic Chantry~
+   Twisting corridors, lined with vacant spaces where once lay the corpses of
+the fallen, wind through the hill beneath the chapel, spreading out in all
+directions.  These excavations took centuries to complete, and yet were taken
+over by the agents of the Necromancer in a mere matter of hours.  What became
+of those interred here is unclear, though there is the grim possibility that
+many of them now roam the catacombs as the foul ghouls.    
+~
+365 9 0 0 0 2 255 0
+D2
+~
+~
+0 0 36535
+D3
+~
+~
+0 0 36531
+S
+#36535
+The Demonic Chantry~
+   The passage ends here, in a dead end that boasts but a single stone door,
+set in the eastern wall and heavily decorated with murals of scenes common to
+the afterlife.  A series of dark glyphs have been superimposed on this mural,
+doubtless marks of the cabal, signifying that who (or what) lies beyond this
+door is of some importance...    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36534
+D1
+~
+door~
+1 0 36536
+S
+#36536
+A Dark Sanctuary~
+   Once a tomb of an ancient knight, the contents of this chamber have been
+cast out, and replaced with a long desk, laden with piles of parchment covered
+in black runes and sigils.  A dull humming sound arises from them, accompanied
+by the occasional low moan.  The air is thick with the stench of brimstone, and
+the blood that forms the pentagram on the floor seethes and bubbles, as if it
+were boiling.  The naked corpse of an unfortunate villager lies drained of
+blood in one corner.  This is obviously the chambers of the cabal's leader.  
+But where is the Witch?  Or her master, the Necromancer?    
+~
+365 588 4 0 0 0 255 0
+D3
+~
+door~
+1 0 36535
+D5
+~
+trap door~
+2 36537 36537
+S
+Z 36532
+#36537
+Sepulchure~
+   This small chamber lies nestled beneath the looted tomb, apparently the
+quarters of someone of equal importance but differing needs.  No furniture can
+be seen, save for a single board, to which several small animals have been
+nailed, as part of some dark ritual of augury.  Whoever resides here had little
+in the way of material possessions, or had little need for such trappings.    
+~
+365 9 0 0 0 2 255 0
+D4
+~
+trap door~
+2 36537 36536
+S
+Z 36538
+Z 36529
+#36538
+Approaching the Catacombs~
+   The passage changes here, from uniform stone to rough hewn earth, bearing
+marks of recent excavation.  The passage once continued north, but has been
+filled with rubble, necessitating a detour through the new tunnels to the east.
+A foul smell rises from this direction, as the air is tainted with decay.    
+~
+365 9 0 0 0 2 255 0
+D1
+~
+~
+0 0 36539
+D2
+~
+~
+0 0 36525
+S
+#36539
+To the Death...~
+   Cramped, narrow passages abound, filled with nameless dread, invoked by the
+foul stench of cadaverous feasts.  Blood umbrages every surface, mingled with
+torn scraps of clothing and whitened bones.  Deep gouges scour the walls, as if
+it were torn in anger and rage by some senseless beast.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36540
+D1
+~
+~
+0 0 36542
+D2
+~
+~
+0 0 36541
+D3
+~
+~
+0 0 36538
+S
+#36540
+To the Death...~
+   Cramped, narrow passages abound, filled with nameless dread, invoked by the
+foul stench of cadaverous feasts.  Blood umbrage every surface, mingled with
+torn scraps of clothing and whitened bones.  Deep gouges scour the walls, as if
+it were torn in anger and rage by some senseless beast.    
+~
+365 9 0 0 0 2 255 0
+D2
+~
+~
+0 0 36539
+S
+#36541
+To the Death...~
+   Cramped, narrow passages abound, filled with nameless dread, invoked by the
+foul stench of cadaverous feasts.  Blood umbrage every surface, mingled with
+torn scraps of clothing and whitened bones.  Deep gouges scour the walls, as if
+it were torn in anger and rage by some senseless beast.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36539
+S
+#36542
+To the Death...~
+   Cramped, narrow passages abound, filled with nameless dread, invoked by the
+foul stench of cadaverous feasts.  Blood umbrage every surface, mingled with
+torn scraps of clothing and whitened bones.  Deep gouges scour the walls, as if
+it were torn in anger and rage by some senseless beast.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36545
+D1
+~
+~
+0 0 36544
+D2
+~
+~
+0 0 36543
+D3
+~
+~
+0 0 36539
+S
+#36543
+To the Death...~
+   Cramped, narrow passages abound, filled with nameless dread, invoked by the
+foul stench of cadaverous feasts.  Blood umbrage every surface, mingled with
+torn scraps of clothing and whitened bones.  Deep gouges scour the walls, as if
+it were torn in anger and rage by some senseless beast.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36542
+S
+#36544
+To the Death...~
+   Cramped, narrow passages abound, filled with nameless dread, invoked by the
+foul stench of cadaverous feasts.  Blood umbrage every surface, mingled with
+torn scraps of clothing and whitened bones.  Deep gouges scour the walls, as if
+it were torn in anger and rage by some senseless beast.    
+   A small hole can be seen in the floor.
+~
+365 9 0 0 0 2 255 0
+D3
+~
+~
+0 0 36542
+D5
+~
+~
+0 0 36547
+S
+#36545
+To the Death...~
+   Cramped, narrow passages abound, filled with nameless dread, invoked by the
+foul stench of cadaverous feasts.  Blood umbrage every surface, mingled with
+torn scraps of clothing and whitened bones.  Deep gouges scour the walls, as if
+it were torn in anger and rage by some senseless beast.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36546
+D2
+~
+~
+0 0 36542
+S
+#36546
+Exiting the Catacombs~
+   The tunnel here becomes more even, the walls and ceiling more uniform,
+constructed of fitted stones instead of soft earth.  The air still carries the
+now-familiar stench of death and decay, but here it is tainted with something
+else, a darker scent, of ancient evils awakened and brought to this realm.  
+The walls are greasy, slick with a dark substance that looks suspiciously like
+the ichor of some unholy beast.    
+~
+365 9 0 0 0 2 255 0
+D0
+~
+~
+0 0 36529
+D2
+~
+~
+0 0 36545
+S
+#36547
+A Hidden Lair~
+   This fouled hole, partially filled with broken bones and rubble, is heavy
+with the stench of death and decay.  Putrescent chunks of flesh lie
+half-devoured over the floor, amidst bloodstains and puddles of other
+substances.  Despite the filth, the lair may hold something of interest, for it
+is here that the ghouls store their booty...    
+~
+365 13 0 0 0 2 255 0
+D4
+~
+~
+0 0 36544
+S
+#36549
+Credits/Mob Chute~
+This area most likely originated on the internet; mostly out of my refusal to
+believe that Hasana, the importer of the area, knows how to use words
+containing more than three syllables.  After realizing that she lacks the
+ability to refine areas such that mortals can't take advantage of them, the
+area was closed for repairs...  For a few years.  Thresh was handed the ticket,
+who failed at his job repeatedly until he quit, then xiuhtecuhtli and Sly
+finally fixed it up.    
+
+Revision Completed 11/12/06
+Area Links to Isle of Myst I - R16136 --> R36500
+~
+365 2097753 4 0 0 0 255 0
+S
+#36550
+A Raging Inferno~
+   The first thing you see as you rashly pass through the gateway is a vast
+plain, of red soil, which appears to be on fire...  As you pause to consider
+how dirt could possibly burn, your attention is diverted by a roar, and a wave
+of heat as a monstrous wall of flame engulfs you, reducing you to a charred stain
+in seconds.    
+~
+365 2 0 0 0 0 255 0
+S
+#36551
+The Eastern Path~
+   The road travels eastward, heading directly for the base of the bluff that
+harbors the residence of the Baron.  The twinkling lights of the village of
+Gilchrist are visible to the northeast, past a row of low, sloping hillocks
+that the path ribbons through.  The air is still, and bereft of the animal
+noises one who travels such roads is normally accustomed to.    
+~
+365 9 0 0 0 2 255 0
+D1
+~
+~
+0 0 36552
+D3
+~
+~
+0 0 36503
+S
+#36552
+Another Junction~
+   Here the road to the east is met by a broad trail that leads north to the
+outskirts of Gilchrist, barely visible from here.  Horse sign marks the trail
+here, gouging the soft earth that lies to either side of the flagstones,
+indication of large forces of mounted knights that have moved through the area.
+In fact, the distant approach of a rider can be detected, his steed's hooves
+clattering on the stone.    
+~
+365 8 0 0 0 2 255 0
+D0
+~
+~
+0 0 36565
+D1
+~
+~
+0 0 36553
+D3
+~
+~
+0 0 36551
+S
+#36553
+Approaching the Manor~
+   The path rises sharply to the east here, ascending sharply to the summit of
+the bluff, where the manor of Baron DuChesne looks out over the valley his
+family is sworn to rule and defend.  A dark pall hangs in the air, and the
+sense of being watched by some foul presence is strong.  The palpable stench of
+death is strong in the air, as is the odor of fresh blood.    
+~
+365 8 0 0 0 2 255 0
+D3
+~
+~
+0 0 36552
+D4
+~
+~
+0 0 36554
+S
+#36554
+The Bluff~
+   From this vantage, one has a clear view of the valley and its surroundings,
+including the twinkling lights of Gilchrist to the northwest.  It is the
+village that the Baron holds dear, and is sworn to defend.  His current
+inability to do so pains him; perhaps he would be grateful to those who would
+purge the valley of the menace of the Necromancer...  Very grateful?  The
+imposing manor of the baron lies east of here.    
+~
+365 8 0 0 0 2 255 0
+D1
+~
+~
+0 0 36555
+D5
+~
+~
+0 0 36553
+S
+#36555
+A Narrow Path~
+   This path has been trampled by horse hooves and booted feet, flattened so as
+to be even and unmarked by potholes, though a recent rain has left grooves
+along the side where the water ran off.  Once lush trees to the sides of the
+road appear sickly and frail; some of this could be blamed on the season and
+climate, but there's more to it than that; the evil of the Necromancer has
+tainted this land, perhaps irrevocably.    
+~
+365 8 0 0 0 2 255 0
+D1
+~
+~
+0 0 36556
+D3
+~
+~
+0 0 36554
+S
+#36556
+Approaching the Manor~
+   The red stone structure that houses the Baron and his house lies to the
+north, a few dozen yards along the trampled path.  At this point, the front of
+the house is visible; glass windows looking out from the facing over a neatly
+tended garden, through which the path runs.  A cart without horses, for the
+Baron, stands near the entrance, as does a white stone statue, sans arms, which
+stands in the middle of the garden.  The house is quite stately, and well kept
+despite these dark times.    
+~
+365 8 0 0 0 2 255 0
+D0
+~
+~
+0 0 36557
+D3
+~
+~
+0 0 36555
+S
+#36557
+Before the Manor~
+   The path approaches three steps that rise to a pair of wooden doors, with
+brass handles and knockers, which are the only entrance to the manor.  No
+guards stand outside, although you do not doubt that you are under observation
+from some vantage point.  Within the manor you will undoubtedly be able to find
+the baron, and perhaps find out if he is in need of your help (perhaps a reward
+is in the works).    
+~
+365 12 0 0 0 2 255 0
+D0
+~
+door~
+1 0 36558
+D2
+~
+~
+0 0 36556
+S
+#36558
+A Reception Hall~
+   The doors open onto a marble hall, covered with a thick red rug, and flanked
+by white marble statues, of the nymphs of ancient legend, each representing one
+of the seven virtues, and the seven sins, in order.  Between the statues hang
+oil paintings, mostly landscapes but also some portraits of ancestors of the
+Baron and his House.  Long banners flank the door, bearing the Baron's Coat of
+Arms, and of course the Imperial Coat of Arms, seen throughout all Imperial
+holdings.    
+~
+365 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 36564
+D1
+~
+door~
+1 0 36560
+D2
+~
+door~
+1 0 36557
+D3
+~
+door~
+1 0 36559
+S
+#36559
+The Manor Library~
+   You pass into a comfortable library, where the Baron stores the bulk of his
+beloved books.  Surrounding you are shelves stacked with heavy tomes dealing
+with all manner of subjects.  Works on Law, Art and Government line some
+shelves, while treatises on Witchcraft, the Occult and even Demonology fill the
+shelf nearest the chair the Baron sits in when he is reading.  Apparently he
+has been researching his enemy exhaustively, in an attempt to find a way to
+defeat him.  A roaring blaze in the fire place warms the room, while the thick
+carpet underfoot eases your tired feet.    
+~
+365 8 0 0 0 0 255 0
+D1
+~
+door~
+1 0 36558
+S
+#36560
+The Dining Hall~
+   This chamber is dominated by a massive table that could seat thirty, which
+is, like the rest of the furniture in this room, covered with white cloth.  
+The Baron has had little cause to celebrate since the darkness that has claimed
+the land (and took his family), and thus it has remained unused for months.  
+Crystal chandeliers hang from the rafters, and could illuminate the chamber for
+hours, though the task of lighting them would take hours.  A door to the north
+leads to the kitchens.    
+~
+365 8 0 0 0 0 255 0
+D0
+~
+door~
+1 0 36561
+D3
+~
+door~
+1 0 36558
+S
+#36561
+A Narrow Corridor~
+   This short corridor links the kitchens to the dining hall, and is an
+insulation between the two, so that guests are not disturbed by the kitchen
+staff working (and vice versa).  The walls are plain, and bear only white paint
+as decoration.  A door in the east wall leads into the kitchen; you are
+deterred from charging straight in by the sight of blood seeping out from
+underneath the door...    
+~
+365 8 0 0 0 0 255 0
+D1
+~
+door~
+1 0 36562
+D2
+~
+door~
+1 0 36560
+S
+#36562
+The Kitchens~
+   Once an orderly kitchen where scores of meals were prepared, the kitchens
+have been transformed into a scene of bloody murder.  Some vile creature has
+managed to infiltrate the Baron's manor, and then secreted itself in here,
+massacring all that enter, until it gets a chance to strike at the Baron.  
+Blood, some of it fresh, coats every available surface, while gutted corpses
+hang from meat hooks on the ceiling, blood and gore dripping onto the floor.  
+A basket of severed heads sits near the door, while a pile of dismembered limbs
+fills the preparation tables, many of them speared with knives and forks.  The
+stench is horrid, and assaults your nostrils.  Woe to whoever else may enter
+this kitchen, for the beast responsible for this will quickly dismember them as
+it has everyone else, and add you to its grisly and stinking collection.    
+~
+365 8 0 0 0 0 255 0
+D0
+~
+door~
+1 0 36563
+D3
+~
+door~
+1 0 36561
+S
+#36563
+The Pantry~
+   This small cupboard once stored foodstuffs, but is now filled with all
+manner of hacked and mutilated corpses, stored here while the insane psychopath
+without adds more victims to his collection.  Undoubtedly he intends to
+manufacture another Nek'rabeast to join him in this blood-letting frenzy. 
+~
+365 8 0 0 0 0 255 0
+D2
+~
+door~
+1 0 36562
+S
+#36564
+The End of the Hall~
+   The hall ends here, at a staircase that ascends to the second level, and the
+sleeping area of the Baron and what remains of his family.  However, the
+knights have barricaded the stair, at the Baron's request as he no longer
+wishes to revisit the scene of the slaughter of his family by a Nek'rabeast.  
+He spends all of his time in the library, as he attempts to find a way to
+defeat this menace.    
+~
+365 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 36558
+S
+#36565
+Approaching Gilchrist~
+   Approaching Gilchrist, you cannot help but notice how bare the streets are.
+Only a few huddled citizens scurry quickly between structures fallen into
+disrepair; the cynical would say that the soul has been torn from these
+pathetic creatures.  A kinder soul would seek a way to mend the damage done to
+them, and an avaricious soul may well wonder what sort of reward the Baron
+would offer if someone dispelled this threat to his people.    
+~
+365 12 0 0 0 2 255 0
+D0
+~
+~
+0 0 36566
+D2
+~
+~
+0 0 36552
+S
+#36566
+Gilchrist~
+   The streets of this small village are a scene of dark depression.  The
+villagers that move about are sullen and without any happiness; the Necromancer
+has taken the lives of most of their loved ones, most foully slaying all their
+children to break their morale.  And on top of all of this, their Baron appears
+to have failed them, having been unable to put an end to the evil that plagues
+their town.    
+~
+365 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 36575
+D2
+~
+~
+0 0 36565
+D3
+~
+~
+0 0 36567
+S
+#36567
+Gilchrist~
+   Walking through Gilchrist is like walking through a graveyard; those that
+remain here have as much animation as the dead, and as much in personality and
+motivation.  It is as if their very souls have been taken from them, by the
+Necromancer, leaving empty shells to wander aimlessly through the streets.    
+~
+365 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 36568
+D1
+~
+~
+0 0 36566
+S
+#36568
+Gilchrist~
+   The streets here are piled with rubbish; no one cares enough to make the
+effort to clean the refuse piled in the gutters, and on the road itself.  
+Nearby buildings are boarded up, their occupants having either been slain or
+moved away.  Evidently the battle against the Necromancer has already been
+lost, as far as these villagers are concerned.    
+~
+365 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 36570
+D2
+~
+~
+0 0 36567
+D3
+~
+~
+0 0 36569
+S
+#36569
+Cottage of the Seer~
+   This cluttered shack houses the village seer, one of the few people who has
+refused to be driven off, and has never given up hope that one day, some way,
+the Curse of the Necromancer would be lifted.  She has gone more than a little
+mad, however, due to constant contact with the lower planes, and much of what
+she says is gibberish, and not to be counted.    
+~
+365 13 0 0 0 0 255 0
+D1
+~
+~
+0 0 36568
+S
+#36570
+Gilchrist~
+   Around every bend in this village you behold more scenes of sorrow and
+despair.  It is almost too much to bear, to witness an entire population that
+is totally devoid of hope.  Surely the Baron would be capable of doing
+something to lift their spirits?  At any rate, they would indeed be grateful to
+those who helped defeat their enemy.  Grateful indeed.    
+~
+365 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 36571
+D1
+~
+~
+0 0 36572
+D2
+~
+~
+0 0 36568
+S
+#36571
+The Home of Francois~
+   This well-furnished dwelling is the home of the Mayor of Gilchrist, a former
+friend of the Baron, who has lost faith in his liege, due to these problems
+infesting his beloved village.  Most of the items of value have long since been
+sold to hire mercenaries to battle the evil, mercenaries who either fled
+without trying or perished at the hands of the Necromancer's minions.    
+~
+365 13 0 0 0 0 255 0
+D2
+~
+~
+0 0 36570
+S
+#36572
+Gilchrist~
+   In all of your adventures, you cannot remember ever passing through such a
+desolate, depressed settlement.  Not within the bounds of the Empire, at least;
+one would surely assume (and hope) that the Emperor would make every effort to
+protect those who pay taxes to him, and send a legion to quell the dark forces
+that assault the village and surrounding lands.    
+~
+365 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 36573
+D3
+~
+~
+0 0 36570
+S
+#36573
+Gilchrist~
+   A path overgrown with weeds heads north, away from the village.  The soil
+there bears footprints of all the people that have ventured in that direction,
+towards the mountains that form the northern edge of the valley, in search of
+the Necromancer.  Very few tracks come back, very few indeed...    
+~
+365 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 36577
+D2
+~
+~
+0 0 36574
+D3
+~
+~
+0 0 36572
+S
+#36574
+Gilchrist~
+   Whispered conversations overheard during your trip through this dark place
+have allowed you to deduce that the Necromancer has slain or run off most of
+the occupants of this village, for whatever purpose, and the remainder have
+lost all hope of ever seeing this darkly evil presence quelled.  Every child in
+the village was struck dead by plague or Nek'rabeasts weeks ago.    
+~
+365 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 36573
+D2
+~
+~
+0 0 36575
+S
+#36575
+Gilchrist~
+   The once evenly paved road here is littered with holes here, where a number
+of bricks have been torn up or crushed, and left as they lie, never to be
+repaired.  Villagers don't even curse when they stumble over these holes; they
+merely rise to their feet and continue onwards with vacant stares on their
+faces.  The depression is almost, indeed threatens to be, overwhelming.    
+~
+365 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 36574
+D1
+~
+~
+0 0 36576
+D3
+~
+~
+0 0 36566
+S
+#36576
+Alain's Blades~
+   This spacious structure houses one of the best-equipped smithies you have
+ever been in, and as an adventurer, you have been in quite a lot.  Once again,
+you are given a grim reminder of the awful fate that has befallen this innocent
+village; despite his excellent trappings, and obvious skill, this smith has not
+a single customer, despite, perhaps, you.    
+~
+365 12 0 0 0 0 255 0
+D3
+~
+~
+0 0 36575
+S
+#36577
+The Outskirts of Gilchrist~
+   Tracks of humans and horses head north, away from the village, along a
+winding path that takes you, eventually, to the foothills of the dark mountain
+range that borders the valley, where the Necromancer is thought to be.  Broken
+banners and weapons, dropped by cowardly and demoralized soldiers before they
+even neared the mountains, litter the trail.    
+~
+365 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 36578
+D2
+~
+~
+0 0 36573
+S
+#36578
+Approaching the Mountains~
+   The road rises sharply as you pass into the foothills, beginning the long
+journey towards the black spires that loom forbiddingly to the north.  Within
+those peaks you will encounter the source of all this evil, and hopefully
+defeat it.  Whether you are motived by honor, or profit, you will have to
+battle as hard as you can to defeat such an ancient and powerful foe.  You
+cannot help but wonder what manner of guardians he may have.    
+~
+365 0 0 0 0 4 255 0
+D2
+~
+~
+0 0 36577
+D4
+~
+~
+0 0 36579
+S
+#36579
+Approaching the Mountains~
+   Onwards and upwards the path ascends, heading through scorched hills that
+were once green with lush grass and vegetation.  Undead have laid waste to most
+of the land surrounding Gilchrist, and will eventually do the same to the rest
+of the valley, turning it into the nightmarish realm their master desires. 
+Several spears have been thrust into the earth beside the path here; atop them
+have been perched the severed heads of slain knights, their mouths agape in
+their rotting faces; a foul stench exudes from this grim warning.  The knights
+still have atop their heads their plumed helms, stained with blood and gore.  
+~
+365 0 0 0 0 4 255 0
+D4
+~
+~
+0 0 36580
+D5
+~
+~
+0 0 36578
+S
+#36580
+Approaching the Mountains~
+   The path twists and turns as it ascends, marked by more gruesome signs of
+undead victories.  Banners bearing both the DuChesne and the Imperial coats lie
+tattered and scorched beside the road, trampled underfoot by screaming ghouls
+and cackling skeletons.  It is a wonder that the dark Necromancer would move so
+boldly against an Imperial holding; perhaps he is certain for some reason that
+there will be no Imperial forces to arrive and slay him.    
+~
+365 0 0 0 0 4 255 0
+D4
+~
+~
+0 0 36581
+D5
+~
+~
+0 0 36579
+S
+#36581
+Before the Wyrm Cave~
+   The path ends abruptly here, before a cave set into the mountainside, with
+no other way onwards visible.  All of the tracks pass into this cave, and very
+few indeed return.  Badly burned bodies lie scattered about the entrance, the
+flesh seared from their bones by incredibly corrosive acid, their equipment
+pitted and etched beyond hope of any repair.  A thin coil of smoke, much like
+dragon exhalation, escapes the cave entrance.    
+~
+365 0 0 0 0 4 255 0
+D0
+~
+~
+0 0 36599
+D5
+~
+~
+0 0 36580
+S
+#36582
+The Gates of Nar'gha'zuyl~
+   A narrow ledge near the peak of a forbidding, blackened spire is the only
+secure foothold before the blackened steel gates that loom to the east of you.
+Lightning crackles about the towering dark spires that rise from the keep the
+gate guards, and rolling thunder that echoes among the surrounding mountains
+does little to ease your mind.  Shadowy shapes flit about the towering walls,
+smooth and without a single foothold that would allow anyone to scale them.  
+To the west, a yawning chasm surrounds the peak, a certain death for any
+foolish enough to step in that direction, for the strong winds that gust around
+the peak would dash even a flying traveller to pieces against the sharp stone.
+There can be no doubt that this is the abode of the Necromancer, and his
+minions.  This may well be the last chance to pull out, for once inside the
+walls of his keep, it is unlikely escape will be easy...    
+~
+365 9 0 0 0 0 255 0
+D1
+~
+door~
+2 36556 36583
+S
+#36583
+A Shadowy Courtyard~
+   The ominous metal gates open onto a dark courtyard, overshadowed by the
+looming spire that lies to the east.  Not a soul can be seen on the walls; no
+guards patrol the perimeter, nor keep watch.  An eerie whistling sound, caused
+by the wind passing through holes in the dark inner walls, sets your teeth on
+edge.  A metal trapdoor is set in the stone floor, housing a dungeon no doubt,
+and whatever else a mad necromancer may be inspired to keep.  Flashes of
+lightning reveal a little of the gothic architecture of this place; in some
+ways it is almost beautiful in its terrible aspects; grinning gargoyles flank
+each entrance, while intricate carvings of scenes of debauchery cover the
+walls.    
+~
+365 13 0 0 0 0 255 0
+D1
+~
+~
+0 0 36585
+D3
+~
+door~
+1 36556 36582
+S
+Z 36568
+#36584
+The Treasure Vault~
+   A fabulous amount of wealth greets your jaded eyes as you wrench open the
+trapdoor and drop down into this tiny chamber.  Statues carved by artisans of
+civilizations lost centuries ago line wooden shelves, while crates and chests
+overflowing with priceless gems and jewels cover the floor.  You don't even
+notice as the trapdoor swings slowly shut above you, nor do you notice as the
+air grows thinner, until you suddenly begin to choke while examining a matched
+pair of Lifebanes, your vision blurring as you sink into a sleep you will never
+awaken from.  Imps scurry over your body, stripping it of valuables, which they
+deposit on the shelves, then they return to their niches, awaiting the next
+intruder...    
+~
+365 2097903 4 0 0 0 255 0
+S
+Z 36569
+#36585
+A Dark Hallway~
+   Passing through the doorway, you enter a gloomy hallway, poorly lit by
+smoldering torches set in cressets that resemble grinning skulls.  Water drips
+onto the floor, a red pool forming...  Red?  The water is in fact blood, and
+disgustingly enough appears to be coming from the walls themselves.  The blood
+is fouled, and tainted, and would disgust the most ravenous Kindred, let alone
+those of the mortal realm.  What other horrors await at the end of this hall?
+The grinning statues at each end that grin down at you certainly aren't letting
+you know.    
+~
+365 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 36586
+D3
+~
+~
+0 0 36583
+S
+#36586
+The Base of the Hollow Spire~
+   At this point the hall ends at the base of a hollowed out turret, that
+extends upwards farther than you can see.  A chill breeze wafts through the
+center of the spire, and is accompanied by a volley of howls and shrieks.  To
+venture further may mean undertaking a journey you cannot retreat from; it may
+well be wise to pause and take stock of your situation before continuing...  
+
+~
+365 9 0 0 0 0 255 0
+D2
+~
+~
+0 0 36585
+D4
+~
+~
+0 0 36587
+S
+#36587
+The Dark Shaft~
+   Unforgiving stone walls surround you on all sides as you fly through the
+center of the shaft, ever cautious for enemies that are by now on the lookout
+for you.  Two doors, set in the walls to the east and west, offer an escape
+from the draught tunnel, though what lies in wait for you behind them may make
+the dangers here pale in comparison.  Then again, what choice would you rather
+face- the known enemy, dire as it is, or the unknown?    
+~
+365 65609 0 0 0 0 255 0
+D1
+~
+door~
+1 0 36589
+D3
+~
+door~
+1 0 36588
+D4
+~
+~
+0 0 36590
+D5
+~
+~
+0 0 36586
+S
+#36588
+Haven of the Cult~
+   Those most favored of the dark cult of the Necromancer are invited to his
+dark world, and bid to serve him in what manner he sees fit; most commonly as
+sacrificial victims.  However, certain cultists, notably the Witch
+Tus'schepteba, rise through the ranks to become close and trusted advisors,
+though this service is often of a brief duration as the Necromancer knows well
+the treachery ambition breeds.  He himself became master of this realm by
+slaying his mentor.  The dark chamber they are bid to reside in boasts no
+furnishings or food; the cultists survive on pure faith alone.    
+~
+365 73 0 0 0 0 255 0
+D1
+~
+door~
+1 0 36587
+S
+#36589
+Lair of the Wyrm~
+   Vile, inculpable evil awaits behind every door in this fell domain, it
+seems.  For the foul grotesque that lairs in here defies any real description;
+it is a Wyrm, though not a dragon, Draconian, but too reptilian.  The venom
+that drips from its long barbed tail has scored the stone, and the many
+skeletons that umbrage the dusty ground under foot.  What must that acidic
+compound do to exposed flesh...    
+~
+365 77 0 0 0 0 255 0
+D3
+~
+door~
+1 0 36587
+S
+#36590
+The Top of the Shaft~
+   The shaft ends here, at a flat ceiling lined with sharp spikes, which you
+have to move slowly to avoid.  Venom drips from their tips, as if they were the
+spines of some chaotic beast...  It is best not to spend time contemplating
+such things.  A plain wooden door, unremarkable in all ways, is visible, set
+into the north wall; there is no ledge in front of it, you will have to fly to
+it and soar through, before your enchantment atrophies and you plummet to your
+death, with very little abrogating circumstances.    
+~
+365 65609 0 0 0 0 255 0
+D0
+~
+~
+0 0 36591
+D5
+~
+~
+0 0 36587
+S
+#36591
+The Base of a Stair~
+   The door opens onto a seemingly innocuous chamber.  It is dark, true, and
+the grim sense of foreboding is still present, but the walls are solid, cool to
+the touch but dry and firm, and there are no demonic creatures awaiting you...
+It would appear you are past the worst of it.  Or are you?  A stone stair
+ascends to a corridor of gray stone up above, which seems to shift ever so
+slightly under your scrutiny...  A trick of the light, perhaps?    
+~
+365 73 0 0 0 0 255 0
+D2
+~
+~
+0 0 36590
+D4
+~
+~
+0 0 36592
+S
+#36592
+A Fleshy Corridor~
+   The walls of this corridor are of stone, but shift and flex as if they were
+made of some amorphous substance, namely stone colored flesh.  A vile smell
+assaults your nostrils, an unmistakable odor of death and decay.  Even the
+darkest soul would find it hard to continue; not out of disgust, but out of
+fear and respect for the terrible master of a domain as foul as this.  Surely
+nothing mortal could subsist in such a place?    
+~
+365 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 36593
+D5
+~
+~
+0 0 36591
+S
+#36593
+A Dead End... of Sorts~
+   The fleshy corridor ends here, spewing its contents into a black walled
+section of corridor that boasts a single wooden door, covered in vile runes,
+and a shimmering black portal, the only other exit, though it would be
+inadvisable to continue by that direction unless one was well and truly
+prepared to face something out of a demon's nightmares.  A vile smell, of
+scorched flesh and blood, wafts in from the east; this odor is not foreign to
+those used to the battlefield, but it is so strong and pervasive here that even
+a veteran of the Chaos Wars may well balk.    
+~
+365 77 0 0 0 0 255 0
+D1
+~
+door~
+1 0 36594
+D2
+~
+~
+0 0 36592
+S
+#36594
+The Laboratory of the Witch~
+   This foul workplace contains unspeakable experiments, combining the sciences
+of alchemy and surgery with the magical arts of Evocation and Necromancy.  The
+result is a twisting, writhing mass of flesh in several large glass beakers,
+that will be ground up and consumed by the horrid minions of the Necromancer,
+to grant them all unspeakable powers and abilities.  This workplace is an
+abomination to some, a great find to others.    
+~
+365 73 0 0 0 0 255 0
+D3
+~
+door~
+1 0 36593
+S
+#36595
+A Nightmarish Reality~
+   The portal opens onto a scene out of the darkest nightmares of the truly
+damned.  The walls of the chamber here appear to be made of flesh; mottled,
+grey flesh covered with pustule sores, the foul discharge affording scant
+purchase to those endeavoring to cross the slick, blubbery floor.  Howls and
+screams echo around the chamber, their source apparently souls trapped in this
+fleshy tomb, desperate to feed on the living.  But the worst of the
+abominations lies ahead...    
+~
+365 588 0 0 0 0 255 0
+D0
+~
+~
+0 0 36596
+S
+#36596
+Flesh of Sin~
+   The passage ends in a dense, impenetrable mound of mottled flesh, crawling
+with parasites and dripping ichorous from a thousand small sores.  The ghastly
+odor that issues forth from this abomination is almost as horrid as the fact
+that this creature is a sentient being, and capable of dark misdeeds.  
+Constructed from the flayed remains of a thousand sinners, this spawn of chaos
+has existed here for centuries, patiently awaiting the arrival of enemies of
+its dark creator.    
+~
+365 584 0 0 0 0 255 0
+D2
+~
+~
+0 0 36595
+S
+Z 36572
+#36597
+The Heart of Evil~
+   Clambering through the gaping wound in the fleshy wall feels to a
+disconcerting degree much like crawling into a festering wound on someone's
+body.  Blood cakes the blubbery walls and floor, and the ceiling drips with
+ichor.  Vaguely humanoid forms crawl about in the fleshy walls, straining to
+break free, their hands pushing at the soft mottled grey flesh.  The floor
+oozes various disgusting fluids, and a vile stench fills the whole chamber.  A
+bloody orifice to the north leads to the end of the passage...    
+~
+365 617 4 0 0 0 255 0
+D0
+~
+~
+0 0 36598
+S
+#36598
+The Final Enemy~
+   The walls of this blood soaked chamber are strewn with atrophied limbs, some
+still feebly clutching, fused to the wall by unfathomable dark magic.  Blood
+oozes from sores on their mottled grey flesh, coalescing in pools at the base
+of the fleshy walls, where gaping, toothy maws gulp hungrily at it- the sucking
+sound of these disembodied mouths is maddening.  The roof is lined with heavy
+chains, from which hang the limbless trunks the wall decorations were torn
+from.  Some of these souls moan in pain and rage, hanging on barbed hooks,
+twisting in a ghostly breeze that blows in from an unknown destination.  It
+seems unbelievable that someone could possibly reside in such a diabolic
+sanctum...    
+~
+365 620 4 0 0 0 255 0
+D2
+~
+~
+0 0 36597
+S
+#36599
+The End of the Path~
+   An ancient sage, his name escapes you, once said that of all the many abodes
+of all creatures within the realms of mortals, no home is more easily
+identifiable than that of a dragon.  Surely that same man could not have hoped
+for a better example than the dank cave you have passed into.  You aren't sure
+if its the string of decomposing bodies swaying in the wind where they hang
+from iron hooks, or perhaps the deep scar in the wall where the drake sharpens
+its death-dealing claws.  In fact even the massive pile of treasure that fills
+the back half of the dim lair is not the single conclusive clue.  It is a
+combination of all of this.  And more; whatever the reason, you are sure that
+your lives are now in dire jeopardy...    
+~
+365 77 0 0 0 0 255 0
+D2
+~
+~
+0 0 36581
+S
+$~

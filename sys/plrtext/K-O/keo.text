@@ -1,0 +1,21 @@
+id use barg $1
+t track $1;track $1;track $1;track $1
+r rec recall
+tle tell $*
+oep open $*
+c circle
+sc scan
+, trip
+. kick
+ss s;s;s;s;s
+ee e;e;e;e;e
+ww w;w;w;w;w
+gg get all.coin all.corpse;des corp
+g get $*
+q get all all.corps
+h hide;sco
+m medit
+banz emot screams "BANZAI!!!" and reaches for your purse.
+f feign;stand
+nn n;n;n;n;n
+k bac all

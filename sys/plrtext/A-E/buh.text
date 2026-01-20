@@ -1,0 +1,22 @@
+z assist drak
+1 cast 'life drain' $*
+sil c 'sil' $*
+find c 'locate obj' $*
+stone c 'stone' $*
+fb c 'flame blade' $*
+drink drink thimble
+invis c 'invis' $*
+str c 'str' $*
+regen q bean
+3 rec rec rec
+bl c 'blind' $*
+gc get all.gold all.corpse
+fly c 'fly' $*
+id c 'id' $*
+dc dest corpse
+gac get all all.corpse
+detinv c 'det inv' $*
+sh c 'shield' $*
+gt gs &07-&00&03{&14$*&00&03 }&07-&00
+food eat bread
+summon c 'summon' $*

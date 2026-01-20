@@ -1,0 +1,33 @@
+qdir gt &06 quaffing $1 &00;$1;q earthq
+died get all all.crullen;wear all;rem beet;wear ruby;wield bow;hold bow
+kdir gsay &06 going $1 &00;$1;kill 2.
+mk order followers kill $*;assist vampiric
+sanc rem khan;wear div
+dam rem div;wear khan
+word cast 'unholy word'
+pfg cast 'protection from g'
+poison cast 'poison'$*
+mob order followers $*
+fear cast 'fear'$*
+blind cast 'blind'$*
+bb cast 'black br'$*
+dart cast 'black d'$*
+armor cast 'armor'$*
+chaos cast 'chaos'
+regen cast 'regen'$*
+eyes cast 'eyes of'
+da cast 'detect a'$*
+di cast 'detect i'$*
+dt cast 'death t'$*
+pest cast 'pest
+curse cast 'curse'$*
+mkdir $*;kill 3.
+rdir $*;rec ice
+mdir $*;kill $*
+rr rec rec scroll
+pdir $*;cast 'pest'
+heal q revive
+[ assist zaor
+] assist morgoth
+aoa cast 'a o a
+foo s;flee

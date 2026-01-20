@@ -1,0 +1,228 @@
+#5601
+T W 0~
+troll~
+a swamp troll~
+A swamp troll charges towards you.
+~
+This huge behemoth towers to a height of 15 feet.  He sneers at you 
+as he approaches and raises two black taloned claws to strike you.
+~
+110 0 0 0 0 0 0 0 -600
+16 5 1 5d20+200 4d4+8
+35 40
+9 6 1 0 -1 -1
+#5602
+T W 0~
+troll~
+a green troll~
+A green troll attempts to get a hold on you.
+~
+This big troll towers several feet over you.  He has a large spear
+which he seems to ply with utmost prowess.  He jabs his spear at you
+and cackles with glee.
+~
+108 0 0 0 0 0 0 0 -400
+14 5 5 3d20+140 1d4+6
+35 40
+9 9 1 0 -1 -1
+#5603
+O W 0~
+ogre~
+an ogre~
+An ogre stands here getting ready to beat in your face.
+~
+This mean bastard looks like he could tear you limb from limb.
+~
+108 0 0 0 0 0 0 0 -500
+22 1 1 1d20+250 5d5+8
+40 40
+9 9 1 0 -1 -1
+#5604
+P W 0~
+thing~
+the Swamp Thing~
+the Swamp Thing shambles about here.  It seems hungry.
+~
+The Swamp Thing has huge fists, which look like they could pound you flat.
+~
+108 0 0 0 0 0 0 0 -700
+24 1 8 1d1+500 4d5+10
+60 40
+9 6 0 0 -1 -1
+#5605
+A W 0~
+gnoll~
+a gnoll~
+There is a mean looking gnoll here.
+~
+The Gnoll seems annoyed at your presence.
+~
+76 0 0 0 40 0 0 0 -1000
+30 0 3 2d10+750 2d8+15
+50 60
+9 9 1 0 -1 -1
+#5606
+A W 0~
+beast~
+a huge hairy beast~
+A huge hairy beast shambles towards you with death in his eyes.
+~
+This huge beast stands about 20 feet in height and has huge green clawed
+appendages. 
+~
+108 0 0 0 40 0 0 0 -450
+23 0 0 21d21+210 2d4+15
+40 40
+9 9 1 0 -1 -1
+#5607
+A W 0~
+beast~
+a rather small beast~
+A rather small beast cringes in terror as it notices you.
+~
+This rather small beast looks like you could take it out with a single
+sword blow.
+~
+204 0 0 0 32768 0 0 0 0
+3 18 9 3d10+40 1d20+1
+35 40
+9 9 1 0 -1 -1
+#5608
+A W 0~
+will will-o-wisp~
+the Will-O-Wisp~
+A Will-O-Wisp darts hear and there, making fun of you.
+~
+This strange little creature seems very hard to keep your eyes on.
+You stare as hard as you can at the glowing ball of floating light and
+are just able to notice a small pair of glowing eyes.
+~
+204 0 0 0 32768 0 0 0 0
+10 11 -5 5d5+100 3d3+3
+35 40
+9 9 0 0 -1 -1
+#5609
+A W 0~
+snake anaconda~
+the monstrous snake~
+A monstrous snake slithers towards you, thinking 'breakfast'.
+~
+This 10 meter anaconda looks rather hungry.
+~
+236 0 0 0 99328 0 0 0 -100
+16 5 1 16d16+200 4d4+6
+35 40
+9 9 1 0 -1 -1
+#5610
+A W 0~
+snake python~
+a large snake~
+A rather large python rests in a coil here.
+~
+It's the largest Amazon python you have ever seen.
+~
+236 0 0 0 98304 0 0 0 -100
+11 10 2 4d10+100 3d3+5
+35 40
+9 9 2 0 -1 -1
+#5612
+A M 0~
+hag~
+the Marsh Hag~
+A Marsh Hag is here.
+~
+Yech!  She manages to make even Smurfette look attractive.  That's ok,
+because she thinks you stink too, and she's about to do something about it.
+~
+76 0 0 0 0 0 0 0 -200
+9 12 3 2d10+300 3d5+10
+35 40
+9 9 2 0 -1 -1
+#5613
+A M 0~
+slaad~
+a Death Slaad~
+A Death Slaad is standing here distraught.  He seems lost.
+~
+This dark apparition stands a meager 13 feet in height.  Even in the dim
+swamp light, the blade of his scythe gleams.
+~
+76 0 0 0 40 0 0 0 -200
+20 1 -2 5d20+300 5d5+15
+40 75
+9 9 1 0 -1 -1
+#5614
+A W 0~
+wolf~
+a marsh wolf~
+A marsh wolf sniffs the ground has followed your scent.
+~
+This wolf looks plump.  She probably ate a friend or two of yours who came
+into the marsh.
+~
+108 0 0 0 0 0 0 0 -200
+8 13 3 10d10+50 3d5+1
+35 40
+9 9 2 0 -1 -1
+#5618
+A W 0~
+mound shambling~
+a shambling mound~
+A heap of garbage shambles towards you.
+~
+This grotesque pile of plant matter fills you with utmost horror.
+~
+76 0 0 0 65536 0 0 0 -100
+13 8 10 10d10+150 3d6+2
+35 40
+9 9 0 0 -1 -1
+#5619
+C C 0~
+Shaman orc~
+the orc shaman~
+An orc shaman stands before you holding a staff and wearing robes.
+~
+This old orc has an array of bones stuck in his hair and strange symbols
+painted on his face and hands.
+~
+110 0 0 0 40 0 0 0 -100
+12 10 7 5d6+120 3d4+1
+35 60
+9 9 1 0 -1 -1
+#5620
+G W 0~
+giant~
+a marsh giant~
+A marsh giant stomps towards you.
+~
+This huge monster of a man has green gnarly teeth and a BIG stick.
+~
+110 0 0 0 40 0 0 0 -100
+15 8 5 6d6+300 2d4+10
+35 40
+9 9 1 0 -1 -1
+#5621
+A W 0~
+gargoyle~
+a gargoyle~
+A large gargoyle lands next to you, baring his fangs at you.
+~
+This creepy fellow looks like he could use you as a meal.
+~
+110 0 0 0 40 0 0 0 -100
+12 4 0 4d5+200 4d4+4
+35 40
+9 9 0 0 -1 -1
+#5622
+T M 0~
+troll questmaster mage~
+the Troll Questmaster~
+The Troll Questmaster stands here.
+~
+Tall and thin, green warty skin, horrible yellow teeth... definitely a troll.
+~
+134299656 0 0 0 1049768 1024 0 0 -1000
+51 -20 -5 100d20+15000 20d10+90
+90 100
+9 9 1 0 -1 -1
+$

@@ -1,0 +1,42 @@
+/ cas 'revive' lund
+\alias ks
+ra cas 'revive' az
+cc cas 'cure crit' $1
+arm cas 'armor' $1
+cl cas 'cleans' $1
+ks kill shopper
+\ cas 'mal' 2.
+ga get all corpse
+cb cas 'cure blind' $1
+san cas 'sanctuary' $1
+rp cas 'remove poison' $1
+bl cas 'bless' $1
+b cas 'blind' $1
+d1 destroy 1.
+rr rec recall
+sum c 'sum' $1
+clan clan &13$*&00
+' say &10$*&00
+fly cas 'fly' $1
+gt gt &10$*&00
+infra cas 'infra' 
+rrr rec mid mid
+2 kill 2.
+ec exa corp
+wr cas 'word' $1
+di cas 'detect invis' $1
+pp put 1. bup
+0 drop 1.
+h cas 'heal' $1
+sens cas 'sens' aa
+1 drop 1 coin
+ass cas 'assistant'
+fs cas 'flame strike' $*
+fo cas 'fortify' $1
+ha cas 'harm' $*
+ma cas 'maled' $*
+rel cas 'relocate' $1
+r cas 'revive' $1
+say say &13$*&00
+sac cas 'sacrifice' $1
+dis cas 'disheart' $1

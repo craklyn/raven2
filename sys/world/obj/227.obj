@@ -1,0 +1,525 @@
+#22703
+key~
+the keys to the Dorm~
+This key appears in the shape of a skeleton.~
+the dorm key
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0
+2 0 0
+B
+0 0 0 0
+#22704
+potion orange~
+an orange potion~
+An orange colored potion is lying here.~
+~
+10 4 0 0 0 1 0 0 0
+8 19 44 50
+3 0 0
+B
+0 0 0 0
+#22705
+umbra potion~
+an umbra potion~
+An umbra potion is lying here.~
+umbra potion
+~
+10 4 0 0 0 1 0 0 0
+8 3 50 113
+3 0 0
+B
+0 0 0 0
+#22706
+faculty key 22706~
+a key~
+A key marked "Faculty Offices" is here.~
+a key
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+3 0 0
+E
+key~
+This is a key to the faculty offices.
+~
+B
+0 0 0 0
+#22707
+tuition receipt~
+a tuition receipt~
+A receipt from the bursar showing tuition payment is lying here.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+3 20 160
+E
+tuition receipt~
+This is a receipt from the bursar showing your tuition has been paid.  You cannot enter the University without it and once inside should hold it at all times.
+~
+A
+18 1
+A
+4 1
+A
+5 1
+A
+19 1
+B
+0 0 0 0
+#22708
+the Professor's Vestments~
+the Professor's Vestments~
+A Vestment in the color of Midgaard University is here.~
+~
+9 75422976 32 0 0 9 0 0 0
+8 0 0 0
+100 100000 480
+A
+12 25
+A
+6 -3
+A
+31 10
+A
+29 12
+B
+0 0 0 0
+#22709
+entrance to student union~
+a turnstile~
+There is a turnstile here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+turnstile~
+You cannot get into the Student Union without going through the turnstile.
+~
+B
+0 0 0 0
+#22710
+university entrance~
+the University Gates~
+The University Gates tower over you.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#22747
+bookshelves shelves FREE~
+Bookshelf in the Bookstore~
+There are bookshelves filled with things needed in college life.  One of them is marked "FREE"~
+bookshelves
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0
+1750 0 1000
+E
+FREE bookshelves shelves~
+There must be free things to be given away to anyone who wants them inside.
+~
+B
+0 0 0 0
+#22770
+Blackboard in the thieves classroom~
+blackboard~
+There is a blackboard with lessons for thieves written on it.~
+blackboard
+stuff here?
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+1750 0 0
+E
+blackboard board~
+A thief can improve the following skills by using the practice command when he reaches the appropriate level:
+[ 1] steal
+[ 2] sneak
+[ 3] trip
+[ 4] hide
+[ 5] pick lock, backstab                                    
+[10] scan, disarm             
+[15] throw, kick
+[18] dodge
+[20] palm
+[22] second attack
+[25] circle, dust                   
+[30] track, parry                       
+[35] cower
+[40] feign death
+~
+B
+0 0 0 0
+#22771
+Blackboard in the warrior's classroom~
+blackboard~
+There is a blackboard with lessons for warriors on it.~
+blackboard
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+blackboard board~
+Warriors can improve the following skills by using the practice command when they have reached the appropriate level:
+[ 1] bash
+[ 2] rescue
+[ 5] second attack
+[ 9] kick
+[10] shoot, disarm 
+[13] find weakness
+[15] retreat
+[20] guard
+[25] enhanced damage
+[28] parry 
+[35] third attack
+[40] scan
+[45] berserk
+[50] riposte
+~
+B
+0 0 0 0
+#22772
+Blackboard in the Shou-Lin classroom~
+blackboard~
+There is a blackboard with lessons for Shou-Lins written on it~
+blackboard
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+blackboard board~
+A Shou-Lin can improve the following skills by using the practice command when he reaches the appropriate level:
+[ 1] kick, lay of hands
+[ 2] sneak
+[ 5] retreat
+[ 9] second attack, dodge
+[10] find weakness
+[12] sweep
+[15] disarm
+[18] blinding strike
+[20] art of the wind
+[23] knock
+[25] art of the tiger
+[27] feign death 
+[30] art of the snake
+[33] fists of fury
+[35] art of the monkey
+[40] scan, art of the crane
+[45] art of the dragon
+[50] art of the flower
+~
+B
+0 0 0 0
+#22777
+Blackboard in the Death Knight's classroom~
+blackboard~
+There is a blackboard with lessons for Death Knights in the room.~
+blackboard
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+blackboard board~
+A Death Knight can improve the following skills/spells by using the practice 
+command when he reaches the appropriate level:
+[ 1] kick
+[ 2] cause light wounds
+[ 5] rescue, detect alignment
+[ 6] animate dead
+[ 7] armor
+[ 9] bash
+[10] black dart, protection from good
+[13] detect invisible
+[15] second attack, retreat
+[18] poison
+[20] disarm, guard
+[23] curse
+[25] cause critic, enhanced damage
+[28] regenerate
+[30] chaos armor, dispel good
+[33] fear, blind
+[35] black breath
+[38] parry
+[40] scan, eyes of the dead
+[45] unholy word, death touch
+[50] riposte
+~
+B
+0 0 0 0
+#22778
+Blackboard in the Solamnic Knight's classroom~
+blackboard~
+A blackboard with lessons about Solamnic Knights is here.~
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+blackboard board~
+A Solamnic Knight can improve the following skills/spells by using the practice command
+when he reaches the appropriate level:
+[ 1] kick
+[ 2] create water, create food
+[ 5] rescue, detect alignment
+[ 6] turn undead
+[ 7] armor
+[ 9] bash
+[10] protection from evil, cure light
+[13] detect invisible
+[15] second attack, retreat
+[18] remove poison
+[20] disarm, guard
+[23] remove curse
+[25] enhanced damage, cure serious
+[28] regenerate
+[30] dispel evil, holy armor
+[33] banish, cure blind 
+[35] remove paralysis, cure critical
+[37] cure plague
+[38] parry
+[40] scan, righteous vision
+[45] holy word, prayer of life
+[50] riposte
+
+~
+B
+0 0 0 0
+#22780
+blackboard in the cleric's classroom~
+blackboard~
+A blackboard with lessons for Clerics is here.~
+blackboard
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+blackboard board~
+Clerics can improve the following skills/spells by using the practice command when they reach the appropriate level:
+
+[ 1] cure light, cause light
+[ 2] create food, create water
+[ 3] armor
+[ 4] detect alignment
+[ 5] bless
+[ 6] word of recall
+[ 7] detect poison
+[ 9] detect invisible
+[10] ward, cure critical wounds
+[11] cure blind, blindness
+[13] sense life
+[14] remove poison
+[16] summon
+[17] infravision, control weather
+[18] call lightning, regenerate, fly 
+[20] earthquake, heal, remove curse
+[22] dispel good, dispel evil
+[25] harm
+[27] remove paralysis
+[30] sanctuary, banish
+[33] chain lightning
+[35] create spring, cure plague
+[37] calm
+[40] scan, flame strike, demon fire
+[43] holy word, unholy word
+[45] revive, relocate
+~
+B
+0 0 0 0
+#22781
+Professor Porter's Blackboard~
+a blackboard~
+Professor Porter's blackboard occupies a place of prominence at the head of the classroom~
+blackboard
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+1750 0 0
+E
+blackboard board~
+    P|\     /Supply
+     | \   /
+     |  \ /
+     |   X
+     |  / \
+     | /   \
+     |/     \Demand
+     |__________
+               Q
+~
+B
+0 0 0 0
+#22782
+Blackboard in the Mage's classroom~
+blackboard~
+A shimmering board floats in space.  It displays lessons for magic users.~
+board
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+shimmering board~
+Magic users can improve the following skills/spells by using the practice command when they reach the appropriate level:
+
+[ 1] ball of light, magic missile
+[ 2] invis, detect invis, detect magic
+[ 5] monster summon, summon, chill touch
+[ 7] sleep
+[ 8] charm person
+[ 9] strength, shocking grasp, blindness
+[10] create spring, detect poison, shield,  burning hands
+[11] identify, infravision
+[12] fly
+[15] remove curse, curse,  shocking grasp
+[18] locate object
+[19] silence
+[20] enchant weapon, color spray
+[21] stoneskin
+[23] life drain
+[25] ice storm
+[30] conjure elemental, sand storm, shriek
+[31] true sight
+[35] lightning bolt
+[37] portal
+[40] meteor swarm, scan, gate
+[45] fireball
+[50] doom bolt, wrath of the ancients
+~
+B
+0 0 0 0
+#22786
+blackboard for the assassin's classroom~
+blackboard~
+There is a blackboard with lessons for assasins written on it.~
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+blackboard board~
+Assassins can improve the following skills by using the practice command when they reach the appropriate level.  There may soon be a new skill taught here: setting and disarming traps.
+[ 1] hide, backstab
+[ 2] pick lock
+[ 5] sneak
+[ 8] stalk
+[ 9] kick, scan
+[12] hamstring
+[13] trip
+[15] dodge, second attack
+[17] track
+[18] throw
+[21] poison
+[23] sense life
+[25] infravision, circle, enhanced damage 
+[28] parry
+[29] dust
+[30] blindness
+[35] envenom
+[36] paralyze
+[40] assassination
+~
+B
+0 0 0 0
+#22787
+Blackboard in the Ranger's classroom~
+blackboard~
+A blackboard with lessons for rangers stands in one corner.~
+blackboard
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+blackboard board~
+A ranger can improve the following skills by using the practice command when they reach the appropriate level:
+[ 1] track
+[ 2] sneak, shoot
+[ 3] butcher, hide
+[ 5] retreat, create water
+[ 9] infravision, remove poison
+[12] barkskin, kick
+[14] dodge 
+[15] trip, second attack
+[18] sense life, shield
+[20] rescue, scan
+[21] strength
+[22] call of the wild
+[24] disarm
+[25] enhanced damage 
+[35] heightened senses, refresh
+[36] fleet foot
+[30] aggressive
+[40] parry
+[45] hands of wind
+[50] riposte
+~
+B
+0 0 0 0
+#22788
+Blackboard in the Shadow Dancer's classroom~
+Blackboard~
+There is a blackboard with lessons for Shadow Dancers written upon it.~
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+blackboard board~
+Shadow Dancers can improve the following skills by using the practice command when they have reached the appropriate level:
+[ 1] sneak
+[ 3] hide
+[ 5] invisibility
+[ 8] shadow vision
+[10] backstab
+[12] shadow blades
+[13] sleep
+[15] shadow sphere
+[16] trip
+[18] dodge
+[19] blur
+[20] throw, shadow walk
+[22] disarm
+[23] poison
+[25] second attack
+[28] sense life
+[30] scan, charm person
+[33] curse
+[40] shadow dance
+~
+B
+0 0 0 0
+#22798
+fireworks~
+a Roman Candle for New Years Eve~
+This is a Roman Candle fit for a New Year's Eve Celebration.~
+~
+2 4 0 0 0 1 0 0 0
+50 96 4 1
+0 0 0
+B
+0 0 0 0
+#22799
+Ragnarok's Bane~
+Ragnarok's Bane~
+The only weapon Ragnarok fears is wielded by Akkar.~
+~
+5 209709899 0 0 0 8193 0 0 0
+0 5 9 12
+30 0 1685
+E
+christmas ornament~
+This looks like it would be helpful for a group in a hurry.
+~
+A
+33 51
+B
+787520 0 0 0
+$~

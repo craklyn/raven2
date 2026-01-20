@@ -1,0 +1,2281 @@
+#8100
+Palanthas-Zone 81~
+Made by Goth, this area was put in with Soth's Playground to offer
+challenge to both good and evil characters. My intent is to make it a
+link for possibly two more areas from TSR's Dragonlance storyline-
+Daargaard Keep, and The High Clerists Tower. Note I have modified the
+city of Palanthas slightly to make it more Aggro evil..and added some
+more mobs and eq to enhance Goth's lengthy descriptions. Lord Gunthar,
+Lord AMothus, as well as some catacombs are all new.
+Kurse, Jan 98
+~
+81 0 0 0 0 1 255 0
+S
+#8101
+Entrance to the Encampment~
+   You are standing on a small, worn path leading to the group of tents you see
+in the distance.  You can tell from the sounds of weaponsmiths hammering away, 
+of catapults being drawn and loaded, and the cries of battle coming from men's
+bellies, that you have somehow come across the seige of the Solamnic Knights
+upon the most dreaded icon of evil in all Krynn: Dargaard Keep.  And, as you 
+look upward, you can see the silhouette of Dargard Keep, its spires carved from
+the pink granite of the mountain it rests on stretching up into the sky,
+casting an ominous shadow on the land.  And you hope, with all your heart,
+that the  Solamnic Knights succeed, because if they fail, you know that doom
+will befall all of Krynn; a doom called Soth.
+~
+81 32772 0 0 0 2 255 0
+D0
+You see a series of tents and knights ahead.
+~
+~
+0 0 8103
+D2
+A long road stretches miles to the south.
+~
+~
+0 0 23566
+S
+#8102
+The Soldier's Tent~
+  As you look around this tent, you notice nothing out of the ordinary.  Rather
+mundane, actually.  You realize that this tent is for the "less important" men,
+the regular soldiers.  Surely the Solamnic Knights wouldn't have such a shoddy
+tent, with holes in its ceiling letting in the cold night air.
+~
+81 32776 0 0 0 0 255 0
+D0
+You catch a glimpse of the rest of the encampment.
+~
+~
+0 0 8104
+S
+#8103
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly. You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D0
+You see more of the encampment.
+~
+~
+0 0 8106
+D1
+You see more of the encampment.
+~
+~
+0 0 8104
+D2
+You see the beginning of the encampment.
+~
+~
+0 0 8101
+D3
+You attempt to peek inside a tent, but fail.
+~
+~
+0 0 8119
+S
+#8104
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly. You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D1
+You attempt to peek inside a tent, but fail.
+~
+~
+0 0 8105
+D2
+You attempt to peek inside a tent, but fail.
+~
+~
+0 0 8102
+D3
+You see more of the encampment.
+~
+~
+0 0 8103
+S
+#8105
+Knight's Tent~
+   As you enter this huge domed tent, you notice elaborate drawings on the 
+sides and ceiling.  Bear skin rugs adorn the dirt floor of the tent, and the
+center is occupied by a small, rectangular table with six wooden stools around
+it.  In a corner of the tent, you see various pieces of armor; a dull looking
+great helm, some greaves, and some gauntlets.  Obviously this tent was intended
+for a little more than the common Solamnic Soldier.  Then you look straight up,
+and notice a tapestry hanging from the  ceiling; that of a golden crown.
+~
+81 32768 0 0 0 0 255 0
+D3
+You see more of the encampment.
+~
+~
+0 0 8104
+S
+#8106
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly. You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D0
+You see that a huge barricade has been erected here, probably to keep out
+any frontal attack by Soth's evil minions.  In the center of this twenty-foot
+tall barricade is a large iron portcullis.  You notice that it's impossible to
+open it because the pulley system that does it is locked with a huge padlock.
+~
+portcullis~
+2 8106 8120
+D1
+You see more of the encampment.
+~
+~
+0 0 8107
+D2
+You see more of the encampment.
+~
+~
+0 0 8103
+D3
+You see more of the encampment.
+~
+~
+0 0 8116
+S
+#8107
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly. You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D1
+You see more of the encampment.
+~
+~
+0 0 8108
+D3
+You see more of the encampment.
+~
+~
+0 0 8106
+S
+#8108
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly.  You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D0
+You see a large tent.
+~
+~
+0 0 8109
+D3
+You see more of the encampment.
+~
+~
+0 0 8107
+S
+#8109
+An Elaborately Adorned Tent~
+  As you enter this tent, you are immediately struck with its elaborate beauty.
+Many religious symbols representing Paladine, the god of good adorn this tent.
+Towards the back of the tent is a large oaken altar with the holy symbol of
+Paladine carved into it. To the rear of this makeshift temple is a gate,
+leading to a back room.  You cannot quite make out what is in there, but
+whatever it is glows with the brightness of Paladine himself.
+~
+81 32776 0 0 0 0 255 0
+D1
+You are amazed how this gate could be latched to a tent. It looks like you 
+could rip it from the tent easily, as this gate is made only from wood.
+However, when you tug at the gate, a strange blue energy crackles from it,
+sending you sprawling to the ground. Then you realize how this gate could
+stop someone: It is protected by Paladine.
+~
+gate~
+2 8141 8110
+D2
+Outside the priest's tent.
+~
+~
+0 0 8108
+S
+Z 18
+#8110
+Priest's Private Chambers~
+
+   As you enter through the gate into this area of the tent, you notice that
+the entire room glows with a blue aura. In the center of the room is a gold and
+silver box with runes meticulously carved in it.  then you see the two knights
+clad in shining silver armor step forth.  As they draw their swords, you notice
+a picture of a golden longsword carved into their breast plates.  Then they raise
+their swords, prepared to guard the contents of the box to the last.
+~
+81 32776 0 0 0 0 255 0
+D3
+You see the outer chamber of the priest's tent.
+~
+gate~
+2 8141 8109
+S
+#8111
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly. You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D1
+You see more of the encampment.
+~
+~
+0 0 8112
+D2
+You see more of the encampment.
+~
+~
+0 0 8114
+S
+#8112
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly.  You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D2
+You see more of the encampment.
+~
+~
+0 0 8115
+D3
+You see more of the encampment.
+~
+~
+0 0 8111
+S
+#8113
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly.  You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D1
+You see more of the encampment.
+~
+~
+0 0 8114
+D2
+You see the largest tent of all.
+~
+~
+0 0 8117
+D3
+To the west of the encampment, you see a wide gravel road.
+~
+~
+0 0 8121
+S
+#8114
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly. You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D0
+You see more of the encampment.
+~
+~
+0 0 8111
+D3
+You see more of the encampment.
+~
+~
+0 0 8113
+S
+#8115
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly. You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D0
+You see more of the encampment.
+~
+~
+0 0 8112
+D1
+You see more of the encampment.
+~
+~
+0 0 8116
+D2
+You see a huge, illustrious tent.
+~
+~
+0 0 8118
+S
+#8116
+Inside the Encampment~
+   As you wander around inside the Solamnic encampment, you can hear the cries
+of battle more clearly. You see soldiers and knights running this way and that,
+soldiers pushing massive catapults into position for attack, servants helping 
+their masters don their armor, and seargants barking commands to their troops.
+You also hear the soft, holy words of the Priests of Paladine blessing the 
+troops as they prepare their final blitz against Dargaard Keep. And you sense
+that when these mighty powers of good and evil clash, the only true victor will
+be the Grim Reaper.
+~
+81 32768 0 0 0 0 255 0
+D1
+You see more of the encampment.
+~
+~
+0 0 8106
+D3
+You see more of the encampment.
+~
+~
+0 0 8115
+S
+#8117
+Sir Ratleif's Tent~
+   As you walk into this tent, you see a huge oaken table with 20 odd chairs
+surrounding it, placed in the tent's center.  The sides of the tent are adorned
+with tapestries depicting great battles of Solamnic history. Towards the back
+of the tent is a weapons rack, with a huge longsword resting on it. Then a man
+clad in golden armor enters the tent behind you, looks you over, and says
+"State your business." while slowly resting his hand on the pommel of his sword.
+~
+81 32908 0 0 0 0 255 0
+D0
+You see the outside of the encampment.
+~
+~
+0 0 8113
+S
+#8118
+The Rose Tent~
+   As you enter this tent, the first thing you notice is the red roses spread
+all over the ground.  Beautiful tapestries hang on the sides of this luxurious
+tent, all with a reddish tinge, adding to the rose theme of the tent. In the 
+center of the tent hangs a huge tapestry of a single, red rose, symbolizing the
+purity of these honorable knights.  You realize by the extreme extravagance of
+this tent, that those of the Order of the Rose, must be the highest caliber
+knights in all of Krynn.
+~
+81 32776 0 0 0 0 255 0
+D0
+You see the outside of the encampment.
+~
+~
+0 0 8115
+S
+#8119
+The Sword Tent~
+   As you enter this tent, you are taken aback by the beauty of the paintings
+on the walls.  On each side of the tent a different sword is painted. The north
+side has a beautiful runed claymore on it. The east, a silver broadsword. The
+west side has a crystal hilted rapier on it.  And the south side, a golden
+longsword.  In the center, is a pedestal with a silver bladed two-handed sword
+with golden runes running the length of the blade. The hilt is made of the 
+purest gold, with the pommel ending in an enormous ruby.  And you know, this 
+tent can only be that of the Order of the Sword.
+~
+81 32776 0 0 0 0 255 0
+D1
+You see the outside of the encampment.
+~
+~
+0 0 8103
+S
+#8120
+Before the Drawbridge~
+   You are standing before what once was the longest drawbridge you've ever 
+seen in your life. Spanning the Hundred-Foot-Wide Moat, this once sturdy oaken 
+drawbridge now is now charred and burnt from the very fires that birthed the 
+Death Knight known as Soth.
+~
+81 33412 0 0 0 1 255 0
+D2
+You can't quite see past the huge barricade the Solamnic Knights have thrown up.
+~
+portcullis~
+2 8106 8106
+S
+#8121
+Outside the Encampment~
+   You walk outside the guard of the Solamnic encampment to a muddy
+clearing. Looking back upon the camp, you feel a twinge of sorrow for the
+Knights. Once revered and proud, they have become smaller groups..feared
+and reviled by many inhabitants of the land. However, they have remained
+strong and fearless, and have protected the people of Krynn from all that 
+is evil. Far to the west you see their goal, the great city of Palanthas.
+Always the bastion of strength and beauty, Palanthas has yet to fall to
+the dark forces of Soth. These knights travel there to ensure its survival.
+~
+81 32773 0 0 0 2 255 0
+D1
+You see the thin streams of smoke that mark the Solamnic Encampment.
+~
+~
+0 0 8113
+D2
+To the south you see a wide road stretching east-west.
+~
+~
+0 0 8122
+S
+#8122
+The Road to Palanthas~
+  The long road to Palanthas runs east-west here. The road is made of
+finely crushed cobble and gravel, giving it a fine texture which is 
+easier on caravan horse's shodden hooves. To the north a large camp of
+tents and makeshift houses stands, thin wisps of smoke rising into the 
+air from the many campfires. Though the highway is littered with tracks
+and usually well travelled, it is strangely empty and quiet.
+~
+81 32768 0 0 0 2 255 0
+D0
+A large encampment of some sort is off to the north.
+~
+~
+0 0 8121
+D3
+The highway stretches farther to the west.
+~
+~
+0 0 8123
+S
+#8123
+The Road to Palanthas~
+   You walk in silence for many miles until you see the first fresh tracks.
+A number of horses and carts were hear recently, and have ridden off to the
+south over a small hill. You can hear voices close by. Perhaps you should
+go and investigate?
+~
+81 32772 0 0 0 2 255 0
+D1
+The road stretches back to the east as far as you can see.
+~
+~
+0 0 8122
+D2
+A concentration of tracks lead to the south, where a small caravan has stopped.
+~
+~
+0 0 8124
+D3
+Palanthas' highway extends miles and miles to the west.
+~
+~
+0 0 8125
+S
+#8124
+Ambush!!~
+   You walk towards the encampment and openly greet the number of cloaked
+individuals there. As you do, they whirl about, giving you a good look at 
+their reptilian appearances. Draconians!! A large one in the back utters
+some strange words and the area goes black with magical darkness. The
+group of foul creatures stare at you in hatred and attack furiously!!!
+~
+81 2129921 0 0 0 4 255 0
+D0
+The high road to glorious Palanthas extends by here.
+~
+~
+0 0 8123
+S
+#8125
+The Road to Palanthas~
+   You walk for miles and reach a bend in the road. To the north, you can
+see the grand city of Palanthas, shining in the light. With your goal in
+sight, you surge ahead with renewed confidence and vigor, eager to gaze
+upon its many sights and beauties.
+~
+81 32768 0 0 0 2 255 0
+D0
+The fine city of Palanthas sits on the horizon off to the distance.
+~
+~
+0 0 8126
+D1
+The road leads on as far as you can see to the east. Some commotion is far off.
+~
+~
+0 0 8123
+S
+#8126
+The High Road to Palanthas~
+   The road widens here and leads into the famed timberlands of Amothus,
+ruler of Palanthas. Famed for their hunting, the Timberlands stretch for 
+many miles outside the gates of the city, offering more protection to it
+from armies of mounted riders. You decide that this would be a good place to
+pitch camp and rest for the night.
+~
+81 294912 0 0 0 3 255 0
+D0
+The lovely timberlands surround the road from all sides.
+~
+~
+0 0 8127
+D2
+The road leads back to the south.
+~
+~
+0 0 8125
+S
+#8127
+The High Road to Palanthas~
+   Here, the road thins as it enters into a large grove of oaks. Yes,
+before you is Amothus' Timberland, and after it..Palanthas itself. You
+swell in excitement as you realize how close you are to the end of your
+journey. You wipe the dust from your eyes and stride on, towards your goal.
+~
+81 32768 0 0 0 3 255 0
+D2
+A long road leads back to the south. It is well worn, a good sign.
+~
+~
+0 0 8126
+D3
+You can see the bright and wondrous King's Forest before you.
+~
+~
+0 0 8128
+S
+#8128
+Beginning of Amothus' Timberland~
+   As you get into the forest, the path widens considerably. You also
+notice how well trodden the path is, much more so than the high road you
+to this point. The woods before you present lush and beautiful
+plantlife, and strong oak trees stand proudly before you, their leaves 
+shimmering green from the warm sunlight bathing down upon them. You also
+see a sign that reads: "Before you lies Lord Amothus' Timberland. All 
+who would honor these woods and their creatures with respect are welcome.
+The others....beware."
+~
+81 32768 0 0 0 3 255 0
+D1
+You see a dark, and forboding forest before you.
+~
+~
+0 0 8127
+D3
+You see a lush forest welcoming you into it.
+~
+~
+0 0 8129
+E
+sign~
+
+---------------------------------------------------
+|                                                 |
+|    BEFORE YOU LIES LORD AMOTHUS' TIMBERLAND     |
+|                                                 |
+|  ALL WHO WOULD HONOR THESE WOODS WITH RESPECT   |
+|                                                 |
+|       ARE WELCOME.  THE OTHERS...BEWARE.        |
+|                                                 |
+|                  -Lord Amothus of Palanthas     |
+|                                                 |
+---------------------------------------------------
+                    |       |
+                    |       |
+                    |       |
+                    |       |
+~
+S
+#8129
+In Amothus' Timberland~
+   From all around you comes the sounds of the forest, swirling around
+your head in perfect harmony.  As the myriad birds sing their songs and
+dance their aerial dance, you come to realize the ultimate purity contained
+within this forest.  And, as you walk through the forest, the huge oak
+trees seem to stand guard along the path, lifting the sense of evil and
+danger swelling in you, and replacing it with a sense of utter tranquility.
+~
+81 32768 0 0 0 3 255 0
+D1
+You see a clearly marked path heading eastward.
+~
+~
+0 0 8128
+D3
+You see a clearly marked path heading toward Palanthas.
+~
+~
+0 0 8130
+S
+#8130
+In Amothus' Timberland~
+   From all around you comes the sounds of the forest, swirling around
+your head in perfect harmony.  As the myriad birds sing their songs and
+dance their aerial dance, you come to realize the ultimate purity contained
+within this forest.  And, as you walk through the forest, the huge oak
+trees seem to stand guard along the path, lifting the sense of evil and
+danger swelling in you, and replacing it with a sense of utter tranquility.
+~
+81 32768 0 0 0 3 255 0
+D1
+You see a well marked path heading east.
+~
+~
+0 0 8129
+D2
+You see a well marked path leading towards Palanthas.
+~
+~
+0 0 8131
+S
+#8131
+In Amothus' Timberland~
+   From all around you comes the sounds of the forest, swirling around
+your head in perfect harmony.  As the myriad birds sing their songs and
+dance their aerial dance, you come to realize the ultimate purity contained
+within this forest.  And, as you walk through the forest, the huge oak
+trees seem to stand guard along the path, lifting the sense of evil and
+danger swelling in you, and replacing it with a sense of utter tranquility.
+~
+81 32768 0 0 0 3 255 0
+D0
+You see a well marked path curving toward the north.
+~
+~
+0 0 8130
+D3
+You see a path leading towards Palanthas.
+~
+~
+0 0 8132
+S
+#8132
+In Amothus' Timberland~
+   From all around you comes the sounds of the forest, swirling around
+your head in perfect harmony.  As the myriad birds sing their songs and
+dance their aerial dance, you come to realize the ultimate purity contained
+within this forest.  And, as you walk through the forest, the huge oak
+trees seem to stand guard along the path, lifting the sense of evil and
+danger swelling in you, and replacing it with a sense of utter tranquility.
+~
+81 32768 0 0 0 3 255 0
+D0
+You see a trail leading through the forest.
+~
+~
+0 0 8133
+D1
+You see a trail leading towards the dreaded Dargaard Keep.
+~
+~
+0 0 8131
+S
+#8133
+In Amothus' Timberland~
+   From all around you comes the sounds of the forest, swirling around
+your head in perfect harmony.  As the myriad birds sing their songs and
+dance their aerial dance, you come to realize the ultimate purity contained
+within this forest.  And, as you walk through the forest, the huge oak
+trees seem to stand guard along the path, lifting the sense of evil and
+danger swelling in you, and replacing it with a sense of utter tranquility.
+~
+81 32768 0 0 0 3 255 0
+D2
+You see a path leading towards Dargaard Keep.
+~
+~
+0 0 8132
+D3
+You can see the towers of Palanthas from here, just barely peeking over the treeline.
+~
+~
+0 0 8134
+S
+#8134
+In Amothus' Timberland~
+   From all around you comes the sounds of the forest, swirling around
+your head in perfect harmony.  As the myriad birds sing their songs and
+dance their aerial dance, you come to realize the ultimate purity contained
+within this forest.  And, as you walk through the forest, the huge oak
+trees seem to stand guard along the path, lifting the sense of evil and
+danger swelling in you, and replacing it with a sense of utter tranquility.
+~
+81 32768 0 0 0 3 255 0
+D1
+You see nothing but beautiful forest.
+~
+~
+0 0 8133
+D2
+You see nothing but beautiful forest.
+~
+~
+0 0 8135
+S
+#8135
+In Amothus' Timberland~
+   From all around you comes the sounds of the forest, swirling around
+your head in perfect harmony.  As the myriad birds sing their songs and
+dance their aerial dance, you come to realize the ultimate purity contained
+within this forest.  And, as you walk through the forest, the huge oak
+trees seem to stand guard along the path, lifting the sense of evil and
+danger swelling in you, and replacing it with a sense of utter tranquility.
+~
+81 0 0 0 0 3 255 0
+D0
+You see nothing but beautiful forest.
+~
+~
+0 0 8134
+D3
+You can see the towering gates ahead, guarding Palanthas against evildoers.
+~
+~
+0 0 8136
+S
+#8136
+The Gates of Palanthas~
+   Before you is the portal to the awe-inspiring city of Palanthas.  The
+drawbridge lies open, its fifty yard length spanning the shimmering blue
+moat surrounding the city.  The portcullis, however, still blocks the way
+into palanthas, its runed golden bars glowing brightly with the powerful
+magical wards placed on them by some of the most powerful wizards of
+Krynn...even some more powerful than that of Elminster of Shadowdale in
+the realm of Toril.  On either side of the drawbrige, on the near side
+of the moat stands two golden statues of noble-looking dragons, seemingly
+standing watch over Amothus' Timberland.  Suddenly, the Gold Dragons come
+to life, their eyes opening to reveal their profound wisdom.  Then, they
+start padding toward you, and you are awe-struck...with just a little tinge
+of fear in the back of your mind.
+~
+81 0 0 0 0 3 255 0
+D1
+You see the entrance to Amothus' Timberland.
+~
+~
+0 0 8135
+D3
+Past the portcullis, you see the beautiful city of Palanthas.
+~
+portcullis gate~
+1 8142 8137
+S
+#8137
+Inside the gates of Palanthas~
+   Palanthas.  Its very name is spoken with wonder and reverence, as it
+is truely a great bastion of the forces of good.  Centuries have seen this
+great city survive siege after siege of Takhisis' evil forces, trying to
+breach its walls, but to no avail.  Palanthas has truely stood the test
+of time, and is seen a bane against evil.  In fact, so pure of heart are
+the people of Palanthas, that Paladine, god of good, has granted the people
+the power to detect evil beings by merely looking at them.  
+   As you stand just inside the gates, you look northward to Amothus'
+palace rising up over the houses to the north.  Above you are two lookout
+posts where faithful knights guard against evil.
+~
+81 4 0 0 0 1 255 0
+D0
+You see a glimpse of the palace, on the northern end of Rose Street.
+~
+~
+0 0 8140
+D1
+Past the portcullis lies Amothus' Timberland.
+~
+portcullis gate~
+1 8142 8136
+D4
+You see a guard tower complete with guards!
+~
+~
+0 0 8138
+S
+#8138
+Guard Tower~
+   As you enter the guard tower, you see the backs of several of Lord
+Amothus' finest archers.  Their grim resolve is another testament to the
+longevity of Palanthas.  In the corner lie several quivers of arrows and
+replacement bows, which, as you look closer, seem magically endowed, as
+per the runes carved into the bows.  To the east, you see a small rope
+bridge leading to the guard tower on the other side of the gates.
+~
+81 0 0 0 0 1 255 0
+D1
+You see past the small rope bridge to the other guard tower.
+~
+~
+0 0 8139
+D5
+You can see the inside of the gates, through the open trapdoor.
+~
+~
+0 0 8137
+S
+#8139
+Guard Tower~
+   As you enter the guard tower, you see the backs of several of Lord
+Amothus' finest archers.  Their grim resolve is another testament to the
+longevity of Palanthas.  In the corner lie several quivers of arrows and
+replacement bows, which, as you look closer, seem magically endowed, as
+per the runes carved into the bows.  To the west, you see a small rope
+bridge leading to the guard tower on the other side of the gates.
+~
+81 0 0 0 0 1 255 0
+D3
+You see the other guard post on the western side of the gate.
+~
+~
+0 0 8138
+D5
+You see inside the gate through the trapdoor.
+~
+trap door trapdoor~
+0 0 8137
+S
+#8140
+Rose Street~
+   As you walk down Rose Street, named for the infamous Knights of the
+Order of the Rose, you can see the beautiful houses of the noble and
+wealthy of Palanthas.  Although there is neither famine nor poverty in
+Palanthas, these are the homes of the "above average" citizens of Palanthas,
+as their gold-framed windows, flowerbeds filled with the most exotic flowers
+and plants, and beautifully decorated entryways portray.  
+~
+81 0 0 0 0 1 255 0
+D0
+You can see more houses lining Rose Street.
+~
+~
+0 0 8141
+D1
+You see inside the beautifully ornate home of a citizen of Palanthas.
+~
+~
+0 0 8147
+D2
+You can see the inside of the gates of Palanthas.
+~
+~
+0 0 8137
+D3
+You can see inside the beautifully ornate home of a citizen of Palanthas.
+~
+~
+0 0 8146
+S
+#8141
+Rose Street~
+   As you walk down Rose Street, named for the infamous Knights of the
+Order of the Rose, you can see the beautiful houses of the noble and
+wealthy of Palanthas.  Although there is neither famine nor poverty in
+Palanthas, these are the homes of the "above average" citizens of Palanthas,
+as their gold-framed windows, flowerbeds filled with the most exotic flowers
+and plants, and beautifully decorated entryways portray.  
+~
+81 0 0 0 0 1 255 0
+D0
+You can see the beautiful houses lining Rose Street.
+~
+~
+0 0 8142
+D1
+You can see inside the beautifully ornate home of a citizen of Palanthas.
+~
+~
+0 0 8149
+D2
+You see the elegant homes lining Rose Street.
+~
+~
+0 0 8140
+D3
+You can see inside the beautifully ornate home of a citizen of Palanthas.
+~
+~
+0 0 8148
+S
+#8142
+Shrine to Paladine~
+   As you reach the center of Palanthas, also the intersection of Rose
+and Crown Streets, you look upon the most magnificently carved fountain
+you've ever seen.  This shrine to Paladine, carved from the purest marble,
+depicts Paladine himself, standing in front of a huge sun with his arms
+outstretched, water flowing from his hands down into the basin of the
+fountain, the water representing Paladine's love flowing down onto his
+beloved Palanthas.  The water, as you look into it, is of the deepest blue,
+and seems to be aflame with a light-blue aura.  You drink, and feel
+rejuvinated from the pure liquid, as if you were drinking Paladines divine
+lifeblood.  Then you realize Paladine is indeed blessed.
+~
+81 393232 0 0 0 1 255 0
+D0
+You see ornate houses lining Rose Street.
+~
+~
+0 0 8143
+D1
+You can see the somewhat less impressive houses down Crown Street.
+~
+~
+0 0 8154
+D2
+You see beautiful houses lining the street.
+~
+~
+0 0 8141
+D3
+You can see some less impressive houses down Crown Street.
+~
+~
+0 0 8159
+S
+#8143
+Rose Street~
+   As you walk down Rose Street, named for the infamous Knights of the
+Order of the Rose, you can see the beautiful houses of the noble and wealthy
+of Palanthas.  Although there is neither famine nor poverty in Palanthas,
+these are the homes of the "above average" citizens of Palanthas, as their
+gold-framed windows, flowerbeds filled with the most exotic flowers and
+plants, and beautifully decorated entryways portray.  
+~
+81 0 0 0 0 1 255 0
+D0
+You can see very ornate houses lining Rose Street.
+~
+~
+0 0 8144
+D2
+You can see a beautiful fountain of marble.
+~
+~
+0 0 8142
+S
+#8144
+Rose Street~
+   As you walk down Rose Street, named for the infamous Knights of the
+Order of the Rose, you can see the beautiful houses of the noble and
+wealthy of Palanthas.  Although there is neither famine nor poverty in
+Palanthas, these are the homes of the "above average" citizens of Palanthas,
+as their gold-framed windows, flowerbeds filled with the most exotic flowers
+and plants, and beautifully decorated entryways portray.  
+~
+81 0 0 0 0 1 255 0
+D0
+You can see the entrance to the courtyard of the palace.
+~
+~
+0 0 8145
+D1
+You can see the beautifully furnished home of a citizen of Palanthas.
+~
+~
+0 0 8153
+D2
+You can see ornate houses lining the road.
+~
+~
+0 0 8143
+D3
+You can see the beautifully furnished home of a citizen of Palanthas.
+~
+~
+0 0 8152
+S
+#8145
+Rose Street~
+   You come to the end of Rose Street, still marvelling at all the 
+beautiful houses and architecture. Though you were skeptical before you
+can surely understand why it is rumored there is no poverty in this 
+city. It is truly a magnificent place to be in. To the north is a large
+building, made of the whitest stone. It rises higher than all the other
+structures in the city, save the Tower, and serves as the city's
+centerpiece. This is the residence of Lord Amothus, head of Palanthus'
+government and military force. If there is a problem in the city, it 
+is ultimately resolved in this building.
+~
+81 0 0 0 0 1 255 0
+D0
+Before you lie fine doors of bleached wood, intricately carved.
+~
+door wooden~
+1 0 8179
+D1
+You can see the hustling and bustling that can only be characteristic
+of a marketplace.
+~
+~
+0 0 8175
+D2
+You can see ornate houses lining the road.
+~
+~
+0 0 8144
+S
+#8146
+A Luxurious Home~
+   As you step off of Rose Street into this house, you are captivated
+by the beauty of the furnishings.  Set in front of a fireplace of marble
+lie three lounging chairs, cushioned by the softest feathers, and with
+small, red roses intricately sewn into them.  Adorning the walls, your
+eyes swim in a veritable sea of artwork, from gold-laced tapestries, to
+the finest oil paintings, to the rarest vases of alabaster, set atop oaken
+pedestals.  And then you notice a large tapestry -the figure of what you
+can only be Paladine -hung over the mantlepiece of the fireplace, showing
+the households devotion to the god of all good.  
+~
+81 0 0 0 0 1 255 0
+D1
+You see the cobblestoned Rose Street ahead.
+~
+~
+0 0 8140
+S
+#8147
+A Luxurious Home~
+   As you step off of Rose Street into this house, you are captivated by
+the beauty of the furnishings.  Set in front of a fireplace of marble lie
+three lounging chairs, cushioned by the softest feathers, and with small,
+red roses intricately sewn into them.  Adorning the walls, your eyes swim
+in a veritable sea of artwork, from gold-laced tapestries, to the finest
+oil paintings, to the rarest vases of alabaster, set atop oaken pedestals.
+And then you notice a large tapestry -the figure of what you can only be
+Paladine -hung over the mantlepiece of the fireplace, showing the households
+devotion to the god of all good.  
+~
+81 0 0 0 0 1 255 0
+D3
+You see the cobblestoned Rose Street ahead.
+~
+~
+0 0 8140
+S
+#8148
+A Luxurious Home~
+   As you step off of Rose Street into this house, you are captivated by
+the beauty of the furnishings.  Set in front of a fireplace of marble lie
+three lounging chairs, cushioned by the softest feathers, and with small,
+red roses intricately sewn into them.  Adorning the walls, your eyes swim
+in a veritable sea of artwork, from gold-laced tapestries, to the finest
+oil paintings, to the rarest vases of alabaster, set atop oaken pedestals.
+And then you notice a large tapestry -the figure of what you can only be
+Paladine -hung over the mantlepiece of the fireplace, showing the households
+devotion to the god of all good.  
+~
+81 0 0 0 0 1 255 0
+D1
+You see the cobblestoned Rose Street ahead.
+~
+~
+0 0 8141
+S
+#8149
+A Luxurious Home~
+   As you step off of Rose Street into this house, you are captivated by
+the beauty of the furnishings.  Set in front of a fireplace of marble lie
+three lounging chairs, cushioned by the softest feathers, and with small,
+red roses intricately sewn into them.  Adorning the walls, your eyes swim
+in a veritable sea of artwork, from gold-laced tapestries, to the finest
+oil paintings, to the rarest vases of alabaster, set atop oaken pedestals.
+And then you notice a large tapestry -the figure of what you can only be
+Paladine -hung over the mantlepiece of the fireplace, showing the households
+devotion to the god of all good.  
+~
+81 0 0 0 0 1 255 0
+D3
+You see the cobblestoned Rose Street ahead.
+~
+~
+0 0 8141
+S
+#8150
+A Pleasant-Looking Cottage~
+   Two small, roughly-cut windows allow the only light into this meager
+cottage.  The bare floorboards, and rickety chairs lend themselves to
+the fact that the owners of this house really don't have a lot to spend.
+Still, everything has been kept imaculately clean, and the fire in the
+stone fireplace is very warm, and inviting.  Clearly, though these people
+are not rich, they are still devoted to love and goodness, as their shrine
+to Paladine, a small wooden statue of the patron of paladins resting on
+the mantlepiece, shows.
+~
+81 0 0 0 0 1 255 0
+D2
+You can see the freshly graveled road of Crown Street from here.
+~
+~
+0 0 8159
+S
+#8151
+A Nicely Kept House~
+   Not as glamourous as those on Rose Street, this smaller home still
+carries the welcoming sense of comfort in it.  Two easy chairs that look
+a little worn with age, but still clean and very inviting sit, each in
+a corner facing the red brick fireplace of the small living room.  Though
+no carpet is on the floor, the wooden floorboards are smoothly sanded
+and painted in soft tones.  And, as is customary in Palanthas, a small
+painting -a meager shrine to Paladine- adorns the mantlepiece.
+~
+81 0 0 0 0 1 255 0
+D2
+You can see the freshly graveled road of Crown Street from here.
+~
+~
+0 0 8154
+S
+#8152
+A Luxurious Home~
+   As you step off of Rose Street into this house, you are captivated by
+the beauty of the furnishings.  Set in front of a fireplace of marble lie
+three lounging chairs, cushioned by the softest feathers, and with small,
+red roses intricately sewn into them.  Adorning the walls, your eyes swim
+in a veritable sea of artwork, from gold-laced tapestries, to the finest
+oil paintings, to the rarest vases of alabaster, set atop oaken pedestals.
+And then you notice a large tapestry -the figure of what you can only be
+Paladine -hung over the mantlepiece of the fireplace, showing the households
+devotion to the god of all good.
+~
+81 0 0 0 0 1 255 0
+D1
+You see the cobblestoned Rose Street ahead.
+~
+~
+0 0 8144
+S
+#8153
+A Luxurious Home~
+   As you step off of Rose Street into this house, you are captivated by
+the beauty of the furnishings.  Set in front of a fireplace of marble lie
+three lounging chairs, cushioned by the softest feathers, and with small,
+red roses intricately sewn into them.  Adorning the walls, your eyes swim
+in a veritable sea of artwork, from gold-laced tapestries, to the finest
+oil paintings, to the rarest vases of alabaster, set atop oaken pedestals.
+And then you notice a large tapestry -the figure of what you can only be
+Paladine -hung over the mantlepiece of the fireplace, showing the households
+devotion to the god of all good.  
+~
+81 0 0 0 0 1 255 0
+D3
+You see the cobblestoned Rose Street ahead.
+~
+~
+0 0 8144
+S
+#8154
+Crown Street~
+   As you step off of Rose Street onto Crown street, the cobblestones fall
+away to a freshly graveled road, somewhat narrower,  but still bustling
+with people to and fro.  You soon come to realize that Crown Street contains
+a somewhat less wealthy class of people.  Although the houses are still
+finely built, and almost as large, the artwork and metalwork adorning the
+outside of the houses on Rose Street are missing.  Instead, the outer walls
+have simply been whitewashed.  Also, you realize that the street names,
+and accompanying levels of social classes on each, seem to reflect that
+of the three orders of the Solamnic Knights: Rose, Crown, and Sword.
+~
+81 0 0 0 0 1 255 0
+D0
+You see a very warm and inviting house before you.
+~
+~
+0 0 8151
+D1
+You see rows of nice, but rather plain houses adorning Crown Street.
+~
+~
+0 0 8155
+D3
+You can see a great marble fountain up ahead.
+~
+~
+0 0 8142
+S
+#8155
+Crown Street~
+   As you step off of Rose Street onto Crown street, the cobblestones fall
+away to a freshly graveled road, somewhat narrower,  but still bustling with
+people to and fro.  You soon come to realize that Crown Street contains a
+somewhat less wealthy class of people.  Although the houses are still finely
+built, and almost as large, the artwork and metalwork adorning the outside of
+the houses on Rose Street are missing.  Instead, the outer walls have simply
+been whitewashed.  Also, you realize that the street names, and accompanying
+levels of social classes on each, seem to reflect that of the three orders
+of the Solamnic Knights: Rose, Crown, and Sword.
+~
+81 0 0 0 0 1 255 0
+D1
+You can see nice, but plain-looking houses adorning Crown Street.
+~
+~
+0 0 8156
+D3
+You can see nice, but plain-looking houses adorning Crown Street.
+~
+~
+0 0 8154
+S
+#8156
+Crown Street~
+   As you step off of Rose Street onto Crown street, the cobblestones fall
+away to a freshly graveled road, somewhat narrower,  but still bustling with
+people to and fro.  You soon come to realize that Crown Street contains a
+somewhat less wealthy class of people.  Although the houses are still finely
+built, and almost as large, the artwork and metalwork adorning the outside
+of the houses on Rose Street are missing.  Instead, the outer walls have
+simply been whitewashed.  Also, you realize that the street names, and
+accompanying levels of social classes on each, seem to reflect that of the
+three orders of the Solamnic Knights: Rose, Crown, and Sword.
+~
+81 0 0 0 0 1 255 0
+D0
+You see a plain, but nice-looking house inviting you into its comfort before you.
+~
+~
+0 0 8169
+D1
+You can see nice, but plain looking houses adorning Crown Street.
+~
+~
+0 0 8157
+D2
+You can see a nice, but plain looking house inviting you into its comfort before you.
+~
+~
+0 0 8171
+D3
+You can see nice, but plain looking houses adorning Crown Street.
+~
+~
+0 0 8155
+S
+#8157
+Crown Street~
+   As you step off of Rose Street onto Crown street, the cobblestones fall
+away to a freshly graveled road, somewhat narrower,  but still bustling
+with people to and fro.  You soon come to realize that Crown Street contains
+a somewhat less wealthy class of people.  Although the houses are still
+finely built, and almost as large, the artwork and metalwork adorning the
+outside of the houses on Rose Street are missing.  Instead, the outer walls
+have simply been whitewashed.  Also, you realize that the street names, and
+accompanying levels of social classes on each, seem to reflect that of the
+three orders of the Solamnic Knights: Rose, Crown, and Sword.
+~
+81 0 0 0 0 1 255 0
+D0
+You can see a nicely kept house, both warm, and inviting, welcoming you into it.
+~
+~
+0 0 8170
+D3
+You can see many plain, but nice-looking houses lining the street.
+~
+~
+0 0 8156
+S
+#8158
+The Audience Chamber of Lord Amothus~
+   This large atrium was built for two reasons: to impress, and to
+provide an acoustically sound hearing chamber (rumor has it that Amothus
+is going deaf). In the east wall stands the Speaker's chair, where Lord
+Amothus sits and listens to the ideas and opinions of Palanthians whom
+he has granted an audience. On the north and southern walls are lines of
+dark wood chairs and desks for the city council which meets weekly.
+This whole room has been crafted decadently, no expense spared. Which
+for the same reason it was constructed 'Kender-Proof'. That is, 
+everything is securely fastened.
+~
+81 520 0 0 0 1 255 0
+D1
+A small door of mahogony is set in the corner of the east wall.
+~
+door wood mahogony~
+1 8153 8173
+D2
+A sturdy looking, steel-reinforced door of oak makes any unwanted
+intrusion into the southern chamber impossible.
+~
+door oak steel~
+2 8152 8172
+D3
+A grandiose, leather-covered door leads back to the waiting room.
+~
+door leather~
+2 8151 8182
+S
+#8159
+Sword Street~
+   Barely able to be called a road, and conforming to the social structure
+of the triad of Knighthoods of Solamnia, the dirt covered road of Sword
+Street is home to the least wealthy class of Palanthas.  All along Sword
+Street stand meager little cottages.  But though the owners had not the
+money to lavish the outside with decorations, or even whitewash for that
+matter, the general condition of these small homes is still quite admirable.
+You find yourself wishing that all "poverty" was as prosperous as this.
+~
+81 0 0 0 0 1 255 0
+D0
+You find yourself peeking into one of the cottages along the road.
+~
+~
+0 0 8150
+D1
+You see a magnificent fountain just ahead.
+~
+~
+0 0 8142
+D3
+You see small cottages lining Sword Street.
+~
+~
+0 0 8161
+S
+#8161
+Sword Street~
+   Barely able to be called a road, and conforming to the social structure
+of the triad of Knighthoods of Solamnia, the dirt covered road of Sword
+Street is home to the least wealthy class of Palanthas.  All along Sword
+Street stand meager little cottages.  But though the owners had not the
+money to lavish the outside with decorations, or even whitewash for that
+matter, the general condition of these small homes is still quite admirable.
+You find yourself wishing that all "poverty" was as prosperous as this.
+~
+81 0 0 0 0 1 255 0
+D0
+You peek into one of the cottages lining the road.
+~
+~
+0 0 8166
+D1
+You can see rows of cottages lining the road.
+~
+~
+0 0 8159
+D2
+You peek into one of the cottages lining the road.
+~
+~
+0 0 8168
+D3
+You can see rows of cottages lining the road.
+~
+~
+0 0 8162
+S
+#8162
+Sword Street~
+   Barely able to be called a road, and conforming to the social structure
+of the triad of Knighthoods of Solamnia, the dirt covered road of Sword
+Street is home to the least wealthy class of Palanthas.  All along Sword
+Street stand meager little cottages.  But though the owners had not the
+money to lavish the outside with decorations, or even whitewash for that
+matter, the general condition of these small homes is still quite admirable.
+You find yourself wishing that all "poverty" was as prosperous as this.
+~
+81 0 0 0 0 1 255 0
+D1
+You can see rows of cottages lining the road.
+~
+~
+0 0 8161
+D2
+You peek into one of the cottages lining the road.
+~
+~
+0 0 8167
+D3
+You can see the intersection of Sword Street and Dragon Avenue.
+~
+~
+0 0 8163
+S
+#8163
+Sword Street~
+   Barely able to be called a road, and conforming to the social structure
+of the triad of Knighthoods of Solamnia, the dirt covered road of Sword
+Street is home to the least wealthy class of Palanthas.  All along Sword
+Street stand meager little cottages.  But though the owners had not the
+money to lavish the outside with decorations, or even whitewash for that
+matter, the general condition of these small homes is still quite admirable.
+You find yourself wishing that all "poverty" was as prosperous as this.
+~
+81 0 0 0 0 1 255 0
+D0
+You can see the huge building housing the dragons at the end of Dragon Avenue.
+~
+~
+0 0 8184
+D1
+You can see rows of cottages lining the street.
+~
+~
+0 0 8162
+D3
+The ivory towers of the Church of Paladine rise up in front of you.
+~
+~
+0 0 8164
+S
+#8164
+The Holy Church of Paladine~
+   With spires reaching for the heavens, trying desperately to get close
+to the one thing it cherishes the most, the Temple of Paladine acts as a
+focal point for all of Palanthas's love and devotion to their god.  As you
+look inside, you see beautiful stained glass windows, depicting the most
+heroic champions of Paladine.  Holy symbols adorn the wall behind the lavishly
+carved oaken altar.  And you know instantly, that this holy place is a
+sanctuary to good...and a bane to all evil.
+~
+81 0 0 0 0 1 255 0
+D1
+You see the crossroads of Sword Street and Dragon Avenue.
+~
+~
+0 0 8163
+S
+#8165
+A Bronze Dragon's Chambers~
+   As you enter one of the huge marble buildings that the legendary bronze
+dragons call home, you are instantly enamored by the luxuriousness of the
+place.  Plundered from Takhisis's evil minions such as the dreaded Draconians
+and from other evil dragons, Gold and silver trinkets, figurines, and statues,
+each studded with rare stones, line the walls.  Were you to ask, you would
+find that each piece of treasure represents a victory against evil.  Then you
+look to the center of the structure to find a bronze dragon, curled up and in
+a deep sleep.  Then, without even opening an eye, the great juggernaut of the
+sky lifts its arm and points a massive, razor-sharp claw at you, saying,
+"I do belive that you are tresspassing".
+~
+81 520 0 0 0 1 255 0
+D2
+You can see a small stone path leading through the large buildings that
+house the bronze dragons.
+~
+~
+0 0 8189
+S
+#8166
+A Pleasant-Looking Cottage~
+   Two small, roughly-cut windows allow the only light into this meager
+cottage.  The bare floorboards, and rickety chairs lend themselves to the
+fact that the owners of this house really don't have a lot to spend.  Still,
+everything has been kept imaculately clean, and the fire in the stone
+fireplace is very warm, and inviting.  Clearly, though these people are not
+rich, they are still devoted to love and goodness, as their shrine to
+Paladine, a small wooden statue of the patron of paladins resting on the
+mantlepiece, shows.
+~
+81 0 0 0 0 1 255 0
+D2
+You see a dirt road leading east and west.
+~
+~
+0 0 8161
+S
+#8167
+A Pleasant-Looking Cottage~
+   Two small, roughly-cut windows allow the only light into this meager
+cottage.  The bare floorboards, and rickety chairs lend themselves to the
+fact that the owners of this house really don't have a lot to spend.  Still,
+everything has been kept imaculately clean, and the fire in the stone
+fireplace is very warm, and inviting.  Clearly, though these people are
+not rich, they are still devoted to love and goodness, as their shrine to
+Paladine, a small wooden statue of the patron of paladins resting on the
+mantlepiece, shows.
+~
+81 0 0 0 0 1 255 0
+D0
+You see a dirt road leading east and west.
+~
+~
+0 0 8162
+S
+#8168
+A Pleasant-Looking Cottage~
+   Two small, roughly-cut windows allow the only light into this meager
+cottage.  The bare floorboards, and rickety chairs lend themselves to the
+fact that the owners of this house really don't have a lot to spend.  Still,
+everything has been kept imaculately clean, and the fire in the stone
+fireplace is very warm, and inviting.  Clearly, though these people are not
+rich, they are still devoted to love and goodness, as their shrine to
+Paladine, a small wooden statue of the patron of paladins resting on the
+mantlepiece, shows.
+~
+81 0 0 0 0 1 255 0
+D0
+You see a dirt road leading east and west.
+~
+~
+0 0 8161
+S
+#8169
+A Nicely Kept House~
+   Not as glamourous as those on Rose Street, this smaller home still carries
+the welcoming sense of comfort in it.  Two easy chairs that look a little
+worn with age, but still clean and very inviting sit, each in a corner facing
+the red brick fireplace of the small living room.  Though no carpet is on the
+floor, the wooden floorboards are smoothly sanded and painted in soft tones.
+And, as is customary in Palanthas, a small painting -a meager shrine to
+Paladine- adorns the mantlepiece.
+~
+81 0 0 0 0 1 255 0
+D2
+You see a well-graveled road running east and west.
+~
+~
+0 0 8156
+S
+#8170
+A Nicely Kept House~
+   Not as glamourous as those on Rose Street, this smaller home still carries
+the welcoming sense of comfort in it.  Two easy chairs that look a little worn
+with age, but still clean and very inviting sit, each in a corner facing the
+red brick fireplace of the small living room.  Though no carpet is on the
+floor, the wooden floorboards are smoothly sanded and painted in soft tones.
+And, as is customary in Palanthas, a small painting -a meager shrine to
+Paladine- adorns the mantlepiece.
+~
+81 0 0 0 0 1 255 0
+D2
+You see a well-graveled road running east and west.
+~
+~
+0 0 8157
+S
+#8171
+A Nicely Kept House~
+   Not as glamourous as those on Rose Street, this smaller home still
+carries the welcoming sense of comfort in it.  Two easy chairs that look
+a little worn with age, but still clean and very inviting sit, each in
+a corner facing the red brick fireplace of the small living room.  Though
+no carpet is on the floor, the wooden floorboards are smoothly sanded
+and painted in soft tones.  And, as is customary in Palanthas, a small
+painting -a meager shrine to Paladine- adorns the mantlepiece.
+~
+81 0 0 0 0 1 255 0
+D0
+You see a well-graveled road running east and west.
+~
+~
+0 0 8156
+S
+#8172
+The Planning Chamber and Map Room~
+   This large room is where Amothus consults with his military advisors
+and most important visitors to discuss and strategize about the Dragonwar
+which is spreading farther each day. A large planning table covered in
+maps and markers dominated the centre of the room. A large window lies
+in the south wall, overlooking all of Palanthas.
+~
+81 616 0 0 0 1 255 0
+D0
+This thick, oaken door secures this room from any disturbances.
+~
+door oaken steel~
+2 8152 8158
+E
+table planning map~
+The maps and tables show the positioning of the evil and good 
+Dragonarmies across the plains of Solamnia. Dominant features of the 
+main map are: Palanthas, the High Clerists Tower, Daargard Keep, and the
+main bulk of the Red Dragonarmy.
+~
+E
+window~
+   From here, Lord Amothus can look out over his city, which he does
+often. With its clean buildings of white marble, bustling streets, and
+lush gardens, it looks a city blessed by the Gods themselves.
+~
+S
+#8173
+Amothus' Living Quarters~
+  This sparsely furnished bedchamber is where Amothus spends most of his
+nights (most). A nice four-post bed occupies the centre of the room and
+is flanked by a small nightstand and armoire. The north wall is a walk-in
+closet where Amothus stores his hundreds of combinations of the latest
+and trendiest fashions. In the southeast corner is another staircase, 
+which leads down to the living quarters and kitchens.
+~
+81 520 0 0 0 1 255 0
+D3
+A finely designed mahogony door leads to Amothus' audience chamber.
+~
+door wooden mahogony~
+1 8153 8158
+S
+#8174
+Gold Wyrm's Lair~
+   As you enter the cavernous lair, carved into the mountain by the gold wyrm
+himself, you are almost blinded by a shimmering, white light.  As your eyes
+adjust, you look towards its source, squinting through the still almost
+unbearable light, to see the biggest Gold Dragon you've ever seen.  Then you
+look past him, briefly, to take in the rest of his home.  You see, carved into
+the northern wall, what looks to be rows upon rows of shelves full of books. 
+To your left, in a small alcove, are the treasures he has collected in his
+centuries of acting as a bane to evil.  And to your right, you see a HUGE
+tapestry, almost as tall as the sixty-foot dragon, portraying a gigantic
+flying city with stream upon stream of wyverns flying from it, only to be
+destroyed by the mass of good dragons.  Then you lock eyes with the Wyrm, and
+you get a feeling in the back of your mind.  But you can't quite tell yet if
+it's awe...or fear.
+~
+81 520 0 0 0 1 255 0
+D2
+You see a small road leading through the humongous structures that house the dragons.
+~
+~
+0 0 8192
+S
+#8175
+Market Way~
+   As you walk down Market way, you can hear the familiar sounds of merchants
+and traders trying to sell their goods.  You can smell the tantalizing aroma
+of freshly baked bread coming from the bakery, as you take in the rest of the
+scene.  Dodging your way through the many street vendors, you catch glimpses
+of the many, more permanent shops lining the street.  You see a jeweler trying
+to dazzle the crowd with her many fine gems, an armorsmith hammering away in
+the open air, a weaponsmith eagerly testing his craftmanship in a friendly
+deul with a patron, and a happy mage displaying his mystic inventory before
+the crowd.  The only thing missing from this all-too-common scene, you notice
+as you look around, is the complete lack of those lesser denizens of the
+marketplace, who find their wealth in the purses of others.
+~
+81 0 0 0 0 1 255 0
+D1
+You see shops and street vendors as you scan the distance.
+~
+~
+0 0 8176
+D3
+You see the entrance to Lord Amothus' courtyard.
+~
+~
+0 0 8145
+S
+#8176
+Market Way~
+   As you walk down Market way, you can hear the familiar sounds of merchants
+and traders trying to sell their goods.  You can smell the tantalizing aroma
+of freshly baked bread coming from the bakery, as you take in the rest of the
+scene.  Dodging your way through the many street vendors, you catch glimpses
+of the many, more permanent shops lining the street.  You see a jeweler trying
+to dazzle the crowd with her many fine gems, an armorsmith hammering away in
+the open air, a weaponsmith eagerly testing his craftmanship in a friendly deul
+with a patron, and a happy mage displaying his mystic inventory before the
+crowd.  The only thing missing from this all-too-common scene, you notice as
+you look around, is the complete lack of those lesser denizens of the
+marketplace, who find their wealth in the purses of others.
+~
+81 0 0 0 0 1 255 0
+D1
+You see shops and street vendors as you scan the distance.
+~
+~
+0 0 8177
+D3
+You see shops and street vendors as you scan the distance.
+~
+~
+0 0 8175
+S
+#8177
+Guardian Road~
+Aptly named, on Guardian Road is where Palanthas' barracks are located.
+To the east you see a number of one story buildings, all made of stone and
+very spartan looking. As you see the soldiers going to and fro from the
+barracks, you realize why Palanthas has stood for so long. If the powerful
+magics that protect Palanthas were ever to fail, these soldiers alone
+would be more than a match for almost any size army set against them.
+~
+81 4 0 0 0 1 255 0
+D1
+You see shops and street vendors as you scan the distance.
+~
+~
+0 0 8178
+D3
+You see shops and street vendors as you scan the distance.
+~
+~
+0 0 8176
+S
+#8178
+The Guardsman's Barracks~
+You have entered the first of 3 massive Barrack halls, the other two 
+lying further down Guardian's road to the south. But you have no need to
+see any others. The nature of this barracks alone underscores the complete
+devotion to duty as shown by the Palanthian guardsman. Simple, with little
+ornamentation, yet very functional, these barracks house over 70 guardsmen,
+as the rows and rows of bunks indicate. At the back of the room is a
+small armory, containing series of weapons and armor. Clearly, should the
+need arise, the Palanthian Guard would be an admirable defense against
+interlopers.
+~
+81 520 0 0 0 1 255 0
+D3
+You can see shops and street vendors as you scan the distance.
+~
+~
+0 0 8177
+S
+#8179
+A Guarded Hallway~
+   You step into a richly furnished hallway. The walls and ceiling are
+made of a oak, polished to a shiny finish. The floor is made of a fine
+black tile which reflects your image flawlessly. On either side of the
+hallway sit two guards who, upon seeing you, rise to block your passage
+into the main chamber. One of the guards says: 'Lord Amothus has visitors,
+you will have to return at a later date.' You notice the key to the
+inner room dangling from his belt.
+~
+81 0 0 0 0 1 255 0
+D0
+These large double doors close off the hallway from Amothus' reception
+area.
+~
+double door~
+2 8148 8180
+D2
+Bleached oak doors open out to Rose Street.
+~
+doors wooden~
+1 0 8145
+S
+#8180
+Lord Amothus' Reception~
+   You open the doors and enter into a comfortably furnished reception
+area. Covered in lush carpet and fine tapestries, this is where Amothus
+entertains many of his important (and rich) guests. To the north you
+spot a private library and down to the east is a large dining room,
+which looks like it could seat 100 people. In the northeast corner of
+the room is a carved stone staircase leading to the next level. A number
+of fine leather chairs and couches are arranged in this area as well.
+~
+81 520 0 0 0 1 255 0
+D2
+These double doors lead back to the hallway, and then out to the fine
+streets of Palanthas.
+~
+double door~
+2 8148 8179
+D4
+~
+~
+0 0 8181
+E
+staircase stone spiral~
+Made by Palanthas' finest masons as a gift to Lord Amothus upon winning
+his second election, this staircase leads to the upper audience chamber
+and Lord Amothus' planning chambers.
+~
+E
+north library~
+This library is actually where records of the annual Palanthian
+concensus are stored, as well as the Lord's collection of fairy-tale
+novels.
+~
+E
+east library~
+The dining room is already set in fine white linen and sparkling 
+silver. It appears that Amothus is expecting a number of guests in the
+very near future.
+~
+S
+#8181
+A Spiraling Staircase~
+   This stone flight of stairs spirals what you estimate to be over
+four stories from Amothus' reception area to the building's upper, more
+private levels. You pause to look out the window, and proceed on your
+trek.
+~
+81 520 0 0 0 1 255 0
+D4
+~
+~
+0 0 8182
+D5
+~
+~
+0 0 8180
+E
+window~
+   You peer out a window in the side of this stair corridor and gasp
+at the beauty of the great city of Palanthas.
+~
+S
+#8182
+The Waiting Room~
+   *If* you were cleared past the guard hallway, and then invited from
+the reception area, you get to wait here! This sitting room is just
+outside Lord Amothus' audience chamber, where he meets with city councilmen
+and tradesmen daily to discuss city business. With the Dragonwars as of
+late, Amothus has been so extremely busy that he has had no time to
+speak to his regular subjects. The guard at the door rises quickly and
+inquires as to why you are here, and who let you in?
+~
+81 524 0 0 0 1 255 0
+D1
+A leather covered door with fancy stylings around the border 
+lies to the east. You decide to wait for the guard to let you in.
+~
+door leather~
+2 8151 8158
+D5
+~
+~
+0 0 8181
+S
+#8183
+A Bronze Dragon's Chambers~
+   As you enter one of the huge marble buildings that the legendary bronze
+dragons call home, you are instantly enamored by the luxuriousness of the
+place.  Plundered from Takhisis's evil minions such as the dreaded Draconians
+and from other evil dragons, Gold and silver trinkets, figurines, and statues,
+each studded with rare stones, line the walls.  Were you to ask, you would find
+that each piece of treasure represents a victory against evil.  Then you look
+to the center of the structure to find a bronze dragon, curled up and in a deep
+sleep.  Then, without even opening an eye, the great juggernaut of the sky
+lifts its arm and points a massive, razor-sharp claw at you, saying,
+"I do belive that you are tresspassing".
+~
+81 520 0 0 0 1 255 0
+D2
+You can see a small stone path leading through the large buildings that house
+the bronze dragons.
+~
+~
+0 0 8190
+S
+#8184
+Dragon Avenue~
+   You see a road made of red brick, leading north towards several domed
+structures as tall as mountains.  On either side of the road, stretching all
+the way to the bronze dragons' lairs ahead, are rows of beautiful marble
+statues of fallen Dragonriders atop their aerial companions, their dragonlances
+forged of pure silver streaking into the sky.  As you look up at one of the
+statues and into the emerald-cut eyes of a dragon statue, you feel an eerie
+feeling wash over you, almost as if the dragon-or someone- was watching you.
+~
+81 4 0 0 0 1 255 0
+D0
+You see the Dragon Domes in the skyline ahead.
+~
+~
+0 0 8186
+D2
+You see the intersection of Dragon Avenue and Sword Street.
+~
+~
+0 0 8163
+S
+#8185
+A Bronze Dragon's Chambers~
+   As you enter one of the huge marble buildings that the legendary bronze
+dragons call home, you are instantly enamored by the luxuriousness of the
+place.  Plundered from Takhisis's evil minions such as the dreaded Draconians
+and from other evil dragons, Gold and silver trinkets, figurines, and statues,
+each studded with rare stones, line the walls.  Were you to ask, you would find
+that each piece of treasure represents a victory against evil.  Then you look
+to the center of the structure to find a bronze dragon, curled up and in a deep
+sleep.  Then, without even opening an eye, the great juggernaut of the sky
+lifts its arm and points a massive, razor-sharp claw at you, saying,
+"I do belive that you are tresspassing".
+~
+81 520 0 0 0 1 255 0
+D2
+You can see a small stone path leading through the large buildings that
+house the bronze dragons.
+~
+~
+0 0 8191
+S
+#8186
+Dragon Avenue~
+   You see a road made of red brick, leading north towards several domed
+structures as tall as mountains.  On either side of the road, stretching all
+the way to the bronze dragons' lairs ahead, are rows of beautiful marble
+statues of fallen Dragonriders atop their aerial companions, their dragonlances
+forged of pure silver streaking into the sky.  As you look up at one of the
+statues and into the emerald-cut eyes of a dragon statue, you feel an eerie
+feeling wash over you, almost as if the dragon-or someone- was watching you.
+~
+81 0 0 0 0 1 255 0
+D0
+You see the Dragon Domes in the skyline ahead.
+~
+~
+0 0 8187
+D2
+You see more of Dragon Avenue ahead.
+~
+~
+0 0 8184
+S
+#8187
+Dragon Avenue~
+   You see a road made of red brick, leading north towards several domed
+structures as tall as mountains.  On either side of the road, stretching all
+the way to the bronze dragons' lairs ahead, are rows of beautiful marble
+statues of fallen Dragonriders atop their aerial companions, their dragonlances
+forged of pure silver streaking into the sky.  As you look up at one of the
+statues and into the emerald-cut eyes of a dragon statue, you feel an eerie
+feeling wash over you, almost as if the dragon-or someone- was watching you.
+~
+81 512 0 0 0 1 255 0
+D0
+You see the Dragon Domes in the skyline ahead.
+~
+~
+0 0 8188
+D2
+You see the Dragon Domes in the skyline ahead.
+~
+~
+0 0 8186
+S
+#8188
+Entrance to the Dragon Domes~
+   Called the Dragon Domes by the commoners of Palanthas, and simply "home" to
+its inhabitants, The gigantic domed buildings before you even rival the size of
+the nearby mountain range.  Also, as you look around, you see to the west some
+smaller buildings, obviously the home of the legendary Dragonriders, for even
+when not in battle, the dragons and their riders are inseparable.  To the
+north, the several domes are bronze in color, but to the northwest and west,
+you see even larger domed structures, one of silver, and one of gold.
+~
+81 516 0 0 0 1 255 0
+D0
+You see a large cobblestone road with beautiful trees lining it.
+~
+~
+0 0 8189
+D1
+You see a path leading to several smaller buildings.
+~
+~
+0 0 8194
+D2
+You see the red brick road of Dragon Avenue leading back towards the city.
+~
+~
+0 0 8187
+S
+#8189
+Among the Dragon Domes~
+  As you get closer and closer to the homes of those leviathons of the sky
+known as dragons, you start to understand what an insect sees as it looks up
+at the homes of humans.  Towering over you, the Dragon Domes seem to become
+omnipresent, their magnificent domes filling the entire sky everywhere you
+look.  
+~
+81 516 0 0 0 1 255 0
+D0
+You see the massive bronze-laced oaken door to a Bronze Dragon Dome...and
+it's open.
+~
+~
+0 0 8165
+D1
+You see more Dragon Domes blotting out the sky ahead.
+~
+~
+0 0 8190
+D2
+You see the road towards Palanthas this way.
+~
+~
+0 0 8188
+D3
+You see a silver and golden domes this way.
+~
+~
+0 0 8192
+S
+#8190
+Among the Dragon Domes~
+  As you get closer and closer to the homes of those leviathons of the sky known
+as dragons, you start to understand what an insect sees as it looks up at the
+homes of humans.  Towering over you, the Dragon Domes seem to become omni-
+present, their magnificent domes filling the entire sky everywhere you look.  
+~
+81 512 0 0 0 1 255 0
+D0
+You see the massive door to a dragon dome...and it's open.
+~
+~
+0 0 8183
+D1
+You see more domes up ahead.
+~
+~
+0 0 8191
+D3
+You see more dragon domes up ahead.
+~
+~
+0 0 8189
+S
+#8191
+Among the Dragon Domes~
+  As you get closer and closer to the homes of those leviathons of the sky
+known as dragons, you start to understand what an insect sees as it looks up
+at the homes of humans.  Towering over you, the Dragon Domes seem to become
+omnipresent, their magnificent domes filling the entire sky everywhere you look.  
+~
+81 512 0 0 0 1 255 0
+D0
+You see the massive door to a Dragon Dome...and it's open.
+~
+~
+0 0 8185
+D1
+You look ahead to a smaller dome.  When you peek inside, you see
+several hatching dragons.
+~
+~
+0 0 8199
+D3
+You see more massive Dragon Domes ahead.
+~
+~
+0 0 8190
+S
+#8192
+A Gold and Silver Path~
+  Suddenly, as you walk westward, the path you were on becomes one wrought of
+gold and silver, both entwining in each other, forming intricate patterns on
+the ground.  As you follow the path, the silver and gold parts of the path
+separate, the gold half curving north, and the silver part curving south.  Then,
+as you look up, you realize that you're in a valley between two gigantic
+mountains.  But as you look closer, you stare in awe at the sight before your
+eyes.  You see that the peaks of either mountain have been replaced with
+enormous domes, one of solid gold, and one of solid silver.  Instantly, as you
+look upon these impossible wonders, that you've come to the last lines of
+defense for Palanthas:  The Gold and Silver Wyrms, the two most powerful dragons
+in all creation.
+~
+81 512 0 0 0 1 255 0
+D0
+You see a small cavernous entrance to the golden-domed mountain ahead.
+~
+~
+0 0 8174
+D1
+The path turns back to stone in this direction, leading to the more
+common Dragon Domes.
+~
+~
+0 0 8189
+D2
+You see a small cavernous entrance to the silver-domed mountain ahead.
+~
+~
+0 0 8193
+S
+#8193
+The Great Silver Wyrm's Lair~
+   The moment you walk inside the Silver Dragon's Lair, you are bathed in a
+soft white light.  The entire cave, a solid silver, polished to a mirror
+finish, reflects light from some unseen source, illuminating every corner of
+the domelike cavern.  In the very center of the room, you see a gigantic
+monolith of pure silver, with rubies in the shape of arcane runes stretching
+the length of it.  Suddenly, the runes begin glowing a deep red, and you hear
+a loud humming noise.  Then the side of the monolith that faces you swings
+open, and you see a blinding light inside.  As your eyes begin to adjust, you
+see the silhouette of a great winged creature, getting closer and closer. 
+Then it flies out of the monolith and touches down in front of you.
+
+The Silver Wyrm has returned.
+~
+81 520 0 0 0 1 255 0
+D0
+You see a path running through a lush mountain valley.
+~
+~
+0 0 8192
+S
+#8194
+A Small Street off the Main Road~
+   Smaller and narrower than the main road that goes through the area of the
+great domed structures that serve as homes to the dragons who serve Palanthas,
+this road leads toward several smaller, man-sized buildings, looking like a
+cross between barracks and a normal house.  Then you see two golden lances
+adorning the entryway to these spartan homes, crossing each other at the peak
+of the archway.  However, you notice something strange about these weapons of
+chivalry.  They seem much larger and heavier than even the heaviest of war
+lances the mounted knights use.  In fact you doubt that a horse could even
+heft a weapon such as this.  To carry a lance of this magnitue into combat on
+its back, a creature would have to have the strength of...a dragon.
+~
+81 512 0 0 0 1 255 0
+D1
+You see more spartan housing ahead.
+~
+~
+0 0 8195
+D2
+You see a man shining his armor inside one of the barrack-houses.
+~
+door~
+1 0 8196
+D3
+You see Dragon Avenue ahead.
+~
+~
+0 0 8188
+S
+#8195
+A Small Street off the Main Road~
+   Smaller and narrower than the main road that goes through the area of the
+great domed structures that serve as homes to the dragons who serve Palanthas,
+this road leads toward several smaller, man-sized buildings, looking like a
+cross between barracks and a normal house.  Then you see two golden lances
+adorning the entryway to these spartan homes, crossing each other at the peak
+of the archway.  However, you notice something strange about these weapons of
+chivalry.  They seem much larger and heavier than even the heaviest of war
+lances the mounted knights use.  In fact you doubt that a horse could even heft
+a weapon such as this.  To carry a lance of this magnitue into combat on its
+back, a creature would have to have the strength of...a dragon.
+~
+81 512 0 0 0 1 255 0
+D1
+You see a man shining his armor inside one of the barrack-houses.
+~
+door~
+1 0 8198
+D2
+You see a man shining his armor inside one of the barrack-houses.
+~
+door~
+1 0 8197
+D3
+The small road continues this way.
+~
+~
+0 0 8194
+S
+#8196
+The Dragonriders' Abode~
+   Work-oriented in nature, with very few of the pleasantries afforded to
+others of their stature, the Dragonrider's only nonessential furnishing is
+his prized Dragonlance, cased in crystal, and acting as a beautiful centerpiece
+to the otherwise spartan nature of his home.
+~
+81 512 0 0 0 1 255 0
+D0
+You see a small road leading east and west.
+~
+door ~
+1 0 8194
+S
+#8197
+The Dragonriders' Abode~
+   Work-oriented in nature, with very few of the pleasantries afforded to
+others of their stature, the Dragonrider's only nonessential furnishing is
+his prized Dragonlance, cased in crystal, and acting as a beautiful centerpiece
+to the otherwise spartan nature of his home.
+~
+81 512 0 0 0 1 255 0
+D0
+You see a small road leading east and west.
+~
+door ~
+1 0 8195
+S
+#8198
+The Dragonriders' Abode~
+   Work-oriented in nature, with very few of the pleasantries afforded to
+others of their stature, the Dragonrider's only nonessential furnishing is his
+prized Dragonlance, cased in crystal, and acting as a beautiful centerpiece to
+the otherwise spartan nature of his home.
+~
+81 512 0 0 0 1 255 0
+D3
+You see a small road leading east and west.
+~
+door ~
+1 0 8195
+S
+#8199
+The Nursery~
+   As you enter the arena-like dragon nursery, you are almost knocked to your
+feet by a hatchling bronze dragon doing its best impression of flying.  You
+look to the air to find several bronze hatchlings swooping and diving through
+the air, tangled in a playful mock-battle, much like two kittens fighting over
+a ball of yarn.  Back on the ground, you see, in the northwest corner, two
+bronze colored eggs, standing about six feet tall.  Above them, hovering in
+midair, floats a large, golden orb, bathing the eggs in a golden light, it's
+aura keeping them warm and safe inside its protective glow.  You seem to
+remember someone telling you how lucrative a price dragon eggs brought on the
+black market.  But you also, vaguely, remember someone whispering of the great
+magical powers contained within a dragon egg...
+~
+81 520 0 0 0 1 255 0
+D3
+You see a cobblestone road running through the great Dragon Domes.
+~
+~
+0 0 8191
+S
+$~

@@ -1,0 +1,322 @@
+
+/*
+** NOTE TO BUILDERS AND THE NON-CODICALLY INCLINED (That's PC speak for
+** non-geeks like doctors, history majors, and such - oh pahYUKE) When
+** you spot a flag that is in the form of (1 << 10) what that REALLY means
+** is that in order for you to enable that attribute you must flip on
+** bit number 10. There, that should clear it ALL up :) or, in other words,
+** that means 2 to the power of 10. If you want more than one flag you must do
+** the math and create the integer for that entry. So, for example:
+**
+**     ROOM_DARK          (1 << 0)       2 raised to 0th == 1 
+**     ROOM_PEACEFUL      (1 << 4)       2 raised to 4th == 16
+**     ROOM_NOMAGIC       (1 << 7)       2 raised to 7th == 128
+**     --------------------------------------------------------
+**                                   Resultant Room Flag == 145
+**
+**
+** We used to be able to do DARK|PEACEFUL|NOMAGIC and run it through a
+** converter, but other people whined about it so I didn't keep the
+** script current. Anyway, that's how you build bit flags for RavenMUD
+** so enjoy !
+**                                         Digger
+*/
+
+/* Room flags: used in room_data.room_flags */
+#define ROOM_DARK		(1 << 0)   /* Dark			*/
+#define ROOM_DEATH		(1 << 1)   /* Death trap		*/
+#define ROOM_NOMOB		(1 << 2)   /* MOBs not allowed		*/
+#define ROOM_INDOORS		(1 << 3)   /* Indoors			*/
+#define ROOM_PEACEFUL		(1 << 4)   /* Violence not allowed	*/
+#define ROOM_SOUNDPROOF		(1 << 5)   /* Shouts, gossip blocked	*/
+#define ROOM_NOTRACK		(1 << 6)   /* Track won't go through	*/
+#define ROOM_NOMAGIC		(1 << 7)   /* Magic not allowed		*/
+#define ROOM_TUNNEL		(1 << 8)   /* room for only 1 pers	*/
+#define ROOM_PRIVATE		(1 << 9)   /* Can't teleport in		*/
+#define ROOM_GODROOM		(1 << 10)  /* LVL_GOD+ only allowed	*/
+#define ROOM_HOUSE		(1 << 11)  /* (R) Room is a house	*/
+#define ROOM_HOUSE_CRASH	(1 << 12)  /* (R) House needs saving	*/
+#define ROOM_ATRIUM		(1 << 13)  /* (R) The door to a house	*/
+#define ROOM_OLC		(1 << 14)  /* (R) Modifyable/!compress	*/
+#define ROOM_BFS_MARK		(1 << 15)  /* (R) breath-first srch mrk	*/
+#define ROOM_SAFE_HOUSE         (1 << 16)  /* No affect yet             */
+#define ROOM_MANA_REGEN         (1 << 17)  /* Boost mana regen by 50%   */
+#define ROOM_HEALTH_REGEN       (1 << 18)  /*   "   hps    "   "   "    */
+#define ROOM_SUFFER             (1 << 19)  /* Inflict dam to occupants  */
+
+/* Exit info: used in room_data.dir_option.exit_info */
+#define EX_ISDOOR		(1 << 0)   /* Exit is a door		*/
+#define EX_CLOSED		(1 << 1)   /* The door is closed	*/
+#define EX_LOCKED		(1 << 2)   /* The door is locked	*/
+#define EX_PICKPROOF		(1 << 3)   /* Lock can't be picked	*/
+
+/* The cardinal directions: used as index to room_data.dir_option[] */
+#define NORTH          0
+#define EAST           1
+#define SOUTH          2
+#define WEST           3
+#define UP             4
+#define DOWN           5
+
+/* Sector types: used in room_data.sector_type */
+#define SECT_INSIDE          0		   /* Indoors			*/
+#define SECT_CITY            1		   /* In a city			*/
+#define SECT_FIELD           2		   /* In a field		*/
+#define SECT_FOREST          3		   /* In a forest		*/
+#define SECT_HILLS           4		   /* In the hills		*/
+#define SECT_MOUNTAIN        5		   /* On a mountain		*/
+#define SECT_WATER_SWIM      6		   /* Swimmable water		*/
+#define SECT_WATER_NOSWIM    7		   /* Water - need a boat	*/
+#define SECT_UNDERWATER	     8		   /* Underwater		*/
+#define SECT_FLYING	     9		   /* Wheee!			*/
+
+
+/* char and mob-related defines *****************************************/
+/* PC classes */
+#define CLASS_UNDEFINED	     -1
+#define CLASS_MAGIC_USER      0   /* 'M' */
+#define CLASS_CLERIC          1   /* 'C' */
+#define CLASS_THIEF           2   /* 'T' */
+#define CLASS_WARRIOR         3   /* 'W' */
+#define CLASS_RANGER          4   /* 'R' */
+#define CLASS_ASSASSIN        5   /* 'A' */
+#define CLASS_SHOU_LIN        6   /* 'P' */
+#define CLASS_SOLAMNIC_KNIGHT 7   /* 'S' */
+#define CLASS_DEATH_KNIGHT    8   /* 'D' */
+#define CLASS_SHADOW_DANCER   9   /* 'H' */
+
+/* 
+ * Races -- some of these are really "classes" too -- used to implement
+ * specific mob actions in fights.  
+ */
+#define RACE_HUMAN            0   /* 'H'          */
+#define RACE_PLANT            1   /* 'P' NPC only */
+#define RACE_ANIMAL           2   /* 'A' NPC only */
+#define RACE_DRAGON           3   /* 'D' NPC only */
+#define RACE_UNDEAD           4   /* 'U' NPC only */
+#define RACE_VAMPIRE          5   /* 'V' NPC only */
+#define RACE_HALFLING         6   /* 'L'          */
+#define RACE_ELF              7   /* 'E'          */
+#define RACE_DWARF            8   /* 'W'          */
+#define RACE_GIANT            9   /* 'G'          */
+#define RACE_MINOTAUR        10   /* 'M' NPC only */
+#define RACE_DEMON           11   /* 'N' NPC only */
+#define RACE_OGRE            12   /* 'O' NPC only */
+#define RACE_TROLL           13   /* 'T' NPC only */
+#define RACE_WEREWOLF        14   /* 'R' NPC only */
+
+/* NPC classes (currently unused - feel free to implement!) */
+#define CLASS_OTHER       0
+#define CLASS_UNDEAD      1
+#define CLASS_HUMANOID    2
+#define CLASS_ANIMAL      3
+#define CLASS_DRAGON      4
+#define CLASS_GIANT       5
+
+
+/* Sex */
+#define SEX_NEUTRAL   0
+#define SEX_MALE      1
+#define SEX_FEMALE    2
+
+
+/* Mobile flags: used by char_data.char_specials.act */
+#define MOB_SPEC         (1 << 0)  /* Mob has a callable spec-proc	*/
+#define MOB_SENTINEL     (1 << 1)  /* Mob should not move		*/
+#define MOB_SCAVENGER    (1 << 2)  /* Mob picks up stuff on the ground	*/
+#define MOB_ISNPC        (1 << 3)  /* (R) Automatically set on all Mobs	*/
+#define MOB_AWARE	 (1 << 4)  /* Mob can't be backstabbed		*/
+#define MOB_AGGRESSIVE   (1 << 5)  /* Mob hits players in the room	*/
+#define MOB_STAY_ZONE    (1 << 6)  /* Mob shouldn't wander out of zone	*/
+#define MOB_WIMPY        (1 << 7)  /* Mob flees if severely injured	*/
+#define MOB_AGGR_EVIL	 (1 << 8)  /* auto attack evil PC's		*/
+#define MOB_AGGR_GOOD	 (1 << 9)  /* auto attack good PC's		*/
+#define MOB_AGGR_NEUTRAL (1 << 10) /* auto attack neutral PC's		*/
+#define MOB_MEMORY	 (1 << 11) /* remember attackers if attacked	*/
+#define MOB_HELPER	 (1 << 12) /* attack PCs fighting other NPCs	*/
+#define MOB_NOCHARM	 (1 << 13) /* Mob can't be charmed		*/
+#define MOB_NOSUMMON	 (1 << 14) /* Mob can't be summoned		*/
+#define MOB_NOSLEEP	 (1 << 15) /* Mob can't be slept		*/
+#define MOB_NOBASH	 (1 << 16) /* Mob can't be bashed (e.g. trees)	*/
+#define MOB_NOBLIND	 (1 << 17) /* Mob can't be blinded		*/
+#define MOB_CONJURED     (1 << 18) /* Mob has been conjured/summoned */
+
+
+/* Preference flags: used by char_data.player_specials.pref */
+#define PRF_BRIEF       (1 << 0)  /* Room descs won't normally be shown	*/
+#define PRF_COMPACT     (1 << 1)  /* No extra CRLF pair before prompts	*/
+#define PRF_DEAF	(1 << 2)  /* Can't hear shouts			*/
+#define PRF_NOTELL	(1 << 3)  /* Can't receive tells		*/
+#define PRF_DISPHP	(1 << 4)  /* Display hit points in prompt	*/
+#define PRF_DISPMANA	(1 << 5)  /* Display mana points in prompt	*/
+#define PRF_DISPMOVE	(1 << 6)  /* Display move points in prompt	*/
+#define PRF_AUTOEXIT	(1 << 7)  /* Display exits in a room		*/
+#define PRF_NOHASSLE	(1 << 8)  /* Aggr mobs won't attack		*/
+#define PRF_QUEST	(1 << 9)  /* On quest				*/
+#define PRF_SUMMONABLE	(1 << 10) /* Can be summoned			*/
+#define PRF_NOREPEAT	(1 << 11) /* No repetition of comm commands	*/
+#define PRF_HOLYLIGHT	(1 << 12) /* Can see in dark			*/
+#define PRF_COLOR_1	(1 << 13) /* Color (low bit)			*/
+#define PRF_COLOR_2	(1 << 14) /* Color (high bit)			*/
+#define PRF_NOWIZ	(1 << 15) /* Can't hear wizline			*/
+#define PRF_LOG1	(1 << 16) /* On-line System Log (low bit)	*/
+#define PRF_LOG2	(1 << 17) /* On-line System Log (high bit)	*/
+#define PRF_NOAUCT	(1 << 18) /* Can't hear auction channel		*/
+#define PRF_NOGOSS	(1 << 19) /* Can't hear gossip channel		*/
+#define PRF_NOGRATZ	(1 << 20) /* Can't hear grats channel		*/
+#define PRF_ROOMFLAGS	(1 << 21) /* Can see room flags (ROOM_x)	*/
+
+
+/* Affect bits: used in char_data.char_specials.saved.affected_by */
+/* WARNING: In the world files, NEVER set the bits marked "R" ("Reserved") */
+#define AFF_BLIND             (1 << 0)	   /* (R) Char is blind		*/
+#define AFF_INVISIBLE         (1 << 1)	   /* Char is invisible		*/
+#define AFF_DETECT_ALIGN      (1 << 2)	   /* Char is sensitive to align*/
+#define AFF_DETECT_INVIS      (1 << 3)	   /* Char can see invis chars  */
+#define AFF_DETECT_MAGIC      (1 << 4)	   /* Char is sensitive to magic*/
+#define AFF_SENSE_LIFE        (1 << 5)	   /* Char can sense hidden life*/
+#define AFF_WATERWALK	      (1 << 6)	   /* Char can walk on water	*/
+#define AFF_SANCTUARY         (1 << 7)	   /* Char protected by sanct.	*/
+#define AFF_GROUP             (1 << 8)	   /* (R) Char is grouped	*/
+#define AFF_CURSE             (1 << 9)	   /* Char is cursed		*/
+#define AFF_INFRAVISION       (1 << 10)	   /* Char can see in dark	*/
+#define AFF_POISON            (1 << 11)	   /* (R) Char is poisoned	*/
+#define AFF_PROTECT_EVIL      (1 << 12)	   /* Char protected from evil  */
+#define AFF_PROTECT_GOOD      (1 << 13)	   /* Char protected from good  */
+#define AFF_SLEEP             (1 << 14)	   /* (R) Char magically asleep	*/
+#define AFF_NOTRACK	      (1 << 15)	   /* Char can't be tracked	*/
+#define AFF_FLY	              (1 << 16)	   /* Char is flying            */
+#define AFF_REGENERATE	      (1 << 17)	   /* Char is regenerating     	*/
+#define AFF_SNEAK             (1 << 18)	   /* Char can move quietly	*/
+#define AFF_HIDE              (1 << 19)	   /* Char is hidden		*/
+#define AFF_HASTE	      (1 << 20)	   /* Char is hasted/slowed	*/
+#define AFF_CHARM             (1 << 21)	   /* Char is charmed		*/
+#define AFF_SHIELD	      (1 << 22)    /* Char is shielded      */
+#define AFF_PARALYZE	      (1 << 23)    /* Char is paralyzed     */
+
+
+/* Item types: used by obj_data.obj_flags.type_flag */
+#define ITEM_LIGHT      1		/* Item is a light source	*/
+#define ITEM_SCROLL     2		/* Item is a scroll		*/
+#define ITEM_WAND       3		/* Item is a wand		*/
+#define ITEM_STAFF      4		/* Item is a staff		*/
+#define ITEM_WEAPON     5		/* Item is a weapon		*/
+#define ITEM_FIREWEAPON 6		/* Unimplemented		*/
+#define ITEM_MISSILE    7		/* Unimplemented		*/
+#define ITEM_TREASURE   8		/* Item is a treasure, not gold	*/
+#define ITEM_ARMOR      9		/* Item is armor		*/
+#define ITEM_POTION    10 		/* Item is a potion		*/
+#define ITEM_WORN      11		/* Unimplemented		*/
+#define ITEM_OTHER     12		/* Misc object			*/
+#define ITEM_TRASH     13		/* Trash - shopkeeps won't buy	*/
+#define ITEM_TRAP      14		/* Unimplemented		*/
+#define ITEM_CONTAINER 15		/* Item is a container		*/
+#define ITEM_NOTE      16		/* Item is note 		*/
+#define ITEM_DRINKCON  17		/* Item is a drink container	*/
+#define ITEM_KEY       18		/* Item is a key		*/
+#define ITEM_FOOD      19		/* Item is food			*/
+#define ITEM_MONEY     20		/* Item is money (gold)		*/
+#define ITEM_PEN       21		/* Item is a pen		*/
+#define ITEM_BOAT      22		/* Item is a boat		*/
+#define ITEM_FOUNTAIN  23		/* Item is a fountain		*/
+
+
+/* Take/Wear flags: used by obj_data.obj_flags.wear_flags */
+#define ITEM_WEAR_TAKE		(1 << 0)  /* Item can be takes		*/
+#define ITEM_WEAR_FINGER	(1 << 1)  /* Can be worn on finger	*/
+#define ITEM_WEAR_NECK		(1 << 2)  /* Can be worn around neck 	*/
+#define ITEM_WEAR_BODY		(1 << 3)  /* Can be worn on body 	*/
+#define ITEM_WEAR_HEAD		(1 << 4)  /* Can be worn on head 	*/
+#define ITEM_WEAR_LEGS		(1 << 5)  /* Can be worn on legs	*/
+#define ITEM_WEAR_FEET		(1 << 6)  /* Can be worn on feet	*/
+#define ITEM_WEAR_HANDS		(1 << 7)  /* Can be worn on hands	*/
+#define ITEM_WEAR_ARMS		(1 << 8)  /* Can be worn on arms	*/
+#define ITEM_WEAR_SHIELD	(1 << 9)  /* Can be used as a shield	*/
+#define ITEM_WEAR_ABOUT		(1 << 10) /* Can be worn about body 	*/
+#define ITEM_WEAR_WAIST 	(1 << 11) /* Can be worn around waist 	*/
+#define ITEM_WEAR_WRIST		(1 << 12) /* Can be worn on wrist 	*/
+#define ITEM_WEAR_WIELD		(1 << 13) /* Can be wielded		*/
+#define ITEM_WEAR_HOLD		(1 << 14) /* Can be held		*/
+
+
+/* Extra object flags: used by obj_data.obj_flags.extra_flags */
+#define ITEM_GLOW                 (1 << 0)	/* Item is glowing		*/
+#define ITEM_HUM                  (1 << 1)	/* Item is humming		*/
+#define ITEM_NORENT               (1 << 2)	/* Item cannot be rented	*/
+#define ITEM_NODONATE             (1 << 3)	/* Item cannot be donated	*/
+#define ITEM_NOINVIS	          (1 << 4)	/* Item cannot be made invis	*/
+#define ITEM_INVISIBLE            (1 << 5)	/* Item is invisible		*/
+#define ITEM_MAGIC                (1 << 6)	/* Item is magical		*/
+#define ITEM_NODROP               (1 << 7)	/* Item is cursed: can't drop	*/
+#define ITEM_BLESS                (1 << 8)	/* Item is blessed		*/
+#define ITEM_ANTI_GOOD            (1 << 9)	/* Not usable by good people	*/
+#define ITEM_ANTI_EVIL            (1 << 10)	/* Not usable by evil people	*/
+#define ITEM_ANTI_NEUTRAL         (1 << 11)	/* Not usable by neutral people	*/
+#define ITEM_ANTI_MAGIC_USER      (1 << 12)	/* Not usable by mages		*/
+#define ITEM_ANTI_CLERIC          (1 << 13)	/* Not usable by clerics	*/
+#define ITEM_ANTI_THIEF           (1 << 14)	/* Not usable by thieves	*/
+#define ITEM_ANTI_WARRIOR         (1 << 15)	/* Not usable by warriors	*/
+#define ITEM_NOSELL               (1 << 16)	/* Shopkeepers won't touch it	*/
+#define ITEM_ANTI_RANGER          (1 << 17)	/* Not usable by rangers	*/
+#define ITEM_ANTI_ASSASSIN        (1 << 18)	/* Not usable by assassins	*/
+#define ITEM_ANTI_SHOU_LIN        (1 << 19)	/* Not usable by shou lin	*/
+#define ITEM_ANTI_SOLAMNIC_KNIGHT (1 << 20)	/* Not usable by solamnic knights	*/
+#define ITEM_ANTI_DEATH_KNIGHT    (1 << 21)	/* Not usable by death knights	*/
+#define ITEM_ANTI_SHADOW_DANCER   (1 << 22)	/* Not usable by shadow dancers	*/
+#define ITEM_TIMED				  (1 << 23) /* Item will disappear when its timer reaches 0 */
+
+
+/* Modifier constants used with obj affects ('A' fields) */
+#define APPLY_NONE              0	/* No effect			*/
+#define APPLY_STR               1	/* Apply to strength		*/
+#define APPLY_DEX               2	/* Apply to dexterity		*/
+#define APPLY_INT               3	/* Apply to constitution	*/
+#define APPLY_WIS               4	/* Apply to wisdom		*/
+#define APPLY_CON               5	/* Apply to constitution	*/
+#define APPLY_CHA		6	/* Apply to charisma		*/
+#define APPLY_CLASS             7	/* Reserved			*/
+#define APPLY_LEVEL             8	/* Reserved			*/
+#define APPLY_AGE               9	/* Apply to age			*/
+#define APPLY_CHAR_WEIGHT      10	/* Apply to weight		*/
+#define APPLY_CHAR_HEIGHT      11	/* Apply to height		*/
+#define APPLY_MANA             12	/* Apply to max mana		*/
+#define APPLY_HIT              13	/* Apply to max hit points	*/
+#define APPLY_MOVE             14	/* Apply to max move points	*/
+#define APPLY_GOLD             15	/* Reserved			*/
+#define APPLY_EXP              16	/* Reserved			*/
+#define APPLY_AC               17	/* Apply to Armor Class		*/
+#define APPLY_HITROLL          18	/* Apply to hitroll		*/
+#define APPLY_DAMROLL          19	/* Apply to damage roll		*/
+#define APPLY_SAVING_PARA      20	/* Apply to save throw: paralz	*/
+#define APPLY_SAVING_ROD       21	/* Apply to save throw: rods	*/
+#define APPLY_SAVING_PETRI     22	/* Apply to save throw: petrif	*/
+#define APPLY_SAVING_BREATH    23	/* Apply to save throw: breath	*/
+#define APPLY_SAVING_SPELL     24	/* Apply to save throw: spells	*/
+#define APPLY_POISON           25       /* Item can poison vistim       */
+
+
+/* Container flags - value[1] */
+#define CONT_CLOSEABLE      (1 << 0)	/* Container can be closed	*/
+#define CONT_PICKPROOF      (1 << 1)	/* Container is pickproof	*/
+#define CONT_CLOSED         (1 << 2)	/* Container is closed		*/
+#define CONT_LOCKED         (1 << 3)	/* Container is locked		*/
+
+
+/* Some different kind of liquids for use in values of drink containers */
+#define LIQ_WATER      0
+#define LIQ_BEER       1
+#define LIQ_WINE       2
+#define LIQ_ALE        3
+#define LIQ_DARKALE    4
+#define LIQ_WHISKY     5
+#define LIQ_LEMONADE   6
+#define LIQ_FIREBRT    7
+#define LIQ_LOCALSPC   8
+#define LIQ_SLIME      9
+#define LIQ_MILK       10
+#define LIQ_TEA        11
+#define LIQ_COFFE      12
+#define LIQ_BLOOD      13
+#define LIQ_SALTWATER  14
+#define LIQ_CLEARWATER 15
+

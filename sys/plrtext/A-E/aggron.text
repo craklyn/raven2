@@ -1,0 +1,38 @@
+f clan &14$* &04
+tit title Stonebreaker &11*&10*&08*&00
+id cast 'identify' $*
+gate cast 'gate'
+ld cast 'life drain' $*
+b cast 'blindness' $*
+shi cast 'shield' $*
+fb cast 'flame blade' $*
+db cast 'doom bolt' $*
+parch w;w;w;w;s;s;w;buy 10 parc;put all.parch bag;buy 10 parc;put all.parch bag;buy 10 parc;put all.parch bag;e;n;n;e;e;e;e
+sum cast 'summon' $*
+fw clanwho
+o order followe $*
+g gt &02$* &00
+col cast 'color spray' $*
+ch cast 'charm person' $*
+ms cast 'meteor swarm'
+blink cast 'blink'
+h stop; cast 'haste' $*; assist
+sh cast 'shield' $*
+infra cast 'infravision' $*
+str cast 'strength' $*
+air cast 'airsphere' $*
+aw cast 'awaken' $*
+ts cast 'true sight' $*
+fly cast 'fly' $*
+invis cast 'invisibility' $*
+fla cast 'flame blade' $*
+scr get parch bag;scribe $* parch
+od order fol dust $*;assist
+shock cast 'shocking grasp' $*
+fee cast 'feeblemind' $*
+loc cast 'loca object' $*
+port cast 'portal' $*
+' say &09$* &00
+nex cast 'nexus' $*
+web cast 'web' $*
+mm cast 'magic missile' $*

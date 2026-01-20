@@ -1,0 +1,39 @@
+skill order follower assist;get arrow quiv;shoot arrow $*;put all.arrow quiv;
+8 reelin
+7 castout
+b trip $*;stand
+wake wak;stand
+rr rec rec rec
+y 
+cw c 'create water' $*
+rp c 'remove poi' $*
+ent c 'entangle' $*
+pas put all.steak pou
+es get steak pou;eat steak
+sh get arrow qui;shoot arrow $*
+ep enter portal
+shi c 'shield' $*
+g get all.coins all.corpse
+r rescue $*
+pou poultice $*
+how c 'hands of wind' $*
+sw c 'swarm' $*
+ref c 'refresh' $*
+ff c 'fleet foot' $*
+bs c 'briarwood skin' $*
+str c 'strength' $*
+cow c 'call of the wild' 
+fl c 'forest lore' $*
+h hide
+1 get all corpse
+fa c 'fletch' $*
+of order follower $*
+sen c 'sense life' knox
+t track $*
+gs gt &14>>&00&03---&13>&00&09$* &13<&09---&14<<&00
+clan cla &14>>&00&03---&13>&00&09$* &13<&09---&14<<&00
+say sa &14>>&00&03---&13>&00&09$* &13<&09---&14<<&00
+9 toss rev
+3 where;scan
+sp get arrow quiv;shoot arrow $*
+2 butcher corpse;put all.steak pou

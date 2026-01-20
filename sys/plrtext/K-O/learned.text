@@ -1,0 +1,15 @@
+tr trip $*;stand
+level rem virgo
+c circle $*
+say say &01(&00&10L&00&01)&00&08$*&00&01 (&00&10H&00&01)&00
+gt gt &01(&00&10L&00&01)&00&08$*&00&01 (&00&10H&00&01)&00
+clan clan &01(&00&10L&00&01)&00&08$*&00&01 (&00&10H&00&01)&00&11
+pd pick door $*
+title title Hand, &08Forsaken&00
+b backstab $*
+od open door $*
+1 rec white mab
+ud unlock door $*
+cd close door $*
+di disarm $*
+wa wake;stand

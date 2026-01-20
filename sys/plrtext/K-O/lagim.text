@@ -1,0 +1,42 @@
+or order fol $*
+h cast 'heal' $*
+fire ca 'demon fire' $*
+rev ca 'revive' $*
+detal cast 'detect align' $*
+earth cast 'earth'
+banish cast 'banish' $*
+remc cast 'remove curse' $*
+male cast 'maledict' $*
+cb cast 'cure blind' $*
+rempal cast 'remove para' $*
+harm cast 'harm' $*
+dis c 'dishearten' $*
+rel cast 'relocate' $*
+df cast 'demon fire' $*
+armor cast 'armor' $*
+regen cast 'regenerate' $*
+sum cast 'summon' $*
+di cast 'detect invis' $*
+infra cast 'infravision'
+sense cast 'sense life'
+re cast 'word of recall' $*
+bless cast 'bless' $*
+fw clanwho
+b cast 'blind' $*
+fly cast 'fly' $*
+sanc cast 'sanctuary' $*
+fort cast 'fortify' $*
+cl cast 'cleanse' $*
+g gt &07$* &00
+r cast 'revive' $*
+saga cast 'sagacity' $*
+ward cast 'ward' $*
+' say &11$* &00
+as cast 'assistant'
+chain cast 'chain' $*
+o order follower $*
+ok order followe kill $*
+oar order fol rescue lagim
+arm cast 'armor' $*
+f clan &14$* &11
+tit title &11T&10h&08e &07Impure &14Daughter&00

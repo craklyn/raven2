@@ -1,0 +1,1175 @@
+#21100
+Sunnydale Extentions~
+   Connection zone for master's lair, sunnydale, sunnydale graveyard and
+sunnydale forest to come.    
+~
+211 0 0 0 0 0 255 0
+S
+#21101
+Sunnydale Highway~
+   A large highway runs off to the south from here.  Based on the size it must
+lead to somewhere inhabited despite the barron waste around you.  You can make
+out the beginings of a large forest in the distance.    
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 17554
+D2
+~
+~
+0 0 21102
+S
+#21102
+Sunnydale Highway~
+   A large highway runs to the north and south from here.  Based on the size it
+must lead to somewhere inhabited despite the barron waste around you.  The
+Forest you saw becomes clearer and clearer.    
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21101
+D2
+~
+~
+0 0 21103
+S
+#21103
+Sunnydale Highway~
+   A large highway runs to the north and south from here.  Based on the size it
+must lead to somewhere inhabited despite the barron waste around you.  The
+Forest you saw becomes clearer and clearer.    
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21102
+D2
+~
+~
+0 0 21104
+S
+#21104
+Sunnydale Highway~
+   A large highway runs to the north and south from here.  Based on the size it
+must lead to somewhere inhabited despite the barron waste around you.  The
+Forest you saw becomes clearer and clearer.  An opening in the brush reveals the
+Sunnydale Graveyard to your west and up ahead you notice a path off to the east.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21103
+D2
+~
+~
+0 0 21105
+D3
+~
+~
+0 0 21111
+S
+#21105
+Sunnydale Highway~
+   A large highway runs to the north and south from here.  Based on the size it
+must lead to somewhere inhabited despite the barron waste around you.  The
+Forest you saw becomes clearer and clearer.  You also notice a small path
+breaking off to the east.    
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21104
+D1
+~
+~
+0 0 21106
+D2
+~
+~
+0 0 21108
+S
+#21106
+Off the beaten path~
+   There is a tiny path here.  It is barely visible as a faint impression left
+in the brown , withered, grass and it seems too insignificant to be a trail
+worth following.    
+~
+211 32768 0 0 0 0 255 0
+D1
+~
+~
+0 0 21107
+D3
+~
+~
+0 0 21105
+S
+#21107
+Approaching the Church~
+   You continue to walk thru the dusty land with no sign of birds or travellers
+or anything else that relieves the monotony of your footsteps.  Suddenly your
+eyes detect the faint sign of a trail again as you approach the large decrepit
+remains of what looks of what once was a church.    
+~
+211 32768 0 0 0 0 255 0
+D1
+~
+~
+0 0 12001
+D3
+~
+~
+0 0 21106
+S
+#21108
+Sunnydale Highway~
+   A large highway runs to the north and south from here.  Based on the size it
+must lead to somewhere inhabited despite the barron waste around you.  The
+Forest you saw becomes clearer and clearer.    
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21105
+D2
+~
+~
+0 0 21109
+S
+#21109
+Sunnydale Highway~
+   A large highway runs to the north and south from here.  Based on the size it
+must lead to somewhere inhabited despite the barron waste around you.  The
+Forest you saw becomes clearer and clearer.    
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21108
+D2
+~
+~
+0 0 21110
+S
+#21110
+Sunnydale Highway~
+   A large highway runs to the north and south from here.  Based on the size it
+must lead to somewhere inhabited despite the barron waste around you.  The
+Forest you saw becomes clearer and clearer.    
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21109
+S
+#21111
+The Sunnydale Graveyard~
+   Before you lies the entrance to an ancient graveyard littered with old graves
+and tombs.  You stand at an old beatendown wrout iron gate with a fence covered
+with vines and ivy streatching in both directions.
+~
+211 32772 0 0 0 0 255 0
+D1
+~
+~
+0 0 21104
+D3
+~
+gate~
+2 -1 21112
+S
+#21112
+A trail between the graves~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21121
+D1
+~
+gate~
+1 -1 21111
+D2
+~
+~
+0 0 21117
+D3
+~
+~
+0 0 21113
+S
+#21113
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21122
+D1
+~
+~
+0 0 21112
+D2
+~
+~
+0 0 21118
+D3
+~
+~
+0 0 21114
+S
+#21114
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21123
+D1
+~
+~
+0 0 21113
+D2
+~
+~
+0 0 21119
+D3
+~
+~
+0 0 21115
+S
+#21115
+A trail between the graves~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21124
+D1
+~
+~
+0 0 21114
+D2
+~
+~
+0 0 21120
+D3
+~
+~
+0 0 21116
+S
+#21116
+Before a crumbling tomb~
+   As you approach and enter the tomb, there is a large steal door adorned with
+runic enscriptions.  It hangs slightly adjar on its hinges, beckoning you to
+enter.
+~
+211 32772 0 0 0 0 255 0
+D1
+~
+~
+0 0 21115
+D3
+~
+~
+0 0 21125
+S
+#21117
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21112
+D3
+~
+~
+0 0 21118
+S
+#21118
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21113
+D1
+~
+~
+0 0 21117
+D3
+~
+~
+0 0 21119
+S
+#21119
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21114
+D1
+~
+~
+0 0 21118
+D2
+~
+~
+0 0 21141
+D3
+~
+~
+0 0 21120
+S
+#21120
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 21115
+D1
+~
+~
+0 0 21119
+S
+#21121
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D2
+~
+~
+0 0 21112
+D3
+~
+~
+0 0 21122
+S
+#21122
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D1
+~
+~
+0 0 21121
+D2
+~
+~
+0 0 21113
+D3
+~
+~
+0 0 21123
+S
+#21123
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D1
+~
+~
+0 0 21122
+D2
+~
+~
+0 0 21114
+D3
+~
+~
+0 0 21124
+S
+#21124
+A trail between the graves ~
+   The trail you follow is choked with weeds and tangle grass making your
+progress difficult.  Graves spread out all around you surrounded by a thin layer
+of mist that constantly drifts around the graves.
+~
+211 32768 0 0 0 0 255 0
+D1
+~
+~
+0 0 21123
+D2
+~
+~
+0 0 21115
+S
+#21125
+A Crypt~
+   You step inside a small crypt and see a pile of bones atop a pedestal.  The
+walls, covered with moss and vines, are shattered and crumbling from age.  
+~
+211 32772 0 0 0 0 255 0
+D1
+~
+~
+0 0 21116
+D5
+~
+~
+0 0 21126
+S
+#21126
+A dimly lit stairwell~
+   You have decended a dark stairway and are in a dimly lit hallway.  Unlit
+torches hang from the walls, and little light filters through from above, but is
+just enough to allow you to make out a dim passage leading off to the west.  
+Faint runic symbols are carved all over into the wall, and a musty smell assails
+your nostrils.  As you step forward, you look down and realize you are stepping
+on some type of feces.
+~
+211 32768 0 0 0 0 255 0
+D3
+~
+~
+0 0 21127
+D4
+~
+~
+0 0 21125
+S
+#21127
+A Dark Corridor~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D1
+~
+~
+0 0 21126
+D3
+~
+~
+0 0 21128
+S
+#21128
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21133
+D1
+~
+~
+0 0 21127
+D3
+~
+~
+0 0 21129
+S
+#21129
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21132
+D1
+~
+~
+0 0 21128
+D3
+~
+~
+0 0 21130
+S
+#21130
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21131
+D1
+~
+~
+0 0 21129
+S
+#21131
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21136
+D1
+~
+~
+0 0 21132
+D2
+~
+~
+0 0 21130
+S
+#21132
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21135
+D1
+~
+~
+0 0 21133
+D2
+~
+~
+0 0 21129
+D3
+~
+~
+0 0 21131
+S
+#21133
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21134
+D2
+~
+~
+0 0 21128
+D3
+~
+~
+0 0 21132
+S
+#21134
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21139
+D2
+~
+~
+0 0 21133
+D3
+~
+~
+0 0 21135
+S
+#21135
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21138
+D1
+~
+~
+0 0 21134
+D2
+~
+~
+0 0 21132
+D3
+~
+~
+0 0 21136
+S
+#21136
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21137
+D1
+~
+~
+0 0 21135
+D2
+~
+~
+0 0 21131
+S
+#21137
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D1
+~
+~
+0 0 21138
+D2
+~
+~
+0 0 21136
+S
+#21138
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.  All covered in dust and cobwebs, an intricately decorated
+stone sarcophagus lies undisturbed in the center of the room.  Just beyond the
+sarcophagus, you can see a small alcove behind a crumbled wall, but you can't
+seem to get past the coffin.  If only there was a way to move it...
+~
+211 32769 0 0 0 0 255 0
+D1
+~
+~
+0 0 21139
+D2
+~
+~
+0 0 21135
+D3
+~
+~
+0 0 21137
+S
+#21139
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D2
+~
+~
+0 0 21134
+D3
+~
+~
+0 0 21138
+S
+#21140
+A Dark Alcove~
+This alcove had been discretely hidden in the recess of this burial chamber.  A
+fake wall made from brick and mortar hid it well, but the wear and tear over
+time caused the wall to break down.  With half the wall gone the gaping dark
+hole of an entrance became visible.
+~
+211 1 0 0 0 0 255 0
+D2
+~
+~
+0 0 21138
+S
+#21141
+Before a crumbling Tomb~
+   As you approach and enter the tomb, there is a large steal door adorned with
+runic enscriptions.  It hangs slightly adjar on its hinges, beckoning you to
+enter.
+~
+211 32772 0 0 0 0 255 0
+D0
+~
+~
+0 0 21119
+D2
+~
+~
+0 0 21142
+S
+#21142
+A Crypt~
+   You step inside a small crypt and see a pile of bones atop a pedestal.  The
+walls, covered with moss and vines, are shattered and crumbling from age.  
+~
+211 32772 0 0 0 0 255 0
+D0
+~
+~
+0 0 21141
+D5
+~
+~
+0 0 21143
+S
+#21143
+A dimly it stairwell~
+   You have decended a dark stairway and are in a dimly lit hallway.  Unlit
+torches hang from the walls, and little light filters through from above, but is
+just enough to allow you to make out a dim passage leading off to the west.  
+Faint runic symbols are carved all over into the wall, and a musty smell assails
+your nostrils.  As you step forward, you look down and realize you are stepping
+on some type of feces.
+~
+211 32768 0 0 0 0 255 0
+D2
+~
+~
+0 0 21157
+D4
+~
+~
+0 0 21142
+S
+#21144
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21157
+D1
+~
+~
+0 0 21148
+D2
+~
+~
+0 0 21145
+S
+#21145
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21144
+D1
+~
+~
+0 0 21149
+D2
+~
+~
+0 0 21146
+S
+#21146
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21145
+D1
+~
+~
+0 0 21150
+D2
+~
+~
+0 0 21147
+S
+#21147
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21146
+D1
+~
+~
+0 0 21151
+S
+#21148
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D1
+~
+~
+0 0 21153
+D2
+~
+~
+0 0 21149
+D3
+~
+~
+0 0 21144
+S
+#21149
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21148
+D1
+~
+~
+0 0 21154
+D2
+~
+~
+0 0 21150
+D3
+~
+~
+0 0 21145
+S
+#21150
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21149
+D1
+~
+~
+0 0 21155
+D2
+~
+~
+0 0 21151
+D3
+~
+~
+0 0 21146
+S
+#21151
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.  All covered in dust and cobwebs, an intricately decorated
+stone sarcophagus lies undisturbed in the center of the room.  Just beyond the
+sarcophagus, you can see a small alcove behind a crumbled wall, but you can't
+seem to get past the coffin.  If only there was a way to move it...
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21150
+D1
+~
+~
+0 0 21156
+D3
+~
+~
+0 0 21147
+S
+#21152
+A Dark Alcove~
+   This alcove had been discretely hidden in the recess of this burial chamber.
+A fake wall made from brick and mortar hid it well, but the wear and tear over
+time caused the wall to break down.  With half the wall gone the gaping dark
+hole of an entrance became visible.
+~
+211 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 21151
+S
+#21153
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D2
+~
+~
+0 0 21154
+D3
+~
+~
+0 0 21148
+S
+#21154
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21153
+D2
+~
+~
+0 0 21155
+D3
+~
+~
+0 0 21149
+S
+#21155
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21154
+D2
+~
+~
+0 0 21156
+D3
+~
+~
+0 0 21150
+S
+#21156
+The burial chamber~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21155
+D3
+~
+~
+0 0 21151
+S
+#21157
+A Dark Corridor~
+   You have entered the lower burial chamber of the crypt.  Recesses filled with
+bones adorn the walls.  There are bas-relief surrounding the empty spaces of the
+wall around the burial orifices, depicting unholy sacrifices and bizarre
+religious rituals.
+~
+211 32769 0 0 0 0 255 0
+D0
+~
+~
+0 0 21143
+D2
+~
+~
+0 0 21144
+S
+#21158
+room~
+it looks unfinished
+~
+211 0 0 0 0 0 255 0
+S
+#21159
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21160
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21161
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21162
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21163
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21164
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21165
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21166
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21167
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21168
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21169
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+#21170
+a room~
+You are in an unfinished room.
+~
+211 0 0 0 0 0 255 0
+S
+$~

@@ -1,0 +1,387 @@
+#3100
+H W 0~
+maid~
+the Maid~
+The Maid is waiting for your order.
+~
+She is very beautiful with golden hair, and deep blue eyes.  A good reason
+for coming here more often, you think to yourself.
+~
+2059 0 0 0 8 0 0 0 1000
+33 0 -10 1d1+30000 1d8+22
+50 60
+9 9 2 0 -1 -1
+#3101
+U W 0~
+ghost~
+Ghost~
+A ghost hovers above you here.
+~
+It is difficult to make out any features on this creature.
+~
+25486 0 0 0 1194 0 0 0 1000
+10 20 10 2d6+300 1d6+0
+35 40
+9 9 0 0 0 0
+#3102
+H W 0~
+grave digger~
+a grave digger~
+A grave digger rests here.
+~
+You see an old man, hunched over his shovel. His eyes
+are covered with a milky haze and he doesn't appear to know
+you are here.
+~
+25228 0 0 0 32768 0 0 0 1000
+35 5 -1 1d1+250 8d7+0
+50 60
+9 9 0 0 -1 -1
+#3103
+H R 0~
+mouse m3103~
+a small field mouse~
+A small field mouse scurries at your feet.
+~
+You see a small field mouse foraging through the leaves for
+a spec of food.
+~
+12 0 0 0 0 0 0 0 1000
+10 15 10 1d1+150 1d1+5
+35 40
+9 9 0 0 -1 -1
+#3104
+H C 0~
+raven bird~
+a Raven~
+A beautiful raven flies above you.
+~
+You see a jet black raven soaring above the cemetary. His watchful
+eye following your every move. Could he be the guardian of the
+souls buried here?
+~
+24716 0 0 0 1064 0 0 0 0
+25 5 7 2d3+200 1d3+0
+40 40
+9 9 0 0 -1 -1
+#3105
+H W 0~
+mourner~
+a mourner~
+A small old woman cleans off the gravestone here.
+~
+You see a small woman dressed in tattered black clothing.
+She has a modest gathering of flowers in one hand and
+a small cloth to polish the gravestone in another.
+~
+16396 0 0 0 33832 0 0 0 0
+25 5 -1 1d1+200 8d7+0
+40 40
+7 9 0 0 -1 -1
+#3120
+H W 0~
+sexton~
+the Sexton~
+A Sexton is sitting here, drinking hot tea.
+~
+The Sexton looks like he is relaxing after another gravedigging job.
+~
+10 0 0 0 0 0 0 0 800
+3 18 7 2d6+35 1d7+0
+35 40
+7 7 1 0 -1 -1
+#3121
+A W 0~
+swan~
+the swan~
+A swan is swimming around in the pond.
+~
+A swimming Swan.
+~
+16394 0 0 0 32768 0 0 0 1000
+1 20 9 2d6+10 1d5+0
+35 40
+9 9 0 0 -1 -1
+#3122
+A W 0~
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+10 0 0 0 0 0 0 0 1000
+3 17 10 10d10+10 1d1+1
+35 40
+9 9 0 0 -1 -1
+#3123
+A W 0~
+sparrow~
+the sparrow~
+A sparrow is flapping around on the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+200 0 0 0 0 0 0 0 1000
+0 20 10 2d6+0 1d3+0
+35 40
+9 9 0 0 -1 -1
+#3124
+A W 0~
+duck~
+the duck~
+A duck is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+72 0 0 0 0 0 0 0 1000
+1 20 10 2d6+5 1d4+0
+35 40
+9 9 0 0 -1 -1
+#3140
+H W 0~
+guard captain chief~
+the Captain of the Guard~
+The Captain of the Guard stands here.
+~
+He wears a nice looking suit of chainmail with his sash of office draped
+across his chest.  
+~
+30810 0 0 0 1024 0 0 0 800
+35 0 -2 10d10+1000 2d8+20
+50 60
+9 9 1 0 -1 -1
+#3141
+H W 0~
+cityguard guard~
+the Cityguard~
+A Cityguard relaxes here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+24650 0 0 0 0 0 0 0 1000
+10 20 4 1d10+100 3d6+0
+35 40
+6 9 1 0 -1 -1
+#3142
+H W 0~
+cityguard guard~
+the Cityguard~
+A Cityguard is here, training.
+~
+A big, strong, helpful, trustworthy guard.
+~
+24650 0 0 0 0 0 0 0 1000
+10 20 4 1d10+100 8d7+0
+35 40
+9 9 1 0 -1 -1
+#3143
+H W 0~
+baron mayor~
+the Baron of Midgaard~
+The Baron is sitting in his huge chair, wondering why you have disturbed him.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+28746 0 0 0 132140 0 0 0 0
+40 0 -8 10d10+2000 10d3+30
+65 75
+6 9 1 0 -1 -1
+#3144
+H T 0~
+crier~
+the Town Crier~
+The Town Crier is here, weeping quietly.
+~
+He is very good at his job - completely dissolved in tears.
+~
+136 0 0 0 0 0 0 0 900
+1 20 9 2d6+10 1d5+0
+35 40
+9 9 1 0 -1 -1
+#3145
+H T 0~
+chief steward~
+the Chief Steward~
+The Baron's Chief Steward sits here.
+~
+The Chief Steward sits at his desk behind a veritable mountain of paperwork.
+~
+24650 0 0 0 1024 0 0 0 0
+30 5 0 1d10+50 5d4+15
+50 60
+6 9 1 0 -1 -1
+#3146
+H W 0~
+baronial guard~
+a Baronial Guard~
+A member of the Baron's honor guard stands here.
+~
+The Guard holds a halberd and stands at attention.
+~
+24650 0 0 0 1024 0 0 0 0
+25 5 -2 10d10+500 3d8+15
+40 40
+9 9 1 0 -1 -1
+#3150
+H H 0~
+dancer shadow thief shadowdancer man young storekeeper~
+the young shadowdancer~
+A young man is here, practicing with 2 swords.
+~
+   This young man is in training to be a shadow dancer. He was lucky enough
+to be granted a job in the guild, giving him much more time to watch others 
+practice if nothing else. You have no doubt he would be difficult to fight, 
+but he only wants to sell you guild items...if you need any.
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3151
+H M 0~
+apprentice mage storekeeper young~
+the apprentice~
+A young apprentice glances in your direction while cleaning books.
+~
+   The apprentice is perhaps fifteen or sixteen years old, and has already
+decided to dedicate his life to the magical arts. The mages know that many
+will attempt this life, and that few will actually stay for the long 
+process, so they attempt to weed out the undedicated ones with manual labor.
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3152
+H T 0~
+pickpocket child shopkeeper~
+a young pickpocket~
+A young child watches you very closely from the shadows.
+~
+   This poor child has lived his life on the streets.  He is poor and under
+nourished, but he keeps his spirits up by working in the guild when he's not
+out on the streets searching for food.  Perhaps one day he'll learn enough to
+be a Shadow Lord, until then, his place is behind the counter.    
+~
+134758410 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+Z 3101
+#3153
+H A 0~
+apprentice assassin man young storekeeper~
+the assassin apprentice~
+A young man in a white coat is cutting off a slab of meat.
+~
+   He glances at you with ice blue eyes. Assuming that the butcher upstairs
+let you down here, he knows exactly what you are and doesn't trust you for
+a second. He pulls out some equipment that was stashed behind some meat and
+asks you if you need anything...well do you?
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3154
+H D 0~
+knight tarnished crown young storekeeper~
+the knight of the tarnished crown~
+A young knight practices his swordplay here.
+~
+   This knight is of the lowest knight level possible. He trains whenever
+he can, and has been given the menial job of guarding the knight's 
+equipment room. If you need to buy an item, he would be the knight to see.
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3155
+H S 0~
+novice priest shou-lin storekeeper~
+the novice shou-lin~
+A novice shou-lin practices with the temples weapons here.
+~
+   The novice is in charge of the upkeep and care of temples equipment. 
+Shou-lins have very few worldly positions, and the novice takes the
+greatest care to keep them in good condition. All a shou-lin needs in the
+world can be gotten here.
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3156
+H W 0~
+squire storekeeper~
+the Squire~
+A lowly squire is cleaning the equipment stored in this room.
+~
+   The life of a squire is difficult and often boring. It is his 
+responsibility to keep all the equipment in this room clean and polished
+at all times. It is also his duty to sell unused equipment to warriors in
+need of a blade or armor.
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3157
+H P 0~
+knight crown storekeeper young~
+the Knight of the Crown~
+A young knight of the crown stands guard over the knights equipment.
+~
+   This knight is of the lowest knight level possible. He trains whenever
+he can, and has been given the menial job of guarding the knight's 
+equipment room. If you need to buy an item, he would be the knight to see.
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3158
+H R 0~
+kid boy woodcutters cutter wood storekeeper~
+the boy~
+A young boy watches you closely as he sharpens his ax.
+~
+   This boy is a ranger in training. His parents were killed when he was
+just a baby and the rangers have taken him in. He is one of the few rangers
+that like to be in enclosed spaces, and so he was put in charge of the 
+armory, a job which he is very proud of.
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3159
+H C 0~
+deacon priest storekeeper young~
+the deacon~
+A young deacon is here, studying the scripture.
+~
+   The deacon runs the small clerical shop here. It allows him plenty of
+time for his studies, for there are not many clerics that are in a position
+to buy these items. 
+~
+18442 0 0 0 1064 0 0 0 0
+15 0 0 1d1+3000 1d8+20
+35 40
+9 9 1 0 -1 -1
+#3160
+H N 0~
+necromancer~
+the necromancer~
+A young man jumps in fright when he hears you.
+~
+This young man is more afraid of the dark than you are.
+He seems to have picked the wrong occupations.
+~
+142 0 0 0 1064 0 0 0 0
+20 5 5 10d6+200 3d5+10
+40 40
+9 9 0 0 -1 -1
+$

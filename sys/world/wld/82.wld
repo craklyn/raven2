@@ -1,0 +1,1843 @@
+#8200
+The Silver Lady~
+This is the well-armed, merchant vessel "The Silver Lady."  This area
+will hopefully be for 15th and higher level players.  Created by Joe Hunter.
+~
+82 cdef 0 0 0 0
+S
+#8201
+On The Bow~
+You are standing at the tip of the foredeck. From here, you can look out over
+the water and the docks into the city itself.  The foredeck extends aft.
+~
+82 0 0 0 0 1
+D2
+The foredeck extends south.
+~
+~
+0 -1 8202
+S
+#8202
+On The Foredeck~
+You are standing on the foredeck.  Directly in front of you is a large
+catapult used to defend the ship against pirates.  To the starboard and port
+are the deck railings.  To the fore is the bow and the foredeck extends to
+the aft.
+~
+82 0 0 0 0 1
+D0
+You see the bow to the north.
+~
+~
+0 -1 8201
+D2
+The foredeck continues to the south.
+~
+~
+0 -1 8203
+S
+#8203
+On The Foredeck~
+You are standing on the foredeck.  A large catapult is bolted to the deck to
+the fore and the are railings to the port and starboard sides.  On the deck,
+at your feet, you see the decklight.  To the aft is stairs leading down to
+the main deck.
+~
+82 0 0 0 0 1
+D0
+The foredeck extends to the north.
+~
+~
+0 -1 8202
+D5
+You see the stairs to the main deck.
+~
+~
+0 -1 8212
+S
+#8204
+On The Poop Deck~
+You are standing on the poop deck.  On the deck, at your feet, you see the
+decklight.  To the aft is a door and stairs leading up to the quarterdeck.
+To the fore of the ship is stairs leading down to the main deck.
+~
+82 0 0 0 0 1
+D2
+You see a doorway to the aft.
+~
+door~
+2 -1 8205
+D4
+You see the stairs to the quarterdeck.
+~
+~
+0 -1 8207
+D5
+You see the stairs to the maindeck.
+~
+~
+0 -1 8223
+S
+#8205
+The Great Cabin~
+This room is dominated by a large conference table bolted to the floor in the
+aft of the room.  On this side of the room, you see a small table, a bunk and
+a bookshelf bolted to the floor.  Just inside the door, you notice a small
+shrine to the sea god, Neptune.  On the floor, under the bed is a small chest.
+To the fore of the room is the doorway to the poop deck and the room extends
+to the aft.
+~
+82 d 0 0 0 0
+D0
+You see the doorway to the maindeck.
+~
+door~
+2 -1 8204
+D2
+You see the rest of the cabin.
+~
+~
+0 -1 8206
+S
+#8206
+The Great Cabin~
+This is the aft side of the cabin.  The huge conference table bolted here to
+the floor leaves little room for passage, much less other furniture.  Around
+the table are ten chairs, four on each side and one each at the head and foot.
+The cabin extends foreward.
+~
+82 d 0 0 0 0
+D0
+You see the rest of the cabin.
+~
+~
+0 -1 8205
+S
+#8207
+On The Quarterdeck~
+You are standing on the quarterdeck.  You are surrounded on three sides by
+railings that look out over the sides of the ship.  Looking out over the
+stern, you see the some of the other ships docked here.  To the fore, are
+stairs leading down to the poop deck.
+~
+82 0 0 0 0 1
+D5
+Stairs lead below to the poop deck.
+~
+~
+0 -1 8204
+S
+#8208
+On The Gangplank~
+You are standing on the plank.  Lucky for you, it doesn't extend out over
+open water.  To the west is the dock and the plank extends east toward 'The
+Silver Lady'.
+~
+82 c 0 0 0 1
+D1
+The planks continues east.
+~
+~
+0 -1 8209
+D3
+You see the docks to the west.
+~
+~
+0 -1 15420
+S
+#8209
+On The Gangplank~
+You are standing on the plank.  To the east, through the ship's railing, is
+the maindeck of 'The Silver Lady'.  The plank extends to the west.
+~
+82 0 0 0 0 1
+D1
+You see the main deck.
+~
+railing~
+1 -1 8217
+D3
+The plank extends west.
+~
+~
+0 -1 8208
+S
+#8210
+In The Forecastle~
+This room contains mostly canvas although the foreward mast rises from the
+floor travels up through the ceiling.  Wear and tear on the sails keeps the
+sailors busy sewing and patching by the light of the decklight grating above.
+Along with this, barrels of tar and other gear need for repairs to the ship
+are lined against the walls.  To the aft is the doorway to the main deck and
+there is a door to the port side of the room.
+~
+82 0 0 0 0 1
+D2
+You see the doorway to the main deck.
+~
+door~
+2 -1 8213
+D3
+You see a door.
+~
+door~
+2 -1 8211
+S
+#8211
+Storage Locker~
+This room is used to store the catapult ammunition.  Layer upon layer of the
+tightly sealed wax spheres full of what the the crew calls 'dragon's phlegm'
+are stored here. The door to the forecastle is to the starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the door to the forecastle.
+~
+door~
+2 -1 8210
+S
+#8212
+The Foreward End Of The Main Deck (Port)~
+You are at the foreward end of the main deck.  From here, you can look
+aftward and see the hustle and bustle of the crew.  Stairs lead above to the
+foredeck and the maindeck stretches starboard and aftward.
+~
+82 0 0 0 0 1
+D1
+The main deck.
+~
+~
+0 -1 8213
+D2
+The main deck.
+~
+~
+0 -1 8216
+D4
+The stairs to the foredeck.
+~
+~
+0 -1 8203
+S
+#8213
+The Foreward End Of The Main Deck (Starboard)~
+You are at the foreward end of the main deck.  From here, you can look
+aftward and see the hustle and bustle of the crew.  The maindeck stretches
+both port and aft form here.
+~
+82 0 0 0 0 1
+D0
+You see a door.
+~
+door~
+2 -1 8210
+D2
+The main deck.
+~
+~
+0 -1 8215
+D3
+The main deck.
+~
+~
+0 -1 8212
+S
+#8214
+The Starboard Side of the Main Deck~
+You are standing near the starboard railing of the main deck.  From here, you
+can look out on the water and see the other ships in port.  The main deck
+continues port and aft of here.
+~
+82 0 0 0 0 1
+D2
+The main deck.
+~
+~
+0 -1 8221
+D3
+The main deck.
+~
+~
+0 -1 8215
+S
+#8215
+The Main Deck~
+You are standing on the main deck.  All around you, sailor scurry about
+preparing the ship to sail.  To the aft you see the main mast and the landing
+boat.  The main deck continues port, starboard, fore and aft.
+~
+82 0 0 0 0 1
+D0
+The main deck.
+~
+~
+0 -1 8213
+D1
+The main deck.
+~
+~
+0 -1 8214
+D2
+The main deck.
+~
+~
+0 -1 8220
+D3
+The main deck.
+~
+~
+0 -1 8216
+S
+#8216
+The Main Deck~
+You are standing on the main deck.  All around you, sailor scurry about
+preparing the ship to sail.  To the aft you see the main mast and the main
+hatch.  The main deck continues port, starboard, fore and aft.
+~
+82 0 0 0 0 1
+D0
+The main deck.
+~
+~
+0 -1 8212
+D1
+The main deck.
+~
+~
+0 -1 8215
+D2
+The main deck.
+~
+~
+0 -1 8219
+D3
+The main deck.
+~
+~
+0 -1 8217
+S
+#8217
+The Port Side Of The Main Deck~
+You are standing on the main deck of 'The Silver Lady'.  All around you,
+sailors are rushing to and fro', preparing the ship to sail.  To the port
+side, a section of the railing is open allowing access to the gangplank.  The
+main deck continues starboard and aft from here.
+~
+82 0 0 0 0 1
+D1
+The main deck.
+~
+~
+0 -1 8216
+D2
+The main deck.
+~
+~
+0 -1 8218
+D3
+You see the plank.
+~
+railing~
+1 -1 8209
+S
+#8218
+The Port Side Of The Main Deck~
+You are standing near the port railing of the main deck.  From here, you can
+look over the railing and see the docks.  To the starboard side you see the
+main mast and main hatch.  The main deck continues starboard, fore and aft of
+here.
+~
+82 0 0 0 0 1
+D0
+The main deck.
+~
+~
+0 -1 8217
+D1
+The main deck.
+~
+~
+0 -1 8219
+D2
+The main deck.
+~
+~
+0 -1 8225
+S
+#8219
+At The Main Hatch~
+You are in the middle of the heaviest activity on the deck.  Cargo brought
+on-board is quickly sent down the hatch to the decks below.  Next to the
+hatch is the main mast.  The main deck continues fore, aft, starboard and
+portand the hatch leads below.
+~
+82 0 0 0 0 1
+D0
+The main deck.
+~
+~
+0 -1 8216
+D1
+The main deck.
+~
+~
+0 -1 8220
+D2
+The main deck.
+~
+~
+0 -1 8224
+D3
+The main deck.
+~
+~
+0 -1 8218
+D5
+Down the hatch.
+~
+hatch~
+1 -1 8242
+S
+#8220
+At The Main Mast~
+You are standing on the main deck between the main mast and the landing boat.
+The main deck stretches all around you and a ladder goes up the side of the
+mast.
+~
+82 0 0 0 0 1
+D0
+The main deck.
+~
+~
+0 -1 8215
+D1
+The main deck.
+~
+~
+0 -1 8221
+D2
+The main deck.
+~
+~
+0 -1 8223
+D3
+The main hatch.
+~
+~
+0 -1 8219
+D4
+The ladder up the mast.
+~
+~
+0 -1 8281
+S
+#8221
+The Starboard Side of the Main Deck~
+You are standing near the starboard railing of the main deck.  From here, you
+can look out on the water and see the other ships in port.  The main deck
+continues fore and aft of here and the main mast and landing boat is to the
+port side.
+~
+82 0 0 0 0 1
+D0
+The main deck.
+~
+~
+0 -1 8214
+D2
+The main deck.
+~
+~
+0 -1 8222
+D3
+The main mast.
+~
+~
+0 -1 8220
+S
+#8222
+The Starboard Side of the Main Deck~
+You are standing near the starboard railing of the main deck.  From here, you
+can look out on the water and see the other ships in port.  The main deck
+continues fore and port from here.
+~
+82 0 0 0 0 1
+D0
+The main deck.
+~
+~
+0 -1 8221
+D3
+The main deck.
+~
+~
+0 -1 8223
+S
+#8223
+The Aft End Of The Main Deck~
+You are standing on the main deck.  Foreward you see the main mast and the
+landing boat, as well as, sailors moving about their business of readying the
+ship for sail.  Aft you see a door and stairs here lead up to the poop deck.
+The main deck continues port and starboard.
+~
+82 0 0 0 0 1
+D0
+The main mast.
+~
+~
+0 -1 8220
+D1
+The main deck.
+~
+~
+0 -1 8222
+D2
+You see a door.
+~
+door~
+2 -1 8228
+D3
+The main deck.
+~
+~
+0 -1 8224
+D4
+You see the stairs to the poop deck.
+~
+~
+0 -1 8204
+S
+#8224
+The Aft End Of The Main Deck~
+You are standing on the main deck.  Foreward you see the main hatch as well
+as sailors moving about their business of readying the ship for sail.  Aft
+you see a door and the main deck continues port and starboard.
+~
+82 0 0 0 0 1
+D0
+The main hatch.
+~
+~
+0 -1 8219
+D1
+The main deck.
+~
+~
+0 -1 8223
+D2
+You see a door.
+~
+door~
+2 -1 8227
+D3
+The main deck.
+~
+~
+0 -1 8225
+S
+#8225
+The Port Side Of The Main Deck~
+You are standing near the port railing of the main deck.  From here, you can
+look over the railing and see the docks.  Out on the deck, sailors are racing
+to prepare the ship to sail.  The main deck continues to the fore and
+starboard sides.
+~
+82 0 0 0 0 1
+D0
+The main deck.
+~
+~
+0 -1 8218
+D1
+The main deck.
+~
+~
+0 -1 8224
+S
+#8226
+The Map Room~
+This is obviously the navigator's working area.  Bolted to the floor of the
+room is a large, rectangular table although only one chair accompanies it.  A
+great number of nautical maps cover the table and even more are rolled and
+stacked on the shelves that line the walls.  The only door is on the
+starboard wall.
+~
+82 d 0 0 0 0
+D1
+There is a door here.
+~
+door~
+1 -1 8227
+S
+#8227
+In The Helm~
+You are standing in the helm area.  Being a work area, it is kept fairly
+plain.  To the port side you notice a door and in the opposite direction is
+the large capstan.  To the aft you see the helmsman's platform and to the
+foreward end is the door to the main deck. An open hatch in the floor reveals
+stairs leading below deck.
+~
+82 cd 0 0 0 0
+D0
+The door to the main deck.
+~
+door~
+2 -1 8224
+D1
+The helm room.
+~
+~
+0 -1 8228
+D2
+The helmsman's platform.
+~
+~
+0 -1 8231
+D3
+You see a door.
+~
+door~
+1 -1 8226
+D5
+You see stairs leading down
+~
+hatch~
+1 -1 8250
+S
+#8228
+In The Helm~
+You are standing in the helm area.  Directly in front of you is the large
+capstan which is used to hoist the mainsail yardarm.  To the starboard side
+you see a door, to port is a hatch leading below.  Aft of here you see the
+helmsman's platform and foreward is the door to the main deck.
+~
+82 cd 0 0 0 0
+D0
+The door to the main deck.
+~
+door~
+2 -1 8223
+D1
+You see a door here.
+~
+door~
+2 8210 8229
+D2
+You see the helmsman's platform.
+~
+~
+0 -1 8230
+D3
+The helmroom.
+~
+~
+0 -1 8227
+S
+#8229
+The Ship's Armory~
+This room is lined with shelves and weapon racks.  The racks are kept well
+stocked with all the neccesary implements to defend the ship.  The only way
+out is the door to the port side.
+~
+82 acdi 0 0 0 0
+D3
+The door to the helmroom.
+~
+door~
+2 8210 8228
+S
+#8230
+The Helmsman's Platform~
+You are standing on an elevated platform.  From here, the helmsman guides the
+ship while watching through a window that looks out over the main deck.
+Foreward you see the capstan and the platform continues portward.  To the aft
+you see a door.
+~
+82 d 0 0 0 0
+D0
+The helmroom.
+~
+~
+0 -1 8228
+D2
+You see a door.
+~
+door~
+2 8211 8233
+D3
+The helmsman's platform.
+~
+~
+0 -1 8231
+S
+#8231
+The Helmsman's Platform~
+You are standing on an elevated platform.  From here, the helmsman guides the
+ship while watching through a window that looks out over the main deck.
+Foreward you see a hatch leading below and the platform continues starboard.
+~
+82 d 0 0 0 0
+D0
+The helmroom.
+~
+~
+0 -1 8227
+D1
+The helmsman's platform.
+~
+~
+0 -1 8230
+S
+#8232
+The Captain's Cabin~
+The captain's cabin incredibly spartan, clean and polished.  Everything -
+clothing, armor, books, pens - has it's own special place.  A map of the
+world is fixed to the port wall, and if the marks and lines on it mean
+anything, you can bet the captain is a well-travelled man.  The cabin extends
+to the starboard side.
+~
+82 d 0 0 0 0
+D1
+The captain's cabin.
+~
+~
+0 -1 8233
+S
+#8233
+The Captain's Cabin~
+The captain's cabin incredibly spartan, clean and polished.  Everything -
+clothing, armor, books, pens - has it's own special place.  A map of the
+world is fixed to the port wall, and if the marks and lines on it mean
+anything, you can bet the captain is a well-travelled man.  The cabin extends
+to the port side and the door the the helm is foreward.
+~
+82 cd 0 0 0 0
+D0
+The door to the helm.
+~
+door~
+2 8211 8230
+D3
+The captain's cabin.
+~
+~
+0 -1 8232
+S
+#8234
+At The Windlass~
+Directly in front of you is the windlass, a large, double winch, by which one
+or both anchors can be raised or lowered as needed.  On shelves are the
+equipment needed to maintain the windlass and on the floor you see the spare
+anchor.  The only exit is aft.
+~
+82 d 0 0 0 0
+D2
+The cargo area of the passenger deck.
+~
+~
+0 -1 8236
+S
+#8235
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 8236
+S
+#8236
+Pathway Through The Cargo~
+You are standing in a man-made aisle in the middle of the cargo area.  To
+both the port and starboard, cargo is stacked all the way to the ceiling.  It
+is obvious the sailors aboard this vessel are experienced loadmasters.  Fore-
+ward is the windlass, and the pathway continues aft.
+~
+82 d 0 0 0 0
+D0
+You see the windlass.
+~
+~
+0 -1 8234
+D1
+You see the cargo hold.
+~
+~
+0 -1 8237
+D2
+The path continues aft.
+~
+~
+0 -1 8239
+D3
+You see the cargo hold.
+~
+~
+0 -1 8235
+S
+#8237
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 8236
+S
+#8238
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 8239
+S
+#8239
+Pathway Through The Cargo~
+You are standing in a man-made aisle in the middle of the cargo area.  To
+both the port and starboard, cargo is stacked all the way to the ceiling.  It
+is obvious the sailors aboard this vessel are experienced loadmasters.  The
+pathway continues fore and aft.
+~
+82 d 0 0 0 0
+D0
+The path continues foreward.
+~
+~
+0 -1 8236
+D1
+You see the cargo hold.
+~
+~
+0 -1 8238
+D2
+The path continues aft.
+~
+~
+0 -1 8242
+D3
+You see the cargo hold.
+~
+~
+0 -1 8240
+S
+#8240
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 8239
+S
+#8241
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway and the main hatch
+is back to the starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 8242
+S
+#8242
+Pathway Through The Cargo~
+You are standing in front of the main hatch.  To both the port and starboard,
+cargo is stacked all the way to the ceiling.  It is obvious the sailors
+aboard this vessel are experienced loadmasters.  Stairs here go both below
+and above deck.  The pathway continues foreward and to the aft is the passage
+between the passenger berths.
+~
+82 d 0 0 0 0
+D0
+The aisle continues forward.
+~
+~
+0 -1 8239
+D1
+You see a cargo hold.
+~
+~
+0 -1 8243
+D2
+The passage between the berths.
+~
+~
+0 -1 8245
+D3
+You see a cargo hold.
+~
+~
+0 -1 8241
+D4
+The stairs leading topside.
+~
+~
+1 -1 8219
+D5
+The stairs to the lower decks.
+~
+~
+0 -1 8258
+S
+#8243
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 8242
+S
+#8244
+The Dolphin Suite~
+This cabin is sparsely furnished with four beds, one desk and a chair.  It
+has two closet, both standing open and empty.  The only exit is the door you
+came in.
+~
+82 drs 0 0 0 0
+D3
+You see the door out to the passage.
+~
+door~
+2 8212 8248
+S
+#8245
+The Passage Between Berths~
+You are standing amidship between the passenger berths.  To the port side is
+the door to one of the cabins.  The cargo area is foreward and this passage
+continues aft.
+~
+82 d 0 0 0 0
+D0
+To the cargo aisle.
+~
+~
+0 -1 8242
+D2
+The passage continues aftward.
+~
+~
+0 -1 8248
+D3
+You see a door to a cabin with an octopus painted on it.
+~
+door~
+2 8213 8246
+S
+#8246
+The Octopus Suite~
+This cabin is sparsely furnished with two beds, one desk and a chair.  It has
+a single closet that stands open and empty.  The only exit is the door you
+came in.
+~
+82 d 0 0 0 0
+D1
+The door to the passage.
+~
+door~
+2 8213 8245
+S
+#8247
+The Stingray Suite~
+This cabin is sparsely furnished with two beds, one desk and a chair.  It has
+a single closet that stands open and empty.  The only exit is the door you
+came in.
+~
+82 d 0 0 0 0
+D1
+The door to the passage.
+~
+door~
+2 8214 8248
+S
+#8248
+The Passage Between Berths~
+You are standing amidship between the passenger berths.  To each side is a
+door to a cabin.  This passage continues fore and aft.
+~
+82 d 0 0 0 0
+D0
+The passage between cabins.
+~
+~
+0 -1 8245
+D1
+You see a door to a cabin with a dolphin painted on it.
+~
+door~
+2 8212 8244
+D2
+The passage continues.
+~
+~
+0 -1 8250
+D3
+The door to a cabin with a stingray painted on it.
+~
+door~
+2 8214 8247
+S
+#8249
+A Storage Room~
+This looks to be a storage room for cargo of a precious nature.  The lock on
+the door attests to that.  The only exit is the door you came in through.
+~
+82 d 0 0 0 1
+D3
+The door out to the passageway.
+~
+door~
+2 8215 8250
+S
+#8250
+The End Of The Passage~
+You have reached the aft end of the passage.  Stairs lead up and down, the
+passage extends foreward, and you see doors to the port, starboard and aft.
+~
+82 d 0 0 0 0
+D0
+The passage leads foreward.
+~
+~
+0 -1 8248
+D1
+You see a door.
+~
+door~
+2 8215 8249
+D2
+You see a door to a cabin with a great white shark painted on it.
+~
+door~
+2 8216 8252
+D3
+You see a door.
+~
+door~
+2 8215 8251
+D4
+The stair lead up.
+~
+~
+0 -1 8227
+D5
+The stairs lead below deck.
+~
+~
+0 -1 8267
+S
+#8251
+A Storage Room~
+This looks to be a storage room for cargo of a precious nature.  The lock on
+the door attests to that.  The only exit is the door you came in through.
+~
+82 d 0 0 0 1
+D1
+The door out to the passageway.
+~
+door~
+2 8215 8250
+S
+#8252
+The Great White Shark Suite~
+This cabin has four, stacked bunks each with a small storage space behind it
+as well as two small closets.  All the furnishings are built in and bolted
+down to prevent them from flying free in rough seas.  The only exit is the
+way you came in.
+~
+82 d 0 0 0 0
+D0
+You see the door to the hallway.
+~
+door~
+2 8216 8250
+S
+#8253
+The Rope Locker~
+This room is used to store the anchor ropes. When the ship hoists anchor, the
+hawsers feed through holes in the ceiling and sailors carefully coil them on
+the floor of this room.  The only exit is aft.
+~
+82 d 0 0 0 0
+D2
+The cargo area.
+~
+~
+0 -1 8255
+S
+#8254
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 8255
+S
+#8255
+Pathway Through The Cargo~
+You are standing in a man-made aisle in the middle of the cargo area.  To
+both the port and starboard, cargo is stacked all the way to the ceiling.  It
+is obvious the sailors aboard this vessel are experienced loadmasters.  Fore-
+ward is the rope locker, and the pathway continues aft.
+~
+82 d 0 0 0 0
+D0
+You see the rope locker.
+~
+~
+0 -1 8253
+D1
+You see the cargo hold.
+~
+~
+0 -1 8256
+D2
+The path continues aft.
+~
+~
+0 -1 8258
+D3
+You see the cargo hold.
+~
+~
+0 -1 8254
+S
+#8256
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 8255
+S
+#8257
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 8258
+S
+#8258
+Pathway Through The Cargo~
+You are standing in front of the main hatch.  To both the port and starboard,
+cargo is stacked all the way to the ceiling.  It is obvious the sailors
+aboard this vessel are experienced loadmasters.  Stairs here go both below
+and above deck.  The pathway continues foreward and aft.
+~
+82 d 0 0 0 0
+D0
+The aisle continues forward.
+~
+~
+0 -1 8255
+D1
+You see a cargo hold.
+~
+~
+0 -1 8257
+D2
+The aisle continues aft.
+~
+~
+0 -1 8261
+D3
+You see a cargo hold.
+~
+~
+0 -1 8259
+D4
+The stairs leading topside.
+~
+~
+1 -1 8242
+D5
+The stairs to the lower decks.
+~
+~
+0 -1 8275
+S
+#8259
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 8258
+S
+#8260
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 8261
+S
+#8261
+Pathway Through The Cargo~
+You are standing in a man-made aisle in the middle of the cargo area.  To
+both the port and starboard, cargo is stacked all the way to the ceiling.  It
+is obvious the sailors aboard this vessel are experienced loadmasters.  Fore-
+ward is the hatch and the pathway continues aft.
+~
+82 d 0 0 0 0
+D0
+You see the hatch.
+~
+~
+0 -1 8258
+D1
+You see the cargo hold.
+~
+~
+0 -1 8262
+D2
+The path continues aft.
+~
+~
+0 -1 8264
+D3
+You see the cargo hold.
+~
+~
+0 -1 8260
+S
+#8262
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 8261
+S
+#8263
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 8264
+S
+#8264
+Pathway Through The Cargo~
+You are standing in a man-made aisle in the middle of the cargo area.  To
+both the port and starboard, cargo is stacked all the way to the ceiling.  It
+is obvious the sailors aboard this vessel are experienced loadmasters.  The
+pathway continues fore and and a door is aft.
+~
+82 d 0 0 0 0
+D0
+The aisle between the holds.
+~
+~
+0 -1 8261
+D1
+You see the cargo hold.
+~
+~
+0 -1 8263
+D2
+You see a door.
+~
+door~
+2 -1 8267
+D3
+You see the cargo hold.
+~
+~
+0 -1 8265
+S
+#8265
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 8264
+S
+#8266
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 8267
+S
+#8267
+Pathway Through The Cargo~
+You are standing in a man-made aisle in the middle of the cargo area.  To
+both the port and starboard, cargo is stacked all the way to the ceiling.  It
+is obvious the sailors aboard this vessel are experienced loadmasters.  You
+see a door both fore and aft and stairs lead up to the deck above.
+~
+82 d 0 0 0 0
+D0
+You see a door.
+~
+door~
+2 -1 8264
+D1
+You see the cargo hold.
+~
+~
+0 -1 8268
+D2
+You see a door with a skull painted on it.
+~
+door~
+2 8217 8269
+D3
+You see the cargo hold.
+~
+~
+0 -1 8266
+D4
+There are stairs leading up.
+~
+~
+0 -1 8250
+S
+#8268
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 8267
+S
+#8269
+In The Brig~
+This room consists of a single cot bolted to the floor and a chamber pot.
+When confinement of someone is neccesary, this room is used as a jail.
+Otherwise it would be loaded with cargo also.  The only exit is foreward the
+way you came in.
+~
+82 ad 0 0 0 0
+D0
+You see a door.
+~
+door~
+2 8217 8267
+S
+#8270
+Food Storage Room~
+This room contains all the foodstuffs the sailors will be eatin gwhile they
+are out to sea.  Dried meats, grains, vegatables, spices - they are all kept
+here.  Aft of here you see the galley itself.
+~
+82 d 0 0 0 0
+D2
+You see the cooking area.
+~
+~
+0 -1 8272
+S
+#8271
+Firewood Storage Area~
+Stored on the bulkheads is a huge supply of firewood.  It's obvious this ship
+is preparing for a voyage on the open sea. If they were going to be traveling
+on a river or coastline excursion, they would devote most of this area to
+cargo storage and send sailors ashore to cut wood every few days.  The galley
+area is starboard of here.
+~
+82 d 0 0 0 0
+D1
+You see the cooking area.
+~
+~
+0 -1 8272
+S
+#8272
+The Galley~
+The galley has a stone fireplace for cooking that can be dismantled and
+stored when the sailing get rough.  A kettle hangs from an iron hook that can
+be swung over the fire.  The food preparation area is starboard, you see a
+huge supply of firewood to port and all the food is stored foreward from
+here.  An open section of deck to the aft is used as a mess area.
+~
+82 d 0 0 0 0
+D0
+You see the food storage area.
+~
+~
+0 -1 8270
+D1
+The food preparation area.
+~
+~
+0 -1 8273
+D2
+An open area and the hatch.
+~
+~
+0 -1 8275
+D3
+You see huge stacks of firewood.
+~
+~
+0 -1 8271
+S
+#8273
+Food Preparation Area~
+There is some counter space and shelves here.  Various cooking implements are
+neatly stored all around the room.  Back to the port side you see the galley.
+~
+82 d 0 0 0 0
+D3
+You see the cooking area.
+~
+~
+0 -1 8272
+S
+#8274
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  A few barrels and crates are
+being stored unstacked to provide a makeshift tabletop and chair for the
+sailors to eat on.  During mess hours, the sailors will drag these out into
+the mess area.
+~
+82 d 0 0 0 0
+D3
+You see the mess area.
+~
+~
+0 -1 8275
+S
+#8275
+The Mess Area~
+At the moment, the deck here is bare.  The only feature it possesses is the
+hatch that leads above deck.  During mess hours, the sailors will drag crates
+and barrels into this area and create a makeshift dining hall.  To either
+side you see cargo holds.  Foreward is the galley and aft is a path through
+more holds.
+~
+82 d 0 0 0 0
+D0
+You see the cooking area.
+~
+~
+0 -1 8272
+D1
+You see a cargo hold.
+~
+~
+0 -1 8274
+D2
+A path through the cargo.
+~
+~
+0 -1 8278
+D3
+You see a cargo hold.
+~
+~
+0 -1 8276
+D4
+The stairs leading topside.
+~
+~
+1 -1 8258
+S
+#8276
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  A few barrels and crates are
+being stored unstacked to provide a makeshift tabletop and chair for the
+sailors to eat on.  During mess hours, the sailors will drag these out into
+the mess area.
+~
+82 d 0 0 0 0
+D1
+You see the mess area.
+~
+~
+0 -1 8275
+S
+#8277
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+starboard side.
+~
+82 d 0 0 0 0
+D1
+You see the path between the holds.
+~
+~
+0 -1 8278
+S
+#8278
+Pathway Through The Cargo~
+You are standing in a man-made aisle in the middle of the cargo area.  To
+the port, starboard and aft, cargo is stacked all the way to the ceiling.  It
+is obvious the sailors aboard this vessel are experienced loadmasters.  Fore-
+ward is the mess area.
+~
+82 d 0 0 0 0
+D0
+You see the mess area.
+~
+~
+0 -1 8275
+D1
+You see a cargo hold.
+~
+~
+0 -1 8279
+D2
+You see a cargo hold.
+~
+~
+0 -1 8280
+D3
+You see the cargo hold.
+~
+~
+0 -1 8277
+S
+#8279
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is back to the
+port side.
+~
+82 d 0 0 0 0
+D3
+You see the path between the holds.
+~
+~
+0 -1 8278
+S
+#8280
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the cargo.  Crates,
+barrels and burlap sacks are neatly arranged from floor to ceiling and secured
+with ropes fastened to iron rings in the wall.  The pathway is foreward.
+~
+82 d 0 0 0 0
+D0
+You see the path between the holds.
+~
+~
+0 -1 8278
+S
+#8281
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The base of the mast
+is below and the ladder continues up the mast.
+~
+82 ci 0 0 0 5
+D4
+The ladder climbs upward.
+~
+~
+0 -1 8282
+D5
+You see the base of the mast.
+~
+~
+0 -1 8220
+S
+#8282
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The ladder continues
+up and down the mast from here.
+~
+82 i 0 0 0 5
+D4
+The ladder climbs upward.
+~
+~
+0 -1 8283
+D5
+The ladder goes down the mast.
+~
+~
+0 -1 8281
+S
+#8283
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The ladder continues
+up and down the mast from here.
+~
+82 i 0 0 0 5
+D4
+The ladder climbs upward.
+~
+~
+0 -1 8284
+D5
+The ladder goes down the mast.
+~
+~
+0 -1 8282
+S
+#8284
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The ladder continues
+up and down the mast from here.
+~
+82 i 0 0 0 5
+D4
+The ladder climbs upward.
+~
+~
+0 -1 8285
+D5
+The ladder goes down the mast.
+~
+~
+0 -1 8283
+S
+#8285
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The ladder continues
+up to the crow's nest and down the mast from here.
+~
+82 i 0 0 0 5
+D4
+You can the crow's nest above.
+~
+~
+0 -1 8286
+D5
+The ladder goes down the mast.
+~
+~
+0 -1 8284
+S
+#8286
+The Crow's Nest~
+You are standing on a platform, high above the deck.  From this vantage, you
+can see a great distance in any direction.  The veiw below makes you realize
+this is no place for the faint of heart or the weak of stomach.  A ladder
+retreats down the side of the mast.
+~
+82 0 0 0 0 1
+D5
+The ladder down the mast.
+~
+~
+0 -1 8285
+S
+#8287
+MOB CHUTE 1~
+Mob cute for the main deck.
+~
+82 0 0 0 0 1
+D0
+NORTH CHUTE.
+~
+~
+0 -1 8216
+D1
+EAST CHUTE.
+~
+~
+0 -1 8218
+D2
+SOUTH CHUTE.
+~
+~
+0 -1 8221
+D3
+WEST CHUTE.
+~
+~
+0 -1 8224
+S
+#8288
+MOB CHUTE 2~
+Mob cute for the passenger deck.
+~
+82 0 0 0 0 1
+D0
+NORTH CHUTE.
+~
+~
+0 -1 8235
+D1
+EAST CHUTE.
+~
+~
+0 -1 8237
+D2
+SOUTH CHUTE.
+~
+~
+0 -1 8238
+D3
+WEST CHUTE.
+~
+~
+0 -1 8240
+D4
+UPPER CHUTE.
+~
+~
+0 -1 8241
+D5
+LOWER CHUTE.
+~
+~
+0 -1 8243
+S
+#8289
+MOB CHUTE 3~
+Mob cute for the cargo deck.
+~
+82 0 0 0 0 1
+D0
+NORTH CHUTE.
+~
+~
+0 -1 8254
+D1
+EAST CHUTE.
+~
+~
+0 -1 8256
+D2
+SOUTH CHUTE.
+~
+~
+0 -1 8257
+D3
+WEST CHUTE.
+~
+~
+0 -1 8260
+D4
+UPPER CHUTE.
+~
+~
+0 -1 8265
+S
+#8290
+MOB CHUTE 4~
+Mob cute for the lower deck.
+~
+82 0 0 0 0 1
+D0
+NORTH CHUTE.
+~
+~
+0 -1 8270
+D1
+EAST CHUTE.
+~
+~
+0 -1 8274
+D2
+SOUTH CHUTE.
+~
+~
+0 -1 8277
+D3
+WEST CHUTE.
+~
+~
+0 -1 8279
+S
+$~

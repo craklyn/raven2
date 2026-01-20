@@ -1,0 +1,839 @@
+#200
+N W 0~
+demon majorII glabrezu~
+the glabrezu~
+A hideous black skinned creature with four arms and the head of a dog is here.
+~
+You see a towering, broad and well-muscled demon with four arms, two of which
+end in heads with wicked claws, two of which end in large powerful pincers.
+He has a dog-like head with snarling fangs and his skin is pitch black.
+~
+270344 0 0 0 66728 0 0 0 -1000
+49 -8 -8 1d400+700 1d80+60
+20 80
+9 9 1 8 4 -1
+#201
+N D 0~
+demon majorII babau~
+the babau~
+A terrifying black skinned skeletal demon glares icily at you.
+~
+    This demon stands seven feet tall, looking much like a skeleton covered
+in black skin, which exudes a reddish slime. The creatures hands and feet
+are very large, well out of proportion to the creatures height. A single
+black horn sprouts from the demons head. The most unnerving feature, is the
+demons glaring red eyes, right now they are glaring at you.
+~
+10248 0 0 0 66728 0 0 0 -1000
+49 -8 -4 1d400+700 45d1+50
+90 150
+9 9 0 22 13 15
+#202
+N M 0~
+demon majorII succubus~
+the succubus~
+The beautifull succubus smiles evilly at you.
+~
+    She is completely nude and breathtakingly beautiful, even the demonic
+horns and large bat wings seem completely normal on her. As she smiles at you,
+you observe the small fangs inside her mouth and recall that the kiss of a
+succubus can prove fatal...
+~
+10248 0 0 0 328872 32 0 0 -1000
+49 -8 -5 1d400+700 15d3+45
+70 210
+9 9 2 20 -1 -1
+#203
+N D 0~
+demon majorII bodak~
+the bodak~
+A dark grey skinned humanoid demon stands here.
+~
+    This creatures muscular body is completely sexless, althou it resembles
+a male more than a female. Its head is long, with distorted features, the most
+unusual of which is it's large milky-white eyes... looking into them you can
+feel your life force draining away.
+~
+1073774600 0 0 0 197800 16384 0 0 -1000
+49 -8 -37 1d400+750 15d3+45
+20 90
+9 9 0 19 -1 -1
+#210
+F A 1~
+elemental fire level1 firefollower~
+the fire elemental~
+A large fire elemental is burning here.
+~
+   This creature resembles a huge sheet of flame, in fact if it
+weren't for the glowing eyes you might have mistaken it for a
+normal fire. This fire moves with an almost 'human' intelligence
+however, making it quite an opponent, or ally for that matter.
+~
+2056 0 0 0 66568 524288 0 0 -500
+30 0 0 1d100+400 1d40+30
+50 60
+9 9 1 21 -1 -1
+#211
+F M 2~
+elemental wind level1 airfollower~
+the air elemental~
+A large cloud is shifting in the air here.
+~
+   Judging by its movements, you would say that this mass of air
+possesses an intelligence. If it is intelligent then it must be a
+magical creation, which makes it an air elemental. Powerful magic
+was involved in its creation...you should be cautious.
+~
+2056 0 0 0 66568 0 0 0 -500
+30 -4 -4 1d100+400 10d3+5
+50 60
+9 9 1 12 -1 -1
+#212
+F W 4~
+elemental earth rock level1 earthfollower~
+the earth elemental~
+A large creature, entirely composed of rock, is standing here.
+~
+   This is obviously an earth elemental. Dirt and mud form the 
+joints between its stony body. While his movements are extremely
+slow, they are also extremely powerful. You have no doubt that this
+creature could easily bring down any building constructed.
+~
+2056 0 0 0 66568 0 0 0 0
+30 5 -5 1d100+600 15d3+10
+50 60
+9 9 1 6 -1 -1
+#213
+F C 3~
+elemental water puddle level1 waterfollower~
+the water elemental~
+A large mass of water is standing at attention here.
+~
+   You know from your early schooling that it is impossible for
+normal water to stand like this mass of water is doing. This must
+be a water elemental, created by wizards to serve their bidding.
+While he is only composed of water, you're certain its wave like
+appendages could damage you.
+~
+2056 0 0 0 66568 0 0 0 0
+30 0 0 1d100+400 10d3+20
+50 60
+9 9 1 10 -1 -1
+#220
+F A 1~
+elemental fire level2 firefollower~
+the fire elemental~
+A large fire elemental is burning here.
+~
+   This creature resembles a huge sheet of flame, in fact if it
+weren't for the glowing eyes you might have mistaken it for a
+normal fire. This fire moves with an almost 'human' intelligence
+however, making it quite an opponent, or ally for that matter.
+~
+2056 0 0 0 66568 524288 0 0 -500
+32 -1 -1 1d100+475 1d40+13
+50 75
+9 9 1 21 -1 -1
+#221
+F M 2~
+elemental air wind level2 airfollower~
+the air elemental~
+A large cloud is shifting in the air here.
+~
+   Judging by its movements, you would say that this mass of air
+possesses an intelligence. If it is intelligent then it must be a
+magical creation, which makes it an air elemental. Powerful magic
+was involved in its creation...you should be cautious.
+~
+2056 0 0 0 66568 0 0 0 -500
+32 -6 -6 1d100+475 10d3+8
+50 60
+9 9 1 12 -1 -1
+#222
+F W 0~
+elemental earth rock level2 earthfollower~
+the earth elemental~
+A large creature, entirely composed of rock, is standing here.
+~
+   This is obviously an earth elemental. Dirt and mud form the 
+joints between its stony body. While his movements are extremely
+slow, they are also extremely powerful. You have no doubt that this
+creature could easily bring down any building constructed.
+~
+2056 0 0 0 66568 0 0 0 0
+32 4 -8 1d100+575 15d3+23
+50 60
+9 9 1 6 -1 -1
+#223
+F C 3~
+elemental water puddle level2 waterfollower~
+the water elemental~
+A large mass of water is standing at attention here.
+~
+   You know from your early schooling that it is impossible for
+normal water to stand like this mass of water is doing. This must
+be a water elemental, created by wizards to serve their bidding.
+While he is only composed of water, you're certain its wave like
+appendages could damage you.
+~
+2056 0 0 0 66568 0 0 0 0
+32 -1 -1 1d100+475 10d3+23
+50 80
+9 9 1 10 -1 -1
+#230
+F A 1~
+elemental fire level3 firefollower~
+the fire elemental~
+A large fire elemental is burning here.
+~
+   This creature resembles a huge sheet of flame, in fact if it
+weren't for the glowing eyes you might have mistaken it for a
+normal fire. This fire moves with an almost 'human' intelligence
+however, making it quite an opponent, or ally for that matter.
+~
+2056 0 0 0 66568 524288 0 0 -500
+35 -2 -2 1d100+550 1d40+16
+50 80
+9 9 1 20 -1 -1
+#231
+F M 2~
+elemental air wind level3 airfollower~
+the air elemental~
+A large cloud is shifting in the air here.
+~
+   Judging by its movements, you would say that this mass of air
+possesses an intelligence. If it is intelligent then it must be a
+magical creation, which makes it an air elemental. Powerful magic
+was involved in its creation...you should be cautious.
+~
+2056 0 0 0 66568 0 0 0 -500
+35 -8 -8 1d100+550 10d3+31
+50 60
+9 9 1 12 -1 -1
+#232
+F W 4~
+elemental earth rock level3 earthfollower~
+the earth elemental~
+A large creature, entirely composed of rock, is standing here.
+~
+   This is obviously an earth elemental. Dirt and mud form the 
+joints between its stony body. While his movements are extremely
+slow, they are also extremely powerful. You have no doubt that this
+creature could easily bring down any building constructed.
+~
+2056 0 0 0 66568 0 0 0 0
+35 3 -8 1d100+650 15d3+36
+50 60
+9 9 1 6 -1 -1
+#233
+F C 3~
+elemental water puddle level3 waterfollower~
+the water elemental~
+A large mass of water is standing at attention here.
+~
+   You know from your early schooling that it is impossible for
+normal water to stand like this mass of water is doing. This must
+be a water elemental, created by wizards to serve their bidding.
+While he is only composed of water, you're certain its wave like
+appendages could damage you.
+~
+2056 0 0 0 66568 0 0 0 0
+35 -2 -2 1d100+550 10d3+36
+50 60
+9 9 1 10 -1 -1
+#240
+F A 1~
+elemental fire level4 firefollower~
+the fire elemental~
+A large fire elemental is burning here.
+~
+   This creature resembles a huge sheet of flame, in fact if it
+weren't for the glowing eyes you might have mistaken it for a
+normal fire. This fire moves with an almost 'human' intelligence
+however, making it quite an opponent, or ally for that matter.
+~
+2056 0 0 0 536937480 524288 0 0 -500
+38 -3 -10 1d100+725 1d40+49
+50 80
+9 9 1 21 -1 -1
+#241
+F M 2~
+elemental air wind level4 airfollower~
+the air elemental~
+A large cloud is shifting in the air here.
+~
+   Judging by its movements, you would say that this mass of air
+possesses an intelligence. If it is intelligent then it must be a
+magical creation, which makes it an air elemental. Powerful magic
+was involved in its creation...you should be cautious.
+~
+2056 0 0 0 536937480 0 0 0 -500
+38 -10 -10 1d100+725 10d3+44
+50 80
+9 9 1 12 -1 -1
+#242
+F W 4~
+elemental earth rock level4 earthfollower~
+the earth elemental~
+A large creature, entirely composed of rock, is standing here.
+~
+   This is obviously an earth elemental. Dirt and mud form the 
+joints between its stony body. While his movements are extremely
+slow, they are also extremely powerful. You have no doubt that this
+creature could easily bring down any building constructed.
+~
+2056 0 0 0 536937480 0 0 0 0
+38 -8 -15 1d100+825 15d3+49
+70 80
+9 9 1 6 -1 -1
+#243
+F C 3~
+elemental water puddle level4 waterfollower~
+the water elemental~
+A large mass of water is standing at attention here.
+~
+   You know from your early schooling that it is impossible for
+normal water to stand like this mass of water is doing. This must
+be a water elemental, created by wizards to serve their bidding.
+While he is only composed of water, you're certain its wave like
+appendages could damage you.
+~
+2056 0 0 0 536937512 0 0 0 0
+38 -3 -3 1d100+725 10d3+49
+50 80
+9 9 1 10 -1 -1
+#250
+A W 0~
+puppy dog level1~
+the puppy~
+A small but loyal puppy is here.
+~
+   The puppy couldn't be more than a few days old. Its eyes have just 
+recently been opened to the wonders of the world. Not extremely 
+helpful in battle this little courageous fighter could become cannon
+fodder if you're not careful.
+~
+8 0 0 0 0 0 0 0 0
+5 15 0 1d8+20 1d3+7
+35 40
+9 9 1 4 -1 -1
+#251
+A W 0~
+kitten cat level1~
+the kitten~
+A small but loyal kitten is here.
+~
+   The kitten isn't more than a few days old. When it first opened its 
+eyes it bonded with its current master, hence it is loyal to its 
+master until its death. Its not much in a fight, but it makes up for
+that with its companionship.
+~
+8 0 0 0 263168 0 0 0 0
+5 18 0 1d8+20 1d3+5
+35 40
+9 9 2 8 -1 -1
+#252
+A W 0~
+cub bear level1~
+the bear cub~
+A small but loyal bear cub is here.
+~
+   Away from his mother for the first time in his short life, the bear
+cub is certainly afraid. It fights its fear with an undying sense of 
+loyalty towards his master, nothing, short of death, would cause him
+to leave his master.
+~
+8 0 0 0 0 0 0 0 0
+5 13 0 1d8+30 1d3+10
+35 40
+9 9 1 8 -1 -1
+#253
+A W 0~
+bird level1~
+the bird~
+A bird is here, singing for its master.
+~
+   This small bird would use its speed to distract and annoy 
+an opponent during a fight. Even though it is nothing more than
+a songbird, this bird would do whatever it could to help its
+master in a battle.
+~
+8 0 0 0 65536 0 0 0 0
+5 18 -2 1d8+25 1d6+5
+35 40
+9 9 2 16 -1 -1
+#254
+A R 0~
+wolf dog level2~
+the wolf~
+A shaggy wolf is hunting for prey here.
+~
+   This wolf normally inhabits wilderness areas, how ever he has been called
+forth to help a friend of nature.
+~
+8 0 0 0 32 0 0 0 0
+17 11 -2 1d8+75 1d8+15
+35 40
+9 9 1 4 -1 -1
+#255
+A W 0~
+cat level2~
+the bob cat~
+A bob cat is here, sharpening her claws.
+~
+    This cat is descended from the domestic cat, but has become feral. A
+little larger than her domestic cousin, she will defend the caller who
+brought her to them.
+~
+8 0 0 0 263168 0 0 0 0
+12 5 -2 1d8+75 1d10+10
+35 40
+9 9 1 8 -1 -1
+#256
+A W 0~
+black bear level2~
+the black bear~
+A small black bear is here waiting on his master's command.
+~
+   Smaller than some of its larger cousins, this black bear would still be a
+match for most people. His sharp claws could rip through human flesh without
+much difficulty. He gives you a cautious glance and a small growl as he sees
+you.
+~
+8 0 0 0 0 0 0 0 0
+12 11 -2 1d8+85 3d8+10
+35 40
+9 9 1 8 -1 -1
+#257
+A W 0~
+raven bird black level2~
+the raven~
+A large black raven is perched here, waiting for something.
+~
+   Some creatures evoke powerful emotions in people. Ravens tend
+to provoke fear and sometimes dread, and this one is no different.
+There seems to be a presence that regards you from beyond his
+glassy eyes, you had better watch your step.
+~
+8 0 0 0 65536 0 0 0 0
+12 0 -5 1d8+80 3d6+5
+35 40
+9 9 1 16 -1 -1
+#258
+A W 0~
+bird eagle level3~
+the eagle~
+A large eagle is perched here, looking at you with glittering eyes.
+~
+    Normally eagles inhabit the mountains on the Bremani rim. This one
+how ever, has been called forth by a friend of eagles... and will do anything
+to aid them it can.
+~
+8 0 0 0 65536 0 0 0 0
+17 5 -10 2d6+120 2d6+20
+35 40
+9 9 1 16 10 20
+#259
+A W 0~
+black panther cat level3~
+the panther~
+A huge black panther is here, stalking something...
+~
+   Rippling muscles bulge beneath this beast's smooth coat. 
+Muscles that could pounce on you in a second, and rip out your
+heart in the next second. It would not be a good idea to get on
+the wrong side of this cat's owner.
+~
+8 0 0 0 263168 0 0 0 0
+17 -2 -5 2d6+120 3d6+20
+35 40
+9 9 2 8 4 -1
+#260
+A W 0~
+brown bear level3~
+the brown bear~
+A large brown bear is pacing here.
+~
+   This bear has chosen to leave his natural habitat for some 
+strange reason. Large claws make him a formidable opponent in any
+fight. Don't be fooled into thinking he's slow either, he would
+rip your head off before you had a chance to respond!
+~
+8 0 0 0 131072 0 0 0 0
+17 5 -2 1d8+200 3d6+20
+35 40
+9 9 1 8 -1 -1
+#261
+A R 0~
+dire wolf dog level3~
+the dire wolf~
+A large wolf paces here, awaiting its masters commands.
+~
+    This wolf is far larger than normal and its fur is black and shaggy. Wolfs
+of such size are normally only found in remote areas, this one has answered
+a call it could not ignore.
+~
+8 0 0 0 1056 0 0 0 0
+17 5 -10 2d6+115 2d6+20
+35 40
+9 9 1 4 -1 -1
+#262
+N R 0~
+worg wolf dog level4~
+the worg~
+A very large wolf the size of a pony sits here patiently.
+~
+    Judging from the immense size of this wolf, it can only be a worg. It's
+feral red eyes glitter with intelligence and you recall that worg's are known
+to like the taste of human flesh...
+~
+8 0 0 0 1064 0 0 0 -500
+23 4 -5 1d50+165 5d6+20
+50 40
+9 9 1 4 -1 -1
+#263
+A R 0~
+eagle giant level4~
+the giant eagle~
+A great eagle, as large as yourself sits here.
+~
+    The great eagles of the Bremani rim are said to be very wise, and even
+have their own tongue. They are also fearsome fighters, and have even been
+known to carry a full grown man off to their eyries. This eagle has come to
+serve, just as they served the rangers in the old days.
+~
+8 0 0 0 328704 0 0 0 0
+23 -5 -20 1d50+200 2d8+10
+40 40
+9 9 2 16 -1 -1
+#264
+A W 0~
+grizzly bear brown level4~
+the grizzly bear~
+An giant grizzly bear is wandering here.
+~
+   This creature fills you with a great sense of awe, his size 
+alone would dwarf a half giant. The fact that any creature could
+be this large scares you, maybe because you realize it must be 
+mainly muscle under that thick hide.
+~
+8 0 0 0 0 0 0 0 0
+23 4 0 1d66+250 5d6+15
+40 40
+9 9 1 8 -1 -1
+#265
+A R 0~
+man manlike creature horse centaur level4~
+the centaur~
+A powerful centaur stands here, staring at you.
+~
+   This creature has the upper body of a man and the lower body of
+a horse. Supposedly just creatures of legend, this centaur has left it's
+traditional home in the forgotten forest to serve it's master.
+~
+8 0 0 0 0 0 0 0 0
+23 2 -10 1d50+250 5d8+20
+40 40
+9 9 1 23 13 -1
+#266
+A R 0~
+satyr level5~
+the satyr~
+A strange creature, like a human with the legs of a goat stands here.
+~
+    You find yourself staring at a Satyr, a strange creature of myth and
+legend. It has sharp horns atop its head and powerfull furred legs like those
+of a goat. It has left it's forest home to aid a friend.
+~
+8 0 0 0 1064 0 0 0 0
+30 0 -10 1d54+300 5d5+20
+50 60
+9 9 1 22 23 -1
+#267
+A A 0~
+cat sabre-tooth tooth level5~
+the Sabre-Tooth~
+An enourmous sabre-toothed tiger is here.
+~
+    These great cats only dwell in ancient valleys or the deepest jungles. It
+is said thou, that an old ranger can call them forth from their lairs to
+serve them.
+~
+8 0 0 0 263168 0 0 0 500
+30 -3 -10 1d60+300 5d5+20
+50 60
+9 9 1 8 4 -1
+#268
+A W 0~
+cave bear white level5~
+the cave bear~
+A huge cave bear is standing here.
+~
+   This huge bear is the largest of it's kind, thought to have died out long
+ago. They still live, how ever, and may be called by those knowing the proper
+rituals.
+~
+8 0 0 0 0 0 0 0 0
+30 0 -5 1d66+350 5d5+25
+50 60
+9 9 1 8 -1 -1
+#269
+A W 0~
+hippogriff level5~
+the hippogriff~
+A powerfull hippogriff stands here, awaiting its masters commands.
+~
+    This large creature has the fore quarters of a giant eagle and the legs
+of a horse. It's front legs are equipped with powerfull ripping talons that
+could easily tear you limb from limb.
+~
+8 0 0 0 66600 0 0 0 0
+30 -1 -10 1d66+350 5d5+25
+50 60
+9 9 1 8 16 -1
+#270
+A M 0~
+unicorn level6~
+the unicorn~
+A unicorn stands here proudly.
+~
+    A creature of legend, the unicorn is a snow white horse with a large horn
+jutting from its head. It's said that a unicorn rarely befriends a human, but
+when it does so, it will defend them unto the death.
+~
+2056 0 0 0 536937512 0 0 0 -500
+35 -3 -3 2d66+500 2d40+25
+50 60
+9 9 1 22 23 -1
+#271
+A A 0~
+winter wolf level6~
+the winter wolf~
+A great winter wolf stands here, chilling you with its prescence.
+~
+    This enourmous wolf is as large as a horse, and many times more
+dangerous. It's breathe alone could freeze you to the bone.
+~
+2056 0 0 0 537199624 0 0 0 -500
+35 -10 -15 2d66+512 10d4+20
+50 60
+9 9 1 4 -1 -1
+#272
+A W 0~
+griffon level6~
+the griffon~
+A fearsome creature, like a cross between an eagle and a lion stands here. 
+~
+    The griffon is a mighty beast, known for it's taste for horse flesh. It's
+fore quarters of those of a great eagle, while it has the rear end of a lion.
+You tremble at the thought that it may turn it's deadly sharp beak and claws
+on you.
+~
+2099208 0 0 0 536937480 0 0 0 0
+35 -3 -10 2d66+412 10d3+25
+50 60
+9 9 1 8 16 -1
+#273
+P W 0~
+treant tree level6~
+the treant~
+A old, gnarled tree is rooted here.
+~
+    Looking more closely you see the twisted knots actually form a barky
+face and it's branches are arms... this means this creature is actually a
+treant, a guardian of the forests well known for their enourmous strength.
+~
+2056 0 0 0 536937480 0 0 0 0
+35 -8 2 2d66+580 20d3+25
+50 60
+9 9 1 10 -1 -1
+#280
+U W 0~
+skeleton evil necromancer m280~
+an evil skeleton~
+An evil skeleton rattles its bones here.
+~
+The skeleton is a collection of bones, held together by evil magics.  Its
+eye sockets are empty, but a dull red glow lies in their depths.  Totally
+naked, the skeleton's bones are ancient and yellowed, with fine cracks
+running through them.
+~
+8 0 0 0 66600 0 0 0 -1000
+30 -10 5 20d20+300 4d6+18
+50 60
+9 9 0 0 -1 -1
+#290
+A K 0~
+steed noble m290~
+the noble steed~
+A noble steed stands here proudly.
+~
+This steed comes from a long line of proud horses.  His coat is gleaming
+with health, his head held up and his muscles rippling beneath his skin.
+Every aspect of this horse shouts that it is a prince of horses.
+~
+2105354 0 0 0 537001984 0 0 0 1000
+44 20 0 1d1+450 1d1+4
+65 75
+9 9 1 0 -1 -1
+#291
+A K 0~
+pegasus m291~
+the pegasus~
+A pegasus stands proudly.
+~
+A descendant of the original Pegasus, this horse is a mighty steed, sporting
+a pair of large, white wings.  He stands before you, his white coat seeming
+almost to glow with his majesty.
+~
+2097162 0 0 0 537067520 0 0 0 1000
+45 18 -4 1d1+600 2d2+5
+65 75
+9 9 1 0 -1 -1
+#292
+A K 0~
+hippogriff m292~
+the hippogriff~
+a hippogriff stands here, snapping fiercely.
+~
+Half griffin, half horse, the hippogriff is a beast to be wary around.  It
+inherits a large, feathered head with a sharp beak from its father, and from
+its mother it receives a graceful and powerful horse's body.  From between its
+shoulder blades, two wings extend.    
+~
+2097162 0 0 0 541261824 0 0 0 1000
+48 16 -7 1d1+900 3d3+7
+70 80
+9 9 0 0 -1 -1
+#293
+A K 0~
+wyvern silver m293~
+a silver wyvern~
+a silver wyvern is here.
+~
+The wyvern stands before you with its wings spread to full extent.  Light
+plays off its silver scales, and from its mouthful of razor sharp teeth.
+The loyalty of these beasts is hard to gain, but impossible to break.
+~
+2097162 0 0 0 4392104 0 0 0 1000
+50 4 -10 1d1+1000 3d10+10
+80 90
+9 9 0 0 -1 -1
+#294
+A K 0~
+mount godly m294~
+a godly mount~
+a godly mount is here.
+~
+This mount is so godly, you cannot focus on it.
+~
+2097162 0 0 0 4392104 0 0 0 1000
+51 20 -20 1d1+30000 1d1+0
+90 100
+9 9 0 0 -1 -1
+#295
+A D 0~
+evil horse m295~
+an evil horse~
+an evil horse is here.
+~
+The horse is a sort of nondescript brown color, with white socks.  More
+noticable are its shifty eyes, and the flecks of foam around its teeth.  It
+snaps at something imaginary near its head, and snorts.
+~
+2097162 0 0 0 537001984 0 0 0 -1000
+42 20 10 1d1+450 1d1+3
+65 75
+9 9 0 0 -1 -1
+#296
+U D 0~
+skeletal steed m 296~
+a skeletal steed~
+a skeletal steed is here.
+~
+The skeletal steed follows the same shape as a typical horse, just without
+all the extra pieces you expect to see on a horse, such as skin and organs.
+It rattles slightly every time it moves.
+~
+2097162 0 0 0 537067520 0 0 0 -1000
+44 16 -4 1d1+600 2d2+5
+65 75
+9 9 0 0 -1 -1
+#297
+N D 0~
+nightmare horse m297~
+a nightmare horse~
+a nightmare horse is here.
+~
+This horse is as black as the depths of night, with a long black mane.  Its
+hooves are a glinting golden colour, reflecting the flames from its tail.
+Its eye sockets are empty, showing a dull red glow.
+~
+2097162 0 0 0 541261824 0 0 0 -1000
+48 20 10 1d1+900 3d3+8
+70 80
+9 9 0 0 -1 -1
+#298
+A D 0~
+drake black m298~
+a black drake~
+a black drake is here.
+~
+The drake is a small dragon, winged, clawed, egotistical and brutal.  His
+scales are a dull black, with a mottled pattern of slightly lighter patches
+spreading along his tail.
+~
+2097162 0 0 0 4392104 0 0 0 -1000
+50 4 -10 1d1+1100 3d10+10
+0 90
+9 9 0 0 -1 -1
+#299
+A D 0~
+mount godly m299~
+the godly mount~
+a godly mount is here.
+~
+It's just too gosh darned godly to contemplate.
+~
+2097162 0 0 0 4392104 0 0 0 -1000
+51 20 10 1d1+30000 1d1+0
+90 100
+9 9 0 0 -1 -1
+#800
+H K 0~
+moderate group~
+a moderate group~
+A moderate group is here
+~
+Go away
+~
+16394 0 0 0 1213612 0 0 0 500
+40 -5 -12 1d1+7000 20d20+100
+65 75
+9 9 0 0 -1 -1
+#801
+H C 0~
+large group largegroup~
+a large group~
+A large group is ere
+~
+This is supposed to be a large group.
+hits like 10 lvl 45 warriors and 3 clerics
+~
+10 0 0 0 22217896 0 0 0 1000
+51 -20 -15 1d1+15000 45d45+45
+90 100
+9 9 0 0 -1 -1
+#802
+H W 0~
+guard~
+a guard~
+a guard stands here
+~
+You see a lightly armored guard
+~
+57546 0 0 0 32768 0 0 0 0
+20 10 -3 1d1+1000 5d5+5
+40 40
+9 9 0 0 -1 -1
+$

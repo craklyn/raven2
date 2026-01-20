@@ -1,0 +1,99 @@
+#38400
+H P 0~
+jericho shopkeep squire~
+Jericho the squire~
+The squire Jericho rushes about here polishing armor and swords.
+~
+   Jericho is a fine looking young boy of about thirteen years.  He is of
+medium build with wavy brown hair and piercing hazel eyes.  His goal in life is
+to become a knight, he works extremely hard here in the shop to serve the guild
+and his Uncle Thaniel.  Upon seeing your entrance, he gives a slight bow and
+politefully asks of what assistance he may be.    
+~
+24650 0 0 0 12 0 0 0 600
+20 10 5 3d1000+4000 5d5+20
+40 40
+9 9 1 0 -1 -1
+#38401
+H P 0~
+sir thaniel knight sword~
+Sir Thaniel~
+A thickly built knight in silver armor stands here proudly.
+~
+   Upon looking closer, you notice the knight's breastplate is emblazoned with
+the insignia of the order of the sword.  This is none other than Sir Thaniel of
+the Sword, one of the knighthood's more legendary figures.  Thaniel is said to
+be the best swordsman this side of the emerald sea, and rumored to have
+disarmed Lord Skul of Blackheart in single combat.  Thaniel trains knights now
+in the rudimentary skills of combat and devotion, teaching by example when he
+gets the opportunity.    
+~
+24650 0 0 0 136236 40960 0 0 900
+50 0 10 3d3000+3000 5d10+60
+80 90
+9 9 1 3 22 23
+#38402
+H P 0~
+knight crown solamnic~
+a Knight of the Crown~
+A proud knight of the crown stands here, hand of the hilt of his sword.
+~
+   This knight belongs to the Order of the Crown, as denoted by the insignia on
+his highly polished steel breastplate.  His hawk like eyes scan nervously all
+before him as he fidgets with his long mustache with one hand.  The knight is
+prepared to defend the keep to his death if so required.    
+~
+8522 0 0 0 135180 32768 0 0 1000
+35 5 0 1d1+500 5d5+15
+50 60
+9 9 1 0 -1 -1
+#38403
+H P 0~
+knight sword solamnic~
+a Knight of the Sword~
+A knight of the sword stands here, gazing intently at you.
+~
+   A member of the Order of the Sword, this gaunt looking knight has obviously
+seen his share of combat.  His bearded face looks weary, but determined, much
+like that of many experienced knights who have proved themselves in the rigors
+of battle.  A contrast to this however is his eyes.  Serenely blue, they speak
+of a calmness and compassion known only to one who is at peace with their God.
+~
+8266 0 0 0 0 0 0 0 0
+20 10 5 1d1+500 5d5+25
+40 40
+9 9 1 3 3 3
+#38404
+H P 0~
+ancient rose knight veteran grizzled solamnic~
+a Knight of the Rose~
+A grizzled veteran knight stand watch over the entrance guild council room.
+~
+   This valiant knight speaks of experience and nobility you think, and as
+evidenced by his armor, he is indeed of the Order of the Rose.  This man with
+the frosted mustache and keen eyes is of a noble bloodline and has proven
+himself to become one of this order, and he knows it.  He nods at you with a
+slight smile as you pass him.    
+~
+25930 0 0 0 135180 32768 0 0 1000
+35 10 -4 1d1+1000 5d5+25
+50 60
+9 9 1 3 22 0
+#38405
+H P 0~
+guardian solgaard knight~
+the guardian of Solgaard Keep~
+The guardian of Solgaard paces through the halls, watchful for any hint of trouble.
+~
+   Embarrassed by the number of raids upon Solgaard Keep, Sir Thaniel has
+pulled one of his most battle hardened soldiers from the beaches of Palanthus.
+The guardian soldier has seen many fierce battles and kept his formation in
+combat amongst the most impossible of odds.  He is not about to let an outsider
+trample his sacred guild.    
+~
+544840 0 0 0 136236 40960 0 0 950
+50 -2 -15 100d100+15000 10d10+50
+80 90
+9 9 0 0 -1 -1
+Z 38402
+$

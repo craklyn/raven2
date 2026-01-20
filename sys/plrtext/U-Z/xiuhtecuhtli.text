@@ -1,0 +1,27 @@
+xev goto 39501
+txev tlist 395
+qxev qlist 395
+mxev mlist 39500 39599
+oxev olist 39500 39599
+xevriver goto 33002
+rxev rlist 39500 39599
+xevtown goto 32301
+xevocean goto 39683
+xevhome goto 39500
+home goto 1280
+blackwin flag award black 6;flag award gold 3
+goldwin flag award gold 6;flag award black 3
+goldd set $* team gold
+black set $* team black
+placeteams goto 20195;transquest black;goto 20095;transquest gold;qsay on your mark;qsay get set;qsay GO!
+endgame goto 1489;transquest black;transquest gold;transquest rogue
+ud goto 20969
+x goto 1204
+v scan $*
+thiefq goto 21098
+mid goto 3029
+samthief goto 38800
+samthief2 goto 38806
+xtalk            gecho shopTalk, '$*'
+atalk gecho &09Arbaces OOC: $*&00
+ftalk gecho &09Fenrir OOC: $*&00

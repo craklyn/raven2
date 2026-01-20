@@ -1,0 +1,213 @@
+#5000
+H T 0~
+dervish raggity~
+the dervish~
+A raggity dervish walks on aimlessly.
+~
+Dressed in loose fitting rags, this man looks like he could use some rest.
+~
+204 0 0 0 524288 0 0 0 900
+15 15 5 1d200+200 3d4+5
+35 40
+9 9 1 0 -1 -1
+#5001
+H T 0~
+dervish large~
+the dervish~
+A large dervish watches for signs of trouble.
+~
+Dressed in loose fitting rags, this man looks like he could use LOTS of rest.
+~
+104 0 0 0 524288 0 0 0 650
+18 12 3 1d300+300 3d6+5
+35 40
+9 9 1 0 -1 -1
+#5002
+A W 0~
+snake coral~
+the coral snake~
+A brightly colored snake slithers along the sands.
+~
+This relatively harmless snake has bright alternating bands of red, yellow
+and black.
+~
+72 0 0 0 1024 0 0 0 -10
+14 17 4 1d100+100 2d9+1
+35 40
+9 9 0 4 -1 -1
+#5003
+A W 0~
+scorpion small~
+the small scorpion~
+A small, red scorpion scuttles away at your approach.
+~
+The little tail is mighty dangerous for such a small creature.
+~
+72 0 0 0 0 0 0 0 -50
+13 17 1 1d80+80 2d8+1
+35 40
+9 9 0 1 -1 -1
+#5004
+A W 0~
+worm giant purple~
+the sand worm~
+A giant, purple sand worm thrusts up out of the sand and attacks!
+~
+He's big, mean, and purple.  Watch out!
+~
+42 0 0 0 40 0 0 0 -300
+28 0 3 1d1500+1500 4d7+14
+40 40
+9 9 0 4 1 -1
+#5005
+D W 11~
+dragon brass~
+the brass dragon~
+A very large brass dragon steps out of the darkness and says "Hello".
+Then adds to it, "Prepare to die, have a nice day!"
+~
+You see a large creature with shiny scales and even shinier teeth.    
+~
+42 0 0 0 136 0 0 0 950
+27 1 0 1d1300+1300 4d6+12
+40 40
+9 9 2 8 4 -1
+#5006
+H W 0~
+nomad leader~
+the nomad leader~
+The nomad leader sits silently in prayer.
+~
+He is clad in silk robes lined with gold thread. At his side is a large,
+engraved cutlass.  He has an especially haughty air about him.
+~
+2186 0 0 0 8 0 0 0 950
+24 7 0 1d500+500 2d8+10
+40 40
+9 9 1 0 -1 -1
+#5007
+H W 0~
+nomad commander~
+the nomad commander~
+The nomad commander stands here staring at you suspiciously.
+~
+This is the nomad leader's second in command.  His clothes are richly woven
+of silk and gold thread.  A nasty cutlass hangs at his side.
+~
+2186 0 0 0 0 0 0 0 900
+22 8 1 1d400+400 2d5+7
+60 40
+9 9 1 0 -1 -1
+#5008
+H W 0~
+nomad warrior~
+the nomad warrior~
+A proud nomad warrior stands here.
+~
+   This suntanned warrior stands defiantly.  He glares at you briefly while
+muttering to his tribesmen, clearly angered by your presence.    
+~
+10 0 0 0 0 0 0 0 700
+20 11 2 1d300+300 2d6+5
+40 40
+9 9 1 0 -1 -1
+#5009
+H W 0~
+slave young~
+the slave~
+A young slave sits here staring at you with pleading eyes.
+~
+a young slave stands here begging for you to free him.
+~
+138 0 0 0 0 0 0 0 1000
+13 18 9 1d100+100 2d5+2
+35 40
+6 6 2 0 -1 -1
+#5010
+U N 0~
+dracolich lich~
+the dracolich~
+A pile of bones rises up to form a skeletal dracolich.
+~
+The dracolich is now only bone with pieces of flesh hanging from it.
+Obviously it no longer fears death.
+~
+42 0 0 0 1048714 0 0 0 -1000
+30 0 -6 1d1700+1700 3d5+35
+70 100
+9 9 0 8 4 19
+#5011
+X W 0~
+drider drow~
+the drider~
+The drider looks at you viciously while it draws its sword.
+~
+This half-spider, half-drow creature is a formidable opponent.
+~
+104 0 0 0 8 0 0 0 -1000
+23 3 -6 1d500+800 8d3+10
+40 40
+9 9 2 0 -1 -1
+#5012
+W W 0~
+duergar dark dwarf~
+the dark dwarf~
+A duergar is here mining precious stones with his pick.
+~
+The duergar could crush your head as easily as it does those rocks.
+~
+104 0 0 0 8 0 0 0 -850
+25 10 -2 1d600+600 2d10+20
+40 40
+9 9 1 0 -1 -1
+#5013
+A W 0~
+myconoid~
+the myconoid~
+A myconoid lumbers along peacefully.
+~
+The myconoid looks something like a giant mushroom (and probably has the same
+effect).
+~
+200 0 0 0 8 0 0 0 850
+18 10 4 1d400+400 3d7+10
+35 40
+9 9 1 0 -1 -1
+#5014
+A C 0~
+myconoid shaman~
+the myconoid shaman~
+A rather large myconoid stands here chanting in a strange tongue.
+~
+The shaman shoots spores into the air.
+~
+2444 0 0 0 136 0 0 0 950
+24 7 1 1d700+700 4d7+12
+40 40
+9 9 1 0 -1 -1
+#5015
+A W 0~
+dustdigger~
+the dustdigger~
+A small oasis invites you to dive in.
+~
+   Among the countless grains of sand you see a beautiful oasis filled with
+sparkling clear water, inviting you to relax.    
+~
+46 0 0 0 1048576 0 0 0 -200
+17 10 1 1d200+200 3d4+5
+35 40
+9 9 0 8 -1 -1
+#5017
+A W 0~
+camel rabid~
+the rabid camel~
+A very dangerous rabid camel snorts at you.
+~
+Don't mess with this animal.
+~
+42 0 0 0 0 0 0 0 -351
+15 12 6 1d200+200 3d4+5
+35 40
+9 9 0 4 -1 -1
+$

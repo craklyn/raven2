@@ -1,0 +1,21 @@
+re reel
+co castout
+tell tell $1 &13$*&00
+clan clan &14$*&00
+gt gt &14$*&00
+rp cast 'remove poison' $1
+hw cast 'holy word'
+cr cast 'crusade'
+rv cast 'righteous vision'
+t cast 'terror'
+rc cast 'remove curse' $1
+di cast 'detect inv' $1
+da cast 'detect alig' $1
+pfe c 'protection from evil'
+ws wake;stand
+b bash $1
+k kick
+dm cast 'divine mission'
+cc cast 'cure critic'
+ccp cast 'cure critic' $1
+ha cast 'holy armor'

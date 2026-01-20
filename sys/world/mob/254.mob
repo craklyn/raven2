@@ -1,0 +1,61 @@
+#25401
+N M 0~
+fiend burning 25401~
+a burning fiend~
+A fiend wreathed in flames howls at you.
+~
+This fiend is only five feet tall, yet gains an extra foot of apparent height
+in burning flames atop its head.  Its arms end in clawed hands, with more
+flames writhing up its blood red forearms.  To finish off its appearance, it
+has a long, whip-like tail, complete with a small flame burning at the tip.  
+~
+8405000 0 0 0 542180392 0 0 0 -1000
+45 -30 -7 1d200+8000 6d5+60
+65 75
+9 9 0 8 21 -1
+#25402
+F R 1~
+wraith sulphur 25402~
+a sulphur wraith~
+A cloud of yellowish gas billows up.
+~
+The smell of sulphur is suddenly more intense as this wraith drifts into focus.
+Similar to an elemental, it is roughly humanoid, made of yellow sulphurous
+gases, swirling and shifting constantly.    
+~
+253976 0 0 0 1836074 0 0 0 -300
+45 -30 -20 5d200+11500 5d6+50
+65 75
+9 9 0 12 21 -1
+#25403
+U T 0~
+soul burning 25403~
+a burning soul~
+A screaming soul stands in a pillar of flame.
+~
+This poor soul has been trapped in the dungeon of Dispater's abode, to burn for
+eternity.  As one might expect, this has left it considerably upset, and it
+appears to want to take its anger out on you.    
+~
+540808 0 0 0 262144 0 0 0 -500
+30 -20 -3 1d50+5000 6d5+35
+50 60
+9 9 0 0 21 -1
+#25404
+F M 1~
+zafpht elemental lava 25404~
+Zafpht~
+A massive lava elemental roars its hatred.
+~
+Zafpht is a towering lava elemental, his surface a webbing of dark lines on
+glowing red.  He is mostly featureless, with clublike hands and a noseless
+face.  His eyes are two pitch black balls of onyx, showing gleaming
+reflections.  He gives off an incredible amount of heat, with the stones
+beneath his feet glowing red.    
+~
+8445978 0 0 0 5440680 0 0 0 -1000
+51 -30 -20 1d1+30000 20d12+100
+90 100
+9 9 1 7 21 18
+Z 25405
+$

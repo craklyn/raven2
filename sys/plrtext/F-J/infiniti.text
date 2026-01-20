@@ -1,0 +1,40 @@
+t cast 'revive' talid
+h cast 'heal' group
+y say yar
+4 rec mid mid
+di cast 'detect inv' $*
+ii cast 'invis' $*
+tit title &14is &08.:&07Cursed&08:. &14to play cleric in the &08[&07/-|\/\&08]&00
+brewm title the &08Brewmaster&00 of &01.::&07Cursed&00&01::.&00 Concoctions
+fs cast 'flame strike' $*
+f flee
+hw cast 'holy word' $*
+re cast 'word' $*
+er cast 'earth'
+rer cast 'word' group
+gt gt &14[&00&13AM&00&14]&00 &13$*  &00&14[&00&13AM&00&14]&00
+sag cast 'saga' $*
+rp cast 'remove para' $*
+rl cast 'relocate' $*
+cb cast 'cure blind' $*
+fly cast 'fly' $*
+ma cast 'maledict' $*
+sanc cast 'sanc' $*
+sum cast 'summon' $*
+reg cast 'regen' $*
+inf cast 'infra'
+ar cast 'armor' $*
+cs cast 'sense life'
+hr cast 'harm' $*
+rc cast 'remove curse' $*
+fort cast 'fortify' $*
+b cast 'blind' $*
+' say &13r&14e&13a&14d&13-&14>&13$* &14<&13-&14t&13h&14i&13s&00
+loot get all all.inf;wea all;get all all.inf;wea all;hol evil;wie mace;get all all.inf;des inf
+gg get gol all.corp
+ggg get all all.cor
+cl cast 'cleanse' $*
+da cast 'dishearten' $*
+c clan &14/-\&07$* &14/\/\&00
+ass cast 'assistant'
+r cast 'revive' $*

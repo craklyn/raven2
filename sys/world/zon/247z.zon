@@ -1,0 +1,82 @@
+#247
+The Apprentice Inn (newbie clan)~
+24799 30 2 0
+M 0 24750 1 24754    * Mob : Elwood, the bartender
+G 1 24774 100 -1     * Give: an eggnog
+G 1 24775 100 -1     * Give: a mug of hot apple cider
+G 1 24776 100 -1     * Give: a crystal goblet
+O 0 24773 1 24754    
+O 0 24772 1 24754    
+M 0 24754 1 24756    * Mob : Sweetums
+G 1 24786 100 -1     * Give: a snowglobe
+G 1 24787 100 -1     * Give: a stocking
+G 1 24788 100 -1     * Give: a teddy bear
+M 0 24753 1 24755    * Mob : Packer the elf
+G 1 24783 100 -1     * Give: a blue box
+G 1 24784 100 -1     * Give: a purple box
+G 1 24785 100 -1     * Give: a red box
+M 0 24752 1 24752    * Mob : Scribbles the elf
+G 1 24780 100 -1     * Give: a snowman card
+G 1 24781 100 -1     * Give: a round christmas card
+G 1 24782 100 -1     * Give: a holly card
+M 0 24751 1 24753    * Mob : Sugar, the faerie
+G 1 24777 100 -1     * Give: a gingerbread man
+G 1 24778 100 -1     * Give: a candy cane
+G 1 24779 100 -1     * Give: a christmas pudding
+D 0 24751 0 1        
+O 0 24711 100 24700  
+P 1 31259 100 24711  * Put : a &05strange stone ring&00
+P 1 31259 100 24711  * Put : a &05strange stone ring&00
+P 1 18821 20 24711   * Put : a pair of velvet shoes
+P 1 8419 100 24711   * Put : a yellow doublet
+P 1 18076 100 24711  * Put : a leather buckler
+P 1 18072 100 24711  * Put : a pair of leather pants
+P 1 18074 100 24711  * Put : a pair of leather gloves
+P 1 18075 100 24711  * Put : a pair of leather bracers
+P 1 18005 100 24711  * Put : a jewelled bracelet
+P 1 18005 100 24711  * Put : a jewelled bracelet
+P 1 31261 100 24711  * Put : a turban
+P 1 31258 100 24711  * Put : a &10sun jewel&00
+O 0 24754 100 24718  
+O 0 24700 2 24718    
+O 0 24703 2 24718    
+P 0 24702 100 24703  * Put : a list of mud socials
+P 0 24750 100 24703  * Put : a list of mud commands
+P 0 24751 100 24703  * Put : a very helpful list
+P 0 24752 100 24703  * Put : Mother's Helpful hints
+P 0 24753 100 24703  * Put : a list of directions
+O 0 24700 2 24716    
+D 0 24702 2 1        
+O 0 18055 99 24719   
+O 0 18055 99 24719   
+M 0 24709 4 24715    * Mob : a student of Lore
+G 1 1232 99 -1       * Give: the newbie guide
+M 0 24709 4 24715    * Mob : a student of Lore
+G 1 1232 99 -1       * Give: the newbie guide
+M 0 24706 1 24712    * Mob : a young knight
+M 0 24703 1 24712    * Mob : a young cleric
+M 0 24702 6 24710    * Mob : an apprentice mage
+M 0 24705 1 24713    * Mob : a young squire
+O 0 24701 1 24703    
+M 0 24710 1 24706    * Mob : Annie, the tavern owner
+G 1 24707 99 -1      * Give: a jug
+G 1 24708 99 -1      * Give: a bottle
+G 1 24709 99 -1      * Give: a frosty mug
+M 0 24711 1 24707    * Mob : Jeremy, owner of the Junkit Shop
+G 1 24710 99 -1      * Give: a flint stone torch
+G 1 24712 99 -1      * Give: a scroll of luck
+G 1 24711 99 -1      * Give: a deer skin pouch
+M 0 24712 1 24721    * Mob : Scarlet, the Clan of Lore's cleric
+G 1 24713 99 -1      * Give: a potion of flight
+G 1 24714 99 -1      * Give: a potion of regeneration
+G 1 24715 99 -1      * Give: a potion of detect invisiblity
+M 0 24708 1 24708    * Mob : Clayton, Clan Lore's chief chef
+G 1 24704 99 -1      * Give: a bran muffin
+G 1 24705 99 -1      * Give: a slice of cheesecake
+G 1 24706 99 -1      * Give: a cream filled cake
+M 0 24707 1 24734    * Mob : Vaskar
+E 1 24702 2 20       * Eqp : a list of mud socials
+M 0 24704 6 24738    * Mob : a page
+M 0 24704 6 24727    * Mob : a page
+S
+$

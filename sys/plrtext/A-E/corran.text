@@ -1,0 +1,32 @@
+rr rec recall recall
+hw c 'holy word'
+rt retarget $*
+sp breath $*
+hh c 'cure crit' $*
+h c 'prayer of life ' $*
+bl blo
+dis disarm $*
+infra c 'right'
+gs gt &10}++]&13===>&00&14$* &13<====&10[=={&00
+clan cla &10}++]&13===>&00&14$* &13<====&10[=={&00
+of order follower $*
+ha c 'holy armor'
+rc c 'rem cur' $*
+dm c 'div mis'
+reg c 'regen' $*
+ep enter po
+rp c 'remove poi' $*
+di c 'det inv' $*
+arm c 'armor' $*
+r rescue $*
+cb c 'cure bl' $*
+para c 'remove para' $*
+crus c 'crusade'
+8 quaff haste
+wake wak;stand
+3 scan
+b bash $*;stand;mount wy
+cs c 'call steed';mount wy
+j get hellfire pou;remove gray;wield hellfire;charge $*;remove hellfire;wield gray;put hellfire pou
+2 stop
+pla c 'cure pla' $*

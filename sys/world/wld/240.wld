@@ -1,0 +1,2085 @@
+#24000
+Les Foret d'Mort~
+Twisted, gnarled trees hang low over the rutted path, becoming increasingly
+decayed and blackened as the path heads deeper into what is known as
+the Forest of the Dead. Few have ventured into this fell wood, and even
+fewer have returned to tell about it. Birds and forest animals shun this
+place, as if they could not stand to be too close less they become cursed
+or infected with the evil contained within. The sun cannot be seen overhead,
+obscured as it is by the dark, gnarled branches of the nearby trees, which
+are so obscured and mutated by evil that not even a druid would be able to
+determine their original species. A weatherbeaten sign has been nailed to one
+of these trees, to the left of the path.
+~
+240 acd 0 0 0 0
+D0
+~
+~
+0 -1 24001
+D2
+~
+~
+0 0 9602
+S
+#24001
+A Dark Junction~
+A short way into the cursed wood, the rutted path splits, with a new
+fork cutting into the thick undergrowth to the east, while the original
+path continues north. The forest is utterly still, no animal cries or
+bird calls fill the air, nor even the movement of anything through the
+undergrowth, save for the noise your own feet make as you slowly progress
+into the forest. Caution is the keyword here, for any turn in the path
+could conceal unknown horrors.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24004
+D1
+~
+~
+0 -1 24002
+D2
+~
+~
+0 -1 24000
+S
+#24002
+An Overgrown Path~
+Progress is difficult here, as the rampant undergrowth almost totally
+obscures the path, the spiny fronds and spiky thorns tearing at flesh
+and clothing, leaving you a bleeding, cursing wreck after only twenty
+paces. It appears that no one has come this way in years, though something
+had to clear the once-broad path in the first place.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24003
+D3
+~
+~
+0 -1 24001
+S
+#24003
+A Dead End...~
+The path ends suddenly, in a small clearing, which is stained with dried
+blood and white bones, showing through a pile of garbage and decaying
+plant matter. Peering closely, you are astonished when the pile appears to
+move towards you, ever so slightly. Shaking your heard, you shrug and attribute
+it to an optical illusion engendered by stress and fatigue. seconds before you
+feel a leafy frond grope at your ankles...
+~
+240 ad 0 0 0 0
+D3
+~
+~
+0 -1 24002
+S
+#24004
+A Convergence of Trails~
+At this point two narrow paths converge, offering a choice of three
+directions, proceeding deeper into the forest to the east and west,
+and to the outside world to the south. Tracks in the dirt, made by
+heavy footed humanoids, lead east and west. Some of them have been
+made by rather narrow feet, as of skeletons or such.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24007
+D2
+~
+~
+0 -1 24001
+D3
+~
+~
+0 -1 24005
+S
+#24005
+Side Paths~
+At this point, narrow paths branch off to the north and south, though
+neither appears to penetrate far into the depths of the forest. A low
+moaning issues forth from the north, while to the south silence reigns,
+as in most parts of this dark place. No tracks can be seen heading in
+either direction.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24019
+D1
+~
+~
+0 -1 24004
+D2
+~
+~
+0 -1 24006
+D3
+~
+~
+0 -1 24018
+S
+#24006
+A Sticky End~
+The path ends here at a wall of sticky spiderwebs, in which you see
+a variety of dessicated corpses, trapped and drained of their blood
+over the years by the presumably huge spiders that constructed this
+macabre lair. Ranging from small hobbits to towering half-trolls, you
+marvel at the potency of the venom of a spider that could incapacitate
+such beasts. 
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24005
+S
+#24007
+A Variety of Paths~
+Literally hundreds of trails twist and wend their way through the
+dark forest, proceeding to various fates, most best left unspoken of.
+Each bears at least small traces of progress by adventurers before you,
+though you see very few sets of tracks indeed heading back to the
+outside.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24013
+D1
+~
+~
+0 -1 24008
+D3
+~
+~
+0 -1 24004
+S
+#24008
+A Shadowy Trail~
+Progress is slow here, made difficult by thick, protruding roots that
+threaten to catch at the feet of passers-by. Compounded by the poor
+visibility caused by the thick canopy of black branches, it is impossible
+to travel faster than a cautious walk. Blood stains can be seen at
+frequent intervals, as well as the occasional dented shield and snapped
+spear haft.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24009
+D3
+~
+~
+0 -1 24007
+S
+#24009
+Another Meeting of Paths~
+Literally hundreds of trails twist and wend their way through the
+dark forest, proceeding to various fates, most best left unspoken of.
+Each bears at least small traces of progress by adventurers before you,
+though you see very few sets of tracks indeed heading back to the
+outside.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24010
+D2
+~
+~
+0 -1 24008
+D3
+~
+~
+0 -1 24011
+S
+#24010
+Another Dead End~
+So many of the paths and trails in this depressing forest seem to end
+in dead ends, or worse, so you aren't terribly surprised when this one
+does too. And most of the time these dead ends contain numerous threats
+to your continued existence on this plane; you doubt this one will be any
+different...
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24009
+S
+#24011
+Frequent Slaughter~
+As you duck and weave around more and more common piles of broken
+weapons and slaughtered humanoids, the legends of this forest begin
+to come back to mind. Centuries ago, during the Dark Ages when Chaos
+threatened the very existence of Brythunia and the Estroglian Empire,
+a massive battle, one of many such battles, was fought on the grounds
+now covered by this forest. The armies of Law marshalled here to defend
+the Elven Kingdoms to the south from the hordes from the north. Hundreds
+of thousands of lives were lost during the Dark Ages, but no battle
+claimed more in a single day than the slaughter that occured here, in
+the lands that the Elves enchanted to blossom with flower and tree to
+cover the stain on their lands. The deaths that occured here carried strong
+necromantic magicks, however, and the forest quickly became corrupted and
+reduced to the state you now behold.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24009
+D3
+~
+~
+0 -1 24012
+S
+#24012
+A Crossroads~
+At this point several paths converge, allowing one to head in any
+of the cardinal directions. The path to the north ends at the wooden
+gates of a stockade, which has become badly overgrown as the garrison
+that was stationed there has long since fallen to the evil that roams
+unhindered in this dark wood. Despite having fallen prey to the forces
+of nature, much of the stockade still stands, a testament to the sturdiness
+of Elven fortifications.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24047
+D1
+~
+~
+0 -1 24011
+D2
+~
+~
+0 -1 24013
+D3
+~
+~
+0 -1 24014
+S
+#24013
+Dark Trails~
+The path winds and twists around the bases of mighty oaks, blackened by
+fire and evil magics. Dark growths stain the bark of the trees, as well
+as the leafy carpet underfoot. Some of the stains are blood, some are more
+unusual, and disgusting, substances that are probably best left
+uninvestigated.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24012
+D2
+~
+~
+0 -1 24007
+S
+#24014
+A Solemn Statue~
+Literally hundreds of trails twist and wend their way through the
+dark forest, proceeding to various fates, most best left unspoken of.
+Each bears at least small traces of progress by adventurers before you,
+though you see very few sets of tracks indeed heading back to the
+outside. At this point, however, a wooden statue has been constructed,
+for whatever reason, differentiating it from the others.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24033
+D1
+~
+~
+0 -1 24012
+D3
+~
+~
+0 -1 24015
+D5
+~
+~
+0 -1 24034
+S
+#24015
+A Narrow Trail~
+Plunging deeper into the forest, you cannot help but pause and wonder
+if this is such a great idea; serious threat for little perceived
+financial gain, and the possibility of losing what you already own
+to boot. Ah well, 'tis good that you are made of sterner stuff, and
+bravely enter where others fear to tread... what's the bit about fools
+and rushing? No matter, it couldn't be important to the proverb.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24014
+D3
+~
+~
+0 -1 24016
+S
+#24016
+A Fork in the Trail~
+Once again, you reach a point where you are offered a variety of 
+paths to choose from, each of which could lead to perils greater than
+you could imagine. Or they could lead to yet more junctions, each choice
+taking you further towards being totally lost. You wonder how many of
+the many adventurers who never returned weren't actually slain but ran
+out of food after becoming hopelessly lost in this dark place?
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24015
+D2
+~
+~
+0 -1 24017
+D3
+~
+~
+0 -1 24021
+S
+#24017
+Dark Trails~
+The path winds and twists around the bases of mighty oaks, blackened by
+fire and evil magics. Dark growths stain the bark of the trees, as well
+as the leafy carpet underfoot. Some of the stains are blood, some are more
+unusual, and disgusting, substances that are probably best left
+uninvestigated.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24016
+D2
+~
+~
+0 -1 24018
+S
+#24018
+Further in the Forest~
+Literally hundreds of trails twist and wend their way through the
+dark forest, proceeding to various fates, most best left unspoken of.
+Each bears at least small traces of progress by adventurers before you,
+though you see very few sets of tracks indeed heading back to the
+outside.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24017
+D1
+~
+~
+0 -1 24005
+D3
+~
+~
+0 -1 24020
+S
+#24019
+A Grisly Fate~
+This trail ends at what was evidently the site of a furious battle.
+Two corpses lie on the ground, one of an armored knight, the other an
+indistinct black mass, with no coherent form that you can easily
+identify. Thick grey mist obscures your vision, and you quickly sense
+that some presence still lingers on here, though you cannot guess at
+its motives.
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24005
+S
+#24020
+A Bend in the Trail~
+At this point the path broadens, and twists to the west, heading towards
+a different section of the forest; an older section, it appears, that
+existed before the newer forest was planted after the battles that occured
+here. Who knows what ancient foes may lie in this direction? And who knows
+what fantastic treasures they may have accumulated in this time?
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24018
+D3
+~
+~
+0 -1 24022
+S
+#24021
+The End of the Path~
+The path ends a short distance to the west, at a thick, impenetrable
+wall of vines and spiky plants, laden with thorns that will tear your
+thick breeches and skin like paper. A thick, viscous substance drips
+from the larger thorns, sizzling when it strikes the leafy ground. You
+are certain that even a scratch from one of these plants would not do
+you much good...
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24016
+S
+#24022
+A Second Bend~
+The path bends again, heading north into darker, thicker trees, though
+the path is still broader than near the entrance. No bodies litter
+the trail here; few people indeed have dared (or been able) to venture
+this deep into the forest. A foul stench, of rotting vegetable matter,
+fills the air; blocked perpetually from the sun as this area is, the
+dying vegetation is allowed to fester indefinitely with nothing to dry
+it out and dispel the odors.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24023
+D1
+~
+~
+0 -1 24020
+S
+#24023
+Footprints in the Dirt~
+At this point, the trail is marked by large footprints, of some
+unindentifiable humanoid heading away from a clearing to the north.
+The tracks head into the undergrowth nearby, and don't appear to
+have returned, indicating that the clearing ahead is most likely
+deserted, and may well be a good place to rest for a while. Gazing at
+the footprints reminds you of how tired your own aching feet are, and
+you long to sit down and take off your boots, at least for a few minutes.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24024
+D2
+~
+~
+0 -1 24022
+D3
+~
+~
+0 -1 24025
+S
+#24024
+A Dark Clearing~
+The path ends in a small clearing overshadowed by several menacing
+oaks, their bark blackened and mangled by fire and sword blows. Several
+corpses, stripped of any valuables, litter the scorched earth, along with
+numerous pools of dried blood and intestines, from which issues a strong
+stench. Looking about, you wonder where the perpetrator of these dark deeds
+might be lurking, and if you are the next intended member of this gruesome
+cavalcade of death.
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24023
+S
+#24025
+The Twisting, Turning Path~
+Deep holes in the trail here, made by the impact of blows made by
+some mammoth creature, contain the mangled remains of unfortunate
+creatures, including goblins, zombies, elves and humans. Peering
+around, you see no sign of whatever made these marks; perhaps it has
+been slain or driven off...?
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24026
+D1
+~
+~
+0 -1 24023
+S
+#24026
+Deep in the Forest~
+Literally hundreds of trails twist and wend their way through the
+dark forest, proceeding to various fates, most best left unspoken of.
+Each bears at least small traces of progress by adventurers before you,
+though you see very few sets of tracks indeed heading back to the
+outside.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24029
+D2
+~
+~
+0 -1 24025
+D3
+~
+~
+0 -1 24027
+S
+#24027
+An Older Section of the Forest~
+At this point the path beneath your feet slowly changes from dirt to
+broken, cracked masonry. Crumbling statues line the path, almost totally
+overgrown by the thick black vines you are now so familiar with. A lingering
+musty odor fills the air, and you realize that you have stumbled upon the
+remains of some ancient city, long since devoured by the forest and its
+evil inhabitants. To the southwest, you can now make out a series of ruined
+dwellings, crumbling stone structures almost totally overgrown by the forest.
+Small creatures scurry about, in search of food or shiny objects. A rusted
+metal sign has been nailed to a tree near the statues.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24026
+D2
+~
+~
+0 -1 24028
+E
+statues~
+Of marble and plaster, these statues appear to have once resembled
+nude women and men in classic poses, the type of architecture that you
+have seen in history texts detailing Brythunia's rich history.
+~
+S
+#24028
+Taraitiga~
+Stepping onto the stone road, you almost feel that you have been
+transported back in time. Despite the ruin and overgrowth, many of
+the structures still display the remarkable architectural features
+endemic to this period of history, and are actually in quite good
+condition considering the surroundings. It was rumored that the ancients
+used magical beings as servants and guards, and that their cities fell
+when these beings threw off the shackles of servitude and slew their
+former masters. You are not an expert in Brythunian history, but you'd
+be willing to bet some of these unruly automatons were responsible for
+much of the damage done to this once-fair city, and then the evil forest
+did the rest.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24027
+D2
+~
+~
+0 -1 24056
+D3
+~
+~
+0 -1 24064
+S
+#24029
+Rivers of Slime~
+The path here is interrupted by the occurence of a slowly flowing river
+of what appears to be green slime, flowing from a large pool to the
+northwest, across the path, disappearing into the undergrowth to the
+southeast; the plants and trees glow with a strange hue where the slime
+has made contact with them. A vile, putrid odor, too strong to bear at
+times, wafts in from the northwest and accompanies the foul stream on its
+course. Nothing could live in such water, surely?
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24031
+D2
+~
+~
+0 -1 24026
+D4
+~
+~
+0 -1 24030
+S
+#24030
+A Pool of Slime~
+The stench arising from this mini quagmire is almost unbearable.
+Bubbles, created by some unknown source, rise to the surface at random
+intervals, bursting with a soft pop and filling the air with more noxious
+odors. In the midst of this foul pool resides some terrible beast, doubtless
+responsible for the remains of several humanoids dangling from the thick
+canopy of trees overhead. Occasionally a chunk of decayed flesh will fall
+from one of the corpses and sink in the pool without trace.
+~
+240 ad 0 0 0 0
+D5
+~
+~
+0 -1 24029
+S
+#24031
+An Ancient Path~
+At this point, the forest trail is met by a broad, stone paved road
+running due north, lined on each side by glowing marble statues in
+pristine condition. The statues look vaguely familiar to you, and
+as you approach you realize that they are similar to the ones found
+in many of the cities of the ancients across Brythunia, save that 
+instead of showing considerable signs of age and neglect, they appear to
+be brand new. This curious occurence is compounded by the fact that not
+a single branch or leaf touches the road at any point; some magical force
+prevents any growth from obscuring it.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24071
+D3
+~
+~
+0 -1 24029
+D5
+You have a bad feeling about the clearing up ahead...
+~
+~
+0 -1 24032
+S
+#24032
+Ambush!~
+You don't know what it was. Maybe you slept in a little too late. Maybe
+last night's drinking bout at the Hammer and Anvil left your wits a little
+fuddled. Or maybe you just weren't paying attention. At any rate, your
+normally alert adventurer's sixth sense was definitely not operating up to
+acceptable standards; you failed to notice the birds fleeing nearby trees,
+as if some hidden monster lurked within, you failed to notice the loop of
+vine carefully concealed beneath a pile of uncharacteristically dry leaves,
+and you failed to notice the dull gleam of drawn swords. Before you knew
+it, you had stepped on the trap, been yanked upside down into the air, and
+left dangling as several giggling forest goblins emerged, and slowly stabbed
+and slashed you until naught remained but a bleeding, screaming mass of
+flesh, looted and left for the vultures to pick clean.
+~
+240 acdfghj 0 0 0 0
+S
+#24033
+A Gloomy Path~
+Twisted, gnarled oaks seem to reach out at you as you progress,
+clawing and scratching with blackened, mangled limbs slick with moss
+and rotting pulp. A sickly sweet stench fills the air, making you feel
+slightly queasy and reluctant to proceed in this direction. However,
+there appears to be little more appealing in any other part of the
+forest either.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24042
+D2
+~
+~
+0 -1 24014
+S
+#24034
+A Bloodstained Trail~
+The path winds and twists around the bases of mighty oaks, blackened by
+fire and evil magics. Dark growths stain the bark of the trees, as well
+as the leafy carpet underfoot. Some of the stains are blood, some are more
+unusual, and disgusting, substances that are probably best left
+uninvestigated.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24035
+D4
+~
+~
+0 -1 24014
+S
+#24035
+Gloom Shrouded Foliage~
+Shadows creep across the path, reducing visibility to virtually nil,
+forcing you to slow your pace to a crawl to avoid the many treacherous
+roots and potholes that litter the trail. Small creatures slither through
+the undergrowth nearby, the first sign you have seen of any inhabitants
+in great numbers other than undead. Rats, undoubtedly, but at least they
+are living and breathing creatures, and not soulless undead.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24036
+D2
+~
+~
+0 -1 24034
+S
+#24036
+Crumbling Remains~
+At one stage a stone watch tower stood here, though the elements,
+the forest and its fell inhabitants have long since reduced it to a
+pile of moss-covered stones, entwined in thick black vines and smeared
+with dried blood. Bones and broken weapons litter the ground around the
+base of the tower, the remains of the unfortunate souls who once
+garrisoned this outpost, and some of their enemies they managed to
+slay before they fell. A chill wind blows over the ruins, and a keening
+wail from somewhere far away can be heard. The spirits of those slain
+here do not rest easily, you can be certain, and are making themselves
+heard as best they can in their non-corporeal states. Shivering, you
+cast one last glance at this ruin, and decide which way to proceed.
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24037
+D3
+~
+~
+0 -1 24035
+S
+#24037
+A Rare Sight Indeed~
+Stumbling through the forest, you stop suddenly when you see a
+large stone tower, in good condition and of strong foundation, rising
+to the north. After a moment's confusion, you suddenly realize that
+you have reached the easternmost extend of the Walls of Defiance,
+the massive stone structure that protects the northern plains of
+Estroglian from the Hordes of the north. The sound of running water
+reaches your ears, and you realise that the Phlugistrum flows by
+close to the east of here, though a thick wall of vegetation prevents
+you from reaching it. 
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24036
+D2
+~
+~
+0 -1 24038
+S
+#24038
+The Twisting Forest Path~
+The path here is as twisted and warped as the gnarled blackened branches
+that the dark trees on either side have given issue to. Frequently it
+feels as if they are almost attempting to grab you, and drag you into
+their evil domain. Roots protruding from the ground catch at your feet,
+and more than once you almost end up face down on the ground.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24037
+D3
+~
+~
+0 -1 24039
+S
+#24039
+More Branches of the Path~
+More twists and bends in the sinuous forest trail beckon before you,
+allowing various choices as to where to proceed in this dark wood.
+You occasionally catch glimpses of creatures scurrying through the
+dark undergrowth to either side, accompanied by faint shrieks and
+high pitched giggling; the effect is rather unnerving and you are
+happy to press on.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24040
+D1
+~
+~
+0 -1 24038
+S
+#24040
+A Thatched Cottage Deep in the Woods~
+Suddenly, literally out of nowhere, the trail ends at a small thatch
+hut, buried in the forest, not visible from more than a few yards away
+due to the thick, heavy undergrowth and the shadows of surrounding trees.
+Smoke billowing from the chimney indicates at least some form of
+occupation, be it friendly or malign. The front door is closed, but doesn't
+appear to be locked (not that a locked door has ever stopped you from 
+barging in unwanted before). No windows are present on this side, and
+the dense clusters of trees make it impossible to work your way around
+the sides.
+~
+240 ad 0 0 0 0
+D0
+~
+door~
+1 0 24046
+D2
+~
+~
+0 -1 24039
+S
+#24041
+Several Choices~
+Literally hundreds of trails twist and wend their way through the
+dark forest, proceeding to various fates, most best left unspoken of.
+Each bears at least small traces of progress by adventurers before you,
+though you see very few sets of tracks indeed heading back to the
+outside. 
+A small hillock rises to the west at the end of the path in that
+direction.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 0 24004
+D1
+~
+~
+0 0 24004
+D2
+~
+~
+0 -1 24042
+D3
+~
+~
+0 -1 24043
+S
+#24042
+Sinister Vegetation~
+The path here is as twisted and warped as the gnarled blackened branches
+that the dark trees on either side have given issue to. Frequently it
+feels as if they are almost attempting to grab you, and drag you into
+their evil domain. Roots protruding from the ground catch at your feet,
+and more than once you almost end up face down on the ground.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24041
+D2
+~
+~
+0 -1 24033
+S
+#24043
+A Stone Arch~
+The path ends here, before a stone arch set into the side of a small
+hillock. Peering in between the stone supports, you see a narrow
+stairway descending into the darkness below, towards a tomb, perhaps,
+or the lair of some intelligent underground-dwelling species. Either
+way, you suspect that they wouldn't be partial to visitors.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24041
+D5
+~
+~
+0 -1 24044
+S
+#24044
+The Base of the Stair~
+The steps end before a rusted iron door, set in the earth of the west
+wall. A keyhole is present, but nature has rendered it unusuable over
+the centuries, so even if you had the correct key it would serve no
+purpose. A single rune, the rune of Death, has been carved into the door,
+visible even through the heavy corrosion. A thin layer of moisture can
+also be perceived, the type of condensation common to metal exposed to
+cold temperatures for extended periods, the water forming a sheath as
+a result.
+~
+240 ad 0 0 0 0
+D3
+~
+door~
+1 -1 24045
+D4
+~
+~
+0 -1 24043
+S
+#24045
+A Chilly Crypt~
+The interior of the cramped crypt contains a single stone tomb, a 
+sarcophagus bearing an inlaid image of the necromancer it houses. Runes
+and sigils cover the walls, traced in luminiscent silver, gold and platinum.
+Images, vile images, of death, dismemberment and other evil acts cover the
+ceiling, as if it was created for the dead body to take pleasure in during
+its eternal rest. An unnatural cold fills the room, from an unknown source;
+icicles have formed in parts of the damp chamber as a result.
+~
+240 ad 0 0 0 0
+D1
+~
+door~
+1 -1 24044
+S
+#24046
+A Messy Dwelling~
+You haven't been inside such a messy dwelling since you visited an orcish
+village in your youth, and even then they at least had the benefit of not
+knowing any better. The cranky elf who lives here, however, should and 
+indeed does know better; she is simply too lazy and disorganized to clean
+the dirty pots, piles of paper and animal stains from the walls and floor.
+~
+240 ad 0 0 0 0
+D2
+~
+door~
+1 -1 24040
+S
+#24047
+Outside the Stockade~
+Upon closer examination, you are surprised to see that much of the
+stockade is still intact; the tactician in you says that someone managed
+to sneak in and unlock the gates, allowing the enemy outside to pour in
+virtually unhindered, slaughtering the surprised inhabitants before they
+could be called to arms. A devilish, but gruesomely effective, tactic.
+You wonder also what forces yet remain within these wooden walls?
+~
+240 ad 0 0 0 0
+D0
+~
+stockade~
+1 -1 24048
+D2
+~
+~
+0 -1 24012
+S
+#24048
+The Stockade~
+Stepping through the gate, you are greeted by a visage of death and
+destruction. Half-devoured corpses in various stages of decay lie
+everywhere, surrounded by their broken weapons and smashed armor. 
+Hardly any corpses appear to be of any race but elven; only one or
+two badly rotted corpse appear to be remains of the enemy that took
+this place. Whatever overran this place was swift, efficient and deadly.
+The elves didn't stand a chance. A set of steps leads up to a watchtower,
+while open doorways to the east and west lead into quarters of the
+garrison. A second door lies to the north, leading to the officers' 
+area. It doesn't appear to have been disturbed...
+~
+240 ad 0 0 0 0
+D0
+~
+door~
+1 -1 24050
+D1
+~
+~
+0 -1 24055
+D2
+~
+door~
+1 -1 24047
+D3
+~
+~
+0 -1 24054
+D4
+~
+~
+0 -1 24049
+S
+#24049
+The Watchtower~
+Once the lookout tower for the stockade garrison, this position was
+safe from the ground, but quite vulnerable to aerial attacks, which
+was the fate of the unfortunate soul stationed here when the garrison
+was finally crushed by the evil forces of the forest. Huge gouges mar
+the wooden structure, as of the claws of some powerful creature. Blood
+is spattered on the roof and the floor, the result of deep slashes made
+by these same claws in elven flesh.
+~
+240 ad 0 0 0 0
+D5
+~
+~
+0 -1 24048
+S
+#24050
+Commanders' Quarters~
+Surprised at the lack of obvious effort made by the invaders to
+break ino this area, you are even more surprised by the sight that
+greets you when you pass easily through the unlocked door. Bodies
+lie sprawled on the floor, bearing no obvious injuries but with
+grimaces of horror and pain contorting their faces into terrible
+ritcuses of unpleasant death. Some being managed to pass through the
+walls and slay the defenders of the commander, with little effort.
+You grip your weapon firmly and wonder if it still remains nearby...
+~
+240 ad 0 0 0 0
+D0
+~
+door~
+1 -1 24052
+D1
+~
+door~
+1 -1 24051
+D2
+~
+door~
+1 -1 24048
+D3
+~
+door~
+1 -1 24053
+S
+#24051
+Lieutenant's Quarters~
+Once the quarters of an officer of the stockade, this room is now devoid
+of inhabitants; whoever was quartered here met his end with the others in
+the foyer outside. A few papers are scattered about the room, as if blown
+there some time ago by a sudden breeze.
+~
+240 ad 0 0 0 0
+D3
+~
+door~
+1 -1 24050
+S
+#24052
+The Commander's Office~
+This room is simple in accoutrements, boasting a small desk, several
+maps and charts of the surrounding region, and a small military cot
+near a window looking out onto dense forest. You frown, knowing that
+the woodlands you see are certainly not the ones that surround this
+place, and quickly deduce that this is an optical illusion, cleverly
+designed to remind the commander of his home.
+~
+240 ad 0 0 0 0
+D2
+~
+door~
+1 -1 24050
+S
+#24053
+Lieutenant's Office~
+Once the quarters of an officer of the stockade, this room is now devoid
+of inhabitants; whoever was quartered here met his end with the others in
+the foyer outside. A few papers are scattered about the room, as if blown
+there some time ago by a sudden breeze.
+~
+240 ad 0 0 0 0
+D1
+~
+door~
+1 -1 24050
+S
+#24054
+Ruined Barracks~
+A terrific battle took place in here; it would be nice to think that the
+elves gave as good as they got, but the overwhelming number of elven corpses
+in comparison to those of the enemy shows that this clearly was not the
+case. The elves were decimated, slaughtered by powerful foes from the evil
+forest, a force they were evidently totally unprepared for. Shaking your head,
+you turn your mind to more practical matters and begin to search for anything
+of value.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24048
+S
+#24055
+Ruined Barracks~
+A terrific battle took place in here; it would be nice to think that the
+elves gave as good as they got, but the overwhelming number of elven corpses
+in comparison to those of the enemy shows that this clearly was not the
+case. The elves were decimated, slaughtered by powerful foes from the evil
+forest, a force they were evidently totally unprepared for. Shaking your head,
+you turn your mind to more practical matters and begin to search for anything
+of value.
+~
+240 ad 0 0 0 0
+D3
+~
+~
+0 -1 24048
+S
+#24056
+The Rubble Strewn Streets~
+Little save the stone of this place survived the onslaught of the golems
+as they rampaged over the dwellings of their former masters; shards of
+broken glass, pottery and other debris litters the road everywhere you
+go, making this rubble-strewn causeway a precarious path to follow.
+The sounds of stone meeting with stone from nearby indicates that they
+haven't finished yet, either!
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24028
+D2
+~
+~
+0 -1 24058
+D3
+~
+~
+0 -1 24057
+S
+#24057
+A Ruined Structure~
+The interior of this structure is in total ruin, destroyed and abandoned
+centuries before even the rise of Estroglia. Nothing of value remains; it
+has long since been looted or ruined. There are signs, however, that something
+has recently been rummaging through the rubble, for whatever purpose.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24056
+S
+#24058
+The Rubble Strewn Streets~
+As you proceed, you arfe struck by the fact that there are no bodies
+scattered amongst the debris; then you realize that whoever the golems
+slew, their remains would have long since moldered away by now. Yet the
+golems still exist, the magical entities that they are, continuing to
+blindly smash and tear asunder all that was once their city.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24056
+D1
+~
+~
+0 -1 24059
+D3
+~
+~
+0 -1 24060
+S
+#24059
+A Ruined Structure~
+The interior of this structure is in total ruin, destroyed and abandoned
+centuries before even the rise of Estroglia. Nothing of value remains; it
+has long since been looted or ruined. There are signs, however, that something
+has recently been rummaging through the rubble, for whatever purpose.
+~
+240 ad 0 0 0 0
+D3
+~
+~
+0 -1 24058
+S
+#24060
+The Rubble Strewn Streets~
+This street is actually one of only two remaining in the city that is
+still traversable; the rest have been buried entirely in rubble or torn
+up and crushed to dust by the enraged golems. It is amazing that they 
+haven't managed to destroy the city entirely by now; perhaps some structures
+are too hardy for even their mighty strengh to utterly demolish.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24058
+D3
+~
+~
+0 -1 24061
+S
+#24061
+The End of the Concourse~
+The path ends here, outside several ruined dwellings, only one of which
+is accessible. Several mangled corpses, of adventurers, litter the ground
+here, showing evidence of having been smashed to a pulp by the rampaging
+golems. Cringing, you step around the mess and peer into the dwelling.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24060
+D2
+~
+~
+0 -1 24062
+S
+#24062
+A Ruined Structure~
+The interior of this structure is in total ruin, destroyed and abandoned
+centuries before even the rise of Estroglia. Nothing of value remains; it
+has long since been looted or ruined. There are signs, however, that something
+has recently been rummaging through the rubble, for whatever purpose.
+ 
+A gaping hole in the roof leads to a partially intact second level.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24061
+D4
+~
+~
+0 -1 24063
+S
+#24063
+The Second Floor~
+Some creature has turned this area into a home, of sorts, filling it
+with all manner of items scavenged from the ruined dwelling below.
+Partially demolished tables support cracked and chipped urns and plates,
+while armless and legless statues are propped up against the crumbling
+walls. Plaster coats the floor, having long since crumbled and fallen
+from the walls.
+~
+240 ad 0 0 0 0
+D5
+~
+~
+0 -1 24062
+S
+#24064
+The Western Boulevard~
+Once an idyllic lane lined with tall trees and marble statues, this
+road is now naught but piles of rubble and potholes, the result of the
+rampaging golems. Several ruined buildings have collapsed onto the road,
+making progress slow and difficult as you circumvent the ruined dwellings.
+Whatever wealth this city once contained has long since been demolished, or
+looted by brave (and lucky) adventurers.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24065
+D1
+~
+~
+0 -1 24028
+D3
+~
+~
+0 -1 24066
+S
+#24065
+A Ruined Structure~
+The interior of this structure is in total ruin, destroyed and abandoned
+centuries before even the rise of Estroglia. Nothing of value remains; it
+has long since been looted or ruined. There are signs, however, that something
+has recently been rummaging through the rubble, for whatever purpose.
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24064
+S
+#24066
+The Rubble Strewn Streets~
+Gaping holes in the road the size of a giant's fist at frequent 
+intervals are a firm testament to the strengh and fury of the mighty
+magical servants that now rampage unchecked through this ancient city.
+You shudder as you imagine your head being the focus of one of these
+sledgehammer blows.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24064
+D3
+~
+~
+0 -1 24067
+S
+#24067
+The Rubble Strewn Streets~
+The street ends here, with several buildings in various states of
+demolition lying to the northwest and the south. These two appear to
+be the only ones reasonably intact; the rest have already been torn down
+and reduced to rubble. A faint glow issues forth from the northwestern
+structure, which by what remains of its facade appears to have once been
+a place of worship, but now is just another ruin.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24066
+D2
+~
+~
+0 -1 24069
+D4
+~
+~
+0 -1 24068
+S
+#24068
+A Ruined Chapel~
+When the temple was violated and the priests slain by the golems, the
+blessings that once held sway here began to falter, then as the populace
+lost faith in the gods who had failed to protect them in their hour of
+need it manifested itself in a representation of dark and malicious 
+thoughts, compounded with fear and betrayal, and all the emotions that
+only worsen a person coalesced into an immortal entity that now inhabits
+this once-sacred ground, a bitter irony as the temple was once that of a
+god of love, light and life.
+~
+240 ad 0 0 0 0
+D5
+~
+~
+0 -1 24067
+S
+#24069
+An Ancient Dwelling~
+Judging by the size of this structure, or what remains of it, this
+must once have been the residence of someone of significant importance
+in the city; the mayor, perhaps, or the high priest of the temple. At
+any rate, it appears to have survived better than most of the other
+structures, a statement of either its structural integrity or the 
+result of some latent programming of the golems that still prevents them
+from levelling it.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24067
+D2
+~
+~
+0 -1 24070
+S
+#24070
+An Ignoble Fate~
+The noble that once ruled this city resided here, in what was once an
+opulent palace. Now only moldering scraps of cloth and broken furniture
+remain, a dim legacy of a glorious past. So stricken with grief was the
+noble at the fate of her city (she has been dead so long all have now
+forgotten her name, including herself), that she took her own life, and
+now haunts this place.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24069
+S
+#24071
+The Stone Causeway~
+The clear stone causeway runs north, lined by the statues, heading
+towards a low set building, of white stone but crisscrossed with deep
+red lines, that glow faintly. The door is of mithril, and sits open,
+and you fancy you can hear a faint humming coming from within. It seems
+innocuous enough, but if this is indeed the lair of a person of import
+or power, you are fairly certain that they wouldn't make their home in
+this dark wood if they were not of evil mein.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+1 -1 24072
+D2
+~
+~
+0 -1 24031
+S
+#24072
+A Dark Corridor~
+The second you pass through the doors you are plunged into darkness.
+Some magical force prohibits light here, and you cannot see where you
+are proceeding. Reaching out with your hands, you can feel stone walls,
+roughly twelve feet apart, and the bases of massive pillars that 
+presumably support the unseen ceiling of this place. You cannot find the
+entrance behind you; it would seem you just took the first few steps of
+a one way trip.
+~
+240 adjw 0 0 0 0
+D0
+~
+~
+0 -1 24073
+S
+#24073
+Travelling Blindly~
+Feeling worse than helpless, you grope blindly through the darkness,
+reaching out with your hands for any obstacle. More than once your
+groping touch encounters warm, soft flesh covered in fur that moves
+under your grasp, and you withdraw your hand in revulsion. The floor
+is slippery with some unknown substance that has the odor of fresh
+blood.
+~
+240 adjw 0 0 0 0
+D0
+~
+~
+0 -1 24074
+D2
+~
+~
+0 -1 24072
+S
+#24074
+The Darkness Continues~
+This is quickly becoming unbearable. Your mind, unnerved by the sensory
+deprivation, is screaming for release, but neither sight nor sound is
+detected, and you yearn in vain for anything to break this silent darkness.
+You realize now that you cannot make a noise, even if you wanted to; it is
+as if your voice were locked inside your throat.
+~
+240 adjw 0 0 0 0
+D0
+~
+~
+0 -1 24077
+D2
+~
+~
+0 -1 24073
+S
+#24075
+A Damp Cell~
+This cramped, damp cell serves as a holding place for those few people
+that are not slain by Chopper, and are kept until Cresslix decides what
+to do with them.
+~
+240 ad 0 0 0 0
+D3
+~
+door~
+1 -1 24077
+S
+#24076
+A Damp Cell~
+This cramped, damp cell serves as a holding place for those few people
+that are not slain by Chopper, and are kept until Cresslix decides what
+to do with them.
+~
+240 ad 0 0 0 0
+D1
+~
+door~
+1 -1 24077
+S
+#24077
+An Unpleasant Greeting~
+Suddenly your light source flares into full light, as you step past
+some limit of the magical field, and you find yourself in a large
+black chamber, the walls of which writhe and moan as if they were alive.
+The floor is slick with blood and gore, and you notice to your horror
+that so are your hands and booted feet. Blood covers most of you, in
+fact, thick clumps matting your hair and staining your armor. Shrieking,
+you scarcely notice the other horrors this chamber conceals. The only
+other feature your slightly unhinged mind detects is the presence of two
+doors, in the east and west walls, and a staircase to the north.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24078
+D1
+~
+door~
+2 24037 24075
+D2
+~
+~
+0 -1 24074
+D3
+~
+door~
+2 24038 24076
+S
+#24078
+The Base of the Stairs~
+A set of steps rises up out of the gore here, heading up to a landing
+adorned with gothic architectural features. The stairs are broad, and
+of marble, and covered with a blood red carpet, that lines the exact
+center. Grinning gargoyles stand at either end of the balustrades,
+beckoning lewdly at visitors to this section. You wonder what new threats
+you can expect.
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24077
+D4
+~
+~
+0 -1 24079
+S
+#24079
+The Second Tier~
+The stairs end here, at a small landing lined with a carved wooden
+balustrade. The walls bear gothic murals, and the arched exit to the
+north is carved with visages of grinning gargoyles and leering demons.
+A shiver runs up and down your spine, and you realize that the master
+of this fell domain, Cresslix, is aware of your presence in his sanctum,
+though you cannot explain how you know this.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24080
+D5
+~
+~
+0 -1 24078
+S
+#24080
+Gallery of the Macabre~
+Before you is a large, arched hall, the vaulted ceilings over sixty feet in
+height. Several iron wrought chandeliers, laden with unlit candles, depend
+from hooks set in the supports, while the grey stone walls bear elaborate
+murals of pain, death and mutilation. Several items are displayed here, as
+grotesque museum exhibits, including an iron maiden, a rack, several tables
+laden with manacles and iron masks, and an iron chair. The air is musty, and
+carries the faint taint of putrescent flesh; apparently not all of this
+equipment was cleaned before being placed here. Flickering light can be seen
+to the west.
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24079
+D3
+~
+~
+0 -1 24081
+S
+#24081
+A Grim Sight~
+The hall continues, widening slightly here, where the entire northern
+wall is made of a series of panes of glass, framed with iron bars.
+Peering through the glass, you peer out onto a desolate landscape, the
+forest below shrouded in mist caused by a perpetual rain. Dark stormclouds
+hover menacingly overhead, broken only by the black metal spire of a tower
+that rises northwest of here, framed in lightning at random intervals.
+Deep, booming laughter reverberates through the hall, though it could just
+be thunder. Ghostly spectral shapes flicker back and forth outside, pelted
+by the incessant rain and scattered by the occasional lightning strike.
+Sometimes one will flit closer to you, and stare with empty eyesockets at
+you, imploring you to help release it from its undead state.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24080
+D3
+~
+~
+0 -1 24082
+S
+#24082
+The Mausoleum~
+The hall narrows again here, to the dimensions of the museum of torture,
+and is very similar in appearance, save that this chamber is filled with
+large stone sarcophagii, all open, revealing the perfectly preserved
+remains of unknown mages and priests from times forgotten. Peering closer,
+you are relieved to note that they appear to be quite dead, and not about
+to leap forth and attack you, unlike the other "corpses" you have encountered
+in the forest of the walking dead. The hall continues for a short distance 
+to the west, where it ends at an arched entranceway.
+~
+240 ad 0 0 0 0
+D1
+~
+~
+0 -1 24081
+D3
+~
+~
+0 -1 24083
+S
+#24083
+Approaching the High Tower~
+The passage ends here, before an arched entrance into the tower.
+Peering into the gloom, you note that there is no floor in the room
+to the north; instead the tower appears to be completely hollow! A
+staircase ascends, winding around the inside wall of the tower, heading
+to the top. Dreading having to make such a trip, you wonder to yourself
+yet again- is this really worth it?
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24084
+D1
+~
+~
+0 -1 24082
+S
+#24084
+The Base of the Stair~
+Spiralling upwards, as far as you can see, is a narrow, crumbling stair,
+clinging precariously to the edges of the circular stairwell it inhabits.
+A gaping blackness lies below, in the space the stairs circle as they 
+ascend; a false step could mean plummeting far down into whatever foul
+depths the tower plumbs.
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24083
+D4
+~
+~
+0 -1 24085
+S
+#24085
+The Ancient Stair~
+Small chunks of masonry break away from the stairs under your feet as
+you ascend, causing you to cling tenaciously to the wall as you edge your
+way upwards. The stair is barely wide enough for one person, let alone
+more, and you realize that you will be a sitting duck for any foe that
+might fly up the chute that the staircase circles as it winds its way
+around the inner wall of the tower.
+~
+240 ad 0 0 0 0
+D4
+~
+~
+0 -1 24086
+D5
+~
+~
+0 -1 24084
+S
+#24086
+The Ancient Star~
+The stair continues, for what seems like forever, winding around and
+around, soaring higher into the tower, which is obviously much larger
+than it appeared from the view you glimpsed through the window earlier.
+Either that, or some fell enchantment is at work ...WHOA! You shriek as
+your concentration slips during your musings, and you lose your footing.
+Scrabbling furiously, you manage to leap to the next step, and glance 
+back at the pile of debris that was once supporting your foot as it
+plummets into the inky darkness below. Wiping your brow with relief, you
+collect yourself and continue.
+~
+240 ad 0 0 0 0
+D4
+~
+~
+0 -1 24087
+D5
+~
+~
+0 -1 24085
+S
+#24087
+The Ancient Star~
+At this point you surmise that you are almost near the top; the stairs
+show considerably less signs of wear (indicating that few adventurers
+made it this far) and you fancy you can hear loud breathing coming
+from a dark chamber that is now coming into view at the top of the stair.
+Smiling with relief, you hasten your pace, and ready yourself for the
+next challenge Cresslix' domain will hurl at you.
+~
+240 ad 0 0 0 0
+D4
+~
+~
+0 -1 24088
+D5
+~
+~
+0 -1 24086
+S
+#24088
+A Massive Chamber~
+The staircase ends here, at the southern end of a massive stone chamber,
+the walls and floor of which are covered in deep, savage claw marks, as
+of some gargantuan beast sharpening its claws, perhaps in preparation for
+battle or feasting? Piles of skulls, as high as your waist, have been 
+arranged at regular intervals around the perimeter of the area, a grim
+reminder of the killing power of whatever beast resides here.
+~
+240 ad 0 0 0 0
+D0
+~
+~
+0 -1 24089
+D5
+~
+~
+0 -1 24087
+S
+#24089
+The Glowing Sphere~
+The chamber ends here, before a gaping hole in the ceiling, which is
+filled with a glowing translucent sphere. Although it crackles and
+shimmers with powerful magicks, the energy surging from it doesn't do
+you any noticeable harm. There doesn't appear to be any other way onwards
+except through whatever this sphere keeps in place.
+~
+240 ad 0 0 0 0
+D2
+~
+~
+0 -1 24088
+D4
+~
+sphere~
+1 -1 24090
+S
+#24090
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adghj 0 0 0 0
+D0
+~
+~
+0 -1 24090
+D1
+~
+~
+0 -1 24094
+D2
+~
+~
+0 -1 24090
+D3
+~
+~
+0 -1 24090
+D4
+~
+~
+0 -1 24090
+D5
+~
+~
+0 -1 24090
+S
+#24091
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adgj 0 0 0 0
+D0
+~
+~
+0 -1 24094
+D1
+~
+~
+0 -1 24091
+D2
+~
+~
+0 -1 24091
+D3
+~
+~
+0 -1 24093
+D4
+~
+~
+0 -1 24091
+D5
+~
+~
+0 -1 24091
+S
+#24092
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adhj 0 0 0 0
+D0
+~
+~
+0 -1 24093
+D1
+~
+~
+0 -1 24092
+D2
+~
+~
+0 -1 24092
+D3
+~
+~
+0 -1 24092
+D4
+~
+~
+0 -1 24092
+D5
+~
+~
+0 -1 24095
+S
+#24093
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adhj 0 0 0 0
+D0
+~
+~
+0 -1 24093
+D1
+~
+~
+0 -1 24091
+D2
+~
+~
+0 -1 24092
+D3
+~
+~
+0 -1 24093
+D4
+~
+~
+0 -1 24093
+D5
+~
+~
+0 -1 24093
+S
+#24094
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adhj 0 0 0 0
+D0
+~
+~
+0 -1 24094
+D1
+~
+~
+0 -1 24094
+D2
+~
+~
+0 -1 24091
+D3
+~
+~
+0 -1 24094
+D4
+~
+~
+0 -1 24094
+D5
+~
+~
+0 -1 24094
+S
+#24095
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adj 0 0 0 0
+D0
+~
+~
+0 -1 24096
+D1
+~
+~
+0 -1 24095
+D2
+~
+~
+0 -1 24095
+D3
+~
+~
+0 -1 24095
+D4
+~
+~
+0 -1 24092
+D5
+~
+~
+0 -1 24095
+S
+#24096
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adj 0 0 0 0
+D0
+~
+~
+0 -1 24096
+D1
+~
+~
+0 -1 24096
+D2
+~
+~
+0 -1 24095
+D3
+~
+~
+0 -1 24097
+D4
+~
+~
+0 -1 24096
+D5
+~
+~
+0 -1 24096
+S
+#24097
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adj 0 0 0 0
+D0
+~
+~
+0 -1 24097
+D1
+~
+~
+0 -1 24097
+D2
+~
+~
+0 -1 24097
+D4
+~
+~
+0 -1 24097
+D5
+~
+~
+0 -1 24098
+S
+#24098
+Halls of Peril~
+Dark, shifting walls press in on all sides of you here, threatening to
+engulf you. Not a sound permeates the dizzying, moving dark shapes, nor
+does your light source penetrate far into the gloom. Shapes move about on
+all sides of you, adding to your confusion. Panic sets in as you also realize
+that in this evil place your magic will not function either.
+~
+240 adj 0 0 0 0
+D0
+~
+~
+0 -1 24098
+D1
+~
+~
+0 -1 24098
+D2
+~
+~
+0 -1 24098
+D3
+~
+~
+0 -1 24098
+D4
+~
+~
+0 -1 24098
+D5
+~
+~
+0 -1 24099
+S
+#24099
+The Sanctum of Evil~
+The panel opens onto a small chamber, no more than a dozen feet on
+each side, which contains naught but a small slab of obsidian, set in
+the middle of a blazing pentagram of fire. Smoke fills the room, causing
+you to choke and gag, while the heat from the pentagram is quickly becoming
+unbearable. What manner of being would reside in such a fell domain?
+~
+240 acdfgj 0 0 0 0
+S
+$~

@@ -1,0 +1,27 @@
+a assist
+heal cast 'heal' $*
+g get all warren;wear all;get all warren
+ringoff rem stone;rem stone;wear energy;wear energy
+ringon rem energy;rem energy;wear stone;wear stone
+\ rec elv elv
+cb cast 'cure blind' $*
+- auction -info
+infra cast 'infra'
+wake wake;rem ankh;wear bakka;st
+sleep rem bakka;wear ankh;sleep
+. cast 'word of recall' $*
+sl cast 'sense'
+armor cast 'armor' $*
+ward cast 'ward' $*
+di cast 'detect invis' $*
+b cast 'blind' $*
+gt gt &10$*&00
+[ cast 'cre foo';eat way
+] drink timble
+fly cast 'fly' $*
+'heal' cast heal' $*
+regen cast 'regen' $*
+` heal me
+= get all warren;wear all;get all warren
+1 cast 'blindness' chinny
+2 cast 'blindness' jack

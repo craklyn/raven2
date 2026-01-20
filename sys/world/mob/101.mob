@@ -1,0 +1,490 @@
+#10101
+A W 0~
+golem wooden statue kindling~
+the wooden golem~
+The scrap wood in the room suddenly takes on human form and attacks!
+~
+   This strange creation is made entirely from the scrap wood that was lying
+around the workshop. Nails that where once used to make beautiful furniture 
+are now trying to claw your face off! 
+~
+2702 0 0 0 1024 0 0 0 -500
+15 8 5 1d1+1000 1d1+15
+35 40
+9 9 1 8 5 -1
+#10102
+P W 0~
+strige fleur flower vampire~
+the Strige-Fleur~
+A large plant suddenly attacks you!
+~
+For a second it looked like a lovely plant, it even smelled nice.  As soon as
+you went over to it to get a better sniff, the plant surrounded you with long
+pale tendrils which latched onto your exposed skin.  You feel a sting and
+suddenly the pale plant flushes a &08bright red color&00 as it gorges on your
+blood!    
+~
+2090 0 0 0 1032 0 0 0 -1000
+20 2 -5 2d20+900 1d1+20
+40 40
+9 9 2 19 19 19
+#10103
+N A 0~
+shadow shade~
+the Shadow~
+Your own shadow suddenly turns on you and attacks!
+~
+   The shadows suddenly take on a solid shape. The shape is not exactly human
+but it is bipedal in form, and it has claws of course. The only thing that
+keeps it from blending in perfectly with the natural shadows is its bright
+yellow eyes ... eyes that look at you with hunger!
+~
+2094 0 0 0 787464 0 0 0 -1000
+18 2 0 1d1+1000 2d10+8
+35 40
+9 9 0 8 -1 -1
+#10104
+N M 0~
+elemental blood bloodelemental~
+the &08blood&00 elemental~
+Something huge must have died here, judging by all the blood that is...
+~
+   Oh my GOD! the blood, its 'moving'! Last time you checked your blood 
+didn't move around once it hit the floor. This must be some kind of creature,
+but what creature could be made of pure blood? Creatures like this
+should only reside on some other plane of existence. A very powerful mage 
+must have been involved in its creation!
+~
+2058 0 0 0 33960 0 0 0 -1000
+30 1 -10 20d10+5500 3d4+10
+50 120
+9 9 1 10 -1 -1
+#10105
+N R 0~
+hellhound hell hound dog doggie mutt pooch~
+the hell hound~
+A large black hound is here, breathing fire!
+~
+   This creature must be one of the mythical Hellhounds! No other hound ever
+breaths fire out its mouth, at least not last time you checked. Large
+muscles lie beneath a thick coat of matted fur, fur that is still slick with
+blood. You just hope that your blood wont be covering it soon!
+~
+2152 0 0 0 1032 0 0 0 -800
+15 15 9 1d1+850 1d4+10
+35 40
+9 9 1 4 -1 -1
+#10106
+N D 0~
+nightmare mare night horse~
+the Nightmare~
+A jet black horse is here snorting fire.
+~
+   This is a pitch black horse, blacker than the deepest pit or the darkest
+night. It has feral red eyes, and snorts fire from its nostrils. Its hooves
+look like they could easily crush you, or at least break a few of your 
+ribs! Not quite the creature you'd choose to ride around on, unless of 
+course he 'let' you ride him...
+~
+2664 0 0 0 1032 0 0 0 -500
+10 3 0 2d12+800 1d5+15
+35 40
+9 9 1 23 20 -1
+#10107
+U M 0~
+banshee woman spirit widow~
+the Banshee~
+The spirit of a widow is here, wailing about her pain.
+~
+   Her image glows brightly, but you can see right through her. As soon as 
+she sees you her face contorts with anger and she releases a wail so 
+powerful your ears begin to bleed!
+~
+2202 0 0 0 1160 0 0 0 -900
+25 10 0 2d20+3000 1d2+20
+40 120
+9 9 2 19 -1 -1
+#10108
+H W 0~
+warrior fighter adventurer~
+the warrior~
+A warrior is here cringing in terror.
+~
+   His armor is dented and dirty, this seasoned warrior doesn't look like
+he could kill a child now. After years of fighting had conditioned him with 
+muscles of steel and a visage of stone, a single night has turned him into a
+coward. His face has numerous gashes from animal claws. If he couldn't take
+it, what makes you think you can? 
+~
+138 0 0 0 1024 0 0 0 200
+21 2 -9 3d10+750 1d4+20
+40 40
+9 9 1 0 -1 -1
+#10109
+H M 0~
+mage wizard spellcaster~
+the mage~
+A mage in tattered robes is here preparing to defend himself.
+~
+   He was once a confident mage, but one night here seems to have changed 
+that. His eyes remind you of those that a caged animal would have, fearful
+of what the future holds. What could this man have seen that would have 
+changed his entire outlook on life in one night?
+~
+138 0 0 0 1034 0 0 0 0
+19 5 -10 3d25+650 1d2+23
+35 40
+9 9 1 0 -1 -1
+#10110
+H T 0~
+thief pilferer rogue~
+the thief~
+A thief stands cloaked in the shadows here.
+~
+   Hiding in the corner so you can hardly see him, is a thief. Its almost as
+if he is wearing the shadows as a cloak around his body. You have confidence
+that he could sneak up on almost anyone. Surely he would backstab you and
+steal what money you had, 'if' you gave him the chance that is...
+~
+2186 0 0 0 787456 0 0 0 -450
+20 4 -4 2d10+450 1d2+20
+40 40
+9 9 1 0 -1 -1
+#10111
+H S 0~
+cleric man priest father monk~
+the cleric~
+A man in plain brown robes is here, praying to his god. 
+~
+   He looks at you with his deep brown eyes and says, "Please, Save us! God
+has forsaken us! The end of the world is near!" 
+   Obviously something quite strange and deadly must have happened to shake
+his confidence like that, to give up his god! Just pray you don't run into
+whatever he saw.
+~
+2186 0 0 0 1160 0 0 0 750
+15 6 5 8d8+1000 1d2+15
+35 40
+9 9 1 0 -1 -1
+#10112
+U W 0~
+ghoul corpse bartender barkeep~
+the Ghoul~
+A strange human with a long hooded cloak is here selling ale.
+~
+   Behind his large cloak, dull red eyes stare off into the distance. 
+Dead has taken his spirit long ago but the body refuses to give up
+living. If death itself could not defeat him, what makes you think
+that you would stand a chance?!
+~
+2075 0 0 0 1032 0 0 0 400
+50 -10 -10 1d1+30000 1d2+50
+80 90
+9 9 1 8 4 -1
+#10113
+H W 0~
+innkeeper innkeep receptionist m10113~
+the innkeeper~
+An innkeeper is here cowering in fear!
+~
+   This once proud man has fallen apart just like the town. His once
+beutiful in has been nearly destroyed by the wolves that now inhabit 
+the towne. He was once a proud adventurer, now he cowers in fear, 
+perhaps you should take a lesson.
+~
+2075 0 0 0 1032 0 0 0 1000
+50 -10 -10 1d1+10000 1d2+50
+80 90
+9 9 1 0 -1 -1
+#10114
+V D 0~
+bat vampire~
+a Bat~
+A large bat is hanging from the ceiling here.
+~
+   This bat is 'huge'! Whatever its been feeding upon, it's sure been 
+feeding well. Its wingspan has to be somewhere around 5 feet. It takes you
+a minute to realize that this is a 'vampire' bat, a bat that feeds on blood.
+Perhaps it would be a good idea to leave before it decides to feed on your 
+blood!
+~
+2152 0 0 0 1024 0 0 0 0
+15 3 0 5d5+100 1d2+15
+35 40
+9 9 2 20 -1 -1
+#10115
+E P 0~
+catlord lord man cat black kitty tass~
+the Cat Lord~
+A strange man regards you with yellow eyes.
+~
+   The most startling thing about this man is his eyes, they appear to be
+cat's eyes rather than human. He seems as if he is in complete control of
+the situation, not startled by your strange appearance at all. He moves with
+a catlike grace and quickness that seems unmatched, certainly not by someone
+like yourself.
+~
+2122 0 0 0 263176 0 0 0 0
+51 -10 -10 5d5+6000 1d2+33
+90 100
+9 9 1 8 -1 -1
+#10116
+M W 0~
+gorgon bull~
+the Gorgon~
+A large black bull prepares to charge you!
+~
+   A monstrous black bull, the gorgon has a hide of thick metal scales. His
+breath is a noxious vapor that billows forth in great puffs from his wide
+nostrils. If he charged you at full speed he would surely trample you to 
+death, that's if he didn't gore you with his sharp horns!
+~
+2152 0 0 0 1032 0 0 0 -800
+20 2 0 2d10+1550 2d5+30
+40 40
+9 9 1 22 -1 -1
+#10117
+H S 0~
+father priest idiot~
+the priest~
+A priest is waving a cross at you.
+~
+   He takes one look at you and screams at the top of his lungs, "Back! 
+begone you evil demon! this is a house of god! there shall be no fighting
+here!" Obviously the changes that have taken place in the town recently
+has taken a toll on him. 
+~
+2366 0 0 0 136 0 0 0 450
+18 1 3 2d10+4000 1d4+15
+35 40
+9 9 1 0 -1 -1
+#10118
+A W 0~
+golem iron irongolem talos ironworker~
+the Iron golem~
+A huge iron golem is here shaping some metal.
+~
+   He used to work with metal, now he is metal! Work has made him the 
+strongest man in the village, errr strongest automaton in the village that is.
+If you were to fight him, you would surely lose or suffer dearly in the fight.
+~
+2062 0 0 0 1160 0 0 0 0
+18 -10 -10 5d5+12000 1d4+25
+35 40
+9 9 1 6 -1 -1
+#10119
+U A 0~
+doll chuckie babydoll~
+the Doll Golem~
+A small doll suddenly animates and attacks you!
+~
+   You can't believe you eyes! The doll that the sweet innocent girl was 
+holding suddenly stood up and lunged at you with lightning speed. Wielding
+a small knife you'd think it wouldn't be that much of an opponent, well
+you certainly thought wrong! This little thing would cut half your party to
+pieces if you gave it that chance.
+~
+2090 0 0 0 1160 0 0 0 -500
+30 -10 -10 10d2+1500 1d2+19
+50 60
+9 9 0 0 -1 -1
+#10120
+V M 0~
+mayor mr honor vampire vamp~
+the Vampire~
+The mayor of this hamlet is here pondering his fate.
+~
+   He was once the mayor of the town, now he is scared to go outside of his 
+own home. Vampire are powerful creatures, but they know when they're beaten.
+A town full of werewolves would certainly tear one vampire to pieces in 
+moments. Since you came into his home however, he has no qualms about killing
+you and sucking the blood from you veins
+~
+2090 0 0 0 1160 0 0 0 -800
+30 -10 -10 10d5+9000 1d3+20
+50 60
+9 9 1 20 -1 -1
+#10121
+D W 6~
+dragon deep deepdragon seth drow warrior~
+the Dragon of the Deep~
+A drow warrior suddenly steps out of the shadows.
+~
+   He is a cunning warrior, stepping lightly from his hiding place in the 
+shadows. As his eyes meet yours, an evil grin appears on his lips. Even 
+outnumbered he is confident for some reason. Then with a wink, he begins to
+transform before your eyes. Large wings sprout from his back as his hands
+turn into claws! What was once a drow warrior, is now an ancient huge dragon!
+~
+2090 0 0 0 1032 0 0 0 -900
+40 -10 -10 1d50+10000 2d8+40
+30 75
+9 9 1 8 4 -1
+#10122
+R R 0~
+werewolf wolf were creature villager~
+the WereWolf~
+A Werewolf is here hunting for food.
+~
+   The werewolf is best described as half man, half wolf. He has sharp claws
+and fur covers his entire body. Rumor has it that werewolves where once 
+humans that were cursed. It is also said that there bite can pass this cursed
+disease onto their victims.
+~
+2156 0 0 0 263176 0 0 0 -800
+18 0 -3 3d10+1000 1d2+20
+35 40
+9 9 1 8 4 -1
+#10123
+H M 0~
+hag ugly annis~
+the Hag~
+A hag is here preparing some spell.
+~
+   She is a wretched old woman. The hag has long stringy hair and a withered
+face that makes her a scary sight to say the least. Hags spend years weaving
+magical spells and trying to entrap males to their doom. Something about her
+suggests that she wont be as easy an opponent as she appears, perhaps its the
+fact that she's drinking the blood from the fountain...
+~
+2094 0 0 0 262280 0 0 0 -750
+21 0 -10 4d12+1500 1d2+25
+40 40
+9 9 2 8 -1 -1
+#10124
+R A 0~
+werewolf wolf were creature~
+the Werewolf~
+A werewolf is here destroying the towne.
+~
+   Once the citizens of the town cared for their towne. Now that they are 
+cursed to roam as werewolves, the towne has become a focus for their hatred.
+When they not killing something, they're ripping the town to shreds. Just
+pray they don't see you, or they might start ripping you to shreds
+~
+2092 0 0 0 1024 0 0 0 -500
+30 0 -8 2d10+2050 1d3+30
+50 60
+9 9 2 8 4 -1
+#10125
+H M 0~
+sage madam woman gypsy oracle wizard mage~
+Madam Zash~
+A elderly woman is here trying to determine the future.
+~
+   She looks at you and seems to stare directly into your soul.
+One glance at you and she screams, " I Told you! bringer of doom! this is all
+Your fault! You could have avoided all this, been far, far away! but You
+chose to stay! For that you must pay!" as she says her last words she charges
+you with the fury of a raging dragon.
+~
+2059 0 0 0 136 0 0 0 -100
+19 2 -2 20d5+1450 1d5+10
+35 160
+9 9 1 0 -1 -1
+#10126
+R D 0~
+werewolf guard cop police snapper~
+the Guard~
+A werewolf guard is here, guarding his prisoner.
+~
+   Most people think werewolves have only animal intelligence. Seeing this
+werewolf guarding a prison leads you to believe that they still carry some 
+of the intelligence from their human form. If they do have human intelligence
+you should fear them even more...
+~
+2059 0 0 0 1024 0 0 0 -800
+18 0 -4 2d10+1250 1d2+19
+35 40
+9 9 1 8 4 -1
+#10127
+U W 0~
+beast undead bones creature~
+the Undead Beast~
+A large pile of bones suddenly forms a creature and attacks!
+~
+   You're not quite sure how the entire mess is held together, but it is
+defiantly upset about something! This beast is made up of all the bones and
+parts the butcher discarded. It reeks of decayed meat and has plenty of 
+maggots covering it. Even though most of it is rotten, its claws still hurt!
+~
+2090 0 0 0 1160 0 0 0 0
+20 0 -10 20d20+1000 4d8+40
+40 40
+9 9 0 8 -1 -1
+#10128
+R A 0~
+wolfwere wolf were prisioner~
+the Wolfwere~
+A Wolfwere snarls at you from the shadows.
+~
+   Although he looks like a werewolf when you first enter the cell, you watch
+in shock as he begins to transform. Within a few seconds you'd swear you 
+could recognize him, ack! he's you! or rather he 'looks' like you! He must
+be trying to get past the guard by killing you and assuming your identity...
+~
+2094 0 0 0 262152 0 0 0 -400
+12 0 2 5d5+1350 1d2+18
+35 40
+9 9 1 8 4 -1
+#10129
+H W 0~
+hunchback hunch bellringer boy child~
+the Hunchback~
+A hunchback is here ringing the bells.
+~
+   This poor soul has a large hump in his back, causing him to stoop over.
+The world has shunned him, the only place left was to ring these bells until
+he dies, some life eh?
+~
+2188 0 0 0 1024 0 0 0 -200
+14 5 3 3d10+900 1d2+10
+35 40
+9 9 1 0 -1 -1
+#10130
+R W 0~
+werebat bat were~
+the Werebat~
+A werebat is here looking for something.
+~
+   It turns to you and lets out a loud screech, like you could understand him.
+Werebats are the eyes and ears of their masters, but who is its master? That
+is the question. Its ears suddenly twitch. It raises its head to the sky and
+lets out a screech, not a loud screech, but so high pitched you could swear
+it broke at least one window. Perhaps it's reporting that it's found you,
+or maybe its just saying 'boo'.
+~
+2252 0 0 0 263176 0 0 0 0
+20 0 -2 2d20+1000 1d4+25
+40 40
+9 9 1 4 -1 -1
+#10131
+U W 0~
+skeleton remains woman widow old elderly~
+the skeleton~
+A skeletal remains of an old woman are here.
+~
+   Apparently some poor old woman died here and was left to rot. Judging by 
+how the skeleton is laid out, it would seem that she was trying to reach her
+wheelchair but never got there. She probably died of starvation. What an 
+embarrassing way to go!
+~
+2058 0 0 0 1032 0 0 0 0
+15 5 -2 2d10+200 1d2+15
+35 40
+9 9 2 13 -1 -1
+#10135
+V A 0~
+vampire shadow~
+the shadow~
+Something is here...or is it?
+~
+You detect the faint outline of a cloaked shape looming before you.  You can
+see the indistinct outlines of arms and legs.  You also detect two faint red
+gleams from where it's eyes might be.    
+~
+70360 0 0 0 1074635886 0 0 0 -1000
+15 5 -10 1d1+1000 3d3+15
+35 40
+9 9 0 15 17 19
+$

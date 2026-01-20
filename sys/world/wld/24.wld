@@ -1,0 +1,1847 @@
+#2400
+A dimly lit path~
+   You tread through the deep, dark forest on a dimly lit path.  Up ahead you
+can hear the faint sounds of a village.
+~
+24 4 0 0 0 3 255 0
+D0
+The dimly lit path leads north through the dense forest.
+~
+~
+0 -1 2401
+D2
+The dimly lit path leads south through the light forest.
+~
+~
+0 -1 6000
+S
+#2401
+A dimly lit path~
+   You tread through the deep, dark forest on a dimly lit path.  Up ahead you
+can hear the faint sounds of a village.
+~
+24 0 0 0 0 3 255 0
+D0
+The dimly lit path leads north through the dense forest.
+~
+~
+0 -1 2402
+D2
+The dimly lit path leads south through the dense forest.
+~
+~
+0 -1 2400
+S
+#2402
+A dimly lit path~
+   You tread through the deep, dark forest on a dimly lit path.  The forest
+here seems less dense than to the south.  Northward you see the faint outline
+of a village.
+~
+24 0 0 0 0 3 255 0
+D0
+The dimly lit path leads to a village.
+~
+~
+0 -1 2403
+D2
+The dimly lit path leads south through the dense forest.
+~
+~
+0 -1 2401
+S
+#2403
+Entrance to the Shire~
+   You stand at the entrance to the Shire.  You see halflings, no more than
+wee tall, every which way you look. Bywater Road leads east and west.
+~
+24 0 0 0 0 1 255 0
+D1
+To the east runs Bywater Road.
+~
+~
+0 -1 2404
+D2
+To the south you see a dimly lit path which leads to a dense forest.
+~
+~
+0 -1 2402
+D3
+To the west runs Bywater Road.
+~
+~
+0 -1 2418
+S
+#2404
+Bywater Road~
+   You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west while to the north lies the general store.
+~
+24 0 0 0 0 1 255 0
+D0
+The general store lies to the north.
+~
+~
+0 -1 2405
+D1
+To the east runs Bywater Road.
+~
+~
+0 -1 2406
+D3
+To the west you see the entrance to the Shire.
+~
+~
+0 -1 2403
+S
+#2405
+The General Store~
+   You are inside the general store.  All sorts of goodies are stacked on the
+many shelves.  Your local friendly shopkeeper is smiling patiently, waiting to 
+serve you to the best of his abilities.  The only exit is to the south.
+~
+24 8 0 0 0 0 255 0
+D2
+The only exit lies to the south.
+~
+~
+0 -1 2404
+S
+#2406
+Bywater Road~
+   You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west.  To the north, steps lead to a friendly looking
+weaponry/armory while a nursery lies to the south.
+~
+24 0 0 0 0 1 255 0
+D0
+Steps lead to a friendly looking weaponry and armory.
+~
+~
+0 -1 2407
+D1
+To the east runs Bywater Road.
+~
+~
+0 -1 2409
+D2
+To the south lies Kid'n Keep, the local nursery.
+~
+~
+0 -1 2408
+D3
+To the west runs Bywater Road.
+~
+~
+0 -1 2404
+S
+#2407
+The House of Arms~
+   You are inside the finest weapons and armour shop in all of Shiredom.  The
+shopkeeper proudly displays his fine wares and humbly offers the best daggers
+that you have ever laid eyes on.
+~
+24 8 0 0 0 0 255 0
+D2
+The only exit lies to the south.
+~
+~
+0 -1 2406
+S
+#2408
+Kid'n Keep~
+   You are inside Kid'n Keep, the convenient one-stop nursery that maintains
+the youth of the Shire.  Toddlers run every which way while their nursemaids
+sigh in exasperation.  The only exit lies to the north.
+~
+24 8 0 0 0 0 255 0
+D0
+The only exit lies to the north.
+~
+~
+0 -1 2406
+S
+#2409
+A bend in the road~
+   Bywater Road continues west and south.  A large, imposing building lies
+to the east.  Farther to the south, you can see an Inn of some sort.
+~
+24 0 0 0 0 1 255 0
+D1
+A large, imposing building lies to the east.  A sign reads 'Sheriff Post'.
+~
+~
+0 -1 2410
+D2
+To the south runs Bywater Road.
+~
+~
+0 -1 2412
+D3
+To the west runs Bywater Road.
+~
+~
+0 -1 2406
+S
+#2410
+Sheriff Post of the Eastern Shire~
+   You are in the Sheriff Post which acts as the nucleus for the three sheriffs
+of the Eastern Shire.  As you examine the sheriffs on duty, you come to realize
+that the halflings of the Shire are not to be reckoned with.  You cower with 
+awe.  A door offers passage to the east.
+~
+24 8 0 0 0 0 255 0
+D1
+A door offers passage to the office of the Thain.
+~
+door~
+1 0 2411
+D3
+To the west you can see Bywater Road.
+~
+~
+0 -1 2409
+S
+#2411
+Thain's Office~
+   You stand inside the office of the Thain, the police protectorate of the
+great Shire.  The Thain has sworn to protect the Shire from all thieves and
+murderers with his life, and so eyes you suspiciously.  A door to the west
+leads to the Sheriff Post.
+~
+24 8 0 0 0 0 255 0
+D3
+A door offers passage to the Sheriff Post.
+~
+door~
+1 0 2410
+S
+#2412
+Bywater Road~
+   You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the north and south.  To the east you spy the training grounds for
+sheriffs in training.
+~
+24 0 0 0 0 1 255 0
+D0
+To the north runs Bywater Road.
+~
+~
+0 -1 2409
+D1
+The Sheriff Training Grounds lies to the east.
+~
+~
+0 -1 2417
+D2
+To the south runs Bywater Road.
+~
+~
+0 -1 2413
+S
+#2413
+Bywater Road~
+   You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the north.  The private residences of Shire inhabitants are to
+the east and west while to the south lies the Ivy Bush, second only to the
+Green Dragon for its hospitality and service.
+~
+24 0 0 0 0 1 255 0
+D0
+To the north runs Bywater Road.
+~
+~
+0 -1 2412
+D1
+You spy the private dwelling of a Shire folk to the east.
+~
+~
+0 -1 2415
+D2
+To the south you see the Ivy Bush, a favorite haunt of Shire urbanites and
+seasoned travelers.
+~
+~
+0 -1 2416
+D3
+You spy the private dwelling of a Shire folk to the west.
+~
+~
+0 -1 2414
+S
+#2414
+A smial~
+   You are inside a smial, a hole in the ground which serves as the proper
+dwelling place for halflings.  As you look around this private abode, you feel
+as if you were intruding and so quickly cover your eyes.  The only exit lies
+to the east.
+~
+24 8 0 0 0 0 255 0
+D1
+The only exit lies to the east.
+~
+~
+0 -1 2413
+S
+#2415
+A smial~
+   You are inside a smial, a hole in the ground which serves as the proper
+dwelling place for halflings.  As you look around this private abode, you feel
+as if you were intruding and so quickly cover your eyes.  The only exit lies
+to the west.
+~
+24 8 0 0 0 0 255 0
+D3
+The only exit lies to the west.
+~
+~
+0 -1 2413
+S
+#2416
+The Ivy Bush~
+   You are in the Ivy Bush, one of the most famous inns in all of Shiredom.
+Chique Shire urbanites and seasoned travelers fill the confines of the room
+with gay and lively talk.  A jovial innkeeper stops all that he is doing to
+await your command.  The only exit lies to the north.
+~
+24 8 0 0 0 0 255 0
+D0
+The only exit lies to the north.
+~
+~
+0 -1 2413
+S
+#2417
+Sheriff Training Grounds~
+   The sounds of mock battle and feigned death cries fill your ears.  Every
+which way you turn you see halfling trainees at the prime of their youth.  A
+wizened old battle instructor meets your gaze and asks if he may be of 
+service.  The only exit lies to the west.
+~
+24 0 0 0 0 0 255 0
+D3
+The only exit lies to the west.
+~
+~
+0 -1 2412
+S
+#2418
+Bywater Road~
+   You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west.  A large, imposing building lies to the south.
+You catch a glimpse of the Brandywine River to the north.
+~
+24 0 0 0 0 1 255 0
+D1
+To the east you see the entrance to the Shire.
+~
+~
+0 -1 2403
+D2
+A large, imposing building lies to the south.  A sign reads 'Sheriff Post'.
+~
+~
+0 -1 2419
+D3
+To the west runs Bywater Road.
+~
+~
+0 -1 2420
+S
+#2419
+Sheriff Post of the Bridge~
+   You are in the Sheriff Post which acts as the nucleus for the three sheriffs
+of the Bridge.  As you examine the sheriffs on duty, you come to realize that
+the halflings of the Shire are not to be reckoned with.  You cower with awe.
+The only exit is to the north.
+~
+24 8 0 0 0 0 255 0
+D0
+The only exit is to the north.
+~
+~
+0 -1 2418
+S
+#2420
+Bywater Road~
+   You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west.  To the south you spy the Grocer's Delight,
+the premium grocer's shop in all the realm while to the north lies Brandywine
+Bridge.
+~
+24 0 0 0 0 1 255 0
+D0
+Brandywine Bridge offers safe passage across the tumultuous river.
+~
+~
+0 -1 2431
+D1
+To the east runs Bywater Road.
+~
+~
+0 -1 2418
+D2
+You see the Grocer's Delight to the south.
+~
+~
+0 -1 2421
+D3
+To the west runs Bywater Road.
+~
+~
+0 -1 2422
+S
+#2421
+The Grocer's Delight~
+   You tremble with ecstasy as the tempting odors of freshly made pipeweed
+bread fill your lungs.  Rumor has it that the pipeweed bread sold here can
+restore vitality.  You look around but find no one to take your order.  
+You then peep over the counter and discover a friendly grocer who is too 
+short to be seen over the counter.  The only exit is to the north.
+~
+24 8 0 0 0 0 255 0
+D0
+The only exit is to the north.
+~
+~
+0 -1 2420
+S
+#2422
+Bywater Road~
+   You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east.  A small hill lies to the west while you can see a
+watermill to the far south.  You catch a glimpse of the Brandywine River to
+the north.
+~
+24 4 0 0 0 1 255 0
+D1
+To the east runs Bywater Road.
+~
+~
+0 -1 2420
+D2
+An entrance to the watermill lies to the south.
+~
+~
+0 -1 2423
+D3
+A small hill to the west blocks your view.
+~
+~
+0 -1 2426
+S
+#2423
+Entrance to Watermill~
+   You stand at the entrance to a watermill.  You hear the bustle of busy
+workers and the sound of a creaking mill.  Bywater Road is to the north while
+the watermill continues to the south.
+~
+24 0 0 0 0 0 255 0
+D0
+You see Bywater Road to the north.
+~
+~
+0 -1 2422
+D2
+A watermill meets your gaze.
+~
+~
+0 -1 2424
+S
+#2424
+The Watermill~
+   Halfling workers are scattered everywhere, busy at work.  You see the river
+to the west and get a compelling urge to grab the nearest worker and to toss
+him into the river.  The entrance stands to the north while a door offers
+passage to the south.
+~
+24 8 0 0 0 0 255 0
+D0
+You see the entrance.
+~
+~
+0 -1 2423
+D2
+A wooden door leads to the rear of the watermill.
+~
+door~
+1 0 2425
+S
+#2425
+Rear of watermill~
+   You stand in a damp, dimly lit room.  Mildew clings to the walls and it
+appears as if you were the first person to enter the room in ages.  A barely
+visible portal in the ground catches your eye.
+~
+24 8 0 0 0 0 255 0
+D0
+A watermill meets your gaze.
+~
+~
+0 -1 2424
+D5
+A hidden portal reveals a passageway down.
+~
+~
+0 -1 2446
+S
+#2426
+Took Hill~
+   You stand on top of Took Hill, named after the legendary Bandobras Took.
+You feel honored to be standing on a hill named after your hero.  From this
+vantage point you can see all of shiredom.  You get the feeling that with
+one stomp you could eliminate their great city.  You can see the outline of
+Midgaard to the far east.  Sounds of joyful celebration are heard from the
+fields west of here.  The Brandywine flows by lazily nearby.
+~
+24 0 0 0 0 4 255 0
+D1
+To the east runs Bywater Road.
+~
+~
+0 -1 2422
+D3
+You see a grassy field to the west.
+~
+~
+0 -1 2428
+S
+#2427
+Northern end of grassy field~
+   You stand in a grassy field--nothing to get too excited about.  The field
+extends toward the south and the west.  To the east you see Took Hill.
+~
+24 0 0 0 0 2 255 0
+D2
+You see a grassy field.
+~
+~
+0 -1 2428
+S
+#2428
+A grassy field~
+   You stand in the center of a grassy field.  A great birthday party appears
+to be taking place.  Great tables of food are spread out and a young halfling
+beauty offers you welcome.  You are enticed by her generosity and suggestive
+winks.
+~
+24 0 0 0 0 2 255 0
+D0
+You see a grassy field.
+~
+~
+0 -1 2427
+D1
+A small hill to the east blocks your view.
+~
+~
+0 -1 2426
+D2
+You see a grassy field.
+~
+~
+0 -1 2429
+D3
+You see a grassy field.
+~
+~
+0 -1 2430
+S
+#2429
+Southern end of grassy field~
+   You stand in a grassy field--nothing to get too excited about.  The field
+extends toward the north and the west.  To the east you see Took Hill.
+~
+24 0 0 0 0 2 255 0
+D0
+You see a grassy field.
+~
+~
+0 -1 2428
+S
+#2430
+Western end of grassy field~
+   You stand in a grassy field--nothing to get too excited about.  The field
+extends every which way.
+~
+24 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 10613
+D1
+You see a grassy field.
+~
+~
+0 -1 2428
+D2
+~
+~
+0 0 6028
+D3
+~
+~
+0 0 6024
+S
+#2431
+Brandywine Bridge~
+   You stand on a solidly built bridge.  As you look down you spy gaily
+colored fish swimming with the current of Brandywine River.  The cool water
+looks invitingly refreshing and you get a sudden urge to strip and bathe in
+the river, but you hear the laughter of women nearby and so resist the urge.
+Delving Lane extends to the north while Bywater Road can be seen to the south.
+~
+24 0 0 0 0 1 255 0
+D0
+You see Delving Lane.
+~
+~
+0 -1 2432
+D2
+To the south runs Bywater Road.
+~
+~
+0 -1 2420
+S
+#2432
+Delving Lane~
+   Delving Lane runs north and south in this small borough of the Shire.  To 
+the south stands Brandywine Bridge.  The Green Dragon, the undisputed leader
+in the art of innkeeping, offers rest and comfort to the east.  You hear the
+bray of horses from the west.
+~
+24 4 0 0 0 1 255 0
+D0
+You see Delving Lane.
+~
+~
+0 -1 2433
+D1
+The Green Dragon offers food, drink, and above all hospitality for mere gold.
+~
+~
+0 -1 2444
+D2
+Brandywine Bridge offers safe passage across the tumultuous river.
+~
+~
+0 -1 2431
+S
+#2433
+Delving Lane~
+   Delving Lane runs north and south in this small borough of the Shire.  A 
+large, imposing building lies to the east.  You hear the bray of horses from
+the west.
+~
+24 0 0 0 0 1 255 0
+D0
+You see Delving Lane.
+~
+~
+0 -1 2434
+D1
+A large, imposing building lies to the east.  A sign reads 'Sheriff Post'.
+~
+~
+0 -1 2445
+D2
+You see Delving Lane.
+~
+~
+0 -1 2432
+D3
+You see a grassy field.
+~
+~
+0 -1 2438
+S
+#2434
+Delving Lane~
+   Delving Lane runs north and south in this small borough of the Shire. There
+is a small house to the west, nothing to the east, and up ahead you see a round
+door which leads to a rather impressive abode.
+~
+24 0 0 0 0 1 255 0
+D0
+A large, magnificent house meets your steady gaze.  Above the round door a
+sign reads 'Bag End'.
+~
+~
+1 -1 2435
+D2
+You see Delving Lane.
+~
+~
+0 -1 2433
+S
+#2435
+Bag End~
+   You stand in a comfortably well-equipped house, a palace by humble halfling
+standards.  On the wall you see a banner which reads "Home Sweet Home".
+A solid oak door to the east leads to a pantry while you see a cozy bedroom
+to the west.
+~
+24 8 0 0 0 0 255 0
+D1
+Through the keyhole you see what looks like a well stocked pantry.
+~
+door~
+1 -1 2437
+D2
+You see Delving Lane.
+~
+~
+0 -1 2434
+D3
+You see a bedroom.  It looks like the beds have recently been slept in.
+~
+~
+0 -1 2436
+S
+#2436
+Bedroom~
+   You stand in the private bedroom of Bag End.  There are two beds to the
+side, neither of which are made.  Portraits of halflings hang on the wall,
+and as you gaze upon them you come to the conclusion that the owner of
+Bag End comes from a long line of distinguished halflings.  A cozy fire
+in the fireplace keeps the room warm and comfortable.
+~
+24 8 0 0 0 0 255 0
+D1
+Through the doorway you see the main room of Bag End.
+~
+~
+0 -1 2435
+S
+#2437
+Pantry~
+   You are inside the pantry.  Shelves filled with food and drink surround
+you on all sides.  You wonder why a halfling would need so much to eat.
+The presence of something unseen chills you to your bones.  On the floor
+you spy a trapdoor.
+~
+24 8 0 0 0 0 255 0
+D3
+Beyond the door you see the main room of Bag End.
+~
+door~
+1 -1 2435
+D5
+It's anyone's guess as to where the trapdoor leads.
+~
+~
+0 -1 2456
+S
+#2438
+A grassy field~
+   You stand upon a grassy field.  A bull stands grazing not far away and
+out of the corner of your eye you can see him considering you.  The sound
+of animals fill the air from the north.  To the south you see a pig pen.
+~
+24 0 0 0 0 2 255 0
+D0
+You see a large barn.
+~
+~
+0 -1 2442
+D1
+You see Delving Lane.
+~
+~
+0 -1 2433
+D2
+A rather large pig pen is to the south.
+~
+~
+0 -1 2439
+S
+#2439
+Pig pen~
+   You feel your boots sinking into the mud.  Numerous pigs roam about,
+oblivious to your company.  A grassy field is to the north while you see
+a small path winding to the west.
+~
+24 0 0 0 0 1 255 0
+D0
+You see a grassy field.
+~
+~
+0 -1 2438
+D3
+A small path winds its way eastward.
+~
+~
+0 -1 2440
+S
+#2440
+A stony path~
+   You walk on a stony path which leads to a small residence to the north.
+From the east you hear the noisy din of pigs.
+~
+24 0 0 0 0 1 255 0
+D0
+To the north you see a modest house.
+~
+~
+0 -1 2441
+D1
+A rather large pig pen is to the east.
+~
+~
+0 -1 2439
+S
+#2441
+Gamgee Residence~
+   You stand inside a modest home.  You deduce that this is indeed the home
+of whomever owns the surrounding lands.  The air is somewhat musty and 
+the smell reminds you of a stable.  As you look around disdainfully, you
+think to yourself that this is more of a shack than a proper residence and
+you long for the urban riches of the Shire proper.
+~
+24 8 0 0 0 0 255 0
+D2
+You see a small path winding its way southward.
+~
+~
+0 -1 2440
+S
+#2442
+A barn~
+   Animals of every sort fill the small barn.  You feel the hot breath of
+horses and cows on your neck and you feel the sudden need for fresh air.
+Other than that, you feel cozy and protected and don't mind staying for a
+bit longer.  All the warmth and good vibes remind you of the days when your
+mother would hold you in her arms and sing you to sleep.  You find yourself
+wanting to cradle all the animals.
+~
+24 8 0 0 0 0 255 0
+D0
+You see a chicken coop to the north.
+~
+~
+0 -1 2443
+D2
+You see a grassy field.
+~
+~
+0 -1 2438
+S
+#2443
+A chicken coop~
+   You stand inside a rather crowded chicken coop.  The cackle of hens fill
+the air.  The only exit is to the south.
+~
+24 8 0 0 0 0 255 0
+D2
+You see a large barn.
+~
+~
+0 -1 2442
+S
+#2444
+The Green Dragon~
+   Welcome to the Green Dragon, the undisputed leader in the art of
+innkeeping.  A rather charming and friendly hostess stands to the side,
+ready to offer you food and drink.  While most of the patrons are halfling
+locals, you spy an occasional human or two.  As you listen more closely
+to the conversations that fill the inn, you hear the tales of great and
+seasoned adventurers as well as the usual gossip.  You feel as if you've
+found your second home in the Green Dragon.  You see a stairway leading
+upwards.
+~
+24 8 0 0 0 0 255 0
+D3
+You see Delving Lane.
+~
+~
+0 -1 2432
+D4
+You see the reception.
+~
+~
+0 -1 2457
+S
+#2445
+Sheriff Post of Delving Lane~
+   You are in the Sheriff Post which acts as the nucleus for the three sheriffs
+of Delving Lane.  As you examine the sheriffs on duty, you come to realize
+that the halflings of the Shire are not to be reckoned with.  You cower with
+awe.  The only exit is to the west.
+~
+24 8 0 0 0 0 255 0
+D3
+You see Delving Lane.
+~
+~
+0 -1 2433
+S
+#2446
+A dark tunnel~
+   You stand inside a small underground tunnel.  The ceiling is so low that
+you must crouch to avoid hitting your head.  You see light from a small
+hole in the ceiling while to the east you see nothing but darkness.
+~
+24 9 0 0 0 0 255 0
+D1
+You see a dark tunnel.
+~
+~
+0 -1 2447
+D4
+You see a portal which leads to a small room.
+~
+~
+0 -1 2425
+S
+#2447
+A dark tunnel~
+   You stand inside a small underground tunnel.  The ceiling is so low that
+you must crouch to avoid hitting your head.  The tunnel continues east and
+west.  All you can see is darkness.
+~
+24 9 0 0 0 0 255 0
+D1
+You see a dark tunnel.
+~
+~
+0 -1 2448
+D3
+You see a dark tunnel.
+~
+~
+0 -1 2446
+S
+#2448
+A dark tunnel~
+   You stand inside a small underground tunnel.  The ceiling is so low that
+you must crouch to avoid hitting your head.  The tunnel continues east and
+west.  All you can see is darkness.
+~
+24 9 0 0 0 0 255 0
+D1
+You see a dark tunnel.
+~
+~
+0 -1 2449
+D3
+You see a dark tunnel.
+~
+~
+0 -1 2447
+S
+#2449
+A three way intersection~
+   You stand at an intersection.  The tunnel continues east and west while
+to the north you can barely make out a smaller trail.
+~
+24 9 0 0 0 0 255 0
+D0
+You see a dark tunnel.
+~
+~
+0 -1 2451
+D1
+You see a dark tunnel.
+~
+~
+0 -1 2450
+D3
+You see a dark tunnel.
+~
+~
+0 -1 2448
+S
+#2450
+Dark Passage~
+The passage runs east toward some sort of dark caverns which are
+undiscernable from here.  A passage runs back west, and just above 
+you are the sounds of many voices.  Many, many voices.  
+~
+24 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 2458
+D3
+You see a dark tunnel.
+~
+~
+0 -1 2449
+D4
+You hear the din of adventurers.
+~
+~
+0 -1 2444
+S
+#2451
+A dark tunnel~
+   You stand inside a small underground tunnel.  The ceiling is so low that
+you must crouch to avoid hitting your head.  The tunnel continues north and
+south.  To the west you see a Sheriff Post while to the east lies a small
+home.  All you can see is darkness.
+~
+24 9 0 0 0 0 255 0
+D0
+You see a dark tunnel.
+~
+~
+0 -1 2452
+D1
+You see a halfling hole.
+~
+~
+0 -1 2454
+D2
+You see a dark tunnel.
+~
+~
+0 -1 2449
+D3
+Above a great oak door you see a sign which reads 'Sheriff Post'.
+~
+~
+0 -1 2453
+S
+#2452
+A dark tunnel~
+   You stand inside a small underground tunnel.  The ceiling is so low that 
+you must crouch to avoid hitting your head.  The tunnel continues north and
+south.  To the west lies a small home.  All you can see is darkness.
+~
+24 9 0 0 0 0 255 0
+D0
+You see a dark tunnel.
+~
+~
+0 -1 2456
+D2
+You see a dark tunnel.
+~
+~
+0 -1 2451
+D3
+You see a halfling hole.
+~
+~
+0 -1 2455
+S
+#2453
+Sheriff Post of the Lower Shire~
+   You are in the sheriff Post which acts as the nucleus for the three sheriffs 
+of the Lower Shire.  As you examine the sheriffs on duty, you come to realize
+that the halflings of the Shire are not to be reckoned with.  You cower with
+awe.  The only exit is to the east.
+~
+24 9 0 0 0 0 255 0
+D1
+You see a dark tunnel.
+~
+~
+0 -1 2451
+S
+#2454
+A halfling hole~
+   You stand inside a rather crudely built halfling hole.  The many passageways
+and winding paths remind you of a rodent's lair.  The air is musty and damp
+and you feel the need for fresh air.
+~
+24 9 0 0 0 0 255 0
+D3
+You see a dark tunnel.
+~
+~
+0 -1 2451
+S
+#2455
+A halfling hole~
+   You stand inside a rather crudely built halfling hole.  The many passageways
+and winding paths remind you of a rodent's lair.  The air is musty and damp
+and you feel the need for fresh air.
+~
+24 9 0 0 0 0 255 0
+D1
+You see a dark tunnel.
+~
+~
+0 -1 2452
+S
+#2456
+End of a dark tunnel~
+   You are at one end of a dark tunnel.  The tunnel continues to the south
+while on the ceiling you can make out a trapdoor.
+~
+24 9 0 0 0 0 255 0
+D2
+You see a dark tunnel.
+~
+~
+0 -1 2452
+D4
+A trapdoor on the ceiling reveals a passageway.
+~
+~
+0 -1 2437
+S
+#2457
+The Inn of the Green Dragon~
+   You are standing in the Inn of the Green dragon.  Large paintings of 
+halflings at work, and halflings at play adorn the walls.  Comfortable 
+benches and seats line the walls.  A stairway leads down.
+~
+24 393240 0 0 0 0 255 0
+D5
+~
+~
+0 -1 2444
+S
+#2458
+Entry into the Darkness~
+A cold rush of air rushes up from the depths of the caverns, one that
+could chill a frost giant.  The uncompromising, black granite walls
+reflect the flickering light back in a thousand ways, making this
+place seem surreal, almost otherwordly.  A steep slope heads east,
+downward into darkness.  There are no sounds of movement or voices at
+all, only the steady, quiet drip of the caverns' moist walls.
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2459
+D3
+~
+~
+0 0 2450
+S
+#2459
+Descending Into the Depths~
+The air gets markedly colder the farther to the east that is traveled.
+The floor slopes gently at first, then with more vigor as it
+continues.  Soon anyone trying to negotiate east would have to lean
+back as they walk just so that they might keep their balance. 
+~
+24 589 0 0 0 0 255 0
+D0
+~
+~
+0 0 2482
+D1
+~
+~
+0 0 2460
+D3
+~
+~
+0 0 2458
+S
+#2460
+The Air Gets Cold~
+It is no longer getting cold, it IS cold.  The air has dropped down
+near freezing, the steady breeze that blows through the caves making
+it seem all the more cold.  The floor continues to slope downward to
+the east, the darkness as complete as darkness can be.  Any sounds
+made in this dark, lonely place echo back a thousand fold - making the
+isolation complete.
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2461
+D3
+~
+~
+0 0 2459
+S
+#2461
+The Tunnels~
+The tunnel bends to the north, heading level and straight in that
+direction.  To the west the cavern begins its steep ascent toward the
+exit and open air.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2462
+D3
+~
+~
+0 0 2460
+S
+#2462
+The Tunnels~
+The surface, the open air - it is all now just a memory.  It is easy
+to lose track of time down in places such as these with no light and
+no other human contact.  The steady drip of the walls is still all
+that comes back from this dreary place as you make your way through.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2463
+D2
+~
+~
+0 0 2461
+S
+#2463
+The Tunnels~
+The walls of the cave are still made of the same rock as the rest of
+the caverns, however here the walls and floor are unnaturally smooth,
+almost like black marble.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2464
+D2
+~
+~
+0 0 2462
+S
+#2464
+The Tunnels~
+Oddly, there seems to be no change in the color or makeup of the 
+rock walls that this tunnel runs through.  They are a solid, gleaming 
+black which seems to both reflect the light and soak it up all at once 
+- it is unnerving. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2465
+D2
+~
+~
+0 0 2463
+S
+#2465
+The Tunnels~
+The surface, the open air - it is all now just a memory.  It is easy
+to lose track of time down in places such as these with no light and
+no other human contact.  The steady drip of the walls is still all
+that comes back from this dreary place as you make your way through.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2466
+D2
+~
+~
+0 0 2464
+S
+#2466
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2467
+D2
+~
+~
+0 0 2465
+S
+#2467
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2468
+D2
+~
+~
+0 0 2466
+S
+#2468
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2469
+D2
+~
+~
+0 0 2467
+S
+#2469
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2498
+D2
+~
+~
+0 0 2470
+D3
+~
+~
+0 0 2468
+S
+#2470
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2469
+D1
+~
+~
+0 0 2499
+D2
+~
+~
+0 0 2471
+S
+#2471
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2470
+D2
+~
+~
+0 0 2472
+S
+#2472
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2471
+D2
+~
+~
+0 0 2473
+S
+#2473
+The Tunnels~
+Looking up into the darkness, you can see nothing except the
+occassional creak of a bat's wings or the drip of the water on the
+walls.  The darkness surrounding you is now not only just dark,
+but wide open.  That is almost worse than clautrophobia.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2472
+D2
+~
+~
+0 0 2474
+S
+#2474
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2473
+D2
+~
+~
+0 0 2475
+S
+#2475
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2474
+D2
+~
+~
+0 0 2476
+S
+#2476
+The Tunnels~
+Looking up into the darkness, you can see nothing except the
+occassional creak of a bat's wings or the drip of the water on the
+walls.  The darkness surrounding you is now not only just dark,
+but wide open.  That is almost worse than clautrophobia.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2475
+D2
+~
+~
+0 0 2477
+S
+#2477
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2476
+D1
+~
+~
+0 0 2486
+D3
+~
+~
+0 0 2478
+S
+#2478
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2477
+D3
+~
+~
+0 0 2479
+S
+#2479
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2478
+D3
+~
+~
+0 0 2480
+S
+#2480
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2479
+D3
+~
+~
+0 0 2481
+S
+#2481
+The Tunnels~
+The tunnel opens up large and mysterious, its heights up higher than
+the naked eye can make out from the floor.  A tunnel runs off to the 
+east and west, leading farther, deeper into caverns.
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2480
+D3
+~
+~
+0 0 2460
+D4
+~
+~
+0 0 6103
+S
+#2482
+The Tunnels~
+The cave widens, opening north into an enormous subterranean cavern.  
+The sound of running water comes from somewhere in that cavern,
+however exactly where is hard to tell, since everything here echoes.
+To the south is a passage quite the same as the one you now stand
+within.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2483
+D2
+~
+~
+0 0 2459
+S
+#2483
+The Tunnels~
+This is a huge cavern, the ceiling lost in darkness at the highest
+point, sloping high and away from the walls.  The northwest wall
+glimmers and shimmers, this being the source of the running water, as
+the entire wall is covered in a cascade of clear water which runs down
+through a crack in the ceiling.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2484
+D2
+~
+~
+0 0 2482
+S
+#2484
+The Tunnels~
+The cavern is huge and glistening, large enough to hold an army and
+all its cavalry and then some.  The ceiling is so tall that at its
+peak it cannot be seen, so lost it is in the darkness.
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2485
+D2
+~
+~
+0 0 2483
+S
+#2485
+The Tunnels~
+The cavern's northern wall is a mass of moldy growth, the fungus
+growing wild along the wall.  Just west on the wall is a cascade of
+water, running from an unknown source out of a crack in the ceiling
+just wide enough for one man to squeeze through,and disappearing into 
+another crack in the floor.  The cavern itself looms ever large, the 
+black walls glistening in the faint light.
+~
+24 585 0 0 0 0 255 0
+D2
+~
+~
+0 0 2484
+D4
+~
+~
+0 0 10731
+D5
+~
+~
+0 0 19330
+S
+#2486
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 3400
+D1
+~
+~
+0 0 2487
+D3
+~
+~
+0 0 2477
+S
+#2487
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2488
+D2
+~
+~
+0 0 2486
+S
+#2488
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2489
+D3
+~
+~
+0 0 2487
+S
+#2489
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 3426
+D1
+~
+~
+0 0 2490
+D3
+~
+~
+0 0 2488
+S
+#2490
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2491
+D3
+~
+~
+0 0 2489
+S
+#2491
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2492
+D1
+~
+~
+0 0 2478
+D3
+~
+~
+0 0 2490
+S
+#2492
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2493
+D2
+~
+~
+0 0 2491
+S
+#2493
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2494
+D2
+~
+~
+0 0 2492
+S
+#2494
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D2
+~
+~
+0 0 2493
+D3
+~
+~
+0 0 2495
+S
+#2495
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 2494
+D2
+~
+~
+0 0 2496
+S
+#2496
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2495
+D2
+~
+~
+0 0 2497
+S
+#2497
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 2496
+D2
+~
+~
+0 0 30521
+S
+#2498
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 585 0 0 0 0 255 0
+D3
+~
+~
+0 0 2469
+S
+#2499
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+24 589 0 0 0 0 255 0
+D1
+~
+~
+0 0 7014
+D3
+~
+~
+0 0 2470
+S
+$~

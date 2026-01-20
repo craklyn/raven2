@@ -1,0 +1,33 @@
+ref cast ' refresh '$*
+k kill$*
+o order follower$*
+kk order follower kill$*
+t track$*
+re retreat east
+rw retreat west
+ru retreat up
+rd retreat down
+rs retreat south
+rn retreat north
+r rescue$*
+hands cast ' hands of wind '$*
+lore cast ' forest lore '$*
+refresh cast ' refresh '$*
+heal poultice$*
+wild cast ' call of the wild '$*
+shield cast ' shield '$*
+wa wake;stand
+sense cast ' sense '$*
+skin cast ' briarwood '$*
+gs gt &03<>&00&02$*&00 &03<>&00
+say say &03<>&00&02$*&00 &03<>&00
+clan clan &00&03<>&00&02$*&00 &03<>&00&11
+bu butcher corpse
+g get all all.cor
+fleet cast ' fleet foot '$*
+1 remove spear;wield weapon
+2 remove weapon;wield spear
+go nosummon; norecall;
+home n;n;n;n;n;n;n;n;n;e;e;s;e
+ga group all
+a assist

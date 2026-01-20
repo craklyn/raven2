@@ -1,0 +1,27 @@
+web c 'web
+airg get eagle hole;rem thorn;wear eagle;c 'air' group;rem eagle;p eagle hole;wear thorn;save
+flag get eagle hole;rem thorn;wear eagle;c 'flame bl' group;rem eagle;p eagle hole;wear thorn;save
+hasg get eagle hole;rem thorn;wear eagle;c 'hast' group;rem eagle;p eagle hole;wear thorn;save
+shig get eagle hole;rem thorn;wear eagle;c 'shi' group;rem eagle;p eagle hole;wear thorn;save
+flyg get eagle hole;rem thorn;wear eagle;c 'fly' group;rem eagle;p eagle hole;wear thorn;save
+x exit
+inf c 'infravis
+1 get all all.cor
+2 assist
+inv c 'inv
+invg c 'invis' group
+tru c 'true si
+trug c 'true sight' group
+g scan
+wra c 'wrath
+wf c 'wall of fire
+4 c 'shriek
+3 c 'life drai
+5 c 'doom bolt
+0 rec elve scroll
+nexh c 'nexus' hapax
+sumh c 'sum' hapax
+vv o follow k 4.;assist
+weagle get eagle hole;rem thorn;wear eagle;save
+gg c 'sum' thiago
+cv c 'fount'; drop vial

@@ -1,0 +1,47 @@
+fly cast 'fly' $*
+b cast 'blind' $*
+air cast 'airsphere' $*
+id cast 'iden' $*
+invis c 'invis' $*
+ms c 'monster summon'
+sum cast 'summon' $*
+port c 'portal' $*
+bb c 'fireball' $*
+kipat c 'blink'
+gate c 'gate'
+gt gt &04_\|/_&13$*&00&04 _\|/_&00
+say say &04_\|/_&13$*&00&04 _\|/_&00
+ss c 'shriek' $*
+tabang order followers assist $*
+hangin c 'airsph' $*
+nex c 'nexus' $*
+haste c 'haste' $*
+typ c 'typhoon'
+aa order follower $*
+awaken c 'awaken'
+sg c 'shock' $*
+sh c 'shield' $*
+mons c 'monster'
+cs c 'color' $*
+fb c 'flame blade' $*
+alams c 'ident' $*
+llo c 'locate' $*
+infra c 'infra' $*
+tit1 title the Sorcerer
+ele c 'conjure'
+rc c 'remove curse' $*
+ts c 'true sight' $*
+hs c 'shriek' $*
+pp c 'portal' $*
+fm c 'feeble' $*
+db c 'doom' $*
+rw c 'wrath' 
+ench c 'enchant weapon' $*
+kilat c 'light' $*
+o order follower $*
+ok order follower kill $*
+f clan $*
+mm cast 'magic missile' $*
+ch cast 'charm' $*
+met c 'meteor' $
+ld c 'life drain' $*

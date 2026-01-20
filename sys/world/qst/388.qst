@@ -1,0 +1,391 @@
+#38801
+Thief Q --> UD Pimp Teeth~
+   So the Samserian Guild sends their finest eh?  This city can be rough and
+not for the faint of heart.  That is your first and last warning!  If you're
+looking to prove yourself down here, you'll need a fast pair of feet and a set
+of nimble hands.  Now, let's get down to business.  Around the Slaver's Route
+district you will find a whore house.  Inside resides a man with some amount of
+wealth.  Unfortunately, for him, if you should succeed, he has spent the
+majority of it on a set of gold teeth.  Bring his "grill" back to me young
+rogue.    
+~
+Travel to the Slaver's district and mug the pimp for his set of gold teeth.  
+
+~
+1 60 0 2 1 1
+G 38850
+O OBJ 20632
+R SPELL 138
+Elzix holds up the set of &10gold teeth&00 to the dim light in the room.  He
+glances back at you and gives you a solemn nod.  Elzix says, "This gold will
+bring a fair price on the market".  Elzix contemplates the situation briefly
+than with a low grumble yells, "Meliadus!  "
+
+Meliadus has arrived.
+
+Meliadus stares at you and utters the words, 'sergo poir'.
+~
+#38802
+Deparved Wizard's story~
+   "So I bet you're wondering how a once-great mage fell among thieves, aren't
+you?  Well, stay a while and listen!    
+~
+~
+10 50 0 15 30 15
+P 38801
+#38804
+The Forestmaster Quest~
+   &00 "The master thief", the forlorn mage begins, "told me today that he was
+very displeased with my continued use of the clan, despite having made a name
+for myself.  I don't know what I am to do.  He said he had a "lead" he wanted
+me to carry out - he wanted me to travel to the River of Lost Souls, and from
+there track down an elusive figure he called the forestmaster.  This ranger
+apparently has a broach that the master thief finds valuable.  "
+&00   "Please, I have never heard of the River of Souls, and I am quite lost
+as to what he expects me, in my contidition to do.  Won't you please help
+me out of this mess?"
+~
+   Bring back the broach carried by the forestmaster, as well as proof that the
+forestmaster has been exterminated.    
+~
+35 50 8388608 22 30 15
+P 38802
+O MOB 9602
+O OBJ 9609
+R QP 2
+~
+R GOLD 124910
+   The great magician falls to his knees and begins to kiss your feet.  Tears
+flow down from his eyes and he says, "Thank you so very much.  Just a minute
+ago I overheard the master thief talking about my replacement.  You are my
+redeemer, and for this I owe you everything.  Please, take everything I have.
+  
+~
+#38805
+Dragon Horde~
+~
+~
+1 50 0 15 30 15
+P 38802
+O OBJ 35102
+O OBJ 35132
+R EXP 1000000
+The man exclaims, "Do mine eyes deceive me, or is this the very horde I looked
+upon so many years ago?  By Zeus' beard! it is!  You are a fine young hero who
+will go far.
+~
+R GOLD 1000000
+   He collects himself and goes on, "By selling this piece by piece I can mark
+it up well past its real value!  You deserve a split for being so kind to this
+old man.  Be sure to split it with all your chums who helped you.  
+Hee-hee-hee, I know you young ones well!  You'll be keeping it for yourself,
+you will.  "
+~
+#38806
+unnamed quest~
+~
+~
+1 50 0 15 30 15
+P 38803
+P 38804
+P 38805
+#38807
+unnamed quest~
+~
+~
+1 50 0 15 30 15
+G 38850
+P 38803
+P 38804
+P 38805
+#38809
+unnamed quest~
+~
+~
+1 50 0 15 30 15
+G 38850
+P 38803
+P 38804
+P 38805
+#38810
+unnamed quest~
+~
+~
+1 50 0 4 60 4
+G 38850
+P 38801
+P 38802
+P 38803
+P 38804
+P 38805
+P 38806
+P 38807
+P 38809
+O OBJ 18199
+R OBJ 38850
+   "Here's the weapon I promised.  Use it not for good nor evil, nor for the
+will of the gods or to undo them.  Use it only for your advancement.  " he
+suggests, with an exagerated wink.    
+~
+#38820
+Quest to retrieve thief guild scroll~
+A very skillfull, and lucky, thief has stolen something very valuable from
+my possession: an ancient scroll containing the greatest secrets of our guild. 
+He is most likely planning on selling it to the highest bidder. It puts all our guild
+at risk, and even worse it puts my head on the chopping block. I can't ask for any
+official help in retrieving the scroll because if I do, my life is forfeit for
+losing it. If you are willing to help me, I will let you know one of our guild's
+greatest secrets. But first you must return the scroll to me. The last I heard
+about the thief he was trying to steal from King Snurr but was caught. You
+will need to sneak into the Black Tower and find this thief. But be warned,
+if the thief discovers you are after the scroll he will destroy it rather than turn
+it over, so stealth is the key.
+~
+Use stealth to infiltrate the Black Tower and
+recover the scroll containing the Thief
+guild's greatest secrets without being caught.
+~
+45 60 142614488 200 25 20
+G 38820
+O OBJ 38860
+R GOLD 200000
+The thief quartermaster says, 'I can't believe you actually
+survived!...I mean, I knew you were a crafty thief
+and you have lived up to my expectations. Take 
+these coins as a reward for saving my head as well
+as the honor of our guild. As I promised, I will also
+give you a secret code that will grant you access to
+one of our guild's greatest secrets. Go to our guildmaster
+and say the words 'tirok nuthm' and she will know I have
+given you my recommendation for entrance.
+~
+#38821
+Quest for Th dagger part 1: UD head thief head and dagger~
+You must show a lot of promise indeed for the girl you call
+the Queen of Thieves to show you this place. I am not as
+easily impressed. I might have something for you, but first
+you'll have to do some things for me. I have been here for eons
+and sending gnats like you running around is one of the few
+entertainments left to me.
+
+The first task is to bring me the jewelled dagger and the head
+of the leader of the thieve's guild in the Under Dark. He once
+insulted me, and since I am not allowed to have revenge on this
+guild of thieves it will provide me some pleasure to take it out
+on your underground cousins.
+~
+Bring the head and jewelled dagger from the leader of
+the Under Dark thieve's guild to the god of mischief.
+~
+45 60 142614488 60 30 30
+G 38814
+P 38820
+O MOB 20688
+O OBJ 20671
+R SPELL 128
+An ancient, forgotten god of mischief gives a knowing glance to the bloodstains
+on your clothes and calmly tosses the bloody head into the corner where you
+notice an enormous pile of other skulls for the first time. You wonder how many
+people have died at the whim of this god and hope to not be one of those victims
+yourself. An ancient, forgotten god of mischief says, 'Come back when you are
+able and we shall have some more fun' and gives you a gleeful smile that makes
+you happy to hurry from the room.
+~
+#38822
+Quest for Th dagger part 2: Dagger of Lies from Loki~
+The ancient, forgotten god of mischief looks at you as you
+approach. He says, 'I knew you would be back. Few are 
+those that can resist the rewards I offer. And fewer still
+are those that survive my challenges.
+
+For your next adventure I want you to hunt down the upstart
+who calls himself Loki. He calls himself a god of mischief
+and a prankster, but he is just a young pup who is only a few 
+millennia old. Teach him a lesson by taking his Dagger of Lies
+from him. 
+~
+Aquire the Dagger of Lies from Loki by any means
+and return it to the wizened figure in your
+guild hall.
+~
+45 60 142614488 100 30 45
+G 38814
+P 38821
+O OBJ 2829
+R SPELL 75
+The ancient, forgotten god of mischief looks over the dagger you
+passed to him. 'Excellent,' he says. 'Without his dagger Loki
+will be reduced to simple parlor tricks in his efforts to play with
+mortals. It gives me no small pleasure to play a trick on the self-
+styled trickster. Go! Return later and I will have more for you to do.'
+~
+#38823
+Quest for Th dagger part 3: Prism of bending and head of Lord Mourning, the 6th Pirate Lord~
+The ancient figure chained here seems to be waiting for
+you as you enter the room. 'I have another task for you. Around
+the ocean exist a group of pirates that call themselves the Pirate
+Lords. One of them stole something of value to me, and I want
+it back. Find the secret 6th Pirate Lord. Bring me his head and
+the jewel he holds.'
+~
+Find the 6th Pirate Lord of the high seas. Cut off his
+head and return the head and the prism of bending
+to the ancient god captive in the thief guild.
+~
+45 60 142614488 100 30 45
+G 38814
+P 38822
+O MOB 22932
+O OBJ 22934
+R GOLD 1
+The familiar figure looks up as you enter the room. You see a 
+calculating look in his eye as you hand him the prism of bending.
+You start to wonder if this ancient figure really means to reward
+you with anything of value for the tasks you have performed.
+~
+#38824
+Quest for Th dagger part 4: Dagger of Vengeance and head from Hiddukel in Abyss~
+You think twice about what you are doing as you reenter the secret
+room in the guild. You were told this figure was an ancient god. Yet
+he remains chained in this room. There is definitely something different
+about the figure, but you begin to wonder if he can truly give you an 
+item of value like he led you to believe. You begin to wonder what his
+exact words really were.
+
+'Ah, back again so soon! You must be eager indeed for the next task.
+In the bottom of the dark Abyss resides a demon thief named Hiddukel,
+the Prince of Lies. You will need to bring me his dagger, and his head
+of course.'
+~
+~
+45 60 142614488 200 30 45
+G 38814
+P 38823
+O MOB 2716
+O OBJ 2714
+R GOLD 5
+As you hand over the powerful Dagger of Vengeance you can't help but
+wonder if you are being played for a fool. You have traveled all over the
+world running dangerous tasks and barely survived this last one. Yet all
+you have to show for it is empty promises and a handful of gold.
+~
+#38825
+Quest for Th dagger part 5: Quest for a dark indigo dagger named Bittertongue and head of Thief of Lore in CoH~
+As you enter the dark, cavernous room once again you wonder why you
+are doing this. You are one of the best thieves in the business. Yet here
+you are running dangerous errands. You think about turning around and
+walking away but decide to give the ancient figure one more chance to
+be straight with you.
+
+'There is a legendary thief that makes her home in the Cavern of Heroes. 
+Yes, she is even better than you think you are. Over the centuries she has 
+stolen the knowledge and secrets of countless wise men and sorcerers. And 
+with that knowledge she has created a most unusual dagger. For your next quest, 
+bring me her precious dagger so I may study it. I don't care how you go
+about getting her dagger. Just do it!'
+~
+Find a way into the Cavern of Heroes and return with the dagger from the Thief of Lore.
+~
+45 60 142614488 200 30 45
+G 38814
+P 38824
+O OBJ 35032
+R GOLD 7
+You hand over the dark indigo dagger named Bittertongue and wait expectantly.
+Surely now you are done. You have spent much time learning how to gain 
+entry to the Cavern of Heroes and watched some of your companions die in the
+attempt to gain this dagger.
+
+The ancient figure barely looks up as you enter. 'Leave the dagger over there
+in the usual spot.' You wait expectantly for something more, but the ancient
+figure acts like you are not even there. You storm from the room resolving that
+you are done running quests for this mad man.
+~
+#38826
+Quest for Th dagger part 6: Quest for the Blazing Eyes of Txachamitxchual~
+After storming from the room the last time you ran a near fatal errand for the
+unusual figure apparently imprisoned in the guild, you decided to do a little
+research on your own. Using up several valuable favors and blackmailing 
+the right people, you were able to discover some of the most famous thieves
+in history had dealings with that creature but that lesser thieves had given up
+in disgust. You think you may be on to something and determine that you
+will continue to see these foolhardy missions though and see what game the
+ancient being is really playing.
+
+The now familiar figure looks down from contemplating the ceiling as you
+enter his hidden room. 'About time you returned. Your next task is waiting
+for you. The Priest King of Xchantharus has looked into the face of chaos
+itself, and while it has driven him mad, it has also imbued him with very
+unusual and great powers. Go and slay him and bring me his head and eyes, 
+so that I might know what he has seen!'
+~
+Fight your way to the Priest King of Xchantharus and retrieve his head
+and eyes. You know this will not be an easy task.
+~
+45 60 142614488 200 30 45
+G 38814
+P 38825
+O MOB 31500
+O OBJ 31503
+R EXP 13
+You return covered in gore and hand over the head of the Priest King of 
+Xchantharus dripping with blood. Within the sunken face the eyes still glow
+a deep red with their own inner light. You hope to never again see a place gone 
+as mad as the land you just left.
+
+The mysterious figure plucks the eyes from the severed head you brought him
+and somehow inserts them into his own eye sockets. He looks around with eyes
+that now glow the same fierce red as they did when you last saw them in the 
+Priest King's head. 'Amazing! To think that he was able to see so much and not
+die instantly! 'He looks over at you and trails off in a thoughtful 'Hmmmm...'
+before looking away. 'You may go now!'
+~
+#38827
+Quest for Th dagger part 7: Retrieve a Shimmering Cube~
+As you enter the familiar room of stone, the ancient chained figure
+looks up at you with a look you have not seen before. In the past he
+had looked insane and barely there. Now his eyes pierce right through
+you and you sense an awful power and intelligence behind them. You
+can believe those stories that this being might indeed be an ancient god.
+
+'You have completed the tasks I set before you. You have shown true
+cunning and skill as a thief with no assurances of any reward for risking
+your life. I have one final task for you and then I shall give you a reward
+that will aid you in your adventures and be an example of your skill to
+those who matter. But to make that item I need an object of great power
+called a shimmering cube. It is protected by a magical guardian that
+wanders this world and hides in dangerous places to protect the
+cube. Bring the cube to me, and you shall have your reward.'
+~
+Search the land for the mysterious guardian and return with a shimmering 
+cube of power.
+~
+45 60 134225880 50 30 45
+G 38814
+P 38826
+O OBJ 18198
+R OBJ 38850
+You hand over the shimmering cube of power that you took from the
+corpse of the dead guardian you spent months tracking down. The
+power of the cube is obvious as it seems to distort the very fabric of
+reality around it.
+
+The ancient figure pulls out the various daggers of power you had
+given him and carefully places them in the cube of power. 'The 
+heads were for my own collection, but these daggers combined with
+the pure chaos of the eyes of Xchantarus and the magic of the cube
+will create an object of incredible power.'
+
+There is a brilliant &14flash&00 that temporarily blinds you! As your sight
+the black flag you see the ancient figure holding out a shimmering dagger
+to you. As you take the dagger you can feel the power running through
+the hilt and down the blade. 'This is for the amusement you have
+provided me and the determination you showed when lesser thieves
+would have given up.' With that the figure turns from you and resumes
+the pose he seems to favor. You have no doubts now that the rumors
+were true and this ancient god does indeed stay just to cause mischief
+and not due to any chains forged by mortal hands. Shaking your head
+with wonder you leave the room and the being that almost got you killed
+several times. 
+~
+$~

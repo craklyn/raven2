@@ -1,0 +1,167 @@
+#8800
+P W 0~
+hogweed giant~
+the Giant Hogweed~
+The Giant Hogweed grows here.
+~
+   The biggest weed you have ever seen in your life stands before you.  The
+feeling of hunger pours forth from him and hits your mind with a strong impact.
+Blood drips from his leaves and very jagged vines grow forth from his twisted
+plant body.    
+~
+254014 0 0 0 5374120 0 0 0 0
+50 -10 -20 1d1+12000 10d15+65
+80 90
+9 9 0 3 -1 -1
+#8801
+P W 0~
+hogweed large~
+a large hogweed~
+A large hogweed grows here.
+~
+   This weed stands almost 8 feet high.  It is covered in the dried blood of an
+unfortunate citizen of this damned village.  It has yet to sate an undying
+appetite and searches for more living prey.    
+~
+254060 0 0 0 1310760 0 0 0 0
+42 -2 -5 1d1000+4500 12d3+36
+65 75
+9 9 0 2 10 15
+#8802
+P W 0~
+hogweed big~
+a big hogweed~
+A big hogweed grows here.
+~
+   A big weed indeed!  This weed is the size of a large humanoid.  It makes an
+enchanting whispering sound as it moves around.    
+~
+122988 0 0 0 32 0 0 0 0
+35 5 -3 1d500+3750 10d3+30
+50 60
+9 9 0 17 15 2
+#8803
+P W 0~
+hogweed~
+a hogweed~
+A hogweed grows here.
+~
+   This weed stands almost 4 feet tall and moves in a very unplant-like
+manner.
+~
+127052 0 0 0 0 0 0 0 0
+35 7 -1 1d500+2750 10d3+25
+50 60
+9 9 0 2 15 17
+#8804
+P C 0~
+hogweed small~
+a small hogweed~
+A small hogweed grows here.
+~
+   A younger version of the other hogweeds.  This one hasn't reached maturity
+yet, but it still looks hungry.  The younger hogweeds have the uncanny ability
+to give their life force to the more matured hogweeds.  Once this weed grows to
+adulthood, it will loose this ability forever.    
+~
+61516 0 0 0 537003048 0 0 0 0
+19 9 1 1d500+1000 10d3+20
+50 60
+9 9 0 2 3 15
+#8805
+P C 0~
+hogweed seedling~
+a hogweed seedling~
+A hogweed seedling grows here.
+~
+   Barely out of the ground yet still moving around and looking for food.  
+Its leaves look razor sharp.  Young hogweeds have the ability to heal their
+plant brethren.  This ability is lost once it reaches adulthood.  Although,
+once the seedling should reach adulthood, it becomes a much more fierce
+opponent.    
+~
+53324 0 0 0 537003048 0 0 0 0
+9 11 3 2d100+400 10d3+15
+40 40
+9 9 0 3 -1 -1
+#8806
+H W 0~
+man husband parent~
+a man~
+A man cowers here with his wife and child.
+~
+   He shudders as you approach him and meets your eyes with a gaze filled
+with fear.
+~
+4106 0 0 0 0 0 0 0 500
+29 0 0 2d100+500 1d10+20
+40 40
+9 9 1 0 -1 -1
+#8807
+H T 0~
+woman wife parent~
+a woman~
+A woman cowers here with her husband and child.
+~
+   She turns away and pulls closer to her child as you approach her.
+~
+4106 0 0 0 0 0 0 0 500
+29 0 0 1d100+500 1d10+20
+40 40
+9 9 2 0 -1 -1
+#8808
+H W 0~
+child~
+a child~
+A child hides behind his parents.
+~
+   He screams and runs behind his parents as you approach him.
+~
+10 0 0 0 0 0 0 0 600
+1 0 0 1d10+10 1d5+0
+35 40
+9 9 1 0 -1 -1
+#8809
+H W 0~
+shopkeeper~
+a shopkeeper~
+A shopkeeper looks suprised that you can see him.
+~
+   He quickly adjusts to the fact that you can see him and offers
+you his wares.
+~
+59402 0 0 0 132138 0 0 0 650
+50 -5 -15 1d1000+7500 20d5+10
+80 90
+9 9 1 0 -1 -1
+#8810
+H W 0~
+a gigantic hogweed~
+a gigantic hogweed~
+a gigantic hogweed blocks the path to the town.
+~
+   This hogweed blocks the path to the town because only shadow dancer's are
+worthy to go any further.    
+~
+17031194 0 0 0 1082556 0 0 0 0
+51 -30 -20 1d200+30000 100d100+100
+90 100
+9 9 0 0 -1 -1
+#8811
+H W 0~
+blacksmith village~
+the village blacksmith~
+The village blacksmith is preparing to "weed the garden".
+~
+   The village blacksmith, the only man tough enough to face the hogweed
+invasion, searches for the brutal beasts.  He is an enormous man and it is
+quite evident he has been swinging forging hammers his entire life.  Armed only
+with the tools of his trade, he hunts down the hogweed invaders with a
+vengeance few could understand.    
+~
+24776 0 0 0 128 0 0 0 450
+38 3 -2 20d20+5000 2d2+5
+50 60
+9 9 1 0 -1 -1
+Z 8801
+$

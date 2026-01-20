@@ -1,0 +1,459 @@
+#12501
+Dark passage~
+  A rusty ladder leads up here.  A dark passage runs south.
+~
+125 32781 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12502
+D4
+~
+trap door crate~
+1 -1 12206
+S
+#12502
+Dark Passage~
+  You stand in a dark passage leading north and south.
+~
+125 32781 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12501
+D2
+~
+~
+0 -1 12503
+S
+#12503
+Dark cave~
+  This cave is barely lit by flickering torches on walls.  From the footprints
+on the floor, it appears that a lot of traffic comes through here.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12502
+D1
+~
+~
+0 -1 12504
+D2
+~
+~
+0 -1 12506
+S
+#12504
+Dark cave~
+  This cave is barely lit by flickering torches on walls.  From the footprints
+on the floor, it appears that a lot of traffic comes through here.
+~
+125 32776 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12507
+D3
+~
+~
+0 -1 12503
+S
+#12505
+Wide Passage~
+  This is a wide hall that exits to the south and the east.
+~
+125 32780 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12506
+D2
+~
+~
+0 -1 12510
+S
+#12506
+Dark cave~
+  This cave is barely lit by flickering torches on walls.  From the footprints
+on the floor, it appears that a lot of traffic comes through here.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12503
+D1
+~
+~
+0 -1 12507
+D3
+~
+~
+0 -1 12505
+S
+#12507
+Dark cave~
+  This cave is barely lit by flickering torches on walls.  From the footprints
+on the floor, it appears that a lot of traffic comes through here.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12504
+D2
+~
+~
+0 -1 12511
+D3
+~
+~
+0 -1 12506
+S
+#12508
+the Fencing room~
+  This room is empty save for a simple wooden desk.  It looks like someone
+does business here.
+~
+125 32780 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12512
+S
+#12509
+Meal Hall~
+  You stand in the middle of a large Hall filled with festive thieves
+celebrating their latest haul.
+~
+125 32776 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12510
+D2
+~
+~
+0 -1 12514
+S
+#12510
+Meal Hall~
+  You stand in the middle of a large Hall filled with festive thieves
+celebrating their latest haul.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12505
+D2
+~
+~
+0 -1 12515
+D3
+~
+~
+0 -1 12509
+S
+#12511
+Passageway~
+  Flickering torches light the passage here.  The floor is hard-packed and
+covered with reeds.  It looks like someone comes through here a lot.  The
+passage continues to the east.
+~
+125 32780 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12507
+D1
+~
+~
+0 -1 12512
+S
+#12512
+Passageway~
+  Flickering torches light the passage here.  The floor is hard-packed and
+covered with reeds.  It looks like someone comes through here a lot.  The
+passage continues to the west.
+~
+125 32780 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12508
+D1
+~
+~
+0 -1 12513
+D2
+~
+~
+0 -1 12516
+D3
+~
+~
+0 -1 12511
+S
+#12513
+Sleeping Chamber~
+  Bunks line the walls of this room.  People may sleep here when they can't
+sleep in a more reputable area.  Probably wouldn't have any items when you
+woke up though...
+~
+125 32780 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12512
+E
+paper~
+  Nord,
+       remember the secret door is by the cliff on the path to the east of
+town.  Don't forget to have the key on you today.
+
+                                               -the Honorable Man
+~
+E
+bunks bunk~
+  There is a scrap of paper under one of them.
+~
+S
+#12514
+Meal Hall~
+  You stand in the middle of a large Hall filled with festive thieves
+celebrating their latest haul.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12509
+D1
+~
+~
+0 -1 12515
+D2
+~
+~
+0 -1 12518
+S
+#12515
+Meal Hall~
+  You stand in the middle of a large Hall filled with festive thieves
+celebrating their latest haul.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12510
+D2
+~
+~
+0 -1 12519
+D3
+~
+~
+0 -1 12514
+S
+#12516
+Antechamber~
+  This room is a small room that has two exits.  One leads north into the hall
+again, and the other to the east.
+~
+125 32780 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12512
+D1
+~
+~
+0 -1 12517
+S
+#12517
+Training room~
+  This looks like a training area for up and coming thieves.
+~
+125 32780 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12516
+S
+#12518
+Meal Hall~
+  You stand in the middle of a large Hall filled with festive thieves
+celebrating their latest haul.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12514
+D1
+~
+~
+0 -1 12519
+S
+#12519
+Meal Hall~
+  You stand in the middle of a large Hall filled with festive thieves
+celebrating their latest haul.  There is a large iron door to the south.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12515
+D2
+~
+iron door~
+1 -1 12521
+D3
+~
+~
+0 -1 12518
+E
+iron door~
+  There must be a key around here somewhere...
+  Maybe on the other side of the door...
+  Maybe there is another way to get over there...
+  Maybe a back entrance?
+  Naaaah, why would a thief want a back way out....  :)
+~
+S
+#12520
+Bedroom~
+  This looks like the bedroom of the master of the Thieves Guild.  Priceless
+objects line the walls, and imported rugs cover the floor.
+~
+125 32776 0 0 0 0 255 0
+D2
+~
+door~
+1 -1 12523
+S
+#12521
+Passageway~
+  Flickering torches light the passage here.  The floor is hard-packed and
+covered with reeds.  It looks like someone comes through here a lot.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+door iron~
+2 -1 12519
+D1
+~
+~
+0 -1 12522
+S
+#12522
+Passageway~
+  Flickering torches light the passage here.  The floor is hard-packed and
+covered with reeds.  It looks like someone comes through here a lot.  There is
+a heavy wooden door to the south.
+~
+125 32776 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12523
+D2
+~
+wooden door~
+1 -1 12526
+D3
+~
+~
+0 -1 12521
+S
+#12523
+Passageway~
+  Flickering torches light the passage here.  The floor is hard-packed and
+covered with reeds.  It looks like someone comes through here a lot.  There is
+a heavy wooden door to the north.
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+wooden door~
+1 -1 12520
+D1
+~
+~
+0 -1 12524
+D3
+~
+~
+0 -1 12522
+S
+#12524
+Dark Passage~
+  The passage continues sloping downwards to the west.  You can see some lights
+there.  To the East, the passage seems to disappear into the darkness.
+~
+125 32777 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12525
+D2
+~
+door~
+1 -1 12527
+D3
+~
+~
+0 -1 12523
+S
+#12525
+Dark Passage~
+  To the west, the passage slopes down far into the earth.  The ground here is
+covered with the tracks.  To the East, the passage ends in a stone door.
+~
+125 32781 0 0 0 0 255 0
+D1
+~
+stone granite~
+1 -1 12128
+D3
+~
+~
+0 -1 12524
+S
+#12526
+Meeting room~
+  A semi-circle of chairs lines the edge of the room.  The room is barely
+light enough to see, and the room deadens any whispers...
+~
+125 32776 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 12522
+S
+#12527
+Epee Alcove~
+  This alcove looks surprisingly friendly, and there is a couch here, and a
+cheerful fire burning.  A sign is here.
+~
+125 32781 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 12524
+E
+sign~
+                       The Freehold Thieves Guild
+
+                          brought to you by....
+
+                        -=> The Epee Artist <=-
+~
+S
+$~

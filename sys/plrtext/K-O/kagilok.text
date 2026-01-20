@@ -1,0 +1,49 @@
+f clan $*
+re c 'word' $*
+1 c 'rev' mig
+nec  necropolis > 8s3e2sd30es6e '
+` emote says, &15 '$* '&00
+zz c 'rev' mandi
+fort c 'fort' $*
+cb c 'cure blind' $*
+rpp c 'remove para' $*
+arm c 'armor' $*
+h c 'heal' $*
+ert c 'earthquake' $*
+remc c 'remove curse' $*
+gt gt &08]&10|&11[&09$*&00 &08]&10|&11[&00
+ward c 'ward' $*
+bless c 'bless' $*
+fly c 'fly' $*
+reg c 'regen' $*
+cl c 'cleanse' $*
+blis c 'bless' $*
+uh c 'unholy word' $*
+remp c 'remove p' $*
+cm c 'calm' $*
+cp c 'cure plag' $*
+cov w;w;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;n;w;n;w;n;n
+z c 'revive' digwill
+infra c 'infra'
+sanc c 'sanc' $*
+harm c 'harm' $*
+as c 'assist' 
+bl c 'blindness' $*
+saga c 'saga' $*
+calm c 'calm' $*
+lin c 'earth' 
+df c 'demon fire' $*
+hart c 'dishear' $*
+bb c 'banish' $*
+align c 'detect align' $*
+det c 'detect invis' $*
+r c 'revive' $*
+relo c 'relocate' $*
+tit1 title Cleric of the &08S&10i&11x&00 Paths
+kaon c 'create food'
+tubig c 'create spring'
+x c 'rev' lit
+ssl c 'sense'
+male c 'male' $*
+sum c 'summon' $*
+dis cast 'dishearten' $*

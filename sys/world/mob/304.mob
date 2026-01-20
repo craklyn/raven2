@@ -1,0 +1,321 @@
+#30401
+E T 0~
+elven gate guard~
+an Elven Guard~
+An Elven Guard stands here.
+~
+The Elven guards are slightly larger than their civilian counterparts.
+They are a force to be reckoned with.  They stand here, ever watching 
+out for any signs of trouble.
+~
+188442 0 0 0 1064 0 0 0 1000
+35 20 10 5d5+1000 1d6+1
+50 60
+9 9 0 0 -1 -1
+#30402
+E W 0~
+elven citizen~
+the citizen~
+A FairHaven citizen strolls by.
+~
+The Elven citizen is typical of most elves, lithe and slender.  Pointed 
+ears and almond-colored eyes also mark them as elven.  They walk about
+with confidence and in a serene manner.
+~
+16396 0 0 0 1064 0 0 0 1000
+35 20 10 5d5+150 1d6+1
+50 60
+9 9 1 0 -1 -1
+#30403
+E W 0~
+elven citizen~
+the citizen~
+A FairHaven citizen strolls by.
+~
+The Elven citizen is typical of most elves, lithe and slender.  Pointed 
+ears and almond-colored eyes also mark them as elven.  They walk about
+with confidence and in a serene manner.
+~
+16396 0 0 0 1064 0 0 0 1000
+35 20 10 5d5+200 1d6+1
+50 60
+9 9 2 0 -1 -1
+#30404
+E W 0~
+elven soldier~
+the Elven Soldier~
+An Elven soldier strolls by, keeping an eye out for trouble.
+~
+The Elven soldier is a member of one of the elite fighting forces in the
+realms. Trained and skilled in every aspect of combat, he patrols the 
+streets of his City when not in training or war.
+~
+16396 0 0 0 1064 0 0 0 1000
+35 20 10 5d5+500 1d6+1
+50 60
+9 9 1 0 -1 -1
+#30405
+E W 0~
+chief sheriff elven~
+the Sheriff~
+A tough-looking elf sits behind the desk, writing out reports on conduct.
+~
+Once the battlemaster for the Elite Guardians, the Chief decided that it
+was time for him to retire.  Upon coming back home, he was received as a 
+hero and offered the position as the Chief of the Elven Guards.  Now, as the
+new Chief, he is busy getting accustomed to the slower pace of guarding the
+Elven City.
+~
+542734 0 0 0 1064 0 0 0 1000
+35 20 10 5d5+1500 1d6+1
+50 60
+7 9 1 0 -1 -1
+#30406
+E W 0~
+soldier elven~
+the Elven Soldier~
+An elven soldier rests here, awaiting for the next rotation of duty.
+~
+The Elven soldier is a member of one of the elite fighting forces in the
+realms.  Trained and skilled in every aspect of combat, he rests here, 
+waiting for his turn to take up the watch over the city.
+~
+542734 0 0 0 1064 0 0 0 1000
+30 20 10 5d5+1000 1d6+1
+50 60
+7 9 1 0 -1 -1
+#30407
+E W 0~
+elven maiden~
+the Elven Maiden~
+An Elven maiden walks by, enjoying the weather outside.
+~
+Tall and slender, the Elven maiden take the time to enjoy the weather.
+Walking with long strides, they cover ground with grace and ease.  
+~
+16396 0 0 0 1064 0 0 0 1000
+30 20 10 5d5+500 1d6+1
+50 60
+9 9 2 0 -1 -1
+#30408
+E W 0~
+warden elven~
+the Warden~
+The Warden sits here, tending to some very important business.
+~
+The Warden is busy at work, sorting through some very important 
+documents before him. He pauses for a second as you enter the room 
+then returns to his work.
+~
+542734 0 0 0 1064 0 0 0 1000
+35 13 10 5d5+2000 1d6+1
+50 60
+7 9 1 0 -1 -1
+#30409
+E W 0~
+elven receptionist~
+the Receptionist~
+A small pleasent looking woman smiles as you enter.
+~
+The brightness of her smile must be what makes this room so pleasent.
+Flowers cover her desk and seem to follow her as she moves.
+~
+542878 0 0 0 1064 0 0 0 1000
+35 20 10 5d5+500 1d6+1
+50 60
+7 9 2 0 -1 -1
+#30410
+E W 0~
+jailer elven~
+the Jailer~
+The Jailer is resting his eyes here.
+~
+A small smile seems to play across his mouth, as the Jailer
+dreams of better times in better places.
+~
+16522 0 0 0 1064 0 0 0 1000
+25 20 10 5d5+500 1d6+1
+40 40
+6 9 0 0 -1 -1
+#30411
+E W 0~
+elven prisoner~
+the prisoner~
+The crazed prisoner jumps at you.
+~
+He wants OUT!
+~
+22588 0 0 0 1064 0 0 0 500
+25 20 10 1d1+100 1d3+0
+40 40
+9 9 1 0 -1 -1
+#30412
+E A 0~
+elven executioner~
+the Executioner~
+The Executioner narrowly misses you with his axe!
+~
+The Executioner is constantly perfecting swing, best stay out of his
+way!  He is quite good most of the time, but occasionally misses,
+hence he can prove dangerous to hang around.    
+~
+542734 0 0 0 1064 0 0 0 -500
+35 10 -5 1d1+2000 10d10+30
+50 60
+9 9 1 0 -1 -1
+#30413
+E W 0~
+elven wall guard~
+the Guard~
+The Guard gazes over the land looking for any signs of trouble.
+~
+This fellow is a member of one of the best Law Enforcement Agencies on the
+continent. Dedicated, loyal, efficient, he is the epitome of Truth, Justice
+and the Elven way.
+~
+542750 0 0 0 1064 0 0 0 1000
+25 20 10 5d5+1500 1d6+1
+40 40
+9 9 1 0 -1 -1
+#30414
+E W 0~
+archer elven~
+the Archer~
+The Elven Archer never looks your way, but you know she sees you.
+~
+With eyes of a hawk, and hands guided by the Elven Spirit, this
+noble archer serves as the first line of defense against an attack.  
+Her reflexes honed sharper than wyvern's claws, and her great strengh,
+this archer could fell you before you got to within earshot of her.
+~
+542748 0 0 0 1064 0 0 0 1000
+25 20 10 5d5+1500 1d6+1
+40 40
+9 9 2 0 -1 -1
+#30415
+E M 0~
+elven trapper~
+the Trapper~
+A Fur Trapper sells his wear here.
+~
+This elf is huge and smells as if he hasn't seen clean water in 6 months.
+~
+172058 0 0 0 1192 0 0 0 0
+50 5 -1 1d3000+1 8d7+50
+80 90
+9 9 1 0 -1 -1
+#30416
+E W 0~
+kaus cobbler elven~
+Kaus~
+Kaus the elven cobbler is busy replacing a heel on an old army boot.
+~
+A mouth full of small tacks and an intent look in his eyes, this
+elf hammers away at the heel of a well worn army boot.
+~
+188442 0 0 0 1064 0 0 0 0
+50 5 -1 1d3000+1 8d7+10
+80 90
+9 9 1 0 -1 -1
+#30417
+E W 0~
+larry elf fence~
+Larry~
+You hear a, PSSSSSST as you enter the room.
+~
+Hey kid! You want to buy some "HOT" merchandise?
+Let ol' Larry fix ya right up!
+~
+253982 0 0 0 1192 0 0 0 0
+50 5 -1 1d3000+1 8d7+10
+80 90
+9 9 1 0 -1 -1
+#30418
+E R 0~
+bard wander~
+the bard~
+A wandering bard fills the air with song.
+~
+Just a happy elf with a song in his heart.
+~
+12 0 0 0 0 0 0 0 1000
+30 20 10 5d5+1000 1d6+1
+50 60
+9 9 1 0 -1 -1
+#30419
+E R 0~
+elven ranger~
+the elven ranger~
+A Ranger wanders idly past you.
+~
+This elven ranger feels more at home in the tress than he does
+in the big city.
+~
+12 0 0 0 1064 0 0 0 1000
+30 10 10 5d5+1500 2d15+15
+50 60
+9 9 0 0 -1 -1
+#30420
+A R 0~
+deer doe~
+the doe~
+A small deer wanders past.
+~
+Soft brown fur and huge brown eyes make you just want to hug her.
+~
+8 0 0 0 263208 0 0 0 1000
+30 20 10 5d5+1500 1d6+1
+50 60
+9 9 2 0 -1 -1
+#30421
+A R 0~
+possum~
+the possum~
+An ugly grey creature glares at you.
+~
+Huge bug eyes, grey matted fur and a long scaley tail, makes this
+creature one of the ugliest you have seen.
+~
+12 0 0 0 263208 0 0 0 1000
+30 20 10 5d5+1500 1d6+1
+50 60
+9 9 0 0 -1 -1
+#30422
+A R 0~
+wolf~
+the wolf~
+A wolf watches you from the bushes.
+~
+Angry yellow eyes watch you with a very hungry stare.
+~
+12 0 0 0 0 0 0 0 0
+40 20 10 5d5+1500 6d1+1
+65 75
+9 9 0 0 -1 -1
+#30423
+A R 0~
+squirrel~
+the squirrel~
+A small squirrel runs past.
+~
+   A bushy tail.  Its back is brown and its lower parts yellowish-gray; it has
+a white chin and a white ring around each eye.  The head is stubby, with round,
+wide ears.  The legs are short.    
+~
+12 0 0 0 0 0 0 0 1000
+35 20 10 5d5+1500 2d6+1
+50 60
+9 9 0 0 -1 -1
+#30424
+A R 0~
+blue jay~
+the blue jay~
+A large Blue Jay flits from tree to tree.
+~
+Beautiful blue and white feathers adorne his body. 
+~
+190620 0 0 0 263228 0 0 0 1000
+35 20 10 10d10+1500 9d3+1
+50 60
+9 9 1 0 -1 -1
+$

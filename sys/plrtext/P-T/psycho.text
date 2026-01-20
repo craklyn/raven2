@@ -1,0 +1,37 @@
+99 cast 'remove poison' $*
+p scan
+12 cast 'assistant'
+cl clan $*
+fort cast 'fort' $*
+ward cast 'ward' $*
+2 cast 'sanc' $*
+9 drink thimble
+m cast 'earth' $*
+x ' OUT!!!!!!!!!!!!!!!!!
+[ cast 'armor' $*
+1 cast 'heal' $*
+8 cast 'fly' $*
+7 cast 'regen' $*
+= get all corpse
+6 cast 'summon' $*
+wa wake;stand
+- l in corpse
+5 cast 'sense' $*
+4 cast 'blind' $*
+3 cast 'detect inv' $*
+` cast 'word' $*
+\ cast 'infra' $*
+bless cast 'bless' $*
+para cast 'remove para' $*
+c cast 'chain lightning' %*
+hall d;e;e;e;e;e;e;e;e;e;n;' gs
+tit title the &08MAD&00 &11HEALER&00
+00 l in dup
+gt gt &12$*&00
+1000 put all dup;get all.sc dup;get thim dup;get boat dup
+f cast 'create food' $*
+fl flee
+cure cast 'cure blind' $*
+88 cast 'remove curse' $*
+z convert $*
+tt who -z

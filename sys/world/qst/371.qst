@@ -1,0 +1,315 @@
+#37101
+Black Bark~
+The protectors of this city are involved with heavy corruption.
+Find and &08KILL&00 on of these traitors!
+The ringleader wears armor that was forged in a forest.
+I want him DEAD. Bring me his head! Rip the armor from his corpse!
+Bring me these two items and you shall be rewarded.
+~
+Kill the creature that wears armor made from trees. Bring the severed head and armor to claim your reward.
+~
+1 50 8388608 25 60 15
+G 37104
+O MOB 37131
+O OBJ 37102
+R GOLD 250000
+For the job you shall receive proper payment.
+&10You receive 250,000 gold coins.&00
+~
+R QP 2
+Here is a little something extra for your troubles.
+&10You have been given 2 QP!&00
+~
+#37102
+Group Sanc/Haste/Fly Pots~
+Since I have your attention I have a side job for you.
+I can create items to aid in the fight against corruption.
+First, bring me a &12pink&00 potion, the BRIGHTER the better!
+Then find me a flower, one grown in the &09wild&00.
+Last, bring me a small secret. That will be handy indeed!
+~
+~
+40 50 8388608 30 60 15
+G 37104
+P 37101
+O OBJ 21234
+O OBJ 31253
+O OBJ 11528
+R GOLD 250000
+Here is some repayment to cover your expenses.
+&10You have received 250,000 gold coins.&00
+~
+R QP 2
+Here, take these. What can I do with them?
+&10You have been given 2 QP!&00
+~
+R OBJ 37150
+Congratulations! You can use this coin to redeem for rewards.
+If my assistant is alive during your visit, give it to him.
+
+Ichiga gives you a small coin engraved with an "&10E&00".
+~
+#37103
+Wooden Helmet~
+It seems your last task spread fear among the ranks.
+We need to strike again while there is still confusion!
+&08SLAY&00 another one of these traitors! BRING ME THEIR HEAD!
+I want the one who wears the red helmet DEAD!
+Bring me his helmet too!
+Do this and you shall be compensated.
+~
+Find and kill one of the protectors that wears a &00&01red&00 helmet. Bring back his head and helmet.
+~
+40 50 8388608 30 60 15
+G 37104
+P 37101
+P 37102
+O MOB 37131
+O OBJ 37106
+R GOLD 250000
+I believe this is a just amount for your trouble.
+&10You have received 250,000 gold coins.&00
+~
+R QP 2
+Perhaps I'll have some more of these if you come back later.
+&10You have been given 2 QP!&00
+~
+#37104
+Night Strikes~
+I am in need of another group of items to aide in the fight.
+Our soldiers need to strike under the cover of darkness!
+They need weapons that are just as silent.
+Bring me a potion that &00&07glows&00 like the moon!
+Then fetch a samurai sword that is &07black&00 as the night.
+Finally, it needs to be safe. Find me a potion that allows this!
+~
+Bring Ichiga a potion that &00&06glows&00 like the moon, a black samurai sword, and a potion that allows some safety.
+~
+40 50 8388608 30 60 15
+G 37104
+P 37101
+P 37102
+P 37103
+O OBJ 13931
+O OBJ 37161
+O OBJ 13824
+R GOLD 250000
+Here, this should cover at least some of your costs.
+&10You have received 250,000 gold coins.&00
+~
+R QP 2
+Here, take these as well. They may be of use to you.
+&10You have been given 2 QP!&00
+~
+R OBJ 37180
+Ichiga says, 'Congratulations! You have earned another token to redeem!
+If my slave is alive at the time of your next visit, give it to him.'
+
+Ichiga gives you a small token engraved with an "&10E&00".
+~
+#37105
+Capes/Backpack/Citizens~
+Fear is spreading like wildfire! You are cold blooded.
+Find another to &08KILL&00! All their ranks must DIE!
+KILL HIM SOON! Bring me his &09vegetative&00 cape!
+I also require a back pack. It must be &07black&00 as pitch.
+Return to me the head of that with &14white&00 eyes.
+Also return to me the head of that with &10yellow&00 eyes.
+~
+Bring Ichiga a &09vegatative&00 cape and the head of who wears it.
+Return a back pack that's &07black&00 as pitch, and the heads of those with &10yellow&00 and &14white&00 eyes.
+~
+40 50 8388608 30 60 15
+G 37104
+P 37101
+P 37102
+P 37103
+P 37104
+O MOB 37131
+O OBJ 37105
+O OBJ 37156
+O MOB 37101
+O MOB 37102
+R GOLD 250000
+Here, take these coins as payment.
+&10You have receieved 250,000 gold coins.&00
+~
+R QP 3
+You are well versed in this area it would seem. Accept these?
+&10You have been given 3 QP!&00
+~
+#37106
+Group Shadow Vision/Sanc/haste~
+You have proven yourself before. Time to do it again.
+I am in need of a potion gives more cover at night.
+Four items I need to begin production.
+Bring me a potion that &14fizzes&00.
+Next are some spices. They MUST be &14rare&00.
+A vial that glows &11blue&00 to mix it all in.
+And some fungus, preferably grown in a sewer.
+~
+~
+40 50 8388608 30 60 15
+G 37104
+P 37101
+P 37102
+P 37103
+P 37104
+P 37105
+O OBJ 33152
+O OBJ 12250
+O OBJ 3410
+O OBJ 13570
+R GOLD 250000
+This should cover your travel and purchases.
+&10You have received 250,000 gold coins.&00
+~
+R QP 3
+You are indeed well versed in the knowledge of this realm.
+&10You have been given 3 QP!&00
+~
+R OBJ 37181
+Ichiga says, 'Yet again. Here is another token.'
+Ichiga says, 'If my mistress is here on your next visit, give it to her.'
+
+Ichiga gives you a small stone engraved with an "&10E&00".
+~
+#37107
+Elites~
+The protectors and their ranks are in confusion!
+Now we will hit them INSIDE the city walls!
+Find and &08KILL&00 some of the higher ranking guards.
+I want THREE of them dead, TODAY! Bring me their heads.
+To add insult to injury bring me their razors too!
+I will sell them for extra gold to support the resistance!
+~
+Find and &08butcher&00 three elite elemental guards. Bring Ichiga their heads and weapons.
+~
+40 50 8388608 30 60 15
+G 37104
+P 37101
+P 37102
+P 37103
+P 37104
+P 37105
+P 37106
+O MOB 37195
+O MOB 37195
+O MOB 37195
+O OBJ 37190
+O OBJ 37190
+O OBJ 37190
+R GOLD 250000
+Here. Take this gold and keep quiet.
+&10You have received 250,000 gold coins.&00
+~
+R QP 2
+I also think these should suffice.
+&10You have been given 2 QP!&00
+~
+#37108
+Informational Tools~
+We have managed to capture one of their elite guards!
+He has information with regards to the night travelers.
+He is currently in a holding cell but WE WANT INFORMATION!
+Some tools will get this worthless scoundrel to talk.
+Bring me a dog collar. Yes! It must have some spikes!
+I also require a mask made of cloth. What else.....?
+AH! Bring me the venom of a spider! That should do the trick!
+~
+Bring Ichiga a mask made of cloth, the venom of a spider, and a spiked dog collar.
+~
+40 50 8388608 30 60 15
+G 37104
+P 37101
+P 37102
+P 37103
+P 37104
+P 37105
+P 37106
+P 37107
+O OBJ 12605
+O OBJ 31112
+O OBJ 1723
+R GOLD 250000
+Take some gold for your efforts.
+&10You have received 250,000 gold coins.&00
+~
+R QP 2
+You seem to enjoy these.
+&10You have been given 2 QP!&00
+~
+#37109
+Gulls~
+This job won't take you any time at all.
+I do not enjoy gulls. My mistress does not either.
+&08KILL&00 some of these pesky sky rodents for me?
+My...slave requires some attention.
+Otherwise I'd do it myself.
+~
+Kill two groups of gulls. Heartless....
+~
+40 50 8388608 5 60 15
+G 37104
+P 37101
+P 37102
+P 37103
+P 37104
+P 37105
+P 37106
+P 37107
+P 37108
+O MOB 37150
+O MOB 37150
+R GOLD 250000
+Here, take this as payment.
+&10You have received 250,000 gold coins.&00
+~
+R QP 1
+This wasn't a very difficult job was it?
+&10You have been given 1 QP!&00
+~
+#37110
+Dragon's Flame~
+Our captive is much more resistant than we thought.
+Drastic times call for drastic measures I heard once.
+Perhaps we will introduce our friend to &08D&10r&08a&10g&08o&10n&08s&07Breath&00!
+I will need a dragon's soul. For spiritual cleansing.
+There is a helm shaped like the head of dragon. Find it!
+I will also require a black dragon claw and a set of dragon's feet!
+Then we shall see if our friend will talk.
+~
+~
+40 50 8388608 30 60 15
+G 37104
+P 37101
+P 37102
+P 37103
+P 37104
+P 37105
+P 37106
+P 37107
+P 37108
+P 37109
+O OBJ 18434
+O OBJ 18417
+O OBJ 2723
+O OBJ 8301
+R GOLD 250000
+Here, this should suffice.
+&10You have received 250,000 gold coins.&00
+~
+R EXP 1000000
+We have been doing business for quite some time now!
+&14You have received 1,000,000 experience points.&00
+~
+R QP 4
+This is for your dedication to the cause.
+&10You have been given 4 QP!&00
+~
+R OBJ 37183
+Ichiga says, 'Again! Another one! Redeem with my assistant...if he is alive at the time of your visit.'
+
+Ichiga gives you a small spark.
+~
+$~

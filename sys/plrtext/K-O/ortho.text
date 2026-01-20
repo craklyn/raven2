@@ -1,0 +1,7 @@
+sum c 'summon' $*
+gt gt &06$* &00
+say say &03<&00&02+&00&03>&00&11$*&00 &03<&00&02+&00&03>&00
+soul c 'soul'
+age c 'age'
+bl c 'bli' $*
+nox c 'nox'

@@ -1,0 +1,123 @@
+#12801
+N W 0~
+monster stage 1~
+a stage 1~
+A small nasty monster is here attempting to eat you.
+~
+The monster is small, about the size of a large dog, with rows of sharp teeth,
+and a hard exo-skeleton.
+~
+3884 0 0 0 394248 0 0 0 0
+32 8 2 1d1500+1750 9d8+10
+50 60
+9 9 1 8 4 -1
+#12802
+N W 0~
+monster stage 2~
+a stage 2~
+A large nasty monster is here attempting to eat you.
+~
+Tall, about 5'5", with heavy chitinous armor; long, razor-sharp claws, and
+dark brown coloring, the monster lumbers slowly towards you.
+~
+3884 0 0 0 394248 0 0 0 0
+39 5 1 1d3000+3000 9d10+15
+50 60
+9 9 1 8 4 -1
+#12803
+N M 0~
+monster stage 3~
+Stage 3~
+A humanoid version of those horrid monsters is standing here smiling at you.
+~
+The monster smiles a toothless, lipless smile freezing your blood.
+~
+747326 0 0 0 4392104 3072 0 0 -700
+50 -10 -15 75d10+21500 9d8+65
+80 150
+9 9 1 12 19 -1
+#12805
+P W 0~
+flower plant~
+Flower~
+A potted flower is sitting here.  Wait a second!!! It Has TEETH!
+~
+A very toothy plant is sitting here waiting for its next victim.
+~
+42 0 0 0 8 0 0 0 0
+35 10 3 1d1200+1970 8d7+5
+50 60
+9 9 0 4 -1 -1
+#12806
+A W 0~
+beetle~
+Beetle~
+A small beetle is on the ground here.
+~
+You bet that you could crush this beetle with a simple stomp of your foot.
+~
+12 0 0 0 8 0 0 0 0
+15 5 8 2d50+1 2d5+2
+35 40
+9 9 0 1 -1 -1
+#12807
+H M 0~
+student~
+student~
+A student of the keep is here, passed out from exhaustion and fright.
+~
+He is obviously not going to be of much help.
+~
+158 0 0 0 0 0 0 0 0
+25 10 3 1d420+597 3d5+10
+40 40
+4 4 0 0 -1 -1
+#12808
+G W 0~
+stone golem~
+Golem~
+A Stone Golem stands here as a lone sentinel still guarding its dead masters.
+~
+Made from granite, the golem looks very tough, and its fists look very hard.
+~
+4106 0 0 0 8 0 0 0 0
+41 -10 -1 3d30+5260 4d7+24
+65 75
+9 9 0 13 6 18
+#12809
+N M 0~
+demon~
+demon~
+A Demon stands here, trapped within the pentagram.
+~
+The demon is red, with red skin, pointed ears, and yellow teeth.
+~
+10 0 0 0 8 0 0 0 -800
+39 -10 0 1d1200+3235 3d6+30
+50 60
+9 9 1 12 4 -1
+#12810
+H M 0~
+mage~
+mage~
+A frightened mage is here hiding to protect his life.
+~
+The mage starts babbling nonsense, and you can't get him to shut up.
+~
+30 0 0 0 8 0 0 0 -800
+35 -5 1 1d1200+1900 2d8+20
+50 60
+9 9 1 0 -1 -1
+#12811
+F M 1~
+fire elemental~
+Fire Elemental~
+A Fire Elemental is providing heat instead of a fire.
+~
+He looks a little hot under the collar...
+~
+10 0 0 0 8 0 0 0 0
+39 -10 0 1d12+4235 3d6+35
+50 60
+9 9 1 12 -1 -1
+$

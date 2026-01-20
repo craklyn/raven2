@@ -1,0 +1,50 @@
+sac gt &08S&00&01A&08C&00&01R&08I&00&01F&08I&00&01C&08I&00&01N&08G&13!&00 &12im Paralyzed for 2 ticks&08!&00;c 'sacrifice'$*
+- title &01:&14Holy Priest&00&01 of the &03O&07R&00&03D&07ER&00.
+' c 'word'$*
+relo c 'relocate'$*
+r c 'revive'$*
+sl sl;gt &08<&11<&08<&14 SLEEPING &08>&11>&08>&00
+dis c 'dishearten'$*
+sag c 'sagacity'$*
+calm c 'calm'$*
+ass c 'assistant
+chain c 'chain lightning'$*
+ban c 'banish'$*
+gt gt &08<&11<&08<&10$* &08>&11>&08>&00
+fort c 'fortify'$*
+sanc c 'sanctuary'$*
+1 c 'remove para'$*
+ear c 'earthquake
+harm c 'harm'$*
+] destroy 1.
+infr c 'infr
+sen c 'sense'$*
+h c 'heal'$*
+armor c 'armor'$*
+ward c 'ward'$*
+food c 'create food
+sum c 'summon'$*
+= auc -info
+reg c 'regen'$*
+remo c 'remove curse'$*
+cure c 'remove poison'$*
+blind c 'blind'$*
+fly c 'fly'$*
+det c 'detect inv'$*
+say EM Flirts, '&08$*&00 '
+strike em rubs a balloon on his hair for static elecricity.;c 'call lightning'$*
+flame c 'flame strike'$*
+cl c 'cleanse'$*
+bless c 'bless'$*
+[ wa;st
+p get all all.nav; wear all
+o order followers$*
+mal c 'maledict'$*
+clan clan &13$* &11
+cb c 'cure blind'$*
+\ dro lucky;get lucky
+mi open fanny;get magic fanny;close fanny;mix $* Magic
+mix get magic fanny;Mix $* magic
+scan scan;exit
+z c 'summon'feral
+a c 'revive'lundessa

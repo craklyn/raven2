@@ -1,0 +1,75 @@
+#21101
+A W 0~
+ghost phantasm specter~
+a ghastly phantasm~
+A frightful specter of a former man shimmers here.
+~
+   Hard to make out, but you think you breifly caught a fleeting glimps of a
+shadowy figure you thought you might of saw out of the corner of your eye, but
+just as you turn to to look, it flittered and disapeared.
+~
+24648 0 0 0 1180672 0 0 0 0
+35 5 -8 100d4+5600 6d6+40
+50 60
+9 9 0 19 -1 -1
+#21102
+A W 0~
+zombie spectre~
+a rotting zombie~
+A ghastly figure of a rotting corpse shuffles sluggishly about the room.
+~
+   This creature has resurrected from the dead.  Flesh rots and decays from it's
+slowly decomposing body.  Tattered clothes covered in maggots make this creature
+look ever more foul.
+~
+57418 0 0 0 1179688 0 0 0 -40
+45 4 -11 100d2+8000 12d6+30
+65 75
+9 9 0 0 8 -1
+#21103
+V W 0~
+vampire~
+a restless vampire~
+a cranky vampire is irritated to have been awoken.
+~
+   Ugly, mean, and irritated.  A single line of blood trickles from the corner
+of his mouth.  He is certainly not happy that he has been awoken from his nap.
+
+~
+548922 0 0 0 537920552 0 0 0 -100
+45 4 -10 100d1+8000 11d5+40
+65 75
+9 9 1 8 16 4
+#21104
+V W 0~
+spike william pratt bloody~
+Spike~
+Spike broods in the shadows.
+~
+   Formerly known as William the Bloody, this tall being now goes by the name
+Spike, taken from his preferred method of killing.  He stands before you with a
+stern look upon his face wearing a dark, black leather duster.  Stolen as a
+trophy from his most prized kill, it flows to his knees concealing him within
+the shadows.  His appearance suggests a young man, but his grace and fluid like
+movements prove otherwise.  While young in terms of a vampire at only a century
+old, his knowledge and skill is invaluable.  With pure white hair and piercing
+black eyes you could almost say his appearance is angelic, until he sinks his
+fangs into your neck that is...
+~
+581690 0 0 0 1049768 1024 0 0 0
+51 -10 -10 10d10+22500 6d7+100
+85 75
+9 9 1 0 -1 -1
+#21199
+H M 0~
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0
+1 20 10 1d1+0 1d1+0
+0 0
+9 9 0 0 -1 -1
+$

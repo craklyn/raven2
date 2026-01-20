@@ -1,0 +1,832 @@
+#15401
+H T 0~
+Zephyr~
+Zephyr~
+Zephyr the leather trader shows you his goods.
+~
+   Zephyr is a handsome, rugged fellow with broad shoulders and a stout
+chest, decked in a full set of leather gear.  A thick lock of fine brown 
+hair hangs from a ponytail behind him. He smiles as you enter his shop, puts
+a strong hand on your shoulder, and leads you to his merchandise displays.
+
+~
+14 0 0 0 136 0 0 0 0
+17 0 4 10d5+300 1d10+12
+35 40
+9 9 1 0 -1 -1
+#15402
+H M 0~
+Gypsy dancer~
+a Gypsy dancer~
+A Gypsy dancer is swirling to the music.
+~
+   She never so much as pauses from her dancing, but even through her
+spinning and swirling you see that she is stunning. Her long black hair
+fans out around her as she moves and her skirt brushes your arm. She twirls
+by you and you catch a fleeting aroma of perfume. Only an evil heart indeed
+could harm her.
+
+~
+72 0 0 0 0 0 0 0 800
+7 14 5 1d10+90 1d6+4
+35 40
+9 9 2 0 -1 -1
+#15403
+H W 0~
+Gypsy guard~
+a Gypsy guard~
+A Gypsy guard is here, protecting the caravan.
+~
+   Like all Gypsies, the guard has long black hair and darkly tanned skin.
+His jaw bones are well defined and he has a sharp chin and nose, and his eyes
+are dark enough to seem black. He watches you walk by, sizing you up just in
+case you decide to make trouble for the clan. He doesn't seem frightened of
+you in the least.
+
+~
+14 0 0 0 8 0 0 0 600
+14 3 2 1d10+190 1d9+9
+35 40
+9 9 1 0 -1 -1
+#15404
+H W 0~
+Gypsy leader~
+the Gypsy leader~
+The Gypsy leader sells goods to support his clan.
+~
+   His face is brown and creased like old leather, but he is a formidable
+presence. Scarred muscles show beneath his loose-fitting clothing. He scans the
+crowd around his clan, always alert.
+
+~
+10 0 0 0 8 0 0 0 400
+21 -3 -1 5d10+500 1d12+18
+40 40
+9 9 1 0 -1 -1
+#15405
+H W 0~
+Captain~
+the Captain~
+The Captain of the "Rum Runner" is here, overseeing his crew.
+~
+   The captain barks orders at his crew like they were slaves. He glares at 
+them with contempt and disgust as they pass him, loaded with crates. As one
+smaller crewman passes before him he swats him on the head with the blunt edge
+of his saber and mutters some obscenity.
+
+~
+206 0 0 0 8 0 0 0 -350
+17 4 1 2d10+200 1d10+12
+35 40
+9 9 1 0 -1 -1
+#15406
+H W 0~
+seaman~
+a seaman~
+A seaman of the "Rum Runner" is carrying cargo to the warehouse.
+~
+   Like all the others, this seaman walks with a bowed head, looking only 
+at the ground before him. His hunched back is from more than the crate he 
+carries. This man has been defeated. A glance into his eyes shows only utter 
+hopelessness.
+
+~
+204 0 0 0 0 0 0 0 250
+12 9 3 1d10+150 1d10+5
+35 40
+9 9 1 0 -1 -1
+#15407
+H W 0~
+wharfmaster master~
+the Wharfmaster~
+The Wharfmaster surveys the area for villains.
+~
+   The Wharfmaster stands almost seven feet tall, easily looking over the
+heads of the crowd around him for any sign of trouble. Decked in a yellow
+breast plate and yellow cloak, he is easlity spotted without his height.
+These two traits, together with the large bronze sword at his side, make him 
+very visible, and someone not to upset.
+
+~
+8200 0 0 0 8 0 0 0 250
+30 -13 -8 50d5+500 2d9+30
+50 60
+9 9 1 0 -1 -1
+#15408
+H T 0~
+Trailrobber robber~
+the Trailrobber~
+The Trailrobber is hiding in the shadows.
+~
+   Not accostomed to being detected, his eyes widen as you look at him.
+Still he cannot tell if you are looking at him or just in his direction.
+Poised on the balls of his feet, he could flee at any minute in any direction 
+and be gone forever.
+
+~
+8396 0 0 0 72 0 0 0 -450
+19 -2 0 25d2+250 1d12+10
+35 40
+9 9 1 0 -1 -1
+#15409
+H M 0~
+Stringer~
+Stringer~
+Stringer the Troubador is sitting here.
+~
+   Stringer is oblivious to your presence, his complete attention focused
+on the music he is creating. He strums his small lyre with a gentle grace
+that is reflected in the soft music he creates.
+
+~
+131276 0 0 0 72 0 0 0 0
+14 10 0 5d5+175 1d10+10
+35 40
+7 7 1 0 -1 -1
+#15410
+H R 0~
+Inuit~
+Inuit~
+Inuit the Druid is standing here.
+~
+   Long blond hair falls down her back and onto her shoulders. Her tiny ears
+just poke through. She is wrapped in brown clothing and a tan cloak, blending
+perfectly into the scenery if she was in the forest. Here in the city she
+seems out of place, and the hesitancy in her eyes reveal it.
+
+~
+131276 0 0 0 72 0 0 0 100
+18 5 -1 1d50+225 1d12+13
+35 40
+9 9 2 0 -1 -1
+#15411
+H R 0~
+Hye~
+Hye~
+Hye the Ranger is standing here.
+~
+   Long bow strapped across his back, Hye seems as at-home in the city as the
+woods he came from. His young eyes marvel at the sights of the market; his
+neck cranes to see every trivial detail. He sees you looking at him and smiles
+briefly before brushing by to take in even more wonders.
+
+~
+139468 0 0 0 8260 0 0 0 750
+10 11 0 1d25+125 1d9+6
+35 40
+9 9 1 0 -1 -1
+#15412
+H C 0~
+Wren~
+Wren~
+Wren the Bishop is standing here.
+~
+  With her long determined stride and glowing hammer on her shoulder, this
+cleric seems ready to take on anything. She turns to your gaze and narrows her
+eyes, sizing you up, then moves on through the crowd, cloak flowing behind her.
+
+~
+131148 0 0 0 202 0 0 0 -100
+25 -6 -1 5d5+450 2d7+25
+40 40
+9 9 2 0 -1 -1
+#15413
+H T 0~
+Mouse~
+Mouse~
+Mouse the Pickpocket is standing here.
+~
+   Standing in the shadows he can barely be seen, even in the broadest daylight.
+His black leather jacket only helps him to blend with the darkness. He is small
+and wirey and could probably outrun you, but he seems to have other things on
+his mind...namely your purse.
+
+~
+131276 0 0 0 8 0 0 0 -500
+15 7 1 1d10+200 1d10+9
+35 40
+9 9 1 0 -1 -1
+#15414
+W W 0~
+Greybeard~
+Greybeard~
+Greybeard the Dwarven Hero is standing here.
+~
+   This Dwarven warrior is almost human height, and thus must be large for
+his race. His beard is braided and tucked in his belt, a hefty broad axe
+rests on the shoulder of his chain mail. He looks physically and mentally
+prepared for war.
+
+~
+155848 0 0 0 1128 0 0 0 400
+22 -5 -3 10d5+475 2d8+30
+40 40
+9 9 1 0 -1 -1
+#15415
+H M 0~
+Aura~
+Aura~
+Aura the Great Mage is standing here.
+~
+   Despite the tension in the air and dismal future that could await Aura and
+her followers, she has a look of peace on her face. There is neither knotted
+brow nor twitch of nervous fingers. She stands here, awaiting the arrival of 
+all who dare rebel, committed to her decision and at peace with herself.
+
+~
+266 0 0 0 8312 0 0 0 900
+35 -15 -10 100d2+350 5d4+35
+50 60
+9 9 2 0 -1 -1
+#15416
+H M 0~
+elder~
+the Elder~
+The village Elder rests here before the meeting.
+~
+   The Elder's eyes open as you entire, despite your silence, and raises up
+on his elbows. He looks at you for only a second before smiling and saying,
+"Here for the meeting? Good. We can use your aid."
+
+~
+206 0 0 0 0 0 0 0 1000
+20 3 2 5d15+275 2d8+10
+40 40
+6 6 1 0 -1 -1
+#15417
+H W 0~
+Innkeeper aged~
+the aged Innkeeper~
+The aged Innkeeper smiles at you.
+~
+   The innkeeper is old and frail, but still has a remnant of the warrior's
+dignity that was bestowed upon him. Now he just wipes the bar, day in and out,
+serving drinks to the infrequent customers...and remembering.
+
+~
+8202 0 0 0 8 0 0 0 0
+17 5 2 1d25+200 2d6+12
+35 40
+9 9 1 0 -1 -1
+#15418
+H T 0~
+Stinky~
+Stinky~
+Stinky the Barkeep serves up drinks.
+~
+   Stinky's name is certainly appropriate, but anyone staying in this place
+too long would begin to smell like it. He only has one thumb on his left 
+hand and half his right ear is missing. Patches of hair are missing from
+his head. He has probably broken more bar fights than you've killed peas.
+
+~
+10 0 0 0 8 0 0 0 0
+14 4 2 5d5+250 1d10+15
+35 40
+9 9 1 0 -1 -1
+#15419
+H W 0~
+Victoria~
+Victoria~
+Victoria the Waitress is making her rounds.
+~
+   She is much too young to work in a place like this. But despite the pinching
+and fondling and lewd remarks, her face carries a genuine smile. She looks you
+up and down as you watch her and give you a little smile before making another 
+round.
+
+~
+138 0 0 0 0 0 0 0 150
+14 7 2 2d12+175 1d9+8
+35 40
+9 9 2 0 -1 -1
+#15421
+H W 0~
+L'orin~
+L'orin~
+L'orin the Jyx Dealer grins as you enter.
+~
+   L'orin dominates the room, but he is not large in size. His ego, however,
+fills the room well. He strokes his thin mustache and goatee as you enter,
+a sly smirk on his face. In his hand is a bottle of Jyx he swirls before you, 
+as if he knew that is what you wanted.
+
+~
+10 0 0 0 104 0 0 0 -1000
+37 -20 -5 250d4+1000 6d3+15
+50 60
+7 7 1 0 -1 -1
+#15422
+H W 0~
+Aloa~
+Aloa~
+Aloa the Madam asks you for your name and pleasure.
+~
+   She doesn't even look up from her books as you enter, but asks for your
+name and pleasure. She is rather attractive for her age, and may have even
+worked here before owning the place. She is dressed conservatively now, however,
+and is probably not available. The grim expression on her face would have
+discouraged you anyway. She looks tired. Very tired.
+
+~
+26734 0 0 0 34024 0 0 0 0
+27 -3 -5 1d100+1000 4d5+20
+40 40
+7 7 2 0 -1 -1
+#15424
+H W 0~
+Hammel~
+Hammel~
+Hammel the Grocer motions you to his exotic foods.
+~
+   He has a round belly that hangs over his belt and a large hands covered
+in flour. His apron is stained three layers deep. He smiles at you with what
+few teeth he has left.
+
+~
+24842 0 0 0 200 0 0 0 0
+28 -5 -5 2d100+1200 7d3+25
+40 40
+9 9 1 0 -1 -1
+#15425
+H W 0~
+sailor drunken~
+a drunken sailor~
+A drunken sailor staggers around.
+~
+   Whatever profession this guy used to have, right now he is a drunk. He has
+to hold on to the table just to walk and frequently bumps into people, earning
+thier curses. He smells of rum and urine and talks much too loudly.
+
+~
+204 0 0 0 0 0 0 0 100
+14 7 3 5d5+200 2d6+8
+35 40
+9 9 1 0 -1 -1
+#15426
+H W 0~
+sot drunken~
+a drunken sot~
+A drunken sot has passed out here.
+~
+   This guy is in a state even worse than the sailors in the tavern. He barely
+managed out of the tavern before passing out. It's a good thing he didn't
+fall into the water. People step over him without so much as a look of
+concern.
+
+~
+204 0 0 0 0 0 0 0 150
+10 11 4 1d10+130 2d5+5
+35 40
+4 4 1 0 -1 -1
+#15427
+H W 0~
+Mahavy~
+Mahavy~
+Mahavy the Weapons Trader pulls a sword from the wall and demonstrates the 
+sharpness of its edge on a helpless watermelon.
+~
+   With red hair and beard and reddened skin this guy looks like a tomato,
+but no tomato ever sliced through a watermelon with such force. He cackles
+as the melon halves fall to the floor, then picks one up and takes a mouthful.
+He hands you a piece, but quickly draws it back and cackles again.
+
+~
+266 0 0 0 200 0 0 0 0
+29 -10 -5 2d100+1300 5d5+27
+40 40
+9 9 1 0 -1 -1
+#15428
+H M 0~
+Faligra~
+Faligra~
+Faligra the Wizard welcomes you to her store.
+~
+  She seems fairly young to be a master wizard, but the light tricks she uses
+to attract customers couldn't be pulled off buy some ordinary apprentice.
+She is dressed all in emerald green, her blond hair pulled back into a braid. 
+
+~
+266 0 0 0 200 0 0 0 0
+28 -4 -5 1d100+1100 5d5+20
+40 40
+9 9 2 0 -1 -1
+#15429
+H W 0~
+sailor rugged~
+the rugged sailor~
+A rugged sailor rigs his ship.
+~
+  This sailor seems to be the only crewmember of his small sailing ship.
+He must be fierce indeed to fight off the harbor pirates solo. Neither he nor
+his ship show any signs of damage. He has a permanent sneer on his face which
+is almost enough to scare you off as well.
+
+~
+14 0 0 0 8 0 0 0 -500
+29 -9 -1 2d25+700 5d4+26
+40 40
+9 9 1 0 -1 -1
+#15430
+H W 0~
+Market Guard~
+a Market Guard~
+A Market Guard patrols the area.
+~
+   He looks very official in his black and yellow curiass and bastard
+sword. He stands erect and alert, scanning the crowds, showing no sign
+of the slacking that the Midgaard cityguards are known for. The Wharfmaster
+would have his head.
+
+~
+8200 0 0 0 8 0 0 0 0
+20 1 2 5d5+275 2d5+16
+40 40
+9 9 1 0 -1 -1
+#15431
+H M 0~
+Daria~
+Daria~
+Daria the Magician is sitting here.
+~
+   She stares forlornly into nothing as she drinks her troubles away.
+As you sit down next to her she mumbles something about an attack and 
+pirates. She drones off into jibberish and takes a big swig of her ale.
+
+~
+206 0 0 0 72 0 0 0 -150
+16 10 3 5d5+200 2d6+10
+35 40
+7 7 2 0 -1 -1
+#15432
+H W 0~
+patron waiting~
+a waiting patron~
+A waiting patron sits here anxiously.
+~
+   This fellow looks like a respectable person, not the filth you expected
+to frequent this place. He does show a hint of lust as his eyes scan repeatedly
+up and down the harlots that decorate the room. He has his legs crossed and
+his hands clenched tightly in his lap, twiddling his thumbs.
+
+~
+142 0 0 0 0 0 0 0 0
+14 7 2 3d5+175 2d7+6
+35 40
+7 7 1 0 -1 -1
+#15433
+H W 0~
+harlot~
+a harlot~
+A harlot is here, selling her flesh.
+~
+   The harlot is very attractive, and wearing little more than bedclothes.
+She makes a point to bend over too far for too long at just the right angle
+for you and the other patrons. She flutters her eyes at you, sending a 
+warm tingle down your body.
+~
+142 0 0 0 0 0 0 0 100
+11 10 3 1d10+140 2d5+5
+35 40
+9 9 2 0 -1 -1
+#15434
+H W 0~
+patron pleased~
+a pleased patron~
+A pleased patron is here enjoying himself.
+~
+   He is stark naked and has a look of utter ecstasy on his face. His
+arms and legs are spread wide on the bed and the sheets have been cut into 
+shreds. He hasn't moved in quite a while and you wonder if the excitement
+wasn't too much for him.
+
+~
+138 0 0 0 0 0 0 0 0
+15 6 6 1d10+200 2d7+7
+35 40
+6 6 1 0 -1 -1
+#15435
+H W 0~
+harlot entertaining~
+the entertaining harlot~
+A harlot is here entertaining her customer.
+~
+   Actually the entertaining seems to be over. She lies here with a 
+smirk on her face, looking at her fingernails. She is naked and very well
+proportioned, which you have noticed is common in this place. She looks up as 
+you enter and says, "Next."
+
+~
+142 0 0 0 0 0 0 0 100
+13 8 7 1d10+170 2d6+5
+35 40
+6 6 2 0 -1 -1
+#15436
+H W 0~
+patron impatient~
+the impatient patron~
+An impatient patron is here, dying to be serviced. Maybe you will do.
+~
+  He is utterly naked and his entire body is red with frustration. His hands
+shake nervously in front of him and his wild eyes focus on you. A grin 
+instantly crosses his face and he charges you, screaming "It's about time!"
+
+~
+8234 0 0 0 0 0 0 0 0
+19 -5 0 1d25+250 1d5+22
+35 40
+9 9 1 0 -1 -1
+#15437
+H W 0~
+patron busy~
+the busy patron~
+A busy patron has his hands full.
+~
+   This patron lies covered by a sheet and two women, with his hands
+literally full. You can only imagine what the lumps under the sheet are,
+and why they are moving like that. He seems to be enjoying whatever it is.
+
+~
+138 0 0 0 0 0 0 0 0
+17 4 3 5d5+200 2d7+9
+35 40
+6 6 1 0 -1 -1
+#15438
+H W 0~
+harlot acrobatic~
+an acrobatic harlot~
+An acrobatic harlot is doing things you thought impossible.
+~
+   How does she do that? You have never seen the body do some of the things
+that seem ordinary to this girl. She twists and contorts her body into
+positions you could not imagine, much less desire, and all for the pleasure
+of her customer.
+
+~
+138 0 0 0 0 0 0 0 100
+15 6 5 1d10+200 2d6+7
+35 40
+6 6 2 0 -1 -1
+#15439
+H W 0~
+villager soddy~
+a soddy villager~
+A soddy villager drinks his troubles away.
+~
+   This guy is several sheets in the wind already and doesn't show any sign
+of stopping. He sways on his barstool, singing too loudly and too unitellegably
+for everyone in the bar. 
+
+~
+206 0 0 0 0 0 0 0 0
+13 8 4 1d5+170 2d5+8
+35 40
+7 7 1 0 -1 -1
+#15440
+H W 0~
+child~
+a child~
+A child is playing in the rubble.
+~
+   He is exploring the fascinating rubble piles, no doubt imagining he is a
+warrior climbing perilous mountains of distant lands. He seems to have an
+uncanny balance on the rubble, surviving a few mis-steps that would have landed
+you on the ground.
+
+~
+204 0 0 0 0 0 0 0 1000
+5 16 6 1d10+60 1d6+2
+35 40
+9 9 1 0 -1 -1
+#15441
+H W 0~
+villager~
+a villager~
+A villager is here, headed to the meeting.
+~
+   He is an ordinary man who seems to be in a hurry. He brushes past you 
+without so much as an "excuse me."  He is headed for the wooden building 
+where people stand in line to enter.
+
+~
+204 0 0 0 0 0 0 0 500
+12 9 1 1d10+120 2d6+4
+35 40
+9 9 1 0 -1 -1
+#15442
+H W 0~
+villager senior~
+a senior villager~
+A senior villager waits for the meeting to begin.
+~
+   This is an older member of the village, and presumably one of higher power.
+He is seated at the front of the building, erect and alert. His face is grim,
+as if he knows what the meeting will bring.
+
+~
+206 0 0 0 8 0 0 0 750
+17 4 1 1d50+200 3d4+10
+35 40
+7 7 1 0 -1 -1
+#15443
+H W 0~
+wife village~
+a village wife~
+A village wife is here, minding her own business.
+~
+  She is a rather ordinary lady with nothing distinguishing about her at all.
+She gives you a scant smile as you pass, then returns to her business.
+
+~
+204 0 0 0 0 0 0 0 600
+11 10 2 1d5+140 1d8+6
+35 40
+9 9 2 0 -1 -1
+#15444
+H W 0~
+child small~
+a small child~
+A small child sticks her tongue out at you.
+~
+   She is an ordianry child, not too cute, but annoying. She mocks your
+every move and even gives you a few finger gestures you would like to return.
+But she's just a kid!
+
+~
+204 0 0 0 0 0 0 0 500
+4 17 7 1d5+50 1d4+2
+35 40
+9 9 2 0 -1 -1
+#15445
+H W 0~
+captain ship~
+the ship captain~
+The ship captain sleeps in his hammock, snoring wildly.
+~
+   The ship captain is sleeping soundly in his hammock, snoring louder than
+your footsteps on the creaky stairs. His head is tilted back, mouth open
+wide, emiting the horrible noise that grates your ears. You search around
+for something to stuff in his mouth, but there is nothing available short of
+a dagger...hmm...
+
+~
+10 0 0 0 8 0 0 0 0
+22 0 -2 2d50+550 2d6+26
+40 40
+4 4 1 0 -1 -1
+#15446
+H W 0~
+sailor~
+a sailor~
+A sailor prepares the ship for voyage.
+~
+   He tries to look interested in his duty but fails miserably. Often he stares
+off over the ocean, probably dreaming of his own ship and crew to kick around,
+or into the city at the tall building built into the wall, dreaming of his
+desires fulfilled.
+
+~
+204 0 0 0 0 0 0 0 0
+14 7 1 3d5+190 1d12+6
+35 40
+9 9 1 0 -1 -1
+#15447
+H W 0~
+junkie~
+a junkie~
+A junkie begs you for a bottle of Jyx.
+~
+   This thing is a wretch. You can't even tell if it is male or female.
+It's clothes are wet and filthy with who knows what, and it smells of urine
+and vomit. Its bones protrude from its frail body and tremors run through
+its limbs. It raises a shaky hand in your direction and shades its eyes
+as you enter.
+
+~
+206 0 0 0 8 0 0 0 -450
+14 6 2 1d5+150 2d6+7
+35 40
+6 6 0 0 -1 -1
+#15448
+H W 0~
+juggler~
+the juggler~
+A juggler entertains the crowd.
+~
+   He is dressed in outlandish colors and clothing, juggling knives for
+the crowd. His face is made over in white make-up, so you can't tell exactly 
+what he looks like. 
+
+~
+204 0 0 0 0 0 0 0 0
+8 13 3 1d10+100 1d6+4
+35 40
+9 9 1 0 -1 -1
+#15449
+H W 0~
+dockworker dock worker~
+a dockworker~
+A dockworker is looking for employment.
+~
+   He walks the docks with hopelessness, waiting for a ship to arrive so he
+can offer his services and feed his family. 
+
+~
+8 0 0 0 0 0 0 0 0
+15 6 0 1d20+200 5d2+10
+35 40
+9 9 1 0 -1 -1
+#15450
+H W 0~
+browser~
+a browser~
+A browser looks at the goods for sale.
+~
+   He is an ordianry man with too much money, sneering at every item he sees 
+whether he likes it or not.
+
+~
+204 0 0 0 0 0 0 0 0
+9 12 1 1d10+120 1d8+3
+35 40
+9 9 1 0 -1 -1
+#15451
+H T 0~
+pickpocket~
+the pickpocket~
+A pickpocket admires his found treasure.
+~
+   He sits in the corner, admiring something in his hands, talking to it even.
+He has an insane look in his eyes, a look that frightens you. He skitters as 
+you enter the room, hiding behind some empty crates.
+
+~
+142 0 0 0 8 0 0 0 -350
+26 -5 -1 25d4+600 4d5+20
+40 40
+9 9 1 0 -1 -1
+#15452
+H W 0~
+traveler~
+the traveler~
+A traveler rests under a tree.
+~
+   He is a common gentleman dressed in a hooded cloak and carrying a 
+walking stick. He offers you a seat in the shade beside him.
+
+"Beware the trailrobber," he warns with a smile.
+
+~
+206 0 0 0 72 0 0 0 0
+26 -5 -2 25d2+500 1d10+24
+40 40
+9 9 1 0 -1 -1
+#15453
+A W 0~
+chicken~
+a chicken~
+What's that chicken doing here?!
+~
+   You can't imagine what they were doing with this chicken, and you don't
+want to know!
+
+~
+10 0 0 0 0 0 0 0 0
+1 20 9 1d5+7 1d4+0
+35 40
+9 9 0 0 -1 -1
+#15454
+H W 0~
+Jhovah~
+Jhovah~
+Jhovah the Armourer smirks as you enter.
+~
+   He is a large muscled man, just losing his muscle definition to his age.
+His beard is graying and the lines around his eyes and mouth cut deep with 
+age. Still, he could be a formidable foe.
+
+~
+266 0 0 0 200 0 0 0 0
+31 -10 -5 1d25+2000 4d5+28
+50 60
+9 9 1 0 -1 -1
+#15455
+H W 0~
+wretch babbling~
+the babbling wretch~
+A babbling wretch quivers in your shadow.
+~
+   The wretch shudders against the wall as you near, wide-eyed and frieghtened.
+He reaches out to his side as you approach, as if grabbing someone's hem for
+protection, never taking his pitiful eyes from you.
+
+"I saw it...I s-saw it! He came from....wh-where did he come from? 
+He killed the guard! I saw it! I saw it! Right there! Right there! 
+He'll get me! He'll get you too! It's the...It's the Trailrobber!"
+
+~
+142 0 0 0 0 0 0 0 0
+0 20 10 1d6+0 1d2+0
+35 40
+7 7 1 0 -1 -1
+$

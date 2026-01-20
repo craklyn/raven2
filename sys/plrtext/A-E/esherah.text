@@ -1,0 +1,13 @@
+grec cast 'word' group
+word cast 'word' $1
+gfly cast 'fly' group
+fly cast 'fly' $1
+garm cast 'armor' group
+arm cast 'armor' $1
+infra cast 'infra'
+sense cast 'sense'
+det cast 'detect invis' $1
+blind cast 'blind' $1
+heal cast 'heal' $1
+gheal cast 'heal' group
+harm cast 'harm'

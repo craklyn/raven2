@@ -1,0 +1,1892 @@
+#17700
+Immortal Info Room~
+This area comprises both The Jut and The Village of Shady Vale
+This area is created for Ravenmud..if you wish to use
+for another site please contact me either at Ravenmud or
+email.
+If you wish to use or modify please contact me...
+AKA : Brian E. Winemiller  BWINE@CYBERIA.COM
+~
+177 0 0 0 0 9 255 0
+E
+sign board notice~
+The Jut/The Village of Shady Vale
+by Brian E. Winemiller  bwine@cyberia.com
+AKA : Tarin of Ravenmud / Tevor almost everywhere else
+~
+S
+#17701
+Overlooking a guardpost~
+You stand upon a small knoll overlooking a guardpost. Soldiers wander
+about under the watchful glare of a large outcropping of rock, which 
+you now can tell why this is called The Jut for the rock sticks out in
+a defensive way that makes it appear to jut out of the forest. Up above
+another guardpost can be seen and a long rope dangles down from above.
+~
+177 512 0 0 0 4 255 0
+D1
+~
+~
+0 0 17702
+D2
+~
+~
+0 0 -1
+S
+#17702
+Lower Guardpost~
+You come to a small guardpost at the base of the mountain. Guards
+linger about watching you closely till they know your intentions.
+A basket tied to a rope hangs at the bottom ready to take you
+and the guards to the top should danger arise.
+~
+177 512 0 0 0 4 255 0
+D3
+~
+~
+0 0 17701
+D4
+~
+~
+0 0 17703
+S
+#17703
+In a basket at bottom~
+You dangle dangerously within a basket just off the bottom of the mountain.
+Guards control the wheel which raises you..you hope they don't tire easily.
+~
+177 512 0 0 0 9 255 0
+D4
+~
+~
+0 0 17704
+D5
+~
+~
+0 0 17702
+S
+#17704
+Halfway up in a basket~
+You are about halfway up and can now begin to see the upper guardpost. Up
+above you notice guards pulling on yet another wheel..they too you hope
+don't tire easily.
+~
+177 512 0 0 0 9 255 0
+D4
+~
+~
+0 0 17705
+D5
+~
+~
+0 0 17703
+S
+#17705
+Almost at the Top in a basket~
+You can now see the top, where guards peer down at you to make sure you
+are worth letting up or dropping to your death.
+~
+177 512 0 0 0 9 255 0
+D4
+~
+~
+0 0 17706
+D5
+~
+~
+0 0 17704
+S
+#17706
+Upper Guardpost~
+You stand within the upper guardpost. Guards and soldiers wander about 
+looking at you suspiciously. All about industry is evident, weapons being
+readied. Armor being crafted, the smells of goods baking wafting on the
+high winds. Below you can see a mass of shadows encroaching upon the Jut.
+Shadowen seem to have followed you up here. Suddenly a cry goes out and the
+rope is cut..ending all access back down to the forest. Seems the only exit
+is to enter the Jut caverns and find an alternate way down.
+~
+177 512 0 0 0 5 255 0
+D0
+~
+~
+0 0 17783
+D1
+~
+~
+0 0 17707
+S
+#17707
+Within the Jut~
+You are at the entrance to the Jut. Passageways spread out in all directions.
+The smells of fresh bread come from the north and the sounds of metalwork
+come from the east. A passing guard suggests that you go see the Man in his
+offices to the east and south. "Also a rest area stands to the south for you
+to recover from all wounds you may have", he says. "Please do not cause any
+trouble while here, go nowhere where you can tell you aren't welcome."
+~
+177 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 17708
+D1
+~
+~
+0 0 17711
+D2
+~
+~
+0 0 17710
+D3
+~
+~
+0 0 17706
+S
+#17708
+Baker's Cavern~
+Smells of baked goods great your senses as you enter. Bread, pastries, cakes
+abound all about. Maybe this place isn't as backwater and holed up as you 
+first thought.
+
+~
+177 521 0 0 0 0 255 0
+D0
+A large metal bound door blocks you way.
+~
+metal~
+2 17700 17709
+D2
+~
+~
+0 0 17707
+E
+door metal~
+A large metal bracketed door blocks your way
+~
+S
+#17709
+Storage room~
+This is the baker's back storage room, though you find it odd how much gold
+and weapons and armor are piled under stacks of flour and meal used for 
+baking. You have a feeling you really shouldn't be in here, could it be the
+two very large dogs in here guarding the wealth?
+~
+177 521 0 0 0 0 255 0
+D2
+A large metal bracketed door stands to the south.
+~
+metal~
+2 17700 17708
+S
+#17710
+Small rest room~
+This room seems peaceful enough to rest in for a while, though guards and
+others wander in and out. You get the feeling that you are safe but not
+entirely trusted.
+~
+177 2490989 0 0 0 0 255 0
+D0
+~
+~
+0 0 17707
+S
+#17711
+Cavern Passage~
+Darkness threatens to close in on you as you notice no torches or lamps
+about on the walls. Sounds of metal work echo from the north and to the
+south a heavy bronze door with the title P.C. on it stands closed. You
+believe that this is the leader around here and maybe you should knock
+to see if anyone's home..
+~
+177 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 17712
+D1
+~
+~
+0 0 17718
+D2
+A large bronze door stands to the south.
+~
+bronze~
+2 17701 17713
+D3
+~
+~
+0 0 17707
+S
+#17712
+Weapon's Cavern~
+Smoke and the dull roar of a forge fire greet you as you enter.  A very large
+man covered with soot and grime welcome you with a large smile and becons for
+you to look at his wares.    
+~
+177 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 17711
+S
+#17713
+Padishar Creel's Rooms~
+This is the entrance foyer and council rooms of Padishar Creel, the leader
+of this ragtag band of freedom fighters striving to beat off the advances
+of the shadowen that are creeping across the lands. A large table covered
+with maps and charts stands in the middle of the room.
+~
+177 520 0 0 0 0 255 0
+D0
+A large bronze door hangs on it's hinges to the north.
+~
+bronze~
+2 17701 17711
+D2
+~
+~
+0 0 17714
+S
+#17714
+Living Room~
+This is the informal waiting room. Crude sofa's and chairs lay about
+waiting to either be used to sit on or burned for firewood.
+~
+177 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 17713
+D1
+~
+~
+0 0 17717
+D2
+~
+~
+0 0 17715
+D3
+~
+~
+0 0 17716
+S
+#17715
+Bedroom~
+This is the bedroom of the leader. Here he spends what little time is 
+given him to himself for rest, which by the activity about it very little
+time indeed. A large posterbed leans dangerously against the back wall.
+~
+177 777 0 0 0 0 255 0
+D0
+~
+~
+0 0 17714
+S
+#17716
+Small washroom~
+Odd to find in such a place but a small natural spring flows in here allowing
+one to wash themselves and bathe on ocassions.
+~
+177 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 17714
+S
+#17717
+Storage room~
+Nothing in here but old chests, ragged clothes, and the smell of what you 
+think might be something dead or dying. You wish you hadn't entered in the
+first place after finding the source of the smell, the latrine.
+~
+177 521 0 0 0 0 255 0
+D3
+~
+~
+0 0 17714
+S
+#17718
+Back storage room~
+This is the only storage room you've found that is open to all members of this
+crew of freedom fighters. Large barrels, casks, boxed and crates line all the
+walls.
+~
+177 520 0 0 0 0 255 0
+D3
+~
+~
+0 0 17711
+D5
+You see nothing but a blank wall with a small crack in it.
+~
+fissure~
+2 17702 17719
+S
+#17719
+Hidden passage~
+A passage..but to where? You hadn't expected this but a slight breeze blows
+at your torches giving you the hope of final freedom from this doomed cavern.
+~
+177 524 0 0 0 0 255 0
+D1
+~
+~
+0 0 17720
+S
+#17720
+Hidden passage~
+You descend further into darkness, your only hope the breeze which seems to
+be picking up the furthur you descend. Up ahead a small path leads down into
+more darkness and a peculiar clicking sound from somewhere far away.
+~
+177 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 17792
+D2
+~
+~
+0 0 17794
+D4
+~
+~
+0 0 17719
+D5
+~
+~
+0 0 17796
+S
+#17721
+Hidden passage~
+You feel the breeze coming from a wall crack in the eastern wall. With luck
+you may be able to squeeze through.
+~
+177 520 0 0 0 0 255 0
+D0
+~
+shadow~
+2 17702 17722
+D1
+Small light can be seen coming through a crack in the wall throwing shadows
+on the floor.
+~
+~
+0 0 -1
+S
+#17722
+Secret treasure room~
+Gold! Weapons! Armor! None like you've seen in your lifetime. Mounds of it
+everywhere. Old it is but worth a pretty penny you're sure. But have you
+time to gather it all? That clicking sound seems closer? What is it you
+wonder...what?
+~
+177 521 0 0 0 0 255 0
+D2
+~
+shadow~
+2 17702 17721
+S
+#17723
+Entrance to Shady Vale~
+Large wooden gates welcome you to the little town of Shady Vale.  A bustling
+community tucked away in the confines of the forest you just left, you can see
+the activities of many of the towns folks going about their business.  Many
+wave to you as you enter the town.  A passerby informs you to try the baked
+goods at the baker shop or if in need of weapons or armors to try the stores
+owned by the Brohickys, brothers who had taken up different roles early on in
+life.  In the distance two large houses can be seen, both look inviting to you.
+  
+~
+177 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 17724
+D1
+~
+~
+0 0 17745
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 17736
+S
+#17724
+Village Square~
+This is the village square. A large fountain dominated the center allowing
+all the quench thier thirsts from the long travels they've had or for the 
+villagers to gather to talk and relax. You are welcome to do the same.
+~
+177 393236 0 0 0 1 255 0
+D0
+~
+~
+0 0 17725
+D2
+~
+~
+0 0 17723
+S
+#17725
+Village Street~
+Buildings line the streets on either side as you lazily stole about the village
+taking in the local sites.    
+~
+177 512 0 0 0 1 255 0
+D0
+An ornately carved oaken door
+~
+oak oaken door~
+1 0 17726
+D1
+~
+~
+0 0 17747
+D2
+~
+~
+0 0 17724
+D3
+~
+~
+0 0 17734
+S
+#17726
+The Ohmsford House~
+This is the entry foyer to the House of Ohmsford..smells of cooking
+come from the kitchen and the sounds of children playing can be heard
+all over. It's a finely decorated house with many fine rugs and nice
+wall coverings.
+~
+177 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 17727
+D2
+You see a finely made oaken door.
+~
+oak oaken door~
+1 0 17725
+D3
+~
+~
+0 0 17733
+S
+#17727
+The Family Room~
+A simple family room decorated with the warmths of home. A cozy fire, comfy
+chairs and sofas to sit on..a wide expansive bookcase and a beautiful stairway
+leading up to the upper sleeping chambers.
+~
+177 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 17728
+D2
+~
+~
+0 0 17726
+D4
+You see an old oak bannister stairway leading upstairs.
+~
+~
+0 0 17731
+S
+#17728
+Small sitting and storage room~
+A small sitting room for those afterdinner times this room also serves
+as the storage room for firewood to feed the fires on long cold nights.
+Chairs lines the walls amid the piles of wood and boxes containing food
+and other items of need.
+~
+177 520 0 0 0 0 255 0
+D0
+You see a plain wooden door.
+~
+plain wood wooden~
+2 0 17729
+D3
+~
+~
+0 0 17727
+S
+#17729
+The Kitchen~
+Dishes stack everywhere, drawers left open, something cooking on the stove,
+yep, looks like a kitchen. Smells of baked bread and sweet rolls greet your
+nose as you enter. A big pot of stew is bubbling happily in a kettle over
+the fire in the fireplace. You feel a longings of home as you look about.
+~
+177 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 17728
+D3
+You see a barred and locked metal door.
+~
+metal~
+2 17703 17730
+S
+#17730
+Back Storage Room~
+This is a well kept storage room containing what seems like food,potions,
+healing herbs,and different types of scrolls and ointments. In the corner
+lies a small dusty old chest.
+~
+177 520 0 0 0 0 255 0
+D1
+You see a barred and locked metal door.
+~
+metal bar barred~
+2 17703 17729
+S
+#17731
+Top of Staircase~
+You over look the family room of the Ohmsford house. The only other exit
+besides down if the hallway which has many doors lining it's sides.
+~
+177 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 17776
+D5
+~
+~
+0 0 17727
+S
+#17732
+CLOSET MONSTER!!! AAAAHHHHHH!!!!!~
+You've walked right smack dab into the waiting maw of a hideous and grotesque
+Closet Monster!!! He swallows you whole and spits the armor out on the ground.
+~
+177 783 0 0 0 5 255 0
+D2
+~
+~
+0 0 17733
+S
+#17733
+Small Closet~
+This little room is used for nothing more then hanging guests coats and hats up
+in.  Small little pegs stick out of the wall providing for just that little
+necessity.  Oddly...  To the north is a dark room smelling faintly of old used
+and musty socks.    
+~
+177 520 0 0 0 0 255 0
+D0
+You see a dark room with faint wisps of smelly vapors coming out of it.
+~
+~
+0 0 17732
+D1
+~
+~
+0 0 17726
+S
+#17734
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D1
+~
+~
+0 0 17725
+D2
+~
+~
+2 0 -1
+D3
+~
+~
+0 0 17739
+S
+#17735
+Small little hut~
+Strange smoke wafts out the door as you open it.  It smells as if something
+dead is being burned to a crisp and looking over at the fireplace you can see
+that something is.  You find it odd that someone would just put on something to
+cook then forget about it but scanning the room, piled high with books and
+ledgers, you realize a scrawny little guy wearing big thick glasses is hidden
+behind one of these piles, completely absorded in his work.  You peer over his
+shoulder and see he is making banking account entries.  Slightly shocked you
+realize this must be the communities banking office.  Even more shocked you
+realize the little man is now staring at you waiting for you to either deposit
+your money, withdraw some money, or just get out.    
+~
+177 2097916 0 0 0 0 255 0
+D2
+A battered old wooden door.
+~
+wooden~
+1 0 17736
+S
+#17736
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D0
+An old battered wooden door.
+~
+wooden~
+1 0 17735
+D1
+~
+~
+0 0 17723
+D3
+~
+~
+0 0 17737
+S
+#17737
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 17738
+D1
+~
+~
+0 0 17736
+D3
+You see a small oaken door.    
+~
+door~
+1 0 17744
+S
+#17738
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 17739
+D2
+~
+~
+0 0 17737
+D3
+~
+~
+0 0 17743
+S
+#17739
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D0
+~
+~
+2 0 17740
+D1
+~
+~
+0 0 17734
+D2
+~
+~
+0 0 17738
+S
+#17740
+Inn of the Eagle~
+You enter into a cozy little out of the way inn.  Upstairs are rooms in which
+you can rest away the day.    
+~
+177 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 17739
+D4
+~
+~
+0 0 17741
+S
+#17741
+Reception Area~
+Here you may rent a room and rest from the long roads you've taken and all the
+hardships you've seen or have yet to see.    
+~
+177 393244 0 0 0 0 255 0
+D5
+~
+~
+0 0 17740
+S
+#17742
+Blockade to forest~
+You come upon another blockade within the village leading back out into the
+forest.  Like everywhere else, guards tell you exit is possible but entrance is
+only permitted through the main front gates.  You look closely at the wreckage
+piled up in front of the gate and laugh quietly to yourself thinking no way
+this will keep what is out lurking in the forests from entering within.    
+~
+177 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 17743
+S
+#17743
+Small rise~
+You climb a small rise within the city leading to a grand mansion overlooking
+the village.  The large wooden fence which has been contructed to surround the
+village runs just behind the mansion.  To the north you see yet another gate
+piled high with yet another blockade.    
+~
+177 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 17742
+D1
+~
+~
+0 0 17738
+D3
+You see an old brass door, tarnished in many places.    
+~
+brass door~
+1 0 17759
+S
+#17744
+Small little house~
+You enter a small well kept little house.  The owners stare in wonder at you
+for disturbing their home.    
+~
+177 520 0 0 0 0 255 0
+D1
+You see a dark oaken door.    
+~
+door~
+1 0 17737
+S
+#17745
+Village Street~
+Buildings line the streets on either side as you lazily strole about the
+village taking in the local sites.  North a door opens into a neatly kept shop.
+Overhead, a sign reads "Brohicky's Armoury".    
+~
+177 512 0 0 0 1 255 0
+D0
+You see a highly polished oak door.    
+~
+door~
+1 0 17746
+D1
+~
+~
+0 0 17751
+D3
+~
+~
+0 0 17723
+S
+#17746
+Brohicky's Armoury~
+This has got to be one of the cleanest armour shops you have ever visited.  
+Neatly kept cabinets line the walls with plate and chain armour showing through
+the intricate etched glass of their doors.  Tables upon tables of all types,
+sizes and colours of armour lie about just waiting to be baught.  Behind an old
+oaken tellers counter stands the proprietor himself beaming with pleasure that
+you've choosen his store to visit.    
+~
+177 520 0 0 0 0 255 0
+D2
+You see a highly polished oak door.    
+~
+door~
+1 0 17745
+S
+#17747
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D1
+~
+~
+0 0 17749
+D3
+~
+~
+0 0 17725
+S
+#17748
+Inside a cottage~
+You bump your head off the ceilings in this low cottage.  Flowers and herbs
+line just about every wall and then smells of cooking weeds assualts your
+senses making your nose burn and your eyes water.  You will be more then glad
+to leave this place.    
+~
+177 520 0 0 0 0 255 0
+D2
+You see a thatched door covered in vines.    
+~
+door~
+1 0 17749
+S
+#17749
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D0
+You see a thatched door covered in vines.    
+~
+door~
+1 0 17748
+D1
+~
+~
+0 0 17754
+D3
+~
+~
+0 0 17747
+S
+#17750
+Brohicky's Weaponry~
+Weapons of all sorts greet you as you enter.  Neatly polished and gleaming in
+the light of the many oil lamps which burn happily about the place, you see all
+the you could ever want or hope to own calling to you from out of the many
+cabinets and display cases which abound within this shop.  The owner greets you
+merrily as you enter, bursting with enthusiasm at your choice to shop in his
+little store.    
+~
+177 520 0 0 0 0 255 0
+D2
+You see a highly polished oak door.
+~
+door~
+1 0 17751
+S
+#17751
+Village Street~
+Buildings line the streets on either side as you lazily strole about the
+village taking in the local sites.  The the north you are greeted by the sights
+of weapons in the window of the shop you are passing.  Over the door you see a
+sign which reads "Brohicky's Weaponry".    
+~
+177 512 0 0 0 1 255 0
+D0
+You see a highly polished oak door.
+~
+door~
+1 0 17750
+D1
+~
+~
+0 0 17752
+D3
+~
+~
+0 0 17745
+S
+#17752
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 17753
+D1
+You see a door with freshly cut flowers hanging off it.    
+~
+door~
+1 0 17758
+D3
+~
+~
+0 0 17751
+S
+#17753
+Village Street~
+Buildings line the streets on either side as you lazily strole about the
+village taking in the local sites.  Smells of baking bread and pastries waft
+through the air around you filling your senses and making you reel in delight
+of the euphoria and memories that such smells deliver.  The door to your east
+seems to be the culprit of these alluring smells and the sign above the door,
+"Brohicky's Bakery", seems to confirm your suspicions.    
+~
+177 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 17754
+D1
+You see a highly polished oak door.
+~
+door~
+1 0 17757
+D2
+~
+~
+0 0 17752
+S
+#17754
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 17755
+D2
+~
+~
+0 0 17753
+D3
+~
+~
+0 0 17749
+S
+#17755
+Village Street~
+Buildings line the streets on either side as you lazily strole about
+the village taking in the local sites.
+~
+177 512 0 0 0 1 255 0
+D1
+~
+~
+0 0 17756
+D2
+~
+~
+0 0 17754
+S
+#17756
+Town Blockade~
+You approach what appears to be a blockade of sorts.  Logs and trees, old
+carts, fence posts, just about everything seems to be piled up here in front of
+the gate leading back out into the forest.  At your approach a young guard
+informs you that you may leave this way but entrance back in will be denied.  
+
+~
+177 512 0 0 0 1 255 0
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 17755
+S
+#17757
+Brohicky's Bakery~
+Pastries about and cakes and pies of all sizes shapes and flavors to please any
+pallet greets your nose and eyes as you pop into the shop, drawn in by the
+smells from outside on the street as you passed by.  In one corner stands a
+massive wedding cake, adorned with every imaginable decoration that you would
+expect to top a cake this grandly made.  Counter-tops and stands line all the
+walls and even the middle of this shop displaying all the wares carried and
+made lovingly by hand by the man grinning at you as you enter.    
+~
+177 520 0 0 0 0 255 0
+D3
+You see a highly polished oak door.
+~
+door~
+1 0 17753
+S
+#17758
+Small little house~
+You enter a small little house, nestled away in the quiet streets of the town.
+Smells of baking greet you and the owners smile and offer to share their meal
+with you.    
+~
+177 520 0 0 0 0 255 0
+D3
+You see a nicely kept white door with flowers hanging on it.    
+~
+door~
+1 0 17752
+S
+#17759
+The House of Leah~
+You stand within the entryway of the once proud and noble house of Leah, the
+former rulers of the surrounding countryside of Leah.  Everywhere you look you
+see the signs of Federation occupation.  Tapestries torn from their hangings,
+pots and vases smashed to pieces, the smell of unuse all about.  This place,
+now lived in only by a small garrison of Federation soldiers, shows what all
+the countyside around is coming to.    
+~
+177 520 0 0 0 0 255 0
+D1
+You see an old solid brass bound door, tarnished in many places.    
+~
+brass door~
+1 0 17743
+D3
+~
+~
+0 0 17760
+S
+#17760
+Living room~
+This area once was the family living room.  Here was where the family rested in
+the evening hours after a hard days work.  Now though, the Federation soldiers
+have turned this into what looks like a war room.  Maps of the Four Lands lay
+spread out on just about every table.  Odd sorts of weaponry and other
+equipment lie piled in corners.  Sofas, once glorious to behold, have been torn
+open with knives and their insides strewn about the room.    
+~
+177 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 17761
+D1
+~
+~
+0 0 17759
+D2
+~
+~
+0 0 17762
+D3
+~
+~
+0 0 17764
+S
+#17761
+Dining room~
+This was once the dining hall, used for the grand banquets the former residing
+lord Leah used to hold.  Many a memory of long nights with lights shining out
+of every window fill all the hearts of the residents of Shady Vale as they
+would look up to this place and dream of one day attending.  But now with the
+Federation here that dream no longer takes hold.  The once long dining table
+has been chopped to bits to fuel the winter fireplaces.  Cabinets, filled with
+priceless china all opened and the plates and cups smashed on the floor or
+against a wall by some soldiers drunken wimsey.  This place is nothing but torn
+up and messy.    
+~
+177 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 17760
+D3
+~
+~
+0 0 17763
+S
+#17762
+Trophy Room~
+Once the manors trophy room for the families hunts, filled with game and
+wildlife from all the lands surrounding, it has now become a trophy room of the
+Federation soldiers which camp here.  Treasures of all sorts lie about, taken
+from the residents of both Shady Vale and any wandering vagabond found within
+the lands about.  All the trophies of old were burned out back shortly after
+the occupation by the soldiers.    
+~
+177 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 17760
+S
+#17763
+Kitchen~
+Pots and pans clang and clatter as you kick them on entering what must have
+once been a rather large and nicely kept kitchen.  You check the icebox but gag
+as the smell of rotting meats assail your nose.  The stove, an old iron beast,
+has parts missing which you can only assume were melted down to forge weapons
+for the many soldiers camped here.  To the west you see what appears to be
+stairs leading upward into darkness.    
+~
+177 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 17761
+D2
+~
+~
+0 0 17764
+D3
+~
+~
+0 0 17766
+S
+#17764
+Grand Ballroom~
+Dancing, laughter, lights, music, people, parties, drinks, food.  All the
+things life should be, once...  Long ago.  But no more.  Not in this room or
+any room in this old mansion.  Not since the soldiers came.  Not since the
+murders of the family of Leah.  Once proud room, now nothing but a storage
+house for murders.  Once a gay place, filled with dancing and music and
+laughter, now filled with the haunting memories of screams as blades drank deep
+and only a few survived.    
+~
+177 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 17763
+D1
+~
+~
+0 0 17760
+D2
+You see a sturdy iron and metal bound door.    
+~
+metal iron door~
+2 17704 17765
+S
+#17765
+Storage room~
+You enter a dark backroom storage area used now by the Federation garrison to
+store all their food supplies and travel gear.  Rats and mice scurry away
+quickly at your entrace.    
+~
+177 521 0 0 0 0 255 0
+D0
+You see a sturdy iron and metal bound door.    
+~
+metal iron door~
+2 17704 17764
+S
+#17766
+Bottom of staircase~
+You stand at the bottom of an old staircase staring upwards into pure darkness.
+No sounds come from above yet you're sure that something waits up there for you
+to find and discover.    
+~
+177 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 17763
+D4
+~
+~
+0 0 17771
+S
+#17767
+Old bedroom~
+This appears to be the master bedroom for a glorious old brass bed, now
+tarnished, lies propped up against a vanity.  The bed itself is covered in
+lovely red and white sheets.  The vanity is finely decorated with a scawling
+design the carpenter must have made while making.  You move further in, taken
+by what appears to be a room missed and passed over by the murder and chaos in
+the rest of the upstairs.  But wait, the sheets, that isn't dye on them.  The
+sheets are covered in blood.  Human blood for the bodies lie festering and
+decaying under the blankets.  You look toward the vanity.  The designs are claw
+marks you suddenly realize.  What could have done this?  The hair once more
+begins to rise yet no sound can be heard, no motion sensed or felt.    
+~
+177 553 0 0 0 0 255 0
+D2
+You see a battered old door.    
+~
+door~
+1 0 17768
+S
+#17768
+Eastern end of hallway~
+This is the eastern end of the top part of the house.  As everywhere else up
+here it is dark and quiet, which makes you think you really shouldn't be
+messing around up here at all.  Doors lead to the north and south and back west
+is what you can barely make out as a staircase leading downward.    
+~
+177 553 0 0 0 0 255 0
+D0
+You see an old oaken door, finely crafted and still left standing.    
+~
+door~
+1 0 17767
+D2
+Beaten and battered this door still remains somehow in place.    
+~
+door~
+1 0 17769
+D3
+~
+~
+0 0 17771
+S
+#17769
+Old bedroom~
+You trip over bodies as you enter, all stuffed neatly in a pile atop the old
+poster board bed standing directly in front of the door.  Your senses real and
+you feel as if the blackness you are seeing is your vision going on you and
+that you might pass out from the smell within.  As everywhere else, death has
+found a home in this room as well.  The day this happened must have been
+terrible you think.  What sort of people kill in this manner and yet leave the
+bodies to rott.    
+~
+177 553 0 0 0 0 255 0
+D0
+This door has seen better days but remains standing.    
+~
+door~
+1 0 17768
+S
+#17770
+Old bedroom~
+Darkness surrounds you everywhere.  A skeletal form of an old brass bed leans
+up against the far wall.  Everywhere the signs of death and decay show as you
+trip over a human skull to land in an old pile of stagnant blood and human
+entrails.  A feeling of loathing fills you and the hairs on your neck seem to
+rise off your skin in here.  You truly can't wait to leave this place.    
+~
+177 553 0 0 0 0 255 0
+D2
+Beaten and battered with forced entry this door still stands.    
+~
+door~
+1 0 17771
+S
+#17771
+Top of stairs in the dark~
+You are at the top of these rickety old stairs.  All around darkness closes in
+and a feeling that someone or something is watching you fills every pore of
+your being causing the hairs on your neck to rise.  Not a sound can be heard
+anywhere up here which makes it feel even oder..  The hallway stretches out
+east and west with doors leading off north and south in each direction.    
+~
+177 553 0 0 0 0 255 0
+D0
+You see a beaten up door which is barely standing.    
+~
+door~
+1 0 17770
+D1
+~
+~
+0 0 17768
+D2
+This door appears to be barely on it's hinges but still stays on the wall.    
+~
+door~
+1 0 17772
+D3
+~
+~
+0 0 17774
+D5
+~
+~
+0 0 17766
+S
+#17772
+Old bedroom~
+The stench that assaults your senses as you enter makes you think that someone
+or perhaps even something lives still within the darkness of this room.  You
+look about, but everywhere you look you see broken furniture but swear that out
+of the corner of your eyes you see glowing eyes watching your everymove, just
+waiting for you to lower your defenses.  Again, the hairs rise on your neck in
+warning.    
+~
+177 553 0 0 0 0 255 0
+D0
+You see an old battered door.    
+~
+door~
+1 0 17771
+S
+#17773
+Old bedroom~
+More death.  More destruction.  More sights and smells of death then before.  
+What could have caused all that you have been seeing.  Even the federation
+isn't this cruel that they could leave such things be.  This room is piled with
+the remains of humans and animals from all about the lands surrounding this
+house.  Torn beyond recognition, some have the look of being even eaten.  You
+gag as one body suddenly rolls off the pile and stops at your feet.  You turn
+toward the door but catch glowing red eyes out of the corner of your vision.  
+You turn but nothing is there but a feeling of your own death.    
+~
+177 553 0 0 0 0 255 0
+D2
+This door has a red shine to it.    
+~
+door~
+1 0 17774
+S
+#17774
+Western end of hallway~
+Doors lead north and south in this run down and dark old hallway.  Far to the
+east you can just make out what appears to be stairs but you aren't quite sure.
+Smells of both decay and death come from both doors.    
+~
+177 553 0 0 0 0 255 0
+D0
+This door has a funny red tint to it.    
+~
+door~
+1 0 17773
+D1
+~
+~
+0 0 17771
+D2
+A worn and battered door.    
+~
+door~
+1 0 17775
+S
+#17775
+Old bedroom~
+This old room must have once been a spare bedroom for in here there seems to be
+much less violence then the ones that appeared to be occupied.  Furniture is
+smashed and windows broken but for once no smell of death and no bodies.    
+~
+177 553 0 0 0 0 255 0
+D0
+A beaten and battered door.    
+~
+door~
+1 0 17774
+S
+#17776
+Short Hallway~
+You stand of the head of a small short hallway.  Doors branch off to your left
+and right and further down you see two more doors each on the left and right
+and one at the end of the hallway.    
+~
+177 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 17777
+D1
+You see a sturdy oak door.
+~
+door~
+1 0 17779
+D2
+~
+~
+0 0 17731
+D3
+You see a sturdy oak door.
+~
+door~
+1 0 17782
+S
+#17777
+End of short hallway~
+You are at the end of this hallway where a door stands closed before you.  On
+either side are two more identical doors both of which are closed.  Back the
+way you came you see stairs leading down plus two more doors, one on the left
+side of the hallway and one on the right.    
+~
+177 520 0 0 0 0 255 0
+D0
+You see a sturdy wooden door.
+~
+door~
+1 0 17778
+D1
+You see a sturdy oak door.
+~
+door~
+1 0 17780
+D2
+~
+~
+0 0 17776
+D3
+You see a sturdy oak door.
+~
+door~
+1 0 17781
+S
+#17778
+Master bedroom~
+This is the main bedroom for the house.  A large bed dominates the room and a
+wardrobe stands in the corner.  Desks and dressers overflowing with socks and
+pants line a small walk in closet.  Doesn't look like this is kept to neatly.
+  
+~
+177 520 0 0 0 0 255 0
+D2
+You see a sturdy wooden door.    
+~
+door~
+1 0 17777
+S
+#17779
+Spare room~
+A small spare bedroom with very sparse furnishings greets you as you enter.  
+Yet at the same time, you get a feeling of comfort as it is kept neat and clean
+and ready to host any visitors that might drop by.    
+~
+177 520 0 0 0 0 255 0
+D3
+You see a sturdy oak door.    
+~
+door~
+1 0 17776
+S
+#17780
+Coll's Room~
+This is the room of the elder Ohmsford boy.  Some weapons and old, soiled
+clothes lie all about the place.  On appearance it would seem no one has been
+in here for quite some time.    
+~
+177 520 0 0 0 0 255 0
+D3
+You see a sturdy oak door.    
+~
+door~
+1 0 17777
+S
+#17781
+Par's Room~
+This is the room of the youngest Ohmsford's son.  Clothes lie everywhere and it
+looks like someone literally ransacked the place looking for something.  Parts
+of dressers and an old wardrobe lie shattered about the room.  No one has been
+in here for quite some time.    
+~
+177 520 0 0 0 0 255 0
+D1
+You see a sturdy oak door.    
+~
+door~
+1 0 17777
+S
+#17782
+Spare room~
+This room is quite neat and clean, to clean for your tastes.  It's kept for
+those rare occassions when guests would pop by unannounced or even unwanted.  
+A dresser stands empty and alone off to one side of the room, just waiting to
+be used by anyone.    
+~
+177 0 0 0 0 0 255 0
+D1
+You see a sturdy oak door.    
+~
+door~
+1 0 17776
+S
+#17783
+Path around the Jut~
+You follow a small winding path around the mountain, barely descernable against
+the backdrop and trees of the cliff race.  It leads off and up to a small rise
+covered by trees to obscure any overheard observation from flying units the
+Federation might employ.    
+~
+177 512 0 0 0 5 255 0
+D0
+~
+~
+0 0 17784
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 17706
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#17784
+Further along the path~
+Up ahead you enter more trees, hiding yet further the path on which you travel
+around this mountain.  Only once in a while do you spot a lookout along the
+path, so well hidden you have to look twice, but keeping watch all the same
+against intruders.    
+~
+177 512 0 0 0 5 255 0
+D0
+~
+~
+0 0 17785
+D2
+~
+~
+0 0 17783
+S
+#17785
+Bend in the path~
+Here the path takes a sharp turn to the right as it twists it's way up a slight
+rise to a small outcroping overlooking the enter camp and the entrance to the
+caves.    
+~
+177 512 0 0 0 5 255 0
+D2
+~
+~
+0 0 17784
+D4
+~
+~
+0 0 17786
+S
+#17786
+Small rise overlooking the path~
+This small rise gives a perfect view of travellors making their way along the
+path you just came by.  You sense guards nearby but again most are well hidden
+from view.    
+~
+177 512 0 0 0 5 255 0
+D1
+~
+~
+0 0 17787
+D5
+~
+~
+0 0 17785
+S
+#17787
+Base of the outcropping~
+Here is the base of a flat outcropping making up a nice camping area for those
+of the freeborn not housed in the caves of the Jut.  It stretches out a ways
+and cooking fires, kept low so smoke doesn't give away their locations, burn
+with the inviting smells of fresh cooking game.    
+~
+177 512 0 0 0 5 255 0
+D3
+~
+~
+0 0 17786
+D4
+~
+~
+0 0 17788
+S
+#17788
+Outcropping~
+You stand on a flat expanse of rock which is home to the rest of the freeborn
+army and what families survive along with them.  All about you see people
+eating, laughing and making merry as they sit around fires telling tales of
+wars fought, loves lost and things yet to come.    
+~
+177 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 17791
+D1
+~
+~
+0 0 17791
+D2
+~
+~
+0 0 17789
+D3
+~
+~
+0 0 17790
+S
+#17789
+Outcropping~
+You stand on a flat expanse of rock which is home to the rest of the freeborn
+army and what families survive along with them.  All about you see people
+eating, laughing and making merry as they sit around fires telling tales of
+wars fought, loves lost and things yet to come.    
+~
+177 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 17788
+D1
+~
+~
+0 0 17790
+D2
+~
+~
+0 0 17790
+D3
+~
+~
+0 0 17788
+S
+#17790
+Outcropping~
+You stand on a flat expanse of rock which is home to the rest of the freeborn
+army and what families survive along with them.  All about you see people
+eating, laughing and making merry as they sit around fires telling tales of
+wars fought, loves lost and things yet to come.    
+~
+177 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 17791
+D1
+~
+~
+0 0 17791
+D2
+~
+~
+0 0 17789
+D3
+~
+~
+0 0 17789
+D5
+~
+~
+0 0 17787
+S
+#17791
+Outcropping~
+You stand on a flat expanse of rock which is home to the rest of the freeborn
+army and what families survive along with them.  All about you see people
+eating, laughing and making merry as they sit around fires telling tales of
+wars fought, loves lost and things yet to come.    
+~
+177 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 17788
+D1
+~
+~
+0 0 17789
+D2
+~
+~
+0 0 17790
+D3
+~
+~
+0 0 17788
+S
+#17792
+Hidden Passage~
+You turn into yet another passage.  It seems hopeless and you start to wonder
+if being lost down here is such a good idea as you start to hear that strange
+clicking sound again, only it seems closer..  Or does it?    
+~
+177 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 17794
+D1
+~
+~
+0 0 17793
+D3
+~
+~
+0 0 17795
+S
+#17793
+Hidden passage~
+Dampness seeps into your bones as hours seem to slip by unnoticed by you as you
+delve deeper and deeping into the catacombs beneath this forsaken mountain.  
+You almost feel like just lying your pack down, and going to sleep and never
+waking as the darkness starts to get to you.  Only the light from your torches
+seems to give any reassuring hope that you may yet find an exit to this place.
+  
+~
+177 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 17719
+D1
+~
+~
+0 0 17794
+D2
+~
+~
+0 0 17794
+D4
+~
+~
+0 0 17720
+D5
+~
+~
+0 0 17792
+S
+#17794
+Hidden passage~
+Dank and musty smells assault your senses as you seem to enter a part of this
+catacomb that hasn't been visited in years.  Clawing sounds as those of some
+rodent are evident as you creep furthur into this room.    
+~
+177 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 17719
+D2
+~
+~
+0 0 17795
+D3
+~
+~
+0 0 17792
+S
+#17795
+Hidden passage~
+More passages, you're beginning to grow very tired of this place as it seems
+you're never going to get out of this place of what seems like endless caverns
+and timeless darkness.    
+~
+177 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 17798
+D2
+~
+~
+0 0 17720
+D3
+~
+~
+0 0 17796
+S
+#17796
+Hidden passage~
+It seems that this cavern blocks the sounds you heard earlier, though at
+present you can't quite tell why.  Everything has suddenly got deafly quiet and
+you feel as if the worst is about to happen.    
+~
+177 553 0 0 0 0 255 0
+D0
+~
+~
+0 0 17793
+D1
+~
+~
+0 0 17795
+D2
+~
+~
+0 0 17797
+D3
+~
+~
+0 0 17795
+S
+#17797
+Hidden passage~
+A small trickle of water runs down over a small stalagmite and into a natural
+bowl about halfway down it's face making a neat little pool you could drink out
+of.  Again, passages lead off just about everywhere you look into endless
+darkness.    
+~
+177 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 17719
+D2
+~
+~
+0 0 17798
+D3
+~
+~
+0 0 17792
+D4
+~
+~
+0 0 17797
+D5
+~
+~
+0 0 17792
+S
+#17798
+Hidden passage~
+This room seems to start to slope just ever so slighty downward.  A small
+breeze can be felt, warm against your skin and you swear that off somewhere is
+a very faint light.  Perhaps it's finally the way out of here.    
+~
+177 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 17794
+D1
+~
+~
+0 0 17797
+D2
+~
+~
+0 0 17799
+S
+#17799
+Hidden passage~
+A breeze, much stronger then anywhere else in this catacomb of passages under
+the Jut, blows across your face and threatens to blow out your torches.  You
+are still somewhat unsure as to the source as many more passages lead off into
+darkness.    
+~
+177 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 17792
+D2
+~
+~
+0 0 17720
+D3
+~
+~
+0 0 17793
+D4
+~
+~
+0 0 17719
+D5
+~
+~
+0 0 17721
+S
+$~

@@ -1,0 +1,25 @@
+7 cast 'sense life' $*
+0 scan $*
+3 cast 'shadow blades' $*
+2 shadow $*
+18 cast 'blind' $*
+16 cast 'blur' $*
+1 backstab $*
+dream c 'dance of dream' $1
+wa wake;;stand
+sv cast 'shadow vision' $1
+ssw shadowstep west
+sse shadowstep east
+ssd shadowstep down
+sss shadowstep south
+ssn shadowstep north
+ssu shadowstep up
+cw clanwho
+invisi cast 'invis' self
+r rec rec rec $*
+5 cast 'dance of mists' $*
+gt gt &11* &00&06$*  &11*&00
+say say &11* &00&06$*  &11*&00
+6 cast 'dance of shadows' $*
+14 cast 'shadow sphere' $*
+00 cast 'shadow walk' $*

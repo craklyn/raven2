@@ -1,0 +1,25 @@
+duck cast 'portal' duckling
+freehold cast 'portal' sendia
+portal cast 'portal' $*
+wizen portal wizen_old_man
+3 order follow kill 3.
+2 order follow kill 2.
+1 order follow kill 1.
+str cast 'strength' $*
+fly cast 'fly' $*
+infra cast 'infravision' $*
+db drink water
+ts cast 'true sight' $*
+fb cast 'flame blade' $*
+charm cast 'charm person' $*
+gt gtell &11>&00&10--&00&11<&00&03$* &00&11>&00&10--&00&11<&00
+say say &13>&00&14--&00&13<&00&06$* &00&13>&00&14--&00&13<&00
+invis cast 'invis' $*
+cq clan $*
+ecc emote $*
+cf get bread beetle;eat bread
+clan clan &00&04>&00&13--&00&04<&00&11$* &00&04>&00&13--&00&04<&00
+doom cast 'doom bolt' $*
+rm assist;cast 'life drain'
+forge port apprentice_black
+4 order follow kill 4.

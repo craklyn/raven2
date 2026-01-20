@@ -1,0 +1,24 @@
+bli cast 'blind' $*
+r cast 'word' self
+cw clanwho
+sanc c 'sanc' $*
+summon c 'summon' $*
+ward c 'ward' $*
+infra c 'infra' $*
+iden buy identify $*
+gt gt &08$*&00 
+word c 'word of recall' $*
+regen c 'regen' $*
+food c 'create food'
+di c 'detect invisibility' $*
+armor c 'armor' $*
+blind c 'blindness' $*
+sense c 'sense life'
+heal c 'heal' $*
+wake wake;stand
+fly c 'fly' $*
+remp c 'remove poison' $*
+fort c 'fort' $*
+afk nosum;norec
+dr drink sus
+o cast 'heal' group

@@ -1,0 +1,32 @@
+blink cast 'blink'
+drain cast 'life drain' $1
+gair cast 'airsphere' group
+air cast 'airsphere' $1
+ghst cast 'haste' group
+ld cast 'life drain'
+loc cast 'locate' $1
+fly cast 'fly' $1
+blind cast 'blind' $1
+flame cast 'flame blade' $1
+infra cast 'infra'
+shield cast 'shield' $1
+str cast 'strength' $1
+col cast 'color'
+spray cast 'color' $1
+gfly cast 'fly' group
+gshi cast 'shield' group
+gstr cast 'strength' group
+gflam cast 'flame blade' group
+invis cast 'invis' $1
+ginvis cast 'invis' group
+summ cast 'summ' $1
+id cast 'identify' $1
+color cast 'color' $1
+shock cast 'shock'
+grasp cast 'shock' $1
+ts cast 'true sight' $1
+hst cast 'haste' $1
+strike cast 'lightning' $1
+bolt cast 'lightning'
+port cast 'port' $1
+awaken cast 'awaken' $1

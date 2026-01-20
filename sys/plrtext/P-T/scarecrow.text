@@ -1,0 +1,28 @@
+x order fol kill $*
+= auc -info
+resist c 'resist poison'$*
+o order followers $*
+invis c 'invis'$*
+sen c 'sense life'$*
+clan clan &14+&00&01$* &14+&11
+r get revive knap;toss revive
+sanc get sanc knap;toss sanc
+p get all all.scarecrow;wear all;get all all.scarecrow
+say em Grumbles, &03$* &00
+1 c 'soul pierce'$*
+3 c 'life drain'$*
+shield c 'shield'$*
+blind c 'blind'$*
+infr c 'infr
+mal c 'maledict'$*
+\ get all cor
+' rec rec rec
+fly c 'fly'$*
+gt gt &02<&14+&00&02>&00&01$* &02<&14+&00&02>&00
+det c 'detect invis'$*
+sum c 'summon'$*
+charm c 'charm corpse'$*
+[ wa;st
+] destroy 1.
+embalm c 'embalm'$*
+consume c 'consume corpse'$*

@@ -1,0 +1,6 @@
+bli c 'blind' $*
+summon c 'summon' $*
+gt gt &14$* &00
+fly c 'fly' $*
+blind c 'blind' $*
+heal c 'heal' $*

@@ -1,0 +1,193 @@
+#39000
+The Necromancer Guild~
+You are in an unfinished room.
+~
+390 0 0 0 0 0 255 0
+S
+#39001
+Entryway to the Guild of Necromancers~
+    There are several chairs situated around the room for those
+awaiting instruction.  A guard blocks the doorway to the training
+room.
+~
+390 12 0 0 0 0 255 0
+D1
+~
+~
+0 0 3068
+D3
+~
+~
+0 0 39002
+E
+block_msg_char~
+$N swiftly steps in your way.
+~
+E
+block_msg_room~
+$N quickly steps into $n's way.
+~
+E
+block_dir~
+west
+~
+S
+#39002
+The Training Room~
+These are the chambers of the Master of the Dead, most learned in the ways of
+the Dark Arts.  He is willing to instruct pupils, but beware! you are of more
+use to him dead than alive.
+~
+390 1442312 0 0 0 0 255 0
+D1
+~
+~
+0 0 39001
+D5
+~
+~
+0 0 39003
+S
+#39003
+A chilled morgue~
+Necromancers study death and disease.  To this end, they often require fresh
+and sometimes not so fresh corpses.  In here, there is a collection of
+cadavers in various stages of decay, along with many vials of evil looking
+and smelling liquids.  A neophyte necromancer is here, selling some tools of
+the trade.
+~
+390 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 39002
+S
+#39010
+A spiral stairwell~
+You are in a narrow stone shaft, wound about with a tight spiral staircase.
+Each step is smaller than your foot, uneven and worn down by the passage of
+many feet.  Above your head is a trap door leading into the Samsera Mortuary,
+and from below your feet rises a dry, musty odor.
+~
+390 541 0 0 0 0 255 0
+D4
+~
+trap door~
+1 0 18096
+D5
+~
+~
+0 0 39011
+E
+block_dir~
+down
+~
+E
+block_msg_room~
+$N quickly steps into $n's way.
+~
+E
+block_msg_char~
+$N swiftly steps in your way.
+~
+S
+#39011
+A darkened crypt~
+You are in a dusty crypt.  Around you, stone sarcophagi stand silent, their
+contents long since turned to dust.  Footprints in the dust show you are not
+the first to stand here, and the tops of several sarcophagi have papers and
+other miscellaneous items scattered across them.  From a spiral staircase
+near the west wall, a faint breeze of fresher air drifts past you into a
+forbidding doorway to the east.
+~
+390 1049097 0 0 0 0 255 0
+D1
+~
+~
+0 0 39012
+D4
+~
+~
+0 0 39010
+S
+#39012
+An intersection of tunnels~
+You are in a small circular hollow, with dark tunnels leading west, north and
+south.  A faint breeze stirs the air, flowing in from the west and bringing
+with it a dry, dusty smell.
+~
+390 569 0 0 0 0 255 0
+D0
+~
+~
+0 0 39013
+D2
+~
+~
+0 0 39016
+D3
+~
+~
+0 0 39011
+S
+#39013
+A tunnel's end~
+You are at the northern end of a stone tunnel.  The tunnel leads off into
+darkness to the south, while set in the east and west walls are doors of
+an age darkened wood.  On the northern wall, a finely engraved image of
+Baalzebub, Lord of Maladomini, the Seventh Plane of Hell, stares out.
+~
+390 521 0 0 0 0 255 0
+D1
+~
+door wooden~
+1 0 39015
+D2
+~
+~
+0 0 39012
+D3
+~
+door wooden~
+1 0 39014
+S
+#39014
+A workshop~
+You are standing in the workshop of the Wong brothers.  These brothers long
+ago forsook the light of day to work in the cool darkness, studying the magic
+of death and decay.  They are now masters in the creation of undead creatures
+of all sorts, being most well known for their instrumental part in Plawev's
+successes in Krynn.
+~
+390 521 0 0 0 0 255 0
+D1
+~
+door wooden~
+1 0 39013
+S
+#39015
+The Grandmaster's Study~
+You are in a small stone chamber, crudely carved out of the solid rock
+foundations of Samsera.  The door to your west, hanging on rusted hinges,
+faintly reflects the light gleaming from the room's sole lamp.
+~
+390 520 0 0 0 0 255 0
+D3
+~
+door wooden~
+1 0 39013
+S
+#39016
+A peaceful chamber~
+You are in a round stone chamber.  Around the edge of the chamber, the floor
+is raised to form a circular bench, with cushions scattered about to provide
+comfort.  In the ceiling, two narrow shafts provide a little ventilation and
+light, though they are far too small to travel through.
+~
+390 393744 0 0 0 1 255 0
+D0
+~
+~
+0 0 39012
+S
+$~

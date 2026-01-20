@@ -1,0 +1,1932 @@
+#15300
+The desolate road~
+You are on a dirt road that leads up the mountainside.  The area is completely
+bleak.  The ground is bumpy, the trees are leafless, and there is a feeling of
+great evil emanating from the top of the mountain.  A newly built stone wall
+of enormous statue with a gate of steel reinforced oak, blocks the path leading
+to the north.  The gate looks strong enough to keep anyone out ... or is it to 
+keep something in?
+~
+153 0 0 0 0 4 255 0
+D0
+You see a gate strong enough to keep anyone out... or is it to keep something 
+in?  Maybe you should think twice before entering....
+~
+gate~
+1 15391 15301
+D1
+another gate lies this way
+~
+gate~
+2 10169 10161
+D2
+the road leads into the mountains
+~
+~
+0 -1 15398
+E
+gate~
+This gate is strong enough to keep anyone out... or is it to keep something 
+in?  Maybe you should think twice before entering....
+~
+S
+#15301
+The desolate road~
+You are on a dirt road that leads up the mountainside.  The area is completely
+bleak.  The ground is bumpy, the trees are leafless, and there is a feeling of
+great evil emanating from the top of the mountain.  A newly built stone wall of
+formidable stature with a gate of steel reinforced oak blocks the path leading
+to the south.  There is a rickety sign next to the road.
+~
+153 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 15302
+D2
+The gate is strong enough to not keep people out, but to keep something in!
+~
+gate~
+1 -1 15300
+E
+sign rickety~
+The sign reads:
+
+   ::::::::::::::::::::::::::::::
+   :: You are now entering the ::
+   :: domain of the great lord ::
+   :: Vrolok.  Great evil lies ::
+   :: ahead.  Proceed  at your ::
+   :: own risk.                ::
+   :::::::::::::::::::::::::::::: 
+~
+E
+gate~
+The gate is strong enough to not keep people out, but to keep something in!
+~
+S
+#15302
+The desolate road~
+The road starts to get steeper here.  The ground is very rocky, and everything
+appears grey and lifeless.
+~
+153 0 0 0 0 5 255 0
+D2
+~
+~
+0 -1 15301
+D4
+~
+~
+0 -1 15303
+S
+#15303
+The desolate road~
+The road is completely barren, save for rocks and a few dying plants.  There
+is a smell of death, and you can hear lupine howling in the distance.
+~
+153 0 0 0 0 5 255 0
+D4
+~
+~
+0 -1 15304
+D5
+~
+~
+0 -1 15302
+S
+#15304
+The desolate road~
+The road seems to level out here, as you near the top of the mountain.  You
+see a bridge farther north.  The howls are also getting louder.
+~
+153 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 15305
+D5
+~
+~
+0 -1 15303
+S
+#15305
+Before the great bridge~
+The road comes to an end here.  Before you, to the east, you see a long stone
+bridge.  It spans a deep chasm.  As you look down, all you can see is mist.
+The howling is all around you now.
+~
+153 0 0 0 0 2 255 0
+D0
+~
+bars~
+1 0 43401
+D1
+~
+~
+0 -1 15306
+D2
+~
+~
+0 -1 15304
+S
+#15306
+On the great bridge~
+The bridge looks very old, but has defied time and still stands strong.  Up
+ahead you see a gate at the center of the bridge, and beyond that is the
+house of Lord Vrolok.  A cold wind blows by, chilling you to the bone.
+~
+153 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 15307
+D3
+~
+~
+0 -1 15305
+S
+#15307
+At the front gate in the center of the bridge~
+Two small towers rise from the sides of the bridge, and between them stands
+a black iron gate.  Through the gate you can see the house.  You can also
+hear the howling coming from beyond the gate.  You have some reservations
+about going through the gate....
+~
+153 0 0 0 0 1 255 0
+D1
+The gate is made of black iron and is cold to the touch.
+~
+gate iron black~
+2 15300 15308
+D3
+~
+~
+0 -1 15306
+S
+#15308
+On the bridge near the front door~
+You are standing on the stone bridge which spans a great chasm.  To the
+east is the house, and to the west is the gate.  You get a sense of dread
+when you look at the house.  It seems to be shrouded in perpetual night.
+~
+153 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 15309
+D3
+The gate is made of black iron and is cold to the touch.
+~
+gate iron black~
+2 15300 15307
+S
+#15309
+The front door~
+You are standing on the steps before the front door.  The house looks
+ancient and weathered, but still stands strong.  The front door is made
+of wood and iron, and is splintered and rusting, yet you feel that it
+can still keep all uninvited guests out....or in.  There is a thick rug
+in front of the door, but it doesn't look very welcome.  Flanking the
+door are two pedestals, on which two gruesome gargoyle statues crouch.
+They appear to be staring and you, staring and grinning.
+~
+153 0 0 0 0 1 255 0
+D1
+The front door stands, blocking passage for all.
+~
+door front~
+1 15301 15310
+D3
+~
+~
+0 -1 15308
+S
+#15310
+The foyer~
+You are standing in the middle of the foyer.  It is very dark, and you hear
+strange noises coming from all around you.  This area is barren, save for a
+curious sculpture standing before you, right in the middle of the foyer.  To
+the east is a flight of stairs, and passageways are to the north and south.
+~
+153 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15311
+D1
+~
+~
+0 -1 15332
+D2
+~
+~
+0 -1 15324
+D3
+The front door stands, blocking passage for all.
+~
+door front~
+2 15301 15309
+E
+sculpture curious~
+It is a sculpture of the Greek god Apollo, dearly holding on to a changing
+Daphne.  She is almost completely a laurel tree;  only her head and upper
+torso remain those of a beautiful nymph.  She reaches out to Apollo in
+futility, her arms having already turned into branches.
+~
+S
+#15311
+Western end of the northern hallway~
+You are at the west end of the northern hallway.  Farther to the east, you
+see doors on either side.  The passageway is dimly lit by small candles
+hanging from the walls.
+~
+153 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15312
+D2
+~
+~
+0 -1 15310
+S
+#15312
+Northern hallway~
+There are two rows of suits of armor, standing with their backs to the
+walls.  They are dirty and unkempt, and almost appear to have seen
+action recently.  They wield great poleaxes.  The hallway stretches
+out to the east and west.
+~
+153 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15313
+D3
+~
+~
+0 -1 15311
+E
+armor suit~
+The armor is made of a heavy, dull grey metal.  It is ornately decorated,
+and the visor of the helmet is in the shape of a wolf's muzzle.  The armor
+is covered with dirt and dust, and stains of blood appear to be somewhat
+fresh.
+~
+S
+#15313
+Middle of the northern hallway~
+The dark hallway continues to the east and west.  The living room is to
+the north, and a door is to the south.  Farther to the east are more doors.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15316
+D1
+~
+~
+0 -1 15314
+D2
+The wooden door is unmarked, and you hear nothing from beyond.
+~
+door~
+1 -1 15317
+D3
+~
+~
+0 -1 15312
+S
+#15314
+Bend in the northern hallway~
+The hallway bends south here, and there are doors to the north and east.
+The hallway stretches out to the west.  You can hear some strange noises
+coming from the north, and faint lupine howling from the south.
+~
+153 9 0 0 0 0 255 0
+D0
+This is a very large, ornate set of double doors.  You hear a lot of
+bustling coming from beyond.
+~
+doors door double~
+1 -1 15318
+D1
+You hear a lot of talking coming from beyond these double doors.
+~
+doors door double~
+1 -1 15319
+D2
+~
+~
+0 -1 15315
+D3
+~
+~
+0 -1 15313
+S
+#15315
+End of the northern hallway~
+The hallway ends here, with a door to the east.  You hear some clanging
+noises through the doors, as well as the howling of wolves you heard on
+your way here.  However, it sounds a lot closer now.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15314
+D1
+From beyond the door you hear the clanging of metal and smell blood and
+roasting meat.  This door obviously leads to the kitchen.
+~
+door~
+1 -1 15320
+S
+#15316
+Living room~
+This large room is decorated with velvet drapes and plush furniture, some
+of which appears to be ripped by claws.  The room is lit by various small
+candles scattered about the room.  Outside the window is completely dark.
+There is a fireplace here, but it is not lit, despite the coldness of the
+room.  The only exit is south.
+~
+153 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15313
+S
+#15317
+Library~
+This huge library also serves as the Master's study.  There are thousands
+of book stacked on shelves covering the walls, and various other books are
+strewn about the room.  A large reading chair stands in one corner of the
+room.
+~
+153 9 0 0 0 0 255 0
+D0
+The wooden door is unmarked, and you hear nothing from beyond.
+~
+door~
+1 -1 15313
+D1
+This shelf appears to have been moved here recently.  Some of the dust
+is still unsettled.
+~
+shelf secret~
+2 15302 15333
+S
+#15318
+The grand ballroom~
+This is a large, open hall, with plush chairs neatly placed about the
+perimeter.  A beautiful crystal chandelier hangs from the high ceiling,
+and the instruments of a string quartet lie scattered at one corner.
+The only exit is through the double doors to the south.
+~
+153 9 0 0 0 0 255 0
+D2
+This is a very large, ornate set of double doors.
+~
+doors door double~
+1 -1 15314
+S
+#15319
+Dining room~
+This room has a great polished dark wood dining table in the center.  On it
+are the remains of a great feast.  Forks, knives, spoons, dishes, goblets,
+and scraps of food are all over the table.  There are easily enough chairs
+to seat thirty.
+~
+153 9 0 0 0 0 255 0
+D2
+This door is used by the servants to get to the kitchen.
+~
+door~
+1 -1 15320
+D3
+These doors lead back out into the hallway.
+~
+doors door double~
+1 -1 15314
+S
+#15320
+Kitchen~
+Dirty pots and pans are all over the place.  It looks like there was a lot
+of cooking done recently.  There is still a large piece of meat roasting on
+a spit, and recently killed game lie on a butcher's block, dripping blood.
+You hear the howling of wolves very clearly now.  It is coming from just
+outside the kitchen, to the east.
+~
+153 8 0 0 0 0 255 0
+D0
+This door is used by the servants to serve their Master and guests in
+the dining room.
+~
+door~
+1 -1 15319
+D1
+You see a large pack of hungry wolves, just waiting for some meat to
+come their way.  You do NOT want to go out there.
+~
+east e outside~
+0 -1 15322
+D2
+~
+~
+0 -1 15321
+D3
+This door leads back to the northern hallway.
+~
+door~
+1 -1 15315
+S
+#15321
+A pantry~
+This is where all of the food is kept.  However, you do not see a lot of food,
+and some of what is on the shelves look like they belong in a laboratory.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15320
+D5
+You spot a trapdoor in the floor.
+~
+trapdoor door down d~
+1 -1 15323
+E
+shelf shelves~
+You see jars full of strange bits of flesh, and various preserved body
+parts, some humanoid, some not.
+~
+S
+#15322
+A pack of hungry wolves~
+Walking into the midst of fifty rabid, starving wolves was not one of
+your brighter ideas.  Too late, they've already ripped you to pieces,
+and are happily feasting upon your flesh.
+
+You are DEAD!
+~
+153 6 0 0 0 2 255 0
+D5
+~
+~
+0 0 18096
+S
+#15323
+Secret laboratory~
+All around you is glassware.  Strange tubes, beakers, flasks, and vials
+are connected into some strange contraption, through which hot bubbling
+liquids flow.  Strange tomes lie open on a table, and crumpled pieces
+of parchment are strewn about, with notes scribbled down on them in some
+arcane language.
+~
+153 8 0 0 0 0 255 0
+D4
+You spot a trapdoor in the ceiling.
+~
+trapdoor door up u~
+1 -1 15321
+E
+glassware glass~
+You wonder what the strange fluids are.  They are of all kinds of different
+colors:  orange, green, red, silver, black, clear.
+~
+S
+#15324
+Western end of the southern hallway~
+This end of the hallway is dimly lit by candles on the wall.  There is
+a door to the south, and the hallway continues east. 
+~
+153 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15310
+D1
+~
+~
+0 -1 15325
+D2
+This is a small door, possibly leading to a closet.
+~
+door~
+1 -1 15329
+S
+#15325
+Middle of the southern hallway~
+This hallway seems to be smaller than the northern hallway, and less
+interesting to look at.  The walls and the paintings hanging on them
+have been ripped to shreds.
+~
+153 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15326
+D3
+~
+~
+0 -1 15324
+S
+#15326
+A turn in the southern hallway~
+The hallway turns from east to south.  From around the corner you hear
+faint music.  There is a large silver mirror hanging on the east wall.
+~
+153 9 0 0 0 0 255 0
+D1
+~
+mirror secret~
+2 15303 15330
+D2
+~
+~
+0 -1 15327
+D3
+~
+~
+0 -1 15325
+S
+#15327
+A bend in the southern hallway~
+The hallway turns from south to east.  You hear faint music coming from
+the west.  The hallway leads north and east.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15326
+D1
+~
+~
+0 -1 15328
+D3
+From behind this ornate door comes some of the most beautiful piano music
+you've ever heard.
+~
+door~
+1 -1 15331
+S
+#15328
+End of the southern hallway~
+There is a door to the east, and the hallway goes back to the west.  You
+hear faint music coming from the west.
+~
+153 9 0 0 0 0 255 0
+D1
+This door leads outside the house, to the garden.
+~
+door~
+1 -1 15336
+D3
+~
+~
+0 -1 15327
+S
+#15329
+Coatroom~
+This is a walk-in closet, full of old, moth-eaten coats.  The large
+amount of dust immediately makes you cough uncontrollably.  The only
+exit is the door to the north.
+~
+153 9 0 0 0 0 255 0
+D0
+This door leads back out into the northern hallway.
+~
+door~
+1 -1 15324
+S
+#15330
+The hidden tower~
+This strange tower looks deserted, yet you feel a strange presence.
+Instead of the dread you felt elsewhere in the house, the gloom of
+this place makes you sad.  The stairs wind farther up. 
+~
+153 9 0 0 0 0 255 0
+D3
+~
+secret mirror~
+2 15303 15326
+D4
+~
+~
+0 -1 15359
+S
+#15331
+Music room~
+The first thing you notice is the huge grand piano in the northwestern
+corner of this room.  It is made of polished ebony, and appears to be
+in perfect condition.  There are also various instruments hanging on
+the walls.  The only exit is the door to the east.
+~
+153 9 0 0 0 0 255 0
+D1
+The door leads back out to the southern hallway.
+~
+door~
+1 -1 15327
+S
+#15332
+At the foot of the staircase~
+This grand staircase leads up to the second and third floors.  The
+banisters are made of polished marble, and the stairs are carpeted
+by an old, tattered red carpet.
+~
+153 13 0 0 0 0 255 0
+D3
+~
+~
+0 -1 15310
+D4
+~
+~
+0 -1 15343
+S
+#15333
+The secret stairwell~
+You wonder what this small, cobweb-filled stairwell was used for, or where
+it leads.  Small steps wind upward.
+~
+153 9 0 0 0 0 255 0
+D3
+This is the back of one of the shelves in the library.
+~
+shelf secret~
+2 15302 15317
+D4
+~
+~
+0 -1 15334
+S
+#15334
+The secret stairwell~
+You wonder what this small, cobweb-filled stairwell was used for, or where
+it leads.  Small steps wind upward and downward.
+~
+153 9 0 0 0 0 255 0
+D4
+~
+~
+0 -1 15335
+D5
+~
+~
+0 -1 15333
+S
+#15335
+The secret stairwell~
+You wonder what this small, cobweb-filled stairwell was used for, or where
+it leads.  Small steps wind downward.
+~
+153 9 0 0 0 0 255 0
+D3
+~
+secret~
+1 -1 15373
+D5
+~
+~
+0 -1 15334
+S
+#15336
+Entrance to the garden~
+Strange plants of all shapes, sizes, and colors are all around you.  The
+amount of growth is somewhat astonishing, considering the decay the rest
+of the house has suffered.  Exits lead in all directions.
+~
+153 1 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15337
+D1
+~
+~
+0 -1 15339
+D2
+~
+~
+0 -1 15337
+D3
+This door leads back inside the house.
+~
+door~
+1 -1 15328
+S
+#15337
+The garden~
+The vegetation is so thick it blocks out natural light.  Exits lead in
+all directions.
+~
+153 1 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15337
+D1
+~
+~
+0 -1 15337
+D2
+~
+~
+0 -1 15339
+D3
+~
+~
+0 -1 15336
+S
+#15338
+The garden~
+The vegetation is so thick it blocks out natural light.  Exits lead in
+all directions.
+~
+153 1 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15337
+D1
+~
+~
+0 -1 15341
+D2
+~
+~
+0 -1 15336
+D3
+~
+~
+0 -1 15337
+S
+#15339
+The garden~
+The vegetation is so thick it blocks out natural light.  Exits lead in
+all directions.
+~
+153 1 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15340
+D1
+~
+~
+0 -1 15337
+D2
+~
+~
+0 -1 15339
+D3
+~
+~
+0 -1 15337
+S
+#15340
+The garden~
+The vegetation is so thick it blocks out natural light.  Exits lead in
+all directions.
+~
+153 1 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15340
+D1
+~
+~
+0 -1 15337
+D2
+~
+~
+0 -1 15337
+D3
+~
+~
+0 -1 15338
+S
+#15341
+The garden~
+This area of the garden is clear, and has a small dark pond.  You wonder
+what kind of life it could sustain....
+~
+153 1 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15340
+D1
+~
+~
+0 -1 15338
+D2
+~
+~
+0 -1 15342
+D3
+~
+~
+0 -1 15337
+E
+pond pool small dark black~
+The murky water is too dark to see into.
+~
+S
+#15342
+The garden~
+This part of the garden is extremely overgrown and lush, making breathing
+difficult.  The plants which grow here also seem exceptionally large.
+~
+153 1 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15337
+D1
+~
+~
+0 -1 15340
+D2
+~
+~
+0 -1 15337
+D3
+~
+~
+0 -1 15339
+S
+#15343
+By the staircase on the second floor~
+The grand staircase leads down and up.  The banisters are made of polished
+marble.  The stairs down are covered by a tattered red carpet, and the stairs
+up are carpeted in royal purple.
+~
+153 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15344
+D1
+~
+~
+0 -1 15351
+D2
+~
+~
+0 -1 15347
+D4
+~
+~
+0 -1 15364
+D5
+~
+~
+0 -1 15332
+S
+#15344
+Hallway~
+This hallway goes to the west.  There is a door to the north.
+~
+153 9 0 0 0 0 255 0
+D0
+You hear slight growling from behind this door.
+~
+door~
+1 -1 15346
+D2
+~
+~
+0 -1 15343
+D3
+~
+~
+0 -1 15345
+S
+#15345
+Hallway~
+This hallway goes to the east.  There is a door to the south.
+~
+153 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15344
+D2
+This black door is marked by a hideous bloodshot eye.
+~
+door~
+2 15304 15350
+S
+#15346
+Guest chamber~
+This bedchamber is in terrible condition.  All of the furniture has been
+ripped apart or broken.  Splinters of wood lie all over the ground.
+~
+153 9 0 0 0 0 255 0
+D2
+This door leads back out into the hallway.
+~
+door~
+1 -1 15344
+S
+#15347
+Hallway~
+This hallway goes to the west.  There is a door to the south.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15343
+D2
+This door looks untouched in years.  You hear nothing from the inside.
+~
+door~
+1 -1 15349
+D3
+~
+~
+0 -1 15348
+S
+#15348
+Hallway~
+This hallway goes to the east.  There is a door to the north.
+~
+153 9 0 0 0 0 255 0
+D0
+This black door is marked by a hideous bloodshot eye.
+~
+door~
+2 15304 15350
+D1
+~
+~
+0 -1 15347
+S
+#15349
+Guest chamber~
+The furniture in this room is dusty and looks as if it hasn't been
+used in many years.  The only exit is the door to the north.
+~
+153 9 0 0 0 0 255 0
+D0
+This door leads back out into the hallway.
+~
+door~
+1 -1 15347
+S
+#15350
+Observation room~
+This is the room from which the Master looks over his estate, and all
+of Midgaard as well.  The view of the surrounding countryside is
+ghastly, as everything looks dead.
+~
+153 9 0 0 0 0 255 0
+D0
+This door leads back out into the hallway.
+~
+door~
+2 15304 15345
+D2
+This door leads back out into the hallway.
+~
+door~
+2 15304 15348
+S
+#15351
+Hallway~
+This part of the hallway looks as if a massacre took place here.  Blood,
+claw marks, bits of old flesh, and other strange markings are all over
+the floor and walls.
+~
+153 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15353
+D3
+~
+~
+0 -1 15343
+S
+#15352
+Hallway~
+This part of the hallway looks as if a massacre took place here.  Blood,
+claw marks, bits of old flesh, and other strange markings are all over
+the floor and walls.
+~
+153 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15353
+D3
+~
+~
+0 -1 15343
+S
+#15353
+End of the hallway~
+There are a pair of ornate double doors to the north, and a curtain to
+the east.
+~
+153 9 0 0 0 0 255 0
+D0
+These heavy double doors are decorated in gold leaf.
+~
+doors door double~
+1 -1 15355
+D1
+The scarlet curtain wavers from the wind blowing on it from the other
+side.
+~
+curtain~
+1 -1 15354
+D3
+~
+~
+0 -1 15352
+S
+#15354
+Balcony~
+From here the Master looks over the other end of his estate.  The cold
+wind chills your entire body.  You see a fiery mountain range far to the
+east.
+~
+153 0 0 0 0 0 255 0
+D3
+The scarlet curtain wavers from the cold wind blowing against it.
+~
+curtain~
+1 -1 15353
+S
+#15355
+The decorated hallway~
+On the walls of this long hallway you see great paintings of the previous
+masters of this house. The hallway continues to the north.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15356
+D2
+These heavy double doors are decorated in gold leaf.
+~
+door door double~
+1 -1 15353
+E
+painting paintings~
+You see a pair of paintings on the east and west walls.
+
+On the East wall is a painting of a great mariner from ages past.  The 
+bottom edge of the frame bears the name "Grigori".
+
+On the West wall is a painting depicting a great general in full arms and
+armor.  The name at the bottom reads "Ordog".
+~
+S
+#15356
+The decorated hallway~
+On the walls of this long hallway you see great paintings of the previous
+masters of this house.  The hallway continues north and south.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15357
+D2
+~
+~
+0 -1 15355
+E
+painting paintings~
+You see a pair of paintings on the east and west walls.
+
+On the East wall is a painting showing a young man with pale, handsome 
+features, and jet black hair.  At the bottom edge of the frame is inscribed 
+the name "Alexei".
+
+On the West wall is a painting depicting a beautiful woman, with long black 
+hair blowing in the wind, in olive raiment.  You read the name "Tatiana" at 
+the bottom.
+~
+S
+#15357
+The decorated hallway~
+On the walls of this long hallway you see great paintings of the previous
+masters of this house.  The hallway continues north and south.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15358
+D2
+~
+~
+0 -1 15356
+E
+painting paintings~
+You see a pair of paintings on the east and west walls.
+
+On the East wall is a canvas.  On this canvas is painted the portrait of a 
+great lord who was loved by his people.  The letters at the bottom spell the 
+name "Sergei".
+
+On the West wall is a faded painting of a mysterious figure.  He appears to be
+looking away, as if in shame.  The name at the bottom reads "Cassova".
+~
+S
+#15358
+The end of the decorated hallway~
+On the walls of this long hallway you see great paintings of the previous
+masters of this house.  There is a massive iron door to the north, and
+the hallway stretches back to the south.
+~
+153 137 0 0 0 0 255 0
+D0
+This is a THICK cast iron door, completely impenetrable.
+~
+door iron~
+2 15305 15394
+D2
+~
+~
+0 -1 15357
+E
+painting paintings~
+You see a pair of paintings on the east and west walls.
+
+On the East wall is a painting that almost seems to glow.  It shows a powerful
+witch-king from long ago.  There are strange runes at the bottom of the frame,
+but next to them is written the name "Voivode".
+
+On the West wall is a painting of a young woman with pale blond hair and grey
+eyes.  She is carrying a golden flute and a golden harp with silver strings.  
+On the frame is the name "Sasha".
+~
+S
+#15359
+The hidden tower~
+This strange tower looks deserted, yet you feel a strange presence.
+Instead of the dread you felt elsewhere in the house, the gloom of
+this place makes you sad.  The stairs wind upward and downward. 
+~
+153 9 0 0 0 0 255 0
+D3
+>From beyond this white door you feel a strange power.
+~
+door white~
+1 -1 15360
+D4
+~
+~
+0 -1 15368
+D5
+~
+~
+0 -1 15330
+S
+#15360
+White hallway~
+This hallway appears to be inaccessible from anywhere within the house
+except for the hidden tower.  The walls are completely white and seem to
+glow.  You wonder what such a place would be doing inside a house such
+as this one.
+~
+153 12 0 0 0 0 255 0
+D1
+The white door leads back into the hidden tower.
+~
+door white~
+1 -1 15359
+D2
+~
+~
+0 -1 15361
+S
+#15361
+White hallway~
+This hallway appears to be inaccessible from anywhere within the house
+except for the hidden tower.  The walls are completely white and seem to
+glow.  You wonder what such a place would be doing inside a house such
+as this one.
+~
+153 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15360
+D1
+You hear faint chanting from beyond this door.
+~
+door white~
+1 -1 15362
+S
+#15362
+The forbidden chapel~
+This chapel was founded in secret, as a place of worship for those who did
+not wish to live a life of evil.  In the walls are niches for candles, and
+two rows of pews face an altar to the east.  You feel at ease here, as if
+none of the horrors of this place could get to you in here.
+~
+153 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15363
+D3
+This door leads back out into the white hallway.
+~
+door white~
+1 -1 15361
+E
+pew pews~
+It appears as if no one has sat in these for a very long time.
+~
+S
+#15363
+By the altar~
+This is a large altar, carved out of a single block of white marble.  There
+are various relics placed atop the altar, and the entire altar radiates an
+incredible power.
+~
+153 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 15362
+S
+#15364
+At the top of the staircase~
+The grand staircase leads down to the second floor.  The banisters are
+made of polished marble, and the stairs are covered by a royal purple
+carpet.
+~
+153 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15370
+D1
+~
+~
+0 -1 15372
+D2
+~
+~
+0 -1 15365
+D5
+~
+~
+0 -1 15343
+S
+#15365
+Hallway~
+This hallway continues to the east.  You get a strange feeling of dread
+from this entire floor, even greater than before.  There is a door to
+the south.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15364
+D1
+~
+~
+0 -1 15366
+D2
+This door is completely unmarked, and you hear nothing from within.
+~
+door~
+1 -1 15367
+S
+#15366
+Hallway~
+This hallway continues to the west.  There is a large silver mirror hanging
+on the east wall.
+~
+153 9 0 0 0 0 255 0
+D1
+~
+mirror secret~
+2 15303 15368
+D3
+~
+~
+0 -1 15365
+S
+#15367
+Storage room~
+This room is full of crates, stacked upon one another.  Most of them have
+nothing very interesting in them.  However, one group of crates in the
+back corner seem a bit strange.
+~
+153 9 0 0 0 0 255 0
+D0
+This door leads back out to the hallway.
+~
+door~
+1 -1 15366
+E
+crates crate corner~
+The crates are full of earth, the same hard, barren soil that is found
+almost everywhere in the Master's domain.
+~
+S
+#15368
+The hidden tower~
+This strange tower looks deserted, yet you feel a strange presence.
+Instead of the dread you felt elsewhere in the house, the gloom of
+this place makes you sad.  The stairs wind downward, and there is a
+trapdoor above you.
+~
+153 9 0 0 0 0 255 0
+D3
+~
+secret~
+2 15303 15366
+D4
+You can faintly hear a female voice through the trapdoor.  It sounds
+as if she is lamenting.
+~
+trapdoor~
+2 15306 15369
+D5
+~
+~
+0 -1 15359
+S
+#15369
+The top of the hidden tower~
+This is a very dreary room.  Just being in here makes you feel depressed.
+The room is completely barren of any decoration.  All you see is hard
+stone.  There are small windows facing the four cardinal directions, but
+it is too dark to see out, despite the darkness inside the room.
+~
+153 9 0 0 0 0 255 0
+D5
+The trapdoor leads back down the hidden tower.
+~
+trapdoor~
+2 15306 15368
+S
+#15370
+Hallway~
+This short hallway ends in a door to the north.  You get a strange feeling
+of dread from this entire floor, ever greater than before.
+~
+153 9 0 0 0 0 255 0
+D0
+You think you can hear the faint singing of three females behind this door.
+~
+door~
+1 -1 15371
+D2
+~
+~
+0 -1 15364
+S
+#15371
+Female bedchamber~
+This room is decorated in white lace, with an obvious feminine touch.  There
+is a dresser against one wall, but there is no mirror atop the dresser.  A
+large bed is by one wall, occupying much of the room's floorspace.  A window
+looks out to the north, but you can see nothing outside.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+window~
+2 15307 15374
+D2
+The door leads back out to the hallway.
+~
+door~
+1 -1 15370
+E
+bed~
+This bed looks large enough for three or four people.
+~
+S
+#15372
+Hallway~
+This hallway continues to the east.  You get a strange feeling of dread
+from this entire floor, even greater than before.
+~
+153 9 0 0 0 0 255 0
+D1
+This door leads to the master bedchamber.
+~
+door~
+2 15308 15373
+D3
+~
+~
+0 -1 15364
+S
+#15373
+The Master's bedchamber~
+This large room is the private chamber of the Lord Vrolock.  Against the
+south wall is a large bed, with curtains veiling it all around.  On the
+north wall is a writing-desk, with some old letters and writing materials
+scattered about its surface.  Above the desk you see a large window, and
+through it you see two stars, one radiant and bright, the other dim and
+fading.
+~
+153 9 0 0 0 0 255 0
+D1
+~
+secret door~
+1 -1 15335
+D3
+This door leads back out to the hallway.
+~
+door~
+2 15308 15372
+E
+writing-desk desk writing~
+Of particular interest to you is an open diary siting on the desk.
+~
+E
+diary~
+On the open pages you see the last entry made into the diary.  The date
+of the entry is quite old - several hundred years old in fact.
+
+           8/15:
+                  The family has called for a gathering tomorrow.
+           I don't know the reason why,  but I am uneasy.  I once
+           heard them mention that I was to follow in the path of
+           our ancestors.  I have heard  very little  about this,
+           yet I cannot help but feel frightened.
+~
+S
+#15374
+Outside the window~
+You are standing on a ledge just outside the window.  The walls of the
+house are cracked and rough, and vines of ivy cling to its surface like
+a slow creeping death.  Good thing this makes it easy for you to climb
+down the side of the house.
+~
+153 0 0 0 0 5 255 0
+D2
+~
+window~
+2 15307 15371
+D5
+~
+~
+0 -1 15375
+S
+#15375
+On the castle wall~
+It seems as though only this sections of the wall, directly underneath
+the window, is suitable for climbing.  The rest of the wall is still
+fairly smooth, making climbing sideways impossible.
+~
+153 0 0 0 0 5 255 0
+D4
+~
+~
+0 -1 15374
+D5
+~
+~
+0 -1 15376
+S
+#15376
+On the castle wall~
+It seems as though only this sections of the wall, directly underneath
+the window, is suitable for climbing.  The rest of the wall is still
+fairly smooth, making climbing sideways impossible.  Below you the wall
+ends and meets the side of the mountain.
+~
+153 0 0 0 0 5 255 0
+D4
+~
+~
+0 -1 15375
+D5
+~
+~
+0 -1 15377
+S
+#15377
+Steep mountain climb~
+The side of the mountain is not much easier to climb than the wall.
+However, it is not completely impossible to make your way up and down
+the mountainside.
+~
+153 0 0 0 0 5 255 0
+D4
+~
+~
+0 -1 15376
+D5
+~
+~
+0 -1 15378
+S
+#15378
+On the mountainside~
+The side of the mountain is almost completely vertical, making progress
+slow at best.  Down below you see a cave entrance - possibly an aerie of
+some sorts, possibly something else?
+~
+153 0 0 0 0 5 255 0
+D4
+~
+~
+0 -1 15377
+D5
+~
+~
+0 -1 15379
+S
+#15379
+Dark cave entrance~
+You are standing at the mouth of a cave dug into the steep mountain face.
+No light penetrates the depths of the cave, and all is silent from within.
+Looking outward, you can see the surrounding countryside, and you notice
+how high up you are.  Going down could be bad for your health.
+~
+153 4 0 0 0 5 255 0
+D2
+~
+~
+0 -1 15381
+D4
+~
+~
+0 -1 15378
+D5
+As you look down, all you see is darkness and mist.  You cannot see bottom.
+~
+down d~
+0 -1 15380
+S
+#15380
+Long fall to the bottom of the valley~
+As you attempt to climb down, you immediately lose your grip and footing.
+You slip and fall a LONG way down, easily reaching TERMINAL VELOCITY, until
+you hit bottom, your body being dashed to pieces on the jagged rocks below!  
+
+You are DEAD!
+~
+153 6 0 0 0 5 255 0
+D5
+~
+~
+0 0 18096
+S
+#15381
+Dark tunnel~
+Your light barely illuminates the area, and you cannot see very far ahead
+or behind you.  You feel the walls of the tunnel as you try to make your
+way through.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15379
+D2
+~
+~
+0 -1 15382
+S
+#15382
+Dark tunnel~
+Your light barely illuminates the area, and you cannot see very far ahead
+or behind you.  You feel the walls of the tunnel as you try to make your
+way through.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15381
+D2
+~
+~
+0 -1 15383
+S
+#15383
+End of the dark tunnel~
+You can barely tell that the tunnel widens into a large cavern to the
+south.  There is a slight rotting stench to the place.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15382
+D2
+~
+~
+0 -1 15384
+S
+#15384
+The cave of tombs~
+You are at the northern end of a large cavern.  Around you, you see the
+great tombs of the previous rulers, who have now become powerful undead
+creatures through the use of sorcery and phylactery.  
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15383
+D1
+~
+~
+0 -1 15386
+D2
+~
+~
+0 -1 15392
+D3
+~
+~
+0 -1 15385
+E
+tomb~
+The name on this tomb reads "Ordog".
+~
+S
+#15385
+The cave of tombs~
+You are at the northwestern end of a large cavern.  Around you, you see
+the great tombs of the previous rulers, who have now become powerful
+undead creatures through the use of sorcery and phylactery.  
+~
+153 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15384
+D2
+~
+~
+0 -1 15387
+E
+tomb~
+The name on this tomb reads "Sasha".
+~
+S
+#15386
+The cave of tombs~
+You are at the northeastern end of a large cavern.  Around you, you see
+the great tombs of the previous rulers, who have now become powerful
+undead creatures through the use of sorcery and phylactery.  
+~
+153 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15388
+D3
+~
+~
+0 -1 15384
+E
+tomb~
+The name on this tomb reads "Grigori".
+~
+S
+#15387
+The cave of tombs~
+You are at the western end of a large cavern.  Around you, you see the
+great tombs of the previous rulers, who have now become powerful undead
+creatures through the use of sorcery and phylactery.  
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15385
+D1
+~
+~
+0 -1 15392
+D2
+~
+~
+0 -1 15389
+D3
+~
+~
+0 -1 15393
+E
+tomb~
+The name on this tomb reads "Alexei".
+~
+S
+#15388
+The cave of tombs~
+You are at the eastern end of a large cavern.  Around you, you see the
+great tombs of the previous rulers, who have now become powerful undead
+creatures through the use of sorcery and phylactery.  
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15386
+D2
+~
+~
+0 -1 15390
+D3
+~
+~
+0 -1 15392
+E
+tomb~
+The name on this tomb reads "Sergei".
+~
+S
+#15389
+The cave of tombs~
+You are at the southwestern end of a large cavern.  Around you, you see
+the great tombs of the previous rulers, who have now become powerful
+undead creatures through the use of sorcery and phylactery.  
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15387
+D1
+~
+~
+0 -1 15391
+E
+tomb~
+The name on this tomb reads "Cassova".
+~
+S
+#15390
+The cave of tombs~
+You are at the southeastern end of a large cavern.  Around you, you see
+the great tombs of the previous rulers, who have now become powerful
+undead creatures through the use of sorcery and phylactery.  
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15388
+D3
+~
+~
+0 -1 15391
+E
+tomb~
+The name on this tomb reads "Tatiana".
+~
+S
+#15391
+The cave of tombs~
+You are at the southern end of a large cavern.  Around you, you see the
+great tombs of the previous rulers, who have now become powerful undead
+creatures through the use of sorcery and phylactery.  
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15392
+D1
+~
+~
+0 -1 15390
+D3
+~
+~
+0 -1 15389
+E
+tomb~
+The name on this tomb reads "Voivode".
+~
+S
+#15392
+At the center of the cave of tombs~
+Here stands a large stone crypt.  All around you are the tombs of the
+previous rulers.  Looking into the crypt is almost like staring into
+the jaws of Hell itself.  You feel a powerful force of evil here.
+~
+153 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15384
+D1
+~
+~
+0 -1 15388
+D2
+~
+~
+0 -1 15391
+D3
+~
+~
+0 -1 15387
+E
+crypt tomb~
+Carved into the old rock of the crypt is the name of the Master, "Vrolok".
+~
+S
+#15393
+Light tunnel~
+This is a strange tunnel, as it is completely lit by white candles.  You
+feel at peace here.  It leads back to ... hmmmm no where ?
+~
+153 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15387
+S
+#15394
+Treasure room~
+This vast chamber is completely lined with iron and is impenetrable.  Scattered
+about you see a huge treasure of gold and jewels.  Various weapons, pieces of
+armor, trophies, and other items decorate the room.  There are two sarcophagi
+in the room, on the east and west walls, and a large boar's head is stuffed and
+mounted on the north wall.
+~
+153 9 0 0 0 0 255 0
+D1
+This sarcophagus is actually an iron maiden, lined with rusty spikes!
+~
+sarcophagus iron maiden~
+1 -1 15395
+D2
+This is a THICK iron door, completely impenetrable.
+~
+door iron~
+2 15305 15358
+S
+#15395
+Inside the iron maiden~
+Why you decided to step inside this torture device is beyond anyone's guess.
+The moment you step in, it closes on you, piercing you with hundreds of rusty
+spikes, turning you into an unrecognizable, bloody mess!
+
+You are DEAD!
+~
+153 6 0 0 0 0 255 0
+D3
+This is the front half of the iron maiden.
+~
+sarcophagus iron maiden~
+1 -1 15394
+S
+#15397
+A Black Hole~
+You are in a dark tunnel, groping your way forward to an exit you hope!  You
+feel a loathsome breeze rush past you bearing a stench of decay.    
+~
+153 297 0 0 0 0 255 0
+D0
+You sense a lifting of the dark ahead
+~
+~
+0 0 15398
+D2
+the entrance lies this way
+~
+~
+0 0 10190
+S
+#15398
+The Tunnel Exit~
+You exit into a open slope from which leads a dirt road heading down the
+mountainside.  The area is completely bleak.  The ground is bumpy, the trees
+are leafless, and there is a feeling of great evil emanating from the north.  
+
+~
+153 0 0 0 0 5 255 0
+D0
+the road continues
+~
+~
+0 0 15300
+D2
+a black tunnel opens before you
+~
+~
+0 0 15397
+S
+$~

@@ -1,0 +1,38 @@
+#23900
+P S 0~
+redpikmin pikmin~
+a red pikmin~
+A little red plant appraches you.
+~
+This little plant has big ears, and a flower placed like an antenna.
+~
+792748 0 0 0 1024 0 0 0 0
+12 0 0 1d10+70 1d5+6
+35 40
+9 9 0 10 -1 -1
+#23901
+P M 0~
+yellowpikmin pikmin~
+a yellow pikmin~
+A little yellow plant runs towards you.
+~
+This little plant has a flower on its head, like an antenna.  It grins, 
+bearing little teeth.
+~
+530476 0 0 0 1024 0 0 0 0
+12 0 0 1d10+70 1d5+6
+35 40
+9 9 0 10 4 -1
+#23902
+P C 0~
+bluepikmin pikmin~
+a blue pikmin~
+A little blue plant eyes you suspicously.
+~
+This little plant has a flower on its head and thorns on its arms.
+~
+530668 0 0 0 1024 0 0 0 0
+12 0 0 10d1+70 1d6+6
+35 40
+9 9 0 10 -1 -1
+$

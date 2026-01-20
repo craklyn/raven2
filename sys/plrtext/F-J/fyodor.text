@@ -1,0 +1,23 @@
+san cast 'sanctuary' $*
+gt gtell &08<<<&10$* &08>>>&00
+0 rec mid vash
+cwa cast 'create water' $*
+cw clanwho
+fly cast 'fly' $*
+reg cast 'regenerate' $*
+bli cast 'blindness' $*
+arm cast 'armor' $*
+ble cast 'bless' $*
+z des corpse
+war cast 'ward' $*
+word cast 'word of recall'
+sum cast 'summon' $*
+inf cast 'infravision' $*
+di cast 'detect invisibility' $*
+cf cast 'create food'
+eart cast 'earthquake'
+hea cast 'heal' $*
+ho hea orc
+9 cast 'heal' aurora
+8 rec mid aur
+cl clan $*

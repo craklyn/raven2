@@ -1,0 +1,33 @@
+
+0 Limbo - Absolutely no edits to this zone, EVER.
+1 Mother Risen's - Same policy applies to this zone.
+2 Special zone - Zone two is comprised of VNUMS 200 to 899. No edits here unless
+approved by a level 59+ IMM. This zone is comprised of objects the src folder
+needs. It also contains a number of quest items.
+10 IMM Test Zone - I've created this zone for temporary testing purposes.
+12 God Rooms - This is where we live, get approval from a level 59+ IMM before
+editing anything in this zone.
+14 In the Air - Not a zone that was originally intended to be special to this MUD,
+but some sloppy editing stuck this in the mess of necessity zones.
+30 Northern Midgaard - This is the loading zone for new characters. Do not Edit
+this zone on the main port unless you get approval from a 59+ IMM.
+76 Official holiday Zone - If you're going to make a quest, item, or mob for a
+holiday, it should go here.
+105 RavenWide MobChute - this area is the "area wide" mob chute. I'm sure you all
+know what the Guardian is, loads here.
+167 Land of Reborn - This area contains all the race hall guilds that were
+developed with the introduction of remort.
+180 Samsera - This zone comprises VNUMS 18000 18199. This is where level 15+
+players will load.
+193 198 378 Clan Zones - These three zones make up the clan halls on RavenMUD.
+380 - 390 Guild Halls - These zones contain all the new guild halls that were
+created for specific classes.
+399 Houses - Never took off, but still resides in the zone files.
+411 412 Samsera Vaults - These areas contain all the lockers. At one time this
+auto populated until we ran out of room. You'll notice zone 412 is actually the
+sewers. However, they used the objects from this zone to populate more lockers.
+560 End Zones - End of the zone files, never create a new zone past this number.
+
+You'll see a number of zones that say reserved or change name for build port. If
+you setup a zone on the build port for someone, make SURE you change the zone file
+name.

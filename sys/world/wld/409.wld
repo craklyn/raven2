@@ -1,0 +1,385 @@
+#40900
+The Northern Road~
+   The road runs from north to south here through a proud stand of trees.  To
+the north the road bends to the east, and farther north in the misty distance
+is the northern range of mountains.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40901
+D2
+~
+~
+0 0 17570
+S
+#40901
+The Northern Road~
+   The Northern road plunges into a deep forest here, only the sounds of deep
+forest prevail.    
+~
+409 68 0 0 0 0 255 0
+D0
+~
+~
+0 0 40902
+D2
+~
+~
+0 0 40900
+S
+#40902
+A shady spot on the Northern Road~
+   The trees here are extremely thick, and block almost all light from the sun.
+Leaves are piled up deep on the road here, and not a sound can be heard but for
+the sounds of the deep forest.    
+~
+409 37 0 0 0 0 255 0
+D0
+~
+~
+0 0 40903
+D2
+~
+~
+0 0 40901
+S
+#40903
+A westerly bend in the Northern Road~
+   The road here turns slightly to the west for those heading north.  The trees
+aren't so thick at this spot, and evidence of campfires in times past can be
+seen off to the side of the road.  It looks like a good spot to stop if you
+need to stop for the night.    
+~
+409 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 40902
+D3
+~
+~
+0 0 40904
+S
+#40904
+The Northern Road~
+   The road straightens northward, and curves eastward for those travelling
+south.  The sounds of a river can be heard to the north of here.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40905
+D1
+~
+~
+0 0 40903
+S
+#40905
+The Northern Road~
+   The woods are very dense here, and the roar of a river can be heard to the
+north.  The trail is almost overgrown with brush, but can still be found
+easily, as the woods are practically impassable.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40906
+D2
+~
+~
+0 0 40904
+S
+#40906
+A covered bridge along the Northern Road~
+   This bridge crosses a rushing river that would be impossible to cross by
+fording or even by boat.  The wood of the bridge is old, and the ceiling is
+high overhead.  You can see through the many holes in the planks, and gaps in
+the floor.    
+~
+409 69 0 0 0 0 255 0
+D0
+~
+~
+0 0 40907
+D2
+~
+~
+0 0 40905
+S
+#40907
+On the Giant's Road~
+   To the south you can hear the sound of a rushing river.  The woods are very
+dense here, and the trail is narrow, but clear for quite a height.  The road
+continues on to both the north and south.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40908
+D2
+~
+~
+0 0 40906
+S
+#40908
+The Giant's Road~
+   The road is paved here, and begins to widen.  The forest still clings
+closely to both sides of the road, and looks very dark.  The sound of a river
+can be heard far to the south.  In the distance to the far north, mountains
+begin to rise out of the haze.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40910
+D2
+~
+~
+0 0 40907
+S
+#40909
+The Giant's Road~
+   The giant's road takes an easterly bend here, passing around an acient stone
+building that stands in the way.  A sign on the building has a crudely drawn
+picture of a mug of ale, and light pours from the tall windows.  The road heads
+south and east from here.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+door~
+1 0 40911
+D1
+~
+~
+0 0 40918
+D2
+~
+~
+0 0 40910
+S
+#40910
+The Giant's Road~
+   The giant's road continues on a straight path through the dense forest here.
+The climate is getting noticably colder by this point, and the woods more and
+more evergreen.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40909
+D2
+~
+~
+0 0 40908
+S
+#40911
+The main room of the Regtorth's Wayhouse~
+   This wayhouse is built mostly for giants, but it seems that all types are
+gathered here to relax after a long days work.  The wayhouse seems to be a
+collecting place for all those who are travelling the northern roads as well as
+for those who live in the area.  The walls of the room show evidence of many
+fights gotten out of hand, and it is apparent that the atmosphere of this place
+could easily get out of hand.  Sounds of the kitchen can be heard to the west,
+and a staircase leads up.    
+~
+409 8 0 0 0 0 255 0
+D2
+~
+door~
+1 0 40909
+D3
+~
+~
+0 0 40912
+D4
+~
+~
+0 0 40913
+S
+#40912
+The kitchen of Regtorth's Wayhouse~
+   There isn't much here in the kitchen, except for a grill where the beef
+sandwiches are prepared, which looks awfully dirty.  Kegs of ale and the house
+drink are stored along the walls here, but are mounted firmly so they cannot be
+taken.  The smell of roasting beef fills the room.    
+~
+409 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 40911
+S
+#40913
+Top of the Stairs~
+   The stairs come up into a small room with doors in all directions leading to
+the four rooms at the wayhouse.  This small landing is decorated with a worn
+red carpet and a glass roof, lending a more sophisticated feel to the wayhouse
+than would have been expected.    
+~
+409 8 0 0 0 0 255 0
+D0
+~
+door~
+1 0 40914
+D1
+~
+door~
+1 0 40917
+D2
+~
+door~
+1 0 40916
+D3
+~
+door~
+1 0 40915
+D5
+~
+~
+0 0 40911
+S
+#40914
+The Blue Room~
+   This room is decorated totally in blue A large chandelier hangs from the
+ceiling at an awesome height to anyone but a giant, and a bed that could sleep
+two giants is against one wall.  A window to the north looks out over the
+forest.    
+~
+409 8 0 0 0 0 255 0
+D2
+~
+door~
+1 0 40913
+E
+window~
+   You can see the forest to the north, and far north of here, you can see the
+steading of the giants near the mountains.    
+~
+S
+#40915
+The HoneyMoon Suite~
+   This room is obviously meant for romance.  The light is provided solely by
+candles and the room is dominated by a huge feather bed in the middle.  The
+window lets in just enough light so that if the candles go out, you can still
+see.    
+~
+409 8 0 0 0 0 255 0
+D1
+~
+door~
+1 0 40913
+S
+#40916
+A Small Bedroom~
+   This room is obviously for those guests who have less money.  As with the
+other rooms, the bed is huge, sized for a giant.  A small washbasin is in this
+room against one wall, and there are no windows.  The floor is wooden, strewn
+with straw.  An odd smell permeates this room.    
+~
+409 8 0 0 0 0 255 0
+D0
+~
+door~
+1 0 40913
+S
+#40917
+The Red Room~
+   This room is decorated with a deep red satin bed, curtains and a lantern
+covered with red glass.  The room is noticibly warmer than the rest of the
+wayhouse.    
+~
+409 8 0 0 0 0 255 0
+D3
+~
+door~
+1 0 40913
+S
+#40918
+The Giant's Road~
+   The road is slowly sloping up towards the mountains and in the distance you
+can see the smoke of campfires and homes.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40919
+D3
+~
+~
+0 0 40909
+S
+#40919
+A Curve in the Road~
+   The road curves around the west here.  To the south, you see the dark green
+carpet of forest.  To the northwest you can see the looming peak of the
+mountains.    
+~
+409 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 40918
+D3
+~
+~
+0 0 40920
+S
+#40920
+The High Road~
+   You are headed towards the base of the mountains.  The snowfields on the
+tall peak loom before you to the north.  To the south you can make out the dark
+forest.  A cold wind rips at you here.    
+~
+409 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 40919
+D3
+~
+~
+0 0 40921
+S
+#40921
+A Curve in the Road~
+   Here the road curves to the north gradually, avoiding some jagged hills
+immeidiately to the west.  The altitude is rising sharply, and the air is
+getting thinner.  The trees here are more and more evergreen than before.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40922
+D1
+~
+~
+0 0 40920
+S
+#40922
+The Northern Road~
+   The road runs from north to south here through a proud stand of trees.  To
+the north the road bends to the west, and farther north in the misty distance
+is the northern range of mountains.  South of here, the road turns east again,
+skirting the jagged hills.    
+~
+409 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40249
+D2
+~
+~
+0 0 40921
+S
+$~

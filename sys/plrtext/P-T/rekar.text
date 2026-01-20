@@ -1,0 +1,14 @@
+sanc cast 'sanctuary' $*
+armor cast 'armor' $*
+b cast 'blind' $*
+f cast 'create food'
+h cast 'heal' $*
+gt gt &10>&14$* $&10<&00
+clan clan &10>&14$* $&10<&00
+say say &10>&14$* $&10<&00
+ntitle ^08.::^07Cursed^08::.^00
+recall cast 'word of recall' $*
+fly cast 'fly' $*
+tw cast 'detect invis' $*
+sum cast 'summon' $*
+a assist maraxus

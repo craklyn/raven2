@@ -1,0 +1,2505 @@
+#32400
+Credits Room~
+This is the Dungeon's of Denegorth. Created by Enki 
+It will not be a "eq" zone, but a place that raven needs in several 
+senses.  it will be gold by death and perhaps a touch of exp unlike any
+current zones.  It will be a large prison complex ran by the Warden
+for profit.  People pay the warden to jail people.  Delivery of the
+intended prisoner is the responsibility of the person requesting the
+imprisonment.  This is also meant to be a place that the citizens
+of the land can threaten to send bad people.  "Give back that diamond
+you thief or i'll send you to denegorth!"  or some such.
+~
+324 0 0 0 0 0 255 0
+S
+#32401
+Entrance to the Dungeons of Denegorth~
+  You are at the entrance to the notorious Dungeons of Denegorth.  All sorts
+of criminals have been locked away in the dungeon's bowels over the years: Are
+you next?  If the fee is right, you just may be.  For the dungeons warden
+operates the dungeon for profit.  Every prisoner here is here because the warden
+has been paid to imprison that being.  The warden is conscious of the reputation
+his dungeons have and is careful to keep his more frequent customers relatively
+happy by remaining somewhat just in his business practices.
+  A long stone corridor leads east of here and a doorless entry lies to the
+south of here.
+~
+324 0 0 0 0 0 255 0
+D1
+the dark dungeon lies ahead
+~
+~
+0 0 32404
+D2
+through the doorway is the dungeon operator's office
+~
+~
+0 0 32402
+D3
+Stairs lead up out of the dungeons.
+~
+~
+0 0 32476
+S
+#32402
+The Dungeon Operator's Office~
+   The Dungeon Operator's Office has a large doorway on the north wall and a
+small one on the east wall.  The office seems to of been hewn out of solid
+black rock, for there are no cracks in the rock's surface.  The walls, ceiling
+and floor are smooth and slightly polished.  The office is roughly square,
+about six meters a side, with a 4 meter high ceiling.  There are a couple
+torches on each wall.    
+~
+324 0 0 0 0 0 255 0
+D0
+the doorway leads to the dungeon's entrance
+~
+~
+0 0 32401
+D1
+~
+~
+0 0 32403
+E
+wall ceiling floor~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+   A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.    
+~
+S
+#32403
+The Assistant's Office~
+  This back room is where the paperwork for the dungeon's daily operations
+are handled.  From arrest/discharge records, to bounty payments and bounty
+offers, to payment schedules for the guards.
+  This is also where prospective new guards are interviewed, and learn a bit
+more about the duties and responsibilities of the guards here.
+~
+324 0 0 0 0 0 255 0
+D3
+the dungeon operator's office lies to the west
+~
+~
+0 0 32402
+S
+#32404
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32405
+D3
+~
+~
+2 0 32401
+E
+wall~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the
+corridor.
+~
+S
+#32405
+The Corridors of Denegorth~
+  The long stone corridor extends west of here and slopes downward from here.
+The corridor seems to of been hewn through solid black rock, for there are no
+cracks in the rock's surface.  The walls, ceiling and floor are smooth and
+slightly polished.  The corridor has a square cross section roughly four meters
+on a side.  Torches hang from the wall on both sides of the corridor every
+thirty meters or so.
+~
+324 4 0 0 0 0 255 0
+D3
+~
+~
+0 0 32404
+D5
+~
+~
+0 0 32406
+S
+#32406
+The Corridors of Denegorth~
+  The long stone corridor slopes upward and downward from here.  The corridor
+seems to of been hewn through solid black rock, for there are no cracks in the
+rock's surface.  The walls, ceiling and floor are smooth and slightly polished.
+The corridor has a square cross section roughly four meters on a side.  Torches
+hang from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D4
+~
+~
+0 0 32405
+D5
+~
+~
+0 0 32407
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32407
+The Corridors of Denegorth~
+  The long stone corridor extends east of here and slopes upward from here.
+The corridor seems to of been hewn through solid black rock, for there are no
+cracks in the rock's surface.  The walls, ceiling and floor are smooth and
+slightly polished.  The corridor has a square cross section roughly four meters
+on a side.  Torches hang from the wall on both sides of the corridor every
+thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32408
+D4
+~
+~
+0 0 32406
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32408
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D0
+an iron-framed wooden door blocks the path
+~
+door~
+1 32401 32475
+D1
+~
+~
+0 0 32409
+D3
+~
+~
+0 0 32407
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+Z 32403
+#32409
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  An iron-framed wooden cell door breaks the plain monotony of the corridor's
+southern wall here.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32410
+D2
+an iron-framed wooden door blocks the path
+~
+door~
+1 32401 32499
+D3
+~
+~
+0 0 32408
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32410
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  An iron-framed wooden cell door breaks the plain monotony of the corridor's
+northern wall here.
+~
+324 0 0 0 0 0 255 0
+D0
+an iron-framed wooden door blocks the path
+~
+door~
+1 32401 32498
+D1
+~
+~
+0 0 32411
+D3
+~
+~
+0 0 32409
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32411
+The Corridors of Denegorth~
+  The long stone corridor extends west and north of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32412
+D3
+~
+~
+0 0 32410
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32412
+The Corridors of Denegorth~
+  The long stone corridor extends south and north of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Heavy steel bars break the plain monotony of the corridor's eastern wall here.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32413
+D1
+beyond heavy steel bars you see the "residents" of these cells
+~
+bars~
+2 32401 32497
+D2
+~
+~
+0 0 32411
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32413
+The Corridors of Denegorth~
+  The long stone corridor extends south and north of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Heavy steel bars break the plain monotony of the corridor's eastern wall here.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32414
+D1
+beyond heavy steel bars you see the "residents" of these cells
+~
+bars~
+2 32401 32496
+D2
+~
+~
+0 0 32412
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32414
+The Corridors of Denegorth~
+  The long stone corridor extends south and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Heavy steel bars break the plain monotony of the corridor's eastern and
+northern walls here.
+~
+324 0 0 0 0 0 255 0
+D0
+beyond the heavy iron bars you see the "residents" of these cells
+~
+bars~
+1 32401 32493
+D1
+beyond heavy steel bars you see the "residents" of these cells
+~
+bars~
+1 32401 32495
+D2
+~
+~
+0 0 32413
+D3
+~
+~
+0 0 32415
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32415
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Heavy steel bars break the plain monotony of the corridor's northern wall
+here.
+~
+324 0 0 0 0 0 255 0
+D0
+beyond heavy iron bars you see the "residents" of these cells
+~
+bars~
+2 32401 32492
+D1
+~
+~
+0 0 32414
+D3
+~
+~
+0 0 32416
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32416
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Heavy steel bars break the plain monotony of the corridor's northern wall
+here.
+~
+324 0 0 0 0 0 255 0
+D0
+beyond heavy iron bars you see the "residents" of these cells
+~
+bars~
+2 32401 32491
+D1
+~
+~
+0 0 32415
+D3
+~
+~
+0 0 32417
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32417
+The Corridors of Denegorth~
+  The long stone corridor extends north and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32418
+D1
+~
+~
+0 0 32416
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32418
+The Corridors of Denegorth~
+  The long stone corridor extends north and south of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  A polished brass and steel door breaks the plain monotony of the corridor's
+western wall here.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32419
+D2
+~
+~
+0 0 32417
+D3
+a polished solid brass and steel door leads into a cell
+~
+door~
+2 32401 32490
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32419
+The Corridors of Denegorth~
+  The long stone corridor extends north and south of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  A polished brass and steel door breaks the plain monotony of the corridor's
+western wall here.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32420
+D2
+~
+~
+0 0 32418
+D3
+a polished brass and steel door leads into a cell
+~
+door~
+2 32401 32489
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32420
+The Corridors of Denegorth~
+  The long stone corridor extends east and south of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Polished brass and steel doors break the plain monotony of the corridor's
+western and northern walls.
+~
+324 0 0 0 0 0 255 0
+D0
+a polished brass and steel door lead into a cell
+~
+door~
+2 32401 32479
+D1
+~
+~
+0 0 32421
+D2
+~
+~
+0 0 32419
+D3
+a polished brass and steel door leads into a cell
+~
+door~
+2 32401 32488
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32421
+The Corridors of Denegorth~
+  The long stone corridor extends east and west of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Polished brass and steel doors break the plain monotony of the corridor's
+southern and northern walls.
+~
+324 0 0 0 0 0 255 0
+D0
+a polished brass and steel door lead into a cell
+~
+door~
+2 32401 32480
+D1
+~
+~
+0 0 32422
+D2
+a polished brass and steel door leads into a cell
+~
+door~
+2 32401 32484
+D3
+~
+~
+0 0 32420
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32422
+The Corridors of Denegorth~
+  The long stone corridor extends east and west of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Polished brass and steel doors break the plain monotony of the corridor's
+southern and northern walls.
+~
+324 0 0 0 0 0 255 0
+D0
+a polished brass and steel door lead into a cell
+~
+door~
+2 32401 32481
+D1
+~
+~
+0 0 32423
+D2
+a polished brass and steel door leads into a cell
+~
+door~
+2 32401 32485
+D3
+~
+~
+0 0 32421
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32423
+The Corridors of Denegorth~
+  The long stone corridor extends east and west of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Polished brass and steel doors break the plain monotony of the corridor's
+southern and northern walls.
+~
+324 0 0 0 0 0 255 0
+D0
+a polished brass and steel door leads into a cell
+~
+door~
+2 32401 32482
+D1
+~
+~
+0 0 32424
+D2
+a polished brass and steel door leads into a cell
+~
+door~
+2 32401 32486
+D3
+~
+~
+0 0 32422
+S
+#32424
+The Corridors of Denegorth~
+  The long stone corridor extends east and west of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Polished brass and steel doors break the plain monotony of the corridor's
+southern and northern walls.
+~
+324 0 0 0 0 0 255 0
+D0
+a dull steel door leads into a cell
+~
+door~
+2 32401 32483
+D1
+~
+~
+0 0 32425
+D2
+a polished brass and steel door leads into a cell
+~
+door~
+2 32401 32487
+D3
+~
+~
+0 0 32423
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32425
+The Corridors of Denegorth~
+  The long stone corridor extends west of here and slopes downward from here.
+The corridor seems to of been hewn through solid black rock, for there are no
+cracks in the rock's surface.  The walls, ceiling and floor are smooth and
+slightly polished.  The corridor has a square cross section roughly four meters
+on a side.  Torches hang from the wall on both sides of the corridor every
+thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D3
+~
+~
+0 0 32424
+D5
+~
+~
+0 0 32426
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+S
+#32426
+The Corridors of Denegorth~
+  The long stone corridor extends south of here and slopes upward from here.
+The corridor seems to of been hewn through solid black rock, for there are no
+cracks in the rock's surface.  The walls, ceiling and floor are smooth and
+slightly polished.  The corridor has a square cross section roughly four meters
+on a side.  Torches hang from the wall on both sides of the corridor every
+thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 32427
+D4
+~
+~
+0 0 32425
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32427
+The Corridors of Denegorth~
+  The long stone corridor extends north and south of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Smooth steel doors break the plain monotony of the corridor's
+eastern and western walls.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32426
+D1
+past a smoooth steel door lies a cell
+~
+door~
+2 32401 32470
+D2
+~
+~
+0 0 32428
+D3
+past a smooth steel door lies a cell
+~
+door~
+2 32401 32472
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32428
+The Corridors of Denegorth~
+  The long stone corridor extends north and south of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  Smooth steel doors break the plain monotony of the corridor's
+eastern and western walls.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32427
+D1
+past a smooth steel door lies a cell
+~
+door~
+2 32401 32471
+D2
+~
+~
+0 0 32429
+D3
+past a smooth steel door is a cell
+~
+door~
+2 32401 32430
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32429
+The Corridors of Denegorth~
+  The long stone corridor extends north and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32428
+D1
+~
+~
+0 0 32431
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32430
+A Solitary Cell~
+  This cell is roughly a two meter cube.  No light at all passes through a
+smooth steel door that is centered in the eastern wall, which leaves the cell
+dark.  The walls, ceiling, and floor are made of smooth black stone.  On the
+floor, lying next to a dirty and worn out cot is a very dirty bucket.
+~
+324 2097673 0 0 0 0 255 0
+D1
+past a smooth steel door lies the cooridor
+~
+door~
+2 32401 32428
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+S
+#32431
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32432
+D3
+~
+~
+0 0 32429
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32432
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  A heavy steel door breaks the plain monotony of the corridor's northern wall.
+~
+324 0 0 0 0 0 255 0
+D0
+through a heavy steel door you see holding quarters for knights
+~
+door~
+1 32401 32473
+D1
+~
+~
+0 0 32433
+D3
+~
+~
+0 0 32431
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32433
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  A heavy steel door breaks the plain monotony of the corridor's northern wall.
+~
+324 0 0 0 0 0 255 0
+D0
+through a heavy steel door lies a death knight holding cell
+~
+door~
+1 32401 32474
+D1
+~
+~
+0 0 32434
+D3
+~
+~
+0 0 32432
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32434
+The Corridors of Denegorth~
+  The long stone corridor extends west of here and slopes downward from here.
+The corridor seems to of been hewn through solid black rock, for there are no
+cracks in the rock's surface.  The walls, ceiling and floor are smooth and
+slightly polished.  The corridor has a square cross section roughly four meters
+on a side.  Torches hang from the wall on both sides of the corridor every
+thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D3
+~
+~
+0 0 32433
+D5
+~
+~
+0 0 32435
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32435
+The Corridors of Denegorth~
+  The long stone corridor extends south of here and slopes upward from here.
+The corridor seems to of been hewn through solid black rock, for there are no
+cracks in the rock's surface.  The walls, ceiling and floor are smooth and
+slightly polished.  The corridor has a square cross section roughly four meters
+on a side.  Torches hang from the wall on both sides of the corridor every
+thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 32441
+D4
+~
+~
+0 0 32434
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of
+the corridor.
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32436
+The Corridors of Denegorth~
+  The long stone corridor extends west of here and slopes downward from here.
+The corridor seems to of been hewn through solid black rock, for there are no
+cracks in the rock's surface.  The walls, ceiling and floor are smooth and
+slightly polished.  The corridor has a square cross section roughly four meters
+on a side.  Torches hang from the wall on both sides of the corridor every
+thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32437
+D5
+~
+~
+0 0 32442
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32437
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  A smooth mithril door breaks the monotony of the corridor's northern wall.
+~
+324 0 0 0 0 0 255 0
+D0
+A smooth mithril door breaks the monotony of the northern wall.
+~
+door~
+2 32435 32466
+D1
+~
+~
+0 0 32438
+D3
+~
+~
+0 0 32436
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32438
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  A smooth mithril door breaks the monotony of the corridor's northern wall.
+~
+324 0 0 0 0 0 255 0
+D0
+A smooth mithril door breaks the monotony of the northern wall.
+~
+door~
+2 32435 32467
+D1
+~
+~
+0 0 32439
+D3
+~
+~
+0 0 32437
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32439
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  A smooth mithril door breaks the monotony of the corridor's northern wall.
+~
+324 0 0 0 0 0 255 0
+D0
+A smooth mithril door breaks the monotony of the northern wall.
+~
+door~
+2 32435 32468
+D1
+~
+~
+0 0 32440
+D3
+~
+~
+0 0 32438
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32440
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+  A smooth mithril door breaks the monotony of the corridor's northern wall.
+~
+324 0 0 0 0 0 255 0
+D0
+A smooth mithril door breaks the monotony of the northern wall.
+~
+door~
+2 32435 32469
+D1
+~
+~
+0 0 32441
+D3
+~
+~
+0 0 32439
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32441
+The Corridors of Denegorth~
+  The long stone corridor extends west and north of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32435
+D3
+~
+~
+0 0 32440
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32442
+The Corridors of Denegorth~
+  The long stone corridor extends south of here and slopes upward from here.
+The corridor seems to of been hewn through solid black rock, for there are no
+cracks in the rock's surface.  The walls, ceiling and floor are smooth and
+slightly polished.  The corridor has a square cross section roughly four meters
+on a side.  Torches hang from the wall on both sides of the corridor every
+thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 32443
+D4
+~
+~
+0 0 32436
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32443
+The Corridors of Denegorth~
+  The long stone corridor extends north and east of here.  The corridor seems
+to of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32442
+D1
+~
+~
+0 0 32444
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32444
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32445
+D3
+~
+~
+0 0 32443
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32445
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32446
+D3
+~
+~
+0 0 32444
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32446
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.  There is
+a door in the southern wall.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32447
+D2
+a solid steel door with a knocker leads out of the cooridor
+~
+door~
+2 32401 32456
+D3
+~
+~
+0 0 32445
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor
+~
+S
+#32447
+The Corridors of Denegorth~
+  The long stone corridor extends west and east of here.  The corridor seems to
+of been hewn through solid black rock, for there are no cracks in the rock's
+surface.  The walls, ceiling and floor are smooth and slightly polished.  The
+corridor has a square cross section roughly four meters on a side.  Torches hang
+from the wall on both sides of the corridor every thirty meters or so.
+~
+324 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 32448
+D3
+~
+~
+0 0 32446
+E
+block_msg_char~
+$N pushes you up against the wall and says, 'You don't look like a guard!'
+~
+E
+block_msg_room~
+$N pushes $n up against the wall and shouts, 'You don't look like a guard!'
+~
+E
+block_dir~
+east
+~
+E
+wall ceiling~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+E
+torch~
+A torch, half a meter in length and burning slowly, lights this portion of the corridor.
+~
+S
+#32448
+The Dungeon's Mess Hall~
+   This is the northen end of the mess hall of the Dungeons of Denegorth.  
+There are tables for the off-duty guards to eat at.  There is a torch on the
+east wall to provide light and the cooridors lie west of here.
+~
+324 512 0 0 0 0 255 0
+D0
+~
+~
+0 0 32449
+D2
+~
+~
+0 0 32451
+D3
+~
+~
+0 0 32447
+S
+#32449
+The Dungeon's Mess Hall~
+   This is the northen end of the mess hall of the Dungeons of Denegorth.  
+There are tables for the off-duty guards to eat at.  There is a torch on the
+north and east wall to provide light.    
+~
+324 512 0 0 0 0 255 0
+D1
+~
+~
+0 0 32450
+D2
+~
+~
+0 0 32448
+E
+torch~
+
+   A torch, half a meter in length and burning slowly, lights this portion of
+the mess hall.    
+~
+S
+#32450
+The Foyer~
+   This is the foyer to the warden's private chambers.  There is nothing here
+except for a torch on the northern wall and two chairs for the sentinel guards.
+The stone of the walls and floor is clean and polished.  The mess hall lies
+west of here.    
+~
+324 512 0 0 0 0 255 0
+D2
+~
+door~
+1 0 32453
+D3
+~
+~
+0 0 32449
+E
+block_msg_room~
+$N confronts $n and says, 'Wrong way scum.'
+~
+E
+block_msg_char~
+$N two-handedly holds the flat of his weapon against your chest and says, 'Wrong way scum.'
+~
+E
+block_dir~
+south
+~
+E
+torch~
+
+A torch, half a meter in length and burning slowly, lights the foyer.
+~
+E
+down floor east wall~
+
+You see your reflection in the smooth, dark rock.
+~
+S
+#32451
+A Stone Kitchen~
+   This is the dungeon's kitchen.  Brass pots and pans hang from racks.  A cast
+iron oven is against the south wall.  A table with attached benches is in the
+middle of the room.    
+~
+324 512 0 0 0 0 255 0
+D0
+~
+~
+0 0 32448
+S
+#32452
+The Office of the Warden of Denegorth~
+   Spartan yet comfortable best describes his office.  A large wooden desk with
+brass pulls is located at the southern end of the room, facing the door.  
+Behind it is a large portrait.  Two chairs sit next to the wall, on the desk's
+left.    
+~
+324 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 32453
+S
+#32453
+Warden's Quarters~
+   Fine furinature fills the room.  A couch lies against the eastern wall and a
+chair sits caddy-corner to it.  A large tapestry hangs on the western wall.  
+It is a picture of several people feasting at a large table.  There are people
+dancing in the background.    
+  There is a door to the north, and the warden's office lies south of here.
+~
+324 393792 0 0 0 0 255 0
+D0
+~
+door~
+1 0 32450
+D2
+~
+~
+0 0 32452
+S
+#32454
+The Guard's Quarters~
+  This room is carved out of the black stone in roughly a three meter
+by three meter cross section.  There are torches on the wall providing
+light.  The floor is covered with thresh and cots. The quartes
+continue south and east of here. 
+~
+324 262656 0 0 0 0 255 0
+D1
+~
+~
+0 0 32455
+D2
+~
+~
+0 0 32458
+S
+#32455
+The Guard's Quarters~
+  This room is carved out of the black stone in roughly a three meter
+by three meter cross section.  There are torches on the wall providing
+light.  The floor is covered with thresh and cots. The quartes
+continue west and east of here. 
+~
+324 262656 0 0 0 0 255 0
+D1
+~
+~
+0 0 32456
+D3
+~
+~
+0 0 32454
+S
+#32456
+The Guard's Quarters~
+   This room is carved out of the black stone in roughly a three meter by three
+meter cross section.  There are torches on the wall providing light.  The floor
+is covered with thresh and cots.  The quartes continue west and east of here
+and there is a door in the north wall.    
+~
+324 262656 0 0 0 0 255 0
+D0
+a solid steel door leads into the corridor
+~
+door~
+2 32401 32446
+D1
+~
+~
+0 0 32457
+D3
+~
+~
+0 0 32455
+S
+#32457
+The Guard's Quarters~
+  This room is carved out of the black stone in roughly a three meter
+by three meter cross section.  There are torches on the wall providing
+light.  The floor is covered with thresh and cots. The quartes
+continue west and south of here. 
+~
+324 262656 0 0 0 0 255 0
+D2
+~
+~
+0 0 32461
+D3
+~
+~
+0 0 32456
+S
+#32458
+The Guard's Quarters~
+  This room is carved out of the black stone in roughly a three meter
+by three meter cross section.  There are torches on the wall providing
+light.  The floor is covered with thresh and cots. The quartes
+continue north and east of here. 
+~
+324 262656 0 0 0 0 255 0
+D0
+~
+~
+0 0 32454
+D1
+~
+~
+0 0 32459
+S
+#32459
+The Guard's Quarters~
+  This room is carved out of the black stone in roughly a three meter
+by three meter cross section.  There are torches on the wall providing
+light.  The floor is covered with thresh and cots. The quartes
+continue west and east of here. 
+~
+324 262656 0 0 0 0 255 0
+D1
+~
+~
+0 0 32460
+D3
+~
+~
+0 0 32458
+S
+#32460
+The Guard's Quarters~
+  This room is carved out of the black stone in roughly a three meter
+by three meter cross section.  There are torches on the wall providing
+light.  The floor is covered with thresh and cots. The quartes
+continue west and east of here. 
+~
+324 262656 0 0 0 0 255 0
+D1
+~
+~
+0 0 32461
+D3
+~
+~
+0 0 32459
+S
+#32461
+The Guard's Quarters~
+  This room is carved out of the black stone in roughly a three meter
+by three meter cross section.  There are torches on the wall providing
+light.  The floor is covered with thresh and cots. The quartes
+continue west and north of here. 
+~
+324 262656 0 0 0 0 255 0
+D0
+~
+~
+0 0 32457
+D3
+~
+~
+0 0 32460
+S
+#32462
+torture region~
+You are in an unfinished room.
+~
+324 2097664 0 0 0 0 255 0
+D1
+~
+~
+1 0 32463
+D2
+~
+door~
+1 0 32444
+S
+#32463
+An unfinished room~
+You are in an unfinished room.
+~
+324 2097664 0 0 0 0 255 0
+D1
+~
+~
+1 0 32464
+D3
+~
+~
+1 0 32462
+S
+#32464
+An unfinished room~
+You are in an unfinished room.
+~
+324 2097664 0 0 0 0 255 0
+D1
+~
+~
+1 0 32465
+D3
+~
+~
+1 0 32463
+S
+#32465
+A Torture Chamber~
+   This room has been hollowed out of solid rock like the rest of the dungeon.
+The walls are covered in places with stains from blood and other bodily fluids.
+There is a table of sorts in the middle of the room, a small bucket of water in
+the far corner and a small fireplace with a hot poker in it, warming.    
+~
+324 2097664 0 0 0 0 255 0
+D3
+~
+~
+1 0 32464
+S
+#32466
+An Isolation Cell~
+  The cell is narrow and long.  It is four meters deep and two meters wide, with 
+a ceiling around two and a half meters high.  Along the back wall of the cell
+is a rectangular slab of stone that was not hewn from the walls, which looks 
+like a place to sleep.  A very dirty bucket sits next to a mithril door on the 
+southern wall, which is the only way out of the cell.  
+~
+324 2097705 0 0 0 0 255 0
+D2
+The only way out of this cell is through the
+smooth mithril door in the southern wall.
+~
+door~
+2 32435 32437
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+wall ceiling floor~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32467
+An Isolation Cell~
+  The cell is narrow and long.  It is four meters deep and two meters wide, with 
+a ceiling around two and a half meters high.  Along the back wall of the cell
+is a rectangular slab of stone that was not hewn from the walls, which looks 
+like a place to sleep.  A very dirty bucket sits next to a mithril door on the 
+southern wall, which is the only way out of the cell.  
+~
+324 2097705 0 0 0 0 255 0
+D2
+2
+The only way out of this cell is through the
+smooth mithril door in the southern wall.
+~
+door~
+2 32435 32438
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+wall ceiling floor~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32468
+An Isolation Cell~
+  The cell is narrow and long.  It is four meters deep and two meters wide, with 
+a ceiling around two and a half meters high.  Along the back wall of the cell
+is a rectangular slab of stone that was not hewn from the walls, which looks 
+like a place to sleep.  A very dirty bucket sits next to a mithril door on the 
+southern wall, which is the only way out of the cell.  
+~
+324 2097705 0 0 0 0 255 0
+D2
+The only way out of this cell is through the
+smooth mithril door in the southern wall.
+~
+door~
+2 32435 32439
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+wall ceiling floor~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32469
+An Isolation Cell~
+  The cell is narrow and long.  It is four meters deep and two meters wide, with 
+a ceiling around two and a half meters high.  Along the back wall of the cell
+is a rectangular slab of stone that was not hewn from the walls, which looks 
+like a place to sleep.  A very dirty bucket sits next to a mithril door on the 
+southern wall, which is the only way out of the cell.  
+~
+324 2097705 0 0 0 0 255 0
+D2
+The only way out of this cell is through the
+smooth mithril door in the southern wall.
+~
+door~
+2 32435 32440
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+wall ceiling floor~
+The black stone is smooth to the touch and devoid of imperfections.
+~
+S
+#32470
+A Solitary Cell~
+  This cell is roughly a two meter cube.  No light at all passes through a
+smooth steel door that is centered in the western wall, which leaves the cell
+dark.  The walls, ceiling, and floor are made of smooth black stone.  On the
+floor, lying next to a dirty and worn out cot is a very dirty bucket.
+~
+324 2097673 0 0 0 0 255 0
+D3
+past a smooth steel door lies the cooridor
+~
+door~
+2 32401 32427
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+S
+#32471
+A Solitary Cell~
+  This cell is roughly a two meter cube.  No light at all passes through a
+smooth steel door that is centered in the western wall, which leaves the cell
+dark.  The walls, ceiling, and floor are made of smooth black stone.  On the
+floor, lying next to a dirty and worn out cot is a very dirty bucket.
+~
+324 2097673 0 0 0 0 255 0
+D3
+past a smooth steel door lies the cooridor
+~
+door~
+2 32401 32428
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+S
+#32472
+A Solitary Cell~
+  This cell is roughly a two meter cube.  No light at all passes through a
+smooth steel door that is centered in the eastern wall, which leaves the cell
+dark.  The walls, ceiling, and floor are made of smooth black stone.  On the
+floor, lying next to a dirty and worn out cot is a very dirty bucket.
+~
+324 2097673 0 0 0 0 255 0
+D1
+past a smooth steel door lies the cooridor
+~
+door~
+2 32401 32427
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+S
+#32473
+A Solitary Cell~
+   This cell is roughly a two meter cube.  No light at all passes through the
+heavy steel door that is centered in the southern wall, which leaves the cell
+dark.  The walls, ceiling, and floor are made of smooth black stone.  On the
+floor, lying next to a dirty and worn out cot is a very dirty bucket.    
+~
+324 2097673 0 0 0 0 255 0
+D2
+beyond a heavy steel door is the dungeon's hallway
+~
+door~
+1 32401 32432
+S
+#32474
+A Solitary Cell~
+  This cell is roughly a two meter cube.  No light at all passes through the
+heavy steel door that is centered in the southern wall, which leaves the cell
+dark.  The walls, ceiling, and floor are made of smooth black stone.  On the
+floor, lying next to a dirty and worn out cot is a very dirty bucket.
+~
+324 2097673 0 0 0 0 255 0
+D2
+beyond a heavy steel door lies the dungeon hallway
+~
+door~
+1 32401 32433
+S
+#32475
+A Holding Cell~
+  This cell is roughly a three meter cube with an exit to the south, through an
+iron-framed wooden door.  A marginal amount of torchlight passes through the 
+window in the door. The smooth black rock's polished surface is broken up by
+graffiti in a couple places.  There is an apparent seat on the western wall.  It
+is nothing more than a portion of the cell that was not hewn away.
+~
+324 0 0 0 0 0 255 0
+D2
+an iron-framed wooden door blocks the path
+~
+door~
+1 32401 32408
+E
+seat stone~
+   A cube of stone has not been hewn away, leaving an apparent seat.  It looks
+uncomfortable.    
+~
+E
+graffiti~
+  Vulgar graffiti says something crude about a guard's sister.
+~
+S
+#32476
+Standing within the Black Stone Foyer~
+   You are standing on solid black stone.  Stairs lead eastward down into the
+dark earth.  The plains are still visible north and west of here, while solid
+stone lies to the immediate south.  The stairs to the east are wide enough for
+three large men to descend abreast.  North of here leads back to the crumbling
+road.    
+~
+324 4 0 0 0 2 255 0
+D0
+~
+~
+0 0 17599
+D1
+The Entrance to the Dungeons of Denegorth lies east of here.
+~
+~
+0 0 32401
+S
+#32478
+Inside the Warden's Vault-unused~
+   You are standing inside the vault of the Warden of Denegorth.  There is not
+much room in here for more than one large person and a few posessions.  The
+walls, ceiling and floor of the vault have been cut flawlessly from the
+surrounding stone.  There is a small wallsafe on the eastern wall.    
+~
+324 10486724 0 0 0 0 255 0
+D3
+~
+vault door~
+0 32434 32452
+S
+#32479
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the southern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 2097673 0 0 0 0 255 0
+D2
+a polished brass and steel door lead out of this cell
+~
+door~
+2 32401 32420
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32480
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the southern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 2097673 0 0 0 0 255 0
+D2
+a polished brass and steel door leads out of this cell
+~
+door~
+2 32401 32421
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32481
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the southern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 2097673 0 0 0 0 255 0
+D2
+a polished brass and steel door lead out of this cell
+~
+door~
+2 32401 32422
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32482
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the southern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 2097673 0 0 0 0 255 0
+D2
+a polished brass and steel door leads out of this cell
+~
+door~
+2 32401 32423
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32483
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the southern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 2097833 0 0 0 0 255 0
+D2
+a dull steel door leads back to the hallway
+~
+door~
+2 32401 32424
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32484
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the northern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 521 0 0 0 0 255 0
+D0
+a polished brass and steel door leads out of this cell
+~
+door~
+2 32401 32421
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32485
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the northern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 521 0 0 0 0 255 0
+D0
+a polished brass and steel door leads out of this cell
+~
+door~
+2 32401 32422
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32486
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the northern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 521 0 0 0 0 255 0
+D0
+a polished brass and steel door leads out of this cell
+~
+door~
+2 32401 32423
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32487
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the northern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 521 0 0 0 0 255 0
+D0
+a polished brass and steel door leads out of this cell
+~
+door~
+2 32401 32424
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32488
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the eastern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 2097673 0 0 0 0 255 0
+D1
+a polished brass and steel door leads out of this cell
+~
+door~
+2 32401 32420
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32489
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the eastern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 2097673 0 0 0 0 255 0
+D1
+a polished brass and steel door leads out of this cell
+~
+door~
+2 32401 32419
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32490
+A Cell of Black Stone~
+  This cell is roughly a three meter cube.  An insignificant amount of light
+enters through a brass and steel door that is centered in the eastern wall,
+leaving the cell dark.  The walls, ceiling, and floor are made of smooth black
+stone.  On the floor, lying next to a dirty and worn out cot is a very dirty
+bucket.
+~
+324 2097673 0 0 0 0 255 0
+D1
+a polished solid brass and steel door leads out of this cell
+~
+door~
+2 32401 32418
+E
+bucket~
+The bucket apparently serves as the prisoner's latrine.
+~
+E
+cot~
+The cot is more or less a pile of torn and worn out rags.
+~
+S
+#32491
+A Large Communal Cell~
+   This cell is about three meters deep and stretches off to the north of here.
+The black stone walls are smooth, if a bit dirty.  There are no torches in
+here, though the bars that act as doors do allow enough light to see within the
+cell.  There are piles of rags and hay that act as beds scattered about.  There
+are some stone benches for the prisoners to sit on.
+~
+324 512 0 0 0 0 255 0
+D1
+this cell continues off to the east
+~
+~
+0 0 32492
+D2
+beyond heavy iron bars you see the dungeon hallway
+~
+bars~
+1 32401 32416
+S
+#32492
+A Large Communal Cell~
+   This cell is about three meters deep and stretches off to the west and east
+of here.  The black stone walls are smooth, if a bit dirty.  There are no
+torches in here, though the bars that act as doors do allow enough light to see
+within the cell.  There are piles of rags and hay that act as beds scattered
+about.  There are some stone benches for the prisoners to sit on.
+~
+324 512 0 0 0 0 255 0
+D1
+this cell continues off to the east
+~
+~
+0 0 32493
+D2
+beyond heavy iron bars you see the dungeon hallway
+~
+bars~
+1 32401 32415
+D3
+this cell continues off to the west
+~
+~
+0 0 32491
+S
+#32493
+A Large Communal Cell~
+   This cell is about three meters deep and stretches off to the west and east
+of here.  The black stone walls are smooth, if a bit dirty.  There are no
+torches in here, though the bars that act as doors do allow enough light to see
+within the cell.  There are piles of rags and hay that act as beds scattered
+about.  There are some stone benches for the prisoners to sit on.
+~
+324 512 0 0 0 0 255 0
+D1
+this cell continues off to the east
+~
+~
+0 0 32494
+D2
+beyond the heavy iron bars you see the dungeon hallway
+~
+bars~
+1 32401 32414
+D3
+this cell continues off to the west
+~
+~
+0 0 32492
+S
+#32494
+A Large Communal Cell~
+   This cell is about three meters deep and stretches off to the west and south
+of here.  The black stone walls are smooth, if a bit dirty.  There are no
+torches in here.  Barely enough light filters in from the other portions of the
+cells to light this area.  There are piles of rags and hay that act as beds
+scattered about.  There are some stone benches for the prisoners to sit on.
+~
+324 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 32495
+D3
+~
+~
+0 0 32493
+S
+#32495
+A Large Communal Cell~
+   This cell is about three meters deep and stretches off to the north and south
+of here.  The black stone walls are smooth, if a bit dirty.  There are no
+torches in here, though the bars that act as doors do allow enough light to see
+within the cell.  There are piles of rags and hay that act as beds scattered
+about.  There are some stone benches for the prisoners to sit on.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32494
+D2
+~
+~
+0 0 32496
+D3
+beyond the heavy iron bars you see the dungeon hallway
+~
+bars~
+1 32401 32414
+S
+#32496
+A Large Communal Cell~
+   This cell is about three meters deep and stretches off to the north and south
+of here.  The black stone walls are smooth, if a bit dirty.  There are no
+torches in here, though the bars that act as doors do allow enough light to see
+within the cell.  There are piles of rags and hay that act as beds scattered
+about.  There are some stone benches for the prisoners to sit on.
+~
+324 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 32495
+D2
+~
+~
+0 0 32497
+D3
+beyond the heavy iron bars you see the dungeon hallway
+~
+bars~
+1 32401 32413
+S
+#32497
+A Large Communal Cell~
+   This cell is about three meters deep and stretches off to the north of here.
+The black stone walls are smooth, if a bit dirty.  There are no torches in
+here, though the bars that act as doors do allow enough light to see within the
+cell.  There are piles of rags and hay that act as beds scattered about.  There
+are some stone benches for the prisoners to sit on.
+~
+324 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 32496
+D3
+beyond the heavy iron bars you see the dungeon hallway
+~
+bars~
+1 32401 32412
+S
+#32498
+A Holding Cell~
+  This cell is roughly a three meter cube with an exit to the south, through an
+iron-framed wooden door.  A marginal amount of torchlight passes through the 
+window in the door. The smooth black rock's polished surface is broken up by
+graffiti in a couple places.  There is an apparent seat on the western wall.  It
+is nothing more than a portion of the cell that was not hewn away.
+~
+324 0 0 0 0 0 255 0
+D2
+an iron-framed wooden door blocks the path
+~
+door~
+1 32401 32410
+E
+seat stone~
+  A cube of stone has not been hewn away, leaving an apparent seat.  It looks uncomfortable.
+~
+E
+graffiti~
+  Vulgar graffiti says something crude about a guard's mother.
+~
+S
+#32499
+A Holding Cell~
+   This cell is roughly a three meter cube with an exit to the north, through
+an iron-framed wooden door.  A marginal amount of torchlight passes through the
+window in the door.  The smooth black rock's polished surface is broken up by
+graffiti in a couple places.  There is an apparent seat on the western wall.  
+It is nothing more than a portion of the cell that was not hewn away.    
+~
+324 0 0 0 0 0 255 0
+D0
+an iron-framed wooden door blocks the path
+~
+door~
+1 32401 32409
+E
+stone seat~
+  A cube of stone has not been hewn away, leaving an apparent seat.  It looks uncomfortable.
+~
+E
+graffiti~
+  Vulgar graffiti says something crude about a guard's sister.
+~
+S
+$~

@@ -1,0 +1,1877 @@
+#15600
+Inside the mountain~
+   You stand in front of a beautiful golden cave carved into the side of
+the mountain.  An area of ten feet around the cave has been cleared to
+prevent any hostile creatures from entering.  When you look down the stairs
+in the cave, you notice from the thick layer of dust upon them that they
+have not been used much recently.
+~
+156 4 0 0 0 5 255 0
+D0
+You see the golden gate.
+~
+gate~
+1 15636 15652
+D5
+You see the marble stairs leading into the ancient Tombs of Tarin.
+~
+~
+0 0 15601
+S
+#15601
+Entrance to the Tombs of Tarin~
+   You walk down the marble stairs into the Tombs of Tarin.  Large
+boulders from the roof have destroyed part of the stairs, but it seems
+safe enough to climb down the next few feet.  A bronze plate has been
+nailed to the roof above the stairs.  You can go up and down from here.
+~
+156 13 0 0 0 4 255 0
+D4
+You see the stairs leading up from the Tombs of Tarin.
+~
+~
+0 0 15600
+D5
+You see the marble stairs leading down.
+~
+~
+0 0 15602
+E
+plate bronze~
+ 
+   ************************************************************
+   *           Welcome to the Silvery Tombs of Tarin          *
+   *                  The King and The Queen                  *
+   ************************************************************
+ 
+~
+S
+#15602
+Upper half of the broken stairs~
+   You find yourself standing at the edge of what once was the marble
+stairs leading into the tomb.  Enormous boulders have wrecked the stairs
+below, and if you decide to take the jump down, it seems impossible to get
+up again.  You can go down and up from here.
+~
+156 13 0 0 0 4 255 0
+D4
+You see the marble stairs leading up.
+~
+~
+0 0 15601
+D5
+~
+~
+0 -1 15603
+S
+#15603
+Lower half of the broken stairs~
+   You decide to take the jump down the stairs, well aware that it seems
+impossible to climb back up this way.  The only thing that troubles you is
+the speed you fly with....
+                          Woooo
+                               oooo
+                                   oo
+                                     o
+                                      o
+                                      o
+                                      owwwww. Your heart skips a few
+beats, then relaxes as you find yourself safely landed on the lower stairs. 
+The only way from here is down.
+~
+156 9 0 0 0 0 255 0
+D4
+You can see the stairs some feet above, and wonder how you could ever
+get back from here.
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 15605
+S
+#15604
+Vault of Heroes~
+   You enter a huge hall occupied with stone statues of long forgotten
+heroes.  The statues seem indestructible, and hanging from each one is
+a small gold plate with some writing on it.  Besides the dust and the
+dry air, this room amazes you with its beauty.
+~
+156 525 0 0 0 1 255 0
+D3
+You see the entrance hall.
+~
+~
+0 0 15605
+E
+plate plates~
+You see plates with a strange cryptic writing, unknown to you.
+~
+E
+statue statues~
+You see large stone statues, and each and every one of them has the
+look of some hero from the past.
+~
+S
+#15605
+Entrance hall of Tarin~
+   Below the stairs you find this beautiful hall made out of stone.  Large
+banners hang from the roof and on each banner an eagle is painted.  In the
+middle of the hall you find a well springing with crystal clear water. 
+Around the well there are small bottles hanging with ropes attached to
+them.  To the east you see a pair of large bronze doors leading into the
+vault of heroes.
+~
+156 12 0 0 0 1 255 0
+D0
+~
+~
+0 -1 15606
+D1
+You see the vault of heroes
+~
+~
+0 0 15604
+D2
+~
+~
+0 -1 15607
+D3
+You see a lift door.
+~
+door~
+1 0 15686
+D4
+You see the broken stairs.
+~
+~
+0 -1 -1
+S
+#15606
+Marble hallway~
+   You stand in a marble corridor leading east from here.  The light gives
+the walls some fantastic colors, and to the east you notice a faint light. 
+You can go south and east from here.
+~
+156 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15638
+D2
+~
+~
+0 -1 15605
+S
+#15607
+Guardmens corridors~
+   Standing inside this dimly-lit corridor with doors on each side, you
+notice the silence and the cleanliness of these parts.  Perhaps the guards
+are on duty.  To the south the corridor continues, and to the west and east
+you see doors.
+~
+156 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15605
+D1
+You see a door leading into the private barracks.
+~
+door~
+1 0 15609
+D2
+~
+~
+0 -1 15611
+D3
+You see the door leading into the officers barracks.
+~
+door~
+1 0 15608
+S
+#15608
+Officers barracks~
+   You enter a room perfectly furnished for the high-ranking members of
+this community.  Sofas, chairs and tables are placed around a fireplace
+in the middle of the room.
+~
+156 12 0 0 0 1 255 0
+D0
+You see the door to the sleeping barracks.
+~
+door~
+1 0 15610
+D1
+You see the door leading out on the corridor.
+~
+door~
+1 0 15607
+S
+#15609
+Private barracks~
+   You stand inside the privates' section of the guardmen's corridor.  
+A few guards lie sleeping and it seems to you that the privates have
+neglected the cleaning in here for a long time.
+~
+156 9 0 0 0 0 255 0
+D3
+You see a door leading out on the corridor.
+~
+door~
+1 0 15607
+S
+#15610
+Officers sleeping quarters~
+   You enter a dull room occupied with beds.  The guards wouldn't like
+it if they found you here, so most people don't stay around.  The only
+exit is to the south.
+~
+156 13 0 0 0 0 255 0
+D2
+You see the barracks.
+~
+door~
+1 0 15608
+S
+#15611
+Bend in corridors~
+   You walk along the corridors until you arrive at this point, where
+the corridor turns.  To the west you see a door with a sign and to the
+north and east are the corridors.
+~
+156 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15607
+D1
+~
+~
+0 -1 15613
+D3
+~
+~
+0 -1 15612
+S
+#15612
+Kitchen~
+   You enter the guardmens' kitchen and find a few bottles and other
+tools used by cooks to make food.  The smell of good food reaches you,
+and you feel hungry.
+~
+156 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15611
+D2
+You see the fridge.
+~
+fridge~
+1 0 15615
+S
+#15613
+Guardmens' corridors~
+   You walk down the guardmen's corridors, running east and west while
+to the south is a door.  A few torches give this corridor a comfortable
+light.
+~
+156 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15616
+D2
+You see the bathroom.
+~
+~
+0 0 15614
+D3
+~
+~
+0 -1 15611
+S
+#15614
+Bathroom~
+   You enter a room that serves as a bathroom.  From the roof, crystal-
+clear water runs down into a little pool in the middle of the room.  This
+looks like a good place to bathe.  You can go north from here.
+~
+156 9 0 0 0 0 255 0
+D0
+You see the guardmens' corridors.
+~
+~
+0 0 15613
+S
+#15615
+Fridge~
+   This is a very cold room, everything is Freeeeezzzing.  Large chunks
+of meat are placed on hooks above a few barrels.
+~
+156 5 0 0 0 0 255 0
+D0
+You look out from the fridge.
+~
+fridge~
+1 0 15612
+S
+#15616
+Guardmens' corridors~
+   Walking along the corridors, you arrive at this noisy place.  A few
+feet to the north you see a bar that looks rather tempting.  To the
+south you see a smithy.  You can also follow the corridor east or
+west.
+~
+156 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15617
+D1
+~
+~
+0 -1 15625
+D2
+~
+~
+0 -1 15618
+D3
+~
+~
+0 -1 15613
+S
+#15617
+The Inn for Heroes~
+   You enter a large room with chairs and tables everywhere.  A large bar
+up against the north wall attracts all attention.  Behind the counter stand
+large barrels of beer and ale.  Stairs leads up to the second floor.
+~
+156 0 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15616
+D4
+Stairs lead up to the second floor.
+~
+~
+0 0 15619
+E
+bar~
+The bar is old but very well kept.  Quite a few bottles, empty and full,
+rest upon it.
+~
+E
+stairs~
+A red carpet runs up the stairs covering the old wooden stairs below it.
+The stairs have been used quite a lot and you wonder where they lead.
+~
+E
+barrels barrel~
+You see quite a few empty barrels:  a closed lid behind one of the barrels
+leads somewhere unknown.
+~
+E
+lid~
+A closed lid behind the barrels seems unpickable.
+The lid is closed.
+~
+S
+#15618
+Inside the weapon shop~
+   You enter a room used by the blacksmiths of Tarin as a shop to sell
+their wares.  A counter in the middle of the room reflects the size of the
+weapons behind it.
+~
+156 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15616
+E
+weapons~
+You see battleaxes, swords, daggers and all kinds of weapons.
+~
+E
+counter~
+It's rather big and made of oak.
+~
+S
+#15619
+Balcony above the bar~
+   You stand on a balcony above the bar with dozens of doors in front
+of you.  These doors lead into small rooms used by the bar guests. The
+walls are painted red and there are a few pot plants.  This gives this
+balcony the look of a whorehouse.
+~
+156 0 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15621
+D2
+You look down at the bar.  People sit at tables talking, not taking any
+notice of you.
+~
+~
+0 -1 -1
+D3
+You see a door leading into a room.
+~
+~
+0 0 15620
+D5
+Stairs leads down into the bar.
+~
+~
+0 0 15617
+E
+plant plants~
+They are pretty and well kept.
+~
+S
+#15620
+Dimly lit room~
+   You enter a dimly lit room dominated by a large bed.  A few pictures of
+people you don't know are on a small table next to the bed.  A large
+wardrobe stands against the northern wall.  The wardrobe is closed.
+~
+156 12 0 0 0 0 255 0
+D0
+You see the wardrobe door leading into a huge wardrobe.
+~
+door~
+1 0 15623
+D1
+You see the balcony
+~
+~
+0 0 15619
+E
+pictures picture~
+The picture looks like the woman who sleeps in this bed.  Beside her
+stands an enormous man with an evil look in his eyes.
+~
+E
+wardrobe~
+You take a few step closer to the wardrobe and discover that it can be
+opened.
+~
+E
+table~
+You see a large wooden table.
+~
+E
+bed~
+It looks very soft and most people would find it very comfortable.
+~
+S
+#15621
+Abandoned room~
+   You enter a room with all the standard equipment for a room, including
+a bed, a table, a large wardrobe, and carpet on the floor.  Besides all
+this, you find this room untouched and there is a thick layer of dust on
+the floor.
+~
+156 12 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15619
+E
+wardrobe~
+The wardrobe is huge, and made of oak.
+The wardrobe is open.
+~
+S
+#15622
+A bend in the dark forest~
+   You are standing at a bend in the very dark forest of Butwa-Phuque. To the
+north lies an ancient, weather-battered stone configuration that seems to
+have been avoided for ages.  By the ominous looks of the dolmen, you 
+understand way ... the forest trails leads south and west. 
+~
+156 0 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15501
+D2
+~
+~
+0 -1 15689
+D3
+~
+~
+0 -1 15688
+S
+#15623
+Inside the wardrobe~
+   You enter the wardrobe and find it rather big compared to the usual
+size of wardrobes.  Clothes and other personal stuff hang all around
+you.  There seems to be some sort of a lid on the wardrobe floor.
+~
+156 0 0 0 0 0 255 0
+D2
+You see a dimly-lit room through a little hole in the door.
+~
+door~
+1 0 15620
+D5
+You quickly remove all the clothes and dust on the wardrobe floor and
+find a lid in the floor.
+~
+lid~
+1 0 15624
+E
+clothes clothe~
+On the wardrobe floor lies a lot of dirty clothes.
+~
+S
+#15624
+Wine cellar~
+   You crawl down the ladder and end up in this huge wine cellar below
+the inn.  All around you there are enormous barrels filled with wine and
+other, unknown liquids.  A few lanterns nailed to the roof light up the
+rooms with a pale yellow light that makes the barrels look like huge
+monsters.  The air is damp, and most people would start looking for the
+exit at once.
+~
+156 0 0 0 0 0 255 0
+D1
+You see a secret door leading into the secret tunnel.
+~
+secret~
+1 0 15626
+D4
+You see a ladder leading up to a lid in the roof.
+~
+lid~
+1 0 15623
+E
+barrels~
+You take a good look at all the enormous barrels and find that some of
+them seems to be empty or at least untouched for ages.  From others, wine
+drips from the taps.
+~
+E
+lantern lanterns~
+The lanterns seem to be out of reach and you wonder how they could ever
+light up this entire room without any kind of magic.
+~
+S
+#15625
+Behind the curtain~
+   You stand at the end of the guardmens corridors.  A curtain to the
+north hides the marble halls.  This room is meant for guards who should
+be able to enter the marble halls within a few seconds.  To the north is
+the curtain and to the west lie the guardmens' corridors.
+~
+156 8 0 0 0 0 255 0
+D0
+You see a silk red curtain leading north.
+~
+curtain silk red~
+1 0 15627
+D3
+~
+~
+0 -1 15616
+E
+wall~
+The walls end abruptly, and turns north and west.
+~
+S
+#15626
+Secret tunnel~
+   You walk inside a secret tunnel below the Inn for Heroes.
+~
+156 0 0 0 0 0 255 0
+D1
+You see a lid.
+~
+lid~
+1 0 15617
+D3
+You see a secret door leading out of the secret tunnel.
+~
+secret~
+1 0 15624
+S
+#15627
+Southern marble hall~
+   You stand inside an enormous white marble hall carved perfectly into the
+heart of the mountain.  Four large pillars, all reflecting a different
+light, stand in each corner, bearing the ceiling of the white hall.  In the
+middle of the hall stands a huge golden throne.
+~
+156 0 0 0 0 0 255 0
+D0
+You see the throne.
+~
+~
+0 0 15635
+D1
+You see the south east pillar.
+~
+~
+0 0 15634
+D2
+You see a silk red curtain leading south.
+~
+curtain silk red~
+1 0 15625
+D3
+~
+~
+0 -1 15628
+E
+pillar pillars~
+The pillars in each corner of the hall send you different beautiful
+colors.
+~
+S
+#15628
+Diamond pillar~
+   You stand below an enormous pillar made out of the largest diamond
+you have ever seen in your entire life.  You try to hide the tears in
+your eyes as you look at this hall.  Nothing could possibly be half as
+beautiful as this *sniff*.
+~
+156 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15629
+D1
+~
+~
+0 -1 15627
+E
+pillar~
+You see the diamond pillar.  It's huge and made of diamonds.  A white and
+blue sparkling light comes from it.
+~
+S
+#15629
+Western marble hall~
+   You stand inside an enormous white marble hall carved perfectly into
+the heart of the mountain.  Four large pillars, all reflecting a different
+light, stand in each corner bearing the roof of the white hall.  In the
+middle of the hall, just east from here, stands a large golden throne.
+~
+156 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15630
+D1
+You see the throne.
+~
+~
+0 0 15635
+D2
+~
+~
+0 -1 15628
+D3
+You see a red silk curtain.
+~
+curtain~
+1 0 15639
+E
+pillar pillars~
+The pillars in each corner of the hall send you different beautiful
+colors.
+~
+S
+#15630
+Ruby pillar~
+   You stand below an amazing pillar made out of one crystal clear ruby. 
+Like the rest of the hall, this room reflects nothing but beauty and peace.
+~
+156 0 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15631
+D2
+~
+~
+0 -1 15629
+E
+pillar~
+A dazzling red and white light comes from this the ruby pillar.
+~
+S
+#15631
+Northern marble hall~
+   You stand just north of the golden throne in the marble hall.  To the
+north hangs a curtain covering a corridor behind it.  From time to time
+you hear a mumbling and a muffled laugh from the north.
+~
+156 12 0 0 0 0 255 0
+D0
+You see a red, silk curtain with dirt stains on it.
+~
+curtain~
+1 0 15641
+D1
+~
+~
+0 -1 15632
+D2
+You see the throne.
+~
+~
+0 0 15635
+D3
+~
+~
+0 -1 15630
+E
+pillar~
+The pillars in each corner of the hall send you different beautiful
+colors.
+~
+S
+#15632
+Sapphire pillar~
+   You stand below an amazing pillar made out of one crystal clear
+sapphire.  Like the rest of the hall, this room reflects nothing but
+beauty and peace.
+~
+156 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15633
+D3
+~
+~
+0 -1 15631
+E
+pillar~
+This pillar reflects a fantastic blue color that almost blinds you.
+~
+S
+#15633
+Eastern marble hall~
+   You stand inside the ancient marble hall of Tarin. To the west lies the
+golden throne.  To the east, a large bronze door blocks your view.  Above
+the door, some runes are carved into the hall wall.
+~
+156 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15632
+D1
+You see a bronze door leading east.
+~
+door bronze~
+2 15624 15636
+D2
+~
+~
+0 -1 15634
+D3
+~
+~
+0 -1 15635
+E
+runes~
+The runes read : Treasure Room of Tarin
+~
+E
+pillar pillars~
+The pillars in each corner of the hall send you different beautiful
+colors.
+~
+S
+#15634
+Emerald pillar~
+   You stand below an amazing pillar made out of large emeralds.  Like the
+rest of the hall, this room reflects nothing but beauty and peace.
+~
+156 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15633
+D3
+The hall.
+~
+~
+0 0 15627
+E
+pillar~
+The pillar seems to sizzle with a dazzling green light.
+~
+S
+#15635
+Below the huge golden throne~
+   You stand below the golden throne of Tarin.  As you look up, you notice
+the beautiful craftsmanship of this throne.  A letter lies on the stairs
+that leads up to the throne.  From somewhere above you, you hear someone
+sniffing.
+~
+156 8 0 0 0 0 255 0
+D0
+You see a curtain.
+~
+~
+0 0 15631
+D1
+~
+~
+0 -1 15633
+D2
+You see a curtain to the south.
+~
+~
+0 0 15627
+D3
+You see a curtain to the west.
+~
+~
+0 0 15629
+D4
+~
+~
+0 -1 15637
+E
+letter~
+Wife,
+Nothing will ever part us in our quest for justice, nothing will come
+between us in our search for love.  We will be together forever, if not
+here then where?
+Tarin.
+~
+E
+pillar pillars~
+>From here all the colors of the four pillars meet and the colors
+transform into the most beautiful white silver color you have ever
+seen.  Above these colors a huge golden throne rises.
+~
+S
+#15636
+Treasure room of Tarin~
+   You enter a dark room only lit by the light you carry.  Large chests
+and desks rest on the floor together with various valuable carpets.
+~
+156 13 0 0 0 0 255 0
+D1
+You see a secret door leading into the private chambers of the Queen.
+~
+secret~
+1 0 15644
+D3
+You see a secret door leading west.
+~
+secret~
+2 15624 15633
+S
+#15637
+Golden throne~
+   You climb up the stairs and find yourself upon the throne about ten feet
+above the marble floor.  The throne ends in an enormous chair which isn't
+meant for any human being.
+~
+156 8 0 0 0 0 255 0
+D5
+~
+~
+0 -1 15635
+S
+#15638
+Marble hallway~
+   You stand in a marble hallway leading into the ancient marble hall.
+The light from the east becomes stronger and you sense magic when you
+look to the east.
+~
+156 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15639
+D3
+~
+~
+0 -1 15606
+S
+#15639
+Eastern end of the marble hallway~
+   You stand just west of a red silk curtain that leads into the marble
+hall.  To the north lies the guard headquarters, and quite a few noises
+seem to come from there.
+~
+156 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15640
+D1
+You see a red silk curtain leading into the marble hall.
+~
+curtain~
+1 0 15629
+D3
+~
+~
+0 -1 15638
+S
+#15640
+Guards headquarters~
+   You enter a room filled with smoke.  Chairs and tables are spread out on
+the floor, and large piles of paper lie randomly on the largest table.
+~
+156 0 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15639
+D4
+There is a secret ladder leading up through the ceiling.
+~
+ladder secret~
+1 0 15687
+S
+#15641
+Dark corridor~
+   Standing inside this dark corridor, you notice the faint feel of fresh
+wind coming from somewhere up north.  A thick layer of dust on the floor
+demonstrates that this corridor hasn't been used for ages.
+~
+156 5 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15642
+D2
+You see a dirty curtain leading into the marble hall.
+~
+curtain~
+1 0 15631
+S
+#15642
+Dark corridor~
+   You arrive at a point where the fresh wind comes from above, and
+when you look up you notice the faint light from the sun shining above
+you.  You can go up and south from here.
+~
+156 5 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15641
+D4
+~
+~
+0 -1 15643
+S
+#15643
+Secret exit~
+   You are climbing a ladder that leads out of the Tombs.  A thick layer of
+dust covers everything and you must hang on to the ladder with all of your
+strength to avoid falling down.  There is a little secret exit leading up
+from here.
+~
+156 13 0 0 0 0 255 0
+D4
+>From here you can see the entrance to the Tombs.
+~
+~
+0 0 15600
+D5
+~
+~
+0 -1 15642
+S
+#15644
+Silvery room of privacy~
+   You enter a colorful room painted mostly in silver.  An enormous bed
+rests on the floor.  A mirror and a table stand up against the north wall. 
+Pictures stand on the shelves and on the table.
+~
+156 13 0 0 0 0 255 0
+D3
+You see a secret door leading into the treasury.
+~
+secret~
+1 0 15636
+E
+picture pictures~
+You see many pictures of the queen and the king of Tarin. Some of the
+pictures even portray the queen in the shape of a silver dragon.  Others
+show her in her human form. She is without doubt the most beautiful woman
+that you've ever seen.
+
+The smallest picture is that of a girl.  She has silvery hair and crystal
+blue eyes....As you look at the last picture, you notice small dried tears
+on her beautiful face.
+~
+S
+#15645
+Forgotten realm~
+   You enter an ugly corridor in the mountain.  Heat and smoke rises from
+the ground and you sense danger everywhere.  Large boulders lie scattered
+all around, and every now and then you seem to notice screams.
+~
+156 13 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15646
+D3
+You see the entrance below the burned tree.
+~
+~
+0 0 15669
+S
+#15646
+Deeper Realm~
+   You stand inside the deeper realms of terror, and you DO feel terrified
+by the heat and the sudden movements all around you.
+~
+156 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15647
+D3
+~
+~
+0 -1 15645
+S
+#15647
+Elemental realm~
+   You walk right into what normal people would consider a death trap, but
+you manage to endure the heat and black magic, though it makes you tremble
+with fear.
+~
+156 13 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15648
+D2
+~
+~
+0 -1 15646
+S
+#15648
+Undead realm~
+   You enter a foul smelling part of the corridor and find human bones and
+flesh everywhere.  Large boulders have destroyed some of the corridor, but
+you can continue from here.
+~
+156 13 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15649
+D3
+~
+~
+0 -1 15647
+S
+#15649
+Spider realm~
+   You stand in a webbed part of the tunnel.  Large chunks of tainted meat
+lie on the floor, and the smell is awful.
+~
+156 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15648
+D1
+~
+~
+0 -1 15650
+S
+#15650
+Realm of Illusions~
+   You enter the last realm of the illusion.  Silence is unknown, the
+darkness punctured with cries of pain. From the ceiling and walls runs a
+liquid that looks a lot like blood.  The screams and shouts from the lair
+to the east would scare most sane people from entering.
+~
+156 13 0 0 0 0 255 0
+D1
+You see the gate of death leading into the lair.
+~
+death gate~
+1 30 15651
+D3
+~
+~
+0 -1 15649
+S
+#15651
+Lair of the Dead~
+   You stand inside what seems to be a large cocoon.  Half decayed corpses
+lie everywhere, together with the bones of humans, dwarves, elves, and
+others you don't even recognize.  The entire room seems to be alive.
+~
+156 13 0 0 0 0 255 0
+D3
+You see one of the dark realms.
+~
+death gate~
+1 0 15650
+S
+#15652
+Trail up on a little mountain~
+   You follow the trail up the mountain and find yourself standing before
+a huge gate that blocks the road into the mountain.  The gate is made of
+gold and on each side of the gate stand enormous stones that make it impos-
+sible to walk around.
+~
+156 1 0 0 0 5 255 0
+D0
+~
+~
+0 -1 15653
+D2
+You see the golden gate blocking the entrance to the mountain.
+~
+gate~
+1 15636 15600
+S
+#15653
+Bottom of a mountain~
+   Here, the thick forest ends as suddenly as it started.  To the south, a
+path leads up to a small mountain.  The large stones on each side of the
+trail have writing on them.
+~
+156 1 0 0 0 4 255 0
+D0
+~
+~
+0 -1 15654
+D2
+~
+~
+0 -1 15652
+E
+stones writing stone~
+These mountains are under the protection of the royal court of Tarin.
+~
+S
+#15654
+Old trail through the forest~
+   As you reach this bend in the trail, you instantly notice a difference
+in the forest.  Here the trail seems wide and well used, and very easy to
+follow.
+~
+156 1 0 0 0 3 255 0
+D2
+~
+~
+0 -1 15653
+D3
+~
+~
+0 -1 15655
+S
+#15655
+Old trail through the forest~
+   Walking along the trees on each side of the trail, you arrive at this
+section of the forest.  The trees here seem to be several hundred feet
+high, and the forest floor is green with mushrooms and grass. The forest
+can be entered to the south.
+~
+156 1 0 0 0 3 255 0
+D1
+~
+~
+0 -1 15654
+D2
+You see the dense forest to the south.
+~
+~
+0 0 15666
+D3
+You see an old trail.
+~
+~
+0 0 15656
+S
+#15656
+Clearing in the forest~
+   Standing in a little clearing in the forest, you notice a little pool
+with clear water just below a solitary rock a few feet to the south. The
+sun shines freely here and you wonder if this is paradise.  The trail
+continues west and east, and to the south an old bridge crosses a dark
+river of mud.
+~
+156 0 0 0 0 3 255 0
+D0
+You see an old bridge.
+~
+~
+0 0 -1
+D1
+You see an old dark trail.
+~
+~
+0 0 15655
+D3
+You see a trail in the dense forest.
+~
+~
+0 0 15657
+D5
+You look at yourself in the pool, and suddenly you see something shine
+at the bottom of the pool.
+~
+~
+0 0 15668
+S
+#15657
+Old trail through the forest~
+   You arrive at another bend in the trail and find that trail continues to
+the east and south.  The trees hover above you and take no action against
+you.  To the east you see a clearing in forest where the sun shines freely
+on the forest floor.
+~
+156 0 0 0 0 3 255 0
+D1
+You see an old trail.
+~
+~
+0 0 15656
+D2
+You see a trail in the dense forest.
+~
+~
+0 0 15658
+S
+#15658
+Old trail through the forest~
+   You walk along the forest trail, sensing the peace and the beauty of
+this forest, and you wonder why no one ever settled down out here.  This
+place is really charming.
+~
+156 0 0 0 0 3 255 0
+D0
+You see a trail in the dense forest.
+~
+~
+0 0 15657
+D2
+You see a trail in the forest.
+~
+~
+0 0 15659
+S
+#15659
+Bend on the old trail through the forest~
+   You arrive at a crossing of two forest trails.  The trees stand quite
+close together, but you can continue in all directions.
+~
+156 0 0 0 0 3 255 0
+D0
+You see a trail in the forest.
+~
+~
+0 0 15658
+D1
+You could enter the dense forest to the east.
+~
+~
+0 0 15663
+D2
+~
+~
+0 -1 15667
+D3
+You see an old trail in the forest.
+~
+~
+0 0 15660
+S
+#15660
+Trail through the deep forest~
+   You walk through the forest, marvelling at the trees that have grown in
+a perfect wall on each side of the road - as if to keep you and other
+adventures out of the rest of forest.  The sun gives the crowns of the
+trees far above you a sapphire green color that is reflected everywhere in
+the forest.
+~
+156 0 0 0 0 3 255 0
+D1
+You see an old trail in the forest.
+~
+~
+0 0 15659
+D3
+You see an old trail through the forest.
+~
+~
+0 0 15661
+S
+#15661
+Walking on the narrow trail through the forest~
+   Entering this part of the dark, menacing forest, you notice that this
+trail seems to be struggling against the forest to keep its path.  The
+trees get bigger and bigger still, and you wonder if there could be an
+entire world somewhere up in the crowns of these trees.
+~
+156 0 0 0 0 3 255 0
+D0
+You see a large knot in the tree.
+~
+knot~
+1 0 15670
+D1
+You see an old trail through the forest.
+~
+~
+0 0 15660
+D2
+You see a narrow trail through the forest.
+~
+~
+0 0 15662
+S
+#15662
+Narrow trail though the forest~
+   You stand at the edge of a trail leading into a deep dark forest.
+The sunbeams seem to be unable to hit the ground, blocked by gigantic trees
+that hover above you as if trying to prove you unworthy of entering this
+forest.
+~
+156 0 0 0 0 3 255 0
+D0
+You see an old trail through the forest.
+~
+~
+0 0 15661
+D2
+You see a dark path in the forest
+~
+~
+0 0 15688
+S
+#15663
+Dark dense forest~
+   You walk directly into the dense forest between huge old trees that seem
+able to crush you just by moving an inch.  The sun is completely shut out
+here.  To the north you sense a faint light coming from something built
+into the trees.
+ 
+~
+156 1 0 0 0 3 255 0
+D0
+You see a faint light coming from some place up north.
+~
+~
+0 0 15664
+D1
+You could take a chance and go deeper into the forest this way.
+~
+~
+0 0 15665
+D3
+You see a trail in the forest.
+~
+~
+0 0 15659
+S
+#15664
+Inside a burnt-out down tree~
+   You carefully enter this burnt-out tree.  Around the tree there is a
+radius of ten feet in which everything is dead or dying.  A hole beneath
+you leads into the ground, and when you examine the hole, you are met by
+the foul smells of death.
+~
+156 1 0 0 0 3 255 0
+D2
+You see the dark dense forest.
+~
+~
+0 0 15663
+D5
+~
+~
+0 -1 15669
+S
+#15665
+Deeper inside the dark dense forest~
+   You are walking inside the deepest part of this forest and you are
+beginning to doubt that you will ever get out.  The air is warm, wet and
+thick, giving the surroundings a dreamy, surreal look.  There are movements
+all around, and eyes looking at you from everywhere. You can go north and
+south from here.
+~
+156 1 0 0 0 3 255 0
+D0
+~
+~
+0 -1 15666
+D2
+You see a deeper dark dense forest.
+~
+~
+0 0 15665
+D3
+You see impassable trees.
+~
+~
+0 -1 -1
+S
+#15666
+Dark dense forest~
+   You notice that the dense forest is becoming a little lighter here, and
+you start breathing normally again.  The sunbeams from above you hit the
+ground randomly, lighting this entire area up in a beautiful light-green
+color.
+~
+156 1 0 0 0 3 255 0
+D0
+You see an old trail.
+~
+~
+0 0 15655
+D1
+You see a deep, dark and menacing forest.
+~
+~
+0 0 15666
+D2
+~
+~
+0 -1 15665
+S
+#15667
+Very dense forest~
+   You enter the dark dense forest and find it extremely uncomfortable
+because of the bushes and the trees, merged into a fence almost unpassable
+by human beings.  Ominous sounds are everywhere.
+~
+156 1 0 0 0 3 255 0
+D0
+~
+~
+0 -1 15659
+S
+#15668
+Swimming in the pool~
+   You dive into the water and find it warm and refreshing.  But after a
+while the warmth becomes cold, so you'd better think about hitting the
+surface before you drown here.
+~
+156 1 0 0 0 3 255 0
+D4
+You see the surface of the pool.
+~
+~
+0 0 15656
+S
+#15669
+Dense forest~
+   You slowly descend down through the burned tree, and after a while you
+reach the ground.  When you look around, you see nothing but the dark
+ground and the many burned leaves and lumber lying scattered all around. A
+smell of burnt flesh and wood meets you as you look east.
+~
+156 13 0 0 0 3 255 0
+D1
+You see a dark tunnel under the forest.
+~
+~
+0 0 15645
+D4
+~
+~
+0 -1 15664
+S
+#15670
+Behind the tree~
+   You stand behind the enormous tree, the sun lighting up this place in a
+wonderful green color.  Deer, rabbits and other inhabitants of this wood
+live here peacefully. The green grass you stand on feels soft and you
+notice the constant shifting in the color of the grass - one minute it
+seems light and green and the next minute it becomes darker under the
+shadow of something moving high up in the trees.
+~
+156 0 0 0 0 0 255 0
+D2
+You see a large knot in the tree.
+~
+knot~
+1 0 15661
+D4
+You see a rope leading up into the tree.
+~
+~
+0 0 15671
+S
+#15671
+Crown of the trees~
+   You stand on a platform build perfectly into the crown of these trees.
+All around you there are leaves all colored in the most beautiful green
+you have ever seen. The rope below you scatters and it seems rather
+impossible to get back down that way safely.
+~
+156 0 0 0 0 2 255 0
+D0
+You see the crown of the trees.
+~
+~
+0 0 15680
+D1
+~
+~
+0 -1 15678
+D2
+You see the crown of the trees.
+~
+~
+0 0 15677
+D5
+ARGH - The rope you climbed up is broken, SHIT what are we going to do now?
+~
+~
+0 0 15690
+S
+#15672
+Cabin build into the tree~
+   Standing inside this little cabin, you notice a scary atmosphere and you
+feel a sudden urge to run out of here.
+~
+156 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 15673
+S
+#15673
+Crown of the trees~
+   You arrive at this other spot on the platform in the tree crowns.  To
+the west you see a little hole dug into the tree.  To the east you see more
+of the platform.
+~
+156 0 0 0 0 2 255 0
+D0
+You see the crown of the trees.
+~
+~
+0 0 15682
+D1
+You see the crown of the trees.
+~
+~
+0 0 15677
+D2
+~
+~
+0 -1 15674
+D3
+~
+~
+0 -1 15672
+S
+#15674
+Crown of the trees~
+   You arrive at another location above the forest floor on this platform. 
+To the west you see large piles of half-rotten lumber.  You also notice
+quite a few corpses of all kind of animals and people.
+~
+156 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15673
+D1
+~
+~
+0 -1 15676
+D3
+~
+~
+0 -1 15675
+S
+#15675
+Dead chambers up in the crowns of the trees~
+   You walk into the dead chambers in the crowns.  All evil and good once
+gathered here in a desperate attempt to break the rhythm of the wars.
+Obviously it didn't succeed.
+~
+156 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 15674
+S
+#15676
+Crown of the trees~
+   You stand on another platform high up in the crowns.  Below you, you see
+lots of animals running around on the forest floor.
+~
+156 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15677
+D3
+~
+~
+0 -1 15674
+S
+#15677
+Crown of the trees~
+   You are on a platform built from the crowns of the trees.  A large tree
+to the east has a wooden door in its west side.
+~
+156 0 0 0 0 2 255 0
+D0
+You see the crown of the trees.
+~
+~
+0 0 15671
+D1
+You see a wooden door leading into the tree.
+~
+door wooden~
+1 0 15683
+D2
+~
+~
+0 -1 15676
+D3
+You see the crown of the trees.
+~
+~
+0 0 15673
+S
+#15678
+Crown of the trees~
+   You stand on the platform high above the forest floor.  Nothing special
+can be seen anywhere.
+~
+156 0 0 0 0 2 255 0
+D0
+You see the crown of the trees.
+~
+~
+0 0 15679
+D1
+~
+~
+0 -1 15684
+D3
+~
+~
+0 -1 15671
+S
+#15679
+Crown of the trees~
+   You arrive at this rotten place on the platform.  Nothing special can be
+seen from here.
+~
+156 0 0 0 0 2 255 0
+D2
+You see the crown of the trees.
+~
+~
+0 0 15678
+D3
+~
+~
+0 -1 15680
+S
+#15680
+Crown of the trees~
+   You stand at a junction.  The platform leads both west and east, and to
+the south you can see a narrow path leading between a couple of trees.
+~
+156 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 15679
+D2
+You see the crown of the trees.
+~
+~
+0 0 15671
+D3
+~
+~
+0 -1 15681
+S
+#15681
+Crown of the trees~
+   You stand on a boring path through the platforms.  Nothing special can
+be seen anywhere.
+~
+156 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 15680
+D2
+~
+~
+0 -1 15682
+S
+#15682
+Crown of the trees~
+   You stand on a boring path through the platforms.  Nothing special can
+be seen anywhere.
+~
+156 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15681
+D2
+You see the crown of the trees.
+~
+~
+0 0 15673
+S
+#15683
+Inside a large tree~
+   You walk into a large room inside an even larger tree.  Tables and
+chairs rest on the floor.  The soft smell of pine is everywhere.
+~
+156 0 0 0 0 2 255 0
+D3
+You see the door.
+~
+door wooden~
+1 0 15677
+S
+#15684
+Crown of the trees~
+   You arrive at this horrifying place on the platform.  Blood and the
+skeletons of both humans and animals are scattered all around you.  A large
+leather sack has grown into the platform, and it seems impossible to take
+it.
+~
+156 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 15685
+D3
+~
+~
+0 -1 15678
+S
+#15685
+High tree~
+   You walk into a large, burned out tree.  Horrifying sounds echo all
+around you:  just listening to the sounds from these dead trees would cause
+must people to flee in terror.
+~
+156 0 0 0 0 2 255 0
+D2
+~
+~
+0 -1 15685
+S
+#15686
+Lift room~
+   You enter a large hall used by the citizens of Tarin as a link between
+this place, the Tombs of Tarin, and the rest of the country.  There is a
+large hole in the western floor leading down and up.  A white paper has
+been nailed to the southern wall.
+~
+156 0 0 0 0 0 255 0
+D1
+You see a lift door.
+~
+door~
+1 0 15605
+E
+paper white~
+***********************************************************************
+            The lift link to foreign parts is out of order!
+***********************************************************************
+ 
+~
+S
+#15687
+The minotaur's hideout~
+   You have entered a hidden cave built directly above the guard
+headquarters.  Against the eastern wall of the cave is a huge black throne. 
+Skulls and other signs of violent death lie scattered about on the floor.
+~
+156 13 0 0 0 0 255 0
+D5
+You see a secret ladder leading down into the office.
+~
+secret~
+1 0 15640
+S
+#15688
+A path in a dark and dense forest~
+   You are walking on a small and narrow track in a huge dark forest. 
+Here, the trees seems to be less alive than in the other parts of the
+forest.  To the north you see burned trees and, you imagine, glowing red
+eyes.  You can go north and east from here.
+~
+156 0 0 0 0 0 255 0
+D0
+You see a dark path in the forest.
+~
+~
+0 0 15662
+D1
+~
+~
+0 -1 15622
+S
+#15689
+In the deeper forest~
+   You are standing just north of a huge ancient tree.  From here
+everything seems beautiful, but you get a strange feeling about the north
+forest - not that you can see anything, but you have THE feeling.  To the 
+south is a unnatural clearing in the forest.
+~
+156 0 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15622
+D2
+A clearing has been blasted in the forest.
+~
+~
+0 -1 5564
+S
+#15690
+Climbing down the rope - the BROKEN rope~
+   Despite the warning about the broken rope, you try to climb back down:
+most people would call that stupid, but you die without understanding why.
+ 
+You see nothing but stars.
+ 
+             o                          o                    o      o
+      o                                            o
+                      o                                       o
+      o         o                   o       o
+ o                       o                        o                   o
+           o                      o                       o   o
+  o                o  o                   o            o
+ 
+You are dead.
+~
+156 6 0 0 0 0 255 0
+D4
+Hmmm, not many but gods could reach the broken rope, then again...i think
+you can
+~
+~
+0 0 15671
+S
+$~

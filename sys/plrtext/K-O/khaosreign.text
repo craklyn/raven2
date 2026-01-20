@@ -1,0 +1,5 @@
+mm c 'magic missile' $*
+ms c 'monster summon'
+k order fol k $*
+cs c 'color spray' $*
+wa wake;stand

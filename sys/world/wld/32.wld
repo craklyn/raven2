@@ -1,0 +1,880 @@
+#3200
+Under the Bridge~
+   The arch under the bridge is covered by seaweed and slime. You can hear
+the sound of the travelers passing over head. The river flows gently to the
+east, towards the Midgaard docks and west toward the docks of the Black Market
+and out in to the ocean.
+~
+32 0 0 0 0 7 255 0
+D1
+~
+~
+0 -1 3201
+D3
+The Mouth of The River.
+~
+~
+0 -1 3206
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3201
+The River~
+North of here you see the southern wall of Midgaard.  To the east the busy
+wharves and to the west a busy bridge leading to the southern shore and the
+road to the Black Market.    
+~
+32 0 0 0 0 7 255 0
+D1
+~
+~
+0 -1 3202
+D3
+~
+~
+0 -1 3200
+S
+#3202
+On the River~
+The river forks here, running south in to the Elven River, towards the citiy of
+FairHaven. To the north you see the southern wall of Midgaard and to the east
+the busy Midgarrd Wharves.
+~
+32 0 0 0 0 7 255 0
+D1
+~
+~
+0 -1 3203
+D2
+~
+~
+0 0 30524
+D3
+~
+~
+0 -1 3201
+S
+#3203
+On the River~
+Above you busy dockworkers load and unload cargo from the many ships.  The
+noise of Midgaards busy streets fills you with the yearning to feel land under
+yu feet again.  The river flows east towards Samsera and west towards the
+ocean.    
+~
+32 4 0 0 0 7 255 0
+D1
+~
+~
+0 -1 3204
+D3
+~
+~
+0 -1 3202
+D4
+~
+~
+0 -1 3049
+S
+#3204
+On the River~
+   You see the warehouse on the northern riverbank.  East of here you see the
+city wall.  The river flows west towards the levee.
+~
+32 0 0 0 0 7 255 0
+D1
+~
+~
+0 -1 3205
+D3
+~
+~
+0 -1 3203
+S
+#3205
+On the River~
+   The river enters from a hole in the eastern city wall.  The hole has been
+blocked by several vertically positioned iron bars set into the wall.
+~
+32 0 0 0 0 7 255 0
+D1
+~
+~
+0 -1 3229
+D3
+~
+~
+0 -1 3204
+S
+#3206
+The Mouth of The River~
+The smell of ocean salt is strong here. The ocean lies to the west and
+the Black Market Wharves lay to the south. Those who wish to adventure 
+at sea should be careful.  On the ocean lies a huge sea monster and a 
+giant whirlpool which have caused hundreds of weary sailors to simply 
+vanish.
+~
+32 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 -1
+D1
+The river
+~
+~
+0 -1 3200
+D2
+~
+~
+0 -1 15401
+D3
+~
+~
+0 0 3600
+S
+#3207
+The River~
+The river flows through a huge iron grating from the wilderness through
+the city. Strong guards above await word to open the portal
+should any citizen require exit or entry.
+~
+32 4 0 0 0 6 255 0
+D1
+~
+~
+0 0 3208
+D3
+~
+~
+0 0 3214
+S
+#3208
+The River~
+You hear the voices of the citizens of Samsera as they go about thier daily
+routines.  To the east are the docks and to the west the river flows towards
+the swamps marches of the plains between Samsera and Midgarrd.    
+~
+32 1 0 0 0 6 255 0
+D1
+~
+~
+0 0 3209
+D3
+~
+~
+0 0 3207
+S
+#3209
+The River~
+This part of the river seems alive with activity. Boats moored to the
+docks near the ramp north of here make navigation a bit more trying.
+~
+32 0 0 0 0 6 255 0
+D1
+~
+~
+0 0 3210
+D3
+~
+~
+0 0 3208
+D4
+You see a dock.
+~
+~
+0 0 18147
+S
+Z 18086
+#3210
+The River~
+The river flows under the wall of the city to the east and stretches
+off towards high snow capped mountains to the east.
+~
+32 0 0 0 0 6 255 0
+D1
+~
+~
+0 0 3211
+D3
+~
+~
+0 0 3209
+S
+#3211
+The River~
+The river slows as it widens and meanders through the lowlands.
+~
+32 0 0 0 0 6 255 0
+D1
+~
+~
+0 0 3212
+D3
+~
+~
+0 0 3210
+S
+#3212
+The River~
+The river continues its journey eastward flowing through the
+plains. To the east you see the peaks of large snow capped
+mountains and to the west you see the outline of a large city.
+~
+32 0 0 0 0 6 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3230
+D3
+~
+~
+0 0 3211
+S
+#3213
+The River~
+The river meanders through the small foothills.  A large tunnel
+suddenly appears to the east, cutting into mother Raven.
+Throughout thousands of years the water has cut a wide tunnel
+into the eastern lands.  You can't help but wonder what may lie
+within it's depths.
+~
+32 0 0 0 0 6 255 0
+D1
+~
+~
+0 0 5001
+D3
+The river awaits you.
+~
+~
+0 0 3244
+S
+#3214
+On the River.~
+The river's current gains speed as it leaves Samsera's protection.
+Rocks are scattered about the river, creating small rapids you
+do not want to be caught in with a small canoe.  The tree line
+to the north and south thickens and just ahead to the west they
+form quite a large forest.  To the east, Samsera's skyline stands
+out creating an overwelming feeling of security.
+~
+32 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 3207
+D3
+~
+~
+0 0 3215
+S
+#3215
+On the River.~
+The river's current keeps it's pace as you find yourself
+in the middle of a large forest.  The trees to the north and
+south climb into the sky, blocking alot of the sun's light.  To
+the west the river cuts through the forest.  To the east the
+forest slowly thin out allowing the sun to brighten the river.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3214
+D3
+~
+~
+0 0 3216
+S
+#3216
+On the River.~
+The river's current keeps it's pace as you find yourself
+in the middle of a large forest.  The trees to the north and
+south climb into the sky, blocking alot of the sun's light.  To
+the west the river cuts through the forest.  To the east the
+forest slowly thin out allowing the sun to brighten the river.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3215
+D3
+A river awaits you.
+~
+~
+0 0 3217
+S
+#3217
+On the River.~
+The river's current keeps it's pace as you find yourself
+in the middle of a large forest.  The trees to the north and
+south climb into the sky, blocking alot of the sun's light.  To
+the west the river cuts through the forest.  To the east the
+forest slowly thin out allowing the sun to brighten the river.
+~
+32 0 0 0 0 7 255 0
+D1
+A river awaits you.
+~
+~
+0 0 3216
+D3
+The river awaits you.
+~
+~
+0 0 3218
+S
+#3218
+On the River.~
+The river's water grows quite dark in this area.  The forest trees
+to the north and south have a type of spanish moss smothering
+them of life.  The gray of the moss  overwhelms the green left
+on the trees.  To the west the trees are sparse compared to the
+forest to the east.
+~
+32 0 0 0 0 0 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3217
+D3
+The river awaits you.
+~
+~
+0 0 3219
+S
+#3219
+On the River.~
+The river's current has slowed in this area.  A light green
+algae has started to form near the edges of the river.  The
+gray moss has grown abundant within the trees to the north and 
+south.  The river continues to the east and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3218
+D3
+The river awaits you.
+~
+~
+0 0 3220
+S
+#3220
+On the River.~
+The river has slowed to a quiet crawl.  The green moss covers
+the entire surface of the river.  The gray moss hangs from the
+limbs of the dying trees, stretching to the ground and touching
+the water's surface around the edges of the river.  You realize
+you are traveling through a swamp of some sort.  The banks are 
+layered with a small pathe of fog.  The river continues to the
+east and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3219
+D3
+The river awaits you.
+~
+~
+0 0 3221
+S
+#3221
+On the River.~
+The river has slowed to a quiet crawl.  The green moss covers the entire
+surface of the river.  The gray moss hangs from the limbs of the dying trees,
+stretching to the ground and touching the water's surface around the edges of
+the river.  You realize you are traveling through a swamp of some sort.  The
+banks are layered with a small pathe of fog.  The river continues to the east
+and west.    
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3220
+D3
+The river awaits you.
+~
+~
+0 0 3222
+S
+#3222
+On the River.~
+A small ripple of water coming from the north seems to make the green moss 
+that covers the entire surface of the river move with a life of it's own.
+Gray moss hangs from the limbs of the dying trees, stretching to the ground 
+and touching the water's surface around the edges of the river.  You realize 
+you are traveling past a swamp of some sort. 
+~
+32 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 5532
+D1
+The river awaits you.
+~
+~
+0 0 3221
+D3
+The river awaits you.
+~
+~
+0 0 3223
+S
+#3223
+On the River.~
+The river has come to a standstill here.  The green moss covers the entire
+surface of the river.  The gray moss hangs from the limbs of the dying trees,
+stretching to the ground and touching the water's surface around the edges of
+the river.  You realize you are traveling through a swamp of some sort.  The
+banks are layered with a small pathe of fog.  The river continues to the east
+and west.    
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3222
+D3
+The river awaits you.
+~
+~
+0 0 3224
+S
+#3224
+On the River.~
+The river has come to a standstill here.  The green moss covers the entire
+surface of the river.  The gray moss hangs from the limbs of the dying trees,
+stretching to the ground and touching the water's surface around the edges of
+the river.  You realize you are traveling through a swamp of some sort.  The
+banks are layered with a small pathe of fog.  The river continues to the east
+and west.    
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3223
+D3
+The river awaits you.
+~
+~
+0 0 3225
+S
+#3225
+On the River.~
+The river has come to a standstill here.  The green moss covers the entire
+surface of the river.  The gray moss hangs from the limbs of the dying trees,
+stretching to the ground and touching the water's surface around the edges of
+the river.  You realize you are traveling through a swamp of some sort.  The
+banks are layered with a small pathe of fog.  The river continues to the east
+and west.    
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3224
+D3
+The river awaits you.
+~
+~
+0 0 3226
+S
+#3226
+On the River.~
+The green algae like moss starts to thin out as the river picks up momentum.
+The gray moss thins out on the trees to the north and south and a small breeze
+offers you a breathe of fresh air.  The river continues to the east and west.
+  
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3225
+D3
+The river awaits you.
+~
+~
+0 0 3227
+S
+#3227
+On the River.~
+The river's current has picked back up to it's usual pace.  The trees to the
+north and south climb into the sky reaching for the sunlight to make their
+leaves ever green.  To the east the river slows as it's water grows darker.  
+To the west the sunlight reflects off the water, making it hard for you to make
+out what lies ahead.    
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3226
+D3
+The river awaits you.
+~
+~
+0 0 3228
+S
+#3228
+On the River.~
+The river has a new life here.  There are scattered rocks 
+throughout the river, creating some refreshing white waters.  The
+rushing water deafens you with it's roar and creates a small 
+rainbow as it's mist sprays over the river's shore to the north.
+The river continues to the east and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3227
+D3
+The river awaits you.
+~
+~
+0 0 3229
+S
+#3229
+On the River.~
+The river's current slows it's pace as the shores level out and 
+the trees grow sparse to the north and south.  To the west you
+can make out the skyline of Midgaard.  A few boats with some 
+rugged looking travelers pass by keeping their eye contact to a
+minimum not wanting to upset you.  To the east the river cuts
+through a forest.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3228
+D3
+The city of Midgaard is near.
+~
+~
+0 0 3205
+S
+#3230
+On the River.~
+The river flows through the lower valley region here.  Off in the
+distance, to the east, you can make out what may be foothills
+or it could just be the clouds playing tricks on your eyes.  To
+the west you can still see Samsera's skyline.  
+~
+32 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 3231
+D3
+Samsera calls for you to come home.
+~
+~
+0 0 3212
+S
+#3231
+On the River.~
+The river flows through the lower valley region here.  Off in the
+distance, to the east, you can make out what may be foothills
+or it could just be the clouds playing tricks on your eyes.  To
+the west you can still see Samsera's skyline. 
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3232
+D3
+~
+~
+0 0 3230
+S
+#3232
+On the River.~
+The river flows through the lower valley region here.  Off in the
+distance, to the east, you can make out what may be foothills
+or it could just be the clouds playing tricks on your eyes.  To
+the west you can still see Samsera's skyline. 
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3233
+D3
+The river awaits you.
+~
+~
+0 0 3231
+S
+#3233
+On the River.~
+The river flows through the lower valley region here.  Off in the
+distance, to the east, you can make out what may be foothills
+or it could just be the clouds playing tricks on your eyes.  
+The river contiunes to the east and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3234
+D3
+The river awaits you.
+~
+~
+0 0 3232
+S
+#3234
+On the River.~
+The river's current picks up it's pace as it flows down a 
+small foothill.  The valley to the north and south is covered
+with wild wheat fields and some deserted farm lands.  The river
+continues to the east and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3235
+D3
+The river awaits you.
+~
+~
+0 0 3233
+S
+#3235
+On the River.~
+The river's current slows its pace at the bottom of this foothill.
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the north and south the banks are quite steep making
+it impossible to climb them.  The river continues to the east 
+and west.
+~
+32 4 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3236
+D3
+The river awaits you.
+~
+~
+0 0 3234
+S
+#3236
+On the River~
+The river's current slows its pace at the bottom of this foothill.
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the north and south the banks are quite steep making
+it impossible to climb them.  The river continues to the east 
+and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3237
+D3
+The river awaits you.
+~
+~
+0 0 3235
+S
+#3237
+On the River.~
+The river's current slows its pace at the bottom of this foothill.
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the north and south the banks are quite steep making
+it impossible to climb them.  The river continues to the east 
+and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3238
+D3
+The river awaits you.
+~
+~
+0 0 3236
+S
+#3238
+On the River.~
+The river's current slows its pace at the bottom of this foothill.
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the north and south the banks are quite steep making
+it impossible to climb them.  The river continues to the east 
+and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3239
+D3
+The river awaits you.
+~
+~
+0 0 3237
+S
+#3239
+On the River.~
+The river's current slows its pace at the bottom of this foothill.
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the north and south the banks are quite steep making
+it impossible to climb them.  The river continues to the east 
+and west.
+~
+32 0 0 0 0 7 255 0
+D1
+A river awaits you.
+~
+~
+0 0 3240
+D3
+The river awaits you.
+~
+~
+0 0 3238
+S
+#3240
+On the River.~
+The river's banks widen at this point.  Foothills can be seen
+to the east.  To the west the river continues.  A castle's
+outline can just be made out to the distant north.
+~
+32 0 0 0 0 7 255 0
+D0
+The bank of the river lies just ahead.
+~
+~
+0 0 3566
+D1
+The river awaits you.
+~
+~
+0 0 3241
+D3
+A river awaits you.
+~
+~
+0 0 3239
+S
+#3241
+On the River.~
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the north and south the banks are quite steep making
+it impossible to climb them.  The river continues to the east 
+and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3242
+D3
+The river awaits you.
+~
+~
+0 0 3240
+S
+#3242
+On the River.~
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the north and south the banks are quite steep making
+it impossible to climb them.  The river continues to the east 
+and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3243
+D3
+The river awaits you.
+~
+~
+0 0 3241
+S
+#3243
+On the River.~
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the north and south the banks are quite steep making
+it impossible to climb them.  The river continues to the east 
+and west.
+~
+32 0 0 0 0 7 255 0
+D1
+The river awaits you.
+~
+~
+0 0 3244
+D3
+The river awaits you.
+~
+~
+0 0 3242
+S
+#3244
+On the River.~
+The river's edge is littered with dead stumps and rotting tree
+limbs.  To the south the bank is quite steep making
+it impossible to climb.  A small dirt path can be seen on the 
+northern bank. The river continues to the east and west.
+~
+32 0 0 0 0 7 255 0
+D0
+A dirt path offers you dry land.
+~
+~
+0 0 27201
+D1
+The river awaits you.
+~
+~
+0 0 3213
+D3
+The river awaits you.
+~
+~
+0 0 3243
+S
+$~

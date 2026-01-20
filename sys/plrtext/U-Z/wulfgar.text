@@ -1,0 +1,19 @@
+say emote &05grumbles&00, '&03  $*&00   '
+forsaken title &08Forsaken&00
+r rescue $*
+uuq Gt Going Up;u;toss oab;q oab
+ddq Gt Going Down;d;toss oab;q oab
+wwq Gt Going West;w;toss oab;q oab
+eeq Gt Going East;e;toss oab;q oab
+ssq Gt Going South;s;toss oab;q oab
+nnq Gt Going North;n;toss oab;q oab
+nn gt Going North;n; k $*
+ss gt Going South;s; k $*
+ww gt Going West;w; k $*
+uu gt Going Up;u; k $*
+dd gt Going Down;d; k $*
+ee gt Going East;e; k $*
+gt gt &08$* &00
+db door $*
+cw clanwho
+clan clan &00&05 $*  &11

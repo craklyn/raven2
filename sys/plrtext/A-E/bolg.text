@@ -1,0 +1,12 @@
+tri rescue trist
+iden buy identify $*
+gt gt &06[&09^&06]&03$* &06[&09^&06]&00
+say say &06[&09^&06]&03$* &06[&09^&06]&00
+shield c 'shield' $*
+m rec rec rec
+rd retreat down
+ru retreat up
+rw retreat west
+ret retreat east
+rn retreat north
+rs retreat south

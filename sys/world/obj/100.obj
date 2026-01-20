@@ -1,0 +1,336 @@
+#10001
+key cell large jail_cell jail~
+the key to the jailcells~
+Some foolish guard has dropped his key to the cells here.~
+~
+18 4096 0 0 0 16385 0 0 0
+1 0 0 0
+1 1000 0
+E
+key cell~
+   This key is obviously to some sort of jail cell. It has some writing upon
+it. It reads: Property of the Hamlet of LupisVille.
+~
+B
+0 0 0 0
+#10002
+key house housekey~
+a small housekey~
+Someone has dropped their housekey here.~
+~
+18 4096 0 0 0 16385 0 0 0
+2 0 0 0
+1 10000 0
+E
+key housekey~
+   Its an ornately crafted key, obviously it goes to some important house.
+~
+B
+0 0 0 0
+#10003
+dagger knife~
+a large dagger~
+A large dagger has been discarded here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 3 11
+1 1000 8
+E
+dagger knife~
+It's just a hair bigger than an ordinary dagger, and looks to be twice as 
+sharp!
+~
+B
+0 0 0 0
+#10004
+desk oak drawer~
+a large desk~
+A large drawer desk made of oak stands in the corner.~
+~
+15 0 0 0 0 16384 0 0 0
+1000 13 10099 0
+1000 10000 1000
+E
+desk oak~
+The desk is quite large, almost too large for a room this size. It has been 
+guilded in gold and silver trim. Obviously the work of elven craftsmen, the 
+whole desk seems to be covered in leaves, but it is only carved wood. Even 
+the drawers blend right in with the rest of the desk.
+~
+B
+0 0 0 0
+#10005
+fountain basin~
+a large fountain~
+The towne's fountain is bubbling away here.~
+~
+23 64 0 0 0 16384 0 0 0
+10000 10000 0 0
+10 100000 0
+E
+fountain water~
+The fountain is nothing more than a large basin with a pipe for incoming
+water and a drain to keep the water from becoming stagnant.
+However, the water doesn't seem to flow like water should. It doesn't make
+sense that the water would bubble up from the ground only to drain back down
+unless there was some sort of pump to keep it going...
+~
+B
+0 0 0 0
+#10006
+longsword long sword~
+a silver longsword~
+A longsword made of pure silver has been left here.~
+~
+5 8192 4096 0 0 8193 0 0 0
+0 4 3 3
+10 4000 40
+E
+longsword long sword~
+   The sword has been carefully forged of pure silver, which is a necessity 
+when fighting fowl werecreatures, But is it blessed silver?
+~
+B
+0 0 0 0
+#10007
+nail finishing~
+a nail~
+A carpenter's nail has been left here, don't step on it!~
+~
+5 8258 0 0 0 8193 0 0 0
+0 1 1 11
+1 10000 102
+E
+nail~
+  The nail is the type a carpenter would use to secure two by fours, but it
+feels warm to the touch. Perhaps it is meant for a wizards house...
+~
+A
+18 1
+A
+19 1
+B
+0 0 0 0
+#10008
+cleaver butcher's meat~
+a meat cleaver~
+The butcher has left his clever here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 5 3
+5 4000 20
+E
+cleaver meat~
+   The meat clever is not much more than a large knife, but it is sharp enough
+to cut through the toughest fat on an animal, so it should do nicely on 
+humans!
+~
+B
+0 0 0 0
+#10009
+whip horseman's riding crop~
+a horseman's whip~
+The stableboy's whip lies here, forgotten.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 4 2
+6 2000 10
+E
+whip horseman's~
+   This is a whip that a stable hand would use to beat a horse, should the 
+horse disobey that is.
+~
+B
+0 0 0 0
+#10010
+beef slab cowmeat flesh cow meat~
+a slab of beef~
+A huge slab of a cow is lying here.~
+~
+19 0 0 0 0 16385 0 0 0
+20 0 0 0
+10 100 60
+E
+beef slab meat~
+   The meat is fresh not even a day old. It would certainly be safe to eat, 
+and a welcome treat after all those iron rations.
+~
+B
+0 0 0 0
+#10011
+mutton slice lamb meat~
+a slice of mutton~
+A juciy slice of mutton has been left here for the dogs.~
+~
+19 0 0 0 0 16385 0 0 0
+5 0 0 0
+1 10 15
+E
+mutton lamb meat~
+   Lamb meat is expensive compared to other meats, but its taste is worth it.
+Nothing should be more important than taste, spare no cost!
+~
+B
+0 0 0 0
+#10012
+mace cleric's weapon large~
+a cleric's mace~
+A cleric has left his mace here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 5 7
+10 15000 50
+E
+mace~
+   This weapon would be quite good for bashing in a few skulls in the name of
+god. It has been engraved with several holy symbols along with dents from 
+those who would not agree with the wielder.
+~
+B
+0 0 0 0
+#10013
+robe silk blue embroidered~
+a blue silk robe~
+A woman has left her silk robe here, wonder where she is!~
+~
+9 24833 0 0 0 1025 0 0 0
+2 0 0 0
+5 20000 350
+E
+robe silk blue~
+   The robe is a light blue with dark blue fringe. It would be something to 
+see on a beautiful woman, and the woman would be something to see without it!
+~
+A
+3 2
+A
+9 -10
+B
+0 0 0 0
+#10014
+flower plant orchid~
+a beautiful orchid~
+A beautiful orchid is in bloom here.~
+~
+11 64 0 0 0 4097 0 0 0
+0 0 0 0
+1 200 240
+E
+flower orchid~
+  What a lovely flower, its beautiful sent reminds you of your special 'someone'
+maybe you should give it to them so they know how you feel...
+~
+A
+4 -2
+A
+24 -3
+B
+0 0 0 0
+#10015
+doll toy baby~
+a small doll~
+A child has left her doll here for you to trip over.~
+~
+12 64 0 0 0 16385 0 0 0
+0 0 0 0
+1 10 0
+E
+doll~
+   The doll looks like a small child, about 10 months old. There's nothing
+interesting about it except its smile seems malicious in some way you can't
+quite place...
+~
+B
+0 0 0 0
+#10016
+broom goodwife's straw~
+a broom~
+The goodwife's broom is here in the corner.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 6 7
+5 100 6
+E
+broom straw~
+  So that's how she keeps the house so clean! Imagine how hard it would be if
+she didn't have such a device ... *sigh* technology these days.
+~
+B
+0 0 0 0
+#10017
+chair wheelchair~
+a Wheelchair~
+A strange chair with wheels sits here.~
+~
+12 64 0 0 0 8 0 0 0
+0 0 0 0
+100 100000 0
+E
+chair wheelchair~
+   This strange chair has wheels so someone who is too old and feeble can 
+still get around in their 'golden' years. Or of course, for some kid to pop
+wheelies in and try to break his neck!
+~
+B
+0 0 0 0
+#10030
+garlic rope 10030~
+a rope of garlic cloves~
+A strand of something smelly lies here~
+~
+9 1344 0 0 0 32769 0 0 0
+7 0 0 0
+5 500 495
+A
+6 -3
+A
+24 -5
+B
+0 0 0 0
+#10069
+key qi rusty~
+a rusty key~
+An old rusty key is here, rusting...~
+~
+18 8257 0 0 0 16385 0 0 0
+2 0 0 0
+150 100000 0
+E
+key rusting~
+   *WARNING* you should not have this key! (unless this is a quest or 
+something). This key will only bring you death should you attempt use it!
+DON'T say you haven't been warned....
+~
+B
+0 0 0 0
+#10098
+key iron gate~
+an iron gatekey~
+A small key with a skeleton engraved on it has been left here.~
+~
+18 0 0 0 0 16385 0 0 0
+1 0 0 0
+1 100 0
+E
+key iron~
+   Well with a skeleton on it, it must have something to do with death. Perhaps
+to some cemetery or something.
+~
+B
+0 0 0 0
+#10099
+key brass small privy~
+the chamber key~
+Someone has left the key to the privy here.~
+~
+18 0 0 0 0 16385 0 0 0
+2 0 0 0
+1 1000 0
+E
+key privy~
+   Well someone sometimes you need to be assured privacy while using the privy.
+What's the answer? Lock the door.....
+~
+B
+0 0 0 0
+$~

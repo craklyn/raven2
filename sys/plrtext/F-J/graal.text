@@ -1,0 +1,29 @@
+eb get bread bag;eat bread;get bread bag;eat bread
+tll tell $*
+bow1 emote bows deeply with an &05extravagant &04f&13l&14o&04u&13r&14i&04s&13h&00 of his &01cloak&00.
+\ order followers butcher corpse
+1 aggressive players
+/ kick
+r rescue $*
+4 aggressive off
+nn gs &08GOING&00;north;kill 2.
+ss gs &08GOING&00;south;kill 2.
+ee gs &08GOING&00;east;kill 2.
+ww gs &08GOING&00;west;kill 2.
+khi open grate ; up ; kill khis ; rec rec rec
+3 aggressive both
+2 aggressive monsters
+call c 'call of the wild'
+sense c 'sense life'
+smoke tit afk..&07S&00&00m&00&07O&00k&00&07I&00&00n &07A &08C&00&01I&00&14GARET&00&03TE&00
+say emot &07Mumbles&00, '&14$* &00'
+gs gs &07~&09>&14$* &09<&07~&00
+afk tit &07{&08afk&00&07}&00
+tit tit &02R&04a&02n&04g&02e&04r&00 &03of the &07U&08r&14u&07k&00-&14h&08a&07i&00
+dd gs &08GOING&00;down;kill 2.
+uu gs &08GOING&00;up;kill 2.
+ref c 'refresh' $*
+` quaff rev
+briar c 'briar'
+stre c 'strength'
+but butcher corpse

@@ -1,0 +1,329 @@
+#20201
+N W 0~
+great orc m20201~
+Great Orc~
+A great orc of the Bloody Hand Tribe stands here.
+~
+This ugly humanoid is some kind of magical combination between man and
+animal.  These "great orcs" are far more fierce than the normal variety.
+~
+4204 0 0 0 0 0 0 0 -1000
+30 3 0 5d5+500 5d4+10
+50 60
+9 9 1 0 -1 -1
+#20202
+N W 0~
+great orc chief m20202~
+Great Orc Chief~
+The Chief of the Bloody Hand Tribe stands here.
+~
+The chief of the Bloody Hand Orcs is slightly uglier and meaner than the
+rest of his band...if that is possible.
+~
+4204 0 0 0 0 0 0 0 -1000
+35 5 -2 5d5+1000 5d5+15
+50 60
+9 9 1 0 -1 -1
+#20203
+T W 0~
+mountain troll~
+Mountain Troll~
+A huge mountain troll stands here.
+~
+At least ten feet tall, this troll is different from any you have seen
+before.  Its teeth and claws seem to have been enhanced along with its
+size, and its skin looks to be quite thick.
+~
+12142 0 0 0 132104 0 0 0 -1000
+40 0 -8 1d1+2000 5d6+20
+65 75
+9 9 0 8 4 -1
+#20204
+A W 0~
+owl bear~
+Owl Bear~
+A giant bear with the head of an owl stands here.
+~
+The owl bear is a huge bearlike  creature with the head of a giant owl.
+The creature is furry from the feet to the neck, at which point fur gives
+way to feathers.
+~
+81790 0 0 0 1032 0 0 0 -200
+30 5 -2 2d100+1000 5d6+15
+50 60
+9 9 1 8 16 -1
+#20205
+A W 0~
+owl bear~
+Owl Bear~
+A giant bear with the head of an owl stands here.
+~
+The owl bear is a huge bearlike  creature with the head of a giant owl.
+The creature is furry from the feet to the neck, at which point fur gives
+way to feathers.
+~
+81790 0 0 0 1032 0 0 0 -200
+25 5 -2 2d100+1000 5d6+15
+40 40
+9 9 2 8 16 -1
+#20206
+H W 0~
+servant boy serving~
+Serving Boy~
+A serving boy bustles about.
+~
+The serving boy is wearing the colors of Lord Skul.  He looks like he
+could use a break.
+~
+204 0 0 0 0 0 0 0 -100
+30 5 0 2d8+800 3d3+5
+50 60
+9 9 1 0 -1 -1
+#20207
+H W 0~
+servant wench serving~
+Serving Wench~
+A serving wench bustles about.
+~
+The serving wench is wearing the colors of Lord Skul. She looks like she
+could use a break.
+~
+204 0 0 0 0 0 0 0 -100
+30 5 0 2d8+800 3d3+5
+50 60
+9 9 2 0 -1 -1
+#20208
+H W 0~
+blackheart trooper guard~
+Blackheart Trooper~
+A blackheart trooper stands here at the ready
+~
+The blackheart trooper looks well-trained and ready for combat.
+~
+22632 0 0 0 1024 0 0 0 -1000
+35 10 0 1d100+900 4d5+10
+50 60
+9 9 1 0 -1 -1
+#20209
+H W 0~
+blackheart trooper guard~
+Blackheart Trooper~
+A blackheart trooper stands here at the ready
+~
+The blackheart trooper looks well-trained and ready for combat.
+~
+22634 0 0 0 1024 0 0 0 -1000
+35 10 0 1d1+1000 4d5+10
+50 60
+9 9 1 0 -1 -1
+#20210
+H W 0~
+officer blackheart guard~
+Blackheart Officer~
+A blackheart officer stands here at the ready.
+~
+The blackheart officer looks very well-trained and ready for combat.
+~
+24424 0 0 0 1036 0 0 0 -1000
+40 5 -2 2d10+1000 5d4+15
+65 75
+9 9 1 0 -1 -1
+#20211
+H W 0~
+officer blackheart guard~
+Blackheart Officer~
+A blackheart officer stands here at the ready.
+~
+The blackheart officer looks very well-trained and ready for combat.
+~
+24426 0 0 0 1036 0 0 0 -1000
+40 5 -2 2d10+1000 5d4+15
+65 75
+9 9 1 0 -1 -1
+#20212
+H A 0~
+assassin blackheart~
+Blackheart Assassin~
+An assassin stands here glaring at you.
+~
+The assassin looks like he knows what he is doing.
+~
+8188 0 0 0 787458 0 0 0 -1000
+30 -10 -5 2d6+800 7d4+20
+50 60
+9 9 1 0 -1 -1
+#20213
+H W 0~
+squire blackheart~
+Blackheart Squire~
+A blackheart squire makes himself look busy here.
+~
+The squire wears the colors of his lord.  He looks like he has received
+some training.
+~
+24424 0 0 0 1036 0 0 0 -1000
+40 10 -2 2d100+900 5d4+10
+65 75
+9 9 1 0 -1 -1
+#20214
+H W 0~
+squire blackheart~
+Blackheart Squire~
+A blackheart squire makes herself look busy here.
+~
+The squire wears the colors of her lord. She looks like she has received
+some training.
+~
+24424 0 0 0 1036 0 0 0 -1000
+40 10 -2 2d100+900 5d4+10
+65 75
+9 9 2 0 -1 -1
+#20215
+H W 0~
+concubine young woman~
+Concubine~
+A young woman stands here, looking pretty.
+~
+The young woman wears clothing and make-up to accentuate her feminine form.
+~
+200 0 0 0 0 0 0 0 0
+20 20 8 1d5+200 2d4+10
+40 40
+9 9 2 0 -1 -1
+#20216
+H W 0~
+sir karik knight mighty~
+Sir Karik~
+Sir Karik the Mighty towers over you.
+~
+Sir Karik the Mighty is aptly named.  He stands at least 6'9" and nearly
+all of it is muscle.  His colors are Silver and Blue and his symbol is a
+unicorn.
+~
+30568 0 0 0 1196 0 0 0 -700
+45 -10 -10 1d20+8000 10d4+30
+65 75
+9 9 1 0 -1 -1
+#20217
+H W 0~
+sir damanstian darkblade knight~
+Sir Damanstian~
+Sir Damanstian Darkblade stands here, glaring at you.
+~
+Sir Damanstian is very evil and the most powerful of Blackheart Keep's
+knights.  His colors are Red and Gold and his symbol is a red dragon.
+~
+30574 0 0 0 1213612 0 0 0 -1000
+50 -25 -10 1d20+15000 20d3+45
+80 90
+9 9 1 0 -1 -1
+#20218
+H W 0~
+sir derrik firstborne knight~
+Sir Derrik~
+Sir Derrik Firstborne stands here looking you over.
+~
+Sir Derrik Firstborne is Lord Skul's older half-brother.  His colors are
+Red and Sky blue and his symbol is a heart.
+~
+30574 0 0 0 1213612 0 0 0 -1000
+40 -10 -10 1d20+8000 10d4+25
+65 75
+9 9 1 0 -1 -1
+#20219
+H W 0~
+sir dael hammerhand knight~
+Sir Dael~
+Sir Dael Hammerhand stands here, conversing.
+~
+Sir Dael Hammerhand is almost as tall as Sir Karik, and easily as wide.
+His colors are Grey and Black and his symbol is a hammer.
+~
+30568 0 0 0 1068 0 0 0 -1000
+40 -10 -10 1d20+5000 10d4+30
+65 75
+9 9 1 13 -1 -1
+#20220
+H W 0~
+sir mylandor deerbourne knight~
+Sir Mylandor~
+Sir Mylandor Deerbourne stands here.
+~
+Sir Mylandor Deerbourne is a true nature lover.  He spends much of his
+time in the wild.  His colors are Red and Sky Blue and his symbol is a
+stag.
+~
+30568 0 0 0 1213484 0 0 0 -500
+40 -10 -10 1d20+5000 10d3+20
+65 75
+9 9 1 0 -1 -1
+#20221
+H W 0~
+sir gilbere degrasse knight~
+Sir Gilbere~
+Sir Gilbere Degrasse stands here pondering something.
+~
+Sir Gilbere Degrasse is the most educated and cultured of Lord Skul's
+knights.  He is also very cruel and selfish.  His colors are Yellow and
+Sky Blue and his symbol is a Yellow rose.
+~
+30568 0 0 0 1213484 0 0 0 -800
+40 -10 -10 1d20+5000 10d3+20
+65 75
+9 9 1 0 -1 -1
+#20222
+H W 0~
+sir briene bastard knight~
+Sir Briene~
+Sir Briene the Bastard stands here glaring at you.
+~
+Sir Briene the Bastard is by far the cruelest of Lord Skul's knights.
+His colors are Crimson and Black and his symbol is a bloody sword.
+~
+30568 0 0 0 1068 0 0 0 -1000
+40 -10 -10 1d20+5000 15d3+30
+65 75
+9 9 1 0 -1 -1
+#20223
+H W 0~
+madam xillery longstride knight~
+Madam Xillery~
+Madam Xillery Longstride paces about here.
+~
+Madam Xillery Longstride stands 6'4", and is built quite well.  Her colors
+are Blue and White and her symbol is a mace.
+~
+30568 0 0 0 1213612 0 0 0 -1000
+40 -15 -10 1d20+5000 10d4+40
+65 75
+9 9 2 0 -1 -1
+#20224
+H M 0~
+skelon magnificent mage~
+Skelon~
+Skelon the Magnificent is working on an experiment here.
+~
+Skelon the Magnificent is Lord Skul's magist.  He and Lord Skul have
+been working on creating the perfect fighting creature.  He looks like
+he has been up for several days without sleep...there is madness in 
+his eyes.
+~
+30586 0 0 0 1279164 0 0 0 -1000
+50 -20 -10 3d4+8000 15d2+40
+80 90
+9 9 1 12 -1 -1
+#20225
+H D 0~
+lord skul outcast knight~
+Lord Skul~
+Lord Skul the Outcast stands here smiling at you.
+~
+Lord Skul is quite imposing.  He stands 6'4" and is in excellent physical
+condition for a man of his age.  Just what his age is, is anyone's guess.
+Lord Skul's colors are Black and Sky Blue and his symbol is a black heart.
+~
+63358 0 0 0 1213612 0 0 0 -1000
+50 -30 -10 1d10+20000 20d9+60
+80 90
+9 9 1 0 -1 -1
+$

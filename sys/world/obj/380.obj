@@ -1,0 +1,129 @@
+#38000
+board bulletin~
+the Warrior Guild Idea Board~
+The board for comments on the Warrior Guild hangs here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38001
+board bulletin challenge~
+the Warrior Challenge Board~
+The warrior challenge board stands here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38002
+pedestal~
+a pedestal~
+An ornate pedestal stands here.~
+~
+15 2 0 0 0 0 0 0 0
+100 15 -1 0
+1000 0 100
+E
+pedestal icon~
+   This pedestal holds the Guild Icon, worn only by the proven master of their
+guild.    
+~
+B
+0 0 0 0
+#38003
+icon warlord guild_item~
+Icon of War~
+A small glowing orb spins about aimlessly here.~
+~
+11 8355403 32 0 0 65537 0 0 0
+0 0 0 0
+3 100000 50000
+E
+icon warlord guild_item~
+This item belongs only to that who holds the title of Master for their guild.
+~
+A
+19 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#38004
+diagram map guild~
+the warrior's guild map~
+A diagram of the warrior's guild is on the south wall.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+2 3 0
+E
+map diagram guild warrior~
+                                Entry Room
+                                    |          
+            Boardroom---------(you are here)       
+                |
+Shopkeeper -----|----- Armory
+ Infirmary -----|----- Guild Training ----
+                |
+          Challenge Room
+                |
+          Challenge Arena
+~
+B
+0 0 0 0
+#38005
+shield spiked buckler~
+a spiked buckler~
+A buckler with a nasty looking steel spike has been dropped here.~
+~
+9 524288 0 0 0 513 0 0 0
+6 0 0 0
+5 800 40
+B
+0 0 0 0
+#38006
+helmet armor steel metal tough~
+a steel helmet~
+A tough metal helmet is lying here.~
+~
+9 134746112 32 0 0 17 0 0 0
+7 0 0 0
+5 700 55
+B
+0 0 0 0
+#38007
+gladius short sword~
+a gladius~
+A razor sharp gladiators short sword has been dropped here.~
+~
+5 536576 32 0 0 8193 0 0 0
+0 3 6 3
+15 1000 60
+B
+0 0 0 0
+#38008
+samnite half-armor armor suit~
+samnite half-armor~
+A suit of gladiators half-armor lies scattered across the ground.~
+~
+9 5009408 32 0 0 9 0 0 0
+8 0 0 0
+20 800 70
+B
+0 0 0 0
+#38009
+boots chain mesh~
+a pair of chain mesh boots~
+A set of chain mesh boots lie in the corner here.~
+~
+9 524288 0 0 0 65 0 0 0
+5 0 0 0
+3 779 25
+B
+0 0 0 0
+$~

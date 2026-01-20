@@ -1,0 +1,105 @@
+#3568
+garnet~
+a garnet~
+A garnet stone lies here.~
+~
+8 3 64 0 0 1 0 0 0
+0 0 0 0
+1 9000 100
+E
+new_item~
+3580
+~
+E
+insert_item~
+3584
+~
+E
+insert_to_char~
+You mount a garnet on an empty ring, creating a ring with magical powers.
+~
+E
+insert_to_room~
+You hear the giggle of youth.
+~
+E
+insert_fail_charr~
+These two items don't fit together in that manner.  Try something else.
+~
+E
+insert_fail_room~
+Did someone just fart?  ewwww!
+~
+B
+0 0 0 0
+#3580
+ring~
+a ring~
+A ring needs a color~
+~
+8 3 0 0 0 3 0 0 0
+0 0 0 0
+1 10000 100
+A
+19 3
+A
+9 -20
+B
+0 0 0 0
+#3581
+ring~
+ring~
+a ring~
+~
+8 3 0 0 0 3 0 0 0
+0 0 0 0
+1 10000 100
+A
+19 3
+A
+9 -30
+B
+0 0 0 0
+#3582
+ring~
+ring~
+a ring~
+~
+8 3 0 0 0 3 0 0 0
+0 0 0 0
+1 10000 100
+A
+19 3
+A
+9 -40
+B
+0 0 0 0
+#3583
+ring~
+ring~
+ring~
+~
+8 3 0 0 0 3 0 0 0
+0 0 0 0
+1 10000 100
+A
+19 3
+A
+9 -50
+B
+0 0 0 0
+#3584
+empty ring~
+an empty damage ring~
+an empty damage ring~
+~
+8 3 128 0 0 3 0 0 0
+0 0 0 0
+1 100 10
+E
+ring empty~
+This ring is missing it's stone.  It should be joined to a stone of some kind.
+~
+B
+0 0 0 0
+$~

@@ -1,0 +1,19 @@
+nox cast 'nox' $*
+soul cast 'soul' $*
+passive tog mob passive
+vig elder_druidess
+life cast 'life drain'poss
+charm cast 'charm corpse' $*
+sham shamblingmound ward
+slow cast 'slow' $*
+bli cast 'bli' $*
+shield cast 'shield' $*
+title title &14the &07Diseased &08D&10r&08a&10c&08o&10n&08i&10a&08n&00
+emb cast 'embalm'corpse
+gt get coin all.corp
+di cast 'detect invis' $*
+infra cast 'infra' $*
+sum cast 'summon' $*
+invis cast 'invis' $*
+fly cast 'fly' $*
+gs gsay &07$*&00

@@ -1,0 +1,1720 @@
+#35100
+Credits Room - Ice Caverns~
+This is a Rom conversion by Breeze originally converted by corwin.  Lvl range
+is 25-50 group Its a series of icy caves and plateaus and the forces conjured
+within are what has caused the freezing of the southern plains below Mahntor.
+Linked to Icy Plains/Obsidian at 11382
+~
+351 0 0 0 0 5 255 0
+E
+sign~
+Built many muds ago by Ilvisan and Breize.
+Converted for Pandora's Box by Breize - 10/20/98
+Converted for Vale of Tears by Kray - 7/13/99
+Converted for Raven by Corwin - 10/18/00
+~
+S
+#35101
+A Cave~
+You are in a dark cave.     Your puny light source does nothing to lessen
+the shadows that creep around you.    You run into a large boulder in the
+center of the cave and realize this is the one you crawled down to get in. 
+  You can climb back out; or, you can face whatever is making that horrible
+growling that comes from the shadows.  
+~
+351 1 0 0 0 5 255 0
+D4
+~
+~
+0 0 35103
+S
+#35102
+A Cave~
+You have wandered into a dark cave.    You light does not penetrate far
+enough for you to see the walls, but you feel that the cave is huge.  In the
+east you see a faint glimmer of light from the outside, and a low growling
+comes from the shadows around you.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35106
+S
+#35103
+A Mountain Path~
+You are travelling along a worn mountain path.    Large boulders lay on
+either side of the path, looking as if they fell from a large height.  A gap
+among the stones shows the entrance to a large, dark cave.  From here, you
+see a path continuing to the north.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35104
+D5
+~
+~
+0 0 35101
+S
+#35104
+A Rocky Path~
+You are travelling along a narrow, rocky mountain path.  Large boulders
+lay almost casually on either side of the path looking very much as if
+someone threw them there.    Occasionally the ground beneath you shakes, as
+if vibrating from the movement of something very large.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+~
+0 0 35103
+D3
+~
+~
+0 0 35105
+D4
+~
+~
+0 0 35108
+S
+#35105
+Under the Ledge~
+The mountain rises menacingly before you and a ledge seems to form above
+you, preventing any further movement upward.    Sitting under the ledge, you
+are safe from the large boulders that occassionally bounce down the
+mountain, rolling as if someone casually tossed them off the mountaintop.   
+You see a faint path running east and west from here.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35104
+D3
+~
+~
+0 0 35106
+D5
+~
+~
+0 0 35193
+S
+#35106
+A Narrow, Rocky Path~
+The path widens slightly here, and you see a cave carved into the
+mountainside to the west.     The rocks are very loose here, causing you to
+occassionally lose your step and almost fall head over heels down the
+mountain.    The rocks around the entrance to the cave almost take the
+appearance of bones.    The path curves here, and moves straight up the
+moutainside.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35105
+D3
+~
+~
+0 0 35102
+D4
+~
+~
+0 0 35107
+S
+#35107
+A Rocky Path~
+The path continues in a roughly upward direction here.  Less and less
+boulders are bouncing down the mountainside here, perhaps because you are
+nearing the ice cap of the mountain.    The air has a definite bite to it,
+and your breath is starting to turn frosty.  
+~
+351 1 0 0 0 5 255 0
+D4
+~
+~
+0 0 35110
+D5
+~
+~
+0 0 35106
+S
+#35108
+A Steep Rocky Path~
+The path seems to narrow even more here, almost disappearing at times.   
+Large boulders block your path with almost every step you take, and you are
+forced to crawl over them more than once.    The number of falling boulders
+seems to lessen, but you notice that the frost in your breath seems to
+increase as the ice cap draws nearer.  
+~
+351 1 0 0 0 5 255 0
+D4
+~
+~
+0 0 35109
+D5
+~
+~
+0 0 35104
+S
+#35109
+The Edge of the Ice~
+You take a step and suddenly your feet are slipping out from under you. 
+  The boulders here have a permanent frosty coating to them, and as you look
+further up the mountain, you see that even the boulders disappear and the
+ground turns into pure ice.    A path of sorts runs west across the edge of
+the ice, and of course, you can continue up the mountainside.  
+~
+351 1 0 0 0 5 255 0
+D3
+~
+~
+0 0 35110
+D5
+~
+~
+0 0 35108
+S
+#35110
+The Edge of the Ice~
+You footing is getting less and less steady as the boulders are now
+coated in a thich frosty coating.    Your breath is coming out in thick
+white clouds, and an eerie silence seems to cover the ice.    As your eyes
+trail over the ice cap, you see faint dark spots in the ice...  Perhaps
+caves?  A faint trail leads off to the east.  
+~
+351 5 0 0 0 5 255 0
+D1
+~
+~
+0 0 35109
+D4
+~
+~
+0 0 35111
+D5
+~
+~
+0 0 35107
+S
+#35111
+The Icy Wastes~
+You have wandered up onto what seems to be a plateau on the mountain.   
+Far in the distance to the north you can see the mountainside resume its
+climb once more, but in the near distance all you can see is an ice covered
+wasteland.    Dark spots are scattered on the ground, some much larger than
+others.    Some of them seem to be caves, and the others are large creatures
+wandering about.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35116
+D1
+~
+~
+0 0 35112
+D3
+~
+~
+0 0 35118
+D5
+~
+~
+0 0 35110
+S
+#35112
+The Icy Wastes~
+You have wandered onto what seems to be a plateau on the mountain.    Far
+in the distance to the north you can see the mountainside resume its climb
+once more, but in the near distance all you can see is an ice covered
+wasteland.    Dark spots are scattered on the ground, some much larger than
+others.    Some of these seem to be caves, and others look to be .. 
+Moving??  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35115
+D1
+~
+door~
+1 0 35113
+D3
+~
+door~
+1 0 35111
+S
+#35113
+The Icy Wastes~
+You are wandering on a large plateau on the mountainside.  The ice
+becomes incredibly choppy and impassable to the east, and far in the
+distance to the north you see the mountain begin to rise again.    A large
+hole gapes below you, and leads down into a shadowy, ice covered cave.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35114
+D3
+~
+~
+0 0 35112
+D5
+~
+~
+0 0 35131
+S
+#35114
+The Icy Wastes~
+You are wandering on a large, icy plateau of sorts.  The ice continues on
+in every direction except east, where the ice becomes choppy as it forms a
+cliff down the mountainside.    Far to the north you can see the mountain
+begin its climb to the skies once more, and as your eyes sweep the ice you
+see creatures milling about.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35122
+D2
+~
+~
+0 0 35113
+D3
+~
+~
+0 0 35115
+S
+#35115
+The Icy Wastes~
+You continue to wander along an icy plateau.  The ice below you seems
+almost hollow, as if there are large open spaces below it.    You can see no
+cracks in the ice here, but perhaps if you look elsewhere...    Far to the
+north you can see the plateau ending as the mountain begins to rise again,
+and in every other direction nothing but ice greets your eyes.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35121
+D1
+~
+~
+0 0 35114
+D2
+~
+door~
+1 0 35112
+D3
+~
+~
+0 0 35116
+S
+#35116
+The Icy Wastes~
+You continue to wander the icy plateau.  A cold breeze sweeps the wastes,
+sending chills deep into your bones.    All around you can see creatures of
+all sorts wandering around, and far in the north you can see the mountain
+begin its sharp ascent once more.    Below you, a large hole gapes open,
+providing exit from its icy, windless depths.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35120
+D1
+~
+~
+0 0 35115
+D2
+~
+~
+0 0 35111
+D3
+~
+~
+0 0 35117
+S
+#35117
+The Icy Wastes~
+The wind whips around you and sends chills deep into your bones as you
+continue to wander along this barren plateau of ice on the mountainside.   
+All around you creatures are lumbering about, and some are disappearing into
+the deep caves that pepper the icy grounds.    West from here the ice
+becomes choppy and impassable, and in every other direction the barren ice
+stretches on.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35119
+D1
+~
+~
+0 0 35116
+D2
+~
+~
+0 0 35118
+S
+#35118
+The Icy Wastes~
+You are standing along the corner of an icy plateau on the mountainside. 
+  A chilling wind is whipping all around you and seems to howl your name as
+you trudge along.    To the south and west the mountainside dropps off
+sharply, leaving only north and east as your alternatives, unless you'd like
+to jump off the side of the mountain.    A tunnel leads out of the caves
+below here, but the way in is blocked by sharp icicles that point out.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35117
+D1
+~
+~
+0 0 35111
+S
+#35119
+The Icy Wastes~
+The mountainside to the north is looming closer and closer, and the wind
+is whipping even more ferociously as it bounces off the mountain and slams
+into you.    The plateau edge drops off sharply to the west, and continues
+in all other directions.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35126
+D1
+~
+~
+0 0 35120
+D2
+~
+~
+0 0 35117
+S
+#35120
+The Icy Wastes~
+You are wandering along a large, ice covered plateau that stretches
+across the mountainside.    The wind is swirling around you visciously, and
+you wonder how the creatures that live here can stand it.    A large cave
+exit in the ground catches your eye, maybe it is not as windy down there.   
+Why don't you try and find the entrance.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35125
+D1
+~
+~
+0 0 35121
+D2
+~
+~
+0 0 35116
+D3
+~
+~
+0 0 35119
+S
+#35121
+The Icy Wastes~
+You are wandering in about the middle of the icy plateau.    All around
+you creatures are lumbering about, somehow ignoring the wind that slices
+into your soul, chilling you completely.    The mountain begins to rise
+again a short way to the north.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35124
+D1
+~
+~
+0 0 35122
+D2
+~
+~
+0 0 35115
+D3
+~
+~
+0 0 35120
+S
+#35122
+The Icy Wastes~
+You have come to the eastern edge of the plateau.  The ice becomes choppy
+and drops off in a sharp cliff to the east, and the mountainside is a short
+distance to the north.    All around you strange, frost covered creatures
+are milling about, seeming to ignore the icy winds and the slippery footing.
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35123
+D2
+~
+~
+0 0 35114
+D3
+~
+~
+0 0 35121
+S
+#35123
+Against the Mountain~
+The plateau ends abruptly to the north as the mountain rises steeply
+before you.    It is strangely calm here, with no wind whipping at you.   
+The wide, icy plateau stretches out to the south, with no end in sight.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+~
+0 0 35122
+D3
+~
+~
+0 0 35124
+S
+#35124
+Against the Mountain~
+You are wandering along the northern edge of the plateau.    A small,
+almost completely hidden trail leads up the mountainside here, and to the
+south the wind howls across the plateau.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35123
+D2
+~
+~
+0 0 35121
+D3
+~
+~
+0 0 35125
+D4
+~
+~
+0 0 35127
+S
+#35125
+Against the Mountain~
+The plateau comes to an abrupt end here as the mountain rises again to
+the north.    The icy plateau stretches out south from here, and you see
+many creatures wandering about.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35124
+D2
+~
+~
+0 0 35120
+D3
+~
+~
+0 0 35126
+S
+#35126
+Against the Mountain~
+The plateau drops off sharply to the west in a large cliff, and a
+mountain rises steeply to the north.    You see a small exit from icy caves
+coming up to here, and the plateau stretches on to the south.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35125
+D2
+~
+~
+0 0 35119
+S
+#35127
+A Steep, Twisty Trail~
+You are travelling along a steep, twisting mountain trail.    It seems
+almost forgotten, with icy covered boulders frozen into place and an eerie
+calm that has settled like a blanket.    The wind is absent here, as is any
+sort of sound.    A curious vibration from above jars the ice regularly.  
+~
+351 1 0 0 0 5 255 0
+D4
+~
+~
+0 0 35128
+D5
+~
+~
+0 0 35124
+S
+#35128
+Cave Entrance~
+You have come to the entrance of a LARGE, dark cave.  The entrance alone
+is larger than some mansions you have seen, and a feeling of uneasiness
+creeps over you.  A strange vibration jars the ground, almost causing you to
+slip off the mountain.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35129
+D5
+~
+~
+0 0 35127
+S
+#35129
+A Large, Silent Cave~
+You have entered a large, dark cave.  You can hardly see the edges, and
+already the entrance seems to be far in the distance to the south.    Your
+light hardly shatters the dark, and all you can sense from the shadows
+before you is a jarring, regular vibration.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35130
+D2
+~
+~
+0 0 35128
+S
+#35130
+The Cave Wall~
+The large cave comes to an end here, and you cannot even see a pinpoint
+of light from the entrance back to the south.    The vibrations you felt are
+even more jarring now, and they come from the large lump before you.   
+Strange streaks of ice adorn the walls, mixed with a strangely familiar red
+color in places.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+~
+0 0 35129
+S
+#35131
+Cave Entrance~
+You are standing right inside an entrance to what looks to be a huge
+labyrinth of caves.    The wind howls visciously above you as it whips over
+the entrance to the cave, making the icy tunnel seem almost warm and
+inviting.  
+~
+351 5 0 0 0 5 255 0
+D3
+~
+~
+0 0 35132
+D4
+~
+~
+0 0 35113
+S
+#35132
+A Long Tunnel~
+You are walking down a narrow tunnel.    The walls are made of pure ice,
+but your light is being absorbed into them, making them look a deep black in
+color.    An exit from the tunnels is off to the east, and the tunnel
+continues west.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35131
+D3
+~
+~
+0 0 35133
+S
+#35133
+A Long Tunnel~
+You are travelling down a long, ice coated tunnel.  Occassionally a
+creature will meander down the tunnel and brush past you, ignoring you on
+the most part.    Every thing that passes you seems to emanate a cold
+breeze, and you shiver uncontrollably.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35136
+D1
+~
+~
+0 0 35132
+D3
+~
+~
+0 0 35134
+S
+#35134
+A Corner in the Tunnel~
+You have come to a corner in the tunnel.    A small hole leads out onto
+the plateau again, and the tunnel goes back to the east.    A large room
+opens to the north, with sounds of a crowd inside.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35135
+D1
+~
+~
+0 0 35133
+D4
+~
+~
+0 0 35118
+S
+#35135
+A Large Room~
+You have wandered into a large room carved from the same ice that every
+thing around here is made of.    This seems to be a meeting place of sorts,
+and several strange, frosty creatures are milling about.    Words of strange
+tongue fill your ears, echoing off the glimmering ice.    You notice exits
+in the distance to the north and east.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35187
+D1
+~
+~
+0 0 35185
+D2
+~
+~
+0 0 35134
+S
+#35136
+A Small Side Tunnel~
+You are travelling down a narrow tunnel carved from black ice.  As you
+move north, the tunnel leads down drastically.    You see no movement, no
+life, nothing except ice as you travel further down the tunnel.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35137
+D2
+~
+~
+0 0 35133
+S
+#35137
+An Icy Intersection~
+You have come to an intersection of tunnels in the caverns.    A large
+tunnel leads east and west, while a smaller tunnel heads north and south
+from here.    The tunnel running north and south slopes downwards to the
+south.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35138
+D1
+~
+~
+0 0 35172
+D2
+~
+~
+0 0 35136
+D3
+~
+~
+0 0 35180
+S
+#35138
+A Small, Narrow Tunnel~
+You are travelling along a north-south running tunnel carved into the icy
+cap of the mountain.    The tunnel slopes downward as you head north, and
+you sense the tunnel flattening out not too far ahead in that direction.   
+To the south you see an intersection of tunnels.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35139
+D2
+~
+~
+0 0 35137
+S
+#35139
+A T-Intersection~
+You are standing at a T-intersection in the icy labyrinth of tunnels.   
+A small tunnel sloping upward leads south from here, and a large, wide
+tunnel leads east and west.    In the distance to the west, you can see a
+bright section of the tunnel.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35150
+D2
+~
+~
+0 0 35138
+D3
+~
+~
+0 0 35140
+S
+#35140
+A Bright Icy Tunnel~
+You are wandering down a bright, icy tunnel.    You can see no source of
+light, except the ice that coats the walls and seems to glow faintly.   
+Strange runes are carved into the ice, and seem to glow more brightly than
+the surrounding ice.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35139
+D3
+~
+~
+0 0 35141
+S
+#35141
+A Bright, Icy Tunnel~
+You are wandering along a bright tunnel.    The very ice along the walls
+seems to glow brightly.    Strange runes are carved into the walls, and they
+glow even more brightly than the surrounding ice.  A tiny room heads north
+of here.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35149
+D1
+~
+~
+0 0 35140
+D3
+~
+~
+0 0 35142
+S
+#35142
+Before the Great Doors~
+You are standing before a beatifully sculptured gate made of gleaming blue ice.
+Carved on the gate are the same runes you've seen on the walls, and they seem
+to pulse faintly with energy.    Smaller doors line the northern and southern
+walls, and the tunnel leads east.    
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35147
+D1
+~
+~
+0 0 35141
+D2
+~
+door~
+1 0 35148
+D3
+you see a gate
+~
+icegate~
+2 35111 35143
+S
+#35143
+The Grand Entrance Room~
+You are standing in an ornate entrance room.    Large, beautifully
+intricate sculptures of ice line the walls of the room.    They look just as
+real as if someone went along and froze creatures in various stages of
+torture.  The pained expressions on the sculptures faces brings a chill down
+your spine, and you begin to wonder at the eerie silence filling the room.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+icegate~
+2 35111 35142
+D3
+~
+~
+0 0 35144
+S
+#35144
+Approaching the Thrones~
+You are travelling along a grand, carpeted walkway.  Everything around
+you is carved of ice.    It all looks as if someone turned normal objects to
+ice for their amusement.  Even the carpet below your feet crunches as if
+frozen.    Ahead to the east you see a pair of twin thrones carved of ice,
+and upon those thrones you see..  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35143
+D3
+~
+~
+0 0 35145
+S
+#35145
+Before the Thrones~
+You stand before a pair of floating, ice carved thrones.  All around you
+are several more of the intricate sculptures, but these seem ..  Different
+somehow.    They have no pain in their expressions, only an eerie calm.   
+They are outfitted in intricate icy armor, and they seem to shift slightly
+as you move closer to the thrones levitating a few feet above you.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35144
+D4
+~
+~
+0 0 35146
+S
+#35146
+At the Thrones~
+You are floating in air before the beautiful icy thrones you saw from
+below.    Seated on the thrones are two of the coldest expressioned people
+you have ever seen.  They glare icily at you and say nothing, although it is
+made clear that you are invading their home.    Curled up in mid-air at
+their feet are their personal guardians, which also look none too pleased at
+your intrusion.  
+~
+351 1 0 0 0 5 255 0
+D5
+~
+~
+0 0 35145
+S
+#35147
+A Library~
+You are standing in a library filled with rare, ancient books.    A thin
+layer of frost covers objects in the room just as dust would, and the books
+shine with a frozen gleam.  Every inch of the walls is covered with
+bookcases filled to capacity, and as you glance quickly at the titles you
+notice they are all about magical arts.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+door~
+1 0 35142
+S
+#35148
+A Large Bedroom~
+You are standing in a large, frost coated bedroom.  The room is dominated
+by a large, uncomfortable looking bed.    Bedposts of pure ice surround the
+bed, and the entire room has an eerie sense of quiet.    The only 'soft'
+touch is a single rose made of pure ice, resting on top of one of the
+pillows.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35142
+S
+#35149
+The Collection Room~
+You are standing in a small room filled with a collection of intricate
+ice scupltures.    Each of them is truly lifelike, from the baby bird
+sitting in its nest, to the dying elven elder laying on its bed.    The
+expressions of pain and anguish on their faces are all so realistic it makes
+you shudder slightly.    What kind of cold, demented mind would keep statues
+of such things?  They look so real they could have come alive if melted..  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+door~
+1 0 35141
+S
+#35150
+A Wide, Shadowy Tunnel~
+You have entered into a wide, dark tunnel.    Your every footstep echoes
+into the icy shadows.    The echoes seem strange somehow, as if there's more
+than one set of footsteps.  You feel a strange sense of danger as you head
+east, but everything seems relatively safe to the west.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35151
+D3
+~
+~
+0 0 35139
+S
+#35151
+An Icy Intersection~
+You have come to an intersection in the labyrinth of icy corridors.    As
+you sweep your eyes east, you feel a terrible sense of danger, and to the
+west you sense only coldness.    A small tunnel leads north and south into
+darkness.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35156
+D1
+~
+door~
+0 0 35152
+D2
+~
+~
+0 0 35164
+D3
+~
+~
+0 0 35150
+S
+#35152
+Before the Doors~
+Out of nowhere a huge pair of doors appears to block the path east.   
+Smaller doors lead north and south off the tunnel, and each seems safer than
+the path east.    A strange symbol is glowing on the huge doors, and it
+seems to give some sort of warning.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35154
+D1
+~
+door~
+1 0 35153
+D2
+~
+door~
+1 0 35155
+D3
+~
+~
+0 0 35151
+S
+#35153
+A Large Icy Cavern~
+You have entered a huge cavern of ice.    The walls glisten with a
+reddish sheen, at least the walls you can see do.    The cavern stretches on
+into darkness, and you can see nothing but shadows.  A strange feeling
+settles over you, its almost like..  You're being hunted.    The room seems
+deathly quiet..  Too quiet.    You better get out while you still have time.
+~
+351 1 0 0 0 5 255 0
+D3
+~
+door~
+1 0 35152
+S
+#35154
+Room of the Attendants~
+You are standing in a somewhat large room.    All around servants in icy
+robes are bustling about, creating a huge pile of bones and gore.    In one
+corner an expressionless man is calmly disposing of screaming victims, while
+another chops them up into pieces.    If you didn't know better, you'd think
+they were preparing a meal.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+door~
+1 0 35152
+S
+#35155
+A Holding Cell~
+You have entered into a prison of sorts, only this kind of prison needs
+no lock.    All around you, creatures are frozen in various stages of
+torture and tossed aside.    A shiver runs down your spine as you see a
+large parchment pinned to a wall.    A closer look at the parchment shows it
+to list "Upcoming Meals."  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35152
+S
+#35156
+A Narrow Hallway~
+You are travelling down a narrow hallway in the caverns of ice.    The
+ice here seems a little dirty, less pure than the ice you've seen in other
+tunnels.    Tired servants brush past you without noticing you, and you
+realize that this is the servants' quarters.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35157
+D2
+~
+~
+0 0 35151
+S
+#35157
+Servants' Hallway~
+Further and further into the servants' quarters you wander.    Rooms
+branch off to the east and west, and the ice seems dirty and impure here.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35160
+D1
+~
+door~
+1 0 35158
+D2
+~
+~
+0 0 35156
+D3
+~
+door~
+1 0 35159
+S
+#35158
+A Servant's Room~
+You are standing in a tiny, cramped room.    It looks as if five or six
+servants live here.    There are no beds in here, only hard blocks of ice on
+the floor.    A large icy dresser stands in the corner, and upon opening it
+you see only five changes of clothes.  
+~
+351 1 0 0 0 5 255 0
+D3
+~
+door~
+1 0 35157
+S
+#35159
+A Servant's Room~
+You are standing in a small, cramped room.    It looks as if five or six
+servants live in this tiny space.    There are no beds in here, only large
+blocks of ice.     In one corner you see a large dresser carved of ice.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+door~
+1 0 35157
+S
+#35160
+Servant's Hallway~
+You are wandering down a small, icy tunnel.    The ice here seems dirty,
+almost impure.    A few tired servants brush past you and hardly notice your
+existence as they trudge along to their rooms, or to serve their Lord and
+Lady.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35163
+D1
+~
+door~
+1 0 35161
+D2
+~
+~
+0 0 35157
+D3
+~
+door~
+1 0 35162
+S
+#35161
+A Servant's Room~
+You are standing in a small, cramped room.    It looks as if five or six
+servants live in this tiny space.  There are no beds here, only huge blocks
+of ice.    The only other piece of furniture you can see is a huge ice
+coated dresser.  
+~
+351 1 0 0 0 5 255 0
+D3
+~
+door~
+1 0 35160
+S
+#35162
+A Servant's Room~
+You are standing in a small, cramped room.    It looks as if five or six
+servants live here, although there is no bed for them to rest upon.    All
+you see is large blocks of ice with servants laying upon them, and a large
+ice coated dresser.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+door~
+1 0 35160
+S
+#35163
+A Servant's Room~
+You are standing in a small, cramped room.    It looks as if five or six
+servants live in this tiny room.    A large block of ice serves as a bed,
+and the only other furniture is an ice coated dresser.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+door~
+1 0 35160
+S
+#35164
+A Narrow Hallway~
+You are walking along a narrow hallway.    Now and then a guard will pass
+you, and glare coldly at you for invading his home.    Further south you see
+doors lining the hallway, and you realize this is the entrance to the guard
+quarters.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35151
+D2
+~
+~
+0 0 35165
+S
+#35165
+Guard Hallway~
+You are walking along an icy hallway in the guard quarters.    Now and
+then you see a guard brush past you, and he glares icily at you for invading
+his home.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35164
+D1
+~
+door~
+1 0 35166
+D2
+~
+~
+0 0 35168
+D3
+~
+door~
+1 0 35167
+S
+#35166
+A Guard's Room~
+You are standing in a medium sized room.    Two or three guards share
+this room, and it looks very uncomfortable in your eyes.    A large block of
+ice serves as a bed, and there is an ice coated cabinet in the corner.  
+~
+351 1 0 0 0 5 255 0
+D3
+~
+door~
+1 0 35165
+S
+#35167
+A Guard's Room~
+You are standing in one of the rooms for the guards of the Lord and Lady
+of Frost.    It looks to be a very uncomfortable room, but guards should be
+used to things like that.    A large block of ice serves as a bed, and an
+ice covered cabinet stands in the corner.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+door~
+1 0 35165
+S
+#35168
+Guard's Hallway~
+You are walking down the hallway in the guard's quarters.    The walls
+are covered in a smooth, dirty ice.    Now and then a guard will wander past
+you and glare coldly at you for invading his home.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35165
+D1
+~
+door~
+1 0 35169
+D2
+~
+door~
+1 0 35171
+D3
+~
+door~
+1 0 35170
+S
+#35169
+A Guard's Room~
+You are standing in a barren, ice covered room.  The guards sleep here
+when not guarding their Lord and Lady diligently.    The only bed you see is
+a large block of ice.  Not very comfortable, but suitable for a soldier.  
+~
+351 1 0 0 0 5 255 0
+D3
+~
+door~
+1 0 35168
+S
+#35170
+A Guard's Room~
+You are standing in a cold, barren room.    A few of the guards will
+sleep in here at a time on their off shifts.    The only bed is a large
+block of ice, which is very suitable for the guards of the Lord and Lady of
+Frost.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+door~
+1 0 35168
+S
+#35171
+A Guard's Room~
+You are standing in a barren, ice covered room.  The room is dominated by
+a large block of ice which must serve as a bed, since there is someone
+sleeping on it.    The entire room looks very uncomfortable, but that must
+suit the guards just fine.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35168
+S
+#35172
+A Wide, Bright Tunnel~
+You have entered into a wide, ice coated tunnel.  The walls glimmer with
+a light from within, and everything shines with a freshly cleaned sheen. 
+Coldly beautiful carvings are etched into the ice, and some glow with vivid
+greys, blacks, and browns.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35173
+D3
+~
+~
+0 0 35137
+S
+#35173
+A Wide, Glimmering Tunnel~
+You are in the middle of a long, brightly lit tunnel.    The walls are
+covered with gleaming ice, and in places the ice has beautiful carvings
+etched into it.    The ice glows steadily with a light from within, and
+somehow even this unfurnished, icy hall looks ornate and royal.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35174
+D1
+~
+~
+0 0 35176
+D2
+~
+door~
+1 0 35175
+D3
+~
+~
+0 0 35172
+S
+#35174
+A Guest Room~
+You are standing in a richly furnished guest room.    Although the
+hallway is without carpet or furniture, this room is obviously built to
+comfort.    A large, soft looking bed is in the center of the room, with two
+large, opulate chairs on either side.    A thick carpet rests on the floor. 
+  Everything in the room is covered with a fine layer of frost.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+door~
+1 0 35173
+S
+#35175
+A Guest Room~
+You are standing in a richly furnished guest room.    Although the
+hallway is without carpet or furniture, this room is obviously built to
+comfort.    A large, soft looking bed is in the center of the room, with two
+large, opulate chairs on either side.    A thick carpet rests on the floor. 
+  Everything in the room is covered with a fine layer of frost.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35173
+S
+#35176
+A Wide, Bright Tunnel~
+You are standing at the end of a wide hallway.  Doors adorn each wall,
+leading into guest rooms.  The hallway seems to glow both with light from
+the ice itself, and light from the large hole in the ceiling.  A slight jump
+and you may be able to climb out.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35177
+D1
+~
+door~
+1 0 35178
+D2
+~
+door~
+1 0 35179
+D3
+~
+~
+0 0 35173
+D4
+~
+~
+0 0 35120
+S
+#35177
+A Guest Room~
+You are standing in a richly furnished guest room.    Although the
+hallway is without carpet or furniture, this room is obviously built to
+comfort.    A large, soft looking bed is in the center of the room, with two
+large, opulate chairs on either side.    A thick carpet rests on the floor. 
+  Everything in the room is covered with a fine layer of frost.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+door~
+1 0 35176
+S
+#35178
+A Guest Room~
+You are standing in a richly furnished guest room.    Although the
+hallway is without carpet or furniture, this room is obviously built to
+comfort.    A large, soft looking bed is in the center of the room, with two
+large, opulate chairs on either side.    A thick carpet rests on the floor. 
+  Everything in the room is covered with a fine layer of frost.  
+~
+351 1 0 0 0 5 255 0
+D3
+~
+door~
+1 0 35176
+S
+#35179
+A Guest Room~
+You are standing in a richly furnished guest room.    Although the
+hallway is without carpet or furniture, this room is obviously built to
+comfort.    A large, soft looking bed is in the center of the room, with two
+large, opulate chairs on either side.    A thick carpet rests on the floor. 
+  Everything in the room is covered with a fine layer of frost.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35176
+S
+#35180
+A Wide, Bright Tunnel~
+You are walking down a wide, ice coated tunnel.  Beautiful etchings are
+carved into the walls, and they glow with a cold grey light.    The ice here
+looks freshly polished, and shines brightly.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35137
+D3
+~
+~
+0 0 35181
+S
+#35181
+A Wide, Bright Tunnel~
+You stand at the end of a bright tunnel.    You cannot tell if the light
+in the room is from the strange glow in the ice coating the walls, or from
+the small hole in the ceiling.    Doors dominate every wall, and the tunnel
+goes back east.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35182
+D1
+~
+~
+0 0 35180
+D2
+~
+door~
+1 0 35183
+D3
+~
+door~
+1 0 35184
+D4
+~
+~
+0 0 35116
+S
+#35182
+A Guest Room~
+You are standing in a richly furnished guest room.    Although the
+hallway is without carpet or furniture, this room is obviously built to
+comfort.    A large, soft looking bed is in the center of the room, with two
+large, opulate chairs on either side.    A thick carpet rests on the floor. 
+  Everything in the room is covered with a fine layer of frost.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+door~
+1 0 35181
+S
+#35183
+A Guest Room~
+You are standing in a richly furnished guest room.    Although the
+hallway is without carpet or furniture, this room is obviously built to
+comfort.    A large, soft looking bed is in the center of the room, with two
+large, opulate chairs on either side.    A thick carpet rests on the floor. 
+  Everything in the room is covered with a fine layer of frost.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+door~
+1 0 35181
+S
+#35184
+A Guest Room~
+You are standing in a richly furnished guest room.    Although the
+hallway is without carpet or furniture, this room is obviously built to
+comfort.    A large, soft looking bed is in the center of the room, with two
+large, opulate chairs on either side.    A thick carpet rests on the floor. 
+  Everything in the room is covered with a fine layer of frost.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+door~
+1 0 35181
+S
+#35185
+A Small Tunnel~
+You are standing in a small tunnel that slopes upward as you head east. 
+  A large room opens to the west, and in it you hear a fountain bubbling.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35186
+D3
+~
+~
+0 0 35135
+S
+#35186
+A Small Tunnel~
+You are standing at the end of a small tunnel.  The tunnel continues on
+to the west, and a tiny hole is in the ceiling.    It looks as if you could
+reach the edges if you jump.  
+~
+351 1 0 0 0 5 255 0
+D3
+~
+~
+0 0 35185
+D4
+~
+~
+0 0 35116
+S
+#35187
+A Large, Glimmering Tunnel~
+You are walking down a wide, glistening tunnel.  The ice that coats the
+walls seems to pulsate with a bluish-white light.    You feel drawn to the
+large room opening to the north.    To the south you see a smaller, much
+less compelling room.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35188
+D2
+~
+~
+0 0 35135
+S
+#35188
+Anteroom of the Temple~
+You are standing in the anteroom of a magnificent temple.    Beautiful
+ice scupltures line the walls, all in various poses of worship.  Someone
+spent a great deal of time carving those, and such beautiful carving must be
+very expensive indeed.    The caretakers of this temple must have an amazing
+amount of money.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35189
+D2
+~
+~
+0 0 35187
+S
+#35189
+The Temple of Brys~
+All around you, intricate ice sculptures have been formed.  They all look
+so realistic, as if someone froze people in various stages of worship.    As
+you peer around the room a bitterly cold wind sweeps through and chills you
+to the bone.    An eerie silence blankets the temple, not even the footsteps
+of the priestesses make a sound.    You look down and realize that not just
+ice, but snow as well, covers the floor.  
+~
+351 1 0 0 0 5 255 0
+D0
+~
+~
+0 0 35190
+D1
+~
+~
+0 0 35191
+D2
+~
+~
+0 0 35188
+D3
+~
+~
+0 0 35192
+S
+#35190
+At the Altar~
+A large altar dominates this area of the temple.  Laying upon the altar
+you see many implements of sacrifice..  All covered in blood and all made of
+ice.  This is the temple of the Winter Goddess -- Brys.    You feel her eyes
+freezing you with their evil caress as she watches you defile her altar.   
+A bucket of semi-frozen blood rests at the foot of the altar, reminding you
+of the fountain you passed earlier.  
+~
+351 1 0 0 0 5 255 0
+D2
+~
+~
+0 0 35189
+S
+#35191
+The Worshipping Area~
+A large etching is carved into the icy wall here.    It depicts an angry
+looking woman blowing snowflakes at a town, covering it in a blanket of
+cold.    You glance around and notice many creatures kneeling in the icy
+mixture of the floor, silently bowing their heads in worship.  
+~
+351 1 0 0 0 5 255 0
+D3
+~
+~
+0 0 35189
+S
+#35192
+The Worshipping Area~
+A large etching is carved into the icy wall here.    It depicts an angry
+looking woman blowing snowflakes at a town, covering it in a blanket of
+cold.    You glance around and notice many creatures kneeling in the icy
+mixture of the floor, silently bowing their heads in worship.  
+~
+351 1 0 0 0 5 255 0
+D1
+~
+~
+0 0 35189
+S
+#35193
+Path Up The Mountains~
+You are travelling along a steep mountain path.  Large boulders rest along side
+the path, and sometimes right on the path, causing you to crawl over them.  
+Each step sends cascades of rock falling down the mountain.  You can either go
+up the mountain or back down to safety.    
+~
+351 5 0 0 0 5 255 0
+D4
+~
+~
+0 0 35105
+D5
+you see fog
+~
+~
+0 0 11382
+S
+$~

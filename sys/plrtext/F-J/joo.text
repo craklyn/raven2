@@ -1,0 +1,32 @@
+bone c 'bone wall' $*
+life c 'life drain' $*
+wraithpot brew wraithform shot
+invis c 'invis' $*
+gt gtell &06 $*  &00
+infra c 'infra'
+soul c 'soul pierce' $*
+di c 'detect invis' $*
+fly c 'fly' $*
+sum c 'summon' $*
+sense c 'sense life'
+nox c 'noxious skin' $*
+rune c 'create warding'
+entom c 'entomb corpse' $*
+5 cast 'summon' guardian_vamp
+wraith c 'wraithform' $*
+shield c 'shield' $*
+blind c 'blindness' $*
+silence c 'silence' $*
+embalm c 'embalm' $*
+slow c 'slow' $*
+charm c 'charm corspse' $*
+exp 
+expl c 'explode corpse'
+consume c 'consume corpse' $*
+of 
+order order followers $*
+sumguard c 'summon' guardian_vamp
+debil c 'debilitate' $*
+age c 'age' $*
+disease c 'disease' $*
+resist c 'resist poison' $*

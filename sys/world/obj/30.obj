@@ -1,0 +1,893 @@
+#3000
+beer wooden barrel~
+a large wooden barrel~
+A beer barrel has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+50 50 1 0
+65 300 500
+B
+0 0 0 0
+#3001
+beer bottle~
+a small dark bottle~
+A beer bottle has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 1 0
+10 20 80
+B
+0 0 0 0
+#3002
+ale bottle dark~
+a brown glass bottle~
+A dark bottle of ale has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 3 0
+10 10 80
+B
+0 0 0 0
+#3003
+firebreather decanter bottle~
+a decanter~
+A firebreather has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 7 0
+10 50 80
+B
+0 0 0 0
+#3004
+local bottle~
+a reddish bottle~
+A dark bottle has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 8 0
+10 20 80
+B
+0 0 0 0
+#3005
+water cup~
+a cup~
+A cup has been set here.~
+~
+17 0 0 0 0 1 0 0 0
+12 12 15 0
+1 2 120
+E
+cup~
+It is a large simple cup.
+~
+B
+0 0 0 0
+#3006
+water bottle~
+a bottle~
+A bottle of Evian natural spring water is here.~
+~
+17 0 0 0 0 1 0 0 0
+24 24 15 0
+1 10 240
+E
+bottle~
+It is a large, clean bottle.
+~
+E
+label~
+You've been ripped off!  It says here at the bottom of the label, in really
+really small letters, "Bottled in the Midgaard branch of Evian Inc.  This
+water is from the natural, mostly clean River of Midgaard."
+~
+B
+0 0 0 0
+#3007
+water canteen~
+a canteen~
+A canteen has been set on the ground here.~
+~
+17 0 0 0 0 1 0 0 0
+15 15 0 0
+10 45 150
+E
+canteen~
+It's a fairly big canteen.  Looks like it can hold a lot of liquid.
+~
+B
+0 0 0 0
+#3010
+bread loaf crusty~
+a hunk of crusty, dry bread~
+A hunk of bread has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+1 5 36
+B
+0 0 0 0
+#3011
+pot pie~
+a large pot pie~
+A large pot pie has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0
+1 15 45
+B
+0 0 0 0
+#3015
+meat chunk~
+a piece of meat~
+A rather dubious looking piece of meat is on the ground here.~
+~
+19 0 0 0 0 1 0 0 0
+14 0 0 0
+5 24 42
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+B
+0 0 0 0
+#3020
+dagger iron~
+an iron dagger~
+An ordinary iron dagger lies here.~
+pierce~
+5 0 0 0 0 8193 0 0 0
+0 1 4 11
+1 10 4
+B
+0 0 0 0
+#3021
+sword iron shortsword~
+an iron shortsword~
+An iron shortsword lies here.~
+slash~
+5 64 0 0 0 8193 0 0 0
+0 1 6 3
+3 60 6
+B
+0 0 0 0
+#3022
+sword iron longsword~
+an iron longsword~
+An iron long sword has been left here.~
+slash~
+5 0 0 0 0 8193 0 0 0
+0 1 8 3
+8 600 8
+B
+0 0 0 0
+#3023
+staff quarterstaff wooden~
+a wooden quarterstaff~
+A simple looking wooden quarterstaff is here.~
+pound~
+5 64 0 0 0 8193 0 0 0
+0 1 6 7
+2 60 6
+B
+0 0 0 0
+#3024
+mace iron~
+an iron mace~
+An iron mace has been left here.~
+crush~
+5 0 0 0 0 8193 0 0 0
+0 1 6 6
+3 60 6
+B
+0 0 0 0
+#3025
+flail awkward large~
+an awkward flail~
+A large flail is here.~
+pound~
+5 0 0 0 0 8193 0 0 0
+0 2 4 7
+6 625 10
+B
+0 0 0 0
+#3026
+vaulted pine chest~
+a vaulted pine chest~
+A nondescript pine chest rests here.~
+~
+15 0 0 0 0 0 0 0 0
+250 13 3027 0
+90 1000 250
+E
+vaulted pine chest~
+   This chest is made out of pine wood.  It has a large vault type locking
+mechanism that was designed to keep the inside possessions safe.    
+~
+B
+0 0 0 0
+#3027
+copper key~
+a copper key~
+A tarnished copper key is lying here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+3 100 0
+B
+0 0 0 0
+#3028
+folded paper~
+a folded piece of paper~
+A folded note has been left here.~
+   Congratulations you have successfully picked a chest.  Your skills are
+developing nicely young pickpocket.  You will find a small reward for your
+efforts inside this chest.  You will also find a small copper key.  Put
+something of interest back in this chest for the next guildsman that comes
+along, lock the chest, and junk the key.    
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 20 0
+B
+0 0 0 0
+#3029
+gold coins~
+a pile of gold coins~
+A small pile of gold coins is lying here.~
+~
+20 0 0 0 0 1 0 0 0
+350 0 0 0
+5 0 0
+B
+0 0 0 0
+#3030
+torch~
+a short, oil-soaked torch~
+A large torch.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 24 0
+1 10 24
+B
+0 0 0 0
+#3031
+lantern small brass~
+a small brass lantern~
+A brass lantern is here.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 96 0
+1 50 96
+B
+0 0 0 0
+#3032
+bag small brown~
+a small brown bag~
+A small bag is here.~
+~
+15 0 0 0 0 16385 0 0 0
+30 1 -1 0
+2 20 30
+B
+0 0 0 0
+#3033
+box carved~
+a small carved box~
+A small box is here.~
+~
+15 0 0 0 0 16385 0 0 0
+10 0 0 0
+5 50 10
+B
+0 0 0 0
+#3034
+box safety steel bank~
+a large steel safety-deposit box~
+A large steel safety-deposit box has been bolted to the floor here.~
+~
+12 32768 0 0 0 0 0 0 0
+0 0 0 0
+5000 100 0
+E
+box safety steel deposit~
+There is a small note on the machine which says:
+
+To use, type "BALANCE", "WITHDRAW x", or "DEPOSIT x".  Please report any
+strange occurrences to the bank manager.
+~
+B
+0 0 0 0
+#3035
+fountain water dragonbone~
+the large dragonbone fountain~
+A fountain stylized in the image of a massive dragon gushes here.~
+~
+23 32832 0 0 0 0 0 0 0
+999999 999999 15 0
+9999 0 0
+E
+fountain~
+It is a well crafted fountain, carved from a single piece of dragon 
+bone.  It seems to be enchanted in some manner, as the water level seems 
+to never lower. 
+~
+E
+dragonbone fountain~
+It is very beautiful ivory bone and quite massive in height.  A large dragon
+emblem spews water from the top, to cascade down the sides and gather in
+a large pool at the bottom.
+~
+B
+0 0 0 0
+#3036
+gloves studded leather~
+a pair of studded leather gloves~
+A pair of studded leather gloves is lying on the ground.~
+~
+9 524288 0 0 0 129 0 0 0
+5 0 0 0
+3 75 65
+A
+18 1
+B
+0 0 0 0
+#3037
+pants studded leather~
+a pair of studded leather pants~
+A pair of studded leather pants is lying on the ground.~
+~
+9 524288 0 0 0 33 0 0 0
+5 0 0 0
+5 100 65
+A
+18 1
+B
+0 0 0 0
+#3038
+jacket studded leather~
+a studded leather jacket~
+A studded leather jacket is lying on the ground.~
+~
+9 524288 0 0 0 9 0 0 0
+5 0 0 0
+5 150 65
+A
+18 1
+B
+0 0 0 0
+#3039
+studded helmet leather~
+a studded leather helmet~
+A studded leather helmet is lying on the ground.~
+~
+9 134742016 0 0 0 17 0 0 0
+5 0 0 0
+3 75 65
+A
+18 1
+B
+0 0 0 0
+#3040
+reinforced leather shield~
+a reinforced leather shield~
+A leather shield reinforced with metal bands lies here.~
+~
+9 524288 0 0 0 513 0 0 0
+5 0 0 0
+5 120 85
+A
+19 1
+B
+0 0 0 0
+#3041
+chain mail shirt~
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+~
+9 524288 0 0 0 9 0 0 0
+5 0 0 0
+5 2500 85
+A
+19 1
+B
+0 0 0 0
+#3042
+oaken shield~
+an oaken shield~
+A small wooden shield is lying on the ground.~
+~
+9 524288 0 0 0 513 0 0 0
+3 0 0 0
+3 100 55
+A
+18 1
+B
+0 0 0 0
+#3046
+bronze breast plate~
+a bronze breast plate~
+A bronze breast plate is lying on the ground.~
+~
+9 524288 0 0 0 9 0 0 0
+6 0 0 0
+5 2000 110
+A
+5 1
+A
+18 1
+B
+0 0 0 0
+#3047
+helmet bronze~
+a bronze helmet~
+A bronze helmet is lying on the ground.~
+~
+9 134742016 0 0 0 17 0 0 0
+6 0 0 0
+5 750 110
+A
+4 1
+A
+18 1
+B
+0 0 0 0
+#3048
+gauntlets bronze~
+a pair of bronze gauntlets~
+A pair of bronze gauntlets is lying on the ground.~
+~
+9 524288 0 0 0 129 0 0 0
+6 0 0 0
+5 500 110
+A
+2 1
+A
+18 1
+B
+0 0 0 0
+#3049
+leggings bronze~
+a pair of bronze leggings~
+A pair of bronze leggings are lying on the ground.~
+~
+9 524288 0 0 0 33 0 0 0
+6 0 0 0
+5 700 110
+A
+3 1
+A
+18 1
+B
+0 0 0 0
+#3050
+scroll ancient knowing~
+an ancient scroll of knowing~
+A scroll has carelessly been left here.~
+~
+2 65600 0 0 0 16385 0 0 0
+12 117 0 0
+1 17550 1755
+E
+scroll knowing~
+The scroll has a magic formula drawn upon it:
+
+recite scroll <target>
+~
+B
+0 0 0 0
+#3051
+potion cyan swirling~
+a swirling cyan potion of detect invis~
+A small potion has carelessly been left here.~
+~
+10 64 0 0 0 16385 0 0 0
+12 19 0 0
+5 12000 1200
+E
+potion cyan~
+The potion has a small label 'Detect The Invisible'.
+quaff cyan
+~
+B
+0 0 0 0
+#3052
+scroll recall greyish midgaard~
+a Midgaard scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 0 0 0 16385 0 0 0
+12 42 3005 3005
+4 1500 150
+E
+scroll~
+The scroll has the words "recall midgaard" written on it.
+recite scroll <target>
+~
+B
+0 0 0 0
+#3053
+scroll white blind cure~
+a white scroll~
+A scroll of white parchment lies here.~
+~
+2 64 0 0 0 1 0 0 0
+12 14 0 0
+1 3000 300
+E
+scroll white blind cure~
+The scroll has the words "cure blind" written on it.
+~
+B
+0 0 0 0
+#3054
+blue potion regen~
+a &11Blue&00 potion of regen~
+A bottle of &11blue&00 liquid has been left here.~
+~
+10 64 0 0 0 16385 0 0 0
+12 55 0 0
+10 12000 1200
+E
+blue potion~
+The liquid looks very refreshing.
+quaff blue
+~
+B
+0 0 0 0
+#3055
+potion bubbling~
+a bubbling potion of fly~
+A small bubbling potion hovers an inch off the ground.~
+~
+10 64 0 0 0 16385 0 0 0
+12 52 0 0
+1 12000 1200
+E
+potion bubbling~
+This potion feels lighter than air.
+quaff bubbling
+~
+B
+0 0 0 0
+#3056
+padded robe~
+a padded robe~
+A pile of quilted cloth lies here~
+~
+11 3588352 0 0 0 9 0 0 0
+0 0 0 0
+3 500 70
+A
+5 1
+A
+18 1
+B
+0 0 0 0
+#3057
+headband plaited~
+a plaited headband~
+A twisted bit of cloth lies here~
+~
+11 3588096 0 0 0 17 0 0 0
+0 0 0 0
+1 400 70
+A
+4 1
+A
+18 1
+B
+0 0 0 0
+#3058
+amulet~
+an amulet~
+A tiny carving on a chain lies here~
+~
+11 3588096 0 0 0 32769 0 0 0
+0 0 0 0
+1 400 100
+A
+1 1
+A
+18 1
+A
+3 1
+B
+0 0 0 0
+#3059
+sandals~
+sandals~
+A pair of thick leather sandals lies here~
+~
+11 3588096 0 0 0 65 0 0 0
+0 0 0 0
+2 300 65
+A
+14 5
+A
+18 1
+B
+0 0 0 0
+#3060
+raft wooden rickety~
+a rickety wooden raft~
+A raft has been left here.~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0
+75 400 0
+E
+raft~
+The raft looks very primitive.
+~
+B
+0 0 0 0
+#3061
+canoe oaken~
+a long oaken canoe~
+A canoe has been left here.~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0
+32 1000 0
+E
+canoe~
+The canoe is fairly light.
+~
+B
+0 0 0 0
+#3062
+clear cold sparkling ice~
+an &13ice cube&00~
+&00A sparkling cold &13ice cube&00 melts into the dust.~
+~
+10 0 0 0 0 1 0 0 0
+15 55 0 0
+0 100 10
+B
+0 0 0 0
+#3063
+light magic~
+a magic light~
+A glowing ball of magic light hovers above the ground.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 -1 0
+3 50 1030
+A
+3 1
+B
+0 0 0 0
+#3064
+bread magic~
+a loaf of magic bread~
+A loaf of bread gives off a sense of warmth.~
+~
+19 0 0 0 0 1 0 0 0
+12 30 28 0
+1 300 36
+B
+0 0 0 0
+#3070
+directory list map midg~
+a Directory of Midgaard~
+A Directory of Midgaard stands here to be viewed.~
+~
+8 65536 0 0 0 0 0 0 0
+0 0 0 0
+1 10 0
+E
+list directory mid~
+Direction around Midgarrd
+
+These direction are from the Fountain in center.
+  
+Donation Room ---------------- n e
+Rent and Bank ---------------- e u
+General Store ---------------- s e n
+Pet Shop --------------------- s e s
+Bakery ----------------------- s w n
+Armory ----------------------- s w s
+Magic Shop ------------------- s 2w n
+Alchemist -------------------- s 2w s
+Tanner ----------------------- s 3w n
+Weapon Shop ------------------ s 2e n
+Water Shop ------------------- s 2e s
+Main Board ------------------- n w
+Newbie School ---------------- n 2u
+Dump ------------------------- 3s
+Levee ------------------------ 2s 2e s
+  
+Guilds 
+  
+Cleric ----------------------- w n
+Knight ----------------------- w s
+Ranger ----------------------- 2w n
+Warrior ---------------------- 2w s
+Death Knight ----------------- 3w n
+Shou Lin --------------------- 3w s
+Assassain -------------------- 3w u n
+Thief ------------------------ 3w u s
+Mage ------------------------- 3w u e n
+Shadow Dancer ---------------- 3w u e s
+  
+Places to Level
+  
+Chess Board ------------------ 2s 4w open gate
+Ian's Brewery ---------------- 2s 2w n (start with rats)
+Rats Lair -------------------- 3s open grate d
+The Farm --------------------- s 4w n open gate
+Gnome Village ---------------- s 4w n e
+Ant Hill --------------------- s 4w n w d
+North Midgaard --------------- 5n
+Midgarrd itself -------------- Start with mutts
+  
+Several mobs will have scrolls on them. Some are
+recalls and some are knowings. You can use these
+or sell them to help you make money.
+~
+B
+0 0 0 0
+#3071
+fountain clear~
+a small fountain of clear water~
+A small fountain sprinkles out clear refreshing water here.~
+~
+23 0 0 0 0 0 0 0 0
+10000 10000 15 0
+0 0 0
+B
+0 0 0 0
+#3090
+firebreather flask barkskin~
+a barkskin flask~
+A small flask made of brown wood has been left here.~
+~
+17 256 0 0 0 16385 0 0 0
+10 5 7 0
+5 70 100
+B
+0 0 0 0
+#3091
+mead mug frothy~
+a frothy mug~
+A tall mug has been dropped here.~
+~
+17 256 0 0 0 16385 0 0 0
+7 1 4 0
+7 5 70
+B
+0 0 0 0
+#3092
+beer stein wooden~
+a tall stein~
+A carved wooden stein is lying here.~
+~
+17 256 0 0 0 16385 0 0 0
+5 2 1 0
+5 10 50
+B
+0 0 0 0
+#3093
+An iron bow~
+an iron bow~
+Some scrap iron as been discarded here.~
+~
+6 8155136 32 0 0 16385 0 0 0
+1 1 4 0
+10 417 0
+B
+0 0 0 0
+#3094
+A quiver of arrows~
+a quiver of arrows~
+A quiver of arrows rests in the corner of the room.~
+an arrow~
+7 0 0 0 0 1 0 0 0
+1 5 1 20
+5 21 0
+A
+33 1
+B
+0 0 0 0
+#3095
+A quiver of flight arrows~
+a quiver of flight arrows~
+A quiver lies discarded on the ground.~
+a flight arrow~
+7 0 0 0 0 1 0 0 0
+1 10 1 20
+7 88 0
+A
+33 5
+B
+0 0 0 0
+#3096
+0~
+a large dragon-topped obelisk~
+A large obelisk with a stone dragon perched on top shadows the ground here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1200 0 0
+E
+obelisk~
+This is a reminder of some of our rules here at Raven.  This a brief
+restatement of previous posts by the Raven Staff.
+
+It is against the rules to use triggers to make you assist, attack, or cast
+spells while you are AFK.   It is perfectly legal to have triggers do that
+while you are at the keyboard.  This is called Roboting.
+
+If you find yourself in an unlinked area leave immediately.  You'll know
+it's closed because you won't be able to walk N,S,E,W,D,U
+
+All reimburse requests must be made via mudmail to Maestro.
+Profanity.  To Restate Policy here, there is to be no profanity over public
+channels. This encompasses OOC, Roleplay, Query, Quest, Guild, and Using
+your Title.  This makes it acceptable using say, emotes, group tells, and
+tells.  Acronyms like wtf and words like s**t do count as profanity.
+
+Brew/Scribe.  Do not brew/scribe pots/scrolls for your alt to use.  This is
+just as offensive as multi-linking.
+
+Char-jumping.  This is when you, for example, rent your ranger, login your
+thief to pick a couple doors, then rent your thief and log back in as your
+ranger and walk through those doors.  This is just as offensive as
+multi-linking.  An acceptable scenario would be that you rent your ranger,
+login your thief and play your thief for a while.
+
+Lieing to imms or going behind an imms back.   This is just real bad.
+
+The things stated here just recap the origional postings of rules on the
+policy board and in help files.  The staff here at RavenMUD try to present 
+a fun game for everyone and we do need some rules for this game to remain
+fun and fair for all.  So we ask each and every person that plays here to 
+please follow our rules and policies.  We also ask everyone to have fun 
+playing our game.
+
+Your Raven Staff.
+~
+B
+0 0 0 0
+#3097
+board frozen bulletin~
+the frozen bulletin board~
+A large bulletin board is here, carved from a block of ice.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Try using: look board
+~
+B
+0 0 0 0
+#3098
+board holy bulletin~
+the main immortal board~
+A large bulletin board is mounted on a wall here.  It glows with a faint aura.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Try using: look board
+~
+B
+0 0 0 0
+#3099
+tip board~
+the Tip Board~
+The New Hope Guild Board sits here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+B
+0 0 0 0
+$~

@@ -1,0 +1,50 @@
+gs get scroll corpse
+say emot &09mutters, &00 '$* ' 
+tp toggle passivepet
+rd rescu dayne
+cla clan &04 $* &00
+rv rescue vash
+cr cast 'refresh' self
+rc rescue cray
+ce cast 'entangle'
+bc butch cor
+cas cast 'swarm'
+ff cast 'fleet foot' $*
+gac get all cor
+8 cast 'entangle'
+cs cast 'strength'
+csh cast 'shield'
+5 cast 'swarm'
+7 trip
+cl cast 'sense' self
+ri reel in
+co castout
+or black assist
+4 look
+dt drink thim
+gd get dice
+cb cast 'briar' self
+gt gt &14 $* &00
+cw cast 'call of the wild'
+shield cast 'shield' $*
+fleet cast 'fleet' $*
+1 ass orc
+2 ass 2.orc
+pp rescue pellinor
+order treant assist
+remp cast 'rem poi' $*
+a assist
+es eat steak
+ow o wolf assist
+ee say going east
+ww say going w
+nn gt GOING N
+uu gt GOING U
+dd drop dice
+9 scan
+ll look in cor
+lic look in corpse
+om o min resc brink
+refresh cast 'refresh' $*
+tt trip garth
+oo o unicorn assist

@@ -1,0 +1,104 @@
+#188
+Dwarven Village (10-35)~
+18899 20 2 0
+M 0 18826 2 18800    * Mob : a dirt worm
+M 0 18826 2 18800    * Mob : a dirt worm
+O 0 18833 1 18804    
+P 1 18835 20 18833   * Put : a fly pupa
+P 1 18834 20 18833   * Put : a fly egg
+M 0 18822 11 18804   * Mob : a quivering horde of maggots
+M 0 18822 11 18804   * Mob : a quivering horde of maggots
+M 0 18823 6 18804    * Mob : a fly
+O 0 18830 1 18830    
+M 0 18824 3 18851    * Mob : a forest slug
+M 0 18827 3 18820    * Mob : a feral dog
+M 0 18821 10 18840   * Mob : a colorful swallow
+M 0 18821 10 18843   * Mob : a colorful swallow
+M 0 18818 6 18846    * Mob : a jackalope
+G 1 18831 20 -1      * Give: a roasted jackalope
+M 0 18810 6 18808    * Mob : a dwarven youth
+M 0 18812 7 18808    * Mob : a dwarven woman
+M 0 18813 13 18808   * Mob : a dwarven kid
+M 0 18810 6 18813    * Mob : a dwarven youth
+M 0 18812 7 18813    * Mob : a dwarven woman
+M 0 18813 13 18813   * Mob : a dwarven kid
+M 0 18810 6 18807    * Mob : a dwarven youth
+M 0 18816 6 18807    * Mob : a timber wolf
+M 0 18827 3 18807    * Mob : a feral dog
+M 0 18821 10 18807   * Mob : a colorful swallow
+M 0 18816 6 18825    * Mob : a timber wolf
+M 0 18812 7 18824    * Mob : a dwarven woman
+M 0 18814 6 18824    * Mob : a young dwarven lass
+M 0 18813 13 18824   * Mob : a dwarven kid
+M 0 18815 6 18824    * Mob : a young dwarven lad
+M 0 18808 5 18849    * Mob : a dwarven hunter
+E 1 18824 20 15      * Eqp : a leather tunic
+E 1 18829 20 19      * Eqp : a hunting axe
+M 0 18811 4 18816    * Mob : a dwarven woman
+E 1 18827 20 15      * Eqp : a yellow cotton cloth dress
+E 1 18828 20 11       * Eqp : a soft pair of shoes
+M 0 18804 1 18833    * Mob : Daphne the Adventurer
+E 1 18819 20 1       * Eqp : a rose ring
+E 1 18815 20 5       * Eqp : a chainmail haubergeon
+E 1 18820 20 15      * Eqp : a warm woolen coat
+E 1 18821 20 11       * Eqp : a pair of velvet shoes
+E 1 18822 20 16      * Eqp : a red silk sash
+E 1 18823 20 19      * Eqp : a crystalline dagger
+M 0 18802 1 18814    * Mob : Slevak the Chieftain
+E 1 18809 20 6       * Eqp : a tribal headdress
+E 1 18810 20 3       * Eqp : a jackalope cape
+E 1 18811 20 5       * Eqp : a red enameled plate armor
+E 1 18813 20 19      * Eqp : a steel axe
+E 1 18814 20 11       * Eqp : a pair of feather boots
+M 0 18814 6 18809    * Mob : a young dwarven lass
+M 0 18812 7 18809    * Mob : a dwarven woman
+M 0 18815 6 18809    * Mob : a young dwarven lad
+M 0 18813 13 18809   * Mob : a dwarven kid
+M 0 18809 1 18810    * Mob : an old dwarven gossip
+M 0 18811 4 18810    * Mob : a dwarven woman
+E 1 18826 20 15      * Eqp : a silky green cloth dress
+E 1 18828 20 11       * Eqp : a soft pair of shoes
+M 0 18801 1 18810    * Mob : Clagen the Weaponsmith
+E 1 18807 20 12       * Eqp : a pair of blackened gauntlets
+E 1 18806 20 17      * Eqp : an werehide bracer
+E 1 18805 20 19      * Eqp : a heavy iron hammer
+E 1 18808 20 15      * Eqp : a sooty leather apron
+M 0 18800 3 18844    * Mob : a large turtle
+E 1 18800 20 5       * Eqp : a turtle shell
+M 0 18800 3 18844    * Mob : a large turtle
+G 1 18801 20 -1      * Give: a bowl of turtle soup
+M 0 18825 2 18844    * Mob : a little frog
+G 1 18832 20 -1      * Give: some frog legs
+M 0 18825 2 18844    * Mob : a little frog
+G 1 18832 20 -1      * Give: some frog legs
+M 0 18807 7 18806    * Mob : a dwarven hunter
+M 0 18816 6 18812    * Mob : a timber wolf
+M 0 18803 1 18817    * Mob : Nicano the Healer
+E 1 18815 20 5       * Eqp : a chainmail haubergeon
+E 1 18818 20 19      * Eqp : a dark green dagger
+E 1 18816 20 3       * Eqp : a coarse blue cloak
+E 1 18817 20 11       * Eqp : a green pair of boots
+M 0 18806 1 18823    * Mob : Jash the old guildmaster
+M 0 18821 10 18826   * Mob : a colorful swallow
+M 0 18805 1 18832    * Mob : Daphne's daughter Rohnna
+M 0 18814 6 18834    * Mob : a young dwarven lass
+M 0 18815 6 18834    * Mob : a young dwarven lad
+M 0 18811 4 18834    * Mob : a dwarven woman
+E 1 18825 20 15      * Eqp : a purple cloth dress
+E 1 18828 20 11       * Eqp : a soft pair of shoes
+M 0 18808 5 18836    * Mob : a dwarven hunter
+E 1 18824 20 15      * Eqp : a leather tunic
+E 1 18829 20 19      * Eqp : a hunting axe
+M 0 18818 6 18842    * Mob : a jackalope
+G 1 18831 20 -1      * Give: a roasted jackalope
+M 0 18817 2 18842    * Mob : a shadow wolf
+M 0 18818 6 18847    * Mob : a jackalope
+G 1 18831 20 -1      * Give: a roasted jackalope
+M 0 18819 1 18850    * Mob : a weretiger
+E 1 18802 20 19      * Eqp : a weretiger claw
+M 0 18817 2 18850    * Mob : a shadow wolf
+M 0 18820 1 18854    * Mob : a fighting squirrel
+E 1 18803 20 6       * Eqp : an acorn cap
+E 1 18804 20 19      * Eqp : a long twisted spear
+S
+$

@@ -1,0 +1,21 @@
+ms c 'monster summon' $*
+bl c 'blindness' $*
+1 get coi cor
+fil fill can foun
+cor l in cor
+dr drink canteen
+ea eat bread
+su c 'summon' $*
+di c 'detect invis' $*
+br breathe $*
+z get all cor
+x des cor
+sh c 'shield' $*
+fl c 'fly' $*
+ki order fol kick $*
+beard title &10Grow one, it's free&00
+st  c 'strength' $*
+i c 'infravision' $*
+rr recite recall scroll
+ld c 'life drain' $*
+id c 'identify' $*

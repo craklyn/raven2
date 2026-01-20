@@ -1,0 +1,32 @@
+eb eat demon
+gbb get demon bag
+say say &05<+>$* <+> &00
+gt gt &05^^$* ^^ &00
+harm cast 'harm' $1
+gheal cast 'heal' group
+rev cast 'revive' $*
+flames cast 'flame strike' $1
+dish cast 'dishearten' $1
+calm cast 'calm' $*
+assistant cast 'assistant'
+grec cast 'word of recall' group
+sense cast 'sense life' $*
+detecti cast 'detect i' $*
+summon cast 'summon' $*
+sanc cast 'sanc' $*
+fly cast 'fly' $*
+heal cast 'heal' $*
+thim drink from thim
+blind cast 'blind' $1
+ward cast 'ward' $*
+regen cast 'regen' $*
+bless cast 'bless' $*
+infra cast 'infra' $*
+armor cast 'armor' $*
+recall cast 'word of recall' $*
+fort cast 'fortify' $*
+cleanse cast 'cleanse' $*
+relocate cast 'relocate' $*
+aftermath title &07Aftermath&00
+rp cast 'remove poison' $*
+says say $*

@@ -1,0 +1,28 @@
+r rec elven
+x pick chest;open chest;get all chest
+z ;w;w;n;n;n;e;n;open door elelelnlnlopen door n;n;w;n;open door e;e;close door w;open door n;n;pick chest;open chest;get a chest
+q w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;s;e;s;s;s;s;s;s;s;s;s;s;s;s;s;s;e;e;e;e;e;e;s;s
+5 distract $1
+b trip;stand
+a ass
+dis disarm
+look spy $1
+8 dust
+7 circle
+gt gt &07-&08+&07-&14$* &07-&08+&07-&00
+2 sneak
+3 backstab $1
+say say &07-&08+&07-&14$* &07-&08+&07&00
+f flee
+clan CLAN &07-&08+&00&07-&14$* &07-&08+&07-&00
+9 kick
+title title the &14fantastic&00 &08rad&09ish&00 &01S&08h&00&01r&08i&00&01n&08e&00&01r&00
+wake wake;stand
+v feign;stand
+c circle $1
+bubbles emote has tiny little bubbles coming from his mouth.
+t steal bread beg
+4 circle
+cower $1
+fl flashbang $1
+y steal gold 2.

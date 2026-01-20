@@ -1,0 +1,23 @@
+slo cast 'slow' $*
+cons cast 'consume corpse' $*
+cc cast 'charm corpse' corpse
+sum cast 'summon' $*
+di cast 'detect invis' $*
+f flee
+shi cast 'shield' $*
+bl cast 'blindness' $*
+dc des cor
+o order followers $*
+wa wake;stand
+ld cast 'life drain' $*
+sp cast 'soul pierce' $*
+g get all all.cor
+gp get all corpse
+lc look in corpse
+fly cast 'fly' $*
+in cast 'invis' $*
+sen cast 'sense life
+emb cast 'embalm' corpse;get corpse
+nox cast 'noxious skin' $*
+1 rem chal;hol glo;order followers k gak;rem glo;hol chal
+a ass gar

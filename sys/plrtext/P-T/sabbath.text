@@ -1,0 +1,18 @@
+pp cast 'harm' $*
+sanc cast 'sanc' $*
+mm cast 'summon' $*
+b cast 'blind' $*
+rr cast 'word' $*
+di cast 'detec invis' $*
+ward cast 'ward' $*
+sen cast 'sense'
+infra cast 'infra
+1 assist
+cb cast 'cure blind' $*
+regen cast 'regen' $*
+fly cast 'fly' $*
+h cast 'heal' $*
+gt gsay &12$* &00
+say ' &12$* &00
+gc get all.coins all.corpse
+tit title &08bloody&00 Sabbath

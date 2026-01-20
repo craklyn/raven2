@@ -1,0 +1,673 @@
+#15300
+A W 0~
+wolf hungry~
+a hungry wolf~
+An emaciated wolf is looking for something to fill its empty belly with.
+~
+You almost feel sorry for this creature.  Its mangy, flea-bitten hide and
+protruding ribs are obvious signs of its malnutrition.
+~
+8232 0 0 0 262176 0 0 0 -250
+15 5 5 1d5+150 3d5+10
+35 40
+9 9 0 0 -1 -1
+#15301
+H W 0~
+sentry guard~
+a Sentry~
+A Sentry stands here, preventing you from entering.
+~
+A tall guard, whose uniform is more decorative than protective.  He wears
+a black vest embroidered with a white rose, and carries a long polearm with
+which he blocks the way in.
+~
+10 0 0 0 262184 0 0 0 -250
+25 -20 -5 4d10+600 5d4+10
+40 40
+9 9 1 0 -1 -1
+#15302
+A W 0~
+gargoyle gruesome stone~
+a gruesome stone gargoyle~
+A gruesome stone gargoyle crouches on a pedestal, grinning at you.
+~
+It appears to be a muscular humanoid, completely made of stone.  Its arms
+are longer than its legs, and it has a nasty underbite.  Short, blunt fangs
+stick upward, and long spines cover its back.
+~
+42 0 0 0 262184 0 0 0 0
+30 -50 -14 10d10+1500 12d2+10
+50 60
+9 9 0 0 -1 -1
+#15303
+A W 0~
+wolf black dire~
+a black dire wolf~
+A black dire wolf is here, growling at you.
+~
+The huge wolf looks very evil.  It glares at you and growls.
+~
+8232 0 0 0 262176 0 0 0 -500
+25 -15 -3 7d10+600 5d4+5
+40 40
+9 9 0 0 -1 -1
+#15304
+A M 0~
+armor armour suit~
+an animated suit of armor~
+A dirty suit of armor stands here.
+~
+The armor is made of a heavy, dull grey metal.  It is ornately decorated,
+and the visor of the helmet is in the shape of a wolf's muzzle.  The armor
+is covered with dirt and dust, and stains of blood appear to be somewhat
+fresh.
+~
+46 0 0 0 262184 0 0 0 0
+27 -20 -8 10d10+900 10d2+10
+40 40
+9 9 0 0 -1 -1
+#15305
+U M 0~
+guest uninvited ghost~
+an uninvited guest~
+An uninvited guest sits here, waiting for the Master to greet him.
+~
+Aparently this person's been waiting here for a long time, since he's already
+dead!  All that remains is his ghost.  He sits here, reading a book.
+~
+142 0 0 0 262186 0 0 0 500
+20 1 -4 4d10+400 2d8+2
+40 40
+7 7 1 0 -1 -1
+#15306
+U M 0~
+guard ballroom~
+a ballroom guard~
+A ballroom guard glares at you, shouting, "get out of here!"
+~
+He looks rather silly in his frilly uniform, but underneath the clothes you
+sense great physical strength.  Perhaps you really should leave the ballroom.
+~
+42 0 0 0 262184 0 0 0 -250
+25 -10 -5 5d10+600 5d4+10
+40 40
+9 9 1 0 -1 -1
+#15307
+U M 0~
+dancer ghost~
+a ghostly dancer~
+A dancer is here, tearing it up on the dance floor with his partner.
+~
+He's a slender ghost, and is dressed impeccably.  He looks like he is having
+such a great time, it would be a crime to cut in.
+~
+10 0 0 0 262186 0 0 0 500
+25 -4 -4 5d10+600 2d8+7
+40 40
+9 9 1 0 -1 -1
+#15308
+U M 0~
+dancer ghost~
+a ghostly dancer~
+A dancer is here, tearing it up on the dance floor with her partner.
+~
+   She's very beautiful, though her features are a bit undefined due to her
+lack of a body.  You fear it would be a shame to interrupt her dance.    
+~
+10 0 0 0 262186 0 0 0 500
+25 -4 -4 5d10+600 2d8+7
+40 40
+9 9 2 0 -1 -1
+#15309
+U M 0~
+guest ghost~
+a ghostly guest~
+A guest stands away from the dancers, watching in delight.
+~
+This ghost looks as if he's studying the moves of the two dancers.  He is
+wearing the finest royal garments, and looks very regal.
+~
+138 0 0 0 262186 0 0 0 500
+25 -3 -4 5d10+500 2d8+5
+40 40
+9 9 1 0 -1 -1
+#15310
+U M 0~
+guest ghost~
+a ghostly guest~
+A guest stands away from the dancers, watching in delight.
+~
+She stands there wondering why her date can't dance that well.  She is wearing
+a lovely gown, which is almost as transparent as she is.
+~
+138 0 0 0 262186 0 0 0 500
+25 -3 -4 5d10+500 2d8+5
+40 40
+9 9 2 0 -1 -1
+#15311
+U M 0~
+violinist lone~
+a violinist~
+A lone violinist is standing in the corner, providing the music.
+~
+You watch in amazement as his fingers dance around the neck of the instrument,
+and the bow slashes to and fro.  He appears to be quite happy as he too enjoys
+the performance of the dancing couple.
+~
+10 0 0 0 262186 0 0 0 500
+27 -5 -5 5d10+700 2d10+6
+40 40
+9 9 1 0 -1 -1
+#15312
+U M 0~
+servant ghost~
+a servant~
+A house servant stands here, waiting for an order.
+~
+He is dressed in simple white clothes, and he looks very young, although
+you wonder how long he's really been here.  You notice two very small
+puncture-wounds on the side of his neck.
+~
+10 0 0 0 262186 0 0 0 250
+18 3 -2 4d10+350 2d7+2
+35 40
+9 9 1 0 -1 -1
+#15313
+V M 0~
+guest dinner vampire~
+a dinner guest~
+A dinner guest sits here, feasting and having a good time.
+~
+A young nobleman dressed in the finest garments, he sips on his wine and
+talks about old times with his friends.  When he licks his lips, you
+notice that his canine teeth are slightly elongated.
+~
+4490 0 0 0 262186 0 0 0 -250
+25 -5 -4 10d10+700 2d10+5
+40 40
+7 9 1 0 -1 -1
+#15314
+V M 0~
+guest dinner vampire~
+a dinner guest~
+A dinner guest sits here, feasting and having a good time.
+~
+A young lady staring dreamily at her handsome date.  She brushes her hair
+out of her face as she tries to eat.  She also has slightly elongated,
+sharp canine teeth, which you notice as she takes a bite of food.
+~
+4490 0 0 0 262186 0 0 0 -250
+25 -5 -4 10d10+700 2d10+5
+40 40
+7 9 2 0 -1 -1
+#15315
+V M 0~
+chef cook vampire~
+the chef~
+The chef sees you and growls, "Get out!  I am not done yet!"
+~
+The chef looks like a happy, rotund fellow, dressed in white and wearing a
+floppy chef's hat on his head.  He is offended your presence, wondering why
+he can't be left to do his job alone.  His eyes glow red, and his snarl
+reveals his sharp fangs.
+~
+4490 0 0 0 262184 0 0 0 -250
+30 -10 -6 7d10+1100 3d7+5
+50 60
+9 9 1 0 -1 -1
+#15316
+A M 0~
+hand kitchen~
+a kitchen hand~
+The kitchen hand runs back and forth, rushing to finish a dish.
+~
+He's just a young peasant boy, set to work in this kitchen by the chef.  He
+looks tired, but he works at a frantic pace.  You notice two very small
+puncture-wounds on the side of his neck.
+~
+10 0 0 0 262186 0 0 0 250
+18 3 -2 4d10+350 2d7+2
+35 40
+9 9 1 0 -1 -1
+#15317
+A W 0~
+rat pack~
+a pack rat~
+A disease-infested pack rat scampers across the floor, searching for scraps.
+~
+The rat is a sickening grey color, with a disgustingly long, ringed, pink
+tail.  It stares at you with small black eyes and hisses, showing you its
+filthy yellow teeth.
+~
+170 0 0 0 262176 0 0 0 -250
+10 8 7 1d10+100 1d8+5
+35 40
+9 9 0 0 -1 -1
+#15318
+H M 0~
+alchemist~
+the alchemist~
+The insane genius alchemist stands here, looking over his experiments.
+~
+He is dressed in tattered robes, his hair is tangled and unkempt, and he
+hasn't bathed in days.  He sees you and immediately starts screaming,
+"kill him!"
+~
+138 0 0 0 262186 0 0 0 -250
+22 -2 5 5d10+300 1d8+10
+40 40
+9 9 1 0 -1 -1
+#15319
+A W 0~
+golem flesh~
+the flesh golem~
+A huge golem stands here, created out of various pieces of dead flesh.
+~
+This monstrosity stands over seven feet tall, and smells incredibly bad.
+There are stitches all over its face and body, arms and legs, as it is a
+composite of dead body parts.
+~
+46 0 0 0 262184 0 0 0 0
+32 -6 3 10d10+2000 10d2+15
+50 60
+9 9 0 0 -1 -1
+#15320
+U W 0~
+skeleton closet~
+a closet skeleton~
+A closet skeleton lurks here, half-hidden by all the coats.
+~
+This skeleton looks quite old, as its bones are very dry.  It stares at
+you with empty sockets, cold and expressionless.
+~
+44 0 0 0 262184 0 0 0 -500
+25 -5 0 5d10+600 5d2+10
+40 40
+9 9 0 0 -1 -1
+#15321
+V M 0~
+musician master vampire~
+the master musician~
+The master musician sits behind a large grand piano.
+~
+He is quite handsome, with chiseled features and long black hair tied back
+with a bow.  When he smiles, you notice his fangs protruding from under his
+upper lip.  He appears to be working on a composition.
+~
+4362 0 0 0 262184 0 0 0 0
+32 -20 -9 10d10+1400 5d5+10
+50 60
+9 9 1 0 -1 -1
+#15322
+A M 0~
+locathath~
+the locathath~
+The locathath rises out of the black pond and attacks!
+~
+It is humanoid in shape, but its body is green and completely covered with
+scales.  its hands, feet, and ears are webbed, and it also has a small
+dorsal fin.  Its jaw is elongated, but its mouth is very small, giving its
+face the appearance of a large fish.
+~
+4142 0 0 0 262184 0 0 0 -500
+23 -10 -8 5d10+700 5d4+2
+40 40
+9 9 0 0 -1 -1
+#15323
+P M 0~
+carnifern fern plant~
+the carnifern~
+The carnifern grows here, surrounding you with its vines.
+~
+It looks rather like a gigantic venus-flytrap, only much more dangerous.
+It has sharp spines growing out of its "jaws", and inside drips a deadly
+acid.  It almost looks like a hungry beast.
+~
+542 0 0 0 262184 0 0 0 -250
+25 -5 -12 10d10+1200 6d5+5
+40 40
+9 9 0 0 -1 -1
+#15324
+R W 0~
+werewolf shaggy~
+a shaggy werewolf~
+A shaggy werewolf stands here, howling and tearing up everything in sight.
+~
+It looks humanoid, with a barrel chest and a hunched back.  It is covered
+in disgusting red-brown fur.  Its hands are hairy and clawed, its feet
+are pawed, and its face is a misshapen wolf's face.  It stares at you and
+growls, revealing sharp fangs.
+~
+8236 0 0 0 262184 0 0 0 -750
+33 -15 -5 2d10+2000 10d2+5
+50 60
+9 9 0 0 -1 -1
+#15325
+V W 0~
+vampire~
+a vampire~
+A vampire lurks in the shadows here, glaring at you.
+~
+His skin is cold and pale, and his face is chiseled and solemn.  His lips
+are an extremely bright crimson.  He reaches out to you and grins evilly,
+revealing both his fangs and the hairs growing from his palm.
+~
+4488 0 0 0 262184 0 0 0 -750
+34 -15 -4 2d10+2200 10d2+8
+50 60
+9 9 1 20 20 20
+#15326
+A W 0~
+raven black large~
+a large, black raven~
+A large, black raven is perched here.
+~
+This is a beautiful bird, black and sleek and dangerous.  It stares at you
+in cold solemnity.  You notice what appears to be an eye in its black beak.
+~
+46 0 0 0 262184 0 0 0 -1000
+25 -15 -1 5d10+500 8d2+10
+40 40
+9 9 0 0 -1 -1
+#15327
+R W 0~
+werewolf master~
+the master werewolf~
+The gigantic master werewolf blocks your way back out!
+~
+The master werewolf is huge, almost blocking the entire passageway.  Its
+fur is a flint grey color, and its clawed hands are incredibly large and
+strong.  It wears a strange white stone around its neck, and a blood-red
+kilt is wrapped around its legs.
+~
+558 0 0 0 262376 0 0 0 -1000
+38 -30 -5 10d10+4000 7d5+30
+50 60
+9 9 0 0 -1 -1
+#15328
+A W 0~
+owl horned~
+a great horned owl~
+A great horned owl is perched on the railing here.
+~
+This bird is very large, covered in spotted brown feathers.  It stares at
+you with its large eyes, following your every move, its gaze never leaving
+you.
+~
+10 0 0 0 262184 0 0 0 -250
+24 -10 -1 5d10+450 8d2+10
+40 40
+9 9 0 0 -1 -1
+#15329
+H S 0~
+priest white~
+the white priest~
+The white priest is here, minding the chapel.
+~
+The priest is very aged, and there's a look of hopelessness in his eyes.
+He has been waiting a very long time for someone to come here, come and
+rid this place of evil.
+~
+24 0 0 0 262376 0 0 0 1000
+36 -15 -15 10d10+3000 12d2+15
+50 60
+9 9 1 0 -1 -1
+#15330
+H M 0~
+gypsy~
+a gypsy~
+A gypsy is here, waiting to transport the Master's crates.
+~
+He is one of the rustic locals of this area, roving tribes of superstitious
+nomads who obey the Master partly out of tradition, mostly out of fear.  He
+carries a large knife at his side.  He realizes you are an intruder, and
+draws his weapon.
+~
+172 0 0 0 262184 0 0 0 0
+25 -9 1 5d10+550 5d2+10
+40 40
+9 9 1 0 -1 -1
+#15331
+H M 0~
+gypsy leader~
+the gypsy leader~
+The leader of the gypsies stands here.
+~
+Despite his belonging to a group of wanderers, there is almost an air of
+nobility around him.  He is taller than the other gypsies, and lean and
+swift.  His face is tanned, and his clothes are colored in rich dyes.  He
+wields a long, leather whip, which he cracks at you the moment he sees
+you!
+~
+172 0 0 0 262184 0 0 0 0
+28 -15 -2 10d10+700 5d2+12
+40 40
+9 9 1 0 -1 -1
+#15332
+U M 0~
+Threnody shade~
+Threnody~
+The lingering spirit of Threnody, the Master's betrothed, is standing here.
+~
+She was an incredibly beautiful, vibrant woman, and her spirit is still
+beautiful, but with a great sadness in her heart.  At first glance, her
+face appears extremely youthful, but in her pale eyes you can see a
+weariness brought about my the burden of years.  When Vrolok was turned
+into a vampire by his family, her body withered.  Only when his soul is
+laid to rest can her torture end.
+~
+26 0 0 0 262378 0 0 0 1000
+40 -40 -2 50d10+5300 9d5+50
+65 75
+9 9 2 0 -1 -1
+#15333
+V M 0~
+vampire female~
+a female vampire~
+A female vampire rides into the room on a moonbeam.
+~
+She appears to be the object of desire of all men, and the object of jealousy
+of all women.  Soft, flaxen hair frame her pale face, and every move she makes
+only accentuates her voluptuousness.  However, her crimson lips cannot hide
+the sharp fangs that lurk behind them, fangs which betray her true nature.
+~
+4488 0 0 0 262248 0 0 0 -1000
+36 -25 -16 20d10+2800 5d3+10
+50 60
+9 9 2 0 -1 -1
+#15334
+V M 0~
+vampire female~
+a female vampire~
+A female vampire rides into the room on a moonbeam.
+~
+Her hair is black as the night, and her skin is fair.  Her dark eyes pierce
+into your soul as she gazes at you.  She licks her full, red lips and smiles.
+~
+4488 0 0 0 262184 0 0 0 -1000
+34 -20 -14 15d10+2600 5d3+7
+50 60
+9 9 2 0 -1 -1
+#15335
+V M 0~
+Vrolock vampire master~
+Vrolock~
+The vampire Vrolock, Master of this house, stands before you.
+~
+Vrolock was a wicked and ruthless tyrant, but was tempered by his love for
+Threnody.  Once he was turned into a vampire, he was separated from her.
+You can only imagine the grief and torment he has suffered all these many
+years.  His face was once handsome, but appears twisted in anguish.  In his
+eyes you see a glimmer of sadness, yet his imposing figure only inspires
+fear and dread.  His skin is sickly pale, causing the dark hairs growing
+from his palms to be easily seen.  He sees you and frowns.
+~
+21290 0 0 0 262376 0 0 0 -500
+40 -40 -6 20d10+6000 20d2+50
+65 75
+9 9 1 0 -1 -1
+#15336
+A W 0~
+lizard man~
+the lizard man~
+The lizard man is clinging to the wall here.
+~
+He is tall and thin, but very muscular.  He is completely covered in copper
+colored scales, and he clings to the wall with his long claws.  A forked
+tongue pokes into the air occasionally, and his tail sways in the air.
+~
+8236 0 0 0 262184 0 0 0 0
+26 -5 -19 5d10+700 10d2+5
+40 40
+9 9 1 0 -1 -1
+#15337
+V W 0~
+bat vampire~
+a vampire bat~
+A vampire bat is flitting about here.
+~
+A large, black, leathery-winged creature with a thirst for blood.
+~
+4264 0 0 0 262184 0 0 0 -250
+15 3 2 3d10+100 3d4+5
+35 40
+9 9 0 0 -1 -1
+#15338
+V W 0~
+Ordog fighter vampire~
+Ordog~
+The vampire of the conqueror Ordog stands here.
+~
+Ordog was a great warrior and conqueror, and a ruthless ruler.  His dark
+skin and reddish hair lend him an almost demonaic presence.  He is dressed
+completely in black armor, and he wields a great warhammer.  He looks at
+you and cackles evilly.
+~
+20782 0 0 0 262376 0 0 0 -1000
+40 -40 -2 10d10+5000 15d2+40
+65 75
+9 9 1 0 -1 -1
+#15339
+U R 0~
+Sasha bard phantom~
+Sasha~
+The phantom of the bard Sasha stands here.
+~
+Sasha had a great love for music, and learned all she could.  She sought
+the aid of dark magics to prolong her existence, so that she could study
+more.  Sadly, this beautiful muse has become a phantom, only a shadow of
+her living self.  As you look into her grey eyes you see only emptiness.
+She is dressed in fine silks, and carries a flute and harp.
+~
+4106 0 0 0 262378 0 0 0 -250
+40 -20 -2 10d10+4500 15d2+30
+65 75
+9 9 2 0 -1 -1
+#15340
+U R 0~
+Grigori ranger mariner spectre~
+Grigori~
+The spectre of the great mariner Grigori stands here.
+~
+Grigori took to the high seas in his youth, and his love for the sea stayed
+with him throughout his life.  His dark beard is shaggy and dirty, a sign of
+the true hardships of living on the seas, and he looks at you with cold, hard
+eyes.  He proudly wears his Captain's jacket, adorned with medals.
+~
+4142 0 0 0 262378 0 0 0 -250
+40 -40 -2 10d10+5000 15d2+35
+65 75
+9 9 1 0 -1 -1
+#15341
+U P 0~
+Alexei paladin crusader spirit~
+Alexei~
+The spirit of the young crusader Alexei stands here.
+~
+Young Alexei led an army of crusaders and defended his people from invaders.
+He wears a white rose, the family's insignia, on a black surcoat over his
+armor, and he wields a bastard sword with deadly skill.  About his waist is
+tied a white sash.  His hair is jet black, his skin is pale, and his body
+is young and muscular.
+~
+16410 0 0 0 262376 0 0 0 500
+40 -40 -2 10d10+5000 15d2+35
+65 75
+9 9 1 0 -1 -1
+#15342
+U C 0~
+Sergei cleric healer spirit~
+Sergei~
+The spirit of Sergei the healer stand here.
+~
+Sergei was the most beloved of all the former rulers.  He was known for
+his great compassion, and his skill at the art of healing.  He is dressed
+in voluminous robes, and he looks at you kindly.  You find it strange that
+such a person would turn to dark magic to attempt to sustain his life.
+~
+4106 0 0 0 262376 0 0 0 250
+40 -20 -2 10d10+4200 15d2+28
+65 75
+9 9 1 0 -1 -1
+#15343
+V T 0~
+Cassova thief vampire~
+Cassova~
+The vampire of Cassova shamefully cowers in the shadows here.
+~
+Cassova was a very charismatic ruler, but he betrayed his people to the
+invaders, and the mere mention of his name arouses anger in the locals.
+He was Alexei's brother, and lost the throne to him after the invaders
+were driven out.  He is dressed completely in black, and wears a silver
+ring on his finger.
+~
+20872 0 0 0 262378 0 0 0 -750
+40 -30 -2 10d10+4500 15d2+33
+65 75
+9 9 1 0 -1 -1
+#15344
+U R 0~
+Tatiana druid spirit~
+Tatiana~
+The spirit of the druid Tatiana stands here.
+~
+Tatiana was a wise and peaceful ruler who tried to isolate her people from
+the outside world.  She was instrumental in bringing prosperity to her
+people through the gifts of the earth.  Her black hair hangs long and
+straight, and she is dressed in olive.  At her side is a silver sickle,
+the ceremonial blade of druids.
+~
+16394 0 0 0 262376 0 0 0 0
+40 -20 -2 10d10+4200 15d2+30
+65 75
+9 9 2 0 -1 -1
+#15345
+V M 0~
+Voivode witch-king sorceror necromancer vampire~
+Voivode~
+The vampire of the great witch-king Voivode stands here.
+~
+Voivode was a great sorceror , and his dark power was feared and respected
+by all.  He was the first ruler, and his knowledge of necromancy led him
+to sustain his life through a state of undead.  He wears a dark robe, and
+in his hand is a large staff of immense power.  At his side he clutches an
+enchanted tome.  His face is completely shadowed by a hood.
+~
+20746 0 0 0 262376 0 0 0 0
+40 -10 -2 10d10+4000 15d2+25
+65 75
+9 9 1 0 -1 -1
+#15346
+H W 0~
+cityguard guard~
+a Cityguard~
+A Cityguard is here protecting the gate ... he looks extemely mean and rugged.
+~
+His insignia shows him to be a soldier of the guard of Midgaard.  However,
+you can see that this is no ordinary cityguard.
+~
+4106 0 0 0 262184 0 0 0 -250
+25 -20 -5 4d10+600 5d4+10
+40 40
+9 9 1 0 -1 -1
+$

@@ -1,0 +1,978 @@
+#6201
+H T 0~
+pirate raiders~
+the pirate raiders~
+A pirate raider ship is here menacing commerce!
+~
+The ship is a single mast trireme, low to the water, and has a ram. Pirates 
+man the riggings and catapults with Greek fire.
+~
+546894 0 0 0 99372 0 0 0 -750
+25 2 -3 1d9000+9000 1d75+75
+75 40
+9 9 0 0 -1 -1
+#6202
+H T 0~
+trader merchant~
+the merchant trader~
+A merchant trader is here, low in the water, with a full cargo.
+~
+The merchant galley has 2 tiers of oars, and rides low in the water due 
+to the full cargo hold. It is heavily guarded.
+~
+22542 0 0 0 99368 0 0 0 750
+40 3 -5 1d9000+9000 1d75+75
+78 75
+9 9 0 0 -1 -1
+#6203
+H T 0~
+trader merchant~
+the merchant trader~
+A merchant trader is here, rowing high in the water.
+~
+The merchant galley has 2 tiers of oars, and rides high in the water due 
+to the empty cargo hold. It is lightly guarded.
+~
+546830 0 0 0 99372 0 0 0 750
+40 3 -6 1d9000+9000 1d75+75
+78 75
+9 9 0 0 -1 -1
+#6204
+H T 0~
+whaler~
+the whaler~
+A whaler is here seeking its quarry.
+~
+The whaler is a low ship with several rowboats in tow. A blood wake trails
+the ship, evidence of a successful hunt.
+~
+546958 0 0 0 99368 0 0 0 750
+20 3 1 1d8000+7000 1d75+75
+70 40
+9 9 0 0 -1 -1
+#6205
+H T 0~
+whaler~
+the whaler~
+A whaler is here seeking its quarry.
+~
+The whaler is a low ship with several rowboats in tow.
+~
+22542 0 0 0 99368 0 0 0 750
+20 3 2 1d8000+8000 1d75+75
+70 40
+9 9 0 0 -1 -1
+#6206
+H T 0~
+ghost ship~
+the black masted ghost ship~
+A black masted ghost ship crosses the horizon, sailing on air and misery.
+~
+The ghost ship is transparent and has rigging of an ancient make. You hear
+howls of terror coming from within the vessel.
+~
+677902 0 0 0 99372 0 0 0 -750
+20 1 10 1d9000+9000 1d75+75
+50 40
+9 9 0 0 -1 -1
+#6207
+A W 0~
+whale sperm~
+the sperm whale~
+A sperm whale is here breaching upon the open waters.
+~
+The sperm whale is old and bears the scars of many hunts.
+~
+546830 0 0 0 99372 0 0 0 750
+25 3 1 1d9000+9000 1d75+75
+75 40
+9 9 1 0 -1 -1
+#6208
+A T 0~
+squid giant~
+the giant squid~
+A giant squid is here, tentacles drifting in the current!
+~
+The giant squid is some 20' long, and has a beaked mouth inside its
+tentacles.
+~
+548654 0 0 0 99372 0 0 0 -750
+40 3 1 1d9000+9000 1d75+75
+80 75
+9 9 2 0 -1 -1
+#6209
+N C 0~
+siren~
+the siren~
+The siren of Hell's reef is here, singing her enchanting song.
+~
+The siren is a beautiful maiden with the torso of a fish. Her song 
+is very hard to resist.
+~
+548654 0 0 0 230572 0 0 0 -750
+50 -9 -20 1d1+10000 12d2+60
+80 110
+9 9 2 0 -1 -1
+#6210
+F M 3~
+typhoon raging~
+the raging typhoon~
+A raging typhoon is here, making you seasick.
+~
+The typhoon has high winds and towering black clouds. Lightning arcs wildly
+at its center, the sign that this is a non natural phenomena.
+~
+155438 0 0 0 1541292 0 0 0 -750
+50 -9 -10 1d500+10000 8d7+60
+80 90
+9 9 0 12 19 10
+#6211
+H T 0~
+pirate guard~
+the pirate guard~
+A grubby sailor armed with a cutlass growls at you!
+~
+The pirate guard is clothed in rags, and smells badly.
+~
+548718 0 0 0 33836 0 0 0 -300
+40 3 1 1d9000+9000 1d75+75
+70 75
+9 9 1 0 -1 -1
+#6212
+H T 0~
+shipwright pirate~
+the shipwright~
+A shipwright is here, repairing a trireme.
+~
+The shipwright is stripped to the waist, and is sweating profusely.
+~
+22670 0 0 0 33832 0 0 0 -100
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6213
+H T 0~
+savage jungle~
+the jungle savage~
+A jungle savage is here, thinking about cannibalism.
+~
+The jungle savage is clad in a thong and wields a crude spear.
+~
+548718 0 0 0 33836 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+75 75
+9 9 1 0 -1 -1
+#6214
+H R 0~
+chieftain chief savage unga-bunga~
+Chief Unga-bunga~
+A savage chieftain is here eyeing you hungrily.
+~
+Chief Unga-bunga is a strong man, having consumed many monkey 
+brains over his long life. He like the rest of his subjects, is
+scantily clad.
+~
+548686 0 0 0 165036 0 0 0 100
+50 -10 -10 10d20+15000 12d2+60
+88 90
+9 9 1 0 -1 -1
+#6215
+H T 0~
+pirate sleeping~
+the sleepy pirate~
+A pirate is here, sleeping off another wild drunk.
+~
+The pirate stinks with the smell of his own vomit.
+~
+22542 0 0 0 33832 0 0 0 -300
+40 3 1 1d9000+9000 1d75+75
+65 75
+4 9 1 0 -1 -1
+#6216
+H T 0~
+pirate drunken~
+the drunken pirate~
+A drunken pirate staggers toward you.
+~
+The pirate smells of rum, and is dressed in rags.
+~
+22542 0 0 0 33832 0 0 0 -300
+40 3 1 1d9000+9000 1d75+75
+40 75
+9 9 1 0 -1 -1
+#6217
+H T 0~
+princess smallbody woman~
+Princess smallbody~
+A woman dressed in rags and smelling of sewage claims royal lineage.
+~
+Princess smallbody is in sad sad shape. Her father wrote her off as
+damaged goods when this band of pirates captured her, and so her ransom
+was never paid. One-eye in his anger cast the princess in this prison
+until her manner changed.
+~
+22670 0 0 0 33832 0 0 0 500
+40 3 1 1d10000+10000 1d75+75
+65 75
+9 9 2 0 -1 -1
+#6218
+H T 0~
+navigator man~
+the navigator~
+A man is here sighting his sextant on the sun.
+~
+The navigator is dressed in silken clothing. He was a prize from one
+of One-eye's raids, and has served his lord well. He hopes one day 
+that he can make a break for it on a raid.
+~
+22670 0 0 0 33832 0 0 0 200
+40 3 1 1d10000+10000 1d75+75
+75 75
+9 9 1 0 -1 -1
+#6219
+H R 0~
+one-eye man pirate lord~
+One-eye, the pirate lord~
+The pirate lord of this isle booms a 'Kill them' at you!
+~
+One-eye is a man of medium build and grey sideburns. He is well dressed
+and wears the proverbial patch over one eye. However, he uses this patch
+as a prop to make himself appear rougher than he actually is. His skin
+is a weathered brown from many, many voyages.
+~
+22318 0 0 0 427176 0 0 0 -500
+50 -10 -10 10d20+15000 8d7+60
+70 90
+9 9 1 0 -1 -1
+#6220
+H M 0~
+maiden bond~
+a bond maiden~
+A maiden dressed in rags is here, servicing the whims of her master.
+~
+The bond maiden is tied to the throne, and looks broken. You look into her
+eyes and see a little hope remains, hope that one day she will be rescued
+or her ransom paid.
+~
+22670 0 0 0 33832 0 0 0 200
+40 10 1 1d4000+4000 1d75+75
+65 75
+9 9 2 0 -1 -1
+#6221
+A T 0~
+kracken~
+the kracken~
+A giant black tentacled creature churns the water here.
+~
+The kracken has been trained by the Redbeard to expect food with the 
+arrival of a boat. He usually tosses the kracken a huge load of fish
+and the beast lets him pass. Others, however, are ignorant of this
+practice, and tend to get eaten.
+~
+139054 0 0 0 492584 0 0 0 -1000
+40 3 1 1d9000+9000 1d75+75
+80 75
+9 9 2 15 20 17
+#6222
+H T 0~
+guard dock~
+the dock guard~
+A burly man is here guarding the docks.
+~
+The dock guard is dressed in light leather armor and coif, and appears
+to be alert and well rested.
+~
+546894 0 0 0 33832 0 0 0 -100
+40 3 1 1d10000+10000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6223
+A T 0~
+snake black~
+the black snake~
+A black snake is here, hiding in the sand.
+~
+The black snake is some 10' long, and has broad, iron hard scales.
+~
+24366 0 0 0 427052 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+75 75
+9 9 0 4 15 17
+#6224
+A T 0~
+crab black~
+the black crab~
+A black crab is here, eating a dead fish.
+~
+The black crab measures 2' from tip to tip, and has serrated pinchers.
+Its eyestalks rise some 3' off the ground, orienting and peering in your
+direction.
+~
+546924 0 0 0 164904 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+72 75
+9 9 0 8 -1 -1
+#6225
+A T 0~
+worm lava~
+the lava worm~
+A small rivulet of molten lava runs here.
+~
+The lava worm is a creature of magic, having been created
+by Pele to seek out the gems of the earth and bring them
+to him. He forged the worm from metal and magic. The worm appears
+molten, but is really so hot from being in the fire that the
+rock upon which it slithers turns into a molten liquid on its skin.
+~
+22638 0 0 0 33832 0 0 0 100
+40 3 1 1d9000+9000 1d75+75
+73 75
+9 9 0 0 -1 -1
+#6226
+A T 0~
+lizard lava~
+the lava lizard~
+A man-sized fire-red lizard is here basking on a rock.
+~
+The lava lizard frequents the lava flows, as they are a 
+place where the lizard can gather warmth for its dives deep
+underwater. The lizard has the coloration it does to blend
+in with the lava, and camouflage it from large predatory birds
+like the terrible Rocs (which thankfully have migrated North
+for the season)
+~
+22542 0 0 0 33832 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+77 75
+9 9 0 0 -1 -1
+#6227
+H T 0~
+pirate snarling~
+the snarling pirate~
+A snarling pirate is here, ready to pillage your corpse.
+~
+The snarling pirate wears at best leather protective clothing
+and appears to be shaved and well groomed.
+~
+39022 0 0 0 1064 0 0 0 -200
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6228
+H A 0~
+redbeard pirate~
+Redbeard~
+A tall, angular man with a red beard (well groomed) is here.
+~
+Redbeard has prospered on fire island through his wits and organization.
+He holds his men to a higher standard then the rest of the pirate scum
+which sails the seas. He has a funny looking eyepiece.
+~
+546926 0 0 0 427176 0 0 0 -400
+50 -10 -10 10d20+15000 12d2+60
+80 90
+9 9 1 0 -1 -1
+#6229
+H C 0~
+lalila elf prince~
+Lalila, the elven prince~
+A pale, malnourished elf is here, begging for food.
+~
+Lalila thanks you for his rescue. In exchange for his life he tells you
+of a place called hell reef, where you can hear the ghostly siren, is 
+where he was shipwrecked and he lost his flaming belt. He was using the belt 
+for warmth when he was captured by Redbeard, and brought here for ransom.
+~
+22542 0 0 0 33832 0 0 0 1000
+40 0 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6230
+D W 1~
+pele god fire~
+Pele, god of fire~
+A towering otherworldly figure stands here, immersed in fire.
+~
+Pele is the fire god, and calls this lonely spot his home. He has
+little interest in the affairs of men, dwarves, elves, etc. He 
+stands some 20' tall, and is made entirely of flame.
+~
+1073762414 0 0 0 427176 0 0 0 0
+50 -10 -10 10d20+15000 12d2+60
+85 100
+9 9 1 21 12 21
+#6231
+H T 0~
+mizzenmast pirate lord~
+Mizzenmast~
+A short, squat, balding pirate is reclining here in a hammock.
+~
+Mizzenmast, the 3rd Pirate Lord is a firm believer in non-
+exertion, and the economy of effort. Sooner or later it will wash
+ashore is his motto. He is in his late 40's, on the downward slide
+from a once profitable career. He knows enough to delegate his work 
+to others, and leaves all the major thinking to Shifty.
+~
+22670 0 0 0 33832 0 0 0 -800
+50 -10 -10 10d20+15000 12d2+60
+80 90
+9 9 1 0 -1 -1
+#6232
+H T 0~
+shifty trader man~
+Shifty the trader~
+A man in shackles lies here in agony.
+~
+Shifty has once again ticked off his lord Mizzenmast, who in turn has
+shackled him here in the storage area to impress upon him the importance
+of fealty. Shifty is weak from hunger, and his soiled finery speaks for
+his recent fall from grace.
+~
+18574 0 0 0 33832 0 0 0 -500
+50 5 1 1d9000+9000 1d75+75
+80 90
+9 9 1 0 -1 -1
+#6233
+H T 0~
+pirate bandy legged~
+the bandy legged pirate~
+A bandy legged pirate staggers on his sea legs.
+~
+The pirate is unbalanced due to his long journeys at sea. He is clad in
+cloth jerkin and leggings, and swings his cutlass with years of experience.
+~
+22574 0 0 0 33832 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6234
+H T 0~
+stiggs cabin boy~
+Stiggs, the cabin boy~
+A young boy is here, rushing about on some kind of errand.
+~
+Stiggs was waylaid in a coastal city by Mizzenmast's crew. He has been
+brainwashed over time that the pirate's life is the best life there is.
+Right now Stiggs is in a hurry to prepare shark stew for his Lords snack.
+~
+22670 0 0 0 165032 0 0 0 -100
+40 3 -10 1d4000+4000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6235
+A T 0~
+shark tiger~
+the tiger shark~
+A shark with strange broad stripes is snacking on your leg.
+~
+The tiger shark is thick and squatish in appearance. You think its jaws 
+would make a fine trophy.
+~
+679788 0 0 0 492588 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 4 20 4
+#6236
+A T 0~
+shark white great~
+the great white shark~
+A 20' long shark is cruising here to the theme from Jaws.
+~
+Yes, our good old buddy the great white has scented your foul trail of
+Ofcol in the water, and found it pleasing enough to pursue across the
+great expanse of water.
+~
+745326 0 0 0 492588 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 4 20 4
+#6237
+A T 0~
+shark mako~
+the mako shark~
+A slender, fast swimming shark swims for your leg!
+~
+The mako shark, when you come down to it, makes a fine meal. Please feel
+free to sample its lovingly prepared body parts after the combat. No, 
+you should drink white wine with Mako.
+~
+548716 0 0 0 1541164 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 20 4 20
+#6238
+A T 0~
+shark hammerhead~
+the hammerhead shark~
+Hey look at the weird head on that shark!
+~
+The hammerhead shark is swimming slowly along at a great depth, oblivious
+to your presence.
+~
+677996 0 0 0 492584 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 4 20 4
+#6239
+A T 0~
+shark blue~
+the blue shark~
+A torpedo shaped shark cruises along here.
+~
+The blue shark having just had a fine dinner of mortal body parts, is out
+for its leisurely evening swim. Maybe if you throw fresh blood in the water
+you can get its attention.
+~
+677996 0 0 0 427048 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 4 20 4
+#6240
+A T 0~
+clam giant~
+the giant clam~
+A huge white hunk of coral rests on the bottom.
+~
+The giant clam is closed and content at the bottom of this warm tropical
+sea. I wonder what's inside?
+~
+546926 0 0 0 33832 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 6 17 -1
+#6241
+H T 0~
+hawkwoman hawk woman~
+the hawkwoman~
+A woman with giant gray wings soars here.
+~
+The hawkwoman, like all of her kind wears a beaked helm, chain leggings
+and is naked from the waist up. Yes, she is well endowed. She wields 
+the talons of the hawkpeople, gloves with spikes protruding from the 
+fingers.
+~
+22542 0 0 0 230440 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 2 0 -1 -1
+#6242
+H T 0~
+hawkman hawk man~
+the hawkman~
+A hawkman dives at you for the attack!
+~
+The hawkman, like all of his kind wears a beaked helm, chain leggings,
+and is naked from the waist up. He wears the talons of the hawkpeople,
+a glove fitted with spikes on the fingers. Huge grey wings grow from his
+back, which when extended span 12' from tip to tip.
+~
+22542 0 0 0 99368 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6243
+H W 0~
+hawklord hawk lord man~
+the hawklord~
+A hawkman in golden armor soars calmly over the land.
+~
+The hawklord, when you greet him, eyes you carefully. Then slowly, but 
+with increasing vigor he starts a tale of how his people were driven
+from their land by Lord Vulture. He warns you of the terrible Terra-kan,
+a land roving birdlike creature which roams the surface of the island.
+~
+22542 0 0 0 230568 0 0 0 100
+50 -10 -10 10d20+15000 12d2+60
+80 90
+9 9 1 0 -1 -1
+#6244
+A T 0~
+terra-kan bird terra kan~
+the terra-kan~
+A man sized wingless bird hunts here.
+~
+The terra-kan has black plumage, a huge hooked beak, and two terrible 
+talons. It moves by bounding in great leaps from place to place, often
+landing on its unsuspecting prey's back. Its squawk begins as a low warble
+and finishes with a rapid burst of CAW, caw-CAW, CAH!.
+~
+24364 0 0 0 164908 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 0 -1 -1
+#6245
+H T 0~
+pirate gambling~
+the gambling pirate~
+A pirate is here, tossing his fate with dice.
+~
+The pirate is playing a game involving 3 dice called 'bones' in which
+the highest total wins, with the variant that 2 of a kind forfeits your
+roll, and 3 of a kind gets a bonus roll added. He is so involved in the
+game that he did not notice you enter.
+~
+22670 0 0 0 33832 0 0 0 -200
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6246
+H T 0~
+mate first pirate~
+the first mate~
+A pirate in the tattered remains of a uniform, glares at your intrusion.
+~
+The first mate once was an officer in the navy of Freeport, who in his 
+later years took to skimming from the war fund. One day justice caught 
+up with him and he was captured and shipped back to port. However, on the 
+way, his ship was captured by Lord Vulture, who recognized potential in 
+his captive. The mate has served Lord Vulture well, informing him of 
+standard military moves of the navy.
+~
+22574 0 0 0 33832 0 0 0 -500
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6247
+H T 0~
+pirate elite~
+the elite pirate~
+A well-armed, sharply uniformed pirate is here, guarding the hall.
+~
+The elite pirate is dressed in a black uniform with polished silver
+buttons and buckles. He wields a military saber with a precision you have
+seldom seen.
+~
+22670 0 0 0 33832 0 0 0 -400
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6248
+H M 0~
+alindra slave woman~
+Alindra of Dunkeldorf~
+A beautiful human woman reclines in silk here.
+~
+Alindra of Dunkeldorf is at the ripe age of 23. She tells you a sad 
+tale of how she was captured by Lord Vulture on her trip to Freeport. 
+What is even more sad is that Alindra over her years of captivity has 
+fallen in love with Vulture, in spite of his villainy.
+~
+22670 0 0 0 33832 0 0 0 300
+40 10 1 1d9000+9000 1d75+75
+65 75
+9 9 2 0 -1 -1
+#6249
+H T 0~
+mutton chef pirate~
+Mutton the chef~
+A greasy, fat, hairy-backed pirate is here cooking up the daily swill.
+~
+Mutton has simple tastes in life. Leftovers and more leftovers, and 
+licking the stirring spoon. He doesn't say much, because he is too busy
+drooling into the stew. He does seem to be unusually sweaty though.
+~
+22670 0 0 0 33832 0 0 0 0
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#6250
+D T 0~
+vulture lord~
+Lord Vulture~
+A giant, black skinned man glares at you with coal black eyes.
+~
+Lord Vulture is a master criminal, with a calculating evil that makes
+your skin crawl. He is dressed in black silk, which nicely sets off
+his closely trimmed black beard and mustache. On each of his fingers
+is a signet ring of some captain he has defeated. He sizes you up
+and says `Obviously you are the caliber of soldier I need. Will you
+join me and become richer than your wildest dreams?'
+~
+589614 0 0 0 230572 0 0 0 100
+50 -10 -10 10d20+15000 12d2+60
+80 90
+9 9 1 0 -1 -1
+#6251
+A T 0~
+orca~
+the orca~
+An orca is here, hunting along the break in the ice.
+~
+The killer whale is massive, with characteristic black and white
+patterns on his flanks and underbelly. As he surfaces you notice a
+large mouth full of sharp conical teeth.
+~
+-2146934994 0 0 0 230440 0 0 0 0
+26 3 1 1d9000+9000 1d75+75
+65 40
+9 9 2 0 -1 -1
+#6252
+A T 0~
+roc great northern bird~
+the great northern roc~
+A hawklike bird with a 50' wingspan soars here.
+~
+The great northern roc, unlike its brethren, isn't enchanted 
+with an unnatural sanctuary spell. Its plumage matches the
+landscape, making it look like a snow hill when it lands.
+~
+22702 0 0 0 32808 0 0 0 0
+26 0 -6 1d9000+9000 1d75+75
+75 40
+9 9 1 0 -1 -1
+#6253
+A T 0~
+pack howling wolf~
+the howling wolf pack~
+A howling, ravening pack of white furred wolves hunts here.
+~
+The wolves dine on seals and caribou normally, but you will 
+do in a pinch.
+~
+548654 0 0 0 33832 0 0 0 0
+26 -3 -6 1d9000+9000 1d75+75
+55 40
+9 9 0 0 -1 -1
+#6254
+A T 0~
+bear cave~
+the towering cave bear~
+A mound of pelts is stacked here.
+~
+The cave bear rears up and stands on its hind legs snarling.
+It is an impressive specimen. It is here, hibernating. Maybe
+you should let it sleep.
+~
+548654 0 0 0 33832 0 0 0 0
+28 -2 -5 1d9000+9000 1d75+75
+65 40
+9 9 1 4 9 20
+#6255
+A W 0~
+stalactite low hanging~
+the low hanging stalactite~
+You slide head first into a low hanging stalactite.
+~
+The stalactite like all of its kind, is hard, cold, and
+immobile.
+~
+151342 0 0 0 33836 0 0 0 0
+28 1 -8 1d6000+6000 1d75+75
+50 40
+9 9 0 0 -1 -1
+#6256
+A W 0~
+wall ice packed~
+the ice packed wall~
+You bounce off a hard ice packed wall.
+~
+The wall, like all of its kind, is cold and unforgiving.
+~
+675630 0 0 0 33836 0 0 0 0
+28 4 -10 1d6000+6000 1d75+75
+55 40
+9 9 0 0 -1 -1
+#6257
+A W 0~
+stalagmite groin level~
+the groin level stalagmite~
+You wince in agony as you fly into a stalagmite.
+~
+The stalagmite is unmoved by your pain.
+~
+675626 0 0 0 33836 0 0 0 0
+30 5 -5 1d6000+6000 1d75+75
+60 60
+9 9 0 0 -1 -1
+#6258
+A W 0~
+landing brutally hard~
+the brutally hard landing~
+The floor drops out from under you and you take a nasty fall.
+~
+The floor is there waiting for you to fall.
+~
+675626 0 0 0 33836 0 0 0 0
+30 2 -3 1d6000+6000 1d75+75
+65 60
+9 9 0 0 -1 -1
+#6259
+A W 0~
+ceiling low~
+the low ceiling~
+You bounce up into the air and smash your head.
+~
+The ceiling is looks down on your intrusion.
+~
+675630 0 0 0 33836 0 0 0 0
+30 4 -4 1d6000+6000 30d3+40
+70 60
+9 9 0 0 -1 -1
+#6260
+A W 0~
+turn sharp~
+the sharp turn~
+You smash into the wall through a series of sharp turns.
+~
+The turns are very curvy. Can you negotiate them?
+~
+675626 0 0 0 33836 0 0 0 0
+28 2 -3 1d4000+4000 1d75+75
+75 40
+9 9 0 0 -1 -1
+#6261
+A W 0~
+drop long~
+the long drop~
+Whoa! Where did that floor go?!!!
+~
+The long drop takes you through a nasty series of
+boulders.
+~
+675630 0 0 0 33836 0 0 0 0
+30 3 -8 1d6000+6000 1d75+75
+80 60
+9 9 0 0 -1 -1
+#6262
+A W 0~
+wall rock~
+the rock wall~
+You find out the hard way that the walls are made of rock.
+~
+The rock wall is here patient, willing to listen to you all day.
+~
+675626 0 0 0 33836 0 0 0 0
+30 5 -5 1d6000+6000 1d75+75
+80 60
+9 9 0 0 -1 -1
+#6263
+A W 0~
+shoot bumpy~
+the bumpy shoot~
+You are jarred over and over by the bumpy shoot!
+~
+The bumpy shoot comes to life as you slide down into it!
+~
+675626 0 0 0 33836 0 0 0 0
+25 5 -5 1d6000+6000 1d75+75
+80 40
+9 9 0 0 -1 -1
+#6264
+A W 0~
+impact bone rattling~
+the bone rattling impact~
+You travel at a high rate of speed into a wall.
+~
+The bone rattling impact has taken a vacation from the
+bow of my fathers boat, and traveled all the way here
+to amuse itself for the winter.
+~
+675626 0 0 0 33836 0 0 0 0
+25 0 -10 1d3000+3000 1d75+75
+85 40
+9 9 0 0 -1 -1
+#6265
+A W 0~
+turn hard final?~
+the hard final? turn~
+The passageway is nearing an end, just a few more turns.
+~
+The final turn wants to leave a lasting impression on you.
+~
+548654 0 0 0 33836 0 0 0 0
+30 6 1 1d6000+6000 1d75+75
+90 60
+9 9 0 0 -1 -1
+#6266
+H T 0~
+pirate~
+the pirate in fur skins~
+`Yo Ho Ho' cries a pirate in fur skins as he sees you.
+~
+The pirate is well armed and dangerous.
+~
+22574 0 0 0 33832 0 0 0 -400
+40 2 -8 1d9000+9000 1d75+75
+65 75
+9 9 0 0 -1 -1
+#6267
+H A 0~
+guard pirate~
+a pirate guard~
+A pirate guard lurks in the shadows here.
+~
+The guard is lean, alert, hardened, and itching for
+a fight.
+~
+-2146936786 0 0 0 951464 0 0 0 -500
+50 -9 -7 1d1+10000 12d2+60
+80 90
+9 9 0 0 -1 -1
+#6268
+H T 0~
+pirate helmsman~
+the helmsman~
+A pirate wise in the ways of the sea studies you.
+~
+The helmsman is the best there is. He has successfully
+navigated the narrow ice channels around the iceberg
+innumerable times.
+~
+22670 0 0 0 33832 0 0 0 -600
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 0 -1 -1
+#6269
+N M 0~
+pirate lord cutter~
+Cutter, the 5th Pirate Lord~
+A pirate bearing the cold of winter studies his charts here.
+~
+Cutter looks up from his charts and says, `Ah, at last we 
+meet. I was told by an envoy of One-eye to expect you.
+I don't suppose you would consider just taking the gold 
+and leaving, since you will probably die if you challenge me.'
+When you don't respond, Cutter replies, `very well, lets
+have at it', and he downs a purple potion.
+~
+589614 0 0 0 1213612 0 0 0 -1000
+51 -10 -10 10d12+15000 20d5+50
+90 125
+9 9 0 0 -1 -1
+#6270
+H T 0~
+prisoner frozen captive~
+the frozen captive~
+A prisoner shivers in the cold here.
+~
+The frozen captive is so gratified by your kindness that
+she tells you a story. ` A long time ago, Lok started this
+area, and had major writers block. Well, Simba sort of 
+nudged him and he broke out of his block. With Rainman
+doing the main debugging and alot of dark beer, this
+area was created for your amusement. The secret to sailing
+is that all simple seas never border on grounding reefs.
+If you are in shallows type exit after each move to look 
+for shoals ( they wont show in the night ). There is a main
+clockwise current running in the high seas, so don't sleep
+on the high seas, or you will drift.. There are alot of 
+clues throughout isles so don't just powermud and miss all.
+Lok charmed me so you wouldn't just mindlessly butcher me.'
+~
+22670 0 0 0 33832 0 0 0 1000
+40 3 1 1d9000+9000 1d75+75
+65 75
+9 9 0 0 -1 -1
+#6299
+H T 0~
+scurvy dawg dog questmaster~
+the &12scurvy dawg&00~
+A master of the high seas, the scurvy dawg, might have something for you.
+~
+It looks, err, unfinished.
+~
+134217800 0 0 0 1192 0 0 0 0
+50 -20 -10 1d10+25000 30d30+50
+95 0
+9 9 1 0 -1 -1
+$

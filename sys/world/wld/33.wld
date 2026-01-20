@@ -1,0 +1,1770 @@
+#3300
+North Midgaard~
+   I've re-edited this area to add some more color into it.  I've tried to keep
+this area's structure close to the original.  This is a stock zone and it will
+help new players transition from another Circle to RavenMUD.  The point of the
+edit?  Mainly filler and gives me some building experience without screwing up
+an important area.    
+
+Ver 1.1 done by Xiuhtecuhtli: started May 2006. Currently incomplete 
+
+Original work done by Smythe: October 1996
+~
+33 0 0 0 0 0 255 0
+S
+#3301
+North Street~
+   This cobblestone street is kept swept and cleaned constantly by the sweepers
+employed by the residents of North Midgaard.  As you look around, you see that
+there are several two-story buildings with landscaped lawns and gardens.  
+Even the "smaller" houses are bigger than the largest of dwellings of
+Southtown.    
+~
+33 4 0 0 0 1 255 0
+D0
+The street continues north.
+~
+~
+0 -1 3302
+D2
+The North Gate of Midgaard proper lies to the south.
+~
+~
+0 -1 3060
+E
+suffer_msg~
+2
+$n's going to do okay, $e could do better.
+~
+S
+#3302
+North Street~
+   This cobblestone street is kept swept and cleaned constantly by the sweepers
+employed by the residents of North Midgaard.  As you look around, you see that
+there are several two-story buildings with landscaped lawns and gardens.  
+Even the "smaller" houses are bigger than the largest of dwellings of
+Southtown.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues North.
+~
+~
+0 -1 3303
+D2
+The street continues toward the North gate of Midgaard proper.
+~
+~
+0 -1 3301
+S
+#3303
+North Street Junction~
+   The cobblestone path continues north and south towards Midgaard Proper.  
+Numerous small anthills have popped up between the cracks and edges of the
+street.  To the west is a grassy path leading to the residence of a wealthy
+Midgaard citizen.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3304
+D2
+The street continues to the South.
+~
+~
+0 -1 3302
+D3
+A large building lies down a path to the west.
+~
+~
+0 -1 3345
+S
+#3304
+North Street Junction~
+   The cobblestone street heads north and south.  To the east is an inviting
+grassy path bordered by flowers of all shapes and colors.  The fragrance of
+fresh tulips saturates the street.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3305
+D1
+A house is at the end of a small path to the East.
+~
+~
+0 -1 3341
+D2
+The street continues to the South.
+~
+~
+0 -1 3303
+S
+#3305
+North Street~
+   This cobblestone street is kept swept and cleaned constantly by the sweepers
+employed by the residents of North Midgaard.  As you look around, you see that
+there are several two-story buildings with landscaped lawns and gardens.  
+Even the "smaller" houses are bigger than the largest of dwellings of
+Southtown.  A door to the west appears to be an entrance to one of the smaller
+houses in the neighborhood.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3306
+D1
+~
+~
+0 -1 -1
+D2
+The street continues to the South.
+~
+~
+0 -1 3304
+D3
+A door blocks passage to the West.
+~
+door~
+1 -1 3351
+E
+door~
+   An ordinary door is before you.  It has a bronze decorative emblem of a
+black bear.    
+~
+S
+#3306
+North Street~
+   This cobblestone street is kept swept and cleaned constantly by the sweepers
+employed by the residents of North Midgaard.  As you look around, you see that
+there are several two-story buildings with landscaped lawns and gardens.  
+Even the "smaller" houses are bigger than the largest of dwellings of
+Southtown.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3307
+D1
+~
+~
+0 -1 -1
+D2
+The street continues to the South.
+~
+~
+0 -1 3305
+S
+#3307
+North Midgaard Circle~
+   North Street breaks off into a circular path, that accesses East and West
+Street.  A congregation of Midgaard citizens stand around chatting about taxes,
+politics, and local gossip.  Inside the circular path is a rather appealing
+spot to relax and rest.  It is bordered with decorative shrubs and some benches
+carved out of granite that look comfortable enough for a wary traveler.    
+~
+33 393216 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3308
+D1
+A side street leads off to the East.
+~
+~
+0 -1 3320
+D2
+The street continues to the South.
+~
+~
+0 -1 3306
+D3
+A side street leads off to the West.
+~
+~
+0 -1 3319
+S
+#3308
+North Street~
+   This cobblestone street is kept swept and cleaned constantly by the sweepers
+employed by the residents of North Midgaard.  As you look around, you see that
+there are several two-story buildings with landscaped lawns and gardens.  
+Even the "smaller" houses are bigger than the largest of dwellings of
+Southtown.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3309
+D1
+~
+~
+0 -1 -1
+D2
+The street continues to the South.
+~
+~
+0 -1 3307
+S
+#3309
+North Street~
+   North Street stretches north and south, a small residential building has an
+entrance to the west.  Although, not exactly small, it is definitely dwarfed by
+the large mansions that surround it.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3310
+D1
+~
+~
+0 -1 -1
+D2
+The street continues to the South.
+~
+~
+0 -1 3308
+D3
+A door blocks your way to the West.
+~
+door~
+1 -1 3361
+S
+#3310
+North Street~
+   You're heading vertical down the famed North Street of Midgaard.  The smell
+of fresh tomatoes, onions, and potatoes hangs in the air.  To the east looks to
+be a produce shop of some sorts, which would explain the smell of fresh
+vegetables.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3311
+D1
+A doorway to a shop lies open to the East.
+~
+~
+0 -1 3363
+D2
+The street continues to the South.
+~
+~
+0 -1 3309
+S
+#3311
+North Street: A Fyne Entrance to a Fyne Shop~
+   North Street breaks into a number of interesting shops.  To the east is a
+famed weapon and armor shop.  To the south you smell fresh vegetables.  To the
+north you can just make out a medium sized sculpture that predominates the
+middle of the street.    
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3312
+D1
+The doorway of a shop lies open to the East.
+~
+~
+0 -1 3364
+D2
+The street continues to the South.
+~
+~
+0 -1 3310
+S
+#3312
+North Street Meets Castle Road~
+   The cobblestone path heads north and back south to a group of shops.  To the
+west a fortress, some would call a castle, glows in the distance.  A sign
+informs you that this path takes you to Castle Road.  To the east is another
+shop, selling spirits or perhaps specializing in one particular line.  From the
+smell of stale grapes, the best guess would be wine.  Ivan would be envious.  
+
+~
+33 0 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3313
+D1
+The doorway of a shop lies open to the East.
+~
+~
+0 -1 3365
+D2
+The street continues to the South.
+~
+~
+0 -1 3311
+D3
+The Baron's castle lies down a small road to the West.
+~
+~
+0 -1 3366
+E
+sign~
+Castle Road<----------*---------->Wine Club
+~
+S
+#3313
+North Street~
+This cobblestone street is kept swept and cleaned constantly by the sweepers
+employed by the residents of North Midgaard.  As you look around, you see
+that there are several two-story buildings with landscaped lawns and
+gardens.  Even the "smaller" houses are bigger than the largest of dwellings
+of Southtown.
+~
+33 32768 0 0 0 1 255 0
+D0
+The street continues to the North.
+~
+~
+0 -1 3314
+D1
+~
+~
+0 -1 -1
+D2
+The street continues to the South.
+~
+~
+0 -1 3312
+S
+#3314
+End of North Street (beginning of a journey) ~
+   North Street ends and the Northern Midgaard wilderness begins.  To the south
+is an inviting city full of huge mansions and exclusive (perhaps over priced)
+elite shops.  To the north is a great expanse of wilderness that would put a
+smile on any ranger's face.  The choice is difficult, luxury or the chance of
+treasure, hideous villains, and making yourself an embodiment in RavenMUD
+history.  The choice is yours!    
+~
+33 0 0 0 0 1 255 0
+D0
+you see a forest
+~
+~
+0 -1 1101
+D1
+~
+~
+0 -1 -1
+D2
+The street continues to the South.
+~
+~
+0 -1 3313
+S
+#3315
+End of West Street~
+   West Street stops in this spot and blocking the path west is a small
+mansion.  An iron fence surrounds the perimeter of this place.  The wrought
+iron gate bares the names "&07Madam Ravenclan&00".  The gate is slightly ajar
+and doesn't appear to be locked.    
+~
+33 0 0 0 0 1 255 0
+D1
+The street continues East.
+~
+~
+0 -1 3316
+D3
+A large gate blocks your way West.
+~
+gate~
+1 -1 3355
+S
+#3316
+West Street~
+   This street is much like North Street.  It is made of cobblestones and kept
+very clean.    
+~
+33 0 0 0 0 1 255 0
+D1
+The street continues East.
+~
+~
+0 -1 3317
+D3
+The street continues to the West.
+~
+~
+0 -1 3315
+S
+#3317
+West Street~
+   This street is much like North Street.  It is made of cobblestones and kept
+very clean.  To the south is a two-story house that has been built with
+imported wood.  Rumor has it, the owner actually paid the Freeport Merchants to
+gather lumber from the Forgotten Forest.    
+~
+33 0 0 0 0 1 255 0
+D1
+The street continues East.
+~
+~
+0 -1 3318
+D2
+A door blocks entrance into a building to the South.
+~
+door~
+1 -1 3353
+D3
+The street continues to the West.
+~
+~
+0 -1 3316
+S
+#3318
+In Front Of An Empty House On West Street~
+   To the north is an empty house.  It is one of the few on West street that
+has remained vacant.  Given the number of people from Midgaard Proper that have
+been on a waiting list to purchase property in this neighborhood, is it strange
+this house remains empty.    
+~
+33 0 0 0 0 1 255 0
+D0
+A door blocks entrance to a building North of you.
+~
+door~
+1 -1 3359
+D1
+The street continues East.
+~
+~
+0 -1 3319
+D3
+The street continues to the West.
+~
+~
+0 -1 3317
+S
+#3319
+West Street~
+   This street is much like North Street.  It is made of cobblestones and kept
+very clean.    
+~
+33 0 0 0 0 1 255 0
+D1
+The street continues East.
+~
+~
+0 -1 3307
+D3
+The street continues West.
+~
+~
+0 -1 3318
+S
+#3320
+East Street~
+   This street is much like North Street.  It is made of cobblestones and kept
+very clean.    
+~
+33 0 0 0 0 1 255 0
+D1
+The street continues East.
+~
+~
+0 -1 3321
+D3
+The street continues West.
+~
+~
+0 -1 3307
+S
+#3321
+East Street~
+   East street to West street, some of the richest and most powerful citizens
+of Midgaard live in this neighborhood.  To the north is a door that enters into
+a large residental dwelling.    
+~
+33 0 0 0 0 1 255 0
+D0
+A door blocks entrance to the building North of you.
+~
+door~
+1 -1 3339
+D1
+The street continues East.
+~
+~
+0 -1 3322
+D3
+The street continues West.
+~
+~
+0 -1 3320
+S
+#3322
+East Street: Renovated House~
+   East street is kept very neat and tidy by the multiple number of street
+cleaners the city has employed.  To the north is a house that looks like it has
+been renovated recently.  The door is made out of solid oak with iron bars
+reinforcing it.  There is nothing fancy about this house and it's actually set
+apart from the other houses in the neighborhood by its "plainness".    
+~
+33 0 0 0 0 1 255 0
+D0
+A door blocks entrance to the building North of you.
+~
+door~
+1 -1 3337
+D1
+The street continues East.
+~
+~
+0 -1 3323
+D3
+The street continues West.
+~
+~
+0 -1 3321
+S
+#3323
+East Street Mansion ~
+   This street is much like North Street.  It is made of cobblestones and kept
+very clean.    
+~
+33 0 0 0 0 1 255 0
+D1
+The street continues East.
+~
+~
+0 -1 3324
+D2
+A gate blocks your way south.
+~
+gate~
+1 -1 3332
+D3
+The street continues West.
+~
+~
+0 -1 3322
+S
+#3324
+End of East Street~
+   This street is much like North Street.  It is made of cobblestones and kept
+very clean.  To the East, a path leads up to a large house.    
+~
+33 0 0 0 0 1 255 0
+D1
+A gate blocks the way East.
+~
+gate~
+1 -1 3325
+D3
+The street continues West.
+~
+~
+0 -1 3323
+S
+#3325
+Path Through a Garden~
+   This small path winds through several flowerbeds and small patches of other
+exotic plants that must be carefully maintained.  By the looks of the house at
+the end of the path, the owner can afford a full-time gardener.    
+~
+33 0 0 0 0 1 255 0
+D1
+A large door bars entry into the house.
+~
+door~
+1 -1 3327
+D3
+A gate lies to the west.
+~
+gate~
+1 -1 3324
+S
+#3326
+Dining Room~
+   A large, oak table surrounded by matching chairs of the same wood, dominates
+this room.  Windows on both the North and West walls let in plenty of light,
+making you aware of the fine set of polished silver dining ware that lines the
+shelves along the east wall of the room.  The sounds and scents of a kitchen
+come from the East, while the entry hall lies to the South.    
+~
+33 8 0 0 0 0 255 0
+D1
+The kitchen lies to the East.
+~
+~
+0 -1 3331
+D2
+The entry Hall lies to the South.
+~
+~
+0 -1 3327
+S
+#3327
+Entry hall~
+   The walls of this room are decorated with tapestrys depicting great battles
+between men and dragons.  Shelves along the east wall contain several small
+dragons fashioned from some, no doubt precious metal.  You can hear the crackle
+of wood in a fireplace comeing from the south.    
+~
+33 8 0 0 0 0 255 0
+D0
+You see the dining room to the North.
+~
+~
+0 -1 3326
+D1
+You see several shelves containing books in the room to the East.
+~
+~
+0 -1 3330
+D2
+Several chairs sit around a fireplace in the room to the South.
+~
+~
+0 -1 3328
+D3
+The door blocks your way out onto the garden path.
+~
+door~
+1 -1 3325
+S
+#3328
+Sitting Room~
+   The walls of this room are lined with several "trophies"....  The head of a
+boar with large tusks, several spines from a manticore's tail, and a large
+dragon's tooth to name a few....  Some very comfortable chairs are arranged
+around a fireplace along the south wall.    
+~
+33 8 0 0 0 0 255 0
+D0
+The entry hall lies to the north.
+~
+~
+0 -1 3327
+S
+#3329
+Bedroom~
+   A very large, four poster bed dominates this room.  A small nightstand
+contains several small bottles of perfume and some assorted ladies makup items.
+A large cabinet takes up most of the west wall.    
+~
+33 8 0 0 0 0 255 0
+D0
+The doorway leads out into the Study.
+~
+~
+0 -1 3330
+S
+#3330
+Study~
+   Shelves filled with books line all four walls of this room.  A large wooden
+desk sits under a small window cut into the roof close to the east wall.    
+~
+33 8 0 0 0 0 255 0
+D2
+The bedroom lies to the south.
+~
+~
+0 -1 3329
+D3
+The entry hall lies to the west.
+~
+~
+0 -1 3327
+S
+#3331
+Kitchen~
+   Pots and pan hang on hooks along the walls.  A large chopping block sits in
+the middle of the room, and three ovens line the east wall of the room.    
+~
+33 8 0 0 0 0 255 0
+D3
+The dining room lies to the west.
+~
+~
+0 -1 3326
+S
+#3332
+Garden Path~
+   A small path winds through a well-kept garden.  To the South lies a large
+house.    
+~
+33 0 0 0 0 1 255 0
+D0
+A gate blocks your way back to East street.
+~
+gate~
+1 -1 3323
+D2
+A door blocks entry into a large house.
+~
+door~
+1 0 3333
+S
+#3333
+Entry Hall~
+   Several comfortable chairs are arranged about this room.  It is well-lit by
+a large skylight window in the roof.  To the east, you can hear the sounds of
+pots and pans being banged around.    
+~
+33 8 0 0 0 0 255 0
+D0
+A door blocks your way back out to the garden path.
+~
+door~
+1 0 3332
+D1
+The kitchen/dining room lies to the east.
+~
+~
+0 -1 3334
+D2
+The study lies to the south.
+~
+~
+0 -1 3335
+S
+#3334
+Kitchen/Dining Room~
+   A large wooden table sits in the middle of this room.  The east wall is
+lined with two large ovens and the south wall is dominated by racks of cooking
+utensils, pots and pans.    
+~
+33 8 0 0 0 0 255 0
+D3
+the entry hall lies to the west.
+~
+~
+0 -1 3333
+S
+#3335
+Study~
+   This room is filled with shelves of books.  A beautiful oak desk sits along
+the west wall.  A spiral staircase leads up to the bedroom.    
+~
+33 8 0 0 0 0 255 0
+D0
+The entry hall lies to the north
+~
+~
+0 -1 3333
+D4
+A spiral staircase leads up to the bedroom.
+~
+~
+0 -1 3336
+S
+#3336
+Bedroom~
+   A large bed takes up most of the north wall.  Directly across from the bed,
+is the staircase.  The west wall contains a wardrobe and the east wall is
+covered by a beautiful tapestry.    
+~
+33 8 0 0 0 0 255 0
+D5
+A spiral staircase leads down into the study.
+~
+~
+0 -1 3335
+S
+#3337
+Greize's Headquarters~
+   At one time this room served as a comfortable living room.  It has since
+been converted into a makeshift headquarters for the Midgaard hired bodyguards.
+A small table in the center of the room has a large map of Midgaard on top of
+it.  This table is the only piece of furniture in the room.  Not even a chair
+has been left to stop and take a rest.    
+~
+33 8 0 0 0 0 255 0
+D1
+the bedroom lies to the east.
+A sleeping chambers is in the room to the east.
+~
+~
+0 -1 3338
+D2
+A door leads back out onto East street.
+~
+door~
+1 0 3322
+E
+table map~
+              N. Mid Forests 
+                     |
+                     |   
+                     | Shops
+B. Maltious' Castle  |
+       |             |
+       |-------------|
+       | Castle Road |
+                     |
+                     |
+                     |
+               N. Mid Circle    X
+   ------------------|------------------
+      West Street    |    East Street
+                    N|
+                     |
+                    S|       
+                    T|
+                    R| 
+                    E|
+                    E|
+                    T|
+                     |
+               To Mid. Proper
+~
+S
+#3338
+Bunk Room ~
+   A number of temporary bunk beds have been setup in this room.  The room is
+non-descript, not even a picture of the Baron is on one of the four walls!  
+What the bodyguards in Midgaard do for entertainment does not include this
+room, nor anything in the house for that matter.    
+~
+33 8 0 0 0 0 255 0
+D3
+The living room lies the the west.
+A bustle of activity can be seen in the room to the west.
+~
+~
+0 -1 3337
+S
+#3339
+Living Room~
+   A large fireplace takes up most of the west wall.  Shelves of cookware and
+various other utensils and dishes surround the fireplace.  To the east, a large
+table sits against the wall.  A large carpet covers the stone floor in front of
+the fire, with several chairs arranged around its borders.  A doorway leads
+north to the bedroom.    
+~
+33 8 0 0 0 0 255 0
+D0
+You see the bedroom to the north.
+~
+~
+0 -1 3340
+D2
+A door blocks you way out onto East street.
+~
+door~
+1 -1 3321
+S
+#3340
+Bedroom~
+   A set of bunk beds sits against the east wall and a large double bed lines
+the west wall of this room.  The north wall contains a large window that looks
+out onto a beautiful garden.    
+~
+33 8 0 0 0 0 255 0
+D2
+The living room lies to the south.
+~
+~
+0 -1 3339
+S
+#3341
+Garden Path~
+   This path winds through a small flower garden that looks to be well-tended.
+It leads from North Street to the front door of a large building.    
+~
+33 0 0 0 0 1 255 0
+D1
+The front door of a large house lies to the east.
+~
+door~
+1 0 3342
+D3
+North street lies to the west.
+~
+~
+0 -1 3304
+S
+#3342
+Living Room~
+   This room is brilliantly lit by several stained glass skylights.  The ever-
+present fireplace is in the south wall.  Comfortable chairs are arranged around
+the fire and a dining table is folded against the east wall.  A doorway leads
+out of the room to the north.    
+~
+33 8 0 0 0 0 255 0
+D0
+You can see the study to the north.
+~
+~
+0 -1 3343
+D3
+A door leads out to the garden path.
+~
+door~
+1 0 3341
+S
+#3343
+Study~
+   This room is lined with shelves of books.  A desk sits in the northwest
+corner of the room under a large window.  A staircase leads up to the bedroom
+along the east wall.    
+~
+33 8 0 0 0 0 255 0
+D2
+The doorway leads out into the living room.
+~
+~
+0 -1 3342
+D4
+A staircase leads up into the bedroom.
+~
+~
+0 -1 3344
+S
+#3344
+Bedroom~
+   A very large bed is set in the middle of the room, surrounded by small
+tables and a few chairs.  Large windows take up all four walls.  A staircase
+leads down into the study.    
+~
+33 8 0 0 0 0 255 0
+D5
+A staircase leads down into the study.
+~
+~
+0 -1 3343
+S
+#3345
+Garden Path~
+   This path winds between rows of exotic plants and links North street to a
+large house west of here.    
+~
+33 0 0 0 0 1 255 0
+D1
+North Street lies to the east.
+~
+~
+0 -1 3303
+D3
+More of the garden lies to the west.
+~
+~
+0 -1 3346
+S
+#3346
+Garden Path~
+   This path winds between rows of exotic plants and links North street to a
+large house west of here.    
+~
+33 0 0 0 0 1 255 0
+D1
+More of the garden lies to the east.
+~
+~
+0 -1 3345
+D3
+The door to a large house lies to the west.
+~
+door~
+1 0 3348
+S
+#3347
+Kitchen/dining Room~
+   Pots and pans, cutting boards and piles of food adorn this room.  Whoever
+lives here must eat a lot of food, and be in a constant state of hunger.    
+~
+33 8 0 0 0 0 255 0
+D0
+The entry hall lies to the north
+~
+~
+0 -1 3348
+S
+#3348
+Entry Hall~
+   Several small statues of heroic warriors and terrible monsters are arranged
+about the room.  They are all arranged as if they are engaged in battle with
+each other.    
+~
+33 8 0 0 0 0 255 0
+D0
+The study lies to the north
+~
+~
+0 -1 3349
+D1
+The door leads out onto the garden path
+~
+door~
+1 0 3346
+D2
+The kitchen/dining room lies to the south
+~
+~
+0 -1 3347
+S
+#3349
+Study~
+   This room is cluttered with the same types of small statues that are
+arranged about the entry hall.  A table set against the north wall has several
+pieces of unfinished statues on it, as well as some painting and engraving
+equipment.    
+~
+33 8 0 0 0 0 255 0
+D2
+The entry hall lies to the south
+~
+~
+0 -1 3348
+D3
+The bedroom lies to the west
+~
+~
+0 -1 3350
+S
+#3350
+Bedroom~
+   Well, there IS a bed in the room....  The floor is littered with pieces of
+the small statues that are prevalent throughout the house.  There is also a
+disturbing amount of half-eaten food strewn about the room.    
+~
+33 8 0 0 0 0 255 0
+D1
+The study lies east of here.
+~
+~
+0 -1 3349
+S
+#3351
+Entry Hall~
+   A large fireplace in the north wall that could also be used as an oven keeps
+the room warm.  Chairs are arranged around a small table along the west wall
+and a small desk with several books and papers on it sits along the west wall.
+The bedroom lies to the west.    
+~
+33 8 0 0 0 0 255 0
+D1
+A door leads back out onto north street.
+~
+door~
+1 0 3305
+D3
+The bedroom lies to the west
+~
+~
+0 -1 3352
+S
+#3352
+Bedroom~
+   A large double-bed sits along the east wall.  Several paintings adorn the
+walls, and a bear skin rug covers the floor.    
+~
+33 8 0 0 0 0 255 0
+D1
+The living room lies the the east.
+~
+~
+0 -1 3351
+S
+#3353
+Living Room.~
+   A fire blazes in the fireplace along the east wall.  This room is very hot.
+A small metal table surrounded by metal chairs sit in the middle of the room
+and a staircase leads up to the second floor along the south wall.    
+~
+33 8 0 0 0 0 255 0
+D0
+The door leads out onto West Street.
+~
+door~
+1 0 3317
+D4
+A staircase leads up to the second floor.
+~
+~
+0 -1 3354
+S
+#3354
+Bedroom~
+   A metal bed with no matress sits in the middle of the room surrounded by
+several metal chairs.  A white-hot brazier contains an almost invisible fire.
+~
+33 8 0 0 0 0 255 0
+D5
+The staircase leads down.
+~
+~
+0 -1 3353
+S
+#3355
+The "Claw" Hall~
+   Tapestriss, paintings and small statues of birds of all kinds adorn this
+room.    
+~
+33 8 0 0 0 0 255 0
+D0
+A doorway opens to the north
+~
+~
+0 -1 3358
+D1
+The gate leads out onto west street.
+~
+gate~
+1 0 3315
+D2
+A doorway opens to the south.
+~
+~
+0 -1 3356
+D3
+A doorway opens to the west
+~
+~
+0 -1 3357
+E
+tapestry paitning~
+   A portrait of a beautiful women hangs on a wall.  It resembles Madam
+Ravenclaw if time could turn back 60 years.    
+~
+S
+#3356
+Kitchen/Dining Hall~
+   The fireplace and cutting table both are covered with birds in various
+states of preparedness.  A large dining table contains six place settings of
+fine silver.    
+~
+33 8 0 0 0 0 255 0
+D0
+The entry hall lies to the north
+~
+~
+0 -1 3355
+S
+#3357
+The Master Parlor~
+   The four walls of this room have been decorated with dozens of mirrors.  In
+the center of the room is an exotic looking armchair.  The frame has been made
+out of solid oak with different species of birds hand carved into the wood.  
+The room fits the narcissistic heart of any woman.    
+~
+33 8 0 0 0 0 255 0
+D1
+The doorways leads out into the Entry Hall.
+~
+~
+0 -1 3355
+E
+mirror~
+   The ugliest troll you have ever seen glares at you and tightens his lips
+into a snarl.  For some reason this ugly and savage beast looks very
+familiar.....    
+~
+S
+#3358
+Madam Ravenclaw's Bedroom~
+   The bedroom contains one gigantic bed that takes up one third of the room.
+The room is decorated in the same style as the rest of the house.  Stuffed
+birds of all types congest the room.  Some of these stuffed birds don't appear
+to be native to Midgaard.    
+~
+33 8 0 0 0 0 255 0
+D2
+The doorway leads out into the Entry Hall.
+~
+~
+0 -1 3355
+E
+bed~
+   Madam Ravenclaw must love a good nights sleep.  Perhaps when she was younger
+she had a number of male suitors that she entertained.    
+~
+S
+#3359
+Entry hall~
+   This house seems to be uninhabited.  There are a couple of wooden chairs
+sitting in front of the fireplace, and a portrait of a large man wearing plate
+armor hangs on the west wall.    
+~
+33 8 0 0 0 0 255 0
+D0
+A doorway leads to another room
+~
+~
+0 -1 3360
+D2
+A door leads out onto West Street.
+~
+door~
+1 0 3318
+S
+#3360
+Bedroom~
+   A simple wooden framed bed with a feather mattress sits along the north
+wall.  You can also make out what looks like a large chest under the bed.    
+~
+33 8 0 0 0 0 255 0
+D2
+The entry hall lies to the south
+~
+~
+0 -1 3359
+S
+#3361
+Living Room~
+   Several chairs sit around the fireplace.  A long table sits along the west
+wall with several more chairs around it.    
+~
+33 8 0 0 0 0 255 0
+D1
+A door leads out onto North Street.
+~
+door~
+1 0 3309
+D2
+Another room lies to the south.
+~
+~
+0 -1 3362
+S
+#3362
+Bedroom~
+   Several bunk beds line the walls of this room, each with a small table next
+to it.    
+~
+33 8 0 0 0 0 255 0
+D0
+The living room lies to the north.
+~
+~
+0 -1 3361
+S
+#3363
+Fresh Produce Stand~
+   Fresh fruits and vegetables are arranged on several shelves and bins around
+the shop.    
+~
+33 8 0 0 0 0 255 0
+D3
+North street lies to the west
+~
+~
+0 -1 3310
+S
+#3364
+Feargals Fyne Swords and Armor~
+   Feargal Duroon is one of the finest metalsmiths in the land, and his work
+demands high prices far and wide.    
+~
+33 8 0 0 0 0 255 0
+D3
+North Street lies to the west.
+~
+~
+0 -1 3311
+S
+#3365
+The Crystal Chalice Wine Tasters Club~
+The Crystal Chalice imports fine wines and other high-priced spirits from
+all over the continent.
+~
+33 8 0 0 0 0 255 0
+D3
+You see North Street.
+~
+~
+0 -1 3312
+S
+#3366
+Castle Road~
+This well-maintained road connects North Street to Baron Maltious' castle.
+~
+33 0 0 0 0 1 255 0
+D1
+North street lies to the east.
+~
+~
+0 -1 3312
+D3
+Castle Road continues to the west.
+~
+~
+0 -1 3367
+S
+#3367
+Castle Road~
+This well-maintained road connects North Street to Baron Maltious' castle.
+~
+33 0 0 0 0 1 255 0
+D1
+Castle road contines to the east.
+~
+~
+0 -1 3366
+D3
+Castle Road continues to the west.
+~
+~
+0 -1 3368
+S
+#3368
+Castle Road~
+This well-maintained road connects North Street to Baron Maltious' castle.
+A drawbridge leads over the moat to the west.
+~
+33 0 0 0 0 1 255 0
+D1
+Castle road contines to the east.
+~
+~
+0 -1 3367
+D3
+A drawbridge spans the moat 
+~
+~
+0 -1 3369
+S
+#3369
+Drawbridge~
+You are standing on the drawbridge over the Baron's moat.  The water looks
+very clean and so clear you can see the entire twenty feet to the bottom
+of the moat.   Small fish swim back and forth in the water.
+~
+33 0 0 0 0 1 255 0
+D1
+Castle road continues
+~
+~
+0 -1 3368
+D3
+The gate to the Baron's castle lies to the east
+~
+gate~
+1 0 3383
+D5
+You can jump off the bridge into the moat.
+~
+~
+0 -1 3370
+S
+#3370
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D0
+More moat
+~
+~
+0 -1 3382
+D2
+More moat
+~
+~
+0 -1 3371
+D4
+A thick rope hangs down from the drawbridge, allowing you a chance to
+climb out.
+~
+~
+0 -1 3369
+S
+#3371
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D0
+More moat
+~
+~
+0 -1 3370
+D3
+More moat
+~
+~
+0 -1 3372
+S
+#3372
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D1
+More moat
+~
+~
+0 -1 3371
+D3
+More moat
+~
+~
+0 -1 3373
+S
+#3373
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D1
+More moat
+~
+~
+0 -1 3372
+D3
+More moat
+~
+~
+0 -1 3374
+S
+#3374
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D0
+More moat
+~
+~
+0 -1 3375
+D1
+More moat
+~
+~
+0 -1 3373
+S
+#3375
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D0
+More moat
+~
+~
+0 -1 3376
+D2
+More moat
+~
+~
+0 -1 3374
+S
+#3376
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D0
+More moat
+~
+~
+0 -1 3377
+D2
+More moat
+~
+~
+0 -1 3375
+S
+#3377
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D0
+More moat
+~
+~
+0 -1 3378
+D2
+More moat
+~
+~
+0 -1 3376
+S
+#3378
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D1
+More moat
+~
+~
+0 -1 3379
+D2
+More moat
+~
+~
+0 -1 3377
+S
+#3379
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D1
+More moat
+~
+~
+0 -1 3380
+D3
+More moat
+~
+~
+0 -1 3378
+S
+#3380
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D1
+More moat
+~
+~
+0 -1 3381
+D3
+More moat
+~
+~
+0 -1 3379
+S
+#3381
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D2
+More moat
+~
+~
+0 -1 3382
+D3
+More moat
+~
+~
+0 -1 3380
+S
+#3382
+Moat~
+The water of the Moat is only about twenty feet deep and very clear.
+The castle walls and steep banks keep you from climbing out of the water.
+~
+33 4194304 0 0 0 7 255 0
+D0
+More moat
+~
+~
+0 -1 3381
+D2
+More moat
+~
+~
+0 -1 3370
+S
+#3383
+Great Hall~
+You have entered the great hall of Baron Maltious of Midgaard.  At the
+far west end of the hall is a long table.  Several other large oak tables
+have been pushed up against the walls.  Several banners hang from the
+fifteen foot high ceiling, and tapestrys line the walls.  A thick, brown
+carpet runs down the middle of the floor of the hall.
+~
+33 8 0 0 0 0 255 0
+D0
+A door with crossed swords emblazoned on it blocks the way north.
+~
+door~
+1 0 3388
+D1
+The drawbridge lies beyond the gate to the east.
+~
+gate~
+1 0 3369
+D2
+A door with a lyre emblazoned on it blocks the way south.
+~
+door~
+1 0 3384
+D3
+The hall continues to the west.
+~
+~
+0 -1 3386
+S
+#3384
+Chief Steward's Room~
+This is the room of the Chief Steward of the castle, Galatia Finehand.
+She tends to all the day-to-day affairs of the stronghold.  The room is
+well furnished with a large, comfortable bed, a sturdy desk, and a
+fireplace.
+~
+33 8 0 0 0 0 255 0
+D0
+A door leads out into the great hall
+~
+door~
+1 0 3383
+S
+#3385
+Kitchen~
+Five large ovens line the south wall of this room.  Several cutting tables
+and shelves of cooking instruments line the other walls.
+~
+33 8 0 0 0 0 255 0
+D0
+The great hall is to the north
+~
+~
+0 -1 3386
+S
+#3386
+Great Hall~
+You are in the west end of the great hall of Baron Maltious of Midgaard.
+A large table takes up most of the room here. Several other large oak tables
+have been pushed up against the walls. Colorful banners hang from the
+fifteen foot high ceiling, and tapestrys line the walls.  A thick, brown
+carpet runs down the middle of the floor of the hall.
+~
+33 8 0 0 0 0 255 0
+D0
+A small room contains a stairway to the north
+~
+~
+0 -1 3387
+D1
+the great hall continues to the east
+~
+~
+0 -1 3383
+D2
+the kitchen lies to the south
+~
+~
+0 -1 3385
+S
+#3387
+Stairway/Guard Room~
+Several bunk beds line the walls of this guardroom.  This is the first
+floor guard barracks.
+~
+33 8 0 0 0 0 255 0
+D2
+The great hall lies to the south
+~
+~
+0 -1 3386
+D4
+A stairway leads up to the second floor
+~
+~
+0 -1 3389
+S
+#3388
+Castellan's Room~
+This is the room of Terwin the Tall, Castellan to Baron Maltious.  The
+furnishings reflect the utilitarian tendencies of Terwin.  A small wooden
+bed, a desk, a small night table, and a fireplace adorn the room.
+~
+33 8 0 0 0 0 255 0
+D2
+A door leads out into the great hall
+~
+door~
+1 0 3383
+S
+#3389
+Upper Guard Room~
+Bunks line the walls of this room.  This is the second floor guard room.
+~
+33 8 0 0 0 0 255 0
+D2
+The Council chamber lies to the south.
+~
+~
+0 -1 3390
+D5
+The first floor guard room is down the staircase
+~
+~
+0 -1 3387
+S
+#3390
+Council Chamber~
+A long wooden table runs down the center of the room with chairs on either
+side.  Shelves containing books are along the walls.
+~
+33 8 0 0 0 0 255 0
+D0
+The upper guard room lies to the north
+~
+~
+0 -1 3389
+D1
+The library lies to the east
+~
+~
+0 -1 3392
+D2
+The baron's bedroom lies to the south
+~
+~
+0 -1 3391
+S
+#3391
+Baron Maltious' Bedroom~
+This room is surprisingly sparsely furnished.  The Baron is a former
+soldier and his tastes in furniture reflect his simple field-life from
+the past.   A large, comfortable-looking bed, a desk and a fireplace
+are the only things of interest in the room.
+~
+33 8 0 0 0 0 255 0
+D0
+The council chamber lies to the north.
+~
+~
+0 -1 3390
+S
+#3392
+Library~
+The baron isn't much of a collector of books, but his Chief Steward is.
+She talked him into converting this large, well-lit room into a library
+so that she wouldn't have to leave the castle to pursue her interests in
+literature.
+~
+33 8 0 0 0 0 255 0
+D3
+the council chamber lies to the west
+~
+~
+0 -1 3390
+S
+$~

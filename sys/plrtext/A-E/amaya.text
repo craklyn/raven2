@@ -1,0 +1,21 @@
+rc C ' rem cur' $*
+cs c 'crea spri'
+wor c 'word' $*
+da c 'det ali' $*
+armor c 'armor' $*
+sl c 'sense' $*
+cf c 'cr foo'
+fly c 'fly' $*
+reg c 'reg' $*
+di c 'det inv' $*
+ward c 'ward' $*
+infra c 'infra' $*
+hp c 'heal' $*
+sum c 'summon' $*
+sanc c 'sanc' $*
+cb c 'cur bli' $*
+fort c 'fortify'
+bli c 'bli' $*
+rp c 'rem poi' $*
+bless c c 'bless' $*
+assist c 'assistant'

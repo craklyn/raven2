@@ -1,0 +1,389 @@
+#38200
+The Shou-Lin's Guild of Samsera~
+The Shou lins Guild is found in the north-west quarter of Samsera.
+Features include the following:
+The Guild is split up into three sections: Balance (for all)
+the Order of Mortis (evil) and the Order of the Lotus (good)
+
+Storage Room
+Multiple Meditation (regen) rooms
+2 boards, a general and Challenge board.
+shopkeep
+training rooms
+the Grandmaster of Balance challenge setup.
+The guild is meant to reflect the shou lins simple and non
+materialistic type of lifestyle.
+
+Kurse, Sept 00
+~
+382 1024 0 0 0 0 255 0
+S
+#38201
+The Antechamber~
+   You step through the door of the monestary and enter a plain room, devoid of
+any furnishings or adornments, save for the mandala on the far wall.  This
+mandala depicts the four-armed Bhutadamara, the Turmoil of the Spirits.  His
+central hands offer the gesture of tailokyavijaya, the "conquest of the three
+worlds," making this monestary a sanctuary for all orders of monks.    
+~
+382 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 18107
+D4
+~
+~
+0 0 38202
+S
+#38202
+The Meeting Room~
+   Three sets of straw mats lay on the wooden floor of this room, where members
+of the order may kneel to meet and discuss the affairs of the Shou-Lin Guild.
+All differences are set aside in this room, for all care about the preservation
+of the Guild's teachings and way of life.    
+~
+382 33288 0 0 0 0 255 0
+D0
+~
+~
+0 0 38207
+D2
+~
+~
+0 0 38215
+D3
+~
+~
+0 0 38203
+D5
+~
+~
+0 0 38201
+S
+#38203
+The Hall of Balance~
+   This long wooden corridor stretches east west through the heart of the
+temple and is occupied by shou-lin from all orders.  To the north lies the
+Grand Chamber of Meditation, where all shou-lin come to relax.  To the south is
+Kaij's chambers, where new shou-lin are given their basic clothing.    
+~
+382 1081864 0 0 0 0 0 0
+D0
+   A set of double wooden doors lead to the Grand Chamber of Meditation, where
+shou lins recover and regenerate their health and spirit.    
+~
+doors double wooden~
+1 -1 38208
+D1
+~
+~
+0 0 38202
+D2
+A simple wooden door leads to the south.
+~
+door wooden simple~
+1 -1 38216
+D3
+~
+~
+0 0 38204
+S
+#38204
+The Hall of Balance~
+   The hall of balance is not named as is just because it is what many a
+shou-lin strives for.  When this temple was built, it was strategically placed
+in between the two wings of the Orders of the Lotus and Mortis, much like the
+focus on which a balance is built.  To the north lies the training chambers.  
+To the south is the storage chamber.    
+~
+382 1081864 0 0 0 0 0 0
+D0
+A door leads to the training chambers.
+~
+door~
+1 -1 38209
+D1
+~
+~
+0 0 38203
+D2
+A sturdy door leads to the storage room.
+~
+door sturdy~
+1 -1 38217
+S
+#38205
+The Test of Balance~
+   Only one shou-lin of the guild, be they from the Order of the Lotus, the
+Order of Mortis, or the middle path, may hold the title 'Grandmaster of
+Balance' This being is one who has attained a harmony of defense and offense,
+aggression and pacifism in combat.  This simple room you stand in now is the
+challenge chamber, where shou lin are organized to fight and perhaps become the
+new Grandmaster of Balance
+~
+382 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 38204
+D3
+An ancient door of wood leads to the Arena of Masters.
+~
+door ancient wood~
+1 -1 38206
+S
+#38206
+The Arena of Masters~
+   You stand on a simple room with a dirt floor.  In the center of the room
+lies a large circle of rope, an arena.  Many masters have fought here and won.
+Many have lost.  Some have died.    
+~
+382 1049096 0 0 0 0 0 0
+D0
+~
+~
+0 0 38206
+D1
+The ancient door leads back to the temple guild.
+~
+ancient wooden door~
+1 -1 38205
+D2
+~
+~
+0 0 38206
+D3
+~
+~
+0 0 38206
+S
+#38207
+The Order of the &14Lotus&00~
+   A small arched doorway leads to the wing where those member of the Order of
+the Lotus come to meditate.  A feeling of serenity and peace overcome you as
+you step into this simple hall.  Back to the south is the meeting room.  The
+wing extends north.    
+~
+382 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38213
+D2
+~
+~
+0 0 38202
+S
+#38208
+The Grand Chamber of Meditation~
+   You step into an enormous chamber with high celings.  This large room has
+absolutely no furniture, only row upon row of straw mats.  The walls are
+decoratively adorned with paintings of many things the shou lin represent in
+their teachings, the Wind, the Snake, the Crane, the Tiger, and the Dragon.  
+All members of all orders periodically come here to meditate and study.    
+~
+382 1475080 0 0 0 0 0 0
+D2
+A set of double doors lead back to the hall of balance.
+~
+doors double wooden~
+1 -1 38203
+S
+#38209
+The Art of the Shou-Lin~
+   This room houses all the apparatus needed for a shou-lin to train their body
+and mind into a fighting machine.  Much like a gym, minor grandmasters grapple
+with new students as well as teach them how to strike and defend.  Small groups
+of students sit with heads bowed, learning to slow their breathing and heart
+rates.  If you wish to learn the arts of the guild, then you have come to the
+right place.    
+~
+382 1081864 0 0 0 0 0 0
+D2
+A wooden door leads back to the Hall of Balance.
+~
+door wooden~
+1 -1 38204
+D3
+~
+~
+0 0 38210
+S
+#38210
+The Stance of the Crab~
+One sphere or stance of combat used is that of the crab. Crouching in a low
+position, the shou lin is able to deflect attacks and shield their own bodies whilst
+still remaining fairly mobile. This defensive strategy allows the shou-lin to
+save them from massive amounts of physical damage, giving them more time
+to escape if need be.
+~
+382 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38209
+D3
+~
+~
+0 0 38211
+S
+#38211
+The Stance of the Cobra~
+   Some say that the most important thing of combat is initiative.  Coiling
+their bodies into a defensive position, the Shou Lin is able to surprise an
+attacker with a explosive quick strike.  An excellent maneuver for a wounded
+shou-lin that is being chased or hunted, this maneuver may save or end their
+life.    
+~
+382 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38210
+D3
+~
+~
+0 0 38212
+S
+#38212
+Stance of the Mantis~
+   Adopting the aggressive style of the preying mantis allows the shou lin to
+do more damage to an opponent by sacrificing defensive positions.  In this
+stance, the shou-lin is more opt to utilize the dealy arts of the Crane, Tiger,
+and Dragon.  The Order of Mortis favors this stance, much as the Order of the
+Lotus favors the Crab.    
+~
+382 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38211
+S
+#38213
+The north wing~
+   The order of the lotus have a respect for life and the balance that it must
+be kept in tune with.  This chamber is an example of that, as it contains a
+mini-ecosystem where plants and animals live in balance with the shou-lin.  It
+is this one thing: Balance, that the Lotus and Mortis share..  They simply seek
+to maintain it through different means.    
+~
+382 1081864 0 0 0 0 0 0
+D2
+~
+~
+0 0 38207
+D3
+~
+~
+0 0 38214
+S
+#38214
+The Meditation Chambers~
+   It is here that many Shou-lin come to meditate and free their spirit into
+the world.  Before you, hundreds of them kneel on straw mats with eyes closed
+in perfect concentration.  Some chant silent mantras to themselves, others sit
+rigid and unmoving as stone, and a very few others levitate inches off the
+floor.    
+~
+382 1475080 0 0 0 0 0 0
+D1
+~
+~
+0 0 38213
+S
+#38215
+The Order of &07Mortis&00~
+   You are in an unfinished room.  A small arched doorway leads to the wing
+where the Art of Mortis comes to meditate.  The floors here are of a hard black
+wood, and due to the lack of windows, it is quite dark.  A slight mist hovers
+inches off the ground.    
+~
+382 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38202
+D2
+~
+~
+0 0 38218
+S
+#38216
+Kaij's Room~
+   Kaij is a relatively new shou-lin of the middle path and has devoted himself
+to serving his guild by assisting those new to it.  His room is rather simple,
+consisting of a cot, a floormat, a wash basin, and a number of chests which
+hold robes and other such garb.  As you enter, he looks at you and reaches
+within a chest behind him.    
+~
+382 1081864 0 0 0 0 0 0
+D0
+A simple wooden door separates this room from the Hall of Balance.
+~
+door wooden simple~
+1 -1 38203
+S
+#38217
+The Storage Chamber~
+   While Shou-Lins do not believe in material gain and possessions, they have
+built this storage chamber for those items they may have gathered from across
+the realms.  Such items are for the guild to use to teach and learn, and are
+left here with that purpose in mind.  It is the expectation of the Grandmasters
+that an item freely taken will be reciprocated by an item freely given.    
+~
+382 1083912 0 0 0 0 0 0
+D0
+A sturdy door leads to the Hall of Balance.
+~
+door sturdy~
+1 -1 38204
+S
+#38218
+The south wing~
+   In this room, practice and fighting dummies are strewn all over the place.
+Wooden arms have been shattered, heads knocked off, legs broken.  Like the
+Order of the Lotus, this order is too dedicated to preserving the balance.  
+But they believe that order should be balanced by chaos, and light by
+darkness...  This is the path they follow.    
+~
+382 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38215
+D3
+~
+~
+0 0 38219
+S
+#38219
+The Meditation Chambers~
+   A cold wind blows through this room as you step into it, giving you a slight
+chill.  Many dark shou-lin meditate here, harnessing their energy within them.
+The obvious cold seems not to bother anyone, as if they are impervious to all
+physical sensations.  You spot an empty place on the floor where you may
+meditate.    
+~
+382 1475080 0 0 0 0 0 0
+D1
+~
+~
+0 0 38218
+S
+#38220
+The Ashenhammer Forge~
+   You have entered into a relatively small stone building.  A wooden,
+makeshift counter has been setup in the rear of the building.  A large sign
+hangs crooked from the wall behind the counter.  In the center of the building
+is a large firepit, coals burning and popping rapidly.  On each side of the
+fire pit two large iron anvils protrude from the ground, both pulsing with
+magic.    
+~
+382 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 18044
+S
+$~

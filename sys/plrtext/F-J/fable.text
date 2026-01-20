@@ -1,0 +1,19 @@
+infra cast 'infra'
+cw clanwho
+wanderer title :: &09Wanderer&00
+gt gt &07$* &00
+say say &07$* &00
+sum cast 'summon' $*
+blind cast 'blind' $*
+shield cast 'shield' $*
+invis cast 'invis' $*
+cs cast 'color spray' $*
+spray cast 'color spray' $*
+awaken cast 'awaken'
+1 assist shadow
+ts cast 'true sight'
+db cast 'doom bolt' $*
+port cast 'portal' $*
+gate cast 'gate'
+haste cast 'haste' $*
+fly cast 'fly' $*

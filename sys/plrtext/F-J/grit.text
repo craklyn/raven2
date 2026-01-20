@@ -1,0 +1,44 @@
+f ord fol kill bhog
+mn c 'magic' $* n
+t c 'doom' $*
+check look u;look d;look e;look w;look n;look s
+mm c 'magic missle' $*
+locate c 'locate' $1
+fountain c 'fountain'
+gs gt &01-->&00&06$*&00&01 <--&00
+g get all all.corpse
+gg get all.coin all.corpse
+lb c 'lightning'
+charm c 'charm' $1
+shield c 'shield'$*
+mw c 'magic' $1 w
+ms c 'magic' $1 s
+wrath c 'wrath'
+tard c 'feeblemind' $1
+dc destroy corpse
+infra c 'infra'
+fly c 'fly'$*
+id c 'id' $1
+str c 'str'$*
+bl c 'blindness' $1
+df drink fountain
+silence c 'silence' $1
+flame c 'flame blade'$*
+ts c 'true'$*
+invis c 'invis'$*
+haste c 'haste'$*
+portal c 'portal' $1
+gate c 'gate'
+air c 'air'$*
+sum c 'summon' $1
+ld c 'life drain' $*
+ice c 'ice'
+ga get all
+y c 'fireball'
+r recite elven scroll
+met c 'meteor'
+slink c 'blink'
+rm c 'remove curse' $*
+as ord fol assist;assist
+ff ungr rengar
+ass ord fol assist

@@ -1,0 +1,25 @@
+sum cast 'summon'$*
+or order fol kill$*
+haste gs haste
+sil cast 'silence'$*
+4 tell clarence rev tir
+wf cast 'wraith'
+di cast 'detect invis'$*
+invis cast 'invis'$*
+deb cast 'deb'$*
+sanc gs sanc
+2 gs assist
+slow cast 'slow'$*
+embalm cast 'embalm'$*
+charm cast 'charm corpse'$*
+0 cast 'blind'$*
+1 cast 'soul p'$*
+3 gr clarence
+res tell tiri rescue
+back say back$*
+emb cast 'embalm' cor
+ward cast 'create ward'
+arm gs armor
+bash gs bash$*;gs assist
+rp cast 'resist p'$*
+infra cast 'infra'

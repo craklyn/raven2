@@ -1,0 +1,391 @@
+#38600
+board bulletin~
+the Mage Guild Idea Board~
+A board for discussions on the Mage's Guild hovers in mid-air here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38601
+board bulletin challenge~
+the Mage Board of Ascension~
+A board detailing petitions to the Grandmaster stands here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38602
+pedestal~
+a pedestal~
+An ornate pedestal stands here.~
+NOACTDESC~
+15 2 0 0 0 0 0 0 0
+100 15 -1 0
+1000 0 100
+E
+pedestal icon~
+   This pedestal holds the Guild Icon, worn only by the proven master of their
+guild.    
+~
+B
+0 0 0 0
+#38603
+icon arcane grandmaster magic guild_item~
+Icon of the Arcane~
+A small glowing orb spins about aimlessly here.~
+~
+11 58715727 0 0 0 65537 0 0 0
+0 0 0 0
+3 1000000 1650
+E
+icon arcane grandmaster magic guild_item~
+This item belongs only to that who holds the title of Master for their guild.
+~
+A
+12 35
+A
+19 3
+A
+24 -5
+A
+17 -20
+B
+0 0 0 0
+#38604
+diagram map guild~
+the mage's guild map~
+A diagram of the mage's tower of sorcery is inscribed on the wall here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+2 3 0
+E
+five 5~
+TOWER OF THE ARCANE: LEVEL FIVE
+
+     N
+   W---E
+     S
+
+  Battle in the Air!---Tower Center---Battle of Knowledge
+~
+E
+four 4~
+TOWER OF THE ARCANE: LEVEL FOUR
+
+     N
+   W---E
+     S
+
+   Vault of Artifacts---Tower Center---Library of Lore---Portal Chamber
+~
+E
+three 3~
+TOWER OF THE ARCANE: LEVEL THREE
+
+     N
+   W---E
+     S
+
+
+   The Chamber of Magiks (training)   
+              |     
+         Tower Center---Scribing Room
+              |     
+     Chamber of Summonings
+~
+E
+two 2~
+TOWER OF THE ARCANE: LEVEL TWO
+
+     N
+   W---E
+     S
+
+        The Study (regen) 
+              |  
+         Tower Center
+              |  
+     Apprentice's Shop (shopkeep)
+~
+E
+one 1~
+TOWER OF THE ARCANE: LEVEL ONE
+
+     N
+   W---E
+     S
+
+   To Test Laboratory    
+          |
+     Tower Center
+~
+E
+diagram map guild~
+MAGE'S GUILD: TOWER OF THE ARCANE
+
+               W----------E
+
+ Entry From Street------Portal to Level 1
+
+   Up     LEVEL 5 (Grandmaster Challenge)  
+    |       |
+    |     LEVEL 4 (Lore and Artifacts)
+    |       |
+    |     LEVEL 3 (Training)
+    |       |
+    |     LEVEL 2 (General)
+    |       |
+  Down    LEVEL 1(You are Here)
+
+Read: ONE, TWO, THREE, FOUR, or FIVE for each level layout.
+~
+B
+0 0 0 0
+#38605
+mage portal note~
+a small plaque~
+The portal that used to be here has been replaced with a small plaque.~
+~
+12 3 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+plaque~
+We recently produced a more powerful transportation method.  
+Say the word 'Friend' in this room and you will be pulled instantly into
+the guild.  We have included very powerful magics in this portal to prevent
+the mundane from entering the tower.  
+~
+B
+0 0 0 0
+#38606
+guild portal yellow~
+the guild portal~
+A portal in the center of the room pulsates with a yellow glow.~
+~
+24 3 0 0 0 0 0 0 0
+38601 -1 10 0
+0 0 0
+E
+guild portal yellow glow~
+   This portal was crafted by the Archmage's of the Mage's guild to ease travel
+between the tower and the city below.    
+~
+B
+0 0 0 0
+#38607
+guild portal red~
+the guild portal~
+A portal in the rear wall glows with a reddish light.~
+~
+24 3 0 0 0 0 0 0 0
+38614 -1 10 0
+0 0 0
+B
+0 0 0 0
+#38608
+guild portal blue~
+the guild portal~
+A glowing blue portal hums from the rear wall.~
+~
+24 3 0 0 0 0 0 0 0
+38615 -1 10 0
+0 0 0
+B
+0 0 0 0
+#38609
+guild portal red~
+the guild portal~
+A portal in the center of the room pulses with a reddish glow.~
+NOACTDESC~
+24 3 0 0 0 0 0 0 0
+38611 -1 10 0
+0 0 0
+B
+0 0 0 0
+#38610
+guild portal blue~
+the guild portal~
+A blue portal swirls in the center of the room.~
+~
+24 3 0 0 0 0 0 0 0
+38611 -1 10 0
+0 0 0
+B
+0 0 0 0
+#38611
+guild portal emerald~
+the guild portal~
+A portal of luminescent emerald whirls here.~
+~
+24 3 0 0 0 0 0 0 0
+3017 -1 10 0
+0 0 0
+B
+0 0 0 0
+#38612
+guild portal blue~
+the guild portal~
+A blue portal swirls in the center of the room.~
+~
+24 3 0 0 0 0 0 0 0
+38611 -1 10 0
+0 0 0
+B
+0 0 0 0
+#38613
+staff mage intricate~
+an ornate staff~
+An intricately carved staff is lying against the wall here.~
+~
+5 8314944 0 0 0 8193 0 0 0
+0 5 3 6
+8 800 130
+A
+3 1
+A
+31 3
+A
+12 10
+B
+0 0 0 0
+#38614
+cloak hooded long~
+a long hooded cloak~
+A long cloak with a hood lies here in a pile.~
+~
+11 8314944 0 0 0 5 0 0 0
+0 0 0 0
+3 500 70
+A
+4 1
+A
+12 10
+B
+0 0 0 0
+#38615
+ring gold signet conclave~
+a conclave signet ring~
+A gold ring with the insignia of the Mage's Conclave lies here.~
+~
+11 8314944 0 0 0 3 0 0 0
+0 0 0 0
+1 800 205
+A
+17 -4
+A
+9 5
+A
+12 12
+B
+0 0 0 0
+#38616
+spell component pouch~
+a pouch for spell components~
+A pouch used to hold magical spell components lies here.~
+~
+15 8314944 0 0 0 16385 0 0 0
+20 5 -1 0
+2 800 380
+A
+12 15
+A
+24 -3
+A
+18 1
+A
+29 15
+B
+0 0 0 0
+#38617
+sheet paper papyrus scribe_item~
+a sheet of scribing paper~
+A flattened sheet of papyrus lies here on the ground.~
+~
+25 4739328 32 0 0 8193 0 0 0
+0 0 0 0
+5 750 0
+B
+0 0 0 0
+#38618
+bracelet dull metal 38618~
+a dull metal bracelet~
+A bracelet made of a dull grey metal is lying here.~
+~
+11 75423808 0 0 0 4097 0 0 0
+0 0 0 0
+6 800 730
+A
+19 3
+A
+18 2
+A
+12 30
+B
+0 0 0 0
+#38624
+handle sin~
+a sword-handle, charred with sin~
+A lump of coal rests on the ground here.  Something doesn't feel right about it.~
+~
+12 33554432 64 0 0 1 0 0 0
+0 0 0 0
+2 666 0
+E
+insert_fail_room~
+$n fails to combine magical elements.
+~
+E
+insert_fail_char~
+These items resist the act of melding.
+~
+E
+insert_to_room~
+In an unholy matrimony, $n creates a felblade.
+~
+E
+insert_to_char~
+Your body is suddenly possessed by an evil demon and summons forth a felblade.  You can only look on in horror.
+~
+E
+insert_item~
+27420
+~
+E
+new_item~
+38625
+~
+B
+0 0 0 0
+#38625
+darksword sword~
+&07The Darksword&00~
+A black-bladed sword lies here, absorbing all light near it.~
+~
+5 39778880 32 0 0 8193 0 0 0
+0 1 75 3
+30 0 7895
+E
+darksword~
+   Molded ages ago from a metal long lost to mortals, The Darksword is a very
+powerful weapon rediscovered.  In past days, the sword dissapeared from the
+world and was replaced by the sword of shadows, which Bezgarath closely
+guarded.  Upon rediscovery, the great god Scabare took and recast its metal
+into its current form.    
+~
+A
+33 46
+A
+24 12
+A
+29 30
+A
+18 2
+B
+0 0 0 0
+$~

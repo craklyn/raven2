@@ -1,0 +1,20 @@
+x release
+z c 'fireball' $*
+gt  gt &11 $* &00
+5 rem ball; hold pen; scrib $1 parch;rem pen;hold ball
+3 c 'slow' $*
+6 c 'charm' $*
+2 rec recall recall
+a assist $*
+f c 'flame blade' $*
+r c 'shield' $*
+b c 'blind' $*
+7 get all all.myrddin; wear all; hold ball; wield sliver; get all all.myrddin
+1 rec recall
+y c 'm m' $1 $2
+g c 'l d' $*
+p c 'haste' $*
+q c 'light' $*
+8 c 'silence' $1
+4 c 'summon' $*
+v c 'doom bolt' $*

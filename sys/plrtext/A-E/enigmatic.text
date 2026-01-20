@@ -1,0 +1,50 @@
+sn sneak
+z order follower kill $*
+mm cast 'magic missile' $*
+slow cast 'slow' $*
+see cast 'infra'
+b cast 'flame blade' $*
+stone cast 'stone' $*
+shi cast 'shield' $*
+loc cast 'locate object' $*
+\ cast 'sandstorm' $*
+] order follower rescue $*
+_ cast 'silence' $*
+} cast 'curse' $*
+{ cast 'remove curse' $*
+~ breath $*
+` cast 'blind' $*
+m scribe $* pa
+id cast 'id' $*
+gate cast 'gate'
+fly cast 'fly' $*
+: cast 'blink'
+air cast 'air' $*
+ench cast 'enchant' $*
+true cast 'true sight' $*
+web cast 'web' $*
+0 cast 'feeblemind' $*
+= cast 'life drain' $*
+/ cast 'wrath'
+* cast 'Doom bolt' $*
+$$ take all.gold;take all.gold all.corp
+h cast 'haste' $*
+f say friend
+charm cast 'charm' $*
+' emote says, '&13~&12*&13~&14$* &13~&12*&13~&00'
+magic cast 'detect magic' $*
+ms cast 'monster summon'
+kk order follow murder $*; ass foll
+p cast 'portal' $*
+x cast 'nexus' $*
+water cast 'create spring'
+v cast 'invis' $*
+poi cast 'detec poi' $*
+str cast 'strength' $*
+sum cast 'summon' $*
+t ts &13~&12*&13~ &14$* &13~&12*&13~&00
+q qs &13~&12*&13~ &14$* &13~&12*&13~&00
+g gt &13~&12*&13~ &14$* &13~&12*&13~&00
+loot consent; take all all.$*; consent; .hide
+lp look in portal
+age cast 'fountain'

@@ -1,0 +1,1691 @@
+#34000
+Xak Tsaroth Credits Room~
+This is based on the Dragon Lance city.  Builder is Valek, converted to Circle
+by Corwin . This area will be level 25-50 and links to xxxxxxx.
+~
+340 9 0 0 0 0 255 0
+S
+#34001
+Streets of Xak Tsaroth~
+You have come to a deserted street in Xax Tsaroth.  No visible
+signs of life can be seen among the ruined buildings. The broken
+streets of this once fine city continue east and west.  To the
+south, the outskirts of the city can be reached.
+~
+340 32768 0 0 0 1 255 0
+D1
+~
+~
+0 0 34005
+D2
+~
+~
+0 0 31931
+D3
+~
+~
+0 0 34002
+S
+#34002
+Streets of Xak Tsaroth~
+You come to the end of the Western Street.  Buildings lay in ruins around.  
+You see a sign ghanging on a small ruined building at the north.  West of here
+leads to the main street
+~
+340 32768 0 0 0 1 255 0
+D0
+~
+door~
+1 0 34003
+D1
+~
+~
+0 0 34001
+E
+sign~
+A sign reads "Out of Bounds to all" 
+~
+S
+#34003
+Ruined Building~
+A large but empty building, this building has been deserted since the
+destruction of the Cataclysm.  Cobwebs, dirt and stale air fill the
+building.  There are no large openings as all the windows have been nailed
+shut.  You can see a trapdoor at the middle of the building with a sign
+board on it.  You couldn't make out what is written on the sign board as it
+is written with an ancient language.  
+~
+340 2129929 0 0 0 0 255 0
+D2
+~
+door~
+1 0 34002
+D5
+~
+trap~
+1 0 34004
+S
+#34004
+Hidden Room~
+You found yourself in a small dark room that was once used as a
+prisoner cell.  There is hardly any light at all.  The only light is from
+the small openings on the trap door.  You can faintly see skulls and bones
+lying around on the floor.  The smell of decay filled the air.  There are no
+exits except from the trap door on top.  
+~
+340 2129961 0 0 0 0 255 0
+D4
+~
+trap~
+1 0 34003
+S
+#34005
+Streets of Xak Tsaroth~
+You are on the deserted streets of Xak Tsaroth.  Buildings lie in ruin
+across the streets.  The street continues east and west.
+~
+340 32768 0 0 0 1 255 0
+D1
+~
+~
+0 0 34006
+D3
+~
+~
+0 0 34001
+S
+#34006
+Streets of Xak Tsaroth~
+You are on the deserted streets of Xak Tsaroth.  Buildings lay in ruins
+across the streets.  The streets continue east and west.  
+~
+340 32768 0 0 0 1 255 0
+D1
+~
+~
+0 0 34007
+D3
+~
+~
+0 0 34005
+S
+#34007
+The Courtyard~
+You are in a open Courtyard.  To the east, stands four tall, free standing
+columns that support nothing as the buildings lay in ruins around them.  A huge
+circular stone well rises about four feet above the ground.  North of the well
+stands what appeared to be the only building to have escape the destruction of
+the Cataclysm.  It is finely constructed of pure white stone, supported by tall
+slender columns.    
+~
+340 32768 0 0 0 1 255 0
+D0
+~
+door~
+1 0 34008
+D3
+~
+~
+0 0 34006
+S
+#34008
+Hall of the Temple~
+You are in the hall of the temple.  There are several openings on top of the
+eastern and western wall but they seem to be sealed off.  The place would be in
+complete darkness if not for the four small torches which are placed at each
+corner of the hall.  Exits from the hall are a hallway which leads to the north
+and the door at the south which leads out of the temple
+~
+340 2129929 0 0 0 0 255 0
+D0
+~
+~
+0 0 34009
+D2
+~
+door~
+1 0 34007
+S
+#34009
+A Hallway~
+You are in a narrow hallway.  The place is dark as there are no openings from
+outside for light to pass in.  Two rooms branch off to the east and the west.
+A set of golden double doors leads to the North.  South of here leads back to
+the Grand Hall of the Temple.    
+~
+340 2129929 0 0 0 0 255 0
+D0
+~
+double~
+1 0 34012
+D1
+~
+~
+0 0 34010
+D2
+~
+~
+0 0 34008
+D3
+~
+~
+0 0 34011
+S
+#34010
+Worshippers' Room~
+You are in a small and circular room meant for the worshippers to mediate and
+rest.  Though deserted for years, the room is clean and free from dust.  The
+center of the room is laid with a white carpet.  The ceilngs are decorated with
+fine drawings of man riding on horses with wings.    
+~
+340 2523177 0 0 0 0 255 0
+D3
+~
+~
+0 0 34009
+S
+#34011
+Worshippers' Room~
+You are in a small and circular room meant for the worshippers to mediate and
+rest.  Though deserted for years, the room is clean and free from dust.  The
+center of the room is laid with a white carpet.  The ceilings are decorated
+with fine drawings of man riding on horses with wings.    
+~
+340 2129920 0 0 0 16 255 0
+D1
+~
+~
+0 0 34009
+S
+#34012
+Chamber of Mishakal~
+You are under a large dome that rises high above an intricately inlaid tile
+floor.  Beneath the dome, in the center of the chamber, stands a marble statue
+of singular grace and beauty.  The light in the chamber emanates from this
+statue.
+~
+340 2129920 0 0 0 0 255 0
+D1
+~
+door~
+1 0 34013
+D2
+~
+double~
+1 0 34009
+S
+#34013
+On Top of the stairways~
+You are in a small dark circular room.  A tall slim pedestal stands in the
+center.  At the northeastern end, a staircase spirals down into the darkness.
+The stairs are broken and covered with rotting plants and fungus.  The other
+exit from this room is the double door which leads to the west.    
+~
+340 2129929 0 0 0 0 255 0
+D3
+~
+door~
+1 0 34012
+D5
+~
+~
+0 0 34014
+S
+#34014
+Down the Stairways~
+You are along the circular stairways leading underground.  Darkness
+filled the stairways as there are no source of light from the surface.  The
+stairs are broken and covered with rotting plants and fungus.  
+~
+340 2129929 0 0 136515680 0 255 0
+D4
+~
+~
+0 0 34013
+D5
+~
+~
+0 0 34015
+S
+#34015
+Down the Stairways~
+You are along the circular stairways leading underground.  Darkness
+filled the stairways as there are no source of light from the surface.  The
+stairs are broken and covered with rotting plants and fungus.  
+~
+340 2129920 0 0 0 16 255 0
+D0
+~
+~
+0 0 34016
+D4
+~
+~
+0 0 34014
+S
+#34016
+Down the Stairways~
+You are along the circular stairways leading underground.  Darkness
+filled the stairways as there are no source of light from the surface.  The
+stairs are broken and covered with rotting plants and fungus.  
+~
+340 2129929 0 0 0 16 255 0
+D2
+~
+~
+0 0 34015
+D5
+~
+~
+0 0 34017
+S
+#34017
+Bottom of the Stairways~
+You are along the circular stairways leading underground.  Darkness
+filled the stairways as there are no source of light from the surface.  The
+stairs are broken and covered with rotting plants and fungus.  
+~
+340 2129929 0 0 136516624 0 255 0
+D1
+~
+~
+0 0 34018
+D4
+~
+~
+0 0 34016
+S
+#34018
+A short corridor~
+You are in a short corridor, no more than than a few feet long.  There is
+a large arch doorway at the east of the corridor.  A pale gray light
+filtered into the corridor, as did the odor of dankness and decay.  You can
+hear sound of rushing water from below and beyond the door, nearly drowning
+out all other sounds.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+arch~
+1 0 34019
+D3
+~
+~
+0 0 34017
+S
+#34019
+Hall of the Ancestors~
+You are in a hall once known as the Hall of the Ancestors but now it is
+in ruins.  Part of the floor to the east has fallen into a hole which
+foul-smelling white mist boils up.  You noticed other huge holes gaping in
+the floor, while chunks of large stone tile stick up like grave markers. 
+Through the mist, you can faintly distinguish a doorway along the south wall and
+another to the north.  A strange screeching sound seems to come from the
+south.  
+~
+340 9 0 0 0 16 255 0
+D0
+~
+~
+0 0 34020
+D2
+~
+~
+0 0 34022
+D3
+~
+arch~
+1 0 34018
+S
+#34020
+Passageway~
+You are in a dark narrow Passageway.  A strange smell fills the air. 
+You can hear footsteps coming from the north.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34021
+D2
+~
+~
+0 0 34019
+S
+#34021
+End of Passageway~
+You are at the end of the Passageway.  A strange smell fills the air. 
+You can see a hole at the celling of the passage that seems to be an
+entrance for a small creature to jump through.  
+~
+340 9 0 0 0 0 255 0
+D2
+~
+~
+0 0 34020
+S
+#34022
+Dimly Lit Passageway~
+You are in a dimly lit Passageway.  A strange smell fills the air.  You
+can hear a strange screeching sound that seems to come from the southern
+passageway.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34019
+D2
+~
+~
+0 0 34023
+S
+#34023
+Dimly Lit Passageway~
+You came to a turn at the Passageway.  A strange smell fills the air. 
+Screeching sounds can heard from the eastern Passageway.  Footsteps are
+coming from the north.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34022
+D1
+~
+~
+0 0 34024
+S
+#34024
+Narrow Corridor~
+You are in a narrow corridor.  The corridor extends east, lit by torches
+that flicker and smoke in the stifling air.  The light reflects off
+walls wet with condensed moisture.  You shiver as water drips down on
+you from the celling.  You can see at the far east end of the corridor, a
+doorway.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34025
+D3
+~
+~
+0 0 34023
+S
+#34025
+Narrow Corridor~
+You are in a narrow corridor..  The corridor extends east, lit by torches that
+flicker and smoke in the stifling air.  The light reflects off walls wet
+with condensed moisture.  You shivered as water drips down on you from the
+ceiling.  Cold air flows from the northern and southern crypts.    
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34026
+D1
+~
+~
+0 0 34028
+D2
+~
+~
+0 0 34027
+D3
+~
+~
+0 0 34024
+S
+#34026
+The Crypt~
+You are in the crypts.  You can see the dark outline of the sarcophagus
+reflected in the sputtering torchlight.  The coffin is elaborately carved,
+decorated with gold that shines no longer.  An oppresive air hangs over the
+crypts.  South of here leads back to the corridors.    
+~
+340 9 0 0 0 0 255 0
+D2
+~
+~
+0 0 34025
+S
+#34027
+The Crypt~
+You are in the crypts.  You can see the dark outline of the sarcophagus
+reflected in the sputtering torchlight.  The coffin is elaborately carved,
+decorated with gold that shines no longer.  An oppresive air hangs over the
+crypts.  North of here leads back to the corridors.    
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34025
+S
+#34028
+Narrow Corridor~
+You are in a narrow corridor..  The corridor is lit by torches that
+flicker and smoke in the stifling air.  The light reflects off walls wet
+with condensed moisture.  You shivered as water drips down on you from the
+celling.  Cold air flows from the northern and southern crypts.  A doorway
+at the east leads to another broader passageway.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34029
+D1
+~
+~
+0 0 34031
+D2
+~
+~
+0 0 34030
+D3
+~
+~
+0 0 34025
+S
+#34029
+The Crypt~
+You are in the crypts.  You can see the dark outline of the sarcophagus
+reflected in the sputtering torchlight.  The coffin is elaborately carved,
+decorated with gold that shines no longer.  An oppresive air hangs over the
+crypts.  South of here leads back to the corridors. 
+~
+340 9 0 0 0 0 255 0
+D2
+~
+~
+0 0 34028
+S
+#34030
+The Crypt~
+You are in the crypts.  You can see the dark outline of the sarcophagus
+reflected in the sputtering torchlight.  The coffin is elaborately carved,
+decorated with gold that shines no longer.  An oppresive air hangs over the
+crypts.  South of here leads back to the corridors.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34028
+S
+#34031
+Passageway~
+You are in a dark passageway.  The walls are covered with thick layers of
+slime.  Fungus and moss grows on the ground.  You can hear harsh whip
+crackling and screeching sounds coming from the east.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34032
+D3
+~
+~
+0 0 34028
+S
+#34032
+T-Junction of Passageway~
+You are at the T-Junction of the passageway.  The walls are covered with
+thick layers of slime.  Fungus and moss grows on the ground.  You can hear
+harsh whip crackling and screeching sounds coming from the eastern
+passageway.  Another passageway leads to the south.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34035
+D2
+~
+~
+0 0 34033
+D3
+~
+~
+0 0 34031
+S
+#34033
+Passageway~
+You are in a dark passageway.  The walls are covered with thick layers of
+slime.  Fungus and moss grew on the ground.  You can hear harsh whip
+cracking and screeching sounds coming from the north.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34032
+D2
+~
+~
+0 0 34034
+S
+#34034
+End of Passageway~
+You arrived at the end of the passageway.  The walls are covered with
+thick layers of slime.  Fungus and moss grew on the ground.  The screeching
+and whip cracking sounds gets fainter.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34033
+S
+#34035
+Turning at the Passageway~
+You arrive at a turn at the passageway.  The walls are covered with
+thick layers of slime.  Fungus and moss grows on the ground.  The screeching
+and whip cracking sounds gets closer and louder from the north.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34036
+D3
+~
+~
+0 0 34032
+S
+#34036
+Passageway~
+You are in a dark passageway.  The walls are covered with thick layers
+of slime.  Fungus and moss grows on the ground.  The screeching and whip
+cracking sounds gets closer and louder from the north.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34037
+D2
+~
+~
+0 0 34035
+S
+#34037
+End of Passageway~
+You arrived at the end of the passageway.  The walls are covered with
+thick layers of slime.  Hot mist rises from the two large holes in the floor,
+swirling around whatever is nearby.  Between the two holes is a large
+wheel, around which runs a gigantic chain.  A tremendous black iron pot hangs
+suspended from the chain over one of the holes.  The other end of the chain
+disappears through the other hole.  You can hear whip crack and a gluttural
+voice bellowing.  
+~
+340 9 0 0 0 0 255 0
+D2
+~
+~
+0 0 34036
+D5
+~
+~
+0 0 34038
+S
+#34038
+In the Pot~
+You are in a large black iron pot which is suspended with a thick chain. 
+The pot seems strong enough to support the weight of 10 people.  You cannot
+see the surrounding clearly as the air is filled with hot mist rising from
+below the pot.  
+~
+340 9 0 0 0 0 255 0
+D4
+~
+~
+0 0 34037
+D5
+~
+~
+0 0 34039
+S
+#34039
+Cavern~
+You are in the southern end of the cavern.  The air is filled with hot
+mist rising from huge holes in the ground.  The cavern extends north.  You
+can see a black iron pot up at the top suspended by a thick chain.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34040
+D4
+~
+~
+0 0 34038
+S
+#34040
+Cavern~
+You are in a cavern.  The air is filled with hot mist rising from huge
+holes in the ground.  The cavern extends south and north.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34041
+D2
+~
+~
+0 0 34039
+S
+#34041
+Turning at the Cavern~
+You are in a cavern.  The air is filled with hot mist rising from huge
+holes in the ground.  The cavern extends east and west 
+~
+340 9 0 0 0 0 255 0
+D0
+~
+hidden~
+1 0 34044
+D1
+~
+~
+0 0 34042
+D2
+~
+~
+0 0 34040
+S
+#34042
+Cavern~
+You are in a cavern.  The air is filled with hot mist rising from huge
+holes in the ground.  The cavern extends east and west 
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34043
+D3
+~
+~
+0 0 34041
+S
+#34043
+End of Cavern~
+You are in the eastern end of the cavern.  The air is filled with hot
+mist rising from huge holes in the ground.  The cavern extends west.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+~
+0 0 34042
+D5
+something really bad lurks down there
+~
+~
+0 0 34083
+S
+#34044
+Hidden Passageway~
+A secret hidden passage way in the cavern.  The passageway is dark and
+filled with stale air.  It must have been deserted for years.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34045
+D2
+~
+hidden~
+1 0 34041
+S
+#34045
+Room in the Cavern~
+You came to a room filled with rock dust and debris.  Part of the
+ceiling has collapsed and the floor is littered with broken tiles.  You see
+a four footed wide pipe with one end sticking up out of the crumbling floor. 
+Apparently it have fallen through the celling, caving in the northeast
+section of the room.  
+~
+340 2097417 0 0 0 0 255 0
+D0
+~
+~
+0 0 34046
+D2
+~
+0~
+0 0 34044
+S
+#34046
+Inside the Metal Pipe~
+You found yourself in a metal pipe large enough for just two human to go
+through.  The walls of the pipe are coated with thick layers of slime and
+dirt.  Chittering sounds of rats can been heard.  The pipe extends west.  
+~
+340 9 0 0 0 0 255 0
+D2
+~
+~
+0 0 34045
+D3
+~
+~
+0 0 34047
+S
+#34047
+Inside the Metal Pipe~
+You came to a junction in the metal pipes.  The walls of the pipe are
+coated with thick layers of slime and dirt.  Screeching sounds of rats can
+been heard.  The pipe extends west and east.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34046
+D3
+~
+~
+0 0 34048
+S
+#34048
+Inside the Metal Pipe~
+You came to a junction in the metal pipes.  The walls of the pipe are
+coated with thick layers of slime and dirt. Scrabbling sounds of rats can
+been heard.  The pipe extends south, east and west.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34047
+D2
+~
+~
+0 0 34051
+D3
+~
+~
+0 0 34049
+S
+#34049
+Inside the Metal Pipe~
+You found yourself in a metal pipe large enough for just two human to go
+through.  The walls of the pipe are coated with thick layers of slime and
+dirt.  Screeching sounds of rats can been heard.  The pipe extends west and
+east.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34048
+D3
+~
+~
+0 0 34050
+S
+#34050
+End of Metal Pipe~
+You came to and end in the metal pipe.  The walls of the pipe are coated
+with thick layers of slime and dirt.  Chittering sounds of rats can been
+heard.  The pipe extends east.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34049
+S
+#34051
+End of Metal Pipe~
+You came to and end in the metal pipe.  The walls of the pipe are coated with
+thick layers of slime and dirt.  Gnashing sounds of rats can be heard in the
+distance.  As you look down you see a ragged section of the pipe had been cut
+out in a three foot circle exposing a plaster surface beneath
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34048
+D5
+~
+plaster~
+1 0 34052
+S
+#34052
+The Bakery~
+You are in a room which is once a bakery.  There is broken furniture
+around.  Over at one corner directly opposite the pipe's opening, stands a
+number of large bulging sacks.  Two of them have been spilled open, spilling
+a mass of flour onto the floor.  A door to the west leads outside to the
+streets.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+~
+0 0 34053
+D4
+~
+plaster~
+1 0 34051
+S
+#34053
+Streets of Xak Tsaroth~
+You are on the streets of Xak Tsaroth.  Ruined buildings are everywhere.
+Water from the underground streams flowed from the side of the rock and ran
+into the streets, swirling among the ruins.  All is still and quiet, except
+for the noise of dripping water.  The air is heavy with the odor of decay. 
+The streets extend south.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34052
+D2
+~
+~
+0 0 34054
+S
+#34054
+The Streets of Xak Tsaroth~
+You are on the streets of Xak Tsaroth, beneath the archway of ruined
+buildings.  You can hear above the noise of the river another sound, the
+crashing and roaring of a great waterfall.  The streets extend west.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34053
+D3
+~
+~
+0 0 34055
+S
+#34055
+End of the Streets~
+You have reached the end of the streets.  You see the waterfall.  The
+streets have dropped off into air, and the stream that ran beneath the city
+gushes out from between broken slabs and columns to fall nearly five hundreds feet
+into the bottom of the cavern. There rests the remainder of the ruin city of Xak Tsaroth.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34054
+D3
+~
+~
+0 0 34056
+S
+#34056
+Edge of the waterfall~
+You are at the edge of the waterfall.  Thick green vines hung over the
+edge of the rocky cliff like giant snakes.  The leaves on the vines are
+torn, tattered, and in some places, stripped off entirely, but the vines
+themselves appeared thick and tough, even if they are slippery.  You peer
+over the edge.  It is a five-hundred foot drop straight down to a
+rubble-strewn cobblestone street.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34055
+D5
+~
+~
+0 0 34057
+S
+#34057
+Climbling on the vines~
+Thick green vines hung over the top of the rocky cliff like giant snakes
+down to the ground far below.  The leaves on the vines are torn, tattered,
+and in some places, stripped off entirely, but the vines themselves appeared
+thick and tough, even if they are slippery.  You look down and it seems
+to be a few hundred feet down to the ground.  
+~
+340 9 0 0 0 0 255 0
+D4
+~
+~
+0 0 34056
+D5
+~
+~
+0 0 34058
+S
+#34058
+Climbling on the vines~
+Thick green vines hung over the top of the rocky cliff like giant snakes
+down to the ground far below.  The leaves on the vines are torn, tattered,
+and in some places, stripped off entirely, but the vines themselves appeared
+thick and tough, even if they are slippery.  You look down and it seems
+to be less than a hundred feet down to the ground.  
+~
+340 9 0 0 0 0 255 0
+D4
+~
+~
+0 0 34057
+D5
+~
+~
+0 0 34059
+S
+#34059
+Underground streets~
+You are on the cobblestone streets.  The mist is so thick that you
+cannot see anything except broken columns overgrown with vines and fungus. 
+The streets extend to the west.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+~
+0 0 34060
+D4
+~
+~
+0 0 34058
+S
+#34060
+Underground streets~
+You are on the cobblestone streets.  The mist is so thick that you
+cannot see anything except broken columns overgrown with vines and fungus. 
+The streets extend to the west.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34059
+D3
+~
+~
+0 0 34061
+S
+#34061
+The Plaza~
+The buildings come to an end and the streets open into a huge circular plaza.
+Through the water, you can see the remnants in the plaza of flagstoe paving in
+an intricate sunburst design.  In the center of the plaza, the river is joined
+by another stream rushing in from the north.  They forms a small whirlpool as
+the water meets and swirls before joining and continues west between another
+group of tumble-down buildings.  Here, light streams into the plaza from a
+crack in the cavern roof hundreds of feet above, illuminating the ghostly mist,
+dancing off the surface of the water whenever the mist parted.    
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34062
+D1
+~
+~
+0 0 34060
+S
+#34062
+Northern Streets~
+You have left the river behind you and walk into the northern streets. 
+Mist closes in around you as you enter another nest of ruined buildings. 
+The buildings are in the last stage of decay and collapse.  The streets
+are clustered with trash and filth.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34063
+D2
+~
+~
+0 0 34061
+S
+#34063
+Northern Streets~
+You are on the northern streets.  A foul mist flows out from an alley to
+the east.  The buildings lean over, holding each other up like drunks
+stumbling out of a tavern.  Rats can be seem running in and out from the
+alley.  The streets continue north and south.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34070
+D1
+~
+~
+0 0 34064
+D2
+~
+~
+0 0 34062
+S
+#34064
+A narrow alley~
+You are in a narrow and smelly alley.  Trash and decaying food filled
+the ground.  Rats run all over the alley.  The only exits are north and west
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34065
+D3
+~
+~
+0 0 34063
+S
+#34065
+A narrow Alley~
+You are in a narrow and smelly alley.  Trash and decaying food filled the
+ground.  Rats run all over the alley.  The only exits are north and south.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34066
+D2
+~
+~
+0 0 34064
+S
+#34066
+End of the Alley~
+You came to the end of the alley.  Ahead of you is a decaying brick wall
+and no way out.  Rats run all over the place.  The only exit is south.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+bricks~
+1 0 34067
+D2
+~
+~
+0 0 34065
+S
+#34067
+A hallway~
+You are in a hallway of a building.  There are no windows and the place
+is dimly lit by torches placed on the opposite walls.  The hallway extends
+north and south leads out of the building.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34068
+D2
+~
+bricks~
+1 0 34066
+S
+#34068
+End of the Hallway~
+You reached the end of the hallway.  A large wooden double door leads to
+the north.  Drawings of dragons are carved onto the door.  South of here
+leads back into the hallway and east leads to the waiting Hall.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+wooden~
+1 0 34069
+D1
+~
+~
+0 0 34082
+D2
+~
+~
+0 0 34067
+S
+#34069
+The Throne Room~
+You stands in the court of Aghar, before the throne of a gully dwarf
+known as Phudge I, the great Highbulp.  Heavy, frayed gold cloth swirls over and
+drapes every available inch of wall space.  Huge tapestries hung from the
+celling and some of them are upside down.  Graceful, nude statues stand
+about, adorning the room as well.  
+~
+340 9 0 0 0 0 255 0
+D2
+~
+wooden~
+1 0 34068
+S
+#34070
+Northern Streets~
+You are on the northern streets.  The streets are clustered with filth
+and trash.  Rats run over all over the place.  The streets continue north
+and south.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34071
+D2
+~
+~
+0 0 34063
+S
+#34071
+End of the Northern Streets~
+You reached the end of the northern streets.  It is dark as the ruined
+buildings and rubble cast shadows over the whole street.  A wooden door stands at
+the east leading into a deserted building.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+wooden~
+1 0 34072
+D2
+~
+~
+0 0 34070
+S
+#34072
+Deserted Building~
+The moment you stepped into the building, you find yourself up to the
+ankles in water.  You can see water pouring in steady streams down the walls
+of the dismal room.  It swirled around the center of the floor, then ran
+through cracks around the edges.  There is hardly anything interesting
+except for a trap door in the floor.  An iron pull ring is barely visible
+in the center.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+wooden~
+1 0 34071
+D5
+~
+trap~
+1 0 34073
+S
+#34073
+The Sewers~
+You find yourself in a five-foot wide tunnel of the city sewer.  The
+water level is two feet deep.  There is hardly any light.  The tunnel runs
+south and north.  The only visible exit out of the sewer is through the
+ladder up to the surface.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34074
+D2
+~
+~
+0 0 34076
+D4
+~
+trap~
+1 0 34072
+S
+#34074
+The Sewers~
+You are in the tunnel of the city sewer.  The water level seems to be
+increasing.  You can hear screeching sound of rats.  Light is hardly
+available.  The tunnel extends north and south.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34075
+D2
+~
+~
+0 0 34073
+S
+#34075
+End of the Tunnel~
+You come to a stop as large pieces of rocks block your way.  There seems to be
+a cave-in and there is no further way through to the tunnel at the north.  The
+water level is three feet deep.  Darkness fills the tunnel.  There seems to be
+a hole in the ground at the corner.  You peek into the hole and can only see
+darkness beneath.  The only way is to go back south.    
+~
+340 9 0 0 0 0 255 0
+D2
+~
+~
+0 0 34074
+S
+#34076
+Turning at the sewers~
+You come to a turning at the tunnel of the sewers.  The water level seems
+to be increasing.  Down at the eastern arm of the sewers glimmers a column
+of dim light, filtering down from above.  The walls are coated with slime.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34073
+D1
+~
+~
+0 0 34077
+S
+#34077
+The Sewers~
+You are in the tunnel of the city sewer.  The water level seems to be
+increasing.  You are drawing near to the light at the eastern sewer.  The
+walls are coated with slime and the screeching sounds of rats can be heard. 
+The sewers continue east and west.
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34078
+D3
+~
+~
+0 0 34076
+S
+#34078
+The Sewers~
+   You are in the tunnel of the city sewer.  A column of dim light shines down
+from above.  The water level reaches three feet deep.  The walls are coated
+with slime and sounds of rats can be heard from above.  The sewers continue
+east and west.
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34079
+D3
+~
+~
+0 0 34077
+D4
+~
+~
+0 0 34080
+S
+#34079
+End of the Tunnel~
+You come to a stop as large pieces of rocks block your way.  There
+seems to be a cave-in and there is no further way through to the tunnel at
+the east.  The water level is three feet deep.  Darkness fills the tunnel.
+The only exit is to go back west.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+~
+0 0 34078
+S
+#34080
+Ladder from the sewers~
+You are at the ladder up from the sewers.  The opening on top is blocked
+by a iron grating.  The grating is closed by a small lock.  
+~
+340 9 0 0 0 0 255 0
+D4
+~
+grate~
+1 0 34081
+D5
+~
+~
+0 0 34078
+S
+#34081
+Lair of the Black Dragon.~
+You are in a huge domed chamber that soars hundreds of feet into the
+air.  Cold gray light filters into the room through a crack in the celling,
+shining on a large altar in the center of the circular room.  On the floor
+surrounding the altar are masses of jewels, coins and other treasures of the
+dead city.  
+~
+340 521 0 0 0 0 255 0
+D4
+~
+~
+0 0 -1
+D5
+~
+grate~
+1 0 34080
+S
+#34082
+Waiting Hall~
+You are in the waiting hall of the gully dwarves.  The foul smell of
+decay filled the air.  There is a circular table in the center of the hall
+which is once used as a meeting table.  Broken chairs which have been poorly
+mended by the gully dwarves stand around the table.  Lamps hanging on the
+four corner of the hall are the only light source in the hall.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+~
+0 0 34068
+S
+#34083
+Lair of the Hydra~
+You jump through the hole and land in a cave.  It is dark
+and creepy as little light comes into this cave.  The water level reaches to
+about 4 feet high.  There is a smell of rotten corpse and the water is filthy
+and muddy.  
+~
+340 9 0 0 0 0 255 0
+D4
+~
+~
+0 0 34043
+S
+#34084
+Land of the Heroes~
+You are high up in the hills.  The air is fresh and you can hear the
+beautiful sounds of the birds singing on the trees.  Everywhere is filled
+with grasses and flowers.  North of here leads further up in the hills.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34085
+S
+#34085
+Land of the Heroes~
+You are high up in the hills.  The air is fresh and you can hear the
+beautiful sounds of the birds singing on the trees.  Everywhere is filled
+with grasses and flowers.  North of here leads further up in the hills and
+there are paths leading to the east and the west.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34088
+D1
+~
+~
+0 0 34086
+D2
+~
+~
+0 0 34084
+D3
+~
+~
+0 0 34087
+S
+#34086
+Land of the Heroes~
+You came to the eastern side of the hills.  Silence seems to fill this
+part of the hills.  There are no sign of any birds or animals. 
+Mysteriously, a stone table with two stone chairs stood in the middle of the
+hills.  The western path leads back to the hills.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+~
+0 0 34085
+S
+#34087
+Land of the Heroes~
+You came to a small cottage at the side of the hill.  You can see smoke
+coming out of the chimney of the cottage.  A small well stood near the
+cottage.  You can see a pair of axe hanging near the windows.  The eastern
+path leads back to the hills.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34085
+S
+#34088
+Land of the Heroes~
+You are high up in the hills.  The air is fresh and you can hear the
+beautiful sounds of the birds singing on the trees.  Everywhere is filled
+with grasses and flowers.  North of here leads further up in the hills.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34089
+D2
+~
+~
+0 0 34085
+S
+#34089
+Land of the Heroes~
+You are high up in the hills.  The air is fresh and you can hear the
+beautiful sounds of the birds singing on the trees.  Everywhere is filled
+with grasses and flowers.  North of here leads further up in the hills and
+there are paths leading to the east and the west.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34092
+D1
+~
+~
+0 0 34090
+D2
+~
+~
+0 0 34088
+D3
+~
+~
+0 0 34091
+S
+#34090
+Land of the Heroes~
+You came to the western side of the hills.  The air is fresh and you can
+hear the beautiful sounds of the birds singing on the trees.  Everywhere is
+filled with grasses and flowers.  A path leads west back to the hills.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+~
+0 0 34089
+S
+#34091
+Land of the Heroes~
+You came to a small spring at the side of the hills.  The air is filled
+with a nice fragrance.  The wind blew gently against the trees, creating a
+soft and nice melody.  A path leads east back to the hills.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34089
+S
+#34092
+Land of the Heroes~
+You are on the top of the hills.  The cold wind blew gently against you. 
+A white circular building that looks like a shrine stood in the middle.  A
+huge double door is the only entrance into the shrine.  South of here leads
+down the hills.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+door~
+1 0 34093
+D2
+~
+~
+0 0 34089
+S
+#34093
+The Shrine Hall~
+You are in the hall of the shrine.  Light shone down from the top windows
+onto the center of the hall.  A doorway at the north leads to the center of
+the shrine.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34094
+D2
+~
+door~
+1 0 34092
+S
+#34094
+The Shrine~
+You are in the center of the shrine with a small fountain at the middle. 
+The surrounding walls are decorated with drawings of gods and man riding on
+dragons and griffins.  A huge door stood at the north leading to a small
+chamber.  The western and eastern door ways leads to other rooms of the
+shrine.  
+~
+340 25 0 0 0 0 255 0
+D0
+~
+door~
+1 0 34097
+D1
+~
+~
+0 0 34095
+D2
+~
+~
+0 0 34093
+D3
+~
+~
+0 0 34096
+S
+#34095
+The Shrine~
+You are in a small circular room of the shrine.  A white circular carpet
+is laid at the center of the room.  This particular room is mainly used for
+resting and mediating.  
+~
+340 9 0 0 0 0 255 0
+D3
+~
+~
+0 0 34094
+S
+#34096
+The Shrine~
+You are in a small circular room of the shrine.  A white circular carpet
+is laid at the center of the room.  This particular room is mainly used for
+resting and mediating.  
+~
+340 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 34094
+S
+#34097
+Chamber of GoldMoon~
+You are in a small chamber, filled with light that
+seems to come from nowhere.  There are no windows or openings from which
+light can come through.  Each corner of the chamber stood a marble statue of
+a woman holding a staff on her right hand.  You can see a drawing of a
+golden dragon on the top of the chamber.  
+~
+340 2097156 0 0 0 0 255 0
+D2
+~
+door~
+1 0 34094
+D5
+you see a small square hole
+~
+gold base~
+2 35087 34099
+E
+dragon~
+You notice the one of the dragon's claws is pointing at one of the statues.  
+
+~
+E
+4.statue~
+You see a large marble statue resting on a square block of stone.  You notice
+the bottom edge of the base is shifted slightly, revealing a thin line of
+darkness As you look closer you see a tiny keyhole in the stone base
+~
+E
+3.statue~
+You see a large marble statue resting on a square block of stone
+~
+E
+2.statue~
+You see a large marble statue resting on a square block of stone
+~
+E
+statue~
+You see a large marble statue resting on a square block of stone
+~
+S
+#34098
+Outskirts of Xak Tsaroth~
+You are at the outskirts of the once busy city of Xak Tsaroth. 
+Standing on the road made of cobblestones, you can see ruined buildings
+at the distance.  The place seems to be deserted for years.  North of
+the road leads further into the city.  
+~
+340 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 34001
+D3
+~
+~
+0 0 34000
+S
+#34099
+The Chamber of Entrance~
+You are in a small room faintly light by a glow that seems to come from the
+well of a steep ramp that zig-zags downwards.    
+~
+340 12 0 0 0 0 255 0
+D4
+You see a small, reachable square opening overhead.    
+~
+base stone~
+2 8799 34097
+D5
+~
+~
+0 0 35030
+S
+$~

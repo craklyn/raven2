@@ -1,0 +1,402 @@
+Veeshan  (Jun 29) [19353] higher level vision spells should override already casted lower level ones
+Soth     (Jul 17) [19352] while the player doesn't currently have a quest, make the quest info command let them know how much longer they must wait to quest again
+Tomi     (Sep 28) [ 7804] add a fail message for cutthroat
+Tomi     (Oct  8) [24423] instead of mug letting the /mob/ get one free round, how about letting the thief get it instead? since, you know, we're mugging them...and stuff
+Tomi     (Oct 11) [18001] Cutthroat, being the only combat skill that harms the user if it fails, should always silence if sucessful
+Tomi     (Oct 13) [18001] Haggle - reverse of fence. "You smoothly talk the shopkeeper into a lower price."
+Mystrael (Oct 25) [ 6871] Have weather be important. i.e. if you are out in a storm, you could get hit by lightning
+Brakliss (Mar 18) [24385] for auctions list body parts an item being sold can be worn on
+Brakliss (Mar 18) [24368] make people be able to see auction information while sleeping
+Rincewind (Mar 24) [31699] disable colors above 14 in emotes
+Enki     (Mar 26) [ 2610] remove gold from denegorth prisoners
+Zerik    (Mar 31) [18001] a command available to clan members that lists all mebers of said clan
+Raine    (May 20) [16724] Since the demon fountain has blood in it, what if Demons could only drink blood? It seems to make sense. We could only cure our thirst with blood, not water.
+Thyris   (May 21) [20098] I am -2 at the moment, When I am restored, I cannot do a thing for atick.
+Mazrakoth (Jun  6) [ 6225] I think undead shouldnt have to eat, the killing alone should suffice for food.
+Prettz   (Jul 21) [19303] make fire elementals affected by flame blade (not that anyone's dumb enough to go elemental... sheesh!)
+Prettz   (Aug 21) [18102] 3 new remort races: illithid, treant, and shade
+Prettz   (Aug 21) [18102] illithid: 21str, 23int, 23wis, 17dex, 20con, 19cha. they receive perm sense life, charm, suggestion (may work on players), and mindblast (harm/hands of wind)
+Prettz   (Aug 21) [18102] treant: 23str, 18int, 21wis, 10dex, 24con, 18cha. they receive strangle (entangle/slow), limbwhip (gore), and crushing fall (25% chance to kill opponent when player dies)
+Prettz   (Aug 21) [18102] shade: 20str, 17int, 17wis, 22dex, 19con, 20cha. they receive perm infra and/or sense life, shadowmist/step, 51 invis (@ 50), dissipate (feign), and suffocate (cutthroat/minor lifesteal)
+Ava      (Sep 11) [18092] Magic Missile shouldn't be able to hit a mob in the same room as you if you follow it with a direction. It won't hit anything in opposing room if there is a mob with the same keyword in your current room. Hope that made sense..
+Rincewind (Sep 16) [ 3005] put in some sort of line saying "You feel more stuff but can't see anything else." when people loot corpses without detect invis on. they tend to leave that stuff behind when they die
+Telchar  (Sep 23) [15821] when a direction is given for a long-range attack (throw, magic missile, etc) have rooms in that direction take priority over the "thrower's" room
+Thok     (Sep 30) [ 3005] allow feed to satisfy hunger and thirst
+Khan     (Oct 17) [18003] lets let corpse consume help with vig too
+Telchar  (Nov  3) [18056] in "toggle" stick "Recall Protection: ON/OFF" right below "Summon Protect"
+Telchar  (Nov  6) [ 2109] allow a toggle-able "page-break" size! e.g. default is low 20s, allow to set 0-100 (0 means no break), typing "practice" and it giving a split page is really annoying
+Nfora    (Nov 14) [ 5221] Part 1: perhaps werewolves should get unarmed damage bonuses, to allow their claws and teeth take the place of weapons.
+Zarathustra (Nov 15) [19909] cleric X casts fortify on Y, fortify shows on Y's score, if X = Y, this is fine, if X != Y, show fort on X anyway? or somehow link it Y's fortify
+Zarathustra (Nov 15) [19909] or, "examine Y" shows such things as "He is currently fortified." (also, when someone is "guarding", it could show "He is currently being guarded." etc)
+Zarathustra (Nov 15) [19909] this could be given as a generic command everyone has (akin to diagnose, examine, glance, etc) and/or could be a skill you would have to invest *something* into
+Ambrose  (Nov 17) [18001] Cleric and Mage mobs should be able to summon a player after being attacked. A spell such as Anchor from a cleric could protect tanks from being summoned by mobs. !summon shouldn't work against summoning mobs.
+Nfora    (Nov 25) [ 6943] implement learn % for intelligence higher then 18 (or update the help file if it is implemented)
+Prettz   (Nov 26) [ 2004] water and air elementals can just pass through pickable doors!
+Prettz   (Dec  1) [18030] quest info, between quests, tells the amount of time needed till next quest w/out needing to quest offer at a random qmob
+Zechariah (Dec  7) [24331] add opening and closing containers to nospam
+Telchar  (Dec 11) [18007] a skill or command (maybe only for thieves) to see how much gold a mob (i.e. shopkeeper) or player has
+Zechariah (Dec 12) [18001] have higher level spells wipe out older spells.  i.e. for detect invis and infravision
+Nfora    (Jan 11) [ 6871] make summon's mana use based on the level on the summonee
+Nfora    (Jan 14) [ 6867] make restore remove bad affs like blind, curse ...
+Nfora    (Jan 15) [23067] prevent items on the ground in fog rooms from being seen
+Felicia  (Jan 18) [18001] Would it be possible to see the total of members in group? perhaps at the bottom of the least it should say Total group Members.... just fun to see in groups of 15+ where it's rather hard to count them :)
+Iiziri   (Jan 21) [18001] For fishing. I know a leaderboard everyone could see might not work out so well, but how about if you were in the top 5 inky would tell you your placement. would be nice to see if we're close.
+Telchar  (Feb  8) [38608] remove the channels from 'toggle' (leave them to 'channels'), add in Recall Protect (below Summon Protect)
+Nfora    (Feb 14) [10894] Giants: able to bash !bash mobs, and level 51's as well.
+Khan     (Feb 15) [ 6232] rename necro charm corpse to raise dead, or something cool like that plz?
+Prettz   (Feb 18) [22960] ok, so if you wouldn't like powerstrike to increase in damage, how about lowering the mana cost as the skill increases? 1 mana = 2 dam, etc
+Rincewind (Feb 21) [19302] Hey hey.  Banish and turn undead should both either turn a charmed corpse back into a regular corpse or destroy it completely (based on level). With a whack-fol-de-la
+Oblena   (Feb 25) [18001] Was debilitate overlooked for an update to cleanse's affects?
+Pudortu  (Feb 28) [18001] sandstorm should dust :P
+Khan     (Mar  6) [18001] can us necros be able to embalm empty p corpses plz, for the novelty?
+Khan     (Mar 24) [39011] could necromancers have a bit more creative guild in samsera plz? this ones unbelievably generic most rooms.
+Pudortu  (Mar 28) [30758] the idea of giving warriors the "perma shield" is ridiculous, as if they dont have enuf hps, now they only receive a portion of our spells
+Telchar  (May 18) [18001] give conjured mobs spells respective of their class (hezrou, vrock, dk 'animate dead' mobs--all these should have protection from good)
+Nfora    (May 20) [18005] samseran mobs should be scripted to defend their city
+Blitz    (May 25) [18001] make a help file for flame strike :p
+Zechariah (May 25) [19312] According to the help files, the only known masters of the art of the dragon are Chou Lung and the Dalai Lama.  It'd be cool if you had to go to them to learn the skill.
+Prettz   (May 26) [22417] change the mermaid's xp in underwater haven--at 80k non-remort and an average of 30k remort xp, they're not very useful
+Blitz    (May 26) [19302] the create food help file is incorrect.  I am level 50 and I have to eat waybread every 5 hrs or so.
+Gothe    (May 28) [18001] if you look at the old hermit at the beginning of the area "ancalador", you will receive an extremely great idea for an invasion. pweese do so.
+Blitz    (May 30) [11065] "Well, what sort of noise do you expect here?"...I think you know... :p
+Telchar  (May 30) [38608] working tunnels in the samsera thieves guild that can take them to other places (whether just outside the city, to another hideout, to a shop, etc, who knows)
+Telchar  (May 30) [38608] get rid of the current tunnels (you know what I'm talking about), or at least revamp them to make some geographic sense, perhaps have them more "hidden", or cooler in some way
+Telchar  (May 30) [38608] if wholly gotten rid of, start from scratch and make new tunnels (with a theme, ie smuggling route, or made by evil monsters of some sort that kidnap and hold for random/eat people in certain towns/areas)
+Telchar  (May 30) [38608] in the new tunnels, have the tunnels "make sense" (as mentioned before), if Area A is west of Area B, have the tunnel run almost straight east-west
+Telchar  (May 30) [38608] tunnels can also vary in depth, up and down, if there were say a pool of water or extremely hard rock
+Telchar  (May 30) [18006] tunnels can also be used to link several areas to make a story, theme, or quest (as said before, if the tunnels were used by thieves to get around from location to location)
+Telchar  (May 30) [18006] a band of enlarged, angry mole-people, dwarves, drow, or many other nasties can also invade areas from "underground" by use of tunnels
+Telchar  (May 30) [18006] an area may also be invaded by flying things, ie dragons, or those winged Norse men in Flash Gordon, and the area can be modified to accomodate them
+Telchar  (May 30) [18006] (ie, The Shire is now inhabited by crows, damn them, who are as big as the hobbits and attacking the chil'ens)
+Nfora    (Jun  2) [25219] some npc recognition for wall of bones, to cut down on flee spam
+Prettz   (Jun  2) [22403] it would be neat if powerstrike did something special, when charged, for laying on of hands (chance to heal more, etc)
+Telchar  (Jun  2) [ 3062] vial of grayish liquid has redundant spells, both true sight and sense life: remove sense life
+Prettz   (Jun  8) [15812] shou-lin art of the snake blows. if it does anything at all, it kills a mob at tick--right when i'm about to finish it off.
+Prettz   (Jun  8) [15812] (cont.) art of the snake could be changed to do other things or completely removed and replaced. see my post on the shou board for suggestions concerning other arts.
+Zechariah (Jun  8) [18009] Update 'help corpses'.  It says corpses sit on the ground for 7 real days; only 24 mud hours now
+Dimitri  (Jun 18) [18001] a fail message for cutthroat
+Natajn   (Jun 24) [19391] Shadow step is stupidly powerful.  To reduce it's power, make it so when Sd's step into death traps, and step fails, they die.
+Rincewind (Jun 29) [19302] That new DK weapon in Blackheart Keep, right? How about a little plot-driven hint or two about what it melds with, eh?
+Rincewind (Jun 29) [18008] So apparently you don't lose your eq the second you enter the void.  But everyone uses anti-void triggers these days! What of them, I ask? For sooth
+Zechariah (Jul  2) [25108] Ambrose Bierce wrote, "PRAY v. To ask that the laws of the universe be annulled in behalf of a single petitioner confessedly unworthy. " - A clever line that should be added to the help file "Pray"
+Tomi     (Jul  7) [18199] hey! a failing-cut-throat message! hugs.  now to nitpick. could you please either A) put a little sumfin in there explaining why you take 50 damage when failing of B) remove the self-damage?
+Jubei    (Jul 12) [ 1295] when not wearing anything about body, allow faerie players a chance to 'shrug off' bashes, trips, etc
+Jubei    (Jul 12) [ 1295] winged mobs already have this ability, just carry it over to players
+Jubei    (Jul 12) [ 1295] this would not be an overpowering change, given that 4dam, 50 mana, perma sanc, etc would be given up in exchange, and yet would prove useful to have (and a bonus to being a faerie)
+Prettz   (Jul 12) [19302] why not show the sl combat bonus ac (eg -50 at 50th, etc) as well as any other 
+Prettz   (Jul 12) [19302] (cont) "hidden" ac bonuses in score?
+Zechariah (Jul 14) [ 3600] A new class: Merchant.  They get 1x attack, and no spells.  It's a hardcore class!  The main attack is fence.
+Zechariah (Jul 14) [18147] New skill:  Rob you blind - it steals all your gold, and it blinds you.  Available only to merchant class.  Pinch's idea.
+Zechariah (Jul 14) [18147] Pickpocket - like steal, but only can take gold.  Available to merchant class and thief class.
+Zechariah (Jul 14) [18147] also, merchants are good at running away from combat (saving their cargo!) so they get escape
+Zechariah (Jul 14) [18147] Naturally, a merchant needs to be able to patrol his path on the way to market, and know if a threat lurks nearby.  Heightened senses can do just that for him.
+Khan     (Jul 24) [25275] About this whole corpse rotting thing. sometimes it's virtually impossible to get to our corpses in 24 ticks. so we have to bother you imms about it and you don't really care. how about a mob that summons corpses for 4m or so? thanks
+Khan     (Jul 24) [25275] etc. regarding what I was talking about with the corpse summoning mob. this is so you guys don't have to waste time on us mortals asking for you to get ouor eq back casuing us to lose levels etc. just would save a lot of time. I'd think.
+Hurkodo  (Jul 27) [20325] if you don't know how to guard, you should be told so rather than be allowed to guard someone
+Rakasha  (Jul 29) [19332] So I was just thinking of some things that would rock and I came up with this. how about implementnig a way for money to be useful, I mean after we max our chars and crap there's nothing money is good for anymore. I have a few ideas...
+Rakasha  (Jul 29) [19332] as far as the ideas concerning the way to make money useful...you could sell qps for gold, or you could sell renames for gold like for 25m or 20m , some people might pay it. or you could let us buy statuses and house again. maybe....
+Iiziri   (Jul 30) [ 2432] I was just sitting her thinking of more things that would rock and I came up with this. a shade/wraith type race for remort that could be like sds are because they could be ultra stealthy etc. prolly never implemented but just a thought...
+Rakasha  (Aug  2) [18007] so I was watching aina and yesuin try to get their corpses from loc solo the other day, and was thining about the 24 tick corpse rot, is it possible to get some feedback as to why this was implemented? space saver? what? please
+Rakasha  (Aug  2) [18007] So, they get punished for trying to explore the realm, by losing their eq all for what really? I dont know that's what i was hoping you could explain to us. they're almost delevelling themselves, prolly are. :Pahh well....
+Rakasha  (Aug  2) [18007] along the sames lines as that, the spell corpse summon, if you have more than one corpse you have to wait for the first to rot, and by the time it does your corpse with eq prolly will have rotted and you'll not have eq anyhow.
+Rakasha  (Aug  2) [18007] maybe making it so people could destroy their own corpses would help this, I mean that way they wouldn't have to wait for however long for empty corpses to rot, or whatever. I don't know if there's a  problem with that. but seems ok shrug.
+Prettz   (Aug  3) [22418] give shou-lin sweep a two round stun, or remove it and replace it with something more useful
+Prettz   (Aug  3) [38208] code in bards and psionicists, as well as 63.2 new races
+Zechariah (Aug  3) [18001] make quest games automated.  Someone goes to QFG room and types 'start quest' and then there's a poll given to everyone logged on to have a quest game or not.  If like 60% agree, or like 12 people...
+Zechariah (Aug  3) [18001] then whoever started the quest sets the teams and sets any variables (how many points to win, time limit, etc).
+Rakasha  (Aug  4) [18001] I was just wandering what was the idea with the dks being upped. paylord is doing massive amounts of damage 800+ with death touch through sanc. that just doens't seem right to me.
+Rakasha  (Aug  4) [18001] So I was just wondering if they were upped or not. doesn't seem right for them to be doing that much damage which is more than an assassin or a mage could ever dream of doing. err I shoulda prolly used note immortal
+Rakasha  (Aug  4) [18001] I don't know if this has been said or not yet, but don't cats see in the dark with glowing eyes? If that is the case why don't iizarti have infra. seems lie it would only make sense to me, and I'm sure everyone else things so too.
+Rakasha  (Aug  4) [18001] as far as teh warrior legend skill is concerned, it seems likes it isn't very balanced with the other legend skils . I mean dks get to be !stab and warriros get earthquake? the word is Woot?
+Zechariah (Aug  4) [18001] include blocking the message of containers opening and closing in 'nospam'
+Zechariah (Aug  8) [ 6990] You should be able to report while asleep
+Khan     (Aug 12) [18001] I was just wondering what the deal with charm corpse was. I charm a corpse, have it attack somethingand the thing that ist is fighting turns on me even though it doesn't have retarget resulting in my death over 50 times is it mean to?
+Khan     (Aug 16) [ 9090] I was just wondering what the deal with charm corpse was. I charm a corpse, have it attack something and the thing it is attacking turns on me even though it doesn't have retarget. is it meant to do that?
+Khan     (Aug 16) [ 9090] I was just wondering what the deal with charm corpse was. I charm a mob, have it attack something and the thing it is attacking turns on me even though it doesn't have retarget resulting in my death over 50 times now. is it meant to do that?
+Jubei    (Aug 24) [ 1298] for personal lockers - only allow that person to take items from the locker, everyone else should get a "No. It's not yours" or whatnot
+Jubei    (Aug 24) [ 1298] it should be a very simple check, which could just be copied from the 'open' code to only let certain people open the locker (ie, if it's your locker)
+Jubei    (Aug 24) [ 1298] likewise this should go for clan lockers - only clan members should be able to take items out
+Sratk    (Aug 27) [ 8807] Don't stun a player for trying to use a skill like trip, if the mob cannot be stunned.
+Prettz   (Sep 11) [ 4275] if you miss a combat skill (eg bash) on a sleeping mob... it wouldn't wake the mob up?
+Prettz   (Sep 16) [38209] make "find weakness" useful
+Pudortu  (Sep 16) [18061] welll......how bout once u get 1k qps, u get to become a race not accessible to anyone else?
+Pudortu  (Sep 16) [18061] cept the ppl with 1k qps :P
+Jubei    (Sep 24) [11703] let pulse gain stack with faerie mana gain, pulse heal with werewolf hp gain--these are rare enough spells that to have them is an achievement, and if they do nothing for you... blah
+Jubei    (Sep 24) [11705] let faerie players who aren't wearing anything about body 'brush off' bash, kick, trip, etc, like winged mobs do
+Jubei    (Sep 24) [11705] give all classes the full mana bonus from their intelligence, perhaps tweaking the base class mana gain
+Ajiel    (Sep 26) [19398] create enough auto-quests so that people see a good reason to re-remort.
+Morlock  (Sep 26) [18001] bs stunning the attacker and not the mob, is odd
+Morlock  (Sep 27) [18001] allow the renaming of mounts
+Prettz   (Sep 28) [18178] a message for when sneak runs
+Morlock  (Sep 28) [41101] Pudortu tells the group, ' wish mages could attach a certain thing to mobs to make non-portalable mobs portalable even if for only a tick'
+Morlock  (Sep 30) [ 8822] 50 qp= fast learn for 10 ticks!
+Pudortu  (Oct  1) [38609] arenarank should be shown on score!
+Pudortu  (Oct  3) [18001] there needs to be a segment of arena underwater
+Prettz   (Oct  3) [19303] when art of the monkey kicks in at the beginning of an encounter, why not have it also initiate combat--instead of the shou standing around like a dumbass after an attempted backstab
+Telchar  (Oct  7) [18083] add cleanse to the list of spells to be bought in the High Cathedral of Questing (at a cost of 2qps)
+Prettz   (Oct  7) [27417] in a keep as black as the vilest villian's soul there is a room, in this room there is a sword--complete that which was begun!
+Tomi     (Oct 17) [18139] Add a round or two of stun to a successful cut throat attempt.  I mean, the guy just got this throat cut.  He's bound to be slightly disoriented.
+Zechariah (Oct 18) [19311] a Cure Drunkenness spell.  And make drunkenness do something cool.  And make alcohol hard to find for cheap!
+Vine     (Oct 19) [19304] ok, kickass idea this time:
+Vine     (Oct 19) [19304] remember the "icewind dale" area regis made?
+Vine     (Oct 19) [19304] find it and put it back in
+Vine     (Oct 19) [19304] change the stats on some of the items, the difficulties of some of the harder mobes (drizzt, etc)
+Vine     (Oct 19) [19304] but it was a good area! :P
+Prettz   (Oct 28) [19303] rename the stances from defensive/neutral/offensive, to crab/snake/mantis. snake might be an exception. this corresponds with shou guild descriptions
+Prettz   (Oct 28) [19303] how about a message for when sneak runs
+Tomi     (Oct 30) [18001] take the *wait 1* off the thief guild exit guard Olga
+Morlock  (Oct 30) [ 6381] make shadow box more reliable
+Morlock  (Oct 31) [19304] don't let auto quest mobs assign a quest till it has repoped from the last person doing it
+Sawako   (Nov  3) [18008] There is no Barf emote!  "You barf all over."  "Vical watches Gangrel barf all over, and barfs all over."
+Eff      (Nov  6) [30583] Power should be renamed Mana in the score table, or the prompt (M) = Mana should be P.. 
+Prettz   (Nov  8) [18001] who color changes for elementals:: Fire: &01Ele&00, Earth: &03Ele&00, Water &04Ele&00, Air: remains &14Ele&00
+Prettz   (Nov  8) [18001] could possible play with stats, also, earth having higher con, lower dex, etc
+Prettz   (Nov  8) [22415] if you varied elemental stats per element, it might make them more appealing whilst also mainting the superiority of the demon race
+Prettz   (Nov  9) [19304] allow legends to set their legend flags: they'd still be in parentheses, still be "white," e.g. &014(Bamboozled)&00
+Morlock  (Nov 12) [27453] show if you are norec or nosum along with the player score
+Prettz   (Nov 25) [18001] up the quest eq (which noone will currently buy) to 6dam or something--4dam for shous isn't very appealing anymore, same goes for other classes
+Telchar  (Nov 27) [15744] when trying to summon a mob under your control, ignore their saving throws
+Eff      (Nov 27) [ 3079] Most players online today: on the who screen should have the time at which it happened too
+Prettz   (Nov 29) [19304] DKs should have a 47th-ish skill/spell corresponding to the SK's 'retarget'
+Telchar  (Nov 29) [38608] if teleported into a closed zone, re-teleport the player
+Eff      (Dec  1) [ 3079] make a channel to sing in
+Telchar  (Dec 13) [38608] helpfile on saving throws
+Prettz   (Dec 23) [18001] a message when sneak runs
+Prettz   (Dec 23) [31500] "Intelligence adds to mana ... all other [non casting] classes get half the bonus"
+Prettz   (Dec 23) [31500] Someone makes a faerie SD or an amara shou; the mana they'll get from their 23, 24 int will be fairly insignificant
+Prettz   (Dec 23) [31500] Change the half-mana bonus to non-casters!
+Zechariah (Jan 21) [18001] Allow player descriptions a longer length.
+Telchar  (Jan 23) [16026] let necros 'explode corpse' and 'consume corpse' PC corpses once they're empty
+Telchar  (Jan 23) [18030] add a check to questmasters who speak so that players who have completed their quests do not trigger the dialogue
+Prettz   (Jan 28) [18012] skill for thieves: kick me
+Prettz   (Jan 28) [18012] kick me: adds a flag to the person used on such that he/she is attacked by everything and laughed at by shopowners
+Telchar  (Feb  1) [13826] remove the stun given to a person cowered behind by a thief
+Tomi     (Feb  1) [13826] Hire some class-focused imms to overhaul some of the less cared about classes. Such as thieves. And solamic knights, since i'm not completely selfish
+Maestro  (Feb  1) [ 1204] We need new cool badgers instead of pigs.
+Prettz   (Feb  2) [19304] remove the half-mana-from int for non-casters penalty for amara, then, um, change me to amara and set my mana
+Nfora    (Feb  7) [18010] Get rid of paralyze scrolls, and make it so assassins can't envenom someone elses weapon. It should be for them only.
+Nfora    (Feb  7) [18010] Remove rescue from death knights. What does an evil knight care about his comrades?
+Nfora    (Feb  7) [18010] remove retreat from solamnic knights, they are too honourable to leave a fight.
+Nfora    (Feb  7) [18102] When a warrior bashes someone, the warrior should recover from the act first. it only makes sense.
+Nfora    (Feb  7) [ 2770] special remort questing items that enhance the races given abilities. more to follow.
+Nfora    (Feb  7) [ 2770] they could be orbitals, or even a new slot, designed for the race. such as fangs for a vampire. more to follow.
+Nfora    (Feb  7) [13447] back to fangs, they would increase the max hp fed to 100. for a werewolf it could be thicker hide giving an ac bonus. more...
+Nfora    (Feb  7) [ 2769] for faeries, something to increase blink rate or mana regen rate.... for undead claws that increase drain slightly
+Nfora    (Feb  7) [ 2766] there is a good one for each race, requireing a bit of thought.
+Kryte    (Feb 10) [43864] silence needs to be group castable
+Prettz   (Feb 11) [18001] change the otypus/script for city of amara to include water elementals :(
+Prettz   (Feb 11) [18001] at least we're closer to our fishfolk brothers than mages, for chris's sake
+Prettz   (Feb 15) [18001] shous have no good aligned 4dam rings, no good aligned 4dam legwear. THAT is why most shous go evil: because of a few CoH pieces. 
+Prettz   (Feb 15) [18001] the damage cap (200) should be removed from pve: a thief's or sd's backstab should actually live up to its 6x or 5x multiplier
+Prettz   (Feb 15) [18001] that's player versus environment, i have no problem with thieves/sds being capped in player versus player
+Prettz   (Feb 15) [19304] instead of changing divs (which people seem generally opposed to) have one imm do nothing but go through eq and look at alignment
+Prettz   (Feb 15) [19304] fuck, i'd be will to do it, if you'd like. just gimme a list of eq (at least higher end stuff people make currently make align decisions over)
+Prettz   (Feb 15) [19304] and i'll give you a list of changes to make to "balance equipment" or whatnot. i can do this is a mortal, i'm willing. lay it on me :P
+Prettz   (Feb 15) [19304] if you don't want people wantonly changing alignment restrictions, you'll probably need new areas to balance equipment
+Tomi     (Feb 23) [19315] make cloak the slot that stops faerie fly. 100% of faerie thieves wear two ladons, and they can't remove the about body without removing the cloak one
+Tomi     (Feb 23) [18001] make charmed mobs and summons recallable
+Orcan    (Feb 23) [18011] silence should be group castable
+Joan     (Feb 28) [ 6876] be cool if it was possible to pardon thieves like you can pardon looters
+Joan     (Feb 28) [18001] alarm clocks, they wake you up on the tick
+Tomi     (Mar  1) [ 6887] make greased pigs !track
+Morlock  (Mar  3) [ 1343] since vamps feed off blood, feed should also take care of their hunger and thirst needs
+Tomi     (Mar  7) [19964] give, i dunno, giants forge. or one of the remort races anyway
+Augustine (Mar 13) [30628] i'd like to see breathe weapons each have a unique ability, for example gas could last a tick in a room, causing small amounts of damage. 
+Nfora    (Mar 15) [23233] melange potion in arrakis, gives the ability to predict the future, allowing you to dodge attacks frequently
+Tomi     (Mar 15) [23220] allow people who've already remorted to re-remort at any level so they quit whining about how their race sucks until they get it changed
+Vine     (Mar 16) [19076] skin/leatherworking, mining/weapon or armmor forging, etc
+Octavius (Mar 19) [ 6437] air elementals should sneak at all times
+Octavius (Mar 19) [ 6437] and be hidden at all times cept for combat
+Augustine (Mar 19) [43460] undead should be !poison
+Augustine (Mar 20) [ 6833] give poison barb a chance to blind. Same concept as envenom/nox skin.
+Augustine (Mar 23) [ 3982] the higher your intelligence the faster you should regen mana
+Vine     (Mar 24) [12883] animal mobs summoned through ranger's "call of the wild:" give em infra for pete's sake
+Kryke    (Mar 25) [43813] qps but automated mudwhores
+Wulfgar  (Mar 25) [20097] who -t[eam] to see your team
+Aidan    (Mar 26) [ 1204] put in Syslog messages for trigedit saving, and add "Trigedit needs saving" to the "olc" command
+Drak     (Mar 28) [43422] I think someone in the leader spot of the group should have the ability to silece memebers.
+Nfora    (Mar 29) [18001] replace aggro messages with rp friendly ones, so that mobs curse to our REAL gods instead of their own fake ones
+Oblena   (Mar 31) [19315] Make it so necros can't solo Txachamitxchual!  Make their charmed corpses fall apart when they die or something.
+Tomi     (Apr  1) [19315] make all recall scrolls !sell
+Nfora    (Apr  2) [18001] a command to show who you are currently guarding.
+Regis    (Apr  3) [18001] make it so that when a n00b tries to steal from a charmie and the charmie kills them, the master doesnt lose 19mil
+Dvorak   (Apr  6) [18001] when blind, sneak should be off, due to you stumbling around and bumping into things
+Nfora    (Apr  8) [22519] have berserk increase the performance of things like undead drain and vampire feed.
+Nfora    (Apr  8) [40185] base the chances of a disarm being to inventory or ground on dexterity
+Nfora    (Apr  8) [20097] replace the current quest eq with items that are only slightly above the normal top eq, and have them go for 100-200qps.
+Jamm     (Apr 16) [ 1721] make clocks that wake you up if you're asleep
+Augustus (Apr 19) [20097] expose shouldn't let the sd know they have been exposed.
+Azrael   (Apr 20) [18001] would be nice if noxious skin was level dependant like envenom
+Sawako   (Apr 22) [38208] Make the arena !track
+Phantasm (Apr 30) [19307] d@mned is a curse word. and it says d@mned when you get blinded
+Phantasm (Apr 30) [19307] instead of you are blinded, id like it to say "your dad gummed blind" and at the end I'd like it in small type to say idea suggested by phantasm
+Prettz   (May  3) [35438] the octypus in hidden city of the amra? make him give out more than one key
+Prettz   (May  3) [35438] also, make him give it to water elementals, too
+Pudortu  (May  4) [18001] it took wulfgar only 25 qps to remort
+Pudortu  (Jun  2) [18102] art of flower should have a stun on it!
+Deception (Dec  9) [ 6874] dust pouch for theives
+Zechariah (Dec 11) [18102] Make it so when items load, they load with stats randomly between 0 and what was set as max
+Zechariah (Dec 11) [18102] Atreyu tells you, 'there's this one mob on AoW (what you are playing) called mattiew' Atreyu tells you, 'you attack him and kill him he's a mage so 
+Zechariah (Dec 11) [18102] you have a chance oFF killing his (illusion) and you keep on killing his (illusions) until you reach the real mattiew'
+Zechariah (Dec 12) [18102] Make it so when you have no vigor you can still walk, you JUST TRAVEL REALLY SLOWLY
+Samedi   (Dec 16) [19302] implement a small amount of damage or vigor loss to rub
+Morlock  (Dec 20) [ 2009] the stun on shadowmist is freakin insanely lame
+Naosis   (Dec 29) [ 6289] have taken somethin better too :P
+Naosis   (Dec 29) [ 6833] have got you to pardon me and went back to the same area :P
+Pudortu  (Jan  2) [19385] amara should be the best fish catchers
+Morlock  (Jan  9) [ 2362] make poison disease and curse do something useful
+Joo      (Jan 11) [18102] still do another 3 or 4 paragraphs to that. but that gives you an idea
+Joo      (Jan 11) [18102] add alot more but its your room just giving you ideas :p
+Geronimo (Jan 12) [18001] say so.. she needs more experience but nothing we cant give her.
+Naosis   (Jan 15) [18102] have been 50 this weekend otherwise!
+Garth    (Jan 15) [19909] rather die and get my eq faster then scatter corpses
+Morlock  (Jan 16) [18102] make poison castable on food and drink containers
+Bile     (Jan 20) [19302] I think warriors should receive the skill block, since they are combat oriented as well.
+Morlock  (Jan 28) [18001] make hallucinogenig drugs on raven, and when you take them you hallucinate in the game
+Morlock  (Jan 28) [18001] could be a spell too
+Ron      (Jan 29) [18102] have to 50 tan all over again
+Rika     (Jan 30) [ 3003] Bastard :P  Sure, hit me when I walk away..
+Feya     (Feb  4) [18102] Craklyn -- Stop implementing code that sucks.
+Surgio   (Mar 14) [18102] there should be a way of spending qps to unlearn skills and get 3/4 of the practices back from them
+Surgio   (Mar 16) [18102] Purge Adrenaline for looting lowbies and picking on people who are either afk or linkless
+Sawako   (Mar 16) [18102] Put in a timer for looting. (Makes you wait X time before Adrenaline loots somebody else)
+Surgio   (Mar 21) [ 1342] duration of dance of dreams should be based on the fact of how well one knows sleep
+Enigmatic (May 20) [18102] have a qp fee to have eq uped to max stats
+Pudortu  (May 24) [18102] If you regenerate faster...you should age faster as well!
+Ebeian   (Jun  3) [18102] u wanted this one u can have it
+Schism   (Jul  7) [18102] make the word "shadow" in grey for shadow box instead of white...looks better and it'd be nice to notice when it lands
+Gaius    (Jul 10) [19803] idea board. board for ideas. east of samsera board.
+Deahtop  (Jul 12) [18090] tabard/cress blade/tunic pls
+Deahtop  (Jul 12) [18090] tabard/cress blade/tunic pls
+Yesuin   (Jul 16) [18102] the garden horror should 3x charge/mutilate and the acid thorn should be forge'able:(
+Yesuin   (Jul 16) [18102] rangers need a skill called hawk or eagle eye which has the same use as ranged shadow vision:(
+Gaius    (Jul 19) [34106] let's see YOU rule the most powerful nation in the world.
+Gaius    (Jul 19) [34137] because he's a narcisist.
+Sly      (Jul 25) [20097] need "reply" command, type "reply (message) and it gives the message to the last person who sent you a tell. would make talking with immortals easier
+Morlock  (Jul 27) [18001] vials of blood for sale for vamps
+Sawako   (Aug  2) [18199] Reduce the stun on fists from 3 rounds to 2.  It's pointless if it stays as it is now.
+Gaius    (Aug 26) [18102] quest where items are scattered randomly throughout mud like the baseballs, different prizes for trading in more of them.
+Gangrel  (Aug 26) [18102] Since there are meta items for STR, INT, ect.. Why not have hard to get items that can meta DAM, HR, HP, MANA, VIG, ect?
+Enigmatic (Aug 31) [18006] succubus shouldnlt be gates what mage needs a mage  mob none
+Malevolent (Sep 18) [37801] rub should be reinstated but only removing dust--because dust sucks ass.  that is all.
+Zechariah (Sep 27) [18102] Make detect invis, infraviision, and sense life toggleable instead of duration-based
+Zechariah (Sep 27) [18102] It's just a senseless thing to have to recast every hour or whatever, and it makes it inconvenient when people who are hard to see send you messages
+Zechariah (Sep 27) [18102] You can even decrease the regen rate of someone's manaif they keep the spell toggled on
+Zechariah (Sep 27) [18102] Other spells like sneak could also be given such functionallity
+Zechariah (Sep 27) [18102] Sneak could be made so err, lost train of thougth and on telnet
+Enigmatic (Oct  2) [ 9763] give quests more time
+Malevolent (Oct 19) [19399] muting shouldn't mute clansay.
+Pudortu  (Oct 23) [19399] u can second berserk if a warrior berserks, get 100 hps, then berserks again after exactly 2 ticks...cheating!
+Pudortu  (Nov  3) [18102] i think u are missing Death from the wizlist imm list :(
+Zechariah (Nov 18) [18102] If my stomach is grumbling so loudly, why isn't it echoed to the whole room?  I guess it's not so loud after all...
+Zechariah (Dec 15) [23384] Craklyn is an orgasm in your mouth.
+Zechariah (Dec 17) [18102] Write a help file for release, and just put "see also" under fireball instead of the "to release the fireball..."
+Enigmatic (Dec 21) [10899] don't be so stingy on quest time limits wizen is ridiculous
+Enigmatic (Dec 29) [18102] para lasts too long having an assassin myself it gives them a very unfair advantage
+Lestat   (Dec 31) [18102] put norecal on toggle list please
+Praescius (Jan  1) [ 2801] There ought to be a disadvantage to infravision.
+Adrenaline (Jan  1) [23398] this room was said to be "off-limits" but is still open, what gives...
+Adrenaline (Jan  1) [23398] make this room !track like it should be, and thanks bupp
+Pudortu  (Jan  1) [18102] if we can blink out of backstab, why cant we blink out of stuff like kick and bash?
+Pudortu  (Jan  4) [18102] classes should not be able to stun lock other classes. it is stupid.
+Enigmatic (Jan  5) [ 1402] make character strength in numeric values it would make calculations so much more practical
+Pudortu  (Jan 11) [18102] can we make it so mounted dks arent !summ? makes them able to loot anyone and get away with it easily
+Zechariah (Jan 11) [18102] Magic missile is a tool for mages to better hunt down players, if 
+Zechariah (Jan 11) [18102] they're hunted or carrying a flag, you can magic missile them anywhere in the same zone.  Add this to help files.
+Enigmatic (Jan 14) [ 2727] have more eq with abilities that do something 
+Enigmatic (Jan 14) [ 2726] like say having some boots with hidden blades that sometimes come out and cause extra damage during battle
+Enigmatic (Jan 15) [27415] make infra pots in shopws
+Lestat   (Jan 20) [17439] an auto corpse destroy toggle
+Pudortu  (Jan 21) [18102] i think that if a shou blocks a db, it should honestly just stun him for a round...makes sense
+Enigmatic (Jan 21) [18102] make sing like a say comand
+Enigmatic (Jan 22) [18063] allow for meta at a reduced gold cost for an increased qp cost
+Enigmatic (Jan 23) [18102] have characters associated with a base account then people can't trade characters
+Nfora    (Jan 25) [18045] Have brews and scribes that explode cause damage to all players and mobs in the room.
+Enigmatic (Feb  5) [18102] make the golden bracelet from Olympus visually different to the one from dis 
+Enigmatic (Feb  8) [18001] for the love of god wizens have such a stingy time limit
+Medicus  (Feb  8) [18102] Socks support to allow more people to mud more often.
+Pudortu  (Feb  9) [38603] If you recite a scroll for a spell that your class doesnt naturally get, then it should have a small mana cost!
+Pudortu  (Feb 17) [18102] rangers get skill PHERMONES : works at a max distance of 2 rooms away, attracts all mobs that track/wander (lvl 50 max) to the room with the scent 
+Pudortu  (Feb 17) [18102] setback to PHERMONES : it could attract mobs that the ranger didnt want to attract :(
+Pudortu  (Feb 17) [18102] Scrolls/Potions: When a player quaffs/recites something that isnt natural to his class, it should cost like a very small mana charge...maybe 5 mana?
+Pudortu  (Feb 17) [18102] Detect Magic : Detect magic increases spell dam by very small amount (5%?)
+Enigmatic (Feb 19) [18102] make some mobs magic only attackable i mean hay theres lots of no magic rooms with big ass mobs in them
+Nfora    (Feb 19) [34097] Mob areas should affect other mobs in the room.
+Kalessin (Feb 27) [27453] Give different breath weapons extra effects
+Tainu    (Mar  5) [19304] code in a fail message for feed? like - "You attempt to feed off a large spider but bite your tongue instead! Ouch!"
+Pudortu  (Mar 13) [18102] ARENA COMMAND - see who's in arena
+Nfora    (Mar 17) [12048] Prevent vampires from feeding on other vampires or undead, and prevent undead from draining off of other undead or vampires.
+Pudortu  (Mar 23) [34701] doorbash should work on bonewall!
+Pudortu  (Mar 23) [18176] block should stun for 1 round
+Pudortu  (Apr  6) [18102] MAGES should be able to identify others
+Malevolent (Apr  6) [23330] take flashbang out because its a nuisance on trials thanks
+Arazi    (Apr  8) [ 1656] items stack so if u have 50 of same scroll, it would be list as 50 scroll in inventory instead of 50 scrolls one by one
+Arazi    (Apr  8) [ 1600] able to switch items by wear command instead of removing 1st
+Dynamik  (Apr 19) [ 3003] castrate zerik so that he may never reproduce again.
+Pudortu  (Apr 20) [ 1401] doorbash should work on bonewall
+Pudortu  (Apr 20) [18102] doorbash should work on bonewall
+Pudortu  (Apr 21) [18102] Death Knights should be summonable when mounted...it's really unfair when u get looted by them
+Sawako   (May  1) [22263] How about making stuns never fail if the victim is sleeping or knocked out?  Friggin' retarded, it is.
+Malevolent (May  7) [18102] unmute malevolent!!!
+Belgarath (May  7) [18102] deem belgarath sexiest man alive.
+Lokki    (May  7) [18102] Delete whoever uses the idea/bug command after me.
+Aleister (May  7) [18102] make karias heterosexual
+Lokki    (May  8) [18001] Mirt can be afk less. I feel that this would greatly improve raven as a whole.
+Sawako   (May  9) [22264] Fix second attack for shous!
+Malevolent (May 12) [19304] unmute malevolent because hes cool
+Pudortu  (May 16) [18100] shou art of flower should have a stun for atleast one round!
+Pudortu  (May 16) [18102] shadow dancers should have the ability to make a room have fog in it, if only for one tick
+Lokki    (May 16) [19804] Keep tsunami how it is right now(water elemental's area spell) only when casted, it sets the room underwater for 1 tick.
+Lokki    (May 16) [19804] Fire elementals should be perma flameblade. And possibly inflicted with the blink spell
+Lokki    (May 16) [19804] Earth elemental should be perma ward/-50 ac bonus
+Lokki    (May 16) [19804] air elemental should be sneak/fly
+Arazi    (May 19) [18102] save maxmana after tick, so if u wear eq and max  then u wont lose mana if new eq is less mana
+Pudortu  (May 22) [18001] if a dk flees while in midcombat, it should dismount him
+Malevolent (May 23) [18102] OK LISTEN IM MUTED AND IM SORRY UNMUTE ME
+Kalessin (May 25) [19399] Vet mages should get a spell to create a perma +age potion as well as their -age one.
+Pudortu  (May 25) [18102] Where spelldam has been redone, we should be able to buy +spelldam with quest eq since it isnt on there from the previous way spelldam was
+Malevolent (May 28) [18001] i need help asap please please please
+Malevolent (May 28) [18001] i need help asap please please please
+Malevolent (May 28) [18001] i need help asap please please please
+Malevolent (May 28) [18001] i need help asap please please please
+Malevolent (May 28) [18001] i need help asap please please please
+Malevolent (May 28) [18102] Could really use some immortal assistance.
+Malevolent (May 28) [18102] its about the rollback for characters thing
+Malevolent (May 28) [18102] i guess it rolled back too far to right before i got my divs and now i don thave the cube or divs
+Malevolent (May 28) [18102] did u leave me mr immortal
+Malevolent (May 28) [18102] are u in the same room with me or not cos i dunno what channel to talk on
+Malevolent (May 28) [18102] okay, forget it.  ill wait til another immortal comes along.
+Malevolent (May 28) [18102] nothing was done, there is just an error.
+Malevolent (May 28) [18102] the rollback caused things to be out of place.
+Antioch  (May 28) [18102] it must be nice, to have the whole world crap on you
+Antioch  (May 28) [18102] yer fucking high on yourself
+Pudortu  (May 30) [18031] Shou block should stun for one round.
+Arazi    (May 31) [30403] tick command, informs you of tick
+Arazi    (May 31) [30633] con and int affect your normal hps and mana
+Pudortu  (Jun  2) [43401] there should be a mob you can summon just to make a room a regen room!
+Pudortu  (Jun  3) [18102] babaus are the most useless gate atm, please make them do more damage or something b/c all others are much better :(
+Kalessin (Jun  3) [19307] revamp the drac wings bonus to make it worth not using something about
+Dynamik  (Jun 10) [ 3003] make me an immortal so i can wreck shop.
+Pudortu  (Jun 13) [18102] shous are overpowered :(
+Pudortu  (Jun 18) [18102] PLEASE go with tomi's suggestion on the board...we have lots of newbs start up but they need just some help with eq boost
+Guard    (Jun 21) [18102] remove site ban and mute on guard
+Pudortu  (Jun 29) [19968] delete taneeo for being gay.
+Pudortu  (Jul  2) [18102] ranger spell idea - LEECH, leeches hps for a tick, max of 60 hps? if successful, doesnt start battle
+Pudortu  (Jul  7) [18102] ball of light should be worn on orbital slot!
+Pudortu  (Jul  7) [18102] detect poison and resist poison should work against nox skin!
+Pudortu  (Jul 10) [19955] the whole lvl 50s dodging doombolt happens waaay too often, seriously, maybe if it was 50% it'd be more reasonable
+Pudortu  (Jul 10) [19954] i meant lvl 51s for that last idea
+Pudortu  (Jul 27) [18102] Dont make thieves too powerful :(
+Sawako   (Jul 30) [19385] Make a psychological profile of Malevolent.
+Pudortu  (Aug  5) [18102] Gangrene - mage spell - you choose what it does mighty imms :P
+Pudortu  (Aug  5) [18102] curse could reduce 1 damroll for every 10 levels the mage has
+Sawako   (Aug  5) [18102] Create a few DKs, max their stats, remort them to Demon.  Then, advance them to Lv.50 a few times.  Find an average HP, and see if it's near 1024.
+Pudortu  (Aug  6) [18102] make malevolent an imm
+Pudortu  (Aug  6) [18102] Disarming a shou should make that shou lose an attack that round
+Pudortu  (Aug  6) [18102] or remove their gloves!
+Pudortu  (Aug 13) [19399] once again, malevolent has abused the flaw with dk's being !summ when mounted
+Dash     (Sep  3) [ 1250] we should get a new test that can result in 3 different tests.
+Prettz   (Sep  8) [18061] Every remort race should have infra-vision.
+Prettz   (Sep 16) [18102] 1) all remorts should have infra-vision 2) elementals should have 20 dex
+Prettz   (Sep 16) [18102] 3) dexterity should have greater, exponentially increasing affects on a) hitroll and b) armor (which should do more, in general)
+Tenx     (Sep 17) [18102] rahter get my day overwith so i can get on with it

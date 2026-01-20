@@ -1,0 +1,212 @@
+#38300
+board bulletin~
+the Cleric Guild Idea Board~
+The board for ideas on the Cleric's Guild stands here.~
+NOACTDESC~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38301
+board bulletin trial highpriest~
+the Board of the HighPriest~
+The trial board of the HighPriest stands here.~
+NOACTDESC~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38302
+pedestal~
+a pedestal~
+An ornate pedestal stands here.~
+NOACTDESC~
+15 2 0 0 0 0 0 0 0
+100 15 -1 0
+1000 0 100
+E
+pedestal icon~
+   This pedestal holds the Guild Icon, worn only by the proven master of their
+guild.    
+~
+B
+0 0 0 0
+#38303
+icon highpriest faith guild_item~
+Icon of Faith~
+A small glowing orb spins about aimlessly here.~
+~
+11 8379979 32 0 0 65537 0 0 0
+0 0 0 0
+3 100000 2610
+E
+icon faith highpriest guild_item~
+This item belongs only to that who holds the title of Master for their guild.
+~
+A
+12 50
+A
+24 -5
+A
+20 -5
+A
+22 -5
+A
+23 -5
+A
+3 5
+B
+0 0 0 0
+#38304
+diagram map guild~
+the clerics guild map~
+A diagram of the clerics guild is set in bronze here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+2 3 0
+E
+diagram map clerics church~
+THE CHURCH GUILD OF CLERICS
+
+            ?M? 
+             x                 N   
+             L                W*E
+             |                 S        
+         J-x-K       G          
+             |       |         
+         I-x-D---E---F--H 
+             |       |     
+             |       H 
+             |
+         C-x-B---YOU ARE HERE 
+                      |
+                Guild Entrance
+
+LEGEND| x-doors, B-meeting room, C-dark halls (WARNING - Good CL
+        should NOT enter here), D-hallway, E-training,F-room,
+        G-brewing chamber,H-practice rooms, I-vault, J-shop,
+        K-Main Regen, L-Trial of Highpriest, M-Trials
+~
+B
+0 0 0 0
+#38305
+altar dark black~
+the dark altar~
+A dark bloodstained altar lies here, a testament to the Gods of evil.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+500 1 0
+E
+altar dark black evil~
+The altar is quite large, about eight by four feet and is stained with
+the blood of the latest sacrifice. It is at this altar that those clerics
+who have chosen to worhip the gods of evil gather and offer their dark
+prayers.
+~
+B
+0 0 0 0
+#38306
+fountain holy water~
+the fountain of holy water~
+A ornate fountain spews forth holy water here.~
+~
+23 0 131072 0 0 0 0 0 0
+20000 20000 15 0
+5 700 0
+B
+0 0 0 0
+#38307
+mace cleric steel~
+a steel mace~
+A heavy steel mace lies forgotten here.~
+~
+5 4739328 32 0 0 8193 0 0 0
+0 4 4 6
+5 750 60
+B
+0 0 0 0
+#38308
+holy symbol~
+a Holy symbol~
+A golden cleric's holy symbol lies here, glowing softly.~
+NOACTDESC~
+1 8312065 131616 0 0 16385 0 0 0
+0 0 -1 0
+5 1000 1012
+A
+12 3
+B
+0 0 0 0
+#38309
+grey linen robe~
+a grey linen robe~
+A robe of grey linen lies here in a heap.~
+~
+11 6570240 0 0 0 9 0 0 0
+0 0 0 0
+3 900 50
+A
+4 1
+A
+17 -4
+B
+0 0 0 0
+#38310
+unholy symbol~
+a Unholy symbol~
+A onyx unholy symbol lies here, pulsating.~
+~
+11 8311554 32 0 0 16385 0 0 0
+0 0 0 0
+5 1000 15
+A
+17 -3
+B
+0 0 0 0
+#38311
+vial potion glass~
+a glass potion vial~
+A finely crafted vial of glass lies here.~
+~
+17 0 0 0 0 16385 0 0 0
+1 1 0 0
+7 30 10
+E
+vial potion glass~
+   This finely made vial of glass can be used by gnomes to brew powerful
+potions in.  But be careful, the glass is very delicate!    
+~
+B
+0 0 0 0
+#38312
+armor mind blue metal~
+the armor of the mind~
+A suit of armor made of a light blue metal lies here.~
+~
+9 75485256 4194336 0 0 9 0 0 0
+12 0 0 0
+45 40000 1850
+E
+armor mind blue metal~
+The armor is made of no metal you have seen before.  It is light blue in
+colour, with a web of dark green lines crossing over it in an intricate
+pattern.  It is surprisingly light for its size, yet it remains impervious
+to efforts to scratch or bend it.
+~
+A
+18 2
+A
+19 3
+A
+12 50
+A
+13 20
+A
+33 47
+B
+0 0 0 0
+$~

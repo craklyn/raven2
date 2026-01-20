@@ -1,0 +1,103 @@
+#33190
+Steves Christmas quest~
+Oh do please get me some flour so I can max Santa's Christmas Cake.
+~
+fetch some flour.
+~
+30 50 8388608 200 15 15
+G 33190
+O OBJ 33190
+R GOLD 50000
+Thank you.  Here is some money for your troubles.    
+~
+#33191
+STeves xmas 2~
+My My, I could really use some eggs for this cake.
+~
+Eggs, you must get eggs!
+~
+30 50 8388608 100 15 15
+G 33190
+O OBJ 33191
+R SPELL 138
+Thank you oh so much, I still need some more things. Come back when you have time.
+This will help you recover from your trip.
+~
+#33192
+Steves xmas 3~
+My goodness I didnt have time to shop I will need some butter to make the
+frosting.  What is a cake without frosting?    
+~
+Banzai! Butter!
+~
+30 50 8388608 100 15 15
+G 33190
+O OBJ 33192
+R EXP 100000
+Thank you oh so much, you are being terribly helpful and I do so appreciate it.
+Oh what a pleasant experience, for us both.
+~
+#33193
+steves xmas 4~
+Could you find me some sugar to make the frosting with dearie?
+~
+Sugar oh sweet sugar.
+~
+30 50 8388608 100 15 15
+G 33190
+O OBJ 33193
+R QP 3
+This frosting will be the BEST ever.
+Will 3 quest points suffice as reward?
+~
+#33194
+steve xmas 5~
+Heavens, in my rush I have dropped my pan and dented it, unacceptable. Could you find me another perhaps?
+~
+Pan, a mere baking pan.
+~
+30 50 8388608 100 15 15
+G 33190
+O OBJ 33194
+R GOLD 30000
+Thank you, this should help repay you, I think I may still need some more ingredients.
+Here is some money to repay you.
+~
+#33195
+steves xmas 6~
+I have decided, it shall be chocolate cake. Could you perhaps find me some chocolate to flavor my cake with?
+~
+Melted Chocolate.
+~
+30 50 8388608 100 1 15
+G 33190
+O OBJ 33195
+R QP 2
+Thank you again, you are so kind. There seems to be something still missing.
+Here are 2 quest points for this delicious chocolate.
+~
+#33196
+steves xmas 7~
+Oh MY, a cake without pretty sprinkles! This will JUST not do! Please oh please, could you get me some sprinkles so I could finish my cake? 
+~
+Sprinkles to top the cake.
+~
+30 50 41943040 100 1 15
+G 33190
+P 33190
+P 33191
+P 33192
+P 33193
+P 33194
+P 33195
+O OBJ 33196
+R OBJ 33197
+&08M&09e&08r&09r&08y&00 &08C&00h&08r&00i&08s&00t&08m&00a&08s&00
+~
+R OBJ 33198
+&08M&09e&08r&09r&08y&00 &08C&00h&08r&00i&08s&00t&08m&00a&08s&00
+~
+R OBJ 33199
+&08M&09e&08r&09r&08y&00 &08C&00h&08r&00i&08s&00t&08m&00a&08s&00
+~
+$~

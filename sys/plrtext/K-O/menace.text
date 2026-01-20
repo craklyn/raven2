@@ -1,0 +1,43 @@
+tit title &06to&00 &09s&00&03O&00&09ciet&00&03D&00
+cs cast 'summon corps' $*
+ff cast 'soul pierc' $*
+aa cast 'charm corpse' $*
+f cast 'soul pi' $*
+wake wake;stand
+charm cast 'charm corpse' $*
+blind c 'blind' $*
+embalm c 'embalm' $*
+wraith c 'wraith'
+sp c 'soul pie' $*
+life c 'life drai' $*
+ed cast 'energy drain' $*
+sil cast 'silence' $*
+cc cast 'consume corpse' $*
+fly cast 'fly' $*
+bl cast 'blind' $*
+invis cast 'invis' $*
+pois cast 'poison' $*
+rp cast 'resist poison' $*
+nox cast 'noxious skin' $*
+sum cast 'summon' $*
+rune cast 'create warding'
+bone cast 'bone wall' $*
+deb cast 'debilit' $*
+slow cast 'slow' $*
+shie cast 'shield' $*
+infra cast 'infra' $*
+sense cast 'sense life
+entomb cast 'entomb' $*
+age cast 'age' $*
+emb c 'embalm' $*
+ent c 'entomb' $*
+shield c 'shield' $*
+soul cast 'soul pierc' $*
+silence cast 'silence' $*
+consume cast 'consume corpse' $*
+ward cast 'create ward'
+qw drink foun
+pp get all all.cor
+gs gs &06$*&00
+en ca 'energy drain' $*
+di cast 'det inv' $*

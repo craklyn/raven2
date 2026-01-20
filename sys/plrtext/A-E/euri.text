@@ -1,0 +1,38 @@
+g c 'heal' $*
+h c 'revive' $*
+a assist
+ar cast 'armor' $*
+r cast 'revive' $*
+heal c 'heal' $*
+out emote is &25&19is out of mana&00
+cleanse cast 'cleanse' $1
+sum c 'summon' $1
+wa wake;;stand
+rate is189
+regen c 'regen' $*
+fort c 'fort' $*
+mob c 'assist'
+harm c 'harm' $*
+sanc c 'sanc' $*
+fly c 'fly' $*
+armor c 'armor' $*
+di c 'detect invis' $*
+ward c 'ward' $*
+word c 'word' $*
+sense c 'sense life'
+infra c 'infra'
+saga c 'saga' $*
+bless c 'bless' $*
+rc c 'remove curse' $*
+gte gte &14$*&00
+bli c 'blind' $*
+rp c 'rem para' $*
+forgeeq rem veil;wear stud;remove jewel;wear shif;rem wing;wear chaos;rem scept;hold hammer;rem heave;wear coral
+maeq rem stud;wear veil;rem shif;wear jewel;rem chaos;wear wing;rem hamm;rem hamm;wie 2.hamm;hold sce;rem coral;wear heaven
+' get all all.corp
+cl cast 'cleanse' $*
+cb cast 'cure blind' $*
+bl cast 'blind' $*
+clan clan &10$* &11
+reg c 'regen' $*
+remc c 'remove curse' $*

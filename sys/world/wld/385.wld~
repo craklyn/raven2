@@ -1,0 +1,451 @@
+#38500
+The Death Knight's Guild of Samsera~
+   This is the Credit's room.  Enki started this zone on 2/8/03.  Kurse wrote
+most of the guild halls, so this one will look a bit different.  Soth took over
+the project on 11/23/03 and wrote his own version of the guild.  Medit save 550
+included the mobs 04, 06, and 07 to all be potential questmasters with
+different possible objectives.    
+~
+385 1024 0 0 0 0 255 0
+S
+#38501
+Standing before Hellfire Keep~
+   To the north, you can see Hellfire Keep, the Death Knight stronghold.  The
+dark stone walls are adorned with huge, black standards bearing the symbols of
+evil gods.  The Death Knights follow a strict code of combat, much like the
+Solamnic Knights.  The Death Knight Code, however, is founded on the ideals of
+evil and cruelty.  Only the blackest hearted villains dare enter this forsaken
+place.    
+~
+385 33412 4 0 0 12 255 0
+D0
+Before the gates of Hellfire Keep.
+~
+~
+0 0 38502
+D2
+~
+~
+0 0 18028
+E
+block_dir~
+north
+~
+E
+block_msg_room~
+$N kicks $n in the face, sending them staggering backwards. Duh.
+~
+E
+block_msg_char~
+$N boots you in the head and knocks you to the ground.
+~
+S
+#38502
+Before the gates of Hellfire Keep~
+   Black banners bearing the symbols of dark deities wave in the breeze, young
+knights in black plate armor salute you, and prisoners locked in the dungeons
+scream in agony.  You are home.  This is Hellfire Keep, bastion of the Death
+Knights in Samsera.  From the black stone walls of their keep, the Knights
+defend the town from Elf incursions and Izarti treachery.  While the large,
+reinforced gates of the keep are open wide, do not underestimate the defenses
+of this fortress.  Those walking around the keep are armed to the teeth with
+foully enchanted weapons.  Each knight stands ready to give his life to defend
+Hellfire Keep.
+~
+385 1081856 4 0 0 12 255 0
+D0
+The gatehouse.
+~
+~
+0 0 38503
+D2
+~
+~
+0 0 38501
+S
+#38503
+The gatehouse~
+   You stand in the gatehouse of Hellfire Keep.  The keep is protected by metal
+outer gates, a portcullis, and then reinforced inner doors.  Foolish indeed is
+the person who attempts to assault the keep.  To the north, is the inside of
+the keep.  To the east is a staircase leading to the southern tower of the
+keep.    
+~
+385 33288 4 0 0 0 255 0
+D0
+~
+~
+0 0 38507
+D1
+~
+~
+0 0 38504
+D2
+~
+~
+0 0 38502
+S
+#38504
+Bottom of South Tower~
+   You are at the bottom of the stairs leading to the keep's southern tower.  
+From there, the Knights can defend the keep from intruders.    
+~
+385 33288 4 0 0 0 255 0
+D3
+~
+~
+0 0 38503
+D4
+The top of South Tower.
+~
+~
+0 0 38505
+S
+#38505
+South Tower~
+   You are now in the Hellfire Keep's South Tower.  From here, the Death
+Knights can repel attacks on their keep with both arrows and foul magic.  You
+see quivers full of barbed arrows lining the walls.  With sorcery such as Black
+Dart at their disposal, Death Knights hardly have a use for conventional
+arrows.  The roof of South Tower serves as the perch of Emertor, the Crypt
+Dragon.  From the South Tower, Emertor vigilantly watches the gates of Hellfire
+Keep and disposes of intruders.    
+~
+385 33288 4 0 0 0 255 0
+D2
+Arrow slits allow you to fire on intruders at the gate.
+~
+~
+0 0 38517
+D5
+Bottom of South Tower.
+~
+~
+0 0 38504
+S
+#38506
+The Death Knight stables~
+   While not all Death Knights fight mounted, some are known to go to war
+riding powerful horses.  The greatest champions of the dark gods are given
+hellish nightmares by their patron demon to ride in battle.  The stables are
+where the knights may have their warhorses tended to while they are not needed.
+You notice both sacks grain for the warhorses and a dismembered elf for the
+nightmares.    
+~
+385 33288 4 0 0 0 255 0
+D1
+~
+~
+0 0 38507
+S
+#38507
+Inside the Keep~
+   You stand inside the protective walls of Hellfire Keep.  A dirt path leads
+north to the actual keep.  To the west, you see the stables of the knights.  
+The slight scent of sulfur comes from stables.  To the east, you see an evil
+temple built in a gothic cathedral style.  Death Knight lore says that the
+pitch-black stone of the temple was a gift from Orcus.  Unholy runes glow
+faintly above its entrance.    
+~
+385 33280 4 0 0 12 255 0
+D0
+The heart of the keep.
+~
+~
+0 0 38511
+D1
+The Death Knight's dark temple.
+~
+~
+0 0 38508
+D2
+The Keep's gatehouse.
+~
+~
+0 0 38503
+D3
+The Death Knight's stables.
+~
+~
+0 0 38506
+E
+glowing runes~
+Though mind and body may be cut by battle, return here victorious. 
+~
+S
+#38508
+Dark Temple of the Death Knights~
+   This is the evil temple of the Death Knights.  It is made of black, abyssal
+stone broken up by stained glass windows.  The windows depict scenes of some of
+the greatest death knights.  An altar, made from the same stone that the
+building is constructed of sits at the far end of the cathedral.  A red cloth
+covers the altar.  Implements of sacrifice and torture are ritualistically
+arranged on the cloth.  In this place you might properly pray to your dark
+deities and make sacrifices.  Indeed, captured slaves are kept in the dungeon
+below for that very purpose.  The wonderful feeling of growing rage fills you
+in this place.    
+~
+385 426504 4 0 0 0 255 0
+D3
+Outside of the cathedral.
+~
+~
+0 0 38507
+D5
+The temple's dungeons.
+~
+dungeon~
+1 0 38509
+E
+aggression~
+   This window shows Aggresssion wearing the shining armor of a paladin.  He is
+shown deep in a dungeon, plundering its riches.  Aggression was once a mislead
+Solamnic Knight.  As the spirit of Aggression took him, he became one of the
+most renown questing knights of the order.    
+~
+E
+kurse~
+   The stained glass shows Lord Kurse, dressed in black full plate.  He stands
+atop a hill and is raising his outstretched arms to young knights.  Kurse was
+known for helping to organize the knighthood.  He called together young knights
+who would one day take over the knighthood's leadership when he departed.    
+~
+E
+stained glass windows scenes~
+   The windows depict scenes of the Death Knights of legend.  You notice that
+not every window contains a scene.  Perhaps, someday, an artisan may fashion a
+window for you.  The windows display the Knights Kurse and Aggression.    
+~
+S
+#38509
+The temple dungeons~
+   You have entered a portion of Hellfire Keep's dungeons.  Here, captured
+slaves are kept alive for the Death Knights to use as they will.  This often
+includes sacrifice in the temple above or torture for the amusement of the
+Knights.  Death Knights draw much of their power from the suffering of others
+and the dungeons are kept well stocked for this purpose.    
+~
+385 33288 4 0 0 0 255 0
+D4
+The Death Knight's temple.
+~
+dungeon~
+1 0 38508
+S
+#38510
+The Death Knight armory~
+   This is the armory of the Death Knights.  Here you will find an assortment
+of evilly enchanted weapons and armor.  Some of the arms are created in the
+keep itself and some are taken from other places.  Death Knights are encouraged
+to place equipment found in their adventures and quests here for other Knights
+to use.    
+~
+385 33288 4 0 0 0 255 0
+D1
+The heart of the keep.
+~
+~
+0 0 38511
+S
+#38511
+Heart of Hellfire Keep~
+   You are in the heart of the keep.  A large fountain provides water to the
+Knights.  To the west is the keep's armory.  It is likely you can find some
+useful equipment there.  To the east is a small building which houses the
+ambassador from Blackheart Keep.    
+~
+385 33280 4 0 0 0 255 0
+D0
+Inside the central keep.
+~
+~
+0 0 38514
+D1
+The office of Lord Skull's ambassador.
+~
+~
+0 0 38512
+D2
+~
+~
+0 0 38507
+D3
+The keep's armory.
+~
+~
+0 0 38510
+S
+#38512
+Lord Skul's ambassador's chambers~
+   This room is built from the same dark stone that makes up the walls of the
+keep.  A desk with various maps and paperwork sits here.  Lord Skul's personal
+banner is on the left wall and, on the right, hangs the standard of the Death
+Knights.  Lord Skul requested that an ambassador from Blackheart Keep be given
+a presence in Samsera in order to keep a closer watch on the town as well as
+keep up communications with the Death Knights there.  It is very likely that
+Lord Skul will send orders to the Knights through his ambassador.    
+~
+385 33288 4 0 0 0 255 0
+D3
+The heart of the keep.
+~
+~
+0 0 38511
+S
+#38513
+The war room~
+   This is the war room of the Death Knights.  This is where the Death Knights
+plan their campaigns throughout the land.  This is also where they can discuss
+Knight business without being bothered by pesky outsiders.  A huge table
+covered with maps dominates the room.  Tiny figures are arranged on the maps,
+obviously representing troop movements.  Written in the archaic language of
+demons on the wall around the room is the phrase "Every troop movement has
+troop losses.  "
+~
+385 33320 4 0 0 0 255 0
+D1
+~
+~
+0 0 38514
+S
+#38514
+Central keep~
+   You are now in the actual keep of this fortress.  Short stone corridors lead
+north, west and south.  Banners of various Knights line the walls.  The Lord of
+the Keep is usually found to the north where he can teach you all that you need
+to know.    
+~
+385 33288 4 0 0 0 255 0
+D0
+The Dark Lord's chamber.
+~
+~
+0 0 38516
+D1
+The Death Knight's board room.
+~
+~
+0 0 38515
+D2
+The heart of the keep.
+~
+~
+0 0 38511
+D3
+The war room.
+~
+~
+0 0 38513
+S
+#38515
+The Death Knight's boardroom~
+   This is the boardroom of Hellfire Keep.  A scribe takes your messages for
+other Knights down on paper and posts them on a board for all to see.  Here
+Knights can share their tales of adventure or concoct new methods of killing.
+Sometimes, through the use of the board, the gods bestow unholy blessings and
+new powers upon their chosen Knights.    
+~
+385 33288 4 0 0 0 255 0
+D3
+~
+~
+0 0 38514
+S
+#38516
+The Dark Lord's chamber~
+   This is where Dark Lord Surak spends most of his time mentoring younger
+Knights.  While Lord Surak is more than willing to instruct you in the ways of
+the evil crusader, he is merciless if you show any signs of weaknesses.  This
+room is rarely cleaned so that the blood of former Death Knights who
+disappointed Surak can serve as a grim reminder to new Knights.    
+~
+385 33288 4 0 0 0 255 0
+D2
+The central corridor of the keep.
+~
+~
+0 0 38514
+S
+#38517
+1~
+You are in an unfinished room.
+~
+385 536904960 0 0 0 0 255 0
+D2
+~
+~
+0 0 38501
+S
+#38518
+1~
+You are in an unfinished room.
+~
+385 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 38519
+D2
+~
+~
+0 0 38513
+D3
+~
+~
+0 0 38517
+S
+#38519
+1~
+You are in an unfinished room.
+~
+385 0 0 0 0 0 255 0
+D1
+~
+door~
+1 0 38520
+D2
+~
+~
+0 0 38514
+D3
+~
+~
+0 0 38518
+S
+#38520
+1~
+You are in an unfinished room.
+~
+385 0 0 0 0 0 255 0
+D3
+~
+door~
+1 0 38519
+S
+#38521
+Falling to Your Death~
+Fool, did you think you could fly?  The ground is approaching AWFULLY FAST!
+&25
+ SSS   PPPP   L       A   TTTTT  !
+S   S  P   P  L      A A    T    !
+S      P   P  L      A A    T    !
+ SSS   PPPP   L      AAA    T    !
+    S  P      L     A   A   T    ! 
+S   S  P      L     A   A   T    
+ SSS   P      LLLLL A   A   T    !
+&00
+~
+385 2 0 0 0 0 255 0
+D2
+~
+~
+0 0 18116
+S
+#38522
+An unfinished room~
+You are in an unfinished room.
+gfsd
+~
+385 0 0 0 0 0 255 0
+S
+$~

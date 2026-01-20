@@ -1,0 +1,27 @@
+drain cast 'energy drain' $*
+rp cast 'resist poison' $*
+charm cast 'charm corpse' $*
+unlevel remove jew;remove jew;wear onyx;wear bracer;remove feath;wear jewel
+level remove onyx;remove bracer;wear jew;wear jew;remove jewel;wear feather
+em cast 'embalm' $*
+des destroy corpse
+cc cast 'consume corpse' $*
+invis cast 'invis' $*
+age cast 'age' $*
+exitclan s;w;s;s;s;u;u;s;s;s;s;w;n;n;n;n;n;open grate;u;w;w;w;w;w;w;s;s;s;s
+pois cast 'poison' $*
+infra cast 'infra'
+bl cast 'blindness' $*
+shield cast 'shield' $*
+fly cast 'fly' $*
+sp cast 'soul pierce' $*
+ld cast 'life drain' $*
+di cast 'detect invis' $*
+; clan $*
+gac get all corpse
+sum cast 'summon' $*
+sense cast 'sense life'
+nox cast 'noxious skin' $*
+sleep remove univ;remove univ;wear heart;wear heart;sleep
+wake wake;stand;remove heart;remove heart;wear univ;wear univ
+k assist

@@ -1,0 +1,20 @@
+] track abenos
+0 retreat e
+water cas 'create water' prism
+bar 'cas' bark
+[ kick gno
+loot get all all.cor
+shi cas 'shield'
+sense cas 'sense'
+call cast 'call of the wild';
+but butcher corpse
+str cas 'str
+1 cas 'barkskin'
+3 n ; get all maraj ; s
+gs gt &06$* &00
+sac get cor ; junk corpse
+ff title of &11Utopian &08FF&14'&07n &10Hermitry! &00
+go assi greggles
+5 s 
+y retreat e
+p retreat w

@@ -1,0 +1,67 @@
+#38101
+Ranger boots quest 1: Clawed Boots~
+I will craft you the finest footwear known to our guild if you bring me some items.
+The first thing I require is a pair of boots that have had the toes curled downwards into claws.
+~
+Find a pair of boots with clawed toes and return it to Jhaethin.
+~
+35 60 8396664 5 5 1
+G 38101
+O OBJ 2730
+R OBJ 2730
+$N takes the pair of Clawed Boots and looks closely at them.
+$N says, 'These are not quite right.  Come back in a little while after I have thought further on the matter.'
+$N gives you a pair of Clawed Boots.
+~
+#38102
+Ranger boots quest 2: a pair of bladed boots~
+The clawed boots were not quite right.
+Find me instead a pair of boots with a blade attached.
+~
+Find a pair of boots with a blade attached for Jhaethin.
+~
+40 60 8396664 5 5 1
+G 38101
+P 38101
+O OBJ 22932
+R SPELL 138
+$N looks at the boots critically.
+$N says, 'These will do.  Give me some time to prepare myself, then I will set you another task.'
+~
+#38103
+Ranger boots quest 3: glowing cube~
+Find the cube of power, and I will imbue your new boots with magic.
+~
+Seek the cube of power, and return it to Jhaethin.
+~
+47 60 142614392 5 5 1
+G 38101
+P 38102
+O OBJ 18199
+R OBJ 38113
+$N places the bladed boots inside the cube of power.
+A flash of blinding light lances out of the cube!
+$N carefully takes out a pair of razor edged boots and hands them to you.
+$N says, 'Watch your fingers.'
+~
+#38104
+Endless Ranger Boots Quest~
+   Fetch me a pair of boots with a blade attached and the cube of power and I
+will imbue the boots with magical power.    
+~
+Fetch a pair of boots with a blade attached and the cube of power.
+~
+50 60 134225784 15 30 15
+G 38101
+P 38101
+P 38102
+P 38103
+O OBJ 22932
+O OBJ 18199
+R OBJ 38113
+$N places the bladed boots inside the cube of power.
+A flash of blinding light lances out of the cube!
+$N carefully takes out a pair of razor edged boots and hands them to you.
+$N says, 'Watch your fingers.'
+~
+$~

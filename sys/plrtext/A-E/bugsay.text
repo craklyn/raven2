@@ -1,0 +1,49 @@
+2 scan
+cri c 'cure crit' $*
+as c 'assistant'
+ho c 'holy word'
+cp c 'cure plague' $*
+die c 'dispel evil' $*
+ban c 'banish' $*
+a ass $*
+f clan &07^&06$* &07^&00
+food c 'create food'
+ear c 'earthquake'
+b cast 'blind' $*
+gsanc cast 'sanc' group
+fs c 'flame strike' $*
+water c 'create spring'
+deta c 'detect alignment' $*
+remp c 'remove poison' $*
+cl cast 'cleanse' $*
+' say &07^&02$* &07^&00
+g gsay &07^&03$* &07^&00
+fly cast 'fly' $*
+reg cast 'regenerate' $*
+det cast 'detect invisibility' $*
+infra cast 'infravision'
+cens cast 'sense life'
+saga cast 'sagacity' $*
+sanc cast 'sanctuary' $*
+ward cast 'ward' $*
+r cast 'revive' $*
+fort cast 'fortify' $*
+sum cast 'summon' $*
+dis c 'dishearten' $*
+re cast 'word of recall' $*
+rel cast 'relocate' $*
+remc c 'remove curse' $*
+calm c 'calm' $*
+har c 'harm' $*
+rempa c 'remove paralysis' $*
+cb c 'cure blind' $*
+po ' horse with no name?
+arm c 'armor' $*
+bless c 'bless' $*
+mal c 'maledict' $*
+relo c 'reloc' $*
+3 cast 'flame strike' $*
+h cast 'heal'$*
+ar cast 'armor' $*
+bl cast 'blindness' $*
+in cast 'infra'

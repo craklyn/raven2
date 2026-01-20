@@ -1,0 +1,42 @@
+necro 8s3e2sd27wnwnw3ne2n
+ed cast 'energy drain' $*
+0 rec rec rec
+2 cast 'soul pierce' grimlock
+form cast 'wraithform' $*
+inf cast 'infra' $*
+di cast 'det invis' $*
+sl cast 'sense life' $*
+fly cast 'fly' $*
+nox cast 'noxious skin' $*
+rp cast 'resist poison' $*
+sh cast 'shield' $*
+inv cast 'invis' $*
+su cast 'summon' $*
+b cast 'blind' $*
+sw cast 'slow' $*
+si cast 'silence' $*
+db cast 'debilitate' $*
+ds cast 'disease' $*
+mm cast 'maledict' $*
+p cast 'soul pierce' $*
+dr cast 'life drain' $*
+z cast 'curse' $*
+m get all corpse;cast 'embalm' corpse
+cc cast 'charm corpse' corpse
+zz cast 'consume corpse' corpse
+xc cast 'explode corpse' corpse
+ec cast 'entomb corpse' corpse
+pp cast 'entomb corpse'
+ward cast 'create warding'
+nn cast 'bone wall' north
+ss cast 'bone wall' south
+ee cast 'bone wall' east
+ww cast 'bone wall' west
+dd cast 'bone wall' down
+uu cast 'bone wall' up
+o order follower hit $*
+oo order follower $*
+c calm
+f flee
+1 scan
+cs cast 'summon corpse

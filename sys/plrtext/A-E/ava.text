@@ -1,0 +1,35 @@
+curse cast 'curse' $*
+r rec rec $*
+g group guard
+locate cast 'locate' $*
+sum cast 'summon' $*
+wa wake;stand
+titl title &13*&00&10purr&00&13*&00 &09Wanderer&00
+haste cast 'haste' $*
+slow cast 'slow' $*
+mm cast 'magic missile' $*
+c calm
+ss cast 'sand storm' $*
+ts cast 'true sight' $*
+ice cast 'ice storm'
+afk title &05catnap&00 &09Wanderer&00  &14AFK&00
+flame cast 'flame blade' $*
+charm cast 'charm' $*
+o order followers $*
+web cast 'web' $*
+dr cast 'life drain' $*
+m meditate
+silence cast 'silence' $*
+infra cast 'infra'
+id cast 'identify' $*
+bl cast 'blind' $*
+shield cast 'shield' $*
+str cast 'strength' $*
+invis cast 'invis' $*
+fly cast 'fly' $*
+f cast 'lightning bolt' $*
+j scan
+ne cast 'nexus' $*
+rc cast 'remove curse' $*
+grec rec rec rec
+a assist sphinx

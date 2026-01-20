@@ -1,0 +1,240 @@
+#17200
+H W 0~
+farmer~
+the large farmer~
+The large farmer walks about here, he looks very busy.
+~
+The farmer certainly looks like he has spent many hours in the field. He is
+well tanned and is very solid. You get the feeling he will protect his family
+and farm with all his might. He looks like he might be able to do some real
+damage with that pitchfork.
+~
+2120 0 0 0 0 0 0 0 -500
+10 11 2 5d8+200 3d3+7
+35 40
+9 9 1 0 -1 -1
+#17201
+H W 0~
+wife farmer's~
+the farmer's wife~
+The farmer's wife wanders around here searching for her children.
+~
+The farmer's wife looks like she has endured a lifetime of hardship. She seems
+tired and weary, but you can sense the inner strength of those who have     
+struggled throughout their lives. She looks strong and resolute. She asks you,
+"Have you seen my children anywhere?".
+~
+16584 0 0 0 0 0 0 0 0
+7 20 10 5d5+1500 1d6+1
+35 40
+9 9 2 0 -1 -1
+#17202
+H W 0~
+son farmer's~
+the farmer's son~
+The farmer's son is standing here, trying to avoid his father.
+~
+This boy looks about 16 years old and already is nearly as well built as his
+father. He looks glances around warily, keeping an eye out for his father. It
+looks as though he is trying to avoid getting extra chores.
+~
+18632 0 0 0 0 0 0 0 0
+5 20 10 5d5+1500 1d6+1
+35 40
+9 9 1 0 -1 -1
+#17203
+H W 0~
+daughter farmer's~
+the farmer's daughter~
+The farmers daughter is lying here in the corner, who is that she is with?
+~
+The farmer's daughter is quite attractive. She looks like she could have her
+pick of the young men of the area, but out of spite for her father, has chosen
+to lay with the local ruffian. When her father finds out there will be hell to
+pay.
+~
+138 0 0 0 0 0 0 0 300
+4 20 7 2d6+300 1d3+0
+35 40
+6 9 2 0 -1 -1
+#17204
+H W 0~
+ruffian local~
+the local ruffian~
+The local ruffian is kneeling here, offering a ring to the farmer's daughter.
+~
+This young lad looks very pleased with himself to have netted such a beautiful
+catch as the farmer's daughter. He doesn't realise that she is only with him in
+order to annoy her father. He has bought her a ring to secure her love and
+hopes that she doesn't find out it was bought with other children's lunch money.
+~
+18506 0 0 0 0 0 0 0 -100
+6 20 6 2d6+300 1d3+0
+35 40
+7 9 1 0 -1 -1
+#17205
+H W 0~
+child farmer's~
+the farmer's child~
+The farmer's child is sleeping here, Shhhhhh!
+~
+The farmer's child is lying here in its crib. It looks so peaceful you wouldn't
+dream of waking it up.
+~
+74 0 0 0 0 0 0 0 600
+0 20 9 1d1+60 1d3+0
+35 40
+4 6 1 0 -1 -1
+#17206
+A W 0~
+horse~
+a horse~
+A horse stands before you, looking overworked.
+~
+The horse looks tired and you deem that it must be used in place of the usual
+ox or draft horse to pull the plows in the field. And yet, it seems to still 
+have a glint of life in its eyes.As you approach it backs towards the corner of
+the stall, shying away from you.
+~
+74 0 0 0 0 0 0 0 400
+4 20 6 1d1+100 1d3+0
+35 40
+9 9 2 23 -1 -1
+#17207
+U W 0~
+scarecrow~
+a scarecrow~
+A scarecrow stands here, the farmers futile attempt to rid his fields of crows.
+~
+The scarecrow is padded with wheat and yet it seems to have a fluidity in its
+movement that couldn't be caused by the soft breeze. It is holding a stick in
+its hands. Occasionally you see the stick move, following the passing of a
+nearby crow.
+~
+2122 0 0 0 0 0 0 0 0
+5 20 10 1d1+200 1d3+0
+35 40
+9 9 0 5 -1 -1
+#17208
+A W 0~
+crow~
+a crow~
+A crow flies about here, it looks large, mean and angry.
+~
+As you look at the crow you remember stories from your childhood about them
+being the messengers of evil and harbingers of destruction. You cant help but
+feel nervous as it approaches you. You duck your head and think that maybe you
+could help the scarecrows by getting rid of it permanently.
+~
+72 0 0 0 0 0 0 0 -750
+3 20 7 1d1+100 1d3+0
+35 40
+9 9 0 16 -1 -1
+#17209
+A W 0~
+mouse field~
+a field mouse~
+A field mouse scurries about here, looking for grain.
+~
+The mouse scurries around in its never ending search for food. Occasionally it
+seems to glance skyward, looking out for its arch enemy, the crow which would
+like to make a meal of it.
+~
+72 0 0 0 0 0 0 0 0
+1 20 10 1d1+20 1d2+0
+35 40
+9 9 0 4 -1 -1
+#17210
+A W 0~
+pig~
+a pig~
+A pig wanders around here, wallowing in the mud.
+~
+The pig is dirty and smelly. It looks in your direction, snorts derisively
+then turns away indifferently, searching for another patch of mud.
+~
+200 0 0 0 0 0 0 0 0
+2 20 8 1d1+100 1d3+0
+35 40
+9 9 0 23 -1 -1
+#17211
+A W 0~
+sheep~
+a sheep~
+A sheep is here, bleating loudly.
+~
+The sheep is dirty, smelly and looks unhappy. By its long coat it looks like it
+is long overdue for a shearing, but the farmer's lazy son isn't keeping up with
+his chores.
+~
+200 0 0 0 0 0 0 0 0
+2 20 8 1d1+100 1d3+0
+35 40
+9 9 0 23 -1 -1
+#17212
+A W 0~
+cow~
+a cow~
+A cow is here, chewing on its cud.
+~
+The cow looks like it is being primed for the abattoir, it is getting quite
+plump and stands here quietly chewing its cud.
+~
+72 0 0 0 0 0 0 0 0
+3 20 8 1d1+100 1d3+0
+35 40
+9 9 2 23 -1 -1
+#17213
+A W 0~
+bull prize~
+the prize bull~
+The farmer's prize bull stands here, its head raised defiantly.
+~
+The bull is indeed a fine specimen. It stands very tall, has wonderful horns
+and looks very strong. You eye it warily and can't help but hope that it
+continues to ignore you.
+~
+76 0 0 0 0 0 0 0 0
+7 20 4 2d6+300 1d3+0
+35 40
+9 9 1 22 -1 -1
+#17214
+A W 0~
+chicken~
+a chicken~
+A small, white chicken dawdles about here, pecking in the dirt for feed.
+~
+The chicken is small and white. It looks like it will be a while before this
+one will grace any table.
+~
+200 0 0 0 0 0 0 0 0
+1 20 10 1d1+100 1d3+0
+35 40
+9 9 0 16 -1 -1
+#17215
+A W 0~
+dog~
+the farmer's dog~
+The farmer's dog runs around here, nipping at your ankles.
+~
+The farmer's dog is quite young and retains some of its puppyish exuberance. It
+runs up to you and nips at your ankles, looking for some attention.
+~
+200 0 0 0 0 0 0 0 200
+2 20 8 2d6+300 1d3+0
+35 40
+9 9 1 4 -1 -1
+#17216
+A W 0~
+pig~
+a pot belly pig~
+A pot belly pig wanders around here, wallowing in the mud.
+~
+The pig is dirty and smelly. It looks in your direction, snorts derisively
+then turns away indifferently, searching for another patch of mud.
+~
+2097352 0 0 0 0 0 0 0 0
+2 19 8 3d4+18 1d5+0
+35 40
+9 9 0 23 -1 -1
+$

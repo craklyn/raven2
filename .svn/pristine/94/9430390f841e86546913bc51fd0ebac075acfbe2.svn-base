@@ -1,0 +1,10 @@
+#!/bin/sh
+
+while [ ! -f $1 ]; do
+  cd ..
+  if [ `pwd` = / ]; then
+    echo "ROOTNOTFOUND"; exit 2
+  fi
+done
+
+echo `pwd`

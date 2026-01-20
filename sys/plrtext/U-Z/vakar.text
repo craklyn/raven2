@@ -1,0 +1,32 @@
+wall cast 'bone wall' $*
+ent cast 'entomb corpse' corpse
+titt title [ 1] dying                       {&10G&00&07OD&00&10like&00}
+clan clan &10 $* &00
+cc cast 'charm corpse' corpse
+sil cast 'silence' $1
+sum cast 'summon' $1
+deb cast 'debilitate' $1
+lo get all all.corpse
+slow cast 'slow' $1
+emb cast 'embalm' corpse
+ns cast 'noxious skin' $1
+shield cast 'shield' $1
+sl cast 'sense life'
+summon cast 'summon' $1
+infra cast 'infravision'
+ld cast 'life drain'
+inv cast 'invisibility' $1
+di cast 'detect invis' $1
+fly cast 'fly' $1
+blind cast 'blindness' $1
+tit title [ 1]dying                     {&10Godlike&00}
+dr drink thimb
+sp cast 'soul pierce'
+spp cast 'soul pierce' $1
+wraith cast 'wraithform'
+ward cast 'create warding'
+2 cast 'slow' min
+1 ord fol kill $*
+consume cast 'consume' $*
+life cast 'life' $*
+5 gr ced; gr cart

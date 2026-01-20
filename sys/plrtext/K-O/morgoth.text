@@ -1,0 +1,12 @@
+regen cast 'regen' $*
+blind cast 'blind' $*
+dt cast 'death touch' $*
+chaos cast 'chaos'
+armor cast 'armor' $*
+gt gt &08$* &00
+aura cast 'aura of apo'
+cw clanwho
+say say &01$* &00
+wanderer title Bauglir :: &09Wanderer&00
+di cast 'detect invis' $*
+infra cast 'eyes of the dead'

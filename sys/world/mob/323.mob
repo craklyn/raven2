@@ -1,0 +1,122 @@
+#32300
+H W 0~
+villager male 32300~
+a male villager~
+A frightened villager runs by.
+~
+   The man has a scared look on his face and only looks at the ground as he
+hurries along.  After years of torment and war he does not trust anyone.    
+~
+72 0 0 0 4 0 0 0 500
+10 14 3 5d200+100 10d8+10
+35 40
+9 9 1 0 -1 -1
+#32301
+H W 0~
+female villager 32301~
+the female villager~
+A scared villager runs around.
+~
+The years of growing up and living in the war torn valley
+has aged the women more than she really is.
+~
+72 0 0 0 0 0 0 0 150
+10 14 6 2d500+100 12d6+10
+35 40
+9 9 2 0 -1 -1
+#32302
+H W 0~
+32302 villager child~
+a small child~
+A small child cringes off to the side.
+~
+The child is skinny and sickly looking from lack
+of food and care.
+~
+72 0 0 0 0 0 0 0 0
+8 14 8 10d50+200 10d5+10
+35 40
+9 9 1 0 -1 -1
+#32303
+H W 0~
+32303 field worker~
+a field worker~
+A tired field worker tends to the fields.
+~
+The fields have not had a good harvest for years now, what
+few workers are left still have little to do.
+~
+72 0 0 0 0 0 0 0 0
+20 12 1 10d50+600 10d7+10
+40 40
+9 9 1 0 -1 -1
+#32304
+B C 0~
+32304 gnome female~
+a female gnome~
+A female gnome walks by reading some notes.
+~
+She is oblivious to anything around here while
+she studies her notes.
+~
+72 0 0 0 0 0 0 0 100
+10 12 5 10d30+200 10d5+10
+35 40
+9 9 0 0 -1 -1
+#32305
+B M 0~
+32305 gnome male~
+the male gnome~
+A male gnome walks by making strange hand gestures.
+~
+The young male walks around all day making
+strange hand gestures oblivious to any
+other problems around.
+~
+72 0 0 0 0 0 0 0 120
+12 12 4 10d20+300 10d5+10
+35 40
+9 9 0 0 -1 -1
+#32306
+B M 0~
+32306 gnome chief~
+the gnome leader~
+A small gnome in large robes is sitting here.
+~
+He was the first to find this area and go back and get other
+gnomes to move here with him. He sees this valley as the
+perfect place for his followers to practice the arts
+of magic and healing in relative peace.
+~
+74 0 0 0 541131816 0 0 0 300
+20 10 1 10d50+700 10d6+10
+40 40
+7 7 1 0 -1 -1
+#32307
+B W 0~
+32307 gnome soldier~
+a gnome soldier~
+A small armored gnome is standing here.
+~
+Kinda tall and bulky for a gnome the soldiers take
+their jobs very seriously, even if no other race does.
+~
+16458 0 0 0 66568 0 0 0 400
+15 11 -1 20d20+500 10d6+10
+35 40
+9 9 1 0 -1 -1
+#32308
+B M 0~
+gnome advisor questmaster~
+the gnome advisor~
+The chief's main advisor is here, with a sly look on his face.
+~
+He is short, even for a gnome.  His skin has a sallow tint to it, and
+he looks uncomfortable with your scrutiny.  He rubs his hands together
+and licks his lips nervously.
+~
+134299656 0 0 0 1064 0 0 0 0
+51 -20 -3 1d1+2000 10d10+10
+90 100
+9 9 1 0 -1 -1
+$

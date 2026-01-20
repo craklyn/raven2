@@ -1,0 +1,256 @@
+
+Doing a make [all] in << src >>
+make[1]: Entering directory `/home/raven/RavenMUD/src'
+
+<<< Making all in lib >>>
+make[2]: Entering directory `/home/raven/RavenMUD/src/lib'
+
+<<< Making all in general >>>
+make[3]: Entering directory `/home/raven/RavenMUD/src/lib/general'
+    Compiling  class
+    Compiling  color
+    Compiling  comm
+    Compiling  db
+    Compiling  handler
+    Compiling  mudlimits
+    Compiling  lulib
+    Compiling  modify
+    Compiling  objsave
+    Installing libgeneral
+a - class.o
+a - color.o
+a - comm.o
+a - db.o
+a - handler.o
+a - mudlimits.o
+a - lulib.o
+a - modify.o
+a - mudconfig.o
+a - objsave.o
+a - rmath.o
+a - structs.o
+make[3]: Leaving directory `/home/raven/RavenMUD/src/lib/general'
+
+<<< Making all in actions >>>
+make[3]: Entering directory `/home/raven/RavenMUD/src/lib/actions'
+    Compiling  act.alias
+    Compiling  act.clan
+    Compiling  act.create
+    Compiling  act.social
+    Compiling  auction
+    Compiling  ban
+    Compiling  combat
+    Compiling  commact
+    Compiling  disasters
+    Compiling  fight
+    Compiling  informative
+    Compiling  insert_items
+    Compiling  interpreter
+    Compiling  movement
+    Compiling  objact
+    Compiling  offensive
+    Compiling  other
+    Compiling  outlaw
+    Compiling  suffer
+    Compiling  wizard
+    Installing libactions
+a - act.alias.o
+a - act.clan.o
+a - act.create.o
+a - act.social.o
+a - auction.o
+a - ban.o
+a - combat.o
+a - commact.o
+a - disasters.o
+a - fight.o
+a - informative.o
+a - insert_items.o
+a - interpreter.o
+a - movement.o
+a - objact.o
+a - offensive.o
+a - other.o
+a - outlaw.o
+a - suffer.o
+a - wizard.o
+make[3]: Leaving directory `/home/raven/RavenMUD/src/lib/actions'
+
+<<< Making all in magic >>>
+make[3]: Entering directory `/home/raven/RavenMUD/src/lib/magic'
+    Compiling  aggressive
+    Compiling  backstab
+    Compiling  berserk
+    Compiling  blind_strike
+    Compiling  brain
+    Compiling  breathe
+    Compiling  butcher
+    Compiling  circle
+    Compiling  cower
+    Compiling  cut_throat
+    Compiling  disarm
+    Compiling  doorbash
+    Compiling  dust
+    Compiling  envenom
+    Compiling  feign_death
+    Compiling  gore
+    Compiling  gut
+    Compiling  hands
+    Compiling  hide
+    Compiling  knock
+    Compiling  magic
+    Compiling  missile
+    Compiling  palm
+    Compiling  pickpocket
+    Compiling  rescue
+    Compiling  retreat
+    Compiling  scan
+    Compiling  shadowdance
+    Compiling  shadowmist
+    Compiling  shadowstep
+    Compiling  shoot
+    Compiling  skills
+    Compiling  sneak
+    Compiling  spell_parser
+    Compiling  spells
+    Compiling  stalk
+    Compiling  steal
+    Compiling  stun
+    Compiling  throw
+    Compiling  trap
+    Compiling  turn
+    Installing libmagic
+a - aggressive.o
+a - backstab.o
+a - berserk.o
+a - blind_strike.o
+a - brain.o
+a - breathe.o
+a - butcher.o
+a - circle.o
+a - cower.o
+a - cut_throat.o
+a - disarm.o
+a - doorbash.o
+a - dust.o
+a - envenom.o
+a - feign_death.o
+a - gore.o
+a - gut.o
+a - hands.o
+a - hide.o
+a - knock.o
+a - magic.o
+a - missile.o
+a - palm.o
+a - pickpocket.o
+a - rescue.o
+a - retreat.o
+a - scan.o
+a - shadowdance.o
+a - shadowmist.o
+a - shadowstep.o
+a - shoot.o
+a - skills.o
+a - sneak.o
+a - spell_parser.o
+a - spells.o
+a - stalk.o
+a - steal.o
+a - stun.o
+a - throw.o
+a - trap.o
+a - turn.o
+make[3]: Leaving directory `/home/raven/RavenMUD/src/lib/magic'
+
+<<< Making all in olc >>>
+make[3]: Entering directory `/home/raven/RavenMUD/src/lib/olc'
+    Compiling  olc
+    Compiling  medit
+    Compiling  redit
+    Compiling  oedit
+    Compiling  sedit
+    Compiling  zedit
+    Compiling  copy
+    Installing libolc
+a - olc.o
+a - medit.o
+a - redit.o
+a - oedit.o
+a - sedit.o
+a - zedit.o
+a - copy.o
+make[3]: Leaving directory `/home/raven/RavenMUD/src/lib/olc'
+
+<<< Making all in specials >>>
+make[3]: Entering directory `/home/raven/RavenMUD/src/lib/specials'
+    Compiling  assign
+    Compiling  beholder
+    Compiling  bloodbowl
+    Compiling  boards
+    Compiling  castle
+    Compiling  combspec
+    Compiling  dice
+    Compiling  guard
+    Compiling  healer
+    Compiling  house
+    Compiling  lands_of_chaos
+    Compiling  legend
+    Compiling  mail
+    Compiling  metaphys
+    Compiling  mobact
+    Compiling  perceptory
+    Compiling  portal
+    Compiling  reward
+    Compiling  seek
+    Compiling  shop
+    Compiling  special
+    Compiling  superAggr
+    Compiling  ten_trials
+    Compiling  torment
+    Compiling  unicorn
+    Installing libspecials
+a - assign.o
+a - beholder.o
+a - bloodbowl.o
+a - boards.o
+a - castle.o
+a - combspec.o
+a - dice.o
+a - guard.o
+a - healer.o
+a - house.o
+a - lands_of_chaos.o
+a - legend.o
+a - mail.o
+a - metaphys.o
+a - mobact.o
+a - perceptory.o
+a - portal.o
+a - reward.o
+a - seek.o
+a - shop.o
+a - special.o
+a - superAggr.o
+a - ten_trials.o
+a - torment.o
+a - unicorn.o
+make[3]: Leaving directory `/home/raven/RavenMUD/src/lib/specials'
+
+<<< Making all in util >>>
+make[2]: Leaving directory `/home/raven/RavenMUD/src/lib'
+
+<<< Making all in bin >>>
+make[2]: Entering directory `/home/raven/RavenMUD/src/bin'
+
+<<< Making all in binaries >>>
+make[3]: Entering directory `/home/raven/RavenMUD/src/bin/binaries'
+    Compiling  purgeplay
+    Installing purgeplay in /home/raven/RavenMUD/bin
+    Compiling  delobjs
+    Installing delobjs in /home/raven/RavenMUD/bin
+make[3]: Leaving directory `/home/raven/RavenMUD/src/bin/binaries'
+make[2]: Leaving directory `/home/raven/RavenMUD/src/bin'
+make[1]: Leaving directory `/home/raven/RavenMUD/src'
+
+* * * make [all] completed at  Thu Nov 9 06:06:47 CST 2000  * * *

@@ -1,0 +1,1685 @@
+#8400
+The Myth-Try area.~
+   This is an idea that was derived from a series of books by Robert
+Lynn Asprin.  His Myth books to be specific.  Although the characters
+are not exact.  This area has been brought to you by Kellory.
+*bonk* *moon*
+~
+84 12 0 0 0 0 255 0
+D5
+~
+~
+0 0 8401
+S
+#8401
+A forest.~
+   You are at the edge of a forest.  To the north, you see a path winding it's
+way deeper and deeper into the trees.  To the south, you see a well traveled
+road.    
+~
+84 4 0 0 0 3 255 0
+D0
+~
+~
+0 0 8411
+D1
+~
+~
+0 0 8402
+D2
+~
+~
+0 0 11411
+S
+#8402
+A forest.~
+    As you travel here you feel relaxed and refreshed. 
+It's a beautiful day and all is good.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8405
+D1
+~
+~
+0 0 8403
+D3
+~
+~
+0 0 8401
+S
+#8403
+A forest.~
+    The birds sing from the trees and the sun warms your spirit.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8406
+D1
+~
+~
+0 0 8404
+D3
+~
+~
+0 0 8402
+S
+#8404
+A forest.~
+    The sun is shining, and it looks to be a very
+pleasant day.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8407
+D1
+~
+~
+0 0 8426
+D3
+~
+~
+0 0 8403
+S
+#8405
+A forest.~
+    The shade of the trees grows thicker and a bit darker.
+To the west you see a path leading out of the forest.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8408
+D1
+~
+~
+0 0 8406
+D2
+~
+~
+0 0 8402
+D3
+~
+~
+0 0 8411
+S
+#8406
+A forest.~
+    The bushes and trees that surround you, rustle in 
+the gentle breeze.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8409
+D1
+~
+~
+0 0 8407
+D2
+~
+~
+0 0 8403
+D3
+~
+~
+0 0 8405
+S
+#8407
+A forest.~
+    You are walking through a forest.  The sun is shining, 
+but the trees block most of the light.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8410
+D1
+~
+~
+0 0 8424
+D2
+~
+~
+0 0 8404
+D3
+~
+~
+0 0 8406
+S
+#8408
+A forest.~
+    It is getting harder to get through the denseness of 
+the underbrush.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8429
+D1
+~
+~
+0 0 8409
+D2
+~
+~
+0 0 8405
+D3
+~
+~
+0 0 8427
+S
+#8409
+A forest.~
+    You are beginning to wonder if you are on a path, 
+or just lost.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8430
+D1
+~
+~
+0 0 8410
+D2
+~
+~
+0 0 8406
+D3
+~
+~
+0 0 8408
+S
+#8410
+A forest.~
+    You can here the sounds of animals, as they
+travel just out of your sight.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8431
+D1
+~
+~
+0 0 8425
+D2
+~
+~
+0 0 8407
+D3
+~
+~
+0 0 8409
+S
+#8411
+A path out of the forest.~
+    As the forest around slowly gets thinner and thinner, you see an 
+expanse of plains stretch out before you.  Gently rolling hills of
+green grass, and a tree every now and then.  It makes the traveling a
+little easier than the forest was.  It's looks like a nice place to
+go for a stroll. There is a sign here.
+~
+84 4 0 0 0 2 255 0
+D0
+~
+~
+0 0 8427
+D1
+~
+~
+0 0 8405
+D2
+~
+~
+0 0 8401
+D3
+~
+~
+0 0 8412
+E
+sign~
+****************************
+*    BEWARE the woods!     *
+*                          *
+****************************
+~
+S
+#8412
+The grassy plains.~
+    Fields upon fields of green grass grow here, making travel
+very easy.
+~
+84 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 8411
+D2
+~
+~
+0 0 8413
+S
+#8413
+The grassy plains.~
+    There is the occasional tree to disturb the sea of softness, 
+and offer shade from the sun.
+~
+84 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 8412
+D3
+~
+~
+0 0 8414
+S
+#8414
+The grassy plains.~
+    It's is a very pleasant site to behold.  Nature's beauty, 
+untouched by men.
+~
+84 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 8415
+D1
+~
+~
+0 0 8413
+S
+#8415
+The grassy plains.~
+    A blue-green sea of soft, flowing grass spreads around you.
+~
+84 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 8416
+D2
+~
+~
+0 0 8414
+S
+#8416
+A road.~
+    As you are wandering through the fields, you come upon a road.
+It seems somewhat well traveled, and you do spy a small village to
+the north. Off to the west, you see the road leads into another
+forest.
+A sign is pounded into the ground here.
+~
+84 4 0 0 0 1 255 0
+D0
+~
+~
+0 0 8417
+D2
+~
+~
+0 0 8415
+D3
+~
+~
+0 0 8437
+E
+sign~
+**********************
+**********************
+*                    *
+*          ^         *
+*         /|\        *
+*          |         *
+*          |         *
+*          |         *
+*                    *
+* TWIXT Pop. 100     *
+*             95     *
+*             65     *
+*                    *
+**********************
+**********************
+~
+S
+#8417
+On the road to Twixt.~
+    You occasionally pass a farm, or a field bursting with crops.
+There isn't any traffic on the road though, which seems rather odd.
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8418
+D2
+~
+~
+0 0 8416
+S
+#8418
+On the road to Twixt.~
+    To the north you see a path leading to a very small farmhouse.
+There isn't any traffic on the road though, which seems rather odd.
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8456
+D1
+~
+~
+0 0 8419
+D2
+~
+~
+0 0 8417
+S
+#8419
+On the road to Twixt.~
+    You occasionally a field bursting with crops. There 
+isn't any traffic on the road though, which seems rather odd.
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8420
+D3
+~
+~
+0 0 8418
+S
+#8420
+On the road to Twixt.~
+    To the north you see a very rundown hut. It looks as though no
+one has lived in it for along time..
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8460
+D1
+~
+~
+0 0 8421
+D2
+~
+~
+0 0 8419
+S
+#8421
+On the road to Twixt.~
+  It seems so quiet here, too quiet...
+
+~
+84 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 8422
+D3
+~
+~
+0 0 8420
+S
+#8422
+On the road to Twixt.~
+    You can see a small town just ahead. It looks like people moving
+around, maybe everyone has come to town for some special occasion.
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8423
+D3
+~
+~
+0 0 8421
+S
+#8423
+Just outside Twixt.~
+    You are on the outskirts of the town.  All sorts of garbage has
+been dumped here.  It makes you wonder about the integrity of the
+citizens of this town.  It does seem to be alive and bustling from
+what you can see here though.
+~
+84 4 0 0 0 1 255 0
+D0
+~
+~
+0 0 8441
+D2
+~
+~
+0 0 8422
+S
+#8424
+A forest.~
+    You are walking through a rather sparse looking forest.  The
+birds are singing, the sun is shining, and it looks to be a very
+pleasant day.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8425
+D2
+~
+~
+0 0 8426
+D3
+~
+~
+0 0 8407
+S
+#8425
+A clearing.~
+    You can here the sounds of animals, as they
+travel just out of your sight.
+~
+84 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 8432
+D2
+~
+~
+0 0 8424
+D3
+~
+~
+0 0 8410
+S
+#8426
+A forest.~
+    You walk along, enjoying the fresh air and sounds
+of nature.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8424
+D3
+~
+~
+0 0 8404
+S
+#8427
+A forest.~
+    The layer of leaves that coat the forest floor make a pleasent
+crackling sound as you walk along.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8428
+D1
+~
+~
+0 0 8408
+D2
+~
+~
+0 0 8411
+S
+#8428
+A forest.~
+    You can feel the tiny eyes of the woodland creatures on you
+from behind the security of the bushes and trees.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 6063
+D1
+~
+~
+0 0 8429
+D2
+~
+~
+0 0 8427
+D3
+~
+~
+0 0 6070
+S
+#8429
+A forest.~
+    You seem to have been walking along time. Are you sure your
+not lost?
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 6062
+D1
+~
+~
+0 0 8430
+D2
+~
+~
+0 0 8408
+D3
+~
+~
+0 0 8428
+S
+#8430
+A forest.~
+    You have run into the first sign of humans, a large pasture fence
+blocks you way north.
+~
+84 0 0 0 0 3 255 0
+D1
+~
+~
+0 0 8431
+D2
+~
+~
+0 0 8409
+D3
+~
+~
+0 0 8429
+S
+#8431
+A forest.~
+You have stumbled across a clearing in your wanderings through the forest.
+A small hut stands here, making you wonder who might live this life of
+loneliness.  It doesn't look like it could be more than one room,but looks
+sturdy enough to withstand the elements that do occasionally frequent this
+area.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+door~
+1 8400 8436
+D1
+~
+~
+0 0 8432
+D2
+~
+~
+0 0 8410
+D3
+~
+~
+0 0 8430
+S
+#8432
+A forest.~
+    The fence runs into a very large patch of prickly thorns.
+Your best bet would be to turn back, or head south.
+~
+84 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 8433
+D2
+~
+~
+0 0 8425
+D3
+~
+~
+0 0 8431
+S
+#8433
+The grassy plains.~
+    The ground is getting a bit damp and marshy here,
+making travel a bit less easy.
+~
+84 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 8434
+D2
+~
+~
+0 0 8432
+S
+#8434
+The marsh.~
+    Your feet are getting wet from the marshy ground. but the flowers
+here are very beautiful.
+~
+84 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 8435
+D2
+~
+~
+0 0 8433
+S
+#8435
+The marsh.~
+    You have reached the edge of a large swamp, travel any farther is impossible.
+~
+84 0 0 0 0 2 255 0
+D2
+~
+~
+0 0 8434
+S
+#8436
+Garckin's Hut.~
+    You enter the sorcerer's hut.  It's just like you imagined it
+should be.  Books, vials, and strange objects are scattered
+everywhere.  A regular laboratory for magic.  You wonder how it is
+possible to fit so much, in so little a space.   A huge pentagram is
+drawn in the middle of the floor, with a burning blue candle at each
+of the five points.  A man with a salt and pepper type bears and
+dressed in the robes of mage stands over it gesturing.
+~
+84 8 0 0 0 0 255 0
+D2
+~
+door~
+1 8400 8431
+S
+#8437
+A road.~
+    You are traveling down a rather boring strip of road.  Ahead the 
+forest looms over you menacingly.
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8438
+D1
+~
+~
+0 0 8416
+S
+#8438
+A road.~
+    You are traveling down a rather boring strip of road.  Ahead the 
+forest looms over you menacingly.
+~
+84 0 0 0 0 1 255 0
+D2
+~
+~
+0 0 8437
+D3
+~
+~
+0 0 8439
+S
+#8439
+A road.~
+    You are traveling down a rather boring strip of road.  Ahead the 
+forest looms over you menacingly.
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8440
+D1
+~
+~
+0 0 8438
+S
+#8440
+At the edge of the forest.~
+    Before you is a very dense forest.  It looks as though no one has
+visited this place for many years.  You are very hesitant about
+setting foot within it, or are you?
+~
+84 0 0 0 0 1 255 0
+D2
+~
+~
+0 0 8439
+D3
+~
+~
+0 0 8448
+S
+#8441
+The road thru Twixt.~
+    Ah Twixt, a shining example of civilization.  Granted, you don't 
+think you would trust your first born with anyone you've met in this
+town, but yes, it is a city of sorts.  People are scurrying
+everywhere, hardly paying you any attention at all.  There minds seem
+preoccupied,almost as if they were looking for somebody.
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8442
+D2
+~
+~
+0 0 8423
+S
+#8442
+The road thru Twixt.~
+    People are scurrying everywhere, hardly paying you any attention 
+at all.  There minds seem preoccupied, almost as if they were looking 
+for somebody or maybe watching for something.
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8443
+D1
+~
+~
+0 0 8466
+D2
+~
+~
+0 0 8441
+D3
+~
+~
+0 0 8465
+S
+#8443
+The road thru Twixt.~
+    People are scurrying everywhere, hardly paying you any attention 
+at all.  You begin looking around in expectation..
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8444
+D1
+~
+~
+0 0 8464
+D2
+~
+~
+0 0 8442
+D3
+~
+~
+0 0 8463
+S
+#8444
+The road thru Twixt.~
+    People are scurrying everywhere, hardly paying you any attention 
+at all.  There minds seem preoccupied, just like you now..
+~
+84 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 8445
+D1
+~
+~
+0 0 8462
+D2
+~
+~
+0 0 8443
+D3
+~
+~
+0 0 8461
+S
+#8445
+End of the road.~
+    People are scurrying everywhere, hardly paying you any attention 
+at all.  There minds seem preoccupied, almost as if they were looking 
+for somebody.  To the east you see a bar, and to the west, a rug
+shop.
+~
+84 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 8446
+D2
+~
+~
+0 0 8444
+D3
+~
+~
+0 0 8447
+S
+#8446
+The Screaming Dragon.~
+    It's very loud as you step inside.  The bar is packed, and you 
+don't see an empty table in the place.  People look up as you walk
+in, but no one pays any particular attention to you.  There is some
+room at the bar if you feel like slithering on up to it.
+~
+84 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 8445
+D5
+You see a trap door.
+~
+trap door~
+1 0 8499
+S
+#8447
+Abdool's House of Oils.~
+   As you step into the shop, you immediately feel out of place.  
+There are oils of all colors and smells, from all over the world.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 8445
+S
+#8448
+A dark forest.~
+    You are traveling through the very dense forest.
+All around you here noises that you don't recognize, and a
+chill runs down your spine, telling you something is not 
+right here.
+~
+84 1 0 0 0 4 255 0
+D0
+~
+~
+0 0 8449
+D1
+~
+~
+0 0 8440
+S
+#8449
+A dark forest.~
+   The forest is getting to thick to walk at a normal pace.
+You must cut yourself a path.
+~
+84 1 0 0 0 4 255 0
+D0
+~
+~
+0 0 8450
+D2
+~
+~
+0 0 8448
+S
+#8450
+A dark forest.~
+   The light is so bad and the foliage so thick, you can only inch
+along.
+~
+84 1 0 0 0 4 255 0
+D0
+~
+~
+0 0 8451
+D2
+~
+~
+0 0 8449
+S
+#8451
+A dark forest.~
+     All around you here noises that you don't recognize, and a
+chill runs down your spine, telling you something is not right here.
+~
+84 1 0 0 0 4 255 0
+D1
+~
+~
+0 0 8452
+D2
+~
+~
+0 0 8450
+S
+#8452
+A dark forest.~
+    You are traveling through the very dense forest.  Progress is
+slow due to the fact of having to cut your way through the heavy
+foliage. 
+~
+84 1 0 0 0 4 255 0
+D1
+~
+~
+0 0 8453
+D3
+~
+~
+0 0 8451
+S
+#8453
+A dark forest.~
+    You are traveling through the very dense forest.  Progress is
+slow due to the fact of having to cut your way through the heavy
+foliage.  All around you here noises that you don't recognize, and a
+chill runs down your spine, telling you something is not right here.
+~
+84 1 0 0 0 4 255 0
+D0
+~
+~
+0 0 8454
+D3
+~
+~
+0 0 8452
+S
+#8454
+Outside a rundown Inn.~
+    You finally cut your way through the overgrowth, and stumble into 
+a clearing.  A large two story Inn stands here, looking very
+weathered. Much to your surprise, you see light coming from within
+the structure. What kind of refugee would be hiding out here you
+ponder.
+~
+84 5 0 0 0 2 255 0
+D2
+~
+~
+0 0 8453
+D3
+~
+door~
+1 -1 8455
+S
+#8455
+The Inn.~
+    You step into the large rundown building.  There is a nice fire
+blazing in the fireplace, and many tables spread out across the main
+room.  A stairway leads up to a second floor where you can see many
+doors, obviously leading to the rooms that this inn surely rented.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 8454
+D4
+~
+~
+0 0 8467
+S
+#8456
+The Small Path~
+You head towards the door of a very small farmhouse, and to the west
+you see a small barn.
+~
+84 5 0 0 0 2 255 0
+D0
+~
+~
+0 0 8457
+D2
+~
+~
+0 0 8418
+S
+#8457
+The Yard~
+You stand in the tiny front yard, to the north is the farmhouse. The
+door seems to be ajar. The the west you see a small barn, from which
+you can hear several animal noises.
+~
+84 4 0 0 0 1 255 0
+D0
+~
+~
+0 0 8459
+D2
+~
+~
+0 0 8456
+D3
+~
+~
+0 0 8458
+S
+#8458
+The Barn~
+As you enter you are almost knocked down by the sight of the 
+strangest looking animals.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 8457
+S
+#8459
+The House~
+It's hard to call this a house. A tiny, one room hut would be a much
+better name for it.
+~
+84 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 8457
+S
+#8460
+The Hut~
+Cobwebs and a few bugs are all that live in this place anymore. From
+the broken door and the large claw marks on the floor, it looks like
+the former owner may not of had much notice on his eviction.
+~
+84 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 8420
+S
+#8461
+The Bakery~
+The sweet smell of vanilla fills the air, and reminds you how hungry
+you are.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 8444
+S
+#8462
+The Market~
+Not a big selection of goods, but enough to meet the needs of the
+people who live in this small town.
+~
+84 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 8444
+S
+#8463
+The Town Hall~
+A tidy little office, with two desks and a nice picture of the the
+Mayor hanging on the wall. One thing about these people, they don't
+spend a lot of money on fancy things.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 8443
+S
+#8464
+The Sheriffs Office~
+Just a simple wooden desk adorns this office. To the east you see the
+one tiny cell. It at least has a comfortable looking cot and a
+bedside table with a lantern. They know how to treat their prisoners.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 8443
+S
+#8465
+The Smithy~
+The heat from the forge keeps you from entering to far. The smithy
+looks as though he is very intent on finishing the job he is doing.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 8442
+S
+#8466
+The Traders~
+Everything from axes to shoe buckles clutter this store. Everyone
+must come here to trade anything they can.
+~
+84 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 8442
+S
+#8467
+The Hallway~
+It is very dim and spooky up here, and there seems to be very strange
+noises coming from behind each of the doors. Maybe you don't really
+want to stay here.
+~
+84 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 8470
+D1
+~
+door~
+1 -1 8469
+D3
+~
+door~
+1 -1 8468
+D5
+~
+~
+0 0 8455
+S
+#8468
+Room 1~
+Empty, no bed, no chair, nothing here except shadows. Maybe this is a storeroom.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 8467
+S
+#8469
+Room 2~
+A pile of rusty armor and some old bones. No wonder this inn doesn't
+get much business.
+~
+84 8 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 8467
+S
+#8470
+The Hallway~
+So far you are not having much luck finding a comfortable place
+to rest yourself.
+~
+84 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 8473
+D1
+~
+door~
+1 -1 8472
+D2
+~
+~
+0 0 8467
+D3
+~
+door~
+1 -1 8471
+S
+#8471
+Room 3~
+Wow, it's hot in here! You must have walked into the oven by mistake.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 8470
+S
+#8472
+Room 4~
+The smell in this room is enough to make you gag. Rotten meat is all
+you can think of.
+~
+84 8 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 8470
+S
+#8473
+The Hallway~
+Cold, hungry and very tired, you look at the doors on either side of
+you. Should you even bother? Maybe sleeping under the stars isn't
+such a bad idea.
+~
+84 8 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 8475
+D2
+~
+~
+0 0 8470
+D3
+~
+door~
+1 -1 8474
+S
+#8474
+Room 5~
+Black ooze drips from the walls and pools on the floor. The
+stench of death is as think as the darkness.
+~
+84 9 0 0 0 0 255 0
+D1
+You see a door.
+~
+door~
+1 0 8473
+S
+#8475
+Room 6~
+Soft bed, clean sheets, no monsters in the closet. Is this a dream?
+Who cares, just kick back and relax!
+~
+84 393804 0 0 0 0 255 0
+D3
+~
+door~
+1 0 8473
+S
+#8478
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 8479
+D3
+~
+~
+0 0 2498
+S
+#8479
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8480
+D3
+~
+~
+0 0 8478
+S
+#8480
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8481
+D2
+~
+~
+0 0 8479
+S
+#8481
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D2
+~
+~
+0 0 8480
+D3
+~
+~
+0 0 8482
+S
+#8482
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8483
+D1
+~
+~
+0 0 8481
+S
+#8483
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8484
+D2
+~
+~
+0 0 8482
+S
+#8484
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8485
+D2
+~
+~
+0 0 8483
+S
+#8485
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8486
+D2
+~
+~
+0 0 8484
+S
+#8486
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D2
+~
+~
+0 0 8485
+D3
+~
+~
+0 0 8487
+S
+#8487
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 8486
+D3
+~
+~
+0 0 8488
+S
+#8488
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 8487
+D2
+~
+~
+0 0 8489
+S
+#8489
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8488
+D2
+~
+~
+0 0 8490
+S
+#8490
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8489
+D2
+~
+~
+0 0 8491
+S
+#8491
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8490
+D3
+~
+~
+0 0 8492
+S
+#8492
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 8491
+D3
+~
+~
+0 0 8493
+S
+#8493
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 8492
+D3
+~
+~
+0 0 8494
+S
+#8494
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8495
+D1
+~
+~
+0 0 8493
+S
+#8495
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 8496
+D2
+~
+~
+0 0 8494
+S
+#8496
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D2
+~
+~
+0 0 8495
+D3
+~
+~
+0 0 8497
+S
+#8497
+The Tunnels~
+The uncompromising, black granite walls reflect the flickering light 
+back in a thousand ways, making this place seem surreal, almost otherwordly.
+There are no sounds of movement or voices at all, only the steady, quiet 
+drip of the caverns' moist walls. 
+~
+84 585 0 0 0 0 255 0
+D1
+~
+~
+0 0 8496
+D2
+~
+~
+0 0 8498
+S
+#8498
+A Brick Wall~
+A large hole has been dug through a brick wall to the south. A faint
+glimmer of light shows through and the sounds of voices filter out
+from the distance.
+~
+84 12 0 0 0 0 255 0
+D0
+~
+~
+0 0 8497
+D2
+~
+~
+0 0 8499
+S
+#8499
+The Wine Cellar~
+Several barrels and casks of wine line the walls and
+a large wine rack covers the southern wall. A ramp 
+leads up to a trap door.
+~
+84 12 0 0 0 0 255 0
+D4
+You see a trap door
+~
+trap door~
+1 0 8446
+S
+$~

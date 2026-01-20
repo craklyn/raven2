@@ -1,0 +1,1121 @@
+#13800
+Credits~
+This area was downloaded from a stock area distribution site.  It has
+been edited and slightly re-worked to better fit into the world of
+RAVEN MUD.
+
+Smythe, Maelstrom
+SEPTEMBER 1995
+reworked December 1996
+~
+138 8 0 0 0 0 255 0
+S
+#13801
+Path in the Clouds~
+The path continues up onto what you thought was a cloud.  There is no way
+to continue by land.
+~
+138 0 0 0 0 5 255 0
+D4
+~
+~
+0 -1 13802
+D5
+~
+~
+0 -1 10890
+S
+#13802
+Path in the Clouds~
+You are making your way up through the dense fog of the cloud.  The
+rigorous climb has left you tired, and you are ready to take a break.
+~
+138 0 0 0 0 5 255 0
+D4
+~
+~
+0 -1 13803
+D5
+~
+~
+0 -1 13801
+S
+#13803
+Path in the Clouds~
+You have finally reached the end of the fog.  The air here is so thin
+that you must gasp for breath.  To the north, you see what seems to be the
+entrance to a city.
+~
+138 0 0 0 0 5 255 0
+D0
+~
+~
+0 -1 13804
+D5
+~
+~
+0 -1 13802
+S
+#13804
+Entrance~
+You are at the entrance to a huge city.  As you look around, you realize
+that the inhabitants of this city must be very wealthy indeed - you have
+never seen a city with such beautiful buildings.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13805
+D2
+~
+~
+0 -1 13803
+S
+#13805
+The Processional~
+You are walking down a huge street.  You notice that there are not many
+people in this town.  On a corner, you see a sign marked 'Processional'.
+Far to the North, you see a glittering Palace.
+
+~
+138 8 0 0 0 0 255 0
+D0
+The street continues.
+~
+~
+0 -1 13806
+D2
+~
+~
+0 -1 13804
+S
+#13806
+The Processional~
+You are walking down what appears to be the main street of this city.
+Another street turns east from here, while the 'Processional' continues
+North toward the palace.
+
+~
+138 8 2 0 0 0 255 0
+D0
+~
+~
+0 -1 13807
+D1
+~
+~
+0 -1 13856
+D2
+~
+~
+0 -1 13805
+S
+#13807
+The Processional~
+You are on the main street of Olympus.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13808
+D2
+~
+~
+0 -1 13806
+S
+#13808
+The Processional~
+You are still on the main thoroughfare of this town.  To the north, you
+see a large palace.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13809
+D2
+~
+~
+0 -1 13807
+S
+#13809
+Palace Entryway~
+You are in the entryway of a large palace.  It is very beautiful, with
+large tapestrys and exquisite carpets.  The hall leads off to the north,
+while smaller corridors branch off to the east and west.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13810
+D1
+~
+~
+0 -1 13815
+D2
+~
+~
+0 -1 13808
+D3
+~
+~
+0 -1 13811
+S
+#13810
+Throne Room~
+You stop dead in your tracks as you enter this room.  Before you is Zeus,
+in all his glory, sitting on a huge golden throne.  You had thought him
+to be just a myth, but here he is ... now you realize that the city you
+have stumbled upon is Olympus.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13823
+D2
+~
+~
+0 -1 13809
+D5
+~
+throne trapdoor~
+1 -1 13818
+E
+throne~
+This huge golden throne looks as if it has been here for eons.  As you
+study it carefully, you notice that it is not firmly attached to the
+floor ... perhaps you could slide it?
+
+~
+S
+#13811
+Western Wing~
+You are in the western wing of the palace.  You see the entrance to the
+east, while this hallway continues to the west.
+
+~
+138 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 13809
+D3
+~
+~
+0 -1 13812
+S
+#13812
+Western Wing~
+You are in the western wing of the palace.  The hallway continues to the
+north, while there are private rooms to the west and south.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13813
+D1
+~
+~
+0 -1 13811
+D2
+~
+~
+0 -1 13830
+D3
+~
+~
+0 -1 13829
+S
+#13813
+Western Wing~
+You are in the western wing of the palace.  This hallway continues to the
+south.  There are private rooms to the north and west.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13814
+D2
+~
+~
+0 -1 13812
+D3
+~
+~
+0 -1 13866
+S
+#13814
+Athena's Room~
+You have entered the room of Athena, Olympian goddess of wisdom and combat.
+The furniture of this room is plain, yet comfortable.  The walls are hung
+with tapestrys depicting great battles while the floor is covered with
+thick carpeting.
+~
+138 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 13813
+S
+#13815
+Eastern Wing~
+You are in the eastern wing of the palace.  The hall continues to the
+east, while the entrance is back to the west.
+
+~
+138 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 13816
+D3
+~
+~
+0 -1 13809
+S
+#13816
+Eastern Wing~
+You are in the eastern wing of the palace.  The hall turns to the north
+here, while there are private rooms to the east and the south.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13817
+D1
+~
+~
+0 -1 13831
+D2
+~
+~
+0 -1 13832
+D3
+~
+~
+0 -1 13815
+S
+#13817
+Eastern Wing~
+You are in the eastern wing of the palace.  Private rooms lie to the east
+and north while the hallway continues to the south.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13833
+D1
+~
+~
+0 -1 13867
+D2
+~
+~
+0 -1 13816
+S
+#13818
+Beneath the Throne~
+You are in the secret rooms beneath Zeus' throne.  You wonder what he
+might be hiding down here.
+
+~
+138 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13819
+D4
+~
+trapdoor throne~
+1 -1 13810
+S
+#13819
+Beneath the Throne~
+You are in the secret rooms beneath Zeus' Throne.  There are cells to the
+north, west, and east.
+
+~
+138 9 0 0 0 0 255 0
+D0
+~
+cell~
+1 13827 13820
+D1
+~
+cell~
+1 13827 13822
+D2
+~
+~
+0 -1 13818
+D3
+~
+cell~
+1 13827 13821
+S
+#13820
+Cell~
+You are in a small, cramped cell. 
+
+~
+138 9 0 0 0 0 255 0
+D2
+~
+cell~
+1 13827 13819
+S
+#13821
+Cell~
+You are in a small, cramped cell. 
+
+~
+138 9 0 0 0 0 255 0
+D1
+~
+cell~
+1 13827 13819
+S
+#13822
+Cell~
+You are in a small, cramped cell. 
+
+~
+138 9 0 0 0 0 255 0
+D3
+~
+cell~
+1 13827 13819
+S
+#13823
+Stairway~
+You have come to a large stairway leading up.  To the south, you see the
+throne room of Zeus.  To the north, an opening leads out to the god's
+stables.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13868
+D2
+~
+~
+0 -1 13810
+D4
+~
+~
+0 -1 13839
+S
+#13824
+Bakery~
+You are in the small store which supplies the mortals of Olympus
+with their food.  It smells wonderful in here!
+~
+138 8 0 0 0 0 255 0
+D0
+An open doorway leads out onto Market Street.
+~
+~
+0 -1 13857
+S
+#13825
+Craft Shop~
+This shop is filled with beautiful crafts made by both mortals and gods.
+
+~
+138 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 13857
+S
+#13826
+Inn of Olympus~
+This is where most of the mortals of Olympus stay.
+
+~
+138 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 13859
+S
+#13827
+Alchemist's Shop~
+You are in the store which provides the citizens here with whichever
+arcane objects they may need.
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13856
+S
+#13828
+MOB CHUTE #1~
+This chute drops mobs into squares:
+13806, 13857, 13859, 13804, 13808, 13855
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13804
+D1
+~
+~
+0 -1 13806
+D2
+~
+~
+0 -1 13857
+D3
+~
+~
+0 -1 13859
+D4
+~
+~
+0 -1 13808
+D5
+~
+~
+0 -1 13855
+S
+#13829
+Aphrodite's Room~
+You have entered Aphrodite's private room.  Everything you see here takes
+your breathe away with its beauty.  You feel the urge to stay here forever.
+
+~
+138 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 13812
+S
+#13830
+Nike's Room~
+You are in the room of Nike, Olympian goddess of victory. There is very
+little in the way of furniture here.  What there is, is purely functional.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13812
+S
+#13831
+Demeter's Room~
+You have entered the room of Demeter, Olympian goddess of Agriculture.
+The humble furnishings makes this room look like it belongs on a farm,
+rather than in a plush palace.
+
+~
+138 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 13816
+S
+#13832
+Tyche's Room~
+You are in the room of Tyche, Olympian goddes of good fortune.  The entire
+room glitters as light is reflected off of the many mirrors and shiny
+surfaces of the golden furniture.  The walls and floors are covered with
+blue tapestrys and carpets, and several decks of cards and other games of
+chance lie about the room.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13816
+S
+#13833
+Artemis' Room~
+You are in the private room of Artemis, Olympian goddess of the hunt.
+Most of the furnishings resemble those of Athena...functional yet
+comfortable.  The one exception being a large painting on the north wall.
+It is a landscape you find vaguely familiar, and it looks very lifelike...
+too lifelike.
+
+~
+138 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 13817
+S
+#13834
+MOB CHUTE #2~
+This chute drops mobs into squares:
+13855, 13825, 13836, 13865, 13835, 13824
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13855
+D1
+~
+~
+0 -1 13825
+D2
+~
+~
+0 -1 13836
+D3
+~
+~
+0 -1 13865
+D4
+~
+~
+0 -1 13835
+D5
+~
+~
+0 -1 13824
+S
+#13835
+Armory~
+This is where armor made by both mortals and gods of Olympus is sold.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13858
+S
+#13836
+Weapon Shop~
+You have entered a small store with a modest selection of weapons.
+
+~
+138 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 13858
+S
+#13837
+Smithy~
+This large room is so noisy, you can barely hear yourself think.  The
+ceiling is at least 40' from the ground.  All the occupants are hard
+at work, crafting high quality items.
+A door lies on the east wall.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13859
+D1
+~
+door~
+1 -1 13838
+S
+#13838
+Hephaestus' Private Room~
+You have entered the private room of Hephaestus, Olympian god of
+blacksmiths.  There isn't much here at all.  A simple bed with a small
+table and two chairs are all that decorate this room.
+
+~
+138 9 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 13837
+S
+#13839
+Second Floor~
+You are on the second floor of this palace.  You are numb from your
+discoveries on the first floor, and wonder what secrets the upper floor
+holds.  Hallways extend in all directions.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13840
+D1
+~
+~
+1 -1 13843
+D2
+~
+~
+0 -1 13841
+D3
+~
+~
+0 -1 13842
+D5
+~
+~
+0 -1 13823
+S
+#13840
+Northern Hall~
+You are in the northern hallway.  There is a private room to the north,
+and the stairs leading down are to the south.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13847
+D2
+~
+~
+0 -1 13839
+S
+#13841
+Southern Hall~
+You are in the southern hallway.  There is a private room to the south,
+and the stairs leading down are to the north.
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13839
+D2
+~
+~
+0 -1 13844
+S
+#13842
+Western Hall~
+You are in the western hallway.  There is a private room to the west, and
+the stairs leading down are to the east.
+~
+138 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 13839
+D3
+~
+~
+0 -1 13845
+S
+#13843
+Eastern Hall~
+You are in the eastern hallway.  There is a private room to the east, and
+the stairs leading down are to the west.
+~
+138 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 13846
+D3
+~
+~
+0 -1 13839
+S
+#13844
+Hestia's Room~
+You have entered the room of Hestia, Olympian goddes of the hearth. The
+room is simply furnished with wooden chairs and a table.  A wood-framed
+bed with a feather mattress dominates the south wall.
+
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13841
+S
+#13845
+Hera's Room~
+You have entered the private room of Hera, Olympian goddess of marriage
+and intrigue.  This room is by far the most luxurious of the all the rooms
+in the palace.  Everything in this room is awesome to behold and you
+feel overwhelmed by the beauty.
+
+~
+138 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 13842
+S
+#13846
+Poseidon's Room~
+You are in the private room of Poseidon, Olympian god of the Sea.  Along
+each wall of the room are aquariums containing various sea life.
+
+~
+138 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 13843
+S
+#13847
+Zeus' Room~
+You are in the private room of Zeus, ruler of the Olympian gods.
+Zeus doesn't spend much time here, and the furnishings reflect it.
+A golden framed bed surrounded by plush silk pillows are all that the
+room contains.
+
+~
+138 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 13840
+S
+#13848
+MOB CHUTE #3~
+This chute drops mobs into the palace:
+13812, 13809, 13816, 13823
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13812
+D1
+~
+~
+0 -1 13809
+D2
+~
+~
+0 -1 13816
+D3
+~
+~
+0 -1 13823
+S
+#13851
+MOB CHUTE #4~
+This Chute drops the Olympian heros all over town:
+13812, 13817, 13706, 13855, 13826, 13859
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13812
+D1
+~
+~
+0 -1 13817
+D2
+~
+~
+0 -1 13806
+D3
+~
+~
+0 -1 13855
+D4
+~
+~
+0 -1 13826
+D5
+~
+~
+0 -1 13859
+S
+#13854
+NOT USED~
+THIS ROOM ISN'T BEING USED
+~
+138 8 0 0 0 0 255 0
+S
+#13855
+The Tavern of Mortals~
+This well-lit tavern is where the mortal servants of the Olympian gods
+gather at the end of the day.
+~
+138 8 0 0 0 0 255 0
+D2
+The doorway leads back out onto the street.
+~
+~
+0 -1 13856
+S
+#13856
+Market Street~
+Shops maintained by mortals for the mortals brought here to serve the
+gods line this street.
+~
+138 8 0 0 0 0 255 0
+D0
+To the north, you see the entrance to the Tavern of Mortals.
+~
+~
+0 -1 13855
+D1
+The street continues to the east
+~
+~
+0 -1 13857
+D2
+You see the entrance to the Alchemist's shop.
+~
+~
+0 -1 13827
+D3
+The Processional is slightly to the west
+~
+~
+0 -1 13806
+S
+#13857
+Market Street~
+Shops maintained by mortals for the mortals brought here to serve the
+gods line this street.
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13825
+D1
+The street continues to the east
+~
+~
+0 -1 13858
+D2
+The entrance to the bakery lies to the south
+~
+~
+0 -1 13824
+D3
+The street continues to the west
+~
+~
+0 -1 13856
+S
+#13858
+Market Street~
+Shops maintained by mortals for the mortals brought here to serve the
+gods line this street.
+~
+138 8 0 0 0 0 255 0
+D0
+You see the entrance to the weapon shop
+~
+~
+0 -1 13836
+D1
+The street continues east
+~
+~
+0 -1 13859
+D2
+You see the entrance to the armory
+~
+~
+0 -1 13835
+D3
+The street continues to the west
+~
+~
+0 -1 13857
+S
+#13859
+Market Street~
+Shops maintained by mortals for the mortals brought here to serve the
+gods line this street.
+~
+138 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 13826
+D1
+The street continues east
+~
+~
+0 -1 13860
+D2
+you see the entrance to the smithy
+~
+~
+0 -1 13837
+D3
+the street continues west
+~
+~
+0 -1 13858
+S
+#13860
+East End of Market Street~
+Shops maintained by mortals for the mortals brought here to serve the
+gods line this street.  The street ends here with a gate to the east.
+
+~
+138 4 0 0 0 0 255 0
+D0
+You see the entrance to a large banquet hall to the north
+~
+~
+0 -1 13865
+D1
+A large, black metal gate blocks your progress to the east
+~
+gate black metal~
+1 -1 13861
+D3
+The street continues west
+~
+~
+0 -1 13859
+E
+gate metal black large~
+The gate is made of black metal spears that seem to absorb light, rather
+than reflect it.  A plaque made of the same metal hangs from the gate.
+The single word "ARES" is written on the plaque....in blood.
+~
+S
+#13861
+Path to the Hall of Ares~
+You are on a path made of crimson colored marble.  To the east is a large
+hall built from the same crimson marble.  To the west, lies the gate to
+Ares' property here in Olympus.
+~
+138 1 0 0 0 1 255 0
+D1
+To the east lies the entrance to the Hall of Ares.
+~
+~
+0 -1 13862
+D3
+A large black metal gate
+~
+gate black metal~
+1 -1 13860
+S
+#13862
+The Hall of Ares~
+You are standing in a large room, dominated by a gigantic firepit.  The
+fire pit lies in the center of the room and is surrounded by plush
+pillows and small tables.  To the north, you can hear what sounds like
+a heated arguement between several people...or gods.  To the south, you
+hear what sounds like barking dogs.
+~
+138 8 0 0 0 0 255 0
+D0
+There is a doorway to the north
+~
+~
+0 -1 13863
+D2
+There is a doorway to the south
+~
+~
+0 -1 13864
+D3
+~
+~
+0 -1 13861
+S
+#13863
+The War Room of Ares~
+The main feature of this room is a large table upon which several maps
+are spread.  The room is very large and very well lit.  Weapons of all
+shapes and sizes line the walls, complete with diagrams of how to best
+maim and kill one's opponents.
+~
+138 8 0 0 0 0 255 0
+D2
+A doorway leads out to the main hall
+~
+~
+0 -1 13862
+S
+#13864
+Ares' Stable~
+The noises and smells of this place are the least of your worries, if
+Ares' pets are home.
+~
+138 8 0 0 0 0 255 0
+D0
+A doorway leads out to the main hall
+~
+~
+0 -1 13862
+S
+#13865
+Hall of Dionysus~
+This great hall is lined by tables loaded with goblets of wine, mead,
+tankards of ale, and various other spirits.  Lively music plays here,
+inviting you to join in the merry-making.
+~
+138 8 0 0 0 0 255 0
+D2
+The doorway leads out onto the East End of Market street
+~
+~
+0 -1 13860
+S
+#13866
+Apollo's Room~
+The sound of calming music makes you want to sink down into one of the
+many soft cushiones that are spread about this room.  Everything seems
+perfect and peaceful here, and you feel like you could stay here forever.
+~
+138 8 0 0 0 0 255 0
+D1
+The doorway leads out into the hall
+~
+~
+0 -1 13813
+S
+#13867
+Hermes' Room~
+There isn't really much here.  Hermes is almost never around, so he keeps
+this room sparsely furnished.  When he is here, he is usually sleeping.
+~
+138 8 0 0 0 0 255 0
+D3
+the doorway leads out into the hall
+~
+~
+0 -1 13817
+S
+#13868
+Stables of the Gods~
+You are standing in a stable filled with strange creatures.
+
+~
+138 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 13823
+S
+$~

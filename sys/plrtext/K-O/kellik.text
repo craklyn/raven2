@@ -1,0 +1,43 @@
+rp c 'rem para' $*
+ban c 'banish' $*
+calm c 'calm' $*
+lc look in corp
+clan clan &01:&00&08:&00&06 $* &08:&00&01:&00
+gt gt &01:&00&08:&00&06$*&00 &01:&00&08:&00
+cl c 'cleanse' $*
+fd emote &14*destroys*&00 $* with his deadly blast.
+sd emote &11*destroys*&00 $* with his deadly blast.
+sense cast 'sense'
+infra cast 'infra'
+df cast 'demon fire' $*
+dish cast 'dishearten' $*
+wearlight remove sha-;wear dragon
+[ get all all.kell
+] wear all
+cb cast 'cure bli' $*
+fort cast 'fort' $*
+summ cast 'summon' $*
+reg cast 'regen' $*
+arm cast 'armor' $*
+food cast 'crea foo' 
+h ass
+b cast 'bli' $*
+di cast 'detect invis' $*
+fly cast 'fly' $*
+ward cast 'ward' $*
+ha cast 'harm' $*
+sanc cast 'sanc' $*
+say say &09 $* &00
+wo cast 'word' $*
+f cast 'cure critic' $*
+tick remove fila;sleep
+gheal cast 'heal' gr
+v cast 'heal' victoria
+g cast 'heal' $*
+r cast 'revive' $*
+loot get all.gold all.cor
+sag c 'saga' $*
+ar l e;l w;l s;l n;l d;l u
+titleset title :: &08Forsaken&00 $*
+quake c 'earth
+fs c 'flame strike' $*

@@ -1,0 +1,37 @@
+g sell sapp
+cb cast 'cure blind'$*
+clan clan &14$* &00
+cs cast 'demon fire'$*
+nats say Naked Stats: Str: 19/100, Int: 19, Wis: 20, Dex: 18, Con: 20, Cha: 12
+harm cast 'harm' $*
+mal cast 'maledict'$*
+b cast 'blindness'$*
+sanc cast 'sanctuary'$*
+sense cast 'sense life'$*
+f cast 'fly'$*
+wa wake;stand
+cls cast 'cleanse'$*
+rp cast 'rem para'$*
+meth say 16w6swse14s10wdw3n3d3ne3nese2nen
+rc cast 'rem curse'$*
+trolls say 5n? 2w2swsns3eneu
+de cast 'infra'
+sum cast 'summon'$*
+fort cast 'fortify'$*
+say emote says, '&15$* &00'
+rev cast 'revive'$*
+goto cast 'relocate'$*
+drac say 15 * (current hp/max hp) * (lvl/2)
+sag cast 'sagacity'$*
+bless cast 'bless'$*
+di cast 'detect invis'$*
+h cast 'heal'$*
+word cast 'word of recall'$*
+armor cast 'armor'$*
+reg cast 'regen'$*
+i cast 'typhoon'$*
+blah put all bupu;get all.scroll bupu;get all.potion bupu;get all.amulet bupu;get feather bupu
+loot get all raph;wear all;get all raph;wield rod;hold broom;get all raph;destroy raph
+tit title :: the &09Wandering&00 &14Typhoon&00
+mana rem str;rem str;wear feat;wear str cloak
+nomana rem feather;wear str neck

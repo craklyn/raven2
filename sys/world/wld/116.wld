@@ -1,0 +1,976 @@
+#11600
+The Pech Community~
+This area was written by Joe Hunter (Joram/RavenMud).  It is intended for evil
+characters, 35th to 40th level, as an experience area and to help maintain 
+alignment.
+
+Edited by Smythe to be a link-zon in the "Caves of Darkorne".
+
+Smythe
+November 1996
+~
+116 0 0 0 0 0
+S
+#11601
+A Deep Mining Shaft~
+You are standing at the bottom of a deep mining shaft.  A ladder, carved into
+the sides of the shaft, stretches 40 foot up to the surface.  To the north you
+see the darkness of a passage and the ladder leads up.
+~
+116 acdf 0 0 0 5
+D0
+A wide passage lies to the north.
+~
+~
+0 -1 11602
+D4
+The ladder goes up through a rough shaft.
+~
+secret hatch~
+1 0 11882
+S
+#11602
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+To the south is a chamber of some sort and the passage continues to the east.
+~
+116 acdf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11603
+D2
+A dark chamber is to the south.
+~
+~
+0 -1 11601
+S
+#11603
+A Carved Passage~
+This wide tunnel is at least 20 foot across, 15 foot high and extends 50 foot 
+to the east and west.  The smooth sides of it indicate that a great deal of 
+work went into it's construction.  The passage continues to the north and 
+west.
+~
+116 adf 0 0 0 5
+D0
+The passage continues north.
+~
+~
+0 -1 11604
+D3
+A dark chamber is to the west.
+~
+~
+0 -1 11602
+S
+#11604
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and south.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11605
+D2
+The passage continues south.
+~
+~
+0 -1 11603
+S
+#11605
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and west.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11606
+D3
+The passage continues west.
+~
+~
+0 -1 11604
+S
+#11606
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and west.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11607
+D3
+The passage continues west.
+~
+~
+0 -1 11605
+S
+#11607
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and south.
+~
+116 acdf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11608
+D2
+The passage continues south.
+~
+~
+0 -1 11606
+S
+#11608
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and west.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11612
+D3
+The passage continues west.
+~
+~
+0 -1 11607
+S
+#11609
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the north.
+~
+116 adf 0 0 0 2
+D0
+The mouth of the cavern is to the north.
+~
+~
+0 -1 11611
+S
+#11610
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the west.
+~
+116 adf 0 0 0 2
+D3
+The mouth of the cavern is to the west.
+~
+~
+0 -1 11611
+S
+#11611
+A Cavernous Intersection~
+You have reached the end of this section of the passage.  It has terminated 
+into a circle chamber with roughly the width of the passage.  To the north, 
+east and south are darkened openings in the smooth chamber walls and the 
+passage goes back to the west.
+~
+116 adf 0 0 0 2
+D0
+You see a dark opening to the north.
+~
+~
+0 -1 11614
+D1
+You see a dark opening to the east.
+~
+~
+0 -1 11610
+D2
+You see a dark opening to the south.
+~
+~
+0 -1 11609
+D3
+The passage runs off to the west.
+~
+~
+0 -1 11612
+S
+#11612
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north, east and south.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11613
+D1
+The passage continues east.
+~
+~
+0 -1 11611
+D2
+The passage continues south.
+~
+~
+0 -1 11608
+S
+#11613
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and south.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11618
+D2
+The passage continues south.
+~
+~
+0 -1 11612
+S
+#11614
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the south.
+~
+116 adf 0 0 0 2
+D2
+The mouth of the cavern is to the south.
+~
+~
+0 -1 11611
+S
+#11615
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the north.
+~
+116 adf 0 0 0 2
+D0
+The mouth of the cavern is to the north.
+~
+~
+0 -1 11621
+S
+#11616
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and west.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11620
+D3
+The passage continues west.
+~
+~
+0 -1 11617
+S
+#11617
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and west.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11616
+D3
+The passage continues west.
+~
+~
+0 -1 11618
+S
+#11618
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and south.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11617
+D2
+The passage continues south.
+~
+~
+0 -1 11613
+S
+#11619
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the north.
+~
+116 adf 0 0 0 2
+D0
+The mouth of the cavern is to the north.
+~
+~
+0 -1 11625
+S
+#11620
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north, east and south.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11624
+D1
+The passage continues east.
+~
+~
+0 -1 11621
+D2
+The passage continues south.
+~
+~
+0 -1 11616
+S
+#11621
+A Cavernous Intersection~
+You have reached the end of this section of the passage.  It has terminated 
+into a circle chamber with roughly the width of the passage.  To the north, 
+east and south are darkened openings in the smooth chamber walls and the 
+passage goes back to the west.
+~
+116 adf 0 0 0 2
+D0
+You see a dark opening to the north.
+~
+~
+0 -1 11623
+D1
+You see a dark opening to the east.
+~
+~
+0 -1 11622
+D2
+You see a dark opening to the south.
+~
+~
+0 -1 11615
+D3
+The passage runs off to the west.
+~
+~
+0 -1 11620
+S
+#11622
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the west.
+~
+116 adf 0 0 0 2
+D3
+The mouth of the cavern is to the west.
+~
+~
+0 -1 11621
+S
+#11623
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the south.
+~
+116 adf 0 0 0 2
+D2
+The mouth of the cavern is to the south.
+~
+~
+0 -1 11621
+S
+#11624
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north, south and west.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11628
+D2
+The passage continues south.
+~
+~
+0 -1 11620
+D3
+The passage continues west.
+~
+~
+0 -1 11625
+S
+#11625
+A Cavernous Intersection~
+You have reached the end of this section of the passage.  It has terminated 
+into a circle chamber with roughly the width of the passage.  To the north, 
+south and west are darkened openings in the smooth chamber walls and the 
+passage goes back to the east.
+~
+116 adf 0 0 0 2
+D0
+You see a dark opening to the north.
+~
+~
+0 -1 11627
+D1
+The passage runs off to the east.
+~
+~
+0 -1 11624
+D2
+You see a dark opening to the south.
+~
+~
+0 -1 11619
+D3
+You see a dark opening to the west.
+~
+~
+0 -1 11626
+S
+#11626
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the east.
+~
+116 adf 0 0 0 2
+D1
+The mouth of the cavern is to the east.
+~
+~
+0 -1 11625
+S
+#11627
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  The 
+only exit is to the south.
+~
+116 adf 0 0 0 2
+D2
+The mouth of the cavern is to the south.
+~
+~
+0 -1 11625
+S
+#11628
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and south.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11629
+D2
+The passage continues south.
+~
+~
+0 -1 11624
+S
+#11629
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and west.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11630
+D3
+The passage continues west.
+~
+~
+0 -1 11628
+S
+#11630
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and west and there is a dark opening in the east
+wall.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11632
+D1
+You see a dark opening to the east.
+~
+~
+0 -1 11652
+D3
+The passage continues west.
+~
+~
+0 -1 11629
+S
+#11631
+An Unfinished Cavern~
+You are standing in a cavern currently being mined.  It is approximately 20 
+foot across and the shape of the cavern is roughly cylindrical.  Unlike the  
+larger caverns, the walls here are still the rough texture of freshly hewn 
+rock.  A small, dark opening to the west is the only exit.
+~
+116 adf 0 0 0 2
+D3
+An opening in the wall lies to the west.
+~
+~
+0 -1 11632
+S
+#11632
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues south and west, and there is a dark opening to the east.
+~
+116 adf 0 0 0 2
+D1
+You see a dark opening to the east.
+~
+~
+0 -1 11631
+D2
+The passage continues south.
+~
+~
+0 -1 11630
+D3
+The passage continues west.
+~
+~
+0 -1 11633
+S
+#11633
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and east.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11635
+D1
+The passage continues east.
+~
+~
+0 -1 11632
+S
+#11634
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  There
+are small, dark openings to the north and east.
+~
+116 adf 0 0 0 2
+D0
+An opening in the wall is to the north.
+~
+~
+0 -1 11643
+D1
+The mouth of the cavern is to the east.
+~
+~
+0 -1 11635
+S
+#11635
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and south, and there is a dark opening to the west.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11636
+D2
+The passage continues south.
+~
+~
+0 -1 11633
+D3
+You see a dark opening to the west.
+~
+~
+0 -1 11634
+S
+#11636
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and west.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11637
+D3
+The passage continues west.
+~
+~
+0 -1 11635
+S
+#11637
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and west, and there is a dark opening to the east.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11640
+D1
+You see a dark opening to the east.
+~
+~
+0 -1 11638
+D3
+The passage continues west.
+~
+~
+0 -1 11636
+S
+#11638
+An Unfinished Cavern~
+You are standing in a cavern currently being mined.  It is approximately 20 
+foot across and the shape of the cavern is roughly cylindrical.  Unlike the  
+larger caverns, the walls here are still the rough texture of freshly hewn 
+rock.  A small, dark opening to the west is the only exit.
+~
+116 adf 0 0 0 2
+D3
+An opening in the wall lies to the west.
+~
+~
+0 -1 11637
+S
+#11639
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and west.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11648
+D3
+The passage continues west.
+~
+~
+0 -1 11640
+S
+#11640
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and south, and there is a dark opening to the west.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11639
+D2
+The passage continues south.
+~
+~
+0 -1 11637
+D3
+There is a dark opening to the west.
+~
+~
+0 -1 11641
+S
+#11641
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  There 
+are small, dark openings in the wall to the east and west.
+~
+116 adf 0 0 0 2
+D1
+The mouth of the cavern is to the east.
+~
+~
+0 -1 11640
+D3
+There is a dark opening in the west wall.
+~
+~
+0 -1 11642
+S
+#11642
+An Unfinished Cavern~
+You are standing in a cavern currently being mined.  It is approximately 20 
+foot across and the shape of the cavern is roughly cylindrical.  Unlike the  
+larger caverns, the walls here are still the rough texture of freshly hewn 
+rock.  A small, dark opening to the east is the only exit.
+~
+116 adf 0 0 0 2
+D1
+An opening in the wall lies to the east.
+~
+~
+0 -1 11641
+S
+#11643
+A Small Cavern~
+You are standing in a cavern with smooth, finished walls but is only half the 
+sizes of the others that are finished.  It is approximately 15 foot across and 
+the perfectly round with a domed ceiling that peaks at approximately 12 foot.
+For some reason, the pechs felt the need to stop the expansion of this cavern
+and finish it at this size.  The only exit is back the way you came.
+~
+116 adf 0 0 0 2
+D2
+An opening in the wall lies to the south.
+~
+~
+0 -1 11634
+D3
+You see nothing special there...
+~
+hidden secret door~
+1 11601 11644
+S
+#11644
+A Deep, Subterranean Lake~
+You are standing before a huge, underground lake.  The shape of the lake is  
+roughly a circle that is over 100 foot across at any point and the cavern 
+extends another 30 foot on all sides of the lake.  The walls of the cavern are 
+rough and there are many ledges you can see although the light from your 
+light source does not extend far enough for you to be able see the ceiling.
+The lake is very still but the clean, crisp smell of the air in this cavern 
+indicates to you the water is not stagnant.  The only exit is back the way 
+you came in.
+~
+116 adf 0 0 0 5
+D1
+The mouth to the cavern lies to the east.
+~
+hidden secret door~
+1 11601 11643
+S
+#11645
+An Unfinished Cavern~
+You are standing in a cavern currently being mined.  It is approximately 20 
+foot across and the shape of the cavern is roughly cylindrical.  Unlike the  
+larger caverns, the walls here are still the rough texture of freshly hewn 
+rock.  A small, dark opening to the north is the only exit.
+~
+116 adf 0 0 0 2
+D0
+An opening in the wall lies to the north.
+~
+~
+0 -1 11651
+S
+#11646
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues north and east.
+~
+116 adf 0 0 0 2
+D0
+The passage continues north.
+~
+~
+0 -1 11650
+D1
+The passage continues east.
+~
+~
+0 -1 11647
+S
+#11647
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues east and west.
+~
+116 adf 0 0 0 2
+D1
+The passage continues east.
+~
+~
+0 -1 11648
+D3
+The passage continues west.
+~
+~
+0 -1 11646
+S
+#11648
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage continues south and west.
+~
+116 adf 0 0 0 2
+D2
+The passage continues south.
+~
+~
+0 -1 11639
+D3
+The passage continues west.
+~
+~
+0 -1 11647
+S
+#11649
+An Unfinished Cavern~
+You are standing in a cavern currently being mined.  It is approximately 20 
+foot across and the shape of the cavern is roughly cylindrical.  Unlike the  
+larger caverns, the walls here are still the rough texture of freshly hewn 
+rock.  A small, dark opening to the west is the only exit.
+~
+116 adf 0 0 0 2
+D3
+An opening in the wall lies to the west.
+~
+~
+0 -1 11650
+S
+#11650
+A Carved Passage~
+This wide tunnel is at least 20 foot across and 15 foot high.  The smooth
+sides of it indicate that a great deal of work went into it's construction.  
+The passage runs to the south and there are dark openings in the walls to east
+and west.
+~
+116 adfj 0 0 0 2
+D1
+You see an opening in the east wall.
+~
+~
+0 -1 11649
+D2
+The passage continues south.
+~
+~
+0 -1 11646
+D3
+You see an opening in the west wall.
+~
+~
+0 -1 11651
+S
+#11651
+A Large Cavern~
+You stand in a large cavern that is about 40 foot long and 30 foot across at
+it's widest point.  The ceiling stretches upwards nearly 20 foot and it is 
+obvious from the smoothness of the walls this is not a natural cavern.  There 
+are small, dark openings to the east and south.
+~
+116 adf 0 0 0 2
+D1
+The mouth of the cavern is to the east.
+~
+~
+0 -1 11650
+D2
+You see a small opening in the south wall.
+~
+~
+0 -1 11645
+S
+#11652
+An Unfinished Cavern~
+You are standing in a cavern currently being mined.  It is approximately 20 
+foot across and the shape of the cavern is roughly cylindrical.  Unlike the  
+larger caverns, the walls here are still the rough texture of freshly hewn 
+rock.  A small, dark opening to the west is the only exit.
+~
+116 adf 0 0 0 2
+D3
+An opening in the wall lies to the west.
+~
+~
+0 -1 11630
+S
+$~

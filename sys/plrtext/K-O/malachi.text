@@ -1,0 +1,10 @@
+title titl &01<&08^&10>&00&06Order of Darkness&10<&08^&00&01>&00
+1 assist
+ch n;n;n;n;n;n;n;n;n;w;w;od
+0 auc -info
+wa wake;stand
+gte gt &10$*&00
+check track ruffian_v;track gnome_eld;track griml;track mermaid_bea;track scarab
+loot get all mal;wear pelt cloa;wear all;wie shard;hold eye;get all mal;wear all;dest mal
+. remove ven;env ven;env ven;env ven;env ven;wie ven
+/ remove ven;env ven;env ven;env ven;env ven;wie ven

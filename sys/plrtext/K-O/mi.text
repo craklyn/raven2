@@ -1,0 +1,33 @@
+dock .8s3e2sd
+ps powerstrike $*
+co drop 1 coin
+ai auct -info
+sn stance neutral
+dir l n;l e;l s;l w;l up;l down
+am aspect monkey
+de destroy corpse
+go sta;hand self
+as aspect snake
+cu get cube butch;q cube
+vig ge ale beet;q ale
+sd stance defens
+reg get spirit beet;q spirit
+fly get liq beet;q liq
+di get booz beet;q booz
+h hands self
+ck close king
+titl tit Chiu-Hing :: &09Wanderer&00
+qi quest info
+key get all.key all.corpse
+cw clanwho
+hall n;n;n;n;n;n;n;n;n;e;e;s;e;e
+gt gt &09$*&00 
+oc open chest
+so stance offen
+aw aspect wind
+coin get all.coin all.corpse
+ac aspect crane
+af aspect flower
+z fist thog
+x fist demas
+all get all all.corpse

@@ -1,0 +1,47 @@
+test &07the Ring of &12A&00&05p&07ollyon&00
+0 get all.black all.corp
+6 c 'summon' guardian_vampire
+sh c 'shriek' $*
+3 gr
+fm c 'feeblemind' $*
+lb c 'lightning bolt' $*
+g gt &13$* &00
+o order follower $*
+f clan &13$*&00
+ce c 'conjure elemental' $*
+8 get all.scroll all.corpse
+sg c 'shocking grasp' $*
+fi c 'fireball' $*
+08 c 'locate obj' $*
+13 c 'life drain' $*
+b cast 'blink
+shield cast 'shield' $*
+charm cast 'charm' $*
+fly cast 'fly' $*
+ice cast 'ice storm'
+wrath cast 'wrath of the'
+air cast 'air' $*
+ts cast 'true sight' $*
+haste cast 'haste' $*
+invis cast 'invis' $*
+youth c 'fountain of youth' 
+fb cast 'flame blade' $*
+m mist $*
+str c 'strength' $*
+90 c 'portal' $*
+09 c 'summon' $*
+12 c 'blindness' $*
+fw clanwho
+a c 'awaken
+21 c 'sleep' $*
+' say &07*&00 &13$*  &07*&00
+cs c 'color spray' $*
+ms c 'monster summon' $*
+gate cast 'gate' $*
+00 c 'identify' $*
+80 c 'nexus' $*
+i c 'doom bolt' $*
+22 c 'slow' $*
+5 c 'summon' possum
+sand c 'sand
+awake c 'awaken' $*

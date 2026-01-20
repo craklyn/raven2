@@ -1,0 +1,41 @@
+bli cast 'blink'
+gra group all
+port cast 'portal' $*
+air cast 'airsphere' $*
+nex cast 'nexus' $*
+loc cast 'locate object' $*
+bb cast 'shocking grasp' $*
+cur cast 'remove curse' $*
+0 get all.coins all.cor
+dr cast 'life drain' $*
+o order followers $*
+ch cast 'charm person' $*
+sum cast 'summon' $*
+in cast 'invis' $*
+bl cast 'blind' $*
+wa wa;st
+inf cast 'infravision'
+ms cast 'monster summon'
+ca calm
+mm cast 'magic missile' $*
+fla cast 'flame blade' $*
+m rest
+str cast 'strength' $*
+id cast 'identify' $*
+fly cast 'fly' $*
+shi cast 'shield' $*
+di cast 'detect invis' $*
+aw cast 'awaken' $*
+z assist
+ts cast 'true sight' $*
+sp cast 'haste' $*
+gs gs &08-|&00&13$* &00&08|-&00
+sa sa &08-|&00&13$* &00&08|-&00
+clan clan &08-|&00&13$* &00&08|-&00
+you cast 'fountain'
+ce cast 'gate'
+oo order bear $*
+b cast 'doom bolt' $*
+cs cast 'color spray' $*
+fee cast 'feeblemind' $*
+qu cast 'wrath of the ancients'

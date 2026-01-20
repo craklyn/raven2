@@ -1,0 +1,805 @@
+#19301
+N S 0~
+guardian ffguard~
+&08the Guardian&00~
+The Guardian stands here seemingly watching your every move and yet not even noticing you.
+~
+   The Guardian stands here nearly 10 feet tall.  Where eyes should be you only
+see darkness.  He is wielding a strange looking scythe in his right hand and
+where a left hand should be all you see is a spike protruding from the bone.  
+He is wearing heavy chainmail with skulls of various races hanging from his
+neck and waist.  You notice an empty spot on his waist where it seems that your
+skull would fit perfectly.
+~
+8202 0 0 0 4326568 0 0 0 0
+50 -15 -13 1d1+15000 10d6+90
+80 90
+9 9 0 12 -1 -1
+#19302
+H C 0~
+honor~
+Honor~
+Honor stands here waiting for you.
+~
+   Honor was once a member of one of the original clans of Raven.  Through war
+and deceit he was lost to his clan.  Forsaken has found him and he sees in us
+what he once saw in all clans of Raven.  For this he has chosen us, he will
+guide you in your journeys, all you have to do is think of him and Honor will
+be yours once again.    
+~
+24586 0 0 0 132136 0 0 0 0
+50 -15 -10 1d1+10000 10d6+60
+80 90
+9 9 1 0 -1 -1
+Z 19302
+#19303
+H K 0~
+courage m19303~
+Courage~
+Courage stands here protecting the bank box.
+~
+Courage, Honor's twin brother, received his name from the many wars he has been
+through.  In every battle he fought in, the outcome was the same...  A great
+victory.  He would only pledge himself to the best of causes, now he has
+pledged his life to Forsaken.  He has traveled from far away to be with his
+brother.  Always remember, with Honor and Courage on our side, we will never
+lose!    
+~
+253978 0 0 0 132136 0 0 0 1000
+50 -10 -20 1d1+30000 1d40+100
+80 90
+9 9 1 0 -1 -1
+Z 19304
+#19304
+H M 0~
+conjurer~
+a wise and ancient conjurer.~
+A wise and ancient conjurer stands here.
+~
+   The conjuror, an ancient Lich said to have once been a member of the
+&07Order of Darkness&00 who fell during a great war, has studied the fine
+mystical art of the conjuration of objects from the ether for many centuries.
+With reserves of power well beyond those of any mortal mage, and able to
+withstand forces that would slay a living being, his sole duty now is to serve
+the Order to the best of his nether worldly abilities.    
+~
+254026 0 0 0 1049784 0 0 0 0
+51 -30 10 1d2000+30000 100d100+100
+90 100
+9 9 1 0 -1 -1
+#19305
+H W 0~
+wrath ffpp~
+&08Wrath&00~
+A massive skeleton covered in blue flames stands here, glaring coldly at you.
+~
+   Wrath stands nearly eleven feet tall.  His eyes burn with bright red flames.
+Blue flames dance lazily over his pale white bones.  He turns his head toward
+you and the flames jump into life.  Your blood curls and turns to ice as he
+raises his spear and begins to approch.    
+~
+1074503690 0 0 0 1180840 0 0 0 0
+51 -30 -30 1d1+30000 100d100+0
+100 100
+9 9 0 0 -1 -1
+#19306
+H M 0~
+faith healer 19306~
+Faith~
+Faith stands here, ready to cleanse your soul.
+~
+Faith spent the first part of her life studying in the great monestaries to the
+north.  As she studied with the Dalai Lama, she came to understand that we all
+need something to believe in.  We have to believe that there is a higher power
+than all of us, and it helps us in our daily lives.  Faith now believes in
+Forsaken.  Put your Faith in Forsaken, and it will lead you to great things.
+~
+147466 0 0 0 1064 0 0 0 0
+50 -5 10 100d200+200 100d2+50
+0 0
+9 9 2 0 -1 -1
+#19307
+H M 0~
+khelban~
+Khelban~
+&14Emerging from a swirling rift a peaceful figure shimmers softly.&00
+~
+   Covered in robes of the &07Darkness&00 order, this peaceful form shimmers in
+and out of the mortal plane of existence.  He stands before you now as a
+protector of his brothers in &14D&00&07ark&00 &14J&00&07ustice&00.  Prepared to
+take his friends wherever they may need to go.    
+~
+254026 0 0 0 1064 0 0 0 0
+50 -30 10 1d2000+30000 30d30+30
+80 90
+9 9 1 0 -1 -1
+Z 19307
+#19310
+H A 0~
+Undertaker guard~
+the Undertaker~
+The Undertaker here slowly skulks toward you with horror in his eyes.
+~
+   A ragged man a few rows over is very slowly shoveling dirt into a fresh
+plot, filling it.  He gestures back and forth between the dirt and grave in an
+almost hypnotic manner.  Peering around, he senses the life force within every
+soul, and proceeds to skulk in your direction.  Judging from his body language,
+it's conceiveable his intentions do not mean well.  There is what seems to be
+an old church in the distance, perhaps seeking respite there would be a wise
+decision.    
+~
+24586 0 0 0 132136 0 0 0 0
+50 0 -1 1d1+15000 10d6+90
+80 90
+9 9 0 0 -1 -1
+#19311
+H M 0~
+After Life~
+the After Life~
+&07Echoing calls of the unified souls reverberate in your mind.&00
+~
+   Sensing the rift in time and space, your mind tingles with a familiar and
+curious sensation, as if to open up and expand to the size of the room.  
+Tingles run down your spine as the spirit world calls, offering nirvana to
+those who seek it.    
+~
+24586 0 0 0 132136 0 0 0 0
+50 0 -1 1d1+15000 8d7+10
+80 90
+9 9 0 0 -1 -1
+#19313
+J W 0~
+&14A sparring partner&00~
+&14A sparring partner&00~
+A sparring partner yearns to practice.
+~
+   A creature of conjured magic, this sparring partner is the ideal target for
+all of your troubles.  A skilled warrior, he is capable enough to avoid
+inflicting damage save as a lesson to be learned.    
+~
+278602 0 0 0 542245040 166912 0 0 0
+44 10 0 5d2000+2000 1d7+4
+65 75
+9 9 0 0 -1 -1
+Z 19313
+#19314
+H M 0~
+white wolf~
+the white wolf~
+A snow white wolf paces the floor in front of the archway.
+~
+Wolves such as this are rarely found outside the colder northern regions.  
+What this one is doing here is a mystery.  His eyes shine with a strange,
+almost human intelligence.    
+~
+254027 0 0 0 1064 0 0 0 0
+50 -30 10 1d2000+30000 50d50+50
+80 90
+9 9 1 0 -1 -1
+#19315
+H M 0~
+conductor~
+the conductor~
+&03The conductor waits to take your fare in exchange for passage on his locomotive.&00
+~
+   The conductor is a sharply dressed chap.  A traditional conductor's cap sits
+snugly on his head and a black suit jacket profiles his white dress shirt and
+tie underneath.  His face has a nice curve to it, and he has a rather amicable
+expression.    
+~
+253962 0 0 0 1068 0 0 0 0
+50 -30 10 1d2000+30000 50d50+50
+80 90
+9 9 1 0 -1 -1
+#19316
+H M 0~
+hobo rupert filthy~
+Rupert~
+&03A filthy hobo paces about the station, offering to hold people's money.&00
+~
+   A man wearing raggedy, dirt-stained clothes wanders around the station
+muttering to himself.  He lunges at anyone who makes eye contact and promises
+to hold their money for them.    
+~
+253962 0 0 0 1084 0 0 0 0
+50 -30 10 1d2000+30000 50d50+50
+80 90
+9 9 1 0 -1 -1
+#19317
+H W 0~
+Calcifer~
+Calcifer~
+A large fire crackles away at your feet.
+~
+   A being of pure fire, Calcifer has no physical body.  He is a demon of the
+highest order and his immense power is as obvious as his disapproval of your
+presence here.  The magic he wields is strong enough to enchant the entire
+castle he guards, and more than strong enough to protect it from mere mortals.
+He glares at you from behind two smoldering eyes as he bathes the room in
+purifying flames, you are certain the correct path lies back the way you came
+~
+253979 0 0 0 33960 0 0 0 0
+50 -15 -10 1d1+15000 10d6+90
+80 90
+9 9 0 0 -1 -1
+#19318
+H W 0~
+Howell Jenkins Wizard Pendragon~
+Howell Jenkins~
+The &11Wizard Pendragon&00 is here preparing various spells.
+~
+Howl is known by many names. To some he is a hero, to some a coward, and
+to many a heartbreaker. Born with a brilliant gift for magic, Howl makes
+his living providing charms and spells to adventurers from his home in the
+moving castle. Peering at you curiously from behind his cloak the (great?)
+wizard beckons you toward a door with a &09c&00&08o&00&11l&00&05o&00&06r&00&03e&00&14d&00 wheel set into its lintle. 
+Howl makes a quaint gesture with his hand causing the wheel to spin and 
+says softly, 'where can I take you, friend?'
+~
+1073995786 0 0 0 5276840 0 0 0 0
+51 -30 -10 1d1+30000 1d1+0
+100 100
+9 9 0 0 -1 -1
+Z 19307
+#19319
+H M 0~
+Grandma Sophie~
+Grandma Sophie~
+Sophie is here, waiting to take you to your room.
+~
+   While her appearance is that of an old woman, her actions tell a different
+story; the spirit of youth is in this girl.  From her ceaseless care of the
+castle to the attention she gives all her patrons, she works tirelessly and
+often without thanks.  You get the impression that her friendly disposition
+masks a great sadness; like everything else in this castle, a great mystery
+undoubtedly lies in her past.    
+~
+1073995787 0 0 0 1192 0 0 0 0
+51 -15 10 1d1+30000 10d10+100
+100 100
+9 9 0 0 -1 -1
+#19320
+H R 12~
+guard unused~
+unused clan guard~
+Celers, the great warrior of Romulus stands here guarding the entrance.
+~
+   Celers is a very tall and athetlic human.  His dark brown eyes stare you
+down as you approach and a warm smile welcomes the brethren.  He is well known
+for his brutally bloody fights in which he has always reigned superior.  A
+loyal clansmen, he more than happily guards the entrance to this great hall.  
+
+~
+253962 0 0 0 132136 0 0 0 0
+50 -15 -10 1d1+15000 10d6+90
+80 90
+9 9 1 12 20 -1
+#19321
+H R 0~
+unused receptionist~
+unused receptionist~
+an unused clan receptionist
+~
+undefined~
+24586 0 0 0 132136 0 0 0 0
+50 -15 -10 1d1+30000 20d20+100
+80 90
+9 9 1 0 -1 -1
+#19322
+H R 0~
+unused~
+unused~
+an unused clan mob
+~
+undefined~
+1073963018 0 0 0 1049640 0 0 0 0
+50 -15 -10 1d1+30000 20d20+100
+90 80
+9 9 1 0 -1 -1
+#19323
+H R 0~
+gay al~
+Big Gay Al~
+Big Gay Al beckons you to approach him.
+~
+   He is a big overwright sweaty man wearing overalls.  Quite repulsive really,
+and i think he wants to give you a kiss.    
+~
+1073995786 0 0 0 1049640 0 0 0 0
+50 -15 -10 1d1+30000 100d100+100
+0 0
+9 9 1 0 -1 -1
+Z 19307
+#19324
+H R 0~
+clan guard~
+unused clan guard~
+an unused clan guard
+~
+undefined~
+253978 0 0 0 1049768 0 0 0 0
+50 -15 -10 1d1+15000 10d10+90
+80 90
+9 9 1 0 -1 -1
+#19326
+H W 0~
+dante wizard~
+Dante~
+Dante, the great wizard stands here waiting to serve you.
+~
+   Dante is a very old gentleman, barely able to walk but can communicate quite
+well with you.  He is known for his great abilities in the art of magic.  His
+spells are used throughout the realm and have both helped and hurt the mortals
+of the world.  He has dedicated the rest of his life to bring better things to
+the great guild that he is now a part of, Outlaws.    
+~
+188442 0 0 0 1064 0 0 0 -1000
+50 -15 -10 1d1+0 20d10+50
+90 80
+9 9 1 0 -1 -1
+#19330
+H R 0~
+king guard man 19330~
+King Mob~
+An alert man meditates alone.
+~
+His bald head reflects the light from your eyes.
+Multiple silver earrings hang from his piereced ears.
+Toned, sinewy muscles bulge through his clothing:
+black leather jacket, matching pants and steel-toed boots.
+He looks at you with a devilish grin on his face and asks:
+"Have you opened your eyes today?"
+~
+24586 0 0 0 132136 0 0 0 0
+50 -15 -14 1d1+15000 10d6+90
+80 90
+9 9 1 0 -1 -1
+#19331
+H M 0~
+tom o'bedlan obedlam man aged 19331~
+Tom O'Bedlam~
+An aged man stands aloof, aware.
+~
+Grey wisps of hair surround his balding old head.
+Powerful, searing eyes stare straight into your soul.
+A brown overcoat worn and soiled by numerous travels
+conceals an aging body of many times and experiences.
+Sitting cross-legged, musing about the past, or future,
+he hums a tune filled with power in its simplicity.
+"Are you ready to leave this reality?"
+~
+24586 0 0 0 132136 0 0 0 0
+50 -15 -14 1d1+10000 10d6+60
+80 90
+6 9 1 0 -1 -1
+#19332
+H W 0~
+unused clan shopkeeper~
+unused clan shopkeeper~
+unused clan shopkeeper stands here
+~
+undefined~
+180234 0 0 0 1064 0 0 0 0
+50 -24 -4 1d1+30000 40d40+40
+0 0
+9 9 0 0 -1 -1
+#19333
+H W 0~
+celers guard~
+Celers~
+Celers, the great warrior of Romulus stands here guarding the entrance.
+~
+   Celers is a very tall and athetlic human.  His dark brown eyes stare you down
+as you approach and a warm smile welcomes the brethren.  He is well known for
+his brutally bloody fights in which he has always reigned superior.  A loyal
+clansmen, he more than happily guards the entrance to this great hall.
+~
+253979 0 0 0 33960 0 0 0 -1000
+50 -30 -10 1d1+30000 40d40+100
+80 90
+9 9 1 0 4 8
+#19334
+H W 0~
+bundy bear~
+Bundy the Bear~
+A giant white polar bear stands here.
+~
+As the alcohol from the rum starts to affect your body and mind, a gigantic
+white polar bear, one that looks strikingly similar to the one from the label of
+that flagon suddenly appears before you.  He offers you that one last swig of
+his smooth, smooth rum then picks you up and throws you over his shoulder,
+carrying you to your swag, where you crawl inside.  Dream easy you drunken lout.
+~
+155658 0 0 0 1192 0 0 0 0
+50 -20 -5 1d1+30000 40d40+70
+50 0
+9 9 0 0 -1 -1
+Z 19307
+#19335
+H M 0~
+Artegas~
+Artegas~
+Artegas resides here, observing the worlds.
+~
+In the days of his youth, he was a feverent explorer.  His desire for knowledge
+is overwhelming even to this day.  He has seen the far corners of the land,
+traversed the darkest labyrinths, and returned to tell his tale.  Age wears
+itself visibly upon his face.  No longer a youth, he has retired to this
+location.  From here, he is able to maintain watch over the world around him,
+albeit with unquenchable thirst for exploration.  He has the ability to take you
+to wherever you desire.
+~
+196618 0 0 0 1049640 0 0 0 0
+51 -5 10 1d25000+4000 50d20+50
+0 50
+9 9 0 13 7 -1
+Z 19310
+#19340
+H M 0~
+Tikbalang~
+Tikbalang~
+Tikbalang is standing here doing something with his nose.
+~
+   You take a good long look at the creature that guards the great double doors
+of the coven.  It seems to be one of the creatures out of legends, One of those
+rumored to be seen by those who traverse the great forests.  It is called a
+tikbalang.  It is about 7 and a half feet tall, it has Hooves instead off feet
+and has a head of a horse.  Its massive body is corded in muscle and in its
+right hand it holds a great double bladed war axe.  Plainly, it would be
+foolish to underestimate a creature such as this.  It notices you looking at it
+and stares at you with his odd smoky gray eyes.    
+~
+24586 0 0 0 4326568 0 0 0 -100
+51 -15 -10 1d1+15000 10d6+90
+80 90
+9 9 0 0 4 -1
+#19341
+H M 0~
+Khepri~
+Khepri~
+Khepri awaits to tend to your needs.
+~
+   This god has the act of delivering your soul to the next realm of existence.
+Centuries have passed and yet he is still here, working as hard as ever to make
+sure No one gets left behind wandering aimlessly in this god-forsaken realm.  
+As he beckons you forth you realize there is a kindness in his gesture.  As
+your soul is slowly Floats up into the heavens a peaceful feeling surrounds
+you.    
+~
+253962 0 0 0 4228280 0 0 0 0
+51 20 10 1d1+30000 100d1+90
+80 90
+9 9 0 0 -1 -1
+#19342
+H M 0~
+Chryseis, An Ancient Gold Wyrm~
+Chryseis, An Ancient Gold Wyrm~
+A huge gold wyrm lands with a THUMP!
+~
+   You look at the glistening gold scales of a dragon well over four hundred
+feet in length and well over a thousand years old.  She tenses, bunching her
+massive muscles, her wings fold in close to her body, smoke starts to stream
+from her nostrils.    
+~
+254026 0 0 0 0 0 0 0 0
+51 -30 -20 1d2000+30000 100d100+100
+90 100
+9 9 2 0 -1 -1
+#19343
+H M 0~
+Tara the House Matron~
+Tara the House Matron~
+Tara smiles at you and says, 'You room has been prepared.'  
+~
+   Tara is a stunning woman of about 6 feet, her long, dark hair cascades all
+down around her shoulders and neck.  She is dressed in a loose red silk shirt
+decorated with gold dragons along the sleeves, she also wears black silk pants
+and black silk slippers.    
+~
+254026 0 0 0 0 0 0 0 0
+51 -30 -20 1d2000+30000 100d100+100
+90 100
+9 9 2 0 -1 -1
+#19344
+H M 0~
+Diwata Maria~
+Maria~
+An alluring Diwata smiles at you, charming you with her enchanting gaze.
+~
+Maria , the Diwata is wearing a long translucent dress revealing her voluptuous
+beautiful body.  Her naked feet seems to float inches above the frozen lake as
+she walk towards you.  As she draws nearer, your body seems to be getting numb
+and the world behind you slowly begins to fade.  As she presses her body up
+against yours, Maria whispers into your ear.  "Where do you want to be mortal?"
+~
+10 0 0 0 4195496 0 0 0 0
+51 0 -10 50d200+5000 20d20+40
+0 0
+9 9 0 0 -1 -1
+Z 19311
+#19350
+D S 0~
+spot~
+Spot~
+A fierce red dragon is here.
+~
+This enormous red dragon seems content to lay here and
+guard the area to the south from intruders.  You think he must be a pet
+when you see the tag around his neck with the name "Spot" inscribed on
+it.
+~
+253978 0 0 0 4424840 3072 0 0 -1000
+50 0 -20 1d1+30000 51d51+100
+80 90
+9 9 0 4 8 16
+#19351
+D S 0~
+Fluffy guard dragon~
+Fluffy~
+A dragon stands here, stopping all non-Wanderers.
+~
+This great red dragon is obviously related to the one
+guarding the entrance to the clan hall.  He seems content to lay here
+and guard the Wanderers inner sanctum from intruders.  You think he must
+be a pet when you see the tag around his neck with the name "Fluffy"
+inscribed on it.
+~
+256010 0 0 0 5473450 3072 0 0 -1000
+50 0 -20 1d1+30000 50d50+50
+80 90
+9 9 0 4 16 10
+#19352
+H M 0~
+kitty~
+Kitty~
+Kitty purrs, 'let me help you get more comfortable.'
+~
+   You see a very attractive woman standing here, in nothing but a long, black
+trench coat and red, 5 inch stiletto heels.  She approaches you, swaying
+seductively, and in a sultry voice inquires, 'is there...  *anything* I can do
+for you?    
+~
+245786 0 0 0 99496 0 0 0 1000
+50 0 -20 1d1+30000 50d50+100
+80 90
+9 9 2 23 18 4
+#19353
+U D 0~
+guard darkness~
+the Flowing Darkness~
+Flowing Darkness
+~
+ The walls around you seem to flow with darkness.  You
+swear you feel eyes upon you.
+~
+253978 0 0 0 5997738 0 0 0 -1000
+50 0 -20 1d1+30000 50d50+100
+80 90
+9 9 0 1 7 23
+#19354
+H M 0~
+Roland~
+Roland~
+Roland is here, scurrying around the shop.
+~
+   Roland has a sword strapped to his back and heavy armor protecting him.  He
+looks prepared to meet it all at the last stop.    
+~
+49162 0 0 0 33952 0 0 0 0
+50 0 -20 1d1+30000 5d50+100
+80 90
+9 9 1 0 -1 -1
+#19355
+H M 0~
+Hank~
+Hank~
+You see a blacksmith here, bulging with muscles.
+~
+   This magnificent man is everything you could possibly ever need.  All muscle
+and sweat, he is the perfect male specimen.  Women want him, men want to be
+him.    
+~
+180234 0 0 0 33960 0 0 0 0
+50 0 -20 1d1+30000 50d50+100
+80 90
+9 9 1 0 -1 -1
+#19356
+H T 0~
+Alvin~
+Alvin~
+a shadowy figure lurks here
+~
+  Here stands the 5th chipmunk of the apocolypse. 
+~
+253962 0 0 0 1803432 0 0 0 -1000
+51 -30 -10 20d20+16000 100d100+100
+90 100
+9 9 1 0 0 13
+Z 63
+#19370
+H M 0~
+melba~
+Melba~
+An older lady is standing here, ready to greet you.
+~
+   With a twinkle in her eye you notice that Melba must be one of the kindest
+souls you have ever met.  She is eager to take your things and be as hospitable
+as possible.    
+~
+57354 0 0 0 132136 0 0 0 100
+50 -15 -10 1d1+15000 10d6+90
+80 90
+9 9 0 0 -1 -1
+Z 19307
+#19371
+H M 0~
+william guard will~
+guard~
+Before you stands a towering man, encased in pearl armor.
+~
+   William stands before you, a proud knight of the Brethren.  His armor gleams
+in the sun and his sword rests steadily by his side.  This powerful yet gentle
+looking man seems to be hiding his true prowess for battle.  If things were to
+get rough...  Well, so would he!    
+~
+24586 0 0 0 132136 0 0 0 100
+50 -15 -10 1d1+15000 10d6+90
+80 90
+9 9 1 0 -1 -1
+#19380
+E M 0~
+bodie~
+Bodie~
+Bodie glares at you and grumbles, 'Get lost.'
+~
+Before you stands a rough shaven and rather frail looking wise elf.  However,
+with the clothes he is wearing, the stature could be deceiving.  He is wearing a
+black robe with a silver emblem of a five headed dragon.  There are some
+undeterminable splatter marks that can only be seen on the emblem.  They
+resemble fresh blood marks.  Worn atop his head is a grand fez.  He has a
+gnarled staff in one hand and an orb of unimaginable power in the other.  The
+only thing that he says to you is, 'Get lost prebuscant scourge of a holy worm
+wallflower...'
+~
+24586 0 0 0 132136 0 0 0 -1000
+50 -15 -10 1d1+15000 10d6+90
+80 90
+9 9 1 0 -1 -1
+#19381
+H T 0~
+shayde~
+Shayde~
+Shayde is here ready to escort you to your room.
+~
+As you gaze upon this beautiful woman, you notice she has long, silken, silvery
+hair that falls down to her waist.  Her eyes are the color of the deep blue sea. 
+She is wearing a long frail skirt that is near transparent.  It allows you to
+see the wonderful curves of her legs and hips.  She is wearing a short cropped
+top that laces in the front between her large heaving chest.  She has a small
+rose shaped tattoo next to her belly button.  Wrapped around her waist is a
+chain made of gold with platinum and diamond trinkets.  Just as you are about to
+get lost in her beauty, you notice small shiney objects hidden in just about
+every place possible.  On a closer inspection, you notice they are deadly
+daggers.
+~
+57354 0 0 0 132136 0 0 0 -1000
+50 -15 -10 1d1+15000 10d6+90
+80 90
+9 9 0 0 -1 -1
+#19386
+U N 0~
+avatar nemesis m19386~
+the &07Avatar of Nemesis&00~
+An immense being, formed from the bodies of his victims, stands here judging you.
+~
+The most ancient of lore tells of this being as the avatar of the god Nemesis.  Composed 
+of the bodies of his god's fallen enemies. Legend says that every kill, every soul damned 
+to an eternity of suffering for their ways, brings greater strength to this being and to 
+those he protects.  All those who enter here must pass HIS scrutiny or be numbered 
+among those sacrificed to his endless thirst for vengeance.
+~
+237594 0 0 0 542356520 3104 0 0 0
+51 -20 -20 1d1+30000 120d120+100
+90 100
+9 9 0 19 12 6
+#19390
+N M 0~
+Baalzebub~
+Baalzebub~
+A terrifying Vision of Baalzebub stands guard over his myrmidons here.
+~
+   Vaguely humanoid he stands here, with an aura of evil, so fierce it should
+deter all that are not known to him, away.  Shadows flow around his body.  His
+eyes, scorching red, alit with fire.  His hair, black as the night.  He wears a
+shimmering cloak, hued royal red with the blood of the untold innocents he has
+slaughtered.  A dagger tucked snugly inside his belt, glistens for an instant,
+he stands languidly upon your arrival.    
+~
+57354 0 0 0 32896 0 0 0 0
+50 -30 -10 1d1+15000 10d60+50
+80 90
+9 9 0 0 -1 -1
+#19391
+H M 7~
+fiend pit demon~
+a Pit fiend~
+A pit fiend stands here inviting you into the depths of hell.
+~
+This fiend is one chubby looking creature. His evil smirk convinces you he is up to no good.
+~
+188426 0 0 0 32768 0 0 0 0
+50 19 10 1d1+15000 10d60+50
+80 90
+9 9 1 0 -1 -1
+#19396
+N S 0~
+Kinison guard guardian Nemesis m19396~
+Kinison~
+A massive guardian is seated here, prepared to mete out justice.
+~
+Before you stands a prodigious figure holding a scale outstretched in one hand,
+and a sickle drawn and poised to strike in the other.  Affixed upon it's brow;
+an opaque blindfold makes it impossible for this figure to see you, though you
+can feel him watching, observing, and sizing you up none the less.  Mental
+images of your past deeds flash in mind, the good, the bad, the sketchy on
+goings that have been your life resurface for an instant.  You snap back to
+your surroundings and realize you've been judged.  The Kinison guards your
+path, and only the righteous may pass.    
+~
+237594 0 0 0 5473448 134176 0 0 0
+50 0 -20 1d1+30000 100d100+100
+80 90
+6 6 0 5 12 19
+#19397
+L W 0~
+Zulthorator receptionist halfling m19397~
+Zulthorator~
+Zulthorator smiles kindly as he prepares to lead you to your quarters.
+~
+Shrouded in the finest of silks and linens, Zulthorator appears well
+paid by the adventurers who lay their heads in his beds.  A retired
+adventurer himself, he is quite eager to hear all the happenings of
+each weary warrior that passes through.  Battle scars line his forearms,
+and as he stretches his right hand towards you to hand you your key you
+notice that he is missing three fingers.  You can assume by his wounds
+that this furfoot halfling was no stranger to danger, and evidently
+not all that fond of healing either.
+~
+188442 0 0 0 536871976 0 0 0 0
+50 -10 -10 1d1+20000 10d10+40
+80 90
+9 9 1 0 -1 -1
+#19398
+H M 0~
+Devotion_Forsaken_clanshop_keeper~
+Devotion~
+Devotion stands here ready to take your order.
+~
+Devotion has spent his life traveling the realms.  In his search
+for wisdom, he has concocted several drinks that were essential
+to survive the dangers of Raven.  He now happily prepares these
+drinks for you, so you may continue his work and further the great
+name of Forsaken.
+~
+254043 0 0 0 1192 0 0 0 0
+51 -30 10 1d1+29000 1d1+0
+90 100
+9 9 0 0 -1 -1
+#19399
+I W 0~
+Bane~
+Bane~
+Bane is here pondering how to turn the lights out in the world.
+~
+Standing before you is a scrawny &07dark&00 figure.  He appears to be crackling with
+magic of unknown origins.  Strange undiscernible tattoos cover his arms and
+face.  The only recognizable tattoo is that of a bright &08red&00 fez.  According to
+ancient lore, this is the co-founder of the original Tarsis Shriners in
+existence.  His tricks and mischief are legendary.
+~
+1073995786 0 0 0 5342396 0 0 0 0
+51 -30 -10 1d1+30000 50d50+50
+50 100
+9 9 1 0 -1 -1
+Z 19309
+$

@@ -1,0 +1,238 @@
+# Makerules.  Generated from Makerules.in by configure.
+
+#----------------------------------------------------------------
+# Targets, Rules, and the Kitchen Sink follow.
+#----------------------------------------------------------------
+
+.PRECIOUS:
+.PHONY: bare clean distclean realclean debugmake
+
+#
+# RULES: Clean House
+#
+CLEAN = *.o *.log core errs *~ TAGS *.E errors *.dx *.so .nfs* *.out \
+        *.pixie *.Addrs *.Counts so_locations \#* .\#*
+#                                             ^^^^^^^^
+# WARNING:                                       ||
+#  The \# files that are referenced in the above line are created
+#  by emacs, but make is seeing the # as a comment which essentially
+#  comments out the rest of the CLEAN definition. As a quick fix
+#  the CLEAN and BARE definitions were simply rearranged to add
+#  those files last so as not to affect anything else.
+#
+BARE  = .*.d $(BINARIES) $(CLEAN)
+
+clean ::
+	rm -f $(CLEAN)
+
+bare ::
+	rm -f $(BARE)
+
+realclean ::
+	-@rm -f $(BARE) Makefile ;\
+	if [ "$(LIBRARY)" ]; then \
+	  cd $(LIB); rm -f $(LIBRARY).*; \
+	fi; \
+	if [ "$(INSTALL_BINS)" ]; then \
+	  cd $(BIN); rm -f $(INSTALL_BINS); \
+	fi
+
+# RULES: MAKES, SUBDS:
+#
+#   These two variable control the recursive descent operations of the make
+#   system. When make descends to a new level this test will automatically
+#   detect the presence of underlying Makefiles and set the MAKES variable
+#   with the subdirectory Makefile names.
+#
+ifeq "$(words $(wildcard */Makefile))" "0"
+  MAKES = "_no_subdirs_"
+  SUBDS = 0
+else
+  MAKES = $(wildcard */Makefile)
+  SUBDS = $(words $(MAKES))
+endif
+
+# RULES: Auto Configuration Maintenance
+#
+Makefile : Makefile.in $(TOPSRC)/config.status
+	@echo "    Updating Makefile" ; cd $(TOPSRC); \
+	 CONFIG_FILES=$(CUR_SUB)/Makefile CONFIG_HEADERS= ./config.status
+
+$(CONFIG_DIR)/Makedefs : $(CONFIG_DIR)/Makedefs.in $(TOPSRC)/config.status
+	@echo "    Updating Makedefs" ; cd $(TOPSRC); \
+	 CONFIG_FILES=Makedefs CONFIG_HEADERS= ./config.status
+
+$(CONFIG_DIR)/Makerules : $(CONFIG_DIR)/Makerules.in $(TOPSRC)/config.status
+	@echo "    Updating Makerules" ; cd $(TOPSRC); \
+	 CONFIG_FILES=Makerules CONFIG_HEADERS= ./config.status
+
+$(TOPSRC)/config.status : $(TOPSRC)/configure
+	@echo "    Recheck config.status" ; cd $(TOPSRC); \
+	 ./config.status --recheck
+
+$(TOPSRC)/configure : $(TOPSRC)/configure.ac
+	@echo "    Updating configure"; cd $(TOPSRC); \
+	 autoreconf
+
+# RULES: Makefile Debugging
+#
+showvars :
+	@echo "------------- Make Settings"	; \
+	 echo "  SOLINETROOT = $(SOLINETROOT)"	; \
+	 echo "  METAROOT    = $(METAROOT)"	; \
+	 echo "  METALIB     = $(METAGENLIB)"	; \
+	 echo "  METAGENPL   = $(METAGENPL)"	; \
+	 echo "  CAJUNPL     = $(CAJUNPL)"	; \
+	 echo "-------------"			; \
+	 echo "  TOPSRC"			; \
+	 echo "  $(TOPSRC)"			; \
+	 echo "-------------"			; \
+	 echo "  CONFIG_DIR"			; \
+	 echo "  $(CONFIG_DIR)"			; \
+	 echo "-------------"			; \
+	 echo "  CPPFLAGS"			; \
+	 echo "  $(CPPFLAGS)"			; \
+	 echo "-------------"			; \
+	 echo "  CXXFLAGS"			; \
+	 echo "  $(CXXFLAGS)"			; \
+	 echo "-------------"			; \
+	 echo "  LIBDEPEND"			; \
+	 echo "  $(LIBDEPEND)"			; \
+	 echo "-------------"			; \
+	 echo "  LDLIBS"			; \
+	 echo "  $(LDLIBS)"			; \
+	 echo "-------------"			; \
+	 echo "  LDFLAGS"			; \
+	 echo "  $(LDFLAGS)"			; \
+	 echo "-------------"			; \
+	 echo "  STDINCS"			; \
+	 echo "  $(STDINCS)"			; \
+	 echo "-------------"			; \
+	 echo "  STDLIBS"			; \
+	 echo "  $(STDLIBS)"	 		; \
+	 echo "-------------"			; \
+	 echo "  COMPILE COMMAND"		; \
+	 echo "  $(CC) -c $(CPPFLAGS) $(CFLAGS) fileName.C"	; \
+	 echo "-------------"			; \
+	 echo "  LINK COMMAND"			; \
+	 echo "  $(CC) -o prog.exe prog.src $(LDFLAGS)"		; \
+	 echo "-------------"
+
+
+# RULES: Object Libraries
+#
+ifdef nosharedlibs
+#           Static Libraries
+LIBBLD    = ${AR} rv  ${LIB}/${LIBRARY}.${LIBEXT} ${OBJ}; \
+            ${RANLIB} ${LIB}/${LIBRARY}.${LIBEXT}
+else
+#           Dynamic Libraries
+LIBBLD    = ${CC} ${SHLIB_LDFLAGS} ${LDFLAGS} ${LIBDEPEND} \
+               -o ${LIB}/${LIBRARY}.${LIBEXT} ${OBJ} ${TEMPLATES}
+endif
+
+# RULES: Building Libraries
+#
+${LIB}/${LIBRARY}.${LIBEXT}: ${OBJ}
+	@if [ -f  ${LIB}/${LIBRARY}.${LIBEXT} ]; then \
+	  mv -f ${LIB}/${LIBRARY}.${LIBEXT} ${LIB}/${LIBRARY}.${LIBEXT}.old; \
+	fi
+	@echo "    Installing ${LIBRARY}"; ${LIBBLD}; ${LIBRAN}
+	@${RM} ${LIB}/${LIBRARY}.${LIBEXT}.old
+
+$(LIBRARY): $(LIB)/$(LIBRARY).${LIBEXT}
+
+${LIB_DIR_I}/${LIBRARY}.${LIBEXT}: ${LIB}/${LIBRARY}.${LIBEXT}
+${INSTALL_LIBRARY}: ${LIB}/${LIBRARY}.${LIBEXT}
+	@$(CONFIG_DIR)/mkinstalldirs $(LIB_DIR_I) ; \
+	echo "    Installing $< in $(LIB_DIR_I)" ; \
+	$(INSTALL_DATA) $< $(LIB_DIR_I)
+
+# RULES: Building Binaries
+#
+ifdef vxworks
+$(BINARIES): % : %.o ${LIBDEPEND}
+	@echo "Building and Munching: $@"; $(RM) $@; \
+	if [ -f  $@.C ]; then \
+	 $(CC) $(CPPFLAGS) $(CFLAGS) -c $@.C; \
+	else \
+	 $(CC) $(CPPFLAGS) $(CFLAGS) -c $@.c; \
+	fi; \
+	$(LD) -X -N $(LD_PARTIAL_FLAGS) -o a.o $< $(LDFLAGS) ${LIBDEPEND}; \
+	$(NM)  a.o | munch > ctdt.c; \
+	$(MAKE) -s CC_COMPILER="-traditional" ctdt.o; \
+	$(LD) $(LD_PARTIAL_FLAGS) -o $@ a.o ctdt.o ; \
+	$(RM) ctdt.c ctdt.o a.o *.out; \
+	$(INSTALL_PROGRAM) $@ $(BIN)
+else
+$(BINARIES): % : %.o
+	@$(CC) -o $@ $< $(LDFLAGS) ; \
+	 echo "    Installing $@ in $(BIN)" ; \
+	 $(INSTALL_PROGRAM) $@ $(BIN)
+endif
+
+${INSTALL_BINARIES}:: ${BIN_DIR_I}/% : %
+	@${CONFIG_DIR}/mkinstalldirs ${BIN_DIR_I} ; \
+	$(CC) -o $< $<.o $(subst $(LIB),$(LIB_DIR_I),$(LDFLAGS)) ; \
+	echo "    Installing $< in ${BIN_DIR_I}" ; \
+	${INSTALL_PROGRAM} $< ${BIN_DIR_I}
+
+# RULES: Installing Headers
+#
+ifeq "$(INSTALL_SDIR)" ""
+${HEADERS} :: ${INC}/% : %
+	@$(CONFIG_DIR)/mkinstalldirs $(INC) ; \
+	echo "    Installing $< in $(INC)" ; \
+	$(INSTALL_DATA) $< $(INC)
+
+${INSTALL_HEADERS} :: ${INC_DIR_I}/% : %
+	@$(CONFIG_DIR)/mkinstalldirs $(INC_DIR_I) ; \
+	echo "    Installing $< in $(INC_DIR_I)" ; \
+	$(INSTALL_DATA) $< $(INC_DIR_I)
+else
+${HEADERS} :: ${INC}/${INSTALL_SDIR}/% : %
+	@$(CONFIG_DIR)/mkinstalldirs $(INC)/$(INSTALL_SDIR) ; \
+	echo "    Installing $< in $(INC)/$(INSTALL_SDIR)" ; \
+	$(INSTALL_DATA) $< $(INC)/$(INSTALL_SDIR)
+
+${INSTALL_HEADERS} :: ${INC_DIR_I}/${INSTALL_SDIR}/% : %
+	@$(CONFIG_DIR)/mkinstalldirs $(INC_DIR_I)/$(INSTALL_SDIR) ; \
+	echo "    Installing $< in $(INC_DIR_I)/$(INSTALL_SDIR)" ; \
+	$(INSTALL_DATA) $< $(INC_DIR_I)/$(INSTALL_SDIR)
+endif
+
+# RULES: Implicit Definitions and Overides
+#
+%.H %.C: %.meta
+	$(METAGENPL) -class $*
+
+%.H %.C: %.caj
+	$(CAJUNPL) -class $*
+
+%.o: %.C
+	@echo "    Compiling  $*"
+	@$(CC) -c $(CPPFLAGS) $(CFFLAGS) $<
+
+%.o: %.c
+	@echo "    Compiling  $*"
+	@$(CC) -c $(CPPFLAGS) $(CFLAGS) $<
+
+# RULES: Dependencies
+#
+.%.d: %.cc
+	@echo "    Depending  $<"
+	@$(SHELL) -ec '$(CXX) -M $(CPPFLAGS) $<  > $@'
+
+.%.d: %.C
+	@echo "    Depending  $<"
+	@$(SHELL) -ec '$(CC) -M $(CPPFLAGS) $(INCLUDE_DIRS) $<  > $@'
+
+.%.d: %.c
+	@echo "    Depending  $<"
+	@$(SHELL) -ec '$(CC)  -M $(CPPFLAGS) $<  > $@'
+
+# The following is for automatic dependencies
+ifndef noautodeps
+-include $(DEPS)
+endif
+

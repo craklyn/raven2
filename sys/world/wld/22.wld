@@ -1,0 +1,1544 @@
+#2201
+Entrance to Gnome Village~
+You stand on a dusty path that leads north and east.  To the east you hear
+the sounds of a small village. To the north lies a small farm.
+~
+22 c 0 0 0 2
+D0
+A well-kept gate lies between you and a road leading up to the farm.
+~
+gate gates~
+1 -1 17201
+D1
+You see a dusty path.
+~
+~
+0 -1 2202
+D2
+City Entrance.
+~
+0~
+0 -1 3052
+D3
+~
+~
+0 0 10901
+S
+#2202
+A Dusty Path~
+This is a path leading into the village.  It continues east and west and
+there is a small house to the north.
+~
+22 0 0 0 0 1
+D0
+You see a small house.
+~
+~
+0 -1 2209
+D1
+You see a road.
+~
+~
+0 -1 2203
+D3
+You see a path.
+~
+~
+0 -1 2201
+S
+#2203
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+22 0 0 0 0 1
+D0
+You see a road.
+~
+~
+0 -1 2205
+D1
+You see a path.
+~
+~
+0 -1 2204
+D2
+You see a road.
+~
+~
+0 -1 2207
+D3
+You see a road.
+~
+~
+0 -1 2202
+S
+#2204
+A Dusty Path~
+You are on a dusty path on the far side of the village.  Houses are to the
+north and south, while the path continues east.  There is a sign here.
+~
+22 0 0 0 0 1
+D0
+You see a house.
+~
+~
+0 -1 2212
+D1
+You see a path.
+~
+~
+0 -1 2259
+D2
+You see a house.
+~
+~
+0 -1 2213
+D3
+You see a road.
+~
+~
+0 -1 2203
+E
+sign~
+   Warning:  The area to the east was written mostly by Vougon
+                    (giggle)    - Sandman
+~
+S
+#2205
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+22 0 0 0 0 1
+D0
+You see a road.
+~
+~
+0 -1 2206
+D1
+You see a house.
+~
+~
+0 -1 2211
+D2
+You see a road.
+~
+~
+0 -1 2203
+D3
+You see a house.
+~
+~
+0 -1 2210
+S
+#2206
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+22 0 0 0 0 1
+D0
+You see a road.
+~
+~
+0 -1 2226
+D2
+You see a road.
+~
+~
+0 -1 2205
+S
+#2207
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+22 0 0 0 0 1
+D0
+You see a road.
+~
+~
+0 -1 2203
+D2
+You see a road.
+~
+~
+0 -1 2208
+D3
+You see a shop.
+~
+~
+0 -1 2214
+S
+#2208
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+22 0 0 0 0 1
+D0
+You see a road.
+~
+~
+0 -1 2207
+D1
+You see a shop.
+~
+~
+0 -1 2216
+D2
+You see a small path.
+~
+~
+0 -1 2217
+D3
+You see a shop.
+~
+~
+0 -1 2215
+S
+#2209
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+22 d 0 0 0 0
+D2
+You see a path.
+~
+~
+0 -1 2202
+S
+#2210
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+22 d 0 0 0 0
+D1
+You see a path.
+~
+~
+0 -1 2205
+S
+#2211
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+22 d 0 0 0 0
+D3
+You see a path.
+~
+~
+0 -1 2205
+S
+#2212
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+22 d 0 0 0 0
+D2
+You see a path.
+~
+~
+0 -1 2204
+S
+#2213
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+22 d 0 0 0 0
+D0
+You see a path.
+~
+~
+0 -1 2204
+S
+#2214
+A Gnome Shop~
+You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+22 d 0 0 0 0
+D1
+You see a road.
+~
+~
+0 -1 2207
+S
+#2215
+A Gnome Shop~
+You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+22 d 0 0 0 0
+D1
+You see a road.
+~
+~
+0 -1 2208
+S
+#2216
+A Gnome Shop~
+You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+22 d 0 0 0 0
+D3
+You see a road.
+~
+~
+0 -1 2208
+S
+#2217
+Path by a Stream~
+You are on a small path leading north and west, that is surrounded on the
+other two sides by a small stream.  The water looks mighty cold.
+~
+22 c 0 0 0 2
+D0
+You see a road.
+~
+~
+0 -1 2208
+D2
+You see the stream.
+~
+~
+0 -1 2220
+D3
+You see a small path.
+~
+~
+0 -1 2218
+E
+stream~
+The stream is pretty small, but it looks too cold to swim.
+~
+S
+#2218
+Path by a Stream~
+You are on a small east-west path.  The path shows new grass, as if it
+has stopped being used sometime in the recent past.  A river is to the south,
+and a small hut is to the west.
+~
+22 0 0 0 0 2
+D1
+You see a small path.
+~
+~
+0 -1 2217
+D2
+You see the stream.
+~
+~
+0 -1 2221
+D3
+You see a small hut that is starting to fall apart.
+~
+~
+0 -1 2219
+E
+stream~
+The stream is pretty small, but it looks too cold to swim.
+~
+E
+hut~
+The hut looks well built, but it seems to have taken some damage.
+~
+S
+#2219
+A Small Hut~
+The hut is a mess!  Blood has stained the grass walls into a dark rich
+crimson color.  Torn clothes and trash lie all around, and you think you
+see a skeleton in the corner.
+~
+22 d 0 0 0 0
+D1
+You see a small path.
+~
+~
+0 -1 2218
+E
+skeleton~
+The skeleton still has a little flesh clinging to it and it is definitely
+humanoid.  The skull has been cracked open, but it is otherwise undamaged,
+except by time.
+~
+S
+#2220
+On the Stream~
+The stream is cold and frigid, yet it supports plenty of life beneath its
+surface.  The current trickles west and there is a field to the south.
+~
+22 0 0 0 0 7
+D0
+You see a small path.
+~
+~
+0 -1 2217
+D2
+You see a grassy field.
+~
+~
+0 -1 2222
+D3
+You see a small stream.
+~
+~
+0 -1 2221
+S
+#2221
+On the Stream~
+The current here flows from the east, but a logjam blocks you from 
+continuing onward.
+~
+22 0 0 0 0 7
+D0
+You see a small path.
+~
+~
+0 -1 2218
+D1
+You see a small stream.
+~
+~
+0 -1 2220
+S
+#2222
+The Field of Mice's Dreams~
+This is a large green field of waist high grass.  You feel something
+scurry over your feet.  There is a cave to the east.
+~
+22 0 0 0 0 2
+D0
+You see a small stream.
+~
+~
+0 -1 2220
+D1
+You see a dark mysterious cave.
+~
+~
+0 -1 2223
+S
+#2223
+The Dark Cave~
+The cave gleams as your light reflects off of it.  As you squint your eyes
+and try to look ahead, you think you see something move.
+~
+22 a 0 0 0 3
+D0
+~
+~
+0 -1 2224
+D3
+You see a grassy field.
+~
+~
+0 -1 2222
+S
+#2224
+Darker Cave~
+The cave gets even darker as your terror grows stronger.  You fear for your
+life as something emerges out of the shadows.
+~
+22 a 0 0 0 3
+D2
+~
+~
+0 -1 2223
+S
+#2226
+A Dusty Path~
+You are on a well traveled path that leads in many directions.  To the north
+is a large house, and to the west is a fortress.
+~
+22 c 0 0 0 1
+D0
+You see a large white house.
+~
+~
+0 -1 2258
+D2
+You see a road.
+~
+~
+0 -1 2206
+D3
+You see the gateway to a large fortress.
+~
+~
+0 -1 2227
+E
+fortress~
+The fortress is a large gnome stronghold to defend the city.
+~
+S
+#2227
+The Iron Gateway~
+You stand at the entrance to the gnome fortress.  The place seems to be
+well fortified.
+~
+22 0 0 0 0 1
+D1
+You see a small path.
+~
+~
+0 -1 2226
+D3
+You see a long hallway.
+~
+~
+0 -1 2228
+S
+#2228
+A Long Hallway~
+You are now inside of the fortress; you must be lucky that the guards 
+haven't killed you.  As you glance around, you notice that the walls and
+floors are spotlessly cleaned.  The barracks are to the north and a
+storage room is to the south.
+~
+22 d 0 0 0 0
+D0
+You see the barracks.
+~
+~
+0 -1 2230
+D1
+You see the gateway.
+~
+~
+0 -1 2227
+D2
+You see a storage room.
+~
+~
+0 -1 2232
+D3
+You see a long hallway.
+~
+~
+0 -1 2229
+S
+#2229
+A Long Hallway~
+You are now inside of the fortress; you must be lucky that the guards 
+haven't killed you.  As you glance around, you notice that the walls and
+floors are spotlessly cleaned.  A mess hall is to the south.
+~
+22 d 0 0 0 0
+D1
+You see a long hallway.
+~
+~
+0 -1 2228
+D2
+You see the mess hall.
+~
+~
+0 -1 2234
+D3
+You see a small room.
+~
+~
+0 -1 2235
+S
+#2230
+The Barracks~
+You now stand in the sleeping quarters of the gnome guards.  Every bed is
+made perfectly, and not single article of clothing is on the floor.  There
+is a small storage room to the east.
+~
+22 d 0 0 0 0
+D1
+You see a small storage room.
+~
+~
+0 -1 2231
+D2
+You see a long hallway.
+~
+~
+0 -1 2228
+S
+#2231
+A Small Storage Room~
+This is where the gnomes store all their spare clothing and armor.
+There is not much here, but you might come up with something.
+~
+22 d 0 0 0 0
+D3
+You see the barracks.
+~
+~
+0 -1 2230
+S
+#2232
+A Small Storage Room~
+This is where the gnomes store all their spare weapons.  A door leads off
+to the east.
+~
+22 d 0 0 0 0
+D0
+You see a long hallway.
+~
+~
+0 -1 2228
+D1
+You see a small room.
+~
+~
+0 -1 2233
+S
+#2233
+A Small Storage Room~
+This is yet another room for storing gnome stuff.  Maps and battle plans
+are stored in neat stacks on the shelves.
+~
+22 d 0 0 0 0
+D3
+You see a small room.
+~
+~
+0 -1 2232
+S
+#2234
+The Mess Hall~
+You are in the room where the guards come to get their grub.  The benches 
+and tables are neatly cleaned and straightened, while shiny plates line
+the walls.
+~
+22 d 0 0 0 0
+D0
+You see a long hallway.
+~
+~
+0 -1 2229
+S
+#2235
+A Small Room~
+This is a small plain room.  Its only interesting feature is a ladder down.
+~
+22 d 0 0 0 0
+D1
+You see a long hallway.
+~
+~
+0 -1 2229
+D5
+You see darkness.
+~
+~
+0 -1 2236
+S
+#2236
+A Small Unused Room~
+You stand in a small room in an unused section of the fortress.  The whole
+room is coated with dust and cobwebs.  The ladder leads back up, and
+a rusty door is to the east.
+~
+22 ad 0 0 0 1
+D1
+You see a rusty door.
+~
+rusty door~
+2 2200 2237
+D4
+You see a small room.
+~
+~
+0 -1 2235
+S
+#2237
+Dark Hallway~
+You find yourself in a very old section of the fortress.  You must be the
+first person to pass through here in years.  The hallway continues south
+and a door leads off to the east.
+~
+22 ad 0 0 0 2
+D1
+~
+~
+0 -1 2238
+D2
+~
+~
+0 -1 2239
+D3
+You see a rusty door.
+~
+door~
+2 2200 2236
+S
+#2238
+Torture Chamber~
+This is a room that was once used to extract lies out of helpless victims.
+The machines look unused, but could still work.
+~
+22 ad 0 0 0 2
+D3
+~
+~
+0 -1 2237
+E
+machine~
+The machine consists of a large rack with winches on each end.  You can 
+almost feel them pulling your arms out of their sockets.
+~
+S
+#2239
+Dark Hallway~
+The hall continues in a north-south direction.  The floor is coated with
+some kind of molded slime.  Doors lead east and west.
+~
+22 ad 0 0 0 2
+D0
+~
+~
+0 -1 2237
+D1
+~
+~
+0 -1 2242
+D2
+~
+~
+0 -1 2240
+D3
+~
+~
+0 -1 2241
+S
+#2240
+Dark Hallway~
+The hall continues in a north-south direction.  The floor is coated with
+some kind of molded slime.  Doors lead east and west.
+~
+22 ad 0 0 0 2
+D0
+~
+~
+0 -1 2239
+D1
+~
+~
+0 -1 2244
+D2
+~
+~
+0 -1 2243
+D3
+~
+~
+0 -1 2245
+S
+#2241
+Prison Cell~
+You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+22 ad 0 0 0 2
+D1
+~
+~
+0 -1 2239
+S
+#2242
+Prison Cell~
+You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+22 ad 0 0 0 2
+D3
+~
+~
+0 -1 2239
+S
+#2243
+Prison Cell~
+You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+22 ad 0 0 0 2
+D0
+~
+~
+0 -1 2240
+S
+#2244
+Prison Cell~
+You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+22 ad 0 0 0 2
+D3
+~
+~
+0 -1 2240
+S
+#2245
+End of the Dark Hallway~
+You have reached the end of the dark hallway and maybe the end of your puny
+life.  Something lumbers its way out of the shadows.
+~
+22 ad 0 0 0 2
+D1
+~
+~
+0 -1 2240
+D3
+You see a decaying door.
+~
+door~
+2 2201 2246
+S
+#2246
+A Ladder~
+You have come into a vertical tunnel with a ladder.
+~
+22 ad 0 0 0 3
+D1
+You see a decaying door.
+~
+door~
+2 2201 2245
+D5
+~
+~
+0 -1 2247
+S
+#2247
+Lair~
+You have entered a new lair in the fortress.  Anything could be lurking
+around the corner.
+~
+22 ad 0 0 0 2
+D2
+~
+~
+0 -1 2248
+D4
+~
+~
+0 -1 2246
+S
+#2248
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+22 adn 0 0 0 2
+D0
+~
+~
+0 -1 2247
+D1
+~
+~
+0 -1 2249
+D3
+~
+~
+0 -1 2251
+S
+#2249
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+22 adn 0 0 0 2
+D2
+~
+~
+0 -1 2250
+D3
+~
+~
+0 -1 2248
+S
+#2250
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+22 adn 0 0 0 2
+D0
+~
+~
+0 -1 2249
+D2
+~
+~
+0 -1 2255
+S
+#2251
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+22 adn 0 0 0 2
+D1
+~
+~
+0 -1 2248
+D2
+~
+~
+0 -1 2252
+S
+#2252
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+22 adn 0 0 0 2
+D0
+~
+~
+0 -1 2251
+D2
+~
+~
+0 -1 2253
+S
+#2253
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+22 adn 0 0 0 2
+D0
+~
+~
+0 -1 2252
+D1
+~
+~
+0 -1 2254
+S
+#2254
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+22 adn 0 0 0 2
+D0
+~
+~
+0 -1 2256
+D1
+~
+~
+0 -1 2255
+D3
+~
+~
+0 -1 2253
+S
+#2255
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+22 adn 0 0 0 2
+D0
+~
+~
+0 -1 2250
+D3
+~
+~
+0 -1 2254
+S
+#2256
+The End of the Hallway~
+You make your way out of the hallway, just to find yourself in greater
+danger.  Before you looms the source of the great heat.
+~
+22 adn 0 0 0 2
+D1
+~
+~
+0 -1 2257
+D2
+~
+~
+0 -1 2254
+S
+#2257
+The Altar~
+You finally reach the end of the maze.  There is a great altar here in the
+shape of a bat.  A passageway leads off to the west.
+~
+22 adn 0 0 0 2
+D3
+~
+~
+0 -1 2256
+S
+#2258
+The Chief's House~
+You enter into a large and luxurious house.  The floor is coated with carpets
+and the walls are covered in paintings.  You feel privileged just for stepping
+inside.
+~
+22 d 0 0 0 0
+D2
+You see a path.
+~
+~
+0 -1 2226
+S
+#2259
+The Unused Path~
+You are now on a fairly unused path that leads east out of the village.  
+You wonder what could be out this way.
+~
+22 c 0 0 0 1
+D1
+You see a path.
+~
+~
+0 -1 2260
+D3
+You see a path.
+~
+~
+0 -1 2204
+S
+#2260
+The Overgrown Path~
+As the path continues on, the grass grows higher.  You can't imagine
+what could possibly be out this way.
+~
+22 0 0 0 0 2
+D1
+You see a clearing.
+~
+~
+0 -1 2261
+D3
+You see a path.
+~
+~
+0 -1 2259
+S
+#2261
+The Clearing~
+Your progress is suddenly stopped by mountains on all sides.  The path leads
+back to the west, and there appears to be an old mine shaft to the north.
+~
+22 0 0 0 0 2
+D0
+You see a mine shaft.
+~
+~
+0 -1 2262
+D3
+You see a path.
+~
+~
+0 -1 2260
+S
+#2262
+Entrance to the Mine Shaft~
+As you enter the mine shaft, you get a sudden fear of the walls closing
+in on you.  You are surprised to notice that you don't need a light.
+~
+22 d 0 0 0 2
+D1
+You see the shaft.
+~
+~
+0 -1 2263
+D2
+You see the clearing.
+~
+~
+0 -1 2261
+S
+#2263
+Mine Shaft~
+This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions.
+~
+22 d 0 0 0 2
+D0
+You see a small mine shaft.
+~
+~
+0 -1 2282
+D1
+You see the shaft.
+~
+~
+0 -1 2264
+D2
+You see the shaft.
+~
+~
+0 -1 2274
+D3
+You see the entrance.
+~
+~
+0 -1 2262
+S
+#2264
+Mine Shaft~
+This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions.
+~
+22 d 0 0 0 2
+D0
+You see a large room.
+~
+~
+0 -1 2283
+D1
+You see the shaft.
+~
+~
+0 -1 2265
+D2
+You see a large room.
+~
+~
+0 -1 2273
+D3
+You see the shaft.
+~
+~
+0 -1 2263
+S
+#2265
+Mine Shaft~
+This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions
+except north.
+~
+22 d 0 0 0 2
+D1
+You see the walkway.
+~
+~
+0 -1 2266
+D2
+You see a large room.
+~
+~
+0 -1 2272
+D3
+You see the shaft.
+~
+~
+0 -1 2264
+S
+#2266
+Walkway~
+You are on a well built path in the middle of a mountain.  You sense something
+great up ahead, considering the hard work that must have gone into creating
+this passage.
+~
+22 d 0 0 0 1
+D2
+You see the walkway.
+~
+~
+0 -1 2267
+D3
+You see the shaft.
+~
+~
+0 -1 2265
+S
+#2267
+Walkway~
+You are on a well built path in the middle of a mountain.  You sense something
+great up ahead, considering the hard work that must have gone into creating
+this passage.
+~
+22 d 0 0 0 1
+D0
+You see the walkway.
+~
+~
+0 -1 2266
+D2
+You see a large hall.
+~
+~
+0 -1 2268
+S
+#2268
+The Grand Hall~
+You have stepped into the Grand Hall of the hobgoblin kingdom; your luck
+must be running low by now.  Golden pillars span the hallway, and you
+notice a red carpet beneath your feet.
+~
+22 d 0 0 0 0
+D0
+You see the walkway.
+~
+~
+0 -1 2267
+D2
+You see a large room.
+~
+~
+0 -1 2269
+S
+#2269
+The Throne Room~
+This is large bright room filled with Hobgoblins.  To the south there is
+a large golden throne against the wall.
+~
+22 d 0 0 0 0
+D0
+You see a large hall.
+~
+~
+0 -1 2268
+S
+#2270
+The Treasury~
+You are inside the hobgoblin's treasury.  Your eyes are almost blinded by the
+gold, silver and copper coins.
+~
+22 d 0 0 0 0
+D0
+You see a large room.
+~
+~
+0 -1 2271
+S
+#2271
+Guarded Room~
+You are inside a well guarded room.  The place is slightly better built than
+the mine shafts, and is lit by lanterns.
+~
+22 d 0 0 0 1
+D0
+You see a large room.
+~
+~
+0 -1 2272
+D2
+You see a large room.
+~
+~
+0 -1 2270
+S
+#2272
+Guarded Room~
+You are inside a well guarded room.  The place is slightly better built than
+the mine shafts, and is lit by lanterns.
+~
+22 d 0 0 0 1
+D0
+You see a large room.
+~
+~
+0 -1 2265
+D2
+You see a large room.
+~
+~
+0 -1 2271
+S
+#2273
+Hobgoblin Armory~
+The guards store their spare weapons and armor here.  There are rusty swords
+on rotting shelves, and armor hanging from hooks or laying on the floor.
+~
+22 d 0 0 0 1
+D0
+You see the shaft.
+~
+~
+0 -1 2264
+S
+#2274
+Mine Shaft~
+You enter a part of the mine shaft where the torches have grown dim
+and are almost ready to go out.  From what you can see, there are plenty
+of cobwebs on the walls and rats at your feet.
+~
+22 d 0 0 0 2
+D0
+You see the shaft.
+~
+~
+0 -1 2263
+D2
+You see a dark and nasty room.
+~
+~
+0 -1 2275
+S
+#2275
+Entrance to a Dungeon~
+The floor dips slightly as you walk into this dark and nasty place.  Your
+skin crawls as you look at the filth on the walls and see it move.  Most
+of the exits lead into jail cells.
+~
+22 d 0 0 0 2
+D0
+You see the shaft.
+~
+~
+0 -1 2274
+D1
+You see a cell.
+~
+~
+0 -1 2277
+D2
+You see a dark and nasty room.
+~
+~
+0 -1 2276
+D3
+You see a cell.
+~
+~
+0 -1 2281
+S
+#2276
+A Dungeon~
+You are in the deepest and darkest part of the mine shafts.  The light from
+the torches barely reaches to where you are.  Most directions from here
+lead to jail cells.
+~
+22 d 0 0 0 2
+D0
+You see a dark and nasty room.
+~
+~
+0 -1 2275
+D1
+You see a cell.
+~
+~
+0 -1 2278
+D2
+You see a cell.
+~
+~
+0 -1 2279
+D3
+You see a cell.
+~
+~
+0 -1 2280
+S
+#2277
+A Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+22 d 0 0 0 2
+D3
+You see a dark and nasty room.
+~
+~
+0 -1 2275
+S
+#2278
+The Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+22 d 0 0 0 2
+D3
+You see a dark and nasty room.
+~
+~
+0 -1 2276
+S
+#2279
+The Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+22 d 0 0 0 2
+D0
+You see a dark and nasty room.
+~
+~
+0 -1 2276
+S
+#2280
+The Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+22 d 0 0 0 2
+D1
+You see a dark and nasty room.
+~
+~
+0 -1 2276
+S
+#2281
+The Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+22 d 0 0 0 2
+D1
+You see a dark and nasty room.
+~
+~
+0 -1 2275
+S
+#2282
+Small Mine Shaft~
+You are in a small extension of the mine shaft.  The dust on the floor is
+undisturbed by footprints.
+~
+22 d 0 0 0 2
+D0
+You see a small mine shaft.
+~
+~
+0 -1 2288
+D2
+You see the shaft.
+~
+~
+0 -1 2263
+S
+#2283
+Hobgoblin Barracks~
+You are suddenly surrounded by a small army of hobgoblin guards.  The room
+itself is a mess with clothes and armor everywhere.  The beds are unmade and
+stained.
+~
+22 d 0 0 0 2
+D0
+You see a large room.
+~
+~
+0 -1 2284
+D1
+You see the mess hall.
+~
+~
+0 -1 2285
+D2
+You see the mine shaft.
+~
+~
+0 -1 2264
+S
+#2284
+Hobgoblin Barracks~
+Yech!  As you continue forward, the smell just keeps getting worse.
+What are you DOING here?
+~
+22 d 0 0 0 2
+D2
+You see a large room~
+~
+0 -1 2283
+S
+#2285
+Mess Hall~
+You stand in the hobgoblin eating area.  There are a few rotting tables
+and many broken dishes scattered around the room.  You almost slip on a
+rotten piece of meat, but catch yourself just in time.
+~
+22 d 0 0 0 2
+D0
+You see a small room.
+~
+~
+0 -1 2286
+D1
+You see a kitchen.
+~
+~
+0 -1 2287
+D3
+You see a large room.
+~
+~
+0 -1 2283
+S
+#2286
+A Store Room~
+You stand in a small room filled with flour, grain, fruit, and bat droppings.
+~
+22 d 0 0 0 1
+D2
+You see the mess hall.
+~
+~
+0 -1 2285
+S
+#2287
+The Kitchen~
+This kitchen hasn't been cleaned since the creation of humans.  The trash and
+spoiled food laying on the floor reach up to your knees.  Off to the side a
+pot is boiling over.  A human hand floats in it.
+~
+22 d 0 0 0 2
+D3
+You see the mess hall.
+~
+~
+0 -1 2285
+S
+#2288
+A Small Mine Shaft~
+You come to a place in the mine shaft where a tunnel leads down.  The
+small passage continues north and south.
+~
+22 d 0 0 0 2
+D0
+You see an almost caved in area.
+~
+~
+0 -1 2289
+D2
+You see a small mine shaft.
+~
+~
+0 -1 2282
+D5
+You see a hole.
+~
+~
+0 -1 2290
+S
+#2289
+Hermit's Lair~
+You are in a small section where the mine wall has collapsed to reveal a
+tiny one-room cave.  The area is barely lit, but you can make out something
+moving towards you.
+~
+22 d 0 0 0 2
+D2
+You see a small mine shaft.
+~
+~
+0 -1 2288
+S
+#2290
+A Hole~
+You are in a hole.
+~
+22 d 0 0 0 3
+D4
+You see a small mine shaft.
+~
+~
+0 -1 2288
+S
+$~

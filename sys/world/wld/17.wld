@@ -1,0 +1,1337 @@
+#1700
+Obsidian hills~
+   You see before you some shiny black hills. There is very little vegetation
+here. The hills appear to lead to a high mountain to the south east
+~
+17 c 0 0 0 3
+D0
+~
+~
+0 0 4040
+D2
+You see some more hills.  They continue south.
+~
+~
+0 0 1701
+E
+hills~
+The hills are a very shiny black color.
+~
+S
+#1701
+Obsidian hills~
+   You see before you some shiny black hills. There is very little vegetation
+here. The hills appear to lead to a high mountain to the south east
+~
+17 c 0 0 0 3
+D0
+You see some hills to the north.
+~
+~
+0 0 1700
+D2
+You see some more hills to the south.
+~
+~
+0 0 1702
+E
+hills~
+The hills are a very shiny black color.
+~
+S
+#1702
+Obsidian hills~
+   You see before you some shiny black hills. There is very little vegetation
+here. The hills appear to lead to a high mountain to the south east
+~
+17 c 0 0 0 3
+D0
+You see some hills to the north.
+~
+~
+0 0 1701
+D1
+You see the side of the mountain to the east.
+~
+~
+0 0 1703
+E
+hills~
+They are a very shiny black color.
+~
+S
+#1703
+Mountain side~
+   The mountain is very high and looks to be quite old. There are a few cracks
+in the side of the mountain
+~
+17 0 0 0 0 4
+D2
+The mountain continues.
+~
+~
+0 0 1704
+D3
+You see some hills to the west.
+~
+~
+0 0 1702
+E
+mountain~
+The mountain looks like it was formed from something sliding down and stopping.
+~
+S
+#1704
+Mountain side~
+   The mountain is very high and looks to be quite old. There is smoke coming
+from the top of the mountain.
+~
+17 0 0 0 0 4
+D0
+You see mountains to the north.
+~
+~
+0 0 1703
+D2
+The mountain continues.
+~
+~
+0 0 1705
+E
+smoke~
+The smoke is grey and puffs out of the top of the mountain.
+~
+S
+#1705
+Mountain top~
+   You've reached the top of the mountain. You can see more smoke from up here.
+The smoke seems to come from a hole to the south.
+~
+17 c 0 0 0 4
+D0
+You see the side of the mountain to the north.
+~
+~
+0 0 1704
+D2
+You see a hole to the south. It looks like an entrance.
+~
+~
+0 0 1706
+E
+smoke~
+The smoke is grey and is coming from the hole.
+~
+E
+top of mountain~
+The top of the mountain is a large area with a hole in the middle.
+~
+S
+#1706
+Entrance to the mountain~
+   The smoke comes from inside the hole.  It also looks like there is a path
+that leads down. Between the rolling plumes of smoke you can see yet another
+smoldering and sputtering peak off to the northeast.
+~
+17 c 0 0 0 4
+D0
+You see the top of the mountain to the north.
+~
+~
+0 0 1705
+D1
+You can see a turn in a path leading up.
+~
+~
+0 0 9223
+D2
+You see the top of the mountain to the south.
+~
+~
+0 0 1709
+D3
+You see the top of the mountain to the west.
+~
+~
+0 0 1708
+D5
+You can see down inside the mountain.
+~
+~
+0 0 1710
+S
+#1707
+Mountain top~
+   You are standing at the top of the mountain. The mountain looks like it has
+been ravaged by something.
+~
+17 c 0 0 0 4
+D3
+You see the entrance to the mountain to the west.
+~
+~
+0 0 1706
+S
+#1708
+Mountain top~
+   You are standing at the top of the mountain. There are several cracks in the
+ground and you don't feel safe!
+~
+17 c 0 0 0 4
+D1
+You see the entrance to the mountain to the north.
+~
+~
+0 0 1706
+S
+#1709
+Mountain top~
+   You are standing on the top of the mountain and think you should move north.
+~
+17 c 0 0 0 4
+D0
+You see the entrance to the mountain to the north.
+~
+~
+0 0 1706
+S
+#1710
+Inside the mountain~
+   You are standing inside the mountain.
+~
+17 ad 0 0 0 2
+D1
+You see guard barracks.
+~
+~
+0 0 1711
+D3
+You see guard barracks.
+~
+~
+0 0 1712
+D4
+Entrance to the mountain.
+~
+~
+0 0 1706
+D5
+The shaft continues down.
+~
+~
+0 0 1713
+S
+#1711
+Guard room~
+   You are standing in a room with beds, tables, and fire newts!
+There are paintings on the wall.  They show battle scenes.
+~
+17 ad 0 0 0 2
+D3
+You see the dark tunnel shaft.
+~
+~
+0 0 1710
+E
+tables~
+The tables are long and wide.  They are made of stone and obviously too heavy
+to move.
+~
+E
+chairs~
+The chairs are made of stone and look very heavy.
+~
+E
+beds~
+The beds are made of metal and rock.
+~
+S
+#1712
+Guard room~
+   You are standing in a room with beds, chairs, tables, and fire newts!
+There are paintings on the wall that show great leaders.
+~
+17 ad 0 0 0 2
+D1
+You see the shaft in the mountain.
+~
+~
+0 0 1710
+E
+tables~
+The tables are long and wide.  They are made of stone and are obviously to
+heavy to move.
+~
+E
+chairs~
+The chairs are made of stone and look very heavy.
+~
+E
+beds~
+The beds are made of metal and rock.
+~
+S
+#1713
+Inside the mountain~
+   You are standing inside the mountain.
+~
+17 ad 0 0 0 2
+D0
+You see a large storage room.
+~
+~
+0 0 1714
+D2
+You see workers' quarters.
+~
+~
+0 0 1715
+D4
+You see the dark mountain shaft.
+~
+~
+0 0 1710
+D5
+The shaft continues down.
+~
+~
+0 0 1716
+S
+#1714
+Store room~
+   You see nothing special in this room.  There are some boxes and fire newt
+workers here.  There is also some trash piled up in the room.
+~
+17 ad 0 0 0 2
+D2
+You see the dark mountain shaft.
+~
+~
+0 0 1713
+S
+#1715
+Workers' quarters~
+   You are standing in the workers' quarters.  There are several workers here.  
+The room is messy and has nothing of value in it.  The party the night before
+must have destroyed everything.
+~
+17 ad 0 0 0 2
+D0
+You see the dark mountain shaft.
+~
+~
+0 0 1713
+S
+#1716
+Bottom of the mountain~
+   You are standing at the bottom of the shaft.
+~
+17 ad 0 0 0 2
+D0
+You see the dark tunnel.
+~
+~
+0 0 1717
+D4
+You see the mountain shaft.
+~
+~
+0 0 1713
+S
+#1717
+The tunnel~
+   You are standing in a dry, dark tunnel.
+~
+17 ad 0 0 0 2
+D0
+You see a bend in the tunnel.
+~
+~
+0 0 1718
+D2
+You see the bottom of the shaft.
+~
+~
+0 0 1716
+S
+#1718
+Bend in the tunnel~
+   You are standing in a dark tunnel.
+~
+17 ad 0 0 0 2
+D1
+The tunnel continues into the dark.
+~
+~
+0 0 1719
+D2
+You see that the tunnel leads back.
+~
+~
+0 0 1717
+S
+#1719
+The tunnel~
+   You are standing in a dark tunnel.
+~
+17 ad 0 0 0 2
+D0
+The tunnel continues into the dark.
+~
+~
+0 0 1721
+D1
+You see a small fire newt house.
+~
+~
+0 0 1720
+D3
+You see a bend in the tunnel.
+~
+~
+0 0 1718
+S
+#1720
+Fire Newt House~
+   You are standing in a fire newt house.  There is a mother fire newt here
+playing with her children.  The room is full of newt toys- they look very
+boring.
+~
+17 ad 0 0 0 2
+D3
+You see the dark tunnel.
+~
+~
+0 0 1719
+S
+#1721
+The tunnel~
+   You are standing in a dark tunnel.
+~
+17 ad 0 0 0 2
+D0
+The tunnel continues on.
+~
+~
+0 0 1723
+D2
+The dark tunnel.
+~
+~
+0 0 1719
+D3
+You see a fire newt house.
+~
+~
+0 0 1722
+S
+#1722
+Fire Newt House~
+   You are standing in a fire newt house.  There is a fire newt mother here
+playing with her children.  The room has several torn baby newt diapers here
+... how disgusting!
+~
+17 ad 0 0 0 2
+D1
+You see the dark tunnel.
+~
+~
+0 0 1721
+S
+#1723
+The tunnel~
+   You are standing in the dark tunnel.
+~
+17 ad 0 0 0 2
+D0
+~
+~
+0 0 1736
+D1
+You see a fire newt temple.
+~
+~
+0 0 1727
+D2
+You see the dark tunnel.
+~
+~
+0 0 1721
+D3
+You see the entrance to the town hall.
+~
+~
+0 0 1724
+S
+#1724
+Entrance to the town hall~
+   You are standing in the entrance to the town hall.  The room is large and
+ornate.
+~
+17 ad 0 0 0 2
+D1
+You see the dark tunnel.
+~
+~
+0 0 1723
+D3
+You see a waiting room. 
+~
+~
+0 0 1725
+S
+#1725
+The Waiting Room~
+   You are standing in the waiting room of the town hall.  There is a big door
+to the west.  The room has pictures of the villages history.
+~
+17 ad 0 0 0 2
+D1
+You see the entrance to the town hall.
+~
+~
+0 0 1724
+D3
+You see a large office.
+~
+~
+0 0 1726
+S
+#1726
+The Leader's Office~
+   You are standing in the fire newt leader's office.
+~
+17 ad 0 0 0 2
+D1
+You see the waiting room.
+~
+~
+0 0 1725
+S
+#1727
+Outside the temple~
+   You are standing outside the fire newt temple.  The temple has some very
+large arches and towers.
+~
+17 ad 0 0 0 2
+D1
+You see the entrance to the fire newt temple.
+~
+~
+0 0 1728
+D3
+You see the dark tunnel.
+~
+~
+0 0 1723
+S
+#1728
+Entrance to the temple~
+   You are standing at the entrance to the temple.  The temple is very neat. 
+The sates are set in straight rows and the alter is very large.
+~
+17 ad 0 0 0 2
+D1
+You see the door, that leads to the inside of the temple.
+~
+door~
+1 -1 1729
+D3
+You see the outside of the temple.
+~
+~
+0 0 1727
+S
+#1729
+Inside the Temple~
+   You are standing inside the fire newt temple.
+~
+17 ad 0 0 0 2
+D3
+You see the door that leads to the temple entrance.
+~
+door~
+1 -1 1728
+D5
+You see a large trap door.
+~
+~
+0 0 1730
+S
+#1730
+The room before the doors~
+   You are standing before a pair of huge doors.
+~
+17 ad 0 0 0 2
+D1
+You see two large doors.
+~
+doors~
+1 -1 1731
+D4
+You see the inside of the temple.
+~
+~
+0 0 1729
+S
+#1731
+The Egg Room~
+   You are standing in a room that has several dozen piles of eggs.  There is
+a chest on the floor also.
+~
+17 acd 0 0 0 2
+D3
+You see two large doors.
+~
+doors~
+1 -1 1730
+S
+#1736
+Inside the Mountain~
+You are heading north along a gloomy stone passageway. Your footsteps echo
+in the eerie silence, which is broken only by the distant sound of running
+water. You soon reach a junction where you can head east or west.
+~
+17 ad 0 0 0 0
+D1
+a door~
+~
+0 -1 1737
+D2
+the entrance~
+~
+0 -1 1723
+D3
+a guard post~
+~
+0 -1 1739
+S
+#1737
+A Door~
+You are standing before a wooden door, set flush with the stone wall that
+marks the end of the passageway. It looks solid, but you get the idea that
+it would give easily to a good shove from your shoulder. Or, you could try
+just opening it with the handle...
+~
+17 ad 0 0 0 0
+D1
+a pit~
+door~
+1 -1 1738
+D3
+inside the mountain~
+~
+0 -1 1736
+S
+#1738
+A Pit~
+Ack! As you open the door and pass through, you fall into a deep pit! The 
+sides are smooth and unscaleable, and for some reason your magic doesn't
+seem to work here. Looks like you might need to recall.
+~
+17 ad 0 0 0 0
+S
+#1739
+A Guard Post~
+After a short distance, the westward passage that you are following bends to
+the north. At the bend there is a small niche in the wall, just large enough
+for a medium-sized humanoid to stand in. A stone stool is in this niche, as
+is a half-drunk flagon of some unknown alcohol, and you (correctly) assume 
+that this alcove is used as a sentry post. Its inebriated occupant may be
+around, so keep alert.
+~
+17 ad 0 0 0 0
+D0
+a corridor~
+~
+0 -1 1740
+D1
+inside the mountain~
+~
+0 -1 1736
+S
+#1740
+A Corridor~
+You are advancing down a long north-south corridor lined by several wooden
+doors to the west. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+You hear loud snoring from behind the door nearest you.
+~
+17 ad 0 0 0 0
+D0
+a corridor~
+~
+0 -1 1742
+D2
+a guard post~
+~
+0 -1 1739
+D3
+a door~
+door~
+1 -1 1741
+S
+#1741
+Firenewt Sleeping Quarters~
+This room evidently serves as sleeping quarters for some of the foul Firenewts
+that reside in this place. Loud snoring echoes around this room, coming from
+its single sleeping occupant, who lies with his arms curled about an
+interesting-looking box...
+~
+17 ad 0 0 0 0
+D1
+a corridor~
+door~
+1 -1 1740
+S
+#1742
+A Corridor~
+You are advancing down a long north-south corridor lined by several wooden
+doors to the west. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+No sound comes from behind the door nearest you.
+~
+17 ad 0 0 0 0
+D0
+a corridor~
+~
+0 -1 1744
+D2
+a corridor~
+~
+0 -1 1740
+D3
+a door~
+door~
+1 -1 1743
+S
+#1743
+Guards' Quarters~
+This room seems to function as quarters for the Firenewt soldiers that guard
+the entrance here. From what you've seen so far of the Firenewt Chief's
+"Guards", you think that maybe he should reconsider his choices for protection...
+~
+17 ad 0 0 0 0
+D1
+a corridor~
+door~
+1 -1 1742
+S
+#1744
+A Corridor~
+You are advancing down a long north-south corridor lined by several wooden
+doors to the west. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+You hear loud raucous drunken singing coming from behind the door nearest you.
+There is a junction to the north of here.
+~
+17 ad 0 0 0 0
+D0
+a corridor~
+~
+0 -1 1746
+D2
+a corridor~
+~
+0 -1 1742
+D3
+a door~
+door~
+1 -1 1745
+S
+#1745
+A Party~
+You are hit by the combined stench of Firenewt Grog, sweat, vomit, urine and
+blood as soon as you enter. Repulsed, you glance about and quickly gather
+that this foul place serves as some sort of recreation area for the Firenewt
+soldiers. If you are lucky, you will be spared an encounter with the vile
+drunkards.
+~
+17 ad 0 0 0 0
+D1
+a corridor~
+door~
+1 -1 1744
+S
+#1746
+A Junction~
+You have reached a T-junction in the passageway, where passages run to the
+west, east and south. You can hear screaming and what sounds like a whip
+cracking to the west, while the sound of many Firenewts slurping and chomping
+on their vile food emanates from the east. A variety of sounds come from
+the south. In the distance, you can hear what sounds like running water.
+~
+17 ad 0 0 0 0
+D1
+another junction~
+~
+0 -1 1748
+D2
+a corridor~
+~
+0 -1 1744
+D3
+a westward corridor~
+~
+0 -1 1747
+S
+#1747
+A Westward Corridor~
+You are advancing along an east-west corridor that ends at the east in a
+juction and at the west in a solid oak portal. From behind the portal you
+can hear screams, apparently being elicited by the bullwhip you hear cracking
+just before each cry.
+~
+17 ad 0 0 0 0
+D1
+a junction~
+~
+0 -1 1746
+D3
+a door~
+door~
+1 -1 1799
+S
+#1748
+Another Junction~
+You have reached another junction. From here you can go north, toward a huge
+iron portcullis, west, toward a branch in the corridor to the south, or east,
+toward what sounds like a kitchen/dining area, judging by the clangour of
+rattling pots and pans, and the shouts and grunts of the diners.
+~
+17 ad 0 0 0 0
+D0
+a corridor~
+~
+0 -1 1750
+D1
+a door~
+door~
+0 -1 1749
+D3
+a junction~
+~
+0 -1 1746
+S
+#1749
+Outside the Kitchen~
+The noises of the kitchen are loudest here. Behind this door there must be
+some very nauseating dinner parties, if the noises and the *SMELL* are 
+anything to go by.
+~
+17 ad 0 0 0 0
+D1
+the kitchen~
+door~
+1 -1 1773
+D3
+another junction~
+~
+0 -1 1748
+S
+#1750
+A Corridor~
+You are advancing along a long north-south corridor lined by several wooden
+doors to the east. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+You hear dreadful screaming coming from behind the door to the east.
+There are junctions to the north and south of here.
+~
+17 ad 0 0 0 0
+D0
+a corridor~
+~
+0 -1 1752
+D1
+a door~
+door~
+1 -1 1751
+D2
+another junction~
+~
+0 -1 1748
+S
+#1751
+A Cell~
+Eeyew! This foul place obviously serves as a combined garbage room/prison
+cell, for several skeletons manacled to the walls are half-buried in all
+manner of disgusting refuse that has been hurled into here by the Firenewts.
+Just looking at the evil mess makes you want to vomit, and by the looks of
+it you haven't been the first to so react...
+~
+17 ad 0 0 0 0
+D3
+a corridor~
+door~
+1 -1 1750
+S
+#1752
+A Corridor~
+You are advancing along a long north-south corridor lined by several wooden
+doors to the east. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+There are junctions to the north and south of here.
+~
+17 ad 0 0 0 0
+D0
+a corridor~
+~
+0 -1 1754
+D1
+a door~
+door~
+1 -1 1753
+D2
+another junction~
+~
+0 -1 1750
+S
+#1753
+The Rat Den~
+You cautiously step through the door and enter a room which is knee-deep in
+bones! Several dark shapes move about amongst the bones, and with growing
+alarm you realize that you have entered the lair of some giant rats! The door
+to the west appears jammed from this side, and you realize you will 
+probably have to fight your way out of here.
+~
+17 ad 0 0 0 0
+D3
+a corridor~
+door~
+1 -1 1752
+S
+#1754
+A Corridor~
+You are advancing along a long north-south corridor lined by several wooden
+doors to the east. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+You hear piteous moans and cries of pain, followed by insane cackling, 
+coming from the door nearest you.
+There are junctions to the north and south of here.
+~
+17 ad 0 0 0 0
+D0
+a junction~
+~
+0 -1 1756
+D1
+a door~
+door~
+1 -1 1755
+D2
+another junction~
+~
+0 -1 1752
+S
+#1755
+A Torture Chamber~
+   You have entered a torture chamber, currently being used by the Firenewt
+Chief's Ogre torturers to extract information from intruders or confessions
+from crooked or incompetent Firenewt sentries.  Of course, they don't really
+care what you know, they are going to torture you anyway :)
+~
+17 ad 0 0 0 0
+D3
+a corridor~
+door~
+1 -1 1754
+S
+#1756
+A Junction~
+You have reached a T-Junction which allows you to travel east, west or south.
+The corridor to the south is lined with doors to the east, while the east
+and west branches of the junction disappear into the darkness which is barely
+penetrated by your light source.
+You fancy that you can hear the sounds of a river to the far north.
+~
+17 ad 0 0 0 0
+D1
+a bend in the corridor~
+~
+0 -1 1757
+D2
+a corridor~
+~
+0 -1 1754
+S
+#1757
+A Bend in the Corridor~
+You have reached a bend in the corridor where you can head north to another
+junction or back west to a southern branch of the corridor. The sound of 
+running water seems to be coming directly from the north now.
+You get the feeling this may be a good place to rest and collect yourself.
+~
+17 ad 0 0 0 0
+D0
+a junction ~
+door~
+1 -1 1758
+D3
+a junction~
+~
+0 -1 1756
+S
+#1758
+A Junction~
+You have reached yet another junction, where you can head east, west, or south to 
+a strange-looking bench. There is a door to the far east, but you can hear
+nothing coming from that direction.
+~
+17 ad 0 0 0 0
+D1
+a junction~
+~
+0 -1 1759
+D2
+a bench~
+~
+0 -1 1717
+D3
+a bend~
+~
+0 -1 1761
+S
+#1759
+A Junction~
+At this point, a long, dark passageway stretches off to the north, ending at
+a wooden door. You fancy that you can hear heavy breathing coming from
+behind it. You can still hear naught from behind the eastern door, which you
+are standing before now.
+~
+17 ad 0 0 0 0
+D0
+a door~
+door~
+1 -1 1765
+D1
+a door~
+door~
+1 -1 1760
+D3
+a junction~
+~
+0 -1 1758
+S
+#1760
+An Ornate Room~
+You enter a room heavily decorated by ornate stonework and detailed murals
+and reliefs, crafted and colored in a style you have never seen before, 
+giving the room an unearthly beauty. A pedestal has been placed in the
+center of the room, and atop it is an iron statue of what looks like a one-
+eyed demon.
+~
+17 ad 0 0 0 0
+D3
+a junction~
+door~
+1 -1 1759
+S
+#1761
+A Bend~
+At this point the corridor bends sharply to the north, heading past doors
+to the east and west toward some distant point, lost in the all-encompassing
+murky darkness. You are thankful for your light.
+~
+17 ad 0 0 0 0
+D0
+outside three doors~
+~
+0 -1 1762
+D1
+a junction~
+~
+0 -1 1758
+S
+#1762
+Outside Three Doors~
+You are standing in a north-south running corridor between two doors. The
+one to the east has a small sign upon it, while the one to the west is
+blank. You can here a gentle humming noise, as if of someone singing to
+themself, behind the east door.
+There is another, pitch-black portal to the north. It looks ominous...
+~
+17 ad 0 0 0 0
+D0
+a pitch-black portal~
+portal~
+1 -1 1766
+D1
+a shop~
+door~
+1 -1 1764
+D2
+a bend~
+~
+0 -1 1761
+D3
+a door~
+door~
+1 -1 1763
+E
+sign~
+The sign says, in large, neatly-scribed letters-
+
+     "T H E     H O U S E     O F      C A N D L E S"
+     
+     Visitors welcome. Please leave your children and pets outside.
+     No Hawkers or Canvassers. Shoplifters WILL be prosecuted.
+
+~
+S
+#1763
+A Cavern~
+The door opens onto a rough-hewn cavern, dark and dreary as the rest of the
+dungeon, save that it has more than the usual amount of cobwebs, and also
+sports a fair collection of Firenewt, Dwarven and Human bones. You enter
+cautiously, well aware that this may be the lair of a Huge SPIDER.
+~
+17 ad 0 0 0 0
+D1
+outside three doors~
+door~
+1 -1 1762
+S
+#1764
+A Shop~
+You have entered a brightly-lit shop, an oddity in this place made even
+stranger by the bizarre array of goods available. However, what interests
+you most in this normally black dungeon is the availability of magic candles
+that can help light your way.
+~
+17 ad 0 0 0 0
+D3
+outside three doors~
+door~
+1 -1 1762
+S
+#1765
+A Barbarian!~
+You have entered the quarters of an insane barbarian, who by now is attacking
+you if he has not already been slain by another adventurer before you. There
+is little of interest in this dingy room.
+A passage runs from here to another door to the north.
+~
+17 ad 0 0 0 0
+D0
+a short passage~
+door~
+1 -1 1776
+D2
+a door~
+door~
+1 -1 1759
+S
+#1766
+A Black Corridor~
+As you enter this foreboding place, your light source dwindles to a faint
+glimmer, threatening to go out entirely at any moment. In its bleak glare
+you manage to make out hideous murals on the walls depicting people being
+maimed and tortured, and you could swear that they are actually MOVING. You
+feel a sudden urge to flee this horrid place.
+~
+17 0 0 0 0 0
+D0
+a fountain room~
+door~
+1 -1 1768
+D2
+outside three doors~
+door~
+1 -1 1762
+S
+#1767
+A Gallery~
+You have entered what appears to be an art gallery. Paintings of various old
+men and women of noble birth line the whitewashed walls and you supress a
+yawn as you walk past. However, one portrait here appears to be different...
+Doors to the north and south allow you to leave this place.
+~
+17 ad 0 0 0 0
+D0
+a short corridor~
+door~
+1 -1 1777
+D2
+a short corridor~
+door~
+1 -1 1776
+S
+#1768
+A Fountain~
+You have entered a small room, no more than a slight broadening of the 
+passage, with a fountain in the middle of it. The passage continues to the
+north and terminates at a pitch-black portal to the south.
+~
+17 ad 0 0 0 0
+D0
+a corridor~
+~
+0 -1 1770
+D2
+a pitch-black portal~
+portal~
+1 -1 1766
+S
+#1769
+A Pear-Shaped Room~
+You have entered a pear-shaped room, with the south entrance opening into
+the wide base and a door to the north exiting at the top of the fruit shape.
+Several items of interest are scattered on the floor here..
+The sound of flowing water is stronger than ever here. It appears to be
+coming from directly beyond the door in the north wall.
+~
+17 ad 0 0 0 0
+D0
+a door~
+door~
+1 -1 4793
+D2
+a short corridor~
+~
+0 -1 1777
+S
+#1770
+A Corridor~
+You are marching along a long north-south corridor, which ends near a 
+fountain to the south, and a small door to the north. A second door is in the 
+eastern wall near you.
+~
+17 ad 0 0 0 0
+D0
+a door~
+door~
+1 -1 1772
+D1
+a door~
+door~
+1 -1 1771
+D2
+a fountain~
+~
+0 -1 1768
+S
+#1771
+A Bare Room~
+You have entered a room that is completely unremarkable.
+~
+17 ad 0 0 0 0
+D3
+a corridor~
+door~
+1 -1 1770
+S
+#1772
+A Junction~
+You have reached a junction in the passageway, where you may go east, west
+or south. The sound of running water is unmistakable now, and seems to be
+coming from the western passage, which bends to the north. Bestial grunts 
+echo from the passage to the east.
+~
+17 ad 0 0 0 0
+D1
+a cave~
+~
+0 -1 1775
+D2
+a door~
+door~
+1 -1 1770
+D3
+a bend~
+~
+0 -1 1774
+S
+#1773
+The Firenewt Kitchen~
+   It is here that the Firenewts prepare their meals and partake of them,
+seated at long filthy benches deeply scarred and stained.  Pots and pans bubble
+and fry atop a wood-burning cast-iron stove, and from it an Firenewt
+occasionally serves himself some rat stew and grits.  The Firenewts in here
+seem far too engrossed in their gastronomic acitivities to notice your
+presence, though doubtless they would react strongly were you to disturb their
+meals.    
+~
+17 ad 0 0 0 0
+D3
+outside the kitchen~
+~
+0 -1 1749
+S
+#1774
+On the Banks of the River~
+You have finally reached the river you have been hearing for so long. It
+looks deep, dark and unswimmable, though if you had a boat you may be able
+to cross it, though at this point there appears to be nothing of interest
+on the other side. Perhaps you may find a crossing further down?
+~
+17 ad 0 0 0 0
+D0
+the river~
+~
+0 -1 4790
+D1
+a junction~
+~
+0 -1 1772
+S
+#1775
+A Cave~
+You have entered a huge cave, cut from the rock face by Gods-know what.
+There is a campfire burning in the center of the room, and several hides and
+rocks are scattered about the area, along with several bones and chewed
+strips of half-cooked meat.
+~
+17 ad 0 0 0 0
+D3
+a junction~
+~
+0 -1 1772
+S
+#1776
+A Short Corridor~
+A short, unremarkable corridor that terminates to the north at a solid oak
+door and to the south in a small room.
+~
+17 ad 0 0 0 0
+D0
+a gallery~
+door~
+1 -1 1767
+D2
+a barbarian~
+door~
+0 -1 1765
+S
+#1777
+A Short Corridor~
+A short, unremarkable corrdior that terminates to the north at a pear-shaped
+room and to the south at a solid oak door.
+~
+17 ad 0 0 0 0
+D0
+a pear-shaped room~
+door~
+1 -1 1769
+D2
+a gallery~
+door~
+1 -1 1767
+S
+#1799
+The Chieftain's Quarters~
+You have entered the quarters of the Chieftain of the Firenewts.
+He is standing here brandishing a big bullwhip, which he is using to beat
+another, smaller newt, presumably his batman or servant. A chest in the far
+corner catches you eye, and you wonder what wealth this Chieftain may 
+possess...
+~
+17 ad 0 0 0 0
+D1
+~
+door~
+1 0 1747
+S
+$~

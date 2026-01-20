@@ -1,0 +1,38 @@
+j cast 'doom bolt' $*
+say say &12$*&00
+4 stand
+cuj cast 'remove curse' $*
+ts cast 'true' $*
+sanc cast 'sanc' $*
+a assist $*
+cle cast 'cleanse' $*
+bs back $*
+ik cast 'identify' $*
+cs cast 'summon corpse' $*
+gt gt &12$*&00
+elven goto 30758
+sc score
+portal cast 'portal' $*
+loc cast 'locate' $*
+zx scan
+god goto 1204
+sams goto 18102
+fly cast 'fly' $*
+hg cast 'haste' $*
+b cast 'blind' $*
+sv cast 'shadow vision' $*
+pester load mob 1453
+fort cast 'fort' $*
+rev cast 'revive' $*
+flame cast 'flame blade' $*
+cha cast 'charm' $*
+p peace
+fb set $* team black
+fg set $* team gold
+qs qsay &12$*&00
+summ cast 'summ' $*
+ooc ooc $*
+fr set $* team rogue
+mobqp attach mtr 803 $*
+9 order follower $*
+li cast 'life drain' $*

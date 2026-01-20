@@ -1,0 +1,32 @@
+heal cast 'heal' $*
+rev cast 'revive' $*
+sense cast 'sense' $*
+cw clanwho
+word c 'word of recall' $*
+cb c 'cure blind' $*
+relo c 'relocate' $*
+cleanse c 'cleanse' $*
+mal c 'maledict' $*
+maledict c 'maledict' $*
+debil c 'debilitate' $*
+vamps 16w6swse14s7e2s4e3n3e5s3e
+sanc c 'sanctuary' $*
+ward c 'ward' $*
+fly c 'fly' $*
+regen c 'regen' $*
+sum c 'summon' $*
+h c 'heal' $*
+blind c 'blind' $*
+infra c 'infra'
+di c 'detect invis' $*
+food c 'create food'
+armor c 'armor' $*
+life c 'sense life'
+dis c 'dishearten $*'
+fort c 'fortify' $*
+sag c 'sagacity' $*
+rp c 'remove paralysis' $*
+fs cast 'flame strike' $*
+rc cast 'remove curse' $*
+harm cast 'harm' $*
+haste cast 'assistant'

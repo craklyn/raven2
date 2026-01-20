@@ -1,0 +1,53 @@
+#124
+The Freehold Cathedral~
+12499 63 2 0
+*
+* Zone file reconstructed by Vex.
+M 0 12401 5 12409    * Worshipper
+M 0 12401 5 12410    * Worshipper
+M 0 12401 5 12417    * Worshipper
+M 0 12401 5 12426    * Worshipper
+M 0 12401 5 12425    * Worshipper
+*
+M 0 12402 1 12432    * Bishop Cullen
+*
+M 0 12403 1 12428    * Annanais
+*
+M 0 12404 1 12431    * Priest
+*
+M 0 12405 3 12410    * Monk
+M 0 12405 3 12417    * Monk
+M 0 12405 3 12425    * Monk
+*
+M 0 12407 4 12415    * Nobleman
+M 0 12407 4 12414    * Nobleman
+M 0 12407 4 12418    * Nobleman
+M 0 12407 4 12419    * Nobleman
+*
+M 0 12408 1 12405    * Quasimodo
+*
+M 0 12409 4 12427    * Choir member
+M 0 12409 4 12427    * Choir member
+M 0 12409 4 12424    * Choir member
+M 0 12409 4 12424    * Choir member
+*
+M 0 12410 1 12429    * Prostitute
+*
+D 0 12429 1 1        * Annanais's bedroom
+D 0 12420 3 1 
+*
+D 0 12420 2 1        * Annanais's office
+D 0 12421 0 1 
+*
+D 0 12421 2 1        * Church official's bedroom
+D 0 12422 0 1 
+*
+D 0 12430 2 1        * Bishop Cullen's room
+D 0 12433 0 1 
+*
+D 0 12412 2 1        * Dayan's room
+D 0 12413 0 1 
+*
+S
+#99999
+$~

@@ -1,0 +1,26 @@
+2 get all.gold all.corpse
+1 l in cor
+- rec rec rec
+g gr
+ch c 'char' $1
+clanhall wake;d;n;n;n;n;n;n;n;n;n;w;w;od;e;e;sleep
+ld c 'life dr'
+id c 'identi' $1
+sc score
+sum c 'summ' $1
+st c 'str'
+fla c 'flame b'
+fl flee
+ppp buy 20 rat;put all.rat girdle
+wake wake;stand
+shield c 'shield' $1
+bl c 'blind' $1
+z who -z
+3 get all all.corpse
+sh c 'shie'
+kk order follower kill 3.;assist;c 'life drain'
+0 recite recall
+loc c 'loc' $1
+p ord fol resc volv
+pp wake;stand;get rat gird;get rat gird;eat rat;eat rat;drink thimb;drink thimb
+k drop lav;rent

@@ -1,0 +1,24 @@
+food c 'create food'
+0 c 'heal' $*
+9 c 'heal' raith
+z c 'heal' thog
+regen c 'regen' $*
+fly c 'fly' $*
+heal c 'heal' $*
+infra c 'infra' 
+bl c 'blind' $*
+sum c 'summon' $*
+sense c 'sense' $*
+da c 'detect align' $*
+clan clan &08 $*  &00
+gt gt &08 $* &00
+say say &08 $* &00
+bless c 'bless' $*
+di c 'detect invis' $*
+ward c 'ward' $*
+armor c 'armor' $*
+word c 'word of recall' $*
+ge get all all.corp
+rc c 'rem curse' $*
+` cast 'heal' mafia
+1 c 'heal' hypnos

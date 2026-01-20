@@ -1,0 +1,1859 @@
+#33100
+Credits Room~
+A large town, suitable for player housing, behind which will rise a castle,
+and around which will be a forested island.  The town is kept strictly
+peaceful by the guard force.
+~
+331 0 0 0 0 0 255 0
+S
+#33101
+A Bay~
+You are in a large bay, busy with shipping.  All around you, the sounds of
+ships and sailors at work echo across the bay as ships sail into and out of
+the harbor, and cargos are loaded and unloaded.  Stretching up a gentle
+hill north of the bay lies a town and a large castle.  Atop the castle,
+penants snap in a light breeze.
+~
+331 32772 0 0 0 6 255 0
+D0
+~
+~
+0 0 33102
+D2
+~
+~
+0 0 6457
+S
+#33102
+A Dock~
+You are on a busy dock servicing a large bay.  Around you, longshoremen rush
+to load and unload ships, and passengers wait to board.  Along the dock
+stacks of crates and sacks of produce sit to be moved, and seagulls fight
+for scraps of food.  To the north the dock leads into a town, where you can
+see citizenry going about their business.  A &10sign&00 marking the end of the docks
+catches your eye.
+~
+331 32768 0 0 0 12 255 0
+D0
+~
+~
+0 0 33105
+D2
+~
+~
+0 0 33101
+E
+sign~
+The sign reads:
+  Welcome to Abenos!
+
+This city is founded on peace and trade, and as such all visitors are
+required to keep their weapons sheathed and their fists to themselves.  All
+city patrols are instructed to enforce this, so please ensure you adhere
+to our simple rules.
+~
+S
+#33103
+The Corner of Dock Street and Worthington Road~
+You are in the southwest corner of town, on the intersection of Dock Street
+and Worthington Road.  Dock Street leads east, towards the docks and the
+dockmaster's offices, and Worthington Road leads north towards the markets
+and residential zones.  The cobblestone roads are clean, and every so often
+you spot a guard keeping an eye open for trouble.
+~
+331 32768 0 0 0 1 255 0
+D0
+~
+~
+0 0 33118
+D1
+~
+~
+0 0 33104
+S
+#33104
+Dock Street~
+Dock Street runs east-west along the south side of town, providing a place
+for shipping related buildings, and of course connecting the town to its
+all important harbor.  To the north is a trader's shop, with strange and
+exotic items lining the windows, and a steady flow of customers.
+~
+331 32768 0 0 0 1 255 0
+D0
+~
+~
+0 0 33110
+D1
+~
+~
+0 0 33105
+D3
+~
+~
+0 0 33103
+S
+#33105
+Dock Street~
+Dock Street runs east-west along the south side of town, providing a place
+for shipping related buildings, and of course connecting the town to its
+all important harbor.  The docks lie to the south, and north is the
+dockmaster's offices, where the shipping schedules are managed to ensure
+all ships get a chance to dock.
+~
+331 32768 0 0 0 1 255 0
+D0
+~
+~
+0 0 33111
+D1
+~
+~
+0 0 33106
+D2
+~
+~
+0 0 33102
+D3
+~
+~
+0 0 33104
+S
+#33106
+Dock Street~
+Dock Street runs east-west along the south side of town, providing a place
+for shipping related buildings, and of course connecting the town to its
+all important harbor.  Leading north, an alley connects Dock Street to
+the Abenos Markets.
+~
+331 32768 0 0 0 1 255 0
+D0
+~
+~
+0 0 33112
+D1
+~
+~
+0 0 33107
+D3
+~
+~
+0 0 33105
+S
+#33107
+Dock Street~
+Dock Street runs east-west along the south side of town, providing a place
+for shipping related buildings, and of course connecting the town to its
+all important harbor.  A shop sporting a line of small boats and materials
+for repairing ships is to the north, its door sitting open to let the sea
+breezes in.
+~
+331 32768 0 0 0 1 255 0
+D0
+~
+0~
+0 0 33114
+D1
+~
+~
+0 0 33108
+D3
+~
+~
+0 0 33106
+S
+#33108
+Dock Street~
+Dock Street runs east-west along the south side of town, providing a place
+for shipping related buildings, and of course connecting the town to its
+all important harbor.  To the north, one of the towns several inns lies,
+offering a place for travelers to rest, eat and drink.  A sign showing a
+dancing pig hangs over the door.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33115
+D1
+~
+~
+0 0 33109
+D3
+~
+~
+0 0 33107
+S
+#33109
+The Corner of Dock Street and Fairway Road~
+You are in the northeast corner of town, where Dock Street and Fairway Road
+meet.  Towards the west Dock Street houses a variety of shops and offices,
+while Fairway Road leads north towards Warehouse Alley.  Guards pick their
+way through the crowds, watching for trouble.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33121
+D3
+~
+~
+0 0 33108
+S
+#33110
+Flotsam's Jetsam~
+You are in a trader's shop, with a variety of goods lining the walls, many
+of dubious usefulness.  The trader himself is behind a counter, examining
+a small carved wooden ship closely.  The only exit is south, back into
+the bustle of Dock Street.
+~
+331 32776 0 0 0 0 255 0
+D2
+~
+~
+0 0 33104
+S
+#33111
+The Dockmaster's Office~
+The Dockmaster's office is a very important part of Abenos.  Here is where
+the dockmaster plans and organises, designs and schedules, and keeps goods
+and passengers flowing into and out of Abenos.  The room itself is plainly
+furnished, with a few chairs for waiting captains, a single painting on the
+west wall, and a large, worn desk where the dockmaster works.
+~
+331 32776 0 0 0 0 255 0
+D2
+~
+~
+0 0 33105
+E
+painting wall~
+The painting depicts a ship beset by a violent storm, with a lighning bolt
+crashing into the mast, and every hand on deck scrambling furiously to save
+their vessel.
+~
+S
+#33112
+Market Alley~
+You are on a narrow alleyway connecting Dock Street and the Abenos Markets.
+Despite this being narrow, it is a highly used thoroughfare, as it provides
+the most direct route from the docks to the markets, and it hosts one of the
+inns of the town.  The alley continues north and south, and to the east a
+door to the inn lies, with a sign showing a traveler resting under a tree
+hanging over it.
+~
+331 32768 0 0 0 1 255 0
+D0
+~
+~
+0 0 33128
+D1
+~
+~
+0 0 33113
+D2
+~
+~
+0 0 33106
+S
+#33113
+The Traveler's Rest~
+You are in the common room of an inn.  Around you, waitresses bring food and
+drinks to patrons enjoying the warmth of the fire, or listening to the old
+storyteller in the corner.  The room itself is well lit by the fire and
+torches on the walls, showing a clean, sawdust strewn floor and two long
+tables.
+~
+331 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 33112
+S
+#33114
+Abenos Shipping~
+You are in a cluttered shop, with barrels of tar, rolls of sailcloth, stacks
+of planks and jars of nails everywhere you look.  In the middle of the chaos
+stands a gaunt man with a short grey beard, puffing furiously on a pipe and
+rummaging around, searching for some odd item.  A sign on the wall reads
+"For small craft please see my assistant in Warehouse #2."
+~
+331 8 0 0 0 0 255 0
+D2
+~
+door~
+0 0 33107
+S
+#33115
+The Dancing Pig~
+You are in the common room of the Dancing Pig Inn.  Along the west wall, a
+few booths provide a quiet place to converse, strike a bargain, or to simply
+escape the crowds for a while.  A few more tables are arranged haphazardly
+through the room, and a fireplace on the west wall provides warmth and light.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 33108
+D4
+~
+~
+0 0 33191
+S
+#33116
+A Warehouse~
+You are in an empty warehouse.  The floor is bare and clean, and the building
+in general good repair, awaiting the next captain or trader to arrange its
+use with the Dockmaster of Abenos.  The only interesting feature of this
+warehouse is its exit north back onto Warehouse Alley.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33122
+S
+#33117
+A Warehouse~
+You are in a long wooden warehouse with various small water craft stacked
+against the walls.  Two kayak racks extend from the south wall, dividing
+the rear half of the warehouse in three.  A large set of doubledoors lead
+back out onto Warehouse Alley, with no other exits visible.  A man in a
+blue and white sailor's cap sits at a desk near the entrance to the
+warehouse, checking over a clipboard.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33123
+S
+#33118
+Worthington Road~
+You are on Worthington Road, which runs along the west wall of town.  The
+road is an even cobblestone surface, kept clean and smooth to encourage
+traffic, both human and cart.  A stream of pedestrians travel in both
+directions, and the occasional cityguard watches carefully.  To the south,
+Worthington Road ends as it turns onto Dock Street, and to the north Market
+Road intersects Worthington Road.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33135
+D2
+~
+~
+0 0 33103
+S
+#33119
+En Cuisine~
+You are in a well presented restaurant.  Delicious aromas of food waft out
+from the kitchen, and around you diners talk over their meals.  There are
+only a few tables empty, and most of those have reserved cards on them.
+The only exit is to the north into Market Square, where the sounds of the
+crowd drift into the restaurant, mingling with the clink of cutlery.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33127
+S
+#33120
+Abenos Meats~
+You are in a butcher's store, with fresh cuts of meat, poultry and sausages
+laid out on a counter for your perusal.  Several salted carcasses hang at
+the rear of the shop, and an array of knives in a display case decorate the
+west wall.  The ground is covered with sawdust, and a broom sits in the
+far corner of the store.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33129
+S
+#33121
+Fairway Road~
+You are on Fairway Road, which runs north-south through town.  The road
+surface is clean and in good repair, with light wheel ruts from heavily
+laden carts visiting Warehouse Alley to the east.  The ruts turn south
+towards the corner, where Dock Street takes them down to the waiting ships.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33141
+D1
+~
+~
+0 0 33122
+D2
+~
+~
+0 0 33109
+S
+#33122
+Warehouse Alley~
+Very light wheel ruts in the cobblestone road trail east from Fairway Road
+and divide between the two warehouses north and south, and east along
+Warehouse Alley.  There are fewer pedestrians here, as most business is
+conducted either down at the dockfront or in the private offices in the
+north side of town.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33133
+D1
+~
+~
+0 0 33123
+D2
+~
+~
+0 0 33116
+D3
+~
+~
+0 0 33121
+S
+#33123
+Warehouse Alley~
+The cobblestone road here is more worn than in other parts of town, as
+warehouses face the alley to the north, east and south.  The alley runs out
+to the west, to connect to Fairway Road and the docks.  A few people are
+walking into and out of the warehouses, and some labourers struggle under
+heavy loads.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33134
+D1
+~
+~
+0 0 33124
+D2
+~
+~
+0 0 33117
+D3
+~
+~
+0 0 33122
+S
+#33124
+A Warehouse~
+This warehouse is a little smaller than the others, with a large amount of
+its space filled by barrels, boxes, sacks and coils of ropes.  It appears
+to be a general produce warehouse, holding items such as nails, long life
+food items, various tools and other useful items.  The only exit is west,
+out onto Warehouse Alley.
+~
+331 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 33123
+S
+#33125
+Potions and More~
+You are in a typical apothecary.  Unidentified smells compete for the title
+of Strangest Odor, and various bubbling, squeaking and popping sounds come
+from the jars lining the shelves that cover every wall.  The jars are 
+arranged by contents, with small neat lables on the shelves identifying the
+contents.  A browned gnome with a receding hairline and missing eyebrows
+carefully adds a few drops of some liquid to a pale yellow potion in a
+beaker, a slightly fearful expression on his face.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33136
+S
+#33126
+Sobacci's Glassware~
+You are in a small shop selling a wide range of glassware, from tumbler sets
+to exquisite hand blown pieces of art.  Several signs warn you not to touch
+what you cannot afford, and some of the finer pieces are kept in a display
+cabinet next to the sales counter.
+~
+331 8 0 0 0 1 255 0
+D1
+~
+~
+0 0 33127
+S
+#33127
+The Abenos Markets~
+You are in the southwest section of the large market place that is the
+heart of Abenos.  All around you, people raise a continual thrum of chatter,
+as they wander through the shops, or eat at the restaurant to your south,
+or just catch up with each other.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33137
+D1
+~
+~
+0 0 33128
+D2
+~
+~
+0 0 33119
+D3
+~
+~
+0 0 33126
+S
+#33128
+The Abenos Markets~
+You are in the bustling Abenos marketplace, on the south side of the square.
+All around you, people go about their business, be it haggling over a price,
+discussing the tides, or just passing the time of day.  To your north, the
+center of the market square features a stone fountain, while to the east
+and west the marketplace offers a variety of shops.  To the south, Market
+Alley leads down towards Dock Street and the harbour.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33138
+D1
+~
+~
+0 0 33129
+D2
+~
+~
+0 0 33112
+D3
+~
+~
+0 0 33127
+S
+#33129
+The Abenos Markets~
+You are in the southeast corner of the heart of Abenos, its thriving market
+square.  Locals and visitors alike wander about, checking out the shops or
+the crowds, or watching one of a few entertainers working the crowds.  To
+your south is the town butcher, and to the east a grocer sells a variety
+of foods.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33139
+D1
+~
+~
+0 0 33130
+D2
+~
+~
+0 0 33120
+D3
+~
+~
+0 0 33128
+S
+#33130
+The House of Bithul~
+You are in a grocer's store, with tins of spices, teas, sugars and other
+assortments on shelves lining the walls, and shelves in the middle of the
+room offering important commodities, such as long life foods, bandages,
+sewing materials and matches.  Near the door is a sales counter.
+~
+331 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 33129
+E
+window view west~
+As you look out the window, you see that the rear wall of the keep forms the
+rear wall of the enclosure.  Behind the keep you can see the plains spread
+out into the distance, with farms dotting the landscape.  Although you're
+not very high, further out to the west you can see the start of the ocean.
+~
+S
+#33131
+The Falconry~
+This room is not yet in use.
+~
+331 8 0 0 0 1 255 0
+S
+#33132
+The Falconry~
+This room provides the mobs for the (currently unopen) Abenos falconry.
+~
+331 600 0 0 0 1 255 0
+S
+#33133
+A Warehouse~
+You are in a large warehouse full of timbers of all sorts.  There are pines,
+oaks, redwoods, cypress, and many others, in a large range of sizes and
+qualities.  The smell of sawdust hangs in the air, although the floor is
+kept fairly tidy.  The only exit is south onto Warehouse Alley.
+~
+331 8 0 0 0 1 255 0
+D2
+~
+~
+0 0 33122
+S
+#33134
+A Warehouse~
+You are surrounded by all manner of textiles, from large quantities of
+sailcloth to piles of furs.  There are barrels of unprocessed wool alongside
+reels of wool thread, stacks of hessian sacking, and a few rolls of light
+cotton cloth.  You start to suspect that this warehouse is owned by a
+trader in cloths and textiles.
+~
+331 8 0 0 0 1 255 0
+D2
+~
+~
+0 0 33123
+S
+#33135
+Worthington Road~
+You are at the junction of Worthington Road and Market Street.  North,
+Worthington Road leads towards the residential district of town, and south
+to the docks.  Market Street leads east to the Abenos Markets.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33152
+D1
+~
+~
+0 0 33136
+D2
+~
+~
+0 0 33118
+S
+#33136
+Market Road~
+You are near the west end of Market Road.  There is a T junction to the west,
+where Market Road connects onto Worthington Road, and to the east are the
+Abenos Markets.  A small shop with dirty windows lies to the south, from
+which you can hear the occasional curse.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33137
+D2
+~
+~
+0 0 33125
+D3
+~
+~
+0 0 33135
+S
+#33137
+The Abenos Markets~
+You are in the Abenos Markets, where all the merchants of Abenos come to
+ply their trade.  Citizens of the city walk past you in all directions,
+rubbing shoulders with people and races from all over the land.  To the west,
+Market Road leads out of the market square.  The market fountain is east,
+and to the north and south the market continues.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33146
+D1
+~
+~
+0 0 33138
+D2
+~
+~
+0 0 33127
+D3
+~
+~
+0 0 33136
+S
+#33138
+The Abenos Markets~
+You are in the middle of the Abenos Markets.  Nearby, a statue of a female
+form sends water flowing from an outstretched hand into a small pool.  In
+all directions, the markets teem with people from all over the land.  Abenos
+guards carefully keep an eye on the crowd, ready to step in if any trouble
+breaks out.
+~
+331 0 2 0 0 1 255 0
+D0
+~
+~
+0 0 33147
+D1
+~
+~
+0 0 33139
+D2
+~
+~
+0 0 33128
+D3
+~
+~
+0 0 33137
+S
+#33139
+The Abenos Markets~
+You are at the east side of the Abenos Markets.  The center of the square is
+to your west, and Market Road leads away to the east.  The markets spread
+out to the north and south, with a wide range of cultures and races visible
+everywhere you turn.  You spot the occasional guard keeping an eye on the
+crowd.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33148
+D1
+~
+~
+0 0 33140
+D2
+~
+~
+0 0 33129
+D3
+~
+~
+0 0 33138
+S
+#33140
+Market Road~
+You are on Market Road, just east of the Abenos Markets.  To your south,
+a closed door prevents entrance to what appears to be an abandoned shop,
+and to the east Fairway Road intersects Market Road.  Despite there being
+no shop on this stretch of road, there is still a number of people walking
+past you, as this is the most direct route from the warehouses to the
+markets.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33141
+D2
+~
+door~
+2 0 33131
+D3
+~
+~
+0 0 33139
+S
+#33141
+Fairway Road~
+You are at the intersection of Fairway Road and Market Road.  Fairway Road
+connects the docks and warehouses to the south with the residential areas
+of Abenos to the north.  To the west are the Abenos Markets, and to the
+east Market Road leads towards a set of gates.  The streets are both made
+of well set cobblestones, worn smooth by many feet and kept clean by the
+workforce of Abenos.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33158
+D1
+~
+~
+0 0 33142
+D2
+~
+~
+0 0 33121
+D3
+~
+~
+0 0 33140
+S
+#33142
+Market Road~
+You are on Market Road, heading towards the east gate of Abenos.  To the
+west, Fairway Road intersects Market Road, and further east Market Road
+continues towards the gate.  There are fewer people here than in the other
+parts of Abenos, as most travel to and from Abenos is done by ship.  The
+streets are less worn, but still kept clean.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33143
+D3
+~
+~
+0 0 33141
+S
+#33143
+Market Road~
+You are on Market Road, near the east gate of Abenos.  To the north is a
+guardpost, and to the west Market Road leads back towards the Abenos Markets.
+East of you lie the gates, beyond which is the trail to the Keep of Abenos.
+There is little traffic here, as most trade negotiations take place at the
+Markets or near the warehouses, but a few people still walk by on various
+errands.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33150
+D1
+~
+~
+0 0 33144
+D3
+~
+~
+0 0 33142
+S
+#33144
+The East Gate~
+You are at the east gate of Abenos.  To the west, Market Road leads towards
+the center of the city, and to the east the gates mark the edge of town.
+The walls of Abenos stand slightly above head height, around 8 foot high,
+and the gates are a little taller again.  Made of wrought iron, they are
+not used to keep out attacking armies, rather they protect the city from
+the wild creatures that inhabit the Abenos forests.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+gate~
+2 0 33144
+D3
+~
+~
+0 0 33143
+S
+#33145
+Zepheba's Timekeeping~
+You have entered one of the most famous shops in Abenos.  Zepheba the Elf
+is a master of clockmaking, and has produced many of the clocks used by
+the wealthy and powerful.  Around you, samples of his works tick away in
+a rush of sound.  You can see all sizes of clocks, from a pair of large
+grandfather clocks right down to Zepheba's prized piece, a watch small
+enough to carry on a chain.
+~
+331 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 33146
+S
+#33146
+The Abenos Markets~
+You are in the Abenos Market square, center of trade for the city.  To the
+west lies Zepheba's clock shop, and north is a shop selling small trinkets
+and souvenirs.  The market square extends south and east, with people from
+all over the land going about their business.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33154
+D1
+~
+~
+0 0 33147
+D2
+~
+~
+0 0 33137
+D3
+~
+~
+0 0 33145
+S
+#33147
+The Abenos Markets~
+You are at the northern side of the Abenos market square.  North of you is
+a magic shop, offering all people a taste of the power mages wield.  South
+is the center of the market, with its large fountain, and to the east and
+west the square extends out to other shops.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33155
+D1
+~
+~
+0 0 33148
+D2
+~
+~
+0 0 33138
+D3
+~
+~
+0 0 33146
+S
+#33148
+The Abenos Markets~
+You are in the Abenos Markets, in the center of the city.  The market square
+extends south and west, providing access to a large number of shops, while
+a cobbler's shop lies to the north, and a tailor displays his leathergoods
+to the east.  A food cart stands nearby, selling hot pies and sausages on
+sticks.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33156
+D1
+~
+~
+0 0 33149
+D2
+~
+~
+0 0 33139
+D3
+~
+~
+0 0 33147
+S
+#33149
+The Nine Stitches~
+You have entered the Abenos tailor's shop.  The smell of leather surrounds
+you, as half the shop is taken up by leather jerkins, leggings and sturdy
+coats.  As you look around, you can also see a number of styles of woolen
+coats and jackets, and a variety of lighter cotton and even some silk
+garments.
+~
+331 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 33148
+S
+#33150
+A Guardpost~
+You are in the east gate guardpost.  There are a few hitching posts with
+water troughs for guards arriving on horseback from the castle, and a
+wooden table with long benches on either side for off duty guards.  A large
+iron pot sits over a fireplace on the west wall, away from the hitching
+posts, and the smell of a rich stew reaches you.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 33143
+S
+#33151
+A Park~
+You are in a grassy park between Foxcord and Fenton Streets, where the
+citizens of Abenos may come to enjoy some greenery and fresh air.  A few
+trees stand around the park, and a few flowerbeds on the west side provide
+a pleasant place to sit and rest.  There are several park benches in sight.
+~
+331 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 33187
+D2
+~
+~
+0 0 33169
+S
+#33152
+Worthington Road~
+You are on Worthington Road, which runs along the west wall of town.  The
+road continues north towards the residential side of the city, and south
+towards Market Road and the docks.  To the east, a small theater provides
+entertainment in the evenings.  There are fewer people moving about towards
+the north, as people tend to gather in the markets.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33166
+D1
+~
+~
+0 0 33153
+D2
+~
+~
+0 0 33135
+S
+#33153
+The Laughing Tears~
+You are in the Abenos theater, where the local stage troupe put on regular
+plays.  Against the far wall is a raised stage, on which various props
+for the next performance are in place.  The floor space is taken up by
+a group of wooden chairs in the center, and four long tables along the
+walls, for patrons who wish to bring their dinner to eat during the
+performance.
+~
+331 24 0 0 0 0 255 0
+D3
+~
+~
+0 0 33152
+S
+#33154
+Abenos Gifts~
+You are in a small giftshop, with a number of items of no practical use
+surrounding you on sehlves.  You can see snowglobes, ships in bottles, small
+tin figurines of well known heros, and card sized paintings of the Abenos
+bay in summertime.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 33146
+S
+#33155
+Kariq Gpas~
+You are in the Abenos magic shop.  Surprisingly, the shelves appear to be
+empty, yet there are spaces where no dust has accumulated.  The air is
+slightly charged in here, as if reality is not as stable as it perhaps
+should be.  The only exit appears to be to the south, back into the market
+square.
+~
+331 136 0 0 0 0 255 0
+D2
+~
+~
+0 0 33147
+S
+#33156
+Cobbler's Fittings~
+You are in a cobbler's shop, with shoes and boots of all varieties around
+you.  The back of the shop is lined with shoe soles and replacement heels
+waiting for customers to need them, and one corner has a tray of thick
+boot socks.  The only exit is south, into the Abenos Markets.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 33148
+S
+#33157
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 33158
+S
+#33158
+Fairway Road~
+You are on Fairway Road, which runs along the east side of Abenos.  To the
+south Market Road crosses Fairway, leading west to the markets and east
+towards the city gate.  North, Fairway Road meets Fenton Street, which
+leads west through the residential zone.  A private home stands to the west.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33172
+D2
+~
+~
+0 0 33141
+D3
+~
+~
+0 0 33157
+S
+#33159
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33167
+S
+#33160
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33168
+S
+#33161
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33169
+S
+#33162
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33170
+S
+#33163
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33171
+S
+#33164
+The Watchhouse~
+You are in the City Watchhouse.  There is a single jail cell to the east,
+and a large oak desk near the west wall.  The only exit is to the north,
+onto Fenton Street.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33173
+D1
+~
+cell~
+1 33101 33165
+S
+#33165
+A Jail Cell~
+You are in the only jail cell the city of Abenos has.  The crime rate here
+is low enough that this cell sees little use.  People convicted here of
+serious offenses are shipped off to Denegorth to serve out their time, or
+in some rare cases sent up to the castle.  The only thing of note is a
+scratching on the wall where someone has marked off 7 days.
+~
+331 8 0 0 0 0 255 0
+D3
+~
+cell~
+1 33101 33164
+S
+#33166
+Worthington Road~
+You are at the intersection of Worthington Road and Fenton Street.  To the
+east Fenton Street leads off towards the other side of the city, lined with
+houses.  Worthington Road continues north to Foxcord Street and south to
+Market Road and the docks.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33184
+D1
+~
+~
+0 0 33167
+D2
+~
+~
+0 0 33152
+S
+#33167
+Fenton Street~
+You are on Fenton Street, one of the residential streets of Abenos.  It runs
+east-west through the city, connecting Worthington Road on the west side of
+town to Fairway Road on the east.  The road is of a smooth cobblestone,
+lined on both sides with small houses.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33175
+D1
+~
+~
+0 0 33168
+D2
+~
+~
+0 0 33159
+D3
+~
+~
+0 0 33166
+S
+#33168
+Fenton Street~
+You are on Fenton Street, one of the residential streets of Abenos.  It runs
+east-west through the city, connecting Worthington Road on the west side of
+town to Fairway Road on the east.  The road is of a smooth cobblestone,
+lined on both sides with small houses.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33176
+D1
+~
+~
+0 0 33169
+D2
+~
+~
+0 0 33160
+D3
+~
+~
+0 0 33167
+S
+#33169
+Fenton Street~
+You are on Fenton Street, one of the residential streets of Abenos.  It runs
+east-west through the city, connecting Worthington Road on the west side of
+town to Fairway Road on the east.  The road is of a smooth cobblestone,
+lined on both sides with small houses.  To the north, a small path leads to
+a park.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33151
+D1
+~
+~
+0 0 33170
+D2
+~
+~
+0 0 33161
+D3
+~
+~
+0 0 33168
+S
+#33170
+Fenton Street~
+You are on Fenton Street, one of the residential streets of Abenos.  It runs
+east-west through the city, connecting Worthington Road on the west side of
+town to Fairway Road on the east.  The road is of a smooth cobblestone,
+lined on both sides with small houses.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33177
+D1
+~
+~
+0 0 33171
+D2
+~
+~
+0 0 33162
+D3
+~
+~
+0 0 33169
+S
+#33171
+Fenton Street~
+You are on Fenton Street, one of the residential streets of Abenos.  It runs
+east-west through the city, connecting Worthington Road on the west side of
+town to Fairway Road on the east.  The road is of a smooth cobblestone,
+lined on both sides with small houses.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33178
+D1
+~
+~
+0 0 33172
+D2
+~
+~
+0 0 33163
+D3
+~
+~
+0 0 33170
+S
+#33172
+Fairway Road~
+You are at the intersection of Fairway Road and Fenton Street.  Fairway Road
+continues north to Foxcord Street, and south to Market Road and the docks,
+while Fenton heads west across the city to Worthington Road and east to
+the city offices.  There is less traffic in the northern side of town, with
+most of the citizens being either at home or at the markets.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 33190
+D1
+~
+~
+0 0 33173
+D2
+~
+~
+0 0 33158
+D3
+~
+~
+0 0 33171
+S
+#33173
+Fenton Street~
+You are at the eastern end of Fenton Street.  To the west, Fenton crosses
+Fairway Road as it heads across the city, and around you are various city
+offices.  To the north is the town planner's office, and to the east is a
+guardhouse.  Standing to the south is the city's watch house, which is
+rarely used, thanks to the city's effective patrols.
+~
+331 0 0 0 0 1 255 0
+D0
+~
+door~
+1 0 33179
+D1
+~
+door~
+1 0 33174
+D2
+~
+~
+0 0 33164
+D3
+~
+~
+0 0 33172
+S
+#33174
+A Guard House~
+You are in the main Abenos guard house.  This is where guards report at the
+start and end of their shifts, and where offduty guards can kick back and
+relax.  There is a large desk to the north of the room, and a number of
+tables with chairs towards the south.  Several fresh loaves of bread stand
+on the table closest to the fire, over which a pig carcass roasts slowly.
+The only exit is west, onto Fenton Street.
+~
+331 8 0 0 0 0 255 0
+D3
+~
+door~
+1 0 33173
+S
+#33175
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 33167
+S
+#33176
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 33168
+S
+#33177
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 33170
+S
+#33178
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 33171
+S
+#33179
+The Town Planner's Office~
+You are in a small office used by the town planner.  This person acts as a
+mayor might in another city, officiating over disputes, managing the guard
+and janitorial forces, and working with the harbor master to ensure the
+city remains well supplied.  The office is dominated by an oaken desk, on
+which many papers are kept in place by a wide variety of paperweights.
+~
+331 8 0 0 0 0 255 0
+D2
+~
+door~
+1 0 33173
+S
+#33180
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33185
+S
+#33181
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33186
+S
+#33182
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33188
+S
+#33183
+A Private Home~
+You are in small townhouse.  Looking around, you can see signs of someone
+living here.  There are a few dishes waiting to be done in the kitchen
+area, and one of the beds is unmade.  Curtains wave lightly in the breeze
+coming through the window, and a broom stands against a wall.
+~
+331 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 33189
+S
+#33184
+The Corner of Worthington Road and Foxcord Street~
+You are at the junction of Foxcord Street and Worthington Road.  To the east,
+Foxcord Street leads along the north wall of town, lined with houses on its
+south side.  Worthington Road leads south, towards Fenton Street and the
+rest of the city.  This is a quiet corner of town, as there is little of
+interest here.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33185
+D2
+~
+~
+0 0 33166
+S
+#33185
+Foxcord Street~
+You are on Foxcord Street, which runs alongside the north wall of the city.
+Towards the west, Foxcord Street leads to Worthington Road, and to the east
+towards Fairway Road.  Along the south side of the street, the houses of
+Abenos' citizens stand, many with smoke rising from their chimneys.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33186
+D2
+~
+0~
+0 0 33180
+D3
+~
+~
+0 0 33184
+S
+#33186
+Foxcord Street~
+You are on Foxcord Street, which runs alongside the north wall of the city.
+Towards the west, Foxcord Street leads to Worthington Road, and to the east
+towards Fairway Road.  Along the south side of the street, the houses of
+Abenos' citizens stand, many with smoke rising from their chimneys.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33187
+D2
+~
+~
+0 0 33181
+D3
+~
+~
+0 0 33185
+S
+#33187
+Foxcord Street~
+You are on Foxcord Street, which runs alongside the north wall of the city.
+Towards the west, Foxcord Street leads to Worthington Road, and to the east
+towards Fairway Road.  Along the south side of the street, the houses of
+Abenos' citizens stand, many with smoke rising from their chimneys.  A small
+path leads south towards a park.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33188
+D2
+~
+0~
+0 0 33151
+D3
+~
+~
+0 0 33186
+S
+#33188
+Foxcord Street~
+You are on Foxcord Street, which runs alongside the north wall of the city.
+Towards the west, Foxcord Street leads to Worthington Road, and to the east
+towards Fairway Road.  Along the south side of the street, the houses of
+Abenos' citizens stand, many with smoke rising from their chimneys.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33189
+D2
+~
+~
+0 0 33182
+D3
+~
+~
+0 0 33187
+S
+#33189
+Foxcord Street~
+You are on Foxcord Street, which runs alongside the north wall of the city.
+Towards the west, Foxcord Street leads to Worthington Road, and to the east
+towards Fairway Road.  Along the south side of the street, the houses of
+Abenos' citizens stand, many with smoke rising from their chimneys.
+~
+331 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 33190
+D2
+~
+~
+0 0 33183
+D3
+~
+~
+0 0 33188
+S
+#33190
+The Corner of Fairway Road and Foxcord Street~
+You are at the junction of Foxcord Street and Fairway Road.  To the west,
+Foxcord Street leads along the north wall of town, lined with houses on its
+south side.  Fairway Road leads south, towards Fenton Street and the
+rest of the city.  The cobblestone road here is lightly worn, with very few
+carts coming this far north into town, and most pedestrians only walking
+through here twice a day.
+~
+331 0 0 0 0 1 255 0
+D2
+~
+~
+0 0 33172
+D3
+~
+~
+0 0 33189
+S
+#33191
+The Reception~
+You are in the boarding section of the Dancing Pig.  With many sailors coming
+to town, an inn offering cheap rent and hot food sees a lot of business,
+and this shows in the worn carpet and marked walls of the reception.  Behind
+you a flight of stairs lead down to the common room, and in front of you is
+a reception desk where you can rent a room for the night.
+~
+331 8 0 0 0 0 255 0
+D5
+~
+~
+0 0 33115
+S
+#33192
+Twisting Tunnels~
+You are standing at the intersection of six tunnels, leading in the four
+cardinal directions, as well as one tunnel sloping up and another sloping
+down.  There is nothing to distinguish one tunnel from another, no signs
+of air movement, no running water to follow, and absolutely no light.
+~
+331 617 0 0 0 0 255 0
+D0
+~
+~
+0 0 33182
+D1
+~
+~
+0 0 33193
+D2
+~
+~
+0 0 33184
+D3
+~
+~
+0 0 33190
+D4
+~
+~
+0 0 33181
+D5
+~
+~
+0 0 33187
+S
+#33193
+Twisting Tunnels~
+You are standing at the intersection of six tunnels, leading in the four
+cardinal directions, as well as one tunnel sloping up and another sloping
+down.  There is nothing to distinguish one tunnel from another, no signs
+of air movement, no running water to follow, and absolutely no light.
+~
+331 617 0 0 0 0 255 0
+D0
+~
+~
+0 0 33194
+D1
+~
+~
+0 0 33190
+D2
+~
+~
+0 0 33186
+D3
+~
+~
+0 0 33187
+D4
+~
+~
+0 0 33182
+D5
+~
+~
+0 0 33184
+S
+#33194
+Twisting Tunnels~
+You are standing at the intersection of six tunnels, leading in the four
+cardinal directions, as well as one tunnel sloping up and another sloping
+down.  There is nothing to distinguish one tunnel from another, no signs
+of air movement, no running water to follow, and absolutely no light.
+~
+331 617 0 0 0 0 255 0
+D0
+~
+~
+0 0 33187
+D1
+~
+~
+0 0 33186
+D2
+~
+~
+0 0 33192
+D3
+~
+~
+0 0 33186
+D4
+~
+~
+0 0 33195
+D5
+~
+~
+0 0 33184
+S
+#33195
+A snowy trail~
+You are on a snowy trail leading away from the narrow channel through the
+ice.  To the west, the trail bends around northward, and back east you can
+scrabble down the bank back into the channel.  The trail has several sets
+of recent footprints, one set of very small shoes and one set of hooves.
+~
+331 64 0 0 0 13 255 0
+D1
+~
+~
+0 0 6872
+D3
+~
+~
+0 0 33196
+S
+#33196
+A snowy trail~
+The snowy trail bends around from east to north here.  To the east, the trail
+leads towards an icy embankment, and to the north a small house stands, light
+spilling out its windows.
+~
+331 64 0 0 0 13 255 0
+D0
+~
+~
+0 0 33197
+D1
+~
+~
+0 0 33195
+S
+#33197
+Outside a snow covered house~
+You are standing in the garden of a small brick house.  Around you, snow
+covers everything.  You can see the heads of some garden gnomes peeking out
+in places, and here and there a snowman is standing with a large smile made
+from small pebbles.  Around the garden is a barely visible white picket
+fence.  To your north, a door lies open, spilling warmth and light out onto
+the garden.
+~
+331 0 0 0 0 13 255 0
+D0
+~
+~
+0 0 33198
+D2
+~
+~
+0 0 33196
+S
+#33198
+A Cheery House~
+You are standing in a brightly lit and colourfully decorated house.  To your
+south, the front door opens onto a snow covered garden.  As you look around
+the room, you notice that nearly every available surface has some sort of
+decoration on it, from red and green socks hanging off the mantlepiece to
+streamers and garlands of flowers swinging from the ceiling.  A large fire
+in the hearth provides more than enough heat for the room, making a sharp
+contrast from the weather outside.
+~
+331 393240 0 0 0 0 255 0
+D2
+~
+~
+0 0 33197
+S
+$~

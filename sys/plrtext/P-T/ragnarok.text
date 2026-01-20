@@ -1,0 +1,23 @@
+g kill 6.
+nats sa Naked Stats: Str: 19/100, Int: 10, Wis: 10, Dex: 10, Con: 20, Cha: 4
+cs cast 'demon fire'$*
+say emote says, '&15$* &00'
+sanc cast 'sanc'$*
+wa wake;stand
+sum cast 'summon'$*
+harm cast 'harm'$*
+b cast 'blind'$*
+h cast 'heal'$*
+word cast 'word of recall'$*
+f cast 'fly'$*
+sense cast 'sense life'$*
+di cast 'detect invis'$*
+de cast 'infra'$*
+mana rem realms;wear feath
+nomana rem feather;wear realms
+blah put all bupu;get all.scroll bupu;get all.potion bupu
+reg cast 'regen'$*
+cls cast 'cleanse'$*
+tit title :: the &09Wandering&00 Calamity
+rev cast 'revive'$*
+clan clan &14$* &00

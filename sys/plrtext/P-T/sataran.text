@@ -1,0 +1,16 @@
+z assist caine
+regen rem all.dignity; wear all.heart
+regenoff rem all.ring; wear all.dignity
+b ca 'blind' $*
+1 ca 'word'
+a assist $*
+gt gt &09$*&00
+say say &09$*&00
+shot buy shot; pour shot out
+h ca 'heal' $*
+lvldown rem all.jew; wear ear; rem glov; wear frost; wear all.onyx
+lvlup rem all.onyx; rem frost; wear all.jew; wear fur
+f ca 'c f'
+x ca 'heal' caine
+7 get all all.sataran; wear all
+v ca 'heal' crackle

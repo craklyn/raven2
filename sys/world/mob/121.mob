@@ -1,0 +1,300 @@
+#12101
+H D 0~
+martel~
+Martel~
+Martel, the leader of Lord Skul's forces
+~
+Martel, renegade Michaeline and general, curses as he watches his armies
+inability to defeat the Knights despite a vast numerical superiority.
+~
+4106 0 0 0 197800 0 0 0 -1000
+41 -10 -7 1d1+4500 2d6+20
+65 75
+9 9 1 0 -1 -1
+#12102
+H W 0~
+kourgas~
+Kourgas~
+Kourgas, the half-human killing machine
+~
+Kourgas, Martel's lieutenant, is busily trundling around the battle-field
+annhilating the opposition.  He looks at you, disfigures his face with a leer,
+and drools.
+~
+4106 0 0 0 197800 0 0 0 -900
+40 -5 -10 1d1+5500 3d4+21
+65 75
+9 9 1 0 -1 -1
+#12103
+H D 0~
+soldier~
+soldier~
+A Soldier in service to Lord Skul stands here.
+~
+The soldier's bulging muscles and sharp weapons convince you of his competance.
+~
+4106 0 0 0 0 0 0 0 -600
+35 0 1 1d1200+1200 1d8+17
+50 60
+9 9 1 0 -1 -1
+#12104
+H P 0~
+marhalt~
+Marhalt~
+Marhalt, General of the Knights, is marshalling his forces here.
+~
+Wearing shining armor and authoritatively manouvering the knights, he commands
+your instantaneous respect.
+~
+4106 0 0 0 197800 0 0 0 1000
+41 -10 -10 1d1+4500 2d6+20
+65 75
+9 9 1 0 -1 -1
+#12105
+H P 0~
+jebediah~
+Jebediah~
+Jebediah, the Knight's standard bearer, stands here.
+~
+Jeb proudly holds the Church Flag as he fights back the forces of Lord Skul.
+~
+4106 0 0 0 197800 0 0 0 1000
+40 -10 -10 1d1+3500 2d6+20
+65 75
+9 9 1 0 -1 -1
+#12106
+H P 0~
+knight~
+knight~
+A brave Michaeline Knight
+~
+The knight is fighting off the forces of Lord Skul.
+~
+4106 0 0 0 8 0 0 0 600
+35 -5 -5 1d1500+1500 1d8+17
+50 60
+9 9 1 0 -1 -1
+#12107
+H T 0~
+refugee~
+refugee~
+A refugee is here carrying his meager belongings.
+~
+He looks as if had to leave his land quickly and wasn't able to take very much
+with him.
+~
+4238 0 0 0 0 0 0 0 0
+20 -5 2 1d400+400 2d6+8
+40 40
+9 9 1 0 -1 -1
+#12108
+A W 0~
+mama griffon~
+the mama griffon~
+A mother griffon is here protecting her cubs from harm.
+~
+The mother griffon seems threatened by your presence here.
+~
+5930 0 0 0 66568 0 0 0 0
+40 -5 -4 1d3000+3000 4d6+24
+65 75
+9 9 2 8 16 -1
+#12109
+A W 0~
+baby griffon~
+a baby griffon~
+A baby griffon looks up at you with a pitiful look in his eyes.
+~
+It is SOOOOO Cute.  You want to take it home and adore It.
+~
+4234 0 0 0 66568 0 0 0 0
+26 -5 4 1d800+800 1d8+11
+40 40
+9 9 1 8 16 -1
+#12110
+A W 0~
+griffon~
+griffon~
+A griffon is here sunning himself in the sun.
+~
+The griffon's rippling muscles and sharp claws are convincing arguements for
+leaving him alone.
+~
+4106 0 0 0 66568 0 0 0 0
+37 5 1 1d3000+3000 8d7+10
+50 60
+6 6 1 8 16 -1
+#12111
+O W 0~
+whirlwind wind~
+whirlwind~
+The wind is blowing quickly here.
+~
+The wind is blowing quickly here.
+~
+10 0 0 0 1048576 0 0 0 0
+20 -5 10 1d8+900 5d6+3
+40 40
+9 9 1 0 -1 -1
+#12112
+R W 0~
+troll~
+a troll~
+A hulking troll is chewing on the remains of a unlucky traveller here.
+~
+Twelve feet tall, and built like a house, the Troll bellows and ambles towards
+you licking his lips.
+~
+1838 0 0 0 132096 0 0 0 -850
+38 -5 -4 1d3200+3200 2d6+25
+50 60
+9 9 1 8 4 -1
+#12113
+A W 0~
+vulture~
+a vulture~
+A vulture is here picking the remaining flesh off the body.
+~
+The vulture is covered with black, slimy looking feathers.
+~
+142 0 0 0 0 0 0 0 -350
+7 10 4 1d12+85 2d4+1
+35 40
+9 9 0 16 -1 -1
+#12114
+O W 0~
+harry ogre~
+Harry~
+Harry the Ogre looks at you and starts to slobber.
+~
+Harry Ogre is a dumb stupid creature who just happens to be incredibly
+dangerous, not to mention ugly.
+~
+1838 0 0 0 1024 0 0 0 -800
+40 -5 0 1d3000+3000 3d3+27
+65 75
+9 9 1 0 -1 -1
+#12115
+O W 0~
+schmoe ogre~
+Schmoe~
+Schmoe the Ogre hungrily peers at you.
+~
+Nyuk, Nyuk, Nyuk.  It looks like the last laugh may be on you...
+~
+1838 0 0 0 1024 0 0 0 -800
+38 0 0 1d2500+2500 3d3+23
+50 60
+9 9 1 0 -1 -1
+#12116
+O W 0~
+kearny ogre~
+Kearny~
+Kearny the Ogre is here laughing insanely while smacking Schmoe.
+~
+Kearny seems to be covered in Banana custard pie and is laughing hysterically.
+~
+4110 0 0 0 1024 0 0 0 -800
+38 0 0 1d2500+2500 3d3+23
+50 60
+9 9 1 0 -1 -1
+#12117
+A W 0~
+warg~
+a warg~
+A warg glares hungrily at you.
+~
+The warg looks mean and very, very hungry for Adventurer steak.
+~
+3944 0 0 0 1024 0 0 0 -500
+32 8 2 1d1000+1000 8d7+10
+50 60
+9 9 1 4 -1 -1
+#12118
+H T 0~
+bandit~
+a bandit~
+A bandit is here looting the burning rubble.
+~
+The bandit looks at you and smirks, then goes about his business.
+~
+14 0 0 0 0 0 0 0 -350
+30 5 1 1d750+750 1d8+16
+50 60
+9 9 1 0 -1 -1
+#12119
+H T 0~
+thief~
+a thief~
+A thief is hiding behind some bushes here.
+~
+He is wearing dark clothes that makes him very hard to see.
+~
+140 0 0 0 524288 0 0 0 -500
+32 5 1 1d850+850 1d8+18
+50 60
+9 9 1 0 -1 -1
+#12120
+A R 0~
+spider seeker creature~
+the seeker~
+A giant spider like creature is here destroying the remainder of the keep.
+~
+It is over 20 feet high, and tears apart the stone as if it were made of
+tissue paper.  It turns in your direction and emits a series of loud clicks.
+~
+69420 0 0 0 394408 0 0 0 -800
+45 -25 -10 1d1+3500 10d6+90
+65 75
+9 9 0 4 1 -1
+#12121
+H T 0~
+refugee~
+refugee~
+A refugee is here carrying his meager belongings.
+~
+He looks as if had to leave his land quickly and wasn't able to take very much
+with him.
+~
+142 0 0 0 0 0 0 0 0
+20 11 2 1d400+400 3d6+8
+40 40
+9 9 1 0 -1 -1
+#12122
+H T 0~
+refugee~
+refugee~
+A refugee is here carrying his meager belongings.
+~
+He looks as if had to leave his land quickly and wasn't able to take very much
+with him.
+~
+142 0 0 0 0 0 0 0 0
+20 -5 2 1d400+400 3d6+8
+40 40
+9 9 1 0 -1 -1
+#12123
+H D 0~
+gate guard~
+gate guard~
+A gateguard stands here completly ignoring you.
+~
+The guards bulging muscles and sharp weapons convince you of his competance.
+~
+4106 0 0 0 0 0 0 0 -600
+30 0 1 1d1200+1200 1d8+17
+50 60
+9 9 1 0 -1 -1
+#12124
+H D 0~
+gate guard~
+gate guard~
+A gateguard stands here completly ignoring you.
+~
+The guards bulging muscles and sharp weapons convince you of his competance.
+~
+4106 0 0 0 0 0 0 0 -600
+30 0 1 1d1200+1200 1d8+17
+50 60
+9 9 1 0 -1 -1
+$

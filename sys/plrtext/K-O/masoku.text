@@ -1,0 +1,50 @@
+sd shadow
+sense c 'sense' $*
+dm c 'dance of mists' $*
+ew enter well
+suf mist suffering
+dd c 'dance of dreams' $*
+sb c 'shadow blades' $*
+dr drink thimble
+sv cast 'shadow vision' $*
+ds cast 'dance of shadows' $*
+blur cast 'blur' $*
+bl c 'blind' $*
+sph c 'shadow sphere' $*
+sw c 'shadow walk' $*
+ssd shadowstep d
+ssu shadowstep u
+ssw shadowstep w
+sse shadowstep e
+sss shadowstep s
+ssn shadowstep n
+sjd shadowjump d
+sju shadowjump u
+sjw shadowjump w
+sje shadowjump e
+sjs shadowjump s
+sjn shadowjump n
+title title :: &09Wanderer&00
+sam mist rhyvis
+mid mist sis
+elven mist duckling
+invis c 'invis' $*
+gakn shadowstep n;b gak
+gaks shadowstep s;b gak
+gake shadowstep e;b gak
+gakw shadowstep w;b gak
+skeln shadowstep n;b skel
+skels shadowstep s;b skel
+skele shadowstep e;b skel
+skelw shadowstep w;b skel
+stepn shadowstep n;b 2.
+steps shadowstep s;b 2.
+stepe shadowstep e;b 2.
+stepw shadowstep w;b 2.
+stepu shadowstep u;b 2.
+stepd shadowstep d;b 2.
+poi c 'poison' $*
+curse c 'curse' $*
+gsv c 'shadow vision' group
+nn shadowstep n
+ss shadowstep s

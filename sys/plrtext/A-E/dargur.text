@@ -1,0 +1,28 @@
+sil cast 'silence'$*
+2 wear all
+1 get all dargur
+sancout gt Sanctuary is Broken!
+title title iz not a &10Half-Gnome&00. Iz a &08Half-Dwarf&00
+sp cast 'soul pierce'$*
+t stop
+invis cast 'invisibility'$*
+md cast 'maledict'$*
+emb cast 'embalm'$*
+sense cast 'sense life'$*
+summ cast 'summon'$*
+bl cast 'blind'$*
+shield cast 'shield'$*
+fly cast 'fly'$*
+di cast 'detect invisibility'$*
+ld cast 'life drain'$*
+cc cast 'charm corpse'$*
+nox cast 'noxious skin'$*
+ss cast 'slow'$*
+q q revive
+0 assist
+gt gt &10\m/&08$* &10\m/&00
+infra cast 'infravision'$*
+9 order fol k$*
+cons cast 'consume corpse'$*
+db cast 'debilitate'$*
+o stop

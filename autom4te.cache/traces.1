@@ -1,0 +1,427 @@
+m4trace:acsite.m4:2: -1- AC_DEFUN([AC_CHECK_PROTO], [
+ac_safe=translit($1, './+-', '__p_');
+
+AC_MSG_CHECKING([if $1 is prototyped])
+AC_CACHE_VAL(ac_cv_prototype_$ac_safe, [#
+  if test $ac_cv_gcc_fnb = yes; then
+    OLDCFLAGS=$CFLAGS
+    CFLAGS="$CFLAGS -fno-builtin"
+  fi
+AC_COMPILE_IFELSE([AC_LANG_PROGRAM([[
+#define NO_LIBRARY_PROTOTYPES
+#define __COMM_C__
+#define __OTHER_C__
+#include "$HOME/RavenMUD/src/lib/general/sysdep.h"
+#ifdef $1
+  error - already defined!
+#endif
+void $1(int a, char b, int c, char d, int e, char f, int g, char h);
+]],
+)],[eval "ac_cv_prototype_$ac_safe=no"],[eval "ac_cv_prototype_$ac_safe=yes"])
+  if test $ac_cv_gcc_fnb = yes; then
+    CFLAGS=$OLDCFLAGS
+  fi
+])
+
+if eval "test \"`echo '$ac_cv_prototype_'$ac_safe`\" = yes"; then
+  AC_MSG_RESULT(yes)
+else
+  AC_DEFINE(builtin(format, NEED_%s_PROTO, translit($1, 'a-z', 'A-Z')), , Check for a prototype to $1.)
+  AC_MSG_RESULT(no)
+fi
+])
+m4trace:acsite.m4:38: -1- AC_DEFUN([AC_UNSAFE_CRYPT], [
+  AC_CACHE_CHECK([whether crypt needs over 10 characters], ac_cv_unsafe_crypt, [
+    if test ${ac_cv_header_crypt_h-no} = yes; then
+      use_crypt_header="#include <crypt.h>"
+    fi
+    if test ${ac_cv_lib_crypt_crypt-no} = yes; then
+      ORIGLIBS=$LIBS
+      LIBS="-lcrypt $LIBS"
+    fi
+    AC_TRY_RUN(
+changequote(<<, >>)dnl
+<<
+#define _XOPEN_SOURCE
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+$use_crypt_header
+
+int main(void)
+{
+  char pwd[11], pwd2[11];
+
+  strncpy(pwd, (char *)crypt("FooBar", "BazQux"), 10);
+  pwd[10] = '\0';
+  strncpy(pwd2, (char *)crypt("xyzzy", "BazQux"), 10);
+  pwd2[10] = '\0';
+  if (strcmp(pwd, pwd2) == 0)
+    exit(0);
+  exit(1);
+}
+>>
+changequote([, ])dnl
+, ac_cv_unsafe_crypt=yes, ac_cv_unsafe_crypt=no, ac_cv_unsafe_crypt=no)])
+if test $ac_cv_unsafe_crypt = yes; then
+    AC_DEFINE([HAVE_UNSAFE_CRYPT], [1], [Define if we don't have proper support for the system's crypt.])
+fi
+if test ${ac_cv_lib_crypt_crypt-no} = yes; then
+  LIBS=$ORIGLIBS
+fi
+])
+m4trace:acsite.m4:94: -1- AC_DEFUN([AC_AUTO_DEPEND], [AC_MSG_CHECKING( for compiler autodepency generation)
+ac_cv_auto_dependencies=yes
+noautodeps=
+
+  case "$target" in
+    *-solaris*)
+      dep_flags=-xM ;;
+
+    *-hpux9.*)
+      if test $ac_cv_c_compiler_gnu = no; then
+        noautodeps="1"
+        dep_flags=
+        ac_cv_auto_dependencies=no
+      fi ;;
+
+    *-hpux10.*)
+      if test $ac_cv_c_compiler_gnu = no; then
+        noautodeps="1"
+        dep_flags=
+        ac_cv_auto_dependencies=no
+      fi ;;
+    *)
+      dep_flags=-M ;;
+    esac
+
+if test $ac_cv_c_compiler_gnu = yes; then
+  dep_flags="-M"
+  CPPFLAGS="-M"
+fi
+
+AC_SUBST([dep_flags]) dnl
+AC_SUBST([noautodeps]) dnl
+AC_MSG_RESULT($ac_cv_auto_dependencies)
+
+])
+m4trace:acsite.m4:139: -1- AC_DEFUN([AC_SHARED_LIBS], [AC_MSG_CHECKING( for shared library support)
+  shlib_support=yes
+  shlib_compile_flags=
+  shlib_link_flags=
+  shexe_rpath_flags=
+  nosharedlibs=
+
+  if test -n "$ac_vxworks"; then
+    acsite_os_def="_VXWORKS"
+    nosharedlibs="1"
+    shlib_support=no
+    shlib_compile_flags=
+    shlib_link_flags=
+    shexe_rpath_flags=
+  else
+  case "$target" in
+
+    alpha-*-osf*)
+      acsite_os_def="_OSF1AXP"
+      shlib_compile_flags=
+      shlib_link_flags="-shared -expect_unresolved '*'"
+      shexe_rpath_flags="-rpath $(LIB)" ;;
+
+    *-solaris*)
+      acsite_os_def="_SOLARIS"
+      if test $ac_cv_c_compiler_gnu = no; then
+        shlib_compile_flags="-KPIC -mt"
+      fi
+      shlib_link_flags="-G"
+      shexe_rpath_flags="-R $(LIB)" ;;
+
+    *-hpux*)
+      acsite_os_def="_HPUX"
+      nosharedlibs="1"
+      shlib_support=no
+      shlib_compile_flags=
+      shlib_link_flags=
+      shexe_rpath_flags= ;;
+
+    *-irix*.*)
+      acsite_os_def="_IRIX"
+      shlib_compile_flags="-KPIC"
+      shlib_link_flags="-shared"
+      shexe_rpath_flags="-rpath $(LIB)" ;;
+
+    *-freebsd*)
+      acsite_os_def="_FREEBSD"
+      nosharedlibs="1"
+      shlib_support=no
+      shlib_compile_flags=
+      shlib_link_flags=
+      shexe_rpath_flags= ;;
+
+    i?86-pc-linux*)
+      acsite_os_def="_LINUX"
+      nosharedlibs="1"
+      if test $ac_cv_c_compiler_gnu = no; then
+        shlib_compile_flags="-KPIC"
+      fi
+      shlib_link_flags=
+      shexe_rpath_flags= ;;
+
+    i?86-pc-cygwin*)
+      acsite_os_def="_CYGWIN32"
+      nosharedlibs="1"
+      shlib_support=no
+      shlib_compile_flags=
+      shlib_link_flags=
+      shexe_rpath_flags= ;;
+
+    *)
+      AC_MSG_WARN( [$host_os is not currently supported.] )
+      shlib_support=no ;;
+  esac
+  fi
+
+  AC_SUBST([acsite_os_def]) dnl
+  AC_MSG_RESULT($shlib_support) dnl
+  AC_SUBST([shlib_compile_flags]) dnl
+  AC_SUBST([shlib_link_flags]) dnl
+  AC_SUBST([shexe_rpath_flags]) dnl
+  AC_SUBST([nosharedlibs]) dnl
+
+])
+m4trace:acsite.m4:234: -1- AC_DEFUN([AC_RUNTIME_PROFILING], [AC_MSG_CHECKING( for runtime profiling)
+
+  rtprofiling=
+  rtresults=no
+
+  if test -n "$RTPROFILING"; then
+    if test "$RTPROFILING" != "0"; then
+      rtprofiling="1"
+      rtresults=yes
+
+      shlib_support=no
+      shlib_compile_flags=
+      shlib_link_flags=
+      shexe_rpath_flags=
+      nosharedlibs="1"
+
+      AC_SUBST([shlib_compile_flags]) dnl
+      AC_SUBST([shlib_link_flags]) dnl
+      AC_SUBST([shexe_rpath_flags]) dnl
+      AC_SUBST([nosharedlibs]) dnl
+    fi
+  fi
+
+  AC_SUBST([rtprofiling])
+  AC_MSG_RESULT($rtresults)
+])
+m4trace:configure.ac:8: -1- m4_pattern_forbid([^_?A[CHUM]_])
+m4trace:configure.ac:8: -1- m4_pattern_forbid([_AC_])
+m4trace:configure.ac:8: -1- m4_pattern_forbid([^LIBOBJS$], [do not use LIBOBJS directly, use AC_LIBOBJ (see section 'AC_LIBOBJ vs LIBOBJS'])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^AS_FLAGS$])
+m4trace:configure.ac:8: -1- m4_pattern_forbid([^_?m4_])
+m4trace:configure.ac:8: -1- m4_pattern_forbid([^dnl$])
+m4trace:configure.ac:8: -1- m4_pattern_forbid([^_?AS_])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^SHELL$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PATH_SEPARATOR$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_NAME$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_TARNAME$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_VERSION$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_STRING$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_BUGREPORT$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_URL$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^exec_prefix$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^prefix$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^program_transform_name$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^bindir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^sbindir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^libexecdir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^datarootdir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^datadir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^sysconfdir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^sharedstatedir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^localstatedir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^runstatedir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^includedir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^oldincludedir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^docdir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^infodir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^htmldir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^dvidir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^pdfdir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^psdir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^libdir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^localedir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^mandir$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_NAME$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_TARNAME$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_VERSION$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_STRING$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_BUGREPORT$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^PACKAGE_URL$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^DEFS$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^ECHO_C$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^ECHO_N$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^ECHO_T$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^LIBS$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^build_alias$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^host_alias$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^target_alias$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^build$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^build_cpu$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^build_vendor$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^build_os$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^host$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^host_cpu$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^host_vendor$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^host_os$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^target$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^target_cpu$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^target_vendor$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^target_os$])
+m4trace:configure.ac:15: -1- m4_pattern_allow([^CIRCLE_UNIX$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^CFLAGS$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^LDFLAGS$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^LIBS$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^CPPFLAGS$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^ac_ct_CC$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^EXEEXT$])
+m4trace:configure.ac:18: -1- m4_pattern_allow([^OBJEXT$])
+m4trace:configure.ac:19: -1- m4_pattern_allow([^INSTALL_PROGRAM$])
+m4trace:configure.ac:19: -1- m4_pattern_allow([^INSTALL_SCRIPT$])
+m4trace:configure.ac:19: -1- m4_pattern_allow([^INSTALL_DATA$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^RANLIB$])
+m4trace:configure.ac:25: -1- m4_pattern_allow([^HAVE_SYS_WAIT_H$])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_stdio_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" stdio.h ]AS_TR_SH([stdio.h]) AS_TR_CPP([HAVE_stdio.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_stdlib_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" stdlib.h ]AS_TR_SH([stdlib.h]) AS_TR_CPP([HAVE_stdlib.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_string_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" string.h ]AS_TR_SH([string.h]) AS_TR_CPP([HAVE_string.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_inttypes_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" inttypes.h ]AS_TR_SH([inttypes.h]) AS_TR_CPP([HAVE_inttypes.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_stdint_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" stdint.h ]AS_TR_SH([stdint.h]) AS_TR_CPP([HAVE_stdint.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_strings_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" strings.h ]AS_TR_SH([strings.h]) AS_TR_CPP([HAVE_strings.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_sys_stat_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" sys/stat.h ]AS_TR_SH([sys/stat.h]) AS_TR_CPP([HAVE_sys/stat.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_sys_types_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" sys/types.h ]AS_TR_SH([sys/types.h]) AS_TR_CPP([HAVE_sys/types.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- AC_DEFUN([_AC_Header_unistd_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" unistd.h ]AS_TR_SH([unistd.h]) AS_TR_CPP([HAVE_unistd.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:26: -1- m4_pattern_allow([^STDC_HEADERS$])
+m4trace:configure.ac:26: -1- m4_pattern_allow([^HAVE_FCNTL_H$])
+m4trace:configure.ac:26: -1- m4_pattern_allow([^HAVE_SYS_FCNTL_H$])
+m4trace:configure.ac:26: -1- m4_pattern_allow([^HAVE_ERRNO_H$])
+m4trace:configure.ac:26: -1- m4_pattern_allow([^HAVE_NET_ERRNO_H$])
+m4trace:configure.ac:26: -1- m4_pattern_allow([^HAVE_LIMITS_H$])
+m4trace:configure.ac:26: -1- m4_pattern_allow([^HAVE_SYS_TIME_H$])
+m4trace:configure.ac:27: -1- m4_pattern_allow([^HAVE_SYS_SELECT_H$])
+m4trace:configure.ac:27: -1- m4_pattern_allow([^HAVE_CRYPT_H$])
+m4trace:configure.ac:27: -1- m4_pattern_allow([^HAVE_ASSERT_H$])
+m4trace:configure.ac:27: -1- m4_pattern_allow([^HAVE_ARPA_TELNET_H$])
+m4trace:configure.ac:27: -1- m4_pattern_allow([^HAVE_ARPA_INET_H$])
+m4trace:configure.ac:27: -1- m4_pattern_allow([^HAVE_SYS_IOCTL_H$])
+m4trace:configure.ac:28: -1- m4_pattern_allow([^HAVE_SYS_SOCKET_H$])
+m4trace:configure.ac:28: -1- m4_pattern_allow([^HAVE_SYS_RESOURCE_H$])
+m4trace:configure.ac:28: -1- m4_pattern_allow([^HAVE_NETINET_IN_H$])
+m4trace:configure.ac:28: -1- m4_pattern_allow([^HAVE_NETDB_H$])
+m4trace:configure.ac:28: -1- m4_pattern_allow([^HAVE_SIGNAL_H$])
+m4trace:configure.ac:28: -1- m4_pattern_allow([^HAVE_SYS_UIO_H$])
+m4trace:configure.ac:28: -1- m4_pattern_allow([^HAVE_MCHECK_H$])
+m4trace:configure.ac:28: -1- m4_pattern_allow([^HAVE_MATH_H$])
+m4trace:configure.ac:31: -1- m4_pattern_allow([^HAVE__BOOL$])
+m4trace:configure.ac:31: -1- m4_pattern_allow([^HAVE_STDBOOL_H$])
+m4trace:configure.ac:32: -1- m4_pattern_allow([^const$])
+m4trace:configure.ac:33: -1- m4_pattern_allow([^pid_t$])
+m4trace:configure.ac:34: -1- m4_pattern_allow([^size_t$])
+m4trace:configure.ac:35: -1- m4_pattern_allow([^ssize_t$])
+m4trace:configure.ac:36: -1- _m4_warn([obsolete], [Update your code to rely only on HAVE_SYS_TIME_H,
+then remove this warning and the obsolete code below it.
+All current systems provide time.h; it need not be checked for.
+Not all systems provide sys/time.h, but those that do, all allow
+you to include it and time.h simultaneously.], [])
+m4trace:configure.ac:42: -1- AC_DEFUN([_AC_Header_sys_time_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" sys/time.h ]AS_TR_SH([sys/time.h]) AS_TR_CPP([HAVE_sys/time.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:45: -1- m4_pattern_allow([^TIME_WITH_SYS_TIME$])
+m4trace:configure.ac:70: -1- m4_pattern_allow([^HAVE_STRUCT_IN_ADDR$])
+m4trace:configure.ac:78: -1- m4_pattern_allow([^CIRCLE_CRYPT$])
+m4trace:configure.ac:78: -1- m4_pattern_allow([^CRYPTLIB$])
+m4trace:configure.ac:78: -1- m4_pattern_allow([^CIRCLE_CRYPT$])
+m4trace:configure.ac:87: -1- AC_DEFUN([_AC_Header_vfork_h], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_header_]]_AC_LANG_ABBREV[[_list],
+  [" vfork.h ]AS_TR_SH([vfork.h]) AS_TR_CPP([HAVE_vfork.h])["])])_AC_HEADERS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:87: -1- AC_DEFUN([_AC_Func_fork], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_func_]]_AC_LANG_ABBREV[[_list],
+  [" fork ]AS_TR_CPP([HAVE_fork])["])])_AC_FUNCS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:87: -1- AC_DEFUN([_AC_Func_vfork], [m4_divert_text([INIT_PREPARE],
+  [AS_VAR_APPEND([ac_func_]]_AC_LANG_ABBREV[[_list],
+  [" vfork ]AS_TR_CPP([HAVE_vfork])["])])_AC_FUNCS_EXPANSION(_AC_LANG_ABBREV)])
+m4trace:configure.ac:87: -1- m4_pattern_allow([^HAVE_WORKING_VFORK$])
+m4trace:configure.ac:87: -1- m4_pattern_allow([^vfork$])
+m4trace:configure.ac:87: -1- m4_pattern_allow([^HAVE_WORKING_FORK$])
+m4trace:configure.ac:88: -1- m4_pattern_allow([^HAVE_MALLOC$])
+m4trace:configure.ac:88: -1- m4_pattern_allow([^HAVE_MALLOC$])
+m4trace:configure.ac:88: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:88: -1- m4_pattern_allow([^malloc$])
+m4trace:configure.ac:89: -1- m4_pattern_allow([^HAVE_REALLOC$])
+m4trace:configure.ac:89: -1- m4_pattern_allow([^HAVE_REALLOC$])
+m4trace:configure.ac:89: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:89: -1- m4_pattern_allow([^realloc$])
+m4trace:configure.ac:91: -1- m4_pattern_allow([^HAVE_GETTIMEOFDAY$])
+m4trace:configure.ac:91: -1- m4_pattern_allow([^HAVE_SNPRINTF$])
+m4trace:configure.ac:91: -1- m4_pattern_allow([^HAVE_STRCASECMP$])
+m4trace:configure.ac:92: -1- m4_pattern_allow([^HAVE_STRDUP$])
+m4trace:configure.ac:92: -1- m4_pattern_allow([^HAVE_STRICMP$])
+m4trace:configure.ac:92: -1- m4_pattern_allow([^HAVE_STRLCPY$])
+m4trace:configure.ac:92: -1- m4_pattern_allow([^HAVE_STRNCASECMP$])
+m4trace:configure.ac:92: -1- m4_pattern_allow([^HAVE_STRNICMP$])
+m4trace:configure.ac:92: -1- m4_pattern_allow([^HAVE_STRSTR$])
+m4trace:configure.ac:92: -1- m4_pattern_allow([^HAVE_VSNPRINTF$])
+m4trace:configure.ac:93: -1- m4_pattern_allow([^HAVE_INET_ADDR$])
+m4trace:configure.ac:93: -1- m4_pattern_allow([^HAVE_INET_ATON$])
+m4trace:configure.ac:95: -1- _m4_warn([obsolete], [The macro 'AC_TRY_RUN' is obsolete.
+You should run autoupdate.], [./lib/autoconf/general.m4:2995: AC_TRY_RUN is expanded from...
+lib/m4sugar/m4sh.m4:690: _AS_IF_ELSE is expanded from...
+lib/m4sugar/m4sh.m4:697: AS_IF is expanded from...
+./lib/autoconf/general.m4:2249: AC_CACHE_VAL is expanded from...
+./lib/autoconf/general.m4:2270: AC_CACHE_CHECK is expanded from...
+acsite.m4:38: AC_UNSAFE_CRYPT is expanded from...
+configure.ac:95: the top level])
+m4trace:configure.ac:95: -1- m4_pattern_allow([^HAVE_UNSAFE_CRYPT$])
+m4trace:configure.ac:98: -1- m4_pattern_allow([^dep_flags$])
+m4trace:configure.ac:98: -1- m4_pattern_allow([^noautodeps$])
+m4trace:configure.ac:99: -1- m4_pattern_allow([^acsite_os_def$])
+m4trace:configure.ac:99: -1- m4_pattern_allow([^shlib_compile_flags$])
+m4trace:configure.ac:99: -1- m4_pattern_allow([^shlib_link_flags$])
+m4trace:configure.ac:99: -1- m4_pattern_allow([^shexe_rpath_flags$])
+m4trace:configure.ac:99: -1- m4_pattern_allow([^nosharedlibs$])
+m4trace:configure.ac:100: -1- m4_pattern_allow([^shlib_compile_flags$])
+m4trace:configure.ac:100: -1- m4_pattern_allow([^shlib_link_flags$])
+m4trace:configure.ac:100: -1- m4_pattern_allow([^shexe_rpath_flags$])
+m4trace:configure.ac:100: -1- m4_pattern_allow([^nosharedlibs$])
+m4trace:configure.ac:100: -1- m4_pattern_allow([^rtprofiling$])
+m4trace:configure.ac:144: -1- m4_pattern_allow([^MYFLAGS$])
+m4trace:configure.ac:147: -1- m4_pattern_allow([^MYFLAGS$])
+m4trace:configure.ac:149: -1- m4_pattern_allow([^MYFLAGS$])
+m4trace:configure.ac:155: -1- m4_pattern_allow([^MYFLAGS$])
+m4trace:configure.ac:159: -1- m4_pattern_allow([^NEED_STRLCPY_PROTO$])
+m4trace:configure.ac:176: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:176: -1- m4_pattern_allow([^LTLIBOBJS$])

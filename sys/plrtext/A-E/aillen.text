@@ -1,0 +1,49 @@
+2 c 'revive' ban
+' get gold all.corp
+/ get belt corp;open belt;get all belt;c 'remove curse' belt;junk belt;get gold all.corp;dest corp
+wa wake;stand
+awa c 'awaken' $*
+3 c 'summon' lily
+fo c 'fount'
+monst c 'monster
+gte gte &08$*&00
+cs c 'color spray' $*
+rc c 'remove cur' $*
+blind c 'blind' $*
+fly c 'fly' $*
+shie c 'shie' $*
+flame c 'flame b' $*
+port c 'port' $*
+of order follower $*
+nexus c 'nexus' $*
+0 auc -info
+feeble c 'feeble' $*
+vial c 'fountain'
+locate c 'locate object' $*
+invis c 'invis' $*
+charm c 'charm person' $*
+id cast 'identify' $*
+str cast 'str' $*
+infra cast 'infra'
+gt gtell &01' &14$* &00 &01'&00
+say say &01' &14$* &00 &01'&00
+curse c 'curse' $*
+doom c 'doom' $*
+sum c 'summ' $*
+gate c 'gate
+mix mix $* magic
+ts c 'true sight' $*
+ch n;n;n;n;n;n;n;n;n;w;w;od
+shield c 'shield' $*
+bli c 'blind* $*
+mm c 'magi mis' $*
+fb c 'flame blade' $*
+awake c 'awake'
+haste c 'haste' $*
+air c 'air' $*
+title title &01<&08^&10>&07 Order of Darkness &10<&08^&00&01>&00
+clan cla &10+*+&00&06$* &10+*+&00
+life c 'life drain' $*
+loot get all all.aill;wear all;wield staff;hold heart
+tar;rem tear;wear 2.tear;rem all.heb;rem bree;wear mask;wear chain;wear hair
+1 assist

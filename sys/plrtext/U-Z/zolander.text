@@ -1,0 +1,13 @@
+shield c 'shield' $*
+invis c 'invis' $*
+ch c 'charm' $*
+clan clan &09$*&00
+dr c 'life drain' $*
+infra c 'infra'
+gs gs &10$*&00
+str c 'str' $*
+bl c 'blind' $*
+mons c 'monster summon'
+sum c 'sum' $*
+col c 'color' $*
+fly c 'fly' $*

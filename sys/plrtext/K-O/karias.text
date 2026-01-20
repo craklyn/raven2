@@ -1,0 +1,32 @@
+cw clanwho
+de cast 'eyes of the dead'$*
+ch cast 'chaos armor'$*
+bre cast 'black breath' $*
+mon cast 'call steed'
+gd gt going;d;kill $*
+gu gt going;u;kill $*
+gn gt going;n;kill $*
+gs gt going;s;kill $*
+gw gt going;w;kill $*
+ge gt going;e;kill $*
+ani cas 'animate' $1
+aura cas 'aura of a
+eye cast 'eye of the 
+di cast 'det inv' $*
+dt c 'death touch' $*
+rest dismount;rest
+sleep dismount;sleep
+pest cast 'pest'
+chaos cas 'chaos a
+animate c 'animate' $*
+wake;wake;stand;mount drake
+dart c 'black dart' $*
+gt gt &14$*&00
+reg cast 'regen'$*
+blind cast 'blind' $*
+steed cast 'call steed'
+infra cast 'eyes of the dead'
+charm cast 'animate dead' $*
+wake wake;stand;mount drake
+bb cast 'black breath' $*
+1 order fol k duke

@@ -1,0 +1,7 @@
+a get all corpse
+z scan
+say sa &01$* &00
+clan cla &01$* &00
+gt gtell &01$* &00
+wake wake;stand
+id color off;use wand $*;color comp

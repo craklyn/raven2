@@ -1,0 +1,6 @@
+bl c 'blindness' $*
+g c 'shadow blades' $*
+3 scan
+2 destroy corpse
+1 get all corpse
+ss c 'shadow sphere'

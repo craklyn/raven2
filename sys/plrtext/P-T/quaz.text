@@ -1,0 +1,30 @@
+xx phaseshift
+wk cast 'shad walk
+cc cast 'curse'$1
+po cast 'poison' $1
+q shadow
+2 get all corpse;destroy corpse
+rr recite recall
+rrr recite recall recall
+4 cast 'shad blades
+zz cast 'blind' $1
+sv cast 'shadow vision'
+v cast 'invis'
+kk cast 'shadow blades' $1
+sp cast 'shadow sphere
+dc cast 'dance of shadow'
+bl cast 'blur'
+bb cast 'blind'
+1 trip;stand
+wak wake;stand
+oo o fol kil $1;assist
+dd delusion
+aa assist shadow
+m cast 'dance of mist'
+9 wield ice;hold broom;wear all;group all;save
+pou put all pouch;get all.recall pouch;group all;save
+dr cast 'dance of dream' $1
+ss shadowstep $1
+dm cast 'danc of mist' $1
+z cast 'shad blad'grimlo
+5 cast 'dan o dr'

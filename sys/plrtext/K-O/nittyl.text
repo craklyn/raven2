@@ -1,0 +1,18 @@
+flame c 'flame strike' $*
+convert c 'convert' $*
+rev c 'revive' $*
+calm c 'calm' $*
+relo c 'relocate' $*
+di c 'detect invis' $*
+summ c 'summon' $*
+cw clanwho
+title title the &09Wandering&00 &10Sidhe &08Mender&00
+heal c 'heal' $*
+sanc c 'sanc' $*
+gt gt &10$*&00 
+water c 'create water' $*
+food c 'create food'
+] get gold corp
+fly c 'fly' $*
+sum c 'summon' $*
+r reelin

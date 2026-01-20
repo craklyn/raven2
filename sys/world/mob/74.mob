@@ -1,0 +1,195 @@
+#7400
+T W 0~
+varment m7400~
+a small snake~
+A small snake slithers through the water.
+~
+  A small, bright green snake with foaming fangs stares at you
+intently.
+~
+17468 0 0 0 16809994 0 0 0 1000
+35 5 7 1d1+200 5d2+10
+50 60
+9 9 0 4 6 17
+#7401
+T W 0~
+varment m7401~
+a sewer rat~
+A large sewer rat slithers around your feet.
+~
+  A large, grotesque rat with bright red eyes loops around your
+feet, searching for exposed skin.
+~
+16956 0 0 0 16809994 0 0 0 1000
+35 5 7 1d10+200 5d2+10
+50 60
+9 9 0 4 8 16
+#7402
+T W 0~
+varment m7402~
+the cockroach~
+A huge cockroach climbs the muddy wall.
+~
+  A massive brown roach scampers up the wall.
+~
+16956 0 0 0 40970 0 0 0 1000
+35 5 6 1d1+200 5d2+10
+50 60
+9 9 0 1 1 1
+#7403
+T W 0~
+varment m7403~
+a large horse fly~
+A large black thing is buzzing around your head.
+~
+A large black horse fly circles above.
+~
+17468 0 0 0 32778 0 0 0 1000
+35 5 6 1d1+200 5d2+10
+50 60
+9 9 0 4 4 4
+#7404
+T W 0~
+varment  m7404~
+a cave bat~
+A small cave dweller rests here.
+~
+You see a small bat hanging from the ceiling of this old sewer.
+~
+17468 0 0 0 32770 0 0 0 1000
+35 5 7 1d1+200 5d2+10
+50 60
+9 9 0 4 0 1
+#7405
+T W 0~
+earthworm m7405 varment~
+a large earthworm~
+A large, white worm burrows in the dirt.
+~
+A large worm burrows deep in the mud.
+~
+16956 0 0 0 32778 0 0 0 1000
+35 5 8 1d1+200 5d2+10
+50 60
+9 9 0 11 3 5
+#7406
+A W 0~
+bacite brown~
+the brown bacite~
+A brown bacite sniffs the air for fresh meat.
+~
+This 6 to 7 foot long, giant lizard looks a great deal like a draconian.
+It walks on two legs, but it's feet and hands have yellow stained claws.
+It's body is covered in dull brown scales from the top of its head to
+the tip of its 4 foot tail.
+~
+585484 0 0 0 99372 0 0 0 0
+35 5 1 1d6000+6000 1d75+75
+50 60
+9 9 0 3 10 16
+#7407
+H D 0~
+bacite green~
+the green bacite~
+A green glow emerges from the shadows.
+~
+Like his brothers, the green bacite is covered in scales, though
+his are green. He maybe be a weaker form of his species, but
+he has a special weapon to make up for his lack of strength.
+~
+585516 0 0 0 99372 0 0 0 -1000
+35 5 1 1d6000+6000 1d75+75
+50 60
+9 9 0 3 10 9
+#7408
+I M 0~
+bacite red shaman~
+the Bacite Shaman~
+A pair of yellow eyes captures you in their glow.
+~
+Blood red scales cover this Bacite and his eyes glow yellow.
+A low guttural growl emanates from his throat as he fixes
+his gaze upon you.
+~
+585516 0 0 0 5342252 0 0 0 0
+35 5 1 1d6000+6000 1d75+75
+50 60
+9 9 0 0 -1 -1
+#7409
+H W 0~
+merden supervisor sewer~
+Merden~
+Merden, the Sewer Maintenance Supervisor stands here.
+~
+Tall and thin as a rail, Merden has a very
+worried look on his face. His body shivers
+as if he is freezing, although the tempeture
+here is very warm and humid.
+~
+253962 0 0 0 33964 0 0 0 0
+51 5 -6 1d1+30000 8d7+100
+90 100
+9 9 0 0 -1 -1
+#7410
+H R 0~
+Ivan crazy quest~
+Crazy Ivan~
+Crazy Ivan wanders by mumbling to himself.
+~
+Crazy Ivan's gibberish is actually cryptic messages. Are you smart
+enough to figure out his funny quests?
+~
+134471832 0 0 0 230568 0 0 0 0
+51 5 -10 1d1+30000 75d75+100
+90 100
+9 9 0 0 -1 -1
+Z 7402
+#7411
+H W 0~
+ragneli questmaster~
+Ragneli~
+Ragneli, the caravan owner stands here looking very worried.
+~
+Ragneli is one of the richest men in town, but it seems a band of
+robbers have been robbing and looting his caravans. He is looking
+for some brave person to stop these bandits.
+~
+134471832 0 0 0 1064 0 0 0 0
+51 5 -10 1d1+30000 100d100+100
+90 100
+9 9 0 0 -1 -1
+Z 7413
+Z 7414
+Z 7415
+#7412
+H R 0~
+trigger testing mob Fred~
+Fred~
+Fred waves as you pass.
+~
+Fred loves to talk, sometimes too much.
+~
+1302558 0 0 0 1192 0 0 0 0
+51 -30 -10 1d1+30000 100d100+100
+90 100
+9 9 0 0 -1 -1
+Z 7422
+Z 7423
+Z 7424
+Z 7425
+#7413
+H W 0~
+beggar questmaster pottsy~
+the beggar~
+A begger sits here with his hand out.
+~
+The beggar has an eye patch over one eye.
+~
+134471706 0 0 0 1192 0 0 0 0
+51 5 -10 1d1+30000 100d100+100
+90 100
+7 9 0 0 -1 -1
+Z 7416
+Z 7414
+Z 7415
+$

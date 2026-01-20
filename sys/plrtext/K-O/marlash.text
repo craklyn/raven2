@@ -1,0 +1,48 @@
+y tr seeker
+m or fol ass malev
+call c 'call to corpse' $*
+dis c 'disease' $*
+bone c 'bone wall' $*
+tit title :: &03Order&00 of &02Reanimation&00
+explode c 'explode cor' $*
+9 or fol ass marl
+entom c 'entomb cor' $*
+trans c 'trans cor'
+wra c 'wraith' self
+rune c 'create warding'
+r or fol rescue marlash
+deb c 'deb' $*
+charm c 'charm corpse' $*
+gold get all.gold all.cor
+emb c 'emb' $*
+clan clan &00&02<<&14'&00&10$* &14'&00&02>>&00
+gs gs &02<<&14'&00&10$* &14'&00&02>>&00
+age c 'age' $*
+fly c 'fly' $*
+life c 'sense life'
+shield c 'shield' $*
+invis c 'invis' $*
+bl c 'blind' $*
+h c 'life drain' $*
+ld c 'life drain' $*
+sum c 'summ' $*
+poi c 'poison' $*
+sp c 'soul pier' $*
+gx rec elv rec
+x rec elv
+o calm
+cc c 'consu cor' $*
+v assist
+nox c 'nox skin' $*
+di c 'det invis' $*
+rp c 'resi poi' $*
+i c 'soul pier' $*
+ed c 'energy drain' $*
+infra c 'infra'
+sumcor c 'summon corpse' $*
+gg give 250000 coins $*
+6 get dag
+7 wield dag
+ork or fol kill $*
+slow c 'slow' $*
+ga get all all.cor

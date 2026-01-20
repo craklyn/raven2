@@ -1,0 +1,84 @@
+#65
+The Dwarven Caverns~
+6599 10 2 0
+M 0 6516 1 6553      * Mob : the Archaeologist
+G 1 6513 1 17        * Eqp : a pouch full of bones
+P 1 6514 10 6513     * Put : a bone
+O 0 6515 10 6531     
+O 0 6515 10 6501     
+M 0 6501 6 6501      * Mob : the dwarf worker
+O 0 6517 100 6545    
+O 0 6502 1 6510      
+O 0 6507 2 6513      
+M 0 6500 9 6512      * Mob : the dwarf guard
+G 1 6508 10 16       * Eqp : a dwarven club
+M 0 6500 9 6512      * Mob : the dwarf guard
+G 1 6508 10 16       * Eqp : a dwarven club
+M 0 6511 8 6523      * Mob : the lost dwarf
+G 1 7211 10 16       * Eqp : a short sword
+M 0 6511 8 6523      * Mob : the lost dwarf
+G 1 7211 10 16       * Eqp : a short sword
+M 0 6511 8 6523      * Mob : the lost dwarf
+G 1 7211 10 16       * Eqp : a short sword
+M 0 6502 1 6527      * Mob : your mirror image
+G 1 6503 10 17       * Eqp : some gold
+M 0 6503 1 6516      * Mob : the Hide & Tooth storekeeper
+G 1 6510 10 -1       * Give: a dwarven helmet
+G 1 6511 10 -1       * Give: a golden dwarven ring
+G 1 6512 10 -1       * Give: a pair of dwarven gloves
+G 1 6504 10 -1       * Give: a hammer
+G 1 6505 10 -1       * Give: dwarven plate mail
+M 0 6504 1 6535      * Mob : Granite Head
+G 1 3000 10 -1       * Give: a large wooden barrel
+G 1 3003 10 -1       * Give: a decanter
+G 1 3031 10 -1       * Give: a small brass lantern
+G 1 3010 10 -1       * Give: a hunk of crusty, dry bread
+G 1 3011 10 -1       * Give: a large pot pie
+O 0 6506 1000 6534   
+O 0 6506 1000 6534   
+M 0 6510 4 6534      * Mob : a dwarven child
+M 0 6510 4 6534      * Mob : a dwarven child
+M 0 6509 1 6534      * Mob : the dwarven money changer
+M 0 6514 4 6521      * Mob : the Dwarven Canal worker
+G 1 6509 10 16       * Eqp : a two-handed dwarven axe
+M 0 6500 9 6521      * Mob : the dwarf guard
+M 0 6500 9 6509      * Mob : the dwarf guard
+G 1 6509 10 16       * Eqp : a two-handed dwarven axe
+G 1 6510 10 6        * Eqp : a dwarven helmet
+G 1 6511 10 1        * Eqp : a golden dwarven ring
+G 1 6514 1 17        * Eqp : a bone
+M 0 6500 9 6509      * Mob : the dwarf guard
+G 1 6512 10 9        * Eqp : a pair of dwarven gloves
+G 1 6509 10 16       * Eqp : a two-handed dwarven axe
+G 1 6505 10 5        * Eqp : dwarven plate mail
+M 0 6500 9 6505      * Mob : the dwarf guard
+G 1 6504 10 16       * Eqp : a hammer
+G 1 6505 10 5        * Eqp : dwarven plate mail
+M 0 6500 9 6505      * Mob : the dwarf guard
+G 1 6504 10 16       * Eqp : a hammer
+G 1 6505 10 5        * Eqp : dwarven plate mail
+O 0 6507 2 6505      
+O 0 6507 2 6503      
+M 0 6501 6 6503      * Mob : the dwarf worker
+M 0 6501 6 6502      * Mob : the dwarf worker
+M 0 6505 1 6515      * Mob : the giant lizard
+M 0 6506 2 6508      * Mob : the Tour Guide
+M 0 6507 4 6543      * Mob : the dwarven mineworker
+G 1 6508 10 16       * Eqp : a dwarven club
+M 0 6507 4 6543      * Mob : the dwarven mineworker
+G 1 6508 10 16       * Eqp : a dwarven club
+M 0 6508 4 6543      * Mob : the mine leader
+G 1 6512 10 9        * Eqp : a pair of dwarven gloves
+G 1 6508 10 16       * Eqp : a dwarven club
+M 0 6511 8 6524      * Mob : the lost dwarf
+G 1 6504 10 16       * Eqp : a hammer
+M 0 6511 8 6524      * Mob : the lost dwarf
+G 1 7211 10 16       * Eqp : a short sword
+M 0 6511 8 6524      * Mob : the lost dwarf
+G 1 7211 10 16       * Eqp : a short sword
+M 0 6517 2 6548      * Mob : the cave bat
+M 0 6517 2 6549      * Mob : the cave bat
+O 0 6518 3 6551      
+M 0 6505 1 6520      * Mob : the giant lizard
+S
+$

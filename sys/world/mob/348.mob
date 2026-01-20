@@ -1,0 +1,71 @@
+#34800
+N H 0~
+fleeting glimpse~
+a fleeting glimpse~
+You catch a fleeting glimpse of something.
+~
+its gone now
+~
+256216 0 0 0 163936 0 0 0 -1000
+15 17 -5 1d1+1000 2d2+5
+35 40
+9 9 0 15 8 0
+#34801
+N H 0~
+unseen lurker~
+an unseen lurker~
+something half-seen darts in front of you
+~
+You see a faint shifting cloudy mass that billows and roils sever feet off the
+ground.    
+~
+196092 0 0 0 1612522606 0 0 0 -1000
+30 6 -3 1d1+5000 5d5+15
+50 60
+9 9 0 20 4 3
+#34803
+N M 0~
+lair witch~
+the Lair Witch~
+A hideous figure of rags and dust stands and turns to face you.
+~
+   Facing you is the essence of decay and evil.  The witch holds an extreme
+hatred of all that is holy.  The witch has an appearance of a shrunken and
+distorted woman.  She appears to be clad in tattered rags and covered in a
+layer of dust and dirt.  As she stands up to face you her eyes appear to be
+missing, leaving nothing but empty sockets.  However, upon closer examination
+you can finally make out her eyes, which are completely black with no visible
+iris.    
+~
+657484 0 0 0 5481656 0 0 0 -1000
+50 0 -7 1d1+24000 12d12+40
+80 90
+9 9 2 12 19 21
+Z 34800
+#34805
+U M 0~
+wraith ghost figure~
+the wraith~
+A dark and ghostly figure of an unfortunate victim
+~
+You see a shadowy figure, a victim of the evil that dwells within this
+structure.  It stands flickering with a dark glow and stares at you with dead
+eyes
+~
+776316 0 0 0 1074898026 0 0 0 -1000
+20 10 -2 1d1+1000 4d4+5
+40 40
+9 9 0 19 21 12
+#34806
+U D 0~
+child spirit~
+the spirit of a murdered child~
+A small ghostly figure floats here
+~
+You see a horribly contorted face fading in and out of visibility
+~
+202584 0 0 0 1611498602 0 0 0 -1000
+35 0 -12 1d1+5000 10d10+60
+50 60
+9 9 0 19 17 15
+$

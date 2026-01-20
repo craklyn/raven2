@@ -1,0 +1,1944 @@
+#22200
+Credit Room for the Proving Grounds Area~
+   I wrote this area to be used in conjunction with Digger's "arena" code
+which allows players to fight each other and die without losing any xp.  
+Hopefully players will come here and learn how to be better mudders without
+having to lose hard-earned xp.               -- Keil 
+~
+222 512 0 0 0 3 255 0
+S
+#22201
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 2097156 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22202
+D2
+The trail continues to the south.
+~
+~
+0 0 22211
+S
+#22202
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 34079232 0 0 0 3 255 0
+D1
+A large boulder blocks the entrance to a cave there.
+~
+boulder stone~
+1 -1 22203
+D3
+The trail continues to the west.
+~
+~
+0 0 22201
+S
+#22203
+Cave~
+   This small cave looks as if it once used to be the home of some animal,
+perhaps a bear.  However, it looks like it hasn't been inhabited for quite
+some time now.  The only exit is to the west.
+~
+222 521 0 0 0 0 255 0
+D3
+You see a forest outside this cave.
+~
+boulder stone~
+1 0 22202
+S
+#22204
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22205
+D2
+The trail continues to the south.
+~
+~
+0 0 22214
+S
+#22205
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22206
+D3
+The trail continues to the west.
+~
+~
+0 0 22204
+S
+#22206
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22207
+D2
+The trail continues to the south.
+~
+~
+0 0 22216
+D3
+The trail continues to the west.
+~
+~
+0 0 22205
+S
+#22207
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22208
+D3
+The trail continues to the west.
+~
+~
+0 0 22206
+S
+#22208
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22209
+D2
+The trail continues to the south.
+~
+~
+0 0 22218
+D3
+The trail continues to the west.
+~
+~
+0 0 22207
+S
+#22209
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22210
+D3
+The trail continues to the west.
+~
+~
+0 0 22208
+S
+#22210
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D3
+The trail continues to the west.
+~
+~
+0 0 22209
+S
+#22211
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22201
+D1
+The trail continues to the east.
+~
+~
+0 0 22212
+D2
+The trail continues to the south.
+~
+~
+0 0 22221
+S
+#22212
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22213
+D2
+The trail continues to the south.
+~
+~
+0 0 22222
+D3
+The trail continues to the west.
+~
+~
+0 0 22211
+S
+#22213
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D3
+The trail continues to the west.
+~
+~
+0 0 22212
+S
+#22214
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22204
+D1
+The trail continues to the east.
+~
+~
+0 0 22215
+S
+#22215
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22216
+D2
+The trail continues to the south.
+~
+~
+0 0 22225
+D3
+The trail continues to the west.
+~
+~
+0 0 22214
+S
+#22216
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22206
+D2
+The trail continues to the south.
+~
+~
+0 0 22226
+D3
+The trail continues to the west.
+~
+~
+0 0 22215
+S
+#22217
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D2
+The trail continues to the south.
+~
+~
+0 0 22227
+S
+#22218
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22208
+D1
+The trail continues to the east.
+~
+~
+0 0 22219
+S
+#22219
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22220
+D2
+The trail continues to the south.
+~
+~
+0 0 22229
+D3
+The trail continues to the west.
+~
+~
+0 0 22218
+S
+#22220
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D3
+The trail continues to the west.
+~
+~
+0 0 22219
+S
+#22221
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22211
+S
+#22222
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22212
+D1
+The trail continues to the east.
+~
+~
+0 0 22223
+S
+#22223
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine 
+trees grow here, their needles forming a soft carpet on the ground.  You can 
+make out a rough trail leading off into the forest.  
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22224
+D2
+The trail continues to the south.
+~
+~
+0 0 22233
+D3
+The trail continues to the west.
+~
+~
+0 0 22222
+S
+#22224
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22225
+D2
+The trail continues to the south.
+~
+~
+0 0 22234
+D3
+The trail continues to the west.
+~
+~
+0 0 22223
+S
+#22225
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22215
+D2
+A meadow lies to the south.
+~
+~
+0 0 22235
+D3
+The trail continues to the west.
+~
+~
+0 0 22224
+S
+#22226
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22216
+D1
+The trail continues to the east.
+~
+~
+0 0 22227
+S
+#22227
+Natural Spring~
+   A natural spring bubbles up from among some rocks in the ground.  The
+water looks clear and flows into a small creek.  Several tracks lead from
+the forest to the water's edge.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22217
+D1
+The trail continues to the east.
+~
+~
+0 0 22228
+D2
+A meadow lies to the south.
+~
+~
+0 0 22237
+D3
+The trail continues to the west.
+~
+~
+0 0 22226
+S
+#22228
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D2
+The trail continues to the south.
+~
+~
+0 0 22238
+D3
+The trail continues to the west.
+~
+~
+0 0 22227
+S
+#22229
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22219
+D2
+The trail continues to the south.
+~
+~
+0 0 22239
+S
+#22230
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D2
+The trail continues to the south.
+~
+~
+0 0 22240
+S
+#22231
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22232
+D2
+The trail continues to the south.
+~
+~
+0 0 22241
+S
+#22232
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22233
+D2
+The trail continues to the south.
+~
+~
+0 0 22242
+D3
+The trail continues to the west.
+~
+~
+0 0 22231
+S
+#22233
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22223
+D2
+The trail continues to the south.
+~
+~
+0 0 22243
+D3
+The trail continues to the west.
+~
+~
+0 0 22232
+S
+#22234
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22224
+S
+#22235
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides. 
+~
+222 512 0 0 0 2 255 0
+D0
+A path leads off into the forest north of here.
+~
+~
+0 0 22225
+D1
+A grassy meadow is there.
+~
+~
+0 0 22236
+D2
+A grassy meadow is there.
+~
+~
+0 0 22245
+S
+#22236
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides.
+~
+222 512 0 0 0 2 255 0
+D1
+A grassy meadow is there.
+~
+~
+0 0 22237
+D2
+A grassy meadow is there.
+~
+~
+0 0 22246
+D3
+A grassy meadow is there.
+~
+~
+0 0 22235
+S
+#22237
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides.
+~
+222 512 0 0 0 2 255 0
+D0
+A trail leads off into the forest north of here.
+~
+~
+0 0 22227
+D2
+A grassy meadow is there.
+~
+~
+0 0 22247
+D3
+A grassy meadow is there.
+~
+~
+0 0 22236
+S
+#22238
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22228
+D2
+The trail continues to the south.
+~
+~
+0 0 22248
+S
+#22239
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22229
+D1
+The trail continues to the east.
+~
+~
+0 0 22240
+D2
+The trail continues to the south.
+~
+~
+0 0 22249
+S
+#22240
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22230
+D3
+The trail continues to the west.
+~
+~
+0 0 22239
+S
+#22241
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22231
+D2
+The trail continues to the south.
+~
+~
+0 0 22251
+S
+#22242
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22232
+D2
+The trail continues to the south.
+~
+~
+0 0 22252
+S
+#22243
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22233
+D1
+The trail continues to the east.
+~
+~
+0 0 22244
+S
+#22244
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D1
+You see a grassy meadow to the east.
+~
+~
+0 0 22245
+D3
+The trail continues to the west.
+~
+~
+0 0 22243
+S
+#22245
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides.
+~
+222 512 0 0 0 2 255 0
+D0
+A grassy meadow is there.
+~
+~
+0 0 22235
+D1
+A grassy meadow is there.
+~
+~
+0 0 22246
+D2
+A grassy meadow is there.
+~
+~
+0 0 22255
+D3
+A trail leads off into the forest west of here.
+~
+~
+0 0 22244
+S
+#22246
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides.
+~
+222 512 0 0 0 2 255 0
+D0
+A grassy meadow is there.
+~
+~
+0 0 22236
+D1
+A grassy meadow is there.
+~
+~
+0 0 22247
+D2
+A grassy meadow is there.
+~
+~
+0 0 22256
+D3
+A grassy meadow is there.
+~
+~
+0 0 22245
+S
+#22247
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides.
+~
+222 512 0 0 0 2 255 0
+D0
+A grassy meadow is there.
+~
+~
+0 0 22237
+D2
+A grassy meadow is there.
+~
+~
+0 0 22257
+D3
+A grassy meadow is there.
+~
+~
+0 0 22246
+S
+#22248
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22238
+D1
+The trail continues to the east.
+~
+~
+0 0 22249
+S
+#22249
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22239
+D1
+The trail continues to the east.
+~
+~
+0 0 22250
+D2
+The trail continues to the south.
+~
+~
+0 0 22259
+D3
+The trail continues to the west.
+~
+~
+0 0 22248
+S
+#22250
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D2
+The trail continues to the south.
+~
+~
+0 0 22260
+D3
+The trail continues to the west.
+~
+~
+0 0 22249
+S
+#22251
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22241
+D2
+The trail continues to the south.
+~
+~
+0 0 22261
+S
+#22252
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22242
+D1
+The trail continues to the east.
+~
+~
+0 0 22253
+S
+#22253
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22254
+D2
+The trail continues to the south.
+~
+~
+0 0 22263
+D3
+The trail continues to the west.
+~
+~
+0 0 22252
+S
+#22254
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D1
+You see a grassy meadow to the east.
+~
+~
+0 0 22255
+D3
+The trail continues to the west.
+~
+~
+0 0 22253
+S
+#22255
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides.
+~
+222 512 0 0 0 2 255 0
+D0
+A grassy meadow is there.
+~
+~
+0 0 22245
+D1
+A grassy meadow is there.
+~
+~
+0 0 22256
+D2
+A trail leads off into the forest south of here.
+~
+~
+0 0 22265
+D3
+A trail leads off into the forest west of here.
+~
+~
+0 0 22254
+S
+#22256
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides.
+~
+222 512 0 0 0 2 255 0
+D0
+A grassy meadow is there.
+~
+~
+0 0 22246
+D1
+A grassy meadow is there.
+~
+~
+0 0 22257
+D2
+A trail leads off into the forest south of here.
+~
+~
+0 0 22266
+D3
+A grassy meadow is there.
+~
+~
+0 0 22255
+S
+#22257
+Meadow~
+   The trees give way here to a grassy meadow.  Tall grass mixed with a few
+scrubby bushes grow all the way up to the edge of the forest, which surrounds
+the meadow on all sides.
+~
+222 512 0 0 0 2 255 0
+D0
+A grassy meadow is there.
+~
+~
+0 0 22247
+D1
+A trail leads off into the forest east of here.
+~
+~
+0 0 22258
+D3
+A grassy meadow is there.
+~
+~
+0 0 22256
+S
+#22258
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D2
+The trail continues to the south.
+~
+~
+0 0 22268
+D3
+You see a grassy meadow to the west.
+~
+~
+0 0 22257
+S
+#22259
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22249
+D2
+The trail continues to the south.
+~
+~
+0 0 22269
+S
+#22260
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22250
+D2
+The trail continues to the south.
+~
+~
+0 0 22270
+S
+#22261
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22251
+D1
+The trail continues to the east.
+~
+~
+0 0 22262
+S
+#22262
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D2
+The trail continues to the south.
+~
+~
+0 0 22272
+D3
+The trail continues to the west.
+~
+~
+0 0 22261
+S
+#22263
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22253
+D2
+The trail continues to the south.
+~
+~
+0 0 22273
+S
+#22264
+Hunter's Blind~
+   This crudely-built structure has decayed from years of abandonment.  You
+can see the forest through arrow slits cut into the sides of the blind. 
+It is small and cramped in here, but offers some shelter from the elements.
+~
+222 521 0 0 0 0 255 0
+D1
+The forest lies beyond the crude canvas door.
+~
+canvas door~
+1 -1 22265
+S
+#22265
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 34079232 0 0 0 3 255 0
+D0
+You see a grassy meadow to the north.
+~
+~
+0 0 22255
+D3
+You see some kind of small structure to the west.
+~
+canvas door~
+1 -1 22264
+S
+#22266
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+You see a grassy meadow to the north.
+~
+~
+0 0 22256
+D2
+The trail continues to the south.
+~
+~
+0 0 22276
+S
+#22267
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22268
+D2
+The trail continues to the south.
+~
+~
+0 0 22277
+S
+#22268
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22258
+D1
+The trail continues to the east.
+~
+~
+0 0 22269
+D3
+The trail continues to the west.
+~
+~
+0 0 22267
+S
+#22269
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22259
+D2
+The trail continues to the south.
+~
+~
+0 0 22279
+D3
+The trail continues to the west.
+~
+~
+0 0 22268
+S
+#22270
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22260
+S
+#22271
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+~
+~
+0 0 22272
+D2
+The trail continues to the south.
+~
+~
+0 0 22281
+S
+#22272
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22262
+D2
+The trail continues to the south.
+~
+~
+0 0 22282
+D3
+The trail continues to the west.
+~
+~
+0 0 22271
+S
+#22273
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22263
+D1
+The trail continues to the east.
+~
+~
+0 0 22274
+S
+#22274
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D2
+The trail continues to the south.
+~
+~
+0 0 22284
+D3
+The trail continues to the west.
+~
+~
+0 0 22273
+S
+#22275
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22276
+D2
+The trail continues to the south.
+~
+~
+0 0 22285
+S
+#22276
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22266
+D1
+The trail continues to the east.
+~
+~
+0 0 22277
+D3
+The trail continues to the west.
+~
+~
+0 0 22275
+S
+#22277
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22267
+D2
+The trail continues to the south.
+~
+~
+0 0 22287
+D3
+The trail continues to the west.
+~
+~
+0 0 22276
+S
+#22278
+Pine Forest~
+   The air is cool and damp and scented with the smell of pine.  Tall pine
+trees grow here, their needles forming a soft carpet on the ground.  You can
+make out a rough trail leading off into the forest.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22279
+S
+#22279
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22269
+D1
+The trail continues to the east.
+~
+~
+0 0 22280
+D2
+The trail continues to the south.
+~
+~
+0 0 22289
+D3
+The trail continues to the west.
+~
+~
+0 0 22278
+S
+#22280
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D3
+The trail continues to the west.
+~
+~
+0 0 22279
+S
+#22281
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22271
+D2
+The trail continues to the south.
+~
+~
+0 0 22291
+S
+#22282
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22272
+D2
+The trail continues to the south.
+~
+~
+0 0 22292
+S
+#22283
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22284
+D2
+The trail continues to the south.
+~
+~
+0 0 22293
+S
+#22284
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22274
+D1
+The trail continues to the east.
+~
+~
+0 0 22285
+D2
+The trail continues to the south.
+~
+~
+0 0 22294
+D3
+The trail continues to the west.
+~
+~
+0 0 22283
+S
+#22285
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22275
+D2
+The trail continues to the south.
+~
+~
+0 0 22295
+D3
+The trail continues to the west.
+~
+~
+0 0 22284
+S
+#22286
+Entrance to the Proving Grounds~
+   This room is roughly 20' by 20', its walls made entirely of logs.  A 
+window is centered in the south wall, and long benches beckon you to take
+a load off your tired feet.  There is a notice posted on the wall.  
+~
+222 2490900 0 0 0 0 255 0
+D0
+~
+~
+0 0 4440
+D1
+Your fate awaits you there.
+~
+~
+0 0 22210
+D3
+Your fate awaits you there.
+~
+~
+0 0 22291
+E
+window~
+Through the window you see a breathtaking view of a lush forest.
+~
+E
+notice sign~
+
+
+               ****  Welcome to the Proving Grounds  ****
+
+The forest beyond the east and west exits is an area where you may settle
+a grudge, hone your killing skills, compete with your friends, or just 
+kill time (and each other).  The east and west exits lead to different 
+sections of the forest.  Once you enter the forest you may only exit by  
+being defeated, using word of recall, or getting summoned.
+
+Have fun!
+
+The Management
+~
+S
+#22287
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22277
+D1
+The trail continues to the east.
+~
+~
+0 0 22288
+S
+#22288
+Hollow Log~
+   An old hollow log has fallen here, almost blocking the trail.  However, 
+it looks as if you can step over it and continue along your way.
+~
+222 512 0 0 0 3 255 0
+D2
+The trail continues to the south.
+~
+~
+0 0 22298
+D3
+The trail continues to the west.
+~
+~
+0 0 22287
+S
+#22289
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22279
+D1
+The trail continues to the east.
+~
+~
+0 0 22290
+D2
+The trail continues to the south.
+~
+~
+0 0 22299
+S
+#22290
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D3
+The trail continues to the west.
+~
+~
+0 0 22289
+S
+#22291
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22281
+S
+#22292
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22282
+D1
+The trail continues to the east.
+~
+~
+0 0 22293
+S
+#22293
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22283
+D3
+The trail continues to the west.
+~
+~
+0 0 22292
+S
+#22294
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22284
+S
+#22295
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22285
+D1
+The trail continues to the east.
+~
+~
+0 0 22296
+S
+#22296
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22297
+D3
+The trail continues to the west.
+~
+~
+0 0 22295
+S
+#22297
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D1
+The trail continues to the east.
+~
+~
+0 0 22298
+D3
+The trail continues to the west.
+~
+~
+0 0 22296
+S
+#22298
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22288
+D3
+The trail continues to the west.
+~
+~
+0 0 22297
+S
+#22299
+Dense Forest~
+   The forest here is quite thick with tall, towering pines which form a dark
+green canopy that blocks much of the sunlight.  A small trail leads off into
+the trees.
+~
+222 512 0 0 0 3 255 0
+D0
+The trail continues to the north.
+~
+~
+0 0 22289
+S
+$~

@@ -1,0 +1,31 @@
+#10590
+make a bundle~
+If you have 5 whiskers I can make a bundle for you.  If not, refuse this quest.
+~
+I can combine 5 whiskers into a bundle of 5 for you.
+~
+1 60 0 2 1 1
+G 10593
+O OBJ 10590
+O OBJ 10590
+O OBJ 10590
+O OBJ 10590
+O OBJ 10590
+R OBJ 10592
+Here is your &21&10bundle of whiskers&00.  Thank you for the five individual whiskers&00.
+~
+#10591
+exchange bundle for heap~
+I can exchange 5 bundles for 1 heap otherwise turn down this quest.
+~
+~
+1 60 0 2 1 1
+O OBJ 10592
+O OBJ 10592
+O OBJ 10592
+O OBJ 10592
+O OBJ 10592
+R OBJ 10591
+Thank you for the 5 bundles of &21&10whiskers&00.  Here is your heap of &21&10w&00h&21&10i&00s&21&10k&00e&21&10r&00s.
+~
+$~

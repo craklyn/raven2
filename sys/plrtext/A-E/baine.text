@@ -1,0 +1,23 @@
+t trip $*
+li look in corpse
+ff cast 'fleet foot' $*
+f cast 'refresh' $*
+op order panther assist
+tit title &14T&07he &08A&00&01pocalypse &14o&07f &08F&00&01emine&00
+cw cast 'call of the wild'
+k kick $*
+fl cast 'forest lore'
+h cast 'shield' $*
+sl cast 'sense life'
+p shoot arrow $*
+ge get all corpse
+b butcher corpse
+bs cast 'briar'
+es eat steak
+oe order eagle assist
+y toss revive
+1 assist
+2 trip
+3 kick
+po say horse
+sam say samsera

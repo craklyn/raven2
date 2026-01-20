@@ -1,0 +1,783 @@
+#16700
+Credits Room-Land of the Reborn~
+These aren't to replace true guild halls, just to add a place for
+remorts to tweak info about their new races.
+This land is to function somewhat like remort guild halls, but for
+remort races.  Mainly I felt like free-form writing, so I made this place.
+~
+167 512 4 0 0 0 255 0
+S
+#16701
+A Giant Archway~
+   Before you stands a giant archway, reaching twenty meters above the ground
+that leads into a mammoth cave.  The ground slightly slopes out from the cave.
+The arches, and the pillars upon which they rest, are made of dark green
+marble.  Within the cave, giant shadows can be seen moving about.    
+~
+167 32768 0 0 0 2 255 0
+D0
+~
+~
+0 0 16702
+D1
+~
+~
+0 0 4043
+E
+block_msg_char~
+$N will never let a puny fool such as you pass.
+~
+E
+block_msg_room~
+$N blocks the puny $n from foolishly trying to enter the hall.
+~
+E
+block_dir~
+north
+~
+S
+#16702
+Inside the Archway~
+   This huge cave shaped like a semisphere, with this being the west end.  The
+ceiling here is twenty five meters tall.  The walls are rough cut stone.  A
+small shallow lake lies east of here and fresh air blows in from the west.    
+~
+167 1081872 4 0 0 0 255 0
+D1
+~
+~
+0 0 16703
+D2
+~
+~
+0 0 16701
+E
+torches~
+An inferno of a torch burns on the wall here, lighting up this section of the
+hall.    
+~
+S
+#16703
+In the Center of the Giant's Cave~
+   The small lake here is shallow enough to wade across.  The water is cool and
+clear.  The ceiling of the cave here is forty meters above your head and is
+clouded with smoke from the torches.  The circular hall is about fifty meters
+in diameter.    
+~
+167 33280 4 0 0 0 255 0
+D0
+~
+~
+0 0 16704
+D1
+~
+~
+0 0 16705
+D2
+~
+~
+0 0 16706
+D3
+~
+~
+0 0 16702
+S
+#16704
+A Lazy Corner~
+   Huge furinature, carved from stone and wood and lined with furs, are
+scattered around here.  Most of them encircle a large fire pit which, along
+with the evenly spaced torches on the wall, light this part of the cave.    
+~
+167 426496 4 0 0 0 255 0
+D2
+~
+~
+0 0 16703
+E
+torch~
+An inferno of a torch burns on the wall here, lighting up this section of the
+hall.    
+~
+S
+#16705
+The Edge of the Giant Cave~
+   The evenly spaced torches on the wall light up several giant chests on the
+ground here.  Each storage chest is roughly three meters long on each side and
+made of wood and are bound with iron.  This is where the giants leave the
+things they don't need.    
+~
+167 33280 4 0 0 0 255 0
+D3
+~
+~
+0 0 16703
+E
+torch~
+An inferno of a torch burns on the wall here, lighting up this section of the
+hall.    
+~
+S
+#16706
+Inside the Giant Cave~
+   The cave wall between the torches here is covered with hanging tools and
+scrapes.  The dirt on the ground here is polluted with bits of metal, wood,
+crystal and other unidentifiable things.    
+~
+167 33280 4 0 0 0 255 0
+D0
+~
+~
+0 0 16703
+E
+torch~
+An inferno of a torch burns on the wall here, lighting up this section of the
+hall.    
+~
+S
+#16711
+The Shore of a Hidden Reservoir  ~
+   The reservoir stretches for roughly a league ahead of you.  The shore is
+rocky and devoid of plant life.  The water is a deep blue clear.  A few ripples
+transverse the surface of the lake.  Small mountains surround the reservoir,
+cutting it off from the rest of the world.  The mountains are covered with dark
+pine trees.    
+~
+167 1081856 4 0 0 5 255 0
+D2
+~
+~
+0 0 10731
+D5
+~
+~
+0 0 16712
+E
+block_dir~
+down
+~
+E
+block_msg_room~
+$n foolishly tried to enter the underwater world of the Amara.
+~
+E
+block_msg_char~
+&18Zolturi tells you, 'Fooooollll!  Surely you do not think that you can get past me so easily!&00
+~
+S
+#16712
+Just Beneath the Surface~
+   The surface of the reservoir is several meters above you.  The walls of the
+lakebed are very steep and made of rock.  Slimly plant life clings to the rock.
+The heart of the lake lies below.    
+~
+167 1081856 4 0 0 8 255 0
+D4
+The surface ripples scatter the light from the dry world above.
+~
+~
+0 0 16711
+D5
+~
+~
+0 0 16713
+S
+#16713
+Deep in the Lake~
+   The fresh water is cool and clear.  You can see all of the lake bed, stretch
+out almost a league in every direction.  What little light that penetrates the
+rippling surface, far above, poorly illuminates this part of the lake.  The
+lake bed's center is twenty yards below you and curves upwards in all
+directions.  There are some small caves and fauna growing out of the bed south
+of here.  To the east lies a couple shallow caves.  A warm water fissure spews
+forth to the north.    
+~
+167 1081856 4 0 0 8 255 0
+D0
+~
+~
+0 0 16714
+D1
+~
+~
+0 0 16716
+D2
+~
+~
+0 0 16715
+D4
+~
+~
+0 0 16712
+S
+#16714
+Floating near the Fissure~
+   A warm water fissure heats the water here with its clear and pure flow.  
+This creates a relaxing environment in this vicinity.  A couple small fish
+lazily hang in the water, enjoying the warmth.  The lakebed curves upwards here
+fairly steeply.  The center of the lake lies south of here.    
+~
+167 1475072 4 0 0 8 255 0
+D2
+~
+~
+0 0 16713
+S
+#16715
+Edge of the Amara Forest~
+   A small forest of fauna floats here in the clear water.  Deep roots anchor
+it to the bed of the lake moves slowly with the current.  Small bulbs,
+apparently lighter than water, keep the grasses mostly vertical.  A small maze
+leads into the forest behind Zyra the Amara.  The clear water coming out of the
+forest has a faint taste to it.    
+~
+167 1081856 4 0 0 8 255 0
+D0
+~
+~
+0 0 16713
+S
+#16716
+Floating by the Bedrock~
+   The slight current has swept all the soil from the bedrock here.  It flows
+off towards the southwest.  The lakebed curves upwards to the east.  The rest
+of the lake opens up towards the west.  The water is cool and clear.  The
+bedrock is pockmarked with several small, shallow caves.    
+~
+167 1081856 4 0 0 8 255 0
+D3
+~
+~
+0 0 16713
+S
+#16721
+&01The Bloodstone Abyss&00~
+   The rock here is slick with a dark crimson oozing ichor.  The ichor is
+slowly evaporating, leaving a horrid smell and a gagging fog lingering in the
+air here.  The bleeding crimson stones block the way most any way you turn.  
+~
+167 0 0 0 0 5 255 0
+D0
+~
+~
+0 0 16722
+E
+block_msg_room~
+$N charges $n and thunders, 'This unholy place is not for thee!'
+~
+E
+block_msg_char~
+$N thunders, 'This unholy place is not for thee!'
+~
+E
+block_dir~
+north
+~
+S
+#16722
+Inches from Swirling Rock~
+   Standing mere inches from the swirling rock, a sense of mortal dread and
+torment spews forth like a hurricane.  The rockface spins and swirls with
+darkness.  The spinning darkness is actually a portal to a demonic dimension!
+~
+167 524928 4 0 0 0 255 0
+D2
+~
+~
+0 0 16721
+S
+#16723
+In a Demonic Dimension~
+   Searing wind howls outward from you and screams of torment pass to and fro.
+Viscous hatred ebb and course around you.  A trail paved with skulls leads west
+of here.  A portal out of this dimension hovers just above you.    
+~
+167 528 4 0 0 0 255 0
+D3
+~
+~
+0 0 16724
+S
+#16724
+The Tranquility of Armageddon~
+   A thin forceless haze whirls like a typhoon here.  Visions of pain and
+suffering from all over the world cascade through the haze.  The faces of
+greater demons briefly flash a demonic grin in the haze.  Howls of terror echo
+through here, bringing the grim satisfaction that suffering has not subsided in
+the world while you are here, resting.    
+~
+167 393744 4 0 0 0 255 0
+D1
+~
+~
+0 0 16723
+S
+#16731
+The Eltak Cove~
+   This cove is the beginning of a swamp that leads north of here.  The aroma
+of stagnant water and vegitation mix in the air here, leaving an anomalous odor.
+Large paw-prints lead into the swamp to the north.
+~
+167 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 16732
+D2
+~
+~
+0 0 9601
+E
+block_msg_room~
+$N hamstrings $n, preventing them from passing.
+~
+E
+block_msg_char~
+$N hamstrings you, and slarls viscously.
+~
+E
+block_dir~
+north
+~
+S
+#16732
+Nearly Stuck in the Mud~
+   The ground is very soft and gloppy.  The mud sticks to your fur, and your
+paws leave deep prints in the mud.  The cries of a creature mired in the mud
+draw your attention eastward. Thick mist blows in from the south.
+~
+167 512 4 0 0 0 255 0
+D1
+~
+~
+0 0 16733
+D2
+~
+~
+0 0 16731
+S
+#16733
+On Solid Ground~
+   The reeking swamp polluts the air here with its lively array of odors.  The
+shrieking of a trapped animal adds to the secure feeling of this place.  The
+earth is firm beneath your paws and water is but a few paces away.  The den
+lies north of here and the river is off to the southwest.
+~
+167 512 4 0 0 0 255 0
+D0
+~
+~
+0 0 16734
+D3
+~
+~
+0 0 16732
+S
+#16734
+The Werewolf's Den~
+   You are in a sort of a den surrounded by tall weeds and two big rocks.  The
+area is sheltered from the wind, and the sun only shines here directly a few
+hours a day.  This is where the elder werewolves care for the younger ones.
+~
+167 512 4 0 0 0 255 0
+D2
+~
+~
+0 0 16733
+S
+#16741
+The Faerie Fountain~
+ A beautiful fountain of &11lapiz laziu crystal&00 shimmers in beautiful splendor.
+The fountain is over ten feet tall and is a minature ancient cathedral.  A faint
+&01r&02a&03i&04n&05b&06o&07w&00 appears in the mist that floats away from the lower portions 
+of the fountain.  Tiny faeries buzz in and out of portions of the fountain.
+~
+167 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 55102
+D2
+~
+~
+0 0 16742
+E
+block_msg_room~
+A wall of faerie magic stops $n in their tracks.
+~
+E
+block_msg_char~
+$N blinks twice, and a wall of faerie magic stops you in your tracks.
+~
+E
+block_dir~
+south
+~
+S
+#16742
+&13Inside the Fountain&00~
+   &14Just inside the faerie fountain, bright light from outside beams in from the
+north.&00&10  A strange humming echos through the crystal cathedral, filling you with
+&19unbridled delight&00. &05 The inner conclave lies down from here. &00
+~
+167 1049092 4 0 0 0 255 0
+D0
+~
+~
+0 0 16741
+D5
+~
+~
+0 0 16743
+S
+#16743
+&12Inner Faerie Conclave&00~
+&13  All around you is a bright &12pink fog&00&13 that smells sweet like
+sugar.  Tiny faieries of every &08c&09o&10l&11o&14r &00&13dance about in the fog, 
+&13hypnotizing you.  Remnants of &18faerie magic&00&13 linger in the air and
+small pulses of &00&12&21odd light&00&13 dance everywhere.  &00&14&20Your senses are
+overwhelmed.&00
+~
+167 393728 4 0 0 0 255 0
+D4
+~
+~
+0 0 16742
+S
+#16751
+Base of the Tree~
+   A giant willow tree shades a large section of the ground with its long
+droopy foliage.  The lowest branches nearly reach down to the ground.  Under
+these low branches, the ground is covered in a short green grass.  The bark of
+the willow's trunk is hard and grayish.  Some leaves drift down from above you
+in the tree as something moves up there.  An Izarti stands guard at the base of
+the tree against those that do not belong here.    
+~
+167 32772 0 0 0 0 255 0
+D3
+~
+~
+0 0 6126
+D4
+~
+~
+0 0 16752
+E
+block_msg_room~
+$N snaps at $n and blocks their way.
+~
+E
+block_msg_char~
+$N snaps at you and growls, blocking your way.
+~
+E
+block_dir~
+up
+~
+S
+#16752
+Climbing in the Willow~
+   This is nearly the heart of the willow tree.  A few large branches lead how
+horizontally, while the ground is about twenty feet below you.  It is quiet and
+dark in here.  The trunk of the tree is littered with claw marks, evidence to
+the extensive use of the tree.    
+~
+167 1081856 4 0 0 0 255 0
+D1
+~
+~
+0 0 16754
+D3
+~
+~
+0 0 16753
+D5
+~
+~
+0 0 16751
+S
+#16753
+Out on a Branch~
+   The rustling of the leaves is soothing as is the slight and slow sway of the
+heavy branches.  The air is filled with a pale-green light, filtered by the
+tree.  Smaller branches, still strong enough to support you, branch off of the
+main branch here, providing plenty of room for several individuals to rest.  
+~
+167 426496 4 0 0 0 255 0
+D1
+~
+~
+0 0 16752
+S
+#16754
+Out on Another Branch~
+   This branch is where the elder Izarti leave things for the younger Izarti to
+use.  There are two branches that are perfect for holding material possessions.
+The leaves on the smaller one are woven into a basket- shape, perfect for
+holding potions and scrolls and other small things.  The larger branch has some
+smaller branches woven together underneath it, to help it hold a great deal of
+weight, such as heavy armor and weapons.    
+~
+167 33280 4 0 0 0 255 0
+D3
+~
+~
+0 0 16752
+S
+#16761
+Before the Sepulcher~
+   The double doors of the sepulcher lead into the darkness.  Flickers of
+candle-light are visible from here.  The sepulcher is made of black marble and
+has doric columns supporting an arch over the doorway.  Inlaid in each of the
+doors depict a religious scene.    
+~
+167 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 4503
+D2
+A set of iron doors have stained glass images inlaid in them.
+~
+double doors~
+1 0 16762
+E
+block_msg_char~
+$N grabs you by the neck, and grins broadly.
+~
+E
+block_msg_room~
+$N grabs $n by the neck and grins, bearing his &08fangs&00.
+~
+E
+block_dir~
+south
+~
+S
+#16762
+Inside the Sepulcher~
+   Standing in the center of the sepulcher, dim candle-light eerily dances on
+the walls.  Carved into the marble are religious scenes, prayers, stories and
+poems for the dead.  A small altar lies to the left, and several coffins lie
+near the wall to the right.    
+~
+167 33280 4 0 0 0 255 0
+D0
+A set of iron doors have stained glass images inlaid in them.
+~
+double door~
+1 0 16761
+D1
+~
+~
+0 0 16763
+D3
+~
+~
+0 0 16764
+S
+#16763
+By the Altar~
+   A small blood-stained altar lies here.  A pile of neatly stacked skulls lies
+to one side, and an extravagant knife lies in it's cradle on the altar.  
+Several other items are stored in an open coffer before the altar, apparently
+gifts.    
+~
+167 33280 4 0 0 0 255 0
+D3
+~
+~
+0 0 16762
+S
+#16764
+Surrounded by Caskets~
+   Several caskets lie here, vacant.  Dim candle light flickers on the marble
+wall here, ghastly illuminating the faces carved into the wall.  The caskets
+are lined with plush crimson velvet.  They are made of black walnut and are
+shined to a high gloss.    
+~
+167 426496 4 0 0 0 255 0
+D1
+~
+~
+0 0 16762
+E
+casket~
+There is an empty one, inviting you.
+~
+S
+#16771
+In front of the &08Crypt&00~
+   As you stand before the &08Crypt&00 an earie silence falls upon your ears.
+The air is ripe with the smell of death and decay.  Although the wrought iron
+gate is rusty and looks in disrepair, it still holds strong.    
+~
+167 20 4 0 0 0 255 0
+D2
+~
+~
+0 0 16772
+D4
+~
+~
+0 0 3154
+E
+block_dir~
+south
+~
+E
+block_msg_char~
+$N slaps you and says 'We don't allow your kind in here'.
+~
+E
+block_msg_room~
+$N grabs $n by the throat and throws him to the ground.
+~
+S
+#16772
+Inside the &08Crypt&00~
+   You are standing inside the crypt.  The feeling of death surrounds you as
+you look around this granite and marble room.  In the middle of the room is a
+large casket.  The casket appears to have just been opened recently.    
+~
+167 1049088 4 0 0 0 0 0
+D0
+~
+~
+0 0 16771
+S
+#16773
+Below the casket~
+   Tangled roots and vines intertwine here.  Its a small room with bones and
+debris scattered around.  Although the casket is small and cramped you feel
+relaxed and at ease with your surroundings.  After all you are dead, are you
+not?    
+~
+167 393744 4 0 0 0 255 0
+D4
+~
+~
+0 0 16772
+S
+#16781
+The Tempest~
+   The world reels around you as you step through the doorway.  It feels as
+though your body is being pushed and pulled in many directions at once.  
+Suddenly, you appear in a room and are knocked to the ground by a horrific
+roaring in your ears!  As you look about you you are buffeted by winds that rip
+at your face!  For you have found the eye of the storm and that eye contains
+the four elements that comprise the world of RavenMUD!    
+~
+167 1081376 2 0 0 0 0 0
+D5
+Below leads to a serene calm of order.
+~
+~
+0 0 16782
+E
+block_dir~
+down
+~
+E
+block_msg_char~
+$N pushes you back with a gust of searing &14wind&00!
+~
+E
+block_msg_room ~
+$N pushes $n back with a gust of searing &14wind&00!
+~
+S
+#16782
+The Calm~
+   A serene feeling rushes through your magical body.  You have entered the
+ordered world of form and shape of the four elements.  This room is void of any
+definition, yet everything seems to be perfectly in place and as it should be.
+To the north is a huge chasm of nothingness.  To the south is a gigantic crop
+of basalt rocks.  To the east, an intense heat can be felt and an iridescent
+glow can be seen.  To the west is a large pool of water that is held in place
+by a magical barricade within this room.    
+~
+167 1081864 4 0 0 0 0 0
+D0
+You see a huge gaping chasm to the north.
+~
+~
+0 0 16783
+D1
+A glowing red room, full of lava pools.
+~
+~
+0 0 16785
+D2
+To the south is a huge basalt cavern.
+~
+~
+0 0 16784
+D3
+To the west is a spherical pool of water.
+~
+~
+0 0 16786
+D4
+~
+~
+0 0 16781
+S
+#16783
+&14The Order of Air&00~
+   Currents of strong gale winds blow in every direction.  These gales are so
+strong it would literally rip any living creature apart.  However, you are an
+air elemental and as each gust of wind reaches you, it gently melds into your
+body.  This synergizing affect upon you creates a slight euphoric feeling.  
+The chasm has no floor and any that enter this room must float within its ether
+bounds.    
+~
+167 1475072 4 0 0 9 0 0
+D2
+South leads back to the calm.
+~
+~
+0 0 16782
+S
+#16784
+&03The Order of Earth&00~
+   Huge boulders are scattered across the cavern floor.  The walls of the
+cavern have been carved straight out of the basalt rock.  Different types of
+mineral deposits give the cavern a unique atmosphere.  A grouping of crystal
+stalactites hang from the high ceiling and glow with a gentle hum that seems to
+light the room.    
+~
+167 1475080 4 0 0 0 0 0
+D0
+To the north, a calm serenity fills the room.
+~
+~
+0 0 16782
+S
+#16785
+&22The Order of Fire&00~
+   The walls of this room glow an ember red.  Pools of lava bubble out of the
+ground and small streams of it connect each one of the pools.  In the center of
+the room is a huge fountain of flame.    
+~
+167 1475072 4 0 0 0 0 0
+D3
+~
+~
+0 0 16782
+S
+#16786
+&11The Order of Water&00~
+   The reservoir of water is crystal clear.  It gives off a tingling sensation
+and saturates your body, gently seeping into every pour of your frame.  The
+water is neither cool nor warm, only a temperature understood and controlled by
+the water elemental.  The reservoir of water is held in place by a spherical
+force field.  Small currents ripple through the pool and make faint glows as
+they hit the force field encompassing the reservoir.    
+~
+167 1475080 4 0 0 8 0 0
+D1
+~
+~
+0 0 16782
+S
+$~

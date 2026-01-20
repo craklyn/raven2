@@ -1,0 +1,26 @@
+da c 'detect alignment' $*
+1 assist
+09 c 'summon' $*
+fort c 'fortify' $*
+m c 'relocate'  $*
+word c 'word' $*
+12 c 'blindness' $*
+mob c 'assistant'
+b c 'bless' $*
+fw clanwho
+f clan $*
+sum c 'summon' $*
+rempa c 'remove paralysis' $*
+h c 'heal' $*
+armor c 'armor' $*
+fly c 'fly' $*
+di c 'detect invisibility' $*
+infra c 'infra
+g gsay $*
+a assist $*
+j c 'harm' $*
+for c 'fort' $*
+sanc c 'sanc' $*
+wake wake;stand
+reg c 'regen' $*
+3 gr

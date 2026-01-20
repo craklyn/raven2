@@ -1,0 +1,24 @@
+q quaff pot
+locate c 'locate' $*
+as ass similodon
+wake wake;stand
+ts c 'true sight' $*
+sl c 'sleep' $*
+cur title &08.::&07Cursed&08::.&00
+cl clan &09<&11::&09>&08$* &09<&11::&09>&00
+sum c 'summon' $*
+bli cast 'blind' $*
+say say &09<&11::&09>&08$* &09<&11::&09>&00
+gt gtell &09<&11::&09>&08$* &09<&11::&09>&00
+mm cast 'magic missile' $*
+fly cast 'fly' $*
+shie cast 'shield' $*
+di cast 'det inv' $*
+inv cast 'invis' $*
+iden cast 'identi' $*
+ld c 'life drain' $*
+sto c 'stone' $*
+sil c 'silence' $*
+fb c 'flame blade' $*
+str c 'strength' $*
+tinput title &08.::&07Cursed&08::.&00$*

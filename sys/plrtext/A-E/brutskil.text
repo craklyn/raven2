@@ -1,0 +1,17 @@
+f cast 'create food' ;eat way
+di cast 'detect invis'
+eyes cast 'righteous vision'
+cb cast 'cure blind' $*
+rpa cast 'remove para' $*
+rc cast 'remove curse' $*
+regen cast 'regen' $*
+dm cast 'divine mission'
+food cast 'create food'
+prot cast 'protection from evil'
+ca cast 'holy armor'
+rp cast 'remove poison' $*
+rv cast 'righteous vision' $*
+cc cast 'crusade'
+h cast 'prayer of life' $*
+hw cast 'holy word'
+m tak all all.cor

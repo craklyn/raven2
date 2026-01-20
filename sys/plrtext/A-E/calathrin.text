@@ -1,0 +1,26 @@
+ms c 'monster summon'
+port c 'portal' $*
+rr rec rec rec scr
+charm c 'charm' $*
+ghaste c 'haste' group
+gfb c 'flame blade' group
+haste c 'haste' $*
+ts c 'true sight' $*
+awaken c 'awaken' $*
+gshie c 'shield' group
+dr drink thimble
+cs c 'color spray' $*
+bl c 'blind' $*
+mm c 'magic missile' $*
+fb c 'flame blade' $*
+sum c 'summon' $*
+shie c 'shield' $*
+fly c 'fly' $*
+infra c 'infravision' $*
+invis c 'invis' $*
+k order fol k $*
+wa wake;stand
+wak order fol wake;order fol stand
+gts c 'true sight' group
+gfly c 'fly' group
+title title :: &09Wanderer&00

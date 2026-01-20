@@ -1,0 +1,893 @@
+#8800
+Credits Room~
+   This area was written by Rail for the purpose of creating an
+interesting area for the intended levels of 30+.
+Date of creation:  May 1998 - November 1998
+Summer break prevented me from finishing the area earlier
+Name of area:      The Hogweeds
+
+Change Log - Done by Xiuhtecuhtli 09/2006
+*Linked another part of area to Grasslands. 
+*Changed mobile descriptions to make them more suitable for the area
+*Added a mobile that walks around with a light in the "Wooded Clearing"
+*Changed small and seedling mobiles to clerics.
+*Fixed grammar and spelling errors.
+*Added meld item to Guardian spirit, when melded with Plate of Solamnus --> 8825.
+~
+88 0 0 0 0 1 255 0
+S
+#8801
+Path to the Town~
+   You are standing in the shade of several small trees.  The path
+underfoot is strangely overgrown and unused.  Though no chirping or
+any other natural sound can be heard, the bushes seem to rustle
+uneasily and the plants seem to exude malevolence.  To the North you
+see a small village.  There is a small wooden sign hammered rather
+sloppily into the ground here.
+~
+88 4 0 0 0 1 255 0
+D0
+You see a strangely quiet village.
+~
+~
+0 0 8802
+D2
+~
+~
+0 0 1906
+E
+bushes plants~
+They move in a seemingly life like fashion.
+~
+E
+sign small wooden~
+
+   O--------------------------------------------------O
+   | WARNING!                                         |
+   |                                                  |
+   | The village North of here has been overrun       |
+   | by hogweeds.  Enter at your own risk!            |
+   |                                                  |
+   | Rail                                             |
+   |                                                  |
+   | P.S. If you enjoy this area please let me know.  |
+   O------------------------------------------------- O
+~
+S
+#8802
+Before the Town~
+   You are standing on an overgrown trail that runs to the North
+and the South.  Though this path is overgrown with grass and small
+plants, there is no sign of any large bushes growing on the path.
+You jerk your head to the side as you hear a rustle in the bushes,
+but your gaze finds nothing out of the ordinary.
+~
+88 0 0 0 0 1 255 0
+D0
+You see a strangely quiet village.
+~
+~
+0 0 8804
+D2
+You see a small overgrown path.
+~
+~
+0 0 8801
+E
+bushes plants path grass~
+You wonder where all the bigger bushes have gone.
+~
+S
+#8803
+A Small Ravaged House~
+   As you step into this house you realize that something is horribly
+wrong.  Furniture and beds have been overturned, torn clothes lie on
+the ground, and dried blood is on the walls.  
+~
+88 8 0 0 0 1 255 0
+D1
+You see a path that runs perpindicular to the house through town.
+~
+~
+0 0 8804
+E
+furniture beds~
+Splintered and broken wood is all that's left.
+~
+S
+#8804
+Path Through Town~
+   You are standing at the Southern end of town.  The path continues
+Northward through the town.  East and West of you are two small houses.
+Though they seem like they're in good shape, no sounds can be heard
+from inside them.
+~
+88 0 0 0 0 1 255 0
+D0
+The path continues through town to the North.
+~
+~
+0 0 8807
+D1
+You see a small house that seems strangely quiet.
+~
+~
+0 0 8805
+D2
+You see a small overgrown path.
+~
+~
+0 0 8802
+D3
+You see a small house that seems strangely quiet.
+~
+~
+0 0 8803
+S
+#8805
+A Small Empty House~
+   No sound can be heard from anywhere inside this small house.
+Nothing adorns the bare walls that surround you and no furnishings
+inhabit this place.  This place seems to have been stripped of
+everything in a hurry.
+~
+88 8 0 0 0 1 255 0
+D3
+You see a path that runs perpindicular to the house through town.
+~
+~
+0 0 8804
+S
+#8806
+An Abandoned House~
+   This seems to be one of the few untouched houses in town.  If it
+weren't for the strange feeling in the air this house would seem quite
+normal, if not small.  There is a small hatch in the floor below your
+feet.
+~
+88 8 0 0 0 1 255 0
+D1
+You see a path that runs perpindicular to the house through town.
+~
+~
+0 0 8807
+D5
+You see a small hatch set into the floor below our feet.
+~
+hatch~
+1 -1 8838
+S
+#8807
+Path Through Town~
+   As you stop moving to take in your surroundings the wind picks up
+slightly blowing a small cloud of dirt into your face, but it dies down
+as quickly as it appeared.  The path continues through town to the
+North and to the South. East and West of you are two small quiet houses.
+~
+88 0 0 0 0 1 255 0
+D0
+The path continues through town to the North.
+~
+~
+0 0 8810
+D1
+You see a small quiet house.
+~
+~
+0 0 8808
+D2
+The path continues through town to the South.
+~
+~
+0 0 8804
+D3
+You see a small quiet house.
+~
+~
+0 0 8806
+S
+#8808
+An Empty House~
+   As you step into this house the wood creaks ominously under your feet,
+and dust seeps out of cracks in the ceiling blinding you temporarily.
+After your vision clears, you glance about to see that the house is
+completely empty.
+~
+88 8 0 0 0 1 255 0
+D3
+You see a path that runs perpindicular to the house through town.
+~
+~
+0 0 8807
+S
+#8809
+An Empty House~
+   Bare walls meet your gaze as you enter this house.  The walls are
+void of any decorations and there are several pieces of furniture lying
+overturned on the floor.
+~
+88 8 0 0 0 1 255 0
+D1
+You see a path that runs perpindicular to the house through town.
+~
+~
+0 0 8810
+S
+#8810
+Path Through Town~
+   You look at your surroundings, wondering what kind of people used to
+live in this town, but it doesn't matter now you realize, and never will.
+the path continues through town to the North and to the South.  To the
+East and West of you are two small strangely quiet houses.
+~
+88 0 0 0 0 1 255 0
+D0
+You see the path under your feet meets the town square to the North.
+~
+~
+0 0 8813
+D1
+You see a small quiet house.
+~
+~
+0 0 8811
+D2
+The path continues through town to the South.
+~
+~
+0 0 8807
+D3
+You see a small quiet house.
+~
+~
+0 0 8809
+S
+#8811
+A Well Furnished House~
+   Deep red rugs cover the floor, Paintings obviously done by children
+hang from the walls, and wooden furniture is scattered throughout the
+house.  You bend down to get a better look at the rugs, but you don't
+quite make it all the way.  Halfway down you realize that the carpet
+wasn't always red.  It used to be white, but is now completely covered
+in dried blood.
+~
+88 8 0 0 0 1 255 0
+D3
+You see a path that runs perpindicular to the house through town.
+~
+~
+0 0 8810
+S
+#8812
+An Empty House~
+   Like most of the other houses in town, this one is abandoned as well.
+Broken furniture and busted items litter the floor around you.
+~
+88 0 0 0 0 1 255 0
+D1
+You see the town square through the door.
+~
+~
+0 0 8813
+S
+#8813
+Town Square~
+   You find yourself standing in the town square, where the villagers
+used to hold town meetings and picnics.  The sound of childrens'
+laughter can almost still be heard among all of this death and
+destruction.  A path leads off the square through town to the North and
+another to the South.  To the West is a small quiet house and to the
+East is a small shop.
+~
+88 0 0 0 0 1 255 0
+D0
+A path leads off of the square through town.
+~
+~
+0 0 8816
+D1
+You see a small shop with a broken sign swinging in the wind.
+~
+~
+0 0 8814
+D2
+A path leads off of the square through town.
+~
+~
+0 0 8810
+D3
+You see a small quiet house.
+~
+~
+0 0 8812
+S
+#8814
+A Small Shop~
+   This was once the local general store where the villagers came to
+buy their supplies and everyday required goods.  You realize, as you
+look around at the dust covered counters, that you feel a strange
+sensation as if you're being watched.
+~
+88 0 0 0 0 1 255 0
+D3
+You see the town square through the door.
+~
+~
+0 0 8813
+S
+#8815
+A Small House~
+   Stale air greets your nose as you enter this house.  What someone might
+expect in a small house like this is exactly what you see.  A small bed stands
+in the corner, a wooden table rests in the center of the room with a chair next
+to it, and a small dresser lies over turned on the floor.  The ceiling is bare
+except for a small outline that looks like it might be a hatch.    
+~
+88 0 0 0 0 1 255 0
+D1
+You see a path that runs perpindicular to the house through town.
+~
+~
+0 0 8816
+D4
+You notice a secret hatch in the ceiling above you.
+~
+hatch secret~
+1 8802 8839
+S
+#8816
+Path Through Town~
+   To the North you can see a large church towering above the village.
+The path continues through town to the South.  To the West is a small
+quiet house.  To the East is a small blacksmith's shop.
+~
+88 0 0 0 0 1 255 0
+D0
+You see a large church towering above the village.
+~
+~
+0 0 8819
+D1
+You see a small blacksmith's shop.
+~
+~
+0 0 8817
+D2
+You see the town square.
+~
+~
+0 0 8813
+D3
+You see a small house.
+~
+~
+0 0 8815
+S
+#8817
+A Blacksmith's Shop~
+   Once there was a great fire that burned here forging weapons and
+horse-shoes, but no more.  The smell of rusted metal wafts trough the
+air here and you can hear the creaking of the old sign outside swaying
+in the stale breeze.
+~
+88 8 0 0 0 1 255 0
+D3
+You see a path that runs perpindicular to the shop through town.
+~
+~
+0 0 8816
+S
+#8818
+Northwest End of Town~
+   You realize you are at a point where the village ends and the forest
+starts enchroaching again. Grass grows sparsely in the loose dirt under
+your feet. To the East you see a large church.  To the West you see a
+clearing in the woods.
+~
+88 0 0 0 0 1 255 0
+D1
+You see a large church towering above the village.
+~
+~
+0 0 8819
+D3
+You see a clearing in the forest.
+~
+~
+0 0 8822
+S
+#8819
+Before the Church~
+   The shadow of a massive church surrounds you and the bloodied
+ground that you walk upon.  To the North is a massive church.  A path
+runs through town to the South.  Small paths lead into the forest to
+the East and to the West.
+~
+88 0 0 0 0 1 255 0
+D0
+A massive church towers before you.
+~
+~
+0 0 8821
+D1
+A small path leads into the woods.
+~
+~
+0 0 8820
+D2
+A path runs off through town.
+~
+~
+0 0 8816
+D3
+A small path leades into the woods.
+~
+~
+0 0 8818
+S
+#8820
+Northeast End of Town~
+   You realize you are at a point where the village ends and the forest
+starts enchroaching again. Grass grows sparsely in the loose dirt under
+your feet. To the West you see a large church.  The path you're on
+continues into the forest to the East.
+~
+88 0 0 0 0 1 255 0
+D1
+A path leads into the woods.
+~
+~
+0 0 8823
+D3
+You see a large church towering above the village.
+~
+~
+0 0 8819
+S
+#8821
+The Church~
+   Rays of light drift lazily through the air, highlighted by dust in the air,
+and let in through holes in the ceiling.  Pews are lined up in neatly ordered
+rows on either side of you.  A strange feeling of peace drifts through the air
+as you stand in the unbroken silence.  One more thing of interest in the
+church, is a large mural on the west wall.    
+~
+88 131100 0 0 0 1 255 0
+D2
+The shadow from the church slants back onto a path.
+~
+~
+0 0 8819
+E
+mural painting~
+   The mural is a beautiful landscape of the lands of Solamnia.  Two knights
+dominate the center of attention.  One you have never seen before, the other
+knight can only be the renowned Sir Ratleif.  The unknown knight wears a
+beautiful set of armor, interestingly enough, you seem to remember this armor
+bring worn in the present day by Ratleif...    
+~
+S
+#8822
+An Overgrown Path~
+   You stand on a small path that leads off to the West.  It's become
+slightly overgrown with weeds, but otherwise remains noticable.
+~
+88 0 0 0 0 2 255 0
+D1
+A small cleared path.
+~
+~
+0 0 8818
+D3
+A clearing.
+~
+~
+0 0 8825
+S
+#8823
+A Path in the Woods~
+   A small path underfoot winds off lazily to the East.  Leading you deeper
+into the forest.
+~
+88 0 0 0 0 3 255 0
+D1
+The path leads deeper into the forest.
+~
+~
+0 0 8826
+D3
+A small cleared path.
+~
+~
+0 0 8820
+S
+#8824
+A Clearing~
+   You stand in the Northwest corner of a small clearing.  The tall grass
+brushes your legs as you walk by, as if asking you to stay for a very long
+time.
+~
+88 0 0 0 0 2 255 0
+D1
+A clearing.
+~
+~
+0 0 8825
+D2
+A clearing.
+~
+~
+0 0 8827
+D3
+Before a tree.
+~
+~
+0 0 8840
+S
+#8825
+A Clearing~
+   You stand in the Northeast corner of a small clearing.  The tall grass
+brushes your legs as you walk by, as if asking you to stay for a very long
+time.
+~
+88 0 0 0 0 2 255 0
+D1
+An overgrown path
+~
+~
+0 0 8822
+D2
+A clearing.
+~
+~
+0 0 8828
+D3
+A clearing
+~
+~
+0 0 8824
+S
+#8826
+A Path in the Woods~
+   A small path underfoot winds off lazily to the South.  Leading you deeper
+into the forest.
+~
+88 0 0 0 0 3 255 0
+D2
+The path leads deeper into the forest.
+~
+~
+0 0 8829
+D3
+The path leads out of the forest.
+~
+~
+0 0 8823
+S
+#8827
+A Clearing~
+   You stand in the Southwest corner of a small clearing.  The tall grass
+brushes your legs as you walk by, as if asking you to stay for a very long
+time.
+~
+88 0 0 0 0 2 255 0
+D0
+A clearing.
+~
+~
+0 0 8824
+D1
+A clearing.
+~
+~
+0 0 8828
+S
+#8828
+A Clearing~
+   You stand in the Southeast corner of a small clearing.  The tall grass
+brushes your legs as you walk by, as if asking you to stay for a very long
+time.
+~
+88 0 0 0 0 2 255 0
+D0
+A clearing.
+~
+~
+0 0 8825
+D3
+A clearing.
+~
+~
+0 0 8827
+S
+#8829
+Before a House in the Woods~
+   The path ends abruptly at the steps of a small rundown house in the middle
+of the forest.  Trees sway lazily overhead as the wind picks up, but only for a
+moment.  To the east a barrier of bushes and weeds have sprouted up.  
+Fortunately, these ones aren't moving.  One bush is very sick and has turned a
+yellowish brown color.    
+~
+88 0 0 0 0 3 255 0
+D0
+The path leads out of the forest.
+~
+~
+0 0 8826
+D1
+You see some bushes that have been disturbed.
+~
+bushes~
+1 -1 8833
+D2
+A small rundown house rests before you.
+~
+~
+0 0 8830
+S
+#8830
+A House in the Woods~
+   Dust covers everything in sight and the smell of rotten wood permeates
+the air around you.  Barely enough light to see by enters this old shack.
+~
+88 1 0 0 0 0 255 0
+D0
+A path leading away from the house.
+~
+~
+0 0 8829
+S
+#8831
+A Clearing in the Forest~
+   A small clearing surrounds you.  The air is very cool and still here.
+As you look down you spot dried blood on the grass below your feet.  Someone
+or something has been feeding here.
+~
+88 0 0 0 0 2 255 0
+D1
+A clearing.
+~
+~
+0 0 8832
+D2
+A clearing.
+~
+~
+0 0 8833
+S
+#8832
+A Clearing in the Forest~
+   A small clearing surrounds you.  The air is very cool and still here.
+As you look down you spot dried blood on the grass below your feet.  Someone
+or something has been feeding here.
+~
+88 0 0 0 0 2 255 0
+D2
+A clearing.
+~
+~
+0 0 8834
+D3
+A clearing.
+~
+~
+0 0 8831
+S
+#8833
+A Clearing in the Forest~
+   A small clearing surrounds you.  The air is very cool and still here.
+As you look down you spot dried blood on the grass below your feet.  Someone
+or something has been feeding here.
+~
+88 0 0 0 0 2 255 0
+D0
+A Clearing.
+~
+~
+0 0 8831
+D1
+A clearing.
+~
+~
+0 0 8834
+D2
+A clearing.
+~
+~
+0 0 8836
+D3
+You see some bushes that have been disturbed.
+~
+bushes~
+1 -1 8829
+S
+#8834
+A Clearing in the Forest~
+   A small clearing surrounds you.  The air is very cool and still here.  As
+you look down you spot dried blood on the grass below your feet.  Someone or
+something has been feeding here.  You notice some type of gate in the form of
+an enormous bush to the east.    
+~
+88 0 0 0 0 2 255 0
+D0
+A clearing.
+~
+~
+0 0 8832
+D1
+You see some bushes that look out of place.
+~
+bushes~
+1 -1 8835
+D2
+A clearing.
+~
+~
+0 0 8837
+D3
+A clearing.
+~
+~
+0 0 8833
+S
+#8835
+Den of the Giant Hogweed~
+   Your breath stops in your throat as you behold the biggest weed you have
+ever seen in your life sitting on a throne of bloodied grass and thorns.  
+Before you can retrace your steps back to the clearing, you notice that it has
+become aware and very agitated by your presence.    
+~
+88 0 0 0 0 18 255 0
+D3
+You see some bushes that look out of place.
+~
+bushes~
+1 -1 8834
+S
+#8836
+A Clearing in the Forest~
+   A small clearing surrounds you.  The air is very cool and still here.
+As you look down you spot dried blood on the grass below your feet.  Someone
+or something has been feeding here.
+~
+88 0 0 0 0 2 255 0
+D0
+A clearing.
+~
+~
+0 0 8833
+D1
+A clearing.
+~
+~
+0 0 8837
+S
+#8837
+A Clearing in the forest~
+   A small clearing surrounds you.  The air is very cool and still here.
+As you look down you spot dried blood on the grass below your feet.  Someone
+or something has been feeding here.
+~
+88 0 0 0 0 2 255 0
+D0
+A clearing.
+~
+~
+0 0 8834
+D3
+A clearing.
+~
+~
+0 0 8836
+S
+#8838
+A Basement~
+   Moisture feels the cold air in this dark place.  Slight drafts brush your
+skin and send chills up your spine.  You wonder why anyone would want to come
+into a place such as this.
+~
+88 9 0 0 0 1 255 0
+D4
+You see a small hatch in the ceiling above you.
+~
+hatch~
+1 -1 8806
+S
+#8839
+An Attic~
+   Warm air hits your face as you enter.  You take a deep breath but almost
+gag it's so stale.  Light pours in through a small window set into the roof
+of the house, illuminating the attic.
+~
+88 8 0 0 0 1 255 0
+D5
+You notice a hatch set in the floor below you.
+~
+hatch secret~
+1 -1 8815
+S
+#8840
+Before a Large Oak~
+   The trees seem to shy away from you as you step onto this small path.  To
+The North is a large oak tree.  To the east is a clearing.  To the West is the
+open Grasslands before the Northern Mountain Range.    
+~
+88 0 0 0 0 3 255 0
+D0
+You see a large oak tree.
+~
+~
+0 0 8841
+D1
+A clearing.
+~
+~
+0 0 8824
+D3
+~
+~
+0 0 8843
+S
+#8841
+A Large Oak~
+   A large oak tree stands before you.  Fungus grows on one side of it,
+giving you the impression of just how old it must be.  Small boards are
+nailed into the other side of the tree forming a crude latter.
+~
+88 1 0 0 0 3 255 0
+D2
+A small path leads back South.
+~
+~
+0 0 8840
+D4
+You see a treehouse.
+~
+~
+0 0 8842
+S
+#8842
+A Treehouse~
+   Nearly rotten wood forms the floor of this small treehouse.  It was
+obviously once the favored area of play for the local children.  Small
+doodles drawn with ash cover the walls in some places.
+~
+88 0 0 0 0 1 255 0
+D5
+You see a large oak tree.
+~
+~
+0 0 8841
+E
+doodles drawings~
+   One drawing in particular catches your eye.  It's of a plant killing a
+grown person with a small child nearby crying.
+~
+S
+#8843
+The Eastern Grasslands~
+   Short and tall grass blows in the wind.  A small trail leads further into
+the grasslands east of here.  Some hoof prints in the dirt looks like the trail
+was made by wild pigs.  To the east is an enormous oak tree, perhaps a welcome
+spot from the noon time sun.    
+~
+88 4 0 0 0 2 255 0
+D1
+There appears to be a large oak tree in the distance.
+~
+~
+0 0 8840
+D3
+Miles of grass stretches in the horizon.
+~
+~
+0 0 10611
+S
+#8899
+The domain of the &09Platypus&00~
+This room smells funny...
+Synister must have just left.
+~
+88 393792 4 0 0 0 255 0
+S
+$~

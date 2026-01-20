@@ -1,0 +1,405 @@
+#22700
+H W 0~
+student~
+a female student~
+A female student stands here.
+~
+A female student smiles at you.  She isn't wearing a bra!
+~
+524364 0 0 0 0 0 0 0 -300
+1 19 10 1d1+29 1d2+0
+35 40
+9 9 2 0 -1 -1
+#22701
+H W 0~
+student~
+a male student~
+A male student stands here.
+~
+A male student looks mad.  He appears frustrated and confused, like he just failed another exam.  
+~
+524364 0 0 0 0 0 0 0 -300
+20 19 10 1d1+29 1d2+0
+40 40
+9 9 1 0 -1 -1
+#22702
+H C 0~
+professor teacher~
+the Distinguished Professor~
+An extremely intelligent-looking man stands here.
+~
+This is Midgaard University's Distinguished Professor of Economics.  He has a 
+reputation as a tough teacher and a tough individual.  It is rumored that he once
+crushed together the skulls of two students rude enough to talk during his lecture.
+You don't want to mess with this guy!
+~
+247898 0 0 0 5411968 0 0 0 100
+50 -30 -5 1d2000+30000 10d10+10
+80 90
+9 9 1 13 0 0
+#22703
+E H 0~
+mother putz~
+the dorm mother~
+Mother Putz lies here asleep.
+~
+Mother Putz lies here apparently asleep, though she may be dead.  Taking care of 100
+or so students really has worn the old girl out.
+~
+6282 0 0 0 1073741936 0 0 0 1000
+30 10 -2 1d1+100 5d4+0
+50 60
+4 4 2 8 8 -1
+#22704
+H W 0~
+Instructor teacher~
+the instructor~
+The instructor stands before the blackboard delivering today's lesson.
+~
+The instructor is the no-nonsense sort.  He expects his students to learn, and accepts no excuses.
+~
+82122 0 0 0 4325376 0 0 0 300
+30 16 0 100d1+50 1d1+8
+50 60
+9 9 0 22 -1 -1
+#22705
+E T 0~
+student thief~
+the student of theft~
+A student studying the finer points of the art of theft is sitting here.
+~
+This student looks serious about his lessons.  A tatoo on his forearm reads:  One for
+all and all for one.  It is the thief's motto.
+~
+6238 0 0 0 0 0 0 0 -300
+20 15 2 1d1+100 1d10+0
+40 40
+7 9 1 0 0 -1
+#22706
+H W 0~
+student~
+a dillegent student~
+A dillegent student is studying here.
+~
+She looks like she is studying very hard.
+~
+657482 0 0 0 262144 0 0 0 0
+20 15 -2 1d1+100 1d10+3
+40 40
+9 9 2 0 -1 -1
+#22707
+H P 0~
+student~
+the student of Solamnic Knights~
+The student of Solamnic Knights is here, working piously.
+~
+He appears to glow with an inner peace.
+~
+2122 0 0 0 4096 0 0 0 1000
+25 15 -2 1d1+100 1d10+3
+40 40
+9 9 1 0 -1 -1
+#22708
+H D 0~
+antagonist professor teacher~
+the Paladian Antagonist~
+A Paladian Antagonist, an adept and teacher of the dark knights, is standing here.
+~
+He looks curiously discontent, like nothing can calm him.
+~
+2138 0 0 0 8192 0 0 0 -1000
+30 13 -2 5d15+30 8d7+0
+50 60
+9 9 1 0 -1 -1
+#22709
+H P 0~
+paladian ecclesiastic priest~
+the ecclesiastic~
+A Paladian Ecclesiastic, one of the lower Orders of the Priests of Paladine dedicated to teaching, is standing here.
+~
+He looks curiously serene, like he understands and approves of the meaning of life.
+~
+90 0 0 0 4096 0 0 0 1000
+30 13 -2 10d15+30 8d7+0
+50 60
+9 9 1 0 -1 -1
+#22710
+H D 0~
+student~
+the student of Death Knights~
+A student hard at work on malevolent lessons is here.
+~
+He appears in turmoil, twisted by the dark forces he worships.
+~
+2122 0 0 0 8192 0 0 0 -1000
+20 15 -2 1d1+100 1d10+3
+40 40
+9 9 1 0 -1 -1
+#22711
+H C 0~
+triage nurse jennifer~
+the triage nurse~
+A Triage Nurse is presenting a lecture on healing order in battles to maximize the survival rate.
+~
+She looks like she has given comfort to many injured warriors.
+~
+2126 0 0 0 536870920 0 0 0 300
+30 13 -2 1d1+100 8d7+0
+50 60
+9 9 2 0 -1 -1
+#22712
+H C 0~
+student~
+the medical student~
+A student of medicine is studying triage proceedures here.
+~
+She looks pleased with her choice of profession.
+~
+2078 0 0 0 0 0 0 0 0
+20 15 -2 1d1+100 1d10+3
+40 40
+9 9 2 0 -1 -1
+#22713
+H A 0~
+assassin instructor teacher~
+the assassin instructor~
+A well hidden assasin stands here instructing the class in the delicate art of hiding.
+~
+The instructor is hard to see because he is so well hidden.
+~
+2270 0 0 0 524320 0 0 0 0
+30 13 -2 1d1+150 8d7+0
+50 60
+9 9 1 0 -1 -1
+#22714
+H A 0~
+student ~
+the student of assassination~
+There is a student of assassination peering around anxiously here.
+~
+The student looks nervous.  The instructor is hidden and has a bad habit of jumping out from hiding and stabbing students in the back.
+~
+2266 0 0 0 262176 0 0 0 -300
+20 13 0 1d1+100 1d10+3
+40 40
+9 9 0 0 -1 -1
+#22715
+H R 0~
+Ranger Instructor~
+the leafy instructor~
+A leafy green instructor faces the class, lecturing on Ranger skills.
+~
+It looks like a plant, or something well disquised to look like one.
+~
+2142 0 0 0 32 0 0 0 0
+30 13 -2 5d15+100 8d7+0
+50 60
+9 9 0 1 7 1
+#22716
+H R 0~
+plant student~
+the plant-like student~
+A plant, or a student disquised as one, is here studying to be a ranger.
+~
+It looks like a tall plant.
+~
+2126 0 0 0 262176 0 0 0 0
+20 15 -2 1d1+100 1d1+3
+40 40
+9 9 0 0 -1 -1
+#22717
+H H 0~
+shadow teacher 22717~
+the shadow dancer's instructor~
+There is a flickering shadow here.
+~
+This is the teacher of Shadow Dancers.  He is hard to see because he uses light as camouflage.
+~
+2126 0 0 0 1073741888 0 0 0 0
+30 15 0 1d1+150 1d8+0
+50 60
+9 9 0 0 -1 -1
+#22718
+H H 0~
+student shadow~
+shadow dancer student~
+A student of shadows is studying here.
+~
+Not yet having learned his lessons well, you can still discern his shape among the shadows.  He will soon learn his lessons and then he will disappear into the night.
+~
+2122 0 0 0 0 0 0 0 0
+20 15 0 1d1+100 1d8+2
+40 40
+9 9 0 0 -1 -1
+#22719
+H H 0~
+shadow instructor~
+the shadow dance instructor~
+There is a flickering shadow here.
+~
+This is the teacher of Shadow Dancers.  He is hard to see because he uses light as
+camouflage.
+~
+2142 0 0 0 1073741840 0 0 0 0
+30 15 0 1d1+150 1d8+0
+50 60
+9 9 0 0 -1 -1
+#22720
+L T 0~
+halfling student thief~
+the halfling student~
+A halfling student is studying for her pickpocket exam.  She is kind of cute if you like the elfish look.
+~
+She mumbles as she studies: Bump, snatch the purse, get lost in the crowd. Pickpocketing is a hard skill to master.  Cutpurse was easier.
+~
+526426 0 0 0 263208 0 0 0 -300
+25 20 10 1d1+150 1d2+0
+40 40
+9 9 2 0 -1 -1
+#22721
+I A 0~
+draconian student assassin~
+the draconian student~
+The draconian student is practicing to be an assassin.  He apparently has a lot to learn.  His hands and arms are full of scars from failed attempts at backstabbing.
+~
+Holding a dagger in his claw, he is trying unsuccessfully to stab a mannequin in the back.
+~
+526442 0 0 0 327680 0 0 0 -300
+25 15 2 1d1+150 1d3+0
+40 40
+9 9 0 0 -1 -1
+#22722
+C W 0~
+orc student warrior~
+the orc student~
+Bulging muscles aside, the being that stands here practicing warrior skills is not attractive.
+~
+He has big muscles, but he drools and there is food stuck in his beard.
+~
+2122 0 0 0 0 0 0 0 0
+25 15 2 1d1+150 1d3+0
+40 40
+9 9 1 0 -1 -1
+#22723
+H W 0~
+Human student~
+the human student~
+A human student is here, studying lessons from a general curriculum.
+~
+She looks, err, normal.  Her lessons reflect her eclectic tastes.  Her mother told her she could be anything she wanted to be.
+~
+526414 0 0 0 132136 0 0 0 300
+25 20 10 1d1+200 1d2+0
+40 40
+9 9 2 0 -1 -1
+#22724
+E M 0~
+elf student mage~
+the elf student~
+There appears before you an elven mage apprentice floating above the ground.
+~
+Tiny and diminutive, this young elf has chosen to study the powerful world of magic.  In years to come she will be a force to reckon with.
+~
+526410 0 0 0 65544 0 0 0 300
+20 17 5 1d1+150 1d2+0
+40 40
+9 9 2 0 -1 -1
+#22725
+M R 0~
+minotaur student 22725~
+the minotaur student biker~
+A minotaur student biker is here sharpening his horns.
+~
+This students looks more like a bull than a cow, and more like a mean bull than a sweetheart.
+~
+2058 0 0 0 0 0 0 0 -300
+25 19 10 1d1+200 1d2+0
+40 40
+9 9 1 0 -1 -1
+#22726
+T W 0~
+troll student~
+the troll student~
+A troll student occupies most of the room.  It is drooling long strings of spit that nearly reach the floor.
+~
+This troll drools and gnashes its teeth.  If this is common to the race they are a singularly ugly group.  You can't imagine that it could be taught anything.  It appears to have no capacity to learn.
+~
+2058 0 0 0 0 0 0 0 0
+25 19 8 1d1+200 1d2+0
+40 40
+9 9 0 6 6 6
+#22727
+O W 0~
+ogre student~
+the ogre student~
+An ogre leans against the wall, looking kind of lost.
+~
+This ogre isn't the sharpest tool in the drawer, but with years of training it can be taught a few basic skills.
+~
+2058 0 0 0 0 0 0 0 0
+25 20 10 1d1+200 4d5+0
+40 40
+9 9 0 0 -1 -1
+#22728
+B M 0~
+gnome student~
+the gnome student~
+A gnome student is here practicing the art of brewing.  Take care that you are not around if a potion explodes.
+~
+This young gnome appears to be very interested in spell casting.  Several fingers are missing indicating some trouble with the lessons on brewing potions for damage spells.
+~
+2122 0 0 0 8 0 0 0 0
+25 20 10 1d1+150 1d2+0
+40 40
+9 9 0 12 13 -1
+#22729
+H W 0~
+bouncy female 22729~
+a bouncy, braless female student~
+A female student smiles at you with an inviting, come hither look.
+~
+She looks fetching in her halter top.
+~
+8 0 0 0 0 0 0 0 1000
+10 20 10 1d1+200 1d1+0
+35 40
+9 9 2 0 -1 -1
+#22730
+A W 0~
+secretary Jen~
+the Distinguished Professor's Secretary~
+A beautiful secretary stands here.
+~
+One of two secretaries needed to do the work of the Distinguished Professor, this
+raving beauty could also have been a model.  It is rumored that she often sits on the
+good Professor's lap when there are no students around.
+~
+718856 0 0 0 0 0 0 0 0
+45 -8 -4 10d50+50 5d10+25
+65 75
+9 9 0 0 0 0
+#22731
+H W 0~
+keeper~
+the Gate Keeper~
+The Gate Keeper stands here to ensure that only the worthy may enter.
+~
+He looks bored.  I doubt he cares who goes to this University.
+~
+10 0 0 0 0 0 0 0 0
+1 20 10 1d1+0 1d1+0
+35 40
+9 9 1 0 -1 -1
+#22799
+A T 0~
+test mob~
+test mob~
+the newbie test mob stands here
+~
+It looks like it should be easy to kill.
+~
+72 0 0 0 0 0 0 0 -200
+2 19 8 29d1+29 1d2+0
+35 40
+9 9 0 0 -1 -1
+$

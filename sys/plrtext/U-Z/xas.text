@@ -1,0 +1,22 @@
+relo cast 'relocate' $*
+cb cast 'cure blind' $*
+infra cast 'infrav'
+bl cast 'blindness' $*
+remp cast 'remove para' $*
+rp cast 'remove poison' $*
+di cast 'detect invis' $*
+fort cast 'fortify' $1
+heal cast 'heal' $*
+fly cast 'fly' $*
+recall cast 'word of recall' $*
+k gt kill$*
+earth cast 'earthquake
+rc cast 'remove curse' $*
+q gt assist
+cleanse cast 'cleanse' $*
+sense cast 'sense life
+r cast 'revive' $*
+sum cast 'summon' $1
+regen cast 'regen' $*
+sanc cast 'sanc' $*
+harm cast 'harm' $*

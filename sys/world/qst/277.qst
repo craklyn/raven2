@@ -1,0 +1,305 @@
+#27705
+Turrian Noble - Guard & Cross~
+&13So you think you can master the Turrian lands?  The lands of Everwar?  That is a
+mighty task.  You think you're might?  We'll see how mighty you are!  Break into
+the great hall west of here and bring me the heads of Turrian noble women.  Can
+you handle that?  Make sure you kill the gaurds with the Turrian Cross key and
+bring it to me too.  &00
+~
+Bring the Turrian Cross, the heads of two Turrian Guard and two Turrian noble women.
+~
+30 50 8388608 30 40 20
+G 27798
+O MOB 27707
+O MOB 27707
+O MOB 27712
+O MOB 27712
+O OBJ 27721
+R QP 2
+Fought them to the end, did you?  Killer!  Will you be happy with these two quest points?  Come back in a bit if you think you can pass the next challenge.
+~
+#27706
+6x Old men~
+&13You can kill noble women so you think your tough?  I have something right up
+your alley then.  Are you low enough to kill old men?  How about 6 of them?  
+There are washed up old men in the City of Everwar.  If you kill them all you
+think you deserve a reward?  &00
+~
+Stoop low enough to kill six old men in the City of Everwar.
+~
+30 50 8388608 25 40 20
+G 27798
+P 27705
+O MOB 27705
+O MOB 27705
+O MOB 27705
+O MOB 27705
+O MOB 27705
+O MOB 27705
+R QP 2
+Wasn't that a low down dirty shame?  Are you happy with yourself and these two quest points?
+~
+#27707
+Mount Everwar - Ogres~
+&13OK so you think your a tough guy?  How tough are you with your teeth knocked out?  Go to Everwar Mountain and slay two ogre soldiers and two veteran ogres!
+~
+Go to Everwar Mountain and slay two ogre soldiers and two veteran ogres!
+~
+30 50 8388608 30 40 20
+G 27798
+O MOB 27613
+O MOB 27613
+O MOB 27612
+O MOB 27612
+R QP 2
+You have done well.  You never had any doubt, did you?  You think you're tough?
+Tough enough for these two quest points?
+~
+#27708
+Everwar Mountain - dwarfs~
+&13Are you tired of being bossed around?  I'm tired of standing here talking to
+you.  Can you fetch me a footstool?  Do you even know what they look like?  
+They look like a dwarven head!  I like variety, so fetch me one from a dwarven
+soldier, one from a dwarven engineer and one from an elite dwarven fighter.  
+Can you bring me a spare of each too?  &00
+~
+Go to Everwar mountain and fetch me 6 new footstools.  They should look like dwarven soldiers, engineers and elite fighters!
+~
+30 50 8388608 30 40 20
+G 27798
+O MOB 27617
+O MOB 27617
+O MOB 27616
+O MOB 27616
+O MOB 27615
+O MOB 27615
+R QP 2
+Ahhhh, so relaxing, isn't it?  No I won't share with you!
+Well, you can have these two quest points, but no footrests!
+~
+#27709
+Everwar Mountain - Humans~
+&13That was cruel of me, wasn't it?  I have lost my humanity.  Could you find
+humanity on Everwar Mountain?  If so, bring me proof!  I will require much.  
+Enough to counteract my last inhumanity, so bring me a half dozen servings.  
+Two each again.  This time, make it two human foot soldiers, two human scouts
+and two human knights.  &00
+~
+Everwar Mountain - This time, make it two human foot soldiers, two human scouts
+and two human knights.  
+~
+30 50 8388608 30 40 40
+G 27798
+P 27708
+O MOB 27606
+O MOB 27606
+O MOB 27605
+O MOB 27605
+O MOB 27604
+O MOB 27604
+R QP 2
+Nom nom nom, you care?  Thank you!  I feel more human already.  Will you accept
+these 2 quest points?
+~
+#27710
+Everwar Mountain - 2 Troll & 2 gnome - small~
+Are you feeling venturesome?  If so, head out of the east gates and go to
+Everwar Mountain.  Find the troll soldiers and gnome faithful.  Slay two of each
+and bring me their heads.
+~
+Find and slay two Troll soldiers and two gnome faithfuls.
+~
+30 50 8388608 30 40 20
+G 27798
+O MOB 27608
+O MOB 27608
+O MOB 27601
+O MOB 27601
+R QP 2
+Well done!   You earned thse two quest points.  Please take them and enjoy.
+~
+#27711
+Everwar Mountain - 2 Troll & 2 gnome - medium~
+&13 You did well against the troll soldier and the gnome faithful.  How do you
+think you'll fare against the troll's warriors and gnomeish spies?  Kill two
+each and we'll see how you rank!  &00
+~
+Can you find and slay two Troll warriors and two gnomish spies?
+~
+30 50 8388608 30 40 20
+G 27798
+P 27710
+O MOB 27610
+O MOB 27610
+O MOB 27602
+O MOB 27602
+R QP 2
+Well done.  Where did you find the spies?  Take these 2 quest points.
+~
+#27712
+Everwar Mountain - 2 Troll & 2 gnome - large~
+&13Ohh so those were easy quests?  Lets see how you like this one.  You guessed it!
+Do you think you can bring down two troll warriors?  What about two gnome warrior
+elders?  What about all 4?  I don't think you have it in you!  Prove me wrong.
+&00 
+~
+Can you slay two veteran Troll and two gnomish warrior elders?
+~
+30 50 8388608 30 40 20
+G 27798
+P 27711
+O MOB 27609
+O MOB 27609
+O MOB 27603
+O MOB 27603
+R QP 2
+You knew you'd be victorious, didn't you?  I didn't.  Here, take these 2 quest points and get lost!
+There is but one quest left on that mountain.  Surely, it will be your end?
+~
+#27713
+Forest of Turra / Village of Turra -1~
+So you really want to be the master of Turra and Everwar?  Then you must know
+the land well.  Do you?  Then prove it.  Venture into the Forest of Turra and
+find the Turrian soldier that stands out.  He'll look out of place.  Defeat him
+in a contest of strength!  There are elves hidden in the forest.  Find and slay
+one of the elven defenders.  After that head to the Village of Turra and find
+the field workers.
+~
+In the Forest of Turra find the Turrian soldier and the elven defender.  Also locate the field workers north of the Village of Turra.
+~
+30 50 8388608 35 45 25
+G 27798
+O MOB 32303
+O MOB 32614
+O MOB 32601
+R QP 2
+Well done.  Did you have any trouble?  Doesn't matter, you got two quest points!
+Come back again and I may have another mission for you in that forest.  You might
+want to study up for the next one.
+~
+#27714
+Forest of Turra - 2~
+&13You are well on your way to proving that you have mastered the Turrian lands
+where Everwar is present.  How does that make you feel?  Recently I sent you to
+the Forest of Turra.  Do you want to go back?  Fine then, your next mission is
+to return to the forest and find the elven chief and kill him.  He is rumored to
+possess powerful tools of war.  I want those tools.  Bring me his head and
+possessions and I will reward you.  &00
+~
+Slay the elven chief and bring me his possessions.
+~
+30 50 8388608 35 45 25
+G 27798
+P 27713
+O MOB 32605
+O OBJ 32607
+O OBJ 32600
+R QP 3
+Very well done.  It would have been very embarrasing to die to an elf, would it?
+Your reward for your skill in battle is 3 quest points.  Return to me tomorrow
+for an easier quest.
+~
+#27715
+Forest of Turra - 3 - easy~
+&13You want an easy mission?  One that won't risk your life & limb?  So be it.  There
+is a Village past the forest.  Go to the Village of Turra.  There you will find
+male villagers and their women and children.
+...
+&00&08Wipe them out.&00&13 You heard me.  Bring me their heads!  On your way back
+stop stop in the Forest of Turra to slay two buck.  You have 5 hours.  Go!&00
+~
+Run to the village and slay the male villagers and female villagers and small children.  And kill two buck.  Hurry!
+~
+30 50 8388608 5 25 20
+G 27798
+P 27714
+O MOB 32602
+O MOB 32602
+O MOB 32302
+O MOB 32301
+O MOB 32300
+R QP 1
+That was fast!  Hopefully this was your first attempt.  Did you break a sweat?
+No?  Then you only deserve one quest point.
+~
+#27716
+Forest of Turra  & Village 3 - Gnomes~
+&13You're back?  Do you want another tiny mission?  This mission is small in a
+different way.  There is a gnome village somewhere in Turra.  Find it and crush
+the leader and his soldiers.  Bring me their heads and robes.  On your way back
+to me scour the forest for 3 female deer and hunt them down.  Do this and you'll
+be rewarded well.  &00
+~
+Find the gnome village and slay the leader and soldiers. Also hunt down 3 female deer in the forest.
+~
+30 50 8388608 30 40 20
+G 27798
+P 27715
+O MOB 32307
+O MOB 32307
+O MOB 32306
+O OBJ 32302
+O MOB 32603
+O MOB 32603
+O MOB 32603
+R QP 3
+Well done.  Was the village hard to find?  I hope you didn't mess with the
+advisor?  You have nearly mastered all of this land.  Take these 3 quest points
+and my praise.
+~
+#27717
+Turrian stores~
+   &13 You think you know it all?  You have ventured far and wide.  Now I ask you
+to stay close to me.  Do not leave the city for this mission, got it?  If you
+want to master this area, you need an easy way here.  Bring me a recall scroll
+that will bring you to the City of Everwar.  Also find me a magical parchment
+that will move the earth.  Any master should know the difference between good
+and evil.  Prove that you can tell the difference.  Bring me something downable
+that'll let you see the &00&01worst&00&13 and &00&11best&00&13 in anyone.
+&00
+~
+Find a scroll of return to the City of Everwar and a way to move the earth and the vision to see the difference between right and wrong.
+~
+30 50 8388608 10 30 20
+G 27798
+P 27716
+O OBJ 27719
+O OBJ 27717
+O OBJ 27700
+R QP 2
+Well done.  Do not forget this lesson.  Take these two quest points as a reward.
+~
+#27718
+4 chiefs of everwar mountain~
+&13 Finally!  Can you believe it?  The last mission that I can send you on.  
+Well...  The last one I WILL send you on.  I will not send you up against King
+Turra XIV!  But I will send you back to Everwar Mountain.  I hope you didn't
+forget the mountain.  You did?!  That'll make this difficult.  Your mission, and
+you will accept it, is to head back there and slay the kings and chiefs of all
+the races there except troll.  If you can overcome these 4 foes I will deem you
+master of this domain.
+Return to me with their heads!&00
+~
+Nothing.
+Kill all the Kings and Chiefs on Mount Everwar except the troll king.
+~
+30 50 8388608 45 60 35
+G 27798
+P 27712
+P 27717
+O MOB 27614
+O MOB 27618
+O MOB 27611
+O MOB 27607
+R QP 3
+How'd you accomplish that?  Very good.
+Take these rewards and know that you are the master of Turra, the land of Everwar.
+You get 3 quest points!
+You get 500,000 coins of gold!
+You get 500,000 experience points!
+~
+R GOLD 500000
+~
+R EXP 500000
+~
+$~

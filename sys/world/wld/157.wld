@@ -1,0 +1,2083 @@
+#15700
+Credits - Legend~
+   This area, mirrored after the 80's movie Legend is for groups from 
+levels 30-50. The first part of the area is moderately easy, increasing
+in difficulty in the swamp, and further still in the tree. Unlike other
+areas, this proceeds linearly..in that to get the next stage, a number of
+keys and containers must be obtained and explored. If the whole of the area
+is accomplished, the player must backtrack to find retrieve the area's
+main item, the Universal Balance.
+It has 2 spec procs: Una, which will give you a key upon receiving a kiss.
+                    The Alicorn: which gives you the final key upon
+                    receiving its horn.
+This area was written by Morgana in March '98
+-Kurse
+~
+157 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 -1
+D5
+Legend
+~
+~
+0 0 15701
+S
+#15701
+A Bright Meadow~
+The meadow, once brightened with the splendor of light, golden wheat,
+and wild flowers, glistens with the winter’s first snowfall.  Beneath
+your warm armor and cloaks of fur, you feel an ominous chill run up
+your spine.  Out of the corner of your eye, you see a man, shivering 
+and begging you to leave. Although it is difficult to discern his 
+maddening words, you swear he repeats, "There can be no good without 
+evil, no love without hate, no heaven without hell, no light 
+without darkness."
+~
+157 4 0 0 0 2 255 0
+D1
+The forest of innocence beckons your call
+~
+~
+0 -1 15708
+D2
+You see a small cottage
+~
+~
+0 -1 15702
+D3
+The forest of innocence beckons your call
+~
+~
+0 -1 15704
+S
+#15702
+A Small Cottage~
+You have entered the dwelling of the forest’s poor folk.  At one point,
+before the land fell to the icy grasp of evil, this was the richest of
+all homes.  Rich in love and beauty and innocence.  Now, however, all
+you see is a home suspended in time.  Faces Frozen with Fright.
+~
+157 9 0 0 0 0 255 0
+D0
+A bright meadow glows ahead
+~
+~
+0 -1 15701
+D4
+You see the loft
+~
+~
+0 -1 15703
+S
+#15703
+The Loft~
+Clothes are neatly piled in one corner of this small space, while a
+bed made of feathers covers the remainder of the floor.
+~
+157 9 0 0 0 0 255 0
+D5
+You can smell the homemade biscuits from Nell's kitchen
+~
+~
+0 -1 15702
+S
+#15704
+The Forest of Innocence~
+Large Oak Trees, willow rings, sassafras and spearmint colored this
+part of the forest before the Mother of Night began to mire its
+existence.  Her grasp grows steadily as the sun sets.  Her intentions
+are simple, to cast the Forest in eternal blackness. 
+~
+157 1 0 0 0 3 255 0
+D1
+A bright meadow glows ahead
+~
+~
+0 -1 15701
+D2
+The forest of innocence beckons your call
+~
+~
+0 -1 15705
+D3
+To your left you see the edge of innocence
+~
+~
+0 -1 15712
+S
+#15705
+The Forest of Innocence~
+Large Oak Trees, willow rings, sassafras and spearmint colored this
+part of the forest before the Mother of Night began to mire its
+existence.  Her grasp grows steadily as the sun sets.  Her intentions
+are simple, to cast the Forest in eternal blackness. 
+~
+157 1 0 0 0 3 255 0
+D0
+The forest of innocence beckons your call
+~
+~
+0 -1 15704
+D1
+The forest of innocence beckons your call
+~
+~
+0 -1 15709
+D2
+The forest of innocence beckons your call
+~
+~
+0 -1 15706
+S
+#15706
+The Forest of Innocence~
+Large Oak Trees, willow rings, sassafras and spearmint colored this
+part of the forest before the Mother of Night began to mire its
+existence.  Her grasp grows steadily as the sun sets.  Her intentions
+are simple, to cast the Forest in eternal blackness. 
+~
+157 0 0 0 0 2 255 0
+D0
+The forest of innocence beckons your call
+~
+~
+0 -1 15705
+D1
+The forest of innocence beckons your call
+~
+~
+0 -1 15707
+S
+#15707
+The Forest of Innocence~
+Large Oak Trees, willow rings, sassafras and spearmint colored this
+part of the forest before the Mother of Night began to mire its
+existence.  Her grasp grows steadily as the sun sets.  Her intentions
+are simple, to cast the Forest in eternal blackness. 
+~
+157 1 0 0 0 3 255 0
+D1
+The forest of innocence beckons your call
+~
+~
+0 -1 15710
+D3
+The forest of innocence beckons your call
+~
+~
+0 -1 15706
+S
+#15708
+The Forest of Innocence~
+Large Oak Trees, willow rings, sassafras and spearmint colored this
+part of the forest before the Mother of Night began to mire its
+existence.  Her grasp grows steadily as the sun sets.  Her intentions
+are simple, to cast the Forest in eternal blackness. 
+~
+157 1 0 0 0 3 255 0
+D2
+The forest of innocence beckons your call
+~
+~
+0 -1 15709
+D3
+A bright meadow glows ahead
+~
+~
+0 -1 15701
+S
+#15709
+The Forest of Innocence~
+Large Oak Trees, willow rings, sassafras and spearmint colored this
+part of the forest before the Mother of Night began to mire its
+existence.  Her grasp grows steadily as the sun sets.  Her intentions
+are simple, to cast the Forest in eternal blackness. 
+~
+157 1 0 0 0 3 255 0
+D0
+The forest of innocence beckons your call
+~
+~
+0 -1 15708
+D1
+~
+~
+0 0 15716
+D2
+The forest of innocence beckons your call
+~
+~
+0 -1 15710
+D3
+The forest of innocence beckons your call
+~
+~
+0 -1 15705
+S
+#15710
+The Forest of Innocence~
+Large Oak Trees, willow rings, sassafras and spearmint colored this
+part of the forest before the Mother of Night began to mire its
+existence.  Her grasp grows steadily as the sun sets.  Her intentions
+are simple, to cast the Forest in eternal blackness. 
+~
+157 1 0 0 0 2 255 0
+D0
+The forest of innocence beckons your call
+~
+~
+0 -1 15709
+D1
+The serene path calms your senses
+~
+~
+0 -1 15715
+D3
+The forest of innocence beckons your call
+~
+~
+0 -1 15707
+S
+#15711
+The Forest of Innocence~
+Large Oak Trees, willow rings, sassafras and spearmint colored this
+part of the forest before the Mother of Night began to mire its
+existence.  Her grasp grows steadily as the sun sets.  Her intentions
+are simple, to cast the Forest in eternal blackness. 
+~
+157 1 0 0 0 3 255 0
+D0
+The serene path calms your senses
+~
+~
+0 -1 15720
+D2
+The serene path calms your senses
+~
+~
+0 -1 15716
+S
+#15712
+The Edge of Innocence~
+Your first step out of the Forest of Innocence fills you with remorse
+as the impending doom closes in around you.  Those whose hearts are
+already black, seem drawn to this place.  Those, pure of heart,
+hesitate as an ominous presence looms over their very souls.
+~
+157 1 0 0 0 3 255 0
+D1
+The forest of innocence beckons your call
+~
+~
+0 -1 15704
+D3
+The edge of the swamp
+~
+~
+0 -1 15731
+S
+#15713
+A Serene Path~
+You grow uneasy, as you feel a whirlwind of forces tearing at you. 
+Serenity or Chaos.  Peace or Bloodlust.  Greed or Generosity.  Slowly
+you realize that the eternal balance of the universe weighs heavily on
+the side of evil.
+~
+157 1 0 0 0 3 255 0
+D1
+You see the base of the outcrop
+~
+~
+0 -1 15726
+D3
+The serene path calms your senses
+~
+~
+0 -1 15714
+S
+#15714
+A Serene Path~
+You grow uneasy, as you feel a whirlwind of forces tearing at you. 
+Serenity or Chaos.  Peace or Bloodlust.  Greed or Generosity.  Slowly
+you realize that the eternal balance of the universe weighs heavily on
+the side of evil.
+~
+157 1 0 0 0 3 255 0
+D0
+The serene path calms your senses
+~
+~
+0 -1 15715
+D1
+The serene path calms your senses
+~
+~
+0 -1 15713
+S
+#15715
+A Serene Path~
+You grow uneasy, as you feel a whirlwind of forces tearing at you. 
+Serenity or Chaos.  Peace or Bloodlust.  Greed or Generosity.  Slowly
+you realize that the eternal balance of the universe weighs heavily on
+the side of evil.
+~
+157 1 0 0 0 3 255 0
+D0
+The serene path calms your senses
+~
+~
+0 -1 15716
+D2
+The serene path calms your senses
+~
+~
+0 -1 15714
+D3
+The forest of innocence beckons your call
+~
+~
+0 -1 15710
+S
+#15716
+A Serene Path~
+You grow uneasy, as you feel a whirlwind of forces tearing at you. 
+Serenity or Chaos.  Peace or Bloodlust.  Greed or Generosity.  Slowly
+you realize that the eternal balance of the universe weighs heavily on
+the side of evil.
+~
+157 1 0 0 0 3 255 0
+D0
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15711
+D1
+The forest of innocence beckons your call
+~
+~
+0 -1 15717
+D2
+The forest of innocence beckons your call
+~
+~
+0 -1 15715
+D3
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15709
+S
+#15717
+A Serene Path~
+You grow uneasy, as you feel a whirlwind of forces tearing at you. 
+Serenity or Chaos.  Peace or Bloodlust.  Greed or Generosity.  Slowly
+you realize that the eternal balance of the universe weighs heavily on
+the side of evil.
+~
+157 1 0 0 0 3 255 0
+D0
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15718
+D3
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15716
+S
+#15718
+A Serene Path~
+You grow uneasy, as you feel a whirlwind of forces tearing at you. 
+Serenity or Chaos.  Peace or Bloodlust.  Greed or Generosity.  Slowly
+you realize that the eternal balance of the universe weighs heavily on
+the side of evil.
+~
+157 1 0 0 0 3 255 0
+D0
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15719
+D2
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15717
+S
+#15719
+A Serene Path~
+You grow uneasy, as you feel a whirlwind of forces tearing at you. 
+Serenity or Chaos.  Peace or Bloodlust.  Greed or Generosity.  Slowly
+you realize that the eternal balance of the universe weighs heavily on
+the side of evil.
+~
+157 1 0 0 0 3 255 0
+D2
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15718
+D3
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15720
+S
+#15720
+A Serene Path~
+You grow uneasy, as you feel a whirlwind of forces tearing at you. 
+Serenity or Chaos.  Peace or Bloodlust.  Greed or Generosity.  Slowly
+you realize that the eternal balance of the universe weighs heavily on
+the side of evil.
+~
+157 1 0 0 0 3 255 0
+D0
+You see the end of a serene path
+~
+~
+0 -1 15721
+D1
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15719
+D2
+The forest of innocence beckons your call
+~
+~
+0 -1 15711
+S
+#15721
+End of a Serene Path~
+As this path comes to an end, you see rotten berries scattered in front
+of you, and an overgrown patch of thorns tearing at your leggings.  The
+brisk breeze carries a sweet, offensive odor.
+~
+157 1 0 0 0 3 255 0
+D0
+You see an elderberry patch
+~
+~
+0 -1 15722
+D2
+You feel comfort from the serene path ahead
+~
+~
+0 -1 15720
+S
+#15722
+Elderberry Patch~
+At one time, this infamous patch produced the finest elderberries in
+the land.  However, darkness has turned the serene patch into a growth
+of wicked vines, alive with piercing thorns.  The berries, once used to
+produce the Elderberry Wine, lie rotting on the ground.
+~
+157 1 0 0 0 2 255 0
+D1
+You see an elderberry patch
+~
+~
+0 -1 15723
+D2
+You spot the end of a serene path
+~
+~
+0 -1 15721
+S
+#15723
+Elderberry Patch~
+At one time, this infamous patch produced the finest elderberries in
+the land.  However, darkness has turned the serene patch into a growth
+of wicked vines, alive with piercing thorns.  The berries, once used to
+produce the Elderberry Wine, lie rotting on the ground.
+~
+157 1 0 0 0 2 255 0
+D1
+Before you lies a magnificent field of lily’s
+~
+~
+0 -1 15724
+D3
+You see an elderberry patch
+~
+~
+0 -1 15722
+S
+#15724
+Field of Lily’s~
+As a tribute to the King’s first daughter, majestic fields of lilies
+were spread out over acres and acres of forest meadows.  Oddly enough,
+this is the only place in the forest, which remains untouched by Lord
+Darkness's evil. Maybe it is the spirit of the girl who fights for
+her innocence and freedom, that keeps these flowers flourishing. 
+~
+157 1 0 0 0 2 255 0
+D1
+You see a comfortable bed of petals
+~
+~
+0 -1 15725
+D3
+You see an elderberry patch
+~
+~
+0 -1 15723
+S
+#15725
+Bed of Pedals~
+In front of you lies the paralyzed body of a Unicorn amidst thousands
+of vibrant purple petals.  The flowers seem to have shed their bodies,
+so to provide a place of rest for the beautiful creature.
+~
+157 8208 0 0 0 2 255 0
+D3
+Before you lies a magnificent field of lily’s
+~
+~
+0 -1 15724
+S
+#15726
+Base of the Outcrop~
+You stand before a small grouping of rocks, leading upwards.  The
+remains of flowers that once populated this area are strewn about. 
+Beware as you take your first steps, for this stone is covered with a
+translucent sheet of ice.
+~
+157 1 0 0 0 5 255 0
+D2
+~
+~
+0 -1 15727
+D3
+~
+~
+0 -1 15713
+S
+#15727
+Jagged Outcrop~
+Just beyond the rocks, you can see a vast opening.  As the frigid air
+envelopes you in a blanket of death, you pray what lies beyond is
+comfort and warmth, rather then the impending doom you can’t shake.
+~
+157 1 0 0 0 5 255 0
+D0
+~
+~
+0 -1 15726
+D2
+~
+~
+0 -1 15728
+S
+#15728
+The Cliff’s Edge~
+Once, fair maidens and princesses set their suitor’s challenges from
+this cliff. However, today the only challenge is how to escape the
+icy grave below you.  
+~
+157 1 0 0 0 5 255 0
+D0
+~
+~
+0 -1 15727
+D5
+~
+~
+0 -1 15729
+S
+#15729
+Ice Covered Pond~
+At one time, this was the most beautiful vision of these forests.  This
+frozen darkness has stripped this land of its whistling breezes,
+trickling water, fragrant scents and innocence.  All that remains now
+is blackness and ice.
+~
+157 256 0 0 0 6 255 0
+D4
+~
+~
+0 -1 15728
+D5
+You see something glistening below a thick sheet of ice
+~
+sheet ice~
+2 15718 15730
+S
+#15730
+Under the Ice~
+Below the thick, layered ice that covers this pond, rages a secret
+battle the darkness of evil and the splendor of light.  Should darkness
+win before you escape, the icy water will fill your lungs, and freeze
+your blood from the inside out.  
+~
+157 524289 0 0 0 8 255 0
+D4
+~
+sheet ice~
+2 15718 15729
+S
+#15731
+The Edge of the Swamp~
+You find yourself standing on the edge of a swamp.  The air is foul
+with the stench of iniquity.  Your feet are covered in a doleful haze. 
+Fear rises in your throat as you hear something splashing in the murky
+waters around you.  
+~
+157 4194305 0 0 0 6 255 0
+D1
+The edge of innocence
+~
+~
+0 -1 15712
+D3
+The swamp of corruption
+~
+~
+0 -1 15732
+S
+#15732
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place alive.
+~
+157 517 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15735
+D1
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15737
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15737
+S
+#15733
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place alive.
+~
+157 513 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15736
+D1
+You see nothing but murky swamps ahead of you.
+~
+~
+0 -1 15737
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15734
+S
+#15734
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place alive.
+~
+157 513 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D1
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15739
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15733
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15737
+S
+#15735
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place alive.
+~
+157 4194817 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15737
+D1
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15733
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15736
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+S
+#15736
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place alive.
+~
+157 513 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D1
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15736
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15733
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15735
+S
+#15737
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place alive.
+~
+157 513 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D1
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+S
+#15738
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place alive.
+~
+157 513 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15740
+D1
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15737
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15735
+S
+#15739
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place alive.
+~
+157 513 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+D1
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15737
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15738
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15735
+S
+#15740
+Swamp of Corruption~
+Each ill-fated step you take, draws you closer to the bosom of the
+swamps.  Closer to the screams of those who lie dead beneath your feet.
+Closer to the shrills of the tortured souls who will never leave this
+place.
+~
+157 517 0 0 0 6 255 0
+D0
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15741
+D1
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15737
+D2
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15737
+D3
+You see nothing but murky swamps ahead of you
+~
+~
+0 -1 15732
+S
+#15741
+Near the Tree~
+The wind that circles you here grows more fierce.  Although you see no
+flame, you feel as though you have just stepped into the fires of hell.
+The acrid atmosphere dares to make each breath your last.
+~
+157 512 0 0 0 3 255 0
+D0
+you see the Goblin’s Campsite
+~
+~
+0 -1 15742
+D2
+you see the Swamp of Corruption
+~
+~
+0 -1 15737
+S
+#15742
+Goblin’s Campsite~
+A small fire glows in the center of this camp.  As you look around, you
+see the skeletons of those who gave their lives to provide food for
+this heartless band of creatures.  The air is foul and the ground
+covered in blood.
+~
+157 513 0 0 0 3 255 0
+D2
+~
+~
+0 -1 15741
+D3
+The base of the great tree vibrates around you
+~
+~
+0 -1 15744
+D5
+You see an unmarked grave.
+~
+grave~
+2 15720 15752
+S
+#15743
+Base of the Tree~
+You feel a frigid chill run up your spine as you draw closer to The
+Great Tree.  In the distance, you hear torturous screams.  The wind
+cuts through you like a knife, and the blackness sears your eyes.  
+As a seasoned adventurer, you have learned to rely on your senses.  
+Well your senses tell you to turn back now!  You have traveled down 
+the wrong path.
+~
+157 1 0 0 0 3 255 0
+D2
+The base of the great tree vibrates around you
+~
+~
+0 -1 15744
+D3
+The base of the great tree vibrates around you
+~
+~
+0 -1 15747
+S
+#15744
+Base of the Tree~
+You feel a frigid chill run up your spine as you draw closer to The
+Great Tree.  In the distance, you hear torturous screams.  The wind
+cuts through you like a knife, and the blackness sears your eyes.  
+As a seasoned adventurer, you have learned to rely on your senses.  
+Well your senses tell you to turn back now!  You have traveled down 
+the wrong path.
+~
+157 5 0 0 0 3 255 0
+D0
+The base of the great tree vibrates around you
+~
+~
+0 -1 15743
+D1
+You see the Goblin’s Campsite
+~
+~
+0 -1 15742
+D2
+The base of the great tree vibrates around you
+~
+~
+0 -1 15745
+S
+#15745
+Base of the Tree~
+You feel a frigid chill run up your spine as you draw closer to The
+Great Tree.  In the distance, you hear torturous screams.  The wind
+cuts through you like a knife, and the blackness sears your eyes.  
+As a seasoned adventurer, you have learned to rely on your senses.  
+Well your senses tell you to turn back now!  You have traveled down 
+the wrong path.
+~
+157 1 0 0 0 3 255 0
+D0
+The base of the great tree vibrates around you
+~
+~
+0 -1 15744
+D3
+The base of the great tree vibrates around you
+~
+~
+0 -1 15746
+S
+#15746
+Base of the Tree~
+You feel a frigid chill run up your spine as you draw closer to The
+Great Tree.  In the distance, you hear torturous screams.  The wind
+cuts through you like a knife, and the blackness sears your eyes.  
+As a seasoned adventurer, you have learned to rely on your senses.  
+Well your senses tell you to turn back now!  You have traveled down 
+the wrong path.
+~
+157 1 0 0 0 3 255 0
+D1
+The base of the great tree vibrates around you
+~
+~
+0 -1 15745
+D3
+The base of the great tree vibrates around you
+~
+~
+0 -1 15748
+S
+#15747
+Base of the Tree~
+You feel a frigid chill run up your spine as you draw closer to The
+Great Tree.  In the distance, you hear torturous screams.  The wind
+cuts through you like a knife, and the blackness sears your eyes.  
+As a seasoned adventurer, you have learned to rely on your senses.  
+Well your senses tell you to turn back now!  You have traveled down 
+the wrong path.
+~
+157 1 0 0 0 3 255 0
+D1
+The base of the great tree vibrates around you
+~
+~
+0 -1 15743
+D3
+You see the Entrance to the Tree
+~
+~
+0 -1 15750
+S
+#15748
+Base of the Tree~
+You feel a frigid chill run up your spine as you draw closer to The
+Great Tree.  In the distance, you hear torturous screams.  The wind
+cuts through you like a knife, and the blackness sears your eyes.  
+As a seasoned adventurer, you have learned to rely on your senses.  
+Well your senses tell you to turn back now!  You have traveled down 
+the wrong path.
+~
+157 1 0 0 0 3 255 0
+D0
+The base of the great tree vibrates around you
+~
+~
+0 -1 15749
+D1
+The base of the great tree vibrates around you
+~
+~
+0 -1 15746
+S
+#15749
+Base of the Tree~
+You feel a frigid chill run up your spine as you draw closer to The
+Great Tree.  In the distance, you hear torturous screams.  The wind
+cuts through you like a knife, and the blackness sears your eyes.  
+As a seasoned adventurer, you have learned to rely on your senses.  
+Well your senses tell you to turn back now!  You have traveled down 
+the wrong path.
+~
+157 1 0 0 0 3 255 0
+D0
+Before you stands the foreboding entrance to the tree
+~
+~
+0 -1 15750
+D2
+The base of the great tree vibrates around you
+~
+~
+0 -1 15748
+S
+#15750
+Entrance to the Tree~
+You stand before a large foreboding door, scarred with the infinite
+years of its existence. The oak is stained with the blood, sweat and
+tears of those who dared to come this far.  The base of the door is
+littered with the skeletal remains of those who searched for a way in, 
+only to find un-triumphant death.
+~
+157 1 0 0 0 3 255 0
+D1
+The base of the great tree vibrates around you
+~
+~
+0 -1 15747
+D2
+The base of the great tree vibrates around you
+~
+~
+0 -1 15749
+D4
+You see The Great Tree
+~
+~
+0 -1 15751
+S
+#15751
+The Great Tree~
+This may have been the first tree to occupy this land.  Although
+darkness masks its true mass, it has no doubt been here since the
+beginning of time.  You are struck with the cold hard reality that 
+this tree will outlive your mortal soul a million times over.
+~
+157 1 0 0 0 3 255 0
+D1
+You see the gateway to a hell.
+~
+hell gateway~
+2 15719 15789
+D5
+You see the entrance to the tree
+~
+~
+0 -1 15750
+S
+#15752
+The Dungeon~
+You have fallen down a shaft into a cellar. Bars surround you and
+cobwebs hang from the keyhole.  Shrilling cries from the adjacent 
+cells remain unanswered. 
+~
+157 152 0 0 0 0 255 0
+D1
+You look out through the bars of your cell unto 'death row'.
+~
+bars cell door~
+2 15717 15761
+S
+#15753
+The Dungeon~
+Many a man has seen his last glimpse at the world through this cold,
+damp cell.  Screams from the other cells mask the screeching of the
+door, as it closes behind you.  
+~
+157 520 0 0 0 0 255 0
+D1
+You look out through the bars of your cell onto death row
+~
+cell death~
+0 -1 15760
+S
+#15754
+The Dungeon~
+Many a man has seen his last glimpse at the world through this cold,
+damp cell.  Screams from the other cells mask the screeching of the
+door, as it closes behind you.  
+~
+157 520 0 0 0 0 255 0
+D3
+You look out through the bars of your cell onto death row
+~
+bars cell death~
+2 15715 15760
+S
+#15755
+The Dungeon~
+Many a man has seen his last glimpse at the world through this cold,
+damp cell.  Screams from the other cells mask the screeching of the
+door, as it closes behind you.  
+~
+157 524808 0 0 0 0 255 0
+D3
+You look out through the bars of your cell onto death row.
+~
+bars cell death~
+2 15715 15761
+S
+#15756
+Kitchen Prep Area~
+This room is flavored witha variety of culinary feats: Fairy Pot Pie,
+goblin stew, goulash, and so on. The table closest to you is decorated with
+the finest torture tools. The table nearest to the oven is covered with
+oddities such as bat wings, eye of newt, and poisonous toad stools.
+~
+157 520 0 0 0 0 255 0
+D0
+To the north, you see a blazing inferno
+~
+~
+0 -1 15757
+D1
+To the east, you see cauldron pots, full of goodies
+~
+~
+0 -1 15758
+D2
+As you look south, you see the long and treacherous walkway, known as
+death row
+~
+~
+0 -1 15760
+D3
+To the west, you see cauldron pots, full of goodies
+~
+~
+0 -1 15759
+S
+#15757
+The Oven~
+You find yourself surrounded in blistering heat.  The stench from the
+pans sours your stomach.  Best you leave now, while you still can.
+~
+157 524808 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15756
+S
+#15758
+The Boiler Room~
+Several cast iron kettles line the walls of miserably warm room.  Oddly
+enough, the screams seem to subside in this room. 
+~
+157 520 0 0 0 0 255 0
+D3
+~
+~
+0 -1 15756
+E
+kettle~
+You are horrified, as you see a hand break out of the pastry covering
+on this kettle
+~
+S
+#15759
+The Boiler Room~
+Several cast iron kettles line the walls of miserably warm room.  Oddly
+enough, the screams seem to subside in this room. 
+~
+157 520 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15756
+E
+kettle~
+You are horrified, as you see a hand break out of the pastry covering
+on this kettle
+~
+S
+#15760
+Death Row~
+Many races have walked down this dank hallway.  With each step you
+take, you are struck with visions of their last thoughts and senses. 
+The glare from shiny guillotine blade that takes their head.  The cold
+steel gutting knife, as they are split from head to hoof.  Their 
+unanswered prayers, one last scream, and then silence. 
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15756
+D1
+~
+bars~
+1 -1 15754
+D2
+~
+~
+0 -1 15761
+D3
+~
+bars~
+1 -1 15753
+S
+#15761
+Death Row~
+Many races have walked down this dank hallway.  With each step you
+take, you are struck with visions of their last thoughts and senses. 
+The glare from shiny guillotine blade that takes their head.  The cold
+steel gutting knife, as they are split from head to hoof.  Their 
+unanswered prayers, one last scream, and then silence. 
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15760
+D1
+~
+bars~
+1 -1 15755
+D2
+~
+~
+0 -1 15762
+D3
+~
+bars door~
+1 -1 15752
+S
+#15762
+Death Row~
+Many races have walked down this dank hallway.  With each step you
+take, you are struck with visions of their last thoughts and senses. 
+The glare from shiny guillotine blade that takes their head. The cold
+steel gutting knife, as they are split from head to hoof.  Their 
+unanswered prayers, one last scream, and then silence. 
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15761
+D1
+~
+~
+0 -1 15765
+D2
+~
+~
+0 -1 15767
+D3
+~
+~
+0 -1 15763
+S
+#15763
+Death Row~
+Many races have walked down this dank hallway.  With each step you
+take, you are struck with visions of their last thoughts and senses. 
+The glare from shiny guillotine blade that takes their head. The cold
+steel gutting knife, as they are split from head to hoof.  Their 
+unanswered prayers, one last scream, and then silence. 
+~
+157 520 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15762
+D2
+~
+~
+0 -1 15768
+D3
+~
+~
+0 -1 15764
+S
+#15764
+Death Row~
+Many races have walked down this dank hallway.  With each step you
+take, you are struck with visions of their last thoughts and senses. 
+The glare from shiny guillotine blade that takes their head. The cold
+steel gutting knife, as they are split from head to hoof.  Their 
+unanswered prayers, one last scream, and then silence. 
+~
+157 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15775
+D1
+~
+~
+0 -1 15763
+D2
+~
+~
+0 -1 15769
+D3
+~
+~
+0 -1 15771
+S
+#15765
+Storage Area~
+You seem to be dwarfed by the massive size of everything in this
+castle.   Silver plates, cauldrons, kettles and goblets are strewn 
+all over the floor.  As you envision the demon who eats from these
+instruments, you find yourself frozen in fear.  
+~
+157 520 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15766
+D3
+~
+~
+0 -1 15762
+S
+#15766
+Storage Area~
+You seem to be dwarved by the massive size of everything in this
+castle.   Silver plates, cauldrons, kettles and goblets are strewn 
+all over the floor.  As you envision the demon who eats from these
+instruments, you find yourself frozen in fear.  
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15765
+D3
+~
+~
+0 -1 15767
+S
+#15767
+Storage Area~
+As you look upwards, you see the a small opening, raising its wings 
+all the way to the sun.  Although the rays are barely enough to 
+discern, you feel a faint glow brush over your face.  You open your 
+eyes again, to notice that some of the silver plates have been 
+carefully placed up the slim tunnel, as they have been in the
+surrounding rooms.  
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15762
+D1
+~
+~
+0 -1 15766
+D3
+~
+~
+0 -1 15768
+S
+#15768
+Storage Area~
+You seem to be dwarfed by the massive size of everything in this
+castle.   Silver plates, cauldrons, kettles and goblets are strewn 
+all over the floor.  As you envision the demon who eats from these
+instruments, you find yourself frozen in fear.  
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15763
+D1
+~
+~
+0 -1 15767
+S
+#15769
+Balcony Seating~
+Carved wooden chairs are scattered on the floor and crimson splashes 
+of color paint the walls in this viewing area designed for the 
+foulest of foul.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15764
+D2
+~
+~
+0 -1 15770
+S
+#15770
+Balcony Seating~
+At one time, this seating area had been reserved for the Father, in all
+his darkness.  He would sit here, drink the finest fairy blood from his
+cherished goblets, and watch the splendor of his bidder, as he sacrificed 
+the purest souls from the land.  That was long ago, however, when the only 
+force that ruled the land was evil.  
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15769
+S
+#15771
+Holding Arena~
+When darkness first took hold of the land, this arena was filled with
+purest of creatures.  Bodies struggled to free themselves from their
+shackles before they were brought to face the Father of Darkness.  It
+was not the impending death, though, that scared these souls.  It was 
+the knowledge, that with every pure sacrifice offered to the demon of 
+the night, there would be fewer left to champion their freedom.
+~
+157 520 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15764
+D2
+~
+~
+0 -1 15772
+S
+#15772
+Staging Arena~
+Tortured spirits glanced up from their binding chains to the balconies,
+horrified to see hordes of black eyes staring back at them.  The only
+flicker of light that danced in those foul eyes, came from the life
+before them, soon to be extinguished.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15771
+D2
+~
+~
+0 -1 15773
+S
+#15773
+Sacrificial Arena~
+In this room you can feel the presence of a legend, who came to free
+the land from eternal night.  Although triumph still lingers in the
+air, the blood stained flooring fills you with a sadness few will ever
+know.  A sadness for each soul who died at the hand of the Lord of 
+Darkness.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15772
+D3
+This is the closest you will ever be to death.
+~
+~
+0 -1 15774
+S
+#15774
+Death’s Door~
+You have just past the threshold of death.  Welcome to your nightmare.
+~
+157 522 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15773
+S
+#15775
+White Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15776
+D2
+~
+~
+0 -1 15764
+S
+#15776
+Black Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15777
+D2
+~
+~
+0 -1 15778
+S
+#15777
+White Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15784
+D1
+~
+~
+0 -1 15784
+D2
+~
+~
+0 -1 15784
+D3
+~
+~
+0 -1 15784
+S
+#15778
+Black Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15780
+D1
+~
+~
+0 -1 15781
+D2
+~
+~
+0 -1 15787
+D3
+~
+~
+0 -1 15777
+S
+#15779
+White Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15784
+D1
+~
+~
+0 -1 15786
+D2
+Before you lies the Gateway to Hell
+~
+hell gateway~
+0 -1 15789
+D3
+~
+~
+0 -1 15776
+S
+#15780
+Black Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15783
+D1
+~
+~
+0 -1 15781
+D2
+~
+~
+0 -1 15775
+D3
+~
+~
+0 -1 15787
+S
+#15781
+White Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15786
+D1
+~
+~
+0 -1 15786
+D2
+~
+~
+0 -1 15786
+D3
+~
+~
+0 -1 15786
+S
+#15782
+Black Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15777
+D1
+~
+~
+0 -1 15781
+D2
+~
+~
+0 -1 15787
+D3
+~
+~
+0 -1 15785
+S
+#15783
+White Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15784
+D1
+~
+~
+0 -1 15782
+D2
+~
+~
+0 -1 15786
+D3
+~
+~
+0 -1 15776
+S
+#15784
+Black Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15781
+D1
+~
+~
+0 -1 15781
+D2
+~
+~
+0 -1 15781
+D3
+~
+~
+0 -1 15781
+S
+#15785
+White Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15788
+D1
+~
+~
+0 -1 15784
+D2
+~
+~
+0 -1 15786
+D3
+~
+~
+0 -1 15776
+S
+#15786
+Black Square~
+As  you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15787
+D1
+~
+~
+0 -1 15787
+D2
+~
+~
+0 -1 15787
+D3
+~
+~
+0 -1 15787
+S
+#15787
+White Square~
+As you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15784
+D1
+~
+~
+0 -1 15786
+D2
+~
+~
+0 -1 15781
+D3
+~
+~
+0 -1 15776
+S
+#15788
+Black Square~
+As you step out onto this square, you feel as though you are a pawn in
+game you will not win.  Step forward, back, side to side, you find
+yourself right where you began.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15781
+D1
+~
+~
+0 -1 15775
+D2
+~
+~
+0 -1 15779
+D3
+~
+~
+0 -1 15777
+S
+#15789
+Gateway to Hell~
+In this grand entry hall, you see death as it has never revealed itself
+before.  What evil lurks here, in the shadows?
+~
+157 520 0 0 0 0 255 0
+D1
+white square.  black square.  white square.  black square.
+~
+~
+0 -1 15781
+D3
+to the west, you see dark shadows dancing across the floor.
+~
+~
+0 -1 15790
+S
+#15790
+Dance Hall~
+In your ear, you hear an enticingly seductive melody.  On your neck,
+you feel the warm breath of the phantom, who lurks in the shadows.  In
+your heart you feel nothing.  And if you allow her song to woo you, you
+will feel the solace of the shadows pierce your back.
+~
+157 524 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15791
+D1
+~
+~
+0 -1 15789
+D2
+~
+~
+0 -1 15794
+D3
+~
+~
+0 -1 15795
+S
+#15791
+Dance Hall~
+In your ear, you hear an enticingly seductive melody.  On your neck,
+you feel the warm breath of the phantom, who lurks in the shadows.  In
+your heart you feel nothing.  And if you allow her song to woo you, you
+will feel the solace of the shadows pierce your back.
+~
+157 520 0 0 0 0 255 0
+D2
+~
+~
+0 -1 15790
+D3
+~
+~
+0 -1 15792
+S
+#15792
+Dance Hall~
+In your ear, you hear an enticingly seductive melody.  On your neck,
+you feel the warm breath of the phantom, who lurks in the shadows.  In
+your heart you feel nothing.  And if you allow her song to woo you, you
+will feel the solace of the shadows pierce your back.
+~
+157 520 0 0 0 0 255 0
+D1
+~
+~
+0 -1 15791
+D2
+~
+~
+0 -1 15795
+S
+#15793
+Dance Hall~
+In your ear, you hear an enticingly seductive melody.  On your neck,
+you feel the warm breath of the phantom, who lurks in the shadows.  In
+your heart you feel nothing.  And if you allow her song to woo you, you
+will feel the solace of the shadows pierce your back.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15795
+D1
+~
+~
+0 -1 15794
+S
+#15794
+Dance Hall~
+In your ear, you hear an enticingly seductive melody.  On your neck,
+you feel the warm breath of the phantom, who lurks in the shadows.  In
+your heart you feel nothing.  And if you allow her song to woo you, you
+will feel the solace of the shadows pierce your back.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15790
+D3
+~
+~
+0 -1 15793
+S
+#15795
+Dining Room~
+In the center of this room, is an imposing table, filled with every
+imaginable delicacy.  Although mortal food is not the typical palate of
+the Lord of Darkness, he has cunningly set this table in an attempt to
+deceive.
+~
+157 520 0 0 0 0 255 0
+D0
+~
+~
+0 -1 15792
+D1
+~
+~
+0 -1 15790
+D2
+~
+~
+0 -1 15793
+D3
+~
+~
+0 -1 15796
+S
+#15796
+Lord’s Private Chamber~
+You find youself surrounded by a bed of silk spun straw.  The table ton the
+side of the room, serves as resting area to a goblet full of crimson juice.
+You slowly feel youself fall out of consciousness as the heat becomes too
+much to bear.
+
+~
+157 33288 0 0 0 0 255 0
+D0
+~
+door golden~
+2 15738 15799
+D1
+~
+~
+0 -1 15795
+D2
+A wall of fire blocks the passage into the fireplace.
+~
+fire door~
+2 15721 15797
+S
+#15797
+Fire Place~
+You feel yourself surrounded by flames.  Your skin slowly begins to melt from
+your body.  Your blood, drains from every orifice and pools at your feet.  To
+your south, you see nothing but blackness and despair.
+~
+157 33288 0 0 0 0 255 0
+D0
+A wall of fire blocks your exit.
+~
+fire wall door~
+2 15721 15796
+D2
+~
+darkness~
+1 -1 15798
+S
+#15798
+Ultimate Darkness~
+This is a room beyond imagine.  It has no boundaries, no lines, no mass.  The
+walls and ceiling are endless black slabs.  The flooring seems a bottomless
+pit, with no beginning or end.  The only sign of life in this hell, is an
+acrid breath down your neck and a tiny voice in your head that keeps
+whispering "time to die."
+~
+157 33289 0 0 0 0 255 0
+D0
+~
+darkness~
+1 -1 15797
+S
+#15799
+Lord’s Treasure Chamber~
+Tables lined with red velvet fill this room.  A magical light eminates from
+the boundless diamonds, gold, silver, goblets, swords, rubies, sapphires,
+truly amazing treasures have been strewn about. However, one item, the Lord's
+most prized possession, The Holy Grail, sits on its own pedestal, mocking the
+Heavens.
+~
+157 393728 0 0 0 0 255 0
+D2
+~
+door golden~
+2 15738 15796
+S
+$~

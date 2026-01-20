@@ -1,0 +1,1010 @@
+#9600
+Drekken Noir Credits & Connections~
+
+Description:
+   Coming soon.
+
+Connections:
+   [9601] - The River of Lost Souls [13743]
+   [9604] - Nightfall (unfinished)
+   [9618] - The Emerald Forest [19078]
+
+
+This area built by Kaidon for RavenMUD.
+~
+96 0 0 0 0 0 255 0
+S
+#9601
+The Loch of the Dead~
+   A dark river flows in from the west, forming a pool of numbingly cold water.
+An eerie steam radiates from the pool, though the air around you chills you
+beneath your clothing.  Out of the corner of your eye, the mist appears to take
+on hideous, beastly forms which fade away before you can look at them directly.
+A large mountain sits atop the fog to the east. Foul smelling swamp land lies
+to the north.    
+~
+96 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 16731
+D1
+An almost tangible mist flows from the water to veil the land.
+~
+~
+0 -1 9602
+D3
+A dark river creeps in from the west.
+~
+~
+0 -1 13743
+S
+#9602
+The Veiled Passage~
+You find solid footing, though you cannot see the path you take for the mist
+engulfing you.  Muffled sounds escape from the trees to the south.  Glancing
+in that direction, you notice the forest grows quite dark, and you feel as
+though you are being watched from the shadows.  The mist appears to grow
+thinner to the east.
+~
+96 0 0 0 0 3 255 0
+D0
+You see a dark forest.
+~
+~
+0 0 24000
+D1
+You are able to see more clearly to the east.
+~
+~
+0 -1 9603
+D3
+A thick mist flows in from the west.
+~
+~
+0 -1 9601
+S
+#9603
+A Thin Mist~
+The mist is much thinner here, forming into tiny columns that swirl around
+your feet.  The forest is especially thick to the south, though one enourmous
+tree seems to dominate the others.  The path continues to the east, but
+appears to be blocked by a recent landslide.
+~
+96 4 0 0 0 2 255 0
+D1
+The path appears to continue toward the mountain.
+~
+~
+0 -1 9604
+D2
+A huge tree towers above you.
+~
+trunk~
+1 -1 9605
+D3
+You see a passage covered in mist.
+~
+~
+0 -1 9602
+S
+#9604
+A Landslide~
+A large pile of rock seems to have blocked the path east.  The forest to
+either side appears too dense to circumvent the rubble.
+~
+96 0 0 0 0 2 255 0
+D3
+The path looks clear to the west.
+~
+~
+0 -1 9603
+S
+#9605
+Entering Drekken Noir~
+You approach Drekken Noir, the forest of eternal night.  An almost visible
+breeze rustles the ebony leaves of the trees looming over you, carrying with
+it the chill of death.  You sense a presence in the trees, moving when you
+move, stopping when you stop.  Stories of this forest tell of cursed
+inhabitants, doomed to remain here for time eternal.  Even through death,
+they could not be freed.
+~
+96 9 0 0 0 3 255 0
+D0
+The trail ends abruptly at the base of a tree.
+~
+trunk~
+1 -1 9603
+D2
+You gaze into the forest of eternal night.
+~
+~
+0 -1 9606
+S
+#9606
+A Dark Clearing~
+The gloom surrounding these trees grows darker, and you feel as though more
+eyes watch you with each step you take.  You jump slightly as a fallen branch
+snaps beneath your foot, bringing brief, evil laughter echoing from the
+trees.
+~
+96 9 0 0 0 3 255 0
+D0
+The edge of the forest lies to the north.
+~
+~
+0 -1 9605
+D1
+A dark path lies to the east.
+~
+~
+0 -1 9620
+D2
+The forest thickens to the south.
+~
+~
+0 -1 9616
+D3
+You notice odd shadows to the west.
+~
+~
+0 -1 9607
+S
+#9607
+A Shaded Path~
+Large, leafy branches form a canopy overhead, cloaking the ground in
+darkness.  Although you see no source of light from the forest, you notice
+your silhouette is cast rather oddly against the trees, as if only you
+are illuminated.
+~
+96 9 0 0 0 3 255 0
+D1
+~
+~
+0 -1 9606
+D3
+~
+~
+0 -1 9608
+S
+#9608
+A Shaded Path~
+You feel strangely vulnerable walking down this path, as your movements
+send shadows playing across the ground.  You sense that the darkness of
+the surrounding forest holds more than just trees.  A faint creaking
+sound drifts down from above.
+~
+96 9 0 0 0 3 255 0
+D0
+A large bush seems strangely out of place here.
+~
+bush~
+1 -1 9609
+D1
+~
+~
+0 -1 9607
+D2
+~
+~
+0 -1 9610
+D4
+You can make out a thin platform suspended between the trees.
+~
+~
+0 -1 -1
+S
+#9609
+The Decayed Rope~
+Before you is a thin rope, suspended from a large tree at the edge of the
+trail.  Long set into decay, you reach out to test its strength, and
+pieces of the rope crumble in your hand.
+~
+96 269 0 0 0 5 255 0
+D2
+A large bush stands before a path.
+~
+bush~
+1 -1 9608
+D4
+A decayed rope leads up to a thin platform.
+~
+~
+0 -1 9636
+S
+#9610
+A Shaded Path~
+You feel strangely vulnerable walking down this path, as your movements
+send shadows playing across the ground.  You sense that the darkness of
+the surrounding forest holds more than just trees.  A faint creaking
+sound drifts down from above.
+~
+96 9 0 0 0 3 255 0
+D0
+~
+~
+0 -1 9608
+D3
+~
+~
+0 -1 9611
+D4
+You can make out a thin platform suspended between the trees.
+~
+~
+0 -1 -1
+S
+#9611
+A Shaded Clearing~
+A trail from the east opens out to form a large clearing, encircled by the
+darkened trees of Drekken Noir.  Cold wind swirls around you from all
+directions, seeming to originate from nowhere in particular.  Warmth and
+safety appears to be non-existant in this forest, and the eyes you feel
+watching you only serve to reinforce this.
+~
+96 9 0 0 0 3 255 0
+D1
+~
+~
+0 -1 9610
+D2
+~
+~
+0 -1 9612
+D3
+~
+~
+0 -1 9614
+S
+#9612
+A Shaded Clearing~
+You find yourself in a large clearing, enveloped in a mysterious darkness.
+Occasionally, you think you spot movement in the trees, but you can never
+quite tell if it's anything more than wind through the trees.  You feel as
+though you are being watched.
+~
+96 9 0 0 0 3 255 0
+D0
+~
+~
+0 -1 9611
+D3
+~
+~
+0 -1 9613
+S
+#9613
+A Shaded Clearing~
+You are in a large clearing in the forest, though large ebony trees still
+loom nearby.  You hear faint sounds overhead.
+~
+96 9 0 0 0 3 255 0
+D0
+~
+~
+0 -1 9614
+D1
+~
+~
+0 -1 9612
+D4
+You can make out a thin platform suspended between the trees.
+~
+~
+0 -1 -1
+S
+#9614
+A Shaded Clearing~
+You are in a large clearing in the forest, though large ebony trees still
+loom nearby.  You hear faint sounds overhead.
+~
+96 9 0 0 0 3 255 0
+D0
+A large tree has some odd marks on it.
+~
+trunk~
+1 -1 9615
+D1
+~
+~
+0 -1 9611
+D2
+~
+~
+0 -1 9613
+S
+#9615
+A Hollow Tree~
+The tree you are in appears to have been hollowed out enough for a single
+person to fit inside.  A ladder has been built into one side of the trunk.
+~
+96 269 0 0 0 5 255 0
+D2
+A door has been carved ouf of the side of the tree.
+~
+trunk~
+1 -1 9614
+D4
+A ladder leads up to a thin platform.
+~
+~
+0 -1 9629
+S
+#9616
+In The Underbrush~
+You are surrounded by massive, dark trees.  A thin layer of black leaves
+coats the ground, sending crackling noises echoing through the forest
+when stepped on.  You feel as though many eyes are upon you.
+~
+96 9 0 0 0 4 255 0
+D0
+~
+~
+0 -1 9606
+D2
+~
+~
+0 -1 9617
+S
+#9617
+In The Underbrush~
+You are surrounded by massive, dark trees.  A thin layer of black leaves
+coats the ground, sending crackling noises echoing through the forest
+when stepped on.  You feel as though many eyes are upon you.
+~
+96 9 0 0 0 4 255 0
+D0
+~
+~
+0 -1 9616
+D1
+~
+~
+0 -1 9619
+D3
+~
+~
+0 -1 9618
+S
+#9618
+In The Underbrush~
+You are surrounded by massive, dark trees.  A thin layer of black leaves
+coats the ground, sending crackling noises echoing through the forest
+when stepped on.  You feel as though many eyes are upon you.
+~
+96 13 0 0 0 4 255 0
+D1
+~
+~
+0 -1 9617
+D2
+~
+~
+0 0 19078
+S
+#9619
+In The Underbrush~
+You are surrounded by massive, dark trees.  A thin layer of black leaves
+coats the ground, sending crackling noises echoing through the forest
+when stepped on.  You feel as though many eyes are upon you.
+~
+96 9 0 0 0 4 255 0
+D3
+~
+~
+0 -1 9617
+S
+#9620
+A Dark Path~
+You follow a trail of overwhelming darkness.  If not for the brush on either
+side, you would soon find yourself off the path and deep into the heart of
+the forest, facing whatever horrors lurk there.  The leaves seem to hiss at
+you as they rustle in the chill wind, and as you move along the trail, you
+sense shadows in the trees stalking you.
+~
+96 9 0 0 0 3 255 0
+D1
+~
+~
+0 -1 9621
+D3
+~
+~
+0 -1 9606
+S
+#9621
+A Dark Path~
+You follow a trail of overwhelming darkness.  If not for the brush on either
+side, you would soon find yourself off the path and deep into the heart of
+the forest, facing whatever horrors lurk there.  The leaves seem to hiss at
+you as they rustle in the chill wind, and as you move along the trail, you
+sense shadows in the trees stalking you.
+~
+96 9 0 0 0 3 255 0
+D0
+A large bush seems strangely out of place here.
+~
+bush~
+1 -1 9622
+D2
+~
+~
+0 -1 9623
+D3
+~
+~
+0 -1 9620
+S
+#9622
+The Rotted Rope~
+You stand next to a large tree at the edge of a path.  A rope dangles from
+a limb above you, half-rotted and likely to fall apart if touched.
+~
+96 269 0 0 0 5 255 0
+D2
+A large bush stands before a path.
+~
+bush~
+1 -1 9621
+D4
+A rotted rope leads up to a thin platform.
+~
+~
+0 -1 9646
+S
+#9623
+A Dark Path~
+You follow a trail of overwhelming darkness.  If not for the brush on either
+side, you would soon find yourself off the path and deep into the heart of
+the forest, facing whatever horrors lurk there.  The leaves seem to hiss at
+you as they rustle in the chill wind, and as you move along the trail, you
+sense shadows in the trees stalking you.
+~
+96 9 0 0 0 3 255 0
+D0
+~
+~
+0 -1 9621
+D1
+~
+~
+0 -1 9624
+S
+#9624
+A Dark Path~
+You follow a trail of overwhelming darkness.  If not for the brush on either
+side, you would soon find yourself off the path and deep into the heart of
+the forest, facing whatever horrors lurk there.  The leaves seem to hiss at
+you as they rustle in the chill wind, and as you move along the trail, you
+sense shadows in the trees stalking you.
+~
+96 13 0 0 0 3 255 0
+D1
+You notice a door here, made to blend in with the surrounding forest.
+~
+door~
+1 -1 9625
+D3
+~
+~
+0 -1 9623
+S
+#9625
+The Forestmaster's Lodge~
+You find yourself in a gloomy lodge, built with and around the surrounding
+trees.  Looking around, you notice that little in the way of comfort is
+present here.
+~
+96 9 0 0 0 2 255 0
+D1
+~
+~
+0 -1 9626
+D3
+You see a large door made of dark wood.
+~
+door~
+1 -1 9624
+S
+#9626
+The Forestmaster's Lodge~
+You find yourself in a gloomy lodge, built with and around the surrounding
+trees.  Looking around, you notice that little in the way of comfort is
+present here.
+~
+96 9 0 0 0 2 255 0
+D1
+~
+~
+0 -1 9627
+D3
+~
+~
+0 -1 9625
+S
+#9627
+The Forestmaster's Lodge~
+You find yourself in a gloomy lodge, built with and around the surrounding
+trees.  Looking around, you notice that little in the way of comfort is
+present here.  A door is set in the wall to the east.
+~
+96 9 0 0 0 2 255 0
+D1
+~
+door~
+2 9600 9628
+D3
+~
+~
+0 -1 9626
+S
+#9628
+The Forestmaster's Room~
+This part of the structure looks much the same as the rest of the lodge,
+though it has been constructed separate from the main hall.  It is rather
+small and cramped, and the darkness merely makes you more uncomfortable.
+~
+96 9 0 0 0 2 255 0
+D3
+~
+door~
+2 9600 9627
+S
+#9629
+The Archer's Platform~
+The trunk of a large tree has been hollowed out here, opening to a wooden
+platform suspended across the branches.  Large, dark trees shroud the
+walkway, partially concealing it's view from the forest floor.
+~
+96 9 0 0 0 2 255 0
+D2
+~
+~
+0 -1 9630
+D5
+A ladder runs down the inside of a hollow tree.
+~
+~
+0 -1 9615
+S
+#9630
+The Archer's Platform~
+A thin wooden platform stretches between the trees, surprisingly stable
+for its size.  Looking over the side, you realize how easy it would be
+to spot anyone moving around in the cleaing below while remaining unseen
+behind the thick coat of ebony leaves.
+~
+96 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9629
+D2
+~
+~
+0 -1 9631
+S
+#9631
+The Archer's Platform~
+A thin wooden platform stretches between the trees, surprisingly stable
+for its size.  Looking over the side, you realize how easy it would be
+to spot anyone moving around in the cleaing below while remaining unseen
+behind the thick coat of ebony leaves.
+~
+96 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9630
+D2
+~
+~
+0 -1 9632
+S
+#9632
+The Archer's Platform~
+A thin wooden platform stretches between the trees, surprisingly stable
+for its size.  Looking over the side, you realize how easy it would be
+to spot anyone moving around in the cleaing below while remaining unseen
+behind the thick coat of ebony leaves.
+~
+96 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9631
+D1
+~
+~
+0 -1 9633
+S
+#9633
+The Archer's Platform~
+A thin wooden platform stretches between the trees, surprisingly stable
+for its size.  Looking over the side, you realize how easy it would be
+to spot anyone moving around in the cleaing below while remaining unseen
+behind the thick coat of ebony leaves.
+~
+96 9 0 0 0 2 255 0
+D2
+A large tree borders the platform, it looks rather odd.
+~
+trunk~
+2 9601 9634
+D3
+~
+~
+0 -1 9632
+S
+#9634
+The Archer's Hollow~
+A small space has been carved out of the trunk of an enourmous tree.
+Various tools lie about, and an assortment of fletchery equipment
+adorns the wall, though you notice no light source by which one would
+work.
+~
+96 9 0 0 0 0 255 0
+D0
+An entrance has been carved in the side of the tree.
+~
+trunk~
+2 9601 9633
+D4
+You see a small door in the platform above.
+~
+platform~
+2 9602 9635
+S
+#9635
+A Dark Loft~
+You are in a cramped room near the top of a large tree.  It appears
+to be devoid of any objects or light.
+~
+96 9 0 0 0 0 255 0
+D5
+A small platform acts as an entrance from the room below.
+~
+platform~
+2 9602 9634
+S
+#9636
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D2
+~
+~
+0 -1 9637
+D5
+A rope leads down from a hole in the platform.
+~
+~
+0 -1 9609
+S
+#9637
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9636
+D2
+~
+~
+0 -1 9638
+S
+#9638
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9637
+D2
+~
+~
+0 -1 9639
+S
+#9639
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 13 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9638
+D1
+~
+~
+0 -1 9640
+S
+#9640
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D1
+~
+~
+0 -1 9641
+D3
+~
+~
+0 -1 9639
+S
+#9641
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D1
+~
+~
+0 -1 9642
+D2
+You notice a door in the side of a tree, skillfilly built to blend in.
+~
+trunk~
+2 9603 9647
+D3
+~
+~
+0 -1 9640
+S
+#9642
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D1
+~
+~
+0 -1 9643
+D3
+~
+~
+0 -1 9641
+S
+#9643
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 13 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9644
+D3
+~
+~
+0 -1 9642
+S
+#9644
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9645
+D2
+~
+~
+0 -1 9643
+S
+#9645
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 9646
+D2
+~
+~
+0 -1 9644
+S
+#9646
+A Wooden Platform~
+Long wooden planks form a walkway high among the trees.  Leafy branches
+wrap themselves around the platform, acting as both a support and a
+blind.  Glancing through an opening in the thin layer of limbs, you
+get an unobstructed view of the forest floor.
+~
+96 9 0 0 0 2 255 0
+D2
+~
+~
+0 -1 9645
+D5
+A rope leads down from a hole in the platform.
+~
+~
+0 -1 9622
+S
+#9647
+Inside the Tree~
+You are inside a large space hollowed out of an enourmous tree.  A
+staircase has been carved out of the trunk, spiraling downward.
+~
+96 9 0 0 0 0 255 0
+D0
+You see a door carved out of the wood.
+~
+trunk~
+2 9603 9641
+D5
+A thin staircase spirals down.
+~
+~
+0 -1 9648
+S
+#9648
+The Spiral Stair~
+You are on a very narrow flight of stairs, carved out of the side of
+a tree.  There isn't very much room for you to move around.
+~
+96 269 0 0 0 3 255 0
+D4
+The stairs lead up to a hollow space in the tree.
+~
+~
+0 -1 9647
+D5
+The stairs lead down into darkness.
+~
+~
+0 -1 9649
+S
+#9649
+Midnight's Walk~
+The darkness here seems almost unnatural, as if the walls themselves
+absorb light.  Mist flows evenly across the floor, giving the impression
+of movement, though you stand completely still.
+~
+96 524329 0 0 0 0 255 0
+D2
+You see only darkness.
+~
+~
+0 -1 9650
+S
+#9650
+Midnight's Walk~
+The darkness here seems almost unnatural, as if the walls themselves
+absorb light.  Mist flows evenly across the floor, giving the impression
+of movement, though you stand completely still.
+~
+96 524329 0 0 0 0 255 0
+D0
+You see only darkness.
+~
+~
+0 -1 9649
+D2
+You see only darkness.
+~
+~
+0 -1 9651
+S
+#9651
+Midnight's Walk~
+The darkness here seems almost unnatural, as if the walls themselves
+absorb light.  Mist flows evenly across the floor, giving the impression
+of movement, though you stand completely still.
+~
+96 524329 0 0 0 0 255 0
+D0
+You see only darkness.
+~
+~
+0 -1 9650
+D2
+You see only darkness.
+~
+~
+0 -1 9652
+S
+#9652
+Midnight's Walk~
+The darkness here seems almost unnatural, as if the walls themselves
+absorb light.  Mist flows evenly across the floor, giving the impression
+of movement, though you stand completely still.
+~
+96 524329 0 0 0 0 255 0
+D0
+You see only darkness.
+~
+~
+0 -1 9651
+D2
+You don't see a thing.
+~
+darkness~
+2 9604 9653
+S
+#9653
+Midnight~
+An almost physical darkness envelopes you as you walk, causing you to
+catch your breath and slow your step.  It is too dark to even gauge the
+dimensions of the surrounding area, making you feel as though you are
+out in the open.  You feel very vulnerable.
+~
+96 41 0 0 0 0 255 0
+D0
+You see only darkness.
+~
+darkness~
+2 9604 9652
+S
+#9654
+Drekken Mob Distribution, Ltd.~
+You see a small factory creating undead creatures to populate Drekken Noir.
+From here, they wander out randomly into different portions of the zone.
+~
+96 0 0 0 0 0 255 0
+D0
+~
+~
+0 -1 9607
+D1
+~
+~
+0 -1 9610
+D2
+~
+~
+0 -1 9613
+D3
+~
+~
+0 -1 9618
+D4
+~
+~
+0 -1 9619
+D5
+~
+~
+0 -1 9621
+S
+$~

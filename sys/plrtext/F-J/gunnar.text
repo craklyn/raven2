@@ -1,0 +1,22 @@
+slow c 'slow' $*
+sp c 'soul pierce'
+sl c 'sense life' $*
+ma c 'male' $*
+fly c 'fly' $*
+sh c 'shield' $*
+di c 'detect invis' $*
+b c 'blindness' $*
+sum c 'summon' $*
+invis c 'invis' $*
+em c 'embalm' corpse
+charm c 'charm corpse' corpse
+wk wak;sta
+c look in corpse
+cw clanwho
+grec rec rec rec
+remb cast 'embalm' corpse; get corpse
+nox c 'nox' $*
+gg get all all.corpse
+bw c 'bone wall' $*
+repo c 'resist poison' $*
+if c 'infra' 

@@ -1,0 +1,8 @@
+3 destroy erzsebet
+2 wear all
+1 get all erzsebet
+sb cast 'shadow blades' $*
+ss cast 'shadow sphere'
+sv cast 'shadow vision' $*
+bs backstab $*
+blur cast 'blur'

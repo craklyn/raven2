@@ -1,0 +1,18 @@
+x c 'blind' koof
+summon c 'summon' $*
+stone c 'stone' $*
+id c 'identify' $*
+str c 'strength' $*
+blind c 'blind' $*
+shield c 'shield' $*
+mm c 'magic missile' $*
+gt gs &08$* &00
+say sa &08$* &00
+locate c 'locate' $*
+flame c 'flame blade' $*
+fly c 'fly' $*
+invis c 'detect invis'
+silence c 'silence' $*
+invisable c 'invis' $*
+gc get all cor
+drain c 'life' $*

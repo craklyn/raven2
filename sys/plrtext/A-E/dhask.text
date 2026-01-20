@@ -1,0 +1,40 @@
+foo s;open tree;s;close tree;n
+shield c 'shield'$*
+[ c 'summon' dhork
+bolts c 'd b';c 'd b';c 'd b';c 'd b';c 'd b'
+seek c 'ma mi' $1 n;c 'ma mi' $1 e;c 'ma mi' $1 s;c 'ma mi' $1 w
+summon c 'summon'$*
+mob order follower $*
+charm c 'char per'$*
+ld c 'life drain'$*
+fly c 'fly'$*
+fb c 'flame blade'$*
+blind c 'blind'$*
+gg get all.gold all.corpse;get all.stick all.corpse
+rise wake;sta
+wota c 'w o t a'
+mm c 'mag mis'$*
+rr rec recall scroll
+feeble cast 'feeble'$*
+mw order followers wake;order followers stand
+haste cast 'has'$*
+db c 'd b'$*
+dur rem amul;get feath pou;wear feath neck
+pp c 'portal' babau
+air c 'airsphere' $*
+gt gt &11$* &00
+mk order demon kill $*;order follower assist;assist
+go $1;order demon kill $2;order followers assist;assist
+shriek c 'shriek' $*
+died get all all.dhask;wear all;wield staff;hold shard
+nex c 'nexus'$*
+ti c 'gate
+shrieks c 'shriek';c 'shriek';c 'shriek';c 'shriek';c 'shriek'
+tidy put all looting;get all.rec looting
+ts c 'true sight'$*
+portal c 'portal'$*
+ident c 'ident'$*
+] assist;order follower assist
+bk order bodak kill $*;order follower assist;assist
+bot title :: poke, tickle, flare, tell sum, say portal, say pep talk :: &09Wanderer&00
+elprac c 'conj ele';calm;calm;ungr ele

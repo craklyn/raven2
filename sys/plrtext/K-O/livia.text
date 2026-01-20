@@ -1,0 +1,50 @@
+kkk give fish ink
+kk reelin
+rune c 'create warding'
+4 get all all.cor
+sc scan
+qq get cor bag;drop cor;c 'con corp' corp
+bw c 'bo wa' $*
+3 get corp hole;drop corp;c 'ch cor' corp;gr all
+z ord foll kil $*;assist
+in c 'infra'
+ent c 'ent corp' $*
+wraith c 'wraith'
+deb c 'debil' $*
+cons c 'consu corp' corp
+sl c 'sens lif' $*
+di c 'det inv' $*
+fly c 'fly' $*
+bl c 'bli' $*
+sh c 'shie' $*
+sum c 'summ' $*
+infra c 'infra'
+sp c 'sou pier' $*
+ld c 'lif drai' $*
+nox c 'nox sk' $*
+exp c 'expl corp' $*
+bone c 'bon wal' $*
+dis c 'dise' $*
+cs c 'sum corp' $*
+ed c 'ene dra' $*
+2 get corp;put corp hole
+1 get all all.cor;c 'emb' corp
+clanhall d;n;n;n;n;n;n;n;n;n;w;w;od;e;e;sleep
+- rec rec rec
+invis cast 'invis' $*
+wake wake;stand
+r ord fol rescue $*
+corp get corp;put corp hole
+slow cast 'slow' $*
+sil cast 'silence' $*
+o ord fol $*
+g gr
+pp who
+ch c 'cha cor' $*; gr all
+q get all cor;c 'emb' cor;get cor;put cor bag
+` get all cor;c 'con cor' cor
+ts c 'se li'
+0 rec elv
+a calm
+f c 'sou pie' $*
+k c 'soul pie' emri

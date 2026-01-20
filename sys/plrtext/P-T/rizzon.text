@@ -1,0 +1,39 @@
+id stat $*
+life c 'life' $*
+gt gt &08$* &00
+air c 'airsphere' $*
+str c 'strength' $*
+iden c 'identify' $*
+slow cast 'slow'$*
+beer emot throws back a &0940&00 of &14S&00teely and &07*&00&03FLEX&00&07*&00
+tac take all all.cor
+dc des cor
+ss cast 'stoneskin'$*
+si cast 'silence'$*
+bl cast 'blindness'$*
+summon cast 'summon'$*
+fly cast 'fly'$*
+infra cast 'infravision'
+fb cast 'flame blade'$*
+ld cast 'life drain'$*
+coven 2wsd22w2nwnw2n
+ts cast 'true sight'$*
+treasure 8S3E2SD27WN12WS
+ha cast 'haste'$*
+elem order elem assist
+bubling 2wsu2wsw
+portal cast 'portal'$*
+locate c 'locate object' $*
+di c 'detect invis' $*
+shield c 'shield' $*
+stone c 'stoneskin' $*
+haste c 'haste' $*
+clan clan &08Mu&07$* &08Mu&00
+blind c 'blind' $*
+conj c 'conjure elemental'
+of order followers $*
+wake wake;stand
+flame c 'flame' $*
+gate c 'gate'
+blink c 'blink'
+dri drink flag

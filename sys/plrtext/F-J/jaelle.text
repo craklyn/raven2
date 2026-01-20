@@ -1,0 +1,48 @@
+c cast 'revive' madsen
+a cast 'revive' $*
+re cast 'revive' $*
+cp cast 'cure plague' $*
+rc cast 'remove curse' $*
+da cast 'detect align' $*
+rp cast 'remove paralysis' $*
+gfly cast 'fly' group
+gsan cast 'sanc' group
+eqfightkit say black iron armor, 2x universal balances, 2x white bracers
+gh cast 'heal' group
+spellup say di, infra, sl, fly, regen, sag, arm, ward, ble, bud, san
+sum cast 'summon' $*
+sl cast 'sense life' $*
+di cast 'detect invis' $*
+ble cast 'bless' $*
+arm cast 'armor' $*
+x exit
+word cast 'word' $*
+sag cast 'sagacity' $*
+spiders say from up, 3neusewnwswd
+bud cast 'assistant'
+fort cast 'fortify' $*
+say say &14$* &00
+bli cast 'blind' $*
+af score
+infra cast 'infra'
+gt gt &10**&13$* &10** &00
+wak wake;stand
+ward cast 'ward' $*
+fly cast 'fly' $*
+regen cast 'regen' $*
+san cast 'sanct' $*
+6 cast 'earthquake'
+ct clan &14$* &00
+lc l in corpse
+loo get all corpse
+cb cast 'cure blind' $*
+cle cast 'cleanse' $*
+killarea say pax-norriann
+grec cast 'word' group
+relo cast 'relocate' $*
+h cast 'revive' jaelle
+lark 14w2s2e
+larkpeaceroom 1e from sw corner
+rm cast 'revive' menace
+aa assist mi
+cc cast 'summon' emrick

@@ -1,0 +1,18 @@
+p rec recall
+tit title &00&07is a &00&08D&00&07ork and a &00&08L&00&07oser&00
+str c 'strength' $*
+' say &06-&00&07=&00&14$*&00 &07=&00&06-&00
+gt gt &06-&00&07=&00&14$*&00 &07=&00&06-&00
+bark cast 'bark' $*
+waterer c 'create water' $*
+cor get all cor
+` flee
+water c 'create water' pris
+sense c 'sense life' $*
+shield c 'shield' $*
+z rec rec rec
+clan clan &00&06-&00&07=&00&14$* &00&07=&00&06-&00
+ref c 'refresh' $*
+ring look in ring
+gshi c 'shield' group
+gbark c 'barkskin' group

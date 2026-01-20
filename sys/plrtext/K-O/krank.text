@@ -1,0 +1,50 @@
+1 assist
+vial c 'fountain
+[ get gold all.corp
+] get gold all.corp
+air c 'air' $*
+haste remove bow;wear fea;c 'haste' $*;rem feath;wear bow
+str c 'strength' $*
+' get gold all.corp
+blind c 'blind' $*
+life c 'life drai' $*
+awa c 'awak' $*
+charm c 'charm' $*
+of order follower $*
+ice c 'ice
+sand c 'sand storm' $*
+feeb c 'feeblemind' $*
+wrath c 'wrath of the ancients
+blink c 'blink
+gate c 'gate
+nex c 'nexus' $*
+fly c 'fly' $*
+sum c 'summon' $*
+awaken c 'awaken' $*
+infra c 'infra' $*
+mm c 'magic missile' $*
+invis c 'invis' $*
+ld c 'life drain' $*
+mon c 'monster summon' 
+fb c 'flame blade' $*
+cp c 'charm person' $*
+cs c 'color spray' $*
+ts c 'true sight' $*
+loc c 'locate' $*
+port c 'portal' $*
+wa wake;;stand
+rc c 'remove curse' $*
+doom c 'doom' $*
+ch n;n;n;n;n;n;n;n;n;w;w;od
+id c 'identify' $*
+shield c 'shield' $*
+gte gtell &11$*&00
+loot get all all.krank;wie sta;wear tar;wear tar;wear all;get all all.krank;dest krank;hold brand
+flame c 'flame bla' $*
+locate c 'locate' $*
+assist assis;poke cad
+ass assis;poke cad
+0 auc -info
+3 slap slack
+/ get all all.corp
+title titl &01<&08^&10>&10Order of Darkness&10<&08^&00&01>&00

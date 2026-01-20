@@ -1,0 +1,2282 @@
+#10600
+The Northern Mountain Range~
+The grassland and northern mountain range (106-108) were created as a 
+filler area in order to allow the linking of various other areas that fit 
+in a mountain setting.  All parts of the area are original and can be
+modified to fit the needs of the beginnings of another area.
+
+Maelstrom
+~
+106 0 0 0 0 0 255 0
+S
+#10601
+A Grassy Road~
+This wide grassy road leads to the northern territories of the realm.
+To the east and west you see grasslands and off to the north you see
+a line of soaring peaks reaching to the heavens. To the south lies a 
+great city called Samsera. 
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10604
+D1
+~
+~
+0 0 3529
+D2
+~
+~
+0 -1 18099
+D3
+~
+~
+0 0 40061
+S
+#10602
+A Grassy Road~
+This wide level road winds gently through the countryside.  The road 
+continues to the north and far to the south you can see the fields of 
+Samsera. 
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10603
+D2
+~
+~
+0 -1 10601
+S
+#10603
+A Grassy Road~
+This ever flattening road slowly dissapears to the north where there 
+appears to be a huge natural grassland.  The road continues to the south,
+however, where the city of Samsera is reported to lie.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10604
+D2
+~
+~
+0 -1 10602
+S
+#10604
+Grassland~
+The road disappears altogether and you find yourself at the southern edge
+of a huge grassland.  Grass grows as far as you can see in any direction
+except south, where you can make out the beginnings of a grassy road.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10626
+D1
+~
+~
+0 -1 10605
+D2
+~
+~
+0 -1 10601
+D3
+~
+~
+0 -1 10618
+S
+#10605
+Grassland~
+Grass as far as you can see.  Tall grass, short grass, thick grass, thin
+grass.  You had no idea grass was this diverse.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10627
+D1
+~
+~
+0 -1 10606
+D2
+~
+~
+0 0 3529
+D3
+~
+~
+0 -1 10604
+S
+#10606
+Grassland~
+Grass as far as you can see.  Tall grass, short grass, thick grass, thin
+grass.  You had no idea grass was this diverse.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10628
+D1
+~
+~
+0 -1 10607
+D2
+~
+~
+0 0 3528
+D3
+~
+~
+0 -1 10605
+S
+#10607
+Grassland~
+Grass as far as you can see.  Tall grass, short grass, thick grass, thin
+grass.  You had no idea grass was this diverse.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10629
+D1
+~
+~
+0 -1 10608
+D2
+~
+~
+0 0 3527
+D3
+~
+~
+0 -1 10606
+S
+#10608
+Grasslands~
+Grass as far as you can see.  Tall grass, short grass, thick grass, thin
+grass.  You had no idea grass was this diverse.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10629
+D1
+~
+~
+0 -1 10609
+D2
+~
+~
+0 0 3526
+D3
+~
+~
+0 -1 10606
+S
+#10609
+Grassland~
+Grass as far as you can see.  Tall grass, short grass, thick grass, thin
+grass.  You had no idea grass was this diverse.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10631
+D1
+~
+~
+0 -1 10610
+D2
+~
+~
+0 0 3525
+S
+#10610
+Grassland~
+Although still surrounded by grass, it grows sparse to the east.  The city
+of midgaard is reported to lie to the southwest and you can see mountains
+to the north.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10632
+D1
+~
+~
+0 -1 10611
+D3
+~
+~
+0 -1 10609
+S
+#10611
+The Eastern Grasslands~
+   The mountains look above you to the north and a world of grass awaits to the
+west.  To the east is a wild pig trail that leads to a clearing, sparsely
+populated with trees.    
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 0 10633
+D1
+~
+~
+0 0 8843
+D3
+~
+~
+0 -1 10610
+S
+#10612
+Tall Grass~
+Lava beds prevent further travel to the west.  You can still hear snorting
+and the rooting around of some fierce animal.  No telling what this tall
+grass is hiding.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10619
+D1
+~
+~
+0 -1 10613
+S
+#10613
+Tall Grass~
+Shoulder high grass surrounds you on all sides.  It wouldn't be so bad if
+you didn't keep hearing something rooting arround beneath the grass.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10620
+D1
+~
+~
+0 -1 10614
+D2
+~
+~
+0 0 2430
+D3
+~
+~
+0 -1 10612
+S
+#10614
+Tall Grass~
+You suddenly find yourself surrounded by shoulder high grass.  What gets
+your immediate attention, however, is a rustling sound that emanates
+below your line of vision.  To the east, the grass subsides somewhat.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10621
+D1
+~
+~
+0 -1 10615
+D2
+~
+~
+0 0 3536
+D3
+~
+~
+0 -1 10613
+S
+#10615
+Grassland~
+Treading on wild grass of all types, a patch of tall grass draws your
+attention to the west.  A mountain range looms to the north.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10622
+D1
+~
+~
+0 -1 10616
+D2
+~
+~
+0 0 40058
+D3
+~
+~
+0 -1 10614
+S
+#10616
+Grassland~
+You've never seen so much natural grass.  It is a serene sight, but no 
+telling what dangers might lurk within.  Mountains rise far to the north
+and the city lies somewhere to the southeast.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10623
+D1
+~
+~
+0 -1 10617
+D2
+~
+~
+0 0 40059
+D3
+~
+~
+0 -1 10615
+S
+#10617
+Grassland~
+You've never seen so much natural grass.  It is a serene sight, but no 
+telling what dangers might lurk within.  Mountains rise far to the north
+and the city lies somewhere to the southeast.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10624
+D1
+~
+~
+0 -1 10618
+D2
+~
+~
+0 0 40060
+D3
+~
+~
+0 -1 10616
+S
+#10618
+Grassland~
+You've never seen so much natural grass.  It is a serene sight, but no 
+telling what dangers might lurk within.  Mountains rise far to the north
+and the city lies somewhere to the southeast.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10625
+D1
+~
+~
+0 -1 10604
+D2
+~
+~
+0 0 40061
+D3
+~
+~
+0 -1 10617
+S
+#10619
+Tall Grass~
+Lava beds prevent further travel to the west.  You can still hear snorting
+and the rooting around of some fierce animal.  No telling what this tall
+grass is hiding.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10648
+D1
+~
+~
+0 -1 10620
+D2
+~
+~
+0 -1 10612
+S
+#10620
+Tall Grass~
+Shoulder high grass surrounds you on all sides.  It wouldn't be so bad if
+you didn't keep hearing something rooting arround beneath the grass.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10647
+D1
+~
+~
+0 -1 10621
+D2
+~
+~
+0 -1 10613
+D3
+~
+~
+0 -1 10619
+S
+#10621
+Tall Grass~
+You suddenly find yourself surrounded by shoulder high grass.  What gets
+your immediate attention, however, is a rustling sound that emanates
+below your line of vision.  To the east, the grass subsides somewhat.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10646
+D1
+~
+~
+0 -1 10622
+D2
+~
+~
+0 -1 10614
+D3
+~
+~
+0 -1 10620
+S
+#10622
+Grassland~
+Treading on wild grass of all types, a patch of tall grass draws your
+attention to the west.  A mountain range looms to the north.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10645
+D1
+~
+~
+0 -1 10623
+D2
+~
+~
+0 -1 10615
+D3
+~
+~
+0 -1 10621
+S
+#10623
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10644
+D1
+~
+~
+0 -1 10624
+D2
+~
+~
+0 -1 10616
+D3
+~
+~
+0 -1 10622
+S
+#10624
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10643
+D1
+~
+~
+0 -1 10625
+D2
+~
+~
+0 -1 10617
+D3
+~
+~
+0 -1 10623
+S
+#10625
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10642
+D1
+~
+~
+0 -1 10626
+D2
+~
+~
+0 -1 10618
+D3
+~
+~
+0 -1 10624
+S
+#10626
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10641
+D1
+~
+~
+0 -1 10627
+D2
+~
+~
+0 -1 10604
+D3
+~
+~
+0 -1 10625
+S
+#10627
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10640
+D1
+~
+~
+0 -1 10628
+D2
+~
+~
+0 -1 10605
+D3
+~
+~
+0 -1 10626
+S
+#10628
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10639
+D1
+~
+~
+0 -1 10629
+D2
+~
+~
+0 -1 10606
+D3
+~
+~
+0 -1 23397
+S
+#10629
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10638
+D1
+~
+~
+0 -1 10630
+D2
+~
+~
+0 -1 10607
+D3
+~
+~
+0 -1 10628
+S
+#10630
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10637
+D1
+~
+~
+0 -1 10631
+D2
+~
+~
+0 -1 10608
+D3
+~
+~
+0 -1 10629
+S
+#10631
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10636
+D1
+~
+~
+0 -1 10632
+D2
+~
+~
+0 -1 10609
+D3
+~
+~
+0 -1 10630
+S
+#10632
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10635
+D1
+~
+~
+0 -1 10633
+D2
+~
+~
+0 -1 10610
+D3
+~
+~
+0 -1 10631
+S
+#10633
+Eastern edge of the Grassland~
+A huge fisure prevents further travel to the east.  The mountains loom 
+above you to the north and a world of grass awaits to the west.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10634
+D2
+~
+~
+0 -1 10611
+D3
+~
+~
+0 -1 10632
+S
+#10634
+Eastern edge of the Grassland~
+A huge fisure prevents further travel to the east.  The mountains loom 
+above you to the north and a world of grass awaits to the west.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10662
+D2
+~
+~
+0 -1 10633
+D3
+~
+~
+0 -1 10635
+S
+#10635
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10661
+D1
+~
+~
+0 -1 10634
+D2
+~
+~
+0 -1 10632
+D3
+~
+~
+0 -1 10636
+S
+#10636
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north while some trees offer shade directly north.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10660
+D1
+~
+~
+0 -1 10635
+D2
+~
+~
+0 -1 10631
+D3
+~
+~
+0 -1 10637
+S
+#10637
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north while some trees offer shade directly north.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10659
+D1
+~
+~
+0 -1 10636
+D2
+~
+~
+0 -1 10630
+D3
+~
+~
+0 -1 10638
+S
+#10638
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10658
+D1
+~
+~
+0 -1 10637
+D2
+~
+~
+0 -1 10629
+D3
+~
+~
+0 -1 10639
+S
+#10639
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10657
+D1
+~
+~
+0 -1 10638
+D2
+~
+~
+0 -1 10628
+D3
+~
+~
+0 -1 10640
+S
+#10640
+A Muddy Bankside~
+Although hard to see from afar, you now notice a large watering hole to
+the north.  It looks like a nice place for a bath, but you never know who
+you might be sharing the water with.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10700
+D1
+~
+~
+0 -1 10639
+D2
+~
+~
+0 -1 6027
+D3
+~
+~
+0 -1 10641
+S
+#10641
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10656
+D1
+~
+~
+0 -1 10640
+D2
+~
+~
+0 -1 10626
+D3
+~
+~
+0 -1 10642
+S
+#10642
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10655
+D1
+~
+~
+0 -1 10641
+D2
+~
+~
+0 -1 10625
+D3
+~
+~
+0 -1 10643
+S
+#10643
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10654
+D1
+~
+~
+0 -1 10642
+D2
+~
+~
+0 -1 10624
+D3
+~
+~
+0 -1 10644
+S
+#10644
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10653
+D1
+~
+~
+0 -1 10643
+D2
+~
+~
+0 -1 10623
+D3
+~
+~
+0 -1 10645
+S
+#10645
+Grassland~
+Treading on wild grass of all types, a patch of tall grass draws your
+attention to the west.  A mountain range looms to the north.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10652
+D1
+~
+~
+0 -1 10644
+D2
+~
+~
+0 -1 10622
+D3
+~
+~
+0 -1 10646
+S
+#10646
+Tall Grass~
+You suddenly find yourself surrounded by shoulder high grass.  What gets
+your immediate attention, however, is a rustling sound that emanates
+below your line of vision.  To the north and east, the grass subsides.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10651
+D1
+~
+~
+0 -1 10645
+D2
+~
+~
+0 -1 10621
+D3
+~
+~
+0 -1 10647
+S
+#10647
+Tall Grass~
+Shoulder high grass surrounds you on all sides.  It wouldn't be so bad if
+you didn't keep hearing something rooting arround beneath the grass.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10650
+D1
+~
+~
+0 -1 10646
+D2
+~
+~
+0 -1 10620
+D3
+~
+~
+0 -1 10648
+S
+#10648
+Tall Grass~
+Lava beds prevent further travel to the west.  You can still hear snorting
+and the rooting around of some fierce animal.  No telling what this tall
+grass is hiding.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10649
+D1
+~
+~
+0 -1 10647
+D2
+~
+~
+0 -1 10619
+S
+#10649
+Tall Grass~
+Lava beds prevent further travel to the west.  You can still hear snorting
+and the rooting around of some fierce animal.  No telling what this tall
+grass is hiding.  To the north, the grass subsides.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10674
+D1
+~
+~
+0 -1 10650
+D2
+~
+~
+0 -1 10648
+S
+#10650
+Tall Grass~
+You suddenly find yourself surrounded by shoulder high grass.  What gets
+your immediate attention, however, is a rustling sound that emanates
+below your line of vision.  To the north and east, the grass subsides.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10673
+D1
+~
+~
+0 -1 10651
+D2
+~
+~
+0 -1 10647
+D3
+~
+~
+0 -1 10649
+S
+#10651
+Grassland~
+Treading on wild grass of all types, a patch of tall grass draws your
+attention to the west.  A mountain range looms to the north.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10672
+D1
+~
+~
+0 -1 10652
+D2
+~
+~
+0 -1 10646
+D3
+~
+~
+0 -1 10650
+S
+#10652
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10671
+D1
+~
+~
+0 -1 10653
+D2
+~
+~
+0 -1 10645
+D3
+~
+~
+0 -1 10651
+S
+#10653
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10670
+D1
+~
+~
+0 -1 10654
+D2
+~
+~
+0 -1 10644
+D3
+~
+~
+0 -1 10652
+S
+#10654
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10669
+D1
+~
+~
+0 -1 10655
+D2
+~
+~
+0 -1 10643
+D3
+~
+~
+0 -1 10653
+S
+#10655
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10668
+D1
+~
+~
+0 -1 10656
+D2
+~
+~
+0 -1 10642
+D3
+~
+~
+0 -1 10654
+S
+#10656
+A Muddy Bankside~
+This western bank of the watering hole is littered with the signs of the
+wildlife in the grassland.  You see hoof tracks and what you think looks 
+like big cat prints. 
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10667
+D1
+~
+~
+0 -1 10700
+D2
+~
+~
+0 -1 10641
+D3
+~
+~
+0 -1 10655
+S
+#10657
+A Muddy Bankside~
+This eastern bank of the watering hole is littered with the signs of the
+wildlife in the grassland.  You see hoof tracks and what you think looks 
+like big cat prints. 
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10702
+D1
+~
+~
+0 -1 10658
+D2
+~
+~
+0 -1 10639
+D3
+~
+~
+0 -1 10700
+S
+#10658
+The Picnic Table~
+Resting between shady trees to the east and an almost non-moving stream
+to the north, this spot looks perfect for a picnic.  That may explain why
+someone has placed a picnic table here.  Just be careful not to wind up
+on the menu.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10703
+D1
+~
+~
+0 -1 10659
+D2
+~
+~
+0 -1 10638
+D3
+~
+~
+0 -1 10657
+S
+#10659
+A Patch of Shady Trees~
+Large full shade trees lie nestled together in one of the only spots not
+dominated by grass.  This looks like a good place to take a break from the
+heat.  Judging by the paw prints, a large group of lions think so as well.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10666
+D1
+~
+~
+0 -1 10660
+D2
+~
+~
+0 -1 10637
+D3
+~
+~
+0 -1 10658
+S
+#10660
+A Patch of Shady Trees~
+Large full shade trees lie nestled together in one of the only spots not
+dominated by grass.  This looks like a good place to take a break from the
+heat.  Judging by the paw prints, a large group of lions think so as well.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10665
+D1
+~
+~
+0 -1 10661
+D2
+~
+~
+0 -1 10636
+D3
+~
+~
+0 -1 10659
+S
+#10661
+Grassland~
+You notice large paw prints in the short grass here.  It looks as though
+they lead off to a patch of shady trees to the north and west.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10664
+D1
+~
+~
+0 -1 10662
+D2
+~
+~
+0 -1 10635
+D3
+~
+~
+0 -1 10660
+S
+#10662
+Eastern edge of the Grassland~
+A huge fissure prevents further travel to the east.  The mountains loom 
+above you to the north and a world of grass awaits to the west.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10663
+D2
+~
+~
+0 -1 10634
+D3
+~
+~
+0 -1 10661
+S
+#10663
+Eastern edge of the Grassland~
+A huge fisure prevents further travel to the east.  The mountains loom 
+above you to the north and a some shady trees look inviting to the west.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10688
+D2
+~
+~
+0 -1 10662
+D3
+~
+~
+0 -1 10664
+S
+#10664
+A Patch of Shady Trees~
+Large full shade trees lie nestled together in one of the only spots not
+dominated by grass.  This looks like a good place to take a break from the
+heat.  Judging by the paw prints, a large group of lions think so as well.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10687
+D1
+~
+~
+0 -1 10663
+D2
+~
+~
+0 -1 10661
+D3
+~
+~
+0 -1 10665
+S
+#10665
+A Patch of Shady Trees~
+Large full shade trees lie nestled together in one of the only spots not
+dominated by grass.  This looks like a good place to take a break from the
+heat.  Judging by the paw prints, a large group of lions think so as well.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10686
+D1
+~
+~
+0 -1 10664
+D2
+~
+~
+0 -1 10660
+D3
+~
+~
+0 -1 10666
+S
+#10666
+A Patch of Shady Trees~
+Large full shade trees lie nestled together in one of the only spots not
+dominated by grass.  This looks like a good place to take a break from the
+heat.  Judging by the paw prints, a large group of lions think so as well.
+A pleasant stream moves by slowly to the west.
+~
+106 4 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10685
+D1
+~
+~
+0 -1 10665
+D2
+~
+~
+0 -1 10659
+D3
+~
+~
+0 -1 10703
+S
+#10667
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.  A slow moving stream drifts by close to the east.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10682
+D1
+~
+~
+0 -1 10701
+D2
+~
+~
+0 -1 10656
+D3
+~
+~
+0 -1 10668
+S
+#10668
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10681
+D1
+~
+~
+0 -1 10667
+D2
+~
+~
+0 -1 10655
+D3
+~
+~
+0 -1 10669
+S
+#10669
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10680
+D1
+~
+~
+0 -1 10668
+D2
+~
+~
+0 -1 10654
+D3
+~
+~
+0 -1 10670
+S
+#10670
+Grassland~
+Surrounded by a beautiful flat grassland, you realize that danger might
+still lurk somewhere in this serene environment.  A range of mountains
+lies to the far north and somewhere to the south rests the city.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10679
+D1
+~
+~
+0 -1 10669
+D2
+~
+~
+0 -1 10653
+D3
+~
+~
+0 -1 10671
+S
+#10671
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.
+~
+106 4 0 0 0 2 255 0
+D1
+~
+~
+0 -1 10670
+D2
+~
+~
+0 -1 10652
+D3
+~
+~
+0 -1 10672
+S
+#10672
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10677
+D1
+~
+~
+0 -1 10671
+D2
+~
+~
+0 -1 10651
+D3
+~
+~
+0 -1 10673
+S
+#10673
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10676
+D1
+~
+~
+0 -1 10672
+D2
+~
+~
+0 -1 10650
+D3
+~
+~
+0 -1 10674
+S
+#10674
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.  Lava beds prevent further travel to the west.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10675
+D1
+~
+~
+0 -1 10673
+D2
+~
+~
+0 -1 10649
+S
+#10675
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.  Lava beds lie to the west.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10733
+D1
+~
+~
+0 -1 10676
+D2
+~
+~
+0 -1 10674
+S
+#10676
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10732
+D1
+~
+~
+0 -1 10677
+D2
+~
+~
+0 -1 10673
+D3
+~
+~
+0 -1 10675
+S
+#10677
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10699
+D2
+~
+~
+0 -1 10672
+D3
+~
+~
+0 -1 10676
+S
+#10678
+A Giant Anthill~
+Rising up out of the hillside, this has got to be the biggest anthill you
+have ever seen.  The giant ants moving in and out explain it's size,
+however, and you wonder what might be inside.
+~
+106 4 0 0 0 4 255 0
+D1
+~
+~
+0 -1 17268
+D4
+~
+~
+0 -1 10992
+S
+#10679
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10697
+D1
+~
+~
+0 -1 10680
+D2
+~
+~
+0 -1 10670
+S
+#10680
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10696
+D1
+~
+~
+0 -1 10681
+D2
+~
+~
+0 -1 10669
+D3
+~
+~
+0 -1 10679
+S
+#10681
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10695
+D1
+~
+~
+0 -1 10682
+D2
+~
+~
+0 -1 10668
+D3
+~
+~
+0 -1 10680
+S
+#10682
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10694
+D1
+~
+~
+0 -1 10683
+D2
+~
+~
+0 -1 10667
+D3
+~
+~
+0 -1 10681
+S
+#10683
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.  A stream is directly south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10693
+D1
+~
+~
+0 -1 10684
+D2
+~
+~
+0 -1 10701
+D3
+~
+~
+0 -1 10682
+S
+#10684
+A Small Overhang~
+You are on a small hill overhanging the stream on two sides to the east 
+and to the south.  If you had a fishing pole, you might see what kind of
+fish live in the stream.  The hills continue to the north and west.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10692
+D1
+~
+~
+0 -1 10704
+D2
+~
+~
+0 -1 10702
+D3
+~
+~
+0 -1 10683
+S
+#10685
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.  A lazy stream sips past to the north and west.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10706
+D1
+~
+~
+0 -1 10686
+D2
+~
+~
+0 -1 10666
+D3
+~
+~
+0 -1 10704
+S
+#10686
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10691
+D1
+~
+~
+0 -1 10687
+D2
+~
+~
+0 -1 10665
+D3
+~
+~
+0 -1 10685
+S
+#10687
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10690
+D1
+~
+~
+0 -1 10688
+D2
+~
+~
+0 -1 10664
+D3
+~
+~
+0 -1 10686
+S
+#10688
+Short Grass~
+The grass grows much shorter here than in the grassland.  You also notice
+smooth inclines and declines which increase as you move to the hills of 
+the north and fall completely away as you move back to the grassland to 
+the south.  A huge fisure prevents further movement to the east.
+~
+106 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10689
+D2
+~
+~
+0 -1 10663
+D3
+~
+~
+0 -1 10687
+S
+#10689
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south and west.  A large fisure
+prevents further travel to the east.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10746
+D2
+~
+~
+0 -1 10688
+D3
+~
+~
+0 -1 10690
+S
+#10690
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10745
+D1
+~
+~
+0 -1 10689
+D2
+~
+~
+0 -1 10687
+D3
+~
+~
+0 -1 10691
+S
+#10691
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while a sharp drop to a river prevents movement to the 
+immediate north.  A large area of grassland lies around you to the south.
+~
+106 0 0 0 0 4 255 0
+D1
+~
+~
+0 -1 10690
+D2
+~
+~
+0 -1 10686
+S
+#10692
+Hills~
+The ground here is primarily made up of hard dirt packed together and 
+forming medium sized rounded hills.  The terrain becomes sharper and 
+rockier to the north while smoothing out to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10743
+D2
+~
+~
+0 -1 10684
+D3
+~
+~
+0 -1 10693
+S
+#10693
+Hills~
+The ground here is primarily made up of hard dirt packed together and 
+forming medium sized rounded hills.  The terrain becomes sharper and 
+rockier to the north while smoothing out to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10742
+D1
+~
+~
+0 -1 10692
+D2
+~
+~
+0 -1 10683
+D3
+~
+~
+0 -1 10694
+S
+#10694
+Hills~
+The ground here is primarily made up of hard dirt packed together and 
+forming medium sized rounded hills.  The terrain becomes sharper and 
+rockier to the north while smoothing out to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10741
+D1
+~
+~
+0 -1 10693
+D2
+~
+~
+0 -1 10682
+D3
+~
+~
+0 -1 10695
+S
+#10695
+Hills~
+The ground here is primarily made up of hard dirt packed together and 
+forming medium sized rounded hills.  The terrain becomes sharper and 
+rockier to the north while smoothing out to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10740
+D1
+~
+~
+0 -1 10694
+D2
+~
+~
+0 -1 10681
+D3
+~
+~
+0 -1 10696
+S
+#10696
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10739
+D1
+~
+~
+0 -1 10695
+D2
+~
+~
+0 -1 10680
+D3
+~
+~
+0 -1 10697
+S
+#10697
+Rolling Hills~
+Gentle slopes that occasionally obscure your view dominate this landscape.
+The grass has given way to dirt in most places.  Mountains rise up sharply
+to the far north while more rounded hills spring up directly north.  A large
+area of grassland lies around you to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10738
+D1
+~
+~
+0 -1 10696
+D2
+~
+~
+0 -1 10679
+D3
+~
+~
+0 -1 10698
+S
+#10698
+Hills~
+The ground here is primarily made up of hard dirt packed together and 
+forming medium sized rounded hills.  The terrain becomes sharper and 
+rockier to the north while smoothing out to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10737
+D1
+~
+~
+0 -1 10697
+D3
+~
+~
+0 -1 10699
+S
+#10699
+Hills~
+The ground here is primarily made up of hard dirt packed together and 
+forming medium sized rounded hills.  The terrain becomes sharper and 
+rockier to the north while smoothing out to the south.
+~
+106 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 10736
+D1
+~
+~
+0 -1 10698
+D2
+~
+~
+0 -1 10677
+D3
+~
+~
+0 -1 10732
+S
+$~

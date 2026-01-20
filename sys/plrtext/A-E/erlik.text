@@ -1,0 +1,39 @@
+[ gt sum erl
+arm rem broom;hold oak;use oak $*;rem oak;hold broom
+emb c 'emb' $*
+slow c 'slow' $*
+sil c 'silence' $*
+x c 'life drain' $*
+wall c 'bone' $*
+ent c 'entomb corp' $*
+z scan
+cs c 'summon corpse' $*
+cha c 'charm corpse' $*
+o order follower $*
+m drop corp;c 'charm corp' corp
+cons c 'consume corp' $*
+life c 'sense life
+b calm
+sum c 'summon' $*
+bl c 'blind' $*
+infra c 'infra
+clan cla &01$* &00
+fly c 'fly' $*
+di c 'detect invis' $*
+rp c 'resist pois' $*
+invis c 'invis' $*
+shie c 'shield' $*
+v c 'soul pie' $*
+wa wake;stand
+nox c 'nox' $*
+deb c 'deb' $*
+r order follower rescue $*
+i c 'create ward
+wrai c 'wraith
+id tog color off;use wand $*;tog color on
+stat tog color off;stat $*;tog color on
+a c 'soul' grim
+q get all all.erlik;wear all.slime;wear amu cloak;wear all;get all all.erlik;wie staff;hold shard;wear all
+g say rev erl 
+f gt sd
+p enter well;area

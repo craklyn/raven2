@@ -1,0 +1,50 @@
+i charge demon north
+o toss revive
+8 rem hell;;wield lerna
+ii charge champ e
+rc cast 'remove curse' $1
+b c 'banish' $1
+rest dismount;;rest
+p cast 'prayer of life' self
+ban c 'banish' $1
+ret retarget $1
+mou mount steed
+rp cast 'remove para' $1
+cp cast 'remove pois' $1
+crus cast 'crusade' self
+div cast 'divine mission' self
+re retreat east
+plague cast 'cure plague' $*
+align cast 'detect align'
+cure cast 'cure critic' $*
+armor cast 'armor' $*
+curse cast 'remove curse' $*
+regen cast 'regen' $*
+life cast 'prayer of life' $*
+vision cast 'righteous vision'
+divine cast 'divine mission'
+blind cast 'cure blind' $*
+poison cast 'remove poison' $*
+holy cast 'holy armor'
+word cast 'holy word'
+pfe cast 'protection from evil'
+clan clan &08$* &00
+di c 'detect invisibility' $*
+cb c 'cure blind' $*
+para c 'remove paralysis' $*
+food c 'create food'
+water c 'create water' $*
+gt gt &08$* &00
+sle dism;;sleep
+rw retreat west
+rn retreat north
+rs retreat south
+ru retreat up
+rd retreat down
+tag retarget $1
+dis dismount
+call cast 'call steed';;mount steed
+wa wake;;stand;;mount steed
+crit cast 'cure critic' $1
+td turn $1
+r rescue $1

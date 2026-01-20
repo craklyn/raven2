@@ -1,0 +1,605 @@
+#55000
+Isles of the Dead - Credits~
+   Connecting zone from 196 (The Ancient City).  The Ancient City has a large
+ocean with many islands to the south of it.  This is that zone.
+~
+550 9437268 0 0 0 0 0 0
+S
+#55001
+The Dead Sea&00~
+   The Dead Sea stretches out in all directions, save north.  North is a sheer
+vertical cliff that pierces the clouds above.  The Ancient City lies just above
+that.  There is, however, a rocky beach that will allow travel to the east at
+the base of the cliffs.
+~
+550 4 0 0 0 0 0 0
+D0
+~
+~
+0 0 55002
+D1
+~
+~
+0 0 55001
+D2
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55001
+S
+#55002
+The rocky shoreline~
+   The beach that is at the bottom of the cliffs barely affords enough room for
+a large being to traverse east and west without slipping into the white water
+that is the Dead Sea.  The beach stretches out east and west with no end in
+sight.  Beware of falling rocks.
+~
+550 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 55002
+D2
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55003
+S
+#55003
+The rocky shoreline~
+   The rocky shoreline continues east and west.  Rocks, some old and weathered,
+some new and jagged, litter the landscape.  Every once and a while, a large
+chunk of cliff side will break away and plunge into the white water.  Small
+crabs and other crustacean life teem about the rocks just near the water.  No
+vegetation grows on them, however.
+~
+550 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 55002
+D2
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55004
+S
+#55004
+A rocky shoreline~
+   White waves seem to crash upon the narrow beach at a more frequent pace here.
+To the west is an extremely large boulder that spans the entire width of the
+beach.  Strange fish can be seem jumping out of the water just to the south.  
+What they are jumping for remains a mystery.
+~
+550 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 55003
+D2
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55005
+S
+#55005
+A rocky shoreline~
+   Immediately to the west is an immense piece of rock that has fallen from the
+cliffs above.  It spans the entire width of the beach.  There is a small hole
+carved into it that would allow one to reach the other side of the rock without
+entering the white water.  The option is there should one decide to brave it.  
+It is probably not recommended.
+~
+550 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 55004
+D2
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55006
+S
+#55006
+A rocky shoreline~
+   This is a VERY tight space.  God forbid someone close the exits trapping you
+in here forever.  It feels like the rock is closing in on all sides.  Stay calm.
+~
+550 289 0 0 0 0 0 0
+D1
+~
+~
+0 0 55005
+D3
+~
+~
+0 0 55007
+S
+#55007
+A small sandy beach~
+   This is a rare place.  Instead of large chunks of rock and stone there is a
+decent sized patch of soft black sand.  To the west the landscape is very
+familiar.  To the east is a large chunk of cliff with a small tunnel bored
+through it.  A very small island can be made out to south in the middle of the
+vast ocean of white water.  Black birds circle high above the beach.  It is very
+peaceful here.
+~
+550 16 8 0 0 0 0 0
+D1
+~
+~
+0 0 55006
+D2
+~
+~
+0 0 55010
+D3
+~
+~
+0 0 55008
+S
+#55008
+A rocky shoreline~
+   The rocky landscape that has become quite familiar by now has returned to
+dominate the view.  The crustacean life that was teeming on the eastern shore
+has all but vanished in this area.  A long since decayed boat, ravaged with
+holes, has broken into hundreds of pieces here.  A small, sandy beach is due
+east while the rocky terrain continues to the west.
+~
+550 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 55007
+D2
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55009
+S
+#55009
+A rocky shoreline~
+   He rocky shoreline continues to the west with no end in sight.  The water
+that laps against the shores east of here seems to be much more tame suggesting
+deeper waters.  It may be time to leave the shoreline and head out on the water.
+The ground here shakes as no doubt another piece of cliff will be falling in
+this area very soon.
+~
+550 0 0 0 0 0 0 0
+D0
+~
+~
+0 0 55009
+D1
+~
+~
+0 0 55008
+S
+#55010
+Approaching a small island~
+   All the currents in this part of the ocean seem to converge on a small beach
+to the south.  The northern horizon harbors a rocky landscape that looks quite
+harsh and impassible.  The ocean stretches out to the east and west for
+considerable distances and a large, crumbling tower can be made out to the
+southeast.
+~
+550 0 0 0 0 0 0 0
+D0
+~
+~
+0 0 55007
+D1
+~
+~
+0 0 55011
+D2
+~
+~
+0 0 55016
+D3
+~
+~
+0 0 55010
+S
+#55011
+A shallow atoll~
+   The area here is like a small island.  Most of it is underwater however with
+a few small outcropping's that sustain lush vegetation.  Tide pools are by the
+hundreds and teem with life.  The area is also home to land creatures that
+somehow were placed here by passing vessels.
+~
+550 4 0 0 0 0 0 0
+D0
+~
+~
+0 0 55001
+D1
+~
+~
+0 0 55013
+D2
+~
+~
+0 0 55012
+D3
+~
+~
+0 0 55010
+S
+#55012
+A shallow atoll~
+   Here, just south of this small patch of land, the Dead Sea eats away at the
+shoreline.  The wind seems to blow in from the south and is quite warm.  In the
+distance, very far away from here, is a crumbling tower that stretches into the
+heavens.  There is another small island to the east.
+~
+550 4 0 0 0 0 0 0
+D0
+~
+~
+0 0 55011
+D1
+~
+~
+0 0 55014
+D2
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55012
+S
+#55013
+A shallow atoll~
+   This small atoll is crawling with small creatures.  Very far to the north,
+the cliffs of the Ancient City can be seen, scraping the sky.  To the south, a
+large crumbling tower can be seen, also scraping the stars.  It is rumored that
+great dragons occupy the upper limits.  A small island can be seen to the
+southeast.  It is very peaceful here.
+~
+550 4 0 0 0 0 0 0
+D0
+~
+~
+0 0 55001
+D1
+~
+~
+0 0 55015
+D2
+~
+~
+0 0 55014
+D3
+~
+~
+0 0 55011
+S
+#55014
+An unfinished room~
+   The south-east quadrant of this shallow atoll is a myriad of tide pools.  
+They range in size from that of an apple to the size you could wade comfortably
+in.  A small island rises above the water to the east and a large tower can be
+seen to the south.  The wind here has picked up slightly and is very warm.
+~
+550 4 0 0 0 0 0 0
+D0
+~
+~
+0 0 55013
+D1
+~
+~
+0 0 55014
+D2
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55012
+S
+#55015
+Antes de Los Muertos~
+   A small island is due south of this position.  Should you decide to stay the
+course the water seems to be sweeping around the island to the southeast and
+into some fog.  A small beach is much more inviting and looks like it would be a
+good place to rest or take a break from all this seafaring.
+~
+550 4 0 0 0 0 0 0
+D0
+~
+~
+0 0 55001
+D1
+~
+~
+0 0 55001
+D2
+~
+~
+0 0 55023
+D3
+~
+~
+0 0 55013
+S
+#55016
+A small island~
+   A very small island seems to flourish in the middle of The Dead Sea.  A beach
+in the shape of a half-moon hides a small trail that heads south into thick
+foliage.  A few wooden boats have washed up on the shore and have long since
+rotted.  There is no sound other than the waves lapping gently on the sandy
+shores.  A small shack is on the far side of the island.
+~
+550 4 0 0 0 0 0 0
+D0
+~
+~
+0 0 55010
+D2
+~
+~
+0 0 55017
+S
+#55017
+A narrow sandy path~
+   As the beach gives way to more of a jungle type environment the path between
+the palm trees narrows.  The Dead Sea lines the eastern and western shore only a
+few feet from the path.  While the sound of the lapping waves subsides a strange
+silence weaves itself into the air.  To the south a large clearing splits off
+into three different directions.  North returns to the beach.
+~
+550 0 0 0 0 0 0 0
+D0
+~
+~
+0 0 55016
+D2
+~
+~
+0 0 55018
+S
+#55018
+A large clearing~
+   A large clearing is in the middle of this small island.  Over time the island
+has grown to the east and west, allowing the vegetation to take advantage of the
+extra soil.  The path ends abruptly to the south as the rest of the island only
+allows room for a small shack.  A large wooden door seems to play the part of
+the entrance.
+~
+550 0 0 0 0 0 0 0
+D0
+~
+~
+0 0 55017
+D1
+~
+~
+0 0 55020
+D2
+~
+~
+0 0 55021
+D3
+~
+~
+0 0 55019
+S
+#55019
+A small sandy beach~
+   This is the furthest the island reaches to the west.  This small beach
+overlooks The Dead Sea which stretches infinitely into the distance.  Old
+fishing nets, wooden crates, and empty bottles of liquor are strewn about the
+sand and have long since been forgotten.  Once upon a time this had been a
+gathering place for criminals who had since been ousted from their respective
+lands.
+~
+550 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 55018
+S
+#55020
+A small sandy beach~
+   This is the furthest the island stretches to the east.  In the distance a
+larger, yet still relatively small, island can be seen.  A few crudely made
+crosses have been planted in between the many tide pools that teem with small
+crustacean marine life.  The wind blows gently through the palm trees and give
+this piece of land a truly relaxing feel.
+~
+550 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 55018
+S
+#55021
+Before the shack~
+   The path that has led south comes to an abrupt end here.  A small shack has
+been built on both land and water to the south.  Large wooden stilts support
+parts of the foundation and disappear into the murky water of The Dead Sea.  A
+large wooden door is the only means of entry and is padlocked with a giant steel
+lock.  Voices coming from inside the structure carry on the silent air here.  
+Make no mistake, there are no other signs of life.
+~
+550 0 0 0 0 0 0 0
+D0
+~
+~
+0 0 55018
+D2
+~
+door~
+2 55021 55022
+S
+#55022
+A small shack~
+   Centuries of neglect have seen this small shack fall into complete disrepair.
+An immense fireplace lines the southern wall and has since been filled with
+sticks, branches, and any other piece of material a rodent might use in building
+a nest.  An oak table sits in the center of the room and boasts an intricate
+design that has been burned into the top.  Dried up ink wells and parchments
+scatter the floor.  The amount of dust is astonishing.
+~
+550 0 0 0 0 0 0 0
+D0
+~
+~
+2 55021 55021
+S
+#55023
+Isla de Los Muertos~
+   Another small island has somehow managed to sustain life in the middle of The
+Dead Sea.  The foliage on the beach is so thick that trying to walk through it
+will prove an impossible task.  Low clouds hang over the island and gives the
+impression that rain is possible at any moment.  An immense stone is just off
+the beach, buried in vegetation.
+~
+550 4 0 0 0 0 0 0
+D0
+~
+~
+0 0 55015
+D1
+~
+stone~
+2 55015 55024
+S
+#55024
+Between the trees~
+   A path leads away from the beach and heads inland to the east.  Two rows of
+palm trees intermixed with various plants and flowers create a living fence to
+the north and south.  The sand here is grey in color and has been recently
+disturbed.  The path veers to the north and south and disappears behind the
+foliage.  The silence here is deafening.
+~
+550 0 0 0 0 0 0 0
+D0
+~
+~
+0 0 55025
+D1
+~
+~
+0 0 55029
+D2
+~
+~
+0 0 55027
+D3
+~
+stone~
+2 55015 55023
+S
+#55025
+Before a small graveyard~
+   The trail of grey sand continues around a bend to the east.  The Dead Sea
+stretches out to the west and north and appears to be very calm.  Coconuts that
+have fallen from the trees have become victim to the coconut crabs that feed on
+them.  Many husks line the edge of the vegetation.  To to east sits a small
+graveyard with many wooden crosses.
+~
+550 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 55026
+D2
+~
+~
+0 0 55024
+S
+#55026
+A small graveyard~
+   The path abruptly ends at a lonely graveyard.  Hundreds of wooden crosses
+have been planted in the ground at seemingly random intervals.  It would not be
+possible to bury as many bodies.  A sign hangs from the lower branch of a nearby
+palm sapling.  A small wooden dock bounces lazily with the incoming waves to the
+north.  Voices seem to echo through the foliage that surrounds the graveyard.
+~
+550 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 55025
+E
+sign~
+The sign reads:
+
+&07"Each stake here represents the souls of our lost brethren.
+May the sea carry them into the sunset of the afterlife"&00
+~
+S
+#55027
+Before a small church~
+   The trail of grey sand continues and bends around the foliage to the east.  
+The Dead Sea can be seen stretching out infinitely to the south while a small
+island can be seen on the horizon to the west.  Many husks of coconuts line the
+edge of the foliage and coconut crabs can be seen skittering back and forth
+across the sand.  A small church sits in the vegetation to the east.
+~
+550 0 0 0 0 0 0 0
+D0
+~
+~
+0 0 55024
+D1
+~
+~
+0 0 55028
+S
+#55028
+A small church~
+   This is a surprisingly spacious church that sits on a beach comprised of grey
+sand and millions of small shells.  A few rows of wooden pews occupy each side
+of the room while a large wooden cross has been suspended from the rafters above
+in a stunning fashion.  The windows on the east wall allows views that overlook
+The Dead Sea.  Having been through centuries of neglect the rest of the room is
+in shambles.  It is quiet.
+~
+550 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 55027
+S
+#55029
+A solemn trail~
+   The canopy overheard is so thick that it blocks out all attempts at light
+piercing the veil.  A cool breeze blows from east to west and carries a biting
+edge.  Whispers from the darkness above echo off the dense foliage and make it
+incredibly hard to pinpoint their location.  Wisps of grey sand kick up from the
+trail as if being tread upon by unseen spirits.  A small clearing is directly
+the east.
+~
+550 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 55024
+S
+$~

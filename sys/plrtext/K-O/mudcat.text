@@ -1,0 +1,13 @@
+hh c 'heal' kryll
+uu c 'heal' $*
+wa c 'ward' $*
+gs gsay &14-&10*&14- $* -&10*&14-&00
+' say &14-&10*&14- $* -&10*&14-&00
+clan clan &14-&10*&14- $* -&10*&14-&00
+b c 'blind' $*
+su c 'summon' $*
+r c 'word of recall' $*
+h c 'heal' $*
+tt assist kryll
+t assist terra
+mytitle title :: &08{FF}&00

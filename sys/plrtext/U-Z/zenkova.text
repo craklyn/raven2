@@ -1,0 +1,50 @@
+fy c 'fountain of youth'
+wr c 'wrath of the ancients' $*
+f c 'doom bolt' $*
+sw c 'meteor swarm' $*
+enchant c 'enchant weapon' $*
+fire c 'fireball' $*
+lb c 'lightning bolt' $*
+sg c 'shocking grasp' $*
+str c 'strength' $*
+locate c 'locate object' $*
+rc c 'remove curse' $*
+g c 'sleep' $*
+feeble c 'feeblemind' $*
+web c 'web' $*
+wa wa;stand
+nex c 'nexus' $*
+gfb c 'flame blade' group
+gshie c 'shield' group
+gts c 'true sight' group
+gfly c 'fly' group
+wak order fol wake;order fol stand
+ms c 'monster summon'
+port c 'portal' $*
+fly c 'fly' $*
+shie c 'shield' $*
+cs c 'color spray' $*
+awaken c 'awaken' $*
+dr drink thim
+infra c 'infravision'
+bl c 'blind' $*
+rr rec rec rec scr
+ts c 'true sight' $*
+gate c 'gate'
+sum c 'summon' $*
+invis c 'invisibility' $*
+title title :: &09Wanderer&00
+haste c 'haste' $*
+fb c 'flame blade' $*
+charm c 'charm' $*
+k order follower k $*
+mm c 'magic missile' $*
+id c 'identify' $*
+ld c 'life drain' $*
+ghaste c 'haste' group
+clan clan &14$* &00
+air c 'airsphere' $*
+ginvis c 'invis' group
+gsanc c 'sanc' group
+blink c 'blink' $*
+1 order fol assist erza

@@ -1,0 +1,15 @@
+loc cast 'locate object' $*
+fly cast 'fly'
+infra cast 'infravision'
+sum cast 'summon' $*
+fw clanwho
+g gtell $*
+str cast 'strength' $*
+id cast 'identify' $*
+sh cast 'shield' $*
+cs cast 'color spray' $*
+b cast 'blindness' $*
+fla cast 'flame blade' $*
+tit title &10L Aquino&00
+ts cast 'true sight' $*
+f clan &10LABAN>>>&11$*&00&10 <<<LABAN&00

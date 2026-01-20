@@ -1,0 +1,96 @@
+#251
+&08The Nine Hells&00 - Avernus~
+25199 30 3 0
+D 0 25134 0 1        
+D 1 25134 0 2        
+M 0 25007 1 25134    * Mob : Armaros
+D 0 25120 5 1        
+D 0 25120 4 1        
+D 1 25120 4 2        
+O 0 25051 1 25119    
+D 0 25119 0 1        
+D 1 25119 0 2        
+D 0 25119 2 1        
+D 1 25119 2 2        
+D 0 25102 2 1        
+D 1 25102 2 2        
+D 0 25103 0 1        
+D 1 25103 0 2        
+M 0 25040 15 25103   * Mob : the spined devil
+M 0 25038 3 25123    * Mob : the barbed devil
+D 0 25123 4 1        
+D 0 25123 5 1        
+D 1 25123 5 2        
+M 0 25038 3 25123    * Mob : the barbed devil
+D 0 25129 4 1        
+D 1 25129 4 2        
+M 0 25003 1 25116    * Mob : Goap
+E 1 25016 1 4        * Eqp : an amulet
+E 1 25017 1 20       * Eqp : a dragon's claw
+M 0 25039 10 25116   * Mob : the erinyes
+M 0 25039 10 25116   * Mob : the erinyes
+M 0 25039 10 25116   * Mob : the erinyes
+D 0 25128 4 1        
+D 1 25128 4 2        
+D 0 25115 0 1        
+D 1 25115 0 2        
+D 0 25118 5 1        
+D 1 25118 5 2        
+D 0 25118 2 1        
+D 1 25118 2 2        
+D 0 25121 0 1        
+D 1 25121 0 2        
+M 0 25035 20 25121   * Mob : a &02green&00 abishai
+M 0 25035 20 25121   * Mob : a &02green&00 abishai
+D 0 25130 4 1        
+D 1 25130 4 2        
+O 0 25036 1 25130    
+D 0 25127 4 1        
+D 1 25127 4 2        
+D 0 25127 0 1        
+D 1 25127 0 2        
+M 0 25012 1 25127    * Mob : Kochbiel
+E 1 25002 1 4        * Eqp : an old rusty key
+E 1 25035 1 20       * Eqp : a book
+D 0 25104 5 1        
+D 1 25104 5 2        
+D 0 25125 4 1        
+D 1 25125 4 2        
+D 0 25126 4 1        
+D 1 25126 4 2        
+O 0 25033 1 25126    
+O 0 25034 1 25126    
+D 0 25124 4 1        
+D 1 25124 4 2        
+O 0 25100 1 25124    
+M 0 25008 1 25124    * Mob : Azazel
+D 0 25106 0 1        
+M 0 25040 15 25106   * Mob : the spined devil
+M 0 25040 15 25106   * Mob : the spined devil
+M 0 25034 20 25122   * Mob : a &04blue&00 abishai
+M 0 25034 20 25122   * Mob : a &04blue&00 abishai
+M 0 25033 20 25105   * Mob : a &07black&00 abishai
+M 0 25033 20 25105   * Mob : a &07black&00 abishai
+D 0 25110 5 1        
+D 1 25110 5 2        
+M 0 25016 1 25110    * Mob : Tiamat
+E 1 25003 1 6        * Eqp : &00the ch&01r&00&04o&00&13m&00&02a&00&14t&00ic dragon helm
+E 1 25004 1 20       * Eqp : a portable hole
+P 1 25005 1 25004    * Put : a charred key of bone
+P 1 25006 1 25004    * Put : a dark-blue rod
+P 1 25007 1 25004    * Put : a small potion
+M 0 25021 1 25110    * Mob : an ancient red dragon
+D 0 25133 4 1        
+D 1 25133 4 2        
+D 0 25133 5 1        
+O 0 25011 1 25133    
+P 1 25010 1 25011    * Put : Avernus, the life stealer
+O 0 25012 1 25133    
+O 0 25008 1 25133    
+O 0 25009 1 25133    
+M 0 25017 1 25111    * Mob : an ancient white dragon
+M 0 25019 1 25112    * Mob : an ancient green dragon
+M 0 25020 1 25109    * Mob : an ancient blue dragon
+M 0 25018 1 25108    * Mob : an ancient black dragon
+S
+$

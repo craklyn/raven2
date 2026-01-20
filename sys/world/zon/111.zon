@@ -1,0 +1,68 @@
+#111
+The Ian & Ian Brewery (level 1-10)~
+11199 15 2 0
+M 0 11103 20 11128   * Mob : a soused rat
+G 1 11113 20 -1      * Give: a pickled rat.
+M 0 11103 20 11128   * Mob : a soused rat
+M 0 11103 20 11128   * Mob : a soused rat
+G 1 11113 20 -1      * Give: a pickled rat.
+M 0 11103 20 11128   * Mob : a soused rat
+M 0 11103 20 11128   * Mob : a soused rat
+G 1 11113 20 -1      * Give: a pickled rat.
+M 0 11101 20 11128   * Mob : the drunk worker
+E 1 11101 20 20      * Eqp : a large wooden tankard
+M 0 11101 20 11128   * Mob : the drunk worker
+M 0 11101 20 11128   * Mob : the drunk worker
+M 0 11101 20 11128   * Mob : the drunk worker
+E 1 11101 20 20      * Eqp : a large wooden tankard
+M 0 11103 20 11128   * Mob : a soused rat
+G 1 11113 20 -1      * Give: a pickled rat.
+M 0 11103 20 11128   * Mob : a soused rat
+M 0 11103 20 11128   * Mob : a soused rat
+G 1 11113 20 -1      * Give: a pickled rat.
+M 0 11103 20 11128   * Mob : a soused rat
+M 0 11103 20 11128   * Mob : a soused rat
+G 1 11113 20 -1      * Give: a pickled rat.
+M 0 11101 20 11128   * Mob : the drunk worker
+E 1 11101 20 20      * Eqp : a large wooden tankard
+M 0 11101 20 11128   * Mob : the drunk worker
+M 0 11103 20 11128   * Mob : a soused rat
+G 1 11113 20 -1      * Give: a pickled rat.
+M 0 11103 20 11128   * Mob : a soused rat
+M 0 11103 20 11128   * Mob : a soused rat
+G 1 11113 20 -1      * Give: a pickled rat.
+M 0 11107 8 11103    * Mob : the drunk worker
+G 1 11104 10 -1      * Give: a wooden keg lid
+M 0 11102 4 11109    * Mob : the drunk supervisor
+E 1 11103 10 12       * Eqp : Work gloves
+M 0 11102 4 11112    * Mob : the drunk supervisor
+E 1 11103 10 12       * Eqp : Work gloves
+M 0 11102 4 11119    * Mob : the drunk supervisor
+E 1 11103 10 12       * Eqp : Work gloves
+M 0 11102 4 11126    * Mob : the drunk supervisor
+M 0 11107 8 11121    * Mob : the drunk worker
+M 0 11107 8 11125    * Mob : the drunk worker
+M 0 11107 8 11105    * Mob : the drunk worker
+G 1 11104 10 -1      * Give: a wooden keg lid
+M 0 11104 1 11126    * Mob : Ian MacAle
+E 1 11105 10 16      * Eqp : a leather swordbelt
+E 1 11106 10 17      * Eqp : a fine dagger
+M 0 11105 1 11127    * Mob : Brewmeister Bob, III
+E 1 11109 10 6       * Eqp : a pair of reading glasses.
+E 1 11111 1 20       * Eqp : a small key.
+M 0 11106 1 11102    * Mob : Kristy
+E 1 11110 10 20      * Eqp : a gold plated quill pen.
+M 0 11108 2 11127    * Mob : the brewmeister's assistant
+E 1 11108 5 15       * Eqp : a leather lab coat
+M 0 11108 2 11127    * Mob : the brewmeister's assistant
+O 0 11102 10 11102   
+O 0 11102 10 11107   
+O 0 11102 10 11110   
+O 0 11102 10 11119   
+O 0 11102 10 11123   
+O 0 11102 10 11127   
+O 0 11112 1 11127    
+P 1 11107 3 11112    * Put : a bottle of Ian's best.
+P 1 11107 3 11112    * Put : a bottle of Ian's best.
+S
+$

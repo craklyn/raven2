@@ -1,0 +1,14 @@
+dd gt going d ;; d ;; kill 2.
+uu gt going up ;; u ;; kill 2.
+ss gt going s ;; s ;; kill 2.
+ww gt going w ;; w ;; kill 2.
+nn gt going n ;; n ; kill 2.
+ee gt going e ;; e ;; kill 2.
+000 get all all.cor ;; wear all ;; wie car ;; hold krei ;; des cal
+6 get all all.cor
+of order follower $*
+99 open door e ;; open door w ;; open door s ;; open door n ;; open door d ;; open door u
+gt gtell &08$*&00 
+8 tell nerco 3
+shoo get arrow quiv ;; shoot arrow $*
+5 kill eve

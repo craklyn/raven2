@@ -1,0 +1,7 @@
+sense cast 'sense'
+briar cast 'briar'
+shield cast 'shield' $*
+cw clanwho
+gt gt &08$* &00
+say say &08$* &00
+nomad title the &01Marauding&00 Nomad

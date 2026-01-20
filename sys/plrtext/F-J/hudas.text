@@ -1,0 +1,47 @@
+911 get all hudas;wear silken;wear robe body;hold brill;wie staff;wear all;dest hudas
+calm emote extends a calming influence.
+mp mist frail_old;enter count;area
+curse cast 'curse' $*
+misport mist frail;enter counter
+tit title &07I&00&06n &07P&00&06erfide&00 &08*&10*&11*&00
+cs cast 'summon corpse'$*
+g gt &07^&08.&07^&12$*&00 &07^&08.&07^&00
+call cast 'call to corpse' $*
+ent cast 'entomb corpse' $*
+wf cast 'wraithform'
+ed cast 'energy drain' $*
+deb cast 'debilitate' $*
+sil cast 'silence' $*
+slow cast 'slow' $*
+con cast 'consume corpse' $*
+rp cast 'resist poison' $*
+wake wake;stand;look
+di cast 'detect invis' $*
+invis cast 'invisibility' $*
+sh cast 'shield' $*
+sp cast 'soul pierce' $*
+sum cast 'summon' $*
+infra cast 'infravision'
+o order follower $*
+fw clanwho
+emb cast 'embalm' $*
+b cast 'blind' $*
+fly cast 'fly' $*
+mal cast 'maledict' $*
+cc cast 'charm corpse' $*
+sen cast 'sense life'
+nox cast 'nox' $*
+ld cast 'life drain' $*
+cw cast 'create warding'
+bw cast 'bone wall' $*
+dis cast 'disease' $*
+minions 8s3e2sd30es6e6e2nwn
+' say &00&05$* &00
+f clan &07^&08.&07^&12$*&00 &07^&08.&07^
+age cast 'age' $*
+ok order follower kill $*;assist
+elite 16w6swse14s7e2s19es2e;open panel;d
+ch e;e;e;e;e;s;s;s;s;s;e;say horse;e;n
+ech w;w;s;e;e;s;e;e;e;e;e;s;s;s;s;s;e;say horse;e;n
+ec cast 'explode corpse' $*
+kk c 'soul pierce' slayer

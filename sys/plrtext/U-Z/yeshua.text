@@ -1,0 +1,46 @@
+wa wake;stand
+rel cast 'relocate' $*
+b cast banish' $*
+bl cast 'blind' $*
+p rec mes $*
+da cast 'disheart' $*
+rer cast 'word' group
+cl cast 'cleanse' $*
+3 rec mid mid
+gg get gold all.corp;get key all.corp
+r cast 'revive' $*
+loot cast 'detect invis';get all all.yesh;wea all;wie shi;hol sceptre;get all all.yesh;rem bee;wea all;dest yeshua
+er cast 'earth'
+gt gtell &14[&07AM&14]&07>>&12$* &07<<&14[&07AM&14]&00
+hr cast 'harm' $*
+tit2             title I &05[&07AM&00&05]&00 the &08Sacrificial&00 Lamb!
+' say &12read&14-&12>&14$* &12<&14-&12this&00
+out gtell &14OUTTA&00 &12I've given her all shes got captain!&00 &14MANA&00
+fort cast 'fort' $*
+inf cast 'infra'
+sanc cast 'sanc' $*
+reg cast 'reg' $*
+die gsay &08DIE MOTHA BITCHIZ&00
+di cast 'detect invis' $*
+ar cast 'armor' $*
+fly cast 'fly' $*
+cs CAST 'SENSE'
+ma cast 'maledict' $*
+ass cast 'assistant'
+ggg get all all.cor
+rl cast 'relocate' $*
+sum cast 'summon' $*
+sag cast 'sagacity' $*
+c clan &07[&12AM&07] >>&14$* &07<< [&12AM&07]&00
+cc cast 'cure blind' $*
+cb cast 'cure blind' $*
+sac cast 'sacrifice' $*
+re cast 'word' $*
+h cast 'heal' $*
+hw cast 'holy word' $*
+cp cast 'cure poison' $*
+t cast 'revive' talidar
+gh cast 'heal' group
+hg cast 'heal' group
+z poke your
+m nudge your

@@ -1,0 +1,41 @@
+ice c 'ice storm'
+gg c 'shocking grasp' $*
+ff c 'fireball' $*
+foy c 'fountain of youth'
+su c 'summon' $*
+11 c 'doom' $*
+air c 'air' $*
+gt gt &05$* &00
+0 wake;;stand
+shr c 'shriek' $*
+charm c 'charm' $*
+ele c 'conjure ele' $*
+port c 'portal' $*
+nex c 'nexus' $*
+has c 'haste' $*
+cc c 'color spray' $*
+remc c 'remove curse' $*
+shi c 'shield' $*
+fb c 'flame blade' $*
+id c 'identify' $*
+mon c 'monster summon' $*
+infra c 'infra' $*
+fly c 'fly' $*
+sum c 'summon' $*
+b c 'blind' $*
+/ rec elven
+awa c 'awaken'
+life c 'life drain' $*
+invis c 'invis' $*
+ts c 'true sight' $*
+gate c 'gate'
+feeb c 'feeble' $*
+bli c 'blink' $*
+str c 'strength' $*
+wra c 'wrath'
+ll c 'lightning' $*
+mm c 'magic miss' $*
+22 stop
+met c 'meteor'
+of order follower $*
+6 get all.gold all.cor

@@ -1,0 +1,42 @@
+elv get elv bask;rec elv
+haste wake;stand;rem chest;hold quill;scribe haste parch;rem quill;hold chest;get bread bask;eat bread;put bread bask;drink goat;sl
+ask ask &11$*&00
+armor remove stick;hold oak;use oak self;rem oak;hold stick
+clan clan &08$*&00
+web http://bb1.betterbox.net/naakt/occult/
+1 get all all.corpse
+sl c 'slow' $*
+bb c 'lightning' $*
+wa wake;stand
+snakes w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;s;w;w;w;w;w;s;s;s;open bridge;s;s;s;e;e;e;e;e;s;s;
+castle e;e;e;e;e;e;e;e;e;e;s;e;d;e;e;e;e;e;s;s;s;e;d;d;w;w
+3 des cor
+si c 'silence' $*
+bl c 'blind' $*
+titl title &07Necromancer&00&01 in the legions of &08Hell&00
+food buy 10 bread;put all.bread bask
+x exit
+b breath $*
+eatt get bread bask;eat bread
+mon c 'mon sum'
+su c 'summon' $*
+j or fol wake;or fol stand;or fol grin
+r or fol rescue $*
+ha c 'haste' $*
+p cast 'portal' $*
+inf cast 'infravision'
+sh cast 'shield' $*
+y get sam bask;rec sam rec
+lo c 'locate' $*
+regen remove uni;remove uni;wear dark;wear dark;rem writh;wear darkny;rem chaps;wear jew;rem diam;wear robe;rem tail;hold chest
+dam rem dark;rem dark;rem dark;wear uni;wear uni;wear writh;rem jew;wear chaps;rem chest;hold tail;rem robe;wear diam
+f assist earth
+gate c 'gate'
+spell remove tooth;wear feath neck
+nonspell remove feath;wear tooth
+air c 'air'
+dur remove feath;remove tooth;wear feath neck
+cost remove feath;wear feath head;wear tooth
+k c 'lightning' $*
+gt gt &08$*&00
+g assist krog

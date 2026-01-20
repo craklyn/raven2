@@ -1,0 +1,349 @@
+#38300
+The Cleric's Guild of Samsera~
+The Cleric's Guild a large, fortified church in the north-west most corner
+of Samsera's Guild Square is home to the healing class.
+I'll be separating the good aligned from the evil aligned clerics 
+in this guild to a point and putting an emphasis on Prayer, not magic.
+
+the Guild's features include:
+A Guild Guard
+A Vault for valuables and magical artifacts
+A training room
+multiple spell practice rooms
+A Main regeneration Room
+A shopkeeper
+2 boards, one general, one as a Trial for the HighPriest.
+Two Challenge Rooms - Protect Oneself, and Protect Another.
+
+Kurse, Sep 00'
+~
+383 1024 0 0 0 0 255 0
+S
+#38301
+The Lobby of the Grand Church~
+   You step into the main lobby of the church, obviously crafted to awe and
+inspire those lucky enough to be welcomed into the guild.  The ceiling here is
+domed and made of a colorful stained glass mural depicting the infinite
+struggle between the gods of evil and the gods of good.  Between them stands
+the gods of neutrality.  Lush paintings of obvious cost and golden, onyx, and
+jade sculptures decorate the walls and floors.  A diagram of the guild,
+depicting its large size is set into a bronze plate in the floor.    
+~
+383 1049096 0 0 0 0 0 0
+D2
+~
+~
+0 0 18113
+D3
+~
+~
+0 0 38302
+S
+#38302
+The Gathering of Faiths~
+   The Guild of Clerics are very unified throughout the realms, so much so that
+they are persecuted near as much as the Solamnic Knights in their faith and
+cohesiveness.  While clerics follow different deities and quite often
+principles, these are lain aside for the greater glory of the guild itself.  
+It is true that there are those dark clerics who make no attempt to disguise
+their hatred for the gods of good, and clerics of light who vow to smite the
+darkness.  But while in this place, the Guild of Clerics takes precedence so
+that it may flourish in splendor instead of discord.
+~
+383 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 38306
+D1
+~
+~
+0 0 38301
+D3
+   A single black door adorned by a dark altar lies in the West wall.  This
+leads to a dark altar where Clerics pray to their dark gods.    
+If you are not an evil cleric, DO NOT ENTER THIS ROOM!
+~
+door black~
+1 -1 38303
+S
+#38303
+The unholy way~
+   This dark hallway spirals downwards towards a large chamber from which you
+hear a low chanting.  The walls are decorated with paintings of many of the
+gods of evil such as Takhisis, Chemosh, Morgion, and the dead King Xerxes.  As
+well it seems evident that there may be worship of some of the most powerful of
+demons and devils, as Orcus, Demogorgon, and the Overlord of the Nine Hells are
+depicted here in artistic rendition.    
+~
+383 1049096 0 0 0 0 0 0
+D1
+A single door of black leads back to the guild proper.
+~
+door black~
+1 -1 38302
+D5
+~
+~
+0 0 38304
+S
+#38304
+The Twisted Sanctuary~
+   The stairs lead down to a large expansive room, a massive sanctuary
+dedicated to the gods of evil and the black arts.  Macabre idols and sculptures
+of ebony and jade decorate the sanctum, all adding to its unholy appearance.  
+Many dark priests are gathered here, preparing for a ritual sacrifice of some
+type.    
+~
+383 1442312 0 0 0 0 0 0
+D4
+~
+~
+0 0 38303
+S
+#38305
+The Vault of Tithes~
+   As a service to their Guild and Church, each Cleric is obliged to give ten
+percent of all gold they acquire each month to the church.  This vault, built
+by a famous dwarven healer, was made for that purpose in particular.  But as
+well, it now serves as a vault for special items and artifacts acquired abroad.
+The chamber is made of sturdy granite and is filled with many baubles and gold.
+It is expected that Clerics will donate to the vault as freely as they take
+from it.    
+~
+383 1055240 0 0 0 0 0 0
+D1
+A thick oak door bars the way to the east.
+~
+door oak~
+1 -1 38306
+S
+#38306
+The Hall of Faith~
+   The room tapers into a small hallway here, which traverses much of the
+guild.  Many clerics shuffle along here, talking to themselves or their god, as
+they continue their quest for holiness, or unholiness.    
+~
+383 1049096 0 0 0 0 0 0
+D0
+~
+~
+0 0 38312
+D1
+~
+~
+0 0 38307
+D2
+~
+~
+0 0 38302
+D3
+A thick oak door lies in the west wall.
+~
+door oak vault~
+1 -1 38305
+S
+#38307
+The Training Chapel~
+   This smaller chapel is where clerics receive their schooling into the art
+and skill of prayers and devotions.  A central podium stands near the front of
+the room in front of row after ro of wooden pews.  Many clerics are seated here
+studying, heads bowed in silent concentration.    
+~
+383 1049096 0 0 0 0 0 0
+D1
+~
+~
+0 0 38308
+D3
+~
+~
+0 0 38306
+S
+#38308
+A Rounded Room~
+   You step through the door from the training chapel into this rounded room
+with shining marble floors of black and white.  Be silent, for many clerics are
+in deep concentration or prayer in this wing of the guild.  To the north lies
+the ill-famed 'brewing chamber', where Gnomish clerics go to practice brewing
+potions without fear of destroying the church.  To the east and south are
+separate prayer rooms for clerics to practice their skills in.    
+~
+383 1049096 0 0 0 0 0 0
+D0
+A thick metal door, scored by many explosions lies to the north.
+~
+door metal thick~
+1 -1 38311
+D1
+A door carved of ivory and ebony lies to the east.
+~
+door ivory ebony~
+1 -1 38310
+D2
+A single door made of fine panels of wood lies to the south.
+~
+door wood panel~
+1 -1 38309
+D3
+~
+~
+0 0 38307
+S
+#38309
+A Prayer Room~
+   You step into another small chamber used by clerics of the guild to practice
+the art of prayer to their Gods, forming a stronger link between them and their
+deity.  The room is rather lavish, being decorated with small figurines of
+jade, gold, and onyx.  All clerics use these rooms, regardless of the alignment
+they follow.    
+~
+383 1049096 0 0 0 0 0 0
+D0
+A finely panelled wooden door lies to the north.
+~
+door panel wood fine~
+1 -1 38308
+S
+#38310
+The Prayer Room~
+   The walls of this small room are covered in ornate designs of ivory and
+ebony.  Quite wisely, the crafter used a dense resin to adhere the designs to
+the wall that absorbs vibration, rending this room virtually soundproof.  
+These prayer rooms are scattered all about the guild, and serve as a place for
+clerics to come and concentrate in prayer to their God and practice.    
+~
+383 1049128 0 0 0 0 0 0
+D3
+A carved door of ebony and ivory blocks the way to the rounded room.
+~
+door ebony ivory~
+1 -1 38308
+S
+#38311
+The Brewing Chamber~
+   This middle sized room is occupied by a central worktable of stone and a
+large shelf unit to the side.  The shelfing contains many glass bottles and
+ampules, as well as hundreds of herbal and non-herbal ingredients.  The
+worktable itself is surface to a number of mortars and pestles, odd mazes of
+glass tubing, and prayer books.  This is where, through the science of alchemy
+and magic of prayer, gnomes brew magic potions.  It is as you think about
+gnomes that you notice the floor is scored in many places by explosions.    
+~
+383 1180168 0 0 0 0 0 0
+D2
+A thick metal door. scored by explosions, leads back outside.
+~
+door metal thick~
+1 -1 38308
+S
+#38312
+The Grand Altar and Cathedral~
+   Without doubt the largest room in the guild, the grand cathedral is the
+ultimate sanctum of prayer.  Towering windows of stained glass occupy the east
+wall and send colored beams of light throughout the chamber.  Decorated so
+intricately it is hard to describe, the grand cathedral serves as home to All
+clerics of the realms.  So strong is the faith in this room, be it good, evil,
+or neutral, it is said that physical and spiritual strength is gained at a
+divinely accellerated rate here.    
+~
+383 1442312 0 0 0 0 0 0
+D2
+~
+~
+0 0 38306
+D3
+A door in the corner of the cathedral leads to where Guild provisions are supplied.
+~
+door~
+1 -1 38313
+S
+#38313
+The Clerist Shop~
+   This small store off the central cathedral is used by the guild to equip
+clerics with the basic necessities for life in service to the gods.  Robes,
+prayer books, and basic magical items can all be found here for a cost.    
+~
+383 1049096 0 0 0 0 0 0
+D1
+A single door leads back to the main cathedral.
+~
+door~
+1 -1 38312
+S
+#38314
+The Trial of the HighPriest~
+   A reknowned position within the Guild is the HighPriest, a cleric of
+inspiring faith, wisdom, and power.  Though the HighPriest may be chosen twice
+a month, the trials the cleric must undergo to attain the mantle are rigorous
+and fraught with danger.  This ornate room serves as the staging point for the
+Trial, and is where new clerics are nominated to challenge for the position
+each month.    
+~
+383 520 0 0 0 0 255 0
+D0
+   A jewelled door lies to the north, where the Trial of the HighPriest awaits.
+  
+~
+door jewelled~
+2 38303 38315
+D2
+~
+~
+0 0 38312
+S
+#38315
+The Test of Faith~
+   Prayer and faith are powerful weapons, as they alone have been known to win
+battles, even wars.  Such faith and the power of prayer is the pillar of a
+cleric's ability.  It is in this room that the greater faith and connection to
+their god is determined.  A central altar occupies the room.  Here, each Cleric
+prays in turn to the gods for a sign.  Whichever cleric receives the greater
+sign, or sign at all, is one step closer to becoming HighPriest or
+HighPriestess.    
+~
+383 1049096 0 0 0 0 0 0
+D1
+~
+~
+0 0 38316
+D2
+   A jewelled door stands to the south, leading back to the Grand Church of
+Clerics.    
+~
+door jewelled~
+2 38303 38314
+D3
+~
+~
+0 0 38317
+S
+#38316
+Protect Thyself~
+   You enter a small room with a single squared arena in its center.  At either
+end of the arena is a small altar for clerics to pray to their gods before
+battle.  This trial pits cleric against cleric in battle, with only their
+weapon, their faith, and their prayers to keep them alive.  Whoever proves
+victorius shall be one step closer to attaining the title of HighPriest or
+HighPriestess.    
+~
+383 1049096 0 0 0 0 0 0
+D3
+~
+~
+0 0 38315
+S
+#38317
+Protect Another~
+   The last of the Trials involves a cleric's ability to protect another.  In
+this test, each Cleric must sustain a fighter for as long as possible against
+one of the two werewolves.  Whichever cleric keeps the fighter alive or from
+fleeing the longest, is considered victorious.    
+~
+383 1049096 0 0 0 0 0 0
+D1
+~
+~
+0 0 38315
+S
+$~

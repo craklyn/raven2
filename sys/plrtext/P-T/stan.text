@@ -1,0 +1,31 @@
+lo get all all.corpse
+sil cast 'silence' $1
+9 fist
+0 blind
+ld cast 'life drain'
+sp cast 'soul pierce'
+1 order fol kill $1
+nox cast 'noxious skin' $1
+shield cast 'shield' $1
+sl cast 'sense life'
+dr drink thimble
+sac destroy corpse
+j exit
+tit title &01Marsh&00&11mallow&00
+di cast 'detect invis' $1
+infra cast 'infravision' self
+curse cast 'curse' $1
+male cast 'maledict' $1
+po cast 'poison'
+fly cast 'fly' $1
+inv cast 'invisibility' $1
+emb cast 'embalm' corpse
+sum cast 'summon' $1
+blind cast 'blindness' $1
+slow cast 'slow' $1
+ns cast 'noxious skin' self
+scan gs scan
+trin cast 'summon' trin
+2 order fol rescue stan
+3 cast 'invis' self
+cc cast 'charm corpse' corpse

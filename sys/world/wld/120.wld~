@@ -1,0 +1,1918 @@
+#12000
+The Master's Lair~
+   Xp zone, vampire coven, mid-level to group xp zone ment for levels 25-50.  
+This area is a vampire coven with a range from low level xp mobs to group xp
+mobs with some eq at the end.    
+
+
+script 12000 is assigned to mob 12010 which loads in room 12079 to feed on entrance
+script 12001 is assigned to object 12010 which loads in room 12079
+script 12002 is assigned to mob 12007 in room 12059 to call guards
+script 12004 is assigned to mob 12010 in room 12079 to load bats on death
+script 12003 is assigned to objects 12013 loaded in multple rooms, it loads agro mob 12018 and purges istself to avoid stack and spam
+script 12006 is in room 12088 evalutates dex when leaver is pulled, if high dex it opens door, if low dex it drops a stalgtite on you causeing damage and forces you out of room.
+script 12007 is assigned to obj 12016 in room 12029 to open passage east
+script 12008 is assigned to obj 12017 in room 12030 to open passage west
+
+
+Builder - Khaleb (Zerik)
+
+~
+120 68 4 0 0 1 255 0
+S
+#12001
+Front Foyer~
+   Entering an old decrepit church.  You get a bad feeling as if there are eyes
+all around watching every movement you make, and it gives you a very uneasy
+feeling.  Perhaps you should turn back now while you still have all your
+pieces.    
+~
+120 32833 0 0 0 0 255 0
+D1
+~
+~
+0 0 12002
+D3
+~
+~
+0 0 21107
+S
+#12002
+In a foyer leading into the church.~
+   You are standing in the front foyer in the ruins of a large church.  A
+chilling wind blows from the east, imbued with the pungent smell of &08blood&00
+and &07death&00.  You realize that some terrible force of great evil has
+defiled the sanctity of this once-pristine chapel.    
+~
+120 65 0 0 0 0 255 0
+D1
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 12001
+D4
+~
+~
+0 0 12033
+S
+#12003
+In the Pews~
+   Before is a long row of pews, which seems to extend forever.  On the ground
+you spot the bones of the victims who were unfortunate enough to stumble upon
+this once hallowed ground.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12004
+D1
+~
+~
+0 0 12006
+S
+#12004
+An aisle between pews.~
+   You are in the main theater of the building.  Surrounding you is piles of
+rubble and broken up pews.  Once a great church, now over run with the living
+dead.  They have made it their home since the earth swallowed it long ago.  It
+is obvious you don't want to be here.  Directly ahead of you is an aisle that
+leads to the rear of the building and to your left and right are aisles leading
+between the pews.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12005
+D1
+~
+~
+0 0 12007
+D2
+~
+~
+0 0 12003
+D3
+~
+~
+0 0 12002
+S
+#12005
+In the Pews~
+   Before is a long row of pews, which seems to extend forever.  On the ground
+you spot the bones of the victims who were unfortunate enough to stumble upon
+this once hallowed ground.    
+~
+120 65 0 0 0 0 255 0
+D1
+~
+~
+0 0 12008
+D2
+~
+~
+0 0 12004
+S
+#12006
+In the Pews~
+   Standing in an isle of pews, your way is blocked from going any further.  
+It looks as if benches had been piled and burned.  Rising from the ash is a
+little stream of smoke, from where there must still be a few coals still
+smoldering underneath.  From here you can barley make out the bema.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12007
+D3
+~
+~
+0 0 12003
+S
+#12007
+An aisle between pews.~
+   You are in the main theater of the building.  Surrounding you is piles of
+rubble and broken up pews.  Once a great church, now over run with the living
+dead.  They have made it their home since the earth swallowed it long ago.  It
+is obvious you don't want to be here.  Directly a head of you is an aisle that
+leads to the rear of the building and to your left and right are aisles leading
+between the pews.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12008
+D1
+~
+~
+0 0 12011
+D2
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 12004
+S
+#12008
+In the Pews~
+   Making your through the pews, the bones of the fallen begin to crunch
+beneath your feet.  The hair on the back of your neck begins to stand on end as
+you suddenly feel a chill run down your spine.    
+~
+120 65 0 0 0 0 255 0
+D1
+~
+~
+0 0 12012
+D2
+~
+~
+0 0 12007
+D3
+~
+~
+0 0 12005
+S
+#12009
+At the end of a row of pews.~
+   Standing in an isle of pews, your way is blocked to your west by what looks
+as if benches had been piled and burned.  Rising from the ash is a little
+stream of smoke, from where there must still be a few coals still smoldering
+underneath.  Ahead of you lays a small stairwell leading up to an alter.  You
+think you can make out a doorway.  Could this be a way out of this forsaken
+place?    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12010
+D1
+~
+~
+0 0 12014
+S
+#12010
+In the Pews~
+   Making your through the pews, the bones of the fallen begin to crunch
+beneath your feet.  The hair on the back of your neck begins to stand on end as
+you suddenly feel a chill run down your spine.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12011
+D2
+~
+~
+0 0 12009
+S
+#12011
+An aisle between pews.~
+   You are in the main theater of the building.  Surrounding you is piles of
+rubble and broken up pews.  Once a great church, now over run with the living
+dead.  They have made it their home since the earth swallowed it long ago.  It
+is obvious you don't want to be here.  Directly a head of you is an aisle that
+leads to the rear of the building and to your left and right are aisles leading
+between the pews.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12012
+D1
+~
+~
+0 0 12016
+D2
+~
+~
+0 0 12010
+D3
+~
+~
+0 0 12007
+S
+#12012
+In the Pews~
+   Making your through the pews, the bones of the fallen begin to crunch
+beneath your feet.  The hair on the back of your neck begins to stand on end as
+you suddenly feel a chill run down your spine.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12013
+D2
+~
+~
+0 0 12011
+D3
+~
+~
+0 0 12008
+S
+#12013
+At the end of a row of pews.~
+   A pile of rubble from where the ceiling has caved in blocks your path from
+going any further.  Are you sure you wouldn't rather just get out?    
+~
+120 65 0 0 0 0 255 0
+D2
+~
+~
+0 0 12012
+S
+#12014
+At the end of a row of pews.~
+   As you begin to approach the alter, the bones of the fallen begin to crunch
+beneath your feet.  The hair on the back of your neck begins to stand on end as
+you suddenly feel a chill run down your spine.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12015
+D1
+~
+~
+0 0 12019
+D3
+~
+~
+0 0 12009
+S
+#12015
+In the Pews~
+   Making your through the pews, the bones of the fallen begin to crunch
+beneath your feet.  The hair on the back of your neck begins to stand on end as
+you suddenly feel a chill run down your spine.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12016
+D2
+~
+~
+0 0 12014
+S
+#12016
+In front of a podium.~
+   You are in the main theater of the building.  Surrounding you is piles of
+rubble and broken up pews.  Once a great church, now over run with the living
+dead.  They have made it their home since the earth swallowed it long ago.  It
+is obvious you don't want to be here.  Directly a head of you is an aisle that
+leads to the rear of the building and to your left and right are aisles leading
+between the pews.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12017
+D2
+~
+~
+0 0 12015
+D3
+~
+~
+0 0 12011
+S
+#12017
+In the Pews~
+   Making your through the pews, the bones of the fallen begin to crunch
+beneath your feet.  The hair on the back of your neck begins to stand on end as
+you suddenly feel a chill run down your spine.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12018
+D2
+~
+~
+0 0 12016
+S
+#12018
+At the end of a row of pews.~
+   The ceiling has caved in here blocking your path to the west.  To the east
+is a small flight of stairs leading up to a stage.  Should you really go any
+further?    
+~
+120 65 0 0 0 0 255 0
+D1
+~
+~
+0 0 12023
+D2
+~
+~
+0 0 12017
+S
+#12019
+On the edge of a stage.~
+   Standing on the edge of the stage, you see a small podium in the middle.  
+Form here you can kind of get a layout of the building.  You get some fleeting
+glimpses of figures moving around in the shadows.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12020
+D3
+~
+~
+0 0 12014
+S
+#12020
+Near an altar.~
+   Drawing nearer to the center of the stage, you can vaguely make out an altar
+ahead of you.  It appears to be covered in dried up blood.  There is also a
+door here, undoubtedly leading deeper into the heart of the desecrated hovel.
+~
+120 64 0 0 0 0 255 0
+D0
+~
+~
+0 0 12021
+D1
+~
+door~
+1 0 12024
+D2
+~
+~
+0 0 12019
+S
+#12021
+At the Altar.~
+   You stand in the center of the stage.  There is an old broken up podium in
+the middle of the floor.  You think you may have picked up a splinter from a
+shard of wood.  Against the wall stands an altar completely drenched in the
+blood of former adventurers.  On the wall you see more splatters of blood and a
+large crucifix that has been inverted.  From here you can vaguely make out the
+balcony and you can see figures moving around in the shadows.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12022
+D2
+~
+~
+0 0 12020
+S
+#12022
+Near an altar.~
+   Drawing nearer to the center of the stage, you can vaguely make out an altar
+ahead of you.  It appears to be covered in dried up blood.  There is also a
+door here, undoubtedly leading deeper into the heart of the building.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12023
+D1
+~
+door~
+1 0 12025
+D2
+~
+~
+0 0 12021
+S
+#12023
+On the edge of a stage.~
+   Standing on the edge of the stage, you see a small podium in the middle.  
+Form here you can kind of get a layout of the building.  You get some fleeting
+glimpses of figures moving around in the shadows.    
+~
+120 65 0 0 0 0 255 0
+D2
+~
+~
+0 0 12022
+D3
+~
+~
+0 0 12018
+S
+#12024
+a Passage Way~
+   You have entered a small, dark passage way.  You can make out old portraits
+lining the walls, but can't seem to make out any faces.  Everything is covered
+in dried blood undoubtedly from those who dared explore this unhallowed place.
+  
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12026
+D3
+~
+door~
+1 0 12020
+S
+#12025
+a Passage Way~
+   You have entered a small, dark passage way.  You can make out old portraits
+lining the walls, but can't seem to make out any faces.  Everything is covered
+in dried blood undoubtedly from those who dared enter before.    
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12028
+D3
+~
+door~
+1 0 12022
+S
+#12026
+a Passage Way~
+   Continuing along the small passage, you hear the fluttering of bats all
+around you, though it is too dark to see anything not directly in front of you.
+The walls, though decorated with decrepit portraits, are smeared and covered
+with blood.  Is moving forward really a good idea?    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12027
+D3
+~
+~
+0 0 12024
+S
+#12027
+a Passage Way~
+   Continuing along the small passage, you hear the fluttering of bats all
+around you, though it is too dark to see anything not directly in front of you.
+The walls, though decorated with decrepit portraits, are smeared and covered
+with blood.  Is moving forward really a good idea?    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12028
+D1
+~
+~
+0 0 12029
+D2
+~
+~
+0 0 12026
+S
+#12028
+a Passage Way~
+   Continuing along the small passage, you hear the fluttering of bats all
+around you, though it is too dark to see anything not directly in front of you.
+The walls, though decorated with decrepit portraits, are smeared and covered
+with blood.  Is moving forward really a good idea?    
+~
+120 73 0 0 0 0 255 0
+D2
+~
+~
+0 0 12027
+D3
+~
+~
+0 0 12025
+S
+#12029
+A Small Study~
+   You have entered a small study.  Bookcases filled with old crumbling books
+line the walls.  Candles burn bright dripping wax all over.  In the center of
+the room stands a large podium with a very large old looking bible lying open,
+though completely covered in blood.  On the far side of the room, there is a
+door ajar leading deeper into the heart of the decrepit building.    
+~
+120 73 0 0 0 0 255 0
+D3
+~
+~
+0 0 12027
+S
+#12030
+Top of the Stairs~
+   As you enter the hidden passage you notice lights flicker on, lighting the
+path you'll take and darkening as you pass.  The wooden stairs appear to go
+down into a larger area.  You get the feeling that going down this stairwell is
+going to lead to your inevitable demise.    
+~
+120 73 0 0 0 0 255 0
+D5
+~
+~
+0 0 12032
+S
+#12031
+mob chute 1~
+mob load room
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12039
+D1
+~
+~
+0 0 12013
+D2
+~
+~
+0 0 12019
+D3
+~
+~
+0 0 12023
+D4
+~
+~
+0 0 12019
+D5
+~
+~
+0 0 12027
+S
+#12032
+Through a Narrow Stairwell~
+   Making your way down the stairwell, you see long marks etched into the
+wooden walls, some appear to still have finger nails still sticking out of
+them.  The rough wooden boards along the side barely contain the rotting earth
+that line these walls.    
+~
+120 73 0 0 0 0 255 0
+D4
+~
+~
+0 0 12030
+D5
+~
+~
+0 0 12040
+S
+#12033
+A Stairwell~
+   You are at the top of the stairs on the way to the balcony.  Decrepit
+pictures line the walls.    
+~
+120 65 0 0 0 0 255 0
+D1
+~
+~
+0 0 12035
+D5
+~
+~
+0 0 12002
+S
+#12034
+The Balcony~
+   The balcony reveals a horrific view of the carnage unleashed by the vampiric
+scourge upon the floor of the church below.  Dark shadowy figures emerge in and
+out of the shadows.  The balcony continues to the north and east.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12035
+D1
+~
+~
+0 0 12037
+S
+#12035
+The Balcony~
+   The balcony reveals a horrific view of the carnage unleashed by the vampiric
+scourge upon the floor of the church below.  Dark shadowy figures emerge in and
+out of the shadows.  The balcony continues to the north, south and east.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12036
+D1
+~
+~
+0 0 12038
+D2
+~
+~
+0 0 12034
+D3
+~
+~
+0 0 12033
+S
+#12036
+The Balcony~
+   The balcony reveals a horrific view of the carnage unleashed by the vampiric
+scourge upon the floor of the church below.  Dark shadowy figures emerge in and
+out of the shadows.  The balcony continues to the east.    
+~
+120 65 0 0 0 0 255 0
+D1
+~
+~
+0 0 12039
+D2
+~
+~
+0 0 12035
+S
+#12037
+The Balcony~
+   The balcony reveals a horrific view of the carnage unleashed by the vampiric
+scourge upon the floor of the church below.  Dark shadowy figures emerge in and
+out of the shadows.  The balcony continues to the north and west.  To the east
+you see a section of the railing has broken away.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12038
+D1
+a nasty looking fall.
+~
+~
+0 0 12099
+D3
+~
+~
+0 0 12034
+E
+<NONE>~
+<NONE>
+~
+S
+#12038
+The Balcony~
+   The balcony reveals a horrific view of the carnage unleashed by the vampiric
+scourge upon the floor of the church below.  Dark shadowy figures emerge in and
+out of the shadows.  The balcony continues to the west and south.    
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12039
+D2
+~
+~
+0 0 12037
+D3
+~
+~
+0 0 12035
+S
+#12039
+The Balcony~
+   The balcony reveals a horrific view of the carnage unleashed by the vampiric
+scourge upon the floor of the church below.  Dark shadowy figures emerge in and
+out of the shadows.  The balcony continues to the south.    
+~
+120 65 0 0 0 0 255 0
+D2
+~
+~
+0 0 12038
+D3
+~
+~
+0 0 12036
+S
+#12040
+Through a Narrow Stairwell~
+   As you enter the catacombs, you see rows of coffins lining the walls.  They
+are stained with blood and appear to have a distinct look to them.  Dimly lit
+by torches in the shape of a fang, you think you see something pass in front of
+your eyes but you tell yourself that you are just seeing things...  But are
+you?    
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12041
+D4
+~
+~
+0 0 12032
+S
+#12041
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12043
+D3
+~
+~
+0 0 12040
+S
+#12042
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12043
+D1
+~
+~
+0 0 12045
+S
+#12043
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12044
+D1
+~
+~
+0 0 12046
+D2
+~
+~
+0 0 12042
+D3
+~
+~
+0 0 12041
+S
+#12044
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12047
+D2
+~
+~
+0 0 12043
+S
+#12045
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12046
+D1
+~
+~
+0 0 12049
+D3
+~
+~
+0 0 12042
+S
+#12046
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12047
+D1
+~
+~
+0 0 12050
+D2
+~
+~
+0 0 12045
+D3
+~
+~
+0 0 12043
+S
+#12047
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12051
+D2
+~
+~
+0 0 12046
+D3
+~
+~
+0 0 12044
+S
+#12048
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12049
+D1
+~
+~
+0 0 12054
+S
+#12049
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12050
+D1
+~
+~
+0 0 12055
+D2
+~
+~
+0 0 12048
+D3
+~
+~
+0 0 12045
+S
+#12050
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12051
+D1
+~
+~
+0 0 12056
+D2
+~
+~
+0 0 12049
+D3
+~
+~
+0 0 12046
+S
+#12051
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12052
+D1
+~
+~
+0 0 12057
+D2
+~
+~
+0 0 12050
+D3
+~
+~
+0 0 12047
+S
+#12052
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12058
+D2
+~
+~
+0 0 12051
+S
+#12053
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 585 4 0 0 0 255 0
+D0
+~
+~
+0 0 12054
+S
+#12054
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12055
+D1
+~
+~
+0 0 12060
+D2
+~
+~
+0 0 12053
+D3
+~
+~
+0 0 12048
+S
+#12055
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12056
+D1
+~
+~
+0 0 12061
+D2
+~
+~
+0 0 12054
+D3
+~
+~
+0 0 12049
+S
+#12056
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12057
+D1
+~
+~
+0 0 12062
+D2
+~
+~
+0 0 12055
+D3
+~
+~
+0 0 12050
+S
+#12057
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12058
+D1
+~
+~
+0 0 12063
+D2
+~
+~
+0 0 12056
+D3
+~
+~
+0 0 12051
+S
+#12058
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12064
+D2
+~
+~
+0 0 12057
+D3
+~
+~
+0 0 12052
+S
+#12059
+An alcove in the Master's Chamber~
+   Although covered with a thin layer of dust, you can see faint symbols
+scratched into the walls, seemingly by fingernails.  Faint spots of blood
+speckle the walls here and there.  You hear the faint sound of chanting as you
+enter the room.    
+~
+120 585 4 0 0 0 255 0
+D2
+~
+~
+0 0 12079
+S
+#12060
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12061
+D3
+~
+~
+0 0 12054
+S
+#12061
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12062
+D1
+~
+~
+0 0 12065
+D2
+~
+~
+0 0 12060
+D3
+~
+~
+0 0 12055
+S
+#12062
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12063
+D1
+~
+~
+0 0 12066
+D2
+~
+~
+0 0 12061
+D3
+~
+~
+0 0 12056
+S
+#12063
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12064
+D1
+~
+~
+0 0 12067
+D2
+~
+~
+0 0 12062
+D3
+~
+~
+0 0 12057
+S
+#12064
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D2
+~
+~
+0 0 12063
+D3
+~
+~
+0 0 12058
+S
+#12065
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12066
+D3
+~
+~
+0 0 12061
+S
+#12066
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12067
+D1
+~
+~
+0 0 12068
+D2
+~
+~
+0 0 12065
+D3
+~
+~
+0 0 12062
+S
+#12067
+The Catacombs~
+   You find yourself in a network of underground tunnels under the towering
+structure above.  A disturbing silence echoes within this cavernous labyrinth.
+After witnessing the desecration above, you can only imagine what terror must
+lurk within these depths.    
+~
+120 73 0 0 0 0 255 0
+D2
+~
+~
+0 0 12066
+D3
+~
+~
+0 0 12063
+S
+#12068
+A crudely cut tunnel~
+   Running east to west, you find yourself in a small, dark, dirt strewn tunnel
+almost like a hallway, which looked to have just been cut from solid earth by
+hand.  You feel yourself bending as to not bump your head as you move along.  
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12069
+D3
+~
+~
+0 0 12066
+S
+#12069
+A crudely cut stairwell~
+   As you proceed the floor begins to slope and narrow before becoming a set of
+stone steps carved out of the earth leading even further into the bowels of the
+earth.    
+~
+120 73 0 0 0 0 255 0
+D3
+~
+~
+0 0 12068
+D5
+~
+~
+0 0 12070
+S
+#12070
+A crudely cut stairwell~
+   Peering further into the shadows as you reach the bottom of the stairwell,
+you see nothing but pitch blackness before your feet.  The uneasy feeling
+you've had the entire time seems to have increased tenfold.  You have the mind
+to turn and run before you meet the untimely death you know you inevitably
+will.    
+~
+120 73 0 0 0 0 255 0
+D2
+~
+~
+0 0 12071
+D4
+~
+~
+0 0 12069
+S
+#12071
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12070
+D2
+~
+~
+0 0 12072
+S
+#12072
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12071
+D2
+~
+~
+0 0 12073
+S
+#12073
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12072
+D1
+~
+door~
+1 12012 12075
+D2
+~
+~
+0 0 12080
+S
+#12074
+mob chute 2~
+mob load room
+~
+120 65 0 0 0 0 255 0
+D0
+~
+~
+0 0 12062
+D1
+~
+~
+0 0 12073
+D2
+~
+~
+0 0 12043
+D3
+~
+~
+0 0 12084
+D4
+~
+~
+0 0 12058
+D5
+~
+~
+0 0 12032
+S
+#12075
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12077
+D3
+~
+door~
+1 12012 12073
+S
+#12076
+The Guards Quarters~
+   Elaborate tapestries flow majestically on the walls of this mighty room.  
+Lavishly designed, these guards seem to live a life of luxurious.  Though they
+appear calm and relaxed, you get the sense that their entire bodies are riddled
+with tension.  Corpses are strewn about the room, yet not a drop of blood seems
+to soiled this privileged dwelling.  Their piercing eyes lock with yours as
+they grin demonically while licking their fangs.  Something tells you that
+those doors will only be opened after someone has died, hopefully it isn't
+going to be you...    
+~
+120 393801 4 0 0 0 255 0
+D0
+~
+~
+0 0 12077
+S
+#12077
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 589 4 0 0 0 255 0
+D0
+~
+~
+0 0 12078
+D1
+~
+door~
+2 12012 12079
+D2
+~
+~
+0 0 12076
+D3
+~
+~
+0 0 12075
+S
+#12078
+The Guards Quarters~
+   Elaborate tapestries flow majestically on the walls of this mighty room.  
+Lavishly designed, these guards seem to live a life of luxurious.  Though they
+appear calm and relaxed, you get the sense that their entire bodies are riddled
+with tension.  Corpses are strewn about the room, yet not a drop of blood seems
+to soiled this privileged dwelling.  Their piercing eyes lock with yours as
+they grin demonically while licking their fangs.  Something tells you that
+those doors will only be opened after someone has died, hopefully it isn't
+going to be you...    
+~
+120 73 0 0 0 0 255 0
+D2
+~
+~
+0 0 12077
+S
+#12079
+the Master's Chamber~
+   You have entered a large chamber.  Here is the residing place of the Master,
+a very old and dangerous immortal.  You get the feeling of a powerful magic in
+the air creating a kind of force field, entrapping the embodiment of this
+already powerful being.  In the middle of the room is a throne of which the
+Master is standing in front of.  To his side is the Anointed one, the one to
+lead him from him captivity and bring about the Harvest.  Behind the throne you
+can barley see a large, burly beast pacing around in its cage.  The walls are
+completely spattered with blood and guts.  You know you have definitely made a
+grave error in coming here.    
+~
+120 589 0 0 0 0 255 0
+D0
+~
+~
+0 0 12059
+D1
+~
+cage~
+2 12002 12097
+D3
+~
+door~
+2 12012 12077
+S
+#12080
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12073
+D2
+~
+~
+0 0 12081
+S
+#12081
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12080
+D3
+~
+~
+0 0 12082
+S
+#12082
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12081
+D3
+~
+~
+0 0 12083
+S
+#12083
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12082
+D2
+~
+~
+0 0 12088
+D3
+~
+~
+0 0 12084
+S
+#12084
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 12083
+D3
+~
+~
+0 0 12085
+S
+#12085
+A crudely cut tunnel~
+   You tread about a dark rock strewn path carved through the very earth
+itself.  Its floor run smooth with wear, and jagged rock from tunneling which
+stab at your sides.  You seem to see some roots racing across the ceiling.  
+All around you, you feal burning eyes peer from the recesses of the shadows.  
+~
+120 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 12086
+D1
+~
+~
+0 0 12084
+S
+#12086
+A crudely cut tunnel~
+   In the rough dirt strewn at your feet you can see the rough imprint of a
+square about big enough for a trapdoor, however the ring that was the handle
+seems to be rusted with age.  Some small roots seem to have grown partially
+over the opening.  This door hasn't been opened most likely as long as you've
+been on this earth.    
+~
+120 73 0 0 0 0 255 0
+D2
+~
+~
+0 0 12085
+D5
+~
+trapdoor~
+1 0 12087
+S
+#12087
+An Oubliette~
+   A room which appears to have first been a hole with a sturdy door just
+placed on top, the sides however hold the marks of scratches and clawing, the
+dirt around the claw marks are darkened with dried blood you can't seem to keep
+the smell of rot and death from penetrating your nostrils.  In the corner, you
+can faintly make out a pile of what looks like human remains.    
+~
+120 8913229 0 0 0 1 255 0
+D5
+~
+secret~
+1 0 12090
+S
+#12088
+an open cavern~
+   You have entered a large empty cavern.  A torch hangs on the wall lighting
+the room.  But why on earth would anyone want to light an empty room?    
+~
+120 845 4 0 0 0 255 0
+D0
+~
+~
+0 0 12083
+S
+#12089
+A Large Cavern~
+   The moist air reeks with the stench of aged vinegar.  The walls are damp
+from wine that has seeped through from the ceiling, possibly as a result of a
+few drunken mishaps.  Despite the intoxicating effect, you know something
+sinister lingers nearby.    
+~
+120 4194377 0 0 0 0 255 0
+D0
+~
+~
+0 0 12090
+D1
+~
+~
+0 0 12091
+S
+#12090
+A Large Cavern~
+   The moist air reeks with the stench of aged vinegar.  The walls are damp
+from wine that has seeped through from the ceiling, possibly as a result of a
+few drunken mishaps.  Despite the intoxicating effect, you know something
+sinister lingers nearby.    
+~
+120 4194377 0 0 0 0 255 0
+D1
+~
+~
+0 0 12092
+D2
+~
+~
+0 0 12089
+D4
+~
+secret~
+1 0 12087
+S
+#12091
+A Large Cavern~
+   The moist air reeks with the stench of aged vinegar.  The walls are damp
+from wine that has seeped through from the ceiling, possibly as a result of a
+few drunken mishaps.  Despite the intoxicating effect, you know something
+sinister lingers nearby.    
+~
+120 4194377 0 0 0 0 255 0
+D0
+~
+~
+0 0 12092
+D1
+~
+~
+0 0 12093
+D3
+~
+~
+0 0 12089
+S
+#12092
+A Large Cavern~
+   The moist air reeks with the stench of aged vinegar.  The walls are damp
+from wine that has seeped through from the ceiling, possibly as a result of a
+few drunken mishaps.  Despite the intoxicating effect, you know something
+sinister lingers nearby.    
+~
+120 4194377 0 0 0 0 255 0
+D1
+~
+~
+0 0 12094
+D2
+~
+~
+0 0 12091
+D3
+~
+~
+0 0 12090
+S
+#12093
+A Large Cavern~
+   The moist air reeks with the stench of aged vinegar.  The walls are damp
+from wine that has seeped through from the ceiling, possibly as a result of a
+few drunken mishaps.  Despite the intoxicating effect, you know something
+sinister lingers nearby.    
+~
+120 4194377 0 0 0 0 255 0
+D0
+~
+~
+0 0 12094
+D1
+~
+~
+0 0 12095
+D3
+~
+~
+0 0 12091
+S
+#12094
+A Large Cavern~
+   The moist air reeks with the stench of aged vinegar.  The walls are damp
+from wine that has seeped through from the ceiling, possibly as a result of a
+few drunken mishaps.  Despite the intoxicating effect, you know something
+sinister lingers nearby.    
+~
+120 4194377 0 0 0 0 255 0
+D1
+~
+~
+0 0 12096
+D2
+~
+~
+0 0 12093
+D3
+~
+~
+0 0 12092
+S
+#12095
+A Large Cavern~
+   The moist air reeks with the stench of aged vinegar.  The walls are damp
+from wine that has seeped through from the ceiling, possibly as a result of a
+few drunken mishaps.  Despite the intoxicating effect, you know something
+sinister lingers nearby.    
+~
+120 4194377 0 0 0 0 255 0
+D0
+~
+~
+0 0 12096
+D3
+~
+~
+0 0 12093
+S
+#12096
+A Large Cavern~
+   The moist air reeks with the stench of aged vinegar.  The walls are damp
+from wine that has seeped through from the ceiling, possibly as a result of a
+few drunken mishaps.  Despite the intoxicating effect, you know something
+sinister lingers nearby.    
+~
+120 4194377 0 0 0 0 255 0
+D2
+~
+~
+0 0 12095
+D3
+~
+~
+0 0 12094
+S
+#12097
+Inside a cage.~
+   Blood stained and covered in entrails, this cage has seen it's share of
+slaughter.  The stench of death lingers about every part.  The bars are bent
+and rigged from the frenzied beast thrusting against them.  Obviously this
+animal is not too happy to be in here.  Lupine skulls and dwarven skeletons are
+some of the only distinguishable remains in this beasts domain.  It doesn't
+appear that anyone has left the cage in one piece, let alone alive...    
+~
+120 584 4 0 0 0 255 0
+D3
+~
+cage~
+2 12004 12079
+S
+#12098
+An old wine celler.~
+   As you enter the room, a cave-in behind you blocks the exit.  Looking around
+you see old broken down wine racks half standing against the walls and
+shattered pieces of bottle litter the floor.  As you walk through the room, the
+fragments of glass do well to mess with your attempts to conceal your presence.
+  
+~
+120 73 0 0 0 0 255 0
+S
+#12099
+Falling off the Balcony.~
+   You fall to the ground and crack your head on an old beaten up pew.  You
+live just long enough to realize the horror of being eaten alive by a pack of
+hungry vampires!    
+~
+120 71 0 0 0 0 255 0
+E
+<NONE>~
+<NONE>
+~
+S
+$~

@@ -1,0 +1,699 @@
+#29801
+H W 0~
+human munchkin female~
+a low level munchkin (Level 1)~
+A small female is babbling something about monsters and treasure.
+~
+Before you stands a Munchkin.  She has red hair, is wearing a yellow blouse, and
+a long flowing purple skirt.  She is carrying a homemade axe fashioned from
+tinfoil and cardboard in one hand and a crudely made spear in the other.  She
+must be a member of the RavenLARP club that was recently formed at Midgaard
+University.
+~
+86042 0 0 0 1279016 0 0 0 0
+51 5 -3 1d1+1500 1d1+25
+5 100
+9 9 2 0 -1 -1
+Z 29832
+Z 29801
+Z 29891
+#29802
+C W 0~
+orc munchkin~
+a low level munchkin (Level 2)~
+A small orc is lost, mumbling something about his D6.
+~
+The orc that stands here is a fairly small creature.  Large, fake fangs hang
+from his mouth and he is wearing nothing other than a brown loincloth around his
+waist.  Around his neck is a crudely made necklace that is supposed to resemble
+something along the lines of ears.  Strange indeed.
+~
+86042 0 0 0 1279016 0 0 0 0
+51 0 -4 1d1+2500 1d1+50
+10 100
+9 9 1 0 -1 -1
+Z 29832
+Z 29891
+Z 29802
+#29803
+L W 0~
+halfling munchkin~
+a low level munchkin (Level 3)~
+A halfling with a fake beard is here muttering something about curses.
+~
+This halfling before you is a pretty stout fella'.  He does, however, seem to be
+wearing a fake beard and ears that resemble that of an elf.  He seems to be
+intent on staring at the ring on his finger, referring to it as "a wishing ring"
+and glances around the room with paranoid eyes every few seconds.
+~
+86042 0 0 0 5473320 0 0 0 0
+51 -5 -5 1d1+4500 5d5+30
+15 100
+9 9 1 0 -1 -1
+Z 29832
+Z 29803
+Z 29892
+#29804
+H W 0~
+ranger munchkin~
+a mid level munchkin (Level 4)~
+A rather nondescript Ranger is here, trying to tame wild monsters.
+~
+Here is a Ranger munchkin.  He claims to have the ability to charm monsters and
+make them his own, he calls them "steeds".  He is a large ogre with pale white
+skin and only one eye.  He seems pretty excited to have crossed paths with you.
+He asks "do you need any help?"  
+~
+86074 0 0 0 5473448 132096 0 0 0
+51 -20 -6 1d1+6000 7d7+50
+50 100
+9 9 1 0 -1 -1
+Z 29832
+Z 29804
+Z 29892
+#29805
+W N 0~
+dwarf munchkin~
+a mid level munchkin (Level 5)~
+A dwarf is here pondering his next move.
+~
+This is a small dwarf.  However, she makes up for her lack of size in that of
+magic.  She is a necromancer.  With soft yellow eyes and and long flowing black
+cape it would be a shame to harm her.  She does have treasure now that you think
+about it.  She must die.
+~
+86074 0 0 0 5473450 3104 0 0 0
+51 -30 -8 1d1+9000 9d9+50
+55 100
+9 9 2 0 -1 -1
+Z 29832
+Z 29893
+Z 29805
+#29806
+H M 0~
+witch munchkin~
+a mid level munchkin (Level 6)~
+A witch is here attempting to take your turn!
+~
+Here is a male witch from the RavenLARP club.  He is holding a twig that has two
+small feathers glued to it at the top.  He is wearing a vest made of some type
+of animal fur and has strange painting all over his skin.  A straw skirt is the
+only thing he is wearing below the torso.
+~
+86042 0 0 0 5473448 3104 0 0 0
+51 -30 -8 1d1+10000 10d10+40
+60 100
+9 9 1 0 -1 -1
+Z 29832
+Z 29806
+Z 29893
+#29807
+R C 0~
+summoner female munchkin~
+a high level munchkin (Level 7)~
+A small female is here summoning a monster.
+~
+This is a summoner munchkin.  A cloud of white smoke surrounds her and she
+chants an incantation.  She is covered from head to toe in multi-colored cloth
+and she carries a small wooden stake (presumably) her "staff".  She pays you no
+attention.
+~
+1073827898 0 0 0 5473448 3104 0 0 0
+51 -30 -11 1d1+10500 10d10+60
+65 100
+9 9 2 0 -1 -1
+Z 29832
+Z 29894
+Z 29807
+#29808
+D K 10~
+eagle knight munchkin~
+a high level munchkin (Level 8)~
+A very tall, very regal knight is here. "Do you have any treasure?" he asks.
+~
+He is a famed Eagle Knight munchkin.  He carries a massive broadsword (made from
+tin foil and tape) that he needs both hands to use.  On his feet are brown boots
+that come to a point at the end.  He has feathers poking out from the inside of
+his blue coat as well as taped to his shoulder pads.  He grins, slightly.
+~
+1075925050 0 0 0 5473448 9216 0 0 0
+51 -30 -13 1d1+14000 20d20+25
+70 100
+9 9 1 0 -1 -1
+Z 60
+Z 29832
+Z 29808
+Z 29894
+#29809
+H D 0~
+troll munchkin~
+a high level munchkin (Level 9)~
+A figure stands here, swaying side to side and drooling slightly.
+~
+Here is one of the senior RavenLARP members.  He is nothing more than a troll
+when compared to the lower level munchkins.  Glowing red eyes peer out from a
+helmet made from wood.  He carries the corpse of an elf which doubles as his
+wield.
+~
+1074876442 0 0 0 5473448 3104 0 0 0
+51 -30 -14 1d1+15500 20d20+20
+75 100
+9 9 1 0 -1 -1
+Z 60
+Z 29832
+Z 29895
+Z 29809
+#29810
+H A 0~
+gnome munchkin alchemist~
+a level 10 munchkin (Level 10, Duh!)~
+A small gnome decked out in an alchemist getup is here, mixing something together.
+~
+Here is a munchkin who thinks the contest is already over.  At Level 10, why
+not?  He has a lime-green potion in one hand and a red vial in the other.  He
+cackles with glee and begins to mix the two together before tossing it in your
+general direction.
+~
+-1072607206 0 0 0 5473448 3072 0 0 0
+51 -30 -18 1d1+20000 25d25+50
+80 0
+9 9 1 0 -1 -1
+Z 60
+Z 29832
+Z 29810
+Z 29896
+#29811
+H D 0~
+epic munchkin hell knight~
+an &14EPIC&00 munchkin (Level 11)~
+A famed Hell-Knight is here, smoke pouring from his sword.
+~
+He is the most senior member of RavenLARP.  He is a famed Hell-Knight!  He is
+covered from head to toe in very aggressive black armor.  Two red eyes peer at
+you from behind a cruel looking helmet.  He laughs heartily as you advance on
+him.  This will be difficult.
+~
+1074876442 0 0 0 5473448 19488 0 0 0
+51 -30 -20 1d1+30000 25d25+60
+90 100
+9 9 1 0 -1 -1
+Z 60
+Z 29832
+Z 29811
+Z 29897
+#29821
+P R 0~
+potted plant~
+a &09potted plant&00 (Level 1)~
+A nondescript plant in a pot sits here, oddly enough.
+~
+Did you think this would be something worth further inspection?  It's a small
+green plant embedded in some rather rich looking soil.  Actually, does it have
+teeth?  Perhaps you should lean in closer?
+~
+86042 0 0 0 1279016 0 0 0 0
+51 5 -1 1d1+100 1d1+10
+15 100
+9 9 0 0 -1 -1
+Z 806
+Z 29832
+#29822
+A W 0~
+crabs~
+a group of tiny &00&01crabs&00 (Level 2)~
+A small group of crabs has wandered here from the ocean.
+~
+There a quite a few of these tiny crustacean critters clattering around.  They
+noisily snap their tiny claws as they aggressively move towards you.  Funny, you
+could probably crush all of them, at the same time, with one foot.  They sure
+look like they mean business though.
+~
+86042 0 0 0 1279016 0 0 0 0
+51 0 -2 1d1+500 1d1+20
+20 100
+9 9 0 0 -1 -1
+Z 806
+#29823
+A W 0~
+angry chicken~
+a large &08angry &14chicken&00 (Level 3)~
+An angry chicken is here, squawking incessantly.
+~
+Whatever made this chicken angry sure did a good job.  Strutting back and forth
+in a typical bird-like motion this chicken will not stop squawking.  Not your
+average size this chicken stands about three feet tall.  Her feathers have been
+ruffled to the max giving it an even larger appearance.
+~
+86042 0 0 0 1279016 0 0 0 0
+51 -5 -3 1d1+750 1d1+30
+25 100
+9 9 2 0 -1 -1
+Z 806
+#29824
+A W 0~
+flying frogs~
+a group of flying &09frogs&00 (Level 4)~
+A group of frogs hover in midair(?)
+~
+These are very large frogs.  Time has been kind to them and afforded them the
+opportunity to sprout wings and take flight.  They are, however, very clumsy
+while moving around in the air.  It sure has made hunting much easier for them.
+They all stare at you, blankly.
+~
+86042 0 0 0 1279016 0 0 0 0
+51 -5 -3 1d1+1000 1d1+40
+25 100
+9 9 0 0 -1 -1
+Z 806
+#29825
+U W 0~
+crawling hand~
+a &07crawling hand&00 (Level 5)~
+Ew! A hand is here crawling around on the ground.
+~
+Whoever was unfortunate enough to lose this hand probably doesn't care too much
+anymore.
+~
+86042 0 0 0 1279016 0 0 0 0
+51 -5 -3 1d1+1500 1d1+50
+25 0
+9 9 0 0 -1 -1
+Z 806
+Z 29832
+#29826
+G S 0~
+rune giant~
+a &00&03R&10une &00&03G&10iant&00 (Level 6)~
+A giant towers over you.
+~
+This is a Rune Giant.  In his hands rests a sword that is longer than any sword
+created, as twice as thick.  He wears a large yellow necklace that is made from
+human bones and glued together with the tears of a child.  He glowers at you
+with malcontent.
+~
+1073827866 0 0 0 5473320 0 0 0 0
+51 -10 -6 1d1+2000 2d2+20
+30 100
+9 9 1 0 -1 -1
+Z 806
+#29827
+T T 0~
+hemo goblin hemogoblin~
+a &14hemo&09goblin&00 (Level 7)~
+A green goblin is here, hissing and bearing his fangs.
+~
+The hemogoblin is a foul creature, mostly because of his awful stench.  A long
+flowing black cape billows out behind him as he advances towards you, hissing.
+Red eyes seem intent on destroying everything you've ever loved.  Too bad he's
+only the size of Buick.
+~
+1073827866 0 0 0 5997608 0 0 0 0
+51 -10 -6 1d1+3000 3d3+40
+30 0
+9 9 1 0 -1 -1
+Z 806
+#29828
+H C 0~
+ogre achiever~
+the &14ogre &09achiever&00 (Level 8)~
+A super-sized ogre lumbers about here wearing a suit and carrying a briefcase.
+~
+We all know one.  An over achiever.  They spent their whole lives trying to work
+for that next promotion, often staying late hours in attempts to prove their
+worth.  They often however miss out on life opportunities and it certainly shows
+in this ogres face.  Perhaps you should put him out of his misery.
+~
+1134618 0 0 0 5473320 0 0 0 0
+51 -10 -7 1d1+3000 3d3+50
+30 100
+9 9 1 0 -1 -1
+Z 801
+#29829
+J M 0~
+winter witch~
+the &21&11Winter Witch&00 (Level 9)~
+A very attractive female is here, dressed all in &14white&00.
+~
+The winter witch is very attractive female.  Her long blonde hair flows past her
+waist in a majestic fashion.  She is wearing a blue dress that mimics the ice
+that she leaves in her wake.  She holds a sparkling staff in one hand and a
+ferret in the other.  Strange.
+~
+1073828122 0 0 0 5473320 32 0 0 0
+51 -10 -7 1d1+3500 3d3+40
+40 100
+9 9 2 0 -1 -1
+Z 801
+#29830
+T W 0~
+internet troll~
+an &00&03internet troll&00 (Level 10)~
+A troll is here, browsing through posts on social media sites.
+~
+Ah.  An infamous internet troll.  He is quite a large fellow, with brown fur
+covering most of his body.  While he is rather short with stubby legs, he makes
+up for it with speed.  He is also trying to lure you into something much more
+dangerous...  An argument about politics or health care!
+~
+86042 0 0 0 5473448 0 0 0 0
+51 -15 -9 1d1+6000 8d8+50
+40 100
+9 9 1 0 -1 -1
+Z 801
+#29831
+N A 0~
+akata demon~
+&07Ak&08a&07ta&00 (Level 11)~
+A demon with red eyes floats here.
+~
+Akata is a troublesome demon.  A body split in two halves, the front being that
+of a manticore, and the rear resembling that of a zebra, you feel confused just
+even looking at it.  This has afforded enough time to make a calculated move
+towards you.  It has a grin you'd soon like to forget.
+~
+1073827898 0 0 0 5473448 1056 0 0 0
+51 -15 -10 1d1+7000 9d9+60
+50 100
+9 9 0 0 -1 -1
+Z 801
+#29832
+H W 0~
+3782 orcs~
+3,782 &00&01Orcs&00 (Level 12)~
+A very large number of Orcs are here, milling about.
+~
+Straight out of Mordor!  Thousands of orcs stand before you decked out in full
+battle regalia and armed to the teeth.  They snort and grunt and shift back and
+forth in anticipation of the coming battle.  The only thing that could make this
+battle worse would be some Nazgul.
+~
+610362 0 0 0 5473448 0 0 0 0
+51 -20 -11 1d1+8500 10d10+50
+35 100
+9 9 0 0 -1 -1
+Z 802
+#29833
+H M 0~
+strix black demon~
+&08St&07r&08ix&00 (Level 13)~
+A pitch black demon with red eyes advances.
+~
+Strix is a rogue demon, tossed out of Hell by Mammon himself.  His leathery
+wings are full of holes and barely sustain him in the air.  He wears a pair of
+yellow board shorts, which is odd, considering he intent on killing you right
+now.
+~
+1073827898 0 0 0 5473448 0 0 0 0
+51 -20 -12 1d1+10000 11d11+40
+40 100
+9 9 1 0 -1 -1
+Z 802
+#29834
+K C 0~
+norns strange being~
+&00&04N&00&05or&00&01n&00&03s&00 (Level 14)~
+A strange being is here, convincing you of something.
+~
+One of three brothers, Norns can get inside your head.  As you look this strange
+being over, thoughts of depression and suicide fill your every thought.  
+Memories that aren't yours begin to slowly replace every other memory you have.
+Within a few seconds you begin to wonder if a long walk off of a short pier is
+the best option.
+~
+1074352186 0 0 0 5473428 32 0 0 0
+51 -25 -7 1d1+5000 15d15+35
+30 100
+9 9 1 0 -1 -1
+Z 60
+Z 801
+#29835
+H D 0~
+sandpoint sand point devil horse demon~
+a &00&05S&07andpoint &00&05D&07evil&00 (Level 15)~
+A horse-demon with sharp teeth snorts and charges.
+~
+A sandpoint demon is something nightmares are made of.  A half horse, half demon
+beast creature with super sharp teeth and wings charges at you.  It is cackling
+with insane glee, thirsting for your blood!
+~
+1073827866 0 0 0 5473450 3072 0 0 0
+51 -30 -14 1d1+11000 10d10+60
+50 100
+9 9 0 0 -1 -1
+Z 803
+#29836
+Z K 0~
+geb~
+&09Geb&00, the &21&10High Paladin&00 (Level 16)~
+Geb stands here, looking quite calm.
+~
+Geb is a High Paladin serving the one true god of Solomnia.  His golden lochs
+flow past his shoulders and his eyes glow green with envy.  In one hand he holds
+a potion in a vial that is the shape of a skull.  In the other, the fist of
+doom.  He sort of looks like Chuck Norris.
+~
+1073827866 0 0 0 5473448 8192 0 0 0
+51 -30 -15 1d1+12500 15d15+60
+55 100
+9 9 1 0 -1 -1
+Z 60
+Z 803
+#29837
+D R 6~
+tree razor treerazor dragon devil~
+a &07wicked &21&09tree&08razor&00 (Level 17)~
+A devil-dragon is here holding a glowing green axe.
+~
+The treerazor is a creature of legend.  A pale yellow dragon with glowing red
+eyes towers high above you.  In one claw rests a glowing green axe coated with a
+vile poison.  The fangs gleam in the light of the flames leaping out from its
+nostrils.  A deep hearty laugh shakes the ground.
+~
+1074876442 0 0 0 5473448 3104 0 0 0
+51 -30 -16 1d1+13500 10d10+60
+60 100
+9 9 0 0 -1 -1
+Z 803
+#29838
+H M 0~
+bull rog bullrog~
+the &00&21&03Bullrog&00 (Level 18)~
+A large bull with a flaming whip taunts you.
+~
+You, shall not pass.  The Bullrog stands at least 10 feet in the air and snorts
+with a very aggressive advance towards you.  His whip crashes through the air
+and he screams "YOU SHALL NOT PASS!"  Wait a minute...
+~
+1074876442 0 0 0 5473450 32 0 0 0
+51 -30 -17 1d1+15000 25d25+30
+75 100
+9 9 1 0 -1 -1
+Z 60
+Z 804
+#29839
+H M 0~
+whispering tyrant skeleton~
+the &14W&07hispering &14T&07yrant&00 (Level 19)~
+A skeleton with flaming fists stands here, silently.
+~
+It is a tyrant.  All further descriptions have been classified.
+~
+1074876442 0 0 0 5473450 3104 0 0 0
+51 -30 -18 1d1+16500 15d15+50
+80 100
+9 9 0 0 -1 -1
+Z 60
+Z 804
+#29840
+D T 12~
+plutonium dragon~
+a &21&07plutonium &09dragon&00 (Level 20)~
+The plutonium dragon sits here. What a sight to behold!
+~
+The majestic plutonium dragon is one of the most gorgeous dragons you have ever
+seen.  A bright yellow with green and black stripes criss-cross an armored body
+worthy of even the most legendary of creatures.  To be in her presence is an
+honor.  An honor she intends to not let go unnoticed.  She plans to bathe in
+your blood.
+~
+1074876474 0 0 0 5473450 32 0 0 0
+51 -30 -20 1d1+20000 20d20+50
+100 100
+9 9 2 0 -1 -1
+Z 60
+Z 805
+#29850
+G W 0~
+trick treater halloween1giant giant~
+&07a trick o&08r treater&00~
+A trick or treater is here, cleverly disguised as a &05Giant&00.
+~
+Aw.  A wee baby giant.  Why he is out here trick or treating, in November no
+less, you'll never know.  Just take his candy.
+~
+28680 0 0 0 1279016 0 0 0 0
+10 20 -1 1d1+100 25d25+25
+0 0
+9 9 1 0 -1 -1
+Z 29850
+Z 806
+#29851
+N T 0~
+trick treater halloween2demon demon~
+&07a trick o&08r treater&00~
+A trick or treater is here dressed as an evil &06Demon&00.
+~
+Why he is out trick or treating in November is a bit strange.  Perhaps you could
+take his candy?
+~
+28680 0 0 0 1279016 0 0 0 0
+10 20 10 1d1+100 25d25+25
+0 0
+9 9 1 0 -1 -1
+Z 29851
+Z 806
+#29852
+J C 0~
+trick treater halloween3faerie faerie~
+&07a trick o&08r treater&00~
+A trick or treater floats here, disguised as a &13Faerie&00.
+~
+Aw!  She's so cute!  She does have a VERY large bag of candy however...
+~
+28680 0 0 0 1279016 32 0 0 0
+10 20 -1 1d1+100 25d25+25
+1 1
+9 9 2 0 -1 -1
+Z 29852
+Z 806
+#29880
+P S 0~
+piglet small pig~
+&12a small piglet&00~
+A small &12piglet&00&03 squeals with excitement and looks at you with curiosity.&00
+~
+I have &13quest points&00 nyah nyah!
+~
+1074000028 1 0 0 4654268 32768 0 0 0
+51 -25 -22 1d1+30000 10d10+40
+95 100
+9 9 0 0 -1 -1
+Z 29832
+Z 29841
+Z 1204
+Z 1481
+#29881
+P S 0~
+piglet pig small~
+&12a small piglet&00~
+A small &12piglet&00&03 squeals with excitement and looks at you with curiosity.&00
+~
+I have &10MORE &13quest points&00 nyah nyah!
+~
+1074000028 1 0 0 4654268 32800 0 0 0
+51 -25 -22 1d1+30000 10d10+45
+95 100
+9 9 0 0 -1 -1
+Z 29832
+Z 29840
+Z 1204
+Z 1481
+#29890
+H M 0~
+cluster pink white hearts~
+&08a cluster of &12pink &08and &14white &08hearts&00~
+&08A cluster of &12pink &08and &14white &08hearts floats here.&00
+~
+How romantic.
+~
+20508 0 0 0 1410296 32 0 0 0
+51 5 -1 1d1+250 1d1+10
+15 100
+9 9 0 1 1 1
+Z 806
+Z 29832
+#29891
+P W 0~
+lost tourist lt2 qp~
+a lost tourist~
+A tourist is here, seemingly lost.
+~
+A lost tourist is here holding a map and a pencil.  She looks quite lost.
+~
+24584 0 0 0 230440 0 0 0 0
+10 20 -1 1d1+100 1d1+1
+1 1
+9 9 2 0 -1 -1
+Z 29832
+Z 806
+#29892
+M W 0~
+lost tourist lt2 gold~
+a lost tourist~
+A tourist is here, seemingly lost.
+~
+A lost tourist is holding a map and a pencil.  She looks quite lost.
+~
+24584 0 0 0 230440 0 0 0 0
+10 20 -1 1d1+100 1d1+1
+1 1
+9 9 2 0 -1 -1
+Z 29834
+#29893
+A W 0~
+soccer fan woman black yellow red~
+a small German soccer fan~
+A woman stands here dressed in black, yellow, and red.
+~
+Before you stands a proud German soccer fan.  Her eyes are a fiery red, as is
+her hair.  She is draped in black and gold sashes and silk.  She flashes you a
+devious grin and winks.  She looks to deal in secrets.  Perhaps you can sway her
+with a small fee for information.
+~
+213082 0 0 0 230568 0 0 0 0
+51 -30 -200 1d1+30000 50d50+50
+100 0
+9 9 1 0 -1 -1
+Z 29899
+#29894
+H M 0~
+Dick Clark~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0
+0 20 10 1d1+0 1d1+0
+0 0
+9 9 0 0 -1 -1
+#29895
+H M 0~
+Saint Patrick~
+Saint Patrick~
+A tall Irishman stands before you.
+~
+Drink much, drink more.  Then die in battle!
+~
+74 0 0 0 541131948 0 0 0 0
+51 -30 10 1d1+30000 100d100+100
+100 100
+9 9 0 0 -1 -1
+Z 29856
+#29896
+H M 0~
+memorial statues players fallen~
+&07a group of statues&00~
+Statues representing fallen RavenMUD players coalesce around the fountain.
+~
+Before you stands a collection of statues representing some of RavenMUD's fallen
+warriors.  On one side you can see Khelban, Bupp, Marduk, Brutal, and Death.  
+On another you notice Oblena, Xandor, Sly, Vex, and Hasana.  Nostalgic to say
+the least.
+~
+74 0 0 0 542119080 32 0 0 1000
+51 -30 -100 1d1+30000 120d120+100
+200 500
+9 9 0 0 -1 -1
+Z 29856
+$

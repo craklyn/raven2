@@ -1,0 +1,27 @@
+step c 'shadowstep' $*
+r rec elv
+title tit the &01Shadow&00
+poi c 'poison' $*
+gdi w;w;w;w;w;w;w;w;w;w;w;w;n;n;n;n;w;w;n;n;e;u
+firescroll S;s;s;s;s;s;s;s;e;e;e;s;s;d;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;s;s;s;s;w;w;w;w;w;w;w;w;w;w;w;open doo
+invis c 'invis' $*
+charm c 'charm' $*
+dod c 'dance of dreams' $*
+f feed $*
+chutes s;s;s;s;s;s;s;s;e;e;e;s;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;w;w;w;n;n;n;e;e;n;n;n
+spiders w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;u;n;n;e;u;s;e;w;n;w;s;w
+sw c 'shadow walk' $*
+dos c 'dance of shadows' $*
+blur c 'blur' $*
+sb c 'shadow blades' $*
+bl c 'blindness' $*
+sv c 'shadow vis' $*
+ss c 'shadow sphere'
+gt gt &01-&01)(&01-&14$*&00 &01-&01)(&01-&00
+say say &01-&01)(&01-&14$*&00 &01-&01)(&01-&00
+t trip $*;stand
+grin emote grins, flashing his &01bloody&00 fangs.
+pirates s;s;s;s;s;s;s;s;e;e;e;s;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;e;s;s;s;s;s;w;w;w
+sense c 'sense life' $*
+a recite fire $*
+q recite light $*

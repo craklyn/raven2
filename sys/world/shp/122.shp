@@ -1,0 +1,356 @@
+CircleMUD v3.0 Shop File~
+#12201~
+12221
+12222
+12223
+12224
+0
+-1
+1.20
+0.80
+0
+0
+0
+0
+0
+-1
+%s Huh? We don't drink that around here bud.~
+%s You don't even have that! Why don't you try some of the beer.~
+%s Hah! Sorry bud, I don't buy stuff. Care for some ale?~
+%s I could'nt afford that even if I wanted to buy it!~
+%s I don't give credit!~
+%s That'll be %d coins bud, drink up!~
+%s I'm REALLY not sposed to buy stuff. Please tell a god, here's %d coins.~
+0
+1
+12201
+0
+12217
+-1
+0
+28
+0
+0
+#12202~
+12221
+12222
+12224
+12225
+12226
+-1
+1.20
+0.80
+8
+0
+0
+0
+0
+-1
+%s Hah! I ain't even HEARD of that one boy.~
+%s Looks like the thieves got to it first boy.~
+%s Sorry, I'm not interested in that.~
+%s Damn! It looks good, but I don't have the cash right now.~
+%s If you can't pay you'll have to go!~
+%s Ahh, quite fond of this one meself. That'll be %d coins boy.~
+%s Got a few like it at home, this one will fit in nicely. Here's %d coins.~
+0
+1
+12202
+0
+12215
+-1
+0
+28
+0
+0
+#12203~
+12216
+12217
+12218
+12219
+12220
+-1
+1.30
+0.70
+2
+3
+4
+10
+0
+-1
+%s I'm sorry, I don't have one of those for sale.~
+%s Hmmm.. I can't see one of those on you anywhere!~
+%s I only buy items of an arcane nature...~
+%s I'd really like one of those, but I just can't afford it right now.~
+%s You're ALMOST attractive enough for me to give it to you for free. Almost.~
+%s That will just be %d coins, I hope you like it!~
+%s Ohh! I have been waiting to get one of these! Here's %d coins!~
+1
+1
+12204
+0
+12213
+-1
+0
+28
+0
+0
+#12204~
+12202
+12204
+12207
+12228
+12229
+12251
+15852
+-1
+1.30
+0.70
+5
+0
+0
+0
+0
+-1
+%s I don't have one of those in stock at the moment.~
+%s I'm not going to buy something you don't have shorty...~
+%s I only buy weapons shorty, take that some where else.~
+%s Nicely crafted weapon, I can't afford to give you a decent price thou.~
+%s Why don't you run along and get yourself the gold first shorty.~
+%s Excellent choice, that will be %d coins.~
+%s I like it, you can have %d coins for it.~
+1
+1
+12207
+0
+12212
+-1
+0
+28
+0
+0
+#12205~
+12230
+12231
+12232
+0
+0
+-1
+1.20
+0.80
+0
+0
+0
+0
+0
+-1
+%s Sorry sonny, I don't sell those.~
+%s My eyesight has'nt gone that bad sonny.~
+%s I don't buy stuff sonny, why don't you try one of the other stores.~
+%s Mother of pearl! My whole life savings could'nt buy that.~
+%s Hate to see ya young folks hungry, but I gotta make a living too sonny.~
+%s I only baked it this morning, yours for just %d coins.~
+%s I'm REALLY not sposed to buy stuff sonny, tell a god, here's ya %d coins.~
+1
+1
+12208
+0
+12248
+-1
+0
+28
+0
+0
+#12206~
+12233
+12234
+12235
+12236
+12237
+-1
+1.30
+0.70
+11
+0
+0
+0
+0
+-1
+%s I have'nt made anything like that for sale.~
+%s If your going to sell me something, make sure you actually have it.~
+%s I'm not interested in those type of goods.~
+%s Buisness has been slow lately, I can't afford it.~
+%s You look like you could really use it, but I can't give it away.~
+%s This will look good on you, and at %d coins, it's a bargain!~
+%s You've come to the right place, you can have %d coins for it.~
+0
+1
+12209
+0
+12205
+-1
+0
+28
+0
+0
+#12207~
+12209
+12238
+12239
+12240
+12241
+-1
+1.30
+0.70
+9
+0
+0
+0
+0
+-1
+%s I don't sell anything like that.~
+%s If you don't have it, how am I expected to buy it?~
+%s I only buy armor, try another store for that.~
+%s Pitty, I'd like to buy it, you just caught me at a bad time.~
+%s If you wan't decent protection, your going to have to pay a decent price.~
+%s This could save your life, at %d coins, its truly a bargain.~
+%s I'll be happy to take it off your hands, here's %d coins.~
+1
+1
+12212
+0
+12238
+-1
+0
+28
+0
+0
+#12208~
+12242
+12243
+12244
+12245
+0
+-1
+1.20
+0.80
+1
+15
+17
+19
+0
+-1
+%s The church has'nt provided me with one of those to sell to you.~
+%s I fear one of the local thieves has relieved you of it brother.~
+%s My apologies, but I don't purchase such items.~
+%s I have not the funds to purchase that.~
+%s There are others more needy than yourself I would give it to first.~
+%s May it serve you well. That will be %d coins please.~
+%s Thank you, I can give you %d coins for it.~
+1
+1
+12215
+0
+12246
+-1
+0
+28
+0
+0
+#12209~
+12246
+12247
+0
+0
+0
+-1
+1.30
+0.70
+0
+0
+0
+0
+0
+-1
+%s Pardon? I only sell barrels.~
+%s You don't have anything like that, I don't buy anyway.~
+%s I don't buy, try one of the other stores.~
+%s I could'nt afford to buy that, even if I wanted too.~
+%s You must pay in full if you wan't a barrel.~
+%s Pleasure to do buisness, here's %d coins.~
+%s I REALLY should'nt buy, tell a god. Here's ya %d coins.~
+0
+1
+12233
+0
+12220
+-1
+0
+28
+0
+0
+#12210~
+12221
+12222
+12224
+12227
+0
+-1
+1.40
+0.60
+0
+0
+0
+0
+0
+-1
+%s I only sell beer, ale, whisky and moonshine stranger.~
+%s I don't buy, look, why not grab yourself a flask of Bremani moonshine?~
+%s I don't buy stuff, but I got the finest whisky in Freehold on the shelf!~
+%s Nice, I don't buy thou. Care for some beer?~
+%s Sorry, I don't give credit here.~
+%s Enjoy, that'll be %d coins stranger.~
+%s I REALLY should'nt buy, tell a god. Here's ya %d coins.~
+0
+1
+12234
+0
+12219
+-1
+0
+28
+0
+0
+#12211~
+12248
+12249
+12250
+0
+0
+-1
+1.30
+0.70
+12
+0
+0
+0
+0
+-1
+%s I don't have anything like that to trade.~
+%s You promise much and deliver little.~
+%s I'm not interested in those kind of goods.~
+%s It would be difficult for me to make a profit on such a expensive item.~
+%s No gold, no deal.~
+%s Ahhh, you are truly a discerning buyer, yours for just %d coins.~
+%s I'll have to travel far to make a profit on this deal, here's %d coins.~
+0
+1
+12211
+0
+12232
+-1
+0
+28
+0
+0
+$~

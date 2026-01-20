@@ -1,0 +1,273 @@
+#25500
+&08The Nine Hells&00 -~
+I've temporarily added a series of Nine gates that will allow mortals to
+enter the First plane of Hell, Avernus. This will be removed upon once
+portals are fixed by Vex or Digger, making the River Styx the future link zone for 
+8 of the Nine Hells. The bottom level will only be accessible by going through
+the 8th plane.
+
+Each Gate will require a key from a Priest of Hell, these priests will
+be randomly scattered about the mud..so players will have to find them
+.
+
+Kurse - APril 99
+~
+255 0 0 0 0 0 255 0
+S
+#25501
+The Path to the After~
+   As you step into this long, dark hallway, you hear a muffled sound. Looking
+behind you, you see that the entrance you walked through is nowhere to be
+seen. It appears you are trapped. Resigning yourself to explore, you take
+a rotted old torch off the wall and light its musty cloth wick.......
+You wish you hadn't. The light of the torch illuminates the floor and walls,
+showing you that they are covered with thousands, no millions of bugs.
+In the far distance you think you see some type of doorway, but to reach it
+you are going to have to tread a long 'carpet' of squishing, crunching,
+insectoid life. With your teeth grit, you take your first step..*crunch*.
+~
+255 805 0 0 0 0 255 0
+D0
+Far in the distance is some sort of gate.
+~
+~
+0 0 25502
+S
+#25502
+The First Gate to Hell~
+   You come to the end of the hallway and step into a large circular 
+clearing. Looking back, you notice once again that the walls have sealed your
+exit. Before you stands what you could only describe as a 'gateway'.
+The gate is composed of a large free standing disk of polished obsidian
+about twenty feet in diamater. Down its center you notice a thin seam, which
+you suspect is how it opens. Centrally located near the bottom of the disk is
+a single square gold keyplate and keyhole. You notice the keyplate has
+been carved into the shape of a large multi-headed Dragon.
+~
+255 584 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the first plane of Hell, 
+Known as Avernus.
+~
+gateway first~
+2 25501 25503
+S
+#25503
+The Second Gate to Hell~
+   You step through the gate and find yourself in another room similar to
+the previous. The room is encompassed by another Gate, identical in shape
+and size the the first. Peculiarly, This gate has no keyplate, just a single
+hole located centrally near its center.
+You notice that it is rather hard to catch your breath in here. Are the walls
+closing in on you?
+~
+255 616 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the second plane of Hell, 
+known as Dis.
+~
+gate gateway second~
+1 0 25504
+S
+#25504
+The Third Gate to Hell~
+   You step through the gate and find yourself in a chamber much like the 
+last. Once again, your exit is nowhere to be seen, sealing you (and your
+fate) within the confines of this place. A large circular disk of obsidian
+stands against the front of the chamber, looking menacing and alien to you.
+Walking up a small set of steps to the base of the gateway, you find a single
+brass keyplate and keyhole, engraved in a strange language which you can
+not read, but feel is diabolic in its origin.
+Upon reaching the top step, a mind-numbing fog is released from holes in
+the walls, causing your body to shake in an uncontrollable fear.
+~
+255 4194884 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the third plane of Hell, 
+known as Minauros.
+~
+gate gateway third~
+2 25503 25505
+S
+#25505
+The Fourth Gate to Hell~
+   You step through the gate and find yourself face to face with another large
+gateway. It is identical to the previous, except that its obsidian face is
+streaked with cracks of reddish stone, giving it a bleeding appearance.
+You ascend a small set of stone steps to the base of the gateway and inspect
+the keyplate and keyhole. As you run your fingers over the strange sigils
+on the plate, you hear faint hissing.....
+~
+255 524872 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the fourth plane of Hell, 
+known as Phlegethos.
+~
+gateway fourth~
+2 25504 25506
+S
+#25506
+The Fifth Gate to Hell~
+   You step through the Fourth Gate and find yourself in a chamber slightly
+different than the previous four. It seems as if you have entered some type of
+transparent 'bubble'. Flowing all about the outside of the bubble are waters
+of the blackest night, giving you the strange sensation you are underwater.
+With a very uneasy feeling you step up to the gateway and peer at the
+keyplate. Engraved upon it is a relief depicting a hooded figure piloting
+a small skiff over the waters of some river. It is as you realize with horror
+that you may be 'in' the River Styx that you see inky trails of water 
+leaking in from the floor. Out of here fast!
+~
+255 2097705 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the fifth plane of Hell, 
+known as Stygia.
+~
+gateway fifth~
+2 25505 25507
+S
+#25507
+The Sixth Gate to Hell~
+   To your relief you it seems you are no longer in peril, though you
+worry about what other traps may lay ahead. This chamber is again like the 
+first few, with the large obsidian gateway dominating the chamber. You
+suddenly wonder to yourself, 'where are we?'..given that you seemed to be
+beneath the River Styx itself before, where do these chambers actually
+exist? Perhaps you will find out through this gateway. Now where was that
+key?
+~
+255 584 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the sixth plane of Hell, 
+known as Malbolge.
+~
+gateway sixth~
+2 25506 25508
+S
+#25508
+The Seventh Gate to Hell~
+   You step through the gateway and enter yet another circular chamber. Lit 
+torches are mounted at evenly spaced intervals across the wall. The gateway
+stands before you, and seems to emanate a low hum, which gives you a headache.
+As you begin to walk towards the keyhole, the humming gives way to a low
+whine, which becomes louder and louder as you approach the base of the disk.
+You reach its base and notice that you are bleeding quite profusely from the
+nose, the whine thrumming in your head like a thousand chariots. You begin
+to feel dizzy..the lights seem to flicker...open the gate while you still can.
+~
+255 2621544 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the seventh plane of Hell, 
+known as Maladomini.
+~
+gateway seventh~
+2 25507 25509
+S
+#25509
+The Eighth Gate to Hell~
+   Upon stepping inside the gate, the intense pain in your head subsides and
+your vision clears once more. This chamber is larger than the others you
+have been in, and seems to be decorated with numerous pentagrams and
+other symbols of evil. The gateway stands before you, flanked on either side
+by a brass brazier burning wildly. You know that you are drawing close to the
+end of this journey, for you can not shake this growing feeling of fear and
+foreboding. You hadn't noticed it so much before, but you realize that you
+Don't want to go through any more gateways. You steel your nerves and 
+step towards the gate..perhaps it will take you home.
+~
+255 2097736 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the eighth plane of Hell, 
+known as Caina.
+~
+gateway eighth~
+2 25508 25510
+S
+#25510
+The Ninth Gate to Hell~
+   If each gate is symbolic of each dread Layer of Hell, then you stand before
+the final gate. Beyond should lie the Nine Hells themselves, which the
+cult of Nine have guarded in secrecy for Millenia. The massive obsidian
+gateway stands impassively before you, as if awaiting to be awakened and its
+secrets unlocked. You begin to ascend the series of stone steps up to the base
+of the disk where the keyhole lies, knowing full well that you may be seeing
+the world of Raven for the last time.
+~
+255 2097736 0 0 0 0 255 0
+D0
+If ancient lore holds true, this gate represents the ninth and final
+plane of Hell, known as Nessus.
+~
+gateway final ninth~
+2 25509 25010
+S
+#25511
+Mob Chute #1~
+This is the first of three Mob chutes for the Cult of Nine, who hold the
+8 keys to the Gateways to Hell.
+Mobs will wander to either:
+Ogre Village
+Shaden
+Hightower of Srocery
+~
+255 584 0 0 0 0 255 0
+D0
+~
+~
+0 0 13144
+D1
+~
+~
+0 0 2348
+D3
+~
+~
+0 0 10872
+S
+#25512
+Mob Chute #2~
+This is the second of three Mob chutes for the Cult of Nine, who hold the
+8 keys to the Gateways to Hell.
+Mobs will wander to either:
+Elven
+Garamond
+Barbarians
+~
+255 584 0 0 0 0 255 0
+D0
+~
+~
+0 0 6421
+D1
+~
+~
+0 0 5026
+D3
+~
+~
+0 0 7815
+S
+#25513
+Mob Chute #3~
+This is the third of three Mob chutes for the Cult of Nine, who hold the
+8 keys to the Gateways to Hell.
+Mobs will wander to either:
+Xanth
+Freeport
+Waterfront of Samsera
+~
+255 584 0 0 0 0 255 0
+D0
+~
+~
+0 0 8305
+D1
+~
+~
+0 0 2336
+D3
+~
+~
+0 0 15414
+S
+$~

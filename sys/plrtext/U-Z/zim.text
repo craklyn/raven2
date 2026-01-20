@@ -1,0 +1,35 @@
+[ c 'summon' zaos
+. c 'heal' zaos
+, c 'rev' zaos
+]  
+cb c 'cure blind'$*
+rp c 'rem poi'$*
+calm c 'calm'$*
+harm c 'harm'$*
+gg get all.gold all.corpse;get all.stick all.corpse
+tidy put all beet;get all.recall beet
+rise wake;stand
+grec cast 'word' group
+rr rec rec scroll
+summon cast 'summon'$*
+heal cast 'heal'$*
+sl cast 'sense'
+regen cast 'regen'$*
+fly cast 'fly'$*
+blind cast 'blindness'$*
+armor cast 'armor'$*
+died get all all.zim;wear all;wield shaft;hold book
+sanc cast 'sanctuary'$*
+cleanse c 'cleanse' $*
+rev c 'revive'$*
+\ c 'summon' dhrak
+reloc c 'reloc'$*
+titoo title the &02u&03g&07l&10y&00 faerie &09Wanderer&00
+quake c 'earthq
+fort c 'fort'$*
+word c 'word of recall'$*
+hw c 'holy word
+fs c 'flame strike'$*
+gt gt &14$* &00
+tank alias , c 'rev'$*;alias . c 'heal'$*;alias [ c 'summon'$*
+ban c 'banish'$*

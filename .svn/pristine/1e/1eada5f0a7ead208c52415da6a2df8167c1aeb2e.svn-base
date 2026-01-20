@@ -1,0 +1,9 @@
+befriend
+#include "general/class.h"
+#include "general/comm.h"
+#include "general/handler.h"
+#include "actions/interpreter.h"
+#include "magic/skills.h"
+#include "magic/spells.h"
+#include "util/utils.h"
+#include "specials/special.h"

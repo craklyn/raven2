@@ -1,0 +1,17 @@
+dod cast 'dance of dreams' $*
+sl cast 'sense life'
+sw cast 'shadow walk'
+dos cast 'dance of shadows'
+blur cast 'blur'
+see cast 'blindness' $*
+sb cast 'shadow blades' $*
+gc get all cor
+dc des cor
+invis cast 'invisibility' $*
+sv cast 'shadow vision' $*
+ta1 ti - &13N&00&11u&00&06x&00&04x&00
+ss cast 'shadow sphere'
+gt gs &06UNDER&00&06>&00&07>&00&04>&00&01$*&00 &04<&00&07<&00&06<&00&06WORLD&00
+as rec mid
+cs say &01Oich&00&06>&00&07>&00&04>&00 $* &04<&00&07<&00&06<&00&01Oich&00
+qw assist jara

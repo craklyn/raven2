@@ -1,0 +1,49 @@
+g mix heal mag
+clan clan &14$* &00
+loot get all melk;wear all;get all melk;wear all;get all melk;wield staff;wear heart body;hold broom;wear all;get all melk;des melk
+tit title :: &09Wanderer&00
+say emote says, '&15$* &00'
+armor cast 'armor'$*
+wa wake;stand
+water cast 'create spring'
+blind c 'blind' $*
+flame c 'flame' $*
+mix mix $* magic
+cl cast 'cleanse' $*
+rc cast 'remove curse' $*
+bless cast 'bless' $*
+da cast 'detect align' $*
+dis cast 'dishearten' $*
+rpo cast 'remove poison' $*
+cb cast 'cure blind' $*
+rp cast 'remove para' $*
+sum c 'summon' $*
+tr c 'word' group
+fort cast 'fort' $*
+sanc cast 'sanc' $*
+word cast 'word' $*
+wake wake;stand
+ar cast 'armor' $*
+food cast 'create food
+ward cast 'ward' $*
+di cast 'detect invis' $*
+sense cast 'sense life'
+fs cast 'flame strike' $*
+earth cast 'earth'
+calm cast 'calm' $*
+rel cast 'relocate' $*
+rev c 'revive' $*
+cw clanwho
+f cast 'fly'$*
+sag cast 'sagacity'$*
+b cast 'blind'$*
+cls cast 'cleanse'$*
+de cast 'infra'
+reg cast 'regen'$*
+goto cast 'relocate'$*
+harm cast 'harm'$*
+cs cast 'flame strike'$*
+ba cast 'banish'$*
+ban cast 'banish'$*
+h cast 'heal' $*
+i cast 'earthqu

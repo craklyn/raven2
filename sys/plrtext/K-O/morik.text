@@ -1,0 +1,43 @@
+bless c 'bless'
+di c 'detect invisibility'
+reg c 'regenerate'
+infra c 'infravision'
+reca c 'word of recall'
+dem c 'demon fire'
+war c 'ward'
+sag c 'sagacity'
+water c 'create water'
+revg c 'revive' group
+rev c 'revive'
+b cast 'blindness' $*
+0 cast 'word' $*
+z scan $*
+fam cast 'familiarize'
+dis cast 'dishearten' $*
+cc cast 'cleanse' $*
+asss cast 'assistant'
+uw cast 'unholy word' $*
+cp cast 'cure plague' $*
+df cast 'demon fire' $*
+sanc cast 'sanctuary' $*
+eart cast 'earthquake'
+cw cast 'create water'
+con cast 'convert' $*
+sac cast 'sacrifice' $*
+fort cast 'fortify' $*
+saga cast 'sagacity' $*
+relo cast 'relocate' $*
+rp cast 'remove paralysis' $*
+fl cast 'flame strike' $*
+dg cast 'dispel good' $*
+sum cast 'summon' $*
+rc cast 'remove curse' $*
+harm cast 'harm' $*
+cb cast 'cure blin' $*
+arm cast 'armor' $*
+fly cast 'fly' $*
+sen cast 'sense life'
+cl clan &11*&08>&07$* &08<&11*&00
+say say &11*&08>&07$* &08<&11*&00
+gt gt &11*&08>&07$* &08<&11*&00
+cs clan $*

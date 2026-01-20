@@ -1,0 +1,14 @@
+mm cast 'magic missile' $*
+dr drink thim
+ms cast 'monster summon'
+str cast 'strength' $*
+inf cast 'infravision'
+oa order follower assist
+bli cast 'blindness' $*
+di cast 'detect invisibility' $*
+x get all corpse
+z des corpse
+sum cast 'summon' $*
+shi cast 'shield' $*
+fly cast 'fly' $*
+id cast 'identify' $*

@@ -1,0 +1,37 @@
+ms cast 'monster summon'
+awake cast 'awaken'
+id cast 'ident' $1
+iden cast 'identify' $1
+loc cast 'locate' $1
+invis cast 'invis' $1
+char cast 'charm' $1
+db cast 'doom bolt' $1
+feeb cast 'feebl' $1
+bl cast 'blind' $1
+inf cast 'infra' $1
+ts cast 'true' $1
+shi cast 'shield' $1
+sum cast 'summon' $1
+wra cast 'wrath'
+lev cast 'fly' $1
+port cast 'portal' $1
+slo cast 'slow' $1
+has cast 'haste' $1
+gate cast 'gate'
+fb cast 'flame blade' $1
+dc destro corpse
+fou cast 'fount'
+nex cast 'nexus' $1
+gg get all.coin corpse
+rc cast 'remove curse' $1
+air cast 'air' $1
+str cast 'strength' $1
+gv get all all.veeshan
+ci cast 'infra'
+gc get all corpse
+lc look in corpse
+oo order follower kill
+sl cast 'sleep' $1
+ice cast 'ice storm'
+ld cast 'life drain' $1
+mm cast 'magic missile' just n

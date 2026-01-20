@@ -1,0 +1,21 @@
+gate open gate
+door open door
+key junk key
+gh d;n;n;n;n;n;n;n;n;n;w;w;od;e;e
+bakery s;s;w;n
+gypsy   s;s;e;e;e;open gate;e;close gate;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;s;s;sleep
+clan clan &00&04@&00&09}&00&02---&00&06$*&00 &02---&00&09{&00&04@&00
+gt gt &00&04@&00&09}&00&02---&00&05$*&00 &02---&00&09{&00&04@&00
+ooc ooc &00&04@&00&09}&00&02---&00&09$*&00 &02---&00&09{&00&04@&00
+say say &00&04@&00&09}&00&02---&00&03$*&00 &02---&00&09{&00&04@&00
+nopen open door north
+sopen open door south
+wopen open door west
+eopen open door east
+thim drink thimble
+title2 title property of the Sandtiger! :&03OD&00:
+te cast 'terror' $*
+bag put all bag; get thim bag
+bre get bread bag
+title1 title :&03OD&00: Banana PUDDING!!!
+know junk knowing

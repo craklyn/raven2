@@ -1,0 +1,539 @@
+#42900
+maize stem crop grain~
+a stem of maize~
+&00&03A crop of maize has been planted in this part of the field, and appears to be maturing quite well.&00~
+   Maize stems superficially resemble bamboo canes.  Maize has a very distinct
+growth form; the lower leaves being like broad flags, the stems are erect with
+many nodes, casting off flag-leaves at every node.  Under these leaves and
+close to the stem grow the ears.    
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+Z 42919
+E
+stem maize crop grain~
+   Maize stems superficially resemble bamboo canes.  Maize has a very distinct
+growth form; the lower leaves being like broad flags, the stems are erect with
+many nodes, casting off flag-leaves at every node.  Under these leaves and
+close to the stem grow the ears.    
+~
+B
+0 0 0 0
+#42901
+maize ear crop grain~
+&00&03an ear of maize&00~
+An ear of maize has fallen from the stalk and is rotting upon the ground.~
+   The ears are female inflorescences, tightly covered over by several layers
+of leaves, and so closed-in by them to the stem that they do not show
+themselves easily until the emergence of the pale yellow silks from the leaf
+whorl at the end of the ear.  The silks are elongated stigmas that look like
+tufts of hair, at first green, and later red or yellow.    
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0
+2 15 15
+Z 42921
+E
+ear maize~
+   The ears are female inflorescences, tightly covered over by several layers
+of leaves, and so closed-in by them to the stem that they do not show
+themselves easily until the emergence of the pale yellow silks from the leaf
+whorl at the end of the ear.  The silks are elongated stigmas that look like
+tufts of hair, at first green, and later red or yellow.    
+~
+B
+0 0 0 0
+D1
+#42902
+wheat stalk crop grain~
+&00&10a wheat stalk&00~
+&00&10A crop of wheat has been planted here, and the stalks appear to be ready for harvest.&00~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+Z 42918
+E
+wheat crop stalk grain~
+   Hard, brownish, high protein wheat used for bread and hard baked goods.  
+Bread Flour and high gluten flours are commonly made from this type of wheat.
+  
+~
+B
+0 0 0 0
+#42903
+wheat ear crop grain~
+&10an ear of wheat&00~
+An ear of wheat has come loose from its stalk and is now lying on the ground.~
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0
+1 20 15
+Z 42921
+E
+ear wheat crop grain~
+   The ear of wheat has hulls.  This more primitive morphology consists of
+toughened glumes that tightly enclose the grains, and a semi-brittle rachis
+that breaks easily on threshing.  The result is that when threshed, the wheat
+ear breaks up into spikelets.  To obtain the grain, further processing, such as
+pounding, is needed to remove the hulls or husks.    
+~
+B
+0 0 0 0
+D1
+#42904
+barley stalk crop grain~
+&00&09a stalk of barley&00~
+&00&09A crop of barley has been cultivated here, and appears to have adapted quite well to the environment.&00~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+Z 42920
+E
+barley stalk crop grain~
+   Next to wheat the most valuable grain is barley, especially on light and
+sharp soils.  It is a tender grain and easily hurt in any of the stages of its
+growth, particularly at seed time; a heavy shower of rain will then almost ruin
+a crop on the best prepared land; and in all the after processes greater pains
+and attention are required to ensure success than in the case of other grains.
+  
+~
+B
+0 0 0 0
+#42905
+barley ear grain crop~
+&09an ear of barley&00~
+An ear of barley has gone to waste upon the floor after falling from its stalk.~
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0
+1 15 15
+Z 42921
+E
+barley ear~
+   The barley ear must have its fibrous outer hull removed before it can be
+eaten.  Once the grain has had the inedible hull removed, it is called dehulled
+barley.  At this stage, the grain still has its bran and germ, which are
+nutritious.  Although it could be eaten, this grain is also used in making many
+types of beer and whiskey.    
+~
+B
+0 0 0 0
+D3
+#42906
+scarecrow~
+&03a straw scarecrow&00~
+&03A straw scarecrow has been placed in the center of the field, staked to the earth by a piece of wood.&00~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+scarecrow~
+   The scarecrow has been shaped completely out of straw, and has a hat placed
+firmly upon his head.  It must have been years since was made, or even updated,
+because the straw along one side has been pulled and plucked.  Beneath the
+straw hat on his head, the eyes marked with a large X have been disected.  
+There is no doubt that the scarecrow is ineffective, and that birds are to
+blame for his mistreatment.    
+~
+B
+0 0 0 0
+#42907
+fountain center chisha~
+&11the fountain of Chisha&00~
+&11A serene fountain, carved from marble, has been fashioned within the ground in the center of the Village.&00~
+~
+23 0 0 0 0 0 0 0 0
+10000 10000 0 0
+0 0 0
+E
+fountain statue water~
+   The fountain is actually built into the ground within the center.  The edges
+of the fountain are of white marble, and the stone beneath it is a deep blue.
+In the center of the fountain stands an eight foot statue of the Chishan Chief.
+Within the chiefs right hand is a sword held high as if to initiate battle.  
+In her left hand rests a bowl, and it is within this bowl that the water
+circulates from the fountain and overflows back in.  A soft flowing of water
+can be heard as the water trickles through the bowl and splashes back into the
+fountain.  At the edge of the fountain is an enscription:
+
+&14"Proudly we shall stand together in the torment of adversity, and in the serenity&00
+&14of peace."&00
+~
+B
+0 0 0 0
+#42908
+tavern bar~
+&13the Main Bar&00~
+&13A huge finely crafted bar, seemingly made from oak with a cherry finish, is in the center of the tavern.&00~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+bar bottle cherry oak~
+   The bar is centered in the tavern, with eight bar stools on the customer
+side.  It seems to have been built from a really beautiful cherry oak, with
+decorative sculpting around the white stone covered top.  There are a multitude
+of various types of liquor and ale behind the counter, ready to be served.  
+The way the light shines down upon the bar, it appears to be an oasis in the
+desert.  It's extremely hard to believe that this bar is underground.  There is
+absolutely no way this huge piece of furniture could have been moved here.  
+Which makes it even more extraordinary, because it's obvious it was created
+down below.    
+~
+B
+0 0 0 0
+#42909
+bottle wine aged~
+an aged bottle~
+A bottle of wine has been discarded here, it has the color of blood.~
+~
+17 0 0 0 0 1 0 0 0
+10 10 2 0
+1 185 100
+E
+bottle wine~
+   The bottle of wine appears to have been crafted by a brewing master.  The
+wine yeast used to make it appears to be top quality, and the berries which
+give it to the color of blood must have been hand picked.    
+~
+B
+0 0 0 0
+#42910
+hugo cask large ale~
+Hugo's large cask~
+A large cask has been abandoned here by its owner.~
+~
+17 0 0 0 0 1 0 0 0
+10 10 3 0
+1 85 100
+E
+hugo cask large~
+This is a large cask containing, what appears to be, some finely made ale.
+~
+B
+0 0 0 0
+#42911
+pie meat minotaur beer battered~
+Beer-battered Minotaur pie~
+A pie baked just perfectly has been abandoned here uneaten, the special ingredient leaves a strange aroma.~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0
+1 50 30
+E
+beer battered minotaur meat pie~
+   This pie seems to have been battered with a nicely brewed batch of beer.  
+The smell exhibits both fear and interest to anyone who gets within a tight
+radius of it.  The special ingredient is not easily seen, but it has definitely
+been baked with a form of meat.    
+~
+B
+0 0 0 0
+#42912
+flask expert brew~
+&00&13the &00&06Flask &00&13of &00&06Brewing &00&13Expertise&00~
+A very important looking flask has been left here, obviously dropped by accident.~
+~
+17 65 0 0 0 16385 0 0 0
+10000 10000 15 0
+3 250000 2000
+E
+flask brew expertise hugo~
+   This flask was created by a minion of the legendary Xerxes for a young man
+who created a drink especially for the King.  It is said to have extraordinary
+space for liquid, and appears to be lightweight despite it's usefulness.  Many
+say that it was crafted by the King's personal witch, and therefore has a
+magical ability to store liquid.  The flask itself is formed of a dull gold,
+with the Xerxes crest upon the side.    
+~
+B
+0 0 0 0
+#42913
+strange fungus fungi~
+some strange dark fungi~
+A strange smelling fungi has began to grow here, casting off toxic chemicals.~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 1
+1 500 3
+B
+0 0 0 0
+#42914
+cask~
+a cask~
+A hollow cylindrical container, made of wood staves and bound with iron hoops, is sitting here unused.~
+~
+17 0 0 0 0 1 0 0 0
+500 0 3 0
+1 5000 2000
+B
+0 0 0 0
+#42915
+malt~
+some unused malt~
+Some soaked grains have been left here clearly in the middle of the brewing stages.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+3 5000 0
+B
+0 0 0 0
+#42916
+yeast~
+some organic yeast~
+Some yeast appears to have been grown and then discarded wastefully here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 5000 0
+B
+0 0 0 0
+#42917
+ale king xerxes darkened~
+&07the Darkened Ale of King Xerxes&00~
+Some dark ale fit for a king has been left here to spoil.~
+~
+17 0 0 0 0 1 0 0 0
+20 20 3 0
+1 100000 200
+B
+0 0 0 0
+#42918
+desk silver maiden~
+a large desk~
+A large white desk stands in front of a weapons casing off to the left side of the room.~
+~
+15 0 0 0 0 0 0 0 0
+0 15 42919 0
+0 0 0
+E
+desk~
+This desk bares the insignia of the White Maiden.
+~
+B
+0 0 0 0
+#42919
+key silver maiden~
+a white key~
+A long white key has been abandoned here upon the floor.~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0
+5 1500 0
+B
+0 0 0 0
+D30
+#42920
+band silver maiden~
+the band of the &14Silver Maiden&00~
+A very beautiful and important band has been discarded here carelessly.~
+~
+8 1088 2560 0 0 3 0 0 0
+0 0 0 0
+4 50000 150
+E
+band silver maiden~
+This band has the insignia of the Silver Maiden forged into it.
+~
+A
+5 2
+A
+3 1
+A
+4 1
+B
+0 0 0 0
+#42921
+wand alma kinan~
+an ancient wand of the Alma Kinan~
+A small, yet very powerful looking, wand has been misplaced here.~
+~
+3 67 0 0 0 16385 0 0 0
+50 1 1 163
+3 15000 1500
+Z 42910
+E
+wand ancient alma kinan~
+The wand has some weird looking etchings into the handle that is of a foreign dialect.
+~
+B
+0 0 0 0
+#42922
+cowl zhin cha zhi mastery~
+cowl of &04Zhin Cha Zhi&00 mastery~
+The cowl of an ancient Shou-Lin technique has been left here to teach others.~
+~
+11 7794752 32 0 0 17 0 0 0
+0 0 0 0
+3 850000 650
+A
+19 4
+A
+13 10
+A
+17 -4
+A
+33 45
+B
+0 0 0 0
+#42923
+potion increased awareness~
+a potion of increased awareness~
+A crystal clear potion has been sat upon one of the many shelves within the vault.~
+~
+10 0 0 0 0 1 0 0 0
+40 44 0 0
+5 8401 840
+B
+0 0 0 0
+#42924
+chest chief~
+the Chest of the Chieftain~
+An unlocked chest has been placed upon a table in the center of the room.~
+~
+15 0 0 0 0 0 0 0 0
+100 5 -1 0
+0 0 100
+B
+0 0 0 0
+#42925
+party girl money~
+some pocket money~
+A small sum of money has been left here thoughtlessly~
+~
+20 0 0 0 0 1 0 0 0
+5000 0 0 0
+0 0 0
+B
+0 0 0 0
+#42926
+key mansion~
+the keys to the mansion~
+A set of very important keys are lying here upon the ground.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#42928
+ear barley~
+an ear of barley~
+An ear of barley has been discarded here and appears to be rotting.~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0
+2 100 30
+B
+0 0 0 0
+#42929
+sandals fire~
+the sandals of &01fire&00~
+A pair of fire engulfed sandals have been left here awaiting to burn whoever wears them.~
+~
+9 8315457 0 0 0 65 0 0 0
+10 0 0 0
+5 1000000 840
+E
+fire sandals~
+They appear to have been forged by the Fire Champion.
+~
+A
+12 40
+A
+13 5
+A
+19 2
+B
+0 0 0 0
+#42930
+tiara blazing inferno~
+the &14tiara&00 of &08blazing inferno&00~
+A blazing inferno in the shape of a tiara burns here rapidly.~
+~
+9 8315393 32 0 0 17 0 0 0
+10 0 0 0
+4 1000000 1220
+A
+19 2
+A
+12 50
+A
+29 20
+A
+31 5
+A
+33 45
+B
+0 0 0 0
+#42932
+ornate iron key~
+an ornate iron key~
+A very important key has been dropped here on accident.~
+~
+18 65540 0 0 0 1 0 0 0
+0 0 0 0
+3 500000 0
+B
+0 0 0 0
+#42933
+fabled gloves clandestine~
+fabled gloves of the &06clandestine&00~
+A pair of fabled gloves have been abandoned here in the dirt.~
+~
+9 8310848 32 0 0 129 0 0 0
+4 0 0 0
+3 250000 920
+A
+12 45
+A
+18 2
+A
+1 1
+A
+33 30
+B
+0 0 0 0
+#42947
+shard firebringer~
+the Shard of the &01Firebringer&00~
+A very dangerous shard lies here upon the ground.~
+~
+5 3912256 1056 0 0 8193 0 0 0
+0 7 8 11
+3 500000 4215
+A
+19 3
+A
+18 2
+A
+14 20
+B
+0 0 0 0
+#42948
+orb flame champion~
+the Orb of the &01Flame Champion&00~
+A flaming orb has been dropped here, it seems to be sending of a high pitched signal of some sorts.~
+~
+8 7 0 0 0 1 0 0 0
+0 0 0 0
+3 0 0
+Z 42927
+B
+0 0 0 0
+#42970
+crown royal bottle~
+a bottle of &11C&00&08row&00&11n&00 &10R&00&08oya&00&10l&00~
+A bottle with an amber colored liquid is lying here in the dust.~
+~
+17 0 0 0 0 1 0 0 0
+15 15 5 0
+0 0 150
+B
+0 0 0 0
+$~

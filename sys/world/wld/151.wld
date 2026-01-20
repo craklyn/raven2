@@ -1,0 +1,1253 @@
+#15101
+Entrance way~
+This small room is bare of any furnishings save several wooden
+stools that sit in a corner.  It is lit with only one flickering
+torch, making any details difficult to see, but you can make out the
+outline of the door to the south.
+~
+151 d 0 0 0 0
+D2
+~
+door~
+1 15133 15102
+D4
+theres a door
+~
+door~
+1 0 11521
+S
+#15102
+Lounge~
+You are in a richly decorated lounge, surrounded by couches,
+tables, and plush cushions of all kinds.  Expensive incense burns
+away in several golden bowls throughout the red-lit room.
+~
+151 d 0 0 0 0
+D0
+~
+door~
+1 15133 15101
+D1
+You see a dimly lit hallway.
+~
+~
+0 -1 15103
+S
+#15103
+Hallway~
+This is the northern end of a long hallway that extends south
+into the building.  There is a door to the east.
+~
+151 d 0 0 0 0
+D1
+~
+door~
+1 15133 15104
+D2
+The hallway continues to the south.
+~
+~
+0 -1 15105
+D3
+You see a smoky, red-lit lounge.
+~
+~
+0 -1 15102
+S
+#15104
+Meeting room~
+This room is apparently used by guild members for meetings
+with outsiders.  There is a large long table in the center of
+the room that is surrounded by wooden chairs.
+~
+151 d 0 0 0 0
+D3
+~
+door~
+1 15133 15103
+S
+#15105
+Hallway~
+The dimly lit hallway reaches south into the heart of the old
+building.  From the west come strong odors.
+~
+151 d 0 0 0 0
+D0
+You see the northern end of the hallway.
+~
+~
+0 -1 15103
+D1
+~
+~
+0 -1 15106
+D2
+The hallway continues to the south.
+~
+~
+0 -1 15109
+D3
+~
+~
+0 -1 15108
+S
+#15106
+Slave Shop~
+Here thrives the underground slave trade of Midgaard.  This
+is where you can purchase a slave of your own.
+~
+151 d 0 0 0 0
+D3
+~
+~
+0 -1 15105
+S
+#15107
+Nazgyl's Haunt~
+   This is a dark room lit by orbs of faerie fire that float in its
+two corners.  There is a black wall to your west, north, and south.
+But to the east there is a small chute.
+~
+151 cd 0 0 0 0
+D1
+~
+chute~
+1 0 15113
+S
+#15108
+Cafeteria~
+This is a large room filled with tables and chairs used for
+meals by members of the guild.  At the moment, there are only 
+a few crumb-snatchers loitering around, hoping for a morsel.
+~
+151 d 0 0 0 0
+D1
+You see a dimly lit hallway.
+~
+~
+0 -1 15105
+D2
+You see the kitchen.
+~
+~
+0 -1 15111
+S
+#15109
+Hallway~
+Here the hallway branches to the north, south and east.
+There are some disturbing sounds coming from the south.
+~
+151 d 0 0 0 0
+D0
+The hallway continues north.
+~
+~
+0 -1 15105
+D1
+You see a lounge.
+~
+~
+0 -1 15110
+D2
+You see the southern end of the hallway.
+~
+~
+0 -1 15112
+S
+#15110
+Lounge~
+Breathing in the illegal smoke that fills the room, your head
+begins to swim and you feel a tremendous urge to plop down among
+the bean bags and piles of pillows for a while.
+~
+151 d 0 0 0 0
+D2
+There is a large door here, behind a tapestry.
+~
+door~
+1 -1 15114
+D3
+You see a dimly lit hallway.
+~
+~
+0 -1 15109
+S
+#15111
+Kitchen~
+This kitchen is in terrible disarray.  There are hunks of meat
+buzzing with flies sitting on counters and piles of dishes stacked
+to the ceiling.  Maybe if you are low on cash, they would pay you
+to clean the place up a bit.  Maybe.
+~
+151 d 0 0 0 0
+D0
+You see the cafeteria.
+~
+~
+0 -1 15108
+D2
+You see into the pantry.
+~
+~
+0 -1 15113
+S
+#15112
+Hallway~
+This is the southern end of a long hallway that extends north
+through the building.  There is a wide staircase leading up.
+~
+151 d 0 0 0 0
+D0
+The hallway extends north.
+~
+~
+0 -1 15109
+D4
+You feel awkward peering up a flight of stairs like this.
+Why not just go on up?  You've come this far.
+~
+~
+0 -1 15115
+S
+#15113
+Pantry~
+Well, here you are in the pantry.  Shelves of food are all
+around you.  Not much happening here.
+~
+151 d 0 0 0 0
+D0
+You see the kitchen.
+~
+~
+0 -1 15111
+D3
+Here you see an garbage chute.
+~
+chute~
+1 0 15107
+S
+#15114
+Training Arena~
+This is where the young DarkFiend wannabe's come to get tested
+and trained.  Weapons, climbing aids and other tools of the
+trade line the walls.  Blood stains cover the floor.
+~
+151 d 0 0 0 0
+D0
+There is a large door in the western wall.
+~
+door~
+1 -1 15110
+S
+#15115
+Dark hallway~
+Here there is a flight of stairs leading down and the hallway
+leads off to the east and to the west.
+~
+151 ad 0 0 0 0
+D1
+~
+~
+0 -1 15116
+D3
+~
+~
+0 -1 15117
+D5
+Careful, that's a long way down!
+~
+~
+0 -1 15112
+S
+#15116
+Dark hallway~
+The floorboards here creak obnoxiously at the slightest
+movement.
+~
+151 ad 0 0 0 0
+D0
+~
+~
+0 -1 15118
+D3
+The hallway continues west.
+~
+~
+0 -1 15115
+S
+#15117
+Dark hallway~
+The floorboards here creak obnoxiously with the slightest
+movement.
+~
+151 ad 0 0 0 0
+D0
+~
+~
+0 -1 15119
+D1
+The hallway continues east.
+~
+~
+0 -1 15115
+S
+#15118
+Dark hallway~
+The floorboards here creak obnoxiously with the slightest
+movement.
+~
+151 ad 0 0 0 0
+D0
+~
+~
+0 -1 15122
+D2
+~
+~
+0 -1 15116
+S
+#15119
+Dark hallway~
+The floorboards here creak obnoxiously with the slightest
+movement.
+~
+151 ad 0 0 0 0
+D0
+~
+~
+0 -1 15123
+D2
+~
+~
+0 -1 15117
+S
+#15120
+Supply room~
+This is a large walk-in closet containing a large assortment
+of thiefly supplies.  Shelves line the walls crammed with things,
+but, naturally, most of them are nailed into place.
+~
+151 d 0 0 0 0
+D0
+~
+~
+0 -1 15121
+S
+#15121
+Dark Hallway~
+The floorboards here creak obnoxiously at the slightest
+movement.
+~
+151 ad 0 0 0 0
+D0
+You see the bottom of a staircase leading up.
+~
+~
+0 -1 15124
+D1
+~
+~
+0 -1 15122
+D2
+You can see into the supply room.
+~
+~
+0 -1 15120
+D3
+~
+~
+0 -1 15123
+S
+#15122
+Dark hallway~
+The floorboards here creak obnoxiously at the slightest
+movement.
+~
+151 ad 0 0 0 0
+D2
+~
+~
+0 -1 15118
+D3
+~
+~
+0 -1 15121
+S
+#15123
+Dark hallway~
+The floorboards here creak obnoxiously at the slightest
+movement.  There is an iron door to the north.
+~
+151 ad 0 0 0 0
+D0
+~
+door~
+1 15133 15126
+D1
+~
+~
+0 -1 15121
+D2
+~
+~
+0 -1 15119
+S
+#15124
+Foot of the stairs~
+A spiral staircase leads up from here.  There is an iron
+door to the east.
+~
+151 d 0 0 0 0
+D1
+~
+door~
+1 -1 15125
+D2
+~
+~
+0 -1 15121
+D4
+You can't see much but the bottom of the stairs that wind
+up over your head.
+~
+~
+0 -1 15127
+S
+#15125
+Weight room~
+The room is filled with equipment aimed at pumping YOU up!
+Yah, don't you be a girly-man any more! Benches, dumbbells,
+and bars with huge wheels of lead are everywhere.
+~
+151 d 0 0 0 0
+D3
+~
+door~
+1 -1 15124
+S
+#15126
+Office~
+Whoops, maybe you should not be in here.  It looks like a very
+private room.  A desk, a chair, cabinets, and a lot of paper.
+Whoever works in here is all business.
+~
+151 d 0 0 0 0
+D2
+~
+door~
+1 15133 15123
+S
+#15127
+Top of the stairs~
+Standing at the top of the staircase, you can see that what
+were stairs moments ago are now absolutely nothing.  The stairs
+simply melted away into nothingness as you looked at them!  So
+much for going down this way -- you can't even see the floor
+from here -- if there is one.  (Ack?)
+~
+151 cd 0 0 0 0
+D1
+You see the end of a hallway.
+~
+~
+0 -1 15128
+S
+#15128
+End of the hallway~
+This hallway is lined with pricely paintings and tapestries.
+As you study the walls, your feet are sinking into 2 inch plush
+carpeting, and loving it.
+~
+151 d 0 0 0 0
+D2
+You see a den.
+~
+~
+0 -1 15131
+D3
+You see what looks like the top of a staircase.
+~
+~
+0 -1 15127
+S
+#15129
+Purple room~
+The walls, ceiling, and floor of this room have been painted
+a striking purple that nearly causes you to break out in hives.
+There is a single chair and a desk with some papers on it.
+~
+151 d 0 0 0 0
+D2
+You see a den.
+~
+~
+0 -1 15132
+S
+#15130
+Den of Thieves~
+This is apparently a main hang-out for mid-level members of
+the guild.  There are comfortable sofas and cushions spread
+about the room, and the floor is covered with 2 inch plush
+red carpeting.
+~
+151 d 0 0 0 0
+D1
+~
+~
+0 -1 15131
+D3
+~
+~
+0 -1 15132
+S
+#15131
+Den of Thieves~
+This is apparently a main hang-out for mid-level members of
+the guild.  There are comfortable sofas and cushions spread
+about the room, and the floor is covered with 2 inch plush
+red carpeting.
+~
+151 d 0 0 0 0
+D0
+You see the end of the hallway.
+~
+~
+0 -1 15128
+D3
+~
+~
+0 -1 15130
+S
+#15132
+Den of Thieves~
+This is apparently a main hang-out for mid-level members of
+the guild.  There are comfortable sofas and cushions spread
+about the room, and the floor is covered with 2 inch plush
+red carpeting.
+~
+151 d 0 0 0 0
+D0
+You see a dangerously purple room.  Could it be...Prince?
+~
+~
+0 -1 15129
+D1
+~
+~
+0 -1 15130
+D2
+~
+~
+0 -1 15135
+S
+#15133
+Den of Thieves~
+This is apparently a main hang-out for mid-level members of
+the guild.  There are comfortable sofas and cushions spread
+about the room, and the floor is covered with 2 inch plush
+red carpeting.
+~
+151 d 0 0 0 0
+D1
+~
+door~
+1 15133 15134
+D3
+~
+~
+0 -1 15135
+S
+#15134
+Red and blue hall~
+This hallway is lit with a strange red light that is nearly
+totally absorbed by the plush deep blue carpeting.
+~
+151 d 0 0 0 0
+D2
+The hall continues south.
+~
+~
+0 -1 15137
+D3
+~
+door~
+1 15133 15133
+S
+#15135
+Den of Thieves~
+This is apparently a main hang-out for mid-level members of
+the guild.  There are comfortable sofas and cushions spread
+about the room, and the floor is covered with 2 inch plush
+red carpeting.
+~
+151 d 0 0 0 0
+D0
+~
+~
+0 -1 15132
+D1
+~
+~
+0 -1 15133
+S
+#15136
+Red and blue hall~
+This hallway is lit with a strange red light that is nearly
+totally absorbed by the plush deep blue carpeting.
+~
+151 d 0 0 0 0
+D1
+The hall continues east.
+~
+~
+0 -1 15137
+D3
+The hall continues west.
+~
+~
+0 -1 15139
+S
+#15137
+Red and blue hall~
+This hallway is lit with a strange red light that is nearly
+totally absorbed by the plush deep blue carpeting.
+~
+151 d 0 0 0 0
+D0
+The hall continues north.
+~
+~
+0 -1 15134
+D3
+The hall continues east.
+~
+~
+0 -1 15136
+S
+#15138
+The Abyss~
+   After having descended into the dark for about a mile, you reach
+a landing, the steps vanish behind you, and you find yourself in an
+enormous dark cavern...
+~
+151 ad 0 0 0 6
+S
+#15139
+The end of the red and blue hall.~
+Here the hallway ends, as you might have guessed.  The hall
+stretches on to the east but there is also a portal in the
+ceiling here.
+~
+151 cd 0 0 0 0
+D1
+The hall continues east.
+~
+~
+0 -1 15136
+D4
+You can tell that the portal is made so that a person may be
+able to climb up through it but returning down would be quite
+hazardous.
+~
+~
+0 -1 15140
+S
+#15140
+Skull room~
+It seems that this room serves to discourage people from
+snooping any higher in the guild-house.  Humanoid skulls
+have been nailed into the walls here, atop a full-room
+painting, forming a frightening collage depicting a group
+of people being viciously flayed.
+~
+151 ad 0 0 0 0
+D0
+You see a dark room.
+~
+~
+0 -1 15143
+D1
+By searching the wall carefully, you can see there is a
+door here.
+~
+door~
+1 -1 15141
+S
+#15141
+Beardog pen~
+What an assault to the senses!  Your nose burns from the odors,
+your feet are squishing on feces, and your eyes are attacked by
+humongous, well fed flies.
+~
+151 d 0 0 0 0
+D0
+You smell a pen.
+~
+~
+0 -1 15144
+D3
+~
+door~
+1 -1 15140
+S
+#15142
+Torture Chamber~
+This place has the works.  The rack, the whipping posts, the
+sets of manacles, the fire and irons, all of it.  Even the
+remains of the unfortunate hanging on the walls.
+~
+151 d 0 0 0 0
+D0
+You see a dark chamber.
+~
+~
+0 -1 15145
+D4
+~
+~
+0 -1 15153
+S
+#15143
+Dark room~
+This room is very dark, only lit by a single torch that
+burns languidly on the far wall.  It is bare except
+for a small bed in one corner.
+~
+151 d 0 0 0 0
+D2
+You feel a slight breeze blowing from the south.
+~
+~
+0 -1 15140
+S
+#15144
+Beardog pen~
+What an assault to the senses!  Your nose burns from the odors,
+your feet are squishing on feces, and your eyes are attacked by
+humongous, well fed flies.
+~
+151 d 0 0 0 0
+D0
+You see a doorway that leads out of the pen.
+~
+door~
+1 -1 15147
+D2
+You smell a pen.
+~
+~
+0 -1 15141
+S
+#15145
+A dark chamber~
+Lit by two torches in opposing walls there is not a lot of
+light to see by here, thankfully.  For lying strewn about on
+the floor are pieces of those people who have in some way
+crossed the guild and not been able to make up for it.
+~
+151 d 0 0 0 0
+D0
+You see some kind of a den through a portcullis.
+~
+portcullis~
+1 15133 15148
+D2
+You see some large, dark objects.
+~
+~
+0 -1 15142
+S
+#15146
+Smugglers' den~
+This is the place where most of the merchandise brought in by
+the guild changes hands.  There are counters and tables set up
+to accommodate buyers and sellers.
+~
+151 d 0 0 0 0
+D1
+~
+~
+0 -1 15147
+S
+#15147
+Smugglers' den~
+This is the place where most of the merchandise brought in by
+the guild changes hands.  There are counters and tables set up
+to accommodate buyers and sellers.
+~
+151 d 0 0 0 0
+D1
+~
+~
+0 -1 15148
+D2
+You see an odd looking door.
+~
+door~
+1 15133 15144
+D3
+~
+~
+0 -1 15146
+S
+#15148
+Smugglers' den~
+This is the place where most of the merchandise brought in by
+the guild changes hands.  There are counters and tables set up
+to accommodate buyers and sellers.  There is a portcullis in the
+southern wall, and a beaded curtain to the north.
+~
+151 d 0 0 0 0
+D0
+You see a beaded curtain hanging in front of your nose.
+~
+beaded curtain~
+1 -1 15151
+D2
+Gee, looks kinda like a portcullis!
+~
+portcullis~
+1 15133 15145
+D3
+~
+~
+0 -1 15147
+S
+#15149
+Back room~
+This room is used for the most lucrative of the guild's
+merchandising efforts.  A large marble table is here with
+several stuffed chairs around it.
+~
+151 d 0 0 0 0
+D1
+~
+door~
+1 -1 15150
+S
+#15150
+Swirling hall~
+The walls of this hall seem to undulate and change colors
+in a swirling pattern, making you quite dizzy.  You suddenly
+find yourself groping about for your small bag.
+~
+151 d 0 0 0 0
+D1
+The funky fluid hall continues east.
+~
+~
+0 -1 15151
+D3
+By examining the shifting wall (not fun), you find a hidden blue door.
+~
+blue~
+1 -1 15149
+S
+#15151
+Swirling hall~
+The walls of this hall seem to undulate and change colors
+in a swirling pattern, making you quite dizzy.  You suddenly
+find yourself groping about for your small bag.
+~
+151 d 0 0 0 0
+D2
+You see a beaded curtain hanging in front of your nose.
+~
+beaded curtain~
+1 -1 15148
+D3
+The funky fluid hall continues west.
+~
+~
+0 -1 15150
+S
+#15152
+Behind the Altar~
+You are in a small dusty room that apparently hasn't been
+used in a very long time.  The stone walls are crumbling
+away from the merciless force of time, and the air you are
+breathing is probably several hundred years old.
+~
+151 ad 0 0 0 0
+D2
+These stones form the back of a large altar.
+~
+stone~
+2 15134 15160
+S
+#15153
+Marble hall~
+You are in a huge marble hall that shimmers with the light
+of magic.  The walls are bare of any decorations, as is the
+floor.  The floor hums beneath your feet, rattling your teeth.
+Any attempt to see very far in any direction is either
+obstructed by the many pillars throughout the hall or simply
+blocked by the magical haze.
+~
+151 d 0 0 0 0
+D0
+~
+~
+0 -1 15156
+D3
+~
+~
+0 -1 15154
+S
+#15154
+Marble hall~
+You are in a huge marble hall that shimmers with the light
+of magic.  The walls are bare of any decorations, as is the
+floor.  The floor hums beneath your feet, rattling your teeth.
+Any attempt to see very far in any direction is either
+obstructed by the many pillars throughout the hall or simply
+blocked by the magical haze.
+~
+151 d 0 0 0 0
+D0
+~
+~
+0 -1 15157
+D1
+~
+~
+0 -1 15153
+D3
+~
+~
+0 -1 15155
+S
+#15155
+Marble hall~
+You are in a huge marble hall that shimmers with the light
+of magic.  The walls are bare of any decorations, as is the
+floor.  The floor hums beneath your feet, rattling your teeth.
+Any attempt to see very far in any direction is either
+obstructed by the many pillars throughout the hall or simply
+blocked by the magical haze.
+~
+151 d 0 0 0 0
+D0
+~
+~
+0 -1 15158
+D1
+~
+~
+0 -1 15154
+S
+#15156
+Marble hall~
+You are in a huge marble hall that shimmers with the light
+of magic.  The walls are bare of any decorations, as is the
+floor.  The floor hums beneath your feet, rattling your teeth.
+Any attempt to see very far in any direction is either
+obstructed by the many pillars throughout the hall or simply
+blocked by the magical haze.
+~
+151 d 0 0 0 0
+D2
+~
+~
+0 -1 15153
+D3
+~
+~
+0 -1 15157
+S
+#15157
+Marble hall~
+You are in a huge marble hall that shimmers with the light
+of magic.  The walls are bare of any decorations, as is the
+floor.  The floor hums beneath your feet, rattling your teeth.
+Any attempt to see very far in any direction is either
+obstructed by the many pillars throughout the hall or simply
+blocked by the magical haze.
+~
+151 d 0 0 0 0
+D0
+~
+~
+0 -1 15160
+D1
+~
+~
+0 -1 15156
+D2
+~
+~
+0 -1 15154
+D3
+~
+~
+0 -1 15158
+S
+#15158
+Marble hall~
+You are in a huge marble hall that shimmers with the light
+of magic.  The walls are bare of any decorations, as is the
+floor.  The floor hums beneath your feet, rattling your teeth.
+Any attempt to see very far in any direction is either
+obstructed by the many pillars throughout the hall or simply
+blocked by the magical haze.
+~
+151 d 0 0 0 0
+D0
+~
+~
+0 -1 15161
+D1
+~
+~
+0 -1 15157
+D2
+~
+~
+0 -1 15155
+S
+#15159
+Dead-end corridor~
+You are in a dead end corridor leading out of the marble
+hall.  There is a painting on the wall that depicts a
+pick-pocket cutting off the hands of the Prince-Governor.
+~
+151 d 0 0 0 0
+D3
+You see the marble hall.
+~
+~
+0 -1 15160
+D4
+You can see a trapdoor in the ceiling.
+~
+trapdoor~
+2 15134 15162
+S
+#15160
+The Altar~
+Here stands a tremendous onyx altar to Shalpa, the Patron god of
+thieves.  Incense burns from within it, filling the hall with
+its sweet smoke, adding to the haze of magic.
+~
+151 d 0 0 0 0
+D0
+~
+altar~
+2 15134 15152
+D1
+You see a corridor.
+~
+~
+0 -1 15159
+D2
+~
+~
+0 -1 15157
+D3
+~
+~
+0 -1 15161
+S
+#15161
+Marble hall~
+You are in a huge marble hall that shimmers with the light
+of magic.  The walls are bare of any decorations, as is the
+floor.  The floor hums beneath your feet, rattling your teeth.
+Any attempt to see very far in any direction is either
+obstructed by the many pillars throughout the hall or simply
+blocked by the magical haze.
+~
+151 d 0 0 0 0
+D1
+You see a great altar.
+~
+~
+0 -1 15160
+D2
+~
+~
+0 -1 15158
+S
+#15162
+Onyx corridor~
+This is the eastern end of a dark, torchlit corridor leading
+westwards.  A moment ago there was a trapdoor in the floor here,
+but it seems someone has wished it right out of existence.
+~
+151 d 0 0 0 0
+D3
+The corridor continues west.
+~
+~
+0 -1 15163
+S
+#15163
+Onyx corridor~
+Two magnificent tapestries hang from opposite walls here.  One
+shows a bloody demon devouring a heavenly being, the other, a
+knight riding his mount over the steaming corpse of a black dragon.
+~
+151 d 0 0 0 0
+D1
+The corridor continues east.
+~
+~
+0 -1 15162
+D3
+The corridor continues west.
+~
+~
+0 -1 15164
+E
+demon~
+The more you look at this demon, the more it seems to be a rather
+dreadful representation of the infamous thief, Roland, of the
+Dark Side.
+~
+E
+knight~
+Looking closely at the knight, you recognize him to be Skylar,
+one of the legendary knights of the Circle of Light.
+~
+S
+#15164
+Onyx corridor~
+You are at a corner in this long dark hall.  One way leads
+east, one leads south.  Both ways look equally devious as the
+faint torchlight flickers off the smooth stone walls.
+~
+151 d 0 0 0 0
+D1
+The corridor continues east.
+~
+~
+0 -1 15163
+D2
+The corridor continues south.
+~
+~
+0 -1 15165
+S
+#15165
+Onyx corridor~
+You are at a dead end in the onyx corridor.  Out of the
+wall is carved an inscription, lined in faerie fire.
+~
+151 d 0 0 0 0
+D0
+The corridor continues north.
+~
+~
+0 -1 15164
+D1
+Studying the wall painstakingly, you notice there is a
+sliding panel in this gleaming onyx wall.  Doesn't look
+like its going to slide anywhere without a key though.
+~
+panel~
+2 15134 15166
+E
+inscription~
+ 
+  
+                 Screaming, wet blood sticking,
+              Flowing freely, escaping, glistening
+                      Shadow cat above,
+                      Cold stone below
+                   Cross the Dark Friends
+                      And down you go.
+                       +>>>{========-
+
+~
+S
+#15166
+Onyx chamber~
+You are in a massive onyx chamber filled with statues, pieces
+of art, weapons, magical artifacts, and most bothersome,
+illusions of wild beasts that fade in and out of sight as
+they roam the room.
+~
+151 dj 0 0 0 0
+D1
+~
+~
+0 -1 15167
+D2
+~
+~
+0 -1 15169
+D3
+~
+panel~
+2 15134 15165
+S
+#15167
+Onyx chamber~
+You are in a massive onyx chamber filled with statues, pieces
+of art, weapons, magical artifacts, and most bothersome,
+illusions of wild beasts that fade in and out of sight as
+they roam the room.
+~
+151 dj 0 0 0 0
+D2
+~
+~
+0 -1 15168
+D3
+~
+~
+0 -1 15166
+S
+#15168
+Onyx chamber~
+You are in a massive onyx chamber filled with statues, pieces
+of art, weapons, magical artifacts, and most bothersome,
+illusions of wild beasts that fade in and out of sight as
+they roam the room.
+~
+151 dj 0 0 0 0
+D0
+~
+~
+0 -1 15167
+D3
+~
+~
+0 -1 15169
+S
+#15169
+Grandmaster's Bedchamber~
+This section of the Onyx chamber is almost entirely taken
+up by a huge canopy bed in the center of the room.  It is
+covered with various animal furs and pillows no doubt filled
+with the finest down.  Definitely the private rooms of someone
+very powerful and very rich.  
+~
+151 dj 0 0 0 0
+D0
+~
+~
+0 -1 15166
+D1
+~
+~
+0 -1 15168
+D3
+~
+~
+0 -1 15170
+S
+#15170
+Onyx chamber~
+You are in a massive onyx chamber filled with statues, pieces
+of art, weapons, magical artifacts, and most bothersome,
+illusions of wild beasts that fade in and out of sight as
+they roam the room.
+~
+151 dj 0 0 0 0
+D1
+~
+~
+0 -1 15169
+S
+$~

@@ -1,0 +1,11 @@
+sw cast 'shadow walk' $*
+tr trip $*
+b cast 'blind' $*
+bl cast 'blur'
+sl cast 'sleep' $*
+sv cast 'shadow vision' $*
+sb cast 'shadow blade' $*
+dos cast 'dance of shadows' $*
+ss c 'shadow sphere' 
+dr drink thim
+wa wake;stand

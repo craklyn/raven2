@@ -1,0 +1,48 @@
+4 rec rec mid
+ms cast 'meteor swarm'
+port cast 'portal' $1
+rc cast 'remove curse' $1
+heal mist eton;sl eton;sl eton;mist eton;sl eton;get all corp;mist ki-rin; sl ki-rin;sl ki-rin;get all corp;mist donjon;sl donjon;s
+iz cast 'invis' self
+7 cast 'sum' guardian_vamp
+invis cast 'invis' $1
+air cast 'air' $1
+sh cast 'shriek' $1
+shr cast 'shriek'
+spellup cast 'invis';cast 'flame blade';cast 'shield';cast 'fly';cast 'true sight';cast 'awaken'
+gaky2 rem quill;hold broom
+gaky rem broom;hold quill;scribe infra parch
+kordoth .16w6swse14s7e2s5e4n7es'
+lf cast 'life drain'
+sle or fol sleep;;sle
+wa wake;;or fol wak;;or fol sta;;stand
+ice c 'ice storm
+shi cast 'shield' self
+mon cast 'monster summon'
+ruf 14w2s2w3se2sw14s7e2s5e4n3e5s8e2nes
+sum c 'summon' $1
+id c 'identify' $1
+bl c 'blind' $1
+fly c 'fly' $1
+str c 'stre' $1
+shield c 'shield' $1
+fb c 'flame blade' $1
+sho c 'shock grasp' $1
+feb cast 'feeblemind' $1
+locate cast 'locate' $1
+ch c 'charm person' $1
+col cast 'color spray'
+awa cast 'awaken'
+haste c 'haste' $1
+charm cast 'charm' $1
+gaks .15w7e4n25e2nwn2w4d3ndne2nws
+ts c 'true sight' $1
+ld cast 'life drain' $1
+pissoff cast 'detect magic' $1
+oi gs 16w6swse14s7e2s5e4n7es
+ppp c ' magic missile ' 2.head n
+1 gr all
+5 mist 4.gak?
+sl cast ?doom bolt?
+a cast ?doom? $1
+wra cast ?wrath?

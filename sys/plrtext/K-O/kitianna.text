@@ -1,0 +1,27 @@
+q k spid
+rr rescue $*
+re retreat $*
+00 c 'dis evil' $*
+3 c 'holy arm' $*
+qe gt &10Earthing $1 &00;$1;quaf earth
+te gt &10Earthing $1 &00;$1;toss earth
+go gt &10Going $1 on $2 &00;$1;kill $2
+h cast 'cure serious' $*
+7 cast 'tremor' $*
+dis disarm $*
+m rec mid scr;get mid bup
+b bash $*
+f get dust bup;quaff dust
+da c 'det ali' $*
+wa wake;stand
+di c 'det inv' $*
+mm rec mid; get mid bup
+4 c 'prot from evil' $*
+2 c 'arm' $*
+1 kick $*
+5 c 'divine' $*
+r c 'regen' $*
+tt gt &07!&14-&00&03+&00&14$* &00&03+&14-&07!&00
+cc clan &07!&14-&00&03+&00&14$* &00&03+&14-&07!&00
+say say &07!&14-&00&03+&00&14$* &00&03+&14-&07!&00
+a assist

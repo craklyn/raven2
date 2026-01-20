@@ -1,0 +1,314 @@
+#38100
+The Ranger's Guild of Samsera~
+The Ranger's Guild fo Samsera lies in the south-west quarter of the town's Guild Way
+Features of the guild include:
+A forest type set up.
+A Idea Board
+A challenge Board
+A Armory of sorts
+A shortcut to the proving grounds.
+A shopkeep
+A Guildmaster
+A Challenge Board
+
+The Challenge for Forest Guardian shall be in three parts:
+Archery. The first to miss the target.
+Hunting. The first to retrieve/hunt a specific animal/object.
+Combat. A one on one combat in the proving grounds.
+
+Kurse, Sep 00'
+~
+381 1024 0 0 0 0 255 0
+S
+#38101
+The tunneled path~
+   The path from the gate winds and twists here, passing under business row and
+other streets via a series of tunnels lush with vegetation.  You notice on the
+walls of some of the tunnels are carved names of legendary Rangers which have
+roamed the lands.  On a face of rock near the clearing is a 'map' showing the
+orientation of the Forest Guild.    
+~
+381 1049088 0 0 0 3 0 0
+D1
+~
+~
+0 0 18101
+D2
+~
+~
+0 0 38102
+S
+#38102
+The Ring of Trees~
+   You step into a large clearing surrounded by Oaks so huge, their understory
+blocks out any rain there may be.  A central place of contact for the Ranger's
+Guild, here is where travelers from across the realms meet to discuss the
+affairs of the class and its members.    
+~
+381 520 0 0 0 3 255 0
+D0
+~
+~
+0 0 38101
+D3
+~
+~
+0 0 38103
+S
+#38103
+The Path of the Range~
+   A wide leaf covered path cuts a straight trail through the thick woods here.
+These woods are rich with life and magic, and the path is lit from above by
+permanent faerie fire spells, a gift from the western Druids.  Other Rangers
+nod in your direction in recognition as you pass by.  To the south stands a log
+cabin where equipment is provided.    
+~
+381 1049088 0 0 0 3 0 0
+D1
+~
+~
+0 0 38102
+D2
+~
+~
+0 0 38104
+D3
+~
+~
+0 0 38106
+S
+#38104
+Provisions of Survival~
+   This small log cabin is stocked from wall to wall with everything a person
+could need to survive weeks, even months in the wild.  The main purpose of the
+shop is to provide for newer rangers in training however, as Rangers learn to
+survive without material aid as they grow more experienced.    
+~
+381 1049096 0 0 0 0 0 0
+D0
+~
+~
+0 0 38103
+S
+#38105
+The Tree Vault~
+   You stand in the center of a massive hollowed out tree.  This tree is made
+of ironwood, which like its name, is as strong as any metal.  It serves as a
+sort of vault for travelling Rangers who place here goods gathered on their
+travels for the guild as a whole.  The expectation is that if you take from th
+vault, you will contribute to it as much as possible as well.    
+~
+381 1051144 0 0 0 3 0 0
+D0
+A large door set in the bark leads outside.
+~
+tree vault bark~
+1 -1 38106
+S
+#38106
+The Path of the Range~
+   The path continues into the forest, whose foliage thickens at this point.  
+So heavy is the understory, that little light filters in through the leaves
+above.  To the south stands a massive ironwood tree, an impenetrable vault.  
+The territory of the guildmaster lies in the northern part of the forest.    
+~
+381 1049096 0 0 0 3 0 0
+D0
+~
+~
+0 0 38107
+D1
+~
+~
+0 0 38103
+D2
+A massive oak tree with a door set in it stands to the south.
+~
+tree vault bark~
+1 -1 38105
+D3
+~
+~
+0 0 38109
+S
+#38107
+The training camp~
+   You have stumbled upon a large camp in the heart of the forest.  Many
+rangers are staying here in company of the Guildmaster, learning the skills
+which will give them the ability to prove themselves against the forces of
+nature and the elements.    
+~
+381 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 38108
+D2
+~
+~
+0 0 38106
+S
+#38108
+The Glade of the Wild~
+   The air of this peaceful glade can only be described as perfect tranquility.
+No sounds are heard except for a small spring which bubbles from a clear pool
+of water.  Animals of many different species sit here calmly, unperterbed by
+your prescence.  This is where many rangers go to learn to communicate and
+listen to the creatures of the forest.    
+~
+381 1049120 0 0 0 3 0 0
+D2
+~
+~
+0 0 38107
+S
+#38109
+The Path of the Range~
+   The main path continues to wind through the trees.  The forest is full of
+shadows, and your heightened senses tell you that other rangers are nearby,
+perhaps practicing the art of camofluage.  To the north is the recovery camp,
+where explorers camp to rest up from their travels.    
+~
+381 1049096 0 0 0 3 0 0
+D0
+~
+~
+0 0 38114
+D1
+~
+~
+0 0 38106
+D3
+~
+~
+0 0 38110
+S
+#38110
+The tannery~
+   Along this wooded path you pass a small outpost where the art of tanning,
+skinning, and rationing is taught.  It is emphasized that such practices should
+only be done when is necessary to the ranger's survival, and that their need
+will factor into the fragile balance of nature's many food webs.  Such harmony
+with and use of nature is the way of the ranger.    
+~
+381 1049096 0 0 0 0 0 0
+D0
+~
+~
+0 0 38109
+D1
+~
+~
+0 0 38116
+S
+#38111
+The Rite of Challenge~
+   It is in this small clearing that challenges are made by those who aspire to
+hold the title of Guardian of the Forest, a high rank within the Guild of
+Rangers.  A small pedestal and board lie here.  To the north lies the ravine
+and shooting range.  To the south lies the path to the tree teleport.    
+~
+381 512 0 0 0 3 255 0
+D0
+~
+~
+0 0 38112
+D1
+~
+~
+0 0 38109
+D2
+~
+~
+0 0 38110
+S
+#38112
+The Firing Range~
+   A stone trail leads up to a rangers to practice their archery skills.  
+Scanning to the north, you see a set of three large archery targets on the
+other side of the ravine.  This area also serves as a place of contest for
+rangers who wish to settle issues with their bows instead of fists.    
+~
+381 1049096 0 0 0 3 0 0
+D0
+~
+~
+0 0 38113
+D2
+~
+~
+0 0 38110
+S
+#38113
+A Small Ravine~
+   A shallow ravine cuts a black stretch through the earth of the forest here.
+On one side to the south is the Firing range.  Bolts and arrows fly over your
+head to the north where a series of targets have been set up for practice.  
+Due to the number of arrows flying through the air, you decide it would not be
+very wise to go north and become a dummy yourself.    
+~
+381 1049096 0 0 0 3 0 0
+D0
+~
+~
+0 0 38115
+D2
+~
+~
+0 0 38112
+S
+#38114
+The Recovery Camp~
+   A number of well constructed bivouacs stand between the trees here.  The
+camp serves as a sort of makeshift hospital for those rangers that need special
+healing past their own ability to bind wounds.  A couple druids supervise the
+camp, and apply special salves and dressings to those with serious wounds.    
+~
+381 1442312 0 0 0 3 0 0
+D2
+~
+~
+0 0 38109
+S
+#38115
+Target Practice~
+   Three simple targets stand here in front of a row of thick brush.  Each
+target's concentric circles are filled with shafts of arrows shot by skilled
+ranger's bows.    
+~
+381 537921032 0 0 0 3 0 0
+D2
+~
+~
+0 0 38113
+S
+Z 16
+#38116
+The Tree Teleport~
+   You step into a tree of immense proportions that has been hollowed out into
+a large room.  On the south side of the tree lies a single closed door, which
+leads to the proving grounds.  This tree teleport was created through use of
+powerful druidic magic, which you sense coursing through the air here even now.
+~
+381 1049096 0 0 0 0 0 0
+D1
+~
+~
+0 0 38110
+D2
+A druidic tree portal stands here, leading to the Proving Grounds.
+~
+tree portal~
+1 -1 22286
+S
+#38118
+1~
+You are in an unfinished room.
+~
+381 0 0 0 0 0 255 0
+D3
+~
+~
+0 0 38112
+S
+$~

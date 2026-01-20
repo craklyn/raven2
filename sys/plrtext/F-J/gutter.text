@@ -1,0 +1,28 @@
+tit title ::  &01K&00&07nigh&00&01t&00 of the &03Elements&00
+trem cast 'tremor'
+eyes cast 'eyes of the dead'
+dev devour
+bb cast 'black breath'
+pest cast 'pestilence'
+regen cast 'regen' $1
+bdd cast 'black dart' $1
+cww cast 'cause wound' $1
+ca cast 'chaos armor'
+ap cast 'aura of apoc'
+sac destroy corpse
+lo get all all.corpse
+pfg cast 'protection from good'
+res rescue $1
+k kick
+di cast 'detect invis' $1
+armor cast 'armor' $1
+bd cast 'black dart'
+cw cast 'cause wound'
+j exit
+dr drink thimble
+gt gt &08@&00&03-,--&00 &01$*&00  &03--`-&00&08@&00
+blind cast 'blind' $1
+1 gs now
+steed cast 'call steed'
+0 grope cedrow
+2 rescue kaito

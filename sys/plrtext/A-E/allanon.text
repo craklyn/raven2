@@ -1,0 +1,36 @@
+remcurse c 'remove curse' $*
+rs c 'word of recall'
+1 c 'revive' $*
+2 c 'revive' feral
+0 wake;;stand
+relo c 'relocate' $*
+dc destroy corpse
+assistant c 'assistant'
+sag c 'sagacity' $*
+fort c 'fortify' $*
+armor c 'armor' $*
+recal c 'word of recal' $*
+food c 'create food
+sanc c 'sanc' $*
+fly c 'fly' $*
+sum c 'summon' $*
+di c 'detect invis' $*
+infra c 'infra
+b breath $*
+regen c 'regen' $*
+gt gt &09 $* &00
+sense c 'sense
+ban emote screams "BANZAI!!!!" and brandishes his &14S&00&07hining&00 &14S&00&07haft of&00 &14D&00&07e&14L&00&07ight&00 for battle.
+grat grat &03----&00&09>&00 &07$*&00 &09<&00&03----&00
+out emot &11OUT OUT OUT &13aka &08out of MANA!!!
+tac take all all.corpse
+ward c 'ward' $*
+dragon tit &04Dragon of Life&00
+flame c 'flame strike' $*
+r rec rec rec
+cb c 'cure blind' $*
+blind c 'blindness' $*
+para c 'remove paralysis' $*
+rev c 'revive' $*
+ht c 'rev' xandor
+res buy restore

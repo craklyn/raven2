@@ -1,0 +1,2159 @@
+#14000
+The Great Tower of Xerxes - Level 1~
+This area (14001-14084) is the first level of the Great Tower of Xerxes.
+
+The connection points are as follows:
+
+North of 14001 is to be connected to 14901 (the ancient road).
+North of 14084 is to be connected to room 14101 (Level 2).
+
+Because of the aura surrounding them, no mobiles on any level of the tower
+may be summoned or portalled to, if you happen to be aware of any that can
+be, please report it to me as a bug. With a few exceptions, most of the rooms
+in the tower can be portalled to (but the mage will require a non-native as
+a target). This is so there is a mechanism to get players into the tower
+again if they die, with out having them skip any of the nasty parts I wen't
+to so much trouble putting in :) 
+
+This level of tower has a variety of aspects. Firstly, there is equipment
+here for evil characters of moderate level(20th-30th). The equipment is of
+decent quality, and thus the mobiles possessing it are'nt complete push overs.
+Secoundly, there are quite a few smaller mobiles which should be useful for
+xps(althou they will be over-loaded by groups). People coming here for xps
+will need to be carefull to avoid the "equipment" mobiles, this will come
+with a bit of experience of the area or a good sense of caution. Careless
+(or perhaps malicous) players could unleash a demon of moderate power which
+could wander this level. There is a guardian who will prevent people from
+reaching the 2nd level unless they are good enough to survive there.
+
+This area was written by Vex.
+~
+140 72 0 0 0 0 255 0
+S
+#14001
+Entrance to the Great Tower of Xerxes~
+Passing through the brazen portal, you find your self standing in a large
+entrance hall. The walls are of featureless stone, in fact perfectly smooth.
+You marvel at the craftsmanship of the stone masons who must have built this
+place, to your eye it looks like the whole tower is formed from a single
+piece of flawless stone. The sudden chill you feel is not just from the
+draught of cooler air drifting from inside, you feel like you are being 
+watched, studied dispassionately by some powerfull being. You faintly hear
+mocking ethereal laughter, filled with malice. Perhaps you should seek 
+adventure else where...
+~
+140 72 0 0 0 0 255 0
+D0
+A pair of great bronze gates are set into the northern wall of the tower.
+~
+bronze~
+1 -1 14901
+D1
+The hall continues to the east.
+~
+~
+0 0 14002
+D2
+The hall continues to the south.
+~
+~
+0 0 14004
+D3
+The hall continues to the west.
+~
+~
+0 0 14006
+S
+Z 19
+#14002
+East of the Tower Entrance~
+You breathe a sigh of relief as the sensation of being watched passes. It is
+much cooler in the tower than outside, you draw your cloak a little tighter.
+The flawless stone of the entrance hall is broken to east by an ornate arch
+way leading into a plain stone corridor. The entrance hall itself extends
+further to the south.
+~
+140 8 0 0 0 0 255 0
+D1
+To the east you see a corridor.
+~
+~
+0 0 14023
+D2
+The hall continues to the south.
+~
+~
+0 0 14003
+D3
+To the west you see the tower entrance.
+~
+~
+0 0 14001
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14003
+South East corner of Entrance Hall~
+The flawless stone is broken to the north by an ornate archway. Beyond you see
+a small culdesac. The hall itself extends to the north and west, while a stone
+chamber lies to the east.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14002
+D1
+Looking east, you see a stone chamber.
+~
+~
+0 0 14025
+D2
+To the south you see a small culdesac.
+~
+~
+0 0 14009
+D3
+The hall continues to the west.
+~
+~
+0 0 14004
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14004
+South of the Entrance~
+You breathe a sigh of relief as the sensation of being watched passes. It is
+much cooler in the tower than outside, you draw your cloak a little tighter.
+The flawless stone of the southern wall is broken by an ornate archway, beyond
+lies a small culdesac. The hall extends further to the east and west, while
+the entrance lies north.
+~
+140 8 0 0 0 0 255 0
+D0
+Looking to the north you see the tower entrance.
+~
+~
+0 0 14001
+D1
+The hall continues to the east.
+~
+~
+0 0 14003
+D2
+To the south you see a small culdesac.
+~
+~
+0 0 14008
+D3
+The hall continues to the west.
+~
+~
+0 0 14005
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14005
+South West corner of Entrance Hall~
+To the west lies a door, apparently of solid bronze. The flawless stone is 
+broken to the north by an ornate archway. Beyond you see a small culdesac. 
+The hall itself extends to the north and east.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14006
+D1
+The hall continues to the east.
+~
+~
+0 0 14004
+D2
+To the south you see a small culdesac.
+~
+~
+0 0 14007
+D3
+A bronze door bars the way west.
+~
+bronze door~
+1 -1 14012
+E
+bronze door~
+The bronze surface of the door sheens as if it where put here yesterday, it
+shows your reflection nicely, looks like you need to brush your hair.
+~
+S
+#14006
+West of the Tower Entrance~
+You breathe a sigh of relief as the sensation of being watched passes. It is
+much cooler in the tower than outside, you draw your cloak a little tighter.
+The flawless stone of the entrance hall is broken to west by an ornate arch
+way leading into a plain stone corridor. The entrance hall itself extends
+further to the south.
+~
+140 8 0 0 0 0 255 0
+D1
+To the east you see the tower entrance.
+~
+~
+0 0 14001
+D2
+The hall continues to the south.
+~
+~
+0 0 14005
+D3
+A corridor lies to the west.
+~
+~
+0 0 14010
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14007
+A Small Culdesac~
+You are standing in a small culdesac set into the southern wall of the 
+entrance hall. The walls of this room are as featureless as everything else
+here, you wonder what purpose it could serve.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north lies the entrance hall.
+~
+~
+0 0 14005
+S
+#14008
+A Small Culdesac~
+You are standing in a small culdesac set into the southern wall of the 
+entrance hall. The walls of this room are as featureless as everything else
+here, you wonder what purpose it could serve.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north lies the entrance hall.
+~
+~
+0 0 14004
+S
+#14009
+A Small Culdesac~
+You are standing in a small culdesac set into the southern wall of the 
+entrance hall. The walls of this room are as featureless as everything else
+here, you wonder what purpose it could serve.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north lies the entrance hall.
+~
+~
+0 0 14003
+S
+#14010
+A short corridor~
+You are in a featureless stone corridor leading from the entrance hall to the 
+east to a chamber to your west. You cant help but marvel at the perfect
+stone work of the tower, beyond any stone mason to replicate.
+~
+140 8 0 0 0 0 255 0
+D1
+To the east you see the entrance hall.
+~
+~
+0 0 14006
+D3
+You see a stone chamber to the west.
+~
+~
+0 0 14011
+S
+#14011
+A Guard Chamber~
+The flawless stone walls of this room are lined with bunks, while a stone
+table is fixed to the floor. There appear to be little in the way of personel
+effects, just the bare necessities.
+~
+140 8 0 0 0 0 255 0
+D1
+A stone corridor lies to the east.
+~
+~
+0 0 14010
+S
+#14012
+The Bronze Room~
+Passing through the door, you come across a change in the featureless stone
+of the tower. The walls, floor and ceiling of this room are of shimmering
+bronze. The near perfect surface is marred by soot, as if the room is 
+subjected to fire from time to time. This could be explained by the piles of
+ash scattered about the room. You notice blobs of what might have been steel
+stuck to the floor, and what looks like charred bones...
+~
+140 8 0 0 0 0 255 0
+D1
+The entrance hall lies to the east, past a bronze door.
+~
+bronze door~
+1 -1 14005
+D3
+The way to the west is barred by a bronze door.
+~
+bronze door~
+1 -1 14013
+E
+bronze door~
+The bronze surface of the door sheens as if it where put here yesterday, it
+shows your reflection nicely, looks like you need to brush your hair.
+~
+S
+#14013
+A long corridor~
+You are in a long corridor of featureless stone leading to the west. To your 
+east lies a bronze door.
+~
+140 8 0 0 0 0 255 0
+D1
+A room of bronze lies to the east, past a bronze door.
+~
+bronze door~
+1 -1 14012
+D3
+To the west, the corridor continues.
+~
+~
+0 0 14014
+E
+bronze door~
+The bronze surface of the door sheens as if it where put here yesterday, it
+shows your reflection nicely, looks like you need to brush your hair.
+~
+S
+#14014
+A long corridor~
+You are in a long corridor of featureless stone leading east and west.
+~
+140 8 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14013
+D3
+The corridor continues to the west.
+~
+~
+0 0 14015
+S
+#14015
+A long corridor~
+You are in a long corridor of featureless stone leading east and west.
+~
+140 8 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14014
+D3
+The corridor continues to the west.
+~
+~
+0 0 14016
+S
+#14016
+End of a long corridor~
+You are at the western end of a long corridor in the tower. Through an ornate
+archway to your north, you can see a large plush chamber.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north lies a large chamber, through an ornate archway.
+~
+~
+0 0 14017
+D1
+A long corridor of featureless stone lies to the east.
+~
+~
+0 0 14015
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14017
+Richly Furnished Chamber~
+The stone walls of this room have been brightened up considerably by the 
+expensive carpets strewn on the floor, rugs hanging from the walls, and
+beautiful furnishings scattered about it. There are plump cushions piled on
+the floor, the air smells of incense and you hear the sounds of tinkling 
+bells and chimes. There are stands upon which rest silver bowls and golden
+dishes, filled with dainty fruits and succulent sweet meats. The chamber 
+extends outwards past curtains of glass beads to the east and north, while
+a corridor lies to the south.
+~
+140 8 0 0 0 0 255 0
+D0
+The chamber extends northwards, past a curtain of glass beads.
+~
+~
+0 0 14018
+D1
+The chamber extends eastwards, past a curtain of glass beads.
+~
+~
+0 0 14020
+D2
+A stone corridor lies southwards.
+~
+~
+0 0 14016
+S
+#14018
+Richly Furnished Chamber~
+The stone walls of this room have been brightened up considerably by the 
+expensive carpets strewn on the floor, rugs hanging from the walls, and
+beautiful furnishings scattered about it. There are plump cushions piled on
+the floor, the air smells of incense and you hear the sounds of tinkling 
+bells and chimes. There are stands upon which rest silver bowls and golden
+dishes, filled with dainty fruits and succulent sweet meats. The chamber 
+extends outwards past curtains of glass beads to the east and south.
+~
+140 8 0 0 0 0 255 0
+D1
+The chamber extends eastwards, past a curtain of glass beads.
+~
+~
+0 0 14019
+D2
+The chamber extends southwards, past a curtain of glass beads.
+~
+~
+0 0 14017
+S
+#14019
+Richly Furnished Chamber~
+The stone walls of this room have been brightened up considerably by the 
+expensive carpets strewn on the floor, rugs hanging from the walls, and
+beautiful furnishings scattered about it. There are plump cushions piled on
+the floor, the air smells of incense and you hear the sounds of tinkling 
+bells and chimes. There are stands upon which rest silver bowls and golden
+dishes, filled with dainty fruits and succulent sweet meats. The chamber 
+extends outwards past curtains of glass beads to the east, west and south.
+~
+140 8 0 0 0 0 255 0
+D1
+The chamber extends eastwards, past a curtain of glass beads.
+~
+~
+0 0 14021
+D2
+The chamber extends southwards, past a curtain of glass beads.
+~
+~
+0 0 14020
+D3
+The chamber extends westwards, past a curtain of glass beads.
+~
+~
+0 0 14018
+S
+#14020
+Richly Furnished Chamber~
+The stone walls of this room have been brightened up considerably by the 
+expensive carpets strewn on the floor, rugs hanging from the walls, and
+beautiful furnishings scattered about it. There are plump cushions piled on
+the floor, the air smells of incense and you hear the sounds of tinkling 
+bells and chimes. There are stands upon which rest silver bowls and golden
+dishes, filled with dainty fruits and succulent sweet meats. The chamber 
+extends outwards past curtains of glass beads to the east, west and north.
+~
+140 8 0 0 0 0 255 0
+D0
+The chamber extends northwards, past a curtain of glass beads.
+~
+~
+0 0 14019
+D1
+The chamber extends eastwards, past a curtain of glass beads.
+~
+~
+0 0 14022
+D3
+The chamber extends westwards, past a curtain of glass beads.
+~
+~
+0 0 14017
+S
+#14021
+Richly Furnished Chamber~
+The stone walls of this room have been brightened up considerably by the 
+expensive carpets strewn on the floor, rugs hanging from the walls, and
+beautiful furnishings scattered about it. There are plump cushions piled on
+the floor, the air smells of incense and you hear the sounds of tinkling 
+bells and chimes. There are stands upon which rest silver bowls and golden
+dishes, filled with dainty fruits and succulent sweet meats. The chamber 
+extends outwards past curtains of glass beads to the west and south.
+~
+140 8 0 0 0 0 255 0
+D2
+The chamber extends southwards, past a curtain of glass beads.
+~
+~
+0 0 14022
+D3
+The chamber extends westwards, past a curtain of glass beads.
+~
+~
+0 0 14019
+S
+#14022
+Richly Furnished Chamber~
+The stone walls of this room have been brightened up considerably by the 
+expensive carpets strewn on the floor, rugs hanging from the walls, and
+beautiful furnishings scattered about it. There are plump cushions piled on
+the floor, the air smells of incense and you hear the sounds of tinkling 
+bells and chimes. There are stands upon which rest silver bowls and golden
+dishes, filled with dainty fruits and succulent sweet meats. The chamber 
+extends outwards past curtains of glass beads to the west and north.
+~
+140 8 0 0 0 0 255 0
+D0
+The chamber extends northwards, past a curtain of glass beads.
+~
+~
+0 0 14021
+D3
+The chamber extends westwards, past a curtain of glass beads.
+~
+~
+0 0 14020
+S
+#14023
+A corridor~
+You are in a featureless stone corridor leading from the entrance hall to the 
+west and extending further to the east. You cant help but marvel at the 
+perfect stone work of the tower, beyond any stone mason to replicate.
+~
+140 8 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14024
+D3
+To the west lies the entrance hall.
+~
+~
+0 0 14002
+S
+#14024
+A corridor~
+You are in a featureless stone corridor. To the west the corridor continues,
+while an ornate archway to the east leads to a stone chamber. You cant help 
+but marvel at the perfect stone work of the tower, beyond any stone mason to 
+replicate.
+~
+140 8 0 0 0 0 255 0
+D1
+To the east lies a stone chamber.
+~
+~
+0 0 14027
+D2
+You barely see a rectangular outline in the stone of the southern wall.
+~
+stone~
+1 14001 14026
+D3
+The corridor leads westward.
+~
+~
+0 0 14023
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull, this one possessing a tongue protruding out the corner of the mouth.
+Its almost as if the skull where licking its lips, if it only had any. You 
+feel ill at ease. You can see no join between the ornate arch and the tower,
+its as if it were all of one piece.
+~
+E
+stone~
+You carefully trace the outline of a secret door in the stone of the southern
+wall. You wonder how you might be able to open it.
+~
+S
+#14025
+Chamber of the Pilgrim~
+The cold stone floor of this large room is covered by a scattering of bed
+rolls, cushions, pillows and personel effects of the pilgrims come to
+witness the wondorous glory of the Great Tower of Xerxes. Doubtless, they
+come seeking spiritual enlightenment, but its strange how few leave the
+tower to tell of its wonders... You note another archway in the southern
+wall leads to a small shrine.
+~
+140 8 0 0 0 0 255 0
+D2
+To the south, you see a small shrine.
+~
+~
+0 0 14029
+D3
+Looking west, you see the entrance hall.
+~
+~
+0 0 14003
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. The eyes of the skull appear lit with glittering emerald witch fires. 
+You feel a giddy for a moment and images of your past flash through your mind. 
+The sensation quickly passes, how ever, leaving you feeling slightly nauseous.
+You can see no join between the ornate arch and the tower, its as if it were 
+all of one piece.
+~
+S
+#14026
+Guard Room~
+The flawless stone walls of this room are lined with bunks, while a stone
+table is fixed to the floor. There appear to be little in the way of personel
+effects, just the bare necessities. To the north lies a stone corridor, while
+you can see another room through an ornate archway to the south.
+~
+140 8 0 0 0 0 255 0
+D0
+Looking northward, you see a stone corridor. For a moment you thought you
+glimpsed a faint shimmering in the air, but it is gone before you sure it was
+ever there...
+~
+stone~
+1 14001 14024
+D2
+To the south you see a small stone chamber.
+~
+~
+0 0 14030
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14027
+A Webbed Room~
+Entering into this room, you find that the ceiling and walls are hung with
+what look like cob webs...except the strands are as thick as your little
+finger. You wonder what manner of creature could have created them. To your
+west lies a corridor, while to your south lies another stone room, past an
+ornate archway.
+~
+140 8 0 0 0 0 255 0
+D2
+To the south you see another webbed room, if anything the webs there look
+even thicker than the ones here.
+~
+~
+0 0 14028
+D3
+To the west lies the corridor.
+~
+~
+0 0 14024
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+E
+webs cobwebs~
+You notice what look like dried out husks stuck high in the webs, they are
+about man-sized.
+~
+S
+#14028
+A Webbed Room~
+Entering into this room, you find that the ceiling and walls are hung with
+what look like cob webs, like those to the south, except here they are even 
+thicker, perhaps as thick as your thumb. You wonder what manner of creature 
+could have created them. The only exit is north, back to the first webbed
+room, through an ornate archway.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north you see another webbed room.
+~
+~
+0 0 14027
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+E
+webs cobwebs~
+You notice what look like dried out husks stuck high in the webs, they are
+about man-sized.
+~
+S
+#14029
+A Small Shrine~
+The walls of this room are made of expertly painted panels, creating a mural
+running right round the place. At the southern end of the room, you can see
+a regal statue of what looks like a stately king. The sensation of being
+watched you felt earlier returns strongly, you feel the presence is angry
+at your disturbing this place. This quickly passes how ever, leaving you
+slightly shaken. The only exit lies north, back to the Pilgrim's Chamber.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north you see a large stone chamber.
+~
+~
+0 0 14025
+E
+panels mural~
+Looking closely at the paintings you see they tell a kind of story, which
+looks like it begins to the left of the entrance. A primitive tribe is 
+depicted kneeling before a radiant figure, almost to bright to see. Further
+on, you see the tribes people have become farmers, and a small village can be
+seen in the background. Next you see what looks like a young man on atop a
+high mountain, kneeling before the radiant figure once more. You see the 
+apparently peacefull farming folk led to war by this young man on other 
+tribes. A city is shown being built, and beyond you see massive foundations
+for some huge structure. The radiant figure appears again, you can see it 
+more clearly as a smiling woman, skin of purest white and eyes like flashing
+diamonds. Her hands rest on the head of the young man shown earlier, and his
+body is surrounded by a glowing aura. Many panels follow, showing the man
+as a King of a mighty nation. You witness wars, famine, and in the background
+the building of a mighty tower. Through out what would appear to be centuries,
+the King remains physically unchanged. Only his facial expressions are 
+different. Before he looked kindly and benevolent. Later, he looks grim and
+at times mournfull. Then comes a panel where the sky is black and lightning
+is seen flashing in the sky. The King is shown standing on the steps of a
+great domed temple surrounded by gardens and a great gathering of his people
+stand before him, looking up in awe. The next panel shows the King laughing at
+the sky, while before him a terrible change is overcoming the people. The 
+women are all being changed into horrible beasts, while the men can be seen 
+looking on in horror. The next panel depicts the radiant Goddess appearing 
+from inside the domed temple behind the King, the Goddess glares at the King,
+but he is just laughing while the beasts who where once women wreak havoc 
+among the men who are fleeing in all directions. The next panel shows the 
+Goddess fighting the King, a shaft of shining light in her hand. The King is 
+laughing still, and a black mace is raised in his hand to strike. The next  
+panel shows the King triumphant, the body of the Goddess lying at his feet, 
+while a robed man in priestly robes looks on in disbelief and horror. Another
+panel depicts the King smirking as the robed man is changed into a ghastly
+creature, a great floating ball with many eyes, which retreats into the Domed
+Temple. Near the end of the mural, a panel shows the King carrying the Goddess
+into a Great Tower beyond the city, it's not clear if she is alive or dead. 
+The last panel shows the King atop the tower, tears streaming down his face.
+~
+S
+#14030
+Office~
+This small spartan chamber is furnished only by a desk in the south west 
+corner. There are a few pieces of paper work scattered on it. From here you
+can go north a guard room, or east to a corridor.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north you see a large guard room.
+~
+~
+0 0 14026
+D1
+East lies a corridor.
+~
+~
+0 0 14031
+E
+paper~
+Flicking through the papers, a small piece catches your eye. "One of the
+unworthy killed a spider before he died. Inform Ludwig that the pilgrims
+are to be relieved of their weapons!"
+~
+S
+#14031
+A small corridor~
+You are in a featureless L-shaped stone corridor which turns here to the 
+south. You cant help but marvel at the perfect stone work of the tower, beyond 
+any stone mason to replicate. To your west lies the office.
+~
+140 8 0 0 0 0 255 0
+D2
+The corridor turns to the south.
+~
+~
+0 0 14032
+D3
+To the west lies a small office.
+~
+~
+0 0 14030
+S
+#14032
+A small corridor~
+You are in a featureless stone corridor leading south. You cant help but 
+marvel at the perfect stone work of the tower, beyond any stone mason to 
+replicate. To your south lies a stone chamber, through an ornate archway.
+~
+140 8 0 0 0 0 255 0
+D0
+To your north lies a turn in the corridor.
+~
+~
+0 0 14031
+D2
+A stone chamber lies southwards.
+~
+~
+0 0 14033
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14033
+Stone Chamber~
+This room is devoid of all furnishings and its walls, ceilings and floor are
+of the same seamless stone you have seen every where else. No use for the
+chamber is apparent. To your north is a corridor, while a wide corridor lies
+west.
+~
+140 8 0 0 0 0 255 0
+D0
+To your north lies an L-shaped corridor.
+~
+~
+0 0 14032
+D3
+West lies a wide corridor.
+~
+~
+0 0 14034
+S
+#14034
+A wide corridor~
+You are in a wide L-shaped corridor of featureless stone. Ornate archways 
+lead to stone chambers to the west and east, while the corridor turns to the
+north.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north, the corridor turns westwards.
+~
+~
+0 0 14036
+D1
+A stone chamber lies east.
+~
+~
+0 0 14033
+D3
+A stone chamber lies west.
+~
+~
+0 0 14035
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14035
+Chamber of the Initiate~
+The featureless stone walls of this roomed are lined with beds in a neat
+orderly fashion. Weapons lie near by, along with clothing and bowls of water
+and food. Simple rugs on the floor make the place a little more comfortable.
+The only exit is east back into the corridor.
+~
+140 8 0 0 0 0 255 0
+D1
+To the east lies a wide corridor.
+~
+~
+0 0 14034
+S
+#14036
+A wide corridor~
+You are in a featureless L-shaped stone corridor. The corridor continues to
+the south, while an ornate archway leading to a colossal hall lies to the
+west. There is a bronze plaque here.
+~
+140 524 0 0 0 0 255 0
+D2
+A wide corridor lies to the south.
+~
+~
+0 0 14034
+D3
+An enourmous hall stretches out to the west.
+~
+~
+0 0 14037
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. There are two tiny points of light in the eye sockets. They appear to 
+follow your movements. You can see no join between the ornate arch and the 
+tower, its as if it were all of one piece.
+~
+E
+bronze plaque~
+The plaque reads: "Trial of the Initiate"
+~
+S
+#14037
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the west, south and north, while a wide corridor lies to the
+east.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14038
+D1
+To the east you see a wide corridor.
+~
+~
+0 0 14036
+D2
+The hall continues southwards.
+~
+~
+0 0 14039
+D3
+The hall continues westwards.
+~
+~
+0 0 14042
+S
+#14038
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the west and south.
+~
+140 8 0 0 0 0 255 0
+D2
+The hall continues southwards.
+~
+~
+0 0 14037
+D3
+The hall continues westwards.
+~
+~
+0 0 14041
+S
+#14039
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the west and north.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14037
+D3
+The hall continues westwards.
+~
+~
+0 0 14043
+S
+#14040
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. Two
+immense structural columns block your way east and west, while a stone wall
+blocks the way north. The only exit is south.
+~
+140 8 0 0 0 0 255 0
+D2
+The hall continues southwards.
+~
+~
+0 0 14041
+E
+columns~
+These massive rectangular columns are needed to support the immense weight of
+the levels above. The columns are formed of stone, yet where they join to the
+marble floor, you can see no break in the surface. Its as if the two 
+materials are some how fused together to form a single whole.
+~
+S
+#14041
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the east, west, north and south.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14040
+D1
+The hall continues eastwards.
+~
+~
+0 0 14038
+D2
+The hall continues southwards.
+~
+~
+0 0 14042
+D3
+The hall continues westwards.
+~
+~
+0 0 14045
+S
+#14042
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the east, north and south, while to the west lies a black
+marble pagoda.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14041
+D1
+The hall continues eastwards.
+~
+~
+0 0 14037
+D2
+The hall continues southwards.
+~
+~
+0 0 14043
+D3
+A pagoda of black marble lies to the west.
+~
+~
+0 0 14046
+S
+#14043
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the east, west, north and south.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14042
+D1
+The hall continues eastwards.
+~
+~
+0 0 14039
+D2
+The hall continues southwards.
+~
+~
+0 0 14044
+D3
+The hall continues westwards.
+~
+~
+0 0 14047
+S
+#14044
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. Two
+immense structural columns block your way east and west, while a stone wall
+blocks the way south. The only exit is north.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14043
+E
+columns~
+These massive rectangular columns are needed to support the immense weight of
+the levels above. The columns are formed of stone, yet where they join to the
+marble floor, you can see no break in the surface. Its as if the two 
+materials are some how fused together to form a single whole.
+~
+S
+#14045
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the east and west, while south lies a black marble pagoda.
+An enourmous column of stone blocks the way north.
+~
+140 8 0 0 0 0 255 0
+D1
+The hall continues eastwards.
+~
+~
+0 0 14041
+D2
+A pagoda of black marble lies to the south.
+~
+~
+0 0 14046
+D3
+The hall continues westwards.
+~
+~
+0 0 14049
+E
+columns~
+These massive rectangular columns are needed to support the immense weight of
+the levels above. The columns are formed of stone, yet where they join to the
+marble floor, you can see no break in the surface. Its as if the two 
+materials are some how fused together to form a single whole.
+~
+S
+#14046
+Black Marble Pagoda~
+You are standing in a pagoda of black marble. Gleaming veins of gold shimmer 
+on the archways leading in. The marble of the pagoda appears to be formed from
+the same piece as the floor. You wonder what purpose this structure might 
+serve. Lustrous archways lead east, west, north and south back into the hall.
+~
+140 8 0 0 0 0 255 0
+D0
+A archway of black marble leads back into the hall.
+~
+~
+0 0 14045
+D1
+A archway of black marble leads back into the hall.
+~
+~
+0 0 14042
+D2
+A archway of black marble leads back into the hall.
+~
+~
+0 0 14047
+D3
+A archway of black marble leads back into the hall.
+~
+~
+0 0 14050
+S
+#14047
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the east and west, while north lies a black marble pagoda.
+An enourmous column of stone blocks the way south.
+~
+140 8 0 0 0 0 255 0
+D0
+A pagoda of black marble lies to the north.
+~
+~
+0 0 14046
+D1
+The hall continues eastwards.
+~
+~
+0 0 14043
+D3
+The hall continues westwards.
+~
+~
+0 0 14051
+E
+columns~
+These massive rectangular columns are needed to support the immense weight of
+the levels above. The columns are formed of stone, yet where they join to the
+marble floor, you can see no break in the surface. Its as if the two 
+materials are some how fused together to form a single whole.
+~
+S
+#14048
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the south, while west lies a network of small chambers of
+black marble. To the east is an enourmous stone column, while a stone wall
+blocks movement to the north.
+~
+140 8 0 0 0 0 255 0
+D2
+The hall continues southwards.
+~
+~
+0 0 14049
+D3
+A network of small black marble rooms lies west.
+~
+~
+0 0 14053
+E
+columns~
+These massive rectangular columns are needed to support the immense weight of
+the levels above. The columns are formed of stone, yet where they join to the
+marble floor, you can see no break in the surface. Its as if the two 
+materials are some how fused together to form a single whole.
+~
+S
+#14049
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the north, south and east, while west lies a network of 
+small chambers of black marble.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14048
+D1
+The hall continues eastwards.
+~
+~
+0 0 14045
+D2
+The hall continues southwards.
+~
+~
+0 0 14050
+D3
+A network of small black marble rooms lies west.
+~
+~
+0 0 14054
+S
+#14050
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the north and south, while west lies a network of small 
+chambers of black marble. To the east you see a black marble pagoda.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14049
+D1
+A pagoda of black marble lies to the east.
+~
+~
+0 0 14046
+D2
+The hall continues southwards.
+~
+~
+0 0 14051
+D3
+A network of small black marble rooms lies west.
+~
+~
+0 0 14055
+S
+#14051
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the north, south and east, while west lies a network of 
+small chambers of black marble.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14050
+D1
+The hall continues eastwards.
+~
+~
+0 0 14047
+D2
+The hall continues southwards.
+~
+~
+0 0 14052
+D3
+A network of small black marble rooms lies west.
+~
+~
+0 0 14056
+S
+#14052
+An enourmous hall of black marble~
+A glimmering floor of gold-veined black marble stretches out before you. It
+certainly makes a welcome change from the plain stone of the tower. The 
+marble shines as if polished only yesterday. Strangely, you can see no seam
+or join in the marble, its as if the whole floor were of a single slab. The
+hall continues to the north, while west lies a network of small chambers of
+black marble. To the east is an enourmous stone column, while a stone wall
+blocks movement to the south.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall continues northwards.
+~
+~
+0 0 14051
+D3
+A network of small black marble rooms lies west.
+~
+~
+0 0 14057
+E
+columns~
+These massive rectangular columns are needed to support the immense weight of
+the levels above. The columns are formed of stone, yet where they join to the
+marble floor, you can see no break in the surface. Its as if the two 
+materials are some how fused together to form a single whole.
+~
+S
+#14053
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. The northern wall is
+of solid marble, however there are archways leading west and south to other
+small rooms, and east to a colosal hall.
+~
+140 8 0 0 0 0 255 0
+D1
+A colosal hall of black marble lies east.
+~
+~
+0 0 14048
+D2
+Another black marble room lies south.
+~
+~
+0 0 14054
+D3
+Another black marble room lies west.
+~
+~
+0 0 14058
+S
+#14054
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. Through archways to
+west, south and north lie more of the small rooms, while a colosal hall lies
+to the east.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14053
+D1
+A colosal hall of black marble lies east.
+~
+~
+0 0 14049
+D2
+Another black marble room lies south.
+~
+~
+0 0 14055
+D3
+Another black marble room lies west.
+~
+~
+0 0 14059
+S
+#14055
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. The western wall is
+of solid marble, however there are archways leading north and south to other
+small rooms, and east to a colosal hall.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14054
+D1
+A colosal hall of black marble lies east.
+~
+~
+0 0 14050
+D2
+Another black marble room lies south.
+~
+~
+0 0 14056
+D3
+You can barely detect a circular outline in the marble.
+~
+marble circular~
+2 14002 14060
+E
+marble circular~
+Carefully, you trace the circular outline of a hidden door in the marble of
+the western wall. You are able to uncover a tiny hole in the centre.
+~
+S
+#14056
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. Through archways to
+west, south and north lie more of the small rooms, while a colosal hall lies
+to the east.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14055
+D1
+A colosal hall of black marble lies east.
+~
+~
+0 0 14051
+D2
+Another black marble room lies south.
+~
+~
+0 0 14057
+D3
+Another black marble room lies west.
+~
+~
+0 0 14061
+S
+#14057
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. The southern wall is
+of solid marble, however there are archways leading east and north to other
+small rooms, and east to a colosal hall.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14056
+D1
+A colosal hall of black marble lies east.
+~
+~
+0 0 14052
+D3
+Another black marble room lies west.
+~
+~
+0 0 14062
+S
+#14058
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. The northern wall is
+of solid marble, however there are archways leading east, west and south to 
+other small rooms.
+~
+140 8 0 0 0 0 255 0
+D1
+Another black marble room lies east.
+~
+~
+0 0 14053
+D2
+Another black marble room lies south.
+~
+~
+0 0 14059
+D3
+Another black marble room lies west.
+~
+~
+0 0 14063
+S
+#14059
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. To the west lies a 
+massive marble column, while a blank marble wall blocks the way south. You
+can leave through archways to the north and east.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14058
+D1
+Another black marble room lies east.
+~
+~
+0 0 14054
+E
+marble column~
+This massive rectangular column is needed to support the immense weight of the 
+levels above. Gold veins continue naturally from the column to the wall, 
+telling you that column and wall are a single piece of marble. You wonder from
+where the builders quarried this marble, and how they brought it here.
+~
+S
+#14060
+Prison of Black Marble~
+You have entered into a small room of lustrous black marble. The walls here
+are scratched and gouged, as if by some angry beast. You ponder the strength
+required to mar the seemingly impentrable surface. The only exit is back out
+to the east.
+~
+140 8 0 0 0 0 255 0
+D1
+Past a circular marble door, lies a room of black marble.
+~
+marble circular~
+2 14002 14055
+S
+#14061
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. To the west lies a 
+massive marble column, while a blank marble wall blocks the way north. You
+can leave through archways to the south and east.
+~
+140 8 0 0 0 0 255 0
+D1
+Another black marble room lies east.
+~
+~
+0 0 14056
+D2
+Another black marble room lies south.
+~
+~
+0 0 14062
+E
+marble column~
+This massive rectangular column is needed to support the immense weight of the 
+levels above. Gold veins continue naturally from the column to the wall, 
+telling you that column and wall are a single piece of marble. You wonder from
+where the builders quarried this marble, and how they brought it here.
+~
+S
+#14062
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. The southern wall is
+of solid marble, however there are archways leading east, west and north to 
+other small rooms.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14061
+D1
+Another black marble room lies east.
+~
+~
+0 0 14057
+D3
+Another black marble room lies west.
+~
+~
+0 0 14065
+S
+#14063
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. To the south lies a 
+massive marble column, while a blank marble wall blocks the way north. You
+can leave through archways to the east and west.
+~
+140 8 0 0 0 0 255 0
+D1
+Another black marble room lies east.
+~
+~
+0 0 14058
+D3
+Another black marble room lies west.
+~
+~
+0 0 14066
+E
+marble column~
+This massive rectangular column is needed to support the immense weight of the 
+levels above. Gold veins continue naturally from the column to the wall, 
+telling you that column and wall are a single piece of marble. You wonder from
+where the builders quarried this marble, and how they brought it here.
+~
+S
+#14064
+Chamber of Black Marble~
+This room lies between two great marble columns to the north and south, while
+a gold-veined black marble wall bars the way east. A brazier hangs from the
+ceiling, giving of a smoky incense that makes you feel slightly dizzy. The 
+only exit lies west, back the way you came.
+~
+140 8 0 0 0 0 255 0
+D3
+Another black marble room lies west.
+~
+~
+0 0 14068
+E
+marble columns~
+These massive rectangular columns are needed to support the immense weight of 
+the levels above. Gold veins continue naturally from the columns to the wall, 
+telling you that column and wall are a single piece of marble. You wonder from
+where the builders quarried this marble, and how they brought it here.
+~
+S
+#14065
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. To the north lies a 
+massive marble column, while a blank marble wall blocks the way south. You
+can leave through archways to the east and west.
+~
+140 8 0 0 0 0 255 0
+D1
+Another black marble room lies east.
+~
+~
+0 0 14062
+D3
+Another black marble room lies west.
+~
+~
+0 0 14070
+E
+marble column~
+This massive rectangular column is needed to support the immense weight of the 
+levels above. Gold veins continue naturally from the column to the wall, 
+telling you that column and wall are a single piece of marble. You wonder from
+where the builders quarried this marble, and how they brought it here.
+~
+S
+#14066
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. Blank marble walls 
+blocks the way to the north and west. You can leave through archways to the 
+south and east.
+~
+140 8 0 0 0 0 255 0
+D1
+Another black marble room lies east.
+~
+~
+0 0 14063
+D2
+Another black marble room lies south.
+~
+~
+0 0 14067
+S
+#14067
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. To the east lies a 
+massive marble column, while a blank marble wall blocks the way west. You
+can leave through archways to the north and south.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14066
+D2
+Another black marble room lies south.
+~
+~
+0 0 14068
+E
+marble column~
+This massive rectangular column is needed to support the immense weight of the 
+levels above. Gold veins continue naturally from the column to the wall, 
+telling you that column and wall are a single piece of marble. You wonder from
+where the builders quarried this marble, and how they brought it here.
+~
+S
+#14068
+In front of the Gate~
+This small room of black gold-veined marble is not unlike the others, except
+for a gate of black metal in the western wall. An ornate archway leads to
+a chamber between two marble columns to the east, while you can also leave by 
+less elaborate archways to the north and south.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies to the north.
+~
+~
+0 0 14067
+D1
+A chamber of black marble lies between two columns to the east.
+~
+~
+0 0 14064
+D2
+Another black marble room lies to the south.
+~
+~
+0 0 14069
+D3
+You can see a large stone hall between the bars of a black metal gate to the 
+west.
+~
+black metal gate~
+2 14003 14073
+E
+ornate archway~
+This archway is formed of black marble into the likeness of a grinning skull.
+The gold lines in the marble protrude slightly from the surface of the skull,
+appearing to form a pattern consistent with veins on the face. The over all
+effect is quite disturbing, and you quickly look away.
+~
+E
+black metal gate~
+The strange metal of the gate is completely unfamiliar. It is of simple 
+construction how ever, bars narrowly spaced give you limited vision into a
+large stone hall to the west.
+~
+S
+#14069
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. To the east lies a 
+massive marble column, while a blank marble wall blocks the way west. You
+can leave through archways to the north and south.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14068
+D2
+Another black marble room lies south.
+~
+~
+0 0 14070
+E
+marble column~
+This massive rectangular column is needed to support the immense weight of the 
+levels above. Gold veins continue naturally from the column to the wall, 
+telling you that column and wall are a single piece of marble. You wonder from
+where the builders quarried this marble, and how they brought it here.
+~
+S
+#14070
+Among Black Marble Archways~
+You are in a small room. Its walls, ceilings and floor are entirely formed
+of black marble, with gleaming gold veins winding through it. The marble
+gleams a lustrous black, as if polished only yesterday. Blank marble walls 
+blocks the way to the south and west. You can leave through archways to the 
+north and east.
+~
+140 8 0 0 0 0 255 0
+D0
+Another black marble room lies north.
+~
+~
+0 0 14069
+D1
+Another black marble room lies east.
+~
+~
+0 0 14065
+S
+#14071
+A featureless stone room~
+The walls, ceiling and floor of this room are of smooth, flawless stone. It
+has no function you are able to fathom. The only exit lies south.
+~
+140 8 0 0 0 0 255 0
+D2
+To the south lies a large stone hall.
+~
+~
+0 0 14072
+S
+#14072
+A large stone hall~
+You are in a large stone hall, about the same size as the one at the entrance
+to the tower. The stone is of the same smooth, flawless texture as well. A  
+wall of black gold-veined marble lies to the east, while you can see a stone
+chamber through an archway to the north. The hall itself extends further to
+the west and south.
+~
+140 8 0 0 0 0 255 0
+D0
+A simple stone chamber lies northward.
+~
+~
+0 0 14071
+D2
+The hall extends to the south.
+~
+~
+0 0 14073
+D3
+The hall extends to the west.
+~
+~
+0 0 14077
+S
+#14073
+A large stone hall~
+You are in a large stone hall, about the same size as the one at the entrance
+to the tower. The stone is of the same smooth, flawless texture as well. A  
+barred gate of black metal lies to the east, set in a wall of gold-veined 
+black marble. The hall itself extends further to the east, north and south.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall extends to the north.
+~
+~
+0 0 14072
+D1
+You can see a small room of black marble between the bars of a black metal 
+gate to the east.
+~
+black metal gate~
+2 14003 14068
+D2
+The hall extends to the south.
+~
+~
+0 0 14074
+D3
+The hall extends to the west.
+~
+~
+0 0 14078
+E
+black metal gate~
+The strange metal of the gate is completely unfamiliar. It is of simple 
+construction how ever, bars narrowly spaced give you limited vision into a
+small black marble room to the east.
+~
+S
+#14074
+A large stone hall~
+You are in a large stone hall, about the same size as the one at the entrance
+to the tower. The stone is of the same smooth, flawless texture as well. A  
+wall of black gold-veined marble lies to the east, while you can see a stone
+chamber through an archway to the south. The hall itself extends further to
+the west and north.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall extends to the north.
+~
+~
+0 0 14073
+D2
+A simple stone chamber lies southward
+~
+~
+0 0 14075
+D3
+The hall extends to the west.
+~
+~
+0 0 14079
+S
+#14075
+A featureless stone room~
+The walls, ceiling and floor of this room are of smooth, flawless stone. It
+has no function you are able to fathom. The only exit lies north.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north lies a large stone hall.
+~
+~
+0 0 14074
+S
+#14076
+A featureless stone room~
+The walls, ceiling and floor of this room are of smooth, flawless stone. It
+has no function you are able to fathom. The only exit lies south.
+~
+140 8 0 0 0 0 255 0
+D2
+To the south lies a large stone hall.
+~
+~
+0 0 14077
+S
+#14077
+A large stone hall~
+You are in a large stone hall, about the same size as the one at the entrance
+to the tower. The stone is of the same smooth, flawless texture as well. A  
+wall of featureless stone lies to the west, while you can see a stone
+chamber through an archway to the north. The hall itself extends further to
+the east and south.
+~
+140 8 0 0 0 0 255 0
+D0
+A simple stone chamber lies northward.
+~
+~
+0 0 14076
+D1
+The hall extends to the east.
+~
+~
+0 0 14072
+D2
+The hall extends to the south.
+~
+~
+0 0 14078
+S
+#14078
+A large stone hall~
+You are in a large stone hall, about the same size as the one at the entrance
+to the tower. The stone is of the same smooth, flawless texture as well. A  
+corridor lies to the west, through an ornate archway. The hall itself extends 
+further to the east, north and south.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall extends to the north.
+~
+~
+0 0 14077
+D1
+The hall extends to the east.
+~
+~
+0 0 14073
+D2
+The hall extends to the south.
+~
+~
+0 0 14079
+D3
+A corridor lies to the west.
+~
+~
+0 0 14081
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Tiny points of light in the skulls eye sockets track your movements. 
+You can see no join between the ornate arch and the tower, its as if it were 
+all of one piece.
+~
+S
+#14079
+A large stone hall~
+You are in a large stone hall, about the same size as the one at the entrance
+to the tower. The stone is of the same smooth, flawless texture as well. A  
+wall of featureless stone lies to the west, while you can see a stone
+chamber through an archway to the south. The hall itself extends further to
+the east and north.
+~
+140 8 0 0 0 0 255 0
+D0
+The hall extends to the north.
+~
+~
+0 0 14078
+D1
+The hall extends to the east.
+~
+~
+0 0 14074
+D2
+A simple stone chamber lies southward.
+~
+~
+0 0 14080
+S
+#14080
+A featureless stone room~
+The walls, ceiling and floor of this room are of smooth, flawless stone. It
+has no function you are able to fathom. The only exit lies north.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north lies a large stone hall.
+~
+~
+0 0 14079
+S
+#14081
+A stone corridor~
+You are in a short stone corridor, leading northwards to some stairs. The 
+walls to the west and south are of smooth, flawless stone, while a large
+stone hall lies to the east.
+~
+140 8 0 0 0 0 255 0
+D0
+To the north, you see a set of stone stairs leading upward.
+~
+~
+0 0 14082
+D1
+To the east you see a large stone hall.
+~
+~
+0 0 14078
+S
+#14082
+Base of the stairs~
+You are at the bottom of a set of stone stairs leading upwards. The steps are
+of smooth, flawless stone, and you note that they show not the slightest sign
+of wear, even thou surely the tower has stood here for centuries. From here
+you can go south to a short corridor, or up the stairs.
+~
+140 8 0 0 0 0 255 0
+D2
+To the south lies a short stone corridor.
+~
+~
+0 0 14081
+D4
+The stone stairs lead upward.
+~
+~
+0 0 14083
+S
+#14083
+Midway up the stairs~
+You are halfway up a set of stone stairs. The steps are of smooth, flawless
+stone, and you note that they show not the slightest sign of wear, even thou
+surely the tower has stood here for centuries. From here you can go up to the
+landing, or down to the base of the stairs.
+~
+140 12 0 0 0 0 255 0
+D4
+Looking up, you see the top of the stairs.
+~
+~
+0 0 14084
+D5
+Looking down, you see the base of the stairs.
+~
+~
+0 0 14082
+S
+#14084
+The Landing~
+You have stand at the top of long flight of stairs, spiralling downward. The
+steps are of smooth, flawless stone, and you note that they show not the 
+slightest sign of wear, even thou surely the tower has stood here for 
+centuries. You can proceed north, along a stone corridor, or down the stairs.
+~
+140 8 0 0 0 0 255 0
+D0
+A stone corridor lies northward.
+~
+~
+0 0 14101
+D5
+A set of stone stairs spiral downward.
+~
+~
+0 0 14083
+S
+$~

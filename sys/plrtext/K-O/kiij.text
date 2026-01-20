@@ -1,0 +1,34 @@
+h cast 'haste' $*
+sp cast 'color' $*
+str cast 'str' $*
+y say yar
+3 rec mid mid
+bf wa;st;tak shot bag;brew flame_b shot;sl
+ba wa;st;tak shot bag;brew awa shot;sl
+bs wa;st;tak sho bag;brew str shot;sl
+bp wa;st;tak shot bag;brew haste shot;sl
+rc cast 'remove curse' $*
+titl title is the &05Slave &13Sage &00of the &07[AM] &08RAGE&00
+ii cast 'invis' $*
+ggg get all all.corp
+up wak;sta;ord fol wak;ord fol stand
+sl ord follower sleep;sl
+loot get all all.kiij;wea all;wie gnom;get all all.kii;wea all;des kiij
+ms cast 'monster' $*
+sum cast 'summon' $*
+fb cast 'flame blade' $*
+cs cast 'color spray' $*
+gt gtell &10$* &00
+cl clan &10$* &00
+ld cast 'life drain' $*
+sh cast 'shield' $*
+' say [&07AM&00]&14$* &00[&07AM&00]
+fly cast 'fly' $*
+b cast 'blind' $*
+di cast 'detect invis' $*
+inf cast 'infra'
+aw cast 'awaken' $*
+o order follower kill $*
+gg get gold all.corp
+t stop
+id cast 'id' $*

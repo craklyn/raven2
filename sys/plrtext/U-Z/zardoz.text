@@ -1,0 +1,50 @@
+ga group all
+6 brew awaken shot
+5 brew true shot
+3 brew shield shot
+go nosummon;norecall
+t brew haste shot
+dc destroy corpse
+k order follower kill$*
+blink cast ' blink '$*
+wrath cast ' wrath '$*
+a assist
+db cast ' doom bolt '$*
+f flee
+str cast ' strength '$*
+li cast ' lightning bolt '$*
+g get all all.cor
+air cast ' airsphere '$*
+mon cast ' monster summon '$*
+life cast ' life drain '$*
+ice cast ' ice storm '$*
+fb cast ' flame blade '$*
+awaken cast ' awaken '$*
+bl cast ' blindness '$*
+shield cast ' shield '$*
+sum cast ' summon '$*
+fly cast ' fly '$*
+charm cast ' charm person '$*
+infra cast ' infravision '$*
+invis cast ' invisibility '$*
+mm cast ' magic missile '$*
+id cast ' identify '$*
+ts cast ' true sight '$*
+haste cast ' haste ' $*
+portal cast ' portal ' $*
+gate cast ' gate '$*
+feeb cast ' feeblemind '$*
+wa wake;stand
+nex cast ' nexus '$*
+wake wak;stand
+1 brew haste shot
+2 brew flame_blade shot
+4 brew fly shot
+home n;n;n;n;n;n;n;n;n;e;e;s;e
+shots s;d;e;e;e;e;e;s;s;e; buy 25 shot;w;n;n;w;w;w;w;w;n;n;n;n;n;n;n;n;n;e;e;s;e;e
+gt gs &14[&00&10$*&00&14]&00
+gs gt &03[&00&14$*&00 &03]&00
+say say &03[&00&14$*&00 &03]&00
+clan clan &03[&00&14$*&00 &10]&11
+o order follower$*
+kk order follower kill$*

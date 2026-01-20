@@ -1,0 +1,45 @@
+od title &07is &00&03o&00&07n a mission&00 &03d&07estroying the living&00
+qw dr water
+gt gt &08<&00&01[&00&08$*&00 &01]&08>&00
+cs clan &08<&00&01[&00&08$*&00 &01]&08>&00
+da cast 'black dart' $*
+m block
+c cast 'pestilence' $*
+dv devour $*
+fw clanwho
+j jump $*
+f cast 'fear' $*
+bl cast 'blindness' $*
+ca cast 'chaos armor'
+dis disarm $*
+qo quest offer
+gg get all all.cor
+arm cast 'armor' $*
+v kick $*
+b bash $*
+0 rec elv $*
+5 rec rec elv
+ani cast 'animate dead' $*
+o order followers $*
+oo order followers assist
+y retreat $*
+re rescue $*
+di cast 'detect invisibility' $*
+grim : smiles grimly.
+po cast 'poison' $*
+paw remove wri;put all writh;wear wri
+reg cast 'regenerate' $*
+wo who
+6 get all all.revyn
+pe cast 'pestilence' $*
+pf cast 'protection from good'
+au cast 'aura of apocalypse'
+qq dr wat
+fear cast 'fear' $*
+pest cast 'pestilence' $*
+pud title :: Pudortu tells the group, 'livia can assrape me with a 15inch dildo'
+eod cast 'eyes of the dead'
+z scan $*
+1 toss candus
+aa assist dwer
+x cast 'death touch' $*

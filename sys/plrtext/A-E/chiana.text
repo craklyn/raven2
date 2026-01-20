@@ -1,0 +1,22 @@
+scroll1 buy 38 mid;buy sc;sell 39 sc;
+pot buy 38 gel;buy life;sell 39 pot;
+scroll buy 32 elven;buy sc;sell 33 sc;
+nm then
+leg w;w;e;n;s;n;n;d;w;d;
+gel buy 30 gel;buy brown;sell 31 pot;
+t drop 1.
+gaks w;w;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;n;w;n;w;w;d;d;d;d;
+y des 1.
+spiders w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;u;n;n;n;n;n;n;n;n;n;n;n;n;n;e; u;s;e;w;n;w;
+goana w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;s;w;w;w;w;w;s;s;open bridge;s;s;s;e;e;e;e;e
+gsay gsay &08$*&00
+say say &05$* &00
+gtell gtell &08 $* &00
+newts e;e;e;e;e;e;e;e;e;e;n;n;n;e;e;u;u;u;u;u;e;e;d;e;n;n;e;e;s;s;s;e;s;s;s; 
+gochutes w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;w;n;w;n;n;n;e;n;n;
+shadydale w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;s;w;w;s;s;s;e;s;s;w;s;s;s;s;s;s;s;s;s;s;s;s;s;s; e;e;e;e;e;e;s;s;e;e;e;e;e;n;n;n;n;e;e;e;s;
+door w;w;
+go n;gtell fishsticks;disarm king;
+go1 gtell going;n;distract king;
+gell buy 30 gel;buy life;sell 31 pot;
+goo flee;look at kh

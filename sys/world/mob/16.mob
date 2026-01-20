@@ -1,0 +1,614 @@
+#1600
+A W 0~
+rook black chess bqr~
+the black Rook~
+A black rook stands here, prepared for battle.
+~
+It reminds you of a stone golem, but quite a bit smaller.
+~
+10 0 0 0 0 0 0 0 -700
+5 20 8 1d1+70 1d5+0
+35 40
+9 9 0 0 -1 -1
+#1601
+H D 0~
+knight black chess bqn~
+the black Knight~
+There is a scraggly knight dressed in black here.
+~
+This is most certainly not the Black Knight of legendary fame.
+~
+16394 0 0 0 0 0 0 0 -500
+3 20 8 1d1+30 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1602
+H C 0~
+bishop black chess bqb~
+the black Bishop~
+There is a bishop dressed in black standing here.
+~
+Hmm, maybe it's an arch bishop.  Or an arch arch bishop.
+~
+16394 0 0 0 0 0 0 0 -500
+3 20 8 1d1+35 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1603
+H M 0~
+queen black chess bq~
+the black Queen~
+There is a queen dressed in black standing here.
+~
+She looks rather fearsome.
+~
+16394 0 0 0 8 0 0 0 -1000
+8 17 8 1d1+350 1d6+3
+35 40
+9 9 2 0 -1 -1
+#1604
+H W 0~
+king black chess bk~
+the black King~
+The King, Ruler of Darkness, is standing here.
+~
+He is a far cry from the white harried wizened old man you might expect.  It
+looks as though he could put up a good fight.
+~
+16394 0 0 0 8 0 0 0 -1000
+10 15 8 1d1+400 1d6+5
+35 40
+9 9 1 0 -1 -1
+#1606
+H C 0~
+sitting duck~
+the sitting duck~
+A sitting duck crouches here waiting for the first blow to fall
+~
+You see a wimpy-looking creature with a duck's head and a sign hung from his neck that says 'Kick Me!'
+~
+8 0 0 0 0 0 0 0 0
+10 19 4 1d1+900 1d1+0
+35 40
+9 9 0 0 -1 -1
+#1608
+H W 0~
+pawn black chess bpqr~
+the black Pawn~
+A statuesque black pawn stands here.
+~
+Though this scrawny fighter is not an impressive sight, he is obedient to his
+master.
+~
+16522 0 0 0 0 0 0 0 -700
+1 20 8 1d1+25 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1610
+H T 0~
+helper mob~
+a Helper~
+A Helper gives you some help
+~
+                ==<>---- Raven Mud Help Index ----<>==
+
+Further information available by HELP <keyword>, keyword being one of the
+following(try help help if ya really confused):
+Attributes       - Some basic information about your character
+Classes          - The classes available on Raven Mud
+Combat           - All about killing things!
+Communication    - How to talk to other people
+Information      - General information about the game
+Miscellaneous    - General commands
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 1d1+60 1d6+0
+35 40
+9 9 1 0 -1 -1
+#1611
+H T 0~
+reader mob~
+a Reader looks like he knows a lot~
+A Reader winks at you
+~
+READ
+The most useful skill ever made. Read everything, you will learn alot.
+Also a command used...
+When you want to read something.
+READ is also used to read messages on bulletin boards; type HELP BOARDS
+for more information.
+> read note
+SEE ALSO: BOARDS
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 2d6+60 1d6+0
+35 40
+9 9 1 0 -1 -1
+#1612
+H T 0~
+score keeper mob~
+a Score Keeper~
+A Score Keeper knows all about you
+~
+SCORE ATTRIB
+   This command will show you your current score on the mud.
+It will show experience gained, experience till level, current and 
+max hitpoints, mana, and movement. It will also show your
+current title.  It will show you the current attributes of your character.
+Items show with attrib include: age, AC, spells affecting your char,
+and your 'stats' or ability scores.
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 1d1+60 1d6+0
+35 40
+9 9 1 0 -1 -1
+#1613
+H T 0~
+saver mob~
+a Saver~
+A Saver knows how to earn AND keep
+~
+SAVE
+Save your persona.  This includes experience points, strength, gold, etc.
+Your equipment is also saved in the (unlikely?) event of a crash.  The
+game periodically auto-saves you and your equipment, so it is not necessary
+to have your client auto-save you as well.
+Note that the SAVE command only saves your equipment in the event of a
+crash.  If you are leaving the game normally, SAVE will NOT save your
+equipment -- you must find an Inn to store your belongings.
+> save
+SEE ALSO:  INN RENT
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 2d6+60 1d6+0
+35 40
+9 9 1 0 -1 -1
+#1614
+H T 0~
+getter taker mob~
+a Getter~
+A Getter keeps his nose to the ground and finds good stuff
+~
+GET TAKE
+If you find something interesting on the ground, you may use 'get' to pick
+it up.  'get' can also be used to extract items from containers.
+> get sword corpse
+> get all corpse
+> get all all.bag
+> get all.bread all.bag
+SEE ALSO: DROP PUT PALM
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 1d1+60 1d6+0
+35 40
+9 9 1 0 -1 -1
+#1615
+H T 0~
+combat teacher mob~
+a Combat Teacher~
+A Combat Teacher hopes to help you stay alive
+~
+Topics that tell you about killing things, and how not to get killed.
+Assist     - How to assist other players
+Cast       - How to cast spells
+Consider   - How to consider an opponent
+Diagnose   - Check health of opponent
+Flee       - It's better then getting killed...
+Glance     - Another way to check health of an opponent
+Guard      - A way to automactically assist one player
+Kill       - How to kill!
+Wimpy      - How to make yourself run away automatically when you are hurt
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 2d6+60 1d6+0
+35 40
+9 9 1 0 -1 -1
+#1616
+H T 0~
+outfitter mob~
+the Outfitter~
+The Outfitter helps you check your belongings
+~
+EQUIPMENT
+
+Gives you a list of all the equipment you're wearing, holding, and wielding.
+SEE ALSO: INVENTORY, WEAR, HOLD
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 1d1+60 1d6+0
+35 40
+9 9 1 0 -1 -1
+#1617
+H M 0~
+mini flayer mindflayer minimindflayer~
+the Mini Mindflayer~
+The mini mindflayer is here, looking at you with a... well, some kind of look.
+~
+It's a three foot tall humanoid that seems rather menacing for its size.
+In the middle of its head are four tentacles with sharp points.
+~
+16524 0 0 0 8 0 0 0 -250
+2 20 8 1d1+25 1d3+0
+35 40
+9 9 0 0 -1 -1
+#1618
+H W 0~
+curser~
+the Curser~
+The Curser is here, muttering incomprehensible obscenities to the air.
+~
+It is short stocky guy dressed in clashing colors, spewing guttural sounds
+and interjections continuously.
+~
+16456 0 0 0 0 0 0 0 -600
+3 20 8 1d1+35 1d3+0
+35 40
+9 9 0 0 -1 -1
+#1619
+H W 0~
+cow~
+the Cow~
+A hard-eyed cow is here, going about his business.
+~
+He is walking around purposefully, as if searching for something,
+occasionally lowering his head, sniffing at the air, then eating
+pieces of the ground that are apparently somewhat grassy.  When he
+notices your intense scrutiny, he looks at you coldly, until you are
+forced to look away.
+~
+16392 0 0 0 0 0 0 0 400
+5 20 8 1d1+100 1d4+1
+35 40
+9 9 1 0 -1 -1
+#1620
+H W 0~
+net lag~
+Net Lag~
+Net Lag cuts your link, throws his head back, and cackles with insane glee!
+~
+As you try to peer into his beady eyes, you feel your sense of time slowing,
+slowing, slowing....
+~
+8 0 0 0 0 0 0 0 0
+1 20 8 1d1+30 1d3+0
+35 40
+9 9 0 0 -1 -1
+#1621
+P C 0~
+sapling young~
+the young sapling, walking on dainty roots~
+A sapling stands here eye to eye with you.
+~
+Its roots are rather petite, and small parts of them are above ground.
+~
+16392 0 0 0 0 0 0 0 0
+6 20 8 1d1+60 1d4+1
+35 40
+9 9 0 0 -1 -1
+#1622
+H T 0~
+positioner mob~
+the Positioner~
+The Positioner stands you right up
+~
+WAKE SLEEPING REST SIT STAND
+For changing your position.  If you feel weary, it's probably a good idea
+to sit and rest for a while, or maybe even take a nap.
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 1d1+60 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1623
+H T 0~
+feeder mob~
+the Feeder~
+The Feeder helps you eat and drink
+~
+EAT DRINK SIP TASTE
+If you're hungry or thirsty, these commands are for you!
+> eat bread
+> taste bread
+> drink from cup
+> sip fountain
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 2d6+60 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1624
+H T 0~
+socialite mob~
+the Socialite~
+The Socialite helps you get along with others
+~
+SOCIALS
+Socials are commands used to show your affective state to others.  The
+actor, victim and bystanders may receive different messages.  Generally,
+social commands are used only to express emotion, but it is possible that
+some mobs (or players) will take action based on the social.
+<social> [<victim>]
+> shake homer
+> applaud marge
+> stare 
+The SOCIALS command generates a canonical listing of all available socials.
+> socials
+SEE ALSO: EMOTE
+~
+16396 0 0 0 99368 0 0 0 0
+5 20 8 1d1+60 1d3+0
+35 40
+9 9 2 0 -1 -1
+#1625
+A M 0~
+easter bunny easterbunny~
+the Easter Bunny~
+A big huge bunny wearing colorful ribbons is holding a big basket here.
+~
+   It's the Easter Bunny!  She's about nine feet tall and covered in soft white
+fur.  She carries a big basket that you know has to be full of goodies!    
+~
+782346 0 0 0 263336 0 0 0 1000
+51 -30 -20 1d1+25000 100d100+100
+90 100
+9 9 2 8 4 20
+Z 1601
+Z 55111
+Z 7622
+#1628
+G H 0~
+juggler jugglernaut~
+the Jugglernaut~
+A Jugglernaut is here, juggling madly.
+~
+It is kind of large, some 10 yds in length, walking on several hundred 
+tiny legs. It is metallic-looking, with large spots of corrosion 
+marring its angular skin. On its sides are large signs, written in an 
+incomprehensible language. On its top, a small eye cluster swivels back 
+and forth continually.  A number of tentacles are juggling a dizzying
+blur of objects.
+~
+16476 0 0 0 8 0 0 0 0
+8 15 8 1d1+100 1d6+5
+35 40
+9 9 0 0 -1 -1
+#1633
+A W 0~
+mutterfly butterfly fly~
+the Mutterfly~
+An ugly butterfly-like thing is here, muttering about its problems.
+~
+it is ugly, and unfriendly
+~
+16472 0 0 0 0 0 0 0 -1000
+1 20 8 1d1+30 1d3+0
+35 40
+9 9 0 0 -1 -1
+#1637
+A T 0~
+creepy crawler~
+a slimy creepy crawler~
+There is a creepy slimy thing here crawling around.
+~
+It seems harmless enough, although according to ancient legend, they
+cause people to slip and fall.
+~
+16552 0 0 0 524296 0 0 0 -700
+2 20 8 1d1+20 1d3+0
+35 40
+9 9 0 0 -1 -1
+#1638
+H W 0~
+pawn white chess wpqr~
+the white Pawn~
+A statuesque white pawn stands here.
+~
+Though this scrawny fighter is not an impressive sight, he is obedient to his
+master.
+~
+16522 0 0 0 0 0 0 0 700
+1 20 8 1d1+25 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1656
+H W 0~
+rook white chess wqr~
+the white rook~
+A white rook stands here, prepared for battle.
+~
+It reminds you of a stone golem, but quite a bit smaller.
+~
+10 0 0 0 0 0 0 0 700
+5 20 8 1d1+70 1d5+0
+35 40
+9 9 0 0 -1 -1
+#1657
+H W 0~
+knight white chess wqn~
+the white Knight~
+There is a scraggly knight dressed in white here.
+~
+You're not so sure that you'd want *him* to come to your rescue.
+~
+10 0 0 0 0 0 0 0 500
+3 20 8 1d1+35 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1658
+H C 0~
+bishop white chess wqb~
+the white Bishop~
+There is a bishop dressed in white standing here.
+~
+Hmm, maybe it's an arch bishop.  Or an arch arch bishop.
+~
+16394 0 0 0 0 0 0 0 500
+3 20 8 1d1+35 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1659
+H M 0~
+queen white chess wq~
+the white Queen~
+There is a queen dressed in white standing here.
+~
+She looks rather fearsome.
+~
+16394 0 0 0 8 0 0 0 1000
+8 17 8 1d1+350 1d6+3
+35 40
+9 9 2 0 -1 -1
+#1660
+H W 0~
+king white chess wk~
+the white King~
+The King, Protector of the Flame, is standing here.
+~
+He is a far cry from the white harried wizened old man you might expect.  It
+looks as though he could put up a good fight.
+~
+16394 0 0 0 8 0 0 0 1000
+10 15 8 1d1+400 1d6+5
+35 40
+9 9 1 0 -1 -1
+#1670
+A W 0~
+jabberwocky~
+the Jabberwocky~
+The Jabberwocky stands here, prepared to maul you.
+~
+It is big, and alien in appearance.  Probably not here for a cup of tea.
+~
+16394 0 0 0 8 0 0 0 -900
+10 15 8 1d1+500 1d6+5
+35 40
+9 9 0 0 -1 -1
+#1671
+H C 0~
+medics pair paramedics~
+a pair of Medics~
+A pair of Medics is here, looking for someone to help.
+~
+Not only are they identical twins, but they do everything in perfect unison.
+~
+10 0 0 0 0 0 0 0 1000
+7 17 8 1d1+70 1d6+3
+35 40
+9 9 0 0 -1 -1
+#1672
+A M 0~
+flame~
+the Flame~
+The Flame hovers here before you.
+~
+The Flame flickers almost imperceptibly about you.  You can barely feel the
+warmth, so gentle is The Flame.
+~
+10 0 0 0 0 0 0 0 900
+10 15 8 1d1+500 1d6+5
+35 40
+9 9 0 0 -1 -1
+#1690
+I M 1~
+lord lag ~
+Lord Lag~
+Lord Lag, master of fate, laughs at you.
+~
+An unspeakable horror. You feel your link slipping away from you.
+You see a light at the end of a tunnel...and realize you are back in the
+horrible reality called the 'real world.'
+~
+784412 0 0 0 885800 0 0 0 1000
+51 0 -20 1d9000+9000 1d75+75
+90 100
+9 9 1 4 0 0
+#1693
+A D 0~
+oil beast~
+a Delivery Beast~
+An Oil Beast is here, sleeping on the job.
+~
+Well, it looks beastly.  And oily.  It's black, and shiny, and oozes
+slime as it goes...hard to be more specific than that.
+~
+8 0 0 0 0 0 0 0 800
+10 15 8 1d1+450 1d6+5
+35 40
+4 4 0 0 -1 -1
+#1694
+A D 0~
+oil beast~
+an Oil Beast~
+An Oil Beast is here, working quasi-diligently.
+~
+Well, it looks beastly.  And oily.  It's black, and shiny, and oozes
+slime as it goes...hard to be more specific than that.
+~
+10 0 0 0 0 0 0 0 800
+10 15 8 1d1+500 1d6+5
+35 40
+9 9 0 0 -1 -1
+#1695
+E T 0~
+elf~
+the Delivery Elf~
+An Elf is here, making deliveries for the Market Plaza Bakery.
+~
+A very large elf.
+~
+8 0 0 0 8 0 0 0 800
+10 15 8 1d1+450 1d6+5
+35 40
+9 9 0 0 -1 -1
+#1696
+E T 0~
+elf~
+an Elf~
+An Elf is here, working diligently.
+~
+The elf stares at you with a blank look for about a minute, then
+suddenly turns about and goes back to its work, ignoring you.
+~
+10 0 0 0 0 0 0 0 800
+10 15 8 1d1+400 1d6+5
+35 40
+9 9 0 0 -1 -1
+#1697
+A M 0~
+cat cheshire~
+the Cheshire Cat~
+The Cheshire Cat flashes a grin at you.
+~
+Looks like the obligatory invisible monster for this area.  He has that
+confident, artificial smile that means he knows too much about you.
+~
+12 0 0 0 8 0 0 0 600
+4 20 8 1d1+50 1d3+0
+35 40
+9 9 1 0 -1 -1
+#1698
+A W 0~
+pigeon~
+the Pigeon~
+A plump pigeon is wandering here, oblivious to your presence.
+~
+Dinner on the table....
+~
+136 0 0 0 0 0 0 0 0
+1 20 8 1d1+10 1d3+0
+35 40
+9 9 0 0 -1 -1
+#1699
+H W 0~
+sisyphus~
+Sisyphus~
+Sisyphus of Corinth stands here, guarding the gate.
+~
+The once tyrannical King of Corinth has been consigned to barring
+unqualified characters from entering the Tower.  A Sisyphean task indeed.
+~
+10 0 0 0 136 0 0 0 1000
+51 -25 -10 1d1+10000 10d6+55
+90 100
+9 9 1 0 -1 -1
+$

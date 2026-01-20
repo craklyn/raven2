@@ -1,0 +1,25 @@
+st shadowstep $1
+r reel
+co castout
+sd shadow
+del delusion
+f feed $*
+dd cast 'dance of dreams' $*
+bl cast 'blind' $*
+ss cast 'shadow sphere'
+clan clan &13 $*
+sb cast 'shadow blade' $*
+br cast 'blur'
+inv cast 'invis'
+ds cast 'dance of shadows'
+sl cast 'sense life' $*
+sv cast 'shadow vision' $*
+dm cast 'dance of mist' $*
+sw cast 'shadow walk'
+ge get all corpse
+t trip $*
+de delusion;assist shadow
+ws wake;stand
+b backstab $*
+ag assist; feed
+agg assist; feed; shadow

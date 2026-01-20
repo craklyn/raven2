@@ -1,0 +1,29 @@
+nats say Naked Stats: Str: 20/100, Int: 12, Wis: 13, Dex: 16, Con: 20, Cha: 3
+j toss rev
+door open door n;open door s;open door e;open door w;open door up;open door down
+mon cast 'call steed'
+tit title uth Matar :: &09Wanderer&00
+bre cast 'black breath'$*
+blah put all bag;get all.potion bag;get all.scroll bag;get thim bag
+di cast 'detect invis'$*
+k kick $*
+wa wake;stand
+pfg cast 'protection from good'$*
+aura cast 'aura of apoc'$*
+dart cast 'black dart'$*
+reg cast 'regen'$*
+ch cast 'chaos armor'$*
+pest cast 'pestilence'$*
+b cast 'blindness'$*
+de cast 'eyes of the dead'$*
+say emote says, '&15$* &00'
+dt cast 'death touch'$*
+cs cast 'cause wound'$*
+loot get all kitiara;wear all;get all kitiara;wield hammer;hold skull;wear all;destroy kitiara
+i toss earthq
+rf cast 'reflection'
+ref cast 'reflection'
+mana rem dragonslayer;wear circle;rem deathf;wear robe
+nomana rem circle;wear dragonsl;rem robe;wear deathf
+clan clan &14$* &00
+g kill lucky

@@ -1,0 +1,915 @@
+#12700
+Michaeline Keep~
+This area (12701-12752) was written by Dayan the Epee Artist.
+Modifications neccessary for the areas integration into raven mud were
+carried out by Vex. A couple of the rooms are inaccessible since they are
+what appears to of been god rooms :)  Additional mods by Kaidon.
+~
+127 0 0 0 0 0
+S
+#12701
+Inside the gate~
+  You stand inside the gate of the Keep.  To the East, you can hear shouts as
+the main Michaeline force readies to relieve the vanguard.  The walls here
+look very high and defensible.
+~
+127 cd 0 0 0 1
+D1
+~
+~
+0 -1 12705
+D3
+~
+~
+0 -1 12117
+D4
+~
+dgate cgate cdoor~
+1 -1 12702
+S
+#12702
+Above the gate~
+  You float here looking down at the frantic activity beneath you.  You smile
+smugly as you think of an anthill.
+~
+127 cd 0 0 0 0
+D5
+~
+dgate cgate cdoor~
+1 -1 12701
+S
+#12703
+in the tower~
+  This is one of the defensive towers that lies along the walls.  A staircase
+leading to the roof is here.
+~
+127 c 0 0 0 0
+D2
+~
+~
+0 -1 12704
+D4
+~
+~
+0 -1 12733
+S
+#12704
+The castle yard~
+  Brave knights and their men at arms at hurridly preparing for war here.
+Refugees are crowding into the castle, and you can here tired looking women
+trying to calm their children.  The entrance to a defensive tower lies to the
+north.
+~
+127 0 0 0 0 1
+D0
+~
+~
+0 -1 12703
+D1
+~
+~
+0 -1 12708
+D2
+~
+~
+0 -1 12705
+S
+#12705
+The castle yard~
+  Brave knights and their men at arms at hurridly preparing for war here.
+Refugees are crowding into the castle, and you can here tired looking women
+trying to calm their children.
+~
+127 0 0 0 0 1
+D0
+~
+~
+0 -1 12704
+D1
+~
+~
+0 -1 12709
+D2
+~
+~
+0 -1 12706
+D3
+~
+~
+0 -1 12701
+S
+#12706
+The castle yard~
+  Brave knights and their men at arms at hurridly preparing for war here.
+Refugees are crowding into the castle, and you can here tired looking women
+trying to calm their children.  Some barracks lie to the south here, and you
+can see soldiers bustling in and out.
+~
+127 0 0 0 0 1
+D0
+~
+~
+0 -1 12705
+D1
+~
+~
+0 -1 12710
+D2
+~
+~
+0 -1 12707
+S
+#12707
+In the barracks~
+  Men at Arms are working here to get their gear packed here.  A ladder leads
+up to the walls here.
+~
+127 cd 0 0 0 0
+D0
+~
+~
+0 -1 12706
+D4
+~
+~
+0 -1 12734
+S
+#12708
+The castle yard~
+  Brave knights and their men at arms at hurridly preparing for war here.
+Refugees are crowding into the castle, and you can here tired looking women
+trying to calm their children.
+~
+127 0 0 0 0 1
+D2
+~
+~
+0 -1 12709
+D3
+~
+~
+0 -1 12704
+S
+#12709
+The castle yard~
+  Brave knights and their men at arms at hurridly preparing for war here.
+Refugees are crowding into the castle, and you can here tired looking women
+trying to calm their children.
+~
+127 0 0 0 0 1
+D0
+~
+~
+0 -1 12708
+D1
+~
+~
+0 -1 12714
+D2
+~
+~
+0 -1 12710
+D3
+~
+~
+0 -1 12705
+S
+#12710
+The castle yard~
+  Brave knights and their men at arms at hurridly preparing for war here.
+Refugees are crowding into the castle, and you can here tired looking women
+trying to calm their children.  A busy stable stands to the south.
+~
+127 0 0 0 0 1
+D0
+~
+~
+0 -1 12709
+D2
+~
+~
+0 -1 12711
+D3
+~
+~
+0 -1 12706
+S
+#12711
+the Stables~
+  Horses and their handlers getting ready here for the upcoming counter-attack.
+~
+127 cd 0 0 0 0
+D0
+~
+~
+0 -1 12710
+S
+#12712
+Meal Hall~
+  Soldiers sit here eating what they can before they march off to battle.
+~
+127 d 0 0 0 0
+D1
+~
+~
+0 -1 12717
+D2
+~
+~
+0 -1 12713
+S
+#12713
+kitchen~
+  You stand in a large kitchen.  Cooks are busily preparing meals for the soon
+to be departing soldiers.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12712
+D1
+~
+~
+0 -1 12718
+S
+#12714
+Entrance Hall~
+  You stand in the main entrance hall of the Keep proper.  Guards stand here and
+there is a constant stream of people passing by and readying for war.
+~
+127 cd 0 0 0 0
+D1
+~
+~
+0 -1 12719
+D3
+~
+~
+0 -1 12709
+S
+#12715
+staircase~
+  You stand at the base of a large marble staircase.  It seems to lead upwards
+to the private rooms of the knights.
+~
+127 d 0 0 0 0
+D2
+~
+~
+0 -1 12716
+D4
+~
+~
+0 -1 12739
+S
+#12716
+hallway~
+  You stand in a long hallway that leads south.  To the north, you can see a
+large staircase.  You can hear sounds of fighting from a room to your east.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12715
+D1
+~
+wooden door~
+0 -1 12722
+D2
+~
+~
+0 -1 12717
+S
+#12717
+hallway~
+  You stand in the hallway which continues north and south.  To the west lies
+the meal hall, and to the east lies a door.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12716
+D1
+~
+wooden door~
+1 -1 12723
+D2
+~
+~
+0 -1 12718
+D3
+~
+~
+0 -1 12712
+S
+#12718
+hallway~
+  You stand in a north/south hall.  To the west lies a kitchen.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12717
+D2
+~
+~
+0 -1 12719
+D3
+~
+~
+0 -1 12713
+S
+#12719
+Hallway~
+  You stand in the main hallway of the keep.  The hall continues to the north
+and the south.  The main entrance is to the west, and a small chapel is to the
+east.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12718
+D1
+~
+~
+0 -1 12725
+D2
+~
+~
+0 -1 12720
+D3
+~
+~
+0 -1 12714
+S
+#12720
+The Hallway~
+  You stand in a north-south hallway here.  The Hallway ends here, and a large
+staircase is to the south.  A wooden door is east.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12719
+D1
+~
+wooden door~
+1 -1 12726
+D2
+~
+~
+0 -1 12721
+S
+#12721
+staircase~
+  You stand at the base of a large marble staircase.  It seems to lead upwards
+to the private rooms of the knights.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12720
+D4
+~
+~
+0 -1 12745
+S
+#12722
+Training room~
+  You stand on a hard wooden floor watching the Knights practice fighting.
+~
+127 d 0 0 0 0
+D3
+~
+~
+0 -1 12716
+S
+#12723
+Library~
+  You stand amidst aisles of books in a large library.
+~
+127 d 0 0 0 0
+D3
+~
+wooden door~
+1 -1 12717
+E
+books~
+a passage in one catches your eye:
+
+           Principles of Architecture:
+             There is a secret room on the second level of
+             the Raven's Guild Keep.
+~
+S
+#12724
+Prayer room~
+  Knights kneel and pray as they draw strength for the coming conflict.
+~
+127 d 0 0 0 0
+D2
+~
+~
+0 -1 12725
+S
+#12725
+Chapel~
+  You stand in a small chapel.  Several knights are praying here before they
+leave for the fighting.  A small room lies to the north, and the Altar is to
+the east.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12724
+D1
+~
+~
+0 -1 12727
+D3
+~
+~
+0 -1 12719
+S
+#12726
+Strategy room~
+  A very large --> MAP <--- covered with colored pin lies on a large table in
+the center of this room.
+~
+127 d 0 0 0 0
+D3
+~
+wooden door~
+1 -1 12720
+E
+map table~
+             ^             Map of the Irredenta
+   ^^     ^^                        ____
+       Mountains  ^       ^ ^      I    I Duke Arilan's Castle
+  ^                        ^ ^^    I____I
+    ^^    ^^         ^         ______][________
+            ^^  ^   ^   ^     I                I
+||||||||       ^^             I    FreeHold    I
+|||||||||           ^^        I                I*  *   *
+*  **   ||     ---->  <----   I                I  *    * *
+  **  * ||     Battlefield    I________________I *  * *  **
+ *  *  ____    ---->  <----             I  *   **  * *  *
+______/ || \____________________________I     *  Forest **
+   *  bridge            I                   *   **  **   **
+ *      ||||||||||||    I                    ____________
+   *      ||||||||||||  I__________________ I Michaeline I
+ *   **             ||  I                   I    Keep    I
+*  *  *   *   Rapid ||  I                   I____________I
+*  Forest **   river||  I                                       /^\
+ *     ** __ *  **  ||  I        plains                      Mount Eyrie
+waterfall/ /||||||||||  I                                    /       \
+~
+S
+#12727
+By The Altar~
+  The Priest is delivering a sermon to the worshipping knights.  The Altar is
+here, and plaque is hanging on a wall.
+~
+127 d 0 0 0 0
+D3
+~
+~
+0 -1 12725
+E
+plaque~
+   Memorial Chapel and Altar made possible by the generous donation of
+
+                         -=>The Epee Artist<=-
+~
+E
+altar~
+It is a large altar made of rare wood and gold.
+~
+S
+#12728
+on the walls~
+  You stand on the outer defensive wall of the Keep.  Looking down, you can
+see men busily preparing for war.
+~
+127 cd 0 0 0 0
+D1
+~
+~
+0 -1 12733
+D2
+~
+~
+0 -1 12729
+S
+#12729
+on the walls~
+  You stand on the outer defensive wall of the Keep.  Looking down, you can
+see men busily preparing for war.
+~
+127 cd 0 0 0 0
+D0
+~
+~
+0 -1 12728
+D2
+~
+~
+0 -1 12730
+S
+#12730
+on the walls~
+  You stand on the outer defensive wall of the Keep.  Looking down, you can
+see men busily preparing for war.
+~
+127 cd 0 0 0 0
+D0
+~
+~
+0 -1 12729
+D2
+~
+~
+0 -1 12731
+S
+#12731
+on the walls~
+  You stand on the outer defensive wall of the Keep.  Looking down, you can
+see men busily preparing for war.
+~
+127 cd 0 0 0 0
+D0
+~
+~
+0 -1 12730
+D2
+~
+~
+0 -1 12732
+S
+#12732
+on the walls~
+  You stand on the outer defensive wall of the Keep.  Looking down, you can
+see men busily preparing for war.
+~
+127 cd 0 0 0 0
+D0
+~
+~
+0 -1 12731
+D1
+~
+~
+0 -1 12734
+S
+#12733
+on the walls~
+  You stand on the outer defensive wall of the Keep.  Looking down, you can
+see men busily preparing for war.
+~
+127 cd 0 0 0 0
+D3
+~
+~
+0 -1 12728
+D5
+~
+~
+0 -1 12703
+S
+#12734
+on the walls~
+  You stand on the outer defensive wall of the Keep.  Looking down, you can
+see men busily preparing for war.
+~
+127 cd 0 0 0 0
+D3
+~
+~
+0 -1 12732
+D5
+~
+~
+0 -1 12707
+S
+#12735
+inside the vault~
+  You stand inside the steel vault.
+~
+127 d 0 0 0 0
+D1
+~
+vault door~
+2 12731 12737
+S
+#12736
+Grand Ballroom~
+  You stand in the grand ballroom.  Bags of flour and other supplies are being
+stored for the coming offensive here.
+~
+127 d 0 0 0 0
+D1
+~
+~
+0 -1 12741
+E
+bags~
+  They look much to heavy for you to carry off.
+~
+S
+#12737
+The Vault~
+  You stand before a great vault door.  It is made of solid steel a foot thick.
+  It looks impregnable unless you have the key.
+~
+127 d 0 0 0 0
+D1
+~
+~
+0 -1 12742
+D3
+~
+vault door~
+2 12731 12735
+S
+#12738
+empty room~
+  This room is totally bare.  It doesn't look like anyone has lived here for a
+long time.
+~
+127 d 0 0 0 0
+D1
+~
+~
+0 -1 12743
+S
+#12739
+staircase~
+  A large marble staircase leads downwards into the main keep here.  A Hallway
+leads to the south here.
+~
+127 d 0 0 0 0
+D2
+~
+~
+0 -1 12740
+D5
+~
+~
+0 -1 12715
+S
+#12740
+hallway~
+  You stand in a north/south hallway.  Doors lead off to both the east and the
+west here.  A sign is on the wall.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12739
+D1
+~
+~
+0 -1 12746
+D2
+~
+~
+0 -1 12741
+D3
+~
+~
+0 -1 12751
+E
+sign~
+                       <----- Allister's room
+
+                        Vanion's room  ----->
+~
+S
+#12741
+hallway~
+  You stand in a north/south hallway.  Doors lead off to both the east and the
+west here.  A sign is on the wall.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12740
+D1
+~
+~
+0 -1 12747
+D2
+~
+~
+0 -1 12742
+D3
+~
+~
+0 -1 12736
+E
+sign~
+                          <----- ballroom
+
+                        Sephriana's room  ----->
+~
+S
+#12742
+hallway~
+  You stand in a north/south hallway.  Doors lead off to both the east and the
+west here.  A sign is on the wall.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12741
+D1
+~
+~
+0 -1 12748
+D2
+~
+~
+0 -1 12743
+D3
+~
+~
+0 -1 12737
+E
+sign~
+                          <----- vault
+
+                        Marhalt's room  ----->
+~
+S
+#12743
+hallway~
+  You stand in a north/south hallway.  Doors lead off to both the east and the
+west here.  A sign is on the wall.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12742
+D1
+~
+~
+0 -1 12749
+D2
+~
+~
+0 -1 12744
+D3
+~
+~
+0 -1 12738
+E
+sign~
+                          <----- empty room
+
+                        Jebediah's room  ----->
+~
+S
+#12744
+hallway~
+  You stand in a north/south hallway.  Doors lead off to both the east and the
+west here.  A sign is on the wall.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12743
+D1
+~
+door~
+2 12729 12750
+D2
+~
+~
+0 -1 12745
+D3
+~
+door~
+2 12730 12752
+E
+sign~
+                        <----- Corryn's room
+
+                        Dayan's room  ----->
+~
+S
+#12745
+staircase~
+  A large marble staircase leads downwards into the main keep here.  A Hallway
+leads to the north here.
+~
+127 d 0 0 0 0
+D0
+~
+~
+0 -1 12744
+D5
+~
+~
+0 -1 12721
+S
+#12746
+Vanion's room~
+  You see militarily non-descript room.  The bed covers are made with exact 45
+degree angles, and there isn't any dust to be found.  The only ornamentation
+is a gold cross above the bed.
+~
+127 d 0 0 0 0
+D3
+~
+~
+0 -1 12740
+E
+gold cross~
+  It is inscribed:
+
+            To Vanion for exemplary service on the Bremani Rim
+                   during the Khorenor Insurrection
+                           523 to 525 D.E.
+~
+S
+#12747
+Sephriana's room~
+  In a stark contrast to the spartan accomodations of the men, Sephriana's
+room is beautiful.  It is full of pink and blue soft looking things.
+~
+127 d 0 0 0 0
+D3
+~
+~
+0 -1 12741
+S
+#12748
+Marhalt's room~
+  This room is full of historical treatises on warfare.  The other meager
+belongings are packed to one side, as if the owner might not be back soon.
+~
+127 d 0 0 0 0
+D3
+~
+~
+0 -1 12742
+S
+#12749
+Jebediah's room~
+  You stand in the spartan rooms of a fighter both skilled and pious.  You
+can't help but respect the quiet dignity of the Jeb's humble belongings.
+~
+127 d 0 0 0 0
+D3
+~
+~
+0 -1 12743
+S
+#12750
+Dayan's room~
+  You gasp in awe as you behold the private rooms of the Epee Artist.  You
+can't but help to wonder how he ever came to grace you with this glimpse of
+himself.
+~
+127 d 0 0 0 0
+D3
+~
+door~
+2 12729 12744
+S
+#12751
+Allister's room~
+  This room belongs to the preceptor of the Michaeline order.  There is little
+ornamention, and everything looks very functional if not pretty.
+~
+127 d 0 0 0 0
+D1
+~
+~
+0 -1 12740
+S
+#12752
+Corryn's Room~
+  You stand in the room of Corryn Haldane, a sensitive intellectual trapped
+inside a stud body.  :)
+~
+127 d 0 0 0 0
+D1
+~
+door~
+2 12730 12744
+S
+$~

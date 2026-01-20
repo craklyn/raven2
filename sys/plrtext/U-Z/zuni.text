@@ -1,0 +1,29 @@
+p c 'slow' war
+= c 'charm corpse' corpse
+detect c 'detect invis' gr
+invis c 'invis' gr
+fly c 'fly' gr
+infra c 'infra' self
+2 order follower kill $1 ; assist
+wraith c 'wraithform'
+ward c 'create ward
+slow c 'slow' $1
+sp c 'soul' $1
+sou c 'soul'
+charm c 'charm corpse' corpse
+emb c 'embalm' corpse
+sum c 'summon' $1
+nox c 'nox' $1
+3 assist
+1 get all all.cor
+9 get all.cor bupu ; drop all.cor ; get all.cor ; put all.cor bupu
+blind c 'blind' $1
+deb c 'debilitate' $1
+shield c 'shield' gr
+] get cor bu ; drop cor
+[ order fol k 2.minion ; assist
+gt gt &01$*&00 
+- c 'slow' cit
+8 rec rec rec
+consume c 'consume corpse' corpse
+0 c 'slow' 2.min

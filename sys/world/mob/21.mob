@@ -1,0 +1,220 @@
+#2100
+J C 0~
+hierophant grove~
+the Hierophant~
+The old Hierophant of the holy grove is dozing here.
+~
+He is a very old man, dressed in an old robe, 
+with the knowledge of the world etched in his face.
+~
+16584 0 0 0 1192 0 0 0 1000
+20 0 -5 20d30+180 1d8+12
+40 40
+4 6 1 0 -1 -1
+#2101
+J C 0~
+hierophant grove~
+the Hierophant~
+The old Hierophant of the holy grove is sleeping here.
+~
+She is a very old woman, but in her peaceful slumber, 
+she has the look of a child.
+~
+16584 0 0 0 1192 0 0 0 1000
+20 0 -5 20d30+180 1d8+12
+40 40
+4 6 2 0 -1 -1
+#2102
+J C 0~
+elder druid grove~
+an elder druid~
+An elder druid is here, sleeping amongst the local flora and wildlife.
+~
+He looks ageless, as do all Druids.  His gray beard contrasts strongly with
+his lack of wrinkles.
+~
+200 0 0 0 1192 0 0 0 1000
+13 7 0 13d13+130 1d4+7
+35 40
+4 6 1 0 -1 -1
+#2103
+J C 0~
+elder druidess grove~
+an elder druidess~
+An elder druidess sleeps here, guarded the local fauna.
+~
+She looks ageless, as do all Druids.  She smiles a beautiful smile in her sleep.
+~
+200 0 0 0 1192 0 0 0 1000
+13 7 0 13d13+130 1d4+7
+35 40
+4 6 2 0 -1 -1
+#2104
+A W 0~
+doe grove~
+a doe~
+A doe is here, munching on grass.
+~
+This peaceful creature looks at you with big dark eyes.  Her nose twitches as
+she sniffs at you, but she goes back to chewing some grass.
+~
+4300 0 0 0 1064 0 0 0 1000
+25 7 -1 1d1+150 8d7+0
+40 40
+9 9 2 0 -1 -1
+#2105
+A W 0~
+deer grove~
+a deer~
+A deer is here, staring back at you.
+~
+The deer looks angered at your intrusion.  He butts his head against you, 
+albeit ineffectively.
+~
+18652 0 0 0 1064 0 0 0 1000
+25 7 -1 1d1+500 8d7+0
+40 40
+9 9 1 0 -1 -1
+#2106
+A W 0~
+stag deer large grove~
+a stag~
+A large deer stag is here, protecting his territory.
+~
+He eyes you with contained anger.  You'd better leave him alone!
+~
+18680 0 0 0 1064 0 0 0 1000
+25 7 -1 1d1+500 9d8+0
+40 40
+9 9 1 0 -1 -1
+#2107
+A W 0~
+bunny rabbit grove~
+a small bunny~
+A small bunny is here, poking from bush to bush.
+~
+This bunny looks so adorable, you wished you had one just like this!
+~
+18636 0 0 0 1064 0 0 0 1000
+25 7 -1 1d1+100 8d7+0
+40 40
+9 9 0 0 -1 -1
+#2108
+A W 0~
+snake~
+a harmless snake~
+A small snake slithers between the grass.
+~
+Upon careful inspection, you are sure it is NOT a cobra!
+~
+232 0 0 0 32768 0 0 0 0
+4 16 4 4d4+44 1d8+4
+35 40
+9 9 0 0 -1 -1
+#2109
+J C 0~
+druid grove~
+a druid~
+A druid is here snoring.
+~
+He doesn't like you bothering him, but is too tired to ask you to leave.
+~
+200 0 0 0 1192 0 0 0 1000
+10 16 0 1d1+900 1d2+3
+35 40
+4 6 1 0 -1 -1
+#2110
+J C 0~
+druidess~
+a druidess~
+A druidess is here, in peaceful slumber.
+~
+She looks like a tiny child, even sucks her thumb contently.
+~
+200 0 0 0 1192 0 0 0 1000
+10 16 0 1d1+900 1d2+3
+35 40
+4 6 2 0 -1 -1
+#2111
+N M 0~
+Aillen~
+Aillen~
+Aillen prepares to turn you to ashes.
+~
+&08           _/          ,          .              
+&08       , -' )         ( \-------.,')            (\_________________________
+&08     , ,-/ |          /\_) )     \/            ,' _.----------------------,\
+&08   ,',  /, |         /      >--. ,)           / /\\                       
+&08  / ,  //|,'        /'     '\--'\\)          /,'  \\     `         `   ,
+&08 / ,  // ||       ,'     (.--^( `')         //     \\                \
+&08( ,  //  ||,___,-'    (___\\  '^^^'        //       \\              ,
+&08 \  //   ||--.__     (     \`^--)  _____.-'/         \\   `         
+&08  >'/    ||,        (       \|_(\-'      ,'           \\         \,
+&08 /,'     ||          \           \      /              \\       
+&08(/       ||           \           )  ,'(     `     `    \\      ,
+&08 `       ||\           \      ) ,'  /_  )                \\    \
+&08         || `.          `.    ,'   /( `.\  \ , \ \,       \\   ,
+&08   `     || (_`.          ` .'   .'  )  `)'            ,   \\  
+&08         ||  (_ `-v-------  ^--v' , )                      '\\,
+&08         ||    (    , _,-  /  -./ )'                         `) 
+&08     `   '|     ),  ,'    '     )'
+&08        ' ;    /  ,'          ,'
+&08       /,'    /  /      '    /     , - --- .
+&08       \|    /  (          ,'   '           `.
+&08       ('  ,'    `.    "  / ,'                \
+&08         ,'        \    ,/,'        '`)   (_   )
+&08        /           \ , /'          ,      /  /
+&08       .             )  ,       ,         '  /
+&08                      )      ,              /
+&08       .            ' `|   ,'              /
+&08                    '  |  /              ,'
+&08        |\             | <    ______,---'
+&08        ` \            ','   (
+&08         \ '          /(____ ,`-._,-.
+&08          `.         /      `._, )---)
+&08            `-------'\         `/ \
+&08               )   )  \          ` \
+&08              /  '(    `.         ` 
+&08         ___,' _, /      `.         . 
+&08        ('.---/ \(          .      '|  
+&08        /'    `|^'           .     , 
+&08                             .     /
+&08                                  '
+&08                            '    '
+&08                          ,'  ,
+&08                         (_ ' &00 
+~
+542830 0 0 0 66728 0 0 0 -1000
+45 3 -1 1d4000+5000 1d45+45
+65 75
+9 9 1 8 21 12
+#2112
+H W 0~
+fionn~
+fionn~
+Fionn looks for the source of the magical sleep music.
+~
+To collect his inheritance, Fionn must find and destroy 
+the evil demon, Aillen, who is lulling the people of the 
+grove to sleep with his magical pipes, so that he can 
+destroy the Holy Grove, with his demon fire.
+~
+26696 0 0 0 1064 0 0 0 1000
+45 3 -1 1d4000+5000 1d45+45
+65 75
+9 9 1 0 -1 -1
+#2113
+J W 0~
+fiacha~
+Fiacha~
+Fiacha works frantically.
+~
+Fiacha is so involved in his task, he doesn't 
+even notice you. All that is on his mind is the 
+Diamond Tipped spear he must finish for Fionn.
+~
+18504 0 0 0 1064 0 0 0 1000
+45 3 -8 1d100+4500 8d7+9
+65 75
+9 9 1 0 -1 -1
+$

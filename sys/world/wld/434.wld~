@@ -1,0 +1,1851 @@
+#43400
+Credits Room~
+This is Nightmaker's credits room.  He'll explain his zone here.
+I will be constructing a graveyard with a cathedral for xp.
+~
+434 0 0 0 0 0 255 0
+E
+credits~
+NightMaker is also known as Maelstorm, Kalar, and Derrik
+~
+S
+#43401
+An overgrown path~
+You find yourself walking along a tree-lined path.  The branches of
+the trees intertwine above you and you can see several large, black
+birds roosting in their embrace.
+~
+434 4 0 0 0 12 255 0
+D0
+The path continues.
+~
+~
+0 0 43402
+D2
+~
+bars~
+1 0 -1
+E
+trigedit~
+say 'Another corpse for the pile?' 'Who would you like as your executioner today, Lord Xamot, or Lord Tomax?
+end
+
+1) Name         : test3
+2) Intended for : Mobiles
+3) Trigger types: Greet 
+4) Numberic Arg : 100
+5) Arguments    : 
+6) Commands:
+say 'Another corpse for the pile?' 'Who would you like as your executioner today, Lord Xamot, or Lord Tomax?
+end
+that is basic for a greet trigger
+no arguement is needed in a greet trigger arguement is for command
+~
+S
+#43402
+An overgrown path~
+You find yourself walking along a tree-lined path.  The branches of
+the trees intertwine above you and you can see several large, black
+bird roosting in their embrace.  The air is noticeably more chill here.
+~
+434 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 43403
+D2
+The path continues.
+~
+~
+0 0 43401
+S
+#43403
+An overgrown path~
+You find yourself walking along a tree-lined path.  The branches of
+the trees intertwine above you and you can see several large, black
+birds roosting in their embrace.  An old wrought iron gate bars your
+progress to the north.
+~
+434 0 0 0 0 12 255 0
+D0
+A large gate blocks your passage.
+~
+wrought iron gate~
+1 0 43404
+D2
+The path continues.
+~
+~
+0 0 43402
+S
+#43404
+A trail between the graves~
+The trail you follow is choked with weeds and tangle grass making
+your progress difficult.  Graves spread out from you to the east
+and west while the path continues to the north and south.
+~
+434 0 0 0 0 2 255 0
+D0
+A trail leading off to the north.
+~
+~
+0 0 43405
+D1
+You see a trail.
+~
+~
+0 0 43449
+D2
+A large gate blocks your passage.
+~
+wrought iron gate~
+1 0 43403
+D3
+You see graves.
+~
+~
+0 0 43413
+S
+#43405
+A trail between the graves~
+The trail you follow is choked with weeds and tangle grass making
+your progress difficult.  Graves spread out from you to the east
+and west while the path continues to the north and south.  You can
+just make out a large building off to the north.
+~
+434 0 0 0 0 2 255 0
+D0
+The trail continues.
+~
+~
+0 0 43406
+D2
+A trail leading off to the south.
+~
+~
+0 0 43404
+S
+#43406
+A trail between the graves~
+The trail you follow is choked with weeds and tangle grass making
+your progress difficult.  Graves spread out from you to the east
+and west while the path continues to the north and south.  You can
+just make out a large building off to the north.
+~
+434 0 0 0 0 0 255 0
+D0
+A small flagstone square lies to the north.
+~
+~
+0 0 43407
+D2
+The trail continues.
+~
+~
+0 0 43405
+S
+#43407
+Near the center of the graveyard~
+You are standing just south of the center of the graveyard.  To the
+north you can hear a sloppy, bubbling sound.  You also can detect
+a strange, ethereal chill coming from the north.
+~
+434 0 0 0 0 2 255 0
+D0
+You see a large fountain to the north.
+~
+~
+0 0 43408
+D2
+The trail continues.
+~
+~
+0 0 43406
+S
+#43408
+The fountain~
+You find yourself in the center of the graveyard.  The area is
+is littered with bones and equipment that appear to have been
+ripped apart by some great force.  The air here is very cold and
+stagnant.
+~
+434 5 4 0 0 1 255 0
+D0
+You see the flagstone sqare that surrounds the fountain.
+~
+~
+0 0 43409
+D1
+You see a path leading to the Tower of Mourning.
+~
+~
+0 0 43465
+D2
+You see the flagstone sqare that surrounds the fountain.
+~
+~
+0 0 43407
+D3
+You see the flagstone square of the graveyard.
+~
+~
+0 0 43429
+S
+#43409
+Near the center of the graveyard~
+You are standing just north of the center of the graveyard.  To the
+south you can hear a sloppy bobbling sound.  You also can detect
+a strange, ethereal chill coming from the south.
+~
+434 0 0 0 0 1 255 0
+D0
+You see a flagstone path.
+~
+~
+0 0 43410
+D2
+You see a large fountain to the south.
+~
+~
+0 0 43408
+S
+#43410
+The path to the Cathedral~
+The path here is covered in old and broken flagstone with dead weeds
+growing from the spaces in between.  To the south, you see the
+flagstone square of the graveyard.  Off to the north you see the cathedral
+looming in the distance.
+~
+434 0 0 0 0 1 255 0
+D0
+You see the flagstone path.
+~
+~
+0 0 43411
+D2
+You see the flagstone center of the graveyard.
+~
+~
+0 0 43409
+S
+#43411
+The path to the Cathedral~
+The path here is covered in old and broken flagstone with dead weeds
+growing from the spaces in between.  To the north and south you
+see that the path continues.
+~
+434 0 0 0 0 1 255 0
+D0
+You see the Cathedral to the north.
+~
+~
+0 0 43412
+D2
+You see the flagstone path.
+~
+~
+0 0 43410
+S
+#43412
+Before the Cathedral~
+The flagstone path has brought you to the main entrance the Cathedral.
+Huge double doors made of black oak and wrought iron bar your passage
+to the north.  Heading south will take you away from the Cathedral.
+~
+434 64 0 0 0 1 255 0
+D1
+You see a path along the cathedral wall.
+~
+~
+0 0 43453
+D2
+You see the flagstone path.
+~
+~
+0 0 43411
+D3
+You see a trail along the cathedral wall.
+~
+~
+0 0 43436
+S
+#43413
+Near the graves~
+You are walking along a row of graves.  Most of the graves appear
+to be undisturbed, but you notice several that have been dug up.
+The footing around the dug up graves looks unstable.
+~
+434 0 0 0 0 2 255 0
+D1
+You see the trail.
+~
+~
+0 0 43404
+D2
+You see an open grave.
+~
+~
+0 0 43414
+D3
+You see a path through the graves.
+~
+~
+0 0 43416
+S
+#43414
+An open grave~
+This grave has been dug up and the earth you are walking upon gives way!
+~
+434 65540 0 0 0 2 255 0
+D0
+You see graves.
+~
+~
+0 0 43413
+D5
+~
+~
+0 0 43415
+S
+#43415
+The bottom of the grave~
+You have fallen into an open grave and find yourself covered with loamy earth.
+  
+~
+434 0 0 0 0 0 255 0
+D4
+~
+~
+0 0 43414
+S
+#43416
+Near the graves~
+You are walking along a row of graves.  Most of the graves appear
+to be undisturbed but you notice several that have been dug up.
+You see a crypt to the north.
+~
+434 0 0 0 0 2 255 0
+D0
+You see a crypt.
+~
+door ornate~
+2 43407 43417
+D1
+You see a path through the graves.
+~
+~
+0 0 43413
+D3
+You see a path through the graves.
+~
+~
+0 0 43418
+S
+#43417
+A crypt~
+You step inside a small crypt and see a pile of bones atop a
+pedestal.  There are bas relief on the walls depicting unholy
+sacrifices and bizarre religious rituals.
+~
+434 1 0 0 0 0 255 0
+D2
+You see an ornate door.
+~
+door ornate~
+2 43407 43416
+S
+#43418
+Near the graves~
+You are walking along a row of graves.  Most of the graves appear to be
+undisturbed but you notice several that have been dug up.  The footing around
+the dug up graves looks unstable.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see a path through the graves.
+~
+~
+0 0 43416
+D2
+You see some graves.
+~
+~
+0 0 43419
+D3
+You see a path through the graves.
+~
+~
+0 0 43421
+S
+#43419
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see a path through the graves.
+~
+~
+0 0 43418
+S
+#43420
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 2 255 0
+D2
+You see a path through the graves.
+~
+~
+0 0 43421
+S
+#43421
+Near the graves~
+You are walking along a row of graves.  Most of the graves appear to be
+undisturbed but you notice several that have been dug up.  The footing around
+the dug up graves looks unstable.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see some graves.
+~
+~
+0 0 43420
+D1
+You see a path through the graves.
+~
+~
+0 0 43418
+D3
+You see a bend in the path through the graves.
+~
+~
+0 0 43422
+S
+#43422
+A bend in the path~
+The path through the graves makes a bend to the north here.  You 
+can hear muffled groaning and the sound of bones rubbing together.
+~
+434 0 0 0 0 0 255 0
+D0
+You see a trail through the graves.
+~
+~
+0 0 43423
+D1
+You see a path through the graves.
+~
+~
+0 0 43421
+S
+#43423
+A trail through the graves~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see a trail through the graves.
+~
+~
+0 0 43425
+D1
+You see some graves.
+~
+~
+0 0 43424
+D2
+You see a trail through the graves.
+~
+~
+0 0 43422
+S
+#43424
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 2 255 0
+D3
+You see a trail through the graves.
+~
+~
+0 0 43423
+S
+#43425
+A trail though the graves~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see a trail though the graves.
+~
+~
+0 0 43426
+D2
+You see a trail through the graves.
+~
+~
+0 0 43423
+D3
+You see a gate.
+~
+gate~
+2 43411 43437
+S
+#43426
+An intersection in the graveyard.~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see a trail though the graves
+~
+~
+0 0 43430
+D1
+You see a trail between the graves.
+~
+~
+0 0 43427
+D2
+You see a trail though the graves.
+~
+~
+0 0 43425
+S
+#43427
+A trail between the graves~
+The trail you follow is choked with weeds and tangle grass making your progress
+difficult.  Graves spread out from you to the north and south while the path
+continues to the east and west.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see some graves.
+~
+~
+0 0 43438
+D1
+You see a trail between the graves.
+~
+~
+0 0 43428
+D3
+You see a trail between the graves.
+~
+~
+0 0 43426
+S
+#43428
+A trail between the graves~
+The trail you follow is choked with weeds and tangle grass making your progress
+difficult.  Graves spread out from you to the north and south while the path
+continues to the east and west. You see a mausoleum to the south.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see some graves.
+~
+~
+0 0 43439
+D1
+You see the flagstone sqare of the graveyard.
+~
+~
+0 0 43429
+D2
+You see a large stone door.
+~
+large stone door~
+1 0 43442
+D3
+You see a trail between the graves.
+~
+~
+0 0 43427
+S
+#43429
+Near the center of the graveyard~
+You are standing just west of the center of the graveyard.  To the east you can
+hear a sloppy, bubbling sound.  You also can detect a strange, ethereal chill
+coming from the east.    
+~
+434 0 0 0 0 0 255 0
+D1
+You see the center of the graveyard.
+~
+~
+0 0 43408
+D3
+You see a trail between the graves.
+~
+~
+0 0 43428
+S
+#43430
+A trail though the graves~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see a trail though the graves.
+~
+~
+0 0 43431
+D2
+You see a trail though the graves.
+~
+~
+0 0 43426
+S
+#43431
+A trail though the graves~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see a trail thought the graves.
+~
+~
+0 0 43432
+D2
+You see a trail though the graves.
+~
+~
+0 0 43430
+S
+#43432
+A trail though the graves~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see a bend in the trail.
+~
+~
+0 0 43433
+D2
+You see a trail though the graves.
+~
+~
+0 0 43431
+S
+#43433
+A bend in the trail~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see a trail along the cathedral wall.
+~
+~
+0 0 43434
+D2
+You see a trail through the graves.
+~
+~
+0 0 43432
+S
+#43434
+Along the cathedral wall~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see a trail along the cathedral wall.
+~
+~
+0 0 43435
+D2
+You see some graves.
+~
+~
+0 0 43440
+D3
+You see a bend in the trail.
+~
+~
+0 0 43433
+S
+#43435
+Along the cathedral wall~
+You are walking along a trail through the graveyard.  You can hear muffled
+groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see the trail along the cathedral wall.
+~
+~
+0 0 43436
+D2
+You see some graves.
+~
+~
+0 0 43441
+D3
+You see a trail along the cathedral wall.
+~
+~
+0 0 43434
+S
+#43436
+Near the cathedral door~
+You are very close to the doors of the cathedral and you can hear muffled crys
+of pain.  Perhaps the undead keep their prisoners within...    
+~
+434 0 0 0 0 2 255 0
+D1
+You see the area before the cathedral doors.
+~
+~
+0 0 43412
+D3
+You see a trail along the cathedral wall.
+~
+~
+0 0 43435
+S
+#43437
+By the graves~
+You see several tombstones lying shattered around and parts of the ground look
+as if something large forced its way out of the earth.    
+~
+434 64 0 0 0 2 255 0
+D1
+You see a trail though the graves.
+~
+gate~
+2 43411 43425
+S
+#43438
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 2 255 0
+D2
+You see a trail though the graves.
+~
+~
+0 0 43427
+S
+#43439
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 2 255 0
+D2
+You see a trail though the graves.
+~
+~
+0 0 43428
+S
+#43440
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see a path along the cathedral wall.
+~
+~
+0 0 43434
+S
+#43441
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see a path along the cathedral wall.
+~
+~
+0 0 43435
+S
+#43442
+The entrance to the mausoleum~
+The air here is dry and musty making hard to breathe.  There is dead silence
+except for a scuttling noise coming from the south.    
+~
+434 13 0 0 0 0 255 0
+D0
+You see a large stone door.    
+~
+~
+0 0 43428
+D2
+It is too dark to see.
+~
+~
+0 0 43443
+S
+#43443
+In the mausoleum~
+The air is very dry and musty here, making it hard to breathe.  There is a
+scuttling noise coming from all around you now.  You can also hear the sound of
+metal grating against metal.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see the entrance to the mausoleum.    
+~
+~
+0 0 43442
+D1
+It is too dark to see.
+~
+~
+0 0 43447
+D2
+It is too dark to see.
+~
+~
+0 0 43444
+D3
+It is too dark to see.
+~
+~
+0 0 43445
+S
+#43444
+In the mausoleum~
+The air is very dry and musty here, making it hard to breathe.  There is a
+scuttling noise coming from all around you now.  You can also hear the sound of
+metal grating against metal.    
+~
+434 9 0 0 0 0 255 0
+D0
+It is too dark to see.    
+~
+~
+0 0 43443
+D1
+It is too dark to see.
+~
+~
+0 0 43448
+D3
+It is too dark to see.
+~
+~
+0 0 43446
+S
+#43445
+Sarcophagus room~
+This room looks as if it was once richly appointed, but the effects of time and
+looters has left it bare.  There is an air of old death here.    
+~
+434 9 0 0 0 0 255 0
+D1
+It is too dark to see.
+~
+~
+0 0 43443
+S
+#43446
+Sarcophagus room~
+This room looks as if it was once richly appointed, but the effects of time and
+looters has left it bare.  There is an air of old death here.    
+~
+434 9 0 0 0 0 255 0
+D1
+It is too dark to see.
+~
+~
+0 0 43444
+S
+#43447
+Sarcophagus room~
+This room looks as if it was once richly appointed, but the effects of time and
+looters has left it bare.  There is an air of old death here.    
+~
+434 393225 0 0 0 0 255 0
+D3
+It is too dark to see.
+~
+~
+0 0 43443
+S
+#43448
+Sarcophagus room~
+This room looks as if it was once richly appointed, but the effects of time and
+looters has left it bare.  There is an air of old death here.    
+~
+434 9 0 0 0 0 255 0
+D3
+It is too dark to see.
+~
+~
+0 0 43444
+S
+#43449
+A dead end trail~
+You are walking down a dead end trail.  Graves line the trail to the north and
+south, while the path heads east and west.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see a trail.
+~
+~
+0 0 43450
+D2
+You see some graves.
+~
+~
+0 0 43461
+D3
+You see the entrance to the graveyard.
+~
+~
+0 0 43404
+S
+#43450
+A dead end trail~
+You are walking down a dead end trail.  Graves line the trail to the north and
+south, while the path heads east and west.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see a trail.
+~
+~
+0 0 43451
+D3
+You see a trail.
+~
+~
+0 0 43449
+S
+#43451
+A dead end trail~
+You are walking down a dead end trail.  Graves line the trail to the north and
+south, while the path heads east and west.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see the end of the trail.
+~
+~
+0 0 43452
+D2
+You see some graves.
+~
+~
+0 0 43462
+D3
+You see a trail.
+~
+~
+0 0 43450
+S
+#43452
+End of the trail~
+You are walking down a dead end trail.  The path leads west, while graves lie
+to the north, south, and east.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see some graves.
+~
+~
+0 0 43464
+D2
+You see some graves.
+~
+~
+0 0 43463
+D3
+You see a trail.
+~
+~
+0 0 43451
+S
+#43453
+Near the cathedral door~
+You are very close to the doors of the cathedral and you can hear muffled crys
+of pain.  Perhaps the undead keep their prisoners within...    
+~
+434 0 0 0 0 2 255 0
+D1
+You see a trail along the cathedral wall.
+~
+~
+0 0 43454
+D3
+You see the entrance to the cathedral.
+~
+~
+0 0 43412
+S
+#43454
+A dead end trail along the cathedral wall~
+You are walking along a dead end trail that follows the wall of the cathedral.
+Something glitters on the ground here.  As you look more closely, you notice
+that it is glass from a stained glass window to the north.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see a broken stained glass window.
+~
+stained glass window~
+1 0 43455
+D1
+You see the trail.
+~
+~
+0 0 43456
+D3
+You see a trail along the cathedral wall.
+~
+~
+0 0 43453
+S
+#43455
+A darkened room~
+This room has been ravaged by the elements because of the broken window.  It
+appears to have once been an office as there is still a desk and several chairs
+rotting with age.  You spot a door to the north.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see a barred door
+~
+barred door~
+2 0 43400
+D2
+You see a broken stained glass window.
+~
+stained glass window~
+1 0 43454
+S
+#43456
+A dead end trail along the cathedral wall~
+You are walking along a dead end trail along the cathedral wall.  You can hear
+muffled groaning and the sounds of bones rubbing together.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see the end of the trail.
+~
+~
+0 0 43457
+D2
+You see some graves.
+~
+~
+0 0 43460
+D3
+You see the trail.
+~
+~
+0 0 43454
+S
+#43457
+The end of the trail~
+You have reached the end of the trail.  Graves lie to the east and south, while
+the path heads to the west.    
+~
+434 0 0 0 0 2 255 0
+D1
+You see some graves.
+~
+~
+0 0 43458
+D2
+You see some graves.
+~
+~
+0 0 43459
+D3
+You see a trail.
+~
+~
+0 0 43456
+S
+#43458
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 0 255 0
+D3
+You see the end of the trail.
+~
+~
+0 0 43457
+S
+#43459
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 2 255 0
+D0
+You see the end of the trail.
+~
+~
+0 0 43457
+S
+#43460
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see the trail.
+~
+~
+0 0 43456
+S
+#43461
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see a trail.
+~
+~
+0 0 43449
+S
+#43462
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see a trail.
+~
+~
+0 0 43451
+S
+#43463
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.
+~
+434 0 0 0 0 2 255 0
+D0
+You see the end of the trail.
+~
+~
+0 0 43452
+S
+#43464
+By the graves~
+Standing by the graves you see several tombstones that have been broken or
+toppled.
+~
+434 0 0 0 0 2 255 0
+D3
+You see the end of the trail.
+~
+~
+0 0 43452
+S
+#43465
+A path to the Tower of Mourning~
+You are walking along a path leading to the Tower of Mourning.
+~
+434 0 0 0 0 0 255 0
+D1
+You see the entrance to the Tower of Mourning.
+~
+~
+0 0 43466
+D3
+You see the center of the graveyard.
+~
+~
+0 0 43408
+S
+#43466
+Before the Tower of Mourning~
+You stand before the Tower of Mourning.  The Tower supposedly contains rooms
+for grieving families and friends to privately mourn those that have passed on.
+According to rumor, people have jumped from the top of the tower in fits of
+grief.    
+~
+434 0 0 0 0 0 255 0
+D1
+You see a large glass door.
+~
+glass large door~
+1 0 43467
+D3
+You see a path.
+~
+~
+0 0 43465
+S
+#43467
+Inside the Tower of Mourning~
+This room is lined with old benches along the walls and a large desk in the
+center of the room.  Heavy tapestries are draped on the walls depicting
+artistic renditions of the Tower of Mourning.  You spot a door on the east
+wall.    
+~
+434 0 0 0 0 0 255 0
+D1
+You see an iron bound door.
+~
+ironbound door~
+1 0 43468
+D3
+You see a large glass door.
+~
+glass large door~
+1 0 43466
+S
+#43468
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see a stairwell.
+~
+~
+0 0 43469
+D3
+You see an iron bound door.
+~
+ironbound door~
+1 0 43467
+S
+#43469
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echos of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D2
+You see a stairwell.
+~
+~
+0 0 43468
+D4
+You see a stairwell.
+~
+~
+0 0 43470
+S
+#43470
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 0 0 0 0 0 255 0
+D1
+You see the stairwell.
+~
+~
+0 0 43471
+D2
+You see a battered oak door.
+~
+oak battered door~
+1 0 43486
+D5
+You see a stairwell.
+~
+~
+0 0 43469
+S
+#43471
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D2
+You see the stairwell.
+~
+~
+0 0 43472
+D3
+You see the stairwell.
+~
+~
+0 0 43470
+S
+#43472
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see the stairwell.
+~
+~
+0 0 43471
+D1
+You see a battered oak door.
+~
+door battered oak~
+1 0 43487
+D3
+You see the stairwell.
+~
+~
+0 0 43473
+S
+#43473
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see the stairwell.
+~
+~
+0 0 43474
+D1
+You see the stairwell.
+~
+~
+0 0 43472
+S
+#43474
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D2
+You see the stairwell.
+~
+~
+0 0 43473
+D3
+You see a battered oak door.
+~
+door battered oak~
+1 0 43488
+D4
+You see the stairwell.
+~
+~
+0 0 43475
+S
+#43475
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 0 0 0 0 0 255 0
+D1
+You see a stairwell.
+~
+~
+0 0 43476
+D2
+You see a battered oak door.
+~
+door battered oak~
+1 0 43489
+D5
+You see the stairwell.
+~
+~
+0 0 43474
+S
+#43476
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D2
+You see a stairwell.
+~
+~
+0 0 43477
+D3
+You see a stairwell.
+~
+~
+0 0 43475
+S
+#43477
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see a stairwell.
+~
+~
+0 0 43476
+D1
+You see a battered oak door.
+~
+door battered oak~
+1 0 43490
+D3
+You see a stairwell.
+~
+~
+0 0 43478
+S
+#43478
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see a stairwell.
+~
+~
+0 0 43479
+D1
+You see a stairwell.
+~
+~
+0 0 43477
+S
+#43479
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 0 0 0 0 0 255 0
+D2
+You see a stairwell.
+~
+~
+0 0 43478
+D3
+You see a battered oak door.
+~
+door battered oak~
+1 0 43491
+D4
+You see a stairwell.
+~
+~
+0 0 43480
+S
+#43480
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D1
+You see a stairwell.
+~
+~
+0 0 43481
+D2
+You see a battered oak door.
+~
+door battered oak~
+1 0 43492
+D5
+You see a stairwell.
+~
+~
+0 0 43479
+S
+#43481
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D2
+You see a stairwell.
+~
+~
+0 0 43482
+D3
+You see a stairwell.
+~
+~
+0 0 43480
+S
+#43482
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see a stairwell.
+~
+~
+0 0 43481
+D1
+You see a battered oak door.
+~
+door battered oak~
+1 0 43493
+D3
+You see a stairwell.
+~
+~
+0 0 43483
+S
+#43483
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 0 0 0 0 0 255 0
+D0
+You see a stairwell.
+~
+~
+0 0 43484
+D1
+You see a stairwell.
+~
+~
+0 0 43482
+S
+#43484
+Inside the stairwell~
+Worn marble steps wind their way to the top of the tower.  The scent of old
+blood and mold permeate the air here and large cobwebs hang from the ceiling
+like a death shroud.  You hear ghostly echoes of pain and suffering rebounding
+off the walls.    
+~
+434 0 0 0 0 0 255 0
+D2
+You see a stairwell.
+~
+~
+0 0 43483
+D3
+You see a battered oak door.
+~
+door battered oak~
+1 0 43494
+D4
+You see the top of the stairwell.
+~
+~
+0 0 43485
+S
+#43485
+The top of a long climb~
+You have reached the end of your long climb and stand at the top of the stairs.
+The scent of blood is now overwhelming and the cobwebs pulse with the beating
+of your mortal heart.  There is a sense of undeniable and ancient evil that
+permeates your soul.    
+~
+434 524301 0 0 0 0 255 0
+D0
+You see a beautifully carved door.
+~
+door beautiful carved~
+1 0 43495
+D5
+You see a stairwell.
+~
+~
+0 0 43484
+S
+#43486
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see a battered oak door.
+~
+oak battered door~
+1 0 43470
+S
+#43487
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 9 0 0 0 0 255 0
+D3
+You see a battered oak door.
+~
+door battered oak~
+1 0 43472
+S
+#43488
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 9 0 0 0 0 255 0
+D1
+You see a battered oak door.
+~
+door battered oak~
+1 0 43474
+S
+#43489
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see a battered oak door.
+~
+door oak battered~
+1 0 43475
+S
+#43490
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 0 0 0 0 0 255 0
+D3
+You see a battered oak door.
+~
+door battered oak~
+1 0 43477
+S
+#43491
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 9 0 0 0 0 255 0
+D1
+You see a battered oak door.
+~
+door battered oak~
+1 0 43479
+S
+#43492
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 9 0 0 0 0 255 0
+D0
+You see a battered oak door.
+~
+door battered oak~
+1 0 43480
+S
+#43493
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 9 0 0 0 0 255 0
+D3
+You see a battered oak door.
+~
+door battered oak~
+1 0 43482
+S
+#43494
+A chamber of mourning~
+Thick, moth-eaten carpet covers the floor and what was once expensive furniture
+is arranged along the walls.  Tapestries depicting beautiful sunrises have been
+defiled with symbols of death and insanity written in blood.    
+~
+434 9 0 0 0 0 255 0
+D1
+You see a battered oak door.
+~
+door battered oak~
+1 0 43484
+S
+#43495
+A grisly chamber~
+A blast of bone chilling cold air swirls around this room, seemingly draining
+any creatures life away.  There are several blood-red velvet chairs scattered
+around and a large throne made of undead flesh near the north wall.
+~
+434 -2147483640 0 0 0 0 255 0
+D0
+~
+chamber door~
+2 43412 43496
+D2
+You see a beautifully carved door.
+~
+door beautiful carved~
+1 0 43485
+E
+suffer4~
+You can feel the last of your life leaching from your bones into the cold!
+~
+E
+suffer3~
+Your limbs begin to go numb as they shake violently in the freezing wind!
+~
+E
+suffer2~
+You begin to shiver uncontrollably!
+~
+E
+suffer1~
+The freezing cold chills you to the bones!
+~
+E
+max_dam~
+50
+~
+E
+min_dam~
+10
+~
+S
+#43496
+Salvation~
+The chamber opens into a large, well-lit and, aside from the vortex on the
+opposite side, empty room.  There is a sublime feeling of serenity emmenating
+from the room, compelling you to stay within its grasp.  The walls, a perfectly
+worked white marble seemingly untouched by the ravages of time, stretch
+steadfastly upwards, holding up the large dome top of the tower.  Why such a
+holy place exists in the heart of an evil and dreary place no man can be sure,
+but the vileness of the monsters seems to be repelled by the sanctity of the
+room, preventing them from desecrating this hallowed ground.    
+~
+434 393756 0 0 0 0 255 0
+D2
+~
+chamber door~
+2 43412 43495
+S
+#43497
+Mob Chute # 3~
+You are in an unfinished room.
+~
+434 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 43485
+D1
+~
+~
+0 0 43468
+D2
+~
+~
+0 0 43473
+D3
+~
+~
+0 0 43477
+D4
+~
+~
+0 0 43482
+S
+#43498
+Mob Chute # 2~
+This is a MOB chute..  you shouldnt be here.
+~
+434 524288 4 0 0 0 255 0
+D0
+~
+~
+0 0 43457
+D1
+~
+~
+0 0 43452
+S
+#43499
+a Mob Chute~
+You should not be here.  This is a mob chute.
+~
+434 2621440 4 0 0 0 255 0
+D0
+~
+~
+0 0 43424
+D1
+~
+~
+0 0 43420
+D2
+~
+~
+0 0 43434
+D3
+~
+~
+0 0 43433
+D4
+~
+~
+0 0 43428
+D5
+~
+~
+0 0 43407
+S
+$~

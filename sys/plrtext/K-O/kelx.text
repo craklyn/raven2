@@ -1,0 +1,35 @@
+words c ' word of recall' group
+a ass cambruin
+v c 'heal' cambruin
+word c 'word of recall'
+ass c 'assistant'
+rp c'remove poison' $*
+armors cast 'armor' group
+harm CAST 'HARM' $*
+wa wake;stand
+spiders s;w;w;w;u;n;n;e;u;s;e;w;n;w;s;w;d;w;w
+cf cast 'create food'
+fair s;s;e;e;s;d;w;s;s;s;s;s;s;e;e;e;e;e;e;e;u;n;w;w;w;w;n;n;n;n;n;n;n
+cure cast 'cure critic' $*
+armor cast 'armor' $*
+ward cast 'ward' $*
+see cast 'infravision'
+call cast 'call lightning' $*
+heal cast 'heal' $*
+cw cast 'create water' $*
+say say &11C&00&13l&00&04e&00&11r&00&13i&00&04c&11$* &00&13C&04l&00&11e&00&13r&00&04i&00&11c&00
+x cast 'earthquake' $*
+regen cast 'regenerate' $*
+blind cast 'blindness' $*
+fly cast 'fly' $*
+life cast 'sense life' $*
+y remove lock;wear an
+di cast 'detect invisibility' $*
+sanc cast 'sanc' $*
+eb cast 'create food';cast 'create food';eat way;eat way
+r rec elv $*
+gv c 'heal' group
+sum c 'summon' $*
+bless c 'bless' $*
+rc c 'remove curse' $*
+g get all kelx;wear all;get all kelx; wear all

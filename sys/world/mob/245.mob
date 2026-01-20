@@ -1,0 +1,187 @@
+#24500
+A W 0~
+deer buck stag enclave~
+a deer~
+A deer looks at you with fear in its eyes.
+~
+That's one nice looking deer.
+~
+18588 0 0 0 1064 0 0 0 1000
+25 5 -1 1d1+50 8d7+0
+100 100
+9 9 1 23 4 23
+#24501
+A W 0~
+rabbit bunny hare enclave~
+the rabbit~
+A small rabbit nibbles at a leaf here.
+~
+It's a small, furry rodent with big ears.
+~
+18588 0 0 0 1064 0 0 0 1000
+25 7 -1 1d1+25 8d7+0
+58 100
+9 9 1 23 4 23
+#24502
+A W 0~
+squirrel enclave~
+the squirrel~
+A squirrel spots you and runs around a tree!
+~
+   Its a small, brown squirrel.  Kind of like a
+fuzzy high-tension spring.
+~
+18588 0 0 0 1064 0 0 0 1000
+25 7 -1 1d1+25 8d7+0
+58 100
+9 9 1 4 23 4
+#24503
+C W 0~
+orc hunter enclave~
+the orc hunter~
+An orc hunter looks at you with hateful eyes.
+~
+   He looks angry, desperate, and maybe a little sick.
+His green skin is definitely mottled, and he seems to
+limp a little bit...
+~
+18588 0 0 0 1064 0 0 0 -1000
+25 7 -1 1d1+200 8d7+0
+100 100
+9 9 1 0 -1 -1
+#24504
+C W 0~
+orc chief enclave~
+the orc chief~
+The orc chief growls at you.
+~
+   He wears a crown of oak leaves to show he's a 
+leader.  He carries a club to show he's a warrior.  
+You wonder how good he is at both.
+~
+18590 0 0 0 1064 0 0 0 -1000
+25 7 -1 1d1+350 8d7+0
+100 100
+9 9 1 0 -1 -1
+#24505
+C W 0~
+orc woman enclave~
+the orc woman~
+An orc woman stands here, frightened of you.
+~
+   As you stare her down, she raises her hands slowly,
+as if to say, 'Don't kill me'.
+~
+18588 0 0 0 1064 0 0 0 -1000
+25 7 -1 1d1+100 8d7+0
+100 100
+9 9 2 0 -1 -1
+#24506
+C W 0~
+orc child enclave~
+the orc child~
+An orc child frantically searches for her mother.
+~
+She's raggedy, and seems to be covered with sores.
+~
+18588 0 0 0 1064 0 0 0 -1000
+20 10 -1 1d1+50 8d7+0
+100 100
+9 9 2 0 -1 -1
+#24507
+C W 0~
+orc woman enclave~
+the orc woman~
+A pregnant orc woman tries to stand to flee from you.
+~
+   She's too far gone to move very quickly.  You could
+kill her easily.
+~
+18588 0 0 0 1064 0 0 0 -1000
+25 7 -1 1d1+100 8d7+0
+100 100
+7 7 2 0 -1 -1
+#24508
+C W 0~
+orc mutant mutated enclave~
+the mutant orc~
+A mutant orc lies here, barely alive.
+~
+   Its body has been twisted beyond all hope.
+Its dying, and nothing will stop that.
+~
+18588 0 0 0 1064 0 0 0 -1000
+25 7 -1 1d1+200 8d7+0
+100 100
+4 4 1 0 -1 -1
+#24509
+C W 0~
+orc mutant mutated enclave~
+the mutated orc~
+A horribly mutated orc stands here, gibbering.
+~
+   It doesn't even appear to have registered your
+arrival...its just talking to itself.  Its body
+is a twisted wreck of orc, man, beast, and what-
+not.
+~
+18588 0 0 0 1064 0 0 0 -1000
+25 7 -2 1d1+150 8d7+0
+100 100
+9 9 1 0 -1 -1
+#24510
+E M 0~
+wizard elf elven Elstar enclave~
+Elstar~
+An elven wizard is here.  He looks angry.
+~
+   He looks at you archly as he wonders why you've
+invaded his domain.  No matter...it shouldn't be
+too hard for him to destroy you, no?
+~
+542766 0 0 0 1192 0 0 0 -1000
+25 15 -2 1d1+400 8d7+1
+90 270
+9 9 1 0 -1 -1
+#24511
+E M 0~
+child elf elven apprentice enclave~
+the elven child~
+An elven child casts his fishing pole into the river.
+~
+   He looks young and innocent.  You wonder what
+he's doing here.
+~
+16394 0 0 0 1064 0 0 0 500
+10 10 -2 1d1+400 8d7+0
+100 200
+9 9 1 0 -1 -1
+#24512
+C W 0~
+mutant thing enclave~
+the mutant~
+A mutant...thing rushes at you!
+~
+   It might've been an orc, once.  Now its
+a living terror, pushing everything out of
+its way to get at you.
+~
+542760 0 0 0 0 0 0 0 -1000
+25 5 -2 2d6+500 8d7+2
+100 100
+9 9 0 0 -1 -1
+#24513
+N W 0~
+mutant thing enclave~
+the Thing~
+A mutant...thing tries to get you, but cannot move into range!
+~
+   It might've been an orc, once.  Now its
+a living terror, pushing everything out of
+its way to get at you.
+~
+542766 0 0 0 0 0 0 0 -1000
+25 10 -2 2d6+600 8d7+2
+100 100
+9 9 0 0 -1 -1
+$

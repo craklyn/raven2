@@ -1,0 +1,252 @@
+#3400
+U W 0~
+skeleton bony~
+the bony skeleton~
+A bony skeleton is here.
+~
+Brown bones with tufts of clothing still hanging from them.  This
+skeleton looks very mindless but still dangerous ...
+~
+40 0 0 0 0 0 0 0 0
+1 20 9 1d1+19 1d6+0
+35 40
+9 9 1 0 -1 -1
+#3401
+U W 0~
+undead zombie~
+the undead zombie~
+An undead zombie sits here munching on something ...
+~
+His body is totally white and slowly rotting away.  Each Zombie looks
+quite different from the next because they were, of course, once alive and
+human.
+~
+16424 0 0 0 40 0 0 0 -100
+4 17 6 1d1+49 1d8+0
+35 40
+9 9 1 0 -1 -1
+#3402
+U W 0~
+undead ghoul~
+the ghoul~
+A ghoul is here staring at you hungrily.
+~
+The ghoul no longer resembles the adventurer he once was.  Nonetheless
+he looks like he hasn't forgot his fighting skills.
+~
+16428 0 0 0 8 0 0 0 -500
+6 15 4 1d1+79 2d5+1
+35 40
+9 9 1 0 -1 -1
+#3403
+U M 0~
+undead wraith~
+the wraith~
+You spot a wraith advancing towards you from the shadows.
+~
+The wraith no longer has a material form.  He is wearing a tattered
+black robe which hides all but the darkness of his face and the glimmer
+in his eyes.
+~
+16424 0 0 0 42 0 0 0 -750
+12 9 2 1d1+149 3d6+0
+35 40
+9 9 1 0 -1 -1
+#3404
+V M 0~
+undead guardian vampire~
+the guardian vampire~
+A vampire is here hiding his face from your light source.
+~
+The guardian vampire looks quite EVIL.  Just by looking at him the hair on your
+arms raises. He looks mighty tough to be just a minor minion.
+~
+42 0 0 0 40 0 0 0 -1000
+28 0 -4 1d1+385 4d5+15
+40 40
+9 9 1 0 -1 -1
+#3405
+H C 0~
+priest~
+the priest~
+A priest of God stands here solemnly speaking words of praise.
+~
+Obviously a goodly man, you feel closer to God just by gazing upon this man.
+Dressed in white, fine white hair, and a soft slightly wrinkled face ...
+this man has a sacred beauty.  You see a halo around his head.
+~
+2058 0 0 0 168 0 0 0 1000
+15 5 -5 15d15+150 1d4+8
+35 40
+9 9 1 0 -1 -1
+#3406
+A M 0~
+Mi-Go Fungi~
+the Mi-Go~
+A Mi-Go is crawling here.
+~
+Mi-Go, the Fungi from Yuggoth ... it is a pinkish being about five feet long;
+with a crustaceous body bearing a vast pair of membranous wings and several
+sets of articulate limbs, body a sort of convoluted ellipsoid, covered with
+multitudes of very small antennae, where a head would ordinarily be.  These
+beings sometimes walk on all their legs and sometimes on the hind pair only.
+~
+16424 0 0 0 0 0 0 0 -500
+12 9 2 12d12+120 2d7+2
+35 40
+9 9 0 0 -1 -1
+#3407
+U M 0~
+nightgaunt~
+the nightgaunt~
+A nightgaunt is standing here
+~
+... shocking and uncouth black thing with smooth, oily, skin, unpleasant horns
+that curve inward toward each other, bat wings whose beating make no sound,
+ugly prehensile paws, and a barbed tail that lashes disquietingly.  And worst
+of all, it makes absolutely no sound or speech and smiles not at all because
+it has no face, only a suggestive blackness where a face ought to be ...
+~
+104 0 0 0 98304 0 0 0 -1000
+10 11 1 10d10+100 2d6+3
+35 40
+9 9 0 0 -1 -1
+#3408
+U R 0~
+hunting horror~
+the hunting horror~
+The hunting horror is here in wait of an unwary traveler.
+~
+Serving Nyarlathotep and Roch'tar, these beings are hunting for victims.
+They resemble enormous ropy black serpents or worms possessing bat-like or
+umbrella-like wings.  Their forms continually shift and change, twitching
+and writhing, so it is hard to look at them.  They speak in great harsh
+voices.  A hunting horror is HUGE, normally around 40 feet long.
+~
+40 0 0 0 40 0 0 0 -1000
+20 1 -5 20d20+200 3d6+12
+40 40
+9 9 0 0 -1 -1
+#3409
+P W 0~
+weeds~
+some cave weeds~
+Some weeds are creeping across the floor.
+~
+Just some unpleasant looking vine-like growths ...
+~
+44 0 0 0 98312 0 0 0 0
+6 15 4 1d1+75 1d8+1
+35 40
+9 9 0 0 -1 -1
+#3410
+U W 0~
+snapper joe~
+Snapper Joe~
+Snapper Joe is standing here leering at you chillingly.
+~
+What an ugly fiend! He is about 6'6'' and has mostly greenish skin with
+bright red hair. Half his face is burnt off and he has a perpetual smile.
+He is called up from his service in hell in order to aid the Undying One.
+~
+10 0 0 0 8 0 0 0 -750
+20 0 -1 1d1+365 4d3+15
+40 40
+9 9 1 0 -1 -1
+#3411
+U M 0~
+X-ist eater~
+the X-ist flesh eater~
+An X-ist flesh eater is sitting here munching on some coffin remains
+~
+A large hairy monstrous beast, the only LIVE thing you have seen down here.
+It stands approximately 8 feet tall and hunches over to fit in this
+small room.  It has a pair of tremendous claws that it uses to rip and tear.
+It has dog-like face except ... different.  Bright glowing eyes and a grimace
+lead you to believe that he knew that you were coming.
+~
+22574 0 0 0 33960 0 0 0 -1000
+50 0 -1 1d1+215 8d7+25
+80 90
+9 9 1 0 -1 -1
+#3412
+U M 0~
+spirit ghost king crotus~
+the spirit of King Crotus~
+The spirit of King Crotus is floating lazily above the floor.
+~
+Floating above the ground here and looking a bit dead, he whispers
+softly into the air:
+
+    The forces of evil have unlocked my spirit as
+    well as one other.  Free me from this misery,
+    anyone that can hear. The peace of the grave
+    calls me but I am blocked from its quiet.
+~
+22574 0 0 0 33960 0 0 0 350
+20 0 -1 1d1+500 4d6+5
+40 40
+9 9 1 0 -1 -1
+#3413
+A W 0~
+rock slug~
+the rock slug~
+A rock slug is slowly creeping along, leaving a slime trail behind it.
+~
+It is a large brownish slug.  Got any salt?  Didn't think so ...
+~
+12 0 0 0 0 0 0 0 0
+3 18 7 1d1+42 1d7+0
+35 40
+9 9 0 0 -1 -1
+#3414
+H W 0~
+etcher~
+the mad etcher~
+The mad etcher is sitting here babbling to himself and working on the wall.
+~
+Quite insane, the mad etcher has been here for two decades.  His hair is
+white; he babbles nonsense to himself; a layer of dust covers his out-of-date
+clothing; and he seems to be working on the same portion of the wall near
+the base ... oh and he seems quite blind.
+
+He leers insanely at you and says 'heh heh what can I do for you children?
+Please don't mind my wife, she is always like that ... hello dear can you
+make some tea for our company?  Oh good!  Now sit right down will you?
+Would you like hot or cold tea?  Yes the weather is ...'
+
+And on he babbles ...
+~
+72 0 0 0 1 0 0 0 1000
+5 5 3 1d1+80 2d6+1
+35 40
+7 7 1 0 -1 -1
+#3415
+U M 0~
+wife ghost specter~
+the spectral etcher's wife~
+The spectral wife of the etcher is very faintly floating here.
+~
+You can barely make her out ... though it almost makes you vomit.
+She is missing half her head.  The remaining half is smashed in horribly like
+she took a nasty fall.  Her one damaged eye hangs on its own.  She smiles
+insanely at you thru a broken jaw and missing teeth.  One hand of hers is
+resting on the shoulder of the etcher ... her husband.
+~
+10 0 0 0 65536 0 0 0 1000
+7 14 4 1d1+86 2d4+3
+35 40
+9 9 2 0 -1 -1
+#3416
+U W 0~
+body~
+the half-decomposed body~
+A half-decomposed body is lying in the corner here.
+~
+YUK! It's ugly, disgusting ... it smells ... it also moves a bit!
+~
+44 0 0 0 0 0 0 0 -350
+6 15 4 1d1+80 2d5+1
+35 40
+9 9 1 0 -1 -1
+$

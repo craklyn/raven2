@@ -1,0 +1,24 @@
+g c 'heal' ram
+` get all corp;wie staff;wear all;get all corp
+cb cast 'cure blind' $*
+fly cast 'fly' $*
+life cast 'sense life
+infra cast 'infra
+di cast 'detect invis' $*
+x cast 'earth
+earth cast ' earth '$*
+wa wake;stand
+go nosummon;norecall
+ooc ooc &09[&10|&09]&00&14$* &00&09[&10|&09]&00
+clan clan &09[&10|&09]&00&14$* &00&09[&10|&09]&00
+gs gt &09[&10|&09]&00&14$* &00&09[&10|&09]&00
+say say &09[&10|&09]&00&14$* &00&09[&10|&09]&00
+sum c 'summon'$*
+sense c 'sense'$*
+arm cast 'armor'$*
+b c ' blind '$*
+ww c ' word of recall'$*
+ward c 'ward'$*
+h c 'heal'$*
+f get bread bee;eat brea
+r cast 'word' $*

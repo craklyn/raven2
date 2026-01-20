@@ -1,0 +1,48 @@
+rp cast 'remove poison' $*
+rc c 'rem curse' $*
+h ca 'heal' $*
+light ca 'call lightning' $*
+o order follower $*
+remc cast 'remove curse' $*
+earthq cast 'earthquake'&*
+food cast 'create food';give way $*
+911 get all all.nallim;wear all;wie war;hol holy;dest nallim
+rel cast 'relocate' $*
+r cast 'revive' $*
+ban cast 'banish' $*
+cl cast 'cleanse' $*
+samhall e;e;e;e;e;s;s;s;s;s;e;say horse;e;n
+fs cast 'flame strike' $*
+dis cast 'dishearten' $*
+saga cast 'sagacity' $*
+harm cast 'harm' $*
+rempal cast 'remove paralysis' $*
+' say &10$* &00
+remp cast 'remove poison' $*
+male cast 'maledict' $*
+fort cast 'fortify' $*
+as cast 'assistant'
+re cast 'word of recall' $*
+b cast 'blindness' $*
+reg cast 'regen' $*
+di cast 'detect invis' $*
+infra cast 'infravision' $*
+sen cast 'sense life'
+fly cast 'fly' $*
+ward cast 'ward' $*
+fw clanwho
+g gt &10$* &00 
+f clan &10$* &00 
+bless cast 'bless' $*
+arm cast 'armor' $*
+sum cast 'summon' $*
+dusts w;w;s;s;s;s;e;e;e;open gate
+tit title &08T&10h&11e &13Faerie &00Grandmother&00
+calm cast 'calm' $*
+hw cast 'holy word'
+detal cast 'detect alignment' $*
+word ca 'word of recall' $*
+flame ca 'flame strike' $*
+cb ca 'cure blind' $*
+sanc cast 'sanctuary' $*
+det cast 'detect invis'

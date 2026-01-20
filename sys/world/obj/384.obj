@@ -1,0 +1,314 @@
+#38400
+board bulletin~
+the Solamnic Knight Guild Idea Board~
+A tall board for comments on the guild of Solamnics stands here proudly.~
+NOACTDESC~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38401
+board bulletin challenge~
+the Solamnic Knight Board of Challenge~
+The board of challenge for the solamnic knights stands here.~
+NOACTDESC~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38402
+pedestal~
+a pedestal~
+An ornate pedestal stands here.~
+NOACTDESC~
+15 2 0 0 0 0 0 0 0
+100 15 -1 0
+1000 0 100
+E
+pedestal icon~
+   This pedestal holds the Guild Icon, worn only by the proven master of their
+guild.    
+~
+B
+0 0 0 0
+#38403
+icon grand knight guild_item~
+Icon of the Grand Knight~
+A small glowing orb spins about aimlessly here.~
+~
+11 57671247 32 0 0 65537 0 0 0
+0 0 0 0
+3 100000 1020
+E
+icon guild_item grand knight~
+This item belongs only to that who holds the title of Master for their guild.
+~
+A
+17 -10
+A
+17 -10
+A
+20 -5
+A
+24 -5
+A
+19 3
+B
+0 0 0 0
+#38404
+map layout diagram solgaard keep~
+the knight's keep map~
+A layout of Solgaard Keep is engraved in the tunnel wall here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+2 3 0
+E
+map layout diagram solgaard keep~
+                                 Podium                 N
+                                   |                   W+E
+                       J O U S T I N G    F I E L D     S
+                                   |
+                     Stables  Chamber of the Grand Knight
+                        |          | 
+                      ------------------------ 
+        Blacksmith---|    Keep Courtyard      |----Room of the Kingfisher
+        Shopkeep-----|    Keep Courtyard      |----Guild Training
+        Armory-------|    Keep Courtyard      |----Chapel (Regen) 
+                      ------------------------
+                                   |  
+Western Tower--You Are HERE--Keep Entrance--Eastern Tower
+                     |(drawbridge)
+              Before the Keep
+~
+B
+0 0 0 0
+#38405
+bow recurve archer~
+a recurve bow~
+A recurve bow crafted for the solamnic knights lies here on its side.~
+~
+6 6909960 32 0 0 16385 0 0 0
+1 2 1 0
+10 10 0
+B
+0 0 0 0
+#38406
+arrow sheaf arrow quiver~
+a quiver of arrows~
+A leather quiver of arrows lies here.~
+A sheaf arrow~
+7 8220936 32 0 0 16385 0 0 0
+1 8 1 10
+2 100 0
+B
+0 0 0 0
+#38407
+chest silver oak~
+a storage chest of silver and oak~
+A large chest of oak and silver lies here.~
+~
+15 0 4096 0 0 0 0 0 0
+300 5 -1 0
+100 0 300
+B
+0 0 0 0
+#38408
+chest iron oak~
+a storage chest of iron and oak~
+A large chest of iron and oak lies here.~
+~
+15 0 0 0 0 0 0 0 0
+300 5 -1 0
+100 0 300
+B
+0 0 0 0
+#38409
+chest silver oak~
+a storage chest of silver and oak~
+A large chest of oak and silver lies here.~
+~
+15 0 0 0 0 0 0 0 0
+300 5 -1 0
+100 0 300
+B
+0 0 0 0
+#38410
+chest iron oak~
+a storage chest of iron and oak~
+A large chest of iron and oak lies here.~
+~
+15 0 0 0 0 0 0 0 0
+300 5 -1 0
+100 0 300
+B
+0 0 0 0
+#38411
+fountain solamnic~
+solgaard fountain.~
+An ivory kingfisher spews water into a small fountain here.~
+~
+23 0 0 0 0 0 0 0 0
+100000 100000 0 0
+1000 0 0
+E
+ivory kingfisher fountain solgaard~
+   This fountain was a gift from the wood elves of Haon-Dor to the Knights of
+Samsera.  It is made of thick ivory and artfully sculpted with the Knights
+symbol at the top.    
+~
+B
+0 0 0 0
+#38412
+silver rose holy symbol~
+a silver rose~
+A shining silver rose has been left here in the dirt.~
+~
+1 7273728 4128 0 0 16385 0 0 0
+0 0 -1 0
+2 1000 1000
+E
+rose silver~
+   This rose has been blessed by the gods and gives off a slight magical glow,
+lighting the path of a knight in need.    
+~
+B
+0 0 0 0
+#38413
+white shield silver~
+a white shield trimmed with silver~
+A loyal knight's shield lies on the ground before you.~
+~
+9 7271680 4128 0 0 513 0 0 0
+9 0 0 0
+13 43000 210
+E
+white shield~
+   This shield can deflect a barrage of arrows or even the swing of a blunt
+weapon.  It bares the mark of the Solamnic Knight guild.    
+~
+A
+13 10
+A
+12 10
+A
+17 -3
+B
+0 0 0 0
+#38414
+silver cuirass~
+a silver embezzled cuirass~
+A gleaming cuirass emblazoned by the insignia of the White Rose lies here.~
+~
+9 7337216 4128 0 0 9 0 0 0
+10 0 0 0
+25 50000 205
+E
+silver cuirass ~
+   The cuirass is fortified with heavy steel and trimmed with silver.  Even the
+sharpest blade would have difficulty piercing this armor.    
+~
+A
+19 1
+A
+5 1
+A
+17 -3
+B
+0 0 0 0
+#38415
+shining steel broadsword~
+a shining steel broadsword~
+A finely forged broadsword, the weapon of any good knight, lies here.~
+~
+5 5174592 32 0 0 8193 0 0 0
+0 10 2 3
+18 75000 325
+E
+shining steel broadsword~
+   This sword has an edge that could literally cut through bone.  It bares the
+mark of the Solamnic Knight guild.    
+~
+A
+18 2
+A
+1 1
+B
+0 0 0 0
+#38416
+plated war boots~
+a pair of plated war boots~
+A fine pair of plated boots sit here side by side.~
+~
+9 5239808 32 0 0 65 0 0 0
+10 0 0 0
+15 45000 240
+E
+plated war boots~
+   These fine pair of boots would serve any Knight well.  They bare the mark of
+the Solamnic Knight guild.    
+~
+A
+19 1
+A
+2 1
+A
+14 10
+B
+0 0 0 0
+#38417
+bronze chest~
+a reinforced bronze chest~
+A bronze chest with the insignia of the Solamanic Order is bolted securely to the floor.~
+~
+15 0 0 0 0 0 0 0 0
+2500 5 -1 0
+800 0 2500
+E
+bronze chest~
+   This bronze chest has been used by Solamnic Knights over the decades that
+have returned from quests and adventures overburdened with rare objects.  
+Knights always give more than they take and this has been clearly demonstrated
+by the amount of objects overflowing from this chest.    
+~
+B
+0 0 0 0
+#38418
+oak round table~
+an oaken round table~
+A huge solid oak roundtable stretches across the room.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+2000 80000 0
+E
+oak round table~
+   This roundtable has been a furnishing addition inside the KingFisher room
+for decades.  Many feasts, truces, political discussions, and plans for war
+have been tailored upon this oaken landmark.    
+~
+B
+0 0 0 0
+#38420
+war pike rose~
+the war pike of the Rose~
+A gigantic war pike has been left on the ground.~
+~
+5 7271488 262144 0 0 8193 0 0 0
+0 12 2 22
+26 35000 695
+E
+war pike rose~
+   This gigantic war pike is a sharp tipped spear, used specifically by
+Solamnic Knight's on foot.  It bares the mark of the Solamnic Knight guild.  
+
+~
+A
+19 2
+A
+13 8
+B
+0 0 0 0
+$~

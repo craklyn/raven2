@@ -1,0 +1,15 @@
+cc cas 'char corpse'  $*
+gt gtell &11$* &00
+inv cas 'invis' $*
+bb eat bre
+dr drink thimb
+infra cas 'infra'
+ld cas 'life drain' $*
+di cas 'det inv' $*
+kk kil 2.
+sh cas 'shield' $*
+sp cas 'soul pierce' $*
+bli cas 'blind' $*
+x get all corpse
+z des corpse
+fly cas 'fly' $*

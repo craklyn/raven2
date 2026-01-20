@@ -1,0 +1,19 @@
+cf cast 'fletch' $*
+fl cast 'forest lore'
+ent cast 'entangle' $*
+sh cast 'shield' $*
+str cast 'strength' $*
+ff cast 'fleet foot' $*
+ch e;e;e;e;e;s;s;s;s;s;e;say the horse with no name
+' say &02$* &00
+fw clanwho
+ref c 'refresh' $*
+wake wake;stand;look
+f clan &09$* &11
+g gt &09$* &00
+o order follower $*
+shoot get arr quiv;shoot arr;put arr quiv
+sht get arr quiv;shoot arr $1 $2;put arr quiv
+call cast 'call of the wild'
+cow cast 'call of the wild'
+911 get all nogre;wie mallet;hold bow;wear lad cloak;wear all;dest nogre

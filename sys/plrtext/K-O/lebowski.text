@@ -1,0 +1,24 @@
+6 get all all.cor
+5 kill ruf
+gt gtell &08$*&00
+3 where;scan
+0 assist
+ca c 'chaos armor' 
+tb tell boraj ON $*
+tn tell boraj ON $*
+da c 'detect align' $*
+ad c 'animate dead' $*
+b bash $*;stand
+bd c 'black dart' $*
+arm c 'armor' $*
+pfg c 'protection from good' $*
+1 get all corpse
+2 destroy corpse
+r rescue $*
+rr rec rec $*
+di c 'detect invis' $*
+reg c 'regen' $*
+aoa c 'aura'
+br get bread pou;eat bread
+df get thimb pou;drink thimb;drink thimb;drink thimb;put thimb pou
+5k ill ruf

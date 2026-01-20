@@ -1,0 +1,120 @@
+#29800
+Ish's &08F&05u&10n&11 Z&03o&02n&01e&00~
+   This is for room changes to Raven, quest stuff, and general debauchery.
+~
+298 1104 4 0 0 9 255 0
+S
+#29801
+Lost Tourist Spawn Room (EXP) NOT USED~
+This room spawns lost tourists (with torches) with 1 million points of
+experience and wizslaps around the MUD.
+~
+298 1088 4 0 0 0 255 0
+S
+#29802
+Lost Tourist Spawn Room (QP)~
+This room spawns lost tourists (with torches) with 1 QP (SOLO) and wizslaps them
+around the MUD.
+~
+298 1088 4 0 0 0 255 0
+S
+Z 29855
+#29803
+Lost Tourist Spawn Room (GOLD)~
+   This room spawns lost tourists (with torches) with 250K in gold and wizslaps
+them around the MUD.
+~
+298 1088 4 0 0 0 255 0
+S
+Z 29835
+#29804
+Piglet #1 Teleport Room~
+   This is where &12piglet&00 #1 loads - then wanders to one of six rooms.
+~
+298 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 18001
+D1
+~
+~
+0 0 20684
+D2
+~
+~
+0 0 34677
+D3
+~
+~
+0 0 43412
+D4
+~
+~
+0 0 5036
+D5
+~
+~
+0 0 32450
+S
+#29805
+Piglet #2 Teleport Room~
+   This is where &12piglet&00 #2 loads - then wanders to one of six rooms.
+~
+298 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 30601
+D1
+~
+~
+0 0 23441
+D2
+~
+~
+0 0 41099
+D3
+~
+~
+0 0 32687
+D4
+~
+~
+0 0 13177
+D5
+~
+~
+0 0 37150
+S
+#29806
+Piglet #3 Teleport Room (10 QP)~
+   This is where &12piglet&00 #3 loads - then wanders to one of six rooms.
+~
+298 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 5879
+D1
+~
+~
+0 0 15799
+D2
+~
+~
+0 0 40412
+D3
+~
+~
+0 0 3776
+D4
+~
+~
+0 0 2535
+D5
+~
+~
+0 0 30893
+S
+$~

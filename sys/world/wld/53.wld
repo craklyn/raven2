@@ -1,0 +1,1304 @@
+#5301
+Ershteep Road~
+   You are standing on a thin trail only wide enough for two. The
+trail was once, apparently, the middle of a large and busy
+thoroughfare. It now lies overgrown by thick, impassable forest to
+the east and west. The trail leads further north where a small
+cottage becomes apparent and south towards the Mountains of Moria.
+~
+53 0 0 0 0 3 255 0
+D0
+More trail and a cottage
+~
+~
+0 -1 5302
+D2
+~
+~
+0 0 12129
+S
+#5302
+Ershteep Road~
+   You are standing on a thin trail only wide enough for two. The
+trail was once, apparently, the middle of a large and busy
+thoroughfare. It now lies overgrown by thick, impassable forest to
+the east and west. The trail leads further north where a small
+cottage lies in a clearing and south towards the Mountains of Moria.
+~
+53 0 0 0 0 3 255 0
+D0
+More trail and a cottage
+~
+~
+0 -1 5303
+D2
+Nearer the city, less dense forest.
+~
+~
+0 -1 5301
+S
+#5303
+Ershteep Road~
+You are standing on a bend of a thin trail only wide enough for
+two. The trail was once, apparently, the middle of a large and
+busy thoroughfare. It now lies overgrown by thick, impassable
+forest to the east. The trail leads further south and west. To the
+north a small cottage lies in a natural clearing. It looks
+deserted.
+~
+53 0 0 0 0 3 255 0
+D0
+A cottage, the front door is open
+~
+~
+0 -1 5304
+D2
+A trail through the forest.
+~
+~
+0 -1 5302
+D3
+A trail through the forest.
+~
+~
+0 -1 5305
+S
+#5304
+A deserted cottage~
+   Once inside you see that the former inhabitants of this cottage
+left in a hurry. There seems to be much that was left lying about.
+Now after many years only the things that aren't of much use lie
+here under a thick layer of dust. There is a fireplace in the
+north wall over which a large painting hangs. The only apparent
+exit is south.
+~
+53 8 0 0 0 0 255 0
+D0
+A fireplace
+~
+fireplace lock grate~
+2 5301 5352
+D2
+A door back to the outside world!
+~
+~
+0 -1 5303
+E
+painting picture~
+   A wonderfully crafted oil which depicts a scene outside a
+jewellers in a busy city street.
+~
+E
+lock grate~
+   A lock made of a fine metal seems to be locking the grate in
+place.
+~
+E
+fireplace~
+   It looks like an ordinary fireplace but then a lock on the
+grate catches your eye. You have a distinct feeling they key is
+not here!
+~
+S
+#5305
+Ershteep Road~
+You are standing on a thin trail only wide enough for
+two. The trail was once, apparently, the middle of a large and
+busy thoroughfare. It now lies overgrown by thick, impassable
+forest to the north and south. The trail leads further east and
+west. To the northeast a small cottage lies in a natural clearing.
+It looks deserted.
+~
+53 0 0 0 0 3 255 0
+D1
+More trail
+~
+~
+0 -1 5303
+D3
+More trail
+~
+~
+0 -1 5306
+S
+#5306
+Ershteep Road~
+You are standing on a thin trail only wide enough for
+two. The trail was once, apparently, the middle of a large and
+busy thoroughfare. It now lies overgrown by thick, impassable
+forest to the west and south. The trail leads further east and
+north.
+~
+53 0 0 0 0 3 255 0
+D0
+More trail
+~
+~
+0 -1 5307
+D1
+More trail
+~
+~
+0 -1 5305
+S
+#5307
+Ershteep Road~
+You are standing on a thin trail only wide enough for
+two. The trail was once, apparently, the middle of a large and
+busy thoroughfare. It now lies overgrown by thick, impassable
+forest to the north and east and leads straight up a very large
+mountain. The trail leads further south and west. You see a
+plateau where the trail disappears to the west.
+~
+53 0 0 0 0 5 255 0
+D2
+More trail
+~
+~
+0 -1 5306
+D3
+More trail
+~
+~
+0 -1 5308
+S
+#5308
+Ershteep Road~
+You are standing at a triple junction. To the north you see a
+wide boulevard, to the east a narrow trail leads down the hill
+and to the west there is a large, open field. The way south is
+blocked by forest.
+~
+53 0 0 0 0 5 255 0
+D0
+More road
+~
+~
+0 -1 5310
+D1
+More trail
+~
+~
+0 -1 5307
+D3
+A field
+~
+~
+0 -1 5309
+S
+#5309
+An open field~
+   You stand on one of the many concentric grassy rings of this
+field. In the centre of the field a large unfamiliar tree is
+growing surrounded by a ring of earth then a ring of grass and
+so on so that a pattern of concentric circles emerges. You
+feel a strange power coming from the tree but as you try to
+approach it you suddenly feel quite rejected. There is an exit
+to the east back to the trail. The forest is too thick to
+penetrate here.
+~
+53 0 0 0 0 2 255 0
+D1
+The trail again
+~
+~
+0 -1 5308
+S
+#5310
+Ershteep Road~
+   The road here is wider and seemingly more traveled. The
+road leads north and south and is surrounded by impassable
+forest its the east and west sides. On the horizon you see a
+large city wall.
+~
+53 0 0 0 0 3 255 0
+D0
+A road
+~
+~
+0 -1 5311
+D2
+A road
+~
+~
+0 -1 5308
+S
+#5311
+Outside the city wall~
+   As you stand before the city a very strange feeling
+overwhelms you. You get a sensation of great disaster but also
+a sense of lasting peace. The gates stand before you wide open
+and unattended. The road leads south and underneath the bridge
+you stand on lies a moat running east-west.
+~
+53 0 0 0 0 1 255 0
+D0
+The city.
+~
+~
+0 -1 5314
+D2
+A road.
+~
+~
+0 -1 5310
+E
+moat~
+You look into the murky water below you and surmise that
+jumping in there would not be a wise thing to do. A number of
+rather heavy objects seem to be floating on the surface!
+~
+S
+#5312
+Dead end~
+The passage way ends here where a door in the west wall leads
+further into the wall. The smell that comes from there tends to
+indicate that it leads ito the sewers.
+~
+53 12 0 0 0 0 255 0
+D1
+A dimly lit passageway
+~
+~
+0 -1 5313
+D3
+A door
+~
+door~
+2 5302 5356
+E
+door~
+A narrow wooden door with a rusted keyhole.
+~
+S
+#5313
+East-West Passage~
+   You stand in a dimly lit passage way inside the city wall.
+To the west is the main city gate and east leads further into
+the darkness. It seems to be a dead end.
+~
+53 8 0 0 0 0 255 0
+D1
+The city gates
+~
+~
+0 -1 5314
+D3
+An apparent dead end
+~
+~
+0 -1 5312
+S
+#5314
+City Gates~
+   You stand inside the wall of the city whee  thousands of feet
+have trod. To the south lies the relative safety of Ershteep
+Road, to the east and west lie dim passages into the wall and
+north you can see into the city. Strangely no normal city
+sounds seem to come from within!
+~
+53 8 0 0 0 0 255 0
+D0
+The city of Orshingal
+~
+~
+0 -1 5319
+D1
+A dim passage
+~
+~
+0 -1 5315
+D2
+Ershteep Road
+~
+~
+0 -1 5311
+D3
+A dim passage
+~
+~
+0 -1 5313
+S
+#5315
+East-West Passage~
+    You stand in an dimly lit east-west passage inside the city
+wall. East lies the city gate and west seems to lead to a dead
+end.
+~
+53 8 0 0 0 0 255 0
+D1
+A seemingly dead end
+~
+~
+0 -1 5316
+D3
+City gates
+~
+~
+0 -1 5314
+S
+#5316
+Dead end~
+The passage way ends here where a door in the west wall leads
+further into the wall. The smell that comes from there tends to
+indicate that it leads into the sewers.
+~
+53 12 0 0 0 0 255 0
+D1
+A door
+~
+door~
+2 5302 5356
+D3
+A dimly lit passageway
+~
+~
+0 -1 5315
+E
+door~
+A narrow wooden door with a rusted keyhole.
+~
+S
+#5317
+On a Road~
+You stand at a corner of a road which follows to city wall
+around. Through huge amounts of rubble to see that the road
+leads north and west from here.
+~
+53 0 0 0 0 1 255 0
+D0
+On a Road
+~
+~
+0 -1 5323
+D1
+On a Road
+~
+~
+0 -1 5318
+S
+#5318
+On a Road~
+   You stand on a road which leads both east and west from here. To
+the north is a broken down, old building.
+~
+53 0 0 0 0 1 255 0
+D0
+An old building
+~
+~
+0 -1 5324
+D1
+A junction
+~
+~
+0 -1 5319
+D3
+Road
+~
+~
+0 -1 5317
+S
+#5319
+Inside the main gates~
+You stand inside the main gates of Orshingal, a city in ruins.
+The cities invaders seemed to take no care in their attack and
+bodies and rubble line the streets. From here roads lead
+north, east and west. South leads back to the city
+gates.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5325
+D1
+Road
+~
+~
+0 -1 5320
+D2
+City gates
+~
+~
+0 -1 5314
+D3
+Road
+~
+~
+0 -1 5318
+S
+#5320
+On a Road~
+You stand on a road which though covered in bodies and rubble
+seems to lead both east and west from here. To the north is a
+mystic temple, strangely intact.
+~
+53 0 0 0 0 1 255 0
+D0
+A temple
+~
+~
+0 -1 5326
+D1
+Road
+~
+~
+0 -1 5321
+D3
+A junction
+~
+~
+0 -1 5319
+S
+#5321
+On a Road~
+   You stand at a bend in the road. The road continues north and west
+from here.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5327
+D3
+Road
+~
+~
+0 -1 5320
+S
+#5322
+On a Road~
+You stand at a bend in the ruined road. The road apparently
+leads north and east from here.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5329
+D1
+Road
+~
+~
+0 -1 5323
+S
+#5323
+On a Road~
+You stand at a bend in the old road. It continues south and east
+through much rubble and many decaying bodies.
+~
+53 0 0 0 0 1 255 0
+D2
+Road
+~
+~
+0 -1 5317
+D3
+Road
+~
+~
+0 -1 5322
+S
+#5324
+Armoury~
+   This ransacked shop once was an armoury and there are many pieces of
+ancient armour all rusting on the floor. There is a locked cabinet on the
+floor which seems to have been overlooked. Doors lead to the north and
+south.
+~
+53 8 0 0 0 0 255 0
+D0
+A foyer
+~
+~
+0 -1 5331
+D2
+Road
+~
+~
+0 -1 5318
+S
+#5325
+A wide street~
+    A cobblestone street, meandering through the town. To the north is a
+large square dominated by a rather large mound in the centre with a tree on
+it. South is a junction of this street and another road.
+~
+53 0 0 0 0 1 255 0
+D0
+A square
+~
+~
+0 -1 5338
+D2
+A junction
+~
+~
+0 -1 5319
+S
+#5326
+South Chapel of the Temple~
+You are at the south end of the great temple. It is bedecked
+with many ancient symbols and artifacts. The strange thing about
+this temple is that unlike the rest of the city it seems to be
+quite well kept. An exit lies to the south and the main hall
+lies to the north.
+~
+53 12 0 0 0 0 255 0
+D0
+The main hall
+~
+~
+0 -1 5332
+D2
+An exit back to the street
+~
+~
+0 -1 5320
+E
+symbols~
+Strange symbols all in yellow and black are written on the walls. You have
+never seen anything like it before in your life. The strangest thing is
+that you seem to think the symbols say something important.
+~
+S
+#5327
+On a Road~
+   A bend in the road. This was obviously where a great battle
+was fought as the stench here is overpowering. The road
+continues south and east from here.
+~
+53 0 0 0 0 1 255 0
+D1
+Road
+~
+~
+0 -1 5328
+D2
+Road
+~
+~
+0 -1 5321
+S
+#5328
+On a Road~
+   The road heads north and west at this point because at this
+point, what is left of the city wall dictates that it does.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5334
+D3
+Road
+~
+~
+0 -1 5327
+S
+#5329
+On a Road~
+   You stand on a north-south section of the road. The city wall is
+west of here and an old building lies to the east.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5335
+D1
+An old building
+~
+~
+0 -1 5330
+D2
+Road
+~
+~
+0 -1 5322
+S
+#5330
+Weaponry~
+   This shop has been looted and pillaged many times and now all that is
+left are broken swords and a few scabbards. There is an awful lot of blood
+on the walls and a pile of bones lies behind the counter. There is an exit
+to the west and a small foyer lies east of here.
+~
+53 8 0 0 0 0 255 0
+D1
+A foyer
+~
+~
+0 -1 5331
+D3
+An exit to the street
+~
+~
+0 -1 5329
+E
+bones~
+The last remains of the weaponsmith.
+~
+S
+#5331
+A small foyer~
+   This is a small room which connects three shops: The Armoury,
+Weaponry and Jewellery. These lie to the south, west and north
+respectively.
+~
+53 8 0 0 0 0 255 0
+D0
+The Jewellery
+~
+~
+0 -1 5337
+D2
+The Armoury
+~
+~
+0 -1 5324
+D3
+The Weaponry
+~
+~
+0 -1 5330
+S
+#5332
+The Main Hall~
+   Amazing patterns and dazzling images crowd your mind.
+Swirling visual illusions make you reel and almost fall over.
+There are exits north and south to small chapel like areas and
+in the east wall a small door leading who knows where?
+~
+53 8 0 0 0 0 255 0
+D0
+A chapel
+~
+~
+0 -1 5339
+D1
+A large jarrah door
+~
+door~
+2 -1 5333
+D2
+A chapel
+~
+~
+0 -1 5326
+S
+#5333
+Cleric's Sanctum~
+   You feel quite out of place in here. On the walls lie shelves
+which haven't seen the love of a cleaner in what is apparently
+centuries. Many books lie about them and there are some scrolls
+on the table before you. You suddenly feel uneasy and you look
+around.
+~
+53 8 0 0 0 0 255 0
+D3
+A door
+~
+door~
+2 -1 5332
+S
+#5334
+A street~
+   The road runs north-south here and there is a vile stench
+coming from a grate at the base of the wall. You expect there
+are sewers down there.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5341
+D1
+The city wall and a grate
+~
+grate~
+2 -1 5355
+D2
+Road
+~
+~
+0 -1 5328
+E
+grate~
+It looks unlocked.
+~
+S
+#5335
+On a Road~
+   At this point you can see through a hole in the wall of the
+city and see that there is a large plain to the east and moving
+around you see a large mountain to the north. The road turns to
+the south and east here.
+~
+53 0 0 0 0 1 255 0
+D1
+Road
+~
+~
+0 -1 5336
+D2
+Road
+~
+~
+0 -1 5329
+S
+#5336
+On a Road~
+   The rubble lined road leads north and west from here.
+Through the debris you see that the road leads distantly to the
+north where the remnants of the wall impede its progress and it
+turns east.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5342
+D3
+Road
+~
+~
+0 -1 5335
+S
+#5337
+Jewellery~
+   With little regard for years of timeless work, the cities
+destroyers have badly damaged this place. You can see little of
+any value here. The bones of the shopkeeper lie where he fell
+and they may still clutch something!
+~
+53 8 0 0 0 0 255 0
+D1
+The City Square can be seen through the broken door.
+~
+~
+0 -1 5338
+D2
+A door to a small foyer
+~
+~
+0 -1 5331
+S
+#5338
+The City Square~
+   In the centre of this large square, perched on the top of a
+small hillock, is an all to unfamiliar tree. Radial lines of
+grass feed out from the tree and you feel a sense of power
+radiating from it. Exits lie north and south along a
+cobblestone street and east and west lead into buildings.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5344
+D1
+The temple
+~
+~
+0 -1 5339
+D2
+Road
+~
+~
+0 -1 5325
+D3
+An old, broken down building
+~
+~
+0 -1 5337
+D4
+Up to the tree
+~
+~
+0 -1 5359
+E
+tree~
+Why not go and take a closer look yourself?
+~
+S
+#5339
+North Chapel~
+   The dim candle light and smell of insence makes your head spin and
+you get the feeling that you could very well be in for a bit of
+peril in here! There is an exit to the west and the Main Hall lies
+to the south.
+~
+53 8 0 0 0 0 255 0
+D2
+You see the main hall of the temple
+~
+~
+0 -1 5332
+D3
+A door back to the outside
+~
+~
+0 -1 5338
+S
+#5340
+On a Road~
+   The rubble lined road leads north and east from here.
+Through the debris you see that the road leads distantly to the
+north where the remnants of the wall impede its progress and it
+turns east.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5346
+D1
+Road
+~
+~
+0 -1 5341
+S
+#5341
+On a Road~
+   The rubble lined road leads south and west from here.
+~
+53 0 0 0 0 1 255 0
+D2
+Road
+~
+~
+0 -1 5334
+D3
+Road
+~
+~
+0 -1 5340
+S
+#5342
+On a Road~
+   The rubble lined road leads north-south here. A small house lies
+to the east but no door is apparent in the wall.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5347
+D2
+Road
+~
+~
+0 -1 5336
+S
+#5343
+Small House~
+   This small house, once occupied, now lies in ruins. There are
+lots of food scraps on the floor here and some clothes lie strewn on
+the floor. Looks tidy eh?
+~
+53 9 0 0 0 0 255 0
+D0
+The door out!
+~
+~
+0 -1 5348
+S
+#5344
+A wide street~
+    A cobblestone street, meandering through the town. To the south is a
+large square dominated by a rather large mound in the centre with a tree on
+it. North is a junction of this street and another road. Small homes
+can be seen east and west of here.
+~
+53 0 0 0 0 1 255 0
+D0
+A junction
+~
+~
+0 -1 5349
+D2
+A square
+~
+~
+0 -1 5338
+S
+#5345
+Small House~
+   This small house, once occupied, now lies in ruins. There are
+lots of food scraps on the floor here and some clothes lie strewn on
+the floor. Looks tidy eh?
+~
+53 9 0 0 0 0 255 0
+D0
+The door out!
+~
+~
+0 -1 5350
+S
+#5346
+On a Road~
+   The rubble lined road leads north-south here. A small house lies
+to the west but no door is apparent in the wall.
+~
+53 0 0 0 0 1 255 0
+D0
+Road
+~
+~
+0 -1 5351
+D2
+Road
+~
+~
+0 -1 5340
+S
+#5347
+On a Road~
+   The road turns here and leads south and east. To the north the
+city wall lies in complete ruin and all the city which was beyond it
+is now just wasteland. You get a strange sense of fear as you get
+closer to the wall. There is no way through all the rubble, luckily.
+~
+53 0 0 0 0 1 255 0
+D1
+Road
+~
+~
+0 -1 5348
+D2
+Road
+~
+~
+0 -1 5342
+S
+#5348
+On a Road~
+   The road leads east-west and a door into a small, dark house
+leads south.
+~
+53 0 0 0 0 1 255 0
+D1
+Road
+~
+~
+0 -1 5349
+D2
+A small house
+~
+~
+0 -1 5343
+D3
+Road
+~
+~
+0 -1 5347
+S
+#5349
+Road Junction~
+   You stand at the junction of the two main roads in Orshingal.
+They lead south and east-west.
+~
+53 0 0 0 0 1 255 0
+D1
+Road
+~
+~
+0 -1 5350
+D2
+A wide street
+~
+~
+0 -1 5344
+D3
+Road
+~
+~
+0 -1 5348
+S
+#5350
+On a Road~
+   The road leads east-west and a door into a small, dark house
+leads south.
+~
+53 0 0 0 0 1 255 0
+D1
+Road
+~
+~
+0 -1 5351
+D2
+a ruined house
+~
+~
+0 -1 5345
+D3
+Road
+~
+~
+0 -1 5349
+S
+#5351
+On a Road~
+   The road turns here and leads south and west. To the north the
+city wall lies in complete ruin and all the city which was beyond it
+is now just wasteland. You get a strange sense of fear as you get
+closer to the wall. There is a path leading northwards through the 
+rubble.
+~
+53 0 0 0 0 1 255 0
+D0
+You see a pile of rubble~
+~
+0 -1 5360
+D2
+Road~
+~
+0 -1 5346
+D3
+Road~
+~
+0 -1 5350
+S
+#5352
+Fireplace~
+   You stand in this small dim fireplace your light source dancing
+merrily and making shadowy pictures on the walls. The grate lies to
+the south.
+~
+53 585 0 0 0 0 255 0
+D2
+A grate
+~
+grate door~
+2 5301 5304
+S
+#5353
+Sewer~
+   The stench is revolting! You see that the sewer here leads east
+and there is a door in the west wall.
+~
+53 9 0 0 0 0 255 0
+D1
+More sewer
+~
+~
+0 -1 5354
+D3
+A door
+~
+door sewer~
+2 5302 5316
+E
+door~
+A plain wooden door
+~
+S
+#5354
+Sewer~
+  The sewer leads both north and south from here.
+~
+53 9 0 0 0 0 255 0
+D0
+More sewer
+~
+~
+0 -1 5355
+D2
+More sewer
+~
+~
+0 -1 5353
+S
+#5355
+Sewer~
+   The sewer leads south from here and there is a grate in the
+ceiling.
+~
+53 9 0 0 0 0 255 0
+D2
+More sewer
+~
+~
+0 -1 5354
+D4
+A city street
+~
+grate ceiling~
+2 -1 5334
+S
+#5356
+Sewer~
+   The stench is revolting! You see that the sewer here leads west
+and there is a door in the east wall.
+~
+53 9 0 0 0 0 255 0
+D1
+A door
+~
+door sewer~
+2 5302 5312
+D3
+More sewer
+~
+~
+0 -1 5357
+E
+door~
+A plain wooden door
+~
+S
+#5357
+Sewer~
+  The sewer leads both north and south from here.
+~
+53 9 0 0 0 0 255 0
+D0
+More sewer
+~
+~
+0 -1 5358
+D2
+More sewer
+~
+~
+0 -1 5356
+S
+#5358
+Sewer~
+   Apparently this is a dead end with the only exit being south.
+~
+53 9 0 0 0 0 255 0
+D2
+More sewer
+~
+~
+0 -1 5357
+S
+#5359
+By the tree~
+   Here, by the tree lie lots of bones and many bodies. There is an
+exit down. You might get to use it!
+~
+53 0 0 0 0 1 255 0
+D5
+The square
+~
+~
+0 -1 5338
+S
+#5360
+A pile of rubble~
+   You are standing on top of a pile of rubble.  To the north, a trail 
+leads from the ruined city towards a dark forest.  It is very frightening
+to consider what is ahead
+~
+53 0 0 0 0 0 255 0
+D0
+~
+~
+0 -1 5361
+D2
+~
+~
+0 -1 5351
+S
+#5361
+A winding trail~
+   You are on a winding trail, leading from the city of Orshingal northwards,
+into a dark, and tangled forest.  However, the forest is so thick that
+it is impassable!
+~
+53 0 0 0 0 0 255 0
+D2
+~
+~
+0 -1 5360
+S
+#5362
+Thick Brush~
+   You are pushing your way through thick brush that tugs and pulls at
+the equipment you are wearing.  It looks as if you can push east into a
+denser forest or west on the path to Moria.
+~
+53 0 0 0 0 3 255 0
+D1
+You see a denser forest.
+~
+~
+0 -1 5301
+D3
+~
+~
+0 -1 5363
+S
+#5363
+Thick Brush~
+   You are pushing your way through even more thick brush that continues 
+east and west.
+~
+53 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 5362
+D3
+~
+~
+0 -1 5364
+S
+#5364
+Thick Brush~
+   You are pushing your way through even more thick brush that continues 
+east and west.
+~
+53 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 5363
+D3
+~
+~
+0 -1 5365
+S
+#5365
+Thick Brush~
+   Continuing to push your way through thick brush that tugs and pulls at
+your equipment, you see that the thick brush continues east and west.  
+~
+53 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 5364
+D3
+~
+~
+0 -1 5366
+S
+#5366
+Thick Brush~
+   You are pushing your way through thick brush that tugs and pulls at
+the equipment you are wearing.  The thick brush continues east, while to
+the west is the road that leads to Midgaard.  To the south you see what
+appears to be the base of a hive.
+~
+53 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 5365
+S
+$~

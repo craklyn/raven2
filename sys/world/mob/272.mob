@@ -1,0 +1,184 @@
+#27200
+H W 0~
+jermlaine guard 27200~
+a Jermlaine Guard~
+A Jermlaine Guard stands before the door.
+~
+The guard is dressed like the rest of his race.  A few rags 
+cover his loins along with other rag drappings.
+~
+4170 0 0 0 1084 0 0 0 -1000
+15 8 10 1d1+130 1d1+3
+35 40
+9 9 0 0 -1 -1
+#27201
+H W 0~
+jermlaine child 27201 brat~
+a jermlaine brat~
+A Jermlaine brat grabs on to your ankle and won't let go!
+~
+The little brat is quite ugly!  A couple of teeth stick out at 
+angles as the little kid smiles at you.
+~
+72 0 0 0 1084 0 0 0 -1000
+5 12 10 1d1+70 1d1+1
+35 40
+9 9 0 4 -1 -1
+#27202
+H C 0~
+jermlaine healer 27202~
+the Jermlaine Healer~
+The Jermlaine Healer bows as you enter his home.
+~
+The healer is dressed a bit more then his brother and sisters.
+The clothing is cheap and his appearance is quite atrocious.
+He has doubt that you are here for a good cause.
+~
+74 0 0 0 1084 0 0 0 -1000
+20 10 5 2d2+300 2d2+15
+40 40
+9 9 0 0 -1 -1
+#27203
+H M 0~
+jermlaine sorcerer 27203~
+the Jermlaine Sorcerer~
+The Jermlaine Sorcerer stares through you as you enter the room.
+~
+The Sorcerer is smaller then his brother and sisters.  This 
+Jermlaine has a head full of white hair and crystal red eyes.
+He is not happy with your presence.
+~
+74 0 0 0 5506108 0 0 0 -1000
+20 10 0 2d2+300 2d2+20
+40 40
+9 9 0 0 -1 -1
+#27204
+H W 0~
+warrior jermlaine 27204~
+a Jermlaine warrior~
+A Jermlaine warrior watches you carefully.
+~
+The warrior is a bit taller then average.  His muscle are a bit more 
+defined.  You are sure his skills are too.
+~
+4168 0 0 0 1084 0 0 0 -1000
+15 15 3 2d2+190 3d3+10
+35 40
+9 9 0 0 -1 -1
+#27205
+H W 0~
+jermlaine woman 27205~
+a Jermlaine woman~
+A jermlaine woman looks you up and down as you enter the room.
+~
+The woman is quite ugly!  Although you get the distinct feeling 
+that she sees you in a different light.  *shudder*
+~
+72 0 0 0 1084 0 0 0 -1000
+10 15 5 1d1+150 1d1+10
+35 40
+9 9 0 0 -1 -1
+#27206
+A W 0~
+bat 27206~
+a bat~
+A bat hangs from the ceiling here.
+~
+The bat hangs motionless as you look it over.  It's ears twitch
+as you make a move toward it.  You don't want to wake this guy!
+~
+131146 0 0 0 66621 0 0 0 -1000
+15 18 4 10d10+400 6d6+15
+35 40
+9 9 0 0 -1 -1
+#27222
+A W 0~
+cannonball cannon ball 27222~
+a cannonball~
+A large cannonball rest on the ground here.  Is it looking at you?
+~
+The cannonball seems to be here for a purpose.  What is that 
+purpose?  You?
+~
+528392 0 0 0 4260924 0 0 0 0
+25 7 0 10d10+500 12d3+10
+40 40
+9 9 0 0 -1 -1
+#27223
+N W 0~
+fireball fire ball 27223~
+a &01fireball&00~
+A large ball of fire burns you as you enter the room!
+~
+This guy is hot! LOOK OUT!
+~
+530184 0 0 0 4260924 0 0 0 0
+30 3 0 10d10+600 12d4+10
+50 60
+9 9 0 21 -1 -1
+#27280
+A W 0~
+frog 27280~
+&02a little green frog&00~
+A little green frog rest on a lillypad here.
+~
+Isn't he soooo cute!  Don't touch him, you might get warts!
+~
+72 0 0 0 328736 0 0 0 1000
+5 19 9 1d1+20 1d1+2
+35 40
+6 9 0 0 -1 -1
+#27281
+A W 0~
+crawdad 27281~
+a crawdad~
+A pair of eyes peep out of the water to get a look at you.
+~
+The crawdad known is some part as a crawfish or crayfish,
+is a delicate animal of the water.  He looks like he wants
+to play!
+~
+72 0 0 0 459808 0 0 0 1000
+4 18 10 1d1+1 1d1+5
+35 40
+9 9 0 0 -1 -1
+#27282
+A W 0~
+goldfish 27282~
+a goldfish~
+A small orange fin darts through the water here.
+~
+The goldfish is so pretty.  You think about catching it... if 
+only you had a fishbowl! *snap*
+~
+72 0 0 0 66592 0 0 0 1000
+5 18 10 1d1+15 1d1+4
+35 40
+9 9 0 0 -1 -1
+#27283
+A W 0~
+duck 27283~
+&03a little yellow duck&00~
+A little yellow duck is sitting on the water.
+~
+The little yellow duck is sitting on the water.  The little
+yellow duck is doing what he wants to.  He takes a bite of a 
+lillypad, licks his bill and he says, "I'm glad".  
+~
+8 0 0 0 65632 0 0 0 1000
+5 15 8 1d1+40 1d1+7
+35 40
+9 9 1 20 -1 -1
+#27284
+A W 0~
+tadpole 27284~
+a tadpole~
+A small tadpole plays in the water here.
+~
+The tadpole is all slimy and green! YUCK!
+~
+72 0 0 0 853024 0 0 0 1000
+2 19 10 1d1+10 1d1+2
+35 40
+9 9 0 20 -1 -1
+$

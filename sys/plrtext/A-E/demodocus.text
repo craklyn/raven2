@@ -1,0 +1,28 @@
+det c 'detect invis'
+k kick
+pfe c 'protection from good'
+dt c 'death touch' $*
+dart c 'black dart' $*
+word c 'unholy word'
+ani c 'ani' corp
+pest c 'pest'
+dis c 'dispel good' $*
+cl clan &00&07 $* &00
+chaos c 'chaos armor'
+' ' &07 $* &00
+gt gt &07 $* &00
+cwho clanwho
+aura c 'aura'
+blind c 'blind' $*
+fear c 'fear' $*
+bre c 'black breath' $*
+regen c 'regen' $*
+armor c 'armor' $*
+res rescue $*
+eye c 'eyes of the dead'
+f scan
+deta c 'detect align'
+curse c 'curse' $1
+j rescue $*
+title title : &01K&00&03night of the &01B&00&03lack&00 &01R&03ose&00
+g 

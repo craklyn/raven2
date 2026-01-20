@@ -1,0 +1,42 @@
+0 auc -info
+loot get all grim;wear all;get all grim;hold cat;wield spirit;dest grim
+deb c 'debil' $*
+slow c 'slow' $*
+life c 'life drain' $*
+sum c 'summon' $*
+sense c 'sense life
+age c 'age' $*
+cs c 'summon corpse' $*
+silence cast 'silence' $*
+invis cast 'invis' $*
+con cast 'consume' $*
+explode cast 'explode c' $*
+ent cast 'entomb' $*
+say say &06$* &00
+of order follower $*
+ch n;n;n;n;n;n;n;n;n;w;w;od
+gte gt &06$* &00
+emb get all all.corp;c 'embalm' $*
+wa wake;stand
+fly cast 'fly' $*
+charm cast 'charm corpse' $*;gr all
+blind cast 'blind' $*
+sp c 'soul pierce' $*
+infra c 'infra
+di c 'det invis' $*
+rp c 'resist poi' $*
+ed c 'energy drain' $*
+nox c 'nox' $*
+shield c 'shield' $*
+rune c 'create ward
+wraith c 'wraithf
+consume get all all.corp;c 'consume' $* 
+bone c 'bone' $*
+1 assist
+2 tos rev
+/ rec rec rec;d;enter port;enter pool;area
+] enter port;enter pool;area
+[ enter port;enter pool;area
+\ enter port;enter pool;area
+3 nudge rectifier
+title titl &01<&08^&10>&00&10Order of Darkness&10<&08^&00&01>&00

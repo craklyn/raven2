@@ -1,0 +1,30 @@
+1 cast 'relocate' vical
+elf emote elfs, '&15&01&25$* &00'
+no nod
+shout shou &00&06>&00&09--&00&06<&00&03$* &00&06>&00&09--&00&06<&00
+gs gtell &00&11>&00&08--&00&11<&00&13$* &00&11>&00&08--&00&11<&00
+gq gtell &02<&00&04<&00&02<&00&10$*&00 &02>&00&04>&00&02>&00
+ssay emote says '&18&09&25$* &00'
+out emote is experiencing a &22severe&00 lack of &18magical &13essence&00 - &25&15NO MANA!!!&00
+say say &00&02>&00&03--&00&02<&00&10$* &00&02>&00&03--&00&02<&00
+re cast 'revive' $*
+gt gtell &06>&00&09--&00&06<&00&14$* &00&06>&00&09--&00&06<&00
+word cast 'word of recall' $*
+arm cast 'armor' $*
+cf cast 'create food' ; eat way
+summ cast 'summon' $*
+cp des corp
+cb cast 'blind' $1
+bless cast 'bless' $*
+reg cast 'regen' $*
+ward cast 'ward' $*
+sanc cast 'sanctuary' $*
+inv cast 'det inv' $*
+unb cast 'cure blind' group
+ere say &12Maraxus&00&07$* &00 &12Blows&00
+ea eat $*
+db drink thimble
+gtel gtell &13$*&00
+clan clan &00&04>&13--&00&04<&11$* &00&04>&13--&00&04<&00
+2 kill 2.
+he cast 'heal' $*

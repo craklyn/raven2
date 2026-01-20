@@ -1,0 +1,20 @@
+ha cast 'haste' $*
+3 destroy myrcene
+2 wear all
+1 get all myrcene
+inv cast 'invisibility' $*
+shi cast 'shield' $*
+bli cast 'blind' $*
+z des corpse
+x get all corpse
+mm cast 'magic missile' $*
+ms cast 'monster summon'
+oo group all
+ok order follower kill $*
+op order follower $*
+ooo order follower stand
+oa order follower assist
+str cast 'strength' $*
+fb cast 'flame blade' $*
+awa cast 'awaken' $*
+inf cast 'infravision

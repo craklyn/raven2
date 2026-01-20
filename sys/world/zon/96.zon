@@ -1,0 +1,87 @@
+#96
+Drekken Noir~
+9654 25 2 0
+* mobs
+M 0 9600 1 9653   *      Xule
+E 1 9610 1 20	*		small globe
+Q 1 2 40	*		random item
+M 0 9601 1 9652 *        Midnight Guardian
+M 0 9602 1 9628 *        Forestmaster
+G 1 9604 1      *                cold sphere (key)
+E 1 9607 1 19   *                dark axe
+E 1 9609 1 4    *                broach
+M 0 9603 1 9635 *        Salek, Grand Archer
+G 1 9603 1      *                ebony leaf (key)
+E 1 9608 1 13   *                shadow sleeves
+M 0 9604 1 9634 *        Ragnun, Master Archer
+G 1 9602 1      *                black dart (key)
+M 0 9613 1 9616 *        ebony tree
+Q 1 2 40	*		random item
+M 0 9614 1 9617 *        ebony tree
+Q 1 2 40	*		random item
+M 0 9615 1 9618 *        ebony tree
+Q 1 2 40	*		random item
+M 0 9616 1 9619 *        ebony tree
+Q 1 2 40	*		random item
+M 0 9617 4 9654 *        forest guardian
+G 1 9605 25	*		swirling potion
+M 0 9617 4 9654 *        forest guardian
+G 1 9605 25	*		swirling potion
+M 0 9617 4 9654 *        forest guardian
+G 1 9605 25	*		swirling potion
+M 0 9617 4 9654 *        forest guardian
+G 1 9605 25	*		swirling potion
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9605 9 9654 *        woodsman (forest)
+M 0 9606 8 9625 *        woodsman (lodge)
+M 0 9606 8 9625 *        woodsman (lodge)
+M 0 9606 8 9625 *        woodsman (lodge)
+M 0 9606 8 9626 *        woodsman (lodge)
+M 0 9606 8 9626 *        woodsman (lodge)
+M 0 9606 8 9627 *        woodsman (lodge)
+M 0 9606 8 9627 *        woodsman (lodge)
+M 0 9606 8 9627 *        woodsman (lodge)
+M 0 9607 1 9626 *        woodsman (lodge/key mob)
+G 1 9600 1      *                dark key
+M 0 9608 1 9630 *        archer
+G 1 9601 1      *                bent arrow (key)
+G 1 9606 25     *                dark potion
+M 0 9609 1 9632 *        archer
+G 1 9606 25     *                dark potion
+M 0 9610 1 9637 *        archer
+G 1 9606 25     *                dark potion
+M 0 9611 1 9641 *        archer
+G 1 9606 25     *                dark potion
+M 0 9612 1 9645 *        archer
+G 1 9606 25     *                dark potion
+* doors
+D 0 9603 2 1    *        trunk @ area entrance
+D 0 9605 0 1
+D 0 9608 0 1    *        bush, under NW platform
+D 0 9609 2 1
+D 0 9614 0 1    *        trunk under Archer's Platform
+D 0 9615 2 1
+D 0 9621 0 1    *        bush, under NE platform
+D 0 9622 2 1
+D 0 9624 1 1    *        entrance to lodge
+D 0 9625 3 1
+D 0 9627 1 2    *        Forestmaster's door
+D 0 9628 3 2
+D 0 9633 2 2    *        entrance to hollow
+D 0 9634 0 2
+D 0 9634 4 2    *        hollow to loft
+D 0 9635 5 2
+D 0 9641 2 2    *        door on platform
+D 0 9647 0 2
+D 0 9652 2 2    *        midnight
+D 0 9653 0 2
+S
+#99999
+$~

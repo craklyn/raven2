@@ -1,0 +1,601 @@
+#22400
+Azar - Description room~
+This is a relatively small area describing the area surrounding a small
+colony of followers to the mad prophet Doomsbringer. He has taken his refuge
+into the sunken city of Azar.  Made by Dixie on Ravenmud, 1998  Apart from
+Doomsbringer himself no mobs here should pose no problem for a group using
+sanc. What makes doomsbringer special is that he will summon back people
+recalling and then if he succeeds he'll switch target to that person. Nasty
+for those trying to get away...
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22414
+D1
+~
+~
+0 0 22405
+D2
+~
+~
+0 0 22418
+D3
+~
+~
+0 0 22407
+D4
+~
+~
+0 0 22421
+D5
+~
+~
+0 0 22416
+S
+#22401
+Under a sinkhole~
+You are standing on the bottom of a sinkhole in the desert sands. The walls
+up are quite steep but you think you can make your way up if you are careful.
+Examining the walls carefully you see the entrance of a tunnel to your west.
+Perhaps that tunnel leads to something interesting.
+~
+224 5 0 0 0 0 255 0
+D3
+~
+~
+0 0 22402
+D4
+~
+~
+0 0 5036
+S
+#22402
+In a tunnel~
+This tunnel has been dug through the sand and the sides are hard packed. The 
+ceiling of this tunnel is about 7 feet high but you see no visible supports.
+The floor is worn as if many feet has been walking on it for a long time. 
+Examining the floor carefully you can deduce that most of the tracks seems to
+be made by some kind of giant insect. The tunnel continues north and east.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22403
+D1
+~
+~
+0 0 22401
+S
+#22403
+In a chamber~
+You are standing in a huge domed room dug in the hard packed sand. The ceiling
+arches up some 10 feet high but you see no visible support at all making you
+wonder what makes it stay up not avalanching down burying you under the sands
+of the desert forever. The floor is worn as if many feet has been walking on it
+for a long time, as in the tunnels a careful examination reveals to you that 
+most of the tracks seems to be made by giant insects. You can see exits to
+east,west, north and south.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22404
+D1
+~
+~
+0 0 22413
+D2
+~
+~
+0 0 22402
+D3
+~
+~
+0 0 22416
+S
+#22404
+In a chamber~
+You are standing in a huge domed room dug in the hard packed sand. The
+ceiling arches up some 10 feet high but you see no visible support at all
+making you wonder what makes it stay up not avalanching down burying you
+under the sands of the desert forever. The floor is worn as if many feet has
+been walking on it for a long time, as in the tunnels a careful examination
+reveals to you that most of the tracks seems to be made by giant insects.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22405
+D1
+~
+~
+0 0 22421
+D2
+~
+~
+0 0 22403
+S
+#22405
+In a chamber~
+You are standing in a huge domed room dug in the hard packed sand. The
+ceiling arches up some 10 feet high but you see no visible support at all
+making you wonder what makes it stay up not avalanching down burying you
+under the sands of the desert forever. The floor is worn as if many feet has
+been walking on it for a long time, as in the tunnels a careful examination
+reveals to you that most of the tracks seems to be made by giant insects. You
+see tunnels exiting the room to north, south and west.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22406
+D2
+~
+~
+0 0 22404
+D3
+~
+~
+0 0 22418
+S
+#22406
+In a tunnel~
+This tunnel has been dug through the sand and the sides are hard packed. The 
+ceiling of this tunnel is about 3 feet high leaving only space for one person
+at the time.
+The floor is worn as if many feet has been walking on it for a long time. 
+Examining the floor carefully you can deduce that most of the tracks seems to
+be made by some kind of giant insect.
+~
+224 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 22407
+D2
+~
+~
+0 0 22405
+S
+#22407
+In a tunnel~
+You have reached the end of a tunnel in the sands, from here the only way out 
+seems to be the way you arrived here through. As always the floor is covered 
+with tracks of giant insects, albeit they are fewer here in this dead-end.
+The only visible exit is to your west.
+~
+224 1 0 0 0 0 255 0
+D2
+~
+rock ~
+1 -1 22408
+D3
+~
+~
+0 0 22406
+S
+#22408
+In a tunnel~
+You have reached the end of a tunnel in the sands, from here the only way out 
+seems to be the way you arrived here through. To your north you see the 
+backside of a secret passage, and to your east the tunnel continues.
+~
+224 5 0 0 0 0 255 0
+D0
+~
+rock~
+1 -1 22407
+D1
+~
+~
+0 0 22409
+S
+#22409
+In a tunnel~
+This tunnel has been dug through the sand and the sides are hard packed. The 
+ceiling of this tunnel is about 7 feet high but you see no visible supports.
+The floor is worn as if many feet has been walking on it for a long time. 
+You can see the tunneling continuing west and east from here.
+~
+224 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 22410
+D3
+~
+~
+0 0 22408
+S
+#22410
+In a tunnel~
+This tunnel has been dug through the sand and the sides are hard packed. The 
+ceiling of this tunnel is about 7 feet high but you see no visible supports.
+The floor is worn as if many feet has been walking on it for a long time.
+Here the tunnel makes a bend leaving you with the options of going either
+west or north.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22411
+D3
+~
+~
+0 0 22409
+S
+#22411
+In a tunnel~
+This tunnel has been dug through the sand and the sides are hard packed. The 
+ceiling of this tunnel is about 7 feet high but you see no visible supports.
+The floor is worn as if many feet has been walking on it for a long time. 
+The tunnel continues to your north and to your south.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22412
+D2
+~
+~
+0 0 22410
+S
+#22412
+End of tunnel~
+You have reached the end of the tunnels to your south the tunnel goes
+back into the sand, and to your north you see a large cave opening
+up. Looking there you see that it looks like a whole city is been
+swallowed by the desert at some time in the past.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22422
+D2
+~
+~
+0 0 22411
+S
+#22413
+In a tunnel~
+This tunnel has been dug through the sand and the sides are hard packed. The 
+ceiling of this tunnel is about 7 feet high but you see no visible supports.
+The floor is worn as if many feet has been walking on it for a long time. 
+Examining the floor carefully you can deduce that most of the tracks seems to
+be made by some kind of giant insect. The tunnel continues to your west and
+to your east.
+~
+224 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 22414
+D3
+~
+~
+0 0 22403
+S
+#22414
+In a tunnel~
+This tunnel has been dug through the sand and the sides are hard packed. The 
+ceiling of this tunnel is about 7 feet high but you see no visible supports.
+The floor is worn as if many feet has been walking on it for a long time. 
+Examining the floor carefully you can deduce that most of the tracks seems to
+be made by some kind of giant insect. The tunnel is making a sharp bend here
+leaving you with the options of going wither west or south.
+~
+224 1 0 0 0 0 255 0
+D2
+~
+~
+0 0 22415
+D3
+~
+~
+0 0 22413
+S
+#22415
+In a tunnel~
+You have reached the end of a tunnel in the sands, from here the only way out 
+seems to be the way you arrived here through. As always the floor is covered 
+with tracks of giant insects, albeit they are fewer here in this dead-end.
+The only exit you can locate here is back to your north.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22414
+S
+#22416
+In a tunnel~
+This tunnel has been dug through the sand and the sides are hard packed. The 
+ceiling of this tunnel is about 7 feet high but you see no visible supports.
+The floor is worn as if many feet has been walking on it for a long time. 
+Examining the floor carefully you can deduce that most of the tracks seems to
+be made by some kind of giant insect. Here the tunnel makes a sharp bend 
+south, leaving you with the option of either going south or east.
+~
+224 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 22403
+D2
+~
+~
+0 0 22417
+S
+#22417
+In a tunnel~
+You have reached the end of a tunnel in the sands, from here the only way out 
+seems to be the way you arrived here through. As always the floor is covered 
+with tracks of giant insects, albeit they are fewer here in this dead-end.
+Your only option of movement from here is to follow the tunnel back to
+north.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22416
+S
+#22418
+In a chamber~
+You are standing in a huge domed room dug in the hard packed sand. The
+ceiling arches up some 10 feet high but you see no visible support at all
+making you wonder what makes it stay up not avalanching down burying you
+under the sands of the desert forever. The floor is worn as if many feet has
+been walking on it for a long time, as in the tunnels a careful examination
+reveals to you that most of the tracks seems to be made by giant insects. You
+can see tunnels going north, south and east.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22420
+D1
+~
+~
+0 0 22405
+D2
+~
+~
+0 0 22419
+S
+#22419
+In a tunnel~
+You have reached the end of a tunnel in the sands, from here the only way out 
+seems to be the way you arrived here through. As always the floor is covered 
+with tracks of giant insects, albeit they are fewer here in this dead-end.
+The only alternative for you is to go back north from where you came.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22418
+S
+#22420
+In a tunnel~
+You have reached the end of a tunnel in the sands, from here the only way out 
+seems to be the way you arrived here through. As always the floor is covered 
+with tracks of giant insects, albeit they are fewer here in this dead-end.
+The only chance for you to move is to backtrack your way to south.
+~
+224 1 0 0 0 0 255 0
+D2
+~
+~
+0 0 22418
+S
+#22421
+In a tunnel~
+You have reached the end of a tunnel in the sands, from here the only way out 
+seems to be the way you arrived here through. As always the floor is covered 
+with tracks of giant insects, albeit they are fewer here in this dead-end.
+The only exit is to your west where you see the tunnel continuing.
+~
+224 1 0 0 0 0 255 0
+D3
+~
+~
+0 0 22404
+S
+#22422
+Sunken city of Azar - Main Street~
+You are standing in a large underground cavern that appears to have swalloved
+up an entire city. Most of it is covered by a thick layer of sand though
+making your movement hard. This once was the southern end of the Main street,
+and you see it continuing to your north, to your south you see the entrance
+to a tunnel.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22423
+D2
+~
+~
+0 0 22412
+S
+#22423
+Sunken city of Azar - Main street~
+You are standing in a large underground cavern that appears to have swalloved
+up an entire city. Most of it is covered by a thick layer of sand though
+making your movement hard. This was once the Main street of Azar, but now it
+is in little use. The street continues north and south, and to your east and
+your west you see doorways leading into houses abandoned long time ago.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22424
+D1
+~
+~
+0 0 22430
+D2
+~
+~
+0 0 22422
+D3
+~
+~
+0 0 22429
+S
+#22424
+Sunken city of Azar - Main street~
+You are standing in a large underground cavern that appears to have swalloved
+up an entire city. Most of it is covered by a thick layer of sand though
+making your movement hard. This is the old Main street of Azar, and it
+continues to your north and to your south. To your west you see the opening
+to a side street.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22425
+D2
+~
+~
+0 0 22423
+D3
+~
+~
+0 0 22428
+S
+#22425
+Sunken city of Azar - Main street~
+You are standing in a large underground cavern that appears to have swalloved
+up an entire city. Most of it is covered by a thick layer of sand though
+making your movement hard. You are standing on Main street and perviously it
+apparently continued further north, nowaday the progress north is blocked by
+a huge pile of sand that has fallen down from the ceiling. Apart from a door
+opening to your east the only apparent exit is going back south on Main
+street.
+~
+224 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 22426
+D2
+~
+~
+0 0 22424
+S
+#22426
+Sunken city of Azar - Entrance hall of house~
+You are standing inside a house in the sunken city of Azar. The house is
+surprisingly well kept and you are sure it has been inhabited even after
+the city was buried. To your west you see the exit back out to Main street
+and to your north you see a doorway leading further in the house.
+~
+224 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 22427
+D3
+~
+~
+0 0 22425
+S
+#22427
+Sunken city of Azar - Doomsbringers room~
+You have entered the room of the mad propher Doomsbringer who has been
+using this city as a refuge from the outside world. The room is very well
+kept and the walls are decorated with murals depicting the history of
+the current owner.
+~
+224 1 0 0 0 0 255 0
+D2
+~
+~
+0 0 22426
+S
+#22428
+Sunken city of Azar - Dead end~
+You are standing in a large underground cavern that appears to have swalloved
+up an entire city. Most of it is covered by a thick layer of sand though
+making your movement hard. You are standing at a dead end of this small side
+street to the Main street Your further progress west is blocked by sand
+avalanched down from the ceiling of this cave leaving east as your only
+option of movement.
+~
+224 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 22424
+S
+#22429
+Sunken city of Azar - inside a small house~
+You are standing inside a small old house that previously seems to have 
+been a store of some kind. What they once sold is now long since forgotten.
+Its history died with the original inhabitants of this once great city.
+~
+224 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 22423
+S
+#22430
+Sunken city of Azar - inside a house~
+You are standing in what once was the house of a wealthy merchant. The
+remains of the furniture tells you that once this was a beautiful and 
+rich home. Now it is all in decay though leving nothing of value in one
+piece.
+~
+224 1 0 0 0 0 255 0
+D3
+~
+~
+0 0 22423
+S
+#22431
+Azar -Mob loadroom~
+This room looks like this :)
+~
+224 585 0 0 0 0 255 0
+D0
+~
+~
+0 0 22422
+D1
+~
+~
+0 0 22424
+D2
+~
+~
+0 0 22423
+D3
+~
+~
+0 0 22428
+D4
+~
+~
+0 0 22429
+D5
+~
+~
+0 0 22430
+S
+$~

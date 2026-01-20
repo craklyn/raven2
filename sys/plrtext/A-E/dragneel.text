@@ -1,0 +1,47 @@
+sp cast 'sleep' $1
+sl cast 'sense life
+em cast 'embalm' $*
+ws wake;stand
+b cast 'bone wall' $*
+om order minion kill $*
+si cast 'silence' $*
+wr cast 'wraith'
+t flee
+oj order jenny kill $*
+y toss revive
+sw cast 'slow' $*
+ed cast 'energy drain' $*
+inv cast 'invis' $*
+su cast 'summon' $*
+di cast 'detect invis' $*
+c calm
+inf cast 'infra'
+p cast 'soul pierce' $*
+h cast 'shield' $*
+ld cast 'life drain' $*
+f cast 'fly' $*
+v get all dragneel
+li look in corpse
+ge get all cor
+tit title &14T&07he &08A&00&01pocalypse &14o&07f &08D&00&01eath&00
+m cast 'maledict' $*
+rp cast 'resist poison' $*
+a cast 'age' $*
+ch cast 'charm corpse' $*
+nox cast 'nox' $*
+oe order ethereal kill $*
+ow order weep kill $*
+co castout
+r reelin
+cc cast 'consume corpse' $*
+ot order trin kill $*
+cw cast 'create warding'
+en cast 'entomb' $*
+ec cast 'explode corpse' $*
+ov order vampire kill $*
+de cast 'debilitate' $*
+ep enter portal
+ns c 'nox' $1
+tk tell kagi pasayloon mo kami
+bl c 'blind' $1
+ag assist; cast 'soul p'

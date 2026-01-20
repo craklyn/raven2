@@ -1,0 +1,44 @@
+title title :: &09Wanderer&00
+gfb c 'flame blade' group
+infra c 'infravision' $*
+feeble c 'feeblemind' $*
+rc c 'remove curse' $*
+invis c 'invis' $*
+ghaste c 'haste' group
+port c 'portal' $*
+air c 'airsphere' $*
+gts c 'true sight' group
+gfly c 'fly' group
+gshie c 'shield' group
+nex c 'nexus' $*
+f c 'doom bolt' $*
+bl c 'blind' $*
+clan clan &14$* &11
+awaken c 'awaken'$*
+fb c 'flame blade' $*
+fly c 'fly' $*
+shie c 'shield' $*
+wa wake;stand
+wak order fol wake;order fol stand
+fm c 'feeblemin' $*
+wr c 'wrath' $*
+gate c 'gate'
+assi order follower assist
+ts c 'true sight' $*
+ld c 'life drain' $*
+k order fol kill $*
+a assist
+id c 'identify' $*
+aw c 'awaken' $*
+cs c 'color spray' $*
+sum c 'summon' $*
+rr rec rec rec scr
+haste c 'haste' $*
+mm c 'magic missile' $*
+charm c 'charm' $*
+ms c 'monster summon'
+fire c 'fireball' $*
+met c 'meteor swarm'
+fy c 'fountain'
+locate c 'locate' $*
+str c 'strength' $*

@@ -1,0 +1,11 @@
+heal c 'heal' $*
+harm c 'harm' $*
+sam c 'word
+blind c 'blind' $*
+gt gt &01 |~*~| &14$* &00 |~*~|
+bl c 'blind' $*
+summon c 'summon' $*
+fly c 'fly
+armor c 'armor
+ward c 'ward
+reg c 'reg'

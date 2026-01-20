@@ -1,0 +1,21 @@
+sum cast 'summon' $*
+harm cast 'harm' $*
+cb cast 'cure bl' $*
+word cast 'word' $*
+sl cast 'sense l'
+di cast 'detect inv' $*
+ward cast 'ward' $*
+armor cast 'armor' $*
+bless cast 'bless' $*
+gt gt &08 $*  &00
+' say &08 $*  &00
+h cast 'heal' $*
+regen cast 'regen' $*
+b slap $*;cast 'blind' $*
+fly cast 'fly' $*
+. rec el
+sanc cast 'sanc' $*
+] dri thim
+fort cast 'fort' $*
+brew get shot bag;brew $* $*
+[ get way bag;cast 'create f';eat way;put all.way bag

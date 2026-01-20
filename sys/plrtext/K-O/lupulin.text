@@ -1,0 +1,39 @@
+cs cast 'call steed'
+rpa cast 'remove paralysis' $*
+tit title &10OD&07E to the &14Saint&00 of &09HOPS&00
+re rescue $*
+pfe cast 'protection from evil' $*
+cc cast 'cure critic' $*
+ban cast 'banish' $*
+cb cast 'cure blind' $*
+z des corpse
+x get all corpse
+tre cast 'tremor'
+dm cast 'divine mission'
+arm cast 'armor' $*
+nw cast 'tremor'
+ki kick $*
+cw clanwho
+ha cast 'holy armor'
+bl block
+- rec elv
+rv cast 'righteous vision'
+cru cast 'crusade'
+sw scan
+se kill 2.
+2 wear all
+de cast 'dispel evil' $*
+rpo cast 'remove poison' $*
+rpar cast 'remove paralysis' $*
+rcur cast 'remove curse' $*
+di cast 'detect invisibility' $*
+deta cast 'detect alignment' $*
+reg cast 'regenerate' $*
+1 get all lupulin
+3 destroy lupulin
+cl clan &10$*&00
+ne kick $*
+hw cast 'holy word'
+pl cast 'prayer of life' $*
+say say &13/&14$* &13\
+gt gt &13/&14$* &13\

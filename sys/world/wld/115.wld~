@@ -1,0 +1,1055 @@
+#11500
+The Town of Shaden~
+    This area is designed to be a small town of lawlessness, where aggro
+nasty mobs wander around and wreak havoc.  There are no peacekeepers who
+murder [KILLER]/[THIEF] flags, however.  The town also has a black
+market which will fence almost any item and sells a few hard-to-get
+items....if you have the gold.
+
+Smythe
+October 1996
+~
+115 0 0 0 0 0 255 0
+S
+#11501
+Main Street~
+This dirt road runs through the middle of this frontier pesthole of a town.
+At the far north end of the road lies the "Baron's Mansion".
+~
+115 64 2 0 0 1 255 0
+D0
+The road continues toward the Baron's Mansion.
+~
+~
+0 -1 11502
+D3
+you see a way out
+~
+gate~
+1 0 11522
+S
+#11502
+Main Street~
+This dirt road runs through the middle of this frontier pesthole of a town.
+To the east, a side path leads up to a large building from which emanate
+sounds of a drunken brawl. At the far north end of the road lies the
+"Baron's Mansion".
+~
+115 64 0 0 0 1 255 0
+D0
+The road continues toward the Baron's Mansion.
+~
+~
+0 -1 11503
+D1
+A side path leads up to a large building.
+~
+~
+0 -1 11513
+D2
+The road leads south, out of town.
+~
+~
+0 -1 11501
+S
+#11503
+Main Street~
+This dirt road runs through the middle of this frontier pesthole of a town.
+At the far north end of the road lies the "Baron's Mansion".  To the west
+is a small building.
+~
+115 64 0 0 0 1 255 0
+D0
+The road continues north.
+~
+~
+0 -1 11504
+D2
+The road continues south.
+~
+~
+0 -1 11502
+D3
+A small building lies to the west.
+~
+~
+0 -1 11517
+S
+#11504
+Main Street~
+This dirt road runs through the middle of this frontier pesthole of a town.
+At the far north end of the road lies the "Baron's Mansion".  You hear the
+sounds of metal being shaped to the east.
+~
+115 64 0 0 0 1 255 0
+D0
+the road continues north.
+~
+~
+0 -1 11505
+D1
+The armorsmith's shop lies to the east.
+~
+~
+0 -1 11518
+D2
+The road continues south.
+~
+~
+0 -1 11503
+S
+#11505
+Main Street~
+This dirt road runs through the middle of this frontier pesthole of a town.
+At the far north end of the road lies the "Baron's Mansion".  To the east
+you hear the sounds of a smithy.  West of here is a small, well-kept shop.
+~
+115 64 0 0 0 1 255 0
+D0
+the road continues to the north.
+~
+~
+0 -1 11506
+D1
+The shop of the weaponsmith lies to the east.
+~
+~
+0 -1 11519
+D2
+The road continues to the south.
+~
+~
+0 -1 11504
+D3
+The mage's shop lies to the west.
+~
+~
+0 -1 11531
+S
+#11506
+Main Street~
+This dirt road runs through the middle of this frontier pesthole of a town.  
+At the far north end of the road lies the "Baron's Mansion".  To the east
+appears to be a bustling market place fit for a rogue prince's taste.    
+~
+115 64 0 0 0 1 255 0
+D0
+The road continues north.
+~
+~
+0 -1 11507
+D1
+you see some shops
+~
+~
+0 0 11523
+D2
+The road continues south.
+~
+~
+0 -1 11505
+D3
+The Alchemist's shop lies west of here.
+~
+~
+0 -1 11530
+S
+#11507
+Main Street~
+This dirt road runs through the middle of this frontier pesthole of a town.
+At the far north end of the road lies the "Baron's Mansion".  A path leads
+off to the east toward a small shack.
+~
+115 64 0 0 0 1 255 0
+D0
+The road continues north.
+~
+~
+0 -1 11508
+D1
+A path leads toward a small shack.
+~
+~
+0 -1 11520
+D2
+The road continues south.
+~
+~
+0 -1 11506
+S
+#11508
+Main Street~
+This dirt road runs through the middle of this frontier pesthole of a town.
+At the far north end of the road lies the "Baron's Mansion".  
+~
+115 64 0 0 0 1 255 0
+D0
+You see the Baron's mansion to the north.
+~
+~
+0 -1 11509
+D2
+The road continues south.
+~
+~
+0 -1 11507
+S
+#11509
+Before the Baron's Mansion~
+Immediately to the north is a large, stone house.  Large iron-reinforced,
+double-doors bar the entrance.
+~
+115 64 0 0 0 1 255 0
+D0
+Large double doors block the way north.
+~
+doors double iron~
+2 0 11510
+D2
+The road continues south.
+~
+~
+0 -1 11508
+S
+#11510
+Entry Hall~
+This large room has fifteen foot high ceilings with large skylights
+that keep the room well illuminated.  The walls are covered with
+various trophys and paintings.
+~
+115 584 0 0 0 0 255 0
+D1
+The baron's private chambers are east.
+~
+~
+0 -1 11512
+D2
+The double doors lead back out onto main street.
+~
+doors double iron~
+2 0 11509
+D3
+The dining hall lies to the west.
+~
+~
+0 -1 11511
+S
+#11511
+Dining Hall~
+A large table dominates this room.  The baron's dining hall also doubles
+for a council chamber, as evidenced by the large gavel at the head of the
+table.
+~
+115 584 0 0 0 0 255 0
+D1
+The entry hall is east.
+~
+~
+0 -1 11510
+S
+#11512
+Private Chambers~
+A small bed sits against the north wall, flanked by two small tables.
+A desk takes up most of the east wall, and a fireplace dominates the
+south wall.
+~
+115 584 0 0 0 0 255 0
+D3
+The entry hall is west of here.
+~
+~
+0 -1 11510
+S
+#11513
+Path to the Tavern~
+This path leads from the main road through town to the Obnoxious Ox
+Inn & Tavern.  Sounds of a brawl emanate from behind the door of the
+building east of you.
+~
+115 64 0 0 0 1 255 0
+D1
+The door to the Obnoxious Ox Inn & Tavern.
+~
+door~
+1 0 11514
+D3
+The path leads back to the main road.
+~
+~
+0 -1 11502
+S
+#11514
+The Obnoxious Ox Inn & Tavern.~
+Large wooden tables (several turned over and/or in pieces) are spread
+about this room.  A bar runs along the east wall.  This is not a place
+for the weak at heart.
+~
+115 72 0 0 0 0 255 0
+D0
+The cryo-center lies to the north.
+~
+~
+0 -1 11515
+D1
+The store room door.
+~
+door~
+1 0 11533
+D2
+The Inn lies to the south.
+~
+~
+0 -1 11516
+D3
+A door leads out onto the path.
+~
+door~
+1 0 11513
+S
+#11515
+Cryogenics Room.~
+The Baron paid a LOT of gold for the services of this cryogenist.
+~
+115 72 0 0 0 0 255 0
+D2
+You see, hear, and smell the tavern to the south.
+~
+~
+0 -1 11514
+S
+#11516
+Obnoxious Ox Inn.~
+A small desk with several rings of keys hanging on the wall behind it is
+here.  A spiral staircase leads up to the rooms.
+~
+115 72 0 0 0 0 255 0
+D0
+You see, hear, and smell the tavern to the north.
+~
+~
+0 -1 11514
+S
+#11517
+The Baker.~
+The baker provides a very necessary service to this small community.
+That is the whole reason why he hasn't been shaken down as yet and is
+actually treated quite well by the locals.
+~
+115 72 0 0 0 0 255 0
+D1
+Main Street lies to the east.
+~
+~
+0 -1 11503
+S
+#11518
+The Armorsmith.~
+The armorsmith provides armor to the baron free of charge.  He makes
+plenty of money off of others who seek personal protection.
+~
+115 72 0 0 0 0 255 0
+D3
+The Main street is west of here.
+~
+~
+0 -1 11504
+S
+#11519
+The Weaponsmith.~
+The weaponsmith works much the same as the armorsmith...in fact, they
+share a large forge that connects the two shops.
+~
+115 72 0 0 0 0 255 0
+D3
+The Main Street is west.
+~
+~
+0 -1 11505
+S
+#11520
+Path to a small Shack.~
+This path leads between overgrown vacant lots to a small shack.
+~
+115 64 0 0 0 1 255 0
+D1
+A rickety door bars entrance to the shack east of you.
+~
+door~
+2 0 11521
+D3
+The path leads back out onto Main Street.
+~
+~
+0 -1 11507
+S
+#11521
+Shack~
+It appears to be an abandoned old shack.  Though, on closer examination,
+the walls look like they were designed to LOOK rickety when in fact, they
+are quite sturdy.
+~
+115 72 0 0 0 0 255 0
+D3
+A door leads back out onto a path.
+~
+door~
+2 0 11520
+D5
+As you look closer at the floor, you can make out the outline of a
+trap door.  A ladder leads down into the darkness.
+~
+door trap~
+1 0 15101
+S
+#11522
+Thieves Den.~
+As you reach the bottom of the ladder, the room opens up and is well-lit by
+glass globes set into the walls.  The room appears to be a waiting room of some
+kind.  You reach what appears to be some kind of guard post, a barricaded area
+that blocks your way to the buildings in the distance.    
+~
+115 201 0 0 0 0 255 0
+D1
+a gate blocks your way
+~
+gate~
+1 0 11501
+D2
+you see a pool
+~
+~
+0 0 11557
+S
+#11523
+Shaden Market.~
+You are in a huge underground cavern.  Wares of all shapes and sizes are
+being heavily traded all around you.
+~
+115 588 0 0 0 0 255 0
+D0
+A stall lies to the north.
+~
+~
+0 -1 11525
+D1
+More market
+~
+~
+0 -1 11524
+D2
+More market.
+~
+~
+0 -1 11527
+D3
+The entryway lies to the west.
+~
+door~
+2 0 11506
+S
+#11524
+Shaden Market.~
+You are in a huge underground cavern.  Wares of all shapes and sizes are
+being heavily traded all around you.
+~
+115 588 0 0 0 0 255 0
+D0
+A stall is north.
+~
+~
+0 -1 11526
+D2
+More market.
+~
+~
+0 -1 11528
+D3
+more market.
+~
+~
+0 -1 11523
+S
+#11525
+Shaden Market.~
+You are in a huge underground cavern.  Wares of all shapes and sizes are
+being heavily traded all around you.
+~
+115 588 0 0 0 0 255 0
+D2
+more market
+~
+~
+0 -1 11523
+S
+#11526
+Shaden Market.~
+You are in a huge underground cavern.  Wares of all shapes and sizes are
+being heavily traded all around you.
+~
+115 588 0 0 0 0 255 0
+D2
+more market.
+~
+~
+0 -1 11524
+D5
+A trap door.
+~
+trap door~
+1 0 11542
+S
+#11527
+Shaden Market.~
+You are in a huge underground cavern.  Wares of all shapes and sizes are
+being heavily traded all around you.
+~
+115 588 0 0 0 0 255 0
+D0
+more market.
+~
+~
+0 -1 11523
+D1
+more market.
+~
+~
+0 -1 11528
+D2
+A stall is south.
+~
+~
+0 -1 11529
+S
+#11528
+Shaden Market.~
+You are in a huge underground cavern.  Wares of all shapes and sizes are
+being heavily traded all around you.
+~
+115 588 0 0 0 0 255 0
+D0
+more market.
+~
+~
+0 -1 11524
+D2
+a small stall is south.
+~
+~
+0 -1 11532
+D3
+more market.
+~
+~
+0 -1 11527
+S
+#11529
+Shaden Market.~
+You are in a huge underground cavern.  Wares of all shapes and sizes are
+being heavily traded all around you.
+~
+115 588 0 0 0 0 255 0
+D0
+more market.
+~
+~
+0 -1 11527
+S
+#11530
+The Alchemist.~
+This small, well built building houses Shaden's alchemist.  He was
+brought here at great expense to the baron, so he is treated quite well
+by the town's visitors and inhabitants.
+~
+115 72 0 0 0 0 255 0
+D1
+The main street is east.
+~
+~
+0 -1 11506
+S
+#11531
+The Mage.~
+The mage was also a very costly acqusition for the Baron and is treated
+well by all his patrons.
+~
+115 72 0 0 0 0 255 0
+D1
+the main street is east.
+~
+~
+0 -1 11505
+S
+#11532
+Shaden Market.~
+You are in a huge underground cavern.  Wares of all shapes and sizes are
+being heavily traded all around you.
+~
+115 588 0 0 0 0 255 0
+D0
+more market.
+~
+~
+0 -1 11528
+S
+#11533
+Store Room~
+This room is so dark that even powerful magic lights seem to barely
+illuminate the walls around you. There seems to be someone or
+something hiding in the shadows.
+~
+115 205 0 0 0 0 255 0
+D3
+The store room door.
+~
+door~
+1 0 11514
+D5
+A trap door.
+~
+trap door~
+1 0 11534
+S
+#11534
+The Catacombs~
+Even with a light, you cannot see anything in this cavern of blackness.
+The sound of running water is faint yet clear, accompanied by the growls
+of the beasts which prowl these catacombs.  Feeling about, it appears as
+though there are exits to the west and north.
+~
+115 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 11542
+D3
+~
+~
+0 0 11535
+D4
+A trap door.
+~
+trap door~
+1 0 11533
+S
+#11535
+The Catacombs~
+Travelling down this gloomy tunnel, you swing your light about to dispel
+the darkness.  The passage to the east is filled with shadows, while
+the path west opens up into an immense cavern of blackness.
+~
+115 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 11534
+D3
+~
+~
+0 0 11536
+S
+#11536
+The Assassin's Dump~
+This immense cavern repels you with a horrid stench.  It is the stench
+of sickness and decay, held within for centuries on end.  Corpses and
+skeletons litter the rocky floor.
+Wonder if youre corpse will lie here someday.
+~
+115 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 11537
+D1
+~
+~
+0 0 11535
+S
+#11537
+An intersection of dark tunnels~
+The walls of this cavern of laced with a bizarre mixture of shiny crystals.
+Tunnels head off to the east and west, while the entrance to an ancient
+burial ground lies at the end of the southern tunnel.
+~
+115 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 11541
+D2
+~
+~
+0 0 11536
+D3
+~
+~
+0 0 11538
+S
+#11538
+Hall of Tombs~
+Random tombs to unknown warriors were lain in rows as far as the eye
+can see.  To your horror many of the graves are empty and desecrated.
+The tombs extend to the east and west as far as the eye can see.
+~
+115 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 11537
+D3
+~
+~
+0 0 11539
+S
+#11539
+Hall of Tombs~
+The desecrated tombs of the dead range to the east and west as far as
+the eye can see.  The occupants of the tombs are missing however, no doubt
+revived by some unholy rite, or eaten by some animal, due to some grave
+robbers carelessness.
+~
+115 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 11538
+D3
+~
+~
+0 0 11540
+S
+#11540
+Hall of Tombs~
+The gruesome display of disrespect and dishonor continues as pillaged
+tombs extend to the east and west.
+~
+115 73 0 0 0 0 255 0
+D1
+~
+~
+0 0 11539
+D3
+~
+~
+0 0 11550
+S
+#11541
+Hall of Tombs~
+The tombs of this site seem less ancient yet like their brethren are in a
+hideous state of disrepair.
+~
+115 73 0 0 0 0 255 0
+D3
+~
+~
+0 0 11537
+S
+#11542
+The Basement~
+It is pitch black, but you know you have entered a basement.  The
+sounds of scratching and chittering hints that creatures of darkness 
+have made this place their lair.  A set of treacherous stairs lead upward,
+while a large crack in the wall permits passage north.
+~
+115 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 11543
+D2
+~
+~
+0 0 11534
+D4
+A trap door.
+~
+trap door~
+1 0 11526
+S
+#11543
+A Twisting Passage~
+The passage bends north and east here.  To the east various tunnels
+collide, while a plain intersection is to the north.  It seems strangely
+chilly to the north.
+~
+115 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 11544
+D1
+~
+~
+0 0 11549
+D2
+~
+~
+0 0 11542
+S
+#11544
+A Twisting Passage~
+The passage twists this way and that and it's all you can do to keep your
+head from spinning.  The air is very cold here and layers of ice have formed
+on the walls.  The sounds of dripping water echo throughout the cavern.
+A side passage leads east, while the main passage continues to the north and
+south.
+~
+115 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 11545
+D1
+~
+~
+0 0 11546
+D2
+~
+~
+0 0 11543
+S
+#11545
+A Misty Cavern~
+A chilling icy mist swirls about you.  The dampness and warmth has become
+bitter cold.  The walls of the cavern are several feet thick with ice
+here.
+~
+115 72 0 0 0 0 255 0
+D2
+~
+~
+0 0 11544
+S
+#11546
+A Misty Tunnal~
+The temperature is a pleasant and mild here.  This is due to a warm wind
+blowing in from the east and a chilly breeze blowing in from the west.
+The updrafts create bizarre mists which dance along the walls.
+~
+115 72 0 0 0 0 255 0
+D1
+~
+~
+0 0 11547
+D3
+~
+~
+0 0 11544
+S
+#11547
+A Misty Tunnel~
+A warm wind blows in from the east, where the sound of rushing steam is
+audible.  The air here is hot despite the breeze which forces the mists to
+swirl as though it were alive.
+~
+115 72 0 0 0 0 255 0
+D1
+~
+~
+0 0 11548
+D3
+~
+~
+0 0 11546
+S
+#11548
+A Cavern of Mist~
+A river of mists pours down in a cascade through a hole in the floor
+of the cavern. It dissapears in to a bright lights and creates beautiful 
+swirls that dance around you.
+~
+115 72 0 0 0 0 255 0
+D3
+~
+~
+0 0 11547
+D5
+~
+~
+0 0 5048
+S
+#11549
+An Intersection~
+This seems to be a well used cavern. A passages twists away in
+every direction.  
+~
+115 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 38903
+D2
+~
+~
+0 0 6103
+D3
+~
+~
+0 0 11543
+S
+#11550
+A Lonely Tunnel~
+Waves of perpetual darkness haunt this tunnel.  Even the brilliance of
+your light cannot force back the blackness of this dreary stone corridor.
+~
+115 73 0 0 0 0 255 0
+D0
+~
+~
+0 0 3502
+D1
+~
+~
+0 0 11540
+D2
+~
+~
+0 0 12503
+D3
+~
+~
+0 0 18130
+S
+#11551
+End Of A Gorge~
+The wide rift suddenly ends in a deep narrow pathway and you find yourself with
+a limited choice.  Go forward into the unknown or retreat like a coward.    
+ 
+A small stream bubbles along towards the pool southwards
+~
+115 0 0 0 0 0 255 0
+D0
+the path continues
+~
+~
+0 0 11552
+D2
+you see a beautiful meadow
+~
+~
+0 0 10872
+S
+#11552
+A Narrow Cleft~
+The gorge narrows to barely the width of your shoulders and in the dim light
+you perceive something odd ahead in the distance.    
+ 
+A small stream bubbles along towards the pool southwards
+~
+115 0 0 0 0 0 255 0
+D0
+the path continues
+~
+~
+0 0 11553
+D2
+the path continues
+~
+~
+0 0 11551
+S
+#11553
+A Narrow Cleft~
+The canyon twists and turns and the walls soar like a cathedral above your head
+almost shutting out the sky.    
+~
+115 0 0 0 0 5 255 0
+D0
+the path continues
+~
+~
+0 0 11556
+D2
+Far off in the distance you spy the distant towers of Samsera
+~
+~
+0 0 11552
+S
+#11554
+The Middle Of The Gorge~
+Narrow and it is hard to see what might be just a few feet in front or behind
+you.  The gorge continues to the south and above you lies the rift in the
+mountains that caused this path.    
+ 
+A small stream bubbles along towards the pool southwards
+~
+115 0 0 0 0 5 255 0
+D0
+the path continues
+~
+~
+0 0 11555
+D2
+the path continues
+~
+~
+0 0 11556
+S
+#11555
+A Narrow Cleft~
+The canyon twists and turns and up ahead you see the walls suddenly fall away
+on your left.  The glow is brighter and you hear the murmur of voices and some
+chanting.  Overhead a large &03spur&00 of rock curves out and down like a
+talon.  A small stream issues forth from a crack and bubbles along towards the
+pool southwards
+ 
+A small stream bubbles along towards the pool southwards. 
+~
+115 0 0 0 0 5 255 0
+D2
+the path continues
+~
+~
+0 0 11554
+D3
+You see a cleft in the rocks
+~
+~
+0 0 6604
+E
+spur overhead~
+You crane your neck and, squinting, you make out faint letters carved in the
+underside of the rock They read 'place the setting sun on your right and look
+forward to the sight of Samsera.  Then what ye seek ye will find'
+~
+S
+#11556
+A Canyon~
+You continue to walk thru a deep canyon whose high narrow walls twist and turn.
+ 
+A small stream bubbles along towards the pool southwards
+~
+115 0 0 0 0 5 255 0
+D0
+the path continues
+~
+~
+0 0 11554
+D2
+the path coninues
+~
+~
+0 0 11553
+S
+#11557
+The Hidden Way~
+You are swimming thru a short tunnel underwater!  Just before you begin to
+panic, your head pops to the surface of a small pool lined with a gravel shore.
+Overhead you see the open sky and as you reach the edge of the pool you see a
+smooth path leading away thru the rocks and some buildings in the distance
+~
+115 361 0 0 0 6 255 0
+D0
+the road leds to a town
+~
+~
+0 0 11522
+D5
+~
+pool~
+2 11526 10872
+S
+$~

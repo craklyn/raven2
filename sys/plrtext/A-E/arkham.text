@@ -1,0 +1,10 @@
+div cast 'divine mission'
+arm cast 'armor'
+di cast 'detect invis'
+as assist
+z assist
+b bash $*
+pfe cast 'protection from evil'
+food c 'create food'
+h cast 'cure serious' $*
+pois cast 'remove poison' $*

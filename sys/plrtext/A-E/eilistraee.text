@@ -1,0 +1,14 @@
+a assist telchar
+j scan
+g get all all.corpse
+armor remove stick;get oak hole;hold oak;use oak $*;remove oak;put oak hole;hold stick
+b bash $*
+m meditate
+re retreat east
+rw retreat west
+rn retreat north
+rs retreat south
+ru retreat up
+rd retreat down
+wa wake;stand;remove tatt;put tatt hole;wear chain
+sl remove chain;get tatt hole;wear tatt;sleep

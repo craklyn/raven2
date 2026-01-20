@@ -1,0 +1,43 @@
+wrath cast 'wrath' $*
+lo cast 'locate' $*
+do cast 'doom' $*
+1 rec rec free
+sh cast 'shriek' $*
+wa wake;stand
+port c 'portal' $*
+ch n;n;n;n;n;n;n;n;n;w;w;od
+of order follower $*
+feeble c 'feeble' $*
+life cast 'life drain' $*
+por cast 'portal' $*
+2 order 2.follower kill $*
+infra cast 'infra' $*
+true cast 'true' $*
+sum cast 'sum' $*
+blind cast 'blind' $*
+cs cast 'color' $*
+title title &07->&00&04OD&00&07<-&00
+gt gt &06$*&00 
+charm cast 'charm' $*
+k order follower kill $*
+mm cast 'magic mis' $*
+or ord fol rescue $*
+fly cast 'fly' $*
+invis cast 'invis' $*
+oos order followers sleep
+ow order followers wake
+os order followers stand
+id cast 'ident' $*
+say say &10$*&00 
+ms cast 'monster summon'
+ele cast 'conjure
+shi cast 'shield' $*
+nex cast 'nexus' $*
+gate cast 'gate
+str cast 'str' $*
+haste cast 'haste' $*
+fb cast 'flame blade' $*
+` order follower assist reid
+rc cast 'remove curse' $*
+awaken cast 'awaken' $*
+a cast 'feeblemind' $*

@@ -1,0 +1,58 @@
+
+Race               Str.    Con.    Dex.    Int.    Wis.    Special Effect
+------------------|-------------------------------------|-----------------
+Vampire           | +3  |   -2   |  -1   |  NA   |  +2  |   ENERGY DRAIN
+--------------------------------------------------------------------------
+Minotaur          | +3  |   +2   |  NA   |  -2   |  -1  |   GORE
+--------------------------------------------------------------------------
+Elf               | -2  |   -1   |  +1   |  +2   |  +2  |   INFRA
+--------------------------------------------------------------------------
+Half-Giant        | +4  |   +1   |  -1   |  -1   |  -1  |   +2 DAM / +2 HIT
+--------------------------------------------------------------------------
+Mantis            | +2  |   +1   |  -3   |  +1   |  +1  |   -20 NATURAL AC
+--------------------------------------------------------------------------
+Hobbit            | -3  |   +1   |  +4   |  NA   |  NA  |   SNEAK
+--------------------------------------------------------------------------
+Dwarf             | +2  |   +3   |  -2   |  -1   |  NA  |   INFRA
+--------------------------------------------------------------------------
+Ariel             | -2  |   -1   |  +1   |  +2   |  +2  |   TELEPORT
+--------------------------------------------------------------------------
+Dragonkind        | +3  |   +2   |  -3   |  NA   |  NA  |   NO HUNGER/THIRST
+--------------------------------------------------------------------------
+Sith              | +2  |   -1   |  -2   |  +2   |  +1  |   BITE
+--------------------------------------------------------------------------
+
+NA = No Affect
+Gore = A 1d(lvl) damage attack, stunns user for 2 rounds
+No Hunger/Thirst = Both hunger and thirst bits for that player are set off
+Bite = A 1d(lvl) damage attack, stunns user for 2 rounds
+
+--------------------------------------------------------------------------
+Assasins
+
+      1 Backstab                 2 Hide
+      3 Sneak                    4 Kick
+      5 Dual Wield               6 Trap
+      7 Disarm Trap              9 Pick Locks
+     11 Steal                   15 Trip
+     17 Dodge                   20 Disarm
+     22 Parry                   24 Skin
+     28 Stalk                   30 Envenom
+     32 Dust                    34 Track
+     36 Circle                  40 Enhanced Damage
+
+--------------------------------------------------------------------------
+Shadow Dancer
+
+      1 Backstab                 2 Hide
+      3 Sneak                    5 Dual Wield
+      6 Trap                     7 Disarm Trap
+      9 Pick Locks               10 Ventriloquate
+     12 Invisibility            15 Throw
+     18 Burning Hands           20 Disarm
+     21 Curse                   23 Infravision
+     24 Sense Life              27 Blind
+     30 Poison                  33 Energy Drain
+     36 Enchant Weapon          39 Fear
+                   40 Sleep
+

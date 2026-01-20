@@ -1,0 +1,371 @@
+#15901
+candle magic light blue~
+a magic candle~
+A magic candle flickers blue here.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 -1 0
+1 100 1000
+E
+candle magic light blue~
+  The magic candle remains in one piece, with a hand still gripping the handle.
+The wrist is cocked at an impossible angle. The arm jiggs and jaggs
+in three different directions, then comes to an abrupt end at the mangled elbow.
+~
+B
+0 0 0 0
+#15902
+body corpse foul~
+a body~
+A body floats here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+50 0 0
+E
+body corpse foul~
+  The limbs have been bent against the joints or torn off entirely.
+Organs that should have been safely tucked inside the torso now hang 
+outside.
+~
+B
+0 0 0 0
+#15903
+band hair~
+a band of hair~
+A batch of braided hair lies here.~
+~
+11 67174472 0 0 0 17 0 0 0
+0 0 0 0
+20 5000 215
+E
+band hair~
+A batch of human hair, braided into a band as strong as steel
+and cursed with the tortured souls of the many who died to
+make it.
+~
+A
+17 -7
+A
+19 2
+A
+33 30
+B
+1024 0 0 0
+#15905
+map eastern~
+a map of the eastern territories of Raven.~
+A map of eastern territories sits here.~
+~
+13 65536 0 0 0 1 0 0 0
+0 0 0 0
+1 100 0
+E
+map eastern~
+
+ 
+     The Enfans                        Freehold
+         |                                |
+         |--Dragonor Keep                 |--Michaeline Keep
+         |                                |
+         |-----------------The Irrendenta-|
+         |                                |
+    The Blackhand                         |
+                     Silverdale-----------|     Volcano
+        LupusVille------|                 |        |
+                   Lord Vrolock's       Moria--fire newts
+                                          |
+         Kenku                            |   King Welmar    
+Samsera----|-------------------------Turning------|---------Garamond
+                                      Point
+                                    /   |
+                                  /     |_Silver mines
+                             Dwarven
+                 Juargan------Mines
+                                |
+                              3 Swords
+~
+B
+0 0 0 0
+#15906
+map western~
+a map of Ravens western territories~
+A map of western territories sits here.~
+~
+13 65536 0 0 0 1 0 0 0
+0 0 0 0
+5 5000 0
+E
+map western~
+
+ Jungle             Elven Forest
+   \ Isle of Myst        |                Shire
+         \Pax            |-Holy Grove       |   Myth-Try
+ Ants      \             |                  |       |
+ Gnomes      \           |                  |       |
+ Farm          \         |                  |       |
+    \ Midgaard----------Tree----------------------------Samsera
+                         |           |     |
+                Arachnos-|         Gnolls  |     
+                         |                 |-Old Marsh
+              Xanth------|      Mahn-Tor---|    |
+                     High Tower              The Swamp
+~
+B
+0 0 0 0
+#15907
+map northern~
+a map of Raven's northern territories~
+A map of northern territories sits here.~
+~
+13 65536 0 0 0 1 0 0 0
+0 0 0 0
+5 5000 0
+E
+map northern~
+
+                 Asgard
+                     |
+                     |   Olympus
+                     |_____|
+   Monestary         |
+       |             |
+       |--------Valley of the
+   Blackheart     Mad Mage
+                     |
+               Temple of Time     
+                     |
+                     |
+                     |
+                 Mountains       
+  Mt. Versyus        |           
+       |_________Foothills           
+                     |
+                     |
+                Grasslands
+                     |
+                     |
+                  Samsera               
+~
+B
+0 0 0 0
+#15908
+map southern~
+a map of the southern territories of Raven~
+A small map sits here.~
+~
+13 65536 0 0 0 1 0 0 0
+0 0 0 0
+2 8000 0
+E
+map south~
+                                                
+                                                
+                                                
+                                                  Barbarian Camp
+                                                        |                    
+                                                        |
+                                                    New Thalos
+                    Black     Samsera                   |
+                    Market     docks                    |    
+Sea of                |          |                   Eastern 
+Despair_____Western___|___river__|___river__________Desert____Xerxes
+             Ocean                     |               |        |
+               |                   Myconoids       Old Thalos   |
+               |                                                |
+            Draconia                                         Pyramid
+               |                                                |
+             Haven                             Lost          Mystic __Isle of
+                                              Forest          Ocean | Tuatha 
+                                                 |______Camelot_|___|        
+                                                           |                 
+                                                   The Solamnic Knights      
+~
+B
+0 0 0 0
+#15909
+map Samsera City~
+a map of the City of Samsera~
+A large map sits here.~
+~
+13 65536 0 0 0 1 0 0 0
+0 0 0 0
+0 2000 0
+E
+map samsera city~
+                                 |=    =|  North to northern mountains.
+           ______________________|| NG ||_______________________
+          ||---------------------||    ||----------------------||
+          ||         Wall Road       N        Wall Road        ||
+          ||   |------|----|-------| o |-----|------|------|   ||
+          || W |      | MS | SC| AR  r | ME  |  WV  |      | W ||
+          || a | Myst |-  -|- -|---| t |-   -|-    -| Life | a ||
+          || l |         Wonders     h      Healers        | l ||
+          || l |--|   |----|---|---|   |------|-----|   |--| l ||
+          ||   |    W | Mag| Ne| CH  W  JU| Dk| Cle | H |  |   ||
+          || R |AP  o |-  -|   |---| i |--|   |-   -| e  MS| R ||
+          || o |    n |MSq Mages     n  Clerics  CSq| a |  | o ||
+          || a |--| d |--|   |-----| d |-----|   |--| l |--| a ||  Turning
+ Midgaard || d |    e |Cn  W | CLA       INN | W  Kn| e |  | d ||  Point
+ <----    ||   |CE  r |--| a |-----|   |-----| a |--| r  HS|   ||  ---->
+       ___||   |    s |BA| y |BK|          BH| y |GR| s |  |   ||___
+      |=--||   |--|   |  |   |  |  *   *  |  |   |  |   |--|   ||--=|
+        WG         West Wind        Ctr      East Wind            EG
+      |=__||   |--|   |--|   |  |  *   *  |--|   |--|   |--|   ||__=|
+       ---|| W |  |   |  | P |MH|         |\\|   |  | B |HQ  W ||---
+          || a |JW  S |Sh  i |--|  | S |  |--| G  Sl| u |--| a ||
+          || l |  | h |  | l |Depot  o  AG  X| l |  | s  BF| l ||
+          || l |--| a |--| f |-----| u |--|--| d |--| i    | l ||
+          |____|  | d |Tsq    Way    t     Row   Wsq| n |--|   ||
+           ---||KP  o |-   -|   |--| h |--|   |-   -| e  GI|=%=||
+"look key"    ||  | w | Thi | As|TH     PO| Ra| War | s    |Tow||
+to see the    ||--|   |-----|---|--| W |--|---|-----| s |--|===||
+meaning of    ||         Shadow      i    Business         ||
+the symbols   ||      |-   -|-    -| n |--|-  -|-  -|      ||
+              ||Deceit| LS  | Lock | d  HB| WS | AS |Corner||
+Samsera Map   ||______|-----|------|   |--|----|----|______||
+by Vex.       ||------|Water Works |   |CJ| Sab| BH ||------
+              ||      |-  --|------|   |  |-  -|-  -| 
+              ||Tower ||   Ye Olde River Road       |
+              ||______||-----------------------| P  |
+               --------                        | i  |
+                              To Ocean  <----  | e  |  ----> To Desert
+                                               | r  |
+~
+E
+key~
+Vex highly reccomends using color to view the map. Type "color complete" to
+see if your terminal supports color.
+X is the Map Room - Where you are now.
+Guilds - You can practice your skills at your guild.
+------
+Thi = Thieves Guild                Mag = Mages Guild
+As  = Assassins Guild              Ne  = Necromancers Guild
+Sd  = Shadow Dancers Guild         Cn  = Conjurers Guild
+Cle = Clerics Guild                War = Warriors Guild
+Dk  = Death Knights Guild          Sl  = Shao-lins Guild
+Kn  = Solamnic Knights Guild       Ra  = Rangers Guild
+Shops - The Water Works and Bakery sell water containers and food.
+-----
+medit save  = Magic Shop         BA  = Bakery         Water Works = Water Works :)
+AP  = Apothecary         WV  = Weaver         MS = Map Shop
+medit  = Metaphysican       GR  = Grocer         BF = Bowyer/Fletcher
+HS  = Healers Shop       GI  = Grubby Inn     AS = Armor Shop
+CE  = Casting Emporium   BH  = Boat House     WS = Weapon Shop
+JW  = Jeweler            CJ  = Captain Jack's KP = Kender's Pouch
+LS  = Leather Shop       Lock = Locksmith
+Places of Importance - The salvation army depot is a good place to start.
+--------------------
+Depot = Salvation Army Depot      AG = Adventurers Guild
+BK    = Bank                      PO = Post Office
+INN = Laughing Wench Inn -> You can save your items here for up to 30 days.
+BH  = Mother Risen's Boarding House -> Items can be saved for 120 days here.
+Ctr = The Center of Samsera -> Samsera recall scrolls take you here.
+For more of the symbols (and a few tips on where to start), type "look more"
+~
+E
+more~
+Samsera Map Key continued.
+
+Places of Interest
+------------------
+AR  = The Samsera Arena - You can battle other adventurers with out loss.
+CLA = Hall of Clans               CH   = Church of All Gods
+JU  = Hall of Justice             MH   = Mayor's House
+Tow = Tower of the Winds          Sab  = Sabrina's House of Servitude
+WG  = West Gate of Samsera        EG   = East Gate of Samsera
+NG  = North Gate of Samsera       Pier = Pier, leads to the River.
+HQ  = City Guard Head Quarters    TH   = Towne Hall
+HB  = Halls of Blood
+~
+B
+0 0 0 0
+#15910
+ruby red fire~
+a fire red ruby~
+A gem the size of your fist filles the room with a fire red glow.~
+~
+2 67174600 0 0 0 1 0 0 0
+40 30 64 67
+10 0 0
+B
+0 0 0 0
+#15911
+blue opal ~
+a blue opal~
+A sky blue stone sparkles here.~
+~
+2 67174540 0 0 0 1 0 0 0
+40 23 56 92
+10 5000 500
+B
+0 0 0 0
+#15912
+coin gold silver~
+some gold and silver coins~
+Coins of gold and silver are scattered about here.~
+~
+20 0 4096 0 0 1 0 0 0
+25000 0 0 0
+10 0 0
+B
+0 0 0 0
+#15914
+key stone carved ~
+a carved stone key~
+A carved stone lies here.~
+~
+18 67174412 0 0 0 1 0 0 0
+0 0 0 0
+10 0 0
+B
+0 0 0 0
+#15915
+fire crystal ring~
+a fire crystal~
+A crystal of fire lies here.~
+~
+11 68223563 0 0 0 3 0 0 0
+0 0 0 0
+10 5000 450
+A
+18 2
+A
+19 3
+A
+13 5
+A
+17 -5
+B
+0 0 0 0
+#15916
+black iron key nod~
+a black iron key~
+A black iron key sizzles here.~
+~
+18 67174412 0 0 0 16385 0 0 0
+0 0 0 0
+20 0 0
+B
+0 0 0 0
+#15917
+black iron key~
+a black iron key~
+A black iron key sizzles here.~
+~
+18 67174412 0 0 0 16385 0 0 0
+0 0 0 0
+20 0 0
+B
+0 0 0 0
+#15918
+amethyst gem~
+an amethyst~
+A beautiful gem lies half buried here.~
+~
+2 67174408 0 0 0 1 0 0 0
+45 49 0 0
+10 10000 1000
+B
+0 0 0 0
+$~

@@ -1,0 +1,37 @@
+warr Title The &09Green&00 &14Warrior&00 of the &07Mist&00
+db doorbash $*
+say say &08 $* &00
+qd gt going:d:q oab
+qu gt going:u:q oab
+qw gt going:w:q oab
+qs gt going:s:q oab
+qn gt going:n:q oab
+ss retreat south
+dd retreat down
+uu retreat u
+ee retreat east
+ww retreat west
+nn retreat n
+sb shield $*
+gd d;gt GOING DOWN!;k $*
+gu u;gt GOING UP!;k $*
+gw w;gt GOING WEST!;k $*
+ge e;gt GOING EAST!;k $*
+gs s;gt GOING SOUTH!;k $*
+gn n;gt GOING NORTH!;k $*
+b bash $*
+ki kick $*
+dis disarm $*
+n n;exit
+s s;exit
+e e;exit
+w w;exit
+u u;exit
+d d;exit
+cue rescue $*
+stk stand;kick
+m mu $*
+k k $*
+gt gt &08$*&00
+clan clan &14$*&04
+mu murder $*

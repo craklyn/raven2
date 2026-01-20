@@ -1,0 +1,2124 @@
+#6200
+Isles of the Pirate Lords~
+This is the rest of Lok's area. Consists of 300 rooms, with 5 or 6 islands.
+Links to ocean west of Black Market at 3601 north to 6287.
+Links to Pal at 6419 east to 23517
+Links to Myst at 6239 west to 16157.
+Links to Jungle 16473 west to 6478.
+Links to Freeport 22916 north to 6214.
+~
+62 0 0 0 0 0 255 0
+S
+#6201
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6202
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6203
+On the beach~
+You have landed on the beach of a tropical island. In the sand are 
+the marks of a large heavy object which has been dragged up the beach.
+There is a wooden sign nailed in the ground.
+~
+62 4 0 0 0 4 255 0
+D0
+On the beach~
+~
+0 -1 6471
+D1
+shallows~
+~
+0 -1 6204
+E
+wooden sign~
+The Isle of the 1st Pirate Lord: Jungle Island
+~
+S
+#6204
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6210
+D1
+shallows~
+~
+0 -1 6205
+D2
+shoals~
+~
+0 -1 6201
+D3
+land ho!~
+~
+0 -1 6203
+D5
+~
+~
+0 0 3976
+S
+#6205
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6211
+D1
+shoals~
+~
+0 -1 6206
+D2
+shoals~
+~
+0 -1 6202
+D3
+shallows~
+~
+0 -1 6204
+D5
+~
+~
+0 0 3976
+S
+#6206
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6207
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6208
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6209
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6210
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6222
+D1
+seas~
+~
+0 -1 6211
+D2
+shallows~
+~
+0 -1 6204
+D3
+shoals~
+~
+0 -1 6209
+D5
+~
+~
+0 0 3976
+S
+#6211
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6223
+D1
+shallows~
+~
+0 -1 6212
+D2
+shallows~
+~
+0 -1 6205
+D3
+shallows~
+~
+0 -1 6210
+D5
+~
+~
+0 0 3976
+S
+#6212
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6224
+D1
+land ho!~
+~
+0 -1 6213
+D2
+shoals~
+~
+0 -1 6206
+D3
+seas~
+~
+0 -1 6211
+D5
+~
+~
+0 0 3976
+S
+#6213
+Southpoint~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock you.
+~
+62 65540 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6225
+D1
+shallows~
+~
+0 -1 6214
+D2
+~
+~
+0 -1 23547
+D3
+shallows~
+~
+0 -1 6212
+D5
+~
+~
+0 0 3976
+S
+#6214
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6226
+D1
+shoals~
+~
+0 -1 6215
+D2
+shoals~
+~
+0 -1 6207
+D3
+land ho!~
+~
+0 -1 6213
+D5
+~
+~
+0 0 3976
+S
+#6215
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6216
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6217
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6218
+In a quiet cove~
+You have sailed into a quiet cove. To the south of you is a large black
+mountain, and a beach of black sand. The cove continues to the west
+and south where it enters a water cave. There is a small buoy here.
+~
+62 516 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6233
+D1
+The cove~
+~
+0 -1 6494
+D2
+The beach~
+~
+0 -1 6495
+E
+buoy small~
+2nd Isle of the Pirate Lords: Fire Island
+~
+S
+#6219
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6220
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6237
+D1
+shallows~
+~
+0 -1 6221
+D2
+shoals~
+~
+0 -1 6208
+D3
+shoals~
+~
+0 -1 6219
+D5
+~
+~
+0 0 3976
+S
+#6221
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shoals~
+~
+0 -1 6238
+D1
+shallows~
+~
+0 -1 6222
+D2
+shoals~
+~
+0 -1 6209
+D3
+shallows~
+~
+0 -1 6220
+D5
+~
+~
+0 0 3976
+S
+#6222
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6239
+D1
+seas~
+~
+0 -1 6223
+D2
+shallows~
+~
+0 -1 6210
+D3
+shallows~
+~
+0 -1 6221
+D5
+~
+~
+0 0 3976
+S
+#6223
+Seas~
+You are sailing on the high seas of the pirate lords. There is a 
+maelstrom here, sucking you downward in a whirling spiral.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6240
+D1
+seas~
+~
+0 -1 6224
+D2
+seas~
+~
+0 -1 6211
+D3
+shallows~
+~
+0 -1 6222
+D5
+Into the maelstrom~
+~
+0 -1 2000
+S
+#6224
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6241
+D1
+shallows~
+~
+0 -1 6225
+D2
+shallows~
+~
+0 -1 6212
+D3
+seas~
+~
+0 -1 6223
+D5
+~
+~
+0 0 3976
+S
+#6225
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6242
+D1
+seas~
+~
+0 -1 6226
+D2
+land ho!~
+~
+0 -1 6213
+D3
+seas~
+~
+0 -1 6224
+D5
+~
+~
+0 0 3976
+S
+#6226
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6243
+D1
+shallows~
+~
+0 -1 6227
+D2
+shallows~
+~
+0 -1 6214
+D3
+shallows~
+~
+0 -1 6225
+D5
+~
+~
+0 0 3976
+S
+#6227
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6244
+D1
+shoals~
+~
+0 -1 6228
+D2
+shoals~
+~
+0 -1 6215
+D3
+seas~
+~
+0 -1 6226
+D5
+~
+~
+0 0 3976
+S
+#6228
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6229
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6230
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6231
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6249
+D1
+shallows~
+~
+0 -1 6232
+D2
+shoals~
+~
+0 -1 6216
+D3
+shoals~
+~
+0 -1 6230
+D5
+~
+~
+0 0 3976
+S
+#6232
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6250
+D1
+shallows~
+~
+0 -1 6233
+D2
+shoals~
+~
+0 -1 6217
+D3
+shallows~
+~
+0 -1 6231
+D5
+~
+~
+0 0 3976
+S
+#6233
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shoals~
+~
+0 -1 6251
+D1
+shoals~
+~
+0 -1 6234
+D2
+A quiet cove~
+~
+0 -1 6218
+D3
+shallows~
+~
+0 -1 6232
+D5
+~
+~
+0 0 3976
+S
+#6234
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6235
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6236
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6254
+D1
+shallows~
+~
+0 -1 6237
+D2
+shoals~
+~
+0 -1 6219
+D3
+shoals~
+~
+0 -1 6235
+D5
+~
+~
+0 0 3976
+S
+#6237
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6255
+D1
+shoals~
+~
+0 -1 6238
+D2
+shallows~
+~
+0 -1 6220
+D3
+shallows~
+~
+0 -1 6236
+D5
+~
+~
+0 0 3976
+S
+#6238
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6239
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+Suddenly..you see an island just west.
+~
+62 65540 0 0 0 7 255 0
+D1
+~
+~
+0 0 6240
+D2
+~
+~
+0 0 6222
+S
+#6240
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65540 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6258
+D1
+seas~
+~
+0 -1 6241
+D2
+seas~
+~
+0 -1 6223
+D3
+shallows~
+~
+0 -1 6239
+D5
+~
+~
+0 0 3976
+S
+#6241
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6259
+D1
+seas~
+~
+0 -1 6242
+D2
+seas~
+~
+0 -1 6224
+D3
+seas~
+~
+0 -1 6240
+D5
+~
+~
+0 0 3976
+S
+#6242
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6260
+D1
+seas~
+~
+0 -1 6243
+D2
+shallows~
+~
+0 -1 6225
+D3
+seas~
+~
+0 -1 6241
+D5
+~
+~
+0 0 3976
+S
+#6243
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6261
+D1
+shallows~
+~
+0 -1 6244
+D2
+seas~
+~
+0 -1 6226
+D3
+seas~
+~
+0 -1 6242
+D5
+~
+~
+0 0 3976
+S
+#6244
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6262
+D1
+shallows~
+~
+0 -1 6245
+D2
+shallows~
+~
+0 -1 6227
+D3
+seas~
+~
+0 -1 6243
+D5
+~
+~
+0 0 3976
+S
+#6245
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6263
+D1
+shallows~
+~
+0 -1 6246
+D2
+shoals~
+~
+0 -1 6228
+D3
+shallows~
+~
+0 -1 6244
+D5
+~
+~
+0 0 3976
+S
+#6246
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6264
+D1
+shoals~
+~
+0 -1 6247
+D2
+shoals~
+~
+0 -1 6229
+D3
+shallows~
+~
+0 -1 6245
+D5
+~
+~
+0 0 3976
+S
+#6247
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6248
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6266
+D1
+seas~
+~
+0 -1 6249
+D2
+shoals~
+~
+0 -1 6230
+D3
+shoals~
+~
+0 -1 6247
+D5
+~
+~
+0 0 3976
+S
+#6249
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 0 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6267
+D1
+shallows~
+~
+0 -1 6250
+D2
+shallows~
+~
+0 -1 6231
+D3
+shallows~
+~
+0 -1 6248
+D5
+~
+~
+0 0 3976
+S
+#6250
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 0 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6268
+D1
+shoals~
+~
+0 -1 6251
+D2
+shallows~
+~
+0 -1 6232
+D3
+seas~
+~
+0 -1 6249
+D5
+~
+~
+0 0 3976
+S
+#6251
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6252
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6253
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6271
+D1
+seas~
+~
+0 -1 6254
+D2
+shoals~
+~
+0 -1 6235
+D3
+shoals~
+~
+0 -1 6252
+D5
+~
+~
+0 0 3976
+S
+#6254
+Sailing the sea of chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6272
+D1
+seas~
+~
+0 -1 6255
+D2
+shallows~
+~
+0 -1 6236
+D3
+shallows~
+~
+0 -1 6253
+D5
+~
+~
+0 0 3976
+S
+#6255
+Sailing the sea of chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6273
+D1
+shallows~
+~
+0 -1 6256
+D2
+shallows~
+~
+0 -1 6237
+D3
+seas~
+~
+0 -1 6254
+D5
+~
+~
+0 0 3976
+S
+#6256
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6274
+D1
+shoals~
+~
+0 -1 6257
+D2
+shoals~
+~
+0 -1 6238
+D3
+seas~
+~
+0 -1 6255
+D5
+~
+~
+0 0 3976
+S
+#6257
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6258
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6276
+D1
+seas~
+~
+0 -1 6259
+D2
+seas~
+~
+0 -1 6240
+D3
+shoals~
+~
+0 -1 6257
+D5
+~
+~
+0 0 3976
+S
+#6259
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65540 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6277
+D1
+seas~
+~
+0 -1 6260
+D2
+seas~
+~
+0 -1 6241
+D3
+shallows~
+~
+0 -1 6258
+D5
+~
+~
+0 0 3976
+S
+#6260
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6278
+D1
+seas~
+~
+0 -1 6261
+D2
+seas~
+~
+0 -1 6242
+D3
+seas~
+~
+0 -1 6259
+D5
+~
+~
+0 0 3976
+S
+#6261
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6279
+D1
+seas~
+~
+0 -1 6262
+D2
+seas~
+~
+0 -1 6243
+D3
+seas~
+~
+0 -1 6260
+D5
+~
+~
+0 0 3976
+S
+#6262
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6280
+D1
+seas~
+~
+0 -1 6263
+D2
+shallows~
+~
+0 -1 6244
+D3
+seas~
+~
+0 -1 6261
+D5
+~
+~
+0 0 3976
+S
+#6263
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6281
+D1
+seas~
+~
+0 -1 6264
+D2
+shallows~
+~
+0 -1 6245
+D3
+seas~
+~
+0 -1 6262
+D5
+~
+~
+0 0 3976
+S
+#6264
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6282
+D1
+shallows~
+~
+0 -1 6265
+D2
+shallows~
+~
+0 -1 6246
+D3
+seas~
+~
+0 -1 6263
+D5
+~
+~
+0 0 3976
+S
+#6265
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6283
+D1
+seas~
+~
+0 -1 6266
+D2
+shoals~
+~
+0 -1 6247
+D3
+seas~
+~
+0 -1 6264
+D5
+~
+~
+0 0 3976
+S
+#6266
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6284
+D1
+seas~
+~
+0 -1 6267
+D2
+shallows~
+~
+0 -1 6248
+D3
+shallows~
+~
+0 -1 6265
+D5
+~
+~
+0 0 3976
+S
+#6267
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6285
+D1
+shallows~
+~
+0 -1 6268
+D2
+seas~
+~
+0 -1 6249
+D3
+seas~
+~
+0 -1 6266
+D5
+~
+~
+0 0 3976
+S
+#6268
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6286
+D1
+shoals~
+~
+0 -1 6269
+D2
+shallows~
+~
+0 -1 6250
+D3
+seas~
+~
+0 -1 6267
+D5
+~
+~
+0 0 3976
+S
+#6269
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6270
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6271
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+land ho!~
+~
+0 -1 6289
+D1
+seas~
+~
+0 -1 6272
+D2
+shallows~
+~
+0 -1 6253
+D3
+shoals~
+~
+0 -1 6270
+D5
+~
+~
+0 0 3976
+S
+#6272
+Sailing the sea of chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6290
+D1
+seas~
+~
+0 -1 6273
+D2
+seas~
+~
+0 -1 6254
+D3
+shallows~
+~
+0 -1 6271
+D5
+~
+~
+0 0 3976
+S
+#6273
+Sailing the sea of chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6291
+D1
+shallows~
+~
+0 -1 6274
+D2
+seas~
+~
+0 -1 6255
+D3
+seas~
+~
+0 -1 6272
+D5
+~
+~
+0 0 3976
+S
+#6274
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shoals~
+~
+0 -1 6292
+D1
+shoals~
+~
+0 -1 6275
+D2
+shallows~
+~
+0 -1 6256
+D3
+seas~
+~
+0 -1 6273
+D5
+~
+~
+0 0 3976
+S
+#6275
+Shipwrecked on Thunder reef~
+You have run aground on the shoals and your ship has been torn asunder.
+A barnacle covered mast sticks out of the water, and leads beneath the 
+waves to the dark form of a wreck.
+~
+62 65540 0 0 0 7 255 0
+D5
+Diving underwater~
+~
+0 -1 6470
+S
+#6276
+On the seas near Thunder reef~
+You have sailed next to the famed Thunder reef, which you hear crashing
+to your west. Many a mariner has wrecked his ship there.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6294
+D1
+seas~
+~
+0 -1 6277
+D2
+shallows~
+~
+0 -1 6258
+D3
+~
+~
+0 -1 6275
+D5
+~
+~
+0 0 3976
+E
+reef thunder~
+As you look at Thunder reef, you remember the tale an old retired captain
+once told you about the Foamrunner laden with gold running aground on 
+Thunder reef.
+~
+S
+#6277
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6295
+D1
+seas~
+~
+0 -1 6278
+D2
+seas~
+~
+0 -1 6259
+D3
+seas~
+~
+0 -1 6276
+D5
+~
+~
+0 0 3976
+S
+#6278
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6296
+D1
+shallows~
+~
+0 -1 6279
+D2
+seas~
+~
+0 -1 6260
+D3
+seas~
+~
+0 -1 6277
+D5
+~
+~
+0 0 3976
+S
+#6279
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6297
+D1
+shallows~
+~
+0 -1 6280
+D2
+seas~
+~
+0 -1 6261
+D3
+seas~
+~
+0 -1 6278
+D5
+~
+~
+0 0 3976
+S
+#6280
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shoals~
+~
+0 -1 6298
+D1
+shallows~
+~
+0 -1 6281
+D2
+seas~
+~
+0 -1 6262
+D3
+shallows~
+~
+0 -1 6279
+D5
+~
+~
+0 0 3976
+S
+#6281
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6299
+D1
+seas~
+~
+0 -1 6282
+D2
+seas~
+~
+0 -1 6263
+D3
+shallows~
+~
+0 -1 6280
+D5
+~
+~
+0 0 3976
+S
+#6282
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6400
+D1
+seas~
+~
+0 -1 6283
+D2
+seas~
+~
+0 -1 6264
+D3
+shallows~
+~
+0 -1 6281
+D5
+~
+~
+0 0 3976
+S
+#6283
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6401
+D1
+seas~
+~
+0 -1 6284
+D2
+shallows~
+~
+0 -1 6265
+D3
+seas~
+~
+0 -1 6282
+D5
+~
+~
+0 0 3976
+S
+#6284
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6402
+D1
+seas~
+~
+0 -1 6285
+D2
+seas~
+~
+0 -1 6266
+D3
+seas~
+~
+0 -1 6283
+D5
+~
+~
+0 0 3976
+S
+#6285
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6403
+D1
+seas~
+~
+0 -1 6286
+D2
+seas~
+~
+0 -1 6267
+D3
+seas~
+~
+0 -1 6284
+D5
+~
+~
+0 0 3976
+S
+#6286
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6404
+D1
+shallows~
+~
+0 -1 6287
+D2
+shallows~
+~
+0 -1 6268
+D3
+seas~
+~
+0 -1 6285
+D5
+~
+~
+0 0 3976
+S
+#6287
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 0 0 0 0 7 255 0
+D0
+shoals~
+~
+0 -1 6405
+D1
+ocean
+~
+~
+0 -1 23553
+D2
+shoals~
+~
+0 -1 3601
+D3
+seas~
+~
+0 -1 6286
+S
+#6288
+Shipwrecked on the shoals~
+You are on the shoals where the attacking ship was wrecked.  You can
+go east to the open beach, or west to the shallows and then, to the
+the open seas.
+~
+62 4 0 0 0 7 255 0
+D1
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+S
+#6289
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. In the water next to
+you bobs a buoy.
+~
+62 66048 0 0 0 7 255 0
+D0
+Sailing around the atoll~
+~
+0 -1 6835
+D1
+shallows~
+~
+0 -1 6290
+D2
+shallows~
+~
+0 -1 6271
+D3
+Sailing around the atoll~
+~
+0 -1 6821
+D5
+~
+~
+0 0 3976
+E
+buoy~
+The 3rd Isle of the Pirate Lords: Pirate's Atoll~
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#6290
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shoals~
+~
+0 -1 6406
+D1
+shallows~
+~
+0 -1 6291
+D2
+seas~
+~
+0 -1 6272
+D3
+land ho!~
+~
+0 -1 6289
+D5
+~
+~
+0 0 3976
+S
+#6291
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shoals~
+~
+0 -1 6407
+D1
+shoals~
+~
+0 -1 6292
+D2
+seas~
+~
+0 -1 6273
+D3
+shallows~
+~
+0 -1 6290
+D5
+~
+~
+0 0 3976
+S
+#6292
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6293
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6294
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6410
+D1
+seas~
+~
+0 -1 6295
+D2
+seas~
+~
+0 -1 6276
+D3
+shoals~
+~
+0 -1 6293
+D5
+~
+~
+0 0 3976
+S
+#6295
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6411
+D1
+shallows~
+~
+0 -1 6296
+D2
+seas~
+~
+0 -1 6277
+D3
+shallows~
+~
+0 -1 6294
+D5
+~
+~
+0 0 3976
+S
+#6296
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+seas~
+~
+0 -1 6412
+D1
+shallows~
+~
+0 -1 6297
+D2
+seas~
+~
+0 -1 6278
+D3
+seas~
+~
+0 -1 6295
+D5
+~
+~
+0 0 3976
+S
+#6297
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 65536 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6413
+D1
+shoals~
+~
+0 -1 6298
+D2
+shallows~
+~
+0 -1 6279
+D3
+shallows~
+~
+0 -1 6296
+S
+#6298
+Shipwrecked on the shoals~
+You have run aground on the shoals and your ship has been torn asunder.
+~
+62 4 0 0 0 7 255 0
+S
+#6299
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+62 0 0 0 0 7 255 0
+D0
+shallows~
+~
+0 -1 6415
+D1
+seas~
+~
+0 -1 6400
+D2
+shallows~
+~
+0 -1 6281
+D3
+shoals~
+~
+0 -1 6298
+D5
+~
+~
+0 0 3976
+S
+$~

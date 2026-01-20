@@ -1,0 +1,27 @@
+saga cast 'sagacity' $*
+fly cast 'fly' $*
+cp cast 'cure plague' $*
+reg cast 'regen' $*
+heal cast 'heal' $*
+sen cast 'sense life' $*
+infra cast 'infra' $*
+arm cast 'armor' $*
+sanc cast 'sanc' $*
+reloc cast 'reloc' $*
+sum cast 'summon' $*
+fw clanwho
+rec cast 'word' $*
+db cast 'cure blind' $*
+rp cast 'remove poison' $*
+di cast 'detect invis' $*
+rpp cast 'remove para' $*
+bless cast 'bless' $*
+rc cast 'remove curse' $*
+r cast 'revive' $*
+h cast 'heal' $*
+fort cast 'fort' $*
+f clan &09$* &04
+g gt &09$* &00
+cl cast 'cleanse' $*
+' say &09$* &00
+cb cast 'cure blind' $*

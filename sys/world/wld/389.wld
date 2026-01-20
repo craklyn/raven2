@@ -1,0 +1,477 @@
+#38900
+The Assassin's Guild of Samsera~
+This is the Assassins Guild of Samsera.  It was reworked by Ryson
+for the implementation of the new Guild system.  It has been 
+added during the modifications of the Assassin class.
+A companion area for the Guild Leader Icon is in the works.  This
+area will be a Guild Leader Challenge area, available to all Guilds.
+~
+389 1024 0 0 0 0 255 0
+S
+#38901
+Entrance to a Dark Abandoned Building~
+   You stand in the entrance of this run down building.  Or at least it looks
+run down from this entrance.  As you peer deeper into the hallways, you notice
+that they collapse and that you can go no further.  It does not look safe to
+even be in this room.  Perhaps you should turn around and run for your very
+life.    
+~
+389 1081421 0 0 0 0 0 0
+D3
+~
+~
+0 0 18021
+E
+trap~
+The trap looks like it has been used recently.  Perhaps its not a 
+good idea for you to check it out though.
+~
+S
+Z 38900
+#38902
+A choice of halls.~
+As you step into this room the unease you felt earlier passes.
+It seems that room was some how warded to make people feel total
+discomfort, but somehow you managed to push asside that fear and
+pass through.  You are amazed at how much you feel at home now.
+There is some scribbling on the wall north that perhaps you 
+should take a look at.
+~
+389 1048652 0 0 0 0 0 0
+D0
+Information abounds.
+~
+~
+0 0 38907
+D1
+A very dark hallway.
+~
+~
+0 0 38904
+D3
+A dimly lit hallway.
+~
+~
+0 0 38903
+E
+wall scribbling writing posting north~
+The path to the west is the safest for those just learning our
+ways.  Only the Masters of our Orders dare proceed to the east.
+~
+E
+trap hole~
+This trap looks like it has been used alot.  It seems to be the 
+only exit from here.  Use it with caution.
+~
+S
+Z 38902
+#38903
+A dimly lit hallway.~
+You are traveling down a dimly lit hallway that looks well used.
+You notice that the walls are smooth and their isn't alot of room
+for fighting in these hallways.  Perhaps it was designed that way
+for a purpose.  The hallway continues to the north.
+~
+389 1048668 0 0 0 0 0 0
+D0
+A dimly lit hallway.
+~
+~
+0 0 38905
+D1
+A choice.
+~
+~
+0 0 38902
+S
+#38904
+A very dark hallway.~
+This hallway has absolutely no light in it at all.  You have to 
+travel down it using only memory and skill to avoid the dangers
+ahead.  For a master like yourself this is no problem.  The 
+hallway continues to the north, but you already know that.
+~
+389 1048653 0 0 0 0 0 0
+D0
+A very dark hallway.
+~
+~
+0 0 38906
+D3
+A choice.
+~
+~
+0 0 38902
+S
+#38905
+A dimly lit hallway.~
+You continue down this dimly lit hallway.  You pause and notice 
+a crack in the wall to the west.  It is the faint outline of a door
+with some strange markings on it.  Perhaps this would be a good 
+thing to check out, or you could continue on northward.
+~
+389 1048668 0 0 0 0 0 0
+D0
+A dimly lit hallway.
+~
+2~
+0 0 38909
+D2
+A dimly lit hallway.
+~
+~
+0 0 38903
+D3
+Starting out?
+~
+door~
+1 0 38908
+S
+#38906
+A very dark hallway.~
+The hallway continues northward from here.  Those not skilled in 
+the ways of the master should flee this hall and return to the light.
+Continue northward those who possess the skill.
+~
+389 1048589 0 0 0 0 0 0
+D0
+A very dark hallway.
+~
+1~
+0 0 38913
+D2
+A very dark hallway.
+~
+~
+0 0 38904
+S
+#38907
+The path of knowledge.~
+In awe, you stand before the shared knowledge of your peers.  Even
+the mightest of you order come here to get the latest information
+and learn about new wanders to behold.
+~
+389 124 0 0 0 0 255 0
+D2
+A choice.
+~
+~
+0 0 38902
+S
+#38908
+An apprentice's workshop.~
+An apprentice stands here and he looks none to trustworthy.  He
+notices that you are trembling and askes you would you like to
+try some of his wares.  In your confusion you barely remember to
+say yes.
+~
+389 1048668 0 0 0 0 0 0
+D1
+A dimly lit hallway.
+~
+door~
+1 0 38905
+S
+#38909
+A dimly lit hallway.~
+The hallway continues to the north and you notice more scratches
+on the wall to the west.  Again you can make out a small door.
+Perhaps you should check this out as well.
+~
+389 1048668 0 0 0 0 0 0
+D0
+A dimly lit hallway.
+~
+~
+0 0 38910
+D2
+A dimly lit hallway.
+~
+~
+0 0 38905
+D3
+A vision.
+~
+door~
+1 0 38911
+S
+#38910
+A dimly lit hallway.~
+The hallway continues to the north.  Scratches on the west wall 
+indicate yet another door.  Perhaps you should check it out?
+~
+389 1048668 0 0 0 0 0 0
+D2
+A dimly lit hallway.
+~
+~
+0 0 38909
+D3
+A place of rest.
+~
+door~
+1 0 38917
+S
+#38911
+The Grandmasters Vision.~
+You enter the room and a Vision of the Grandmaster appears before
+you.  Although he seems insubstantial, you believe that the lessons
+he can teach are worth the price.
+~
+389 1048668 0 0 0 0 0 0
+D1
+A dimly lit hallway.
+~
+door~
+1 0 38909
+S
+#38912
+1~
+You are in an unfinished room.
+~
+389 0 0 0 0 0 255 0
+S
+#38913
+A very dark hallway.~
+The hallway continues northward into the darkness.  You sense that
+danger could come from either side of you.  Beware.
+~
+389 1048589 0 0 0 0 0 0
+D0
+A very dark hallway.
+~
+~
+0 0 38914
+D1
+A refreshing change.
+~
+door stone~
+1 0 38915
+D2
+A very dark hallway.
+~
+~
+0 0 38906
+D3
+A refreshing change.
+~
+door stone~
+1 0 38916
+S
+#38914
+A very dark hallway.~
+The hallway continues north, or you could return south.  You sense 
+more danger from the east and the west here.
+~
+389 1048589 0 0 0 0 0 0
+D0
+A very dark hallway.
+~
+~
+0 0 38918
+D1
+A refreshing change.
+~
+door~
+1 0 38919
+D2
+A very dark hallway.
+~
+~
+0 0 38913
+D3
+A refreshing change.
+~
+door~
+1 0 38920
+S
+#38915
+A resting place.~
+This room beckons you with its comfort.  Perhaps here would be a 
+good place to get some much needed rest.  Be careful to remember,
+this is the most dangerous time for one of your skill.  Perhaps
+some precautions are needed after all.
+~
+389 1441805 0 0 0 0 0 0
+D3
+A very dark hallway.
+~
+door stone~
+1 0 38913
+E
+door~
+A solid door is here, waiting for you to place a trap around it.
+~
+S
+Z 38901
+#38916
+A resting place.~
+This room beckons you with its comfort.  Perhaps here would be a 
+good place to get some much needed rest.  Be careful to remember,
+this is the most dangerous time for one of your skill.  Perhaps
+some precautions are needed after all.
+~
+389 1441805 0 0 0 0 0 0
+D1
+A very dark hallway.
+~
+door~
+1 0 38913
+E
+door~
+A solid door is here, waiting for you to place a trap around it.
+~
+S
+Z 38901
+#38917
+An abandoned room.~
+This room looks to have been abandoned for quite awhile.  You can
+still see the luxurous furniture that lines the walls, but they 
+are covered with cobwebs and dust.  Perhaps this would be a good 
+place to get some relaxation.
+~
+389 1441800 0 0 0 0 0 0
+D1
+A dimly lit hallway.
+~
+door~
+1 0 38910
+S
+#38918
+A very dark hallway.~
+You are at the end of a very dark hallway.  Or is it.  You sense
+danger could come at you from all sides.  Perhaps you should leave 
+this place.
+~
+389 1048589 0 0 0 0 0 0
+D0
+A refreshing change
+~
+door~
+1 0 38922
+D1
+A refreshing change
+~
+door~
+1 0 38923
+D2
+A very dark hallway.
+~
+~
+0 0 38914
+D3
+A refreshing change
+~
+door~
+1 0 38924
+S
+#38919
+A resting place.~
+This room beckons you with its comfort.  Perhaps here would be a 
+good place to get some much needed rest.  Be careful to remember,
+this is the most dangerous time for one of your skill.  Perhaps
+some precautions are needed after all.
+~
+389 1441801 0 0 0 0 0 0
+D3
+A very dark hallway.
+~
+door~
+1 0 38914
+E
+door~
+A solid door is here, waiting for you to place a trap around it.
+~
+S
+Z 38901
+#38920
+A resting place.~
+This room beckons you with its comfort.  Perhaps here would be a 
+good place to get some much needed rest.  Be careful to remember,
+this is the most dangerous time for one of your skill.  Perhaps
+some precautions are needed after all.
+~
+389 1441801 0 0 0 0 0 0
+D1
+A very dark hallway.
+~
+door~
+1 0 38914
+E
+trap door_trap~
+A solid door is here, waiting for you to place a trap around it.
+~
+S
+Z 38901
+#38921
+A masters walk.~
+This is a room where even the mightest of masters tremble.  It is
+here that the challenge of Guild Master is decreed.  Do you dare
+try your puny talents against one so mighty?  Only the most gifted
+of your order has ever been successful in obtaining the Guild Icon.
+Perhaps your time has come?
+~
+389 92 0 0 0 0 255 0
+D2
+~
+~
+0 0 38907
+S
+#38922
+A resting place.~
+This room beckons you with its comfort.  Perhaps here would be a 
+good place to get some much needed rest.  Be careful to remember,
+this is the most dangerous time for one of your skill.  Perhaps
+some precautions are needed after all.
+~
+389 1441805 0 0 0 0 0 0
+D2
+A very dark hallway
+~
+door~
+1 0 38918
+E
+door~
+A solid door is here, waiting for you to place a trap around it.
+~
+S
+Z 38901
+#38923
+A resting place.~
+This room beckons you with its comfort.  Perhaps here would be a 
+good place to get some much needed rest.  Be careful to remember,
+this is the most dangerous time for one of your skill.  Perhaps
+some precautions are needed after all.
+~
+389 1441805 0 0 0 0 0 0
+D3
+A very dark hallway.
+~
+door~
+1 0 38918
+E
+door~
+A solid door is here, waiting for you to place a trap around it.
+~
+S
+Z 38901
+#38924
+A resting place.~
+This room beckons you with its comfort.  Perhaps here would be a 
+good place to get some much needed rest.  Be careful to remember,
+this is the most dangerous time for one of your skill.  Perhaps
+some precautions are needed after all.
+~
+389 1441805 0 0 0 0 0 0
+D1
+A very dark hallway.
+~
+door~
+1 0 38918
+E
+door~
+A solid door is here, waiting for you to place a trap around it.
+~
+S
+Z 38901
+$~

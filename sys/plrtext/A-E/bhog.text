@@ -1,0 +1,50 @@
+0 enter well
+9 gt sum
+g get all all.cor
+pp rec rec rec;d;w;w;s;enter portal;enter pool;area
+o order follower$*
+poi cast ' poison '$*
+dis cast ' disease '$*
+tomb cast ' entomb corpse '$*
+de cast ' debilitate '$*
+nox cast ' noxious skin '$*
+em cast ' embalm '$*
+shield cast ' shield '$*
+invis cast ' invis '$*
+con cast ' consume corpse '$*
+life cast ' life drain '$*
+po cast ' poison '$*
+di cast ' detect invisibility '$*
+fly cast ' fly '$*
+bl cast ' blindness '$*
+sum cast ' summon '$*
+c calm
+wa wake;stand
+say say &07|&00&02$*&00 &07|&00
+gs gt &07|&00&02$*&00 &07|&00
+clan clan &07|&00&02$*&00 &07|&11
+ooc ooc &07|&00&02$*&00 &07|&09
+infra cast ' infra '$*
+soul cast ' soul pierce '$*
+cs cast ' summon corpse '$*
+age cast ' age '$*
+cc cast ' charm corpse '$*
+sense cast ' sense life '$*
+ga group all
+ward cast ' create warding '$*
+wraith cast ' wraithform '$*
+bone cast ' bone wall '$*
+slow cast ' slow '$*
+sil cast ' silence '$*
+resist cast ' resist '$*
+home n;n;n;n;n;n;n;n;n;e;e;s;e;
+mal cast ' mal '$*
+deb cast 'debilitate' $*
+f ord fol murder $1
+b cast ' blind ' $*
+k order follower kill$*
+go nosummon;norecall
+y ' take me to elru
+gg get co
+gr group all
+a assist$*

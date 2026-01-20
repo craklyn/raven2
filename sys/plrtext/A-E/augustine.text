@@ -1,0 +1,41 @@
+1 assist
+corpse get all augustine; wear all; hold combat wield lance
+c $* $*
+rt retarget $*
+h cas 'prayer of life' $*
+hw cas 'holy word' 
+rv cas 'righteous vision'
+tit title :: &11Deep Knight&00 of the Shield {&10ON&00}
+regen cas 'regenerate' $*
+dm cas 'divine mission'
+da disarm $*
+cw cas 'create water' $*
+y get egg
+re retreat $*
+rp cas 'remove poison' $*
+align cas 'detect alignment' $*
+cs cas 'call steed'
+g sting $*
+pfe cas 'protection from evil'
+b bash $*
+cf cas 'create food'
+tu turn $*
+k kick $*
+di cas 'detect invisibility' $*
+armor cas 'armor' $*
+r rescue $*
+rc cas 'remove curse' $*
+de cas 'dispel evil' $*
+holy cas 'holy armor'
+bh cas 'banish' $*
+rb cas 'cure blind' $*
+v scan $*
+x recite elven $*
+p cas 'remove para' $*
+a block
+rg cas 'cure plague' $*
+cd cas 'crusade'
+2 charge mulgrave
+ch charge $* $*
+mou mount steed
+f bash gangrel

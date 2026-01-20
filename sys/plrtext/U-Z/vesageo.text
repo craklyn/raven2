@@ -1,0 +1,50 @@
+rp cast 'rem para'$*
+clm cast 'calm'$*
+clan clan &14$* &00
+cs cast 'flame strike'$*
+calm cast 'calm'$*
+wis sa ring of wisdom, captains jacket, tattered cloak?
+zones sa dtd, tuatha, outer galaxy, fairhaven sewers
+dis cast 'dishearten'$*
+blah put all bupu;get all.scroll bupu;get all.potion bupu;get all.mushroom bupu
+cb cast 'cure blind'$*
+b cast 'blind'$*
+fort cast 'fortify'$*
+sanc cast 'sanc'$*
+f cast 'fly'$*
+h cast 'heal'$*
+armor cast 'armor'$*
+ward cast 'ward'$*
+sense cast 'sense life'$*
+wa wake;stand
+di cast 'detect invis'$*
+food cast 'create food'
+bless cast 'bless'$*
+sum cast 'summon'$*
+word cast 'word of recall'$*
+rc cast 'remove curse'$*
+sag cast 'sagacity'$*
+harm cast 'harm'$*
+rev cast 'revive'$*
+relo cast 'relocate' $*
+second cast 'assistant'
+grec cast 'word' group
+gt gt &14$* &00
+male c 'maledic' $*
+reg c 'regenerate' $*
+cp cast 'cure plague'$*
+ban cast 'banish'$*
+da cast 'detect align'$*
+cls cast 'cleanse'$*
+goto cast 'relocate'$*
+door open door e;open door w;open door n;open door s;open door up;open door d
+nats say Naked Stats: Str: 15/0, Int: 17, Wis: 15, Dex: 19, Con: 16, Cha: 10
+i cast 'earthquake'
+mana rem amulet;wear feath
+nomana rem feather;wear amulet
+say emote says, '&18&14$* &00'
+loot get all vesa;wear all;get all vesa;destroy vesa
+mal cast 'maledict'$*
+tit title :: the &09Wandering&00 Ancient
+cm cast 'calm'$*
+g cast 'sum' thog

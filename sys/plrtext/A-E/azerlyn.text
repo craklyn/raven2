@@ -1,0 +1,26 @@
+sh cast 'shocking grasp' $*
+str cast 'strength' $*
+has cast 'haste' $*
+yas assist yashiro
+fb cast 'flame blade' $*
+ts cast 'true sight' $*
+fo order follower kill $*
+el order elemental kill $*
+clan clan &14$*&00
+de destroy corpse
+lif cast 'life drain' $*
+aw cast 'awaken' $*
+col cast 'color spray' $*
+dr drink thimble
+sl cast 'sleep' $*
+sum cast 'summon' $*
+infra cast 'infravision' $*
+bl cast 'blindness' $*
+shi cast 'shield' $*
+invis cast 'invisibility' $*
+fly cast 'fly' $*
+mon cast 'monster summon'
+ch cast 'charm' $*
+bre eat bread
+conj cast 'conjure elemental'
+id cast 'identify' $*

@@ -1,0 +1,1342 @@
+#3100
+Wall Road~
+    A bridge leads north across the river into Northern Midgaard.  A
+cobblestone road leads to the east along the river and to the south along
+the city wall.  You are now in southern Midgaard.
+~
+31 32768 0 0 0 1 255 0
+D0
+You see the Bridge.
+~
+~
+0 -1 3051
+D1
+The road continues along the river.
+~
+~
+0 -1 3189
+D2
+The road continues far south.
+~
+~
+0 -1 3106
+D3
+~
+~
+0 0 3567
+S
+#3101
+River Road~
+   The river gently flows by just north of here, on the other side of a tall
+fence made from iron spears.  The road continues east and west along the river.
+  
+~
+31 32768 0 0 0 1 255 0
+D1
+The river road.
+~
+~
+0 -1 3188
+D3
+The river road leads west toward the city wall.
+~
+~
+0 -1 3189
+S
+#3102
+River Road~
+   The river gently flows by just north of here, on the other side of a tall
+fence made from iron spears.  The road continues east and west along the river
+~
+31 32768 0 0 0 1 255 0
+D1
+The river road continues east.
+~
+~
+0 -1 3103
+D3
+The river road continues west.
+~
+~
+0 -1 3188
+S
+#3103
+River Road~
+   The river gently flows by just north of here, on the other side of a tall
+fence made from iron spears.  The road continues east and west along the
+river.  
+~
+31 32768 0 0 0 1 255 0
+D1
+The road continues to the east toward the city wall.
+~
+~
+0 -1 3104
+D3
+The road continues west along the river.
+~
+~
+0 -1 3102
+S
+#3104
+Wall Road~
+    A bridge leads north across the river into Northern Midgaard.  A
+cobblestone road leads to the west along the river and to the south along
+the city wall.  You are now in southern Midgaard.
+~
+31 32768 0 0 0 1 255 0
+D0
+You see the Bridge.
+~
+~
+0 -1 3085
+D2
+The road continues south.
+~
+~
+0 -1 3107
+D3
+The road continues along the river.
+~
+~
+0 -1 3103
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3105
+Baron's Road~
+    The reason this cobblestone road is so well kept becomes obvious as
+you look to the east.  A beautiful oak door with the words "Office of
+Baron Maltious of The Free City of Midgaard" blocks the entrance to a
+large stone building.  The road continues to the south and the river road
+lies to the north.
+~
+31 32768 0 0 0 1 255 0
+D0
+The river road lies to the north.
+~
+~
+0 -1 3169
+D1
+You see the door to the Baron's office.
+~
+barons door~
+1 0 3137
+D2
+The road continues south.
+~
+~
+0 -1 3108
+S
+#3106
+West Wall Road~
+   The gravel runs north and south a long the west wall and the tall iron fence
+surrounding the graveyard.  The colors seem very dull and misty.  The sounds of
+leaves rustling and stones crunching under your feet give off an eerie feeling.
+~
+31 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 3100
+D2
+~
+~
+0 0 3120
+S
+#3107
+Wall Road~
+   The gravel runs north and south a long the west wall and the tall iron fence
+surrounding the graveyard.  The colors seem very dull and misty.  The sounds of
+leaves rustling and stones crunching under your feet give off an eerie feeling.
+  
+~
+31 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 3104
+D2
+~
+~
+0 0 3109
+S
+#3108
+Baron's Road~
+    This well-kept cobblestone road runs in front of the Baron's local
+office.  The road continues north and south.  To the west, you can hear
+the sounds of mock-combat coming from the other side of a tall stone wall.
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues north toward the river.
+~
+~
+0 -1 3105
+D2
+~
+~
+0 0 3124
+S
+#3109
+Wall Road~
+   The gravel runs north and south a long the west wall and the tall iron fence
+surrounding the graveyard.  The colors seem very dull and misty.  The sounds of
+leaves rustling and stones crunching under your feet give off an eerie feeling.
+  
+~
+31 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 3107
+D2
+~
+~
+0 0 3176
+S
+#3110
+By the Grand Altar of Clerics~
+   While services are not in session, the grand alter is being used as a 
+display area for various church crafted items. While you are not required 
+to buy any items, it is highly recommended since all profits go to the 
+church, which in turn benefits the gods.
+~
+31 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 3002
+S
+#3111
+The Cellar~
+   This gathering room is where the ranger's come to trade tales over a 
+mug of stout, and perhaps to trade a few items too. Equipment has been 
+stored here in case an emergency should ever arise. You might even be able 
+to convince the quartermaster to part with a few pieces, should you give 
+him enough gold for them. 
+~
+31 524 0 0 0 0 255 0
+D4
+~
+~
+0 0 3075
+S
+#3112
+The Knight's Armory~
+   This is where the knight's stockpile their weapons and armor. All knights 
+must attempt to improve their armor and weapons whenever they get a chance, 
+for only the finest equipped knight is worthy of serving their god. You can 
+buy weapons and armor here if you need to, the knights are all too happy to 
+prepare one of their own for a battle.
+~
+31 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 3073
+S
+#3113
+The Chamber of Swords~
+   This is where the warriors store their equipment. Any type of weapon and 
+several types of armors can be found here. Most are items that are designed 
+for daily use, but several are mere show pieces designed for parade work. 
+If you need some equipment, then this is the place for you.
+~
+31 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 3023
+S
+#3114
+The Chamber of Destruction~
+   Weapons and armor are stored here. Death knights still prefer to wear 
+armor, often donning full plate mail, almost always char black if possible. 
+The guild has elected to sell extra armor and weapons, much of which was 
+probably taken off students who died in training. If you need equipment, 
+you've come to the right place.
+~
+31 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 3077
+S
+#3115
+The Hall of Dragons~
+   The way of the shou-lin is a simple path, seldom are they burdened with 
+the material goods that slow most people down. The shou-lin only carries 
+what he needs for survival, clothes and food. Seldom do they use money, but 
+accept that there are uses for such, hence the need for this store in the 
+temple.
+~
+31 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 3079
+S
+#3116
+A Large Storeroom~
+   In contrast to the room upstairs, this room is overflowing with items.  
+Since this room is only accessible to assassains, and since there is honor 
+among them, they feel safe about storing their ill-begotten rewards here. 
+Equipment, furniture, arms and armors can be found in massive piles, all 
+arranged according to type.
+~
+31 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 3081
+S
+#3117
+A Large Storeroom~
+   In contrast to the room upstairs, this room is overflowing with items.  
+Since this room is only accessible to thieves, and since there is honor among
+thieves, they feel safe about storing their ill-begotten rewards here.  
+Equipment, furniture, arms and armors can be found in massive piles, all
+arranged according to type.  An outline of a trapdoor can be seen on the
+ground, most likely a secret exit out of the Thief Guild.    
+~
+31 1049096 4 0 0 0 255 0
+D4
+~
+~
+0 0 3029
+D5
+A secret exit leads down to the tanner shop.
+~
+trapdoor~
+1 0 3086
+S
+#3118
+The Storeroom~
+   Mages tend to be magnificent pack-rats, keeping items for as long as 
+possible. This room exemplifies the typical mage, cluttered and disorganized 
+as possible. Who knows what you might be able to find in the stacks of 
+scrolls and books, but be careful what you read, you never know when you 
+might stumble across the godderdamerung spell!
+~
+31 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 3019
+S
+#3119
+The Equipment Chamber~
+   Various dance equipment is held here. It also seems that several of the 
+martial arts groups store their equipment here too. Several swords are 
+hanging on the wall, except they look incredibly real to be used in a 
+training class. Perhaps you're missing something here.
+~
+31 520 0 0 0 0 255 0
+D4
+~
+~
+0 0 3083
+S
+#3120
+West Wall Road~
+   The gravel runs north and south a long the west wall and the tall iron fence
+surrounding the graveyard.  The colors seem very dull and misty.  The sounds of
+leaves rustling and stones crunching under your feet give off an eerie feeling.
+~
+31 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 3106
+D2
+~
+~
+0 0 3187
+S
+#3121
+The Graveyard~
+   Walking slowly around the graveyard.  Looking at the crumbling headstones.
+Big ones, small ones, old ones, new ones.  Every one seems the same.    
+~
+31 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 3151
+D2
+~
+~
+0 0 3122
+S
+#3122
+The Graveyard~
+   Birds chirping everyhwere.  Sound of gravel at your feet.  The breezy wind
+blowing at your face.  Reading the crumbling headstones.    
+~
+31 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 3121
+D1
+~
+~
+0 0 3150
+S
+#3123
+The Graveyard~
+   Looking at headstones.  Words disappearing, overgrown bushes and trees.  
+Weeds growing out of nowhere.  Wondering how the dead had lived.  Whether they
+are old or young.  What they wore, how they lived.  No one would ever know.  
+
+~
+31 0 0 0 0 0 255 0
+D3
+~
+~
+0 0 3157
+S
+#3124
+Baron's Road~
+   This well-kept cobblestone road runs in front of the Baron's local office.
+The road continues north and south.  To the west, you can hear the sounds of
+mock-combat coming from the other side of a tall stone wall.    
+~
+31 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 3108
+D2
+~
+~
+0 0 3175
+S
+#3127
+Wall Road~
+   You are at the southwest corner of the city wall.  The Wall road leads
+both north and east.
+~
+31 32768 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3182
+D1
+~
+~
+0 -1 3128
+S
+#3128
+Wall Road~
+   The wall road continues both east and west.  You can see the graveyard
+through an iron-spear fence to the north.
+~
+31 32768 0 0 0 1 255 0
+D1
+~
+~
+0 -1 3173
+D3
+~
+~
+0 -1 3127
+S
+#3129
+Wall Road~
+   The wall road continues both east and west.  You can see the graveyard
+through an iron-spear fence to the north.
+~
+31 32768 0 0 0 1 255 0
+D1
+The road continues along the wall.
+~
+~
+0 -1 3130
+D3
+The road continues along the wall.
+~
+~
+0 -1 3175
+S
+#3130
+Wall Road~
+   You are at the southeast corner of the city wall.  The Wall road leads
+both north and west.
+~
+31 32768 0 0 0 1 255 0
+D0
+~
+~
+0 -1 3181
+D2
+~
+~
+0 0 3199
+D3
+~
+~
+0 -1 3129
+S
+#3137
+The Waiting Room~
+   You are standing in the waiting room of the Baron's office.  Wooden chairs
+stand along the walls and a long desk sits in the middle of the room. The
+Baron's audience chamber lies to the south.
+~
+31 32780 0 0 0 0 255 0
+D2
+The Baron's audience chamber lies to the south.
+~
+~
+0 -1 3138
+D3
+The exit west leads to the Baron's Road.
+~
+door wooden~
+1 0 3105
+E
+chair chairs~
+Not the very least comfortable.
+~
+E
+desk~
+An extremely heavy desk.  It is so large that it doesn't even need drawers.
+Everything can be stored on its top.
+~
+S
+#3138
+The Baron's Audience Chamber.~
+   You are in the audience chamber of the Baron of the Free City of Midgaard.
+A large and polished but completely empty desk is standing in front of an
+armchair that looks so comfortable that it resembles a bed with the head end
+raised slightly.  This is where the Newly-styled Baron of Midgaard dispatches
+his Barronial duties.  His residence is a small castle north of town.
+~
+31 32776 0 0 0 0 255 0
+D0
+The waiting room is to the north.
+~
+~
+0 -1 3137
+E
+desk~
+This desk is obviously very old.  Nevertheless it looks as if has never been
+used.
+~
+E
+chair armchair~
+This chair is really a masterpiece.  A chair where one can sit as comfortably
+as in a bed.  All auditoriums should be equipped with these things.
+~
+S
+#3148
+The Graveyard Entrance~
+  Before you, you see two rusted out gates. One side of the gates has been
+knocked off it its hinges and lies on the ground, partially covered in leaves.
+The other swings recklessly back and forth, making a horrid scrreeeeeeching
+noise.
+~
+31 5 0 0 0 2 255 0
+D0
+~
+~
+0 0 3149
+D2
+~
+gate~
+1 0 3170
+S
+#3149
+The Graveyard~
+  For as far as you can see, old grave markers jet up out of the leaves
+and debris of an unkept graveyard. The tender of this establishment appears
+to have long since abandoned the property and left it to disarray.
+~
+31 1 0 0 0 2 255 0
+D0
+~
+~
+0 0 3160
+D1
+~
+~
+0 0 3158
+D2
+~
+~
+0 0 3148
+D3
+~
+~
+0 0 3150
+S
+#3150
+The Graveyard~
+  To your west and south, a small iron fence surrounds the small graveyard,
+worn by years of neglect. Beyond the graveyard, you can only see an
+immense grove of Oak trees that look as ancient as the dragon and unwavering
+in their purpose. This grove completely surrounds the graveyard.
+~
+31 1 0 0 0 2 255 0
+D0
+~
+~
+0 0 3151
+D1
+~
+~
+0 0 3149
+D3
+~
+~
+0 0 3122
+S
+#3151
+The Graveyard~
+  A small iron fence surrounds the west end of this small graveyard. The
+fence is rusted out, piles of stones jump out of the ground and
+leaves blow off the old Oak trees and circle around the grave markers.
+~
+31 1 0 0 0 2 255 0
+D0
+~
+~
+0 0 3152
+D1
+~
+~
+0 0 3160
+D2
+~
+~
+0 0 3150
+D3
+~
+~
+0 0 3121
+S
+#3152
+The Graveyard~
+  You are in the northwest corner of the old graveyard. Dead leaves
+crackle with each step you take. A curious wind stirs the air and
+sends a chill up your spine. To your left, you see a strange stone
+door, worn by years of neglect.
+~
+31 1 0 0 0 2 255 0
+D1
+~
+~
+0 0 3154
+D2
+~
+~
+0 0 3151
+D3
+~
+door stone crypt~
+1 0 3153
+S
+#3153
+A Stone Crypt~
+  You have entered a small stone crypt that appears to have been built
+hundreds of years ago as a tribute to a Warrior of Honor. On the east wall
+a small plaque appears to have an incription. Cob webs stretch from one side
+of the crypt to the other in an intricate pattern.
+~
+31 0 0 0 0 0 255 0
+D1
+~
+door stone crypt~
+1 0 3152
+S
+#3154
+The Graveyard~
+  A small iron fence surrounds the north end of this small graveyard. The
+fence is rusted out, piles of stones jump out of the ground and
+leaves blow off the old Oak trees and circle around the grave markers.
+~
+31 1 0 0 0 2 255 0
+D1
+~
+~
+0 0 3155
+D2
+~
+~
+0 0 3160
+D3
+~
+~
+0 0 3152
+D5
+~
+~
+0 0 16771
+S
+#3155
+The Graveyard~
+  You are in the northeast corner of the old graveyard. Dead leaves
+crackle with each step you take. A curious wind stirs the air and
+sends a chill up your spine. In front of you, a strange stone
+door appears, worn by years of neglect.
+~
+31 1 0 0 0 2 255 0
+D1
+~
+door stone~
+1 -1 3156
+D2
+~
+~
+0 0 3157
+D3
+~
+~
+0 0 3154
+S
+#3156
+A Stone Crypt~
+  You have entered a small stone crypt that appears to have been built
+hundreds of years ago as a tribute to a Warrior of Honor. On the east wall
+a small plaque appears to have an inscription. Cob webs stretch from one side
+of the crypt to the other in an intricate pattern.
+~
+31 0 0 0 0 0 255 0
+D3
+~
+door stone~
+1 -1 3155
+S
+#3157
+The Graveyard~
+  A small iron fence surrounds the east end of this small graveyard. The
+fence is rusted out, piles of stones jump out of the ground and
+leaves blow off the old Oak trees and circle around the grave markers.
+~
+31 1 0 0 0 2 255 0
+D0
+~
+~
+0 0 3155
+D1
+~
+~
+0 0 3123
+D2
+~
+~
+0 0 3158
+D3
+~
+~
+0 0 3160
+S
+#3158
+The Graveyard~
+  You are in the southeast corner of the old graveyard. Dead leaves
+crackle with each step you take. A curious wind stirs the air and
+sends a chill up your spine. To your right, a strange stone
+door appears, worn by years of neglect.
+~
+31 1 0 0 0 2 255 0
+D0
+~
+~
+0 0 3157
+D1
+~
+stone door crypt~
+1 0 3159
+D3
+~
+~
+0 0 3149
+S
+#3159
+A Stone Crypt~
+  You have entered a small stone crypt that appears to have been built
+hundreds of years ago as a tribute to a Warrior of Honor. On the east wall
+a small plaque appears to have an incription. Cob webs stretch from one side
+of the crypt to the other in an intricate pattern.
+~
+31 1 0 0 0 0 255 0
+D3
+~
+door stone crypt~
+1 0 3158
+S
+#3160
+The Graveyard~
+  Standing in the center of this burial site, surrounded by gravemarkers
+of Raven's finest and oldest adventurers, you are overcome with an incredible
+sense of awe. These souls gave their lives to build and protect the world
+you now inhabit. Are you strong and wise enough to continue the legacy
+of Raven?
+~
+31 1 0 0 0 2 255 0
+D0
+~
+~
+0 0 3154
+D1
+~
+~
+0 0 3157
+D2
+~
+~
+0 0 3149
+D3
+~
+~
+0 0 3151
+S
+#3162
+Training Yard~
+    Several sword dummies and other practice devices are arranged about this
+large yard.  This is where the city guards hone their combat skills.
+~
+31 32768 0 0 0 1 255 0
+D0
+The indoor training room lies to the north.
+~
+~
+0 -1 3166
+S
+#3163
+Barracks~
+    Rows of bunks dominate this room.  The privy lies to the west and more
+of the barracks lies to the north.
+~
+31 32776 0 0 0 0 255 0
+D0
+More barracks
+~
+~
+0 -1 3167
+D3
+You can see/smell the privy to the west.
+~
+~
+0 -1 3164
+S
+#3164
+Privy~
+   A long, stone trench runs along the west wall of this room.  From the smell,
+you can easily deduce what this room is used for.    
+~
+31 32776 0 0 0 0 255 0
+D1
+The barracks lies to the east.
+~
+~
+0 -1 3163
+S
+#3165
+Guard Captain's Office.~
+You are standing in the office of the Captain of the Guard.  A large desk
+sits directly opposite the door. Beyond the desk you can see a small bed 
+against the west wall.
+~
+31 32776 0 0 0 0 255 0
+D1
+The door to the barracks blocks the way east.
+~
+barracks door~
+1 0 3167
+S
+#3166
+Training Room~
+   This room doubles as a training room and classroom.  Several dummies and
+other weapons-training devices adorn the room.    
+~
+31 32776 0 0 0 0 255 0
+D2
+You can see out into the training yard.
+~
+~
+0 -1 3162
+D3
+The doorway leads back into the barracks.
+~
+~
+0 -1 3167
+S
+#3167
+Barracks~
+    Rows of bunks dominate this room.  The office of the Captain of the
+Guard lies to the west and the training room lies to the east.
+~
+31 32776 0 0 0 0 255 0
+D0
+The door leads out onto the river road.
+~
+door~
+1 0 3171
+D1
+The doorway leads to the training room.
+~
+~
+0 -1 3166
+D2
+More bunks
+~
+~
+0 -1 3163
+D3
+A large door blocks the way to the Captain of the Guard's room.
+~
+large door~
+1 0 3165
+S
+#3168
+Graveyard Road~
+   This road leads east and west along the fence to the church graveyard.    
+~
+31 32772 0 0 0 1 255 0
+D1
+The road continues to the east.
+~
+~
+0 -1 3178
+D3
+The road continues to the west.
+~
+~
+0 -1 3169
+S
+#3169
+Graveyard Road~
+   This road leads east and west along the fence to the church graveyard.  A
+large metal gate blocks entrance into the graveyard.    
+~
+31 32768 0 0 0 1 255 0
+D1
+The road continues to the east.
+~
+~
+0 -1 3168
+D2
+A large metal gate blocks the way into the graveyard. 
+~
+~
+0 -1 3105
+D3
+The road continues to the west.
+~
+~
+0 -1 3170
+S
+#3170
+Graveyard Road~
+   This road leads east and west along the fence to the church graveyard.    
+To the north lies a gate and the entrance to the graveyard.
+The graveyard to the north is covered in deep shadows and you
+will probably need some form of light to find your way.
+~
+31 32832 0 0 0 1 255 0
+D0
+~
+gate~
+1 0 3148
+D1
+The road continues to the east.
+~
+~
+0 -1 3169
+D3
+The road continues to the west.
+~
+~
+0 -1 3171
+S
+#3171
+Graveyard Road~
+   This road leads east and west along the fence to the church graveyard.  A
+large building lies directly south of you.  A sign above the door proclaims it
+to be the City Guard Barracks and Training facility of Midgaard.    
+~
+31 32768 0 0 0 1 255 0
+D1
+The road continues to the east.
+~
+~
+0 -1 3170
+D2
+~
+iron door~
+1 0 3167
+D3
+The road continues to the west.
+~
+~
+0 -1 3172
+S
+#3172
+Graveyard Road~
+   This road leads east and west along the fence to the church graveyard.  To
+the north lies a large crypt, guarded by the fierce statue of a tall woman with
+a sword pointed towards the ground in warning.
+~
+31 32772 0 0 0 1 255 0
+D1
+The road continues to the east.
+~
+~
+0 -1 3171
+D3
+The road continues to the west.
+~
+~
+0 -1 3185
+S
+#3173
+South Wall Road~
+   This road runs between the graveyard and the south wall.    
+~
+31 32768 0 0 0 1 255 0
+D1
+This road coninues to the east.
+~
+~
+0 -1 3174
+D3
+The road continues to the west.
+~
+~
+0 -1 3128
+S
+#3174
+South Gate of Midgaard~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  A tall fence of iron
+spears blocks passage to the north.  The wall road runs east and west just
+inside the gate.    
+~
+31 32768 0 0 0 1 255 0
+D1
+The wall road continues east.
+~
+~
+0 -1 3175
+D2
+The south gate lies closed to the south.
+~
+~
+0 -1 -1
+D3
+The wall road continues west.
+~
+~
+0 -1 3173
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3175
+South Wall Road~
+   This road runs between the graveyard and the south wall.    
+~
+31 32768 0 0 0 1 255 0
+D0
+~
+~
+0 0 3124
+D1
+This road coninues to the east.
+~
+~
+0 -1 3129
+D3
+The road continues to the west.
+~
+~
+0 -1 3174
+S
+#3176
+East Wall Road~
+   This road runs along the east wall of Southern Midgaard.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The river road lies to the north.
+~
+~
+0 -1 3109
+D2
+The road continues south.
+~
+~
+0 -1 3177
+S
+#3177
+East Wall Road~
+   This road runs along the east wall of Southern Midgaard.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3176
+D2
+The road continues south.
+~
+~
+0 -1 3178
+S
+#3178
+East Wall Road~
+   This road runs along the east wall of Southern Midgaard.  The Graveyard Road
+lies to the west.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3177
+D2
+The road continues south.
+~
+~
+0 -1 3179
+D3
+The Graveyard Road leads west from here.
+~
+~
+0 -1 3168
+S
+#3179
+East Wall Road~
+   This road runs along the east wall of Southern Midgaard.  A tall fence of
+iron spears blocks passage to the west.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3178
+D2
+The road continues south.
+~
+~
+0 -1 3180
+S
+#3180
+East Wall Road~
+   This road runs along the east wall of Southern Midgaard.  A tall fence of
+iron spears blocks passage to the west.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3179
+D2
+The road continues south.
+~
+~
+0 -1 3181
+S
+#3181
+East Wall Road~
+   This road runs along the east wall of Southern Midgaard.  A tall fence of
+iron spears blocks passage to the west.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3180
+D2
+The road continues south.
+~
+~
+0 -1 3130
+S
+#3182
+West Wall Road~
+   This road runs along the west wall of Southern Midgaard.  A tall fence of
+iron spears blocks passage to the east.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3183
+D2
+The road continues south.
+~
+~
+0 -1 3127
+S
+#3183
+West Wall Road~
+   This road runs along the west wall of Southern Midgaard.  A tall fence of
+iron spears blocks passage to the east.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3184
+D2
+The road continues south.
+~
+~
+0 -1 3182
+S
+#3184
+West Wall Road~
+   This road runs along the west wall of Southern Midgaard.  A tall fence of
+iron spears blocks passage to the east.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3185
+D2
+The road continues south.
+~
+~
+0 -1 3183
+S
+#3185
+West Wall Road~
+   This road runs along the west wall of Southern Midgaard.  The Graveyard road
+leads east from here.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3186
+D1
+The Graveyard Road leads to the east.
+~
+~
+0 -1 3172
+D2
+The road continues south.
+~
+~
+0 -1 3184
+S
+#3186
+West Wall Road~
+   This road runs along the west wall of Southern Midgaard.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3187
+D2
+The road continues south.
+~
+~
+0 -1 3185
+S
+#3187
+West Wall Road~
+   This road runs along the west wall of Southern Midgaard.    
+~
+31 32768 0 0 0 1 255 0
+D0
+The road continues to the north.
+~
+~
+0 -1 3120
+D2
+The road continues south.
+~
+~
+0 -1 3186
+S
+#3188
+River Road~
+   The river gently flows by just north of here, on the other side of a tall
+fence made from iron spears.  The road continues east and west along the
+river.  
+~
+31 32768 0 0 0 1 255 0
+D1
+The river road continues east.
+~
+~
+0 -1 3102
+D3
+The river road continues west.
+~
+~
+0 -1 3101
+S
+#3189
+River Road~
+   The river gently flows by just north of here, on the other side of a tall
+fence made from iron spears.  The road continues east and west along the
+river. 
+~
+31 32768 0 0 0 1 255 0
+D1
+The river road continues east.
+~
+~
+0 -1 3101
+D3
+The river road continues west.
+~
+~
+0 -1 3100
+S
+#3199
+A sandy shore.~
+   You find yourself on a lovely shore surrounded by a brownish sand.  To the
+south a serene pond stretches to the south and west.  To the north a road can
+be seen, running along a tall wall.  Wow, this place really is beautiful.  You
+contemplate on taking a nice nap on the warm, soft sand.    
+~
+31 32788 0 0 0 2 255 0
+D0
+~
+~
+0 0 3130
+D2
+~
+~
+0 0 27295
+S
+$~

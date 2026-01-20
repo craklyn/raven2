@@ -1,0 +1,4292 @@
+#34500
+The Abandoned Temple~
+This temple built to a long-forgotten diety, has been abandoned for over
+seven thousand years. For the last twenty-two hundred years, this long buried ruin has been
+home to the gakrag.  The gakrag are a humanoid race who appear to be half ape
+and half oxen.  They are quite large, enormously strong and fairly agile for
+their size but their mental facilities are horribly limited, in fact, they
+are absolute morons.  The most notable feature about them, though, is their
+eyes.  Their pupils are the colorless white in white that usually indicates
+blindness.  The gakrag are not, however, blind.  In fact, they have very keen
+sight including infravision. The layout of the temple is simple but huge.  It
+is intended as an experience area for higher level characters of any
+alignment.  Written by Joe Hunter (Kord of RavenMud).
+~
+345 0 0 0 0 1 255 0
+S
+#34501
+The Entry Hall~
+You are standing in what was once an entryway into a temple of some kind.
+To the south you see large double doors of an unknown material that were
+apparently the outside opening of this building.  The architecture of the
+door predates any on record making you realize this place is six thousand
+years old at the very least. However, despite their age they look as if they
+might have been built yesterday.  As deeply as the temple is buried, these
+doors no longer open to the outside.  Instead, they open to a roughly carved,
+dirt tunnel. The walls and floor are still structurally sound and the ceiling
+is supported by ceiling-to-floor arches made of the same material as the
+doors.  The walls throughout the hallway are covered with faded paintings of
+an imposing black clad figure leading an army into battle.  Looking down at
+the floor, you see tracks in the thin layer of dust covering the floor.  The
+barefooted tracks are clearly humaniod but they definitely are not human.
+From here, the hallway continues north and the crudely cut tunnel is to the
+south where you catch the faint smell of fresh air.
+~
+345 109 0 0 0 1 255 0
+D0
+The hallway continues north.
+~
+~
+0 -1 34502
+D2
+A crudely cut tunnel is to the south.
+~
+~
+0 -1 34685
+S
+#34502
+The Entry Hall~
+You are standing in the entryway of an abandoned temple.  The ceiling is
+supported by ceiling-to-floor arches of an unknown material and the wall are
+covered with fading pictures of a figure dressed in black leading armies of
+followers into battle.  There is a thin layer of dust covering the floor and
+in it you can make out the tracks of bare human-like feet leading both north
+and south.  This hallway continues to the south and you see double doors to
+the north.  
+~
+345 109 0 0 0 0 255 0
+D0
+You see a corridor to the north.
+~
+~
+0 -1 34509
+D2
+You see a doorway to the north.
+~
+door double~
+1 -1 34501
+S
+#34503
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is red of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the north and east.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34528
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34504
+S
+#34504
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34505
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34503
+S
+#34505
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34506
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34504
+S
+#34506
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34507
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34505
+S
+#34507
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34508
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34506
+S
+#34508
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34509
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34507
+S
+#34509
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34510
+D2
+You see a doorway to the south.
+~
+door double~
+1 -1 34502
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34508
+S
+#34510
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34511
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34509
+S
+#34511
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34512
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34510
+S
+#34512
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34513
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34511
+S
+#34513
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34514
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34512
+S
+#34514
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34515
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34513
+S
+#34515
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is red of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the north and west.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34516
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34514
+S
+#34516
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34541
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34515
+S
+#34517
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is orange of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the north and
+west.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34540
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34518
+S
+#34518
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34517
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34519
+S
+#34519
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34518
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34520
+S
+#34520
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34519
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34521
+S
+#34521
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34520
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34522
+S
+#34522
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west, and another corridor to the north
+runs parallel to this one.
+~
+345 105 0 0 0 0 255 0
+D0
+There is another corridor to the north of this one.
+~
+~
+0 -1 34535
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34521
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34523
+S
+#34523
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34522
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34524
+S
+#34524
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34523
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34525
+S
+#34525
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34524
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34526
+S
+#34526
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34525
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34527
+S
+#34527
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is orange of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the north and
+east.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34530
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34526
+S
+#34528
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34529
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34503
+S
+#34529
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34554
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34528
+S
+#34530
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34553
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34527
+S
+#34531
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is yellow of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the north and
+east.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34552
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34532
+S
+#34532
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34533
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34531
+S
+#34533
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34534
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34532
+S
+#34534
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34535
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34533
+S
+#34535
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west, and another corridor to the south
+runs parallel to this one.
+~
+345 109 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34536
+D2
+There is another corridor to the south of this one.
+~
+~
+0 -1 34522
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34534
+S
+#34536
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34537
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34535
+S
+#34537
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34538
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34536
+S
+#34538
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34539
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34537
+S
+#34539
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is yellow of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the north and
+west.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34544
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34538
+S
+#34540
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34543
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34517
+S
+#34541
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34542
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34516
+S
+#34542
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34567
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34541
+S
+#34543
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34566
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34540
+S
+#34544
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34565
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34539
+S
+#34545
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is green of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the north and west.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34564
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34546
+S
+#34546
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34545
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34547
+S
+#34547
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34546
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34548
+S
+#34548
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+is impossible to determine exactly how far the corridor extends.  It appears
+to extend into infinity, but surely that must be an optical illusion.  Or is
+it?  The corridor extends to the east and west, and another corridor to the
+north runs parallel to this one.
+~
+345 105 0 0 0 0 255 0
+D0
+There is another corridor to the north of this one.
+~
+~
+0 -1 34561
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34547
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34549
+S
+#34549
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34548
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34550
+S
+#34550
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34549
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34551
+S
+#34551
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is green of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the north and east.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34558
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34550
+S
+#34552
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34557
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34531
+S
+#34553
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34556
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34530
+S
+#34554
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34555
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34529
+S
+#34555
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34580
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34554
+S
+#34556
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34579
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34553
+S
+#34557
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34578
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34552
+S
+#34558
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34577
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34551
+S
+#34559
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is blue of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the north and east.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34576
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34560
+S
+#34560
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34561
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34559
+S
+#34561
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west, and another corridor to the south
+runs parallel to this one.
+~
+345 109 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34562
+D2
+There is another corridor to the south of this one.
+~
+~
+0 -1 34548
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34560
+S
+#34562
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34563
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34561
+S
+#34563
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is blue of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the north and west.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34572
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34562
+S
+#34564
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34571
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34545
+S
+#34565
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34570
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34544
+S
+#34566
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34569
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34543
+S
+#34567
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34568
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34542
+S
+#34568
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34593
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34567
+S
+#34569
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34592
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34566
+S
+#34570
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34591
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34565
+S
+#34571
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34590
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34564
+S
+#34572
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34589
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34563
+S
+#34573
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is purple of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the north and
+west.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34588
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34574
+S
+#34574
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, violet, and variations of violet, is
+the dominant color.  Because of the unique markings on the walls, you find it
+is impossible to determine exactly how far the corridor extends.  It appears
+to extend into infinity, but surely that must be an optical illusion.  Or is
+it? The corridor extends to the east and west, and to the north you see an
+opening in the corridor which is more accurately described as an absence of
+light.
+~
+345 105 0 0 0 0 255 0
+D0
+You see an inky darkness to the north.
+~
+~
+0 -1 34587
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34573
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34575
+S
+#34575
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is purple of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the north and
+east.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor extends to the north.
+~
+~
+0 -1 34586
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34574
+S
+#34576
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34585
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34559
+S
+#34577
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34584
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34558
+S
+#34578
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34583
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34557
+S
+#34579
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34582
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34556
+S
+#34580
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34581
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34555
+S
+#34581
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34606
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34580
+S
+#34582
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34605
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34579
+S
+#34583
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34604
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34578
+S
+#34584
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34603
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34577
+S
+#34585
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34602
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34576
+S
+#34586
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, violet, and variations of violet, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34601
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34575
+S
+#34587
+The Center of the Temple~
+Unlike the outer corridors of the temple, this room has no colorful patterns
+turning the walls into optical illusions.  Instead, the inky blackness on the
+the walls of this room appear to be eating the light.  The black paint used
+in this room is not so much a color, as an absence of color.  At the northern
+end of the room is a huge altar, and the room is filled with rows of benches.
+It is obvious this was the worship chamber for the builders of this mammoth
+structure. As you look around the room, the light-eating color of the walls,
+floor and ceiling make it appear the benches, the altar and everything else
+in the room is floating in a dark, gloomy void.  Considering the bright and
+cheery color display throughout the rest of this building, you wonder why the
+builders made this room so oppressive, if it was, in fact, they who did it.
+The only way out is through the door you came in.
+~
+345 109 0 0 0 1 255 0
+D2
+There is a large opening to the south.
+~
+~
+0 -1 34574
+D5
+The doorway leads down below.
+~
+door~
+1 -1 34672
+S
+#34588
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, violet, and variations of violet, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34599
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34573
+S
+#34589
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34598
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34572
+S
+#34590
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34597
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34571
+S
+#34591
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34596
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34570
+S
+#34592
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34595
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34569
+S
+#34593
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34594
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34568
+S
+#34594
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34619
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34593
+S
+#34595
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34618
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34592
+S
+#34596
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34617
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34591
+S
+#34597
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34616
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34590
+S
+#34598
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34615
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34589
+S
+#34599
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is purple of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the south and
+west.
+~
+345 105 0 0 0 0 255 0
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34588
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34600
+S
+#34600
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, violet, and variations of violet, is
+the dominant color.  Because of the unique markings on the walls, you find it
+is impossible to determine exactly how far the corridor extends.  It appears
+to extend into infinity, but surely that must be an optical illusion.  Or is
+it?  The corridor extends to the east and west, and another corridor to the
+north runs parallel to this one.
+~
+345 105 0 0 0 0 255 0
+D0
+There is another corridor to the north of this one.
+~
+~
+0 -1 34613
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34599
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34601
+S
+#34601
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is purple of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the south and
+east.
+~
+345 73 0 0 0 0 255 0
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34600
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34586
+S
+#34602
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34611
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34585
+S
+#34603
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34610
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34584
+S
+#34604
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34609
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34583
+S
+#34605
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34608
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34582
+S
+#34606
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34607
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34581
+S
+#34607
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34632
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34606
+S
+#34608
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34631
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34605
+S
+#34609
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34630
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34604
+S
+#34610
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34629
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34603
+S
+#34611
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is blue of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the south and east.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34612
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34602
+S
+#34612
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34613
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34611
+S
+#34613
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west, and another corridor to the south
+runs parallel to this one.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34614
+D2
+There is another corridor to the south of this one.
+~
+~
+0 -1 34600
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34612
+S
+#34614
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, blue, and variations of blue, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34615
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34613
+S
+#34615
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is blue of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the south and west.
+~
+345 105 0 0 0 1 255 0
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34598
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34614
+S
+#34616
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34623
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34597
+S
+#34617
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34622
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34596
+S
+#34618
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34621
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34595
+S
+#34619
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34620
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34594
+S
+#34620
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34645
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34619
+S
+#34621
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34644
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34618
+S
+#34622
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34643
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34617
+S
+#34623
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is green of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the south and west.
+~
+345 105 0 0 0 1 255 0
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34616
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34624
+S
+#34624
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34623
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34625
+S
+#34625
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34624
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34626
+S
+#34626
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+is impossible to determine exactly how far the corridor extends.  It appears
+to extend into infinity, but surely that must be an optical illusion.  Or is
+it?  The corridor extends to the east and west, and another corridor to the
+north runs parallel to this one.
+~
+345 105 0 0 0 1 255 0
+D0
+There is another corridor to the north of this one.
+~
+~
+0 -1 34639
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34625
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34627
+S
+#34627
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34626
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34628
+S
+#34628
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, green, and variations of green, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34627
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34629
+S
+#34629
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is green of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the south and east.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34628
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34610
+S
+#34630
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34635
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34609
+S
+#34631
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34634
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34608
+S
+#34632
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34633
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34607
+S
+#34633
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34658
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34632
+S
+#34634
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34657
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34631
+S
+#34635
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is yellow of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the south and
+east.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34636
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34630
+S
+#34636
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34637
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34635
+S
+#34637
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34638
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34636
+S
+#34638
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34639
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34637
+S
+#34639
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, violet, and variations of violet, is
+the dominant color.  Because of the unique markings on the walls, you find it
+is impossible to determine exactly how far the corridor extends.  It appears
+to extend into infinity, but surely that must be an optical illusion.  Or is
+it?  The corridor extends to the east and west, and another corridor to the
+south runs parallel to this one.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34640
+D2
+There is another corridor to the south of this one.
+~
+~
+0 -1 34626
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34638
+S
+#34640
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34641
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34639
+S
+#34641
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34642
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34640
+S
+#34642
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, yellow, and variations of yellow, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34643
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34641
+S
+#34643
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is yellow of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the south and
+west.
+~
+345 65641 0 0 0 1 255 0
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34622
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34642
+S
+#34644
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34647
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34621
+S
+#34645
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34646
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34620
+S
+#34646
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34671
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34645
+S
+#34647
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is orange of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the south and
+west.
+~
+345 105 0 0 0 1 255 0
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34644
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34648
+S
+#34648
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34647
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34649
+S
+#34649
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34648
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34650
+S
+#34650
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34649
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34651
+S
+#34651
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34650
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34652
+S
+#34652
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+is impossible to determine exactly how far the corridor extends.  It appears
+to extend into infinity, but surely that must be an optical illusion.  Or is
+it?  The corridor extends to the east and west, and another corridor to the
+north runs parallel to this one.
+~
+345 105 0 0 0 1 255 0
+D0
+There is another corridor to the north of this one.
+~
+~
+0 -1 34665
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34651
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34653
+S
+#34653
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34652
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34654
+S
+#34654
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34653
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34655
+S
+#34655
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34654
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34656
+S
+#34656
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, orange, and variations of orange, is
+the dominant color.  Because of the unique markings on the walls, you find it
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34655
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34657
+S
+#34657
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is orange of various
+shades.  Because of this strange pattern painted on the wall, it was
+impossible to see this junction until you were right upon it.  The most
+amazing fact about the design is no matter where you stand and look toward
+the corner, the pattern on the near wall matches that of the far one, giving
+the illusion it is a dead end.  Now that you know what you are looking at,
+you see this is, in fact, a corner and the corridor extends to the south and
+east.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34656
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34634
+S
+#34658
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the north and south.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 -1 34659
+D2
+The corridor continues to the south.
+~
+~
+0 -1 34633
+S
+#34659
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is red of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the south and east.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor extends to the east.
+~
+~
+0 -1 34660
+D2
+The corridor extends to the south.
+~
+~
+0 -1 34658
+S
+#34660
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34661
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34659
+S
+#34661
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34662
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34660
+S
+#34662
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34663
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34661
+S
+#34663
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34664
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34662
+S
+#34664
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34665
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34663
+S
+#34665
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west, and another corridor to the south
+runs parallel to this one.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34666
+D2
+There is another corridor to the south of this one.
+~
+~
+0 -1 34652
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34664
+S
+#34666
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34667
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34665
+S
+#34667
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34668
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34666
+S
+#34668
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34669
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34667
+S
+#34669
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34670
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34668
+S
+#34670
+A Strange Corridor~
+You are standing in a strange, multi-colored corridor.  Although many colors
+are included in the pattern on the wall, red , and variations of red, is the
+dominant color.  Because of the unique markings on the walls, you find it is
+impossible to determine exactly how far the corridor extends.  It appears to
+extend into infinity, but surely that must be an optical illusion.  Or is it?
+The corridor extends to the east and west.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 34671
+D3
+The corridor continues to the west.
+~
+~
+0 -1 34669
+S
+#34671
+At a Corner in the Corridor~
+You are standing at a corner in the corridor.  The wall are painted in an
+abstract multi-colored design.  There are many different colors on the walls,
+many of which have no name, but the dominant color is red of various shades.
+Because of this strange pattern painted on the wall, it was impossible to see
+this junction until you were right upon it.  The most amazing fact about the
+design is no matter where you stand and look toward the corner, the pattern
+on the near wall matches that of the far one, giving the illusion it is a
+dead end.  Now that you know what you are looking at, you see this is, in
+fact, a corner and the corridor extends to the south and west.
+~
+345 105 0 0 0 1 255 0
+D2
+The corridor extends to the north.
+~
+~
+0 -1 34646
+D3
+The corridor extends to the west.
+~
+~
+0 -1 34670
+S
+#34672
+Below the Worship Hall~
+You are standing in a room below the altar.  Like the room above, the color of
+this room is black although it has something similar to the strange pattern of
+the hallways.  This pattern, however, seems to swim in your vision almost as
+if an invisible barrier is holding back the swirling fabric of chaos itself.
+You notice if you stand and stare at one point in the room for too long, you
+begin to experience an ever increasing case of vertigo.  There is a door above
+you and you see the outline of a doorway to the north.
+~
+345 105 0 0 0 1 255 0
+D0
+You see a doorway to the north.
+~
+door~
+1 -1 34674
+D4
+The door leads up.
+~
+door~
+1 -1 34587
+S
+#34673
+A Strange White Corridor~
+You are standing in a strange, white corridor.  The swirling, white pattern on
+the walls is almost hypnotic.  Various shades of white shoot through the
+design on the walls giving it a pearlized appearance.  From where you stand
+you can see the corridor goes north and east from here.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues north.
+~
+~
+0 -1 34678
+D1
+The corridor continues east.
+~
+~
+0 -1 34674
+S
+#34674
+A Strange White Corridor~
+You are standing in a strange, white corridor.  The swirling, white pattern on
+the walls is almost hypnotic.  Various shades of white shoot through the
+design on the walls giving it a pearlized appearance.  From where you stand
+you the corridor runs east and west from here and there is a doorway to the
+south.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues east.
+~
+~
+0 -1 34675
+D2
+You see the outline of a door to the south.
+~
+door~
+1 -1 34672
+D3
+The corridor continues west.
+~
+~
+0 -1 34673
+S
+#34675
+A Strange White Corridor~
+You are standing in a strange, white corridor.  The swirling, white pattern on
+the walls is almost hypnotic.  Various shades of white shoot through the
+design on the walls giving it a pearlized appearance.  From where you stand
+you can see the corridor goes north and west from here.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues north.
+~
+~
+0 -1 34676
+D3
+The corridor continues west.
+~
+~
+0 -1 34674
+S
+#34676
+A Strange White Corridor~
+You are standing in a strange, white corridor.  The swirling, white pattern on
+the walls is almost hypnotic.  Various shades of white shoot through the
+design on the walls giving it a pearlized appearance.  From where you stand
+you can see the corridor continues north and south from here.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues north.
+~
+~
+0 -1 34681
+D2
+The corridor continues south.
+~
+~
+0 -1 34675
+S
+#34677
+The Sarcophagus Room~
+You are standing in a simple, brown room.  The moment you walked in, you noticed
+an overwhelming sense of pain and grief so deep you find it hard to function.
+Compared to the rest of the temple, this room does not come close to being
+worthy of this grand structure.  In the center of the room sits an undecorated 
+sarcophagus on a granite slab roughly three feet tall.  Next to this is a 
+granite pedastal holding a small, thin book.  There is nothing else in this
+room.  The only apparent exit is back to the north.
+~
+345 524392 0 0 0 1 255 0
+D0
+You see a doorway to the north.
+~
+door~
+1 -1 34680
+S
+#34678
+A Strange White Corridor~
+You are standing in a strange, white corridor.  The swirling, white pattern on
+the walls is almost hypnotic.  Various shades of white shoot through the
+design on the walls giving it a pearlized appearance.  From where you stand
+you can see the corridor continues north and south from here.
+~
+345 105 0 0 0 1 255 0
+D0
+The corridor continues north.
+~
+~
+0 -1 34679
+D2
+The corridor continues south.
+~
+~
+0 -1 34673
+S
+#34679
+A Strange White Corridor~
+You are standing in a strange, white corridor.  The swirling, white pattern on
+the walls is almost hypnotic.  Various shades of white shoot through the
+design on the walls giving it a pearlized appearance.  From where you stand
+you can see the corridor runs east and south from here.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues east.
+~
+~
+0 -1 34680
+D2
+The corridor continues south.
+~
+~
+0 -1 34678
+S
+#34680
+A Strange White Corridor~
+You are standing in a strange, white corridor.  The swirling, white pattern on
+the walls is almost hypnotic.  Various shades of white shoot through the
+design on the walls giving it a pearlized appearance.  From where you stand
+you can see the corridor goes east and west and there is a doorway to the
+south.
+~
+345 105 0 0 0 1 255 0
+D1
+The corridor continues east.
+~
+~
+0 -1 34681
+D2
+You see a doorway to the south.
+~
+door~
+1 -1 34677
+D3
+The corridor continues west.
+~
+~
+0 -1 34679
+S
+#34681
+A Strange White Corridor~
+You are standing in a strange, white corridor.  The swirling, white pattern on
+the walls is almost hypnotic.  Various shades of white shoot through the
+design on the walls giving it a pearlized appearance.  From where you stand
+you can see the corridor continues south and west from here.
+~
+345 105 0 0 0 1 255 0
+D2
+The corridor continues south.
+~
+~
+0 -1 34676
+D3
+The corridor continues west.
+~
+~
+0 -1 34680
+S
+#34682
+Inside a Large Pit~
+You are standing in a large hole in the ground.  As far as you can tell, the
+hole was created naturally, by the elements, over many years.  Looking around,
+you see the southern portion of this cavernous depression is quite a bit lower
+than the northern part and has a small amount of water standing in it.  In the
+northern portion you see crudely cut stairs that lead down into the darkness
+beyond your vision.  On the ground, you see footprints of a humanoid creature.
+From your best estimates, the creature is a fair bit larger than a human but
+not near the size of a troll.  From here you can use the vines to climb out of
+the pit or follow the stairs down into the darkness.
+~
+345 100 0 0 0 1 255 0
+D4
+You see the rim of the pit above you.
+~
+~
+0 -1 11891
+D5
+The stairs lead down.
+~
+~
+0 -1 34683
+S
+#34683
+Crudely Cut Stairs~
+You are standing on crudely cut stairs leading down into the bare earth.  The
+hard pack walls give you a sense of security that tons of dirt will not
+suddenly drop on your head, burying you alive or cutting you off from escape.
+You no longer see the footprints you noticed above in the pit, but that is
+more than likely due to the floor of the pit sloping to the south preventing
+water from getting into this tunnel.  You can continue down into the darkness
+or go up toward the surface.
+~
+345 33 0 0 0 1 255 0
+D4
+The stairs lead up to the floor of the pit.
+~
+~
+0 -1 34682
+D5
+The stairs continue down.
+~
+~
+0 -1 34684
+S
+#34684
+Crudely Cut Stairs~
+You are standing on crudely cut stairs leading down into the bare earth.  The
+hard pack walls give you a sense of security that tons of dirt will not
+suddenly drop on your head, burying you alive or cutting you off from escape.
+You are not sure of how far you travelled down into the earth but you can no
+longer see light from the outside when you look back toward the surface.  You
+have either travelled a long enough period of time for the sun to set or a
+great enough distance to lose sight of the opening.  The thought of either
+brings goosebumps to your entire body. You can continue down into the darkness
+or go up toward the surface.
+~
+345 33 0 0 0 1 255 0
+D4
+The stairs lead up toward the surface.
+~
+~
+0 -1 34683
+D5
+The stairs continue down.
+~
+~
+0 -1 34685
+S
+#34685
+The Bottom of the Stairs~
+You finally reached the bottom of the stair.  The hard packed walls still
+appear to be stable and the floor looks and feels as if it has been purposely
+levelled.  To your north, you see an open set of double-doors and a hallway
+beyond them.  You can go north through the doorway or up the stairs toward the
+surface.
+~
+345 33 0 0 0 1 255 0
+D0
+You see a large doorway to the north.
+~
+~
+0 -1 34501
+D4
+The stairs lead up.
+~
+~
+0 -1 34684
+S
+#34686
+MOB CHUTE 1~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34503
+D1
+~
+~
+0 -1 34506
+D2
+~
+~
+0 -1 34512
+D3
+~
+~
+0 -1 34515
+S
+#34687
+MOB CHUTE 2~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34567
+D1
+~
+~
+0 -1 34619
+D2
+~
+~
+0 -1 34671
+D3
+~
+~
+0 -1 34667
+S
+#34688
+MOB CHUTE 3~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34663
+D1
+~
+~
+0 -1 34659
+D2
+~
+~
+0 -1 34607
+D3
+~
+~
+0 -1 34555
+S
+#34689
+MOB CHUTE 4~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34527
+D1
+~
+~
+0 -1 34522
+D2
+~
+~
+0 -1 34517
+D3
+~
+~
+0 -1 34592
+S
+#34690
+MOB CHUTE 5~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34647
+D1
+~
+~
+0 -1 34657
+D2
+~
+~
+0 -1 34582
+S
+#34691
+MOB CHUTE 6~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34531
+D1
+~
+~
+0 -1 34539
+D2
+~
+~
+0 -1 34591
+S
+#34692
+MOB CHUTE 7~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34583
+D1
+~
+~
+0 -1 34635
+D2
+~
+~
+0 -1 34639
+D3
+~
+~
+0 -1 34643
+S
+#34693
+MOB CHUTE 8~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34545
+D1
+~
+~
+0 -1 34548
+D2
+~
+~
+0 -1 34551
+D3
+~
+~
+0 -1 34584
+S
+#34694
+MOB CHUTE 9~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34590
+D1
+~
+~
+0 -1 34623
+D2
+~
+~
+0 -1 34629
+S
+#34695
+MOB CHUTE 10~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34559
+D1
+~
+~
+0 -1 34563
+D2
+~
+~
+0 -1 34615
+D3
+~
+~
+0 -1 34611
+S
+#34696
+MOB CHUTE 11~
+Empty~
+345 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 34601
+D1
+~
+~
+0 -1 34599
+D2
+~
+~
+0 -1 34575
+D3
+~
+~
+0 -1 34573
+S
+$~

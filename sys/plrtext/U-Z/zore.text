@@ -1,0 +1,28 @@
+q c 'life drain' $*
+mm c 'magic missile' $*
+a assist cortanos
+o order followers $*
+b c 'blind' $*
+dl c 'life drain' $*
+infra c 'infra' $*
+say say &14$* &00
+gt gt &14$* &00
+di c 'detect invis' $*
+bl c 'blind' $*
+fly c 'fly' $*
+stone c 'stoneskin' $*
+shield c 'shield' $*
+shi c 'shield' $*
+ld c 'life drain' $*
+str c 'strength' $*
+summon c 'summon' $*
+charm c 'charm' $*
+covenhall w;w;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;n;w;n;w;n;n
+sil c 'silence' $*
+coffee emote slams his coffee cup on the table and demands, '&03BEAN ME!&00'
+sh c 'shield' $*
+regeneq rem trial;wear gold;rem trial;wear gold
+regeneq1 rem gold;wear trial;rem gold;wear trial
+dameq gt Alias not configured.
+manaeq gt Alias not configured.
+` drink tim

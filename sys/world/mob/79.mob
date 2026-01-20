@@ -1,0 +1,164 @@
+#7901
+H W 0~
+captain pirate gravic m7901~
+Captain Gravic~
+Gravic spins on his pegleg as you enter.
+~
+You see before you a powerful man.  Despite the loss of his left leg, he is
+far from handicapped.  He is dressed in crimson breeches and a white, bell-
+sleeved shirt with gold stitch work.  He would be an extremely impressive
+figure if he weren't unkempt and unshaven.
+~
+28750 0 0 0 1212544 0 0 0 -1000
+35 0 -9 1d1+2600 3d10+20
+50 60
+9 9 1 0 -1 -1
+#7902
+H H 0~
+navigator pirate m7902~
+the navigator~
+The navigator begins a low chant as you enter.
+~
+This chart plotter is not merely a weak, map reading, star gazer.  His manner
+belies strength and intelligence and the cold look in his eyes is testimony
+to the evil in his heart.  His apparell seems to be as much an attempt at
+deception as it is clothing.
+~
+192638 0 0 0 1075020968 0 0 0 -1000
+32 0 -8 1d1+2200 3d8+17
+50 60
+7 7 1 0 -1 -1
+#7903
+H W 0~
+wealthy prisoner m7903~
+a wealthy prisoner~
+A wealthy prisoner is being held here for ransom.
+~
+Though he is ragged from his captivity, the cut of this man's clothing
+screams money and lots of it.  He only has a couple of weeks growth of facial
+hair so he hasn't been a captive for a great amount of time.  He looks like a
+sissified fop in his disheveled but rather expensive clothing.
+~
+24650 0 0 0 537034752 0 0 0 0
+30 0 -2 1d1+1800 3d6+18
+50 60
+9 9 1 0 -1 -1
+#7904
+O W 0~
+helmsman pirate m7904~
+the ship's helmsman~
+The helmsman sits here cursing the other pirates to hurry their rears.
+~
+The helmsman is an ogre of a man.  His sleeve-less tunic is stained with ale
+and smells like it hasn't been washed in several years.  His face is scarred
+hideously on his left side.  His left ear is missing and the eye on that side
+is milky white and obviously blind.
+~
+221294 0 0 0 1212544 0 0 0 -1000
+30 0 -4 1d1+2000 3d9+15
+50 60
+9 9 1 0 -1 -1
+#7905
+H W 0~
+pirate sleepy m7905~
+a sleepy pirate~
+A rather sleepy pirate is here.
+~
+You see a dirty, filthy, smelly pirate.  He looks (and smells) like he hasn't
+bathed in his life.  His clothing is sweat and beer stained from many a night
+of over indulging in the spirits.
+~
+28782 0 0 0 1187840 0 0 0 -1000
+30 5 -5 1d1+950 3d5+15
+50 60
+4 9 1 0 -1 -1
+#7906
+H W 0~
+pirate sailor m7906~
+the pirate~
+A pirate is here getting ready to sail.
+~
+This is a rather non-descript man.  He is of average height and build, and
+smells like seawater, sweat and ale.  He is dressed the same as most of the
+crew.  He appears quite upset about having to do any kind of actual labor so
+you really shouldn't bother him.
+~
+28782 0 0 0 1220608 0 0 0 -1000
+30 5 -5 1d1+950 3d5+15
+50 60
+9 9 1 0 -1 -1
+#7907
+H W 0~
+pirate sailor m7907~
+the pirate~
+A pirate is here getting ready to sail.
+~
+This is a rather non-descript man.  He is of average height and build, and
+smells like seawater, sweat and ale.  He is dressed the same as most of the
+crew.  He appears quite upset about having to do any kind of actual labor so
+you really shouldn't bother him.
+~
+28780 0 0 0 1220608 0 0 0 -1000
+30 5 -5 1d1+950 3d5+15
+50 60
+9 9 1 0 -1 -1
+#7908
+H W 0~
+cook pirate m7908~
+the ship's cook~
+A malnourished pirate in a dirty apron looks at you over the stewpot.
+~
+This pirate is of average height but is so thin he appears emaciated.  His
+clothing hangs on him and the sides of his apron meet in the back.  From his
+physical condition, you deduce he is either very ill or a lousy cook.
+~
+24686 0 0 0 1220608 0 0 0 -1000
+30 3 -5 1d1+1150 3d6+17
+50 60
+9 9 1 0 -1 -1
+#7909
+E A 0~
+lookout pirate m7909~
+the lookout~
+The lookout sits here paying no attention to his surroundings.
+~
+This man is very tall and is certainly of elven decent.  His disregard for
+his surroundings is obvious.  As with most elves, he is extremely clean and
+well groomed.  Although he is dressed for sailing, he doesn't display the
+same habits toward filth the rest of the pirates aboard the ship.  His flat,
+piercing eyes are dark pools of evil.
+~
+190046 0 0 0 1075807400 0 0 0 -1000
+31 2 -8 1d1+1400 4d6+17
+50 60
+7 9 1 0 -1 -1
+#7910
+U D 0~
+ghoul prisoner~
+the horrifying ghoul~
+A horrifyingly ugly ghoul fixes you with a baleful stare.
+~
+You see before you a hideous ghoul.  It has rubbery grey skin with warts and
+bumps covering most of it.  His skins seems to exude a caustic slime.  Despite
+the fact it is very gaunt, you can tell from the rippling of it's muscles with
+even the slightest movement, it is more than capable of ripping your spine up
+through your body.
+~
+1304446 0 0 0 538149928 0 0 0 -1000
+40 -5 -10 1d1+5837 20d1+25
+65 75
+9 9 0 0 -1 -1
+#7911
+A M 0~
+small fly~
+a small fly~
+A small fly buzzes about, albeit annoyingly.
+~
+It is nothing more than a small fly.  He is fighting to stay aloft in the air.
+What is he doing out here?
+~
+1074520158 0 0 0 5735656 2129952 0 0 0
+51 -30 -25 1d1+30000 100d100+100
+100 100
+9 9 1 0 -1 -1
+$

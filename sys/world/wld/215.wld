@@ -1,0 +1,1623 @@
+#21500
+The UnderDark~
+This area was adapted from a merc area. It's a useful section of tunnels
+for connecting further underground areas too.
+Vex.
+ps. The original zone was written by Yaegar.
+pss. Theres an existing connection point south of room 21587.
+~
+215 0 0 0 0 0 255 0
+S
+#21501
+The Underdark~
+Some how, it seems even darker here then in the tunnels to the south, your
+now far from the surface, and you feel another wave of panic overcome you, as 
+your mind rebels against this utterly alien environment. Even the black
+cavern was not as bad as this- here there is no light, no sound, just utter
+darkness, only slightly lessened by your light source. It is said that the
+Underdark itself has a far greater impact on adventurers than its many
+dangerous denizens.
+
+A passage slopes down from here.
+~
+215 13 0 0 0 0 255 0
+D2
+A cleverly concealed door is more visible from this side.
+~
+rock boulder mound~
+1 0 4806
+D5
+~
+~
+0 -1 21502
+S
+#21502
+A Cavern~
+You suddenly emerge into a large cavern, and are relieved to see more light
+as your light source reflects off hundreds of tiny crystals imbedded in the
+walls and ceiling of this cave. Hundreds of stalactites and stalagmites
+obscure your vision, but you are fairly sure you can see exits to the east
+and south. You hear what sounds like construction going on to the east.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21554
+D2
+~
+~
+0 -1 21503
+D4
+~
+~
+0 -1 21501
+S
+#21503
+A Sloping Passage~
+This passage is very narrow and begins to slope abruptly downward as you
+advance. Up ahead it seems to drop almost vertically into the darkness.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21502
+D5
+~
+~
+0 -1 21504
+S
+#21504
+A Cavern~
+You have entered yet another of the innumerable caverns that exist in the
+underdark. This one has no crystals to enhance your light, however, and
+you slowly creep around the circumference to locate any exits. You find
+passages to the east and west, and steeply sloping passages to the north and
+south, the northern one sloping upward, the souther downward.
+~
+215 13 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21507
+D3
+~
+~
+0 -1 21505
+D4
+~
+~
+0 -1 21503
+D5
+~
+~
+0 -1 21508
+S
+#21505
+A Lair~
+You have stumbled across the lair of some horrid beast, evidenced by the
+numerous skeletons that crunch beneath your boots as you advance. You are
+not sure, but you think you can hear snorting up ahead, but your relief at
+finally hearing SOMETHING is overcome by a feeling of dread regarding what is
+making the noise.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21506
+D1
+~
+~
+0 -1 21504
+S
+#21506
+An Umber Hulk Lair~
+Oh NO! You have entered the lair of an Umber Hulk! These distinctive creatures
+are known for their penchant for gems, and the floor of this place is scattered
+with them, along with many more skeletons. You better hope the occupant isn't
+home...
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21505
+S
+#21507
+A Dead End~
+You are dispirited as you find this passage ends after a short distance in a
+dead end, as do many passages in the Underdark.
+~
+215 9 0 0 0 0 255 0
+D3
+~
+~
+0 -1 21504
+S
+#21508
+A Junction~
+You have reached a junction, where the sloping passage meets a broad, well-
+travelled east-west thoroughfare. You think you can see dim lights bobbing
+up and down to the east. Darkness extends for what seems like forever to the
+west.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21530
+D3
+~
+~
+0 -1 21509
+D4
+~
+~
+0 -1 21504
+S
+#21509
+A Narrow Passage~
+You are cautiously working your way along a narrow east-west passage. Darkness
+extends in both directions without any apparent end.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21508
+D3
+~
+~
+0 -1 21510
+S
+#21510
+A Junction~
+You suddenly reach a junction, where you may proceed north, east or south.
+~
+215 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21511
+D1
+~
+~
+0 -1 21509
+D2
+~
+~
+0 -1 21512
+S
+#21511
+A Lair~
+You have entered the lair of some beast, evidenced by the bones scattered
+across the floor and the almost unbearable stench of decay that lingers in 
+the stale air. Wonder where the occupant is?
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21510
+S
+#21512
+A Small Cavern~
+This cavern was the site of a small skirmish recently. Corpses of dark elves,
+stripped of their equipment lie scattered about, though there are no corpses
+of other races- evidently the victors took their dead with them.
+
+Passages head north, east and south here.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21510
+D1
+~
+~
+0 -1 21518
+D2
+~
+~
+0 -1 21513
+S
+#21513
+Another Junction~
+You have reached a junction where you may proceed north, south or west. The
+tracks of several large creatures can be made out in some dirt heading west.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21512
+D2
+~
+~
+0 -1 21514
+D3
+~
+~
+0 -1 21515
+S
+#21514
+A Dead End~
+You are dispirited as you find this passage ends after a short distance in a
+dead end, as do many passages in the Underdark.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21513
+S
+#21515
+A Crossroads~
+You have arrived at a crossroads, at which points the passages widen 
+sufficiently to allow for the establishment of some sort of way station. A
+few tents are pitched haphazardly here and there, while small campfires burn
+near the edges, surrounded by huddled, chained figures.
+~
+215 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21517
+D1
+~
+~
+0 -1 21513
+D2
+~
+~
+0 -1 21516
+D3
+~
+~
+0 -1 21549
+S
+#21516
+Storage Cavern~
+This cavern is full of boxes, crates and other paraphenalia, of no use to
+you, but obviously of significant use to the merchants who stop here.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21515
+S
+#21517
+Storage Cavern~
+This cavern is full of boxes, crates and other paraphenalia, of no use to
+you, but obviously of significant use to the merchants who stop here.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21515
+S
+#21518
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21519
+D3
+~
+~
+0 -1 21512
+S
+#21519
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21518
+D1
+~
+~
+0 -1 21520
+S
+#21520
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21521
+D3
+~
+~
+0 -1 21519
+S
+#21521
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21520
+D2
+~
+~
+0 -1 21522
+S
+#21522
+Another Junction~
+You have reached a point where you can go north, south or drop down a small
+hole into a lower passage.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21521
+D2
+~
+~
+0 -1 21538
+D5
+~
+~
+0 -1 21523
+S
+#21523
+A Narrow Passage~
+This narrow passage is cold, damp and if possible even darker than the ones
+you were following before. A chill wind blows from the east, unusual in this
+generally stuffy world, and you shiver uncomfortably. Far away, someone
+suddenly screams, and you think twice about proceeding.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21524
+D4
+~
+~
+0 -1 21522
+S
+#21524
+A Narrow Passage~
+This narrow passage is cold, damp and if possible even darker than the ones
+you were following before. A chill wind blows from the east, unusual in this
+generally stuffy world, and you shiver uncomfortably. Far away, someone
+suddenly screams, and you think twice about proceeding.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21525
+D3
+~
+~
+0 -1 21523
+S
+#21525
+Entrance to the Fungus Garden~
+You suddenly enter a spacious, well-lit (by Underdark standards) cavern,
+full of a wide variety of fungi, molds and moss, which in their own way
+are quite beautiful. You hear soft music playing far, far away, and are
+sorely tempted to enter and relax for a while.
+~
+215 8 0 0 0 3 255 0
+D1
+~
+~
+0 -1 21526
+D3
+~
+~
+0 -1 21524
+S
+#21526
+In the Garden~
+The music is louder now, as you walk among the garden exhibits. You see some
+old statues, once fine but now chipped and stained. There is an adamantite
+door to the north, from behind which the music seems to emanate.
+~
+215 8 0 0 0 3 255 0
+D0
+~
+adamantite door~
+1 0 21527
+D3
+~
+~
+0 -1 21525
+S
+#21527
+A Luxurious Room~
+You have entered the boudoir of some noblewoman, if the expensive silk, 
+furniture, tapestries and unguents are any indication. The singing seems to
+be coming from the north of here, and you now hear a voice calling for you
+as well, speaking sweetly and in friendly tones.
+~
+215 8 0 0 0 0 255 0
+D0
+~
+tapestry~
+1 0 21528
+D1
+~
+secret~
+1 0 21529
+D2
+~
+adamantite door~
+1 0 21526
+S
+#21528
+Room of the Occupants~
+You walk north, happily expecting good food, wine and the comfort of a friendly
+visitor like yourself, when suddenly there is a flash, and what was once
+luxuriant and fresh now appears decayed and stale. Torn shreds of cheap 
+material hang from battered and splintered wardrobes while stained sheets
+cover a wooden plank suspended between two barrels. The illusion which 
+enticed you has been dispelled, and now you must deal with the very real
+peril which now faces you.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+tapestry~
+1 0 21527
+S
+#21529
+A Storage Room~
+You are appalled by what you find here- jars of blood, rotting carcasses,
+withered limbs and sacks of entrails. The stench is overwhelming and you
+fight an urge to vomit.
+~
+215 9 0 0 0 0 255 0
+D3
+~
+secret~
+1 0 21527
+S
+#21530
+A Long Passage~
+This passage continues for what seems like forever. You see no end in
+sight.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21531
+D3
+~
+~
+0 -1 21508
+S
+#21531
+An Outpost~
+You have stumbled into a Drow outpost! Soldier run everywhere as you enter,
+shouting alarms, and you instinctively ready your weapons. Passages run
+north and south of here, while iron doors block access further east.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21532
+D1
+~
+iron doors~
+1 21529 21536
+D2
+~
+~
+0 -1 21534
+D3
+~
+~
+0 -1 21530
+S
+#21532
+Warrior's Quarters~
+You have entered the quarters of the Drow soldiers stationed here. They ready
+their equipment with practiced precision and prepare to defend themselves.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21533
+D2
+~
+~
+0 -1 21531
+S
+#21533
+Warrior's Quarters~
+You have entered the quarters of the Drow soldiers stationed here. They ready
+their equipment with practiced precision and prepare to defend themselves.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21532
+S
+#21534
+Cleric's Quarters~
+You have entered the quarters of the Drow priestess in command here. It is
+sacrilege for even a male Drow to do this, let alone an outsider.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21531
+D2
+~
+~
+0 -1 21535
+S
+#21535
+Cleric's Quarters~
+You have entered the quarters of the Drow priestess in command here. It is
+sacrilege for even a male Drow to do this, let alone an outsider.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21534
+S
+#21536
+Inside the Iron Doors~
+You have entered the area the Drow were guarding. There is a foul stench in
+the air, and you are not sure if you want to continue.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21537
+D3
+~
+iron doors~
+1 21529 21531
+S
+#21537
+The Portal Chamber~
+Here the Drow maintain a portal to their city, so they can hurry home quickly
+to make reports. Anyone is free to use it, if they can get past its guard...
+~
+215 9 0 0 0 0 255 0
+D3
+~
+~
+0 -1 21536
+S
+#21538
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21522
+D2
+~
+~
+0 -1 21539
+S
+#21539
+A Junction~
+Passages lead to the north, south, east and west from here. There is a small
+sign affixed to a stalagmite.
+~
+215 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21538
+D1
+~
+~
+0 -1 21543
+D2
+~
+~
+0 -1 21540
+D3
+~
+~
+0 -1 21541
+E
+sign~
+The sign says-
+
+  "BEWARE THE LURKERS!"
+~
+S
+#21540
+An Empty Chamber~
+This corridor ends in a dead end in the form of a small empty chamber. There
+appears to be nothing of interest...
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21539
+S
+#21541
+A Dark Cave~
+You have entered a dark L-shaped cave. Bones and rubble are strewn across
+the stalagmite-peppered floor. You step lightly, hoping to avoid spraining
+an ankle. You think you can hear a clicking noise...
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21542
+D1
+~
+~
+0 -1 21539
+S
+#21542
+End of the Cave~
+The clicking is louder here... MUCH louder. You have stumbled into a HOOK
+HORROR lair. Best hope there are none too close to you...
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21541
+S
+#21543
+A Narrow Cavern~
+You are making your way through a long narrow cavern that runs east-west.
+There are several cracks in the wall that a small creature may be able
+to squeeze through, but you doubt that you could.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21544
+D2
+~
+crack~
+1 0 21569
+D3
+~
+~
+0 -1 21539
+S
+#21544
+A Narrow Cavern~
+You are making your way through a long narrow cavern that runs east-west.
+There are several cracks in the wall that a small creature may be able
+to squeeze through, but you doubt that you could.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21545
+D3
+~
+~
+0 -1 21543
+S
+#21545
+A Narrow Cavern~
+You are making your way through a long narrow cavern that runs east-west.
+There are several cracks in the wall that a small creature may be able
+to squeeze through, but you doubt that you could. However, one rather wide
+crack to the north does look navigable.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21546
+D1
+~
+~
+0 -1 21547
+D3
+~
+~
+0 -1 21544
+S
+#21546
+A Tiny Cave~
+You have squeezed into a tiny cave with no other exits. You curse wasting
+your time and prepare to leave, when you suddenly hear a tiny squeak. 
+Turning round, you see nothing. What's going on here...?
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21545
+S
+#21547
+A Narrow Cavern~
+You have reached the easternmost point of a long narrow cavern that runs 
+east-west. There are several cracks in the wall that a small creature may 
+be able to squeeze through, but you doubt that you could, save one to the
+south.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21548
+D3
+~
+~
+0 -1 21545
+S
+#21548
+A Dead End~
+You are dispirited as you find this passage ends after a short distance in a
+dead end, as do many passages in the Underdark.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21547
+S
+#21549
+A Bend in the Passage~
+The passage bends sharply to the south, becoming much larger and even as it
+does.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21515
+D2
+~
+~
+0 -1 21550
+S
+#21550
+A Major Passage~
+The passage you are currently in is one of the most-travelled in the Underdark.
+Travellers of all descriptions continually move along this passage- most
+of them unfriendly. You ready your weapons, certain that you are bound to
+run into some of them soon.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21549
+D2
+~
+~
+0 -1 21551
+D3
+~
+~
+0 -1 21553
+S
+#21551
+A Major Passage~
+The passage you are currently in is one of the most-travelled in the Underdark.
+Travellers of all descriptions continually move along this passage- most
+of them unfriendly. You ready your weapons, certain that you are bound to
+run into some of them soon.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21550
+D2
+~
+~
+0 -1 21552
+S
+#21552
+A Major Passage~
+The passage you are currently in is one of the most-travelled in the Underdark.
+Travellers of all descriptions continually move along this passage- most
+of them unfriendly. You ready your weapons, certain that you are bound to
+run into some of them soon.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21551
+D2
+~
+~
+0 -1 21559
+S
+#21553
+A Dead End~
+You are dispirited as you find this passage ends after a short distance in a
+dead end, as do many passages in the Underdark.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21550
+S
+#21554
+A Mine Tunnel~
+You have entered what looks like a mine. Iron rails run along the ground
+to the east, and sitting atop these rails is a metal trolley half covered in
+ore. You hear shouts and the ringing sound of metal being struck against
+stone in the distance.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21555
+D3
+~
+~
+0 -1 21502
+S
+#21555
+A Mine Tunnel~
+You have entered what looks like a mine. Iron rails run along the ground
+to the east, and sitting atop these rails is a metal trolley half covered in
+ore. You hear shouts and the ringing sound of metal being struck against
+stone in the distance.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21556
+D3
+~
+~
+0 -1 21554
+S
+#21556
+A Mine Tunnel~
+You have entered what looks like a mine. Iron rails run along the ground
+to the east, and sitting atop these rails is a metal trolley half covered in
+ore. The rails end at a giant wooden buffer. You hear shouts and the ringing 
+sound of metal being struck against stone all around you.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21557
+D1
+~
+~
+0 -1 21558
+D3
+~
+~
+0 -1 21555
+S
+#21557
+A Storage Room~
+Hessian sacks full of ore are stacked neatly along the walls of this place.
+Metal racks on the walls above them hold a variety of mining tools, as well
+as an assortment of weapons.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21556
+S
+#21558
+A Dead End~
+You are dispirited as you find this passage ends after a short distance in a
+dead end, as do many passages in the Underdark.
+~
+215 9 0 0 0 0 255 0
+D3
+~
+~
+0 -1 21556
+S
+#21559
+A Major Passage~
+The passage you are currently in is one of the most-travelled in the Underdark.
+Travellers of all descriptions continually move along this passage- most
+of them unfriendly. You ready your weapons, certain that you are bound to
+run into some of them soon.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21552
+D2
+~
+~
+0 -1 21560
+S
+#21560
+A Large Cave~
+This cave has been cleared of all stalactites and stalagmites, for some
+purpose unclear to you. Passages run to the east south and north.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21559
+D1
+~
+~
+0 -1 21562
+D2
+~
+~
+0 -1 21561
+S
+#21561
+A Dead End~
+You are dispirited as you find this passage ends after a short distance in a
+dead end, as do many passages in the Underdark.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21560
+S
+#21562
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21563
+D3
+~
+~
+0 -1 21560
+S
+#21563
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21562
+D1
+~
+~
+0 -1 21564
+S
+#21564
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21565
+D3
+~
+~
+0 -1 21563
+S
+#21565
+A Large Cave~
+This cave has been cleared of all stalactites and stalagmites, for some
+purpose unclear to you. Passages run to the east south and north.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21564
+D1
+~
+~
+0 -1 21566
+D2
+~
+~
+0 -1 21573
+S
+#21566
+A Wide Tunnel~
+You have entered a wide, east-west tunnel that is almost perfectly circular.
+You see lines in some dirt that indicate something large has been dragged
+here, a corpse perhaps, or perhaps the passage of a snake or worm.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21567
+D3
+~
+~
+0 -1 21565
+S
+#21567
+A Junction~
+You have reached a widening of the passage where exits lead in all cardinal
+directions.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21568
+D1
+~
+~
+0 -1 21570
+D2
+~
+~
+0 -1 21576
+D3
+~
+~
+0 -1 21566
+S
+#21568
+A Rubble-Strewn Passage~
+This passage is narrow and difficult to traverse. It appears to end in a
+dead end directly ahead.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21569
+D2
+~
+~
+0 -1 21567
+S
+#21569
+A Dead End~
+You are dispirited as you find this passage ends after a short distance in a
+dead end, as do many passages in the Underdark.
+
+However, you think you could worm your way through a narrow crack in the
+north wall if you wanted, although you doubt you'd be able to return the
+same way.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21543
+D2
+~
+~
+0 -1 21568
+S
+#21570
+A Wide Tunnel~
+You have entered a wide, east-west tunnel that is almost perfectly circular.
+You see lines in some dirt that indicate something large has been dragged
+here, a corpse perhaps, or perhaps the passage of a snake or worm.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21571
+D3
+~
+~
+0 -1 21567
+S
+#21571
+A Wide Tunnel~
+You have entered a wide, east-west tunnel that is almost perfectly circular.
+You see lines in some dirt that indicate something large has been dragged
+here, a corpse perhaps, or perhaps the passage of a snake or worm.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21572
+D3
+~
+~
+0 -1 21570
+S
+#21572
+A Wide Tunnel~
+You have reached the end of a wide, east-west tunnel that is almost perfectly 
+circular. The lines in the dirt end here.
+~
+215 9 0 0 0 0 255 0
+D3
+~
+~
+0 -1 21571
+S
+#21573
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21565
+D3
+~
+~
+0 -1 21574
+S
+#21574
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21573
+D2
+~
+~
+0 -1 21575
+S
+#21575
+A Dead End~
+You are dispirited as you find this passage ends after a short distance in a
+dead end, as do many passages in the Underdark.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21574
+S
+#21576
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21567
+D1
+~
+~
+0 -1 21577
+S
+#21577
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21578
+D3
+~
+~
+0 -1 21576
+S
+#21578
+A Cavern~
+You enter a large cavern, filled with the usual array of stalactites and
+stalagmites, with two small caves to the east and west. A north-south
+passage runs through the middle.
+~
+215 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21577
+D1
+~
+~
+0 -1 21579
+D2
+~
+~
+0 -1 21581
+D3
+~
+~
+0 -1 21580
+S
+#21579
+A Cave~
+This small cave is obviously the lair of some denizen of the Underdark. As
+you pick your way past decaying corpses, skeletons and pieces of broken
+equipment, you silently pray that this particular denizen is not home right 
+now.
+~
+215 9 0 0 0 0 255 0
+D3
+~
+~
+0 -1 21578
+S
+#21580
+A Cave~
+This small cave is obviously the lair of some denizen of the Underdark. As
+you pick your way past decaying corpses, skeletons and pieces of broken
+equipment, you silently pray that this particular denizen is not home right 
+now.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21578
+S
+#21581
+A Long Passageway~
+This passageway stretches out deep into the Underdark, and begins to slope
+steeply downward directly ahead of here.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21578
+D5
+~
+~
+0 -1 21582
+S
+#21582
+A Cavern~
+This area of the Underdark looks heavily travelled. Large numbers of humanoids
+of many races have travelled east up and down from here.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21583
+D4
+~
+~
+0 -1 21581
+D5
+~
+~
+0 -1 21584
+S
+#21583
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21589
+D3
+~
+~
+0 0 21582
+S
+#21584
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21585
+D4
+~
+~
+0 -1 21582
+S
+#21585
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21584
+D3
+~
+~
+0 -1 21586
+S
+#21586
+A Small Cave~
+Several large crates and containers have been left here, along with dozens
+of corpses- creatures who have had their brains sucked out by hungry 
+Illithids.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21588
+D1
+~
+~
+0 -1 21585
+D2
+~
+~
+0 -1 21587
+S
+#21587
+A Slow Descent~
+You find yourself heading down a sloping path that heads into the inky 
+blackness of a large cave dead ahead. 
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21586
+D2
+*CONNECTION*
+~
+~
+0 -1 -1
+S
+#21588
+Wererat Chambers~
+Here reside the Wererat guards/bully boys who work for the Illithid slave
+traders. You see some Illithid have a penchant for brains, and the Wererats
+are excellent purveyors.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21586
+S
+#21589
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21583
+D1
+~
+~
+0 -1 21590
+S
+#21590
+Outside the Pens~
+You are standing in a large cave with a metal gate barring access to the
+north. From behind this grate emanates an awful stench. You have no idea
+what the purpose of this area is, and you aren't sure you care to find out...
+~
+215 9 0 0 0 0 255 0
+D0
+~
+gate~
+1 0 21591
+D1
+~
+~
+0 -1 21592
+D3
+~
+~
+0 -1 21589
+S
+#21591
+The Ghoul Pens~
+Here the Drow breed new ghouls for their armies, by creating one or two and
+then throwing unarmed human slaves to them to be tortured and slain, and
+resurrected as ghouls. It is an effective, low cost breeding system. Pity
+you're in here- you're considered feed...
+~
+215 9 0 0 0 0 255 0
+D2
+~
+gate~
+1 0 21590
+S
+#21592
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 21593
+D3
+~
+~
+0 -1 21590
+S
+#21593
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21592
+D2
+~
+~
+0 -1 21594
+S
+#21594
+A Twisting Tunnel~
+This tunnel twists and turns as it wends its sinuous way into the depths of
+the Underdark. Strange moss and lichen glow dimly in small recesses in the
+walls, though they provide insufficient light to navigate by.
+~
+215 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21593
+D3
+~
+~
+0 -1 21595
+S
+#21595
+Outside the Pens~
+You are standing in a large cave with a metal gate barring access to the
+south. From behind this grate emanates an awful stench. You have no idea
+what the purpose of this area is, and you aren't sure you care to find out...
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21594
+D2
+~
+gate~
+1 0 21596
+D3
+~
+~
+0 -1 21597
+S
+#21596
+The Ghast Pens~
+Here the Drow breed new ghasts for their armies, by creating one or two and
+then throwing unarmed human slaves to them to be tortured and slain, and
+resurrected as ghasts. It is an effective, low cost breeding system. Pity
+you're in here- you're considered feed...
+~
+215 9 0 0 0 0 255 0
+D0
+~
+gate~
+1 0 21595
+S
+#21597
+An Even Tunnel~
+This passage runs directly east-west, and looks to lead to some sort of
+large settlement. You may want to proceed cautiously...
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21595
+D3
+~
+~
+0 -1 21598
+S
+#21598
+An Even Tunnel~
+This passage runs directly east-west, and looks to lead to some sort of
+large settlement. You may want to proceed cautiously...
+
+The entrance to a large city lies directly west of here.
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21597
+D3
+~
+~
+0 -1 21599
+S
+#21599
+A Rest Stop~
+This is a rest stop for travellers going to and from the Under Dark, fell
+capital of this strange under world. It has been deserted for some time now,
+perhaps due to the unsavory habits of its latest occupant...
+~
+215 9 0 0 0 0 255 0
+D1
+~
+~
+0 -1 21598
+D5
+An enourmous tunnel leads down wards
+~
+~
+0 -1 20823
+S
+$~

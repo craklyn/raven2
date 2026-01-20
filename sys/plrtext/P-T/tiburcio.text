@@ -1,0 +1,14 @@
+for c 'forest
+fw clanwho
+f clan $*
+g gtell $*
+sh shoot $*
+str c 'strength' $*
+dis disarm $*
+k kill $*;trip
+call c 'call of the wild'
+tit tit &07the &00Ranger
+bria c 'briarwood skin'
+inf c 'infravision' $*
+cen c 'sense life' $*
+shi c 'shield' $*

@@ -1,0 +1,480 @@
+#10001
+H W 0~
+bill citizen villager carpenter~
+the carpenter~
+The village carpenter is here working on a cabinet.
+~
+   This kind man turns to you and says hello. He is an older man, maybe forty
+or fifty. It also looks as if he's some sort of handy man because he's wearing
+some sort of pouch filled with nails. Years of work, and drinking probably, 
+have left him a bit run down, but your sure he could hold his own in a brawl.
+~
+18830 0 0 0 1024 0 0 0 400
+15 8 5 1d1+1000 1d1+10
+35 40
+9 9 1 0 -1 -1
+#10002
+H W 0~
+butcher shopkeeper~
+the butcher~
+The butcher is here, slaughtering a large cow.
+~
+   Years of cutting meat have given this man muscles of iron! He chops through
+the thick meat like a seasoned adventurer, the poor cows don't stand a chance.
+With a polite smile he turns to you and asks, "What can i do ya for?" 
+~
+2335 0 0 0 1032 0 0 0 500
+21 3 3 5d10+1000 2d2+15
+40 40
+9 9 1 0 -1 -1
+#10003
+H T 0~
+stableboy boy stable kid brat~
+the stableboy~
+A young boy is here tending to the horses.
+~
+   He obviously doesn't want to be a stableboy forever. The grimace on his 
+face everytime he looks at one of the horses shows how upset he is with, as
+he puts it, "those disgusting, smelly creatures!" Perhaps you would be doing
+a favor putting him out of his misery. You'd sure be doing the horses a favor.
+~
+2330 0 0 0 1032 0 0 0 -500
+10 8 8 5d5+150 1d2+8
+35 40
+9 9 1 0 -1 -1
+#10004
+F M 3~
+elemental water puddle waterelemental~
+the water elemental~
+A large puddle is here.
+~
+   The water seems to move with a life of its own. It must be some form of
+creature. But what creature could be made of pure water? Creatures like this
+should only reside on some other plane of existence. A very powerful mage 
+must have been involved in its creation!
+~
+2314 0 0 0 787592 0 0 0 1000
+30 3 -10 1d1+3500 3d4+20
+50 60
+9 9 0 10 -1 -1
+#10005
+A W 0~
+dog doggie mutt pooch~
+the dog~
+A small dog is here looking for food.
+~
+   The poor thing! He has to eat the scraps people throw into the garbage in
+order to survive at all. It looks like he hasn't really eaten in years, you 
+can even see his ribs. He doesn't look like he wants anything to do with you,
+he even snaps at you as you try to pet him.
+~
+2377 0 0 0 1032 0 0 0 -200
+5 15 9 2d5+20 1d4+2
+35 40
+9 9 1 4 -1 -1
+#10006
+A W 0~
+horse horsy ed mr.~
+the horse~
+A field horse is busy eating oats here.
+~
+   This large animal is bred for a life of hard labor. He must be able to
+pull a large plow all day long and in the hottest temperatures. At the end
+of the day however, he is allowed to rest and recuperate, so that tomorrow
+he will be able to do it all over again. Pretty repetitive eh?
+~
+394 0 0 0 8 0 0 0 400
+10 13 5 2d12+200 1d5+9
+35 40
+9 9 1 23 -1 -1
+#10007
+H W 0~
+woman poor sad widow~
+the widow~
+A sad woman is here, crying over a grave.
+~
+   Apparently she just lost her husband, whom she just married recently. Her
+sobs tear at your heart, for there is nothing worse than losing true love to
+death. She wears the traditional black cloak to hide her grief from the rest
+of the world. She will probably never remarry, such a shame to waste beauty 
+such as hers.
+~
+2201 0 0 0 4224 0 0 0 1000
+25 10 0 1d1+1000 1d2+5
+40 40
+9 9 2 0 -1 -1
+#10008
+H W 0~
+warrior fighter adventurer~
+the warrior~
+A proud warrior is here polishing his armor.
+~
+   Armor polished to perfection, this seasoned warrior would surely be a 
+match for anyone in battle. Years of fighting have conditioned him with 
+muscles of steel and a visage of stone. A single scar runs from the corner of
+his eye to the corner of his lip. ' And i got that one from fighting a dragon!'
+he quickly explains.
+~
+2074 0 0 0 5243904 0 0 0 1000
+25 5 -9 1d1+4000 1d1+20
+40 40
+9 9 1 3 6 5
+#10009
+H M 0~
+mage wizard spellcaster~
+the mage~
+A red-robed mage peers across the room at you.
+~
+   The mage stares at you with pale blue eyes that seem to pierce through to
+your soul. Magic is a powerful weapon, especially because you never know when
+a wizard is actually 'using' his powers. You have no doubt that this mage 
+could convince you of anything with his stone cold eyes.
+~
+2314 0 0 0 4199560 0 0 0 1000
+25 10 1 1d1+2000 1d2+12
+40 40
+9 9 1 21 12 -1
+#10010
+H T 0~
+thief pilferer rogue~
+the thief~
+A thief stands cloaked in the shadows here.
+~
+   Hiding in the corner so you can hardly see him, is a thief. Its almost as
+if he is wearing the shadows as a cloak around his body. You have confidence
+that he could sneak up on almost anyone. Surely he would backstab you and
+steal what money you had, 'if' you gave him the chance that is...
+~
+2186 0 0 0 787456 0 0 0 -450
+19 8 -2 1d1+1000 1d2+10
+35 40
+9 9 1 0 -1 -1
+#10011
+H C 0~
+cleric man priest father monk~
+the cleric~
+A man in plain brown robes is here, praying to his god. 
+~
+   This man leads a simple life, one as Spartan as possible. Prayer and 
+sacrifice is all he is allowed to do. Only the strongest of will ever chose 
+his career, and he is proud that is so. 
+~
+2442 0 0 0 4199560 0 0 0 750
+25 6 5 1d1+2000 1d2+15
+40 40
+9 9 1 0 -1 -1
+#10012
+H W 0~
+bartender barkeep~
+the bartender~
+A bartender quickly asks you, "what'ca pleasure mate?"
+~
+   Strong enough to put an end to any bar brawl, this man would certainly be
+a challenge! Any barkeep able to keep his pub in one piece after a late night
+party would, without a doubt, be able to send a ripple of fear up a Red 
+Dragon's spine...
+~
+2331 0 0 0 1032 0 0 0 400
+25 -10 -10 1d1+2000 1d1+20
+40 40
+9 9 1 0 -1 -1
+#10013
+H W 0~
+innkeeper innkeep receptionist~
+the innkeeper~
+A kind innkeeper is here, dusting the curtains.
+~
+   The innkeeper is a kind old man. He lost his wife a few years back and 
+keeps the place up in memory of her. Running this inn helps him keep his mind
+off his troubles and keeps him busy in his old age. Even at his ripe age, you 
+can still tell he was once a worthy adventurer, and not to be trifled with!
+~
+26651 0 0 0 1032 0 0 0 1000
+25 10 -10 1d1+1000 1d2+50
+40 40
+9 9 1 0 -1 -1
+#10014
+A W 0~
+stork bird~
+a stork~
+A large stork is building a nest here.
+~
+   The stork is the bird that represents good tidings. In ancient myth they
+where said to bring babies, well actually to see a stork build a nest on 
+your roof meant you were going to have a baby soon. Does that mean the father 
+is expecting? 
+~
+138 0 0 0 65536 0 0 0 600
+10 5 0 5d5+90 1d2+10
+35 40
+9 9 2 0 -1 -1
+#10015
+A W 0~
+cat black kitty tass~
+the black cat~
+A small black cat is here, preening its fur.
+~
+   The cat barely even notices you when you come in. It sits here taking a cat
+bath, so to speak. It looks up at you with brilliant yellow eyes, eyes that
+seem to pierce into your very soul, and then quietly resumes its preening.
+~
+2570 0 0 0 263176 0 0 0 0
+15 0 5 1d1+850 1d2+10
+35 40
+9 9 1 8 -1 -1
+#10016
+A W 0~
+cow moo moocow bull~
+the cow~
+A large cow is here, chewing its cud.
+~
+   This poor creature doesn't even know what's going to happen to it, and seems
+like it doesn't even care. Its said that there is a use for ever part of the 
+cow, once it is slaughtered that is. Once these creatures don't produce enough
+milk to support their upkeep, its off to the chopping block!
+~
+200 0 0 0 0 0 0 0 0
+15 5 3 2d10+200 2d5+15
+35 40
+9 9 2 23 -1 -1
+#10017
+H C 0~
+father priest idiot~
+the priest~
+A humble father is here, cleaning the pews.
+~
+The priest is a righteous man, if somewhat misguided.  He is of the new belief
+that there is only one god in the heavens.  This being is called Zooooooool!  
+~
+190 0 0 0 136 0 0 0 450
+18 3 5 1d1+2000 1d4+10
+35 40
+9 9 1 0 -1 -1
+#10018
+H W 0~
+blacksmith smith talos ironworker~
+the Blacksmith~
+The village blacksmith is here shoeing a horse.
+~
+   The blacksmith is an essential part of any small towne such as this. Without
+him to keep the horses shoed, or to make the farmers tools, the village would
+not be able to continue. The towne needs him and they know it, he is a well
+paid man that's for sure!
+~
+2058 0 0 0 8 0 0 0 0
+18 3 0 5d5+900 1d4+15
+80 40
+9 9 1 0 -1 -1
+#10019
+H W 0~
+girl child brat bitch~
+the little girl~
+A small child is here playing with her doll.
+~
+   Still only 12 or 13, this girl is quite pretty for her age. Deep blue eyes
+that remind you of the ocean, seem to swirl and hypnotize you. Before you
+know what's happening she begins to sob, apparently you scared her barging in
+the way you did, shame on you!
+~
+142 0 0 0 0 0 0 0 500
+5 15 10 10d2+50 1d2+5
+35 40
+9 9 2 0 -1 -1
+#10020
+H W 0~
+mayor~
+the Mayor~
+The mayor of this hamlet is here at his desk.
+~
+   The mayor of this towne doesn't have to do much, but is still a necessary
+part of its workings. All important community decisions come from him, and of
+course should anything go wrong, he will face all the blame. Its a difficult
+job, but it is said that it has its rewards.
+~
+2446 0 0 0 136 0 0 0 1000
+25 0 -4 3d3+2500 3d3+15
+40 40
+9 9 1 0 -1 -1
+#10021
+P W 0~
+otyugh creature moss gulguthra~
+the otyugh~
+One of the mosses seems to be staring at you!
+~
+   The strange creature blends in perfectly with its surroundings, which means
+its really ugly! Moss covers its entire body and tentacles, if it wasn't for 
+it's large mouth and sharp teeth you might not even have noticed it sitting
+here. After what it must have been eating down here, you will certainly be a 
+tasty change!
+~
+2090 0 0 0 525320 0 0 0 -500
+25 0 0 1d1+2000 2d8+10
+40 40
+9 9 1 10 4 -1
+#10022
+H W 0~
+citizen person human villager~
+the citizen~
+A citizen of the towne is here visiting his neighbors.
+~
+   The villager is a humble man, trying to keep his family afloat. He is kind
+and even nods his head and says, "good-day kind sirs and madams!" With a wink
+of his eye he looks to the sky claiming that the sun shines so bright in the
+village because kind strangers, such as yourselves, are visiting.
+~
+2204 0 0 0 1024 0 0 0 0
+15 2 0 1d1+1500 1d2+8
+35 40
+9 9 1 0 -1 -1
+#10023
+H W 0~
+citizen person human villager woman girl~
+the citizen~
+One of the villagers is here washing her clothes.
+~
+   She has striking blue eyes that, even while performing so degrading chores,
+give her a regal air. She was meant for something more than being a common 
+peasant you could almost be certain of that. Perhaps she once was, but gave up
+a former life for the common one she has now.
+~
+2447 0 0 0 262152 0 0 0 750
+19 0 -4 3d3+1800 1d2+15
+35 40
+9 9 2 0 -1 -1
+#10024
+H W 0~
+citizen person human villager woman girl good wife goodwife~
+the goodwife~
+A village goodwife is here looking for gossip.
+~
+   In a village as small as this, gossip is the lifeblood of all the women who
+stay home and take care of the house. It seems as if the entire village already
+knows about you, you have certainly attracted attention. As soon as she sees
+you, she starts asking questions about where you come from, what's your 
+business, etc... 
+~
+2508 0 0 0 1024 0 0 0 0
+15 4 5 1d1+1000 1d3+10
+35 40
+9 9 2 0 -1 -1
+#10025
+H M 0~
+sage gypsy zash woman elderly madam oracle wizard mage~
+Madam Zash~
+A elderly woman is here looking into a crystal ball.
+~
+   She looks at you and seems to stare directly into your soul.
+"Death is what i see, not only for you but for the entire village. But you are
+different, murder! I see murder in your eyes ... you are the bringer of death!"
+  And with that she turns away and continues to predict the weather for the
+farmers.
+~
+141595 0 0 0 4199592 0 0 0 1000
+30 2 -2 4d4+2500 5d5+15
+50 140
+9 9 2 21 0 1
+#10026
+H W 0~
+guard cop police snapper~
+the guard~
+A guard is here, trying to stay awake while guarding his prisoner.
+~
+   You'd have to say he has the most boring job in town. All he has to do is 
+keep the prisoner from escaping and keep anyone from entering. Apparently 
+he hasn't had to do either in awhile because he seems to be nodding off from 
+time to time and his sword is all the way across the room....
+~
+2315 0 0 0 1032 0 0 0 -800
+15 5 2 1d1+2000 1d2+14
+35 40
+9 9 1 3 5 7
+#10027
+H W 0~
+constable officer cop snapper odo~
+the village Constable~
+The village constable is here looking for signs of trouble.
+~
+   It seems he is always watching you, yet he also seems to be watching 
+everyone else at the same time. His presence serves to remind people that the  
+law is always watching you, and if you should ever slip up, the jail always 
+has some extra room.
+~
+2377 0 0 0 262152 0 0 0 1000
+19 1 -1 1d1+1500 1d2+18
+35 40
+9 9 1 3 5 7
+#10028
+H W 0~
+prisoner man thief~
+the prisoner~
+A deshelved man is here, deathly afraid of you.
+~
+   This man was caught stealing. The winter was colder than he thought it would
+be and his root cellar ran dry early. He stole some bread from his rich neighbor
+in order to survive because he couldn't afford to buy from the baker who
+was out to make a huge profit. For his heinous crime the towne has sentenced
+him to life in prison, kinda rough eh?
+~
+2186 0 0 0 0 0 0 0 400
+12 9 10 5d5+150 1d2+5
+35 40
+9 9 1 0 -1 -1
+#10029
+H W 0~
+bellringer boy child~
+the bellringer~
+A young boy is here, waiting to ring the bells.
+~
+   Well someone has to ring the bells in these old fashion churches and this
+young boy has volunteered. Poor kid will probably be deaf soon, and for the 
+rest of his life too! The sacrifices some people make for the church, eh? 
+~
+2186 0 0 0 0 0 0 0 200
+12 5 3 3d10+100 1d2+5
+35 40
+9 9 1 0 -1 -1
+#10030
+H W 0~
+citizen man~
+the citizen~
+One of the villagers is here looking for someone.
+~
+   He turns to you and says, "Pardon me kind sir, but have you seen Elise? I
+Haven't seen her for days! I'd hate to think something happened to her."
+He frowns when you don't answer, shrugs, and then walks away mumbling something
+about garlic.
+~
+2508 0 0 0 1024 0 0 0 1000
+18 0 -2 1d1+1000 1d4+15
+35 40
+9 9 1 0 -1 -1
+#10031
+H W 0~
+woman widow old elderly~
+the Elderly Woman~
+An old woman is here struggling to get into her wheelchair.
+~
+   The years have not been kind to this poor woman. She is barely able to walk   
+and is probably as blind as a bat. How anyone could enjoy living like that
+is beyond you. Apparently she has fallen and can't get up (*smirk*), she is
+desperately trying to reach her wheelchair.
+~
+138 0 0 0 0 0 0 0 0
+10 10 5 2d10+100 1d2+5
+0 40
+9 9 2 0 -1 -1
+#10050
+H W 0~
+villager~
+the villager~
+A villager rushes by, eyes darting around, paying no attention to you.
+~
+A plainly dressed resident of this little town stands here.  He looks normal
+enough but seems terribly pre-occupied.  Also he appears to have dark circles
+under his eyes.    
+~
+456 0 0 0 0 0 0 0 1000
+25 0 0 2d2+2000 3d3+15
+40 40
+9 9 1 0 -1 -1
+$

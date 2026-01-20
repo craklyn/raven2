@@ -1,0 +1,23 @@
+ssn shadowstep north
+ssd shadowstep down
+ssu shadowstep up
+sss shadowstep south
+sse shadowstep east
+ssw shadowstep west
+ch cast 'charm' $1
+dom c 'dance of mist' $1
+blur cast 'blur' self
+dance cast 'dance of shadow' self
+bl cast 'blind' $1
+wa wake;;stand
+sb cast 'shadow blades' $1
+bla cast 'shadow blades'
+sv cast 'shadow vision' $1
+sph cast 'shadow sphere' self
+walk cast 'shadow walk' self
+dod c 'dance of dream' $1
+z ass pc
+check cast 'shadow vision' Gnome_elder;;cast 'shadow vision' ruffian_vampire;;cast 'shadow vision' 5.grimlock
+sense cast 'sense life' self
+qw drink water;;drink fount
+i shadowstep down;;u

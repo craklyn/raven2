@@ -1,0 +1,28 @@
+rvv gt r$*;cast 'revive' $*
+di cast 'detect invis' $*
+earth cast 'earthquake
+fs cast 'flame strike
+dishearten cast 'dishearten
+cb cast 'cure blind' $1
+recall cast 'word of recall' $*
+sanc cast 'sanc' $1
+sum cast 'summon' $1
+bless cast 'bless' $1
+armor cast 'armor' $1
+fly cast 'fly' $1
+heal cast 'heal' $1
+relo cast 'relocate' $*
+rc cast 'remove curse' $1
+summon cast 'summon' $*
+sense cast 'sense life
+q gt assist;assi
+remp cast 'remove para' $1
+k gt kill $1
+fort cast 'fortify' $*
+cleanse cast 'cleanse' $1
+blind cast 'blind' $1
+resc whisper zaos resc$*;whisper cgreth resc$*
+rp cast 'remove poison' $1
+rv whisper xas heal$*;cast 'revive' $*
+r cast 'revive' $*
+regen cast 'regen' $*

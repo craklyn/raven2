@@ -1,0 +1,32 @@
+titl title :: &14B&07rewmaster&00 of &08A&07fter&08m&07ath&00
+cw c 'create warding'
+en c 'entomb corpse' $*
+sil c 'silence' $*
+reca get scroll beet;recite scroll scroll
+ea get loaf beet;get loaf beet;eat loaf;eat loaf;drink thimb;drink thimb
+say say &03$* &00
+pk order followers murder $*
+sum c 'summon' $*
+con c 'consume corpse' $*
+sen c 'sense life' $*
+cc c 'charm corpse' $*
+invis c 'invisibility' $*
+rp c 'resist poison' $*
+inf c 'infravision' $*
+wa wake;stand
+m c 'maledict' $*
+di c 'detect invis' $*
+afk nosum;norec
+sp c 'soul pierce' $*
+shi c 'shield' $*
+fly c 'fly' $*
+ld c 'life drain' $*
+bl c 'blindness' $*
+gt gt &03$* &00
+emb c 'embalm' $*
+ns c 'noxious skin' $*
+slo c 'slow' $*
+age c 'age' $*
+de c 'debilitate' $*
+wr c 'wraithform' $*
+clan clan &00&03$* &11

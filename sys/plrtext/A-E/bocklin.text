@@ -1,0 +1,38 @@
+gg c 'soul' pikmin;des pikmin
+vv c 'soul' 2.
+sumo c 'sum' odamaron
+g scan
+ep c 'explode corpse' corpse
+nox c 'nox
+cdi c 'detect invis
+sen c 'sense
+gotomini e;e;e;e;e;e;e;n;n;w;n
+emb c 'embalm' cor
+wrai c 'wraith
+cw c 'create ward
+5 c 'soul
+inv c 'invis
+inf c 'infravision
+1 get all all.corpse
+resg c 'resist poi' group
+shig c 'shield' group
+x exit
+2 ass
+0 rec elve scroll
+invg c 'invis' group
+cc c 'entomb' corpse
+sumh c 'sum' hapax
+dig c 'detect invis' group
+cons c 'consume corpse' corpse
+4 c 'terror
+ent c 'entomb
+flyg c 'fly' group
+3 ass;c 'male
+te c 'terror
+fly c 'fly
+shi c 'shield
+gotoele s;s;s;s;s;s;s;s;s;e;e;e;s;s;d;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;s;e;e;e;e;e
+char c 'charm corpse' corpse;gr all
+sume c 'sum' empedocles
+tourist fol self;gr all;c 'soul' tourist;junk torch;fol asclepius
+cv ass;c 'soul';c 'soul';c 'soul';c 'soul';c 'soul'

@@ -1,0 +1,13 @@
+flee --;flee
+say sa &14$* &00
+gt gtell &14$* &00
+b bash $*;stand
+kk kick $*
+a assist
+ha c 'holy armor'
+di c 'detect invis' $*
+dm c 'divine miss'
+pfe c 'protection from evil'
+spells ha;pfe;dm;di
+g guard $*
+re retreat $*

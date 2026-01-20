@@ -1,0 +1,2870 @@
+#14300
+The Great Tower of Xerxes - Level 3~
+This area (14301-14436) forms the 3rd level of the Great Tower of Xerxes.
+
+The connection points are as follows:
+
+North of 14301 connected to 14218.
+Up of 14427 connected to 14501.
+
+Mob Chutes:
+
+14436 is the Master Chute.
+14428, 14429, 14432, 14433, 14434 and 14435 are the other chutes.
+
+While the lower levels are unfriendly to pass through at times, this is the
+first level that will prove a major obstacle to groups with ambitions of
+reaching the highest parts of the tower. There are many, MANY aggresive
+mobiles here, quite a few of them with special routines specifically
+designed to disrupt standard(dull) group orgainisations and methods. No
+character could survive here alone, groups of characters venturing here
+should have members of at least 35th level, here, no one is safe from
+attack. The area is structured such that groups will have to wander all over
+it in order to pass on, 3 keys(in sequence) being required. The first is
+carried by a unique individual who loads into a random room, some where in
+the maze. Because of the enviroment, tracking here is impossible, so
+simply finding the first key could be a major under taking...
+
+This area was written by Vex.
+~
+143 72 0 0 0 0 255 0
+S
+#14301
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the south, while to the north the corridor ends in a spiral
+stairway.
+~
+143 8 0 0 0 0 255 0
+D0
+The top of a spiral stair case is visible to the north.
+~
+~
+0 0 14218
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14302
+S
+#14302
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the west and north.
+~
+143 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14301
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14303
+S
+#14303
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+143 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14302
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14304
+S
+#14304
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+143 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14303
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14305
+S
+#14305
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+143 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14304
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14306
+S
+#14306
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+143 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14305
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14307
+S
+#14307
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+143 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14306
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14308
+S
+#14308
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+143 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14307
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14309
+S
+#14309
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east, while to the west you see the end of the corridor.
+~
+143 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14308
+D3
+The stone corridor ends to the west.
+~
+~
+0 0 14310
+S
+#14310
+Entrance to Darkness~
+This is the end of a corridor of featureless stone. To the north you see an 
+ornate archway, but beyond the arch, your light does not penetrate. In fact
+it just appears to a black void, absorbing all light. If you dare, you can
+enter the darkness to the north, the corridor continues to the east. There is
+a plaque of brass here, covered in verdigris.
+~
+143 8 0 0 0 0 255 0
+D0
+You see only darkness...
+~
+~
+0 0 14430
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14309
+E
+ornate archway~
+To your horror, you realise the arch is formed in the likeness of a rotting
+human face. The eyes of the thing appear to be looking right at you, and when
+they blink you realise the thing is "alive". A long moaning cry issues from 
+its decayed mouth, but if its trying to tell you anything, its intelligble.
+You wonder how such an abomination could be worked into stone, the thing
+appears mindless, but you can feel its anguish.
+~
+E
+brass plaque~
+Brushing away the green verdigris, you are able to make out these words:
+"Trial by Darkness"
+~
+S
+#14311
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14319
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14312
+S
+#14312
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14313
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14311
+S
+#14313
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14314
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14315
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14312
+S
+#14314
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14313
+S
+#14315
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14316
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14313
+S
+#14316
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14317
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14315
+S
+#14317
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14318
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14316
+S
+#14318
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14317
+S
+#14319
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14320
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14311
+S
+#14320
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14321
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14319
+S
+#14321
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14322
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14320
+S
+#14322
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14323
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14321
+S
+#14323
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14324
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14322
+S
+#14324
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14323
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14325
+S
+#14325
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14324
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14326
+S
+#14326
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14327
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14325
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14330
+S
+#14327
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14326
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14328
+S
+#14328
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14329
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14327
+S
+#14329
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14328
+S
+#14330
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14326
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14331
+S
+#14331
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14332
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14330
+S
+#14332
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14331
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14333
+S
+#14333
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14334
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14332
+S
+#14334
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14384
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14333
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14335
+S
+#14335
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14334
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14336
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14344
+S
+#14336
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14335
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14337
+S
+#14337
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14344
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14336
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14338
+S
+#14338
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14337
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14340
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14339
+S
+#14339
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14338
+S
+#14340
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14341
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14338
+S
+#14341
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14340
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14342
+S
+#14342
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14341
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14343
+S
+#14343
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14342
+S
+#14344
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14345
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14335
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14337
+S
+#14345
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14344
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14346
+S
+#14346
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west and north.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14345
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14347
+S
+#14347
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14346
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14348
+S
+#14348
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14349
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14347
+S
+#14349
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14350
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14348
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14355
+S
+#14350
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west and north.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14351
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14349
+S
+#14351
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14352
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14350
+S
+#14352
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14353
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14351
+S
+#14353
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14354
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14352
+S
+#14354
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14353
+S
+#14355
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14356
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14349
+S
+#14356
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14355
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14357
+S
+#14357
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west and north.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14356
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14358
+S
+#14358
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14357
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14359
+S
+#14359
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14358
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14360
+S
+#14360
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14359
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14361
+S
+#14361
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14360
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14362
+S
+#14362
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14361
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14363
+S
+#14363
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14362
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14364
+S
+#14364
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14365
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14363
+S
+#14365
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14364
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14367
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14366
+S
+#14366
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14365
+S
+#14367
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14368
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14365
+S
+#14368
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14369
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14370
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14367
+S
+#14369
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14368
+S
+#14370
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14371
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14368
+S
+#14371
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14372
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14370
+S
+#14372
+Disorientation in the Darkness~
+A sudden queasy feeling in the pit of your stomach strikes as soon as you
+enter the room, then you seem struck by buffeting winds, but they subside to
+quickly to do more than ruffle your hair. You quickly realise that the way you
+came in no longer exists. You barely detect a faint light from the north, and
+this appears to be your only exit.
+~
+143 73 0 0 0 0 255 0
+D0
+Peering through the darkness, you think the area opens up to your north.
+~
+~
+0 0 14374
+S
+#14373
+Base of the stairs~
+You are standing at the base of a set of spiral stairs, climbing upward. To
+the east is a short stone corridor. You can dimly hear the cries of the 
+ghastly denziens of the darkness, you wonder what manner of being could have
+created this place.
+~
+143 8 0 0 0 0 255 0
+D1
+To the east lies a short stone corridor.
+~
+~
+0 0 14426
+D4
+Looking up, you see the stairs.
+~
+~
+0 0 14427
+S
+#14374
+The Hall of Obsidian~
+You have entered a large hall of black vitreous stone, obsidian by the 
+look of it. The hall is illuminated by a glowing object lying on the floor to
+the north. While the hall is lit, it is still bitterly cold, you yearn to be
+free of this ghastly place. 
+~
+143 8 0 0 0 0 255 0
+D0
+A glowing crystal seems attached to the floor there.
+~
+~
+0 0 14378
+D1
+The obsidian hall extends to the east.
+~
+~
+0 0 14376
+D2
+The darkness seems like a wall to the south.
+~
+~
+0 0 14431
+D3
+The obsdian hall extends to the west.
+~
+~
+0 0 14375
+S
+#14375
+The Hall of Obsidian~
+You are standing in the south-west corner of a large chamber carved from
+obsidian. The chamber is lit, albeit dimly, by a glowing object to the north
+east. The hall continues further to the east and north from here.
+~
+143 8 0 0 0 0 255 0
+D0
+The obsidian hall extends to the north.
+~
+~
+0 0 14377
+D1
+The obsidian hall extends to the east.
+~
+~
+0 0 14374
+S
+#14376
+The Hall of Obsidian~
+You are standing in the south-east corner of a large chamber carved from
+obsidian. The chamber is lit, albeit dimly, by a glowing object to the north
+west. The hall continues further to the west and north from here.
+~
+143 8 0 0 0 0 255 0
+D0
+The obsidian hall extends to the north.
+~
+~
+0 0 14379
+D3
+The obsidian hall extends to the east.
+~
+~
+0 0 14374
+S
+#14377
+The Hall of Obsidian~
+It seems you have reached the end of the obsidian hall, for to the north it
+dissapears into total darkness.. To the east, however, you can see the
+glowing object that lights this place.
+~
+143 8 0 0 0 0 255 0
+D0
+The darkness seems like a wall to the north.
+~
+~
+0 0 14380
+D1
+The obsidian hall extends to the east.
+~
+~
+0 0 14378
+D2
+The obsdian hall extends to the south.
+~
+~
+0 0 14375
+S
+#14378
+The Hall of Obsidian~
+It's not quite as cold here, althou still quite uncomfortable. A large glowing
+crystal that seems fused into the floor glows brightly, illuminating the whole
+chamber. To the north thou, the light dies and the warmth seems to be sucked
+away. The chamber itself continues further to the east, west and south.
+~
+143 12 0 0 0 0 255 0
+D0
+The darkness seems like a wall to the north.
+~
+~
+0 0 14382
+D1
+The obsidian hall extends to the east.
+~
+~
+0 0 14379
+D2
+The obsdian hall extends to the south.
+~
+~
+0 0 14374
+D3
+The obsidian hall extends to the west.
+~
+~
+0 0 14377
+S
+#14379
+The Hall of Obsidian~
+It seems you have reached the end of the obsidian hall, for to the north it
+dissapears into total darkness.. To the west, however, you can see the
+glowing object that lights this place.
+~
+143 8 0 0 0 0 255 0
+D0
+The darkness seems like a wall to the north.
+~
+~
+0 0 14383
+D2
+The obsidian hall extends to the south.
+~
+~
+0 0 14376
+D3
+The obsdian hall extends to the west.
+~
+~
+0 0 14378
+S
+#14380
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, while south you see a dim glow.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14381
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14382
+D2
+The darkness ends abruptly to the south.
+~
+~
+0 0 14377
+S
+#14381
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, east and north.
+~
+143 73 0 0 0 0 255 0
+D1
+Feeling carefully along the wall, your hand passes right through it!
+~
+~
+0 0 14348
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14380
+S
+#14382
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north, while south you see a dim glow.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14383
+D2
+The darkness ends abruptly to the south.
+~
+~
+0 0 14378
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14380
+S
+#14383
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and east, while south you see a dim glow.
+~
+143 73 0 0 0 0 255 0
+D2
+The darkness ends abruptly to the south.
+~
+~
+0 0 14379
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14382
+S
+#14384
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14385
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14334
+S
+#14385
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west and north.
+~
+143 77 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14386
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14384
+S
+#14386
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 77 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14387
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14385
+S
+#14387
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 77 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14388
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14386
+S
+#14388
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14387
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14389
+S
+#14389
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 77 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14390
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14388
+S
+#14390
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 77 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14389
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14391
+S
+#14391
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and south.
+~
+143 77 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14392
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14390
+S
+#14392
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14393
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14391
+S
+#14393
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14395
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14392
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14394
+S
+#14394
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, north and south.
+~
+143 77 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14393
+S
+#14395
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 77 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14396
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14393
+S
+#14396
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14395
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14397
+S
+#14397
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14398
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14396
+S
+#14398
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east, while a dim light is barely perceptible to the south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14399
+D2
+The darkness ends abruptly to the south.
+~
+~
+0 0 14401
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14397
+S
+#14399
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14398
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14400
+S
+#14400
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14399
+S
+#14401
+Before the Obsidian Gate~
+You are standing before a gate of pure obsidian, set in the western wall. This
+area is in fact illuminated, albeit dimly. Guttering torches to either side of
+the gate provide light. To the north, east and south, all light vanishes into
+the total blackness beyond.
+~
+143 12 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14398
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14402
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14411
+D3
+A gate of pure obsidian is set into the western wall.
+~
+obsidian gate~
+2 14302 14426
+E
+obsidian gate~
+The gate looks like it must slide upwards into the roof. It also looks very 
+heavy, perhaps some mechanism within the wall raises it. A massive lock is set
+into its centre.
+~
+S
+#14402
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east, while a dim light is barely perceptible to the south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14403
+D3
+The darkness ends abruptly to the west.
+~
+~
+0 0 14401
+S
+#14403
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14404
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14402
+S
+#14404
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west and north.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14405
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14403
+S
+#14405
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14406
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14404
+S
+#14406
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14405
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14407
+S
+#14407
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14406
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14408
+S
+#14408
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14407
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14410
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14409
+S
+#14409
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14408
+S
+#14410
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west, east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14408
+S
+#14411
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east, while a dim light is barely perceptible to the south.
+~
+143 73 0 0 0 0 255 0
+D0
+The darkness ends abruptly to the north.
+~
+~
+0 0 14401
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14412
+S
+#14412
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14411
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14413
+S
+#14413
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west and north.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14412
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14414
+S
+#14414
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14413
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14415
+S
+#14415
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14414
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14416
+S
+#14416
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the south and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14415
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14417
+S
+#14417
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14418
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14416
+S
+#14418
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14419
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14417
+S
+#14419
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and south.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14420
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14418
+S
+#14420
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and west.
+~
+143 73 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14421
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14419
+S
+#14421
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east and north.
+~
+143 73 0 0 0 0 255 0
+D2
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14420
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14422
+S
+#14422
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the north and south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14421
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14423
+S
+#14423
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the west and north. A dim light is visible to the south.
+~
+143 73 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14422
+D2
+The darkness ends abruptly to the south.
+~
+~
+0 0 14424
+S
+#14424
+Before the Black Portal~
+Once more, you venture out of darkness and into light. To the east, lies a
+shimmering black portal, flanked by massive black candles which provide this
+area with light. To the north, you can step back into total darkness.
+~
+143 8 0 0 0 0 255 0
+D0
+The light dies to the north.
+~
+~
+0 0 14423
+D1
+The shimmering black portal blocks vision past it.
+~
+portal shimmering black~
+2 14301 14425
+E
+portal shimmering black~
+It appears to be some kind of force field, perhaps there might be some way to
+bring it down.
+~
+S
+#14425
+The Chamber of Midnight~
+You find yourself in darkness once more, if anything it seems even darker here
+than in the corridors through which you have passed. It is utterly quiet here,
+the only sound is your own breathing and heart beat. Looking around nervously,
+you see that you can still leave back to the west. Nothing seems to happen...
+~
+143 105 32 0 0 0 255 0
+D3
+You can escape past the shimmering black portal.
+~
+portal shimmering black~
+2 14301 14424
+S
+#14426
+A stone corridor~
+You are standing in a stone corridor of featureless stone. To your east, lies
+an obsidian gate leading into a maze of nightmares. To the west you can see
+a spiral stairway, leading onward to greater horrors no doubt. You hear 
+mocking laughter echoing through the corridor, you turn quickly but see no 
+one, hmmm. You recall the prescence that watched you enter this most veritable
+house of horrors, it would appear it finds your progress amusing.
+~
+143 76 0 0 0 0 255 0
+D1
+An obsidian gate is set in the eastern wall.
+~
+obsidian gate~
+2 14302 14401
+D3
+You can see spiral stairs to the west.
+~
+~
+0 0 14373
+E
+obsidian gate~
+The gate looks like it must slide upwards into the roof. It also looks very 
+heavy, perhaps some mechanism within the wall raises it. A massive lock is set
+into its centre.
+~
+S
+#14427
+On the Stairs~
+You are halfway up a long flight of spiral stairs. Torches set regularly along
+the stair well provide illumination. From here, you can proceed up or down
+the stairs.
+~
+143 8 0 0 0 0 255 0
+D4
+Looking up, you see the stairs come to an end.
+~
+~
+0 0 14501
+D5
+Looking down, you see the base of the stairs.
+~
+~
+0 0 14373
+S
+#14428
+Darkness~
+This is a mob chute. What are you doing in here punk?
+~
+143 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 14313
+D1
+~
+~
+0 0 14316
+D2
+~
+~
+0 0 14319
+D3
+~
+~
+0 0 14323
+D4
+~
+~
+0 0 14326
+D5
+~
+~
+0 0 14329
+S
+#14429
+Darkness~
+This is a mob chute. What are you doing in here punk?
+~
+143 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 14332
+D1
+~
+~
+0 0 14336
+D2
+~
+~
+0 0 14339
+D3
+~
+~
+0 0 14342
+D4
+~
+~
+0 0 14345
+D5
+~
+~
+0 0 14349
+S
+#14430
+Into Darkness~
+Mustering your courage, you step out of the light into the total blackness
+beyond. The darkness seems to absorb light almost completely, even the 
+enchanted sources in your possession shed but a dim glow, barely sufficient to 
+see by. Horrific moans and terrified screams suddenly cut off echo through the
+dark. You can feel a cold stone wall to the north and to the south, where it
+seems the way you entered has dissapeared..
+~
+143 13 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14319
+D3
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14312
+S
+#14431
+Darkness~
+The darkness seems to absorb light almost completely, even the enchanted 
+sources in your possession shed but a dim glow, barely sufficient to see by. 
+Horrific moans and terrified screams suddenly cut off echo through the dark. 
+The air is bone-numbingly cold, sapping your strength. You can feel a cold 
+stone wall to the east, west and north. A dim light is visible to the north.
+~
+143 73 0 0 0 0 255 0
+D0
+Peering through the darkness, you think the area opens up to your north.
+~
+~
+0 0 14374
+S
+#14432
+Darkness~
+This is a mob chute. What are you doing in here punk?
+~
+143 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 14352
+D1
+~
+~
+0 0 14355
+D2
+~
+~
+0 0 14358
+D3
+~
+~
+0 0 14362
+D4
+~
+~
+0 0 14365
+D5
+~
+~
+0 0 14368
+S
+#14433
+Darkness~
+This is a mob chute. What are you doing in here punk?
+~
+143 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 14371
+D1
+~
+~
+0 0 14375
+D2
+~
+~
+0 0 14379
+D3
+~
+~
+0 0 14381
+D4
+~
+~
+0 0 14384
+D5
+~
+~
+0 0 14388
+S
+#14434
+Darkness~
+This is a mob chute. What are you doing in here punk?
+~
+143 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 14391
+D1
+~
+~
+0 0 14394
+D2
+~
+~
+0 0 14397
+D3
+~
+~
+0 0 14401
+D4
+~
+~
+0 0 14404
+D5
+~
+~
+0 0 14407
+S
+#14435
+Darkness~
+This is a mob chute. What are you doing in here punk?
+~
+143 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 14410
+D1
+~
+~
+0 0 14414
+D2
+~
+~
+0 0 14417
+D3
+~
+~
+0 0 14420
+D4
+~
+~
+0 0 14423
+D5
+~
+~
+0 0 14424
+S
+#14436
+Darkness~
+This is a mob chute. What are you doing here punk?
+~
+143 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 14435
+D1
+~
+~
+0 0 14434
+D2
+~
+~
+0 0 14433
+D3
+~
+~
+0 0 14432
+D4
+~
+~
+0 0 14429
+D5
+~
+~
+0 0 14428
+S
+$~

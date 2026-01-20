@@ -1,0 +1,60 @@
+#30000
+bloodball ball 30000~
+the &01BloodBall&00~
+&01A ball of human tissue lies on the ground here&00.~
+The Bloodball is made of human tissue, sewn together with 
+minatour hair.  When you touch the ball your hands *stick* to the
+bloodied skin.
+~
+5 100663324 256 0 0 1 0 0 0
+0 5 9 7
+1 0 1685
+B
+0 0 0 0
+#30001
+parchment scribe_item sheet~
+a sheet of parchment~
+A blank sheet of parchment lies here.~
+NOACTDESC~
+16 64 0 0 0 1 0 0 0
+0 0 0 0
+1 100 0
+B
+0 0 0 0
+#30002
+meat blood 30002~
+&01bloody meat&00~
+A piece of bloody meat lies on the ground here.~
+The meat is raw and full of blood.  No doubt it is good for you!
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0
+2 10 45
+B
+0 0 0 0
+#30003
+fountain blood 30003~
+&01Fountain of Blood&00~
+&00A small fountain of &01blood&00 to quench your thirst here.~
+The fountain is nothing special and looks like your basic build.
+The liquid that flows from within is of a red color and quite
+thick.  This is the blood of all the fallen heroes that have 
+sacrificed themselves for the title of the &01BloodBowl&00!
+~
+23 0 0 0 0 0 0 0 0
+1000000 1000000 13 0
+50 0 0
+B
+0 0 0 0
+#30099
+quill poison darts~
+a quill of poisoned darts~
+Doesnt matter, it explodes :P~
+a poison dart~
+7 125829132 0 0 0 1 0 0 0
+1 8 8 1
+0 0 0
+B
+0 0 0 0
+D30
+$~

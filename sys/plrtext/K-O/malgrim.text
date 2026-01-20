@@ -1,0 +1,46 @@
+fl c 'flam strik'
+bl c 'blind' $1
+relo cast 'relocate' $*
+cleanse cast 'cleanse' $*
+fs cast 'flame strike' $*
+dh cast 'disheart' $*
+fort cast 'fort' $*
+sagac cast 'sagac' $*
+harm cast 'harm' $*
+rc cast 'remove curse' $*
+heal cast 'heal' $*
+para cast 'remove para' $*
+rp cast 'remove poison' $*
+infra cast 'infra' $*
+di cast 'detect invis' $*
+sense cast 'sense life'
+say say &13$* &00
+gt gt &13$* &00
+bless cast 'bless' $*
+word cast 'word of recall' $*
+ward cast 'ward' $*
+cb cast 'cure blind' $*
+blind cast 'blind' $*
+armor cast 'armor' $*
+md cast 'maledict' $*
+fly cast 'fly' $*
+da cast 'detect align' $*
+sf shadowform
+de cast 'dispel evil' $*
+sum cast 'sum' $*
+regen cast 'regen' $*
+sanc cast 'sanc' $*
+haste cast 'assistant'
+water cast 'create water' $*
+earth cast 'earth'
+spring cast 'create spring'
+plague cast 'cure plague' $*
+food cast 'create food'
+holy cast 'holy word'
+calm cast 'calm' $*
+cl cast 'call light' $*
+chain cast 'chain light'
+wa wake;;stand
+b c 'banish' $1
+rev c 'revive' $1
+z or fol ass malgrim

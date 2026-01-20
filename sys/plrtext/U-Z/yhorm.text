@@ -1,0 +1,13 @@
+g gt &05$* &00
+steed cast 'call steed'
+di c 'detect invis' $*
+reg c 'regen' $*
+arm c 'holy armor'
+dm c 'divine mission'
+pfe cast 'protection from evil'
+fw clanwho
+crus c 'crusade'
+rv c 'righteous vision'
+' say &12$* &00
+f clan &00&05$* &04
+r cast 'prayer' $*

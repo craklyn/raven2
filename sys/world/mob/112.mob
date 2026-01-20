@@ -1,0 +1,204 @@
+#11201
+C S 0~
+grey goblin m11201~
+a grey goblin~
+A grey goblin crouches and prepares for combat.
+~
+The grey goblin is dressed in loose pants, sandals and no shirt...much
+like a Shou Lin warrior would dress.
+~
+30588 0 0 0 295972 0 0 0 -800
+10 19 5 2d5+500 8d7+1
+35 40
+9 9 1 0 -1 -1
+#11202
+C S 0~
+grey goblin chief m11202~
+the grey goblin chief~
+The grey goblin chief assesses you.
+~
+The grey goblin chief resembles the other grey goblins, only he also
+wears a grey sash around his waist.
+~
+30588 0 0 0 295972 0 0 0 -1000
+20 15 0 2d5+1000 8d7+2
+40 40
+9 9 1 0 -1 -1
+#11203
+A D 0~
+kobold m11203~
+the kobold~
+A kobold stands here, attending to his duty.
+~
+The kobold is wearing make shift armor that is amazingly well-kept.
+~
+30588 0 0 0 295972 0 0 0 -900
+15 15 5 2d5+500 8d7+0
+35 40
+9 9 1 0 -1 -1
+#11204
+A D 0~
+kobold guard m11204~
+the kobold guard~
+A kobold guard stands here, guarding his post.
+~
+The kobold guard is wearing make-shift armor that is amazingly
+well-kept.
+~
+30590 0 0 0 295972 0 0 0 -900
+20 15 0 2d5+1000 8d7+0
+40 40
+9 9 1 0 -1 -1
+#11205
+A D 0~
+kobold chief m11205~
+the Kobold Chief~
+The Kobold Chief stands before you.
+~
+The Kobold Chief looks much the same as the other kobolds, but he is
+wielding a nice little sword.
+~
+30590 0 0 0 295972 0 0 0 -1000
+25 10 -2 2d5+1500 8d7+2
+40 40
+9 9 1 0 -1 -1
+#11206
+O W 0~
+shadow ogre m11206~
+the Shadow Ogre~
+A shadow ogre appears before you.
+~
+The shadow ogre looks like he has seen extensive agility training.
+This is no ordinary ogre!
+~
+28748 0 0 0 820224 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 1 15 -1 -1
+#11207
+T M 0~
+troll mage magic user m11207~
+the Troll Mage~
+The troll mage doesn't look happy that you're here.
+~
+The troll mage is very different from any other troll you have seen or
+heard of.  He is wearing clothing, wields a staff, and looks well-
+groomed.  It also looks like he is intelligent enough to use the spells
+he has been researching....
+~
+30588 0 0 0 1279020 0 0 0 -1000
+30 10 -5 2d5+2000 1d30+30
+100 8
+9 9 1 8 4 -1
+#11208
+C W 0~
+great orc m11208~
+the Great Orc~
+A Great Orc of the Bloody Hand tribe stands here.
+~
+The great orc is a much larger and tougher version of a normal orc.
+His lust for blood and battle has been intensified and his battle
+skills are worthy of respect.
+~
+30588 0 0 0 33796 0 0 0 -1000
+22 7 -2 2d5+1000 6d3+11
+40 40
+9 9 1 0 -1 -1
+#11209
+C W 0~
+great orc guard m11209~
+the great orc guard~
+A great orc guard stands here guarding his chief.
+~
+The great orc is a much larger and tougher version of a normal orc.
+His lust for blood and battle has been intensified and his battle
+skills are worthy of respect.
+~
+30590 0 0 0 33796 0 0 0 -1000
+25 8 -4 2d5+1250 8d7+5
+40 40
+9 9 1 0 -1 -1
+#11210
+C W 0~
+great orc chief m11210~
+the Great Orc Chief~
+The Chief of the Great Orcs of the Bloody Hand tribe stands here.
+~
+The chief of the Bloody Hand tribe is a massive, black orc.  He stands
+nearly seven feet tall and wields a very large, very nasty looking Axe.
+~
+30590 0 0 0 33796 0 0 0 -1000
+33 5 -6 2d5+1500 1d30+30
+50 60
+9 9 1 0 -1 -1
+#11211
+H R 0~
+ranger mountain m11211~
+a mountain Ranger~
+A Mountain Ranger stands here.
+~
+The mountain Ranger is one of a select group of rangers who keeps watch
+over certain parts of the realm.  This particular group, watches over
+the Valley of the Mad Mage.  It is a great honor for any ranger to
+wear the camouflaged beret of the Mountain Rangers.
+~
+29016 0 0 0 4625444 0 0 0 1000
+40 3 -8 1d4000+4000 1d40+40
+65 75
+9 9 1 0 -1 -1
+#11212
+H R 0~
+ranger captain brennen mountain m11212~
+Captain Brennen~
+Captain Brennen, commander of this camp, watches over the valley here.
+~
+Captain Brennen is the leader of this group of mountain rangers.  He
+stands five feet, nine inches tall and in excellent physical condition.
+He doesn't appear to have a weapon, but even without one, he would be
+a VERY dangerous opponent.
+~
+29018 0 0 0 4621476 0 0 0 1000
+50 2 -10 1d5000+5000 1d75+75
+90 90
+9 9 1 0 -1 -1
+#11213
+C S 0~
+grey goblin priest m11213~
+the grey goblin priest~
+The priest of the grey goblins sits here meditating.
+~
+The priest of the grey goblins is dressed in shou-lin robes. He sits
+on the floor chanting softly.
+~
+30590 0 0 0 295972 0 0 0 -900
+20 15 0 1d100+2000 1d20+20
+40 40
+7 9 1 0 -1 -1
+#11214
+H R 0~
+ranger mountain m11211~
+a mountain Ranger~
+A Mountain Ranger stands here.
+~
+The mountain Ranger is one of a select group of rangers who keeps watch
+over certain parts of the realm.  This particular group, watches over
+the Valley of the Mad Mage.  It is a great honor for any ranger to
+wear the camouflaged beret of the Mountain Rangers.
+~
+29018 0 0 0 4625444 0 0 0 1000
+40 10 -8 1d4000+4000 1d40+40
+65 75
+9 9 1 0 -1 -1
+#11215
+O M 0~
+the Ogre Questmaster~
+the Ogre Questmaster~
+The Ogre Questmaster stands here.
+~
+She's big, burly, and UUUgly!  Definitely a *shudder* female Ogre.
+~
+134299656 0 0 0 1049768 0 0 0 -1000
+51 -20 0 10d10+15000 10d10+90
+90 100
+9 9 2 0 -1 -1
+$

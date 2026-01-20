@@ -1,0 +1,1593 @@
+#27200
+Land of the Jermlaine.~
+THis is the land of the Jermlaine.
+This area is made for low level character and for good aligned 
+people.  The Jermlaine is an evil character that dwells in the
+undergrounds.
+
+Diamond
+~
+272 0 0 0 0 0 255 0
+S
+#27201
+A sandy path.~
+A thick sand path start at the river's bank and leads to the
+north.  The path is surrounded by trees to the east and west.
+A river is to the south.
+~
+272 0 0 0 0 2 255 0
+D0
+A path.
+~
+~
+0 0 27202
+D2
+A river.
+~
+~
+0 0 3244
+S
+#27202
+A sandy path.~
+A sandy path leads to the north and to the south.  Large trees
+climb into the sky to the east and west.  An out-cropping of
+rock can be seen far off to the north.  The sound of rushing
+water can be heard to the south.
+~
+272 0 0 0 0 0 255 0
+D0
+A path.
+~
+~
+0 0 27203
+D2
+A path
+~
+~
+0 0 27201
+S
+#27203
+A sandy path.~
+A sandy path leads to the north and to the south.  Large trees
+climb into the sky to the east and west.  An out-cropping of
+rock can be seen to the north.  
+~
+272 0 0 0 0 2 255 0
+D0
+A cave entrance can be seen.
+~
+~
+0 0 27204
+D2
+A path
+~
+~
+0 0 27202
+S
+#27204
+An out-cropping of rock.~
+A large mass of rock all but blocks your way to the north.  A cave entrance
+lies to the east and to the west.  To the south a sandy path awaits you.  A
+&04plaque&00 is set in the rock next to the cave entrance.    
+~
+272 4 0 0 0 5 255 0
+D1
+~
+~
+0 0 27220
+D2
+A path.
+~
+~
+0 0 27203
+D3
+~
+~
+0 0 27205
+E
+plaque~
+The Land of the Jermlaine lies ahead of you.  It was created
+for levels 5-15.  Enjoy...
+
+Diamond
+~
+S
+#27205
+A cave.~
+The walls are overgrown with a thin layer of green moss.  It is
+rather damp in this area.  A tunnel leads to the west.  To the 
+east a large cropping of rock can be seen.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27204
+D3
+~
+~
+0 0 27206
+S
+#27206
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the west and to the
+east.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27205
+D3
+~
+~
+0 0 27207
+S
+#27207
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+east.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27208
+D1
+~
+~
+0 0 27206
+S
+#27208
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+south.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27209
+D2
+~
+~
+0 0 27207
+S
+#27209
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+south.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27210
+D2
+~
+~
+0 0 27208
+S
+#27210
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+south.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27211
+D2
+~
+~
+0 0 27209
+S
+#27211
+A bend in the tunnel.~
+The tunnel is not as quite damp in this area.  The tunnel bends
+to the east here.  To the south, darkness awaits you.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27212
+D2
+~
+~
+0 0 27210
+S
+#27212
+A tunnel.~
+*POP*  Your ears try to adjust to the change of pressure within
+these tunnels.  It is obvious that you are going deeper into
+the earth.  The tunnel continues to the east and west.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27213
+D2
+~
+secret~
+1 0 27258
+D3
+~
+~
+0 0 27211
+S
+#27213
+A bend in the tunnel.~
+The tunnel bends to the south here.  You try to gain your sense
+of direction, but find it difficult to remember if you entered
+these tunnels from the north or south... well maybe from the
+east.  
+~
+272 1 0 0 0 0 255 0
+D2
+~
+~
+0 0 27214
+D3
+~
+~
+0 0 27212
+S
+#27214
+A tunnel.~
+The tunnel continues to the south and north here.  You try to gain your sense of direction, but find it difficult to remember if you entered
+these tunnels from the north or south... well maybe from the east.  
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27213
+D2
+~
+~
+0 0 27215
+S
+#27215
+A bend in the tunnel.~
+The tunnel turns to the east here.  To the north, darkness 
+awaits you.  How much deeper and further will this thing go?
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27214
+D1
+~
+~
+0 0 27216
+S
+#27216
+A T-intersection.~
+Two tunnels merge to create this larger then normal room.  From
+this room branches three tunnels.  A tunnel leads to the north,
+while 2 tunnels lead to the east and west.  
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27217
+D1
+~
+~
+0 0 27230
+D3
+~
+~
+0 0 27215
+S
+#27217
+A dead end.~
+You find your self surrounded by rock to the north, east and
+west.  A large boulder is wedged against the northern wall.  You
+can hear muffled sounds from within the walls.  To the south you
+can see a T-intersection.
+~
+272 1 0 0 0 0 255 0
+D2
+~
+~
+0 0 27216
+D5
+~
+boulder~
+1 0 27218
+S
+#27218
+A tunnel.~
+Worn stairs, carved into the old rock floor, lead downward into
+the darkness.  The way the stairs and the walls are scarred, it 
+gives you the impression that this part the tunnel was made by
+something other then mother-nature.
+~
+272 393221 0 0 0 0 255 0
+D4
+~
+boulder~
+1 0 27217
+D5
+~
+~
+0 0 27219
+S
+#27219
+A tunnel.~
+Worn stairs, carved into the old rock floor, lead downward into
+the darkness.  The way the stairs and the walls are scarred, it 
+gives you the impression that this part the tunnel was made by
+something other then mother-nature.
+~
+272 393221 0 0 0 0 255 0
+D4
+~
+~
+0 0 27218
+D5
+~
+~
+0 0 27231
+S
+#27220
+A Cave.~
+The walls are overgrown with a thin layer of green moss.  It is
+rather damp in this area.  A tunnel leads to the east.  To the 
+west a large cropping of rock can be seen.  
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27221
+D3
+~
+~
+0 0 27204
+S
+#27221
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the west and to the
+east.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27222
+D3
+~
+~
+0 0 27220
+S
+#27222
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+west.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27223
+D3
+~
+~
+0 0 27221
+S
+#27223
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+south.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27224
+D2
+~
+~
+0 0 27222
+S
+#27224
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+south.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27225
+D2
+~
+~
+0 0 27223
+S
+#27225
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+south.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27226
+D2
+~
+~
+0 0 27224
+S
+#27226
+A bend in the tunnel.~
+The tunnel bends to the west and continues back to the south.
+Drop of water land on your forehead, irritating you as you wind
+your way into the unknown.
+~
+272 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 27225
+D3
+~
+~
+0 0 27227
+S
+#27227
+A tunnel.~
+*POP*  Your ears try to adjust to the change of pressure within
+these tunnels.  It is obvious that you are going deeper into
+the earth.  The tunnel continues to the east and west.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27226
+D2
+~
+secret~
+1 0 27266
+D3
+~
+~
+0 0 27228
+S
+#27228
+A bend in the tunnel.~
+The tunnel bends to the south here.  To the east, only darkness
+can be seen, along with the sound of water drops echoing through
+the tunnel.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27227
+D2
+~
+~
+0 0 27229
+S
+#27229
+A damp tunnel.~
+An inch of water covers the entire floor of the tunnel.  The 
+smell of musk soaked wood fills the air as you try to make out 
+what lies ahead.  The tunnel continues to the north and to the
+south.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27228
+D2
+~
+~
+0 0 27230
+S
+#27230
+A bend in the tunnel.~
+The tunnel bends to the west here.  To the north drops of water
+echo through the hollow walls, creating an eerie feeling.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27229
+D3
+~
+~
+0 0 27216
+S
+#27231
+The south side of town square.~
+You find yourself on the south end of a town square.  Footprints
+scatter in all directions from here.  To the north you can see
+a large well.  The town square continues to the east and west.
+To the south a set of worn stairs lead up into a tunnel.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27235
+D1
+~
+~
+0 0 27233
+D3
+~
+~
+0 0 27232
+D4
+~
+~
+0 0 27219
+S
+#27232
+The south-east side of town square.~
+This is the southeast side of the town square.  The town square
+continues to the north and east.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27234
+D1
+~
+~
+0 0 27231
+S
+#27233
+The southwest side of town square.~
+The town square continues to the north and west.  A large
+well can be seen to the northeast.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27236
+D3
+~
+~
+0 0 27231
+S
+#27234
+The west side of town square.~
+The town square continues to the north east and south.  To the
+east you can see a large drinking well.  A tunnel leads off to
+the west.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27237
+D1
+~
+~
+0 0 27235
+D2
+~
+~
+0 0 27232
+D3
+~
+~
+0 0 27240
+S
+#27235
+The Jermlaine town square.~
+A large well stands before you.  A bucket is hanging from a worn
+rope that is attached to a crank handle.  You are in the center
+of the Jermlaine town square.  The town square continues in 
+all directions.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27238
+D1
+~
+~
+0 0 27236
+D2
+~
+~
+0 0 27231
+D3
+~
+~
+0 0 27234
+S
+#27236
+The east side of town square.~
+You find yourself on the east side of a large town square.  To
+the north, south and west the town square continues.  A tunnel
+leads off to the east.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27239
+D1
+~
+~
+0 0 27244
+D2
+~
+~
+0 0 27233
+D3
+~
+~
+0 0 27235
+S
+#27237
+The northwest corner of town square.~
+You are at the northeast side of town square.  The square
+continues to the east and south.  A large well can be seen to 
+the southeast.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27238
+D2
+~
+~
+0 0 27234
+S
+#27238
+The north side of town square.~
+You are standing on the north end of the town square.  The
+square continues to the south, east and west.  Far off to the 
+south you can make out a set of worn stairs.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27248
+D1
+~
+~
+0 0 27239
+D2
+~
+~
+0 0 27235
+D3
+~
+~
+0 0 27237
+S
+#27239
+The northeast side of town square.~
+You find your self in the northeast corner of town square.  The
+square continues to the west and south.  You can see a large 
+well to the southwest.
+~
+272 1 0 0 0 0 255 0
+D2
+~
+~
+0 0 27236
+D3
+~
+~
+0 0 27238
+S
+#27240
+A tunnel.~
+The tunnel stretches to the west here.  A large opening can be
+seen to the east.  A humming sound can be heard throughout this 
+section of tunnel.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27234
+D3
+~
+~
+0 0 27241
+S
+#27241
+A tunnel.~
+The tunnel stretches to the west and east.  A large opening can be
+seen to the east.  A humming sound can be heard throughout this 
+section of tunnel.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27240
+D3
+~
+~
+0 0 27242
+S
+#27242
+A tunnel.~
+The tunnel turns to the north here.  A bright light blinds you from 
+the north.  The tunnel conitnues to the east.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27243
+D1
+~
+~
+0 0 27241
+S
+#27243
+The Healing Cave.~
+The cave walls glow with a bright light.  The light makes it hard
+to make out other details in the room, due to you trying to 
+adjust to the complete transformation of dark to light.  
+A shell covered with dust holds a few tattered scrolls.  A table
+is resting agains the west wall keeping company with 2 wooden
+chairs.  A tunnel begins to the south.
+~
+272 393216 0 0 0 0 255 0
+D2
+~
+~
+0 0 27242
+S
+#27244
+A tunnel~
+The tunnel stretches to the east and west.  A large town square
+can be seen to the west.  To the east the tunnel leads into
+darkness.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27245
+D3
+~
+~
+0 0 27236
+S
+#27245
+A tunnel.~
+The tunnel continues to the east and west.  The sound of water
+drops echo through the tunnels.  A humming noise can be heard
+to the east.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27246
+D3
+~
+~
+0 0 27244
+S
+#27246
+A bend in the tunnel.~
+The tunnel turn to the north here.  A loud humming noise rattles
+your thoughts from the north.  To the east the tunnel leads
+back to town square.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27247
+D3
+~
+~
+0 0 27245
+S
+#27247
+A dead end.~
+The tunnel comes to a dead here.  Old tapestries line the east 
+wall along with shelves of old potions and glassware.  The wall
+of the cave hum with an intense low pitch, making it hard to
+concentrate on the task a head.  What was the task?
+~
+272 576 0 0 0 0 255 0
+D2
+~
+~
+0 0 27246
+S
+#27248
+A door to the Keep.~
+A large door blocks your way to the north.  To the south you 
+can see the town square you just traveled through.  The well
+can still be seen from this distance.  You can here muffled
+sounds coming from behind the door.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+door~
+1 27201 27249
+D2
+~
+~
+0 0 27238
+S
+#27249
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the north, east and west.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 27253
+D1
+~
+~
+0 0 27251
+D2
+~
+door~
+1 0 27248
+D3
+~
+~
+0 0 27250
+S
+#27250
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the north and east.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27252
+D1
+~
+~
+0 0 27249
+S
+#27251
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the north and west.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27254
+D3
+~
+~
+0 0 27249
+S
+#27252
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the north, south and east.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27255
+D1
+~
+~
+0 0 27253
+D2
+~
+~
+0 0 27250
+S
+#27253
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the north, south, west and east.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27256
+D1
+~
+~
+0 0 27254
+D2
+~
+~
+0 0 27249
+D3
+~
+~
+0 0 27252
+S
+#27254
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the north, south and west.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 1 0 0 0 0 255 0
+D0
+~
+~
+0 0 27257
+D2
+~
+~
+0 0 27251
+D3
+~
+~
+0 0 27253
+S
+#27255
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the south and east.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27256
+D2
+~
+~
+0 0 27252
+S
+#27256
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the south, west and east.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 1 0 0 0 0 255 0
+D1
+~
+~
+0 0 27257
+D2
+~
+~
+0 0 27253
+D3
+~
+~
+0 0 27255
+S
+#27257
+A play pen.~
+A large playground surrounds you.  The playground continues to
+the south and west.  All sorts of play weapons clutter
+the floor along with dolls an other toys.
+~
+272 1 0 0 0 0 255 0
+D2
+~
+~
+0 0 27254
+D3
+~
+~
+0 0 27256
+S
+#27258
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D0
+~
+secret~
+1 0 27212
+D2
+~
+~
+0 0 27259
+S
+#27259
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D0
+~
+~
+0 0 27258
+D2
+~
+~
+0 0 27260
+S
+#27260
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D0
+~
+~
+0 0 27259
+D1
+~
+~
+0 0 27261
+S
+#27261
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D1
+~
+~
+0 0 27262
+D3
+~
+~
+0 0 27260
+S
+#27262
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D1
+~
+~
+0 0 27263
+D3
+~
+~
+0 0 27261
+S
+#27263
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D1
+~
+~
+0 0 27264
+D3
+~
+~
+0 0 27262
+S
+#27264
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D0
+~
+~
+0 0 27265
+D3
+~
+~
+0 0 27263
+S
+#27265
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D0
+~
+~
+0 0 27266
+D2
+~
+~
+0 0 27264
+S
+#27266
+A cavern.~
+Blackness surrounds you...  You cannot make out any of the walls.
+The darkness seems to soak up any of the light you try to use.
+As you look down you realize you cannot see the floor!  Is it
+there?  Thank god you are flying...
+~
+272 1 0 0 0 9 255 0
+D0
+~
+secret~
+1 0 27227
+D2
+~
+~
+0 0 27265
+S
+#27267
+A river.~
+An underground river flows down a steep grade here.  The water 
+is a beautiful blue.  A small sand bar is in the middle of the
+river.  A skeleton holding a make-shift &04sign&00 lies there.
+~
+272 577 4 0 0 6 255 0
+E
+sign~
+Scratched on the make-shift sign is a message:
+
+I have had trouble you would not believe...
+I will die for my foolishness...
+This is not a place for a "newbie".
+God help me.
+~
+S
+#27280
+A large pond.~
+   You find yourself on a beautiful pond in the middle of the grasslands.  The
+pond stretches to the east, north and south.  To the west you can see the
+grasslands, with butterflies flying over the horizon.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27281
+D1
+~
+~
+0 0 27287
+D2
+~
+~
+0 0 27283
+S
+#27281
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27282
+D1
+~
+~
+0 0 27286
+D2
+~
+~
+0 0 27280
+S
+#27282
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D1
+~
+~
+0 0 27285
+D2
+~
+~
+0 0 27281
+S
+#27283
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27280
+D1
+~
+~
+0 0 27288
+D2
+~
+~
+0 0 27284
+S
+#27284
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27283
+D1
+~
+~
+0 0 27289
+S
+#27285
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D1
+~
+~
+0 0 27290
+D2
+~
+~
+0 0 27286
+D3
+~
+~
+0 0 27282
+S
+#27286
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27285
+D1
+~
+~
+0 0 27291
+D2
+~
+~
+0 0 27287
+D3
+~
+~
+0 0 27281
+S
+#27287
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27286
+D1
+~
+~
+0 0 27292
+D2
+~
+~
+0 0 27288
+D3
+~
+~
+0 0 27280
+S
+#27288
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27287
+D1
+~
+~
+0 0 27293
+D2
+~
+~
+0 0 27289
+D3
+~
+~
+0 0 27283
+S
+#27289
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27288
+D1
+~
+~
+0 0 27294
+D3
+~
+~
+0 0 27284
+S
+#27290
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D1
+~
+~
+0 0 27295
+D2
+~
+~
+0 0 27291
+D3
+~
+~
+0 0 27285
+S
+#27291
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27290
+D1
+~
+~
+0 0 27296
+D2
+~
+~
+0 0 27292
+D3
+~
+~
+0 0 27286
+S
+#27292
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27291
+D1
+~
+~
+0 0 27297
+D2
+~
+~
+0 0 27293
+D3
+~
+~
+0 0 27287
+S
+#27293
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27292
+D1
+~
+~
+0 0 27298
+D2
+~
+~
+0 0 27294
+D3
+~
+~
+0 0 27288
+S
+#27294
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 393216 16 0 0 7 255 0
+D0
+~
+~
+0 0 27293
+D1
+~
+~
+0 0 27299
+D3
+~
+~
+0 0 27289
+S
+#27295
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 3199
+D2
+~
+~
+0 0 27296
+D3
+~
+~
+0 0 27290
+S
+#27296
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 7 255 0
+D0
+~
+~
+0 0 27295
+D2
+~
+~
+0 0 27297
+D3
+~
+~
+0 0 27291
+S
+#27297
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 0 16 0 0 0 255 0
+D0
+~
+~
+0 0 27296
+D2
+~
+~
+0 0 27298
+D3
+~
+~
+0 0 27292
+S
+#27298
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 393216 16 0 0 7 255 0
+D0
+~
+~
+0 0 27297
+D2
+~
+~
+0 0 27299
+D3
+~
+~
+0 0 27293
+S
+#27299
+A large pond.~
+   The pond is quite lovely.  Large lilly pads float throughout the pond with
+beautiful yellow flowers blooming from them.    
+~
+272 393216 16 0 0 7 255 0
+D0
+~
+~
+0 0 27298
+D3
+~
+~
+0 0 27294
+S
+$~

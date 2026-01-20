@@ -1,0 +1,86 @@
+#39001
+U N 0~
+guildguard necromancer guard m39001~
+the Necromancer Guard~
+A Necromancer guards the entrance.
+~
+You see before you a pale skinned woman, clad from neck to feet in a tightly
+wrapped black robe.  Around her eyes, dark patches loom, and atop her head
+sits a lace cap.
+~
+17031178 0 0 0 1276 0 0 0 -1000
+51 -30 -20 1d1+30000 10d10+100
+90 100
+9 9 2 0 -1 -1
+#39002
+R N 0~
+guildmaster master necromancer m39002~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+Standing in the darkened corners of the room, the master Necromancer studies
+you with pentrating eyes.  He is dressed in a black suit, with a long black
+cape thrown over his shoulder.  As he moves, you catch flashes of the red
+lining on the cape.
+~
+10 0 0 0 128 0 0 0 -1000
+50 -30 -20 1d1+30000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#39003
+H N 0~
+neophyte necromancer m39003~
+the necromancer~
+A neophyte necromancer carefully measures out poisons.
+~
+This young Human has decided to forsake life and light in order to study
+death and disease.  He is dressed in the standard clothing of Midgaard
+citizens, having spent the first fifteen years of his life trying to stay
+alive on the streets.
+~
+14 0 0 0 1064 0 0 0 -300
+20 10 5 1d1+5000 5d9+60
+40 40
+9 9 1 0 -1 -1
+#39010
+H N 0~
+wong brother mauril m39010~
+Mauril Wong~
+Mauril Wong stands here, considering his work.
+~
+Mauril is the taller of the two brothers, with sallow features and squinty
+eyes.  It is said he is also the smarter of the two, but without his brother
+he would be lost.
+~
+20618 0 0 0 1192 0 0 0 -750
+35 5 1 1d1+4999 5d13+10
+50 60
+9 9 1 0 -1 -1
+#39011
+H N 0~
+wong brother samil m39011~
+Samil Wong~
+Samil Wong is here, fidgeting uncomfortably.
+~
+Samil, the shorter of the two brothers, is the energy behind the team.  What
+he lacks in focus and ability, he more than makes up for with desires and
+enthusiasms.  A nervous man, he twitches and fidgets constantly, seemingly
+unable to hold himself still.
+~
+20618 0 0 0 1192 0 0 0 -1000
+35 5 -1 1d1+4999 5d13+20
+50 60
+9 9 1 0 -1 -1
+#39012
+U N 0~
+wight m39012~
+the wight~
+A wight stands here obediently.
+~
+Well, I guess two Wongs do make a Wight.
+~
+20490 0 0 0 1024 0 0 0 -1000
+25 10 10 1d1+1000 5d7+3
+40 40
+9 9 0 0 -1 -1
+$

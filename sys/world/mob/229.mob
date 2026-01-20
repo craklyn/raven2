@@ -1,0 +1,461 @@
+#22901
+I W 5~
+lizard blue-tongued~
+the blue-tongued lizard~
+A blue-tongued lizard hisses at you.
+~
+The blue-tongued lizard measures some 18" from head to tail,
+is very quick, and has sharp pointy teeth.
+~
+18510 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 0 0 -1 -1
+#22902
+I W 1~
+lizard red-tongued~
+the red-tongued lizard~
+A red-tongued lizard hisses at you.
+~
+The red-tongued lizard measures some 18" from head to tail,
+is very quick, and has sharp pointy teeth.
+~
+18510 0 0 0 33832 0 0 0 0
+21 10 -1 1d100+2100 1d21+21
+40 40
+9 9 0 0 -1 -1
+#22903
+I W 2~
+lizard green-tongued~
+the green-tongued lizard~
+A green-tongued lizard hisses at you.
+~
+The green-tongued lizard measures some 18" from head to tail,
+is very quick, and has sharp pointy teeth.
+~
+18510 0 0 0 33832 0 0 0 0
+22 9 -1 1d100+2200 1d22+22
+40 40
+9 9 0 0 -1 -1
+#22904
+H T 0~
+watchman man old sailor~
+the watchman of widow's cape~
+An old sailor is here tending the watchfire.
+~
+You strike up a conversation with the watchman. He tells you that
+he has noticed several craft entering and leaving Freeport harbor
+at night, but when he reported it, nobody seemed to care.
+~
+18510 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#22905
+H T 0~
+fisherman man~
+the fisherman~
+A fisherman with a long cane pole angles here.
+~
+You strike up a conversation with the fisherman. He tells you that
+you really should try the blue-tongued lizards which hide in the
+jetty rocks.
+~
+18510 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#22906
+H W 0~
+longshoreman worker dock man~
+the longshoreman~
+A dock worker is here lifting a heavy crate.
+~
+The dockworker is dressed in loose-fitting cotton clothing and uses
+a rope to lift the heavy crate.
+~
+18508 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#22907
+H W 0~
+harbormaster man~
+the harbormaster~
+The harbormaster is here asking you what you have to declare.
+~
+The harbormaster is an old hand at this, and doesn't put up with
+any crap from you. Give him his list or go to the brig.
+~
+18510 0 0 0 33832 0 0 0 0
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 1 0 -1 -1
+#22908
+H W 0~
+citizen freeport~
+the citizen of Freeport~
+A citizen of Freeport walks along, whistling a sailing song.
+~
+The citizen is dressed in light cotton clothing and sandals.
+~
+18508 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#22909
+H W 0~
+child laughing~
+the laughing child~
+A small child is laughing and playing a game here.
+~
+The child is dressed in a white cotton shirt.
+~
+16588 0 0 0 1024 0 0 0 0
+10 15 -1 1d100+0 1d10+10
+35 40
+9 9 2 0 -1 -1
+#22910
+H T 0~
+wife sailor's~
+the sailor's wife~
+A sailor's wife asks you to keep her company while her hubby is away.
+~
+The sailor's wife is dressed in a simple cotton dress,
+and has hair bleached blond by the sun and the sea.
+~
+18508 0 0 0 33832 0 0 0 0
+15 12 -1 1d1500+0 1d15+15
+35 40
+9 9 2 0 -1 -1
+#22911
+H W 0~
+shipbuilder master~
+the master shipbuilder~
+The master shipbuilder is here, working on a new prototype.
+~
+After introducing yourself and the usual small talk, you 
+find out from the master shipbuilder that he has been recently
+commissioned to build 3 triremes, boats which offer little 
+cargo storage, but excellent raiding speed.
+~
+18510 0 0 0 33832 0 0 0 0
+40 3 -1 1d4000+4000 1d65+65
+65 75
+9 9 1 0 -1 -1
+#22912
+H T 0~
+apprentice shipbuilder~
+the apprentice shipbuilder~
+An apprentice shipbuilder is here applying pitch to a seam.
+~
+The apprentice shipbuilder is a young boy dressed in a dirty
+grey smock.
+~
+18510 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#22913
+H T 0~
+overseer warehouse~
+the warehouse overseer~
+The warehouse overseer is here, yelling at a longshoreman.
+~
+The warehouse overseer complains about the shoddy record keeping
+of his employees. Why just this last month the records show 60 missing
+crates bound for destinations around the world.
+~
+18510 0 0 0 33832 0 0 0 0
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 1 0 -1 -1
+#22914
+H W 0~
+patrolman harbor~
+the harbor patrolman~
+The harbor patrol is here, so you better behave.
+~
+The harbor patrolman is dressed in light armor. He is well armed
+though, and looks like he is in no mood for your crap.
+~
+22600 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#22915
+H W 0~
+teamster~
+the teamster~
+A teamster is here, taking a wagonload of cargo to the wharf.
+~
+The teamster drives his single mule with a long whip and foul language.
+~
+18510 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#22916
+H W 0~
+lefty shop_keeper freeport shopkeep~
+Lefty, owner of the Sunken Pirate~
+Lefty, owner of the Sunken Pirate, dispenses food and drink here.
+~
+When you ask about the recent gossip, Lefty tells you that he heard
+a shady looking bunch talking about how Oglethorpe the master merchant
+had sold out Freeport to the pirates.
+~
+188510 0 0 0 33832 0 0 0 0
+45 -20 -10 15d40+5000 8d7+40
+65 75
+9 9 1 0 -1 -1
+#22917
+H W 0~
+anwar shop_keeper freeport shopkeep~
+Anwar, proprietor of the Emporium~
+Anwar is here offering exotic goods for your inspection.
+~
+You flip Anwar a gold coin. He holds out his hand for more. You give
+him 50 gold. He tells you that he has access to some goods which are
+very cheap in which you might be interested. When you scoff at his
+fenced goods, Anwar clams up.
+~
+190554 0 0 0 33832 0 0 0 0
+46 -20 -10 15d46+5000 8d7+40
+70 80
+9 9 1 0 -1 -1
+#22918
+H W 0~
+raedner dwarf smithy shop_keeper freeport shopkeep~
+Raedner the dwarven smith~
+A dwarven smith hammers on a suit of plate armor here.
+~
+Raedner gladly accepts a pull from your ale skin. As he wipes his brow,
+he begins a story about how he thinks the last election was rigged, since
+nobody he had talked to voted for Mayor Friendly. He offers to repair your
+armor.
+~
+190554 0 0 0 33832 0 0 0 0
+47 -20 -10 15d47+5000 8d7+40
+70 80
+9 9 1 0 -1 -1
+#22919
+H M 0~
+samantha shop_keeper freeport shopkeep~
+Samantha, witch of the Mystic Eye~
+Samantha, witch of the Mystic Eye displays her ample goods for you.
+~
+Samantha bats her eyes at you with no shame at all. She propositions you
+for some indecent activity. You accept to pump her for more information.
+She lets slip that Lord Mourning was seen recently in her shop. She offers
+to identify anything you may have.
+~
+190554 0 0 0 33832 0 0 0 0
+48 -10 -10 15d48+6000 7d8+30
+70 80
+9 9 2 0 -1 -1
+#22920
+H W 0~
+apprentice merchant~
+the apprentice merchant~
+An apprentice merchant tries to interest you in a trip to Dunkeldorf.
+~
+The apprentice is trying to fill his docket for the evening's tide. He
+wears a simple yellow smock.
+~
+26702 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#22921
+H T 0~
+ceres merchant~
+Ceres, merchant of the 3rd chair~
+Ceres, master merchant of the 3rd chair greets you with a warm smile.
+~
+You strike up a conversation with Ceres. He tells you that he was recently
+threatened by Oglethorpe (1st chair) when he brought up the subject of
+missing records of the guild.
+~
+26702 0 0 0 541230120 0 0 0 0
+46 2 -1 1d4000+6000 1d75+75
+70 80
+9 9 1 0 -1 -1
+#22922
+H W 0~
+elken banker freeport_bank~
+Elken, banker of Freeport~
+Elken, banker of Freeport stands behind the cage.
+~
+Elken seems to squirm and shift when you begin gentle inquiries into
+the strange happenings of Freeport. He excuses himself and goes to
+talk to a teller, who in turn leaves the bank in a hurry.
+~
+239706 0 0 0 33832 0 0 0 0
+51 5 -4 15d48+7000 8d7+10
+70 80
+9 9 1 0 -1 -1
+#22924
+H W 0~
+cadet young~
+the young cadet~
+A young cadet stops to offer you assistance.
+~
+You strike up a conversation, and he tells you of the rigors of the
+Naval academy. He relays a funny story of how during last summers
+sailors games he took his girl off to a secret tunnel from Freeport
+bay, and wound up sinking his boat and having to swim back, missing
+the final race.
+~
+26826 0 0 0 33832 0 0 0 0
+25 8 -1 1d25+25 3d8+10
+40 40
+9 9 1 0 -1 -1
+#22925
+H W 0~
+whitecap old salt admiral~
+Whitecap, 8th Admiral of Freeport~
+An old salt sits here smoking his pipe.
+~
+You offer Whitecap some honey gold pipe tobacco. He smiles, kicks back,
+and lights up his pipe. An hour later, you are much wiser in the ways of the
+sea. He also tells you of how recently he has grown concerned for the
+first admiral of Freeport, Blacksail, who has acquired an addiction to
+devil weed.
+~
+59486 0 0 0 537035832 0 0 0 0
+45 2 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#22926
+H W 0~
+mayor friendly freeport~
+Mayor Friendly~
+Mayor Friendly greets you with a smile and a handshake.
+~
+When you begin to subtly inquire about the strange happenings in Freeport
+Mayor Friendly gets nervous and clams up. You notice that he keeps looking
+at a white marble statue.
+~
+26830 0 0 0 33832 0 0 0 0
+45 2 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#22927
+H W 0~
+midge innkeeper shop_keep freeport shopkeeper~
+Midge, the innkeeper of the Crew's Quarters~
+Midge, the owner of the Crew's Quarters offers you a wholesome meal.
+~
+   Midge sits down with you as you have the meal, talking in your ear about how
+business is just not very hectic lately.  She tells you that her businee has
+steadily declined for the last six months.  There have been a few high points
+however.  Just last month a very rich visitor by the name of Lord Vulture
+stayed for a whole week and payed well.    
+~
+190554 164904 0 4096 33832 0 0 0 0
+47 5 -9 15d47+5000 8d7+10
+70 80
+9 9 2 0 -1 -1
+#22928
+H T 0~
+sailor scruffy pirate~
+the scruffy pirate~
+A scruffy sailor labors here to unload crates.
+~
+The sailor reeks of rum and the sea.
+~
+26702 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#22929
+H W 0~
+guard stoic pirate~
+the pirate guard~
+A stoic guard stands here, barring the way.
+~
+The guard is heavily armed and moves with military 
+precision.
+~
+192590 0 0 0 536904744 0 0 0 0
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 1 0 -1 -1
+#22930
+H W 0~
+blacksail admiral~
+Admiral Blacksail~
+Admiral Blacksail is here, shivering from his addiction to devil weed.
+~
+You confront Blacksail with his villainy. He begs for your mercy. He
+claims Mourning forced him into his present addiction, and threatens
+to cut him off from all devil weed unless he complies with his every
+whim.
+~
+190666 0 0 0 165032 0 0 0 0
+46 2 -1 1d4000+6000 1d75+75
+70 80
+9 9 1 0 -1 -1
+#22931
+H T 0~
+oglethorpe master merchant~
+Oglethorpe, 1st Master Merchant of Freeport~
+Oglethorpe, the 1st Master Merchant of Freeport, startles at your presence!
+~
+Oglethorpe, when faced with your accusations proudly admits to skimming
+off profits from his information scandal and ties to the pirate lords.
+He laughs at your puny attempts to frighten him, and vows your slow, cold
+torture. With that, he laughs and eats a blue lizard tongue.
+~
+192590 0 0 0 536904744 0 0 0 0
+48 0 -1 1d4000+8000 1d78+78
+70 80
+9 9 1 0 -1 -1
+#22932
+H T 0~
+mourning lord~
+Lord Mourning~
+Lord Mourning, the secret 6th Pirate Lord laughs at you!
+~
+Bah! Who are you to threaten me? I was sinking navies when you were a mere
+strapling on your mother's teat! I will destroy you! And if not me, then
+someone else, for every one of us you kill, 2 more sprout up to take my
+place! With that Lord Mourning draws his saber and eats a blue lizard 
+tongue.
+~
+63562 0 0 0 33960 0 0 0 0
+50 -5 -1 1d5000+5000 1d80+80
+80 90
+9 9 1 0 -1 -1
+#22933
+H W 0~
+sailor drunken~
+the drunken sailor~
+A drunken sailor staggers here.
+~
+The drunken sailor has been a long time away at sea, and this is his
+first day back in port. His wandering drunk shows on his clothing. Here
+a stain from the red wine he had this morning. There is the gravy from
+the meat he had for lunch.
+~
+24652 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#22940
+H W 0~
+allard skipper receptionist freeport~
+Allard the skipper of the Crew's Quarters~
+Allard the skipper of the Crew's Quarters is here, to show you to your room.
+~
+Allard looks peacefull, humming away while cleaning and putting things in
+order.  With a warm smile and leathery like tanned skin this old salt relates
+to a tale of a whaling expidition he experienced.  "It was the largest damn
+thing you've ever seen...  ", he chuckles.    
+~
+188507 0 0 0 536871976 0 0 0 0
+45 15 -10 15d100+10000 1d100+5
+65 75
+9 9 1 0 -1 -1
+$

@@ -1,0 +1,29 @@
+pp q blu
+9 recite midgaard self
+0 recite midgaard recall
+c circle $*
+hm auc -info
+gt gsay &13$* &00
+sa say &13$* &00
+gg get all.coin all.corpse
+sn scan $*
+sk sneak
+tr trip $*
+k kick $*
+b backstab $*
+coi get all.coin
+z get all corpse
+x destroy corpse
+lc look in corpse
+git get all all.yokar
+h hide
+sl cast 'sense life'
+ds dust $*
+dr drink prismatic
+th throw dagger $*
+qq q black
+e1  : just grunts and continues to sharpen his dagger.
+t1 tit :: The connections between vertebrae seem clearer
+e2  : just grunts and continues to clean his &01dagger&00.
+2 back 2.
+rr recite recall scr

@@ -1,0 +1,20 @@
+tr trip $*
+o ord fol kill squ
+sm cast 'swarm' $*
+c clan &07<[&00&013&07/&00&0175&07]>-&00$* &07-<[&00&013&07/&00&0175&07]>&00
+re retreat $*
+cs cast 'sense' 
+3 recite midg midg
+r rescue $*
+afk nosum;norec
+sh cast 'shield' $*
+ggg get all all.corp
+gg get gold all.corp;get key all.corp
+wa wake;stand;ord fol wak;ord fol stand
+cow c 'call of the wild'
+inf c 'infra' $*
+bs c 'briarwood skin' $*
+h poultice $*
+b butcher corpse
+gt emote &07<&153rd/75th&00>&14$* &07<&153rd/75th&00&07>&00
+da disarm $*

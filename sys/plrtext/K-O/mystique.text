@@ -1,0 +1,19 @@
+sense cast 'sense life' self
+walk c 'shad walk' self
+blur c 'blur' self
+7 rec rec mid
+sphere c 'shadow sphere' self
+bl c 'blind' $1
+dd eat bread
+qw drink fount
+sv c 'shadow vision' $1
+blade c 'shadow blade'
+level rem iron;rem chroma;wear ethe;wear doub
+nolvl rem ethe;rem doub;wear chro;wear armor
+dance c 'dance of shadow' self
+hide hid;look
+dream cast 'dance of dreams' $1
+as ass ancalagon
+ep enter portal
+i enter portal;;n;;ent panel
+ii rec rec mid;;d;;s;;e

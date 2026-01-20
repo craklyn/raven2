@@ -1,0 +1,44 @@
+e2 e;kill 2.
+[ group
+; gr tal
+beta ravent.mudmagic.com 6060
+mobs 16w;6s;w;s;e;14s;63;2s;5e;4n;3e;5s;2e
+5 CAST 'SOUL PIERCE' $*
+ff say ff
+- st;recite elv
+q take all.gold cor
+j cast 'terror' $*
+r rescue $*
+freep s;s;s;s;s;s;s;s;e;e;e;s;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;e;n;n;e;e;e;e;e;s;u;open gate;s;s;s;u;n;e
+t scan
+uq u;quaff earth
+sq s;quaff earth
+nq n;quaff earth
+wq w;quaff earth
+newts e;e;e;e;e;e;e;e;e;e;n;n;n;e;e;u;u;u;u;u;e;e;d;e;n;n;e;e;s;s;s;e;s;s;s;
+d2 d;kill 2.
+u2 u;kill 2.
+hh disarm $*
+gg kick $*
+1 take all corpse
+2 destroy corpse
+sh shoot quiv $* $*
+7 shield $*;st
+out n,alle,alls,allw,alls,w2s
+wa wa;st
+8 bash $*;st
+yy take avernus;wield avernus
+noclan spank self
+6 st;disarm $*
+= st;recite freeport
+ee2 e;kill 2.
+n2 n;kill 2.
+w2 w;kill 2.
+s2 s;kill 2.
+\ quaff revive
+vv e;e;e;e;e;e;e;e;e;e;d;d;say ff
+jj take avernus;wield avernus
+] assist
+' stop
+y take all.roll all.cor
+4 $*

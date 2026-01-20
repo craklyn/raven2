@@ -1,0 +1,9 @@
+#!/bin/csh
+
+foreach fn (Area_Maps Handbook Help_Table Mud_Flags News Policies Wizlist)
+	echo Installing $fn on the ftp archive.
+	chmod 0640 ~ftp/incoming/.moon/Raven_Info/$fn
+	cp $fn ~ftp/incoming/.moon/Raven_Info
+	chmod 0440 ~ftp/incoming/.moon/Raven_Info/$fn
+end
+

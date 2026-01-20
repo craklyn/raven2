@@ -1,0 +1,624 @@
+#12600
+The Black Hand~
+This area(12601-12637) was written by Dayan the Epee Artist.
+The area has been modified by Vex as neccessary for its integration into
+Raven Mud.  Additional mods by Kaidon.
+~
+126 0 0 0 0 0
+S
+#12601
+Behind the Waterfall~
+  You are standing in a dark cave behind the waterfall.  You can here the faint
+stirrings of an animal to your south, and the sounds of chanting voices
+echoing off the walls.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12103
+D1
+~
+~
+0 -1 12603
+D2
+~
+~
+0 -1 12605
+D4
+~
+door trapdoor~
+1 -1 12602
+S
+#12602
+Stalagtite Cave~
+  You stand amidst beauty and tranquility in this beautiful cave.  It is much
+different than the smelly cesspool that you just exited.  There is a sign here.
+~
+126 0 0 0 0 2
+D5
+~
+trapdoor door~
+1 -1 12601
+E
+sign~
+                            The BLACK HAND!!
+
+
+                    Brought to you by the Epee Artist!
+~
+S
+#12603
+Cave~
+  You are standing in a stagnant pool up to your knees in water.  It stinks in
+here.  It smells as if something died in here, and was left to rot.
+~
+126 ad 0 0 0 2
+D2
+~
+~
+0 -1 12606
+D3
+~
+~
+0 -1 12601
+S
+#12604
+passage~
+  A well travelled passage leads south.  An iron door leads east.
+~
+126 ad 0 0 0 2
+D1
+~
+iron door~
+1 12616 12605
+D2
+~
+~
+0 -1 12612
+S
+#12605
+Cave Door~
+  There is a heavily barred iron door to the west.  The cave is a little bit
+higher here, and you can hear the chanting becoming louder.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12601
+D1
+~
+~
+0 -1 12606
+D3
+~
+iron door~
+1 12616 12604
+S
+#12606
+The passage opening~
+  A passage in the east wall open here into this cave.  There are piles of
+broken bone, half eaten corpses, and skins around.  It looks like something
+unpleasant lives here.
+~
+126 acd 0 0 0 2
+D0
+~
+~
+0 -1 12603
+D1
+~
+~
+0 -1 12607
+D3
+~
+~
+0 -1 12605
+S
+#12607
+passage~
+You are in a small east west passage.
+~
+126 ad 0 0 0 2
+D1
+~
+~
+0 -1 12608
+D3
+~
+~
+0 -1 12606
+D4
+~
+door~
+1 -1 12623
+S
+#12608
+cave~
+  The passage turns to the south here, and continues back west.
+~
+126 ad 0 0 0 2
+D2
+~
+~
+0 -1 12614
+D3
+~
+~
+0 -1 12607
+S
+#12609
+by the door~
+  The passage ends here.  There is a giant stone door to the north.
+~
+126 ad 0 0 0 2
+D0
+~
+stone door~
+2 12617 12630
+D1
+~
+~
+0 -1 12610
+S
+#12610
+passage~
+  This passage slopes down slightly.  The dark walls seem to eat all the light
+in the area.  You shiver as you look down the passage.
+~
+126 ad 0 0 0 2
+D1
+~
+~
+0 -1 12612
+D3
+~
+~
+0 -1 12609
+S
+#12612
+Intersection~
+  Two hallways intersect here, one going east/west, the other north/south.
+You can hear chanting to the south.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12604
+D1
+~
+~
+0 -1 12613
+D2
+~
+~
+0 -1 12616
+D3
+~
+~
+0 -1 12610
+S
+#12613
+storeroom~
+This seems to be an empty storeroom.
+~
+126 ad 0 0 0 2
+D3
+~
+~
+0 -1 12612
+S
+#12614
+cave~
+  The passage ends abruptly here.  There is a well used staircase leading up
+here.  The passage no longer looks like a rough cave, but a well used hall.
+You can see light from on top of the staircase.  You hear a scream as if
+someone is being tortured.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12608
+D4
+~
+~
+0 -1 12619
+S
+#12615
+passage~
+  This passage slopes down slightly.  The dark walls seem to eat all the light
+in the area.  You shiver as you look down the passage.
+~
+126 ad 0 0 0 2
+D1
+~
+~
+0 -1 12616
+D2
+~
+~
+0 -1 12625
+S
+#12616
+Intersection~
+  The hallways comes ends here in a dark forboding door. You can hear chanting
+coming from the other side in some strange tongue. To the east you can see the
+opening of a dank cave, while a dark passage is to the west.
+~
+126 acd 0 0 0 2
+D0
+~
+~
+0 -1 12612
+D1
+~
+~
+0 -1 12617
+D2
+~
+dark door~
+2 12619 12621
+D3
+~
+~
+0 -1 12615
+S
+#12617
+Witch's Cave~
+This room is empty save for a circle made of chalk.
+~
+126 ad 0 0 0 2
+D3
+~
+~
+0 -1 12616
+S
+#12618
+Passage~
+  The Passage ends here.  A wooden door is to the south.  From inside the door,
+you can hear muffled screams and then laughing.
+~
+126 ad 0 0 0 2
+D1
+~
+~
+0 -1 12619
+D2
+~
+wooden door~
+1 -1 12631
+S
+#12619
+The passage~
+  The passage continues to the west here.  A stairway leads down.  From the
+smooth stone walls and floor, it is evident that someone lives here.  You hear
+another scream from the west.
+~
+126 ad 0 0 0 2
+D3
+~
+~
+0 -1 12618
+D5
+~
+~
+0 -1 12614
+S
+#12620
+The Prison of the Dead~
+  This room is dominated by a huge statue of the Dead God half buried in a giant
+column of stone.  There is a sign here.
+~
+126 ad 0 0 0 2
+D4
+~
+~
+0 -1 12627
+E
+column~
+It appears to be restraining Somm from escaping.
+~
+E
+sign~
+                               Warning!!
+
+                        Do not bother sleeping gods.
+                      (even if they are already dead)
+
+                                 The Epee Arist :)
+~
+S
+#12621
+The Entrance~
+  Passing through the door, you find yourself standing at the entrance of a
+carved out circular cavern. Dark clothed shapes appear to be slowly walking
+around a central altar. Something is happening at the altar but you cannot
+see from here.
+~
+126 ad 0 0 0 2
+D0
+~
+dark door~
+2 12619 12616
+D2
+~
+~
+0 -1 12637
+S
+#12622
+Near the altar~
+  The cloaked figures walk around in a circle here apparantly part of some
+grisly sacrifice to the Dead God.  You can see the main altar to the south.
+~
+126 ad 0 0 0 2
+D1
+~
+~
+0 -1 12632
+D2
+~
+~
+0 -1 12627
+D3
+~
+~
+0 -1 12637
+S
+#12623
+The Hidden Cave~
+  This room is hidden and doesn't seem to get much use.  Maybe it is safe to
+rest in...
+~
+126 ad 0 0 0 2
+D5
+~
+~
+0 -1 12607
+S
+#12624
+Torturing room~
+  This is obviously a professional torture chamber.  You can see various
+implements of the trade scattered around.
+~
+126 d 0 0 0 2
+D2
+~
+~
+0 -1 12629
+D3
+~
+~
+0 -1 12631
+S
+#12625
+Wyvern's Cave~
+  This giant cave seems to be the home of a giant dragon-like creature.  The
+stalactites and stalagmites glitter in the faint light.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12615
+S
+#12626
+Near the altar~
+  The cloaked figures walk around in a circle here apparantly part of some
+grisly sacrifice to the Dead God.  You can see the main altar to the east.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12637
+D1
+~
+~
+0 -1 12627
+D2
+~
+~
+0 -1 12636
+S
+#12627
+The Main Altar~
+  You stand before the main altar of the Black Hand.  A huge statue of Somm the
+Dead is beneath the alter.  Blood stains cover the altar.
+A human sacrifice lies here immobile.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12622
+D1
+~
+~
+0 -1 12633
+D2
+~
+~
+0 -1 12635
+D3
+~
+~
+0 -1 12626
+D5
+~
+~
+0 -1 12620
+E
+statue~
+It appears to have hinges.  It might be a secret door!
+~
+E
+human sacrifice~
+You arrived to late to save his life.
+~
+S
+#12628
+Torturing room~
+  This is obviously a professional torture chamber.  You can see various
+implements of the trade scattered around.
+~
+126 d 0 0 0 2
+D0
+~
+~
+0 -1 12631
+D1
+~
+~
+0 -1 12629
+S
+#12629
+Torturing room~
+  This is obviously a professional torture chamber.  You can see various
+implements of the trade scattered around.
+~
+126 d 0 0 0 2
+D0
+~
+~
+0 -1 12624
+D3
+~
+~
+0 -1 12628
+S
+#12630
+The Key room~
+  This room resembles a huge vault.  It is almost empty though.  You wonder what
+could be worth so much trouble to protect?
+~
+126 ad 0 0 0 2
+D2
+~
+stone door~
+2 12617 12609
+S
+#12631
+Torturing room~
+  This is obviously a professional torture chamber.  You can see various
+implements of the trade scattered around.
+~
+126 d 0 0 0 2
+D0
+~
+wooden door~
+1 -1 12618
+D1
+~
+~
+0 -1 12624
+D2
+~
+~
+0 -1 12628
+S
+#12632
+Near the altar~
+  The cloaked figures walk around in a circle here apparantly part of some
+grisly sacrifice to the Dead God. You can see the altar from here.
+~
+126 ad 0 0 0 2
+D2
+~
+~
+0 -1 12633
+D3
+~
+~
+0 -1 12622
+S
+#12633
+Near the altar~
+  The cloaked figures walk around in a circle here apparantly part of some
+grisly sacrifice to the Dead God.  You can see the altar from here.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12632
+D2
+~
+~
+0 -1 12634
+D3
+~
+~
+0 -1 12627
+S
+#12634
+Near the altar~
+  The cloaked figures walk around in a circle here apparantly part of some
+grisly sacrifice to the Dead God.  You can see the altar from here.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12633
+D3
+~
+~
+0 -1 12635
+S
+#12635
+Near the altar~
+  The cloaked figures walk around in a circle here apparantly part of some
+grisly sacrifice to the Dead God.  You can see the altar from here.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12627
+D1
+~
+~
+0 -1 12634
+D3
+~
+~
+0 -1 12636
+S
+#12636
+Near the altar~
+  The cloaked figures walk around in a circle here apparantly part of some
+grisly sacrifice to the Dead God.  You can see the altar from here.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12626
+D1
+~
+~
+0 -1 12635
+S
+#12637
+Near the altar~
+  The cloaked figures walk around in a circle here apparantly part of some
+grisly sacrifice to the Dead God.  You can see the altar from here.
+~
+126 ad 0 0 0 2
+D0
+~
+~
+0 -1 12621
+D1
+~
+~
+0 -1 12622
+D2
+~
+~
+0 -1 12626
+S
+$~

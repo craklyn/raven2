@@ -1,0 +1,281 @@
+#12000
+V W 0~
+new vampire m12000~
+a Newly Born Vampire~
+A newly born vampire weeps at the beauty of the night.
+~
+   There is a look of awe and wonder in their eyes.  You can tell immediately
+this vampire has not been one for very long.    
+~
+16584 0 0 0 197736 0 0 0 0
+25 0 -10 100d3+600 3d10+5
+40 40
+9 9 0 13 4 -1
+#12001
+V W 0~
+young vampire m12001~
+a young vampire~
+a young vampire lurks in the shadows.
+~
+   You can tell by looking in its eyes that this vampire is still young and new
+to the life of the undead.  Almost as if it still thinks its a mortal.    
+~
+16584 0 0 0 1115688 0 0 0 -100
+35 0 -10 100d12+600 10d2+25
+50 60
+9 9 1 0 4 -1
+#12002
+V W 0~
+guardian vampire m12002~
+the Vampire Guardian~
+A strong warrior protects his master.
+~
+   A hideous foul creature of the night with distorted facial features.  It has
+huge pointy fangs hanging over its lower lip.  You could swear you can see a
+drip of blood running down its chin.    
+~
+26 0 0 0 537920552 0 0 0 -100
+35 -5 0 100d1+1567 50d3+0
+50 60
+9 9 0 4 8 -1
+#12003
+V W 0~
+ruffian vampire m12004~
+the Vampire Ruffian~
+Glowing red eyes stare at you from the shadows.
+~
+   A sheer brute.  You don't think you want to mess with this rough looking
+fellow.    
+~
+16458 0 0 0 1082920 0 0 0 -60
+35 -20 -10 90d3+0 20d4+10
+90 60
+9 9 0 8 4 -1
+#12004
+H C 0~
+lackey~
+the Master's Lackey~
+a feeble man is crouched in the corner.
+~
+   He is a frail old looking man, though could barley be in his 30's . He has
+been kept alive specifically to do The Master's bidding during daylight hours,
+not withstanding the bite marks all over his body.  You almost feel sorry for
+the retched fellow.    
+~
+20684 0 0 0 512 64 0 0 0
+25 -10 2 100d10+250 3d10+5
+40 40
+9 9 1 0 -1 -1
+#12005
+V W 0~
+darla 12005~
+Darla~
+Darla creeps through the shadows.
+~
+   Beautiful, Graceful and Deadly.  Within her eyes you see the wisdom of many
+years, yet they are some of the coldest you have ever witnessed.  Run....    
+~
+524488 0 0 0 1836200 0 0 0 -100
+42 -7 10 100d80+800 1d80+60
+50 60
+9 9 2 0 4 23
+#12006
+V W 0~
+jesse m12006~
+Jesse~
+Jesse creeps through the shadows.
+~
+   A new addition to the Master's army of minions, he has recently been
+upgraded from a meal to bait, in order to lure the slayer to her death.  
+Though with his newfound powers, this hardly seems to bother him.  He looks
+like he feels the power of the world in his grasp.    
+~
+200 0 0 0 1115304 0 0 0 -100
+40 -7 10 100d80+500 1d80+45
+50 60
+9 9 1 4 13 0
+#12007
+H C 0~
+boy anointed m12007~
+the Anointed One~
+The Anointed One lies in waiting of The Harvest.
+~
+   A young boy of barely 12?  He is here to lead The Master out of his
+entombment.  For such a young innocent looking person, there is nothing but
+evil and hate in his fragile eyes.    
+~
+8568858 0 0 0 5309628 32 0 0 -100
+51 -5 -10 100d1+19900 100d2+100
+80 90
+9 9 1 0 -1 -1
+Z 12002
+#12008
+V W 0~
+vampire warrior m12008~
+the Vampire Warrior~
+A warrior is ready to do battle.
+~
+   Busily preparing for the feast of the Harvest.  You can tell immediately
+this stout vampire has fed on countless victims and seen many battles.  If you
+know what's good for you, you'll get away before you become his next.    
+~
+16456 0 0 0 537986088 0 0 0 -100
+45 -15 8 1d2500+3500 30d3+0
+65 75
+9 9 1 0 4 23
+#12010
+V N 0~
+master harvest m12010~
+the Master~
+The Master is here, waiting to be released.
+~
+   Trapped in this tomb by an ancient curse, the Master patiently awaits the
+time of the Harvest, when he can be freed from his prison and rule once more.
+As you peer into his eyes, you see evil, pure evil.  Deep within, you can see
+the history of man.  You know right away that he is as old as any vampire ever
+recorded.    
+~
+258106 0 0 0 5309608 32 0 0 -100
+51 -5 -5 1d1+30000 110d6+20
+75 240
+9 9 1 4 8 13
+Z 12000
+Z 12004
+#12011
+V W 0~
+luke m12011~
+Luke~
+Luke busily prepares for The Harvest.
+~
+   Strong and powerful, this is The Master's right hand man.  On his
+forehead, drawn in blood, is a three-pointed star.  He is the Vessel.  Every
+soul he takes will feed the Master.  And their souls will grant him the
+strength to free himself.  The last thing you want to do is piss him off!  
+Though granted, he'll probably rip your arms off and beat you to death with
+them anyway.    
+~
+245848 0 0 0 5244072 0 0 0 -100
+50 -10 -10 100d1+14000 30d3+20
+80 90
+9 9 1 0 8 13
+#12012
+V W 0~
+minion vampire m12012~
+the Master's Minion~
+The Master's Minion is following his orders.
+~
+   A frail wearily looking vampire rushes about following his orders.  You can
+tell he is only a servant at the very bottom rung of the coven's chain of
+command.    
+~
+16584 0 0 0 1115176 0 0 0 -100
+35 0 -10 100d12+600 10d2+25
+50 60
+9 9 0 0 -1 -1
+#12013
+V A 0~
+colin m12013~
+Colin~
+A deadly Vampire is perched in the corner, ready to strike at his prey.
+~
+   In the darkened recesses of a cowl you see the glint of red tinted eyes and
+pearl with fangs that seem to lengthen as you look, the blood in your veins
+seems to rush as your heart quickens, his eyes pierce your heart almost as well
+as his claws.    
+~
+131082 0 0 0 1115816 0 0 0 -100
+40 -7 -10 100d80+0 1d100+60
+65 75
+9 9 1 0 20 -1
+#12014
+A W 0~
+hell hound m12014~
+a Hell Hound~
+A hound strait from the pits of hell drools at the presence of dinner.
+~
+   This ugly looking beast is dirty, real dirty.  It looks neglected and very
+hungry.  You can see blood dripping from its fangs as it snarls at you.  Its
+growls and howls send shivers down your spine and you know it would have no
+trouble tearing you completely in half.    
+~
+1753130 0 0 0 5309608 0 0 0 0
+50 -5 -5 100d1+20000 100d2+100
+80 90
+9 9 0 20 -1 -1
+#12015
+V A 0~
+guardian vampire m12015~
+the Vampire Guardian~
+A strong warrior protects his master.
+~
+   A hideous foul creature of the night with distorted facial features.  It has
+huge pointy fangs hanging over its lower lip.  You could swear you can see a
+drip of blood running down its chin.    
+~
+20520 0 0 0 1050280 32 0 0 -100
+45 -5 0 40d40+0 10d2+25
+65 75
+9 9 1 0 4 -1
+#12016
+A R 0~
+bat m12016~
+a bat~
+a large, black bat circles the room.
+~
+   Its a bat, what do you expect?  Its small, its fuzzy.  Its a rat with wings.
+  
+~
+8931576 0 0 0 1049768 0 0 0 0
+30 0 0 1d1+800 6d6+10
+50 60
+9 9 0 4 -1 -1
+#12017
+A R 0~
+bat m12017~
+a bat~
+a large, black bat circles the room.
+~
+   Its a bat, what do you expect?  Its small, its fuzzy.  Its a rat with wings.
+  
+~
+24824 0 0 0 66600 0 0 0 0
+30 5 10 1d1+300 4d4+0
+50 60
+9 9 0 4 -1 -1
+#12018
+V A 0~
+sleepy vampire m12018~
+a sleepy vampire~
+a glowing pair of eyes stare out from the shadows.
+~
+Its gonna eat you.
+~
+553032 0 0 0 537920552 0 0 0 0
+50 0 0 1d1+1000 10d10+20
+80 90
+9 9 0 4 8 9
+#12098
+T W 0~
+sleepy~
+sleepy~
+sleepy
+~
+It looks sleepy.
+~
+8 0 0 0 8405120 4184 0 0 0
+10 20 10 1d1+30000 1d1+0
+0 0
+4 4 0 0 -1 -1
+#12099
+N W 0~
+a level~
+a level~
+a level
+~
+it looks like an easy level.
+~
+10 0 0 0 1049728 0 0 0 0
+51 -30 -20 15d1+0 120d120+100
+90 100
+9 9 0 0 -1 -1
+$

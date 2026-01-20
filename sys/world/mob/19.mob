@@ -1,0 +1,403 @@
+#1901
+H W 0~
+soldier garamond~
+a soldier of Garamond~
+A soldier of Garamond is here protecting the kingdom.
+~
+The soldier of Garamond is a tall man dressed in the silvery mail of
+the King.  The crest of Garamond is proudly presented on his chest, and
+a kindness fills his eyes.  Surely this man will protect the innocent.
+~
+4168 0 0 0 0 0 0 0 750
+24 2 3 1d200+450 3d5+7
+40 40
+9 9 1 0 -1 -1
+#1902
+H R 0~
+woodsman~
+the King's Woodsman~
+The King's Woodsman is here caring for the trees.
+~
+The woodsman is dress in the practical clothing of the outdoors.  A stiff
+leather jacket covers his bod, and leather pants adorn his legs.  Slung
+on his back is a great woodsman's axe, and judging from the callouses on
+his hands, you can safely assume that he knows how to use it.
+~
+6152 0 0 0 262144 0 0 0 300
+21 6 4 1d150+450 3d4+8
+40 40
+9 9 1 0 -1 -1
+#1903
+A W 0~
+deer~
+a great deer~
+A great deer is grazing here.
+~
+   A large deer is here grazing.  It is light brown in color and very majestic.
+Hmm, this deer would look great in a trophy room.    
+~
+200 0 0 0 0 0 0 0 0
+12 9 4 5d3+140 2d6+4
+35 40
+9 9 1 22 18 23
+#1904
+H W 0~
+peasant child~
+a peasant child~
+A peasant child is here looking for food.
+~
+   A peassant child is wandering around here looking for food.  She is very
+small and emaciated.  This is one child that has not benefitted from the
+generosity of King Garamond, but you could never tell that from her happy
+spirits.    
+~
+200 0 0 0 0 0 0 0 500
+10 10 5 2d3+106 2d5+2
+35 40
+9 9 2 0 -1 -1
+#1905
+H W 0~
+peasant farmer~
+a peasant farmer~
+A peasant farmer is here tending his field.
+~
+The peasant farmeris old and frail.  He has spent his life toiling in
+fields that yield little for his efforts.
+~
+138 0 0 0 0 0 0 0 400
+16 9 5 4d5+240 2d5+5
+35 40
+9 9 1 0 -1 -1
+#1906
+H W 0~
+peasant mother~
+a peasant mother~
+A peasant mother is here looking for her children.
+~
+The peasant mother could be pretty is she had the time to care for her looks.
+Unfortunatly, the life of a peasant is a hard one, and she spends her time
+caring for the needs of herself and her children.  Despite this hard life,
+she seems to be happy.
+~
+72 0 0 0 0 0 0 0 400
+15 10 5 4d4+200 2d5+5
+35 40
+9 9 2 0 -1 -1
+#1907
+H T 0~
+peasant weaver~
+a peasant weaver~
+A peasant is weaving baskets here.
+~
+The weaver is a young man.  He has strong hands, and the baskets that he
+makes are very beautiful.  The probably sell for a nice price at the castle
+market.
+~
+10 0 0 0 0 0 0 0 500
+17 6 4 4d5+155 3d5+3
+35 40
+7 7 1 0 -1 -1
+#1908
+H C 0~
+peasant widow~
+a peasant widow~
+A widow is here mourning her loss.
+~
+A widow is here mourning her loss.  She is dressed in black, and tears
+run down her cheek.  How hard the life of a peasant must be. :(
+~
+10 0 0 0 0 0 0 0 700
+13 8 4 4d4+200 3d5+0
+35 40
+7 7 2 0 -1 -1
+#1909
+H W 0~
+guard~
+a gate guard~
+A guard is here protecting the gate.
+~
+A stonger looking man you have yet to see.  This guy is huge, and he is
+not about to let anybody into the castle without the authorization of the
+King.  You had better head back home right now.
+~
+4106 0 0 0 0 0 0 0 750
+20 0 -3 1d150+400 3d6+14
+40 40
+9 9 1 0 -1 -1
+#1910
+A W 0~
+alligator~
+an alligator~
+An alligator swims here.
+~
+The alligator is a large reptile that would love to feast on you.  His
+skin is green and is very thick and tough.  It would make great luggage,
+and his teeth would look great on a necklace.
+~
+40 0 0 0 65536 0 0 0 -100
+20 6 4 1d200+500 4d6+7
+40 40
+9 9 1 4 10 -1
+#1911
+A W 0~
+piranha~
+a piranha~
+A deadly piranha is swimming here.
+~
+The pirahna is small, but looks like it could eat a cow!
+~
+40 0 0 0 327712 0 0 0 -500
+12 5 1 1d80+160 1d12+4
+35 40
+9 9 1 4 -1 -1
+#1912
+H W 0~
+guard castle~
+a castle guard~
+A member of the castle guard is patroling here.
+~
+The castle guard is well armed and armored.  He looks ready to deal with
+any problem that may arise, and seems more then willing to carry out the
+orders of King Garamond.
+~
+6216 0 0 0 0 0 0 0 750
+20 -3 -3 1d200+500 3d5+10
+40 40
+9 9 0 0 -1 -1
+#1913
+H W 0~
+guard tower~
+a tower guard~
+A tower guard is here.
+~
+The tower guard is here keeping a watch on the surrounding lands.  He is
+a big man who is not afraid to fight to defend his home.
+~
+4106 0 0 0 0 0 0 0 750
+20 -3 -5 1d160+370 2d7+9
+40 40
+9 9 1 0 -1 -1
+#1914
+H W 0~
+commoner~
+a commoner~
+A commoner wanders around here.
+~
+The commoner while not rich, is not poor either.  He is dressed in simple
+clothing, but it is of good quality.  He appears to be exactly what he is:
+a working man.
+~
+200 0 0 0 0 0 0 0 600
+16 6 3 1d100+200 3d5+2
+35 40
+9 9 1 0 -1 -1
+#1915
+H W 0~
+korel lord noble~
+Lord Korel~
+Lord Korel the nobleman stands here.
+~
+The noble is obviously wealthy.  He is dressed in fune clothing stained
+to a deep blue color.  You can tell from his appearence that this is a man
+that has spent little of his life working, but rather spent it governing.
+~
+4168 0 0 0 0 0 0 0 600
+21 2 2 1d125+350 2d7+8
+40 40
+9 9 1 0 -1 -1
+#1916
+H M 0~
+wandering wizard~
+a wandering wizard~
+A wandering wizard is here amusing the crowd.
+~
+The wizard is old and has a long beard.  He leans heavily on a staff, but
+you have a feeling that he really has no need for.  His robes are a drab
+grey color, and his hat is pointed with a wide brim.
+~
+6504 0 0 0 4260872 0 0 0 0
+24 3 1 1d1+600 2d8+7
+40 40
+9 9 1 12 -1 -1
+#1917
+H P 0~
+captain guard~
+the captain of the guard~
+The captain of the guard is resting here.
+~
+He looks like he spends more time drinkng then anything else, but you have a
+strange feeling that he didn't get to his position by being a pansie.
+~
+6760 0 0 0 4104 0 0 0 1000
+25 -5 -5 1d1+900 2d8+15
+40 40
+6 6 1 0 -1 -1
+#1918
+H W 0~
+weaponsmith~
+a weaponsmith~
+A weaponsmith is here making swords.
+~
+WOW!  Check out the size of his forearms.  He must have the strongest
+looking arms you have ever seen!
+~
+11 0 0 0 128 0 0 0 200
+40 0 -3 1d1+3000 1d30+30
+65 75
+9 9 1 0 -1 -1
+#1919
+H W 0~
+stableboy boy~
+the stableboy~
+A stableboy is here tending to the horses.
+~
+The stableboy looks to be about 13 years old.  He is small and has
+blonde hair.  He seems to have a genuine love of horses.
+~
+10 0 0 0 0 0 0 0 150
+12 9 4 3d4+130 2d5+2
+35 40
+9 9 0 0 -1 -1
+#1920
+A W 0~
+stallion~
+a stallion~
+A stallion is here.
+~
+The stallion is a fine steed.  His coat is jet black in color, and he
+even has good teeth.
+~
+10 0 0 0 0 0 0 0 0
+18 8 3 1d70+200 2d6+7
+35 40
+9 9 1 23 -1 -1
+#1921
+H W 0~
+baker~
+a baker~
+A baker is baking here.
+~
+The baker is a lovely lady.  She is petite and has flour smeared on her face.
+~
+11 0 0 0 128 0 0 0 0
+40 1 1 1d1+3000 1d30+30
+65 75
+9 9 2 0 -1 -1
+#1922
+H W 0~
+armorer~
+the armorer~
+The armorer is here making armor.
+~
+The armorer is a big man.  He is holding a hammer and sweats heavily from the
+heat of his furnace.  His armor is of exceptional quality.
+~
+11 0 0 0 128 0 0 0 700
+40 0 -9 1d1+3000 1d30+30
+65 75
+9 9 1 0 -1 -1
+#1923
+H W 0~
+gargoyle~
+a gargoyle~
+A gargoyle is here guarding the entrance.
+~
+The gargoyle is made of dark grey stone and has its eyes are made of ruby.
+~
+298 0 0 0 40 0 0 0 0
+25 4 1 1d1+900 4d6+10
+40 40
+7 7 0 8 4 22
+#1924
+H W 0~
+wizard~
+the Wizard of Garamond~
+The Wizard of Garamond is here mixing potions.
+~
+The Wizard of Garamond does not seem to happy that you have intruded
+his laboratory.  He was busy mixing spell regents and potions, but
+now, unfortunatly for you, he is not.  You now have his undivided
+attention!!!
+~
+2090 0 0 0 4194440 0 0 0 0
+30 1 0 1d1+900 2d10+15
+50 60
+9 9 1 12 -1 -1
+#1925
+H W 0~
+servant~
+the King's servant~
+The King's servant is working here.
+~
+The king's servant is a young girl.  She does her work very well.
+~
+138 0 0 0 0 0 0 0 500
+15 7 3 3d5+125 2d6+3
+35 40
+9 9 2 0 -1 -1
+#1926
+H M 0~
+queen~
+the Queen~
+The Queen of Garamond is here, looking distressed.
+~
+The Queen is very beautiful.  She is here sleeping on her bed.
+~
+298 0 0 0 128 0 0 0 1000
+24 2 1 1d1+600 3d8+10
+40 40
+4 9 2 12 -1 -1
+#1927
+H P 0~
+king garamond~
+King Garamond~
+King Garamond is sitting here.
+~
+The king is a young king.  He has a nicely trimmed beard, and a crown
+sits upon his head.  He looks like he is a kind king.
+~
+4106 0 0 0 136 0 0 0 1000
+32 0 -4 1d1+1200 2d7+20
+50 60
+7 7 1 0 -1 -1
+#1928
+N H 0~
+guardian~
+the guardian~
+The guardian of Garamond.
+~
+You cannot see the guardian, but somehow you know he is here.
+~
+1052682 0 0 0 1075577962 0 0 0 250
+25 2 2 1d1+700 4d6+12
+40 40
+9 9 1 8 1 22
+#1929
+H T 0~
+thief~
+a thief~
+A thief is hiding here.
+~
+Now you see him, NOW you don't!
+~
+72 0 0 0 786432 0 0 0 -500
+21 6 3 1d100+250 2d7+7
+40 40
+9 9 1 0 -1 -1
+#1930
+H W 0~
+tark jester fool~
+Tark, the jester~
+The King's fool, Tark, is bouncing around here like an idiot.
+~
+Tark, the fool, looks a lot like Tarkin the ruler of Vie.  There is a
+difference though.  Common sense leads you to believe that they are
+somehow related, but that Tark only recieved the bad genes of the
+pool.  He is here amusing the king with his stupid antics and outrageous
+custumes.  What an idiot!! (Of course that IS his job)
+~
+8526 0 0 0 262144 0 0 0 1000
+20 4 3 3d10+300 3d6+2
+40 40
+9 9 0 0 -1 -1
+$

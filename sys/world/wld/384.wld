@@ -1,0 +1,632 @@
+#38400
+The Solamnic Knight's Guild of Samsera~
+The Name of the new Solamnic Guild of Samsera takes the form of a four walled fortress,
+or a keep, named Solgaard Keep as suggested by the The knight Zaor. The knights maintain
+a large prescence in the City of the Samsera and are responsible for training all the citie's
+militia. The Keep itself shall have the following features.
+A Drawbridge which enters into the keep.
+A Guild Guard that blocks all Non Humans and Non Knights.
+2 Shooting Parapets, separated by a single DT. Each Parapet will have a small armory of
+bows and arrows that can be used to defend the keep.
+
+A Jousting Range/Battlefield that will be used to determine grand knight.
+A Central Courtyard
+An Armory
+A regen/Chapel with private prayer rooms.
+A Training Guildmaster.
+A Blacksmith
+A SHopkeep
+
+Kurse 10/00'
+~
+384 1024 0 0 0 0 255 0
+S
+#38401
+Solgaard Keep~
+   You pass under the large stone gateway to Solgaard Keep, guild to the
+Solamnic Knights here in Samsera.  A short drawbridge used to cross the shallow
+moat that surrounds the guild is to the south.  The main path to the guild
+courtyard bends to the east and north, where many knights train and practice
+their skills.    
+~
+384 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38402
+D2
+A Large drawbridge used for entry into the keep lies to the south.
+~
+drawbridge bridge~
+1 -1 18110
+D3
+A wooden door set into the side of a stone wall leads to the western tower.
+~
+door wood~
+1 -1 38403
+S
+#38402
+The Entrance Tunnel~
+   The stone walls curve here as they bend north to the inner courtyard and
+southwest to the drawbridge.  Knights on horseback that carry provisions for
+the guild, as well as scouts, stand idly about here, awaiting directions from
+their commanding officers.  A board used for informing the knights of the
+general state of the guild stands here, filled with information.    
+~
+384 33288 0 0 0 0 255 0
+D0
+~
+~
+0 0 38410
+D1
+A door in the eastern stone tower leads within.
+~
+door wood stone~
+1 -1 38404
+D3
+~
+~
+0 0 38401
+S
+#38403
+The Western Parapet~
+   You stand at the base of a small guard tower.  The room is circular, made so
+by angling thousands of tightly fitted white blocks together.  On the walls lie
+equipment racks filled with basic defensive armaments such as shield, light
+plate, helmets, and bows.  These items are here to be used in case the Keep is
+ever under siege.  A wide ladder leads upwards into the western defensive
+parapet.    
+~
+384 1081864 0 0 0 0 0 0
+D1
+A short wooden door leads back to the keep entrance.
+~
+door wood short~
+1 -1 38401
+D4
+~
+~
+0 0 38405
+S
+#38404
+The Eastern Tower~
+   You stand in the base of a small guard tower.  The room is circular, made so
+by angling thousands of tightly fit white blocks together.  On the walls lie
+equipment racks filled with basic defensive armaments such as shield, light
+plate, helmets, and bows.  These items are here to be used in case the Keep is
+ever under siege.  A wide ladder leads upwards into the eastern defensive
+parapet.    
+~
+384 1081864 0 0 0 0 0 0
+D3
+A door in the west wall leads back to the entrance to the keep proper.
+~
+door wood  west~
+1 -1 38402
+D4
+~
+~
+0 0 38406
+S
+#38405
+The Western Parapet~
+   The top of this short tower is enclosed by a stone roof.  Multiple crossed
+slits in the stone wall face outwards, looking over the drawbridge and city
+street below.  These 'windows' are used by Solamnic archers to provide
+supporting fire and defense to the Keep if so required.  To the south you can
+jump off the tower and fall to your death.  Enjoy!    
+~
+384 1081864 0 0 0 0 0 0
+D2
+Looks like a very bad fall!
+~
+~
+0 0 38407
+D5
+~
+~
+0 0 38403
+S
+#38406
+The Eastern Parapet~
+   The top of this short tower is enclosed by a stone roof.  Multiple crossed
+slits in the stone wall face outwards, looking over the drawbridge and city
+street below.  These 'windows' are used by Solamnic archers to provide
+supporting fire and defense to the Keep if so required.  You can exit south if
+you wish to take an express trip down the tower.    
+~
+384 1081864 0 0 0 0 0 0
+D2
+It does not appear to be a safe route unless you have a pair of "Air Jordan's".
+~
+~
+0 0 38407
+D5
+~
+~
+0 0 38404
+S
+#38407
+Falling to the Street below~
+   You squeeze through the small window and pop out the other side, tumbling
+head over heels down the small tower in an uncontrolled fall.  The last thing
+you see before hitting the shallow moat is the rows of sharpened stakes placed
+there.    
+~
+384 33282 0 0 0 0 255 0
+D2
+~
+~
+0 0 18110
+S
+#38408
+Solgaard Armory~
+   It is no secret to the outside world that the guild of Solamnic Knights is
+incredibly rich.  This massive stone chamber serves as the armory and vault for
+the Knights here in Samsera, filled with coffers overflowing with gold coins
+and riches, as well as rare weapons, armors, and magical artifacts.  The
+knights use these items for the benefit of the guild only, and contribute to
+the vault more often than they take from it.    
+~
+384 1088008 0 0 0 0 0 0
+D1
+A thick steel vault door leads back to the courtyard.
+~
+steel vault door~
+1 -1 38409
+S
+#38409
+The Keep Courtyard - Southwest Corner~
+   A cart carrying food supplies to the guild passes you as you enter this part
+of the courtyard.  Looking north, you are able to see the equipment shop and
+blacksmith.  Directly to your west is the guild armory, a thick vaulted door of
+steel protecting it from thieves.    
+~
+384 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38414
+D1
+~
+~
+0 0 38410
+D3
+A thick steel vault door lies in there west wall.
+~
+steel vault door~
+1 -1 38408
+S
+#38410
+Entrance to the Courtyard~
+   You now stand in the main courtyard of the keep, where there is always much
+activity.  The courtyard is primarily used as a place for training by all three
+orders: Crown, Sword, and Rose.  Large warhorses, heavily armored knights with
+squires, and provision carts all move throughout the courtyard in a busy
+hustle.  To the east you see the door that leads to the Knights place of
+worship and rest, the Chapel.  To the west lies the Armory.    
+~
+384 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38415
+D1
+~
+~
+0 0 38411
+D2
+~
+~
+0 0 38402
+D3
+~
+~
+0 0 38409
+S
+#38411
+The Keep Courtyard - Southeast Corner~
+   Directly to your east lies the beautiful arched double doors of the Chapel.
+Within lies the main rectory and many prayer chambers where knights place their
+devotions and pledge their faith in their God.  Further along the inner keep
+wall to the north lies the Training chambers as well as the room of the
+Kingfisher.  You may also proceed west back towards the courtyard entrance.  
+
+~
+384 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38416
+D1
+An ornate arched door leads into the guild chapel, where knights rest and pray.
+~
+door arched~
+1 -1 38412
+D3
+~
+~
+0 0 38410
+S
+#38412
+The Grand Chapel of Faith~
+   This room is the center of prayer and faith for the Knights within Solgaard.
+Knights sit and kneel in various locations in the large chamber occupied by
+their prayers and devotions, an important part of knightly life.  It is the
+gods which bestow special powers unto the knight, and neglecting their god will
+in turn cause the revocation of these powers.  You feel it would be good to
+shed your armor and rest here, taking the time to refresh your body and soul.
+~
+384 1475080 0 0 0 0 0 0
+D3
+A large arched door leads back to the keep courtyard.
+~
+door ached double~
+1 -1 38411
+S
+Z 38404
+#38413
+Solamnic Provisions~
+   You step through the doorway and into a medium sized stone room stocked full
+with supplies to serve the guild.  Bins of breastplates, helmets, greaves, and
+gauntlets line the north wall, The east wall is covered in swords, the standard
+broadsword by far being the most prevalent.  Tunics, undercoats, and other
+dressings hang from racks in the middle of the shop.  Behind a wooden counter
+stands Jericho, a squire of Sir Thaniel of the Order of the Sword.    
+~
+384 1081864 0 0 0 0 0 0
+D1
+A wooden door leads back to the courtyard.
+~
+door wooden~
+1 -1 38414
+S
+#38414
+The Keep Courtyard - Square of the Sword~
+   The sound of swords clashing ring through this part of the courtyard, as
+pairs of Knights of the Sword fight one another with sword and shield,
+practicing their skills.  The Order of the Sword acts as the guild's army, and
+is filled with many knights of renown.  Often Knights will move from the Orders
+of the Crown to the Sword, and vice versa.  To the west lies the guild
+shopkeeper, where training supplies may be purchased.    
+~
+384 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38419
+D1
+~
+~
+0 0 38415
+D2
+~
+~
+0 0 38409
+D3
+A plain wooden door leads into the guild provisions shop.
+~
+door plain wooden~
+1 -1 38413
+S
+#38415
+The Center of the Courtyard~
+   You stand now in the direct center of the keep courtyard.  Marking this
+place is a ornate mosaic of tiles beneath your feet that form the image of a
+beautiful Kingfisher grasping a sword in its talons, the insignia of the
+Solamnic Knights.  From here you can go north; where the stables and jousting
+plot lie, to the south; where the keep entrance lies, to the east; where the
+training chambers and chapel lie, and to the west; where the armory, shop, and
+blacksmith are located.    
+~
+384 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38420
+D1
+~
+~
+0 0 38416
+D2
+~
+~
+0 0 38410
+D3
+~
+~
+0 0 38414
+S
+#38416
+The Keep Courtyard - Square of the Crown~
+   The sound of a Sargeant Knight of the Crown barking commands to a small
+regimen of Knights assaults your ears as you enter this part of the courtyard.
+The Order of the Crown is the largest order of the guild, as those of lesser
+blood and experience enter.  Knights of the Crown are trained in protection and
+ground themselves in their faith.  To the east lies the main training quarters,
+where Knights may be schooled in the rudiments of prayer and combat.    
+~
+384 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38421
+D1
+A wide door leads to the inner training rooms of the Keep.
+~
+door wide~
+1 -1 38417
+D2
+~
+~
+0 0 38411
+D3
+~
+~
+0 0 38415
+S
+#38417
+The Training Room~
+   This large room is occupied by knights from all the orders, who have come
+here not to just learn the rudiments of their combat training, but new
+devotions and prayers to their god.  Being a Knight is no easy task, as they
+must follow the strict path of the Oath and Measure.  Any Knight which strays
+from these risk being kicked from their order and the knighthood itself.  The
+safest practice is to study, pray, and train as often as possible.    
+~
+384 1081864 0 0 0 0 0 0
+D3
+A wide door leads back to the keep courtyard.
+~
+door wide~
+1 -1 38416
+S
+#38418
+The Smithy~
+   This large metalworker's shop is dominated by three massive anvils, used to
+beat and shape weapons.  Next to each anvil lies a cauldron of water for
+quenching.  On each wall is a large forge, constantly heated.  The steam and
+smoke billow forth into the room, making the heat near unbearable for you.  
+Its is here where swords and armor are repaired and created for the guild.    
+~
+384 1081864 0 0 0 0 0 0
+D1
+A blackened door leads back to the keep courtyard.
+~
+door blackened~
+1 -1 38419
+S
+#38419
+The Keep Courtyard - Northwest Corner~
+   The courtyard is composed of dirt and cobbled stone, worn from steel boots
+and shodden hooves.  To the north of here lies the guild stables, where all
+work and war horses are kept and cared for.  The shop and armory lie to the
+south.  Back on the east side of the keep lie the training halls and chapel.  
+~
+384 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38423
+D1
+~
+~
+0 0 38420
+D2
+~
+~
+0 0 38414
+D3
+A thick door with smoke escaping from under it lies to the west.
+~
+door thick blackened~
+1 -1 38418
+S
+#38420
+The Keep Courtyard - Square of the Rose~
+   You walk into the northernmost part of the courtyard where a ring of
+Knights, all of the Order of the Rose lay kneeled in a prayer.  The Order of
+the Rose is that which is steeped the most in tradition and renown in the
+guild.  Only those knights of the purest bloodline and greatest experience may
+become a Knight of the Rose.  You notice each knight has a long groomed
+mustache, and wears a piece of platemail or shield emblazoned by a rose.  To
+the north lies the Grand Knight chamber and beyond that, the jousting field.  
+Directly south across the courtyard is the exit of the keep.    
+~
+384 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38421
+D2
+~
+~
+0 0 38415
+D3
+~
+~
+0 0 38419
+S
+#38421
+The Keep Courtyard - Northeast Corner~
+   You stand in the far northeast corner of the massive courtyard, which is
+mostly empty aside from two Knights of the Rose guarding the eastern doorway.
+The door leads to the Room of the Kingfisher, where meetings of the entire
+guild take place.    
+~
+384 1081864 0 0 0 0 0 0
+D1
+A thick oaken door emblazoned with the Solamnic symbol lies to the east.
+~
+door thick oaken~
+1 -1 38422
+D2
+~
+~
+0 0 38416
+D3
+~
+~
+0 0 38420
+S
+#38422
+Room of the Kingfisher~
+   You step into an officious looking chamber dominated by a massively round
+oaken table adorned by the insignia of the knighthood, the kingfisher and
+sword.  The white stone walls are adorned by many colorful banners, coats of
+arms of some of the oldest and revered bloodlines of the knighthood.  Often,
+the lords of all the guild's order gather here to discuss important issues
+which affect the guild as a whole.  The room is often spoken of with reverence,
+for it is believed to be watched and guarded by the gods themselves.    
+~
+384 1081896 0 0 0 0 0 0
+D3
+A thick oaken door leads back to the courtyard.
+~
+door thick oaken~
+1 -1 38421
+S
+#38423
+The Stables~
+   A long row of stables extends down the wall here, where many horses are kept
+and cared for.  Able squires run to and fro carrying hay and water, catering to
+the large animals.  The far end of the stable is where saddles, reins, bridles
+and other riding accessories are stored.    
+~
+384 1081864 0 0 0 0 0 0
+D2
+~
+~
+0 0 38419
+S
+#38424
+Chamber of the Grand Knight~
+   You pass under a curved arch and enter a large room adorned with shield and
+swords along the stone walls.  It is here where Knights of Honor petition to
+hold the title of guild Grand Knight.  Back to the south lies the keep
+courtyard, and past the heavy door to the north is the jousting field.    
+~
+384 520 0 0 0 0 255 0
+D0
+A massive arched double door leads out onto the jousting field.
+~
+double door arched~
+2 38403 38427
+D2
+~
+~
+0 0 38420
+S
+#38425
+Western end of the field~
+   The jousting field comes to an end here as you turn and take a long look all
+the way to the other end.  One hundred feet away from here, your steed and
+lance will meet your opponent and one of three things will happen: You will be
+dismounted, Your opponent will be dismounted, or a lance will break and you
+will be forced to joust again.    
+You calm your nerves and await the signal to charge the lane.
+~
+384 1049096 0 0 0 0 0 0
+D1
+~
+~
+0 0 38426
+S
+#38426
+The Jousting Field~
+   No more than fifty feet ahead of you lies your goal where lances meet, and
+one man shall be stricken a mighty blow, capable of breaking bones and even
+killing a large knight in full armor.  You feel nervous and uncertain as you
+quickly draw nearer your target.  CHHHARRRRGE!    
+~
+384 1049096 0 0 0 0 0 0
+D1
+~
+~
+0 0 38427
+D3
+~
+~
+0 0 38425
+S
+#38427
+The Center of the Jousting Field~
+   The jousting field is a long strip of earth about 200 feet in length.  Each
+Knight on their steed proceeds to either end of the field and awaits signal.  
+Once given, the knights charge forward and meet their lances at this point, the
+goal being to knock the opposing knight off their steed.  Once dismounted, both
+knights may draw their swords and fight blade to blade.  Given that either of
+them are able to stand.    
+~
+384 1049096 0 0 0 0 0 0
+D0
+~
+~
+0 0 38430
+D1
+~
+~
+0 0 38428
+D2
+A massive arched double doorway leads back into the inner keep.
+~
+double door arched~
+2 38403 38424
+D3
+~
+~
+0 0 38426
+S
+#38428
+The Jousting Field~
+   No more than fifty feet ahead of you lies your goal where lances meet, and
+one man shall be stricken a mighty blow, capable of breaking bones and even
+killing a large knight in full armor.  You feel nervous and uncertain as you
+quickly draw nearer your target.  CHHHARRRRGE!    
+~
+384 1049096 0 0 0 0 0 0
+D1
+~
+~
+0 0 38429
+D3
+~
+~
+0 0 38427
+S
+#38429
+Eastern end of the field~
+   The jousting field comes to an end here as you turn and take a long look all
+the way to the other end.  One hundred feet away from here, your steed and
+lance will meet your opponent and one of three things will happen: You will be
+dismounted, Your opponent will be dismounted, or a lance will break and you
+will be forced to joust again.    
+You calm your nerves and await the signal to charge the lane.
+~
+384 1049096 0 0 0 0 0 0
+D3
+~
+~
+0 0 38428
+S
+#38430
+The Judging Podium~
+   It is from this elevated platform that overlooks the jousting field that the
+contest is judged and the opponents are signaled to begin or stop.  There are
+three seats, one for a representative of each order; Crown, Sword, and Rose.  
+~
+384 1049096 0 0 0 0 0 0
+D1
+~
+~
+0 0 38429
+D2
+~
+~
+0 0 38427
+D3
+~
+~
+0 0 38425
+S
+$~

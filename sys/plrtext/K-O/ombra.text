@@ -1,0 +1,13 @@
+blade c 'shadow blades'$*
+sphere c 'shadow sphere'
+bl c 'blindness'$*
+sv c 'shadow vision'$*
+invis c 'invis'$*
+blur c 'blur'
+dos c 'dance of shadows'
+swa c 'shadow walk'
+y say &14$* &00
+loot get all ombra;wear all;get all ombra;wie dag;ho tail;get all ombra;gt summon
+dod c 'dance of dreams'$*
+gt gt &07[&00&14$* &00&07]&00
+clan clan &00&07[&00&14$* &00&07]&00&11

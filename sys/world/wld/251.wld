@@ -1,0 +1,700 @@
+#25100
+Plane of Avernus - Part 2~
+Another extension to Avernus, the first plane of the Nine Hells.
+~
+251 0 0 0 0 0 255 0
+S
+#25101
+A Dark Path~
+  Venturing northwards from the entrance to this cavern, you are accousted
+by the stench of rot and decay. The rocky walls surrounding you are jagged
+to the touch and create the shadow of an army hungry for blood.  You hear a
+muffled riot coming in from the west.
+~
+251 521 0 0 0 0 255 0
+D2
+~
+~
+0 0 25102
+D3
+~
+~
+0 0 25093
+S
+#25102
+Cavern Entrance~
+  As you step out of the desolate wastelands, you reach the end
+of a well worn path.  The stale wind tears at your face and then
+seems to escape into a small crevice to the north.
+~
+251 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25101
+D2
+This is the door you just entered through. Deja vu.
+~
+stone door~
+2 25013 25103
+S
+#25103
+Desolation~
+   You find yourself surrounded by desolate wastelands and infinite
+darkness. The ground boasts no growth, only poisoned vegetation. Every
+step you take, you feel your feet waver as though they were about to break
+through the thousands of feet of rock.
+~
+251 512 0 0 0 0 255 0
+D0
+A thick door has been cut into the stone here. What lies beyond?
+~
+door stone~
+2 25013 25102
+D3
+~
+~
+0 0 25095
+S
+#25104
+Wastelands of Avernus~
+   Upon entering the Wastelands of Avernus, your head grows foggy
+and you begin to question the choices you once deemed sound.  The heat
+and desolation of your surroundings suddenly overwhelms you with the
+desire for a swift and painless death rather than the grueling torture
+Avernus bestows on its unsuspecting adventurers.  For Hell is the
+most unforgiving infernal you will ever know!
+~
+251 5 0 0 0 5 255 0
+D0
+The air has a glowing, swirling effect.
+~
+~
+0 0 25131
+D1
+The air has a glowing, swirling effect.
+~
+~
+0 0 25131
+D2
+The air has a glowing, swirling effect.
+~
+~
+0 0 25131
+D3
+~
+~
+0 0 25010
+D5
+A boulder blocks a deep chasme into the ground here.
+A boulder blocks what looks like a deep chasm beneath you.
+~
+chasm boulder door~
+2 25030 25127
+S
+#25105
+A Path into Darkness~
+  Further into the cavern, the pictures morph from the wolves into unicorns.
+The ceiling continues its onslought of inscriptions and the stones you walk
+on begin to take on deeply carved grooves.  Whether the grooves were made by
+the creature that inhabits this cavern or by the doomed victims it has
+dragged in, you don't know.
+~
+251 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25122
+D3
+~
+~
+0 0 25097
+S
+#25106
+The Great Entrance~
+   Two massive red doors mark the entry into the domain of Tiamat.
+They stand nearly two hundred feet high and fifty feet across.
+Images of death and destruction are painted all over the panels,
+surrounding a brightly glowing keyhole.  Flames whisp and dance
+frantically across the floor.
+~
+251 2097740 0 0 0 0 255 0
+D0
+Large stone doors extend from the floor to the ceiling high above you. A
+giant or even a Dragon could easily pass through this great passage.
+~
+Doors~
+1 0 25107
+D2
+Past the gate to the Lair of Tiamat are the Caverns of Azharul. Who knows
+what horrors lurk their darkened recesses?
+~
+Lair gate tiamat~
+2 25016 25115
+S
+#25107
+The Outer Lair of Tiamat~
+   This chamber is massive, roughly five hundred feet high and
+a thousand feet around.  The walls and ceiling are carved out of
+flowing lava rock and hundreds of brightly glowing orbs
+illuminate the chamber from above.  Burning bright flames dancing
+in colors of red and orange reach high into the air atop twisted
+pillars.
+~
+251 2097676 0 0 0 0 255 0
+D0
+~
+~
+0 0 25108
+D2
+Massive doors lead back to an immense entryway.
+~
+Doors~
+1 -1 25106
+S
+#25108
+The Protective Ring~
+   Stepping further down the corridors your skin begins to sear under
+the flames that surround this chamber.  The center of the room
+pulses with the blackness that accompanies death, while a
+whirlwind of white and blue shadows surge in from the surrounding
+chambers.
+~
+251 2097672 0 0 0 0 255 0
+D0
+~
+~
+0 0 25110
+D1
+~
+~
+0 0 25111
+D3
+~
+~
+0 0 25109
+S
+#25109
+The Protective Ring~
+   When standing in the center of this long corridor, you can see
+neither the entrance to the north-east or the exit to the south-east.
+The walls are rounded and lined with blue flamed torches.  Although
+the number of torches are beyond countable measure, the room generates
+an ominously chilling presence.
+~
+251 2097664 0 0 0 0 255 0
+D0
+~
+~
+0 0 25112
+D2
+~
+~
+0 0 25108
+S
+#25110
+The Throne Room of Tiamat~
+   You have just stepped into the infernal fires of Avernus where
+columns of flames reach high into the air from braziers located
+every few feet along the walls of this chamber.  The walls and
+ceiling seem to twist and flow like molten lava with sharp
+bones jutting outward.  Hundreds of skeletons lay charred and
+rotting all over this huge chamber, preserved like trophies
+of the victims Tiamat has slain.
+~
+251 2097672 0 0 0 0 255 0
+D1
+~
+~
+0 0 30601
+D2
+Geysers of flame spout wildly into the sky, blocking your exit!
+~
+~
+0 0 25111
+D3
+~
+~
+0 0 18001
+D5
+A large vault door, worn smooth by the centuries is set into the floor.
+~
+vault~
+2 25005 25133
+S
+#25111
+The Protective Ring~
+   This part of the protective corridor spans several hundred feet
+deep and burns with a white so brilliant it's blinding to the
+mortal eye.  The wall to the west radiates a bright crimson
+glow and pulsates with the souls of a thousand tortured men.
+~
+251 2097664 0 0 0 0 255 0
+D0
+~
+~
+0 0 25112
+D2
+~
+~
+0 0 25108
+S
+#25112
+The Protective Ring~
+   The green hues that bleed from the walls in this chamber have
+been known to wipe all sanity from the minds of those who enter.
+Slightly smaller in size than the corridor to the south, this
+room emanates a sense of forbidding warning as you pass through it.
+~
+251 2097664 0 0 0 0 255 0
+D1
+~
+~
+0 0 25111
+D3
+~
+~
+0 0 25109
+S
+#25113
+The Lair of the &09Green&00 Dragon~
+  You find yourself unable to speak as the anticipation and excitement rise
+in your throat.  Are you ready to interrupt and do battle with the Ruler
+of this Plane?  Because she truly thrives on the challenge of intruders and will
+feast on your flesh for many days while solidifying her castle with your bones.
+~
+251 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 25110
+S
+#25114
+Free Room- Use Me~
+   goof of a room, use me please...
+~
+251 0 0 0 0 0 255 0
+S
+#25115
+Caverns of Azharul~
+   This cavern comes to an abrupt end as you find yourself struggling for
+a place to rest your body.  In the center of the room is a massive whirlpool
+bubbling over on the the pathway that surrounds the water.  Visibility is
+almost non-existant as a never ending onslaught of steam rises from the pool
+and fills the room.  The walls, slick with perspiration, burn the flesh
+that come in contact with it.
+~
+251 521 0 0 0 0 255 0
+D0
+A sudden quiet comes over the area. Past this massive gate is Tiamat herself,
+the multi headed Dragon which rules this plane and the guards the entrance
+to the Nine Hells. Time to make peace with your God...or Devil.
+~
+Lair Tiamat~
+2 25016 25106
+D2
+~
+~
+0 0 25116
+S
+#25116
+Caverns of Azharul~
+   While the cavern grows wider, the air thickens in your lungs.  The walls
+vibrate with a strange pulse and within their black stone surface you
+envision a pulsing crimson beat. You swear you can hear the rhythymic beating
+of a heart, but dare not trust your own senses, as they have been dulled by
+by the sweltering heat.
+~
+251 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25115
+D2
+~
+~
+0 0 25117
+S
+#25117
+Caverns of Azharul~
+   The walls and floors of this cavern look like flowing molten
+lava, swirling in dizzying patterns and radiating an intense heat; yet,
+they are solid rock.  The heat is not enough to cause bodily harm, just
+great discomfort.  The cavern continues to the north.
+~
+251 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25116
+D2
+~
+~
+0 0 25118
+S
+#25118
+Caverns of Azharul~
+   You estimate this cavern to be approximately two hundred feet across and 
+five hundred feet wide. Small pools of lava spout flames high into the air,
+making its temperature near unbearable. Charred and burned corpses of foolish
+mortals long dead lay strewn about the floor. As you step around the
+corpses gingerly, you notice something hidden in the dust.
+~
+251 525 0 0 0 0 255 0
+D0
+~
+~
+0 0 25117
+D2
+   These are known to the inhabitants of Avernus as 'The Gates of 
+Azharul'..only Tiamat and her chosen roam the caverns beyond them.
+~
+Gates Azhurul~
+2 25037 25119
+D5
+You wipe away the dust and behold a darkened pentagram covered in runes
+of warding and warning. Though the script is foreign, you get the message
+ ...DO NOT DISTURB.
+~
+Dragonspawn Pit dust pentagram~
+2 25017 25120
+S
+#25119
+Chamber of Amduscias~
+   You have entered the private chambers of Amduscias, a Duke of Hell. The
+cavern, which you perceive was once open and spacious before the Devil's
+inhabitance, is now filled from wall to ceiling with his library. Hundreds of
+books reach from the stone flooring to the sixty foot ceiling and multiple 
+rows deep. In the centre of the chamber sits a large stone bench covered in
+tablets of many ancient translations and transcriptions of 'negotiations'
+with other beings.
+~
+251 584 0 0 0 0 255 0
+D0
+Past Amduscias' rows of books stands a small gate, carved in dark runes.
+~
+Gates Azharul~
+2 25037 25118
+D2
+A door, hidden from the outside due to its invisible seams, is here.
+~
+door hidden~
+2 25015 25121
+S
+#25120
+Dragonspawn Pits~
+The 'pentagram' slowly opens, the edges of stone sliding into hidden recesses into
+the floor, revealing this large pit. You climb down the sides of it, carefully
+stepping on what appear to be sturdy ledges of rock which lead to the chamber's
+bottom. Strewn across the sides of this pit are shells..pieces of large broken
+eggshells. The pit narrows in the centre and goes deeper.
+~
+251 2359848 0 0 0 0 255 0
+D4
+Above you are the Caverns of Azharul. You send a prayer to your God.
+~
+pentagram chamber~
+2 25017 25118
+D5
+A portal of some sort lies in the floor, emanating a soft glow.
+~
+portal chamber~
+1 0 25123
+S
+#25121
+A Path into Darkness~
+  With its size decreasing immensely, the cavern comes to a dead end.
+Because of the bend in the corridor behind you, there is no air that flows 
+through this section of the cavern.  On the north facing wall is a magnificent
+carving of the metamorphasis of a running wolf, into a striding unicorn
+and finally into that of a human running like the wind.
+~
+251 521 0 0 0 0 255 0
+D0
+The carving here seems odd. You run your hands over it and find a keyhole!
+~
+chamber~
+2 25015 25119
+D2
+~
+~
+0 0 25122
+S
+#25122
+A Path into Darkness~
+  As the cavern begins to shift its direction to the north, the walls
+take on a life of their own.  Towards the entrance to this room, the unicorn
+carvings grow aggressive in nature and are depicted on their hind legs.
+Moving further into the cavern, the unicorns once again morph into the shapes
+of humans pictured in various battle positions.
+~
+251 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25121
+D3
+~
+~
+0 0 25105
+S
+#25123
+The Portal Chamber~
+  In a small hole underneath the Dragonspawn Pits, glows a bright light.
+As you follow this light to its source, you come to a small alcove.
+The light is intense and blinding, but bids your welcome to the Nine Hells.
+~
+251 584 0 0 0 0 255 0
+D4
+Above lies the dragonspawn pit. You hope it is still inactive.
+~
+dragonspawn pit~
+1 0 25120
+D5
+Below lies another pentagram, much like the one above. You fear you
+may have delved to far here...for what being in the Hells is so dangerous 
+that it must be guarded so No one can come in contact with it?! 
+~
+cell pentagram~
+2 25027 25134
+S
+#25124
+Azazel's Crevice~
+   Small as it may be, this crevice was constructed with much attention
+to detail.  The walls were chiseled out and buffed to a smooth finish.
+The flooring, although unlevel and a bit bumpy is carpeted with a
+rich silk covering.  Along the north wall are several racks filled
+with fine garments.  The remaining walls are covered with drawings
+and schematics.
+~
+251 0 0 0 0 0 255 0
+D4
+A large crack in the ceiling of the chamber opens the way to the outside.
+~
+crack crevice ceiling~
+2 25023 25050
+E
+floor~
+  Taking a closer look at the flooring, you peel back a corner of the
+silk and are horrified at what you see.  Three massive corpses that
+look like the missing consorts of Tiamat as well as a great number of
+her lesser spawn.  All dead, slain, rotting, decaying.
+~
+E
+drawing~
+  The drawings scattered across the walls prove to be very interesting.
+Written in a foreign tongue the words are hard to decifer, however, the
+sketches paint a very clear picture!  The defeat of Tiamat.  The
+day when Azazel may resume his god given name and rule over Avernus.
+~
+S
+#25125
+The Deceiver's Pit~
+   This pit has a unique quality to this plane, as it has taken on
+the skill its owner has mastered. At first glance you are in a palace
+surrounded by servants and your every desire. When you blink, the room
+becomes a wicked, foul smelling pit.  The walls ooze blood and the floor
+is cluttered with remains. Blink again, and you are stranded in the
+wastelands of Avernus.
+~
+251 521 0 0 0 0 255 0
+D4
+~
+wasteland~
+1 0 25058
+S
+#25126
+Dagon's Trap~
+   An ominous chill courses through your body as you enter this room.
+While very modest in it's furnishings, one item stands out amongst all
+others... Every inch of the walls are covered with the same scripture...
+Less stunning are the open chests scattered about the floors as well
+as the work table covered with names.
+~
+251 521 0 0 0 0 255 0
+D4
+A door back to the wastelands is set here.
+~
+Door wasteland~
+2 25025 25079
+E
+chest~
+  As you ponder into the chest you see a strange collection of
+substances only available in hell, alchemical ingredients, scraps of
+paper with names and large piles of gold.
+~
+E
+wall scriptures~
+JaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqon
+JaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqon
+JaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqon
+JaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqon
+JaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqonJaqon
+~
+S
+#25127
+A Subterranean Chasm~
+   Tucked away below the wastelands is a large cavern designated as
+'think-tank' for Kochbiel, a Greater Devil exiled to wander Avernus.
+Upon the walls are carved pictures depicting some of the greatest battles
+the general has ever won.
+~
+251 521 0 0 0 0 255 0
+D0
+A large door set into the cavern wall is here.
+~
+Door Cavern~
+2 25035 25087
+D4
+The passage back to the wastelands of Avernus lies above.
+~
+wastelands~
+2 25030 25104
+S
+#25128
+The Remains of Duskur's Lair~
+   Out of the piles of rock and rubble, you can see old remnants of
+Duskur's lair. Papers stir in the winds that occassionally blow through
+the room. Concealed pieces of treasure sparkle in between the rocks
+and the spines of books lay in burned heaps of ash. What wasn't
+burned out, shredded or covered in debris was slaughtered against the
+walls to serve as a reminder that association with The Dark Lady
+means death!
+~
+251 513 0 0 0 0 255 0
+D4
+A door lies above you, blocking out the harsh winds of the wastelands.
+~
+door hidden wastelands~
+2 25029 25099
+S
+#25129
+Malarea's Rift~
+   You have entered the gaudiest of the private caverns held by those
+in exile.  Lining the walls are numerous pedestals with trophies resting
+upon them. The trophies range from the head of the last mortal she
+encountered, a mis-shapen golden pendant hung from 10 bands of thick gold,
+and a belt made out of malachite and rubies.
+~
+251 521 0 0 0 0 255 0
+D4
+Above you howl the dread winds of Avernus.
+~
+rift~
+2 25026 25071
+S
+#25130
+Nisroch's Niche~
+   This cavern is circular in shape and 75 percent of the walls wrap
+around with a long continuous workspace. At the far left side of the space
+are bottles, roots and vials. Continuing through the maze of bottles and
+tacked to the walls are countless pages of notes and what appear to
+be recipes. Finally, towards the end of the workspace and overflowing
+onto the floor just beyond, corpses of every variety reek of a strange
+scent.
+~
+251 521 0 0 0 0 255 0
+D4
+Above you lies the dread wastelands of Avernus.
+~
+wasteland~
+2 25028 25013
+S
+#25131
+Desolation~
+&25&08ffffffsssssssssssSSSSSSSS&00&01&25*K&00&25&03A&00&25&01B&00&25&03O&00&25&01O&00&25&03M&00&25&01!!!!!!!*&00
+The last thing you hear is the violent rush of flame over your
+body, melting your flesh and charring your bones!!!!!
+A pity you didn't know that the foul plane of Avernus often has
+storms of spontaneous fireballs lighting the darkness. And for your
+lack of knowledge? A death no one will remember.
+~
+251 2 0 0 0 0 255 0
+D3
+~
+~
+0 0 25050
+D5
+~
+~
+0 0 18096
+S
+#25132
+The Portal Chamber~
+   The Chromatic Dragon is the ruler of Avernus, the uppermost plane of Hell
+ ..and hence the Guardian to all intruders to the Hells. Before you
+stands a portal to another plane..to which you are unsure. But as
+beings are not welcome to come or leave here..it remains guarded for all time.
+Surely you have tempted the fates time and time again in arriving at this
+place, but to proceed even further into the depths of the Hells would be
+careless and foolhardy. Could you value your existence so little?
+~
+251 520 0 0 0 0 255 0
+D4
+The huge slope winds its way back up towards the dreaded Lair of 
+the Arch Devil.
+~
+ramp~
+1 0 25133
+S
+#25133
+The Vault of Avernus~
+  This dimly lit chamber is the room in which Tiamat has kept much
+of her most prized treasure.  Runes and inscriptions line the
+walls, all glowing faintly blue providing a dim illumination.  It
+doesn't look as if anyone has seen this place in many millennia. 
+The entire area seems to radiate magical energy.
+~
+251 672 0 0 0 0 255 0
+D4
+A large vaulted door lies in the ceiling.
+~
+vault~
+2 25005 25110
+D5
+A massive ramp, large enough to accomodate a legion of soldiers spirals
+down into the depths of these foul pits.
+~
+ramp~
+1 0 25132
+S
+#25134
+The Cell~
+   You have entered a massive workshop surrounded with the finest
+accomodations.  Workbenches carved out of marble, sleeping quarters
+pampered with the most luxurious silks and satins, and a library filled
+with the complete works of dweomercrafters and magic grace this
+private space. Even the bars that surround the walls are not out of
+black iron, but the finest gold that illuminates the room with an
+faint glow.
+~
+251 2228328 0 0 0 0 255 0
+D0
+A door? Is it so that Armaros can escape his banishment after all?
+Perhaps so but just doesn't feel like being disturbed.
+~
+secret hidden door~
+2 25103 25120
+S
+#25135
+Welcome to Hell~
+   You rush wildly into the searing flames of Avernus, which quickly
+incinerate your flesh and bones into fine powder, blown away on the
+hot winds of Hell. Perhaps next time you will look before you leap.
+Muhahahahahaaha....
+~
+251 2 0 0 0 0 255 0
+D0
+~
+~
+0 0 25108
+D2
+~
+~
+0 0 25108
+D3
+~
+~
+0 0 25108
+S
+$~

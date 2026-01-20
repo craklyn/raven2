@@ -1,0 +1,71 @@
+#38300
+Cleric armor quest 1~
+Greetings.
+I offer you a service, to create a suit of armor of great power.
+I will need you to bring me components so I can create the armor.
+The first thing I need is webbing made of vines.
+~
+Find webbing made of vines and return it to Gnemma.
+~
+35 60 8396776 5 5 1
+G 38300
+O OBJ 6911
+R SPELL 139
+$N smiles as you hand her the vines.
+$N says, 'I will prepare this piece.  Come back in a short while and I will tell you what I will require next.'
+~
+#38301
+Cleric armor quest 2~
+I will transfer the power of the vines onto a suit of armor, magically transforming the armor at the same time.
+The only armor suitable is made of blue crystal.
+Find this armor and return it to me!
+~
+Find the armor made of blue crystal and return it to Gnemma.
+~
+40 60 8396776 5 5 1
+G 38300
+P 38300
+O OBJ 17610
+R SPELL 139
+$N examines the armor critically.
+$N says, 'This armor will serve adequately.  I need a few moments to examine its structure.  Come back later for
+one more task.'
+~
+#38302
+Cleric armor quest 3~
+I require a catalyst to complete the transformation.
+Find the cube of power, an artifact of strange and legendary magic.
+~
+Seek the cube of power, and return it to Gnemma.
+~
+47 60 8396776 5 5 1
+G 38300
+P 38301
+O OBJ 18199
+R OBJ 38312
+$N places the &11Blue Crystalline Armor&00 and the Web of Vines in the cube.
+$N closes her eyes and utters the words, 'ungirwo'.
+The cube's light flares, then dies.
+From within the cube, $N takes a light blue suit of armor.
+$N says, 'It is done.'
+~
+#38303
+Cleric Armor Quest 4~
+   I can create more sets of armor for you if you bring me the gear again, all
+at once.  I need a webbing made of vines, blue crystalline armor, and a glowing
+cube all at once to complete the item
+~
+~
+47 60 134225896 30 30 5
+P 38302
+O OBJ 6911
+O OBJ 17610
+O OBJ 18199
+R OBJ 38312
+$N places the Blue Crystalline Armor and the Web of Vines in the cube.
+$N closes her eyes and utters the words, 'ungirwo'.
+The cube's light flares, then dies.
+From within the cube, $N takes a light blue suit of armor.
+$N says, 'It is done.'
+~
+$~

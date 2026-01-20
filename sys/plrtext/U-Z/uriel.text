@@ -1,0 +1,24 @@
+trem c 'tremor' $*
+rc c 'remove curse' $*
+tit title :: &09Wanderer&00
+pfe c 'protection from evil'
+rp c 'remove para' $*
+di c 'detect invis' $*
+dr drink thim
+ha c 'holy armor'
+dm c 'divine mission'
+rpara c 'remove paralysis' $*
+rpoi c 'remove poison' $*
+eyes c 'righteous vision'
+cb c 'cure blind' $*
+rr rec rec rec scr
+crus c 'crusade'
+f c 'tremor'
+title title :: &09Wandering &11Knight&00 of the &03Round&00
+gt gt &10+&14$* &10+&00
+clan clan &03$* &00
+cs c 'call steed'
+h c 'prayer of life' $*
+b bash $*
+regen c 'regenerate' $*
+wa wake

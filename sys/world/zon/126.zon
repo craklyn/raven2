@@ -1,0 +1,63 @@
+#126
+The Blackhand~
+12699 61 2 0
+M 0 12605 1 12609    * Mob : Guardian
+E 1 12617 2 20       * Eqp : stone key
+M 0 12609 1 12617    * Mob : witch
+E 1 12610 5 20       * Eqp : Knuckle-Bones
+M 0 12608 8 12637    * Mob : worshipper
+M 0 12608 8 12622    * Mob : worshipper
+M 0 12608 8 12632    * Mob : worshipper
+M 0 12608 8 12633    * Mob : worshipper
+M 0 12608 8 12634    * Mob : worshipper
+M 0 12608 8 12635    * Mob : worshipper
+M 0 12608 8 12636    * Mob : worshipper
+M 0 12608 8 12626    * Mob : worshipper
+M 0 12611 1 12620    * Mob : the &05Dead God Somm&00
+E 1 12611 5 4        * Eqp : amulet of submission
+E 1 12612 1 19       * Eqp : Subjugator
+E 1 12613 1 6        * Eqp : Skull Helm
+M 0 12607 1 12627    * Mob : Morgoth
+E 1 12609 5 20       * Eqp : a Bloody Dagger
+E 1 12606 1 19       * Eqp : Soulstealer
+E 1 12607 1 3        * Eqp : Cloak of Fury
+O 0 12615 2 12627    
+O 0 12615 2 12627    
+M 0 12606 1 12625    * Mob : wyvern
+G 1 12622 1 -1       * Give: the wyvern's horde
+G 1 12619 2 -1       * Give: Dark key
+M 0 12601 1 12606    * Mob : Ogre
+E 1 12620 100 19     * Eqp : a granite club
+E 1 12621 100 15     * Eqp : a animal skin
+G 1 12616 2 -1       * Give: iron key
+M 0 12604 3 12631    * Mob : Torturer
+E 1 12604 100 19     * Eqp : Curved Dagger
+E 1 12605 100 6      * Eqp : Cloth Mask
+M 0 12604 3 12624    * Mob : Torturer
+E 1 12604 100 19     * Eqp : Curved Dagger
+E 1 12605 100 6      * Eqp : Cloth Mask
+M 0 12604 3 12628    * Mob : Torturer
+E 1 12604 100 19     * Eqp : Curved Dagger
+E 1 12605 100 6      * Eqp : Cloth Mask
+M 0 12603 1 12629    * Mob : Rendor
+E 1 12601 5 19       * Eqp : Tool of Inquiry
+E 1 12602 5 6        * Eqp : Black Hood
+E 1 12603 5 16       * Eqp : Torturer's Belt
+M 0 12612 2 12629    * Mob : Prisoner
+M 0 12612 2 12629    * Mob : Prisoner
+M 0 12602 3 12619    * Mob : Sewer Rat
+M 0 12602 3 12614    * Mob : Sewer Rat
+M 0 12602 3 12607    * Mob : Sewer Rat
+M 0 12610 1 12602    * Mob : the column
+D 0 12601 4 1        
+D 0 12602 5 1        
+D 0 12605 3 2        
+D 0 12604 1 2        
+D 0 12609 0 2        
+D 0 12630 2 2        
+D 0 12616 2 2        
+D 0 12621 0 2        
+D 0 12618 2 1        
+D 0 12631 0 1        
+S
+$

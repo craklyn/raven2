@@ -1,0 +1,10 @@
+hg c 'cure crit' ente
+ds c 'disp evil' $*
+ge get coins cor
+des dest corpse
+gt gt &11{&00&06$* &00&11}&00
+6 rec sam hagen
+rr rescue $*
+hh c 'cure crit' $*
+uu c 'rem para' $*
+1 bash newt

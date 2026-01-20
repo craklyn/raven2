@@ -1,0 +1,33 @@
+if c 'infra'
+ha c 'haste' $*
+blink cast 'blink'
+wrath cast 'wrath'
+db cast 'doom bolt' $*
+nex cast 'nexus' $*
+of order follower $*
+air cast 'airsphere' $*
+gate cast 'gate'
+sum cast 'summon' $*
+a assist
+in cast 'infravision'
+h cast 'haste' $*
+2 scan
+ice cast 'ice storm'
+id cast 'identify' $*
+ts cast 'true sight' $*
+port cast 'portal' $*
+invis cast 'invisibility' $*
+loc cast 'locate object' $*
+sh cast 'shield' $*
+bl cast 'blindness' $*
+str cast 'strength' $*
+fly cast 'fly' $*
+sl cast 'sleep' $*
+ld cast 'life drain' $*
+gt gsay &05 $* &00
+awaken cast 'awaken'
+pp enter port
+fb cast 'flame blade' $*
+youth cast 'fountain of youth'
+rc cast 'remove curse' $*
+tit title ::&03O&07D&00:: $*

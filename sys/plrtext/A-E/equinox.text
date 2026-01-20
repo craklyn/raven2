@@ -1,0 +1,8 @@
+str c 'str' $*
+gt gtell &14$* &00
+bli cast 'bli' $*
+p destroy corpse
+ti ti &07Forsaken&00 Absentminded Professor
+stone cast 'remove curse' stone
+o get all.gold from all.cor
+id color off;c 'ident' $*;color comp

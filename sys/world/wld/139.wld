@@ -1,0 +1,1847 @@
+#13900
+The War Camp (credits)~
+Original area by Pax
+The war camp was writen entirely from scratch
+consisting of 2 stages. First stage, meant for
+mid level groups, is a large opposing force to
+Freehold.  Second stage contains the "Bosses"
+for high level groups.  This is fairly basic
+and can be placed just about anywhere.
+
+Pax..1998
+~
+139 512 0 0 0 0 255 0
+D0
+a narrow road
+~
+~
+0 0 13901
+D3
+~
+~
+0 0 -1
+S
+#13901
+A Narrow Road~
+   You find yourself on a narrow road leading away from the hustle and bustle
+of the main highway. Off in the hazed distance you make out an outcropping of
+boulders and the  slow rising hills beyond.  Many wheel tracks and  iron shod
+hooves have carved deep ruts making it appearent of recent and heavy traffic.
+~
+139 4 0 0 0 2 255 0
+D0
+The road continues between an outcropping of boulders.
+~
+~
+0 0 13902
+D2
+The main highway to Freehold lies in that direction.
+~
+~
+0 0 13995
+S
+#13902
+A Narrow Road~
+   Traveling this narrow road it becomes evident that a large caravan or convoy
+recently passed through, from the somewhat fresh tracks forced upon the road by
+the weight of horse and wagons.  To the north huge  boulders block your view of
+the road making it difficult to see what lies ahead.
+~
+139 0 0 0 0 2 255 0
+D0
+The road passes between two large granite boulders.
+~
+~
+0 0 13903
+D2
+The road continues to the main highway.
+~
+~
+0 0 13901
+S
+#13903
+Before The Pass~
+   Towering before you are two gigantic boulders made of rough granite, if you
+stare at them long enough  they begin to take an eerie shape, almost guardian
+like. The road passes between these two massive formations just wide enough to
+permit passage of a single wagon.  The ground starts to slope upward slightly
+heading into the hills.
+~
+139 0 0 0 0 4 255 0
+D0
+The pass looks clear and heads further into the hills.
+~
+~
+0 0 13904
+D2
+A narrow road heading to the main highway.
+~
+~
+0 0 13902
+E
+boulders~
+Two monolithic formations of granite tower above you, strangly they look as if
+they are guarding the pass.
+~
+S
+#13904
+A Low Pass~
+   The road rises into the hills passing between large monolith like boulders.
+Suddenly you hear the shrill call of a bird,  sending shivers down your spine
+you begin to question the authenticity of the sound. Without success, you try
+and shrug off the feeling of being watched. To the north a steep rock formation
+splits this narrow road.  Heading south will take you safely out of the hills.
+~
+139 0 0 0 0 4 255 0
+D0
+The road splits east and west.
+~
+~
+0 0 13905
+D2
+a narrow road worn down by recent traffic heads to the south.
+~
+~
+0 0 13903
+E
+bird call~
+To late, you barely make out a shadowy figure on the rocks above!
+~
+S
+#13905
+The Road Splits~
+   Caused by a large rock formation the road splits east and west.  Wagon
+tracks turn east from here and many heavy boot prints mark the road to the
+west. The smell of pine becomes noticable and the air up here is refreshing.
+~
+139 4 0 0 0 4 255 0
+D1
+The road take a lazy turn to the north.
+~
+~
+0 0 13908
+D2
+A pass decending out of the hills.
+~
+~
+0 0 13904
+D3
+The road narrows and appears to come to an end.
+~
+~
+0 0 13906
+S
+#13906
+End Of A Narrow Road~
+   Thick bushes and a steep climb in the hillside prevent ease of travel
+in this direction.  Upon further investigation you notice tracks leading
+into the bushes, it might be possible to wiggle your way through.
+~
+139 0 0 0 0 4 255 0
+D0
+Those bushes are pretty thick, you might want to try another way.
+~
+bushes~
+1 0 13907
+D1
+The road forks to the east and south.
+~
+~
+0 0 13905
+S
+#13907
+Small Cache~
+   After working your way through the bushes you come upon a small
+cache purposely hiden for the storage of goods. Rock face prevents 
+any further movement east or north, while a dense thicket guards
+any intrusions from the west.
+~
+139 393216 0 0 0 4 255 0
+D2
+Another tight fit through the bushes.
+~
+bushes~
+1 0 13906
+S
+#13908
+A Lazy Turn~
+   Coming around the rock face you find the road widens enough to allow two
+wagons to pass side by side. A dry gultch, formed by frequent storms, makes
+its accent to the north allowing wheeled transport to reach higher ground.
+~
+139 0 0 0 0 4 255 0
+D0
+A dry gultch cut by frequent rain accends to higher ground.
+~
+~
+0 0 13909
+D3
+The road narrows and forks to the west and south.
+~
+~
+0 0 13905
+S
+#13909
+A Dry Gultch~
+   Cut and formed by rain frequent to this area this gultch provides easy and
+convenient access to higher ground.  The road continues to climb north and to
+the south it turns in a westernly direction.    
+~
+139 0 0 0 0 4 255 0
+D0
+To steep to really tell whats up ahead.
+~
+~
+0 0 13910
+D2
+The road narrows and turns slightly west.
+~
+~
+0 0 13908
+S
+#13910
+A View Of The Valley~
+   Traversing the steep gultch below brings you to a breathtaking view of the
+northeastern valley.  The road continues its climb west into the hillside and
+makes a sharp turn to the north.  The top of a rock formation can be seen to
+the southwest.
+~
+139 0 0 0 0 4 255 0
+D2
+A dry gultch made by frequent rains.
+~
+~
+0 0 13909
+D3
+The steepness of the hillside causes the road to turn sharply north.
+~
+~
+0 0 13911
+E
+valley~
+Breathtaking, a small green valley nestled in the hills.
+~
+S
+#13911
+A Sharp Turn~
+   The hills are becoming steeper and more predominant now, causing the road to
+turn sharply north.  A rock formation tops off just above you to the south,  if
+you can make the climb you could possibly get a better view of the area.    
+~
+139 4 0 0 0 4 255 0
+D0
+The road widens a bit heading into the saddle between two hills.
+~
+~
+0 0 13913
+D1
+The road turns south into the top of a decending gultch, a great view of
+the valley can be seen from there.
+~
+~
+0 0 13910
+D4
+If you can make the climb the view will be worth it.
+~
+~
+0 0 13912
+S
+#13912
+The Point~
+   A wonderfull view of the road can be observed from up here making this an
+ideal lookout point.  Below and south lies the road winding up from the main
+highway, between the boulder outcropping and around the rock formation. Your
+view of the north side however, is only that of the rolling hills and a lush
+green valley to the east.    
+~
+139 0 0 0 0 5 255 0
+D0
+~
+~
+0 0 -1
+D5
+A climb down the rocks will bring to you a hillside road.
+~
+~
+0 0 13911
+S
+#13913
+Before The Saddle~
+   Making its way through the low points of this hilly region, the road passes
+through the saddle of two hill tops.  The air is sweet and clean to the senses
+and makes your journey a little more pleasent.  To the south the road sharply
+turns east winding its way down to lower ground.    
+~
+139 0 0 0 0 4 255 0
+D0
+This road crests between the hill tops.
+~
+~
+0 0 13914
+D2
+The top of a rock formation causes the road to divert east.
+~
+~
+0 0 13911
+S
+#13914
+In The Saddle~
+   Passing between the summit of two balding hilltops you realize it was more
+than just a caravan that recently traversed this road. A large make shift city
+of tents stretches out to the north.  Many figures can be seen moving about in
+preperation for the day to come. You can make your way to safety turning south.
+~
+139 0 0 0 0 4 255 0
+D0
+A short descent into a city of tents.
+~
+~
+0 0 13915
+D2
+~
+~
+0 0 13913
+S
+#13915
+A Short Descent~
+   Sloping slightly this wide road decends from the hilltops.  To the north
+lies a city of tents, busy with the passing of soldiers making preperations
+for war.  To the south the road passes between two bare hilltops.
+~
+139 0 0 0 0 2 255 0
+D0
+The south entrance to a large tent city. A couple of guards are visible now
+observing your approach.
+~
+~
+0 0 13916
+D2
+The road heads south and up between two hill tops.
+~
+~
+0 0 13914
+D5
+~
+~
+0 0 -1
+S
+#13916
+South Entrance~
+   Leveling out now, the road continues right into the heart of the make shift
+city.  A junction lies to the north passing east to west on the south side of
+the war camp. The sound of weapons clanging against the metal of armor can be
+heard faintly over the buzz of soldiers milling about.
+~
+139 4 0 0 0 2 255 0
+D0
+Rows and Rows of various sizes of tents seem to continue in ever direction.
+~
+~
+0 0 13917
+D2
+The road slopes upward and passes between two hill tops.
+~
+~
+0 0 13915
+S
+#13917
+South End~
+   Rows and rows of tents, in all colors and sizes, stretch out before you.  
+East and west the road skirts the south edge of camp, and to the north the
+road continues on.
+~
+139 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 13941
+D1
+The road skirts the south end of many tents.
+~
+~
+0 0 13918
+D2
+The south entrance to this make shift city lies in that direction.
+~
+~
+0 0 13916
+D3
+The road takes you west skirting the south end of many tents.
+~
+~
+0 0 13919
+S
+#13918
+South End Road~
+   Many soldiers mill about, only stopping to give a quick glance in your
+direction. Tents line the north side of the road and to the north a large
+red and yellow stripped tent towers above the rest.
+~
+139 0 0 0 0 1 255 0
+D0
+Towering above the surrounding tents and made of red and yellow silk.
+~
+~
+0 0 13948
+D1
+The corner of South End road and East End road.
+~
+~
+0 0 13920
+D3
+A T-junction in the road lies to the west, continueing west or heading
+south out of this city of tents.
+~
+~
+0 0 13917
+S
+#13919
+South End Road~
+   Many soldiers mill about, conversing over the the spoils of war.  A Large
+blue and yellow stripped tent lies to the north with a sign hanging from it.
+~
+139 0 0 0 0 1 255 0
+D0
+Large, blue and yellow this tent looms above the other tents around it.
+~
+~
+0 0 13949
+D1
+A T-junction in the road lies to the east, continueing east or heading
+south out of this city of tents.
+~
+~
+0 0 13917
+D3
+The corner of South End road and West End road.
+~
+~
+0 0 13921
+E
+sign~
+ &02New recuits sign
+ in here with the
+  Master at Arms
+leave your weapons
+   at the door&00
+~
+S
+#13920
+South-East End Road~
+   Standing at the corner of two converging roads, rows and rows of tents
+obscure your view to the northwest. The road turns north or west skirting
+the edge of the encampment.
+~
+139 0 0 0 0 1 255 0
+D0
+The road heads north on the east side of many rows of tents.
+~
+~
+0 0 13922
+D3
+Skirting the southern edge of the tents the road continues west.
+~
+~
+0 0 13918
+S
+#13921
+South-West End Road~
+   At the corner of a well worn road, soldiers pass by eyeing you with both
+contempt and curiousity.  To the north and east the road continues to skirt
+the edge of the encampment.
+~
+139 0 0 0 0 1 255 0
+D0
+The road turns north on the west side of many rows of tents.
+~
+~
+0 0 13923
+D1
+Skirting the southern edge of the tents the road continues east.
+~
+~
+0 0 13919
+S
+#13922
+East End Road~
+   Skirting the eastern edge of the encampment, soldiers march by training
+for the upcoming invasion. A large red and yellow striped tent lies to the
+west towering above the other nearby tents.
+~
+139 0 0 0 0 1 255 0
+D0
+A junction in East End road.
+~
+~
+0 0 13924
+D2
+The corner of South End and East End road.
+~
+~
+0 0 13920
+S
+#13923
+West End Road~
+   Skirting the western edge of the encampment, soldiers march by training
+for the upcoming invasion. A large blue and yellow striped tent lies to the
+east towering above the other nearby tents.
+~
+139 0 0 0 0 1 255 0
+D0
+A little farther to the North is a junction leading east and north.
+~
+~
+0 0 13925
+D2
+The corner of South End and West End road lies in that direction.
+~
+~
+0 0 13921
+S
+#13924
+East End Road Junction~
+   Skirting the eastern edge of the encampment, soldiers march by training
+for the upcoming invasion. South Center road lies to the west.
+~
+139 0 0 0 0 1 255 0
+D0
+The road passes by many tents on the left and a large pond to the right.
+~
+~
+0 0 13928
+D2
+Where South End road and East End road meet.
+~
+~
+0 0 13922
+D3
+The road passes through countless tents.
+~
+~
+0 0 13926
+S
+#13925
+West End Road Junction~
+Skirting the western edge of the encampment, soldiers march by training
+for the upcoming invasion. South Center road lies to the east.
+~
+139 0 0 0 0 1 255 0
+D0
+West End road passes on the outskirts of countless tents.
+~
+~
+0 0 13929
+D1
+Crossing between countless tents into South Center road.
+~
+~
+0 0 13927
+D2
+~
+~
+0 0 13923
+S
+#13926
+South Center Road~
+   Tents, large and small, shadow the road everwhere you turn.  Soldiers
+move about causing the dust to hang heavy in the air.
+~
+139 0 0 0 0 1 255 0
+D1
+A T-junction in East End road turning north and south.
+~
+~
+0 0 13924
+D3
+Rows and rows of tents can be seen in every direction.
+~
+~
+0 0 13942
+S
+#13927
+South Center Road~
+   Tents, large and small, shadow the road everwhere you turn.  Soldiers
+move about causing the dust to hang heavy in the air.
+~
+139 0 0 0 0 1 255 0
+D1
+Rows and rows of tents can be seen in every direction.
+~
+~
+0 0 13942
+D2
+~
+~
+0 0 -1
+D3
+A T-junction going north and south.
+~
+~
+0 0 13925
+S
+#13928
+East End Road~
+   Skirting the eastern edge of the encampment, soldiers march by training
+for the upcoming invasion.  To the east a pen for the beasts of burden can
+be seen.
+~
+139 0 0 0 0 1 255 0
+D0
+The East End Road comes to a junction and heads west into the tents
+or continues to the north.
+~
+~
+0 0 13930
+D2
+The East End junction branches off to the west and continues south.
+~
+~
+0 0 13924
+S
+#13929
+West End Road~
+   Skirting the western edge of the encampment, soldiers march by training
+for the upcoming invasion. The road coninues north and south.
+~
+139 0 0 0 0 1 255 0
+D0
+West end road passes along the outskirts of a make shift city of tents.
+~
+~
+0 0 13931
+D2
+West End Junction turns to the east and also continues south.
+~
+~
+0 0 13925
+S
+#13930
+East End Road Junction~
+   Many soldiers mill about, only stopping to give a quick glance in your
+direction.  A hastily erected coral stands to the east, holding the many
+beasts needed by the warcamp. To the west lies North Center road.
+~
+139 0 0 0 0 1 255 0
+D0
+The road continues to skirt the eastern edge of this makeshift city.
+~
+~
+0 0 13934
+D1
+~
+gate~
+1 0 13952
+D2
+The road junctions here going west into a city of tents and continues north
+on the outskirts.
+~
+~
+0 0 13928
+D3
+All shapes and sizes of tents lie in that direction.
+~
+~
+0 0 13932
+S
+#13931
+West End Road Junction~
+   Many soldiers mill about, only stopping to give a quick glance in your
+direction. To the east lies North Center road which will take you into the
+heart of the encampment.
+~
+139 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 13935
+D1
+~
+~
+0 0 13933
+D2
+~
+~
+0 0 13929
+S
+#13932
+North Center Road~
+   Tents, large and small, shadow the road everwhere you turn.  Soldiers
+move about causing the dust to hang heavy in the air.
+~
+139 0 0 0 0 1 255 0
+D1
+The road passes between tents of all shapes and sizes to a junction.
+~
+~
+0 0 13930
+D3
+~
+~
+0 0 13946
+S
+#13933
+North Center Road~
+   Tents, large and small, shadow the road everwhere you turn.  Soldiers
+move about causing the dust to hang heavy in the air.
+~
+139 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 13946
+D3
+~
+~
+0 0 13931
+S
+#13934
+East End Road~
+   Skirting the eastern edge of the encampment, soldiers march by training
+for the upcoming invasion.  Farther to the north a steep ridge raises up
+from the hillside.
+~
+139 0 0 0 0 1 255 0
+D0
+A steep ridge in the hillside forces the road to turn west.
+~
+~
+0 0 13936
+D2
+A junction in the road will take you west or straight south.
+~
+~
+0 0 13930
+S
+#13935
+West End Road~
+   Skirting the western edge of the encampment, soldiers march by training
+for the upcoming invasion.  Farther to the north a steep ridge raises up
+from the hillside.
+~
+139 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 13937
+D2
+~
+~
+0 0 13931
+S
+#13936
+North-East End Road~
+   Standing at the corner of two converging roads, rows and rows of tents
+obscure your view to the southwest. The road turns west or south skirting
+the edge of the encampment.
+~
+139 0 0 0 0 1 255 0
+D2
+The road heads south on the edge of a city of tents.
+~
+~
+0 0 13934
+D3
+A steep ridge shadows this north parameter road travelling west.
+~
+~
+0 0 13938
+S
+#13937
+North-West End Road~
+   Standing at the corner of two converging roads, rows and rows of tents
+obscure your view to the southeast. The road turns east or south skirting
+the edge of the encampment.
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13939
+D2
+~
+~
+0 0 13935
+S
+#13938
+North End Road~
+   Raising out of the hillside a steep ridge prevents travel to the north.    
+A dark midnight blue tent, towering above the smaller nearby tents, lies
+to the south.
+~
+139 0 0 0 0 1 255 0
+D1
+The corner of North End road and East End road lies in that direction.
+~
+~
+0 0 13936
+D2
+~
+flap~
+1 0 13950
+D3
+The road converges at an four way intersection.
+~
+~
+0 0 13940
+S
+#13939
+North End Road~
+   Raising out of the hillside a steep ridge prevents travel to the north.    
+An olive green canvas tent, towering above the smaller nearby tents, lies
+to the south.
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13940
+D2
+~
+~
+0 0 13951
+D3
+~
+~
+0 0 13937
+S
+#13940
+North End~
+   The road seems to come to an end here, splitting off east and west.  To the
+north the ridge breaks more and likely caused by melting snow running off the
+steep hillside.  To the south rows and rows of tents of all colors and sizes
+stretch out before you.    
+~
+139 0 0 0 0 1 255 0
+D0
+The ridge breaks to the north making it possible to reach higher ground.
+~
+~
+0 0 13956
+D1
+A ridge borders the north side of this makeshift town, the road passes
+between it and a city of tents.
+~
+~
+0 0 13938
+D2
+~
+~
+0 0 13947
+D3
+A ridge borders the north side of this makeshift town, the road passes
+between it and the city of tents.
+~
+~
+0 0 13939
+S
+#13941
+Center Lane~
+   Tents, large and small, shadow the road everwhere you turn.  Soldiers
+move about causing the dust to hang heavy in the air.
+~
+139 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 13942
+D2
+~
+~
+0 0 13917
+S
+#13942
+Center Lane~
+   Standing at a junction, tents of all color and size encompass the road.    
+Soldiers move about causing the dust to hang heavy in the air.  Two tents
+lie to the north towering above the rest.
+~
+139 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 13943
+D1
+~
+~
+0 0 13926
+D2
+~
+~
+0 0 13941
+D3
+~
+~
+0 0 13927
+S
+#13943
+War Camp Center~
+   Centered within the warcamp a deep well has been dug to supply the much
+needed water to the force that now occupies this high valley.  To the west
+a large green and white striped tent has been erected and to the east lies
+a black and grey striped tent equal in size.
+~
+139 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 13946
+D1
+~
+~
+0 0 13944
+D2
+~
+~
+0 0 13942
+D3
+~
+~
+0 0 13945
+S
+#13944
+Nelux's Tent~
+   Scroll cases and maps with terrain features hang from the tent posts and
+lie scattered about the tent. Rummaging through the piles you find nothing
+of use. The only exit is west to the center of the encampment.
+~
+139 12 0 0 0 0 255 0
+D3
+~
+~
+0 0 13943
+S
+#13945
+Baltac's Tent~
+   The smell of insense hangs heavy in the air, from the look of things this
+serves as the local chapel.  A small shrine embedded with the symbol of some
+mysterious god stands shrouded with candles and burning insense.
+~
+139 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 13943
+S
+#13946
+Center Lane~
+   Standing at a junction, tents of all color and size encompass the road.  
+Soldiers move about causing the dust to hang heavy in the air.  Two tents
+lie to the south towering above the rest.
+~
+139 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 13947
+D1
+~
+~
+0 0 13932
+D2
+~
+~
+0 0 13943
+D3
+~
+~
+0 0 13933
+S
+#13947
+Center Lane~
+   Tents, large and small, shadow the road everwhere you turn.  Soldiers
+move about causing the dust to hang heavy in the air.
+~
+139 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 13940
+D2
+~
+~
+0 0 13946
+S
+#13948
+Armory Tent~
+   Cluttered along the walls of the tent stand weapons racks and armor stands.
+A pile of scrap metal and iron ore lie to one side of a small fire pit glowing
+red hot from the billows.    
+~
+139 12 0 0 0 0 255 0
+D2
+~
+~
+0 0 13918
+S
+#13949
+Sergeant's Tent~
+   Centered within the tent a large crate, temporarily being used as a table,
+has a ledger attached to it for the signing on of new recruits.  In the back
+an umcomfortable cot has been set up for shift sleeping.
+~
+139 12 0 0 0 0 255 0
+D2
+~
+~
+0 0 13919
+E
+ledger~
+Various signatures, X's, and symbols have been placed on the pages.
+~
+S
+#13950
+Lieutenant's Tent~
+   An oil lamp, hanging from the cross posts, burns softly causing shadows
+to dance about the tent. Strange masks hang from the walls each frozen with
+a horrific scream of death.  Everything seems to jump out at you, a feeling
+deep down inside tells you to seek escape immediately.
+~
+139 9 0 0 0 0 255 0
+D0
+~
+flap~
+1 0 13938
+S
+#13951
+Matoc's Tent~
+   A simple well made cot to one side and a stack of neatly folded cloths
+set upon a chest of drawers, very plain unadorned surroundings indicative
+of the life of a mercenary. The only exit is to the north.
+~
+139 12 0 0 0 0 255 0
+D0
+~
+~
+0 0 13939
+S
+#13952
+The Corral~
+   A fenced off niche in the hillside provides an excellent temporary coral
+for the warcamp.  You have discovered an interesting smell arising from the
+ground, better watch your step.
+~
+139 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 13954
+D2
+~
+~
+0 0 13953
+D3
+~
+gate~
+1 0 13930
+S
+#13953
+The Corral~
+   A fenced off niche in the hillside provides an excellent temporary coral
+for the warcamp.  You have discovered an interesting smell arising from the
+ground, better watch your step.
+~
+139 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 13952
+D1
+~
+~
+0 0 13955
+S
+#13954
+The Corral~
+   A natural shallow carved out of the hillside by fast flowing water provides
+temporary shelter for the camps livestock.  A small stream trickles down from
+the rocks above and pools into a large mirky puddle.    
+~
+139 0 0 0 0 2 255 0
+D2
+~
+~
+0 0 13955
+D3
+~
+~
+0 0 13952
+S
+#13955
+The Corral~
+   A natural shallow carved out of the hillside by fast flowing water provides
+temporary shelter for the camps livestock.  You have discovered an interesting
+smell arising from the ground, better watch your step.    
+~
+139 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 13954
+D3
+~
+~
+0 0 13953
+S
+#13956
+Break In The Ridge~
+   A steep break in the granite shelf that juts up from the hillside makes
+for a rough but accessible climb to higher ground.  The sounds from the
+encampment bounce off the natural granite walls causing an overwhelming echo.
+~
+139 4 0 0 0 4 255 0
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 13940
+D4
+~
+~
+0 0 13957
+S
+#13957
+A Small Meadow~
+   Here a grassy meadow lies nestled deep within the hillside.  Tall grasses
+mixed with small wispy bushes grow all around.  A natural slide has formed a
+break in the ridge to the south and the meadow continues to the north.    
+~
+139 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 13963
+D1
+~
+~
+0 0 13959
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 13958
+D5
+~
+~
+0 0 13956
+S
+#13958
+A Small Meadow~
+   Standing at the edge of a grassy meadow the steep hillside prevents any
+further movement to the west while a ridge drops off to the south.  A large
+pavillion like tent can be seen to the northwest.    
+~
+139 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 13960
+D1
+~
+~
+0 0 13957
+S
+#13959
+A Small Meadow~
+   Standing at the edge of a grassy meadow the steep hillside prevents any
+movement to the east while a ridge drops off to the south. The tops of many
+tents can be seen spreading like a canopy over the valley below.    
+~
+139 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 13961
+D3
+~
+~
+0 0 13957
+S
+#13960
+A Small Meadow~
+   Standing at the west edge of a small meadow nestled within the hills you
+notice how much cooler the air is here.  A multi-color pavillion lies west
+and the meadow gives way to a clearing to the east.
+~
+139 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 13962
+D1
+~
+~
+0 0 13963
+D2
+~
+~
+0 0 13958
+D3
+~
+~
+0 0 13966
+S
+#13961
+A Small Meadow~
+   Standing at the east edge of a small meadow nestled within the hills you
+notice how much cooler the air is here. A wide path lies to the east and the
+meadow gives way to a clearing to the west.    
+~
+139 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 13965
+D1
+~
+~
+0 0 13976
+D2
+~
+~
+0 0 13959
+D3
+~
+~
+0 0 13963
+S
+#13962
+A Small Meadow~
+   Standing at the edge of a grassy meadow nestled within the hills you notice
+how much cooler the air is here. Large boulders and the steepness of the hills
+prevent further travel north and west.
+~
+139 512 0 0 0 2 255 0
+D1
+~
+~
+0 0 13964
+D2
+~
+~
+0 0 13960
+S
+#13963
+Clearing In The Meadow~
+   The long grass and shrubs give way to barren dirt here.  Tracks, in all
+sizes, can be seen going in all directions. Three enormous tents have been
+set up in a semi-circle around the meadow and to the south a ridge drops
+off revealing a city of tents.
+~
+139 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 13964
+D1
+~
+~
+0 0 13961
+D2
+~
+~
+0 0 13957
+D3
+~
+~
+0 0 13960
+S
+#13964
+A Small Meadow~
+   Standing at the north edge of a small meadow nestled within the hills you
+notice how much cooler the air is here.  A strange pavillion like tent lies
+north and the meadow gives way to a clearing to the south.    
+~
+139 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 13971
+D1
+~
+~
+0 0 13965
+D2
+~
+~
+0 0 13963
+D3
+~
+~
+0 0 13962
+S
+#13965
+A Small Meadow~
+   Standing at the edge of a grassy meadow nestled within the hills you notice
+how much cooler the air is here. Large boulders and the steepness of the hills
+prevent further travel north and east.
+~
+139 512 0 0 0 2 255 0
+D2
+~
+~
+0 0 13961
+D3
+~
+~
+0 0 13964
+S
+#13966
+Outside An Ornate Tent~
+   You now stand before a magnificantly color adorned tent, infact the tent
+itself is made of hundreds of flags sewn together in a grotesque pattern of
+clashing colors.    
+~
+139 512 0 0 0 2 255 0
+D1
+~
+~
+0 0 13960
+D3
+~
+flap~
+1 0 13967
+S
+#13967
+Tent Of Banners~
+   A multitude of colors swirl about in an array of clashing colors.  Banners
+and flag from conquered armies and plundered cities hang from the tent walls
+and ceiling.  The only exit lies to the east.    
+~
+139 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 13968
+D1
+~
+flap~
+1 0 13966
+D3
+~
+~
+0 0 13969
+S
+#13968
+Tent Of Banners~
+   A multitude of colors swirl about in an array of clashing colors.  Banners
+and flag from conquered armies and plundered cities hang from the tent walls
+and ceiling.    
+~
+139 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 13967
+D3
+~
+~
+0 0 13970
+S
+#13969
+Tent Of Banners~
+   A multitude of colors swirl about in an array of clashing colors.  Banners
+and flag from conquered armies and plundered cities hang from the tent walls
+and ceiling.    
+~
+139 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 13970
+D1
+~
+~
+0 0 13967
+S
+#13970
+Tent Of Banners~
+   A large table stands here drapped with a long flowing silk flag.  A small
+comfortable looking cot has been set in the northwest corner and it also has
+been covered with flags and banners sewn into a thick quilt.    
+~
+139 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 13968
+D2
+~
+~
+0 0 13969
+S
+#13971
+Outside the Mystical Tent~
+   Before you stands a mystical tent shrouded in darkness.  A thick mysterious
+mist rolls out from the entrance.  Maybe it would be better not to go inside,
+the safety of the meadow lies to the south.    
+~
+139 512 0 0 0 2 255 0
+D0
+~
+~
+0 0 13972
+D2
+~
+~
+0 0 13964
+S
+#13972
+Mystical Tent~
+   A thick rolling mist clings to everything even you, filling every pore and
+making it difficult to breath.  The air crackles with energy the hair on the
+back of your neck stands on end and everything tells you something is very
+wrong here.    
+~
+139 4194921 0 0 0 0 255 0
+D0
+~
+~
+0 0 13974
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 13971
+D3
+~
+~
+0 0 13973
+S
+#13973
+Mystical Tent~
+   Your mind races causing pangs of panic to enter into your every nerve.    
+The mist  seems to thicken and close in from every direction.  You hear
+faint chanting but can't quite pinpoint where its coming from.
+~
+139 4194921 0 0 0 0 255 0
+D0
+~
+~
+0 0 13975
+D1
+~
+~
+0 0 13972
+S
+#13974
+Mystical Tent~
+   Your mind races causing pangs of panic to enter into your every nerve.    
+The mist  seems to thicken and close in from every direction.  You hear
+faint chanting but can't quite pinpoint where its coming from.
+~
+139 4194921 0 0 0 0 255 0
+D2
+~
+~
+0 0 13972
+D3
+~
+~
+0 0 13975
+S
+#13975
+Mystical Tent~
+   A pentagram marked on the floor has soft glowing red candles at each point.
+The mist stands like thick walls around you but does not enter the symbol of
+magic that you just happen to be standing in.    
+~
+139 584 0 0 0 0 255 0
+D1
+~
+~
+0 0 13974
+D2
+~
+~
+0 0 13973
+E
+pentagram~
+A circle of power used by mages in the containing of unkown entities.
+~
+S
+#13976
+A Wide Path~
+   A beaten path leads you out of the little grassy meadow.  The path is smooth
+from frequent travel and makes your journey seem less harsh.    
+~
+139 512 0 0 0 1 255 0
+D1
+~
+~
+0 0 13977
+D3
+~
+~
+0 0 13961
+S
+#13977
+A Wide Path~
+   The smooth path turns north now approaching an enormous pavillion.  You hear
+birds singing in the distance and the faint sounds of water rushing over rock.
+~
+139 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 13978
+D3
+~
+~
+0 0 13976
+S
+#13978
+A Wide Path~
+   A small trickle of a stream crosses the path here and flows downward and
+east to the corral below.  To the north a massive pavillion rises above the
+surrounding trees and brush.    
+~
+139 512 0 0 0 1 255 0
+D0
+~
+~
+0 0 13979
+D2
+~
+~
+0 0 13977
+S
+#13979
+Outside An Eerie Tent~
+   Casting an ominous shadow across you and the path you stand on this other
+wise massive dark blue canvas tent is fairly plain save a few silver and gold
+stars embroidered in the fabric.    
+~
+139 516 0 0 0 2 255 0
+D0
+~
+flap~
+1 0 13980
+D2
+~
+~
+0 0 13978
+S
+#13980
+An Eerie Tent~
+   Dimly lit and completely unfurnished the pavillion seems impossibly larger
+than it does from the outside.  You have the slight feeling of disorintation.
+~
+139 521 0 0 0 0 255 0
+D0
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13982
+D1
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13982
+D2
+~
+flap~
+1 0 13979
+D3
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13981
+S
+#13981
+An Eerie Tent~
+   Dimly lit and completely unfurnished you marvel at the vastness of the
+pavillion.  You have the slight feeling of disorientation.    
+~
+139 649 0 0 0 0 255 0
+D0
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13983
+D1
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13980
+S
+#13982
+An Eerie Tent~
+   Dimly lit and completely unfurnished the pavillion is far larger that it
+looked from the outside.  You have the slight feeling of disorintation.    
+~
+139 649 0 0 0 0 255 0
+D0
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13984
+D3
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13980
+S
+#13983
+An Eerie Tent~
+   Dimly lit and completely unfurnished you marvel at the vastness of the
+pavillion.  A faint glow can be seen to the north.    
+~
+139 649 0 0 0 0 255 0
+D0
+The faint glow of an alcove can be seen.
+~
+~
+0 0 13987
+D1
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13980
+D2
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13981
+S
+#13984
+An Eerie Tent~
+   Dimly lit and completely unfurnished you marvel at the vastness of the
+pavillion, you feel slightly disorintated.    
+~
+139 9 0 0 0 0 255 0
+D0
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13980
+D2
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13982
+D3
+You feel dizzy, maybe you should rest a moment.
+~
+~
+0 0 13982
+S
+#13985
+An Eerie Tent~
+   Set upon a single table centered within the pavillion are the war plans of
+the Commander and his staff.  Many hours are spent here debating strategy,
+supply routes, and subversion.    
+~
+139 524 0 0 0 0 255 0
+D0
+~
+~
+0 0 13988
+D1
+~
+~
+0 0 13984
+D2
+~
+~
+0 0 13980
+D3
+~
+~
+0 0 13983
+S
+#13986
+An Eerie Tent~
+   You have come upon a larger alcove used for the encampments tresurery.  An
+eerie light glows faintly here and somehow the tent doesn't seem as large as
+before.    
+~
+139 524 0 0 0 0 255 0
+D2
+~
+~
+0 0 13984
+D3
+~
+~
+0 0 13988
+S
+#13987
+An Eerie Tent~
+   You are in a small alcove used for the storage of the encampments most
+prized belongings.  An eerie light glows faintly here and you begin to catch
+your breath again.    
+~
+139 524 0 0 0 0 255 0
+D1
+~
+~
+0 0 13988
+D2
+~
+~
+0 0 13983
+S
+#13988
+An Eerie Tent~
+   You are in a small alcove used for the storage of the encampments most
+prized belongings.  An eerie light glows faintly here and somehow the tent
+doesn't seem as large as before.    
+~
+139 652 0 0 0 0 255 0
+D1
+~
+~
+0 0 13986
+D2
+~
+~
+0 0 13985
+D3
+~
+~
+0 0 13987
+S
+#13990
+Eastern Freehold Highway~
+   Freehold citizens have constructed a great highway into the countryside for
+future expansion. It is actually a wide shallow stone wall that rises a couple
+of feet from the ground.  West lies the gates to the great city of Freehold.  
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13991
+D3
+~
+~
+0 0 12136
+S
+#13991
+Eastern Freehold Highway~
+   The highway is a marvel to modern construction, a stone wall that has been
+placed in a deep trench and rises two feet from the ground.  To the east the
+rolling countryside continues on and to the west are the walls of Freehold.  
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13992
+D3
+~
+~
+0 0 13990
+S
+#13992
+Eastern Freehold Highway~
+   The highway continues east to west through the rolling countryside.  Wide
+enough for three wagons abreast and smooth stones make for easy travel. To the
+west the great city of Freehold can be seen.    
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13993
+D3
+~
+~
+0 0 13991
+S
+#13993
+Eastern Freehold Highway~
+   The highway continues east to west through the rolling countryside.  Wide
+enough for three wagons abreast and smooth stones make for easy travel.    
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13994
+D3
+~
+~
+0 0 13992
+D5
+~
+~
+0 0 -1
+S
+#13994
+Eastern Freehold Highway~
+   The highway continues east to west through the rolling countryside.  Wide
+enough for three wagons abreast and smooth stones make for easy travel.  Steep
+hills breakup the horizon to the north.    
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13995
+D3
+~
+~
+0 0 13993
+S
+#13995
+Eastern Freehold Highway~
+   The highway continues east to west through the rolling countryside.  Wide
+enough for three wagons abreast and smooth stones make for easy travel.  What
+seems like a narrow road or a wide path leads off to the north into the hills.
+~
+139 0 0 0 0 1 255 0
+D0
+A narrow but recently traveled road winds its way through the hills.
+~
+~
+0 0 13901
+D1
+~
+~
+0 0 13996
+D3
+~
+~
+0 0 13994
+S
+#13996
+Eastern Freehold Highway~
+   The highway continues east to west through the rolling countryside.  Wide
+enough for three wagons abreast and smooth stones make for easy travel.  Steep
+hills breakup the northern horizon.    
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13997
+D3
+~
+~
+0 0 13995
+S
+#13997
+Eastern Freehold Highway~
+The highway continues east to west through the rolling countryside. Wide enough for three wagons abreast and smooth stone make for easy travel.
+~
+139 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 13997
+D3
+~
+~
+0 0 13996
+S
+$~

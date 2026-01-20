@@ -1,0 +1,15 @@
+] c 'reviv' fur
+2 c 'blind' off
+say say &01 $* &00
+gt gt &03 $*
+3 c 'disheart' $*
+9 des cor
+z c 'ward' $*
+x c 'arm' $*
+bl c 'blind' $*
+5 c 'summon' $*
+8 c 'w' $*
+7 c 'reviv' $*
+cl clan &03$*&00
+/ ass $*
+= get all corp

@@ -1,0 +1,22 @@
+rc cas 'remove curse' $1
+1 cas  'revive' $*
+2 get all.gol all.cor
+ff ord foll kill $*;assist
+sanc c 'sanc' $*
+blue tit &11 Blue &03... You're my boy &11Blue!!&00
+bar title the &03Sleepy &11Bartender
+hang title the &04P&01a&14t&04r&01o&14n &04S&01a&14i&04n&01t &14o&04f &07Hangovers&00
+rain tit &06The &04R&06a&04i&06n &04K&06i&04n&06g&00
+adj emote adjusts his package.
+snap emote snaps his fingers and says "awww nuts!"
+gt gt &14$*&00
+' ' &05 $*&00
+bli c 'blind' $* <*>
+heal c 'heal' $* <*>
+word cas 'word'
+di c 'det inv' $* <*>
+breth tit &13Bart&07ender &12of the &13Brethren&00
+0 recite sam epic
+level rem mala;rem boot;get slipp cloa;get amu cloa;wear amu;wear slip
+slee ord foll slee;slee
+wak wake;ord foll wake;st;ord foll st

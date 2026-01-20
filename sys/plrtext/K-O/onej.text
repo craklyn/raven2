@@ -1,0 +1,8 @@
+cl clan &10$*&00
+di c 'detect invis' $*
+wk wak
+wr c 'word of recall' $*
+if c 'infra'
+sl c 'sense life' $*
+ward c 'ward' $*
+h c 'heal' $*

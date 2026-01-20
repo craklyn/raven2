@@ -1,0 +1,32 @@
+rune cast 'create ward'
+tit title &07the Gather&00 &10O&00&07f&00 &07the&00 &10D&00&07eaD&00
+lll ord fol kil 2.mini
+ll gs assists
+aa stop
+ccc drop corpse
+o cast 'life drain'$*
+de cast 'deb'$*
+loot get all all.anguta
+cs cast 'consume'$*
+rp cast 'resist'$*
+p flee
+sh cast 'shield'$*
+bl cast 'blind'$*
+em cast 'embalm'$* cor
+no cast 'nox'$*
+infra cast 'infra'
+m cast 'soul p'$*
+wr cast 'wraith'$*
+slo cast 'slow'$*
+sum cast 'sum'$*
+rr rec rec scroll
+et cast 'entomb cor'$*
+gg get cor
+di cast 'detect invi'$*
+cc cast 'charm cor' corpse
+f ord fol kil$*
+go get all all.cor
+c calm
+sense cast 'sense'$*
+fly cast 'fly'$*
+in cast 'invis'$*

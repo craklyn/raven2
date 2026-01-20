@@ -1,0 +1,29 @@
+a c 'soul' grim
+ent c 'entomb corp' $*
+i c 'create ward'
+b flee
+fly c 'fly' $*
+life c 'sense life' $*
+di c 'detect invis' $*
+shie c 'shield' $*
+infra c 'infra'
+sum c 'summon' $*
+invis c 'invis' $*
+cha c 'charm corpse' $*
+m drop corp;c 'charm corpse' corp
+v c 'soul pier' $*
+slow c 'slow' $*
+deb c 'debil' $*
+sil c 'silence' $*
+z scan
+cons c 'consume' $*
+wrai c 'wraith'
+nox c 'nox' $*
+emb c 'embalm' $*
+wa wake;stand
+p enter portal
+bl c 'blind' $*
+o order follower $*
+q get all kael;wie sac;hol eye;wear all.inc;wear all;get all kael;wear all
+x c 'life drain' $*
+arm rem eye;hold oak;use oak $*;rem oak;hold eye

@@ -1,0 +1,42 @@
+cl c 'cleanse' $*
+title1 title :: I wish my &09grass&00 was emo so that it'd &08cut&00 itself
+convo Jaelle tells you, 'exactly! plus, it makes me feel happy in my panties!'
+calm c 'calm' $*
+id buy identify $*
+bless c 'bless' $*
+rev c 'revive' $*
+heal2 c 'heal' group
+fort c 'fort' $*
+sanc c 'sanc' $*
+dg mist grizltor
+cb c 'cure blind' $*
+mid mist questmaster_midgaard
+poi c 'rem poi' $*
+cb2 c 'cure blind' group
+fly cast 'fly' $*
+armor cast 'armor' $*
+ward cast 'ward' $*
+di cast 'det invis' $*
+m rec rec rec
+regen c 'regen' $*
+food c 'create food'
+heal c 'heal' $*
+say say &10$* &00
+gt gt &10$* &00
+blind c 'blind' $*
+tom mist tom_guard
+earth c 'earth'
+tim mist tim_guard
+word c 'word' $*
+word2 c 'word' group
+para c 'remove para' $*
+assistant c 'assistant'
+banish c 'banish' $*
+dish c 'dishearten' $*
+fire c 'demon fire' $*
+unholy c 'unholy word'
+plag c 'cure plague' $*
+mal c 'mal' $*
+harm c 'harm' $*
+clan clan &09$* &00
+crit c 'cure crit' $*

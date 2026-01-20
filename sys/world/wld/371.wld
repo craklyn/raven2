@@ -1,0 +1,2019 @@
+#37100
+Credit where it's due, holmes~
+   Please request a copy of the excel file to see all the details of this area.
+Also contains quest goals.  100 room city with 8 shopkeepers that offer players
+the chance to make some gold or pick up some unique items.  All shopkeepers have
+10 random greet triggers for player entry into the shop.  Allows for players in
+the room to see another player enter, regardless of spells/sneak.  North and
+south walls have room entry triggers that correspond to the environment and also
+load optional mobs that players can fight for extra experience.  8 optional boss
+mobs, 6 additional lower boss mobs, and one level 51 with decent lowbie gear or
+for players to make some profit.  Citizens/Guards wander as well.  QM has 30 QP
+available with a total of 20 quests.  Sometimes the QM will reward the player
+with "tokens" that can be redeemed at a later time for extra rewards such as
+group haste/sanc/fly pots.  Quests are NOT repeatable but offer incentive for
+the player to complete then all.
+~
+371 3152 12 0 0 0 255 0
+S
+#37101
+The Center of the Ancient City~
+   The entire city converges to this point.  The machines and people bustle
+about you seemingly intent on previous engagements.  While ignoring you it would
+be wise not to interfere with anything here.  The entire populace seems to have
+taken a heightened sense of alertness.  Large onyx steps lead up to the base of
+an immense fountain full of molten lava.
+~
+371 16 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37102
+D1
+~
+~
+0 37100 37114
+D2
+~
+~
+0 37100 37108
+D3
+~
+~
+0 37100 37120
+D5
+A grate covers a long forgotten opening.
+~
+grate~
+1 -1 37002
+S
+#37102
+Black Mountain Road~
+   The passage that bisects the city from north to south is very wide.  With
+very large, intricate onyx buildings to the east and west that scrape the stars,
+you can also see the lava flow beneath the city through randomly placed plastic
+viewing windows.  A black mountain range can be seen to the north.  The center
+of the city is just to the south.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37103
+D2
+~
+~
+0 37100 37101
+S
+#37103
+Black Mountain Road~
+   The passage that bisects the city from north to south is very wide.  With
+very large, intricate onyx buildings to the east and west that scrape the stars,
+you can also see the lava flow beneath the city through randomly placed plastic
+viewing windows.  A black mountain range can be seen to the north.  The smell of
+sulfur is getting stronger.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37104
+D2
+~
+~
+0 37100 37102
+S
+#37104
+The intersection of Black Mountain Road and Emerald Way~
+   The passage that bisects the city from north to south is very wide.  Here,
+the large onyx structures scrape the stars on each corner of this intersection.
+The captain's barracks can be seen to the southeast.  The southern gate lies
+very far to the south.  The paths that lead east and west will take you to some
+of the shops this city has to offer.  This city is vibrant with life.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37105
+D1
+~
+~
+0 37100 37177
+D2
+~
+~
+0 37100 37103
+D3
+~
+~
+0 37100 37171
+S
+#37105
+Black Mountain Road~
+   The passage that bisects the city from north to south is very wide.  With
+very large, intricate onyx buildings to the east and west that scrape the stars,
+you can also see the lava flow beneath the city through randomly placed plastic
+plastic viewing windows.  This also allows view of the entire support system
+that keeps the city from sinking into the lava.  An immense mountain range
+swallows the sky to the north.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37106
+D2
+~
+~
+0 37100 37104
+S
+#37106
+Black Mountain Way~
+   The passage that bisects the city from north to south is very wide.  With
+very large, intricate onyx buildings to the east and west that scrape the stars,
+you can also see the lava flow beneath the city through randomly placed plastic
+plastic viewing windows.  This also allows view of the entire support system
+that keeps the city from sinking into the lava.  An immense mountain range
+swallows the sky to the north.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37107
+D1
+~
+~
+0 37100 -1
+D2
+~
+~
+0 37100 37105
+S
+#37107
+Before the Mountain~
+   This is the one point of access into the city besides the main entrance
+above.  A large hole has been cut into the onyx here and replaced with a large
+stone slab.  Large gears built into the wall here have been attached to chains
+that operate the opening and closing of the stone.  If one were to gain access
+to opening the stone the black mountains of the north await.  The skies to the
+north remain black even during the high point of light during the day.  A single
+road leads away from the safety of the city.
+~
+371 0 0 0 0 1 255 0
+D0
+The stone slab blocks the way.
+~
+stone~
+2 37197 37198
+D1
+~
+~
+0 37100 37137
+D2
+~
+~
+0 37100 37106
+D3
+~
+~
+0 37100 37136
+S
+#37108
+Black Mountain Road~
+   The passage that bisects the city from north to south is very wide.  With
+very large, intricate onyx buildings to the east and west that scrape the stars,
+you can also see the lava flow beneath the city through randomly placed plastic
+viewing windows.  A very large ocean can be seen on the southern horizon.  The
+center of the city is just to the north.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37101
+D2
+~
+~
+0 37100 37109
+S
+#37109
+Black Mountain Road~
+   The passage that bisects the city from north to south is very wide.  With
+very large, intricate onyx buildings to the east and west that scrape the stars,
+you can also see the lava flow beneath the city through randomly placed plastic
+viewing windows.  A very large ocean can be seen on the southern horizon.  
+Hundreds of islands dot the landscape as well.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37108
+D2
+~
+~
+0 37100 37110
+S
+#37110
+Intersection of Black Mountain Road and Diamond Way~
+   The passage that bisects the city from north to south is very wide.  Here,
+the large onyx structures scrape the stars on each corner of the intersection.
+The guard's hall can be seen to the northwest.  The southern gate lies to the
+south.  The paths to the east and west will take you to some of the various
+shops that the city has to offer.  The city is vibrant with life here.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37109
+D1
+~
+~
+0 37100 37180
+D2
+~
+~
+0 37100 37111
+D3
+~
+~
+0 37100 37174
+S
+#37111
+Black Mountain Road~
+   The passage that bisects the city from north to south is very wide.  With
+very large, intricate onyx buildings to the east and west that scrape the stars,
+you can also see the lava flow beneath the city through randomly placed plastic
+viewing windows.  A large ocean with hundreds of islands can be seen to the
+south.  The smell of the ocean is soothing.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37110
+D2
+~
+~
+0 37100 37112
+S
+#37112
+Black Mountain Road~
+   The passage that bisects the city from north to south is very wide.  With
+very large, intricate onyx buildings to the east and west that scrape the stars,
+you can also see the lava flow beneath the city through randomly placed plastic
+viewing windows.  A large ocean with hundreds of islands can be seen to the
+south.  The smell of the ocean is soothing.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37111
+D2
+~
+~
+0 37100 37113
+S
+#37113
+Intersection of Black Mountain Road and Sapphire Street~
+   The security here is almost non-existent with a few elemental archers placed
+every so often.  Even they seem to take the job a little less seriously.  A
+large gate is embedded into the wall to the south and serves no purpose other
+than to give the room the feeling of being able to go south.  The road continues
+east and west.  A road leading north allows for a clear view of the center of
+the city.  The mountains to the north give this area a stunning view.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37112
+D1
+~
+~
+0 37100 37158
+D3
+~
+~
+0 37100 37159
+S
+#37114
+Elemental Way~
+   The street that bisects the city from east to west is very wide.  The path
+slopes towards the center of the city and allows view to the far eastern wall.
+The city seems to have been built this way to allow the peace keepers and
+security here a broad view no matter the location they were in.  This is also
+dependent on if they stick to the main streets.  The captain of security's
+barracks are to the north.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37115
+D3
+~
+~
+0 37100 37101
+S
+#37115
+Elemental Way - The Captain's Barracks~
+   Slightly the east of the center of the city lies a large, and quite
+extravagant barracks.  An immense lava flow flows north to south but the
+barracks, and the bridge you are standing on, are built on a complex system on
+onyx beams and stone.  The pure accuracy with which these supports have been
+made is indeed astonishing.  The entrance is to the north side of the road.
+~
+371 0 0 0 0 0 255 0
+D0
+~
+door~
+1 37198 37194
+D1
+~
+~
+0 37100 37116
+D3
+~
+~
+0 37100 37114
+S
+#37116
+Intersection of 16th Street Main and Elemental Way~
+   The street that bisects the city from east to west is very wide.  The path
+slopes towards the center of the city and allows view to the far eastern wall.
+The intersection here allows for travel to the north and south.  Like the rest
+of the city, some parts of the street are transparent and put on display the
+lava flow and the city's support structure above that.  Here, the smell of
+sulfur is less and the smell of the sea is more.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37176
+D1
+~
+~
+0 37100 37117
+D2
+~
+~
+0 37100 37179
+D3
+~
+~
+0 37100 37115
+S
+#37117
+Elemental Way~
+   The street that bisects the city from east to west is very wide.  The path
+slope increases as you approach the eastern wall.  The city seems to have been
+built this way to allow the peace keepers and security here a broad view no
+matter the location they were in.  This is also dependent on if they stick to
+the main streets.  Large buildings are to the north and south.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37118
+D3
+~
+~
+0 37100 37116
+S
+#37118
+Elemental Way~
+   The street that bisects the city from east to west is very wide.  The path
+slope increases as you approach the eastern wall.  The city seems to have been
+built this way to allow the peace keepers and security here a broad view no
+matter the location they were in.  This is also dependent on if they stick to
+the main streets.  Large buildings are to the north and south.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37119
+D3
+~
+~
+0 37100 37117
+S
+#37119
+Intersection of The Eastern Road and Elemental Way~
+   While the eastern wall does not require a vast amount of security this
+intersection is elevated.  This allows clear views in all directions into the
+city.  The large street that meanders to the west gives a clear view to the
+center of the city.  This location was designed specifically with the modern
+peace keeper in mind.  A large ocean can be seen on the southern horizon.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37147
+D2
+~
+~
+0 37100 37148
+D3
+~
+~
+0 37100 37118
+S
+#37120
+Elemental Way~
+   The street that bisects the city from east to west is very wide.  The path
+slopes towards the center of the city and allows view to the far western wall.
+The city seems to have been built this way to allow the peace keepers and
+security here a broad view no matter the location they were in.  This is also
+dependent on if they stick to the main streets.  A large building that looks
+like a mess hall lies to the south.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37199
+D1
+~
+~
+0 37100 37101
+D3
+~
+~
+0 37100 37121
+S
+#37121
+Elemental Way - The Guard's Hall~
+   Slightly to the west of the center of the city sits a large command post.  
+The building's exterior is composed mostly of onyx with some old tree bark used
+as a trim.  The faint glow of the black northern mountains reflects off it's
+glassy surface.  The steps leading up to the door are engraved with strange
+writing in their faces.  The door is a blood red.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37120
+D2
+~
+door~
+1 37199 37190
+D3
+~
+~
+0 37100 37122
+S
+#37122
+Intersection of Lava Lane and Elemental Way~
+   The street that bisects the city from east to west is very wide.  The path
+slopes towards the center of the city and allows view to the far western wall.
+The intersection here allows for travel to the north and south.  Like the rest
+of the city, some parts of the street are transparent and put on display the
+lava flow and the city's support structure above that.  Here, the smell of
+sulfur is less and the smell of the sea is more.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37170
+D1
+~
+~
+0 37100 37121
+D2
+~
+~
+0 37100 37173
+D3
+~
+~
+0 37100 37123
+S
+#37123
+Elemental Way~
+   The street that bisects the city from east to west is very wide.  The path
+slope increases as you approach the western wall.  The city seems to have been
+built this way to allow the peace keepers and security here a broad view no
+matter the location they were in.  This is also dependent on if they stick to
+the main streets.  Large buildings are to the north and south.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37122
+D3
+~
+~
+0 37100 37124
+S
+#37124
+Elemental Way~
+   The street that bisects the city from east to west is very wide.  The path
+slope increases as you approach the western wall.  The city seems to have been
+built this way to allow the peace keepers and security here a broad view no
+matter the location they were in.  This is also dependent on if they stick to
+the main streets.  Large buildings are to the north and south.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37123
+D3
+~
+~
+0 37100 37125
+S
+#37125
+Intersection of The Western Road and Elemental Way~
+   While the eastern wall does not require a vast amount of security this
+intersection is elevated.  This allows clear views in all directions into the
+city.  The large street that meanders to the west gives a clear view to the
+center of the city.  This location was designed specifically with the modern
+peace keeper in mind.  A large ocean can be seen on the southern horizon.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37126
+D1
+~
+~
+0 37100 37124
+D2
+~
+~
+0 37100 37169
+S
+#37126
+The Western Road~
+   The street that lines the western cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  The mountain range to
+the north offers a disturbing view of the chaos that surrounds them.  Lava flows
+can be seen steaming down their valleys.  The smell of sulfur however, starts to
+fade.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37127
+D2
+~
+~
+0 37100 37125
+S
+#37127
+The Western Road~
+   The street that lines the western cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  The mountain range to
+the north offers a disturbing view of the chaos that surrounds them.  Lava flows
+can be seen steaming down their valleys.  The smell of sulfur however, starts to
+fade.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37128
+D2
+~
+~
+0 37100 37126
+S
+#37128
+Intersection of The Western Road and Emerald Way~
+   The street that lines the western cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  This position offers
+a clear view to the east and some of the city.  With the cliffs to the west it
+is not necessary to post a guard here.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37129
+D1
+~
+~
+0 37100 37171
+D2
+~
+~
+0 37100 37127
+S
+#37129
+The Western Road~
+   The street that lines the western cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  A complex system of
+nets and beams cover the entire city to protect itself from the onyx chunks that
+occasionally fall from the cliffs.  You suspect magic is involved somehow.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37130
+D2
+~
+~
+0 37100 37128
+S
+#37130
+The Western Road~
+   The street that lines the western cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  A complex system of
+nets and beams cover the entire city to protect itself from the onyx chunks that
+occasionally fall from the cliffs.  You suspect magic is involved somehow.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37131
+D2
+~
+~
+0 37100 37129
+S
+#37131
+Intersection of The Western Road and Frontage Way~
+   This corner of the city gives attention to the onyx cliffs to the west and
+the black mountains of the north.  A critical point of defense in this city, it
+relatively gives all attention to the mountains.  The heat here is much more
+intense than the southern parts but the elementals don't seem to notice, or even
+care.  The smell of sulfur here is overpowering.  East or south are your
+choices.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37132
+D2
+~
+~
+0 37100 37130
+S
+#37132
+Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  The wall is made completely out of onyx.
+The cliffs to the west seem to blot out the entire sky.  As they draw close the
+security forces seem to thin out.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37133
+D3
+~
+~
+0 37100 37131
+S
+#37133
+Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  The wall is made completely out of onyx.
+The western cliffs seem to blot out the entire sky.  As they draw close the
+security forces seem to thin out.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37134
+D3
+~
+~
+0 37100 37132
+S
+#37134
+Intersection of Lava Lane and Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  This spot has the added protection of the
+presence of a larger elemental.  This is one of the many eyes that the city has
+placed strategically in different locations.  A road south offers view into the
+city itself.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37135
+D2
+~
+~
+0 37100 37172
+D3
+~
+~
+0 37100 37133
+S
+#37135
+Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  The northern wall is made completely out
+of onyx and is very thick.  Anyone trying to assault this city from the ground
+would have a hard time getting in.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37136
+D3
+~
+~
+0 37100 37134
+S
+#37136
+Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  The northern wall is made completely out
+of onyx and is very thick.  Anyone trying to assault this city from the ground
+would have a hard time getting in.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37107
+D3
+~
+~
+0 37100 37135
+S
+#37137
+Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  The northern wall is made completely out
+of onyx and is very thick.  Anyone trying to assault this city from the ground
+would have a hard time getting in.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37138
+D3
+~
+~
+0 37100 37107
+S
+#37138
+Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  The northern wall is made completely out
+of onyx and is very thick.  Anyone trying to assault this city from the ground
+would have a hard time getting in.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37139
+D3
+~
+~
+0 37100 37137
+S
+#37139
+Intersection of 16th Street Main and Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  This spot has the added protection of the
+presence of a larger elemental.  This is one of the many eyes that the city has
+placed strategically in different locations.  A road south offers view into the
+city itself.  
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37140
+D2
+~
+~
+0 37100 37178
+D3
+~
+~
+0 37100 37138
+S
+#37140
+Frontage Way~
+   The street runs west and east along the northernmost section of the city.  A
+large parapet wall is stocked heavily with guards and supplies should an
+assailant advance from the mountains.  The northern wall is made completely out
+onyx.  The cliffs to the east completely blot out the sky.  As they draw nearer
+the security forces seem to be a bit thinner.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37141
+D3
+~
+~
+0 37100 37139
+S
+#37141
+Frontage Way~
+   The street runs east and west along the northernmost part of the city.  A
+large parapet wall is stocked more sparingly with guards and supplies.  The wall
+is made completely out of onyx.  The cliffs to the east seem to blot out the
+entire sky.  As they draw nearer the security seems to thin out as well.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37142
+D3
+~
+~
+0 37100 37140
+S
+#37142
+The Northeast Post~
+   This corner of the city gives attention to the onyx cliffs to the east and
+relatively gives all attention to the mountains.  The heat here is much more
+relatively gives all its attention to the mountains.  The heat here is much more
+intense than the southern parts but the elementals don't seem to notice, or even
+care.  The overwhelming stench of sulfur is hard to ignore.  West or south are
+your choices.
+~
+371 0 0 0 0 1 255 0
+D2
+~
+~
+0 37100 37143
+D3
+~
+~
+0 37100 37141
+S
+#37143
+The Eastern Road~
+   The street that lines the eastern cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  A complex system of
+nets and beams cover the entire city to protect itself from the onyx chunks that
+occasionally fall from the cliffs.  Magic has to help deflect the very large
+pieces that would otherwise decimate the city.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37142
+D2
+~
+~
+0 37100 37144
+S
+#37144
+The Eastern Road~
+   The street that lines the eastern cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  A complex system of
+nets and beams cover the entire city to protect itself from the onyx chunks that
+occasionally fall from the cliffs.  Magic has to help deflect the very large
+pieces that would otherwise decimate the city.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37143
+D2
+~
+~
+0 37100 37145
+S
+#37145
+Intersection of The Eastern Road and Emerald Way~
+   The street that lines the eastern cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  This position offers
+a clear view to the west and some of the city.  With the cliffs to the east it
+is not necessary to post a guard here.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37144
+D2
+~
+~
+0 37100 37146
+D3
+~
+~
+0 37100 37177
+S
+#37146
+The Eastern Road~
+   The street that lines the eastern cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  A complex system of
+nets and beams cover the entire city to protect itself from the onyx chunks that
+occasionally fall from the cliffs.  Magic has to help deflect the very large
+pieces that would otherwise decimate the city.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37145
+D2
+~
+~
+0 37100 37147
+S
+#37147
+The Eastern Road~
+   The street that lines the eastern cliffs is a little less crowded than the
+northern and southern walls.  Granted this is due to needing less security, the
+perimeter of the city is frequented by the citizens here.  A complex system of
+nets and beams cover the entire city to protect itself from the onyx chunks that
+occasionally fall from the cliffs.  Magic has to help deflect the very large
+pieces that would otherwise decimate the city.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37146
+D2
+~
+~
+0 37100 37119
+S
+#37148
+The Eastern Road~
+   The eastern street in the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is south of the city.  The smell of sulfur
+here mixes with the smell of the ocean and the two combine for a less distinct
+odor.  Large ships and vessels can been seen, perhaps making trips in between
+the islands.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37119
+D2
+~
+~
+0 37100 37149
+S
+#37149
+The Eastern ROad~
+   The eastern street in the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is south of the city.  The smell of sulfur
+here mixes with the smell of the ocean and the two combine for a less distinct
+the islands.  Odor.  Large ships and vessels can been seen, perhaps making trips
+in between
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37148
+D2
+~
+~
+0 37100 37150
+S
+#37150
+Intersection of The Eastern Road and Diamond Way~
+   The eastern street in the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is south of the city.  A street leads to
+the west and will eventually lead to some of the various shops that the city has
+to offer.  The smell of the ocean is very strong here.  Birds fly lazily
+overhead and can be heard to the south.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37149
+D2
+~
+~
+0 37100 37151
+D3
+~
+~
+0 37100 37180
+S
+#37151
+The Eastern Road~
+   The eastern street on the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is to the south.  A strong breeze has
+picked up here and the sounds of seagull's can be heard in the distance.  The
+city here is very peaceful.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37150
+D2
+~
+~
+0 37100 37152
+S
+#37152
+The Eastern Road~
+   The eastern street on the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is to the south.  A strong breeze has
+picked up here and the sounds of seagull's can be heard in the distance.  The
+city here is very peaceful.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37151
+D2
+~
+~
+0 37100 37153
+S
+#37153
+Intersection of Sapphire Street and The Eastern Road~
+   This corner of the city is heavily fortified at well.  This point is meant to
+serve as another eye to the city, scanning the southern horizon for any force
+that may try to take the city from the ocean.  This of course will still be a
+daunting task as just outside the city wall are vertical cliffs that lead
+hundreds of feet down into the open ocean.  This city is in a very nice
+position.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37152
+D3
+~
+~
+0 37100 37154
+S
+#37154
+Sapphire Street~
+   The southern wall is made only out of stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  The security here is almost non-existent with
+a few elemental archers placed every so often.  Even they seem to take the job a
+little less seriously.  The road continues east and west.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37153
+D3
+~
+~
+0 37100 37155
+S
+#37155
+Sapphire Street~
+   The southern wall is made only out of stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  The security here is almost non-existent with
+a few elemental archers placed every so often.  Even they seem to take the job a
+little less seriously.  The road continues east and west.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37154
+D3
+~
+~
+0 37100 37156
+S
+#37156
+Intersection of Sapphire Street and 16th Street Main~
+   The southern wall is made only of out stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  This spot has the added protection of the
+presence of a larger elemental.  This is one of the many eyes that the city has
+placed strategically in different locations.  The view to the south is
+absolutely breathtaking.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37181
+D1
+~
+~
+0 37100 37155
+D3
+~
+~
+0 37100 37157
+S
+#37157
+Sapphire Street~
+   The southern wall is made only out of stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  The entire perimeter of the city is elevated
+and allow views into the city.  Various shops and peddlers can be seen to the
+northeast.  The street continues east and west.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 -1
+D1
+~
+~
+0 37100 37156
+D3
+~
+~
+0 37100 37158
+S
+#37158
+Sapphire Street~
+   The southern wall is made only out of stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  The entire perimeter of the city is elevated
+and allow views into the city.  Various shops and peddlers can be seen to the
+northeast.  The street continues east and west.
+~
+371 0 0 0 0 0 255 0
+D1
+~
+~
+0 37100 37157
+D3
+~
+~
+0 37100 37113
+S
+#37159
+Sapphire Street~
+   The southern wall is made only out of stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  The entire perimeter of the city is elevated
+and allow views into the city.  Various shops and peddlers can be seen to the
+northwest.  The street continues east and west.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37113
+D3
+~
+~
+0 37100 37160
+S
+#37160
+Sapphire Street~
+   The southern wall is made only out of stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  The entire perimeter of the city is elevated
+and allow views into the city.  Various shops and peddlers can be seen to the
+northwest.  The street continues east and west.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37159
+D3
+~
+~
+0 37100 37161
+S
+#37161
+Intersection of Sapphire Street and Lava Lane~
+   The southern wall is made only of out stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  This spot has the added protection of the
+presence of a larger elemental.  This is one of the many eyes that the city has
+placed strategically in different locations.  The view to the south is
+absolutely breathtaking.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37175
+D1
+~
+~
+0 37100 37160
+D3
+~
+~
+0 37100 37162
+S
+#37162
+Sapphire Street~
+   The southern wall is made only out of stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  The security here is almost non-existent with
+a few elemental archers placed every so often.  Even they seem to take the job a
+little less seriously.  The road continues east and west.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37161
+D3
+~
+~
+0 37100 37163
+S
+#37163
+Sapphire Street~
+   The southern wall is made only out of stone, unlike the onyx that makes up
+the northern.  Large holes in the wall serve as windows and lookouts into the
+great body of water to the south.  The security here is almost non-existent with
+a few elemental archers placed every so often.  Even they seem to take the job a
+little less seriously.  The road continues east and west.
+~
+371 0 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37162
+D3
+~
+~
+0 37100 37164
+S
+#37164
+Intersection of Sapphire Street and The Western Road~
+   This corner of the city is heavily fortified as well.  This point is meant to
+serve as another eye to the city, scanning the southern horizon for any force
+that may try to take the city from the ocean.  This of course will still be a
+daunting task as just outside the city wall are vertical cliffs that lead
+hundreds of feet down into the open ocean.  This city is in a very nice
+position.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37165
+D1
+~
+~
+0 37100 37163
+S
+#37165
+The Western Road~
+   The western street on the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is to the south.  A strong breeze has
+picked up here and the sounds of seagull's can be heard in the distance.  The
+city here is very peaceful.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37166
+D2
+~
+~
+0 37100 37164
+S
+#37166
+The Western Road~
+   The western street on the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is to the south.  A strong breeze has
+picked up here and the sounds of seagull's can be heard in the distance.  The
+city here is very peaceful.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37167
+D2
+~
+~
+0 37100 37165
+S
+#37167
+Intersection of The Western Road and Diamond Way~
+   The western street in the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is south of the city.  A street leads to
+the east and will eventually lead to some of the various shops that the city has
+to offer.  The smell of the ocean is very strong here.  Birds fly lazily
+overhead and can be heard to the south.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37168
+D1
+~
+~
+0 37100 37174
+D2
+~
+~
+0 37100 37166
+S
+#37168
+The Western Road~
+   The western street in the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is south of the city.  The smell of sulfur
+here mixes with the smell of the ocean and the two combine for a less distinct
+odor.  Large ships and vessels can been seen, perhaps making trips in between
+the islands.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37169
+D2
+~
+~
+0 37100 37167
+S
+#37169
+The Western Road~
+   The western street in the southern part of the city reveals that a very large
+ocean dotted with hundreds of islands is south of the city.  The smell of sulfur
+here mixes with the smell of the ocean and the two combine for a less distinct
+odor.  Large ships and vessels can been seen, perhaps making trips in between
+the islands.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37125
+D2
+~
+~
+0 37100 37168
+S
+#37170
+Lava Lane~
+   A small alley runs north and south here between two large onyx structures.  
+The mountain range to the north can be seen and you can certainly smell that
+it's there.  A few elementals here hang out in the corners hoping to lure some
+travelers out of their gold coins.  It would be very dark if not for the
+transparent street that you are walking on.  The lava flow beneath gives off a
+very bright orange light.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37171
+D2
+~
+~
+0 37100 37122
+S
+#37171
+Intersection of Lava Lane and Emerald Way~
+   A large intersection is here, bustling with life.  A peace keeper watches
+over the city and the citizens.  Since the location is slightly elevated it
+offers perfect views of a large part of the city in all directions.  Tall onyx
+structures stand at each corner and you can hear the call of shop keepers to the
+north.  Like the city streets, the lava breaks off east and west as it flows to
+the south towards the sea.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37172
+D1
+~
+~
+0 37100 37104
+D2
+~
+~
+0 37100 37170
+D3
+~
+~
+0 37100 37128
+S
+#37172
+Lava Lane~
+   A small alley runs north and south here between two large onyx structures.  
+There are two shops in this area that offer sustenance to travelers trying their
+luck in the mountains of the north.  From here you can see the black smoke that
+rises from them.  This alley is rare due to the fact that you can see past some
+of the mountains.  Very far in the distance you can make out what appears to be
+another city.  From this distance, that would mean their buildings would have to
+be colossal.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37134
+D1
+~
+~
+0 37100 37182
+D2
+~
+~
+0 37100 37171
+D3
+~
+~
+0 37100 37183
+S
+#37173
+Lava Lane~
+   A small alley runs north and south here between two large onyx structures.  
+From here you can barely make out a large mountain range to the north although
+you can certainly smell that it's there.  A few elementals here hang out in the
+corners hoping to lure some travelers out of their gold coins.  It would be very
+dark if not for the transparent street that you are walking on.  The lava flow
+beneath gives off a very bright orange light.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37122
+D2
+~
+~
+0 37100 37174
+S
+#37174
+Intersection of Lava Lane and Diamond Way~
+   A large intersection is here, bustling with life.  A peace keeper watches
+over the city and the citizens.  Since the location is slightly elevated it
+offers perfect views of a large part of the city in all directions.  Tall onyx
+structures stand at each corner and you can hear the call of shop keepers to the
+south.  Like the city streets, the lava breaks off east and west as it flows to
+the south towards the sea.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37173
+D1
+~
+~
+0 37100 37110
+D2
+~
+~
+0 37100 37175
+D3
+~
+~
+0 37100 37167
+S
+#37175
+Lava Lane~
+   A small alley runs north and south here between two large onyx structures.  
+There are two shops in this area that offer items magical in nature such as
+potions and scrolls.  In the distance, past the southern wall, there is a large
+ocean with many islands protruding out of the water.  Even from here large ships
+can be seen traversing the waters.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37174
+D1
+~
+~
+0 37100 37184
+D2
+~
+~
+0 37100 37161
+D3
+~
+~
+0 37100 37185
+S
+#37176
+16th Street Main~
+   A small alley runs north and south here between two large onyx structures.  
+The mountain range to the north can be seen and you can certainly smell that
+it's there.  A few elementals here hang out in the corners hoping to lure some
+travelers out of their gold coins.  It would be very dark if not for the
+transparent street that you are walking on.  The lava flow beneath gives off a
+very bright orange light.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37177
+D2
+~
+~
+0 37100 37116
+S
+#37177
+Intersection of 16th Street Way and Emerald Way~
+   A large intersection is here, bustling with life.  A peace keeper watches
+over the city and the citizens.  Since the location is slightly elevated it
+offers perfect views of a large part of the city in all directions.  Tall onyx
+structures stand at each corner and you can hear the call of shop keepers to the
+north.  Like the city streets, the lava breaks off east and west as it flows to
+the south towards the sea.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37178
+D1
+~
+~
+0 37100 37145
+D2
+~
+~
+0 37100 37176
+D3
+~
+~
+0 37100 37104
+S
+#37178
+16th Street Way~
+   A small alley runs north and south here between two large onyx structures.  
+There are two shops in this area that offer sustenance to travelers trying their
+luck in the mountains of the north.  From here you can see the black smoke that
+rises from them.  This alley is rare due to the fact that you can see past some
+of the mountains.  Very far in the distance you can make out what appears to be
+another city.  From this distance, that would mean their buildings would have to
+be colossal.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37139
+D1
+~
+~
+0 37100 37188
+D2
+~
+~
+0 37100 37177
+D3
+~
+~
+0 37100 37189
+S
+#37179
+16th Street Main~
+   A small alley runs north and south here between two large onyx structures.  
+From here you can barely make out a large mountain range to the north although
+you can certainly smell that it's there.  A few elementals here hang out in the
+corners hoping to lure some travelers out of their gold coins.  It would be very
+dark if not for the transparent street that you are walking on.  The lava flow
+beneath gives off a very bright orange light.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37116
+D2
+~
+~
+0 37100 37180
+S
+#37180
+Intersection of 16th Street Main and Diamond Way~
+   A large intersection is here, bustling with life.  A peace keeper watches
+over the city and the citizens.  Since the location is slightly elevated it
+offers perfect views of a large part of the city in all directions.  Tall onyx
+structures stand at each corner and you can hear the call of shop keepers to the
+south.  Like the city streets, the lava breaks off east and west as it flows to
+the south towards the sea.
+~
+371 0 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37179
+D1
+~
+~
+0 37100 37150
+D2
+~
+~
+0 37100 37181
+D3
+~
+~
+0 37100 37110
+S
+#37181
+16th Street Main~
+   A small alley runs north and south here between two large onyx structures.  
+There are two shops in this area that offer items magical in nature such as
+potions and scrolls.  In the distance, past the southern wall, there is a large
+ocean with many islands protruding out of the water.  Even from here large ships
+can be seen traversing the waters.
+~
+371 4 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37180
+D1
+~
+~
+0 37100 37186
+D2
+~
+~
+0 37100 37156
+D3
+~
+~
+0 37100 37187
+S
+#37182
+Advantage Armory~
+   This shop is located in the northern part of the city.  Like many of the
+shops here the floor is made of thick plastic and allows views of the lava that
+flows through the city.  There is a large forge in the back of the shop and
+glows a bright white.  The walls and ceiling are decorated with suits of armor
+dating centuries old and of every race imaginable.  A sign above the door states
+"Prices are FINAL".
+~
+371 132 0 0 0 1 255 0
+D3
+~
+~
+0 37100 37172
+S
+#37183
+The Swinging Swordsman~
+   This shop is located in the north western part of the city.  Like many of the
+shops the floor allows views down to where the lava flows beneath the city.  
+Behind the counter there is a large lava pit with various types of weapons, in
+various stages of completion, strewn about the area.  The walls are adorned with
+many types of weapons for sale.  It is very hot in here and the smell of sulfur
+is very strong.
+~
+371 132 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37172
+S
+#37184
+The Wizard's Pouch~
+   This shop is nestled in between two smaller buildings in the southern part of
+the city.  While not very large in size, the room is nevertheless packed floor
+to ceiling with all sorts of items.  On the walls are old contraptions and items
+that older generations used to harvest the lava.  Like the other shops, you can
+see it flowing beneath your feet.
+~
+371 128 0 0 0 1 255 0
+D3
+~
+~
+0 37100 37175
+S
+Z 37184
+#37185
+Diamond in the Rough~
+   This shop is on the first level of some smaller buildings in the southern
+part of the city.  Like so many of the shops here, the floor is made out of a
+very thick plastic and displays the lava that flows beneath the city.  On the
+walls here are various displays documenting how the machines here harvest
+precious metals and jewels out of the surrounding cliff sides.  A small lock box
+sits on the counter.
+~
+371 128 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37175
+S
+Z 37185
+#37186
+Kiki's Scrolls and Such~
+   This shop is on the first level of one of the larger buildings in the
+southern part of the city.  Parchments, quills, and papers of all sizes and
+color are displayed beneath a large glass shield.  Behind the counter are
+endless stacks of what appear to be scrolls and other such items that are the
+same as the ones on display.  The floor is made of a thick sort of plastic,
+resistant to heat, and clearly displays the lava flowing beneath the shop.
+~
+371 132 0 0 0 1 255 0
+D3
+~
+~
+0 37100 37181
+S
+Z 37186
+#37187
+The Melting Pot~
+   This shop is nestled in between two taller buildings in the southern part of
+the city.  The shop is an absolute mess and could probably stand to use some
+organization.  Small pots bubble in the back and countless glass bottles filled
+with different colored liquids line the walls.  The place smells of liquor and
+pipe tobacco.  The Melting Pot is one of the few places in the city the
+elementals avoid.
+~
+371 132 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37181
+E
+sign~
+______________________
+|                    |
+|                    |
+|                    |
+| PRICES ARE FINAL!  |
+|                    |
+|                    |
+______________________
+~
+S
+Z 37187
+#37188
+The Bottomless Barrel~
+   This shop is located in the northern part of the city.  Like most of the
+shops here the floor is made of a thick plastic and allows view of the lava that
+flows beneath the city.  While elementals do not need to drink to survive, they
+were smart enough to install these shops to cater to the occasional traveler
+such as yourself.  A large pool of water is behind the counter and is very full.
+~
+371 132 0 0 0 1 255 0
+D3
+~
+~
+0 37100 37178
+E
+disclaimer note~
+   The trek into the mountain is very dangerous.  My supplies will aid you on
+your way and will not serve as an end game survival item.  Thanks for
+understanding.
+~
+S
+Z 37188
+#37189
+The Stalk Shop~
+   This shop rests in the northern part of the city close to the black
+mountains.  Like most of the shops here the floor is made out of a thick plastic
+and allows view of the lava that flows beneath the city.  While elementals do
+not need to eat they were smart enough to have a shop to make profit from
+travelers such as yourself.  Various fruits and vegetables occupy barrels
+throughout the room.  Flour, grains, and other items also line the walls.
+~
+371 132 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37178
+S
+#37190
+The Guard's Hall - Entrance~
+   The entrance to the command past is much like the entrance to the Captain's
+Barracks.  The floor allows views down into the lava and the columns that are
+supporting the building.  A large bulletin board takes up the western wall and
+has various tactical maps and safety posters pinned to it.  Large onyx columns
+support the arched ceiling and are braced together and to the walls.
+~
+371 8 0 0 0 1 255 0
+D0
+~
+door~
+1 37100 37121
+D1
+~
+~
+0 37100 37192
+D2
+~
+~
+0 37100 37191
+S
+#37191
+The Guard's Hall - Locker Room~
+   This is the where the elementals gear up for a shift.  A large pit in the
+center of the room heats the large pot of water in the middle of it.  This in
+turn has made the room very steamy.  Large pieces of armor scatter throughout
+the room.  The vegetation doesn't move very much in here.  You can attribute
+that to the steam.
+~
+371 8 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37190
+D1
+~
+~
+0 37100 37193
+S
+#37192
+The Guard's Hall - The Armory~
+   This is where the elemental guards forge their own weapons.  Behind a large
+onyx counter there is an open pit that smokes and hisses.  Blocks of unrefined
+steel ore surround the room amongst piles of various weapons.  Groups of guards
+gather here to replace their weapons, which due to their vegetative
+enhancements, wear out very quickly.
+~
+371 8 0 0 0 1 255 0
+D0
+~
+~
+0 37100 -1
+D2
+~
+~
+0 37100 37193
+D3
+~
+~
+0 37100 37190
+S
+#37193
+The Guard's Hall - Storage~
+   This room is used for nothing more than storage.  Large boxes are stacked
+floor to ceiling and hold various contents.  The elementals seem to avoid this
+room altogether.  Centuries of dust have accumulated in the corners and seem to
+be a food source of some strange insect.  It's very dark in here.
+~
+371 41 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37192
+D3
+~
+~
+0 37100 37191
+S
+#37194
+The Captain's Barracks - Entrance~
+   The entrance to this building is a true architectural wonder.  Large onyx
+pillars spiral high above you to support the arched ceilings overhead.  The
+floor is made up of alternating stone and plastic squares.  It would appear that
+the floor of this building is supported by columns that stretch far below, into
+the lava.  How they have not eroded is equally as puzzling.
+~
+371 8 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37195
+D2
+~
+door~
+1 37100 37115
+D3
+~
+~
+0 37100 37196
+S
+#37195
+The Captain's Barracks - War Room~
+   This room has been fortified heavily from the inside.  Large maps and
+tactical charts are pinned to every wall and spread out on the table here.  A
+large chair at the end of the table signifies where the head of security sits.
+With a closer look at the walls here, you notice different, distinct names
+you've heard of on the walls.  This city is well prepared to face any type of
+attack.
+~
+371 8 0 0 0 1 255 0
+D2
+~
+~
+0 37100 37194
+D3
+~
+~
+0 37100 37197
+E
+wall~
+You see many names on the wall....Raije.....Amethyst....Forsaken....Dark Louts....Flexo....Cray....Plato....Jet
+~
+S
+#37196
+The Captain's Barracks - Living Quarters~
+   This room is an extension of the sleeping quarters to the north.  A large
+window on the south wall allows anyone in the room a view into the center of the
+city.  A large fireplace sits in the middle of the room and is fueled from the
+passing lava below.  It is very warm in here.
+~
+371 8 0 0 0 1 255 0
+D0
+~
+~
+0 37100 37197
+D1
+~
+~
+0 37100 37194
+S
+#37197
+The Captain's Barracks - Sleeping Quarters~
+   This room is where some of guards will more or less sleep...  If elementals
+do indeed sleep.  Nevertheless there are a few large cots layed out against the
+northern wall and a rack on the eastern wall to rest their weapons.  A large
+window on the southern wall allows the guards from this room to still keep a
+partial eye on the center of town.  It is quite cozy here.
+~
+371 8 0 0 0 1 255 0
+D1
+~
+~
+0 37100 37195
+D2
+~
+~
+0 37100 37196
+S
+#37198
+A steep rocky path~
+   Just north of the city gate is a small rocky path that leads into the
+mountains.  The lava flows that line each side of the path give off an intense
+heat and the smell of sulfur sets the air on fire.  The mountain range stretches
+are far as one can see east and west with ever rising smoke .  Belching black
+fumes pollute the sky with dark clouds.  A rumbling can be heard in the far
+distance.  The path continues north and south.
+~
+371 0 0 0 0 5 255 0
+D2
+The stone lies south.
+~
+stone~
+2 37197 37107
+S
+#37199
+The Inn of the Elemental~
+   You stand in a room unlike most that this city has to offer.  A warm fire
+occupies a large pit in the center of the room.  Behind a large desk sits a
+small, feminine elemental.  Business is slow here as the city experiences
+relatively few outsiders.  Large fur rugs adorn the walls and floor.  Aside from
+that this room is pretty much empty.  Many doors line the walls and lead to
+chambers that are for rent, hourly of course.
+~
+371 84 0 0 0 0 255 0
+D2
+~
+~
+0 37100 37120
+S
+$~

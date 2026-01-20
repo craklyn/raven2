@@ -1,0 +1,649 @@
+#6700
+Credits Room~
+The Blasted Heath  was brought to you by Oberon. Its a nice little
+place mainly designed to be a connector zone
+to place areas north of the mountains.
+It connects to the following mountain rooms
+10774, 10799
+~
+67 0 0 0 0 5 255 0
+S
+#6701
+Across the Peak~
+You clamber across the peak and desperately clinging to the
+few handholds, inch your way down the other side. With your
+feet scrabbling for purchase you realize that this isn't a
+great idea but your love of adventure forces you on! 
+~
+67 32768 0 0 0 5 255 0
+D2
+south is the peak~
+~
+0 -1 10774
+D5
+below is the mountainside~
+~
+0 -1 6702
+S
+#6702
+The Rocky Slope~
+You half-run, half-slide down this slope, studded with lime-
+stone outcroppings. Your relief at finally leaving those 
+hazardous mountains is dulled by the view before you. As far
+as the eye can see, stretches a barren wasteland.
+~
+67 32768 0 0 0 5 255 0
+D0
+north stretches a vast plain~
+~
+0 -1 6705
+D4
+above you is the mountainside~
+~
+0 -1 6701
+S
+#6703
+The Narrow Crack~
+You squeeze thru this split in the cliffside for a few yards,
+hoping that nothing attacks because there is no room to swing
+a sword. Ahead it appears that the crack may widen out.
+~
+67 0 0 0 0 5 255 0
+D0
+north the split continues~
+~
+0 -1 6704
+D2
+south is a large mountain~
+~
+0 -1 10799
+S
+#6704
+The Narrow Crack~
+A shower of pebbles fall behind you, making you instantly aware
+that there may be unseen enemies lurking about. The crack now
+widens and with relief you can now look north out across a vast vista
+of bleak looking plains. Far off on the horizon is a faint gleam of
+white. Below you is a slope leading down to the plains.
+~
+67 0 0 0 0 5 255 0
+D2
+south the split continues~
+~
+0 -1 6703
+D5
+below is a slope~
+~
+0 -1 6706
+S
+#6705
+The Blasted Heath~
+The ground beneath your feet is stony with only a trace of soil.
+Oddly, there appear to be no sign of life whatsoever, not a lichen,
+an insect, a bird....nothing. You run your hand over one of the 
+large boulders and notice it has an odd, smooth, glazed surface.
+As you look ahead across the plain something equally odd catches your
+eye. There appear to be strips and patches of ground hundreds of feet
+long with the same odd appearance as the boulder. You now feel some
+odd scratches under your hand on the boulder. 
+~
+67 32768 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6714
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6708
+D3
+to the west stretches a lifeless plain~
+~
+0 -1 6721
+D4
+above you is a slope~
+~
+0 -1 6702
+E
+scratches boulder~
+Before you is the Blasted Heath, site of the legendary battle,
+many generations ago, between the great dragons of good and evil,
+Grymthorne and Takhisis. Within minutes of their meeting this once
+beautiful northern plain of villages and cattle pastures was reduced
+to a half-melted, poisoned, barren waste. 
+~
+S
+#6706
+The Rough Slope~
+You stumble down this slope dotted with boulders, but not a trace
+of green is visible anywhere. At the bottom the slope flattens out.
+You have a variety of directions to choose from but with such a life-
+less vista ahead it's hard to see any reason to continue.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6712
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6710
+D3
+to the west stretches a lifeless plain~
+~
+0 -1 6708
+D4
+above you is a slope~
+~
+0 -1 6704
+S
+#6707
+The Blasted Heath~
+A small stream bed meets the cliff walls here, then meanders away
+out across the plains. Here and there tiny pools of rainwater
+have collected in the stream bed but the dragon-poison still
+renders even fresh water deadly to all life.
+~
+67 524288 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6708
+D1
+east the mountains loom closely~
+~
+0 -1 6704
+S
+#6708
+The Blasted Heath~
+As far as the eye can see is an undulating dead-brown and grey waste.
+It's hard to imagine how this must have been many years ago with
+lush green pastures, shambling highland cattle, and scattered villages,
+all living in tranquility.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6713
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6706
+D3
+to the west stretches a lifeless plain~
+~
+0 -1 6707
+D4
+the mountains loom closely~
+~
+0 -1 6704
+S
+#6709
+The Blasted Heath~
+As far as the eye can see is an undulating dead-brown and grey waste.
+stretching in all directions but south, where a great dark wall of
+mountains throws a shadow over this already gloomy land.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6710
+S
+#6710
+The Blasted Heath~
+As far as the eye can see is an undulating dead-brown and grey waste.
+It's hard to imagine how this must have been many years ago with
+lush green pastures, shambling highland cattle, and scattered villages,
+all living in tranquility. But wait....there appears to be a faint tinge
+of green off to the east.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6711
+D1
+to the east is a not-so-lifeless plain~
+~
+0 -1 6723
+D2
+south the mountains loom closely~
+~
+0 -1 6709
+D3
+to the west stretches a lifeless plain~
+~
+0 -1 6706
+S
+#6711
+The Giant Claw Mark~
+You stumble and almost fall into a sharp slice in the the hard rock.
+It's about 3 feet deep and is connected to other radiating depressions
+in the rock, stretching roughly twenty feet away. You clamber back out
+and look down only to gasp!
+~
+67 0 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6718
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6721
+D2
+south the plain continues~
+~
+0 -1 6710
+D3
+to the west is a smear of melted rock~
+~
+0 -1 6712
+S
+#6712
+A Scar On The Land~
+A slippery smear of half-melted rock, the width of a house
+and several hundred feet long, stretches before you. There are bubble-
+like marks in the rock showing the intense heat that must have swept
+down from the sky. You shudder to think what it might have been like 
+on that terrible day when the heavens exploded with dragon-fire.
+~
+67 524288 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6717
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6711
+D2
+south lies the shadow of the mountains~
+~
+0 -1 6706
+D3
+to the west is a smear of melted rock~
+~
+0 -1 6713
+S
+#6713
+The Mark of Dragon-Fire~
+Before you is a vast shallow crater of shiny, greenish, glassy,
+rock. It appears that a particularly violent part of the great
+DragonWar took place here. Footing here is treacherous and you finally
+slip and fall face down against the glassy surface. With a gasp of
+horror you scramble to your feet! Buried in the melted rock are
+scorched remains of people!........embedded here for all time.
+~
+67 524288 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6716
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6712
+D2
+south lies the shadow of the mountains~
+~
+0 -1 6708
+D3
+to the west is more barren waste~
+~
+0 -1 6714
+S
+#6714
+The Blasted Heath~
+You trudge along thru bracken and brambles, clambering over piles
+of shale. In spite of the northern latitude the sun beats down
+heavily here with no green grass or cool water to absorb the heat.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north stretches a lifeless plain~
+~
+0 -1 6715
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6713
+D2
+south lies the shadow of the mountains~
+~
+0 -1 6705
+D3
+to the west is a trace of greenery~
+~
+0 -1 6720
+S
+#6715
+The Blasted Heath~
+A bitter wind blows from the north chilling you to the bone.
+Frost now lines the shadowed crevices of the rocks and far to
+the north the sun glints along a line of white on the horizon.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north is a gleam of ice~
+~
+0 -1 -1
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6716
+D2
+south lies the heath~
+~
+0 -1 6714
+D3
+to the west is a trace of greenery~
+~
+0 -1 6719
+S
+#6716
+The Blasted Heath~
+A bitter wind blows from the north chilling you to the bone.
+Frost now lines the shadowed crevices of the rocks and far to
+the north the sun glints along a line of white on the horizon.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north is a gleam of ice~
+~
+0 -1 -1
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6717
+D2
+south lies the heath~
+~
+0 -1 6713
+D3
+to the west is the heath~
+~
+0 -1 6715
+S
+#6717
+The Blasted Heath~
+A piercing cry splits the air scaring you half to death. As
+you look skyward for the source of the sound you are astonished
+to see a single black raven soaring overhead. Although you are
+happy to see SOME sign of life...a raven is not a harbinger of good
+tidings. Still being so far from civilized places, running short
+of supplies, and being freezing cold, you hardly see how things
+could be worse.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north is a gleam of ice~
+~
+0 -1 -1
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6718
+D2
+south lies the heath~
+~
+0 -1 6712
+D3
+to the west is the heath~
+~
+0 -1 6716
+S
+#6718
+The Blasted Heath~
+Sparse tufts of grass dot the icy landscape and as you gaze north
+you wonder what mysteries lie at the top of the word.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north is a gleam of ice~
+~
+0 -1 -1
+D1
+east lies the heath~
+~
+0 -1 6722
+D2
+south lies the heath~
+~
+0 -1 6711
+D3
+to the west is the heath~
+~
+0 -1 6717
+S
+#6719
+The Blasted Heath~
+Now at last some signs of life begin to reveal themselves. An
+occasional shoot of green grass pokes up. A nearby rock is patterned
+with spreading lichens. In a nearby rain-filled hollow something
+ripples the surface of the water. As if to remind you that this
+is still a miserable place to be.....a freezing sleet begins to
+fall.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north is a gleam of ice~
+~
+0 -1 -1
+D1
+to the east stretches a lifeless plain~
+~
+0 -1 6715
+D2
+south lies the heath~
+~
+0 -1 6720
+D3
+~
+~
+0 0 6728
+S
+#6720
+The Blasted Heath~
+More grass appears and now from somewhere nearby you hear the tiny
+gurgling of a little mountain brook. Apparently even to this wasteland
+eventually life returns.
+~
+67 0 0 0 0 5 255 0
+D0
+to the north is desolation~
+~
+0 -1 6719
+D1
+to the east is a slope~
+~
+0 -1 6714
+S
+#6721
+The Blasted Heath~
+The rocky ground now is covered in some places with large sheets of ice
+and your nostrils detect the tang of salt in the air.
+~
+67 0 0 0 0 5 255 0
+D0
+north lies the heath~
+~
+0 -1 6722
+D1
+east are icy waters~
+~
+0 -1 6725
+D2
+south lies the heath~
+~
+0 -1 6723
+D3
+west lies the heath~
+~
+0 -1 6711
+S
+#6722
+The Blasted Heath~
+The rocky ground now is covered in some places with large sheets of ice
+and your nostrils detect the tang of salt in the air.
+~
+67 0 0 0 0 5 255 0
+D2
+south lies the heath~
+~
+0 -1 6721
+D3
+west lies the heath~
+~
+0 -1 6718
+S
+#6723
+The Blasted Heath~
+The rocky ground now is covered in some places with large sheets of ice
+and your nostrils detect the tang of salt in the air.
+~
+67 0 0 0 0 5 255 0
+D0
+north lies the heath~
+~
+0 -1 6721
+D1
+east are icy waters~
+~
+0 -1 6724
+D3
+west lies the heath~
+~
+0 -1 6710
+S
+#6724
+The Bleak Shore~
+A rock-strewn shoreline stretches away before you as sullen grey waves roll
+quietly onto the beach. The spray from the waves seems to freeze in midair
+~
+67 0 0 0 0 5 255 0
+D0
+northwards the beach continues~
+~
+0 -1 6725
+D1
+east are icy waters~
+~
+0 -1 6726
+D3
+west lies the heath~
+~
+0 -1 6723
+S
+#6725
+The Bleak Shore~
+A rock-strewn shoreline stretches away before you as sullen grey waves roll
+quietly onto the beach. The spray from the waves seems to freeze in midair
+~
+67 0 0 0 0 5 255 0
+D1
+east are icy waters~
+~
+0 -1 6727
+D2
+southwards the beach continues~
+~
+0 -1 6724
+D3
+west lies the heath~
+~
+0 -1 6721
+S
+#6726
+An Icy Bay~
+Whitecaps slice across the mouth of the bay like long icy blades. The ocean
+wind roars in from the east driving the waves into each other. The sodden
+bite of this frigid air saps your strength quickly.
+~
+67 0 0 0 0 5 255 0
+D0
+northwards the ocean continues~
+~
+0 -1 6727
+D3
+west lies the beach~
+~
+0 -1 6724
+S
+#6727
+An Icy Bay~
+  This bay is one of many fjords that have been carved deep into the mountains.
+The glacial waters churn violently under the leaden skies, occasionally
+flinging chunks of ice into the air as they clash.
+
+~
+67 0 0 0 0 5 255 0
+D0
+~
+~
+0 -1 2801
+D1
+~
+~
+0 0 -1
+D2
+southwards the ocean continues~
+~
+0 -1 6726
+D3
+west lies the beach~
+~
+0 -1 6725
+S
+#6728
+Blasted Heath~
+As you head west, paralleling the mountain range to your south, you spy a
+solitary mountain in the distance.  The permanent grey clouds that seem to loom
+overhead all the time, dip down to touch the top of the distant peak
+~
+67 1 0 0 0 14 255 0
+D1
+~
+~
+0 0 6719
+D3
+~
+~
+0 0 6729
+S
+#6729
+Blasted Heath~
+You continue west thru the wasteland..  The peak in the distance growing ever
+larger.  The ground is not so flat here and there is more vegetation sprouting
+from the stony soil.    
+~
+67 1 0 0 0 14 255 0
+D1
+~
+~
+0 0 6728
+D3
+~
+~
+0 0 6730
+S
+#6730
+The Edge of the Heath~
+The ground begins to rise and fall gently leading to the large mountain looming
+near.  Some grass and trees struggle to push aside the sickly influence of the
+Heath's dragonbreath poisoning.    
+~
+67 1 0 0 0 4 255 0
+D0
+~
+~
+0 0 7700
+D1
+~
+~
+0 0 6729
+S
+$~

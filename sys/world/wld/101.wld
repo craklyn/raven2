@@ -1,0 +1,2025 @@
+#10101
+A Dark Path in the Forest~
+   The blackened oak trees that surround this path sway gently in the breeze.
+Seasons have no meaning this deep in the forest, the branches have woven
+together to form a canopy against the light of day, plunging the forest into
+eternal night. A heavy fog hangs in the air causing you to loose your sense of
+direction entirely.
+ 
+ 
+~
+101 4194305 0 0 0 3 255 0
+D0
+~
+~
+0 -1 10102
+S
+#10102
+A Gravel Road in the Forest~
+   The small forest path has become a small road, obviously there is some sort
+of civilization nearby. A light mist obscures the ground making it impossible
+to see your feet, this and the shadows from the trees make it quite a chilling
+sight.
+~
+101 9 0 0 0 3 255 0
+D0
+~
+~
+0 -1 10103
+D2
+~
+~
+0 -1 10101
+S
+#10103
+A Cobblestone Road~
+   You are traveling upon an old cobblestone road much like you'd expect to
+find near an abandoned town. Weeds have begun to grow between what's left of
+the stones. The mist that once obscured the road has begun to fade away, but
+an errie silence still hangs heavy over it. You'd swear its darker tonight
+than most nights, even the full moon seems to give no illumination. You best
+be careful tonight...
+~
+101 9 0 0 0 3 255 0
+D0
+~
+~
+0 -1 10104
+D2
+~
+~
+0 -1 10102
+S
+#10104
+The Towne Gate~
+   The road has ended at an old towne gate. The bars have begun to rust and
+several have been bent, its as if some large beast tore through it. Beyond
+lies a small towne. By the looks of it its a poor towne, several of the
+buildings seem to have fallen down or are about to. The howl of a lone wolf in
+the distance is the only sound to break the silence...
+~
+101 13 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10105
+D2
+~
+~
+0 -1 10103
+E
+gate bars bent~
+   That's strange, by the looks of it, it seems whoever bent them was trying to
+get OUT, not in as you would have expected.
+~
+E
+plaque bronze~
+The plaque reads:
+
+                          LupusVille
+
+                      Founded in 1369 A.T.
+
+                        Population 666
+~
+E
+stone wall~
+ There is a small bronze plaque set into the wall. It might be important...
+~
+S
+#10105
+Entrance to Towne~
+The town is dark and no townspeople are to be seen.  The doors are all closed
+and the windows are all shuttered in all the buildings you see.  The street
+lamps are dark and several are smashed.  You quickly realize that the town
+appears to have had something very very bad happen to it.    
+ 
+The hair on your neck stands up as you hear a low growl from nearby.
+ 
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10107
+D2
+~
+~
+0 -1 10104
+D3
+To the west stands a small guardhouse. Above the door is a small sign.
+~
+door oaken~
+1 -1 10106
+E
+sign small~
+  The small sign reads:
+
+                      Guard Post Alpha
+
+                      Till swords rust!
+
+Someone has added :   Rust in peace!
+
+It looks to have been written in blood....
+~
+S
+#10106
+A Small Guardpost~
+   This is a small house that was used by the gatekeeper. Apparently no one has
+bothered to stand guard at the gate for some time. A thick layer of dust
+covers all the furniture that is left, a small bed and a table. Maybe if you
+close the door behind you, you'd be able to rest here for awhile.
+~
+101 13 0 0 0 0 255 0
+D1
+There is a door leading back to the road.
+~
+door oaken~
+1 -1 10105
+E
+table~
+Well, its a place to eat and that's about it!
+~
+E
+bed~
+Well that certainly looks uncomfortable. Its not much more than a straw
+mattress that looks like its seen too much use, perhaps its time for a new
+one!
+~
+S
+#10107
+A Cobblestone Road~
+   This road has faired no better than the one outside the gate. Weeds of all
+sorts have crept up between the cobblestones, or what's left of them. Some of
+the cobblestones have a dark color to them, almost as if they've been painted.
+It takes you a minute to realize that they are colored with someone's blood!
+violence has taken place in this towne and not too long ago, that blood
+couldn't be more than a few hours old.
+~
+101 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10109
+D2
+~
+~
+0 -1 10105
+D3
+To the west you see a small house numbered 8 Cobblestone Way.
+~
+door oaken~
+1 -1 10108
+S
+#10108
+An Old Home~
+   This poor house hasn't faired too well over the generations. The wood shows
+severe signs of decay, probably termites too. A strong smell of decay and
+death hangs heavy in the air, you hope that its just some rotten food and not
+a dead body lying around.
+~
+101 9 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10107
+S
+#10109
+A Cobblestone Road~
+   Once this might have been a nice road to walk upon. Now however, you walk
+with weapons drawn, peering cautiously into the shadows for any signs of attack.
+The cobblestones have been torn up, leaving ruts so deep no carriage could
+ever pass. There seems to be some sort of fountain to the north, perhaps you
+should investigate...
+~
+101 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10111
+D2
+~
+~
+0 -1 10107
+D3
+~
+~
+0 -1 10110
+S
+#10110
+Madam Zash's~
+   Everyone wants to know the future, and these people are no different. Madam
+Zash specializes in the future. She predicts the future for these poor
+farmers, when it will rain, when there will be a drought, etc. Everything a
+fortune teller needs can be found somewhere in this cluttered room, crystal
+ball, tarot cards, dice even a few animal bones and cow blood. Maybe its all a
+hoax, but then again, maybe its not....
+~
+101 137 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10122
+D1
+~
+~
+0 -1 10109
+E
+dice bones blood tarot cards junk~
+Most of it is all junk, in your personal opinion that is. What is really
+interesting is the crystal ball. It seems to glow with a light of its own...
+~
+E
+ball crystal~
+As you look into its swirling depths a message begins to take shape....
+
+          The world as you know it is about to end....
+
+That is all it says. You suddenly get the goose bumps!
+~
+S
+#10111
+The Towne Fountain~
+   A scene of utter horror greets you as you approach the fountain. Dried blood
+covers everything around the fountain, and upon closer inspection you realize
+that the fountain 'itself' contains blood instead of water! What could
+possibly done this? certainly nothing 'natural', something very powerful must
+be involved!
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10112
+D2
+~
+~
+0 -1 10109
+D3
+~
+~
+0 -1 10122
+S
+#10112
+A Cobblestone Road~
+   Once this might have been a nice road to walk upon. Now however, you walk
+with weapons drawn, peering cautiously into the shadows for any signs of
+attack.  The cobblestones have been torn up, leaving ruts so deep no carriage
+could ever pass. There seems to be some sort of fountain to the south, perhaps
+you should investigate...
+~
+101 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10113
+D2
+~
+~
+0 -1 10111
+D3
+~
+~
+0 -1 10121
+S
+#10113
+A Cobblestone Road~
+The cobblestone road continues to lead you thru town.  You notice a quick
+flitting shadow out of the corner of your eye.    
+~
+101 1 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10114
+D2
+~
+~
+0 -1 10112
+D3
+You see a small house numbered 20 CobbleStone Way.
+~
+door oaken~
+1 -1 10120
+S
+#10114
+North Side of Town~
+You move quickly thru the streets hoping to dodge its current inhabitants.  
+All about you from the dark houses comes a chilling feeling of eyes...  eyes
+following your every step.    
+ 
+Somewhere nearby a door creaks softly.
+ 
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10115
+D2
+~
+~
+0 -1 10113
+D3
+To the west you see a small guardhouse. Above the door to the guardhouse hangs
+a small sign.
+~
+door oaken~
+1 -1 10119
+E
+sign small~
+  The small sign reads:
+
+                      Guard Post Beta
+
+                      Till blades Part
+
+Someone has added :   And skulls too apparently!
+
+It looks to have been written in blood....
+~
+S
+#10115
+The North gate~
+Before you is the large rusty gate that used to guard the north road.  Now it
+sags from its hinges, all rusted and slightly ajar.  Beyond it the road
+stretches into the forest
+~
+101 1 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10116
+D2
+~
+~
+0 -1 10114
+E
+gate bars bent~
+   That's strange, by the looks of it, it seems whoever bent them was trying to
+get OUT, not in as you would have expected.
+~
+E
+plaque bronze~
+The plaque reads:
+
+                          LupusVille
+
+                      Founded in 1369 A.T.
+
+                        Population 666
+~
+E
+stone wall~
+ There is a small bronze plaque set into the wall. It might be important...
+~
+S
+#10116
+A Cobblestone Road~
+Before you the overgrown town road disappears totally into the the undergrowth
+leaving no sign of whatever the road once led too.  Where ever it went.....  
+you wonder if that place met the same fate as the town you just left.    
+ 
+Something rustles in the bushes.
+ 
+~
+101 1 0 0 0 3 255 0
+D2
+~
+~
+0 -1 10115
+S
+#10117
+A Gravel Road in the Forest~
+   The small forest path has become a small road, obviously there is some sort
+of civilization nearby. A light mist obscures the ground making it impossible
+to see your feet, this and the shadows from the trees make it quite a chilling
+sight.
+~
+101 1 0 0 0 3 255 0
+D0
+~
+~
+0 -1 10118
+D2
+~
+~
+0 -1 10116
+S
+#10118
+A Dark Path in the Forest~
+   The blackened oak trees that surround this path sway gently in the breeze.
+Seasons have no meaning this deep in the forest, the branches have woven
+together to form a canopy against the light of day, turning the forest into
+a world of shadows. Who knows what is lurking just beyond the next turn in
+the path...
+~
+101 5 0 0 0 3 255 0
+D0
+~
+~
+0 -1 10101
+D2
+~
+~
+0 -1 10117
+S
+#10119
+A Small Guardpost~
+   This is a small house that was used by the gatekeeper. Apparently no one has
+bothered to stand guard at the gate for some time. A thick layer of dust
+covers all the furniture that is left, a small bed and a table. Maybe if you
+close the door behind you, you'd be able to rest here for awhile.
+~
+101 13 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10114
+E
+table~
+Well, its a place to eat and that's about it!
+~
+E
+bed~
+Well that certainly looks uncomfortable. Its not much more than a straw
+mattress that looks like its seen too much use, perhaps its time for a new
+one!
+~
+S
+#10120
+An Old Home~
+   This poor house hasn't faired too well over the generations. The wood shows
+severe signs of decay, probably termites too. A strong smell of decay and
+death hangs heavy in the air, you hope that its just some rotten food and not
+a dead body lying around.
+~
+101 9 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10113
+S
+#10121
+The Inn of the Golden Coin~
+   It looks like this old in was the site of a very large battle recently. The
+once colorful drapes have been torn and burned. Chairs have been overturned
+and a table was even used as protection, judging from the numerous arrows and
+cuts in it. Blood stains are almost everywhere, but there are no bodies. With
+any luck the dead where taken and buried ... you pray that they weren't taken
+and 'eaten'!
+~
+101 141 0 0 0 0 255 0
+D1
+~
+~
+0 -1 10112
+D2
+~
+~
+0 -1 10122
+D4
+~
+~
+0 -1 10176
+S
+#10122
+A Road through the Hamlet~
+   This seems to be the main road through the center of towne. The road runs
+from the fountain to the gates of a beautiful gothic castle in the west.
+The trees that once lined this road have all been burned to the ground, its
+amazing the entire town wasn't burned down in the process!
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10121
+D1
+~
+~
+0 -1 10111
+D2
+~
+~
+0 -1 10110
+D3
+~
+~
+0 -1 10124
+S
+#10123
+A Abandoned Home~
+   Whoever once lived here sure left in a hurry, there is even a rotten pot of
+soup till hanging in the hearth. A thin layer of soot has settled over
+everything from the fires that had been set in the city. Maybe you could rest
+a bit here, this towne is sure full of surprises!
+~
+101 9 0 0 0 0 255 0
+D2
+~
+door oaken~
+1 -1 10124
+D5
+~
+~
+0 -1 10185
+S
+#10124
+A Road through the Hamlet~
+   This seems to be the main road through the center of towne. The road runs
+from the fountain to the gates of a beautiful gothic castle in the west.
+The trees that once lined this road have all been burned to the ground, its
+amazing the entire town wasn't burned down in the process! Scenes of
+destruction surround you, what could possibly have caused this destruction in
+this once beautiful hamlet?
+~
+101 9 0 0 0 1 255 0
+D0
+You see a house numbered 23 Main.
+~
+door oaken~
+1 -1 10123
+D1
+~
+~
+0 -1 10122
+D2
+You see a house numbered 25 Main.
+~
+door oaken~
+1 -1 10125
+D3
+~
+~
+0 -1 10138
+S
+#10125
+A Abandoned Home~
+   Whoever once lived here sure left in a hurry, there is even a rotten pot of
+soup till hanging in the hearth. A thin layer of soot has settled over
+everything from the fires that had been set in the city. Maybe you could rest
+a bit here, this towne is sure full of surprises!
+~
+101 9 0 0 0 0 255 0
+D0
+~
+door oaken~
+1 -1 10124
+D5
+~
+~
+0 -1 10186
+S
+#10126
+A noisy house~
+   Due to its proximity to the local pub, this happens to be one of the
+noisiest houses you have ever been in! You begin to wonder what ever possessed
+the owners to buy such a house, then you think how much they must have paid
+for it. But would the small price make up for all the sleep you would lose due
+to late night parties?
+~
+101 9 0 0 0 0 255 0
+D3
+~
+door oaken~
+1 -1 10136
+D4
+~
+~
+0 -1 10167
+S
+#10127
+A Once Cozy House~
+   This house was once warm and comfortable. Two fireplaces kept the large
+house quite warm, perhaps too warm. A large fire has burned most of the house,
+leaving just the frame, a burned out shell so to speak. A skeleton is all that
+remains of the former occupant, his flesh burned off just like the paint that
+once covered the walls...
+~
+101 9 0 0 0 0 255 0
+D3
+~
+door oaken~
+1 -1 10137
+E
+fireplace~
+The fire burns with a bright glow and a warmth that you are unaccustomed to,
+perhaps they use some special logs here...
+~
+S
+#10128
+A Cottage~
+   Houses of this size are rarely considered houses. No divisions have been
+made, so basically its one big room. The bed is next to the sink which is next
+to the stove. A table and chair stand in the center of the room, and a small
+cozy chair sits in front of the fireplace. Spartan, but comfortable and
+functional what more could anyone ask for?
+~
+101 8 0 0 0 0 255 0
+D3
+~
+door oaken~
+1 -1 10139
+S
+#10129
+A Residence~
+   The werebeasts aren't as nice to their living quarters as the normal
+townspeople would be. Several chairs have been overturned or destroyed
+completely. Bed rolls are strewn about in a haphazard manner, as if no one
+cared where they slept, even several windows have been broken because the
+occupants were to lazy to figure out how to open them.
+~
+101 9 0 0 0 0 255 0
+D3
+~
+door oaken~
+1 -1 10140
+S
+#10130
+The GraveYard~
+  Lines of tombstones stretch as far as the eye can see. Some plots have been
+decorated with flowers, others remain smooth and bare. Certainly some of these
+stones must belong to families that no longer exist, which means that the
+hamlet must have someone to take care of the graveyard in general.  Whoever it
+is does a good job, this place almost makes you want to sit down and have a
+picnic!
+~
+101 0 0 0 0 2 255 0
+D2
+~
+~
+0 -1 10131
+D3
+~
+gate gates~
+1 10098 10141
+S
+#10131
+The GraveYard~
+  Not everyone has opted for a tombstone, some have chosen to be buried in
+mausoleums so that their family could be together even in death.  Even though
+you know that this is a cemetery you can't help but feel peaceful and
+comfortable here. No one would ever have nightmares about ghouls and zombies if
+all the graveyards were as nice as this one!
+~
+101 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10130
+D1
+~
+~
+0 -1 10133
+D2
+~
+~
+0 -1 10132
+S
+#10132
+The GraveYard~
+  Lines of tombstones stretch as far as the eye can see. Some plots have been
+decorated with flowers, others remain smooth and bare. Certainly some of these
+stones must belong to families that no longer exist, which means that the
+hamlet must have someone to take care of the graveyard in general.  Whoever it
+is does a good job, this place almost makes you want to sit down and have a
+picnic!
+~
+101 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10131
+D1
+~
+~
+0 -1 10134
+D5
+~
+~
+0 -1 10190
+S
+#10133
+The GraveYard~
+  Lines of tombstones stretch as far as the eye can see. Some plots have been
+decorated with flowers, others remain smooth and bare. Certainly some of these
+stones must belong to families that no longer exist, which means that the
+hamlet must have someone to take care of the graveyard in general.  Whoever it
+is does a good job, this place almost makes you want to sit down and have a
+picnic!
+~
+101 0 0 0 0 2 255 0
+D2
+~
+~
+0 -1 10134
+D3
+~
+~
+0 -1 10131
+D5
+Below you lies an open grave. The dirt is still damp as if it was just dug ...
+or just dug up...
+~
+~
+0 -1 10187
+S
+#10134
+The GraveYard~
+  Not everyone has opted for a tombstone, some have chosen to be buried in
+mausoleums so that their family could be together even in death.  Even though
+you know that this is a cemetery you can't help but feel peaceful and
+comfortable here. No one would ever have nightmares about ghouls and zombies if
+all the graveyards were as nice as this one!
+~
+101 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10133
+D3
+~
+~
+0 -1 10132
+S
+#10135
+Ye Olde Pub~
+   Well everyone needs to unwind once and awhile and the creatures of this town
+appear to be no different. Alcohol has been used for centuries to unwind
+after a long hard day of ripping the wife and kids to shreds! This is the
+place to sit, relax, and toss down a few cold ones with the boys... Just pray
+the inhabitants don't notice that you're human!
+~
+101 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 10136
+S
+#10136
+Lupine Road~
+   Houses line this obviously residential street. The houses are larger than
+some of the others you have seen, possibly indicating that you are in a more
+affluent part of towne. Flowers and small trees continue to line the street
+here and many of the houses have small flower beds in front of them.
+~
+101 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10135
+D1
+You see a house which is numbered 69 Lupine Road.
+~
+door oaken~
+1 -1 10126
+D2
+~
+~
+0 -1 10137
+D3
+You see a house which is numbered 42 Lupine Road.
+~
+door oaken~
+1 -1 10142
+S
+#10137
+Lupine Road~
+   Houses line this obviously residential street. The houses are larger than
+some of the others you have seen, possibly indicating that you are in a more
+affluent part of towne. Flowers used to line the street, now however there is
+only dirt as the flowers have been pulled out long ago. Anything of beauty
+seems to have been ripped forcibly from this towne.
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10136
+D1
+You see a house which is numbered 27 Lupine Road.
+~
+door oaken~
+1 -1 10127
+D2
+~
+~
+0 -1 10138
+D3
+You see a house which is numbered 43 Lupine Road.
+~
+door oaken~
+1 -1 10143
+S
+#10138
+The Towne Square~
+   This is where the towne used to gather for important announcements and
+meetings. Apparently whoever still lives here had a gathering recently, the
+ground is trampled and burnt out torches litter the ground. Whatever the
+meeting was about violence certainly had a part, fresh blood can still be
+found in places and so can a few broken weapons, bloody of course.
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10137
+D1
+~
+~
+0 -1 10124
+D2
+~
+~
+0 -1 10139
+D3
+~
+~
+0 -1 10144
+S
+#10139
+Lupine Road~
+   Houses line this obviously residential street. The houses are larger than
+some of the others you have seen, possibly indicating that you are in a more
+affluent part of towne. Flowers used to line the street, now however there is
+only dirt as the flowers have been pulled out long ago. Anything of beauty
+seems to have been ripped forcibly from this towne.
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10138
+D1
+You see a house numbered 28 lupine road.
+~
+door oaken~
+1 -1 10128
+D2
+~
+~
+0 -1 10140
+D3
+You see a house which is numbered 45 Lupine Road.
+~
+door oaken~
+1 -1 10145
+S
+#10140
+Lupine Road~
+   Houses line this obviously residential street. The houses are larger than
+some of the others you have seen, possibly indicating that you are in a more
+affluent part of towne. Flowers used to line the street, now however there is
+only dirt as the flowers have been pulled out long ago. Anything of beauty
+seems to have been ripped forcibly from this towne.
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10139
+D1
+You see a small house, which just happens to be numbered 29 lupine road.
+~
+door oaken~
+1 -1 10129
+D2
+~
+~
+0 -1 10141
+D3
+~
+door oaken~
+1 -1 10146
+S
+#10141
+Entrance to the GraveYard~
+   You stand before the ancient gates to the hamlet's graveyard. This towne
+is quite civilized when it comes to dealing with their dead, burning them
+rather than burning them or sending them out to sea like some other cultures.
+The graveyard is neat and clean, not like some graveyard out of a nightmare.
+~
+101 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10140
+D1
+~
+gate gates~
+1 10098 10130
+S
+#10142
+A Destroyed House~
+   Flowers are everywhere in this house, problem is, none of them are in pots
+of any kind! It seems as if someone went through the entire house and trashed
+everything. Even the small tree couldn't escape the destruction. Just think of
+all the hours some poor fool put into all these beautiful plants only to have
+them trashed!
+~
+101 9 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10136
+D3
+~
+~
+0 -1 10198
+S
+#10143
+A Once Cozy House~
+   This house was once warm and comfortable. Two fireplaces kept the large
+house quite warm, perhaps too warm. A large fire has burned most of the house,
+leaving just the frame, a burned out shell so to speak. A skeleton is all that
+remains of the former occupant, his flesh burned off just like the paint that
+once covered the walls...
+~
+101 9 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10137
+E
+fireplace~
+The fire burns with a bright glow and a warmth that you are unaccustomed to,
+perhaps they use some special logs here...
+~
+S
+#10144
+The Main Road~
+   This is the main road through the center of towne. The road runs from the
+fountain to the gates of the abandoned castle in the west. Beautiful flowers
+and small trees line the road. Benches can be found under some of the trees so
+you can rest and enjoy the beauty of the hamlet. The citizens use this street
+to rest and relax after a hard days work in the fields.
+~
+101 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 10138
+D3
+~
+~
+0 -1 10151
+S
+#10145
+A Warm Home~
+   The Goodwife of this house has been busy cooking and cleaning the day away.
+The wonderful smell of roast pork hangs heavy in the air along with various
+spices and herbs. The house is impeccably neat, not a trace of dust can be
+found anywhere in the entire house. If you did find some undusted corner, the
+goodwife would, no doubt, apologize for her lapse and spend the entire day
+searching for any more she might have missed.
+~
+101 8 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10139
+D4
+~
+~
+0 -1 10175
+S
+#10146
+An Olde Church~
+   This church is an architectural wonder! Beautiful stain glass windows cover
+most of the walls, and where ever they don't the remaining wood has be
+intricacy carved. All the wood has been polished to a mirror finish, no small
+task with all the small carvings. The church is small, but in some ways more
+beautiful than the largest cathedral!
+~
+101 140 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10140
+D4
+~
+~
+0 -1 10182
+S
+#10147
+The Towne Constable's Office~
+   In every towne, even small ones, someone must attempt to keep the peace.
+Perhaps someone 'borrowed' something without asking the owners permission, or
+accidentally slaughtered their neighbors cow. Whatever the problem, disputes are
+brought to the towne constable, brought here to be settled.
+~
+101 9 0 0 0 0 255 0
+D3
+~
+door oaken~
+1 -1 10150
+D5
+~
+~
+0 -1 10195
+S
+#10148
+The Village Blacksmith~
+   Heat from the forges makes this the hottest house you've been in. The
+blacksmith apparently converted an old barn into the large room he uses as his
+forge. A large bed has been placed in what used to be the hay loft, or so it
+seems. The smell of horses from the nearby stables is overpowering, how anyone
+could live with a smell like that who knows!
+~
+101 12 0 0 0 0 255 0
+D3
+~
+door oaken~
+1 -1 10152
+S
+#10149
+The Butcher's Store~
+   Fresh and smoked meat hangs from the walls. The sounds of live cattle about
+to be slaughtered can be heard off to the west. Any possible part of the cow
+that can be used will be found in this store. And if they don't have what you
+are looking for handy they're more than willing to go to the slaughter house
+and cut you some for a small extra fee.
+~
+101 12 0 0 0 0 255 0
+D2
+~
+~
+0 -1 10150
+D3
+~
+door oaken~
+1 -1 10156
+S
+#10150
+A Cul-de-sac~
+   This is where the few businesses of the hamlet are located. The town
+doesn't need much so there are very few shops in town, what the people need
+they usually make. There is however a small butcher shop to the north of here
+that seems to turn a pretty penny. There are houses east and west of here that
+seem to be quite nice compared to some of the poorer houses in the east.
+~
+101 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10149
+D1
+You see the Towne Constables Offices and City jail.
+~
+door oaken~
+1 -1 10147
+D2
+~
+~
+0 -1 10151
+D3
+You see a large house with the symbol for the towne mayor adorning it.
+~
+door oaken~
+2 10002 10155
+S
+#10151
+The Business Square~
+   This place is strangely quite, even for a towne such as this. Something must
+have kept most of the werecreatures away from this place as much as possible.
+Perhaps they just finished destroying this part of town and moved on.
+Certainly no business remain on this deserted street. However you can still
+here the whinny of strange horses to the south, and a howl from the fields to
+the north.
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10150
+D1
+~
+~
+0 -1 10144
+D2
+~
+~
+0 -1 10152
+D3
+~
+~
+0 -1 10161
+S
+#10152
+A Strange Courtyard~
+   When you walked into that abandoned building you could've sworn it was day,
+but now it is the middle of night, the only light coming from the full moon.
+Something strange has certainly happened! A light mist clings low to the
+ground. Several of the surrounding houses look as if they have been vandalized
+recently, even some of the cobblestones in the street have been ripped up.
+What could possibly have happened here?
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10151
+D1
+You see a large barn that has been converted into a blacksmith's forge.
+~
+door oaken~
+1 -1 10148
+D2
+~
+~
+0 -1 10153
+D3
+   To the west you can see the charred remains of a house. An air of sadness
+seems to hang over the ruins, sending a chill down your spine....
+~
+door oaken~
+0 -1 10154
+S
+#10153
+The Stables~
+   You guessed it...this is where the towne keeps all its horses. Its the
+typical stable, small stalls to keep the horses in when they're not running
+around, buckets of water and oats, and of course various riding gear. You cant
+stop this strange feeling, however, that someone (or something) is watching
+you from the shadows.
+~
+101 13 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10152
+D2
+~
+~
+0 -1 10162
+S
+#10154
+A Destroyed House~
+   A large fire has destroyed this once beautiful house. As you enter its
+remains a strong wind picks up, and the sky begins to darken as if to rain.
+Suddenly there is a shimmering in the air and an image appears before you!
+   The phantom image begins to speak....
+   "They said i talked with wolves, the dark ones creatures...."
+   "They burned me alive and called me Darkfriend...."
+   "But from hell's heart i stab at them...I curse them all....They shall know
+wolves like no one else in the world....And wish they had been kinder to an
+old woman.....A lonely woman...."
+   The phantom returns to the mists which gave it life, but the darkness
+remains, night has fallen on this small town, perhaps to stay....
+~
+101 9 0 0 0 1 255 0
+D1
+~
+door oaken~
+0 -1 10152
+S
+#10155
+A Large House~
+   You have just entered the house of the village mayor! Thick carpeting
+covers the floors, and where it does not cover the hardwood floors have been
+polished to perfection. Certainly the mayor is the richest man in the village,
+judging by this house at least. Everywhere you look there is some piece of art
+covering the walls or tables.
+A large painting is hanging over the fireplace.
+~
+101 9 0 0 0 0 255 0
+D1
+~
+door oaken~
+2 10002 10150
+D4
+~
+~
+0 -1 10189
+D5
+~
+~
+0 -1 10188
+E
+painting large~
+   The painting resembles that of a man, except something is wrong with him.
+He seems unusually pale, like he hasn't seen the sun in years. And there is a
+twinkle in his eyes, they almost make you feel queasy and want to trust this
+man you've never met. The eyes seem to follow you around the room as if trying
+to judge your intent...
+~
+S
+#10156
+The Slaughterhouse~
+   Freshly slaughtered cattle lie here in heaps. This is certainly not the
+cleanest place in the world (the FDA would not approve). Bones and waste
+material has been discarded on the floor without regards to a persons health.
+Maybe you should tell someone about the rancid meat that is laying around,
+course the dogs seem to like it...
+~
+101 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10157
+D1
+~
+door oaken~
+1 -1 10149
+D3
+~
+~
+0 -1 10196
+S
+#10157
+The Pasture~
+   This is where the butcher keeps the cows that he is about to slaughter.
+Here the cows graze on the thick green grass with no concern that they are
+about to die. By the way ... Id be careful where ya step, cows don't really
+care about being the cleanest creatures on the planet and certainly don't use a
+bathroom!
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10158
+D2
+~
+~
+0 -1 10156
+D3
+~
+~
+0 -1 10160
+S
+#10158
+The Pasture~
+   This is where the butcher keeps the cows that he is about to slaughter.
+Here the cows graze on the thick green grass with no concern that they are
+about to die. By the way ... Id be careful where ya step, cows don't really
+care about being the cleanest creatures on the planet and certainly don't use a
+bathroom!
+~
+101 9 0 0 0 1 255 0
+D2
+~
+~
+0 -1 10157
+D3
+~
+~
+0 -1 10159
+S
+#10159
+The Pasture~
+   This is where the butcher keeps the cows that he is about to slaughter.
+Here the cows graze on the thick green grass with no concern that they are
+about to die. By the way ... Id be careful where ya step, cows don't really
+care about being the cleanest creatures on the planet and certainly don't use a
+bathroom!
+~
+101 9 0 0 0 1 255 0
+D1
+~
+~
+0 -1 10158
+D2
+~
+~
+0 -1 10160
+S
+#10160
+The Pasture~
+   This is where the butcher keeps the cows that he is about to slaughter.
+Here the cows graze on the thick green grass with no concern that they are
+about to die. By the way ... Id be careful where ya step, cows don't really
+care about being the cleanest creatures on the planet and certainly don't use a
+bathroom!
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10159
+D1
+~
+~
+0 -1 10157
+D2
+~
+~
+0 -1 10196
+S
+#10161
+An Abandoned Gate~
+   This gate has fallen into disrepair and has been abandoned by the villagers.
+Beyond the gate is a small road that apparently leads to a castle off in the
+distance. From here the castle looks abandoned, but you cant help but feel as
+if some presence is watching you from there... Its strange that these
+villagers would not keep this place in as good repair as the rest of their
+towne, perhaps you should ask someone about it.
+~
+101 9 0 0 0 1 255 0
+D1
+~
+~
+0 -1 10151
+D3
+The iron gates seem to have rusted shut over the years. Beyond them lie an old
+abandoned castle, far off in the mists.
+~
+gates gate iron rusted~
+2 10169 15300
+S
+#10162
+The Field~
+   Once this field was used by the horses as grazing land. No grass remains
+here however, for something has scorched the land black. Fires so intense that
+they actually melted the iron fence that once kept the wild animals at bay.
+Apparently something else now keeps the wild creatures at bay, or perhaps
+they are all already in....
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10153
+D2
+~
+~
+0 -1 10163
+S
+#10163
+The Field~
+   The lands are black as far as the eye can see, burned by a fire so intense
+that it melted the iron fence that once surrounded this field. How any natural
+fire could be that intense you're not sure, but you'd also rather not find
+out!
+~
+101 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10162
+D1
+~
+~
+0 -1 10165
+D2
+~
+~
+0 -1 10164
+S
+#10164
+The Field~
+   Once this field was used by the horses as grazing land. No grass remains
+here however, for something has scorched the land black. Fires so intense that
+they actually melted the iron fence that once kept the wild animals at bay.
+Apparently something else now keeps the wild creatures at bay, or perhaps
+they are all already in....
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10163
+D1
+~
+~
+0 -1 10166
+S
+#10165
+The Field~
+   Once this field was used by the horses as grazing land. No grass remains
+here however, for something has scorched the land black. Fires so intense that
+they actually melted the iron fence that once kept the wild animals at bay.
+Apparently something else now keeps the wild creatures at bay, or perhaps
+they are all already in....
+~
+101 9 0 0 0 1 255 0
+D1
+~
+~
+0 -1 10193
+D2
+~
+~
+0 -1 10166
+D3
+~
+~
+0 -1 10163
+S
+#10166
+The Field~
+   The lands are black as far as the eye can see, burned by a fire so intense
+that it melted the iron fence that once surrounded this field. How any natural
+fire could be that intense you're not sure, but you'd also rather not find
+out!
+~
+101 9 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10165
+D1
+~
+~
+0 -1 10194
+D3
+~
+~
+0 -1 10164
+D5
+~
+~
+0 -1 10168
+S
+#10167
+A Small Bedroom~
+   This is a small bedroom that has been made out of the attic to this
+(originally) one story house. Obviously it is too small for any normal adult to
+fit in, and the color scheme indicates that it is a child's room. The curtains
+are of a pinkish hue, and the quilt that covers the bed is decorated with
+flowers. It almost makes you sick that any room could be this sweet, imagine
+its owner...
+~
+101 12 0 0 0 0 255 0
+D5
+Below you is the main living area to the home.
+~
+~
+0 -1 10126
+S
+#10168
+A Small Beach~
+   The path has lead you from the horse's fields to a small deserted beach.
+You can hear the distant rumbling of the sea to your south, but other than
+that no sound breaks the silence. Actually the distant waves make this quite a
+peaceful place to sit and think about nothing.
+~
+101 4 0 0 0 2 255 0
+D2
+~
+~
+0 -1 10173
+D4
+~
+~
+0 -1 10166
+S
+#10169
+The Privy~
+   As you enter this small dark room, the door behind you suddenly slams shut
+and a small click can be heard. ACK! don't look now, but you've been locked in
+the privy! What would your friends say about this? The big bad adventurer cant
+even manage to go to the bathroom without 'something' going wrong, you're
+never going to hear the end of this one!
+~
+101 141 0 0 0 0 255 0
+D2
+~
+door oak~
+2 10199 10179
+D5
+   The only thing below you is the seat to the toilet. Below that is a deep
+pit where all the excrement goes...you 'really' don't want to go down there,
+do you?
+~
+seat toilet~
+1 -1 10197
+E
+seat toilet~
+  Well this is one of the nicer inns, what did you expect? just a hole in the
+floor? Nothing but the finest oak for well paying guests.
+~
+S
+#10170
+Along The Coast~
+   The beach ends here, rather abruptly. The cliffs rise up above you on two
+sides, and the pounding surf cuts off another exit. Your only choice is to
+return the way you came. Unless, of course, you wish to try the water, but to
+do so would me certain death on the rocks.
+~
+101 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 10173
+S
+#10171
+Before A Small Cave~
+   The beach continues on both east and west. To the north however, is a small
+cave that the water has apparently carved out of the sheer cliffs. At high
+tide it must fill with water, or perhaps be totally inaccessible.
+~
+101 0 0 0 0 1 255 0
+D0
+The darkness of the cave is complete. You can see nothing inside, the darkness
+swallowing every detail....
+~
+~
+0 -1 10172
+D1
+~
+~
+0 -1 10190
+D3
+~
+~
+0 -1 10173
+S
+#10172
+In A Small Cave~
+   This is a small cave, apparently cut out of the cliff by the pounding waves.
+Deep puddles in the limestone and a wealth of sand tell you that at high tide
+this place will be underwater, take care that your are not in here when that
+happens! A strong wind seems to come out of nowhere, whipping through the
+natural features of the cave, it almost sounds like a moan.
+~
+101 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 10171
+S
+#10173
+Along The Coast~
+   The clear blue water stretches out before you, and seems to go on for
+infinity. The roar of the surf is almost deafening this close to the water. If
+it weren't for the sharp rocks you could go farther out, but with the currents
+as strong as they look, you'd be killed in a second.
+~
+101 0 0 0 0 6 255 0
+D0
+~
+~
+0 -1 10168
+D1
+~
+~
+0 -1 10171
+D3
+~
+~
+0 -1 10170
+S
+#10174
+A Jailcell~
+   The smell of human refuse hangs heavy in the air here. Apparently no one
+had thought to build a sewer drain in here! A sparse layer of straw covers the
+floor, but no furnishings whatsoever decorate the room. The keepers of the
+jail must follow that philosophy that jail is not supposed to be comfortable,
+a month in here would be far worse than a year in Midguaard's jail...
+~
+101 13 0 0 0 0 255 0
+D2
+~
+cell bars jailcell door~
+1 10101 10195
+S
+#10175
+A Small Workshop~
+   This room certainly makes up for the cleanliness of the downstairs! Someone
+has turned this attic into a workshop. Apparently the man of the house is a
+carpenter of some skill. Beautiful cabinets and chests in various stages of
+completeness surround this room, and sawdust is Everywhere! You can't imagine
+how the goodwife manages to keep all the sawdust out of the rest of the house,
+it is certainly a credit to her cleaning skills.
+~
+101 8 0 0 0 0 255 0
+D5
+~
+~
+0 -1 10145
+S
+#10176
+One The Second Floor~
+   The stairs have led you up to the second floor of the inn and a small
+hallway. Small compared to some of the nicer hotels of Midguaard, this inn
+only has 4 rooms. The once thick carpet that covered the floors has been
+ripped to shreds by what appears to be animal's claws. Pictures have been
+ripped off the wall, and blood smears are drying where they once hung.
+~
+101 9 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10179
+D1
+~
+door oaken~
+1 -1 10177
+D3
+~
+door oaken~
+1 -1 10181
+D5
+~
+~
+0 -1 10121
+S
+#10177
+The Last Refuge~
+This bedroom has been turned topsy-turvey.  The bedframes are jammed up against
+the door.  The mattresses are stuffed into the windowframes.  A smashed up
+chair has been forced up into the fireplace flue.  Apparently the occupants of
+this room are desperate to keep anyone or anything out.  The occupants appear
+to be normal-looking people, apparently trapped here.  They would appear to be
+the last vestige of humanity in this village...  trapped...  Waiting fo help
+that may never arrive.    
+~
+101 13 0 0 0 0 255 0
+D3
+~
+door oaken~
+1 -1 10176
+S
+#10178
+A Private Room~
+   This room was especially made up for only one person, a rarity for most
+hotels.  The fighting has not spared this room however, the once beautiful bed
+has been ripped to shreds, the furniture is now kindling, even some of the
+floorboards have been ripped up!
+~
+101 9 0 0 0 0 255 0
+D3
+~
+door oaken~
+1 -1 10179
+S
+#10179
+A Small Hallway~
+   The last of the rooms are here at the end of the hallway. This is the
+quietest place in the whole inn, these rooms must fetch a special price. Even
+the doors are intricately carved from what appears to be, one single piece of
+wood.
+~
+101 9 0 0 0 0 255 0
+D0
+~
+door privy oaken~
+2 10199 10169
+D1
+~
+door oaken~
+1 -1 10178
+D2
+~
+~
+0 -1 10176
+D3
+~
+door oaken~
+1 -1 10180
+S
+#10180
+A Private Room~
+   This room was especially made up for only one person, a rarity for most
+hotels.  The fighting has not spared this room however, the once beautiful bed
+has been ripped to shreds, the furniture is now kindling, even some of the
+floorboards have been ripped up!
+~
+101 9 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10179
+S
+#10181
+A Tiny Room~
+   This room was obviously not designed to be lived in, in the original plans
+that is. The owner of the inn has apparently converted some storage space into
+a room in order to serve more people. Strange though, not many people should
+be coming through a towne such as this. Perhaps in days of old there was
+something in to the town to draw visitors from the outside world...
+~
+101 9 0 0 0 0 255 0
+D1
+~
+door oaken~
+1 -1 10176
+S
+#10182
+The Choir Loft~
+   Even the small churches like to separate the choir from the parishioners.
+The music from the small quartet and a few choir members is all a small church
+like this needs to be filled with harmony. Even without their playing at the
+moment, you can imagine how beautiful it must sound.
+~
+101 8 0 0 0 0 255 0
+D4
+~
+~
+0 -1 10183
+D5
+~
+~
+0 -1 10146
+S
+#10183
+The Church Steeple~
+   A small winding staircase leads you up above the choir loft and the pews of
+the church. Few people bother going up here, dust has even started to
+accumulate in a few corners. Above you, you can make out the outlines of a
+small trapdoor, possibly leading to the bell tower.
+~
+101 12 0 0 0 0 255 0
+D4
+Yep, a trapdoor is above you. Just like it said in the room description.
+~
+trapdoor door~
+1 -1 10184
+D5
+~
+~
+0 -1 10182
+S
+#10184
+The Bell Tower~
+   Large brass bells fill most of the space in here. These bells probably
+serve as an important means of communication for the towne, signaling time to
+worship, time to wake, and a call to order if need be. Of course, if they were
+Rung while you were up here....
+
+BOOONNNNNNGGGGGGG BOOOOONNNNNGGGGG BOOOOOONNNNNNNNNNNGGGGGGG
+
+ACK! you are deafened by the noise.
+~
+101 8 0 0 0 0 255 0
+D5
+~
+trapdoor door~
+1 -1 10183
+S
+#10185
+A Basement~
+   A set of old, mildewy steps leads you down into the Basement of the house.
+Here is where the house's goodwife used to store her preserves for the long
+winter. It seems as if all the food went bad, the room reeks of decay and mold.
+Whoever canned this stuff must not have know what they were doing, or perhaps
+some supernatural force is at work in this hamlet. Its dark down here, and the
+shadows seem to be watching you...
+~
+101 13 0 0 0 0 255 0
+D4
+~
+~
+0 -1 10123
+S
+#10186
+A Basement~
+   A set of old, mildewy steps leads you down into the Basement of the house.
+Here is where the house's goodwife used to store her preserves for the long
+winter. It seems as if all the food went bad, the room reeks of decay and mold.
+Whoever canned this stuff must not have know what they were doing, or perhaps
+some supernatural force is at work in this hamlet. Its dark down here, and the
+shadows seem to be watching you...
+~
+101 13 0 0 0 0 255 0
+D4
+~
+~
+0 -1 10125
+S
+#10187
+Inside A Grave~
+   You climb down into a freshly dug grave (why you would ever do such a thing
+is beyond me!). The dirt is freshly wet from the evening dew. Contrary to your
+fears, nothing down here is moving, but a strange 'presence' seems to be
+watching you. You begin to get a queasy feeling in your stomach as a thick
+mist begins pouring in from above ...
+~
+101 141 0 0 0 5 255 0
+D4
+~
+~
+0 -1 3001
+S
+#10188
+The Rootcellar~
+   As in some of the other houses in the hamlet, this house has a small cellar
+to store food throughout the winter. By the looks of things, this house will
+never go hungry no matter how long the winter lasts! Rows upon rows of
+pickling jars line shelves that seem to go on forever. There must be enough
+here to feed half the village. Upon closer inspection you realize that
+something is wrong with the jars.
+~
+101 9 0 0 0 0 255 0
+D4
+~
+~
+0 -1 10155
+E
+jars shelves rows~
+   Well no cellar can be full all the time can it? The jars in ever row are
+filled, and there is a thick layer of dust on top. It seems as if the mayor
+has not had to use this cellar in a long time, he must have some other way to
+keep himself fed throughout the winter....
+~
+S
+#10189
+The Mayor's Office~
+   This is the small office from which the mayor handles all the formalities
+of running this hamlet. An old, oaken desk is the centerpiece of the office,
+and looks as good as the mayor of Middguaard's. The mayor certainly enjoys the
+benefits of office to their fullest extent.
+~
+101 9 0 0 0 0 255 0
+D5
+~
+~
+0 -1 10155
+S
+#10190
+The End of the Beach~
+As you reach the end of the beach, something about the cliff makes you shiver.
+As you get closer you realize that the cliff as been carved, just enough to
+make it seem natural, but carved nonetheless.  After careful study you realize
+...  They're faces!  Human faces staring out at the beautiful sea.  You move
+closer and realize that the faces all bear the same twisted look of horror and
+madness.  One of the gaping mouths is a yawning black hole that leads....  
+~
+101 4 0 0 0 5 255 0
+D0
+before you is a tunnel
+~
+~
+0 0 15397
+D3
+~
+~
+0 -1 10171
+D4
+~
+~
+0 -1 10132
+S
+#10191
+LupusVille Mob Tube Number 1~
+   This is the mob tube for all the citizens and such, to give them a random
+distribution. I mean ya never know when someone should be visiting or
+something. This room is not for mortals!
+~
+101 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10147
+D1
+~
+~
+0 -1 10125
+D2
+~
+~
+0 -1 10152
+D3
+~
+~
+0 -1 10110
+D4
+~
+~
+0 -1 10108
+D5
+~
+~
+0 -1 10138
+S
+#10192
+LupusVille Mob Tube Number 2~
+   This is the Mob tube for all the mobs that belong on the streets, Dogs,
+cats, citizens etc...They wont be able to get into a house unless someone
+opens the door for them! Mortals please leave now as HUNDREDS of mobs might
+repop any second (well maybe not hundreds, but a lot!)
+~
+101 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 10138
+D1
+~
+~
+0 -1 10152
+D2
+~
+~
+0 -1 10113
+D3
+~
+~
+0 -1 10141
+D4
+~
+~
+0 -1 10136
+D5
+~
+~
+0 -1 10109
+S
+#10193
+The Field~
+   The horses of the town use this field to stretch their legs and feed. Large
+mounds of hay dot the field for the horses to feed. The entire area is fenced
+in so that the horses cannot run away into the forests beyond the towne. The
+fences also serve to keep wild animals from feeding on the horses. This
+particular part of the field seems particularly empty, perhaps the horses
+don't like being so close to the graveyard....
+~
+101 9 0 0 0 1 255 0
+D2
+~
+~
+0 -1 10194
+D3
+~
+~
+0 -1 10165
+S
+#10194
+The Field~
+   The horses of the town use this field to stretch their legs and feed. Large
+mounds of hay dot the field for the horses to feed. The entire area is fenced
+in so that the horses cannot run away into the forests beyond the towne. The
+fences also serve to keep wild animals from feeding on the horses. This
+particular part of the field seems particularly empty, perhaps the horses
+don't like being so close to the graveyard....
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10193
+D3
+~
+~
+0 -1 10166
+S
+#10195
+The Towne Jail~
+   A musty smell hangs in the air of this fowl place. Obviously, the hamlet
+doesn't believe in locking people up very often, but when they do the offenders
+are brought here to this decrepit dungeon. The only furnishing in this place is
+a small wooden chair that a guard uses to rest while he watches his prisoners.
+~
+101 13 0 0 0 0 255 0
+D0
+~
+cell bars jailcell door~
+1 10101 10174
+D4
+~
+~
+0 -1 10147
+S
+#10196
+The Pasture~
+   This is where the butcher keeps the cows that he is about to slaughter.
+Here the cows graze on the thick green grass with no concern that they are
+about to die. By the way ... Id be careful where ya step, cows don't really
+care about being the cleanest creatures on the planet and certainly don't use a
+bathroom!
+~
+101 9 0 0 0 1 255 0
+D0
+~
+~
+0 -1 10160
+D1
+~
+~
+0 -1 10156
+S
+#10197
+Effluvium~
+You fall headlong down this well of dung and other UNSPEAKABLE waste.  The
+stench chokes you into semi-conciousness as your tumbling fall slathers you
+with FILTH!    
+~
+101 2622445 0 0 0 0 255 0
+D5
+you see a dark hole
+~
+~
+0 0 7105
+E
+shit excrement waste~
+  Ummm you'd really rather not think about it ... let alone LOOK at it! shesh,
+what are you? some kind of sicko?
+~
+S
+#10198
+An Overgrown Garden~
+   This looks more like some sort of jungle than a garden. Its as if the
+plants haven't been taken care of for years! Weeds have sprouted out of the
+walkways, plants have outgrown their pots, and at least one tree has grown
+right through a window in this small courtyard.
+~
+101 13 0 0 0 3 255 0
+D1
+~
+~
+0 -1 10142
+S
+$~

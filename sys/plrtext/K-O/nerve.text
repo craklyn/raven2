@@ -1,0 +1,20 @@
+sa sa &09$* &00
+ld cast 'life drain' $*
+cw clanwho
+where who -z
+infra cast 'infra' $*
+fb cast 'flame blade' $*
+fly cast 'fly' $*
+di cast 'detect invis' $*
+summon cast 'summon' $*
+sil cast 'silence' $*
+shield cast 'shield' $*
+loca cast 'locate object' $*
+id cast 'identify' $*
+cha cast 'charm person' $*
+bl cast 'blindne' $*
+o order follower $*
+os order follower say &09$* &00
+stone cast 'stoneskin' $*
+gt gt &09$* &00
+c clan &09$* &00

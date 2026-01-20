@@ -1,0 +1,8 @@
+sp c 'magic miss' $*
+df drink thimb
+infra c 'infra'
+fly c 'fly' $*
+fb c 'flame blade' $*
+inv c 'invis' $*
+bl c 'blind' $*
+cp c 'charm person' $*

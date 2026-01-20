@@ -1,0 +1,22 @@
+q cast 'harm' $*
+` cast 'flame s' $*
+di c 'detect invis'$*
+saga c 'saga'$*
+fly c 'fly'$*
+fort cas 'fort' $1
+rev c 'revive'$*
+sanc c 'sanc'$*
+bless c 'bless'$*
+word c 'word'$*
+sum cast 'summon' $*
+armor cast 'armor' $*
+h cast 'heal' $*
+locate cast 'relocate' $*
+ward cast 'ward' $*
+regen cast 'regen' $*
+harm cast 'harm' $*
+gt gt &09$* &00
+b cast 'blind' $*
+z cast 'blind' craw
+cure cast 'cleanse' $*
+2 scan

@@ -1,0 +1,19 @@
+bc butcher corpse
+cs cast 'sense life'
+stren cast 'strength' $1
+pab put all.roll bag
+cow cast 'call of the wild'
+q kill lark
+a scan
+t trip
+shi cast 'shield' $1
+gaac get all all.corpse
+rr recite recall
+lic look in corpse
+dc destroy corpse
+gac get all corpse
+gg get all.gold
+rrr recite recall recall
+bark cast 'barkskin' $1
+m murder
+stat auction_stat

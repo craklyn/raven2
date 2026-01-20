@@ -1,0 +1,230 @@
+#30701
+E W 0~
+mage guildmaster~
+the Mages Guildmaster~
+The Mages Guildmaster welcomes you to his office.
+~
+"Welcome, friend, to the Guild of Mages. Should you wish to practice
+a skill or spell that is within my area of expertise, simply type PRAC
+<skillname>. Typing PRAC without an argument will display what skills or
+spells you may learn here".
+~
+253962 0 0 0 1192 0 0 0 0
+50 -51 -10 1d20000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#30702
+H M 0~
+guildguard mage magic user sorcerer~
+the Sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive as
+well as defensive spells make him a deadly opponent.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -51 -10 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30703
+H A 0~
+guildguard assassin~
+the Assassin Guard~
+An Assassin guards the entrance.
+~
+The guard will allow only assassins to enter the guild.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -51 -10 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30704
+E W 0~
+menzoah assassin guildmaster scholar~
+Menzoah~
+Mengrabbazoah, Assassin Scholar, is here to train you.
+~
+Menzoah is an old and wise Elf, the most powerful of his kind
+currently living under the city of Fairhaven, for security
+reasons.
+~
+254027 0 0 0 1192 0 0 0 0
+50 -51 -10 1d3000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#30705
+H H 0~
+guildguard shadow dancer~
+the Shadow Dancer Guard~
+A Shadow Dancer guards the entrance.
+~
+The guard will allow only Sahdow Dancers to enter the guild.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -51 -10 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30706
+E W 0~
+elven shadow guildmaster~
+the Shadow Guildmaster~
+The Shadow Guildmaster welcomes you to his world.
+~
+"Welcome, friend, to the Guild of Shadows. Should you wish to practice
+a skill or spell that is within my area of expertise, simply type PRAC
+<skillname>. Typing PRAC without an argument will display what skills or
+spells you may learn here".
+~
+253962 0 0 0 1192 0 0 0 0
+50 -51 -10 1d20000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#30708
+H R 0~
+guildguard ranger~
+the Ranger Guard~
+A Ranger guards the entrance.
+~
+The ranger will allow only rangers to enter the guild.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -51 -10 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30709
+H R 0~
+guildmaster master ranger~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+Your guildmaster bows before you.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -51 -1 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30710
+H W 0~
+warrior guildguard~
+the Warrior Guard~
+A Warrior Guard is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of FairHaven.
+His duty is to protect the faithful from persecution and infidel attacks and
+his devotion combined with his superior skill makes him a deadly opponent.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -51 -1 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30711
+H W 0~
+guildmaster master warrior fighter~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -51 -1 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30712
+H W 0~
+knight templar cleric guildguard~
+the Knight Templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Faith.
+His duty is to protect the faithful from persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -30 -1 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30713
+E W 0~
+cleric guildmaster~
+the Cleric Guildmaster~
+The Clerics Guildmaster stands here, patiently watching you.
+~
+"Welcome, my child, to the Guild of the Cleric. Should you wish to
+practice a skill or spell that is within my area of expertise, simply
+type PRAC <skillname>. Typing PRAC without an argument will display what
+skills or spells you may learn here".
+~
+253962 0 0 0 1192 0 0 0 0
+50 -50 -1 1d20000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#30714
+H A 0~
+thief thug guildguard~
+the Thief~
+A Thug is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
+~
+2059 0 0 0 136 0 0 0 1000
+50 -30 -1 1d20000+1 10d10+100
+80 90
+9 9 1 0 -1 -1
+#30715
+E W 0~
+thief guildmaster~
+the Thief Guildmaster~
+The Theif Guildmaster grins impishly at you.
+~
+"Sooooo... How can I help you? You want to learn how to STEAL???? How
+insulting! Are you insinuating that I am a- a THIEF??? Listen, we
+do NOT STEAL! We BORROW... Now with that out of the way, type PRAC to see
+what I can teach you, and PRAC skill to learn one of the skills shown."
+~
+253962 0 0 0 1192 0 0 0 0
+50 -50 -1 1d20000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#30720
+E T 0~
+thief bodyguard bg1~
+a Thief Bodyguard~
+This bodyguard scowls menacingly at you.
+~
+This thief looks big and tough. Better be careful.
+~
+14 0 0 0 0 0 0 0 0
+15 10 0 1d150+1 8d7+0
+35 40
+9 9 1 0 -1 -1
+#30721
+E H 0~
+shadow dancer bodyguard bg2~
+the Shadow Dancer Bodyguard~
+The Bodyguard scowls at you from the shadows.
+~
+A pair of fire red eyes glare at you from the shadows.
+~
+14 0 0 0 0 0 0 0 0
+20 10 -1 1d200+1 8d7+1
+40 40
+9 9 0 0 -1 -1
+#30722
+E A 0~
+assassin boddyguard bg3~
+the Assassin Bodyguard~
+The Bodyguard scowls menacingly at you.
+~
+This bodyguard looks big and tough. Better be careful.
+~
+14 0 0 0 0 0 0 0 0
+25 10 -1 1d250+1 8d7+2
+40 40
+9 9 1 0 -1 -1
+$

@@ -1,0 +1,25 @@
+4 get steel bag;rem ice;wield steel;
+y shadow $*
+6 c 's v' gnome_elder
+j disarm $*
+p c 'blur'
+a assist $*
+leveldown rem ony;rem ony;rem helm;get jew dee;get jew dee; wear jew;wear jew;get eth dee;wear eth; rem belt;get sash deer;wear sas
+levelup rem eth;rem jew;rem jew;get helm dee;wear hel;get ony dee;wear ony; get ony dee; wear ony; rem sash;get belt dee;wear belt
+sv c 's v' $*
+z c 'ts'
+1 rec recall
+x c 'shadow blade' $*
+ss c 'shadow sphere'
+v c 'blind' $*
+r trip $*
+2 rec recall recall
+ds c 'dance of shadows'
+sw c 'shadow walk'
+7 get all all.arx; wear all;wield dagg;hold ball;get all all.arx
+5 c 's v' ruffian_vamp
+m c 'dance of mist' $*
+3 shadowstep $*
+f delusion
+8 rem steel;wield ice;drop steel
+gt gtell &11/&14(&11/&14(&13$* &14)&11\&14)&11\&00

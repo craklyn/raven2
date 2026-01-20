@@ -1,0 +1,49 @@
+gheal cast 'revive' group
+inf cast 'infra'
+ls cast 'sense'
+r cast 'revive' $*
+gg get all all.cor
+rel cast 'relocate' $*
+re cast 'word' $*
+2 tak mag bag;mix sanctuary magic
+1 tak mag bag;mix revive magic
+ear cast 'earthquake'
+cl clan &13$* &00
+rc cast 'remove curse' $*
+gt gtell &13$* &00
+q drop dust
+loot di;get all crys;wear all;get all crys;wear all;get all crys;wear all;get all crys;wear all;get all crys;wear all;wield wrath;h
+fort cast 'fort' $*
+sense cast 'sense' $*
+dis cast 'dishearten' $*
+cc cast 'cure critic' $*
+wa wake;stand
+cb cast 'cure blind' $*
+sand emote throws &13Faerie&00 dust in the air and dances around in it.
+grec cast 'word of recall' group
+harm cast 'harm' $*
+word cast 'word of recall' $*
+armor cast 'armor'
+mal cast 'maledict' $*
+bl cast 'blind' $*
+sum cast 'summon' $*
+fly cast 'fly' $*
+infra cast 'infravision'
+c cast 'create food'
+ward cast 'ward' $*
+di cast 'detect invisibility' $*
+bless cast 'bless' $*
+sanc cast 'sanctuary' $*
+fl cast 'flame strike' $*
+gsanc cast 'sanc' group
+j cast 'revive' $*
+relo cast 'relocate' $*
+a cast 'word of recall'
+cle cast 'cleanse' $*
+pee emote dances around and clutches himself desperately!
+good emote steeples his fingers and mutters, 'excellent...'
+say emote chants, '&13$* &00'
+tap emote taps his foot impatiently.
+3 mix heal dust
+hw cast 'holy word'
+fs cast ?flame strike? $*

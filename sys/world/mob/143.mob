@@ -1,0 +1,307 @@
+#14301
+H C 0~
+disciple~
+the Disciple~
+The Disciple of Xerxes strides confidently onto the next trial.
+~
+This young man has survived the first two of the fabled trials of Xerxes and 
+is confident of continuing his success. He looks at you closely then exclaims,
+'Your not of the holy order! How did you get here!?'
+~
+7976 0 0 0 197804 0 0 0 -500
+35 -3 -4 1d1000+1000 3d5+23
+50 60
+9 9 1 0 -1 -1
+#14302
+H C 0~
+disciple~
+the Disciple~
+The Disciple of Xerxes looks around the darkness in fear.
+~
+The disciple looks fearfully into the dark, his face stark with terror. Claw
+marks on his body show that the inhabitants have been toying with him,
+prolonging the kill as long as possible. The god that has protected him
+before seems to have abandoned him to this horror, but desperately he tries
+to keep his faith, hoping he will not join his fellows.
+~
+7976 0 0 0 197804 0 0 0 -500
+35 -3 -4 1d1000+1000 3d5+23
+50 60
+9 9 1 0 -1 -1
+#14303
+U M 0~
+wraith~
+the Wraith~
+The ghastly wraith reaches out for you!
+~
+Twin points of light glittering with malice peer at you beneath the cowl of
+a tattered black robe. You can see the darkness beyond though holes in the
+robe, the body of the wraith has no substance.
+~
+190252 0 0 0 1311850 0 0 0 -1000
+45 -5 -1 1d2000+2000 8d7+4
+65 75
+9 9 0 0 -1 -1
+#14304
+U C 0~
+apparition spirit~
+the Apparition~
+The spirit of a slain disciple moans in anguish.
+~
+The apparition's ghostly flesh is rent with tears exposing the wretches vital
+organs. The eyes are rolled back into its head and it cries mournfully for
+release from its horrific unlife.
+~
+190252 0 0 0 1311850 0 0 0 -1000
+45 -3 -1 1d2000+2000 8d7+4
+65 75
+9 9 0 0 -1 -1
+#14305
+U M 0~
+spectre~
+the Spectre~
+A spectre emerges from the darkness to drain your life force.
+~
+The ethereal body of the spectre floats just above the ground. The spectre
+looks at you eagerly, licking its lips.
+~
+190252 0 0 0 328746 0 0 0 -1000
+45 -5 -3 1d2200+3000 8d8+14
+65 75
+9 9 0 0 -1 -1
+#14306
+N D 0~
+night stalker~
+the Night Stalker~
+You barely have time to react before the Night Stalker strikes!
+~
+This horrible night denzien is only about five feet tall. It has short bowed
+legs which allow it to spring some distance. The creatures flesh is utterly
+black and hard as adamantite. Its powerfully muscled arms are tipped with
+razor sharp talons to rend flesh.
+~
+1634093 0 0 0 1074660458 0 0 0 -500
+38 -5 -5 1d6000+3000 15d3+12
+50 60
+9 9 0 0 -1 -1
+#14307
+N D 0~
+night horror~
+the Night Horror~
+The terrible Night Horror spreads its arms wide to embrace you.
+~
+This creature born of nightmares is hunched over, but still stands eight feet
+tall. The creature's long arms end in clawed hands that scrape along the 
+floor behind it. You notice some kind of acidic slime covers the body of the
+monster.
+~
+18220 0 0 0 132136 0 0 0 -500
+40 -5 -3 1d8000+3000 1d50+15
+65 75
+9 9 0 0 -1 -1
+#14308
+N D 0~
+life stealer~
+the Life Stealer~
+The Life Stealer has come to end your existence.
+~
+Looking at it, you see the body is completely smooth, even its head is just a
+featureless ovoid. Unlike other creatures here, it has no fangs or claws, for
+it needs none, its touch alone can suck the life from its victims.
+~
+1732397 0 0 0 165096 0 0 0 -1000
+39 -6 -9 1d1500+2500 1d120+30
+50 60
+9 9 0 19 19 19
+#14309
+N D 0~
+darkness cloud~
+the Cloud of Darkness~
+You see a cloud of absolute darkness coalescing in the centre of the room.
+~
+The cloud is utterly black, absorbing all light, all heat, all sound. It is
+even darker than the darkness around it, the only thing that lets you see it
+at all.
+~
+8996892 0 0 0 1074168874 0 0 0 -1000
+45 -7 -12 1d1+30000 1d100+70
+65 75
+9 9 0 0 -1 -1
+#14310
+U W 0~
+ghoul~
+the Ghoul~
+The night-haunting ghoul looks at you hungrily.
+~
+You find yourself looking at a grey skinned sub-human creature. It's eyes
+reflect an unnatural hunger as its snarling lips draw back to reveal it's
+sharp pointed teeth.
+~
+28460 0 0 0 394240 0 0 0 -500
+33 -4 -1 1d2000+2000 8d7+4
+50 60
+9 9 0 0 -1 -1
+#14311
+U W 0~
+ghast~
+the Ghast~
+A grey skinned humanoid glares at you with glowing red eyes.
+~
+A dreadfull stench emanates from the corpse-like skin of this creature. Red
+eyes set into a long pointed head reflect nothing but hatred for the living.
+~
+28460 0 0 0 394240 0 0 0 -500
+38 -4 -1 1d3000+3000 8d7+8
+50 60
+9 9 0 0 -1 -1
+#14312
+U W 0~
+ghost spirit~
+the Ghost~
+The spirit of a slain adventurer lingers here.
+~
+Such was the arrogance of this once mighty champion he believed himself able
+to pass through the fabled Trials of Xerxes. Instead of glory, he found only
+a fate worse then death, a fate which will soon befall you.
+~
+190252 0 0 0 1311850 0 0 0 -1000
+35 -4 -1 1d2000+2000 8d7+4
+50 60
+9 9 0 0 -1 -1
+#14313
+U D 0~
+wight~
+the Wight~
+An armoured undead champion emerges from the darkness.
+~
+This undead warrior has been raised from his tomb by powerfull dark magic. His 
+ancient battle gear is corroded by time and dusty with the years, but his
+skeletal hand grips a shimmering blade glowing with a cold aura.
+~
+65324 0 0 0 132136 0 0 0 -1000
+35 -7 -3 1d2000+2000 8d4+40
+50 60
+9 9 1 0 -1 -1
+#14314
+U W 0~
+zombie~
+the Zombie~
+A rotting corpse shambles toward you.
+~
+Recently dead, this creature is almost mindless, motivated only by a desire
+to destroy all living things.
+~
+59176 0 0 0 132100 0 0 0 0
+30 0 -1 1d1000+1000 7d7+4
+50 60
+9 9 0 0 -1 -1
+#14315
+U M 0~
+banshee spirit woman~
+the Banshee~
+A woman in a shimmering gown appears before you.
+~
+The woman has a beauty that seems out of place amongst all this horror, you
+find your self drawn to her. Then the woman seems to notice you, her face
+twists with loathing and suddenly her visage seems utterly terrifying!
+~
+190252 0 0 0 328746 0 0 0 -1000
+38 -2 -3 1d2200+3000 8d8+6
+50 60
+9 9 2 0 -1 -1
+#14316
+V H 0~
+vampire Drelnza woman~
+Drelnza~
+You notice a dark haired woman watching you.
+~
+The woman returns your gaze and smiles at you seductively, revealing a pair
+of long pointed fangs behind her luscious lips. She bids you to join her, for
+ever.
+~
+1113901 0 0 0 984250 0 0 0 -1000
+50 -10 -9 1d1+18000 8d8+90
+80 90
+9 9 2 0 -1 -1
+#14317
+U W 0~
+Baebas mummy~
+Baebas~
+The cerement-wrapped corpse of the warrior Baebas stands here.
+~
+Baebas was once the leader of King Xerxes armies. The greatest warrior of his
+age, Xerxes decided to retain his services, permanently. While Baebas loathes
+his joyless existence, he is compelled by powerfull magic to carry out the
+insane tasks of the ancient King he once loved.
+~
+59180 0 0 0 132264 0 0 0 -1000
+45 -10 -7 1d1+15000 8d8+60
+65 75
+9 9 1 0 -1 -1
+#14318
+U W 0~
+mummy warrior~
+the Mummy~
+The cerement-wrapped corpse of an ancient warrior lumbers toward you.
+~
+This ancient warrior so impressed Xerxes with his fighting prowess, that he 
+was "rewarded" with an eternity of unlife.
+~
+65324 0 0 0 132136 0 0 0 -500
+35 -3 -1 1d4000+4000 8d7+35
+50 60
+9 9 1 0 -1 -1
+#14319
+U D 0~
+wight lord Abraxus~
+Lord Abraxus the Depraved~
+The Wight Lord Abraxus glares at you coldly.
+~
+You find yourself staring in horror at the dreadfull undead form of Lord
+Abraxus the Depraved, a man so evil tales of his abominable acts are still
+used to frighten children today, a thousand years after his death. Strapped to
+his arm is the shield that was said to make this champion of evil invincible.
+~
+8577036 0 0 0 132264 0 0 0 -1000
+50 -10 -12 10d10+22000 10d10+100
+80 90
+9 9 1 0 -1 -1
+#14320
+U C 0~
+huecuva skeleton~
+the Huecuva~
+A skeletal figure wearing a tattered robe appears before you.
+~
+The skeletal figure radiates a powerfull aura of decay, its mere presence
+makes you feel ill.
+~
+190252 0 0 0 328746 0 0 0 -1000
+38 0 -3 1d2200+3000 8d8+6
+50 60
+9 9 0 0 -1 -1
+#14321
+V D 0~
+vampire~
+the Vampire~
+The Vampire beckons you to approach him.
+~
+It is clear the vampire was a handsome man in life, he smiles at you wickedly,
+revealing his great fangs.
+~
+18220 0 0 0 394254 0 0 0 -500
+40 -3 -3 1d8000+3000 1d50+15
+65 75
+9 9 1 0 -1 -1
+#14322
+U M 0~
+darkness~
+the Darkness~
+A pool of darkness suddenly envelops you!
+~
+This creature has no form, it could simply be darkness itself.
+~
+1634093 0 0 0 1074660394 0 0 0 -500
+38 -7 -5 1d6000+3000 15d3+12
+50 60
+9 9 0 0 -1 -1
+$

@@ -1,0 +1,48 @@
+5 e ;; hug king ;; hug king ;; rec elv
+bd c 'black dart' $*
+reg c 'regen' $*
+bb c 'black breath' $*
+nnn gt going ;; n ;; c 'trem' 
+uuu gt going ;; u ;; c 'trem' 
+ddd gt going ;; d ;; c 'trem' 
+sss gt going ;; s ;; c 'trem' 
+eee gt going ;; e ;; c 'trem' 
+www gt going ;; w ;; c 'trem' 
+uu gt going ;; u ;; kill $*
+dd gt going ;; d ;; kill $*
+ww gt going ;; w ;; kill $*
+ee gt going ;; e ;; kill $*
+ss gt going ;; s ;; kill $*
+nn gt going ;; n ;; kill $*
+loot get all cray;wear all;wield strange;hold tail
+o cast 'black dart' boraj north
+g get all all.cray
+l cast 'pestilence' ar
+belt get all.belt all cor;open belt;get all belt
+b bash boraj
+tremor cast 'tremor'
+infra cast 'eyes of the dead'
+calm emote extends a violent influence.
+cl clan &08(&00&14D&00&08)-->&00&07 $*  &00&08<--(&00&14K&00&08)
+aura cast 'aura of apocalypse'
+da cast 'black dart'
+blind cast 'blind' $*
+an cast 'animate dead' corpse
+bl cast 'blind' $*
+di cast 'detect invis'
+gt gtell &08 $*  &00
+corpse emote kicks the corpse viciously.
+regen cast 'regenerate'
+armor cast 'armor' $*
+chaos cast 'chaos armor'
+pfg cast 'protection from good'
+trem cast 'tremor' $*
+dis cast 'dispel good' $*
+dt cast 'death touch' $*
+r rescue $*
+rr retreat $*
+3 c 'trem'
+pest c 'pestilence' $*
+dev devour $*
+7 emote assists
+6 get all all.cor

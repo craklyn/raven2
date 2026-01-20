@@ -1,0 +1,149 @@
+#8701
+O R 0~
+urkii hunter~
+the Urkii hunter~
+An Urkii hunter is prowling the streets.
+~
+You see a proud member of this community.  He alone is responsible for
+feeding the town the meat it requires.  And he knows that his job must be 
+done.
+~
+3400 0 0 0 4981792 0 0 0 400
+30 2 -5 10d100+2000 5d5+15
+50 60
+9 9 1 0 -1 -1
+#8702
+O T 0~
+urkii child girl~
+a young Urkii girl~
+a young Urkii child stomps around in a fit of anger.
+~
+The child seems to be dreaming pleasant dreams.
+~
+236 0 0 0 1024 0 0 0 500
+15 5 0 10d10+500 1d10+10
+35 40
+4 9 2 0 -1 -1
+#8703
+O P 0~
+urkii guard~
+the guard~
+A large Urkiish guard stands here.~
+The guard wonders what your purpose here is.  Obviously you mean to do
+harm to his people, and he sees no coice but to deal with the problem
+as quickly as possible.
+~
+2154 0 0 0 136 0 0 0 300
+35 0 -10 50d10+3500 5d7+20
+50 60
+9 9 1 0 -1 -1
+#8704
+O W 0~
+urkii native town folke~
+the Urkii native~
+An Urkiish native is rummaging thru the rubble.
+~
+The citizen appears to be scavaging through the debris in hopes of finding
+something useful.
+~
+3528 0 0 0 1024 0 0 0 300
+25 5 -2 50d10+1500 5d3+10
+40 40
+9 9 2 0 -1 -1
+#8705
+O S 0~
+urkii warrior~
+the warrior~
+An Urkiish warrior attacks you.
+~
+She doesn't care much about who you are, or why your here.  She only sees you
+as a threat that must be dealt with.
+~
+2152 0 0 0 524424 0 0 0 200
+40 -5 -80 50d10+4500 5d9+25
+65 75
+9 9 2 0 -1 -1
+#8706
+O W 0~
+magistrate urkii~
+the Magistrate~
+The Magistrate is calmly sitting here, reading.
+~
+Dressed in lavish robes, he rules the small tribe in a fair and just manner.
+He is unconcerned by your presence here.  He knew it would be inevitable.
+~
+2058 0 0 0 1024 0 0 0 500
+45 -5 -100 50d10+7500 5d5+30
+65 75
+9 9 1 0 -1 -1
+#8707
+F W 0~
+elemental air~
+the air elemental~
+A creature of the winds guards the doorway.
+~
+   An insubstantial creature of an air like substance.  It is known in this
+realm as an air elemental and although rare in existence, it is a powerful
+force of nature and magic mingled together.    
+~
+18506 0 0 0 65672 0 0 0 0
+40 0 -5 50d10+4500 5d5+20
+65 75
+9 9 0 12 -1 -1
+#8708
+F W 0~
+elemental water~
+the water elemental~
+A figure comprised of water prevents further passage.
+~
+   The creature is beautiful to look at, yet can be quite deadly.  It is a
+strange mixture of opaque like liquid substances that are seemingly bound
+together by magic.    
+~
+18506 0 0 0 136 0 0 0 0
+40 0 -5 50d10+4500 5d5+20
+65 75
+9 9 0 12 19 -1
+#8709
+F W 0~
+elemental earth~
+the earth elemental~
+The earth itself rises up to prevent you from going further.
+~
+   If statues were able to move with the grace of this earth elemental, they
+would truly be wonderous creations of art.    
+~
+18506 0 0 0 136 0 0 0 0
+40 0 -40 50d10+4500 5d5+20
+65 75
+9 9 0 17 18 -1
+#8710
+F M 0~
+elemental fire~
+the fire elemental~
+A figure of living fire stands solemnly before the next gate.
+~
+   This creature is literally made out of fire and brimstone.  Blue flames
+flicker out of two sockets in what might be considered its head.  It has no
+visible mouth, nor any other features that would look remotely humanoid.  It
+stands a good 8 feet tall, but below its torso is only a vaporous cloud of
+flaming mist.    
+~
+18506 0 0 0 136 524288 0 0 0
+40 0 -5 50d10+4500 5d5+20
+65 75
+9 9 0 21 -1 -1
+#8711
+H M 0~
+tempest~
+the Tempest~
+The Tempest swirls about the room in silence.
+~
+It appears to be made of every element known to you, yet manages to keep
+it's form without the elements battling one another.
+~
+18442 0 0 0 136 0 0 0 0
+50 -5 -10 50d10+15000 9d5+65
+80 90
+9 9 0 0 -1 -1
+$

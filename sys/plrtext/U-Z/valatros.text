@@ -1,0 +1,14 @@
+str cast 'strength'$*
+mon cast 'monster summon'
+cs cast 'color spray'$*
+f cast 'fly'$*
+wa wake;stand
+sum cast 'summon'$*
+g assist
+sh cast 'shield'$*
+b cast 'blindness'$*
+h get mug bag;quaff mug
+blah put all bag;get all.scroll bag;get all.potion bag
+rr recite elven
+id cast 'identify'$*
+fb cast 'flame blade'$*

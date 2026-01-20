@@ -1,0 +1,33 @@
+nox cast ' nox ' $*
+0 order follow resc $*
+summon cast ' summon ' $*
+si cast ' silence ' $*
+su8 cast ' summon ' possum
+so cast ' soul 
+de cast ' deb ' $*
+sl cast ' slow ' $*
+su5 cast ' summon ' shambling
+8 cast ' shield
+7 cast ' fly
+6 cast ' sense
+5 cast ' age
+4 cast ' resist
+3 cast ' inv
+2 cast ' inf ' $*
+1 cast ' detect in
+bl cast ' blind ' $*
+sen cast ' sense '
+su cast ' summon ' scav 
+clan cla &08$* &00
+su1 cast ' summon ' jan
+life cast ' life ' dog
+su4 cast ' summon ' willow
+cc cast ' charm c ' corp
+o order follow k $*
+gt gt &08 $* &00
+su6 cast ' summon ' eton 
+su3 cast ' summon ' knight_eth
+su7 cast ' summon ' guardian_vamp
+s1 cast ' soul
+su2 cast ' summon ' hired
+em cast ' em ' corp

@@ -1,0 +1,126 @@
+#16100
+pool water~
+a pool~
+A pool of warm water shimmers in the sunlight.~
+~
+23 0 0 0 0 0 0 0 0
+15 15 0 0
+50 0 0
+E
+pool water~
+Just below the bulging surface you can see smooth stone wall giving
+you the impression that this pool may not be natural, but made by
+man.
+~
+B
+0 0 0 0
+#16101
+dwarf [12]~
+a dwarf~
+A dwarf stands here looking very bored.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+50 0 0
+E
+dwarf~
+The dwarf glances your way and shrugs his shoulder.
+~
+B
+0 0 0 0
+#16102
+soft fur vest worn body about [11] [d] [k]~
+a soft fur vest~
+An animal pelt lies here.~
+~
+11 0 0 0 0 1033 0 0 0
+0 0 0 0
+1 1000 175
+E
+soft fur vest~
+Deepest black, trimed in snowy white, this soft fur vest would make
+anyone proud to own.
+~
+A
+1 2
+A
+17 -5
+A
+19 1
+B
+0 0 0 0
+#16103
+snakeskin belt worn waist [11] [l]~
+a snakeskin belt~
+A huge serpent has shed its skin here.~
+~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0
+1 1000 360
+E
+snakeskin belt~
+Shimmering scales of green, red and yellow flow together like jewels
+in the sun.
+~
+A
+1 3
+A
+18 2
+A
+19 1
+B
+0 0 0 0
+#16104
+tarnished helmet armor head [9] [e]~
+a tarnished helmet~
+An old helmet lies here.~
+~
+9 6224528 0 0 0 17 0 0 0
+-4 0 0 0
+2 1000 290
+E
+tarnished helmet~
+Green with tarnish this old helmet looks as if it has seen better
+day. The smell coming from it reminds you of rotted meat.
+~
+A
+18 2
+A
+19 2
+B
+0 0 0 0
+#16105
+list~
+a list~
+A small list is tacked to the wall.~
+~
+13 4 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0
+E
+list~
+This is list of mobs and objests in this area.
+[16100]                     a pool  |  [16101]                    a dwarf
+[16102]            a soft fur vest  |  [16103]           a snakeskin belt
+[16104]                a tarnished  |  [16105]                     a list
+~
+B
+0 0 0 0
+#16106
+corpse food~
+a corpse~
+A headless corpse hangs here.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+0 0 72
+E
+corps~
+Crows have picked most of the softer flesh from the naked corpse hanging roads
+edge. Its remaining skin looks as white as chalk in the midday sun.
+One of the legs are missing below the knee, taken by a wandering
+scavenger. It's arms end in ragged stumps.
+~
+B
+0 0 0 0
+$~

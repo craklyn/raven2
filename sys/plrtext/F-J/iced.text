@@ -1,0 +1,34 @@
+cc cast 'charm corpse' corpse
+sac destroy corpse
+clan clan &10 $* &00
+walls c 'bone' north;c 'bone' east;c 'bone' south;c 'bone' west$*
+r get mid dg;rec rec rec$*
+0 c 'cons'$*
+p o fol k$*
+nox c 'nox'$*
+qq get all.coin all.corp$*
+wall c 'bone wall'$*
+z calm$*
+zz stop$*
+5 c 'debilitate'$*
+4 c 'slow'$*
+rp cast 'resist p' $*
+di cast 'detect invi' $*
+age cast 'age' $*
+sum cast 'sum' $*
+gt gt &09 $*  &00
+invis cast 'invis' $*
+fly cast 'fly' $*
+shield cast 'shield' $*
+dis cast 'disea' $*
+sense c 'sense life'$*
+infra c 'infra'$*
+form c 'wraithform'$*
+en c 'entom' corp$*
+3 c 'soul'$*
+ld cast 'life drain'
+ed c 'energy drain'$*
+sil c 'silence'$*
+rr get elven bag;rec elven$*
+rune c 'create wrding'$*
+ent c 'entom corpse'$*

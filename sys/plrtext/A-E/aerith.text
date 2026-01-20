@@ -1,0 +1,11 @@
+wake wake; stand
+bl cast 'blindness' $*
+ward cast 'ward' $*
+dr get flag bag; drink flag; drink flag; drink flag; put flag bag
+ew cast 'create food'; eat way
+di cast 'detect invisibility' $*
+arm cast 'armor' $*
+a k skel
+inf cast 'infravision' self
+fly cast 'fly' $*
+/ cast 'word of recall' $*

@@ -1,0 +1,28 @@
+wr ca 'wrath' $*
+tit title , &06Mage&00 &03O&00f &07D&00arkness
+gate ca 'gate' 
+cha ca 'charm person' $*
+port ca 'portal' $*
+air ca 'airsphere' $*
+wa wake
+nex ca 'nexus' $*
+wake wake
+id ca 'identify' $*
+has ca 'haste' $*
+mm ca 'magic missile' $*
+fly ca 'fly' $*
+str ca 'strength' $*
+blind ca 'blind' $*
+invis ca 'invis' $*
+shi ca 'shield' $*
+flame ca 'flame blade' $*
+cs ca 'color spray' $*
+sum ca 'sum' $*
+aw ca 'awaken' 
+infra ca 'infra' $*
+ts ca 'true sight' $*
+ms ca 'monster summon' 
+fee ca 'feeblemind' $*
+o order follower kill $*
+do ca 'doom' $*
+or order follower $*

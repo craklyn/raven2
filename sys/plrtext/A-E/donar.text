@@ -1,0 +1,27 @@
+un ungroup guard
+wraith c 'wraithform' $*
+title title &08 Forsaken&00
+emb c 'embalm' $*
+consume c 'consume corpse' $*
+sense c 'sense life' 
+charm c 'charm corpse' $*
+say say &11 $* &00
+drain c 'life drain' $*
+di c 'detect invis' $*
+shi c 'shield' $*
+fly c 'fly' $*
+p c 'soul pierce' $*
+bl c 'blind' $*
+invis c 'invis' $*
+rp c 'resist poison' $*
+nox c 'nox' $*
+gt gt &04<&03^&04> &06$* &04<&03^&04> &00
+2 rec mid
+mob order $*
+clan clan &04<&03^&04> &02$*  &04<&03^&04>&00
+ward c 'create warding' $*
+entomb c 'entomb corpse' $*
+sv c 'infra
+summon c 'summon' $*
+slow c 'slow' $*
+deb c 'debilitate' $*

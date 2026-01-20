@@ -1,0 +1,28 @@
+bless cas 'bless' $1
+gac get all cor
+fort cas 'fort' $1
+sanc cas 'sanc' $1
+99 cas 'fort' fer; cas 'fort' fer; cas 'fort' fer; cas 'fort' fer; cas 'fort' fer; cas 'fort' fer
+' say &13::$* ::&00
+clan clan &13::$* ::&00
+gt gtell &13::$* ::&00
+cs cas 'sanc' $1
+9 cas 'sanc'; cas 'sanc'; cas 'sanc'; cas 'sanc'; cas 'sanc'; cas 'sanc'
+1 des cor
+cw cas 'ward' $1
+ca cas 'armor' $1
+z rec rec
+cb cas 'blin' $1
+cdi cas 'detect i' $1
+ch cas 'heal' $1
+ci cas 'infra' $1
+csl cas 'sense li' $1
+cr cas 'regen' $1
+crp cas 'remove pois' $1
+cf cas 'fly' $1
+title titl &07the Brewmeister of Darkness&00
+sus get brea bag;get brea bag;eat brea;eat brea;drin cam;drin cam
+armor cas 'armor' $1
+fly cas 'fly' $1
+regen cas 'regen' $1
+word cas 'word'

@@ -1,0 +1,366 @@
+#1701
+A T 0~
+black mountain goat~
+a mountain goat~
+A mountain goat is standing here.
+~
+It looks hungry and searches for food.
+~
+10 0 0 0 0 0 0 0 -100
+25 10 10 1d1+200 8d7+0
+40 40
+9 9 1 23 22 -1
+#1702
+A W 0~
+black mountain ewe~
+a mountain ewe~
+A mountain ewe is standing here.
+~
+The ewe is watching her young.
+~
+10 0 0 0 0 0 0 0 -100
+25 8 10 1d1+150 8d7+0
+40 40
+9 9 2 23 22 -1
+#1703
+A W 0~
+black mountain kid~
+a mountain kid~
+A mountain kid is standing here.
+~
+The kid is playing with its siblings.
+~
+10 0 0 0 0 0 0 0 -100
+1 20 10 3d6+1 8d7+0
+35 40
+9 9 0 0 -1 -1
+#1704
+H W 0~
+fire newt worker~
+a fire newt worker~
+A fire newt worker is standing here.
+~
+The fire newt worker looks hot and sweaty.
+~
+28748 0 0 0 1024 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 1 13 21 -1
+#1705
+H W 0~
+fire newt guard~
+a fire newt guard~
+A fire newt guard is standing here.
+~
+The fire newt guard thinks you would be better dead.
+~
+30796 0 0 0 1024 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 1 0 0 0
+#1706
+H W 0~
+fire newt worker~
+a fire newt worker~
+A fire newt worker is standing here.
+~
+The fire newt worker looks hot and sweaty.
+~
+30796 0 0 0 8 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 2 0 -1 -1
+#1707
+H W 0~
+fire newt guard~
+fire newt guard~
+A fire newt guard is standing here.
+~
+The fire newt guard wants to kill you.
+~
+30792 0 0 0 0 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 2 13 21 -1
+#1708
+H W 0~
+fire newt mother~
+a fire newt mother~
+A fire newt mother is standing here.
+~
+The fire newt mother is watching her kids.
+~
+30792 0 0 0 0 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 2 13 21 -1
+#1709
+A W 0~
+fire newt baby~
+a fire newt baby~
+A fire newt baby is crawling here.
+~
+The fire newt baby is crawling and drooling here.
+~
+14 0 0 0 0 0 0 0 -350
+3 20 10 1d20+30 8d7+0
+35 40
+9 9 0 13 21 -1
+#1710
+H W 0~
+fire newt sergeant~
+a fire newt sergeant~
+A fire newt sergeant patrols this area.
+~
+He's just found something that doesn't belong here!
+~
+30792 0 0 0 0 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 1 13 21 -1
+#1711
+H W 0~
+fire newt general~
+a fire newt general~
+A fire newt general is standing here.
+~
+The fire newt general grins evilly at you.
+~
+30792 0 0 0 0 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 1 13 21 -1
+#1712
+H W 0~
+fire newt leader~
+a fire newt leader~
+A fire newt leader is standing here.
+~
+The fire newt leader screams, 'I'm going to hose you!'
+~
+4138 0 0 0 0 0 0 0 0
+45 -8 -5 9d500+1 3d10+20
+65 75
+9 9 1 13 21 -1
+#1713
+H S 0~
+fire newt priest~
+a fire newt priest~
+A fire newt priest is standing here.
+~
+The fire newt priest is preparing for worship.
+~
+42 0 0 0 8 0 0 0 -1000
+30 8 2 1d1+1500 8d7+10
+50 60
+9 9 1 13 21 -1
+#1714
+A W 0~
+fire lizard~
+a fire lizard~
+A fire lizard is crawling here.
+~
+The fire lizard flicks its tongue at you.
+~
+40 0 0 0 8 0 0 0 -100
+30 5 2 1d1+1500 8d7+12
+50 60
+9 9 0 4 -1 -1
+#1715
+A W 0~
+sentry Firenewt~
+the sentry Firenewt~
+An Firenewt sentry has fallen asleep at his post here.
+~
+This vile creature has been assigned to prevent unwanted visitors, but innate
+laziness combined with generous servings of Firenewtish Ale have rendered him
+quite ineffective at even this simple task.
+~
+26830 0 0 0 1064 0 0 0 0
+35 5 -5 1d1+1550 8d7+15
+50 60
+9 9 0 0 -1 -1
+#1716
+A W 0~
+sleeping Firenewt~
+a sleeping Firenewt~
+An off-duty Firenewt sleeps here.
+~
+This vile creature has been assigned to prevent unwanted visitors, but innate
+laziness combined with generous servings of Firenewtish Ale have rendered him
+quite ineffective at even this simple task.
+~
+26766 0 0 0 1064 0 0 0 -500
+35 5 -5 1d1+1550 8d7+15
+50 60
+4 9 0 0 -1 -1
+#1717
+A W 0~
+drunken Firenewt~
+a drunken Firenewt~
+A drunken Firenewt breaks off in mid-song and lunges at you!
+~
+This foul drunk is quite possibly the worst singer you have ever heard in 
+your life! And he smells even worse than he sings! Fortunately he is not a
+very effective combatant, as the alcohol he has imbibed has dulled his 
+senses.
+~
+26670 0 0 0 1064 0 0 0 -500
+35 5 -5 1d1+1550 8d7+12
+50 60
+9 9 0 0 -1 -1
+#1718
+H W 0~
+prisoner~
+a deranged prisoner~
+A wild-eyed man lunges insanely at you!
+~
+Ack! Watch out! He's going to...Oh. You realize, as the deranged figure
+suddenly collapses sobbing at your feet that this man is not aggressive or
+seeking to attack you but was simply overjoyed at beign released. He is
+quite harmless, but very filthy.
+~
+22666 0 0 0 1064 0 0 0 0
+30 5 5 1d1+1550 8d7+12
+50 60
+9 9 0 0 -1 -1
+#1719
+O A 0~
+torturer ogre~
+the ogre torturer~
+A ogre torturer is angry that his victim has suddenly died.
+~
+This sadistic creature was busy torturing a captured Dwarf when you entered,
+and the Dwarf died moments later. The creature is angered, and blames you 
+for the Dwarf's premature death!
+~
+22574 0 0 0 1064 0 0 0 -1000
+35 5 -1 1d1+1550 8d7+15
+50 60
+9 9 0 0 -1 -1
+#1720
+N W 0~
+cyclops iron~
+an iron Cyclops~
+A Huge iron Cyclops with a single huge gem serving as an eye towers over you.
+~
+This specially made Iron Golem is extremely tough and powerful. Although not
+aggressive, it will certainly attack if you seek to take its gem.
+~
+546830 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+15
+50 60
+9 9 0 0 -1 -1
+#1721
+A W 0~
+spider giant~
+a giant Spider~
+A loathsome spider the size of a small pony scuttles towards you.
+~
+You are not sure which scares you the most about this horrible arachnid-
+The way its 2 feet long furry legs scuttle on the rock as it races at you,
+the way its beady eyes stare evilly at you as is approaches, or the way the
+venom dripping from its maw burns into the stone as it falls...
+~
+22574 0 0 0 1064 0 0 0 -1000
+35 5 -1 1d1+1550 8d7+15
+50 60
+9 9 0 0 -1 -1
+#1722
+R W 0~
+old man~
+an old man~
+An old man standing here gradually transforms into a wererat!
+~
+This seemingly harmless old coot is actually a powerful lycanthrope, who 
+will not hesitate to kill you if you threaten him.
+~
+30862 0 0 0 1064 0 0 0 -500
+35 5 -1 1d1+1550 8d7+15
+50 60
+9 9 1 0 -1 -1
+#1723
+H W 0~
+barbarian~
+an insane Barbarian~
+An insane Barbarian leaps out and attacks you!
+~
+This demented berserker has been trapped in this dungeon for days and is
+taking out his frustrations on you! Towering over you at six feet tall and
+weighing in at 280 lbs, he is certainly a force to be reckoned with.
+~
+32558 0 0 0 1064 0 0 0 0
+35 5 -1 1d1+1550 8d7+15
+50 60
+9 9 1 0 -1 -1
+#1724
+H W 0~
+neanderthal caveman man~
+a lumbering Neanderthal~
+A primitive Neanderthal swings his stone club at your head!
+~
+This dim-witted cave man is possessed of only the most primitive instincts,
+but has a blow like a sledgehammer and a hide like a stone wall, so fight 
+well!
+~
+30766 0 0 0 1064 0 0 0 0
+35 5 -5 1d1+1550 8d7+15
+50 60
+9 9 1 0 -1 -1
+#1725
+A W 0~
+Firenewt chieftain~
+the Firenewt chieftain~
+The Firenewt chieftain snarls and cracks his whip at you angrily.
+~
+This evil chieftain was busy whipping his hapless servant when you entered,
+and he is glad for a more challenging foe. He is the leader of the Firenewts in
+this area, and as such will be a tough foe.
+~
+32558 0 0 0 1192 0 0 0 -1000
+40 5 -7 1d1+2000 8d7+15
+65 75
+9 9 1 0 -1 -1
+#1726
+A W 0~
+Firenewt servant~
+a Firenewt servant~
+A Firenewt servant moans piteously as his master beats him.
+~
+This pathetic whelp was been flogged by his demanding master as you entered,
+but despite this he still leaps up to defend the chieftain against you. Best
+to slay the ungrateful little wretch.
+~
+30862 0 0 0 1064 0 0 0 0
+30 5 10 1d1+1500 8d7+15
+50 60
+9 9 1 0 -1 -1
+#1727
+A W 0~
+firenewt~
+a eating Firenewt~
+A Firenewt busily slurps up his rat stew.
+~
+This Firenewt is so busy eating that he doesn't even notice you enter. You could
+easily leap in and have a hack before he was even prepared. However, he does
+have several companions...
+~
+26766 0 0 0 1064 0 0 0 0
+30 5 -1 1d1+1550 8d7+15
+50 60
+9 9 0 0 -1 -1
+#1728
+A W 0~
+rat giant~
+a giant rat~
+A Rat the size of an Alsatian leaps at you!
+~
+This huge rodent has long, pointed teeth that are discolored with dried 
+blood. It lashes at you with its sharp claws and seeks to clamp its fangs
+around your neck!
+~
+30766 0 0 0 1064 0 0 0 -1000
+25 5 10 1d1+1000 8d7+12
+40 40
+9 9 0 0 -1 -1
+$

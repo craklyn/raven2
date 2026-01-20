@@ -1,0 +1,106 @@
+#38201
+Shou gloves part 1~
+Welcome, young monk.
+I offer you great power, a secret amongst Shou-Lin masters.
+Bring me the items I need and I will craft a magical artifact.
+The tasks I will set you are not easy, but you may try them until you succeed.
+The first item I seek is handwear of a ghostly origin.
+The item is quite cold, and rather heavy.
+Find me the item matching this description to complete the first task.
+~
+Seek the ghostly item Kaij requires.
+~
+35 60 142614008 5 10 1
+G 38200
+O OBJ 15360
+R SPELL 138
+$N says, 'Good work.  Come back later and I will give you another task.'
+~
+#38202
+Shou gloves part 2~
+The next item I seek is from an ancient creature.
+The creature lives in a mountain retreat.
+From him you can obtain handwear with his race's power.
+Bring this to me so I can extract its essence.
+~
+Seek an item from an ancient creature in a mountain retreat.
+~
+40 60 142614008 5 5 1
+G 38200
+P 38201
+O OBJ 11071
+R SPELL 138
+$N says, 'You have found the exact item I had in mind!'
+~
+#38203
+Shou gloves part 3~
+The next item I need is for strength: the mightiest handwear known to mortals.
+Made of hide and scales of steel, they give each blow more precision and power.
+Find me gauntlets of this description, and I will give you the last task remaining.
+~
+~
+45 60 142614008 5 5 1
+G 38200
+P 38202
+O OBJ 14714
+R SPELL 138
+$N says, 'The path you have walked to obtain these gloves has aided your search for inner peace.'
+~
+#38204
+Shou gloves part 4~
+One more thing is needed to create what you seek.
+Somewhere in the land, a shadowy figure guards the cube of power.
+Find the figure and his cube, and I will create the artifact.
+~
+Find the shadowy figure and his cube of power.
+~
+48 60 142614008 5 5 1
+G 38200
+P 38203
+O OBJ 18199
+R OBJ 38210
+$N opens the cube of power and places the items you fetched in it.
+There is a sound at once loud and silent, and the cube's light fades.
+$N takes a nondescript pair of leather gloves out of the cube.
+$N says, 'Wear them with honor!'
+~
+#38205
+Harmonies re-quest~
+Welcome, young monk.
+I offer to recreate for you the item of great power, a secret amongst Shou-Lin masters.
+Bring me the items I need and I will craft a magical artifact.
+
+The first item I seek is handwear of a ghostly origin.
+The item is quite cold, and rather heavy.
+
+The next item I seek is from an ancient creature.
+The creature lives in a mountain retreat.
+From him you can obtain handwear with his race's power.
+Bring this to me so I can extract its essence.
+
+The next item I need is for strength: the mightiest handwear known to mortals.
+Made of hide and scales of steel, they give each blow more precision and power.
+Find me gauntlets of this description
+
+One more thing is needed to create what you seek.
+Somewhere in the land, a shadowy figure guards the cube of power.
+Find the figure and his cube, and I will create the artifact.
+
+Bring me all of these items, AT ONCE, to re-craft your gloves of harmony.
+~
+   Bring the four gloves to the monk to re-create your gloves of harmony.    
+~
+50 50 134225400 60 15 2
+G 38200
+P 38204
+O OBJ 15360
+O OBJ 11071
+O OBJ 14714
+O OBJ 18199
+R OBJ 38210
+$N opens the cube of power and places the items you fetched in it.
+There is a sound at once loud and silent, and the cube's light fades.
+$N takes a nondescript pair of leather gloves out of the cube.
+$N says, 'Wear them with honor!'
+~
+$~

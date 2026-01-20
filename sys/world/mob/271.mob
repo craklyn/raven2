@@ -1,0 +1,731 @@
+#27101
+A W 0~
+white-tailed tailed doe~
+a white-tailed doe~
+A white-tailed doe is grazing here on the lush grasses.
+~
+She is small for a doe, being roughly two years old.  Her coat is
+reddish-brown and clean.  Her tail has a pretty white under-side that
+stands out in the forest.
+~
+6216 0 0 0 262176 0 0 0 501
+20 0 5 2d100+500 5d5+20
+40 40
+9 9 2 23 4 -1
+#27102
+A W 0~
+white-tailed tailed buck~
+a white-tailed buck~
+A white-tailed buck is looking for a mate.
+~
+He's small for a buck, being three or four years old.  His rack is about 
+twice as wide as his body.  His tail has a white under-side that
+stands out in the forest.
+~
+6216 0 0 0 262176 0 0 0 501
+30 -2 5 2d200+600 7d5+25
+50 60
+9 9 1 23 4 -1
+#27103
+A A 0~
+hare brown~
+a brown hare~
+A brown hare is here, trying to hide from you.
+~
+The hare has long ears and dark brown fur.  It spots you and freezes in
+hope that you'll leave it alone.
+~
+200 0 0 0 786464 0 0 0 501
+20 -2 5 2d20+50 2d5+5
+40 40
+9 9 0 4 -1 -1
+#27104
+A A 0~
+mongoose~
+a mongoose~
+A mongoose is looking for dinner here.
+~
+The mongoose is as long as your leg and slender with a long tail.  It 
+looks like a fierce fighter.
+~
+2120 0 0 0 787488 0 0 0 101
+20 -2 5 3d20+80 2d5+25
+40 40
+9 9 1 4 -1 -1
+#27105
+A W 0~
+red-tailed tailed fox~
+a red-tailed fox~
+A red-tailed fox is here, looking for something to eat.
+~
+The red-tailed fox is smaller than the average fox.  It's back, and top
+side of it's tail are red.  It's underside is a off white color.  It's big,
+bushy tail is almost as big as it's torso.
+~
+2124 0 0 0 263200 0 0 0 501
+20 -2 5 3d25+85 3d5+25
+40 40
+9 9 0 8 4 -1
+#27106
+A W 0~
+blue-footed footed lynx~
+a blue-footed lynx~
+A blue-footed lynx is here, ready to pounce on something.
+~
+Her thick coat consists of various light and dark grey colors.  The fur on her
+paws and ankles has a strong deep blue tint to it.  She looks quite strong 
+for her size. 
+~
+6252 0 0 0 394280 0 0 0 301
+35 -7 10 5d50+750 1d30+45
+50 60
+9 9 2 8 4 -1
+#27107
+E R 0~
+terelat elven hunter~
+a Terelat hunter~
+An elven hunter is searching for game here.
+~
+   Possesses the ageless face most elves do.  He is camouflaged from head to
+toe.  Possesses the ageless face most elves do.  He is camouflaged from head to
+toe and carries a small bow.    
+~
+22636 0 0 0 1966120 0 0 0 501
+35 -5 -5 1d5+3995 1d20+45
+50 60
+9 9 1 0 -1 -1
+#27108
+E R 0~
+keruzet elven guardian~
+a Keruzet elven guardian~
+An elven guardian is here, barring you from passing.
+~
+This elf is of average height but unusually muscular for an elf.  His scarred
+face is somewhat covered by his jet black hair.  This elf is guarding the pass
+that leads to the north.  His job is simple, allow friends to pass and kill
+anything else.
+~
+67113070 0 0 0 1966120 0 0 0 501
+40 -5 -5 1d5+7500 1d20+60
+65 75
+9 9 1 0 -1 -1
+#27109
+E R 0~
+terelat elven perserver~
+a Terelat preserver~
+An elf is here tending to the drying of fruits.
+~
+Behind dark blond shoulder lenght hair you see the eyes of a young elf dressed
+in simple leather and fur clothing.  Some of this elf's clothing has crushed
+fruit smeared on it.  He is assigned to tend to all the dried fruits that are
+needed by his comrades, but will no doubt raise a weapon to battle if
+confronted by an intruder.  
+~
+23882 0 0 0 262184 0 0 0 501
+40 -5 -5 1d5+6000 1d30+40
+65 75
+9 9 1 0 -1 -1
+#27110
+E W 0~
+terelat elven elf~
+a Terelat elf~
+An elf is here salting some raw steaks.
+~
+Long black hair is tied behind his head, revealing this elves old scarred face.
+His forarms are also covered with numerous scars.  He walks with slight limp,
+possibly a battlewound from bygone days.  He seems to be responsible for
+preparing meats for storage.  Perhaps this old elf still wishes to be part
+of the efforts of his peoples.
+~
+22602 0 0 0 262184 0 0 0 501
+40 -5 -5 1d5+7495 1d40+50
+65 75
+9 9 1 0 -1 -1
+#27111
+E A 0~
+keruzet elven butcher~
+a Keruzet butcher~
+A large elven man is slaughtering a deer hide here.
+~
+This elf is almost the size of a human.  He is dressed in dark glossy blood 
+stained leathers.  He is well-versed in the arts of dismantling carcases.
+~
+22634 0 0 0 262184 0 0 0 501
+40 -5 -5 1d5+9995 1d20+50
+65 75
+9 9 1 0 -1 -1
+#27112
+E M 0~
+terelat elven baker~
+a Terelat baker~
+An elven woman is here checking the contents of an oven.
+~
+This elven lady is dessed in dark green fabric.  Behind her long black hair, her
+elven face hides her age.  She is in charge of providing all the baked goods
+necessary for the other elves here.  Mostly she makes trail breads and other
+things that survive the trail well.  She is known to occasionally make a tasty
+item or two for elves returning from the trail.  Her apron has some sort of
+rune on it.  
+~
+22634 0 0 0 1310760 0 0 0 501
+40 -5 -5 1d5+4995 1d20+40
+65 75
+9 9 2 0 -1 -1
+#27113
+E W 0~
+terelat elven soldier~
+a Terelat soldier~
+An elven soldier is here devouring a large meal.
+~
+He stands around five and a half feet tall.  His long black hair hangs loose
+around his shoulders.  Even though he appears well toned, he looks thin and
+tired.
+~
+23882 0 0 0 262184 0 0 0 501
+40 -5 -5 1d5+7995 1d30+40
+65 75
+9 9 1 0 -1 -1
+#27114
+E R 0~
+older terelat elven woodsman~
+a Terelat woodsman~
+An older elven woodsman is quenching his thirst here.
+~
+This elf is fairly thin, yet muscular.  His stringy brown hair hangs around his
+shoulders  and does nothing to hide his elven features.  His worn garments are
+many shades of green and brown.  He makes no noise whatsoever as he moves.  
+~
+20554 0 0 0 4456488 0 0 0 501
+40 -5 -6 1d5+5995 1d30+40
+65 75
+9 9 1 0 -1 -1
+#27115
+E K 0~
+keruzet elven sentry~
+a Keruzet elven sentry~
+A large elven sentry is on guard here.
+~
+Behind moderate armor, this elf is a bit larger than the average elf.  His black
+hair is cut very short and his dark grey eyes are actively scanning their
+surroundings.
+~
+67260522 0 0 0 1441832 0 0 0 501
+40 -5 -5 1d5+7995 1d40+50
+65 75
+9 9 1 0 -1 -1
+#27116
+E C 0~
+terelat elven overseer elf~
+the Terelat overseer~
+The overseer of the camp is here, managing camp logistics.
+~
+Ageless.  His physical characteristics make him appear to be an average elf,
+except for his &11midnight blue&00 eyes.  His long blond hair is tied behind his
+back, making his elven ears dominate his facial features.  
+  In those &11midnight blue&00 eyes you see many hard years and unspeakable
+grief; Lost loved ones, lost friends, and even loss of oneself.  You also
+see fear.  Soul-wrenching fear.
+~
+20586 0 0 0 295080 0 0 0 501
+50 -10 -8 1d500+19750 2d20+80
+80 90
+7 7 1 0 -1 -1
+#27117
+E W 0~
+keruzet elven elf commander~
+the Keruzet commander~
+The commander of the camp is here analyzing battle plans.
+~
+His light chainmail armor does nothing to conseal the fact that this keruzet elf
+is covered in scars.  Some of them looking rather painful.  His light brown hair
+is cut short.  One of his ears is missing it's characteristic elven pointy tip.  
+~
+151674 0 0 0 4489384 0 0 0 501
+50 -10 -6 1d5+14995 3d20+90
+90 80
+7 7 1 0 -1 -1
+#27118
+E W 0~
+keruzet elven warrior elf~
+an exhausted Keruzet elf~
+A large elven warrior is snoring away on a woodland cot here.
+~
+Large by elven standards, this elf is quite unkept.  His blond hair is unkept
+and sticks to his face and ears.  His thin, yet muscular frame is large by
+elven standards.  
+~
+20584 0 0 0 393256 0 0 0 501
+35 -3 -3 1d5+3995 1d30+40
+50 60
+4 4 1 0 -1 -1
+#27119
+H R 0~
+terelat exhausted elven scout~
+an exhausted Terelat scout~
+An elven scout is sleeping soundly on a woodland cot here.
+~
+Slightly smaller than the average elf, this young woman's short brown hair is
+cut short.  Judging from her tan, she has spent a lot of time in the sun.  Her
+legs are covered with several small nicks and scrapes.    
+~
+20586 0 0 0 393256 0 0 0 501
+30 0 -2 1d5+3495 1d20+40
+50 60
+4 4 2 0 -1 -1
+#27120
+E R 0~
+groggy terelat elf~
+a groggy Terelat elf~
+A groggy terelat elf is trying to wake up here.
+~
+This small figure is looks like a battleweary elven soldier.  His arms and legs
+are stick-thin yet muscular.  He's covered with many battlescars and his hair
+is long and unkept.  He has deep black sacks under his elven eyes.    
+~
+20586 0 0 0 393256 0 0 0 501
+30 -3 -2 1d5+3995 1d20+40
+50 60
+9 9 1 0 -1 -1
+#27121
+E R 0~
+terelat elven elf hunter~
+a bloody Terelat elf~
+A blood-covered elf is carving up a deer carcas here.
+~
+Of average size, this elf's lean build shows through his blood-stained tunic.
+His long black hair is matted to his head and face.    
+~
+20586 0 0 0 393256 0 0 0 501
+30 0 -2 1d5+3995 1d25+40
+50 60
+9 9 1 0 -1 -1
+#27122
+E R 0~
+terelat elven officer~
+a Terelat elven officer~
+A Terelat elven officer is seated at a desk here.
+~
+Long dark hair dances below her muscular shoulders.  Her green eyes seem to see
+right through you.  Her chainmail fits her figure well.  Her forearms are pale,
+even for an elf.  
+~
+20586 0 0 0 393256 0 0 0 501
+40 -3 -4 1d5+4995 1d25+40
+65 75
+7 7 2 0 -1 -1
+#27123
+E W 0~
+keruzet elven warrior~
+a Keruzet warrior~
+A lean elven warrior is washing the grime of the trail off in the creek.
+~
+   Thin, yet muscular, this elf looks very weary of travel.  His dark brown
+hair is soaking wet.  His arms and legs are covered with dirt and minor
+scrapes.    
+~
+20586 0 0 0 393256 0 0 0 501
+40 -4 -4 1d5+4495 1d30+40
+65 75
+7 7 1 0 -1 -1
+#27124
+E C 0~
+keruzet elven cleric~
+a Keruzet cleric~
+A large elven cleric is standing on a knoll here, lit by a beam of sunlight.
+~
+Long curly brown hair hangs freely from this large elf's head.  Except for his
+head and hands, clasp behind his back, his robes cover his entire body.  His
+sea-blue eyes harbor no evil.  
+~
+28746 0 0 0 537268264 0 0 0 1000
+43 -4 -4 1d5+4995 1d40+40
+65 75
+9 9 1 0 -1 -1
+#27125
+E R 0~
+terelat elven scout~
+a Terelat scout~
+An injured elven scout is resting in the grass, nursing an injured arm.
+~
+The peaceful look on his face is accented by his almond colored eyes.  His
+pointy elven ears are hidden by his long curly black hair.  His deerhide
+tunic displays his well muscled body.  His left arm is in a sling.  
+~
+20586 0 0 0 393256 0 0 0 501
+35 -3 -1 1d5+3495 1d30+30
+50 60
+7 7 1 0 -1 -1
+#27126
+E R 0~
+keruzet elven soldier elf~
+a Keruzet elf~
+A larger elf is resting in the grass, half-heartedly listening to the sermon.
+~
+The peaceful look on his face is accented by his steely eyes.  His shoulder
+length black hair is pulled behind his pointy ears.  His muscles are causing
+his brown cotton tunic to bulge slightly. 
+~
+20586 0 0 0 393256 0 0 0 501
+35 -4 -3 1d5+4495 1d30+40
+50 60
+6 6 1 0 -1 -1
+#27127
+E W 0~
+keruzet elven elf~
+a Keruzet elf~
+A larger elf is sitting on a tree stump listening to the sermon.
+~
+The peaceful look on his face is accented by his steely eyes.  His shoulder
+length brown hair is pulled behind his pointy ears.  His muscles are causing
+his blue-green cotton tunic to bulge slightly. 
+~
+20522 0 0 0 393256 0 0 0 501
+35 -4 -3 1d5+4495 1d40+40
+50 60
+6 6 1 0 -1 -1
+#27128
+E W 0~
+keruzet elven officer~
+a Keruzet elven officer~
+A Keruzet elven officer is here, explaining battleplans so some soldiers.
+~
+Slightly taller than average, this very muscular elf has a solid stance.  His
+jet black hair is cropped short.  Most of his body is covered with chainmail
+armor.  His movements and words reveal his confidence.
+~
+20586 0 0 0 393256 0 0 0 501
+40 -5 -5 1d5+6495 1d45+45
+65 75
+9 9 1 0 -1 -1
+#27129
+E W 0~
+keruzet elven officer~
+a Keruzet elven officer~
+a keruzet elven officer is briefing others with new intelligence.
+~
+Taller than most elves, this muscular elf moves fluidly.  His long blond hair is
+tied behind his back.  Most of his body is covered with chainmail armor.  His
+face reveals that is he quite concerned about something.  
+~
+20586 0 0 0 393256 0 0 0 501
+40 -5 -5 1d5+6495 1d45+45
+65 75
+9 9 1 0 -1 -1
+#27130
+E W 0~
+terelat elven officer~
+a Terelat elven officer~
+An exhausted Terelat elven officer is trying to give an urgent field report.
+~
+   His shoulder lenght hair is soaked with sweat and matted to his forehead.  
+Sweat is running down his face.  He is wearing camouflaged armor and matching
+face paint.  He looks weary and his legs tremble.    
+~
+20586 0 0 0 393256 0 0 0 501
+40 -5 -3 1d5+5995 1d45+45
+65 75
+9 9 1 0 -1 -1
+#27131
+E W 0~
+keruzet elven soldier~
+a Keruzet elven soldier~
+A large armed elven soldier is here, receiving instructions.
+~
+Short-cut black hair does nothing to hide his elven features.  His ears are
+distinctly elven, as are his almond shaped eyes.  He is wearing his full battle
+dress, but beneath it he appears to be well built for an elf.
+~
+20586 0 0 0 262184 0 0 0 501
+35 -3 0 1d5+4995 1d35+40
+50 60
+9 9 1 0 -1 -1
+#27132
+E R 0~
+terelat elven soldier~
+a Terelat elven soldier~
+An armed elven soldier is here, listening to his officer.
+~
+His small, yet strong looking frame, is covered by his full battle dress.  He is
+holding his helm in his left hand, revealing his scarred head.  What hair he
+does have is light brown.
+~
+20586 0 0 0 393256 0 0 0 501
+35 -4 -2 1d5+4995 1d45+40
+50 60
+9 9 1 0 -1 -1
+#27133
+E R 0~
+terelat elven archer~
+a Terelat elven archer~
+A Terelat elven archer is here listening to his officer.
+~
+This skinny elf is wearing camoflauge from head to toe.  He is a bit shorter
+than the average elf.  His long brown hair is tied behind his back.  His eyes
+are dark brown.
+~
+22634 0 0 0 393256 0 0 0 501
+35 -3 -1 1d5+3495 1d35+30
+50 60
+9 9 1 0 -1 -1
+#27134
+E R 0~
+keruzet elven woodsman~
+a Keruzet woodsman~
+A Keruzet woodsman is here, studying a map.
+~
+  Well-tanned skin covers this tall elf's lean body.  His shoulder length
+brown hair hangs freely at his shoulders.  Steely green eyes peer out of 
+his typically elven face.  He wears camouflaged leathers of brown and green
+which are very worn from travel through the woodlands.
+~
+20520 0 0 0 4456488 0 0 0 501
+40 -5 -4 1d5+4995 1d20+50
+65 75
+9 9 1 0 -1 -1
+#27135
+E K 0~
+keruzet elven metalsmith~
+a Keruzet metalsmith~
+A Keruzet elven metalsmith pounds away on a piece of armor here.
+~
+   This large elf wears an iron-clad leather apron.  His arms are quite
+muscular and his hair black hair is cut very short.  He hefts a smithy's hammer
+with relative ease, for an elf.    
+~
+21834 0 0 0 1446056 0 0 0 750
+45 -5 -5 1d5+9995 4d25+90
+65 75
+9 9 1 0 -1 -1
+Z 13801
+#27136
+E R 0~
+terelat elven soldier young~
+a young Terelat soldier~
+A young Terelat soldier is saying a prayer here.
+~
+   Even by elven standards, she looks young.  She is about one and a half
+meters tall and her skin is so pale it's nearly white.  Long stringy blond hair
+hides a stern grin.
+~
+20554 0 0 0 4456488 0 0 0 501
+30 0 -1 1d5+2995 1d30+30
+50 60
+9 9 2 0 -1 -1
+#27137
+E W 0~
+young keruzet elven soldier~
+a young Keruzet soldier~
+A young Keruzet soldier deftly parries his opponents attack!
+~
+   This elf looks young, yet a bit muscular.  He's covered in sweat and dirt,
+but is not bleeding.  He wears a camouflaged plate on his body and similar
+gauntlets on his hands.
+~
+4202 0 0 0 262184 0 0 0 501
+30 0 -1 1d5+3495 1d30+30
+50 60
+9 9 1 0 -1 -1
+#27138
+E W 0~
+young keruzet elven soldier~
+a young Keruzet soldier~
+A young Keruzet soldier stumbles as her weapon fails to make contact!
+~
+   Sweat and dirt stick to her camouflaged plate.  Her legs are thin, yet
+muscular and her left knee is bleeding slightly.  Her light brown hair is cut
+short, revealing her pointy ears.    
+~
+20586 0 0 0 262184 0 0 0 501
+30 0 -1 1d5+3495 1d30+30
+50 60
+9 9 2 0 -1 -1
+#27139
+E R 0~
+terelat elven officer intelligence~
+a Terelat officer~
+A small elven officer sits here, writing something.
+~
+A light ringmail vest covers his small elven body.  His long dark brown hair
+is tied behind his head revealing his pointy ears.  A large tatto of eclipsing
+moons is upon his left shoulder.  A fur cap with a tail rests upon his head.
+~
+20586 0 0 0 5636136 0 0 0 501
+40 -5 -3 1d5+4995 1d45+40
+65 75
+9 9 1 0 -1 -1
+#27140
+E M 0~
+terelat elven sorcerer~
+a Terelat sorcerer~
+A small elven sorcerer in white robes turns toward you abruptly, hands raised.
+~
+   Even being shorter than the average elf, his bearing is one of confidence.
+His face is expressionless as only an one of the elven kind can be.  He wears
+long white robes that cover every inch of his body except for his face.    
+~
+4202 0 0 0 5636136 0 0 0 1000
+45 -5 -5 1d6+6495 1d35+40
+65 75
+9 9 1 0 -1 -1
+#27141
+E M 0~
+keruzet elven enchantress~
+the Keruzet Enchantress~
+&02A lilth elven enchantress dressed in a &09s&00&02h&09i&00&02m&09e&00&02r&09i&00&02n&09g&00&02 green gown turns towards you with her head bowed.&00
+~
+   Her beauty is stunning.  Being a bit tall for an elf, her long blond hair
+hangs down past her waist in a single braid.  Beautiful green eyes serenely
+stare at you, sending a chill down your spine.  Her wide smile ends at her very
+pointy ears.  Her shimmering sleeveless dress appears to be beaded with
+emeralds, but it makes no noise as she moves.  It ends just above the ankle,
+revealing her long and thin bare feet.  The neckline is low enough for you to
+see, or think you see, an image of the two cresent moons hanging around her
+neck.  The image fades in and out of sight.    
+~
+132424 0 0 0 5636264 0 0 0 751
+50 -5 -3 1d5+9995 1d40+50
+80 90
+9 9 2 0 -1 -1
+#27142
+E K 0~
+keruzet elven officer~
+a Keruzet officer~
+An officer is here, receving instruction from his commander.
+~
+   Standing at full attention this elf has a nearly human stature.  Very pointy
+ears do quench that image though.  His armor is in good condition, if somewhat
+dirty.  His armor bears the symbol of the cresent moons.    
+~
+135272 0 0 0 397352 0 0 0 501
+40 -4 -3 1d5+4995 1d40+40
+65 75
+9 9 1 0 -1 -1
+#27143
+E R 0~
+terelat soldier elven~
+a Terelat soldier~
+An elven soldier, on his way somewhere, is passing through here.
+~
+   Clad in camouflaged armor, this elf appears to be a bit stocky.  His armor
+appears to be fairly lightweight, but rigid.  He wears knee-high leather boots
+with fur accents.  He appears to be quite battleworn.  A thin longsword hangs
+from his belt.    
+~
+4168 0 0 0 1310760 0 0 0 501
+40 -2 -3 1d5+4495 1d35+40
+65 75
+9 9 1 0 -1 -1
+#27144
+E R 0~
+terelat elven woodsman~
+a Terelat woodsman~
+An elven woodsman, back from scouting, is passing through here.
+~
+   Clad in camouflaged armor, this elf appears to be a bit stocky.  His armor
+appears to be fairly lightweight, but rigid.  He wears knee-high leather boots
+with fur accents.  He is covered in mud and grime from long trips thorugh the
+lands.  A small axe hangs from his belt.    
+~
+4200 0 0 0 4587560 0 0 0 501
+35 0 -2 1d5+3995 1d35+40
+50 60
+9 9 1 0 -1 -1
+#27145
+E R 0~
+terelat lookout~
+a Terelat lookout~
+A small elf uses this highpoint to scout for distant danger to the camp.
+~
+   Shoulder length brown hair covers his ears.  His deep blue-green eyes have a
+crisp glint to them.  He wears camouflaged leathers and carries no weapon.  
+Some foilage is attached to his camouflage.    
+~
+5450 0 0 0 786472 0 0 0 501
+35 0 -2 1d5+3995 1d35+35
+50 60
+9 9 1 0 -1 -1
+#27190
+H M 0~
+princess gara~
+Princess Gara~
+An elegant dark haired princess stands here, flirting with the birds.
+~
+   Princess Gara is tall and lean.  Here hair is long and raven black.  She
+wears a blue dress and a white bow in her hair.  Upon her hands are silky white
+gloves, which come halfway up to her elbows.  She has an aura of power around
+her.
+~
+581640 0 0 0 5506232 0 0 0 500
+50 -15 -5 2d999+500 8d8+70
+90 50
+9 9 2 0 16 13
+#27191
+H R 0~
+princess daran~
+Princess Daran~
+A princess with golden hair smiles at you.
+~
+   A beautiful smile beams at you from beneath golden curls.  Blue eyes and red
+lips highlight Princess Daran's beautiful face.  She is dressed in grey an
+earthtones and wears an amulet around her neck.
+~
+712712 0 0 0 5702824 1024 0 0 999
+51 -15 -5 2d999+500 8d7+70
+90 90
+9 9 2 0 13 7
+#27192
+H S 0~
+princess ildera~
+Princess Ildera~
+A regal lady is trying to hide.  She looks at you with displeasure.
+~
+   Princess Ildera is about 5 feet tall and has a stocky build.  It is more
+strong than heavy.  She has brown hair and her careworn face conveys love and
+saddness.  She wears a simple country tunic.
+~
+565256 0 0 0 1836200 1024 0 0 900
+51 -15 0 2d700+700 1d70+50
+99 99
+9 9 2 13 0 4
+#27193
+J C 0~
+princess nedra~
+Princess Nedra~
+A fiery-haired princess stands here, throwing a tantrum.
+~
+   She is a tiny firefly of activity.  Her flaming red hair flies in the air as
+she moves about.  She is maybe four feet tall.  Her skin is very pale and she
+has an impish grin on her face.  She is hard to keep an eye on...
+~
+532488 0 0 0 5309628 2080 0 0 900
+51 -10 -10 2d999+500 8d7+75
+90 90
+9 9 2 13 0 4
+#27198
+A C 0~
+racoon god procyon lotor~
+Procyon Lotor~
+Procyon lotor, the god of wilderness healing stuns you with his presence.
+~
+Procyon Lotor is fairly round and covered in fur.  The fur on his face
+sort of looks like a mask.  His hands and feet are clawed and he has a tail.
+~
+10 0 0 0 66728 0 0 0 0
+51 -30 -20 1d1+20000 22d23+99
+90 100
+9 9 1 8 0 4
+#27199
+H S 0~
+wizen old man~
+a wizen old man~
+A wizen old man is meditating here.  Maybe he has something for you to do?
+~
+   He is a middle aged human.  His face and head are clean shaven and he wears
+a plain brown robe.  He is in shape but not overly muscular.  His face is
+expressionless.    
+~
+134422536 0 0 0 541144232 131104 0 0 0
+51 -30 -30 1d1+30000 20d20+100
+80 90
+9 9 1 0 -1 -1
+$

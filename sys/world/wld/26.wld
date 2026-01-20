@@ -1,0 +1,1962 @@
+#2600
+Credits Room~
+This is an area Enki found on RavenMUD one day.  It was unlinked, and the
+the origional author.  It was a super-lowbie area.  Mobs with 1000 exp.
+I upped it a bit and tweaked the area to fill a nitch i think raven
+needed filling.
+There'll be some useful pots/scrolls in here, and otherwise it may be good
+fun for goodies of level 35+ (maybe 40+) solo.
+Remodeling began on 7-5-02.  Opened on 7-6-02.
+~
+26 1024 0 0 0 2 255 0
+D0
+The path continues north.
+~
+~
+0 0 2601
+D2
+You see the Plains of Ofcol.
+~
+~
+0 0 -1
+E
+dirs~
+20n6w3n3e from center of samsera
+~
+S
+#2601
+Along the Path~
+You are on the path away from the Plains of Ofcol.  The main path leads north
+to an overlook and south back toward the Plains of Ofcol.  Western and eastern
+side paths can be seen, probably deer trails by the width of them.
+~
+26 0 0 0 0 2 255 0
+D0
+You see the overlook.
+~
+~
+0 0 2604
+D1
+You see the small trail.
+~
+~
+0 0 2603
+D2
+You see the path back toward Ofcol.
+~
+~
+0 0 2685
+D3
+You see the small trail.
+~
+~
+0 0 2602
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_dir~
+north
+~
+S
+#2602
+A Small Trail~
+This small deer trail leads north and east.
+~
+26 0 0 0 0 2 255 0
+D0
+The trail continues north.
+~
+~
+0 0 2667
+D1
+The main path is to the east.
+~
+~
+0 0 2601
+S
+#2603
+A Small Trail~
+This small deer trail leads north and west.
+~
+26 0 0 0 0 2 255 0
+D0
+The trail continues north.
+~
+~
+0 0 2649
+D3
+The main path is to the west.
+~
+~
+0 0 2601
+S
+#2604
+The Overlook~
+You are above a large valley.  Below you, you see humanoid forms wandering
+around the valley.  Rich green grass covers the valley, with some small trees
+dotting the landscape.  To the south is the trail back toward Ofcol.
+~
+26 0 0 0 0 2 255 0
+D2
+You see the path back toward Ofcol.
+~
+~
+0 0 2601
+D5
+You see the entrance to the valley.
+~
+~
+0 0 2605
+S
+#2605
+The Entrance to the Valley of the Elves~
+You are at the entrance to the Valley of the Elves.  Elves stare at your
+intrusion, but most are too busy to bother with you.  The valley spreads to
+the north, while enlarging toward the east and west.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2610
+D1
+The valley continues east.
+~
+~
+0 0 2607
+D3
+The valley continues west.
+~
+~
+0 0 2606
+D4
+The overlook is above you.
+~
+~
+0 0 2604
+S
+#2606
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues north and east.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2609
+D1
+The entrance to the valley is to the east.
+~
+~
+0 0 2605
+S
+#2607
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues north and west.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2611
+D3
+The entrance to the valley is to the west.
+~
+~
+0 0 2605
+S
+#2608
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues north and east.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2613
+D1
+The valley continues east.
+~
+~
+0 0 2609
+S
+#2609
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2614
+D1
+The valley continues east.
+~
+~
+0 0 2610
+D2
+The valley continues south.
+~
+~
+0 0 2606
+D3
+The valley continues west.
+~
+~
+0 0 2608
+S
+#2610
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+The entrance to the valley is towards the south.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2615
+D1
+The valley continues east.
+~
+~
+0 0 2611
+D2
+You see the entrance to the valley.
+~
+~
+0 0 2605
+D3
+The valley continues west.
+~
+~
+0 0 2609
+S
+#2611
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2616
+D1
+The valley continues east.
+~
+~
+0 0 2612
+D2
+The valley continues south.
+~
+~
+0 0 2607
+D3
+The valley continues west.
+~
+~
+0 0 2610
+S
+#2612
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues north and west.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2617
+D3
+The valley continues west.
+~
+~
+0 0 2611
+S
+#2613
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  A steep trail leads up toward
+the deer trail circling the valley.  The valley continues north, south, and
+east.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2618
+D1
+The valley continues east.
+~
+~
+0 0 2614
+D2
+The valley continues south.
+~
+~
+0 0 2608
+D4
+The steep trail leads up.
+~
+~
+0 0 2663
+S
+#2614
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2619
+D1
+The valley continues east.
+~
+~
+0 0 2615
+D2
+The valley continues south.
+~
+~
+0 0 2609
+D3
+The valley continues west.
+~
+~
+0 0 2613
+S
+#2615
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+~
+26 0 2 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2620
+D1
+The valley continues east.
+~
+~
+0 0 2616
+D2
+The valley continues south.
+~
+~
+0 0 2610
+D3
+The valley continues west.
+~
+~
+0 0 2614
+S
+#2616
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2621
+D1
+The valley continues east.
+~
+~
+0 0 2617
+D2
+The valley continues south.
+~
+~
+0 0 2611
+D3
+The valley continues west.
+~
+~
+0 0 2615
+S
+#2617
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  A steep trail leads up toward
+the deer trail circling the valley.  The valley continues north, south, and
+west.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2622
+D2
+The valley continues south.
+~
+~
+0 0 2612
+D3
+The valley continues west.
+~
+~
+0 0 2616
+D4
+The steep trail leads up.
+~
+~
+0 0 2653
+S
+#2618
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  High above you, you see a
+small trail circling the entire valley.  The valley continues south and east.
+~
+26 0 0 0 0 2 255 0
+D1
+The valley continues east.
+~
+~
+0 0 2619
+D2
+The valley continues south.
+~
+~
+0 0 2613
+S
+#2619
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2623
+D1
+The valley continues east.
+~
+~
+0 0 2620
+D2
+The valley continues south.
+~
+~
+0 0 2614
+D3
+The valley continues west.
+~
+~
+0 0 2618
+S
+#2620
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2624
+D1
+The valley continues east.
+~
+~
+0 0 2621
+D2
+The valley continues south.
+~
+~
+0 0 2615
+D3
+The valley continues west.
+~
+~
+0 0 2619
+S
+#2621
+The Valley of the Elves~
+The Valley of the Elves is full of all sorts of plants and animals.
+There are maple, cedar, sequoia, aspens and other trees as well as
+countless creatures.  The elves love this place and guard it fiercely.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues north.
+~
+~
+0 0 2625
+D1
+The valley continues east.
+~
+~
+0 0 2622
+D2
+The valley continues south.
+~
+~
+0 0 2616
+D3
+The valley continues west.
+~
+~
+0 0 2620
+S
+#2622
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues south and west.
+~
+26 0 0 0 0 2 255 0
+D2
+The valley continues south.
+~
+~
+0 0 2617
+D3
+The valley continues west.
+~
+~
+0 0 2621
+S
+#2623
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues south and east.
+~
+26 0 0 0 0 2 255 0
+D1
+The valley continues east.
+~
+~
+0 0 2624
+D2
+The valley continues south
+~
+~
+0 0 2619
+S
+#2624
+The Edge of the Valley~
+You are in the Valley of the Elves.  The valley continues in all directions.
+To the north, a small, narrow trail leads away from the valley.
+~
+26 0 0 0 0 2 255 0
+D0
+A small trail leads away from the valley.
+~
+~
+0 0 2626
+D1
+The valley continues east.
+~
+~
+0 0 2625
+D2
+The valley continues south.
+~
+~
+0 0 2620
+D3
+The valley continues west.
+~
+~
+0 0 2623
+S
+#2625
+The Edge of the Valley~
+You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues south and west.
+~
+26 0 0 0 0 2 255 0
+D2
+The valley continues south.
+~
+~
+0 0 2621
+D3
+The valley continues west.
+~
+~
+0 0 2624
+S
+#2626
+A Trail Leading from the Valley~
+You are on a narrow trail leading away from the Valley of the Elves.  This
+trail leads north and south.  A rope ladder leads up to a rope bridge.
+~
+26 0 0 0 0 2 255 0
+D0
+The trail continues north.
+~
+~
+0 0 2627
+D2
+The trail leads back to the valley.
+~
+~
+0 0 2624
+D4
+You see the rope bridge above you.
+~
+~
+0 0 2658
+S
+#2627
+Along the Trail~
+You are on the trail away from the Valley of the Elves.  The hills around you
+keep this trail narrow.  The trail continues east, south, and west.
+~
+26 0 0 0 0 2 255 0
+D1
+The trail continues east.
+~
+~
+0 0 2628
+D2
+The trail continues south back toward the valley.
+~
+~
+0 0 2626
+D3
+The trail continues west.
+~
+~
+0 0 2668
+S
+#2628
+A Bend in the Trail~
+You are on the trail away from the Valley of the Elves.  The hills around you
+keep this trail narrow.  The trail continues north and back west.
+~
+26 0 0 0 0 2 255 0
+D0
+You see a small valley north.
+~
+~
+0 0 2629
+D3
+The trail goes back to the west.
+~
+~
+0 0 2627
+S
+#2629
+A Smaller Valley~
+You are in another valley within these hills. To the north, you can see a
+building, and to the south you see the trail away from this valley.  The
+west and east paths surround this building.
+~
+26 0 0 0 0 2 255 0
+D0
+You see the building.
+~
+door~
+1 -1 2634
+D1
+You see the trail around the building.
+~
+~
+0 0 2631
+D2
+You see the trail leading away from this valley.
+~
+~
+0 0 2628
+D3
+You see the trail around the building.
+~
+~
+0 0 2630
+S
+#2630
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads north and
+east.  To the north-east is a building.
+~
+26 0 0 0 0 2 255 0
+D0
+You see the trail.
+~
+~
+0 0 2632
+D1
+You see the trail.
+~
+~
+0 0 2629
+S
+#2631
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads west and
+east.  To the north is a building.
+~
+26 0 0 0 0 2 255 0
+D1
+You see the trail.
+~
+~
+0 0 2633
+D3
+You see the trail.
+~
+~
+0 0 2629
+S
+#2632
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads north and
+south.  To the east is a building.
+~
+26 0 0 0 0 2 255 0
+D0
+You see the trail.
+~
+~
+0 0 2637
+D2
+You see the trail.
+~
+~
+0 0 2630
+S
+#2633
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads north and
+west.  To the north-west is a building.
+~
+26 0 0 0 0 2 255 0
+D0
+You see the trail.
+~
+~
+0 0 2636
+D3
+You see the trail.
+~
+~
+0 0 2631
+S
+#2634
+The Elf Home~
+You are in the home of the valley elves.  The building continues to the north
+and the east, and the exit is to the south.
+~
+26 8 0 0 0 0 255 0
+D0
+The building continues to the north.
+~
+~
+0 0 2638
+D1
+The building continues to the east.
+~
+~
+0 0 2635
+D2
+The exit is to the south.
+~
+door~
+1 -1 2629
+S
+#2635
+The Kitchen~
+You are in a community kitchen for this valley elven home.  Pots and pans line
+the walls, along with shelves filled with many foodstuffs.  A big oven is to one
+side, and you can smell elfcakes being baked.
+There is a doorway to the north and one to the west.
+~
+26 8 0 0 0 0 255 0
+D0
+The building continues to the north.
+~
+~
+0 0 2639
+D3
+The building continues to the west.
+~
+~
+0 0 2634
+S
+#2636
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads north and
+south.  To the west is a building.
+~
+26 0 0 0 0 2 255 0
+D0
+You see the trail.
+~
+~
+0 0 2640
+D2
+You see the trail.
+~
+~
+0 0 2633
+S
+#2637
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads north and
+south.  To the east is a building.
+~
+26 0 0 0 0 2 255 0
+D0
+You see the trail.
+~
+~
+0 0 2641
+D2
+You see the trail.
+~
+~
+0 0 2632
+S
+#2638
+The Living Room~
+You are in the living room of the elven home.  Mats cover the floor, and a
+on a table is a bowl full of fruits.  Through the window you can see the
+valley, with its wild flowers and tall, green grasses.
+~
+26 8 0 0 0 0 255 0
+D1
+The building continues to the east.
+~
+~
+0 0 2639
+D2
+The entrance is to the south.
+~
+~
+0 0 2634
+S
+#2639
+The Storage Room~
+You are in the storage room of the elven home.  Sacks of flour cover one side,
+and cleaning accessories cover the other side.  You find nothing of use here.
+A staircase leads up.
+~
+26 8 0 0 0 0 255 0
+D2
+The building continues to the south.
+~
+~
+0 0 2635
+D3
+The building continues to the west.
+~
+~
+0 0 2638
+D4
+You see the second floor.
+~
+~
+0 0 2648
+S
+#2640
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads north and
+south.  To the west is a building.
+~
+26 0 0 0 0 2 255 0
+D0
+You see the trail.
+~
+~
+0 0 2644
+D2
+You see the trail.
+~
+~
+0 0 2636
+S
+#2641
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads south and
+east.  To the south-east is a building.
+~
+26 0 0 0 0 2 255 0
+D1
+You see the trail.
+~
+~
+0 0 2642
+D2
+You see the trail.
+~
+~
+0 0 2637
+S
+#2642
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads west and
+east.  To the south is a building.
+~
+26 0 0 0 0 2 255 0
+D1
+You see the trail.
+~
+~
+0 0 2643
+D3
+You see the trail.
+~
+~
+0 0 2641
+S
+#2643
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads east and
+west.  To the south is a building.
+~
+26 0 0 0 0 2 255 0
+D1
+You see the trail.
+~
+~
+0 0 2644
+D3
+You see the trail.
+~
+~
+0 0 2642
+S
+#2644
+A Trail in the Valley~
+You are on the trail in the Valley of the Elves.  This trail leads south and
+west.  To the south-west is a building.
+~
+26 0 0 0 0 2 255 0
+D2
+You see the trail.
+~
+~
+0 0 2640
+D3
+You see the trail.
+~
+~
+0 0 2643
+S
+#2645
+The Elders' Room~
+You are in the room of the valley elf elders.  Books written in strange
+languages line the numerous shelves, and scrolls cover a table.  There is a
+smooth spheric object in the center of the room.
+~
+26 520 0 0 0 0 255 0
+D0
+You see another room.
+~
+door~
+1 -1 2647
+D1
+You see another room.
+~
+door~
+1 2604 2646
+S
+#2646
+The Storage Room~
+You are in a storage room.  Many useless (to you) items fill this room.
+~
+26 520 0 0 0 0 255 0
+D0
+You see another room.
+~
+door~
+1 2604 2648
+D3
+You see another room.
+~
+door~
+1 2604 2645
+S
+#2647
+The Sleeping Quarters~
+You are in the sleeping quarters of the valley elves.  Cots line the floor,
+with two windows showing a view of the valley.  Books in strange languages
+line the shelves, but nothing of interest is here.
+~
+26 8 0 0 0 0 255 0
+D1
+You see another room.
+~
+door~
+1 -1 2648
+D2
+You see another room.
+~
+door~
+1 -1 2645
+S
+#2648
+Study~
+You are in the study room of the valley elves.  Comfortable mats are on the
+floor, and musical instruments are neatly stacked on shelves.  Books in
+strange languages line some other elves.  A stairway leads down to the
+first floor.
+~
+26 8 0 0 0 0 255 0
+D2
+You see another room.
+~
+door~
+1 2604 2646
+D3
+You see another room.
+~
+door~
+1 -1 2647
+D5
+You see the first floor.
+~
+~
+0 0 2639
+S
+#2649
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 2650
+D2
+~
+~
+0 0 2603
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2683
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2650
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 2651
+D3
+~
+~
+0 0 2649
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2683
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2651
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 2652
+D2
+~
+~
+0 0 2650
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2664
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2652
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 2653
+D3
+~
+~
+0 0 2651
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2614
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2653
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+A safe trail leads down into the valley.
+~
+26 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 2654
+D2
+~
+~
+0 0 2652
+D5
+The trail down looks safe.
+~
+~
+0 0 2617
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2654
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D2
+~
+~
+0 0 2653
+D3
+~
+~
+0 0 2655
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2614
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2655
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 2656
+D1
+~
+~
+0 0 2654
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2614
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2656
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D2
+~
+~
+0 0 2655
+D3
+~
+~
+0 0 2657
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2664
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2657
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 2656
+D3
+You see a rope bridge~
+~
+0 0 2658
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2614
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2658
+On the Rope Bridge~
+You are on the rope bridge.  From here, you can see the whole Valley of the
+Elves.  To the south, you see the main valley.  To the north-east, you see a
+smaller valley with a building in the center of it.  To the north-west, you
+can see a very small valley with a shack in it's center.  A rope ladder
+leads down into a trail.
+~
+26 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 2657
+D3
+~
+~
+0 0 2659
+D5
+You see the trail.
+~
+~
+0 0 2626
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2659
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D1
+You see a rope bridge.
+~
+~
+0 0 2658
+D3
+~
+~
+0 0 2660
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2614
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2660
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.  
+Within inches of your feet is the start of a nearly vertical path down the
+slope.  The path appears covered in several spots with a covering of fine
+gravel and in other spots there appear to be scoured patches, as though a slide
+had erased the path.  This looks extremely hazardous as you can't even see more
+than 15-20 feet of the downwards path.  You could easily get stuck farther down
+and not be able to climb out..  You might even be hit by a rockslide.    
+~
+26 0 0 0 0 4 255 0
+D1
+~
+~
+0 0 2659
+D2
+~
+~
+0 0 2661
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2683
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2661
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 2660
+D3
+~
+~
+0 0 2662
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2664
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2662
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 2661
+D2
+~
+~
+0 0 2663
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2664
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2663
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+A safe trail leads down into the valley.
+~
+26 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 2662
+D2
+~
+~
+0 0 2664
+D5
+The trail down looks safe.
+~
+~
+0 0 2613
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2664
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 2663
+D1
+~
+~
+0 0 2665
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2683
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2665
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D2
+~
+~
+0 0 2666
+D3
+~
+~
+0 0 2664
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2683
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2666
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 2665
+D1
+~
+~
+0 0 2667
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2683
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2667
+Along a Windy Trail on the Rim of the Valley~
+You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+26 0 0 0 0 2 255 0
+D2
+~
+~
+0 0 2602
+D3
+~
+~
+0 0 2666
+D5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0 0 2683
+E
+block_msg_room~
+$n couldn't sneak past $N.
+~
+E
+block_msg_char~
+You couldn't sneak past $N.
+~
+E
+block_dir~
+down
+~
+S
+#2668
+A Bend in the Trail~
+You are on a bend in the trail leading from the main valley.  The hills around
+you make this trail quite narrow.
+~
+26 0 0 0 0 2 255 0
+D0
+The trail continues north.
+~
+~
+0 0 2669
+D1
+The trail continues east.
+~
+~
+0 0 2627
+S
+#2669
+A Bend in the Trail~
+You are on a bend in the trail leading from the main valley.  The hills around
+you make this trail quite narrow.  To the west, you can see an even smaller
+valley, with looks like a small shack in the center of it.
+~
+26 0 0 0 0 2 255 0
+D2
+The trail continues south.
+~
+~
+0 0 2668
+D3
+The entrance to the small valley is to the west.
+~
+~
+0 0 2670
+S
+#2670
+The Small Valley~
+You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  The exit from this valley is to the east, and
+the entrance to the shack is to the west.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues to the north.
+~
+~
+0 0 2671
+D1
+The exit from this small valley is to the east.
+~
+~
+0 0 2669
+D2
+The valley continues to the south.
+~
+~
+0 0 2672
+D3
+You see the small shack.
+~
+door~
+1 -1 2678
+S
+#2671
+The Small Valley~
+You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the south-west is a small shack.
+~
+26 0 0 0 0 2 255 0
+D2
+The valley continues to the south.
+~
+~
+0 0 2670
+D3
+The valley continues to the west.
+~
+~
+0 0 2673
+S
+#2672
+The Small Valley~
+You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the north-west is a small shack.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues to the north.
+~
+~
+0 0 2670
+D3
+The valley continues to the west.
+~
+~
+0 0 2677
+S
+#2673
+The Small Valley~
+You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the south is a small shack.
+~
+26 0 0 0 0 2 255 0
+D1
+The valley continues to the east.
+~
+~
+0 0 2671
+D3
+The valley continues to the west.
+~
+~
+0 0 2674
+S
+#2674
+The Small Valley~
+You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the south-east is a small shack.
+~
+26 0 0 0 0 2 255 0
+D1
+The valley continues to the east.
+~
+~
+0 0 2673
+D2
+The valley continues to the south.
+~
+~
+0 0 2675
+S
+#2675
+The Small Valley~
+You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the east is a small shack.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues to the north.
+~
+~
+0 0 2674
+D2
+The valley continues to the south.
+~
+~
+0 0 2676
+S
+#2676
+The Small Valley~
+You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the north-east is a small shack.
+~
+26 0 0 0 0 2 255 0
+D0
+The valley continues to the north.
+~
+~
+0 0 2675
+D1
+The valley continues to the east.
+~
+~
+0 0 2677
+S
+#2677
+The Small Valley~
+You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the north is a small shack.
+~
+26 0 0 0 0 2 255 0
+D1
+The valley continues to the east.
+~
+~
+0 0 2672
+D3
+The valley continues to the west.
+~
+~
+0 0 2676
+S
+#2678
+Inside the Small Shack~
+You are inside the small shack.  A small stove is on the side, with soup
+cooking over it.  You see nothing valuable.
+~
+26 8 0 0 0 0 255 0
+D1
+You see the valley outside.
+~
+door~
+1 -1 2670
+D5
+You see a trap door!
+~
+trap door~
+1 -1 2679
+S
+#2679
+Beneath the Small Shack~
+You are beneath the small shack, in a tunnel that leads south.  It feels
+quite warm down here.
+~
+26 9 0 0 0 0 255 0
+D2
+The room looks reddish down there.
+~
+~
+0 0 2680
+D4
+Back to known territory!
+~
+trap door~
+1 -1 2678
+S
+#2680
+The Den of the Pyrohydra~
+You are in the den of the pyrohydra.  All the walls are charred, and this
+room is filled with a smell close to that of burning tar.
+~
+26 9 0 0 0 0 255 0
+D0
+You see the relative safety to the north.
+~
+~
+0 0 2679
+D1
+You see breaks in the charred rock to the east.
+~
+secret~
+1 2605 2682
+D3
+You see a door to the west.
+~
+door~
+1 2605 2681
+S
+#2681
+The Workroom~
+This room looks like it is used for magical studies.  Potions bubble over
+burners, and the whole room spells of herbs and dead animal flesh.  A furnace
+to the side casts a bright light in this room.  The whole room radiates with
+a magical aura.
+~
+26 520 0 0 0 0 255 0
+D1
+~
+door~
+1 2605 2680
+S
+#2682
+The Storage Room~
+This room is used to store scrolls, potions, and other magical items.  The
+whole room radiates with a magical aura.
+~
+26 520 0 0 0 0 255 0
+D3
+~
+secret door~
+1 2605 2680
+S
+#2683
+AVALANCHE!!!!!!!!!!!!!!!!!!!!!~
+With a loud roar a cresting wave of rocks and earth roars down the slope and
+buries you in a choking cloud of dirt and pummels you with rocks threatening to
+tear your grip loose!    
+~
+26 142606336 0 0 0 4 255 0
+D4
+~
+~
+0 0 2660
+S
+Z 15
+#2685
+A Path from the Plains~
+   You are on a path leading into a small lush valley.  The northern mountain
+range completely surrounds and hides the valley.  Lush green lies to the north
+while the only path to the mountain range is west of here.    
+~
+26 4 0 0 0 0 255 0
+D0
+~
+~
+0 0 2601
+D3
+~
+~
+0 0 10769
+S
+$~

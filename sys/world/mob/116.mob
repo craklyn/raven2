@@ -1,0 +1,104 @@
+#11601
+W W 0~
+pech~
+a pech~
+A pech stops his mining and looks at you with interest.
+~
+This four foot tall, spindly, bearded creature has pale, yellowish skin that 
+at first glance appears as hard as granite.  It's hair is shoulder length and 
+a reddish-brown color as is it's beard.  It has long, thin arms and legs but 
+it's feet and hands are very broad and strong looking.  It's large, pupiless 
+eyes look as if they could see literally anything.  
+~
+28744 0 0 0 295976 0 0 0 750
+35 4 -7 100d4+1200 8d5+13
+50 60
+9 9 1 0 -1 -1
+#11602
+W W 0~
+pech female~
+a pech female~
+A pech female looks up from her work and examines you.
+~
+Although beardless, this pech looks much like the males.  It too has broad, 
+flat hands with spindly arms and legs.  The shoulder length hair has a bit
+more red in it and the yellowish skin is slightly paler than the skin of the 
+males.  It's eyes are also large and pupiless.
+~
+28744 0 0 0 295976 0 0 0 750
+34 6 -6 1d3+1250 8d4+10
+50 60
+9 9 2 0 -1 -1
+#11603
+W W 0~
+pech youngling~
+a pech youngling~
+A pech youngling watches you in fear.
+~
+This pech is obviously one of the younglings.  It's impossible to determine
+the gender because it has no beard.  In appearance, it looks like a miniature
+of one of the females.
+~
+28744 0 0 0 295976 0 0 0 750
+30 8 -5 1d1+1050 6d4+8
+50 60
+9 9 1 0 -1 -1
+#11604
+W W 0~
+pech youngling~
+a pech youngling~
+A pech youngling watches you in fear.
+~
+This pech is obviously one of the younglings.  It's impossible to determine
+the gender because it has no beard.  In appearance, it looks like a miniature
+of one of the females.
+~
+28744 0 0 0 295976 0 0 0 750
+30 8 -5 1d1+1050 6d4+8
+50 60
+9 9 2 0 -1 -1
+#11605
+A W 0~
+fisher cave~
+a cave fisher~
+A cave fisher patiently waits for you to enter striking range.
+~
+You see what appears to be a cross between a giant insect and a crab.  It has 
+a large proboscis in front of two, large, multi-faceted eyes and a thick 
+exoskeleton covering it's entire length of 10 to 12 feet.  It has eight hard-
+shelled legs, 6 of which look built for climbing.  It's front two legs end in 
+giant pincers that look razor sharp.
+~
+30586 0 0 0 1999918 0 0 0 -500
+50 -20 -10 100d20+14639 10d8+35
+80 90
+9 9 0 8 -1 -1
+#11606
+W W 0~
+guardian dwarven dwarf~
+the Dwarven Guardian~
+A heavily armored dwarf stands here.
+~
+This Dwarf looks ready for battle and fully capable of executing his duty
+as guardian of the golden door.  He is obviously under some kind of magical
+enchantment, for it appears that he has been standing here for a very long
+time without moving....at least an inch of dust has settled on his head
+and broad shoulders.
+~
+122970 0 0 0 165036 0 0 0 0
+35 0 -10 1d1+3500 8d4+22
+50 60
+9 9 1 0 -1 -1
+#11699
+D T 9~
+tunnel dragon brown~
+&03The Tunnel Dragon&00~
+&03A tunnel dragon rears as you approach.&00
+~
+Long and sleek and dark brown, this dragon is like nothing you have ever seen.
+~
+1116348 0 0 0 787496 2098176 0 0 -1000
+51 -30 -10 5d5+13000 11d19+75
+90 100
+9 9 1 0 -1 -1
+$

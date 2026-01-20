@@ -1,0 +1,18 @@
+ff ord foll kill $*
+f cast 'shadow blade' $*
+blur cast 'blur' $*
+walk cast 'shadow walk'
+dom cast 'dance of mist' $*
+sb cast 'shadow blades' $*
+1 title &12Drow&13nding&00 &14in &00&04Genesis&00
+sense cast 'sense'
+sv cast 'shadow vision' $*
+sphere cast 'shadow sphere'
+wake {;wake; stand;}
+bl cast 'blind' $*
+gt gt &03$* &00
+x cast 'blur'
+xx cast 'shadow vision' $*
+dod cast 'dance of dreams' $*
+a backstab $*
+dance cast 'dance of shadows'

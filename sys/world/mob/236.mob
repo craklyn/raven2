@@ -1,0 +1,281 @@
+#23640
+A W 0~
+coyote~
+a coyote~
+A coyote is here, looking for a meal.
+~
+   The coyote's grey fur is short and dirty.  It looks to weigh about 30
+pounds.  A couple sharp teeth protrude from it's mouth.  It's tail has a white
+streak down it.    
+~
+8 0 0 0 0 0 0 0 0
+15 11 5 1d100+400 1d9+9
+35 40
+9 9 0 0 -1 -1
+#23641
+A W 0~
+swarm locust~
+a swarm of locust~
+A swarm of locust buzz loudly.
+~
+   It looks like a hyper cloud.  A hundred locusts buzz about in a single
+swarm.  You can't quite pick out individual locusts, but the swarm seems to act
+with one mind.    
+~
+8 0 0 0 65536 0 0 0 0
+15 11 7 1d100+400 1d9+9
+35 40
+9 9 0 1 -1 -1
+#23642
+A T 0~
+big black raven~
+a big black raven~
+A big black raven is flying overhead.
+~
+   It has a wing span of about 10 inches.  It has a mouse in it's mouth.  It's
+feathers are completely black, as well as it's beak and feet.    
+~
+8 0 0 0 0 0 0 0 0
+15 8 7 1d100+400 1d9+9
+35 40
+9 9 0 16 8 -1
+#23643
+U W 0~
+dread coyote pile bones~
+a dread coyote~
+A howling pile of bones is looking for living flesh here.
+~
+   This thing used to be a coyote, but died a few months ago.  It smells rotten
+and lookse terrible.  Patches of fur are barely hanging on and maggots infest
+it's hair in places.  It's maw has a few rotten teeth in it.  Most of those are
+broken.  It is limping, favoring it's right hind leg.    
+~
+16456 0 0 0 65536 0 0 0 0
+15 11 5 1d100+400 1d9+9
+35 40
+9 9 1 4 19 -1
+#23644
+F D 0~
+slime thing~
+the slime thing~
+A walking mound of slime is here, looking for a victim.
+~
+   This mound of slime is about 4 feet tall.  It doesn't have a head or arms or
+legs.  It's pretty mucha pillar of slime, and it's moving towards you.  Incets
+seem to be stuck in the surface slime, or skin, of this creature.    
+~
+16456 0 0 0 0 0 0 0 0
+15 10 5 1d100+300 1d9+9
+35 40
+9 9 0 12 0 -1
+#23645
+A D 0~
+werebat bat~
+a werebat~
+A werebat flutters around here.
+~
+   This bat flutters around with purpose.  It is staying behind you.  How can
+something as simple as a bat be so smart?  There can only be one explanation.
+It isn't really a bat.    
+~
+16392 0 0 0 0 0 0 0 0
+15 10 7 1d100+300 1d10+10
+35 40
+9 9 1 0 -1 -1
+Z 23601
+#23646
+V D 0~
+vampire~
+a vampire~
+A vampire stands here with his eyes closed.
+~
+   He is covered in a black cloak.  His pale hands and head are all you can
+see.  His eyes are closed and he seems to be concentrating.  &08 Blood&00 drips
+from his fanged grin.    
+~
+16392 0 0 0 0 0 0 0 0
+15 10 2 1d10+400 1d10+10
+35 40
+9 9 1 0 -1 -1
+#23650
+U R 0~
+aurlec ranger~
+Aurlec~
+A dark ranger is looking for a fight here.
+~
+   He's covered in dark camouflaged armor and smells real bad.  His hair is
+ashen white as is his skin.  Aurlec moves swiftly and strongly for a corpse.  
+This must be the work of some dark magic.    
+~
+4200 0 0 0 66594 0 0 0 -500
+20 10 0 1d100+1000 1d10+10
+40 40
+9 9 1 0 -1 -1
+#23651
+U A 0~
+undead meredith~
+the undead form of Meredith~
+The restless, soulless form of Meredith prevents your passage!
+~
+   To call this 'thing' Meredith would be inaccurate.  This undead beast is her
+animated body without her soul.  Her soul was taken by the necromancer of the
+hollow long ago, leaving this "thing" behind.  Even soul-less, Meredith's love
+for Sebastian causes her to protect him from anyone.    
+~
+67256330 0 0 0 4326440 0 0 0 -500
+24 10 5 1d100+1500 1d10+10
+40 40
+9 9 2 0 -1 -1
+#23652
+U D 0~
+fallen hero~
+a fallen hero~
+An undead fallen hero prepares to destroy you!
+~
+   The forces of decay have ravaged this being greatly.  You can see his bones
+in many places where his flesh has rotted away.  A look of dread and fear is
+frozen into his face.    
+  He came to this land to be a hero and failed.  His remains were mastered by 
+the necromancer of the hollow and now serve to slay any other potential heros.
+~
+42 0 0 0 1032 0 0 0 -500
+20 10 0 10d10+1000 1d8+8
+40 40
+9 9 1 0 -1 -1
+#23653
+H W 0~
+sebastian~
+Sebastian~
+Sebastian has fallen here, dead tired.
+~
+   Sebastian looks like a young average human male.  He came to the hollow to
+rescue Meredith but proved to be inadequate.  The necromancer ravaged his soul
+but did not take it.  The wounds to his soul can not be cured unless his soul
+is reunied with the soul of the one he loves.    
+~
+16392 0 0 0 0 0 0 0 0
+20 10 2 1d100+1500 1d10+10
+40 40
+9 9 1 0 -1 -1
+#23660
+U H 0~
+sutakl stenchful~
+Sutakl the Stenchful~
+Sutakl the Stenchful is fowling up the air here.
+~
+   Humanoid in form, Sutakl is putrid through and through.  Her body seems to
+be made of solidified vomit and bile.  Her feet and legs are lightly covered in
+burnt hair.  A large skunk's tail, over three feet in length and bushy,
+protrudes from her backside.  The pungent odor of feces emanates from smears on
+her torso, which help to mask the downright dizzying smell of decaying flesh
+that are her arms.  Rotten fish scales flake off of her face and neck,
+revealing mossy under-flesh.  Her hair, matted with some tar-like sulfurous
+substance, is twenty-some whips of wisps of agony.    
+~
+24584 0 0 0 4259840 0 0 0 -500
+20 10 0 3d100+700 1d10+10
+40 40
+9 9 2 19 1 0
+#23661
+A R 0~
+cerrmullossa slithering~
+Cerrmullossa the Slithering~
+A trail of waste ends here at Cerrmullossa the Slithering.
+~
+   It's form is that of a giant slug, oozing every nasty fluid of your
+nightmares.  Cerrmullossa stands, if you can call it that, five feet tall, and
+still has about seven feet of length on the ground.  It's entire mass seems to
+be made of some mix of blood, puss, pond slime and other unmentionable fluids.
+It's two tentacles drop with a murky yellow fluid and small geysers of blood
+erupt from the upright portion of this being.  Maggots dot her outer surface
+and several things move just below the surface, which seemingly cause
+Cerrmullosa moderate pain!  The trail this wide behemoth leaves on the ground
+is black and crimson and just plain fiendish.    
+~
+24648 0 0 0 65536 0 0 0 0
+20 10 0 3d100+800 1d10+10
+40 40
+9 9 0 6 1 0
+#23662
+F D 0~
+keclutrac krunchy~
+Keclutrac the Krunchy~
+A humming, buzzing sound eminates from Keclutrac the Krunchy.
+~
+   Keclutrac isn't really a person, it's more of an entity comprised of
+thousands of insects of all varieties clinging together to form one being.  
+It's legs seem to be mostly comprised of large ants and spiders.  Scorpions run
+up and down the legs.  Keclutrac's arms are a pair of collections of millipedes
+and centipedes of many colors.  Having no skeleton, these limbs flow and bend
+amorphously around the torso.  Keclutrac's torso is made up mostly of spiders,
+black widows and tarantulas mainly.  Several wasps, and yellow jackets and
+flies swarm around the torso causing it to not really have a solid surface.  
+Keclutrac's head is a swarm of larvae and cockroaches.  It bustles with
+activity.  Tiny moths hover all about it.  Two small clusters of lightning bugs
+within the head pulse in unison and seem to be Keclutrac's eyes.    
+~
+24648 0 0 0 65536 0 0 0 -500
+20 10 0 3d100+800 1d10+12
+40 40
+9 9 0 1 4 11
+#23663
+U D 0~
+gozuthilki ghastly~
+Gozuthilki the Ghastly~
+Gozuthilki the Ghastly is oozing larva here.
+~
+Gozuthilki is utterly disgusting.  He is humanoid in shape, but where arms
+should be there are 3 snakes each.  They are about four feet long and they do
+not have their skin.  Their bloody muscles and bones show.  As these snakes
+hiss at you, maggots spew out of their fangs instead of venom.  Gozuthilki's
+head is just as heinous.  There is a large hole where his forehead should be.
+His eyes seems to be coal and cockroaches spew forth from his mouth as he tries
+to speak and his nose flaps in the breeze.  A squirt of blood issues forth from
+his chest with every heartbeat, sending a small stream of sulfurous toxins your
+way.  His knees seem to bend the wrong way and his femurs are obviously broken,
+leaving bone to stick out all over the place.
+~
+24648 0 0 0 65536 0 0 0 -500
+20 10 0 3d100+900 1d11+11
+40 40
+9 9 1 4 19 2
+#23680
+H M 0~
+Fryscillius fakefry~
+Fryscillius~
+Fryscillius the Mistress of Dragons hisses at you as you enter this room.
+~
+You see before you the master of this Tower, Fryscillius.  She frowns at you 
+as she prepares to make you pay for your insolence ... with your lives!
+~
+133128 0 0 0 4195496 0 0 0 0
+51 -3 -15 1d100+1000 1d50+50
+90 100
+9 9 2 8 20 0
+#23698
+H M 0~
+x~
+x~
+x
+~
+x
+~
+10 0 0 0 0 0 0 0 0
+1 19 10 1d1+100 1d1+1
+35 40
+9 9 0 0 -1 -1
+#23699
+V M 0~
+necromancer m236~
+the necromancer of the hollow~
+A tall figure clad in midnight black robes chants before the fire.
+~
+   You can't actually see this figure.  All you see are his, or her, robes.  
+Hands folded underneath, the black robes hang down to the ground.  The hood
+hangs low over their head and disguises them completely.    
+~
+106 0 0 0 4260904 0 0 0 -500
+20 8 0 1d100+1000 1d10+10
+40 40
+9 9 2 0 -1 -1
+$

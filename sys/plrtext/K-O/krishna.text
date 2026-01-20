@@ -1,0 +1,27 @@
+a assist raith
+air c 'air' $*
+blink c 'blink' $*
+gt gt &05$*&00
+stone c 'stoneskin' $*
+gate c 'gate'
+b c 'slow' horse
+of order follower *&
+sil c 'silence' $*
+nex c 'nexus' $*
+scribe rem tail;hold quill;get parch bee;scribe $1 parchment;rem quill;hold tail
+locate c 'locate object' $*
+mon c 'monster summon' 
+summon cast 'summon' $*
+invis cast 'invisibility' $*
+infra cast 'infra' $*
+sp cast 'sleep' $*
+fly cast 'fly' $*
+shiel c 'shield' $*
+bl c 'blind' $*
+id c 'ident' $*
+ld c 'life drain' $*
+slow c 'slow' $*
+ts c 'true sight' $*
+haste c 'haste' $*
+tail des tail
+port c 'portal' $*

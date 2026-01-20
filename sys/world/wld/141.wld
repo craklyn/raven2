@@ -1,0 +1,2749 @@
+#14100
+The Great Tower of Xerxes - Level 2~
+This area (14101-14218) forms the 2nd level of the Great Tower of Xerxes.
+
+The connection points are as follows:
+
+South of 14101 connected to 14084.
+South of 14218 connected to 14301.
+
+The primary purpose of this level is to provide a reasnoble location for
+groups of characters to obtain xps. The majority of the inhabitants are
+golems who have lots of hps, hit plenty hard, but hit rarely against someone
+with an ac of -100. They will hit more often against victims not as well
+protected, how ever. There are also some smaller monsters which hit fairly
+hard, but miss rarely and have relatively few hps. There purpose is to catch
+groups fighting the golems and screw them over forcing them to rest more often
+than they would like. Even taking the smaller monsters out of the equation,
+groups will still have to rest since when a Iron Golem does hit you, you
+stay hit :) There are a few items of interest here to mid-level characters,
+less powerfull and less difficult to obtain then the equivalent high level
+items. Characters really ought to come here grouped, while not nearly as
+nasty as the higher levels, it would be difficult alone. Groups venturing
+here should be about 30th+ level, otherwise people will probably get killed.
+
+This area was written by Vex.
+~
+141 72 0 0 0 0 255 0
+S
+#14101
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the north, while to the south lie some stairs.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14102
+D2
+To the south you see some stairs.
+~
+~
+0 0 -1
+S
+#14102
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14103
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14101
+S
+#14103
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the east and south.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14104
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14102
+S
+#14104
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14105
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14103
+S
+#14105
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14106
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14104
+S
+#14106
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the west and south.
+~
+141 8 0 0 0 0 255 0
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14107
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14105
+S
+#14107
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14106
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14108
+S
+#14108
+End of a stone corridor~
+You are standing at one end of a long corridor of featureless stone. To the 
+south lies a stone chamber, through an ornate archway. The corridor itself
+continues to the north.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14107
+D2
+A stone chamber lies southward, through an ornate archway.
+~
+~
+0 0 14109
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14109
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. To the north lies a stone
+corridor, while the chamber continues to the east and south.
+~
+141 8 0 0 0 0 255 0
+D0
+Looking northward, you see a stone corridor.
+~
+~
+0 0 14108
+D2
+The chamber extends to the south.
+~
+~
+0 0 14110
+D3
+The chamber extends to the west.
+~
+~
+0 0 14112
+S
+#14110
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. The chamber continues to the 
+west and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The chamber extends to the north.
+~
+~
+0 0 14109
+D3
+The chamber extends to the west.
+~
+~
+0 0 14111
+S
+#14111
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. To the east lies a stone
+corridor, while the chamber continues to the east and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The chamber extends to the north
+~
+~
+0 0 14112
+D1
+The chamber extends to the east.
+~
+~
+0 0 14110
+D3
+A stone corridor lies to the west.
+~
+~
+0 0 14113
+S
+#14112
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. The chamber continues to the 
+east and south.
+~
+141 8 0 0 0 0 255 0
+D1
+The chamber extends to the east.
+~
+~
+0 0 14109
+D2
+The chamber extends to the south.
+~
+~
+0 0 14111
+S
+#14113
+A stone corridor~
+You are standing in a corridor of featureless stone. To the east lies a stone 
+chamber, through an ornate archway. The corridor itself continues to the 
+north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14114
+D1
+A stone chamber lies eastward, through an ornate archway.
+~
+~
+0 0 14111
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14119
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14114
+End of a stone corridor~
+You are standing at one end of a corridor of featureless stone. To the 
+north lies a stone chamber, through an ornate archway. The corridor itself
+continues to the north.
+~
+141 8 0 0 0 0 255 0
+D0
+A stone chamber lies northward, through an ornate archway.
+~
+~
+0 0 14115
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14113
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14115
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. To the south lies a stone
+corridor, while the chamber continues to the east and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The chamber extends to the north.
+~
+~
+0 0 14116
+D1
+The chamber extends to the east.
+~
+~
+0 0 14118
+D2
+Looking southward, you see a stone corridor. 
+~
+~
+0 0 14114
+S
+#14116
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. The chamber continues to the 
+east and south.
+~
+141 8 0 0 0 0 255 0
+D1
+The chamber extends to the east.
+~
+~
+0 0 14117
+D2
+The chamber extends to the south.
+~
+~
+0 0 14115
+S
+#14117
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. The chamber continues to the 
+west and south.
+~
+141 8 0 0 0 0 255 0
+D2
+The chamber extends to the south.
+~
+~
+0 0 14118
+D3
+The chamber extends to the west.
+~
+~
+0 0 14116
+S
+#14118
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. The chamber continues to the 
+west and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The chamber extends to the north.
+~
+~
+0 0 14117
+D3
+The chamber extends to the west.
+~
+~
+0 0 14115
+S
+#14119
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the west and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14113
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14120
+S
+#14120
+End of a stone corridor~
+You are standing at one end of a long corridor of featureless stone. To the 
+south lies a stone chamber, through an ornate archway. The corridor itself
+continues to the east.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14119
+D2
+A stone chamber lies southward, through an ornate archway.
+~
+~
+0 0 14121
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14121
+Guard Room~
+Unlike the others, this smaller chamber is clearly in use. Lining the 
+unnaturally smooth stone walls, are spartan bunks, two high. There appears
+to be little in the way of personel effects for the inhabitants, how ever.
+The room continues to the south, while a corridor lies to the north.
+~
+141 8 0 0 0 0 255 0
+D0
+To the north you see a stone corridor.
+~
+~
+0 0 14120
+D2
+The guard room extends southward.
+~
+~
+0 0 14122
+S
+#14122
+Guard Room~
+Unlike the others, this smaller chamber is clearly in use. Lining the 
+unnaturally smooth stone walls, are spartan bunks, two high. There appears
+to be little in the way of personel effects for the inhabitants, how ever.
+The room continues to the north, while a corridor lies to the west.
+~
+141 8 0 0 0 0 255 0
+D0
+The guard room extends northward.
+~
+~
+0 0 14121
+D1
+Looking east, you see a corridor.
+~
+~
+0 0 14123
+S
+#14123
+End of a stone corridor~
+You are standing at one end of a long corridor of featureless stone. To the 
+west lies a stone chamber, through an ornate archway. The corridor itself
+continues to the east.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14124
+D3
+A stone chamber lies westward, through an ornate archway.
+~
+~
+0 0 14122
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14124
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the west and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14125
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14123
+S
+#14125
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14126
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14124
+S
+#14126
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the east and south. You can see a small stone
+chamber to the west, through an ornate archway
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14128
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14125
+D3
+Looking west, you see a small stone chamber, through an ornate archway.
+~
+~
+0 0 14127
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Something about it makes you feel uncomfortable. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14127
+A small stone chamber~
+The room you have entered is furnished with rugs on the floors and some beds 
+against the far wall. A brazier hanging from the ceiling sheds light over the
+place, and also gives off a heady incense. The only exit is east, back the
+way you came.
+~
+141 8 0 0 0 0 255 0
+D1
+A stone corridor lies to the east.
+~
+~
+0 0 14126
+S
+#14128
+End of a stone corridor~
+You are standing at one end of a corridor of featureless stone. To the east 
+you see an enourmous hall, through an ornate archway. The corridor itself
+continues to the west. There is a bronze plaque here.
+~
+141 12 0 0 0 0 255 0
+D1
+Looking east, you see an immense hall, you can't see the other side from here.
+~
+~
+0 0 14135
+D3
+To the west, the stone corridor continues.
+~
+~
+0 0 14126
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Tiny points of light in the eye sockets track your movements. You could
+swear you just heard spectral laughter, but no source is visible. You can see 
+no join between the ornate arch and the tower, its as if it were all of one 
+piece.
+~
+E
+bronze plaque~
+The plaque reads: "Trial of the Spirit"
+~
+S
+#14129
+A small room~
+You've entered a small chamber, seperated from the main part of the hall.
+It's clear there was once something kept here, for there are smashed wooden
+fragments scattered about the place. Who ever destroyed this place did a
+rather good job of it. Perhaps it was once used as a cloak room of some
+kind, for there are still some pegs in the wall. The only exit lies back to
+the north.
+~
+141 8 0 0 0 0 255 0
+D0
+To the north lies the cathedral.
+~
+~
+0 0 14130
+S
+#14130
+Corner of the Cathedral~
+Your standing in the north-west corner of an enourmous open hall. It seems
+there were once paintings on the walls here, but they are to faded to make
+out. To the south you can see a small chamber, while the main part of the
+hall lies to the east.
+~
+141 8 0 0 0 0 255 0
+D1
+A line of frescos extends to the east.
+~
+~
+0 0 14133
+D2
+To the south you see a small stone room.
+~
+~
+0 0 14129
+S
+#14131
+A small room~
+This is a small stone chamber, seperate from the massive hall outside. Your
+not to surprised to see that its of the same smooth, flawless stone. While
+the builders must have been able to work marvels with stone, they certainly
+did'nt waste any effort on decoration. The hall lies back to the south.
+~
+141 8 0 0 0 0 255 0
+D2
+To the south lies the cathedral.
+~
+~
+0 0 14132
+S
+#14132
+Corner of the Cathedral~
+Your standing in the south-west corner of an enourmous open hall. It seems
+there were once paintings on the walls here, but they are to faded to make
+out. To the north you can see a small chamber, while the main part of the
+hall lies to the east.
+~
+141 8 0 0 0 0 255 0
+D0
+To the north you see a small stone room.
+~
+~
+0 0 14131
+D1
+A line of frescos extends to the east.
+~
+~
+0 0 14137
+S
+#14133
+Frescos~
+You've reached the northern perimeter of an enourmous hall. You can see faded
+fresco paintings along the northern wall, depicting everyday life. The
+paintings show people dressed in a fashion some what reminiscent of the
+nomads in the desert, althou the people in the paintings are dressed far more
+richly. The hall continues to the east, west and south.
+~
+141 8 0 0 0 0 255 0
+D1
+A line of frescos extends to the east.
+~
+~
+0 0 14138
+D2
+Decaying pews lie to the south.
+~
+~
+0 0 14134
+D3
+A line of frescos extends to the west.
+~
+~
+0 0 14130
+S
+#14134
+Ancient Pews~
+Your in the western portion of the ancient cathedral. This part of the
+cathedral possibly once contained lines of pews, for there are still some
+remnants of them here. To the north you see faded fresco paintings. The aisle
+is the south, while the remnants of the pews continue to the east.
+~
+141 8 0 0 0 0 255 0
+D0
+You can see faded paintings there.
+~
+~
+0 0 14133
+D1
+Rows of the old pews continue to the east.
+~
+~
+0 0 14139
+D2
+The cathedral entrance is to the south.
+~
+~
+0 0 14135
+S
+#14135
+Entrance to the Cathedral~
+It would seem this immense chamber was once a cathedral, great sweeping archs
+in the ceiling would seem to suggest that. Bronze braziers hang from golden
+chains, shedding a dim light and giving of a heady incense that makes the air
+hazy. The floor here seems worn, as if by the passing of many feet. The hall
+continues to the east, north and south, while a stone corridor leads west out
+of the chamber.
+~
+141 8 0 0 0 0 255 0
+D0
+A line of decaying pews is to the north.
+~
+~
+0 0 14134
+D1
+The main aisle leads far to the east.
+~
+~
+0 0 14140
+D2
+A line of decaying pews is to the south.
+~
+~
+0 0 14136
+D3
+To the west, a stone corridor leads out of the cathedral.
+~
+~
+0 0 14128
+E
+bronze braziers~
+While most of the cathedral appears to be in decay, you see the braziers
+high above have incense burning in them still...
+~
+S
+#14136
+Ancient Pews~
+Your in the western portion of the great hall. This part of the hall possibly
+once contained lines of pews, for there are still some remnants of them here.
+The hall continues to the south, and for some distance to the east and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The cathedral entrance is to the north.
+~
+~
+0 0 14135
+D1
+The great hall extends to the east.
+~
+~
+0 0 14141
+D2
+The great hall extends to the south.
+~
+~
+0 0 14137
+S
+#14137
+Frescos~
+You have reached the southern perimeter of an enourmous stone hall. Paintings
+on the southern wall depict a thriving market place. Merchants trading
+in tapestries and meat produce are in the fore ground, while further behind
+those selling vegetables and what appears to be jewlery are also visible. In
+the distance you can just see the edge of a great garden. The fresco paintings
+continue to the east and west. The remains of the pews are to the north.
+~
+141 8 0 0 0 0 255 0
+D0
+The remains of the pews are to the north.
+~
+~
+0 0 14136
+D1
+The paintings continue to the east.
+~
+~
+0 0 14142
+D3
+The paintings continue to the west.
+~
+~
+0 0 14132
+S
+#14138
+Frescos~
+Your walking along the northern wall of a very large open chamber. Old frescos
+along the wall depict people bathing and taking water from a great river,
+winding through verdant grass land. In the distance a walled city is visible,
+watch towers stand at its four corners. The hall continues to the east, west
+and south.
+~
+141 8 0 0 0 0 255 0
+D1
+The paintings continue to the east.
+~
+~
+0 0 14143
+D2
+The remains of the pews are to the south.
+~
+~
+0 0 14139
+D3
+The paintings continue to the west.
+~
+~
+0 0 14133
+S
+#14139
+Ancient Pews~
+Your walking amongst some old pews in the great hall. From whats left of
+them, it appears they were wondorously carved from fine timbers. Carvings of
+leaves and birds are visible on the remains here. The lines of pews continue
+to the east and for a considerable distance to the west. To the south you
+can see what must have been the aisle, while to the north you can walk along
+the a wall covered in old paintings.
+~
+141 8 0 0 0 0 255 0
+D0
+The northern wall is visible, with faded paintings upon it.
+~
+~
+0 0 14138
+D1
+The rows of old pews continue to the east.
+~
+~
+0 0 14144
+D2
+The main aisle is to the south.
+~
+~
+0 0 14140
+D3
+The rows of old pews continue to the west.
+~
+~
+0 0 14134
+S
+#14140
+The Central Aisle~
+Your walking along what was once the central aisle in this ancient cathedral.
+The floor is of simple stone, worn here by the passing of countless
+worshippers. The aisle continues to the east and west, while the remains of
+the pews lie to the north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+A line of decaying pews is to the north.
+~
+~
+0 0 14139
+D1
+In the distance, you can see the altar rail.
+~
+~
+0 0 14145
+D2
+A line of decaying pews is to the south.
+~
+~
+0 0 14141
+D3
+The aisle continues to the west.
+~
+~
+0 0 14135
+S
+#14141
+Ancient Pews~
+Your walking amongst some old pews in the great hall. From whats left of
+them, it appears they were wondorously carved from fine timbers. Carvings of
+leaves and birds are visible on the remains here. The lines of pews continue
+to the east and for a considerable distance to the west. To the north you
+can see what must have been the aisle, while to the south you can walk along
+the a wall covered in old paintings.
+~
+141 8 0 0 0 0 255 0
+D0
+The aisle is to the north.
+~
+~
+0 0 14140
+D1
+The rows of pews continue to the east.
+~
+~
+0 0 14146
+D2
+Fresco paintings adorn the southern wall of the cathedral.
+~
+~
+0 0 14142
+D3
+The rows of pews extend to the west.
+~
+~
+0 0 14136
+S
+#14142
+Frescos~
+Your walking along the southern edge of the great hall. Paintings on the walls
+show a view of the main street of a bustling city. Clearly visible is a well
+kept house and a very large building, possinly the city hall. Further down the
+street you can see a glorious garden that would surely put any you have seen
+to shame. In the centre of the garden, a large domed structure is visible. The
+hall continues to the east, west and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The remains of the pews are to the north.
+~
+~
+0 0 14141
+D1
+The paintings continue to the east.
+~
+~
+0 0 14147
+D3
+The paintings continue to the west.
+~
+~
+0 0 14137
+S
+#14143
+Frescos~
+Your near the northern wall of the great hall. Upon the wall there are old
+faded frescos, quite dull and hard to make out here. These ones appear
+to depict people farming, corn by the looks of it. The paintings are to
+faded to discern further detail, how ever. To the east you can see the
+entrance to a small stone chamber, while the main part of the hall lies to
+the west and south.
+~
+141 8 0 0 0 0 255 0
+D1
+To the east you see a small room.
+~
+~
+0 0 14148
+D2
+The remnants of old pews lie to the south.
+~
+~
+0 0 14144
+D3
+The paintings continue to the west.
+~
+~
+0 0 14138
+S
+#14144
+Ancient Pews~
+Your standing amidst the remnants of old pews, were no doubt many worshippers
+once prayed in this place. Something tells you the religion practiced in this
+ancient cathedral is not in favour with the current inhabitants... To the
+south lies the aisle, while to the north you can see frescos on the walls. The
+remains of the pews continue to the east and west.
+~
+141 8 0 0 0 0 255 0
+D0
+Paintings adorn the northern wall of the Cathedral.
+~
+~
+0 0 14143
+D1
+The line of old pews ends to the east.
+~
+~
+0 0 14149
+D2
+The main aisle is to the south.
+~
+~
+0 0 14145
+D3
+Rows of ancient pews extend back some distance to the west.
+~
+~
+0 0 14139
+S
+#14145
+The Central Aisle~
+Your walking along what was once the central aisle in this ancient cathedral.
+The floor is of simple stone, worn here by the passing of countless
+worshippers. The aisle continues to the east and west, while the remains of
+the pews lie to the north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+Pews that once contained many of the faithfull are to the north.
+~
+~
+0 0 14144
+D1
+The aisle leads for some distance to the east, towards the altar.
+~
+~
+0 0 14150
+D2
+Pews that once contained many of the faithfull are to the south.
+~
+~
+0 0 14146
+D3
+The aisle extends back to the west.
+~
+~
+0 0 14140
+S
+#14146
+Ancient Pews~
+Your standing amidst the remnants of old pews, were no doubt many worshippers
+once prayed in this place. Something tells you the religion practiced in this
+ancient cathedral is not in favour with the current inhabitants... To the
+north lies the aisle, while to the south you can see frescos on the walls. The
+remains of the pews continue to the east and west.
+~
+141 8 0 0 0 0 255 0
+D0
+The main aisle is to the north.
+~
+~
+0 0 14145
+D1
+The rows of pews come end to the east.
+~
+~
+0 0 14151
+D2
+The southern wall of the cathedral is visible, adorned by paintings.
+~
+~
+0 0 14147
+D3
+The remains of the pews continue for some distance back to the west.
+~
+~
+0 0 14141
+S
+#14147
+Frescos~
+Your at the southern edge of the Cathedral. There are paintings on the walls,
+here in quite good condition. Depicted is a small, but busy tavern. Musicians
+can be seen, playing the flute and the harp, while a beautitfull woman appears
+to be singing to a captive audience. To the far left, you can just see the
+sign of the tavern through a window. It's difficult to tell due to the angle,
+but the sign seems to display a shining sun. The hall continues to the west
+and north, while a small chamber lies off to the east.
+~
+141 8 0 0 0 0 255 0
+D0
+The main aisle is to the north.
+~
+~
+0 0 14146
+D1
+To the east you see a small room.
+~
+~
+0 0 14152
+D3
+The paintings continue to the west.
+~
+~
+0 0 14142
+S
+#14148
+A small room~
+This may have once been seem kind of meditation chamber. An examination of
+the door way reveals holes that may have once held a rod where a curtain could
+be drawn. An old mat lies on the floor, in surprisingly good condition. The
+only exit lies back to the west.
+~
+141 8 0 0 0 0 255 0
+D3
+To the west lies the Cathedral.
+~
+~
+0 0 14143
+S
+#14149
+Ancient Pews~
+Your at the eastern end of a long line of old pews that continue back to the
+west. The pews are severely damaged, your guess is the cathedral was despoiled
+a long time ago. The main aisle lies to the south, and to the east you can see
+a shattered statue.
+~
+141 8 0 0 0 0 255 0
+D1
+The remains of a marble statue are scattered across the floor there.
+~
+~
+0 0 14154
+D2
+The main aisle is to the south.
+~
+~
+0 0 14150
+D3
+The pews extend far to the west.
+~
+~
+0 0 14144
+S
+#14150
+The Central Aisle~
+Your walking along what was once the central aisle in this ancient cathedral.
+The floor is of simple stone, worn here by the passing of countless
+worshippers. The aisle continues to the east and west, while the remains of
+the pews lie to the north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+The end of a long line of pews is the north.
+~
+~
+0 0 14149
+D1
+The aisle approaches the altar rail to the east.
+~
+~
+0 0 14155
+D2
+The end of a long line of pews is to the south.
+~
+~
+0 0 14151
+D3
+The aisle extends back to the west.
+~
+~
+0 0 14145
+S
+#14151
+Ancient Pews~
+Your at the eastern end of a long line of old pews that continue back to the
+west. The pews are severely damaged, your guess is the cathedral was despoiled
+a long time ago. The main aisle lies to the north, and to the east you can see
+the remains of a once beautifull statue.
+~
+141 8 0 0 0 0 255 0
+D0
+The main aisle is to the north.
+~
+~
+0 0 14150
+D1
+Fragments of marble are scattered across the floor there.
+~
+~
+0 0 14156
+D3
+The pew extends back some distance to the west.
+~
+~
+0 0 14146
+S
+#14152
+A small room~
+It's not clear what purpose this room once served. There are patches of slowly
+decaying material on the floor, but your not to anxious to examine it. The
+room is devoid of decoration, you would certainly be alone with your own
+thoughts here. The only exit lies to the west.
+~
+141 8 0 0 0 0 255 0
+D3
+To the west lies the Cathedral.
+~
+~
+0 0 14147
+S
+#14153
+Choir Seating~
+From the look of it, this would be where the choir once song joyous praises
+to the god honoured by this place in ancient times. The seating is in decay
+now thou, but in better condition than the pews in the main part of the
+cathedral. More of the choir seating lies to the east, while the main part
+of the cathedral lies to the south.
+~
+141 8 0 0 0 0 255 0
+D1
+To the east you see more of the old choir seating.
+~
+~
+0 0 14158
+D2
+The main part of the cathedral lies to the south.
+~
+~
+0 0 14154
+S
+#14154
+Open Area~
+Your standing in clear section in the cathedral. There may have been a statue
+here once, for there are shattered marble fragments scattered over the floor.
+To the north you can see a spacious alcove which probably was where a large
+choir sung. To the west lies a long line of battered pews, while to the east
+you can see a silver font on a pedestel that appears to be intact. The main
+aisle lies to the south.
+~
+141 8 0 0 0 0 255 0
+D0
+An alcove contains ancient choir seating.
+~
+~
+0 0 14153
+D1
+A silver basin sits on a pedestel to the east.
+~
+~
+0 0 14159
+D2
+The central aisle lies to the south.
+~
+~
+0 0 14155
+D3
+A long line of decaying pews lies to the west.
+~
+~
+0 0 14149
+S
+#14155
+The Central Aisle~
+Your walking along the main aisle of the Cathedral, approaching the altar
+rail. Your momentarily over come by a feeling of awe as you gape at the
+fading splendour around you. While it appears the builers of this place
+have long since passed on, they must have been a mighty civilisation at their
+peak. To the north and south, desecrated statues lie broken on the ground, yet
+the altar rail seems untouched to the east.
+~
+141 8 0 0 0 0 255 0
+D0
+The remains of a shattered marble statue litter the ground to the north.
+~
+~
+0 0 14154
+D1
+The altar rail is to the east.
+~
+~
+0 0 14160
+D2
+The remains of a shattered marble statue litter the ground to the south.
+~
+~
+0 0 14156
+D3
+The central aisle leads back a long way to the west.
+~
+~
+0 0 14150
+S
+#14156
+Open Area~
+Your standing in clear section in the cathedral. There may have been a statue
+here once, for there are shattered marble fragments scattered over the floor.
+To the south you can see a spacious alcove which probably was where a large
+choir sung. To the west lies a long line of battered pews, while to the east
+you can see a silver font on a pedestel that appears to be intact. The main
+aisle lies to the north.
+~
+141 8 0 0 0 0 255 0
+D0
+The central aisle lies to the north.
+~
+~
+0 0 14155
+D1
+A silver basin sits on a pedestel to the east.
+~
+~
+0 0 14161
+D2
+An alcove contains ancient choir seating.
+~
+~
+0 0 14157
+D3
+A long line of decaying pews lies to the west.
+~
+~
+0 0 14151
+S
+#14157
+Choir Seating~
+From the look of it, this would be where the choir once song joyous praises
+to the god honoured by this place in ancient times. The seating is in decay
+now thou, but in better condition than the pews in the main part of the
+cathedral. More of the choir seating lies to the east, while the main part
+of the cathedral lies to the north.
+~
+141 8 0 0 0 0 255 0
+D0
+The main part of the cathedral lies to the north.
+~
+~
+0 0 14156
+D1
+To the east you see a small room.
+~
+~
+0 0 14162
+S
+#14158
+Choir Seating~
+You walking amongst the slowly rotting choir seating in this despoiled
+cathedral. The god honoured by this ancient people certainly appeared to have
+had many followers, you wonder who these people where and what became of
+them. The choir seating continues to the west, while off to the south you can
+see the altar rail.
+~
+141 8 0 0 0 0 255 0
+D2
+The main part of the cathedral lies to the south.
+~
+~
+0 0 14159
+D3
+More decaying seating lies to the west.
+~
+~
+0 0 14153
+S
+#14159
+Font~
+Your standing near the altar rail in the cathedral, which lies to the south.
+Right here, is a silver basin on a raised pedestel. Surprisingly, it appears
+to have been untouched by the invaders who vandalised the rest of the
+cathedral. To the north you can see old decaying seating in a long alcove,
+perhaps a choir once sung there. Visible to the east, is an exit from the
+cathedral, while you can see a long line of pews of to the west.
+~
+141 8 0 0 0 0 255 0
+D0
+To the north you can see ancient choir seating.
+~
+~
+0 0 14158
+D1
+An exit from the cathedral is visible to the east.
+~
+~
+0 0 14163
+D2
+To the south you can see the altar rail.
+~
+~
+0 0 14160
+D3
+An open area lies to the west, with pews visible beyond it.
+~
+~
+0 0 14154
+S
+#14160
+The Altar Rail~
+Your standing before an intricately carved altar rail, about three feet high.
+Apart from a couple of dents and a bit of dust, the rail is still in quite
+reasnoble condition. From the remains on the floor here, it would appear
+there was once some carpet for worshippers to kneel upon when recieving
+blessings from the priests at services. You can step over the railing and
+walk up to the altar to the east. To the north and south, silver basins sit
+atop stone pedestels, while the main aisle leads back to the west.
+~
+141 8 0 0 0 0 255 0
+D0
+A silver basin sits atop a stone pedestel to the north.
+~
+~
+0 0 14159
+D1
+A stone dais rises to the east.
+~
+~
+0 0 14164
+D2
+A silver basin sits atop a stone pedestel to the south.
+~
+~
+0 0 14161
+D3
+The main aisle extends far to the west.
+~
+~
+0 0 14155
+S
+#14161
+Font~
+Your standing near the altar rail in the cathedral, which lies to the north.
+Right here, is a silver basin on a raised pedestel. Surprisingly, it appears
+to have been untouched by the invaders who vandalised the rest of the
+cathedral. To the south you can see old decaying seating in a long alcove,
+perhaps a choir once sung there. Visible to the east, is an exit from the
+cathedral, while you can see a long line of pews of to the west.
+~
+141 8 0 0 0 0 255 0
+D0
+To the north you can see the altar rail.
+~
+~
+0 0 14160
+D1
+An exit from the cathedral is visible to the east.
+~
+~
+0 0 14165
+D2
+To the south you can see ancient choir seating.
+~
+~
+0 0 14162
+D3
+An open area lies to the west, with pews visible beyond it.
+~
+~
+0 0 14156
+S
+#14162
+Choir Seating~
+You walking amongst the slowly rotting choir seating in this despoiled
+cathedral. The god honoured by this ancient people certainly appeared to have
+had many followers, you wonder who these people where and what became of
+them. The choir seating continues to the west, while off to the north you
+can see the altar rail.
+~
+141 8 0 0 0 0 255 0
+D0
+The main part of the cathedral lies to the north.
+~
+~
+0 0 14161
+D3
+More decaying seating lies to the west.
+~
+~
+0 0 14157
+S
+#14163
+Near the Altar~
+Your in the north-eastern corner of the Cathedral, near the altar itself,
+which lies to the south. To the north a stone corridor leads out of the
+Cathedral, while a silver basin sits upon a pedestel to the west.
+~
+141 8 0 0 0 0 255 0
+D0
+You see a stone corridor to the north.
+~
+~
+0 0 14166
+D2
+The Altar sits atop a stone dais to the south.
+~
+~
+0 0 14164
+D3
+You can see a silver basin upon a pedestel to the west.
+~
+~
+0 0 14159
+S
+#14164
+The Altar~
+You have come to a stone dais, rising up three broad steps from the north,
+south and west. A simple, yet beautifull altar of white marble is here, once
+the centre of worship in this place. A faded painting on the eastern wall
+depicts a radiant female being, arms upraised and light shining from her in
+all directions like she was the sun. A frown you were hardly aware of lifts
+from your forehead, you feel a sense of peace and well-being.
+~
+141 393224 0 0 0 0 255 0
+D0
+To the north you can see a corridor leads out of the Cathedral.
+~
+~
+0 0 14163
+D2
+To the south you can see a corridor leads out of the Cathedral.
+~
+~
+0 0 14165
+D3
+To the west lies the altar rail.
+~
+~
+0 0 14160
+E
+painting~
+Looking closely at the painting, you can see the radiant figure holds a shaft
+of what appears to be pure light in her right hand. Shining like a star, a
+golden lantern rests gently at her feet, while her form is draped in robes
+of utmost beauty. The goddess herself is depicted as a woman more comely
+then any you have ever seen, the artist has captured well the perfection of
+a godlike form.
+~
+S
+#14165
+Near the Altar~
+Your in the south-eastern corner of the Cathedral, near the altar itself,
+which lies to the north. To the north a stone corridor leads out of the
+Cathedral, while a silver basin sits upon a pedestel to the west.
+~
+141 8 0 0 0 0 255 0
+D0
+The Altar sits atop a stone dais to the north.
+~
+~
+0 0 14164
+D2
+You see a stone corridor to the south.
+~
+~
+0 0 14200
+D3
+You can see a silver basin upon a pedestel to the west.
+~
+~
+0 0 14161
+S
+#14166
+End of a stone corridor~
+You are standing at one end of a corridor of featureless stone. To the south 
+you see an enourmous hall, through an ornate archway. The corridor itself
+continues to the north. 
+~
+141 8 0 0 0 0 255 0
+D0
+To the north, the stone corridor continues.
+~
+~
+0 0 14167
+D2
+Looking south, you see an immense hall, a stone dais visible in the distance.
+~
+~
+0 0 14163
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Tiny points of light in the eye sockets track your movements. You could
+swear you just heard spectral laughter, but no source is visible. You can see 
+no join between the ornate arch and the tower, its as if it were all of one 
+piece.
+~
+S
+#14167
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14168
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14166
+S
+#14168
+A stone corridor~
+You are in a corridor of featureless stone. To the east and west are large
+stone chambers, while a T-junction lies northwards. The corridor also extends
+to the south.
+~
+141 8 0 0 0 0 255 0
+D0
+A T-junction in the corridor lies northward.
+~
+~
+0 0 14177
+D1
+A large stone chamber lies to the east.
+~
+~
+0 0 14173
+D2
+The corridor continues to the south.
+~
+~
+0 0 14167
+D3
+A iron bound door of oak is set into the western wall.
+~
+oak iron bound~
+1 14101 14169
+S
+#14169
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. This room is clearly in use. Stone flakes lie all over
+the floor, along with iron and bronze shavings. It looks like a sculpture has
+been hard at work. To the east lies a stone corridor, while the chamber 
+continues to the west and south.
+~
+141 520 0 0 0 0 255 0
+D1
+An iron bound door of oak is set into the eastern wall.
+~
+oak iron bound~
+1 14101 14168
+D2
+The chamber extends to the south.
+~
+~
+0 0 14172
+D3
+The chamber extends to the west.
+~
+~
+0 0 14170
+S
+#14170
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. A scattering of stone flakes, and metal shavings litter 
+the floor here. A furnace that must be used for smelting lies to the south,
+waves of heat from it warm this part of the room. The chamber continues to the 
+east.
+~
+141 8 0 0 0 0 255 0
+D1
+The chamber extends to the east.
+~
+~
+0 0 14169
+D2
+An extremely hot furnace lies to the south, its made for melting metal and
+it would certainly be very foolish to leap inside.
+~
+furnace~
+1 14101 14171
+E
+furnace~
+The doors of the furnace are hot to the touch, clearly it is has been fired
+up.
+~
+S
+#14171
+Inside the furnace~
+You might have thought being burned to death would be painfull, but leaping
+inside the raging furnace provides you with a VERY quick death.
+~
+141 10 0 0 0 0 255 0
+D0
+Back to the north lies the stone chamber you should never have left.
+~
+~
+0 0 14170
+S
+#14172
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. What was once an opulent bed lies against one wall here. 
+It looks like the owner changes his sheets on an annual basis, whether he
+needs to or not. A simple cot that better resembles a large bird nest provides
+a sleeping place for someone even less concerned with hygiene. The chamber 
+continues to the north.
+~
+141 8 0 0 0 0 255 0
+D0
+The chamber extends to the north.
+~
+~
+0 0 14169
+S
+#14173
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. To the west lies a stone
+corridor, while the chamber continues to the east and south.
+~
+141 8 0 0 0 0 255 0
+D1
+The chamber extends to the east.
+~
+~
+0 0 14174
+D2
+The chamber extends to the south.
+~
+~
+0 0 14175
+D3
+Looking westward, you see a stone corridor.
+~
+~
+0 0 14168
+S
+#14174
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. The chamber continues to the 
+west and south.
+~
+141 8 0 0 0 0 255 0
+D2
+The chamber extends to the south.
+~
+~
+0 0 14176
+D3
+The chamber extends to the west.
+~
+~
+0 0 14173
+S
+#14175
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. The chamber continues to the 
+east and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The chamber extends to the north.
+~
+~
+0 0 14173
+D1
+The chamber extends to the east.
+~
+~
+0 0 14176
+S
+#14176
+A stone chamber~
+The walls, ceilings and floor of this chamber are of smooth stone, almost 
+glassy in appearence. The chamber is completely devoid of all furnishings
+and would appear to serve no apparent function. The chamber continues to the 
+east and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The chamber extends to the north.
+~
+~
+0 0 14174
+D3
+The chamber extends to the west.
+~
+~
+0 0 14175
+S
+#14177
+A T-Junction~
+You have come to a T-junction in a corridor of featureless stone. A torch on
+the northern wall provides light. From here you may proceed east, west or
+south.
+~
+141 8 0 0 0 0 255 0
+D1
+To the east you see a stone corridor.
+~
+~
+0 0 14194
+D2
+To the south you see a stone corridor.
+~
+~
+0 0 14168
+D3
+To the west you see a stone corridor.
+~
+~
+0 0 14178
+S
+#14178
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14177
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14179
+S
+#14179
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14178
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14180
+S
+#14180
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the east and south.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14179
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14181
+S
+#14181
+Archway in a stone corridor~
+You are standing in a long corridor of featureless stone. The corridor turns
+to the west here, through an ornate archway. The corridor itself continues to 
+the north.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14180
+D3
+The stone corridor continues westward, through an ornate archway.
+~
+~
+0 0 14182
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. It seems faintly amused by your presence here. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14182
+Before an Adamantite door~
+You are at a T-Junction in a stone corridor. To the north, through an ornate 
+archway, you see the corridor turns to the west, while to the south the 
+corridor turns to the west also. To the east the corridor turns to the north.
+Set in the western wall is a door of adamantite, barring your way.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north, through an ornate archway.
+~
+~
+0 0 14191
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14181
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14183
+D3
+An adamantite door blocks vision to the west.
+~
+adamantite door~
+2 14101 14192
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. It seems faintly amused by your presence here. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+E
+adamantite door~
+There is a complex looking lock in the centre, other than that it looks like
+it would resist any attempt to batter it down.
+~
+S
+#14183
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the west and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14182
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14184
+S
+#14184
+Before an Adamantite door~
+You in a long corridor of featureless stone. The corridor continues to the 
+east and west. To the north is a door of adamantite, barring your way.
+~
+141 8 0 0 0 0 255 0
+D0
+An adamantite door blocks vision to the north.
+~
+adamantite door~
+2 14101 14192
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14183
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14185
+E
+adamantite door~
+There is a complex looking lock in the centre, other than that it looks like
+it would resist any attempt to batter it down.
+~
+S
+#14185
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14184
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14186
+S
+#14186
+Archway in a stone corridor~
+You are standing in a long corridor of featureless stone. The corridor turns
+to the north here, through an ornate archway. The corridor itself continues to 
+the east.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues northward, through an ornate archway.
+~
+~
+0 0 14187
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14185
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. It seems faintly amused by your presence here. You can see no join
+between the ornate arch and the tower, its as if it were all of one piece.
+~
+S
+#14187
+Before an Adamantite door~
+You are standing in a long corridor of featureless stone. The corridor 
+continues to the north and south. To the east is a door of adamantite, barring 
+your way.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14188
+D1
+An adamantite door blocks vision to the east.
+~
+adamantite door~
+2 14101 14193
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14186
+E
+adamantite door~
+There is a complex looking lock in the centre, other than that it looks like
+it would resist any attempt to batter it down.
+~
+S
+#14188
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the east and south.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14189
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14187
+S
+#14189
+Before an Adamantite door~
+You are standing in a long corridor of featureless stone. The corridor 
+continues to the east and west. To the south is a door of adamantite, barring 
+your way.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14190
+D2
+An adamantite door blocks vision to the south.
+~
+adamantite door~
+2 14101 14193
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14188
+E
+adamantite door~
+There is a complex looking lock in the centre, other than that it looks like
+it would resist any attempt to batter it down.
+~
+S
+#14190
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14191
+D2
+Examining the south wall closely, you note very small lines in the wall. 
+Tracing them out reveals a cleverly concealed door, you wonder if you have
+the skill to open it.
+~
+secret stone~
+1 14101 14192
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14189
+S
+#14191
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the west and south.
+~
+141 8 0 0 0 0 255 0
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14182
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14190
+S
+#14192
+A hidden room~
+You have cleverly discovered the secret room behind the adamantite doors! The
+room itself is of the same smooth stone as the rest of the tower. Adamantite
+doors lie to the east and south, while you can return north to the corridor.
+~
+141 8 0 0 0 0 255 0
+D0
+Past the secret door, you can see a stone corridor.
+~
+secret stone~
+1 14101 14190
+D1
+Vision to the east is blocked by an adamantite door.
+~
+adamantite door~
+2 14101 14182
+D2
+Vision to the south is blocked by an adamantite door.
+~
+adamantite door~
+2 14101 14184
+D3
+To the west you see a smooth stone wall.
+~
+hidden~
+1 14101 14193
+E
+adamantite door~
+There is a complex looking lock in the centre, other than that it looks like
+it would resist any attempt to batter it down.
+~
+E
+hidden~
+It appears to be blend naturally with the wall.
+~
+S
+#14193
+The Secret Room~
+You have entered a well concealed room behind doors of adamantite. Always pays
+to have a well-versed locksmith along you tell yourself. The room looks not to 
+different from the one you have just came, adamantite doors to the west and
+north, while you can leave to the east. Does'nt appear to be anything of
+value here, however.
+~
+141 8 0 0 0 0 255 0
+D0
+Vision to the north is blocked by an adamantite door.
+~
+adamantite door~
+2 14101 14189
+D1
+The hidden door is more visible from this side.
+~
+hidden~
+1 14101 14192
+D3
+Vision to the west is blocked by an adamantite door.
+~
+adamantite door~
+2 14101 14187
+E
+adamantite door~
+There is a complex looking lock in the centre, other than that it looks like
+it would resist any attempt to batter it down.
+~
+S
+#14194
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14195
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14177
+S
+#14195
+Before the Library~
+You are at the end of a corridor of featureless stone. The corridor continues
+to the west, while to the east you can see what looks like a library.
+~
+141 8 0 0 0 0 255 0
+D1
+You can see a library to the east.
+~
+~
+0 0 14196
+D3
+To the west you see a corridor.
+~
+~
+0 0 14194
+S
+#14196
+The Library~
+This is clearly a large library. Judging from the refuse littering the place,
+you'd say it has been unused for centuries. Strangely, the torches on the 
+walls look like they have been recently replaced. The library continues to
+the east and south, while to the west lies a corridor.
+~
+141 8 0 0 0 0 255 0
+D1
+The library continues to the east.
+~
+~
+0 0 14197
+D2
+The library continues to the south.
+~
+~
+0 0 14198
+D3
+To the west lies a stone corridor.
+~
+~
+0 0 14195
+S
+#14197
+The Library~
+This is clearly a large library. Judging from the refuse littering the place,
+you'd say it has been unused for centuries. Strangely, the torches on the 
+walls look like they have been recently replaced. The library continues to
+the west and south.
+~
+141 8 0 0 0 0 255 0
+D2
+The library continues to the south.
+~
+~
+0 0 14199
+D3
+The library continues to the west.
+~
+~
+0 0 14196
+S
+#14198
+The Library~
+This is clearly a large library. Judging from the refuse littering the place,
+you'd say it has been unused for centuries. Strangely, the torches on the 
+walls look like they have been recently replaced. The library continues to
+the east and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The library continues to the north.
+~
+~
+0 0 14196
+D1
+The library continues to the east.
+~
+~
+0 0 14199
+S
+#14199
+The Library~
+This is clearly a large library. Judging from the refuse littering the place,
+you'd say it has been unused for centuries. Strangely, the torches on the 
+walls look like they have been recently replaced. The library continues to
+the west and north.
+~
+141 8 0 0 0 0 255 0
+D0
+The library continues to the north.
+~
+~
+0 0 14197
+D3
+The library continues to the west.
+~
+~
+0 0 14198
+S
+#14200
+End of a stone corridor~
+You are standing at one end of a corridor of featureless stone. To the north 
+you see an enourmous hall, through an ornate archway. The corridor itself
+continues to the east. 
+~
+141 8 0 0 0 0 255 0
+D0
+Looking north, you see an immense hall, a stone dais visible in the distance.
+~
+~
+0 0 14165
+D1
+To the east, the stone corridor continues.
+~
+~
+0 0 14201
+E
+ornate archway~
+Looking closely, you see the arch is formed in the likeness of a grinning 
+skull. Tiny points of light in the eye sockets track your movements. You could
+swear you just heard spectral laughter, but no source is visible. You can see 
+no join between the ornate arch and the tower, its as if it were all of one 
+piece.
+~
+S
+#14201
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the east and west.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14202
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14200
+S
+#14202
+Before the Doors~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. To the north, a pair of Bronze doors
+gleam against the stone. The corridor continues east and west.
+~
+141 8 0 0 0 0 255 0
+D0
+A pair of bronze doors are set into the north wall.
+~
+bronze doors~
+2 14102 14206
+D1
+The corridor continues to the east.
+~
+~
+0 0 14203
+D3
+The corridor continues to the west.
+~
+~
+0 0 14201
+E
+bronze doors~
+Patterns of laughing demons tearing dripping hearts from human victims are
+worked in bas-relief on the doors. A work of mad-genius, you ponder the 
+wisdom of disturbing what ever may lie beyond them.
+~
+S
+Z 19
+#14203
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the west, while you notice a small room lies off to the east.
+~
+141 8 0 0 0 0 255 0
+D1
+To the east lies a small stone chamber.
+~
+~
+0 0 14204
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14202
+S
+#14204
+A small stone chamber~
+This small stone room lies empty. You wonder what its purpose might be. The 
+walls are of the same smooth flawless stone you have seen else where. The
+only exit lies back to the west.
+~
+141 8 0 0 0 0 255 0
+D3
+To the west you see a stone corridor.
+~
+~
+0 0 14203
+S
+#14205
+The hall of bronze~
+This is a large hall, with walls, ceilings and floor of bronze panels. Worked
+in bas-relief on the panels are scenes to haunt your nightmares. Horrific
+demonic creatures feature prominently, inflicting all manner of abominations
+on screaming human victims. Its enough to even make the blood of a hardened
+veteran like yourself run cold. The hall extends to the north and east.
+~
+141 8 0 0 0 0 255 0
+D0
+The bronze hall continues to the north.
+~
+~
+0 0 14208
+D1
+The bronze hall continues to the east.
+~
+~
+0 0 14206
+S
+#14206
+The hall of bronze~
+This is a large hall, with walls, ceilings and floor of bronze panels. Worked
+in bas-relief on the panels are scenes to haunt your nightmares. Horrific
+demonic creatures feature prominently, inflicting all manner of abominations
+on screaming human victims. Its enough to even make the blood of a hardened
+veteran like yourself run cold. The hall extends to the north, east and west,
+while a pair of bronze doors lead to a corridor to the south.
+~
+141 8 0 0 0 0 255 0
+D0
+The bronze hall continues to the north.
+~
+~
+0 0 14209
+D1
+The bronze hall continues to the east.
+~
+~
+0 0 14207
+D2
+A pair of bronze doors are set into the southern wall.
+~
+bronze doors~
+2 14102 14202
+D3
+The bronze hall continues to the west.
+~
+~
+0 0 14205
+E
+bronze doors~
+Patterns of laughing demons tearing dripping hearts from human victims are
+worked in bas-relief on the doors. A work of mad-genius, you wonder what 
+posessed you to venture here.
+~
+S
+#14207
+The hall of bronze~
+This is a large hall, with walls, ceilings and floor of bronze panels. Worked
+in bas-relief on the panels are scenes to haunt your nightmares. Horrific
+demonic creatures feature prominently, inflicting all manner of abominations
+on screaming human victims. Its enough to even make the blood of a hardened
+veteran like yourself run cold. The hall extends to the north and west.
+~
+141 8 0 0 0 0 255 0
+D0
+The bronze hall continues to the north.
+~
+~
+0 0 14210
+D3
+The bronze hall continues to the west.
+~
+~
+0 0 14206
+S
+#14208
+The hall of bronze~
+This is a large hall, with walls, ceilings and floor of bronze panels. Worked
+in bas-relief on the panels are scenes to haunt your nightmares. Horrific
+demonic creatures feature prominently, inflicting all manner of abominations
+on screaming human victims. Its enough to even make the blood of a hardened
+veteran like yourself run cold. The hall extends to the south and east.
+~
+141 8 0 0 0 0 255 0
+D1
+The bronze hall continues to the east.
+~
+~
+0 0 14209
+D2
+The bronze hall continues to the south.
+~
+~
+0 0 14205
+S
+#14209
+The hall of bronze~
+This is a large hall, with walls, ceilings and floor of bronze panels. Worked
+in bas-relief on the panels are scenes to haunt your nightmares. Horrific
+demonic creatures feature prominently, inflicting all manner of abominations
+on screaming human victims. Its enough to even make the blood of a hardened
+veteran like yourself run cold. The hall extends to the west,south and east,
+while you can leave this horrific place to a stone corridor to the north.
+~
+141 8 0 0 0 0 255 0
+D0
+To the north lies a stone corridor.
+~
+~
+0 0 14211
+D1
+The bronze hall continues to the east.
+~
+~
+0 0 14210
+D2
+The bronze hall continues to the south.
+~
+~
+0 0 14206
+D3
+The bronze hall continues to the west.
+~
+~
+0 0 14208
+S
+#14210
+The hall of bronze~
+This is a large hall, with walls, ceilings and floor of bronze panels. Worked
+in bas-relief on the panels are scenes to haunt your nightmares. Horrific
+demonic creatures feature prominently, inflicting all manner of abominations
+on screaming human victims. Its enough to even make the blood of a hardened
+veteran like yourself run cold. The hall extends to the south and east.
+~
+141 8 0 0 0 0 255 0
+D2
+The bronze hall continues to the south.
+~
+~
+0 0 14207
+D3
+The bronze hall continues to the west.
+~
+~
+0 0 14209
+S
+#14211
+End of a stone corridor~
+You are standing at one end of a corridor of featureless stone. To the south 
+a bronze hall of demonic images beckons you, through an ornate archway. 
+The corridor itself continues to the north. 
+~
+141 8 0 0 0 0 255 0
+D0
+To the north, the stone corridor continues.
+~
+~
+0 0 14212
+D2
+To the south, the demonic figures seem to be calling you...
+~
+~
+0 0 14209
+E
+ornate archway~
+The archway is worked in bronze depicting the visage of some snarling demonic
+figure. Brilliantly shown is the venom dripping from its fangs. The ruby
+eyes seem to meet yours and a chill runs down your spine. 
+~
+S
+#14212
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the east and south.
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14213
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14211
+S
+#14213
+A stone corridor~
+You are in a corridor of featureless stone.  The stone of the corridor is
+continuous, showing no cracks or seams.  Torches set in regular intervals along
+the wall are the only thing breaking the monotony.  The corridor continues to
+the east and west.  The total lack of marks on the walls is almost suspicious
+in it's perfection.  Perhaps it would be wise to test your footing carefully
+~
+141 8 0 0 0 0 255 0
+D1
+The stone corridor continues to the east.
+~
+~
+0 0 14214
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14212
+S
+Z 13
+#14214
+A turn in the corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+turns here, continuing to the west and south.
+~
+141 8 0 0 0 0 255 0
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14215
+D3
+The stone corridor continues to the west.
+~
+~
+0 0 14213
+S
+#14215
+A stone corridor~
+You are in a corridor of featureless stone. The stone of the corridor is 
+continuous, showing no cracks or seams. Torches set in regular intervals
+along the wall are the only thing breaking the monotony. The corridor 
+continues to the north and south.
+~
+141 8 0 0 0 0 255 0
+D0
+The stone corridor continues to the north.
+~
+~
+0 0 14214
+D2
+The stone corridor continues to the south.
+~
+~
+0 0 14216
+S
+#14216
+Base of the stairs~
+You are standing at the base of long set of stone stairs spiralling upward.
+You note there are small pockmarks in the stone of the steps. You can proceed
+north along a stone corridor or up the stairs.
+~
+141 8 0 0 0 0 255 0
+D0
+To the north lies a stone corridor.
+~
+~
+0 0 14215
+D4
+A long flight of stairs spiral upward.
+~
+~
+0 0 14217
+E
+pockmarks~
+They are small rough indentations. A vision of some night horror with claws
+dripping acidic slime comes to mind, hmmm, naw could'nt be.
+~
+S
+#14217
+On the stairs~
+You are on a long set of spiral stairs. Light is provided by torches at 
+regular intervals. The steps seem slightly scratched, makes you wonder what 
+was dragged up it. You can proceed down to the base of the stairs, or up to a 
+landing.
+~
+141 12 0 0 0 0 255 0
+D4
+Looking up, you the end of the stairs.
+~
+~
+0 0 14218
+D5
+Looking down, you see the base of the stairs.
+~
+~
+0 0 14216
+S
+#14218
+Top of the stairs~
+You are standing at the top of a spiralling set of stairs, leading downward.
+From here you can go down the stairs, or south to a stone corridor.
+~
+141 8 0 0 0 0 255 0
+D2
+To the south you see a stone corridor.
+~
+~
+0 0 14301
+D5
+Looking down, you see a the stairs spiralling downward out of view.
+~
+~
+0 0 14217
+S
+$~

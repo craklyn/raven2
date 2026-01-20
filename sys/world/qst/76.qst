@@ -1,0 +1,167 @@
+#7611
+Mrs.Claus -->Christmas Cake (Flour)~
+   I don't understand what could of got into them, but a few of the Christmas
+Elves stole all the ingredients for Santa's Christmas cake.  I need some
+Christmas flour to start preparing the cake.  Perhaps you can find one of the
+"rogue" Christmas elves that took it?    
+~
+   Find the Christmas flour for Mrs.  Claus.  A certain elf will have some.
+~
+30 50 8388608 20 8 5
+G 7612
+O OBJ 7612
+R GOLD 80000
+   Bless your soul!  Let me give you this small bag of coins.  However, I may
+be in need of your services again.  I'm still missing some ingredients for the
+cake, but for now I must go prepare this flour.    
+~
+#7612
+Mrs.Claus-->Cake Q(Eggs)~
+   Drat!  I do believe some of Santa's elves stole all my eggs for his
+Christmas cake!  You can't bake a cake without eggs, so what are you waiting
+for?  Get a move on Christmas isn't going to wait on the two of us.    
+~
+   You need to find some Christmas eggs for Mrs.  Claus.  A certain elf will
+have them.
+~
+30 50 8388608 20 8 5
+G 7612
+O OBJ 7613
+R SPELL 138
+   Thank you so much!  I still have more ingredients I need for the cake, but I
+must start separating the egg yoke for the cake.  Please come back and see me
+shortly.  Oh, you should be properly rewarded, let this spell speed your
+recovery from battle.    
+~
+#7613
+Mrs.Claus-->Cake Q(Butter)~
+   A "rogue" Christmas elf stole all the butter from our food stores.  They did
+this to stop me from baking my Christmas cake for Santa.  I just don't
+understand why they would of done this to me?  If you could find one of these
+rascals perhaps you could recover me a stick of butter?    
+~
+   You need to find some Christmas butter for Mrs.  Claus.  A certain elf will
+have some.
+~
+30 50 8388608 20 8 5
+G 7612
+O OBJ 7614
+R QP 1
+   Fantastic, I now have some butter for the frosting!  I'm still missing some
+ingredients for the cake, come back soon.  It is so close to being done, please
+don't abandon me young hero!  Here is &101 Quest Point&00 for all your efforts.
+  
+~
+#7614
+Mrs.Claus-->Cake Q(Sugar)~
+   It appears that the dreaded Grinch is behind the theft of my Christmas cake
+ingredients.  I'm not for sure at this point what it was hoping to accomplish?
+Unfortunately, the Christmas elves gave some of the cake ingredients to a group
+of vile creatures named grinchlings.  I need some sugar for the Christmas cake
+and at the same time the grinchlings need to be stopped for good!  Can you help
+me brave one?    
+~
+   You need to find some sugar for Mrs.  Claus.  A little green creature should
+have some.
+~
+30 50 8388608 10 10 5
+G 7612
+P 7611
+P 7612
+P 7613
+O MOB 7616
+O OBJ 7615
+R QP 2
+   Ahh, sugar!  Now I can get to making the frosting for the cake.  I'm still
+missing some of the ingredients to finish the cake, please come back and see me
+soon.  You have done a great service to me, please take these &10 2 Quest
+Points&00 as a reward.    
+~
+#7615
+Mrs.Claus-->Cake Q(Chocolate)~
+   The Grinch might have failed at stealing Christmas, but he might succeed at
+stealing my Christmas cake if you should fail.  I've found out that the Grinch
+seduced the Christmas elves into helping him steal my cake ingredients.  
+Obviously, he still has not found any peace in this world.  One of his
+grinchlings has my finest chocolate for the cake.  You must stop the grinchling
+and recover my chocolate!  You better hurry if you want to lick the spoon!    
+~
+   You need to find some melted chocolate for Mrs.  Claus.  A little green
+monster will have some.
+~
+30 50 8388608 40 15 10
+G 7612
+P 7614
+O MOB 7616
+O OBJ 7617
+R SPELL 87
+   Thank you for finding my spoon!  Now go on and lick it.  Lick the spoon.  
+Now be on your way, here is a little something to pick up the pace.    
+~
+R OBJ 7630
+   Oh, I wouldn't forget about letting you lick the spoon would I?  Here is a
+treat you will not soon forget.  When your done licking the spoon, come back, I
+still need your help hero.  Unfortunately, I underestimated how many things the
+Christmas Elves took for the cake.    
+~
+#7616
+Mrs.Claus-->Cake Q(Frosty)~
+   How can one make a cake without a pan?  That fat man drives me up the wall
+sometimes.  I need a pan.  I'm sure one of those little devils took it from me
+when I was out.  I'm counting on you.
+~
+   You need to find a pan for the cake for Mrs.  Claus.  A certain elf will have
+one.
+~
+30 50 8388608 15 15 10
+G 7612
+P 7615
+O OBJ 7622
+R GOLD 300000
+   Oh my, thank you so much for buying me a new cake pan!  I can now get to
+work on baking the Christmas cake.  There is one last ingredient left to finish
+it, come back and see me soon.  Here is &10300000 coins&00 for a little extra
+Christmas shopping cash.    
+~
+#7617
+Mrs.Claus-->Christmas Q(Sprinkles)~
+   There is one last ingredient for the cake.  I need some colored sprinkles
+for the cake.  From what the Christmas elves that stayed loyal have told me,
+one of the rogues gave my sprinkles to none other than the Grinch.  He is a
+truly vile creature, yet his cunningness has kept him alive all these
+centuries.  His body is weak, but he is quite powerful in mind.  Please stop
+this abomination from ruining another Christmas....  Oh and don't forget my
+sprinkles while your at it.    
+~
+   You need to find one last ingredient for the cake, some colored sprinkles.
+At the same time you must defeat the Grinch to get such an item.  The last time
+the Grinch was seen, it was entering a rift in the ground in the &14Frozen
+Plains&00.    
+~
+30 50 41943040 40 60 40
+G 7612
+P 7616
+O MOB 7615
+O OBJ 7618
+R OBJ 24805
+   I can finish the &08C&09h&08r&09i&08s&09t&08m&09a&08s&00 cake.  Joy to the
+world!  All thanks to your help hero!  I shall reward you kindly for your brave
+actions.  It takes strength and courage to defeat such a foe as the Grench.  
+For one day you will have all the powers of &11regeneration&00.  Just wear this
+halo over your head.    
+~
+R OBJ 24801
+   I can finish the &08C&09h&08r&09i&08s&09t&08m&09a&08s&00 cake.  Joy to the
+world!  All thanks to your help hero!  I shall reward you kindly for your brave
+actions.  It takes strength and courage to defeat such a foe as the Grench.  
+For one day you will have all the powers of &11Protection&00.  Just wear this
+halo over your head.    
+~
+R OBJ 24805
+   I can finish the &08C&09h&08r&09i&08s&09t&08m&09a&08s&00 cake.  Joy to the
+world!  All thanks to your help hero!  I shall reward you kindly for your brave
+actions.  It takes strength and courage to defeat such a foe as the Grench.  
+For one day you will have all the powers of &11Speed&00.  Just wear this halo
+over your head.    
+~
+$~

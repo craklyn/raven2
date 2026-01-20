@@ -1,0 +1,127 @@
+#3001
+newbiequest #1: Kill a Midgaard child~
+Hello, $n!  I have a small task for you, if
+you're game.  I want you to find one of the
+children wandering town, and fight it to the
+death!  If you win, bring the proof of your
+kill back here and give it to me, and I shall
+reward you.
+~
+Find a little boy or a little girl and kill them, then return the
+proof of the kill to the Questmaster.
+~
+1 15 25165824 7 10 5
+G 3098
+O MOB 3057
+O MOB 3056
+R GOLD 5000
+$N gives you 5,000 coins!
+$N tells you, 'Good work!  You can kill all the people'
+$N tells you, 'in midgaard to gain experience.  When you'
+$N tells you, 'gain enough experience, you will rise a'
+$N tells you, 'level.'
+~
+#3002
+newbiequest #2: Find a scroll of knowing~
+Hello!  I have an object here that I wish to
+learn about.  Could you please go and find me
+an ancient scroll of knowing?  I will pay you
+for your trouble!
+~
+Find an ancient scroll of knowing and return it to the Questmaster.  You
+can find them on many of the creatures in town, or you can buy them from
+the Magic Shop.  There is also one that appears in the Donation Room from
+time to time.
+~
+1 15 8388608 10 10 5
+G 3098
+O OBJ 3050
+R GOLD 10000
+$N gives you 10,000 coins!
+$N tells you, 'Thankyou!  This will help me learn about'
+$N tells you, 'my object.  You can use these scrolls to'
+$N tells you, 'get information about objects yourself,'
+$N tells you, 'by reciting them on something.  See the'
+$N tells you, 'help for it with "help recite".'
+~
+#3003
+newbiequest #3: Kill a pigeon~
+I have a small problem I'd like your assistance
+with.  The pigeons on the Chessboard have been
+flying into town and cooing outside my window.
+The noise is driving me crazy!  Please go to
+the Chessboard and kill one, maybe that will
+stop them coming.
+~
+~
+3 9 8388608 12 10 5
+G 3098
+O MOB 1698
+R SPELL 1
+$N tells you, 'Ahh, excellent!  That'll teach the blighters!'
+$N tells you, 'As a reward, I will cast the &11armor&00'
+$N tells you, 'spell on you to help you in combat.'
+$N utters some strange words and waves $S hand.
+~
+#3004
+newbiequest #4: Drunken worker~
+Welcome back.  I have another task for you,
+if you're up to it.  On the west side of
+Common Street lies the Ian & Ian Brewery.
+In there, you will find a number of enemies
+to fight.  Go there and kill a drunken
+worker, and I will give you some gold
+to help you on your journeys.
+~
+Go to the Ian & Ian brewery and kill a drunken worker, and return the
+proof of the kill to the Questmaster before your time runs out.
+~
+3 15 25165824 9 10 5
+G 3098
+P 3001
+O MOB 11101
+O MOB 11107
+R GOLD 9300
+$N tells you, 'Excellent work.  The Brewery is a great place'
+$N tells you, 'to earn experience.'
+$N gives you 9,300 coins!
+~
+#3005
+newbiequest #5: Get a tin cup~
+Hello!  Could you do a job for me?
+The bar staff here will give me a
+refill of my whiskey, but I've lost
+my cup!  Go into Midgaard and find
+a tin cup that I can use, and I will
+reward you well.
+~
+Find a tin cup in Midgaard and return it to the Questmaster for
+the reward.
+~
+3 15 8388608 9 10 5
+G 3098
+O OBJ 31240
+R GOLD 7800
+$N thanks you deeply, and gives you 7,800 coins.
+$N says, 'Oh, bartender, fill me up!'
+~
+#3006
+newbiequest #6: A magic candle~
+You look like a decent sort.  I'll
+let you in on a secret: there's a
+magic candle to be found in the
+Ian & Ian Brewery.  Bring it back
+to me, and I will extract the
+essence of magic from it to give you
+an even better light!
+~
+Find a magic candle and take it to the Questmaster.
+~
+3 15 8388608 12 10 5
+G 3098
+O OBJ 11102
+R OBJ 3063
+$N concentrates briefly, then waves $S hand.
+The light of the candle drifts out and towards you!
+~
+$~

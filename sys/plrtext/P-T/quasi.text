@@ -1,0 +1,21 @@
+mm cast 'magic missile' $1
+0 cast 'locate object' sledge
+gac get all corpse
+ass assist
+as assist karnage
+3 order follower kill $1
+ms cast 'monster summon'
+5 : is dead! R.I.P.
+infra cast 'infravision' $1
+sac destroy corpse
+cs cast 'color spray'
+gt gt &08@&02-&07'&02-&02 &11$*&11 &02-&07'&02-&08@&08&00
+say say &08@&02-&07'&02-&02 &11$*&11 &02-&07'&02-&08@&08&00
+j exit
+blind cast 'blindness' $1
+dr drink fountain
+lo cast 'locate object' $1
+iden cast 'identify' $1
+2 order phoenix kill $1
+1 cast 'magic missile' mother east
+rc cast 'remove curse' $1

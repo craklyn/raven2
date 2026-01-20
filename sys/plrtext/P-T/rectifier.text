@@ -1,0 +1,43 @@
+para c 'remove para' $*
+4 c 'revive' emp
+3 nudge gothe
+saga c 'saga' $*
+rev c 'revive' $*
+flame c 'flame strike' $*
+0 auc -info
+cb c 'cure blind' $*
+harm c 'harm' $*
+earth c 'earthqua
+regen c 'regen' $*
+male c 'male' $*
+armor c 'armor' $*
+sense c 'sense
+di c 'detect invis' $*
+fly c 'fly' $*
+infra c 'infra
+cleanse c 'cleanse' $*
+relo c 'relocate' $*
+fort c 'fort' $*
+heal c 'heal' $*
+ch n;n;n;n;n;n;n;n;n;w;w;od
+sum c 'summon' $*
+word c 'word of recall' $*
+blind c 'blind' $*
+sanc c 'sanctuary' $*
+wa wake;stand
+mix mix $* magic
+gte gte &13$* &00
+say emote &25&14blinks&00, '&13$*&00 '
+dish c 'dish' $*
+rc c 'remove curse' $*
+loot get all all.recti;wear all;wield staff;hold scept;get all rect;wear all;dest rect
+bless c 'bless' $*
+banish c 'banish' $*
+rp c 'remove poi' $*
+1 assist
+food c 'create food';eat way;dr thim
+2 c 'revive' ban
+5 c 'remove para' slacker
+6 c 'remove para' gothe
+title titl &01<&08^&10>&13Order of Darkness&10<&08^&00&01>&00
+da c 'det ali' $*

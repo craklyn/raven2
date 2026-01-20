@@ -1,0 +1,31 @@
+o c 'word' group
+harm c 'har' $*
+h c 'heal' $*
+cb c 'cur bl' $*
+8 c 'reg' $*
+7 c 'fly' $*
+3 c 'det inv' $*
+b c 'bli' $*
+p c 'word' $*
+2 c 'arm' $*
+1 c 'war' $*
+ea c 'cre foo'
+9 c 'rem poi' $*
+4 c 'sens'
+sum c 'summ' $*
+wat c 'cre wat' col
+ear c 'earth'
+sanc c 'sanc' $*
+ag2 rem heart;rem fire;wear all.steel
+ag rem all.steel;wear fire;wear heart
+gt gt &14$*&00
+r rec rec $*
+y look in cor
+x des cor
+z get all in cor
+reg w;w;w;n;n;n;n;n;w;n;n
+dr drink col
+gr rec rec sams
+cross w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w
+castle e;e;e;e;e;e;e;e;e;e;e;e;e;n;n;open doo w;w;w;n;n;n;n;u;s;s;s;e
+fort c 'fort' $*

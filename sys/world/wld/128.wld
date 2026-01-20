@@ -1,0 +1,1977 @@
+#12800
+Dragonor Keep~
+This area(12801-12899) was built by Dayan the Epee Artist.
+Modifications neccessary for its integration into Ravenmud were carried out
+by Vex.  Additional mods by Kaidon.
+~
+128 0 0 0 0 0 255 0
+S
+#12801
+Entrance to the Keep~
+  You cross the bridge and slowly move into the shadowed mouth of the castle.
+Dark bulwarks wall you in on both sides.  You carefully edge into the main
+hall, only to feel a force growing behind you.  As you turn back to exit, you
+find your way barred by an opaque wall of unknown substance.  Unsure of
+yourself, you once again look back towards the inner rooms of the castle.
+~
+128 9 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12802
+E
+wall opaque~
+It blocks your exit quite effectively.  Maybe you will have to find another
+way out...
+~
+S
+#12802
+Entrance Hall~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+A set of stairs leading upwards stands in one corner.
+A spectre is standing here trying to warn you.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12801
+D1
+~
+~
+0 -1 12821
+D2
+~
+~
+0 -1 12803
+D3
+~
+~
+0 -1 12820
+D4
+~
+~
+0 -1 12830
+E
+stairs~
+They lead upstairs.
+~
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+E
+spectre~
+  The spectral image covalesces out of the ether in the room.  It comes toward
+you and speaks,  "Halt.  Come no further.  I am Mandrel, High Adept of the
+Keep and Master of the 7 Mysteries.  Leave the Keep immediately and do not
+return.  It is dangerous for you to stay here.  LEAVE AT ONCE!"
+
+  The apparition looks away from you towards some unseen assailant with a look
+of horror growing on his face.  "NO!, The gleaming eyes ... NO, get back (He
+writhes as if struck by a great blow), you can't be here so soon.  (He screams
+and looks at you again)  Flee, Flee while there is still time.  Flee if you
+value your lives."  (He shudders as if from another blow, and sinks screaming
+to the ground in a pool of his own spectral blood.)
+~
+S
+#12803
+Reception Hall~
+  The main reception hall of the Dragonor Keep stands before you.  The edges
+of the room are dark with shadows, and the center of the room is covered with
+the blood of unknoen combatants.  Several fallen soldiers and initiates lie
+on the ground with their dying screams still on their lips.  Their bodies are
+badly mangled and cut, many missing arms, pieces of their faces, or central
+torsos.  From the center of the room a lone figure floats 15' from the ground
+suspended by tendrils of light.  Neck broken and bloody, his clothing marks
+him as a full sorcerer, and an adept of the keep.  The source of the light
+seems to be a golden key still grasped in the mage's right hand.  You hear a
+sound in the darkness and look up.  Glowing red eyes stare back at you.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12802
+D2
+~
+~
+0 -1 12809
+E
+sorcerer~
+He looks all broken up over his death...
+~
+E
+eyes~
+They don't look friendly...
+~
+S
+#12804
+Storeroom~
+  You enter a dark storage room.  Giant casks of wine, powdery dry goods, and
+items for the general maintenance of the keep are kept here.  The violence
+that seems to have marred the rest of the keep seems to have been mostly
+escaped by this room.  The only light is from two small windows high in the
+wall.
+~
+128 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12820
+E
+windows~
+The windows are to small to escape from.
+~
+S
+#12805
+Storeroom~
+  You enter a dark storage room.  Giant casks of wine, powdery dry goods, and
+items for the general maintenance of the keep are kept here.  The violence
+that seems to have marred the rest of the keep seems to have been mostly
+escaped by this room.  The only light is from two small windows high in the
+wall.
+~
+128 12 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12821
+E
+windows~
+The windows are to small to escape from.
+~
+S
+#12806
+Hallway~
+  A party of the guard seems to have made its last stand here.  Bodies lie
+hacked on the ground, and scars on the walls prove testimony to the fierce
+fighting that occurred here.  A lone soldier stands pinned to the wall,
+pierced through the stomach by a giant claw.  Dried blood forms a line down
+his cheek from a severe wound to his head.  His eyes look vacantly out you as
+defient in death as the were in life.  His hand still holds a rune-encrusted
+sword that is still sharp and deadly.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12820
+D1
+~
+~
+0 -1 12808
+D2
+~
+~
+0 -1 12822
+E
+soldier~
+  From the carnage around him, he looks like he put up one H*LL of a fight
+before he finally died from blood loss.
+~
+S
+#12807
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12821
+D2
+~
+~
+0 -1 12823
+D3
+~
+~
+0 -1 12810
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12808
+Chapel~
+  A small chapel stands here.  Acolytes lie dead, strewn around the floor as
+if a great wind threw them down.  Inky pools of blood darken the once-white
+marble floor.  The priest lies still holding a silver sword in one hand, and a
+cross in the other.  You spot a small door leading south behind the altar.
+~
+128 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12816
+D3
+~
+~
+0 -1 12806
+E
+altar~
+It is bloodstained from all the fighting.
+~
+E
+priest~
+  He has a look as if he had made had made his final peace with God and Man
+before he died.
+~
+S
+#12809
+Private Dining room~
+  A large oaken table surrounded by chairs fills this room.  Fancy tapestries
+line the walls, and closets filled with fine wines stand open.  A Coat of Arms
+marking the ancestral history of Dragonor Keep stands prominently on the far
+wall.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12803
+D1
+~
+~
+0 -1 12810
+E
+closets~
+They contain finely aged wine.
+~
+E
+coat~
+The coat of arms states that the castle was founded 500 years ago by Corryn
+Haldane in his wars against Somm the Dead.  It was purchased by the Raven's
+Guild some 300 years ago, and owned by them since then.
+~
+S
+#12810
+Kitchen~
+  A large kitchen stands before you.  Evidence of a partly prepared meal are
+in evidence around the room.  Discarded pieces of bread, meat, and flour cover
+the floor.  A large fireplace covers the wall.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12807
+D3
+~
+~
+0 -1 12809
+D4
+~
+fireplace~
+1 -1 12819
+E
+fireplace~
+  It looks very wide.  Maybe it would be possible to climb up it...
+~
+S
+#12811
+Circle Room~
+  This Room is bare except for a black circle in the center of the room.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12865
+D5
+~
+circle~
+1 -1 12869
+E
+circle~
+You probably can do something with it.... (maybe)
+~
+S
+#12812
+The Secret Room~
+  You have found a secret room!!  The floor is covered with dust, and it looks
+as if no one has been here for a long time...
+There is another brazier here, and a tapestry along the west wall...
+~
+128 12 0 0 0 0 255 0
+D3
+~
+brazier tapestry door~
+1 -1 12850
+E
+tapestry~
+A dusty tapestry covers the west wall...
+~
+E
+dust~
+Go ahead... kill it
+
+                  - The Epee Artist :)
+~
+E
+brazier~
+It looks as if this one can be closed...
+~
+S
+#12816
+Church Office~
+  A large office with the symbols of the Church fills this room.  Objects lie
+thrown about as if a fight had occured here.  A writing desk lies to the side
+of the room and is nearly vacant save for a partially complete letter.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12808
+D2
+~
+~
+0 -1 12824
+E
+desk~
+There is a letter on it...
+~
+E
+letter~
+To Allister Cullen, preceptor of the Michaeline Order,
+
+     I have come across rumors that the mages led by Mandrel and Bayonne have
+been working on creating an artificially created super-fighter.  They just
+brought in a new mage by the name of Conchitez, a specialist in summoning, to
+the keep.  Combined with Mandrel and Bayonne's skills, they might succeed.  I
+believe that they are very close to success now.  We must act quickly if we
+are to stand a chance.
+                      - Joachim
+~
+S
+#12817
+Storeroom~
+  You enter a dark storage room.  Giant casks of wine, powdery dry goods, and
+items for the general maintenance of the keep are kept here.  The violence
+that seems to have marred the rest of the keep seems to have been mostly
+escaped by this room.  The only light is from two small windows high in the
+wall.
+~
+128 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12822
+E
+windows~
+The windows are to small to escape from.
+~
+S
+#12818
+Storeroom~
+  You enter a dark storage room.  Giant casks of wine, powdery dry goods, and
+items for the general maintenance of the keep are kept here.  The violence
+that seems to have marred the rest of the keep seems to have been mostly
+escaped by this room.  The only light is from two small windows high in the
+wall.
+~
+128 12 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12823
+E
+windows~
+The windows are to small to escape from.
+~
+S
+#12819
+in the fireplace~
+  You crawling up the fireplace.  High above you, you can see some light.  You
+see a small alcove here that looks like it would be good place to put things.
+~
+128 8 0 0 0 0 255 0
+D5
+~
+~
+0 -1 12810
+E
+alcove~
+It looks like a good place to hide potions.
+~
+S
+#12820
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12802
+D2
+~
+~
+0 -1 12806
+D3
+~
+~
+0 -1 12804
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12821
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12805
+D2
+~
+~
+0 -1 12807
+D3
+~
+~
+0 -1 12802
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12822
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12806
+D1
+~
+~
+0 -1 12824
+D3
+~
+~
+0 -1 12817
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12823
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12807
+D1
+~
+~
+0 -1 12818
+D3
+~
+~
+0 -1 12824
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12824
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+There are stairs up here.  Behind a steel gate, there are stairs down as well.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12816
+D1
+~
+~
+0 -1 12823
+D3
+~
+~
+0 -1 12822
+D4
+~
+~
+0 -1 12838
+D5
+You see glowing red eyes and here the faint sounds of movement in the darkness.
+~
+gate door grate~
+2 12817 12896
+E
+gate~
+  You look down into the darkness and hear faint sounds of movement.  You see
+the faint glow of eyes in the blackness.
+~
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12830
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+There is a stairway here leading both up and down.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12832
+D2
+~
+~
+0 -1 12855
+D3
+~
+~
+0 -1 12831
+D4
+~
+~
+0 -1 12856
+D5
+~
+~
+0 -1 12802
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12831
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12830
+D2
+~
+~
+0 -1 12835
+D3
+~
+~
+0 -1 12833
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12832
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12834
+D2
+~
+~
+0 -1 12841
+D3
+~
+~
+0 -1 12830
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12833
+The Lab~
+  This lab is filled with equipment of unknown purpose or design.  Scorch marks
+like part of the walls, and incinerated bodies can be seen on the floor.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12831
+E
+bodies~
+They seem badly burned as if by a great fire...
+~
+E
+marks~
+One of the marks reads
+
+           The Last Key is in the archives...
+~
+S
+#12834
+The Forge~
+  A sooty forge is here.  The fire extinguished, the bellows unused.  The body
+of the blacksmith and his assistants lie around the room.  Several of the
+monsters have also died here.
+~
+128 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12832
+E
+monster~
+The monsters look badly hacked, as if the blacksmith had put up quite a fight.
+~
+E
+soot ashes~
+The Soot reads:
+
+            The monster's leader is in the basement
+~
+E
+forge~
+The forge is filled with soot and ashes of a fire.
+~
+S
+#12835
+The Hallway~
+  Bolts of energy have marred the walls of this hall.  It looks as if several
+mages waged an ultimately futile battle against the monsters here.  Several
+bodies lie on the ground horribly disfigured.  You smile to see that at least
+the mages did not die alone.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12831
+D1
+~
+~
+0 -1 12842
+D2
+~
+~
+0 -1 12848
+S
+#12836
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12848
+D1
+~
+~
+0 -1 12838
+D3
+~
+~
+0 -1 12837
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12837
+Training Room~
+  This is an open room with a wooden floor.  From the bloodstains on the
+floor, you would guess that the guard used this area to practice.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12836
+S
+#12838
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+There is a staircase here leading both up and down.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12849
+D1
+~
+~
+0 -1 12839
+D3
+~
+~
+0 -1 12836
+D4
+~
+~
+0 -1 12863
+D5
+~
+~
+0 -1 12824
+E
+staircase~
+It is made from white marble and mahogony wood.
+~
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12839
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12850
+D1
+~
+~
+0 -1 12840
+D3
+~
+~
+0 -1 12838
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12840
+Herbalist Lab~
+  Vials of distilled plants, herbs, and spices fill the room.  A strong scent
+of perfume fills the air.  Books on plant lore line the walls.  On one of the
+desks lies a small book.
+~
+128 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12839
+E
+book~
+The books are filled with technical information that you find unintelligible.
+~
+E
+book~
+Conchitez.  Private Log.
+
+  Day 1:  Mandrel gave a general alert.  That can only mean that our pets have
+escaped.  Don't think the guard can counter these creatures - Mandrel has kept
+them too much in the dark.  Hiding in herbalist lab.  Maybe I can find
+something to stop them here.  Filling the room with perfume to hide my scent.
+I will observe and record.
+
+  Day 2:  Castle is silent.  Have spotted 2 battle sites - we lost them both.
+Thankfully, I haven't been discovered.  It seems that they have taken over the
+archives underneath the Keep.  They may be preparing to molt into the stage 3
+form.  I hope not.  Mandrel boasted that that was the hyper-intelligent mode.
+They might figure out how to harness the powers within the castle to track me.
+
+  Day 3:  There is a sound outside it is growing closer.  Hopefully they will
+pass by...  The noises have receded...
+
+     (there are no more entries in the log)
+~
+S
+#12841
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12832
+D2
+~
+~
+0 -1 12850
+D3
+~
+~
+0 -1 12851
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12842
+Mandrel's Bedroom~
+  This is the nicest of all the rooms that you have seen so far.  Rich
+tapestries fill the walls, and a desk sits to one side.
+~
+128 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12835
+E
+symbol~
+  It is a small symbol to show ones utter allegiance to Lord Skul, and his
+plans to conquer the Irredenta.
+~
+E
+tapestry~
+Someone has scrawled on the tapestry:
+
+                         Mandrel owns a key...
+~
+E
+desk~
+As you open the desk drawer, you see a symbol, a Black Heart.
+~
+S
+#12843
+Bunkroom~
+  Overturned bunks, parts of uniforms, and small pieces of weapons fill the
+room.  It looks as if this is one of the barracks where the guard lived, and
+eventually, died.  Dead bodies lie scattered around the room, many looking as
+if they had not even put up much of a fight.  It was as if they were taken
+unaware or from behind.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12853
+D1
+~
+~
+0 -1 12855
+S
+#12844
+Bunkroom~
+  Overturned bunks, parts of uniforms, and small pieces of weapons fill the
+room.  It looks as if this is one of the barracks where the guard lived, and
+eventually, died.  Dead bodies lie scattered around the room, many looking as
+if they had not even put up much of a fight.  It was as if they were taken
+unaware or from behind.  There is a large hole in the east wall.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12854
+D1
+~
+~
+0 -1 12845
+D3
+~
+~
+0 -1 12855
+E
+hole~
+The hole has been bored through the wall by some type of sharp implement.
+~
+S
+#12845
+Initiates Room~
+  More bunks, but it appears that these were used by the new initiates to
+magic.  Various scrolls are scattered around, amid the torn bodies of the
+students.  It looks as if the initiates were never able to form any kind of
+defense before they were overwhelmed.  A large hole has been bored in the
+west wall of the room.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+brazier~
+0 -1 12850
+D3
+~
+~
+0 -1 12844
+E
+scrolls~
+Examine everything, and you will be rewarded...
+~
+E
+hole~
+It appears as if it was made by sharp teeth or claws...
+~
+S
+#12846
+Captain's Room~
+  The Captain of the Guard lived in this room.  The furniture is of a
+decidedly better quality than in the barracks.  A wall mount for a sword is
+seen with the label 'Vindictator' on it.  The room is in disarray, as if the
+owner left in a hurry.  A desk is shoved in a corner with a glowing stone on
+it.
+~
+128 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12849
+E
+paper~
+The epee artist wuz heer...
+~
+E
+desk~
+The desk has a lone piece of paper on it.
+~
+E
+stone~
+The Stone glows, and begins to speak:
+
+Mardonius:  Come in and sit down Mandrel.  I prefer to be at ease when I talk
+among friends.  What makes these creatures of yours so impressive?
+
+Mandrel:  Let me counter with a question of my own.  What would you do if you
+were suddenly attacked by Allister and his Knights?
+
+Mardonius:  I would send scouts out to see what odds I was up against, then I
+would fight or evacuate depending on the odds.
+
+Mandrel:  That's exactly why I designed the Dar-grak.  They molt from form to
+form, so you never know exactly what you are up against.  Three stages, each
+with there own specialties; this makes evaluation difficult.  Defenses against
+one may prove useless against another.
+
+Mardonius:  So we create the perfect threat.  Why shouldn't we be terrified of
+the prospect?
+
+Mandrel:  That is what I am working on now...
+~
+E
+mount wall~
+The wall mount is empty, maybe the Captain took it with him...
+~
+S
+#12847
+Conchitez's Bedroom~
+  This is another room owned by an adept.  The rooms appears to have been just
+recently moved into, and you see an open scroll on the desk.
+~
+128 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12848
+E
+scroll~
+  Since this project began, I have had little rest.  Fortunately, it seems as
+if it will soon come to a successful conclusion.  If the Dar-Grak stage of
+this project is successful, we will have an unstoppable army.  All of the
+Irredenta will be ours.  Not even the Knights of St. Michael will be able to
+stop us.  Mandrel is very confident, and we have several batches of 1's and
+2's under sedation.  I wish Mandrel would hurry up an finish his work on the
+control substances.  I am growing worried about our little pets...
+~
+S
+#12848
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12835
+D1
+~
+~
+0 -1 12847
+D2
+~
+~
+0 -1 12836
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12849
+Barricaded hall~
+  Barricades line both ends of this hall.  Dead soldiers lie all around.  It
+seems that the soldiers barricaded the hall for protection, but were attacked
+from within the barricade.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12855
+D1
+~
+~
+0 -1 12846
+D2
+~
+~
+0 -1 12838
+D3
+~
+~
+0 -1 12852
+E
+barricade~
+It is made from overturned bunks and chairs.
+~
+S
+#12850
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12841
+D1
+~
+brazier tapestry~
+1 -1 12812
+D2
+~
+~
+0 -1 12839
+D3
+~
+~
+0 -1 12845
+E
+tapestry~
+The tapestry looks like it can be opened here...
+~
+E
+brazier~
+The brazier looks like it can be opened here...
+~
+S
+#12851
+Acolyte's room~
+  This appears to be a room for the older students of the keep.  The carnage
+evident in the rest of the Keep is not evident here.
+~
+128 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12841
+S
+#12852
+Armory~
+  Weapon racks fill this room, mostly empty.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12849
+S
+#12853
+Seargent's Room~
+  A seargent lived in this room.  The decorations are spartan, but it has more
+space than the barracks, and has its own desk.  Various war trophies line the
+walls.
+~
+128 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12843
+E
+desk~
+The desk is empty.
+~
+E
+trophies~
+WOW!  A Tusk of the ATOMIC EPEE MONSTER!!!!!  COOL!
+~
+S
+#12854
+Seargent's Room~
+  A seargent lived in this room.  The decorations are spartan, but it has more
+space than the barracks, and has its own desk.  Various war trophies line the
+walls.
+~
+128 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12844
+E
+desk~
+The desk is empty.
+~
+E
+trophies~
+WOW!  A Tusk of the ATOMIC EPEE MONSTER!!!!!  COOL!
+~
+S
+#12855
+Barricaded hall~
+  Barricades line both ends of this hall.  Dead soldiers lie all around.  It
+seems that the soldiers barricaded the hall for protection, but were attacked
+from within the barricade.  The barricade is partly broken down on one side.
+It appears as if some of the guards escaped to fight there way out.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12830
+D1
+~
+~
+0 -1 12844
+D2
+~
+~
+0 -1 12849
+D3
+~
+~
+0 -1 12843
+E
+barricade~
+It is made from overturned bunks and chairs.
+~
+S
+#12856
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+There is a stairway here leading both up and down.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12858
+D2
+~
+~
+0 -1 12860
+D3
+~
+~
+0 -1 12857
+D4
+~
+~
+0 -1 12883
+D5
+~
+~
+0 -1 12830
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12857
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12865
+D1
+~
+~
+0 -1 12856
+D2
+~
+~
+0 -1 12859
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12858
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12867
+D2
+~
+~
+0 -1 12861
+D3
+~
+~
+0 -1 12856
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12859
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12857
+D2
+~
+~
+0 -1 12862
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12860
+Hallway~
+  You are standing in a long hallway.  To your west, you can see a large
+library, and to your east, you can see a office.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12856
+D1
+~
+~
+0 -1 12877
+D2
+~
+~
+0 -1 12863
+D3
+~
+~
+0 -1 12873
+S
+#12861
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12858
+D2
+~
+~
+0 -1 12864
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12862
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12859
+D1
+~
+~
+0 -1 12863
+D2
+~
+~
+0 -1 12870
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12863
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+There is a staircase here leading both up and down.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12860
+D1
+~
+~
+0 -1 12864
+D3
+~
+~
+0 -1 12862
+D4
+~
+~
+0 -1 12889
+D5
+~
+~
+0 -1 12838
+E
+staircase~
+It is made from white marble and mahogony wood.
+~
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12864
+Hallway~
+  All in the hallway is silent save for the sound of your own breathing.  Bright
+tapestries depicting brave knights, great castles, and epic battles cover the
+walls.  The hall is dimly lit only by the glowing braziers that line the walls.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12861
+D2
+~
+~
+0 -1 12871
+D3
+~
+~
+0 -1 12863
+E
+brazier~
+The brazier provides some dim light for the hallway.
+~
+S
+#12865
+Strange room~
+  This room contains a multitude of equipment of strange design.
+~
+128 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12857
+D3
+~
+~
+0 -1 12811
+S
+#12867
+Alchemy Lab~
+  This laboratory is filled with lots of bottles and strange glass apparatus.
+Various chemicals lie on shelves above the table.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12868
+D2
+~
+~
+0 -1 12858
+S
+#12868
+Storeroom~
+  This is a storeroom for the alchemy lab.  It looks very dusty and unused.
+~
+128 12 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12867
+S
+#12869
+Under the Circle~
+  You are underneath the circle.  There isn't much to see down here.
+~
+128 12 0 0 0 0 255 0
+D4
+~
+circle~
+1 -1 12811
+S
+#12870
+Pentagram room~
+  A large pentagram and other warding symbols cover the floor in this room.
+Various implements, strange types of chalk, and similar equipment can be seen
+around the room.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12862
+E
+pentagram~
+It is used to confine otherworldly beings in a single location.
+~
+S
+#12871
+The back way out~
+The is a big sign on the wall
+
+              Express Elevator to Hell
+
+              use at own discretion,
+              the programmer will not be
+              responsible for loss of items
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12864
+D1
+~
+~
+0 -1 12872
+S
+#12872
+Express Elevator~
+Well, you asked for it...
+~
+128 10 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12871
+S
+#12873
+Library Entrance~
+  A large library.  Several statues lined with semi-precious gems line the
+walls, and works of art are prominently displayed.  The sun that filters
+through the skylights dimly lights the aisles of books.  The silence is so
+great, you can hear the pounding of blood in your ears.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12860
+D2
+~
+~
+0 -1 12874
+D3
+~
+~
+0 -1 12875
+E
+statues~
+One especially inspiring one is named Jeb the Immortal Epee Artist.
+~
+S
+#12874
+Library Aisles~
+  You stand amidst aisles and aisles of books.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12873
+D3
+~
+~
+0 -1 12876
+S
+#12875
+Library Aisles~
+  You stand amidst aisles and aisles of books.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12873
+D2
+~
+~
+0 -1 12876
+S
+#12876
+Library Aisles~
+  You stand amidst aisles and aisles of books.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12875
+D1
+~
+~
+0 -1 12874
+S
+#12877
+Lab~
+  Several of the monsters lie on tables here in various stages of dissection.
+Charts cover the walls, and papers lie scattered on the only desk.
+~
+128 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12860
+E
+desk~
+The desk is empty save for the papers.
+~
+E
+charts~
+They show examples of muscle tissue and other less well known things.
+~
+E
+papers~
+To gain entrance to the archives, you need to give the command OPEN and then
+the sigma code of an adept of the keep.  This will open a secret door after
+the three wards are down.
+~
+S
+#12880
+On the Battlement~
+  On this tall battlement, you can see the Irredenta stretch before you.  You
+can see dark mountains rise to the north, and far to the west, you glimpse the
+highest towers of Freehold.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12882
+D2
+~
+~
+0 -1 12883
+D3
+~
+~
+0 -1 12881
+S
+#12881
+Tower~
+  In the center of this tower, you see a large orb glowing with its own light.
+ The orb appears to be feeding the field around the castle.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12880
+D2
+~
+~
+0 -1 12884
+S
+#12882
+Tower~
+  In the center of this tower, you see a large orb glowing with its own light.
+ The orb appears to be feeding the field around the castle.
+~
+128 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 12895
+D3
+~
+~
+0 -1 12880
+S
+#12883
+Planetarium~
+  A moving model of the planets fills this room.  You try to figure out what is
+what, but the only planet you can recognize is the planet of Davilon. :)
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12880
+D5
+~
+~
+0 -1 12856
+E
+planets~
+The only one you recognize is Davilon.  You aren't even sure which one you are
+on...
+~
+E
+davilon~
+This is the Epee Artist's Private planet.  :)
+~
+S
+#12884
+On the Battlement~
+  On this tall battlement, you can see the Irredenta stretch before you.  You
+can see dark mountains rise to the north, and far to the west, you glimpse the
+highest towers of Freehold.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12881
+D2
+~
+~
+0 -1 12890
+S
+#12885
+Mandrel's Office~
+  Mandrel lies slumped in one corner of this room, dead.  In his hand, he
+grasps a glowing stone, and around his neck, there is a small key.  Various
+drawings of the monsters fills the room.  The office is beautiful, if not
+opulent.
+~
+128 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 12888
+E
+stone~
+Entry 1:  Mandrel.  Sigma Code Starfall.  Four batches ready for final testing.
+I am informed by Bayonne that Skul is on schedule, but not by much.  Bayonne
+is leaving to coordinate work on the other end.  I should have plenty of time
+to perfect my creations.
+
+Entry 2:  Progress is on schedule...  batch 1 shows high adaptability...
+batch 2 has survival rates over 90%.  We will be on schedule for deployment.
+Our enemies will not stand a chance.
+
+  If I am correct - wait a minute, we have fluctuations in the etheric
+continuim..  disruption in the containment fields...  all batches showing an
+increase in activity.  Countermeasures ineffective.
+
+  The guard is notified... setting up a warning and sealing the keep.  Hope it
+is just a precaution.
+
+              (time lapse)
+
+  message completed.  wait... the gleaming eyes.. No, get back... You can't be
+here so soon... AAAAAAAHHHHHH!!!!!! (end of message)
+~
+S
+#12886
+Bayonne's Office~
+This office has a terrific view of the keep and the surrounding territories.
+It is nicely decorated with mahogony wood and red silk cushions.  On the desk
+lies a letter.
+~
+128 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12888
+E
+letter~
+  Mandrel,
+  I have been forced to return to Blackheart Keep to oversee the last stages
+  of our project there.  I will return soon.
+                                  -Bayonne
+~
+S
+#12888
+The Small Hall~
+  You are in a short hall that leads to several offices.  There is a sign on
+the wall.  There is a large lock on the door to the north.  Other doors lead
+east and west.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+door~
+2 12818 12893
+D1
+~
+~
+0 -1 12886
+D2
+~
+~
+0 -1 12889
+D3
+~
+~
+0 -1 12885
+E
+lock epee~
+It looks like you will need a key in the shape of a small epee...
+~
+E
+sign~
+                             ^                  ^
+                             |  The Epee Office |
+
+                 <-- Mandrel's Office    Bayonnes Office -->
+~
+S
+#12889
+The Anteroom~
+  This is a small antechamber with two exits.  One leads down a short hallway,
+and the other leads onto the battlements.  The ceiling is covered with a large
+mural of the Epee Artist holding a miniature epee and smiling as if he knows
+something that you don't.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12888
+D2
+~
+~
+0 -1 12891
+D4
+~
+davis~
+1 -1 12894
+D5
+~
+~
+0 -1 12863
+E
+epee artist mural~
+Maybe you could get him to open up...  If only you knew his name...
+~
+S
+#12890
+Tower~
+  In the center of this tower, you see a large orb glowing with its own light.
+ The orb appears to be feeding the field around the castle.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12884
+D1
+~
+~
+0 -1 12891
+S
+#12891
+On the Battlement~
+  On this tall battlement, you can see the Irredenta stretch before you.  You
+can see dark mountains rise to the north, and far to the west, you glimpse the
+highest towers of Freehold.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12889
+D1
+~
+~
+0 -1 12892
+D3
+~
+~
+0 -1 12890
+S
+#12892
+tower~
+  In the center of this tower, in addition to the orb, you see a large telescope
+and other star watching equipment.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12895
+D3
+~
+~
+0 -1 12891
+E
+telescope~
+You look through the telescope and see the constellation of Dayan, the Paladin
+of Good, and his avatar, Jeb.
+~
+S
+#12893
+The Epee Office~
+  This seems to be the office of a very powerful man.  It is filled with
+polished wood furniture and white marble floors.  Maybe he leaves some stuff
+around when he is not adventuring...
+~
+128 140 0 0 0 0 255 0
+D2
+~
+door~
+2 12818 12888
+S
+#12894
+The Key Room~
+  This room is empty save for a pedestal with a miniature epee on it.
+~
+128 12 0 0 0 0 255 0
+D5
+~
+davis~
+1 -1 12889
+S
+#12895
+On the Battlement~
+  On this tall battlement, you can see the Irredenta stretch before you.  You
+can see dark mountains rise to the north, and far to the west, you glimpse the
+highest towers of Freehold.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 12882
+D2
+~
+~
+0 -1 12892
+S
+#12896
+The second ward~
+  You are standing in the darkness, approaching the final conclusion of your
+quest to eradicate the evil dwellers of this castle.
+~
+128 8 0 0 0 0 255 0
+D0
+~
+door~
+2 12818 12897
+D4
+~
+gate grate~
+2 12817 12824
+E
+door~
+The door needs to be unlocked... maybe there is a key for it somewhere around
+here...
+~
+S
+#12897
+The Third Ward~
+  Another step closer, but you aren't there yet...
+~
+128 8 0 0 0 0 255 0
+D0
+~
+door~
+2 12819 12898
+D2
+~
+door~
+2 12818 12896
+S
+#12898
+The Final Ward~
+  One last door stands blocking your way... Maybe you could tell it to open.
+Hmmm, maybe you need a code word.  YEAH!, a code word...
+~
+128 8 0 0 0 0 255 0
+D0
+~
+starfall~
+2 12820 12899
+D2
+~
+door~
+2 12819 12897
+S
+#12899
+The Final confrontation~
+  You stand in a large room that is filled by broken shells and discarded ooze.
+A shining blue portal leads upwards, and a sign stands here.
+~
+128 8 0 0 0 0 255 0
+D2
+~
+starfall~
+2 12820 12898
+D4
+~
+~
+0 -1 12129
+E
+sign~
+                            Congratulations!!
+
+                                    -The Epee Artist :)
+~
+E
+portal~
+It looks like a way out...
+~
+S
+$~

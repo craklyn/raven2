@@ -1,0 +1,426 @@
+CircleMUD v3.0 Shop File~
+#33101~
+33102
+33103
+33104
+15856
+-1
+1.10
+0.95
+1
+8
+11
+15
+-1
+%s I'll see if I can get that in for ye, but I have none now!~
+%s Why don't you try to sell me something you own?~
+%s I've no interest in that.~
+%s No thanks, I don't have the money right now.~
+%s Come back when you've got the cash.~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33101
+0
+33110
+-1
+0
+28
+0
+0
+#33102~
+33106
+33107
+33108
+-1
+1.00
+1.00
+-1
+%s Sorry, we don't serve that here.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s Cash only, no credit!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33102
+0
+33113
+-1
+0
+28
+0
+0
+#33103~
+33109
+33110
+-1
+1.00
+1.00
+8
+12
+-1
+'s I'm not a trader in exotic items!  Go away!~
+%s Stop wasting my time trying to sell things you don't have!~
+%s What would I want one of those for?~
+%s That's overpriced.  I won't buy it.~
+%s Begone with you!  Come back if you ever earn some money!~
+%s %d coins, and don't you try to cheat me!~
+%s You'll get %d coins, and nothing more.~
+0
+0
+33103
+0
+33114
+-1
+0
+28
+0
+0
+#33104~
+33112
+33111
+33156
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33104
+0
+33115
+-1
+0
+28
+0
+0
+#33105~
+33114
+33115
+-1
+1.00
+1.00
+22
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33105
+0
+33117
+-1
+0
+28
+0
+0
+#33106~
+33116
+33117
+33118
+33119
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33106
+0
+33130
+-1
+0
+28
+0
+0
+#33107~
+33120
+33121
+33122
+33123
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33107
+0
+33120
+-1
+0
+28
+0
+0
+#33108~
+33124
+33125
+33126
+33127
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You dpn't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33122
+0
+33119
+-1
+0
+28
+0
+0
+#33109~
+33128
+33129
+33130
+33131
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that iten.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33109
+0
+33126
+-1
+0
+28
+0
+0
+#33110~
+33149
+33150
+33152
+-1
+1.00
+1.00
+10
+-1
+%s I don't make those.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33110
+0
+33125
+-1
+0
+28
+0
+0
+#33111~
+33132
+33133
+33134
+-1
+1.00
+1.00
+8
+-1
+&s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33111
+0
+33145
+-1
+0
+28
+0
+0
+#33112~
+33135
+33136
+33137
+33138
+-1
+1.00
+1.00
+8
+21
+25
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33112
+0
+33154
+-1
+0
+28
+0
+0
+#33113~
+33139
+33140
+33141
+-1
+1.00
+1.00
+4
+21
+25
+2
+3
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33113
+0
+33155
+-1
+0
+28
+0
+0
+#33114~
+33153
+33154
+33155
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33114
+0
+33148
+-1
+0
+28
+0
+0
+#33115~
+33142
+33143
+33144
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33115
+0
+33156
+-1
+0
+28
+0
+0
+#33116~
+33145
+33146
+33147
+33148
+-1
+1.00
+1.00
+9
+11
+-1
+%s Sorry, I don'x stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+33116
+0
+33149
+-1
+0
+28
+0
+0
+$~

@@ -1,0 +1,11 @@
+al c 'detect align
+in c 'detect inv'
+b bash $*; st
+ar c 'armor
+t ti &07Deaths&00 &08Knight&00
+bla c 'black dart' $*
+z rec scr
+ba bas $*;st
+ki kick $*
+pro c 'protec from good'
+gt gt &08$*&00

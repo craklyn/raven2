@@ -1,0 +1,15 @@
+walk c 'shadow walk'
+invis c 'invis' $*
+dos c 'dance of shadows'
+blu c 'blur'
+22 stop
+/ rec elv
+1 backstab $*
+11 c 'shadow blades' $*
+sv c 'shadow vision' $*
+sense c 'sense'
+gt gtell &13><^>&00 &11$* &00 &13<^><&00
+b c 'blind' $*
+sph c 'shadow sphere'
+sleep c 'sleep' $*
+poi c 'poison' $*

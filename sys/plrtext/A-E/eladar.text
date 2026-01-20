@@ -1,0 +1,16 @@
+sense cast 'sense
+di cast 'detect inv' $*
+cleanse cast 'cleanse' $*
+bl cast 'blindne' $*
+harm cast 'harm' $*
+recall cast 'word of recall' $*
+infra cast 'infrav
+r cast 'revive' $*
+summon cast 'summon' $*
+sum cast 'summon' $*
+sanc cast 'sanc' $*
+fly cast 'fly' $*
+cb cast 'cure blind' $*
+q gt assist;assist
+rv whis reok heal$*;cast 'revive' $*
+relo cast 'relocate' $*

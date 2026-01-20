@@ -1,0 +1,4378 @@
+#21800
+Credits Room~
+This is the outer keep to 'The Siege on Malfor's Keep' created by Joe Hunter 
+(Joram/RavenMud).  It is intended for characters of good alignment, levels 20 
+through 40, and is part 1 of 3 parts.
+~
+218 556 0 0 0 0 255 0
+S
+#21801
+Entrance to the Outer Keep~
+You are standing at the entrance to the outer keep.  Torches on the walls 
+show you a steel portcullis to the north guards against unwelcomed guests.
+~
+218 4 0 0 0 1 255 0
+D0
+You see a steel portcullis.
+~
+steel portcullis~
+1 -1 21804
+D2
+The road away from the keep.
+~
+~
+0 -1 22019
+E
+steel portcullis~
+This metal barrier is backed by sheets of steel preventing you from seeing 
+beyond it.
+~
+S
+Z 13
+#21802
+Stairway~
+Stairs lead up to a door and down to the ground floor of the keep.  Both 
+sides of the stairwell are lined with torches and a window is built into 
+the south wall.
+~
+218 12 0 0 0 0 255 0
+D2
+There is a window here looking out over the road to the keep.
+~
+~
+0 -1 -1
+D4
+There is a door at the top of the stairs.
+~
+door~
+1 -1 21893
+D5
+The stairs lead down to the floor below.
+~
+~
+0 -1 21803
+E
+window~
+You see the main camp of Lord Jalek about a half-mile to the south of the 
+keep.
+~
+S
+#21803
+Corridor~
+You are standing in a short corridor with torch-lined walls.  A stairwell 
+leads up.
+~
+218 8 0 0 0 0 255 0
+D0
+The corridor continues on to the north.
+~
+~
+0 -1 21807
+D4
+The stairs lead up.
+~
+~
+0 -1 21802
+S
+#21804
+Inner Entryway~
+With the portcullis raised, this place seems pretty much the same as the 
+entrance with the exception of the murder holes in the ceiling.
+~
+218 8 0 0 0 1 255 0
+D0
+The passage continues north.
+~
+~
+0 -1 21808
+D2
+You see the entrance.
+~
+steel portcullis~
+1 -1 21801
+E
+murder holes~
+You notice the ceiling is riddled with murder holes. It's lucky for you
+nobody is up there.  (Or are they?!?!?)
+~
+S
+#21805
+Corridor~
+You are standing in a short corridor with torch-lined walls.  A stairwell 
+leads up.
+~
+218 8 0 0 0 0 255 0
+D0
+The corridor continues on to the north.
+~
+~
+0 -1 21809
+D4
+The stairs lead up.
+~
+~
+0 -1 21806
+S
+#21806
+Stairway~
+Stairs lead up to a door and down to the ground floor of the keep.  Both 
+sides of the stairwell are lined with torches and a window is built into 
+the south wall.
+~
+218 12 0 0 0 0 255 0
+D2
+There is a window here looking out over the road to the keep.
+~
+~
+0 -1 -1
+D4
+There is a door at the top of the stairs.
+~
+door~
+1 -1 21894
+D5
+The stairs lead down.
+~
+~
+0 -1 21805
+E
+window~
+You see the main camp of Lord Jalek about a half-mile to the south of the 
+keep.
+~
+S
+#21807
+Corridor~
+You are standing in a short corridor.  The walls are lined with torches.
+~
+218 8 0 0 0 0 255 0
+D1
+You see the waiting area.
+~
+door~
+1 -1 21808
+D2
+The corridor continues south to a stairwell.
+~
+~
+0 -1 21803
+S
+#21808
+The Waiting Area~
+There are benches against the east and west walls.  This is obviously where 
+'other-than-noble' visitor are expected to wait for an audience with guard's
+shift-leader.
+~
+218 8 0 0 0 1 255 0
+D0
+You see a door to the north.
+~
+door~
+1 -1 21816
+D1
+There is a door here.
+~
+door~
+1 -1 21809
+D2
+You see the entryway.
+~
+~
+0 -1 21804
+D3
+There is a door.
+~
+door~
+1 -1 21807
+E
+benches~
+These are standard wooden benches.
+~
+S
+#21809
+Corridor~
+You are standing in a short corridor.  The walls are lined with torches.
+~
+218 8 0 0 0 0 255 0
+D2
+The corridor continues south to a stairwell.
+~
+~
+0 -1 21805
+D3
+There is a door to the west.
+~
+door~
+1 -1 21808
+S
+#21810
+Tack Room~
+All through the room is stored the fine saddles and barding of the knights' 
+mounts.  This room and it's contents are cared for in a much better manner 
+than the walkways.
+~
+218 8 0 0 0 0 255 0
+D1
+The door to the debris-filled walkway.
+~
+door~
+1 -1 21811
+S
+#21811
+Walkway~
+This is the walkway in the stables.  Watch where you put your feet so you 
+don't step in something unpleasant.
+~
+218 0 0 0 0 1 255 0
+D0
+The walkway continues north.
+~
+~
+0 -1 21829
+D1
+The walkway continues east.
+~
+~
+0 -1 21812
+D3
+There is a door to the west.
+~
+door~
+1 -1 21810
+S
+#21812
+The Walkway~
+You are on the walkway that runs between the horse stalls.  The floor is 
+covered with hay, dirt and other things that explain the overwhelming stench 
+of the place.
+~
+218 8 0 0 0 0 255 0
+D1
+You see the stable door.
+~
+stable door~
+1 -1 21813
+D3
+You see the walkway between the stalls.
+~
+~
+0 -1 21811
+S
+#21813
+Corner of Basilisk Street and Balrog Boulevard~
+Your standing at a street corner.  Basilisk Street goes east from here and 
+Balrog Boulevard runs to the north.  Stables stand to your west.
+~
+218 0 0 0 0 1 255 0
+D0
+Balrog Boulevard runs north from here.
+~
+~
+0 -1 21827
+D1
+Basilisk Street runs east from here.
+~
+~
+0 -1 21814
+D3
+Stables are to your west.
+~
+stables door~
+1 -1 21812
+S
+#21814
+On Basilisk Street~
+This is the southern most street in the outer keep.  You see blank stone to 
+the north and south and the street continues east and west.
+~
+218 0 0 0 0 1 255 0
+D1
+Basilisk Street continues to the east.
+~
+~
+0 -1 21815
+D3
+You see a street corner to your west.
+~
+~
+0 -1 21813
+S
+#21815
+On Basilisk Street~
+This is the southern most street in the outer keep.  You see blank stone to 
+the north and south and the street continues to the east and west.
+~
+218 0 0 0 0 1 255 0
+D1
+Basilisk Street continues to the east.
+~
+~
+0 -1 21816
+D3
+Basilisk Street continues to the west.
+~
+~
+0 -1 21814
+S
+#21816
+Inside the gate on Basilisk Street~
+You are standing on a cobblestone street that run east and west.  To the north 
+is a door with a sign on it.  To the south is the door to the entrance of the 
+keep.
+~
+218 0 0 0 0 1 255 0
+D0
+You see a door with a sign on it.
+~
+door~
+1 -1 21895
+D1
+Basilisk Street continues to the east.
+~
+~
+0 -1 21817
+D2
+A door.
+~
+door~
+1 -1 21808
+D3
+Basilisk Street continues to the west.
+~
+~
+0 -1 21815
+E
+sign~
+The sign here reads:
+			Sergeant of the Guard
+~
+S
+#21817
+On Basilisk Street~
+This is the southern most street in the outer keep.  You see blank stone to 
+the north and south and the street continues to the east and west.
+~
+218 0 0 0 0 1 255 0
+D1
+Basilisk Street continues to the east.
+~
+~
+0 -1 21818
+D3
+Basilisk street continues to the west.
+~
+~
+0 -1 21816
+S
+#21818
+On Basilisk Street~
+This is the southern most street in the outer keep.  You see blank stone to 
+the north and south and the street continues east and west.
+~
+218 0 0 0 0 1 255 0
+D1
+You see a street corner to your east.
+~
+~
+0 -1 21819
+D3
+Basilisk Street continues to your west.
+~
+~
+0 -1 21817
+S
+#21819
+The corner of Basilisk Street and Gorgon Avenue~
+You are standing at a street corner.  Basilisk Street runs west from here and 
+Gorgon Avenue runs north.  Stables stand to the east.
+~
+218 0 0 0 0 1 255 0
+D0
+Gorgon Avenue continues to the north.
+~
+~
+0 -1 21826
+D1
+You are looking on the stables.
+~
+stables door~
+1 -1 21820
+D3
+Basilisk Street goes west from here.
+~
+~
+0 -1 21818
+S
+#21820
+The Walkway~
+Your at the south end of the stables. Several huge stalls are lined up here 
+and stablehands scurry to take care of the knights' mounts.
+~
+218 8 0 0 0 1 255 0
+D1
+You see the walkway between the stalls.
+~
+~
+0 -1 21821
+D3
+The stable door.
+~
+stable door~
+1 -1 21819
+S
+#21821
+Walkway~
+You are in the aisle between the stalls.  Hay, dirt and 'other' substances 
+litter the floor here.
+~
+218 0 0 0 0 1 255 0
+D0
+The walkway between the stall.
+~
+~
+0 -1 21824
+D1
+You see a door of some kind here.
+~
+door~
+1 -1 21822
+D3
+The walkway.
+~
+~
+0 -1 21820
+S
+#21822
+Tack Room~
+All through the room is stored the fine saddles and barding of the knights' 
+mounts.  This room and it's contents are cared for in a much better manner 
+than the walkways.
+~
+218 8 0 0 0 0 255 0
+D3
+The door to the walkway.
+~
+door~
+1 -1 21821
+S
+#21823
+Horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D3
+A door.
+~
+stall door~
+1 -1 21824
+S
+#21824
+Walkway between the stalls~
+The various debris is piled high in places and the stench is almost unbear-
+able.  Watch your step for fear you will fall and gain that aroma.  There is
+a wooden door to the west and another stall to the east.
+~
+218 0 0 0 0 1 255 0
+D0
+The walkway continues.
+~
+~
+0 -1 21839
+D1
+A horse stall.
+~
+stall door~
+1 -1 21823
+D2
+The nasty walkway.
+~
+~
+0 -1 21821
+D3
+A stall is to the west.
+~
+stall door~
+1 -1 21825
+S
+#21825
+Horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D1
+The stall door.
+~
+stall door~
+1 -1 21824
+S
+#21826
+On Gorgon Avenue~
+This cobblestone way is the eastern most street in the outer keep.  It runs 
+north and south with stone walls to the east and west.
+~
+218 0 0 0 0 1 255 0
+D0
+Gorgon Avenue continues north.
+~
+~
+0 -1 21837
+D2
+The corner of Gorgon and Basilisk.
+~
+~
+0 -1 21819
+S
+#21827
+On Balrog Boulevard~
+This cobblestone lane continues to run north and south with blank stone on 
+either side.
+~
+218 0 0 0 0 1 255 0
+D0
+Balrog continues to the north.
+~
+~
+0 -1 21834
+D2
+A street corner is to the south.
+~
+~
+0 -1 21813
+S
+#21828
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D3
+You see the stall door.
+~
+stall door~
+1 -1 21829
+S
+#21829
+The Walkway~
+The stench of the walkway is nauseating and the reason for the smell is now
+all over your feet.  Gross!
+~
+218 0 0 0 0 1 255 0
+D0
+The stench-filled walkway.
+~
+~
+0 -1 21832
+D1
+A stall is to the east.
+~
+stall door~
+1 -1 21828
+D2
+The walkway.
+~
+~
+0 -1 21811
+D3
+A horse stall is to your west.
+~
+stall door~
+1 -1 21830
+S
+#21830
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D1
+The walkway in the stables.
+~
+stall door~
+1 -1 21829
+S
+#21831
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D1
+The walkway in the stables.
+~
+stall door~
+1 -1 21832
+S
+#21832
+The Walkway~
+The floor here is much cleaner than to the south.  An effort is apparently 
+being made from the north side of the aisle to clear the debris.
+~
+218 0 0 0 0 1 255 0
+D0
+The walkway continues north.
+~
+~
+0 -1 21852
+D1
+A stall is to the east.
+~
+stall door~
+1 -1 21833
+D2
+The filthy walkway.
+~
+~
+0 -1 21829
+D3
+There is a stall to the west.
+~
+stall door~
+1 -1 21831
+S
+#21833
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D3
+You see the walkway in the stables.
+~
+stall door~
+1 -1 21832
+S
+#21834
+On Balrog Boulevard~
+The street continues to the north and south.
+~
+218 0 0 0 0 1 255 0
+D0
+The corner of Balrog Boulevard and Succubus Lane.
+~
+~
+0 -1 21850
+D2
+Balrog Boulevard continues to the south.
+~
+~
+0 -1 21827
+S
+#21835
+The Keep Armory~
+Armor of all types is strewn around this room in a haphazard manner.  It 
+would takes hours to fit one complete suit together.
+~
+218 8 0 0 0 0 255 0
+D0
+The street lies to the north.
+~
+door~
+1 -1 21847
+S
+#21836
+The Weapon Dispensary~
+Weapons of all sizes and shape fill this huge warehouse to nearly over-
+flowing.  The only factor these weapons have in common is their obvious state 
+of disrepair.
+~
+218 8 0 0 0 0 255 0
+D0
+The street is to the north.
+~
+door~
+1 -1 21846
+S
+#21837
+On Gorgon Avenue~
+This street continues to the north and south.
+~
+218 0 0 0 0 1 255 0
+D0
+The corner of Gorgon Avenue and Succubus Lane.
+~
+~
+0 -1 21844
+D2
+Gorgon Avenue continues to the south.
+~
+~
+0 -1 21826
+S
+#21838
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D1
+You see the walkway in the stables.
+~
+stall door~
+1 -1 21839
+S
+#21839
+The Walkway~
+The nastiness of this place has it's greatest concentration here.
+~
+218 0 0 0 0 1 255 0
+D0
+You see the same kind of mess you are standing in.
+~
+~
+0 -1 21842
+D1
+A stall is to the east.
+~
+stall door~
+1 -1 21840
+D2
+The grungy walkway.
+~
+~
+0 -1 21824
+D3
+A stall is to the west.
+~
+stall door~
+1 -1 21838
+S
+#21840
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D3
+The walkway in the stables.
+~
+stall door~
+1 -1 21839
+S
+#21841
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D3
+You see the walkway in the stables.
+~
+stall door~
+1 -1 21842
+S
+#21842
+The Walkway~
+This filthy place is cluttered with all kinds of unspeakable debris.  The
+horses in the stall to the east must have no sense of smell what-so-ever.
+~
+218 0 0 0 0 1 255 0
+D1
+A stall is to the east.
+~
+stall door~
+1 -1 21841
+D2
+The filth continues.
+~
+~
+0 -1 21839
+D3
+A stall is to the west.
+~
+stall door~
+1 -1 21843
+S
+#21843
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D1
+You see the walkway in the stables.
+~
+stall door~
+1 -1 21842
+S
+#21844
+The Intersection of Gorgon Avenue and Succubus Lane~
+Gorgon Avenue continues on to the north and the south while Succubus Lane 
+carries on west from here.
+~
+218 0 0 0 0 1 255 0
+D0
+Gorgon Avenue continues to the north.
+~
+~
+0 -1 21860
+D2
+Gorgon Avenue continues to the south.
+~
+~
+0 -1 21837
+D3
+Succubus Lanes runs west.
+~
+~
+0 -1 21845
+S
+#21845
+On Succubus Lane~
+This street runs east and west.
+~
+218 0 0 0 0 1 255 0
+D1
+The crossing of Gorgon and Succubus.
+~
+~
+0 -1 21844
+D3
+Succubus Lane continues to the west.
+~
+~
+0 -1 21846
+S
+#21846
+On Succubus Lane~
+The street continues to the east and west.  There is a door to the south with 
+a crudely painted sign on it.
+~
+218 0 0 0 0 1 255 0
+D1
+The street continues east.
+~
+~
+0 -1 21845
+D2
+A warehouse of some kind stands here.
+~
+door~
+1 -1 21836
+D3
+The streets continues west.
+~
+~
+0 -1 21847
+E
+sign~
+The sign is a shoddy hand-painted (or perhaps finger-painted?) thing which 
+reads:
+			Weapon-R-Us
+~
+S
+#21847
+On Succubus Lane~
+The lanes continues on.  You notice to the north that what had appeared to be 
+a stone wall for as far east as Gorgon Avenue and west all the way to Balrog 
+Boulevard is actually a huge building and the door is directly north.  To the 
+south is a warehouse with a crudely painted sign on the door.
+~
+218 0 0 0 0 1 255 0
+D0
+A huge building stands here.
+~
+door~
+1 -1 21858
+D1
+The lane continues east.
+~
+~
+0 -1 21846
+D2
+A warehouse stands here.
+~
+door~
+1 -1 21835
+D3
+The lane continues west.
+~
+~
+0 -1 21848
+E
+sign~
+The sign read:
+			Armor-We-Be
+~
+S
+#21848
+On Succubus Lane~
+The cobblestones of the street seem to be in fairly good shape.  Oops!  You 
+just found the only loose stone on the whole block.  You could've sprained 
+something!
+~
+218 0 0 0 0 1 255 0
+D1
+Succubus continues to the east.
+~
+~
+0 -1 21847
+D3
+The street keeps on to the west.
+~
+~
+0 -1 21849
+E
+loose stone cobblestone ground~
+Now that you look, you just can't figure out which stone was loose.
+How strange!
+~
+S
+#21849
+On Succubus Lane~
+The street continues on to the east while to the west is a street crossing.
+~
+218 0 0 0 0 1 255 0
+D1
+Succubus Lane continues east.
+~
+~
+0 -1 21848
+D3
+You see an intersection.
+~
+~
+0 -1 21850
+S
+#21850
+The Intersection of Balrog Boulevard and Succubus Lane~
+These two streets meet here with Succubus Lane running east from here and 
+Balrog going both north and south.
+~
+218 0 0 0 0 1 255 0
+D0
+Balrog Boulevard continues north.
+~
+~
+0 -1 21856
+D1
+Succubus Lanes heads east from here.
+~
+~
+0 -1 21849
+D2
+Balrog Boulevard moves on south.
+~
+~
+0 -1 21834
+S
+#21851
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D3
+You see the walkway in the stables.
+~
+stall door~
+1 -1 21852
+S
+#21852
+The Walkway~
+This is beyond a doubt the starting place for the cleaning.  You can actually 
+spot a greater amount of the floor here.
+~
+218 0 0 0 0 1 255 0
+D1
+A stall is to the east.
+~
+stall door~
+1 -1 21851
+D2
+The walkway continues south.
+~
+~
+0 -1 21832
+D3
+A stall is to the west.
+~
+stall door~
+1 -1 21853
+S
+#21853
+A horse stall~
+This is a large stall that with a divider will house two of the knights'
+mounts.
+~
+218 9 0 0 0 0 255 0
+D1
+You see the walkway in the stables.
+~
+stall door~
+1 -1 21852
+S
+#21854
+Sleeping Quarters~
+Trash and eating utensils clutter the floor of this room.  Unmade beds line 
+the walls of this otherwise unremarkable room.
+~
+218 9 0 0 0 0 255 0
+D1
+You see the door into the common room.
+~
+door~
+1 -1 21855
+D5
+The trapdoor leads down.
+~
+trapdoor~
+1 21821 21872
+E
+trapdoor~
+It is set into the floor and has a handle to raise it with.
+~
+S
+#21855
+Common Room~
+This room is sparsely furnished with nothing more than a card table and four 
+chairs.  Cards, drinks and a few gold coins are still on the table.  Where did 
+the players go?
+~
+218 8 0 0 0 0 255 0
+D1
+The street is to the east.
+~
+door~
+1 -1 21856
+D3
+You see a door.
+~
+door~
+1 -1 21854
+S
+#21856
+On Balrog Boulevard~
+This cobblestone street continues to the north and south.  To the south is an 
+intersection and to the west is a small building.
+~
+218 0 0 0 0 1 255 0
+D0
+The street continues to the north.
+~
+~
+0 -1 21871
+D2
+You see an intersection.
+~
+~
+0 -1 21850
+D3
+You see a door to the west.
+~
+door~
+1 -1 21855
+S
+#21857
+Hallway to the Knights Barracks~
+This softly lit hallway goes north to the Death Knight barracks.
+~
+218 12 0 0 0 0 255 0
+D0
+You see the barracks.
+~
+~
+0 -1 21869
+D1
+The entry foyer.
+~
+~
+0 -1 21858
+S
+#21858
+Knight/Warrior Barracks Foyer~
+You stand in a hallway.  To the east, you see smoke and a great deal of loud 
+swearing.  A crude sign in the eastern hallway labels it as leading to the 
+warriors barracks.  The eastern hallway is labeled as the knights barrack and 
+is very quiet.  In fact, the hallway exudes a solemn morbidity that gives you 
+the shivers.  There is also a door to the north with a sign above it and some 
+stairs lead up.
+~
+218 8 0 0 0 0 255 0
+D0
+The officers barracks.
+~
+door~
+1 -1 21868
+D1
+A hallway.
+~
+~
+0 -1 21859
+D2
+The street outside.
+~
+door~
+1 -1 21847
+D3
+A hallway.
+~
+~
+0 -1 21857
+D4
+Stairs lead up.
+~
+~
+0 -1 21879
+E
+sign~
+The signs reads:
+			   Officer's Quarters
+~
+S
+#21859
+Hallway to the Warriors Barracks~
+Even in the hallway the smoke is so thick it will almost make you choke.  To 
+the north you hear laughing and cussing and the occasional sound of a scuffle.
+~
+218 12 0 0 0 0 255 0
+D0
+The warrior barracks.
+~
+~
+0 -1 21867
+D3
+The entry foyer.
+~
+~
+0 -1 21858
+S
+#21860
+On Gorgon Avenue~
+The street goes north and south.  To the south is an intersection and to the 
+east is a very heavy stone structure.
+~
+218 0 0 0 0 1 255 0
+D0
+The street continues north.
+~
+~
+0 -1 21865
+D1
+To the east is a forbidding stone building.
+~
+door~
+2 21828 21861
+D2
+You see an intersection.
+~
+~
+0 -1 21844
+S
+#21861
+A very dark room~
+This room is very dark even with a light.  Shadows seem to swarm around the 
+room as if they are not being made by anything you can see.  A heavy stone 
+door bars your way to the east.
+~
+218 9 0 0 0 0 255 0
+D1
+There is a heavy stone door to the east.
+~
+heavy stone door~
+2 21823 21862
+D3
+The street outside.
+~
+door~
+2 21828 21860
+S
+#21862
+The Spellcasting Room~
+The walls in this room are burned and scarred from what was obviously very 
+powerful combat spells and the ceiling glows eerily with a light of it's own.
+You also notice the acoustics in this room are not normal.  Your words are 
+swallowed by the air around you as they come out of your mouth.  A large steel 
+ring is set into the floor in the middle of the room and the heavy stone door 
+is to the west.
+~
+218 105 0 0 0 0 255 0
+D3
+A heavy stone door exits to the west.
+~
+heavy stone door~
+2 21823 21861
+D5
+A trapdoor exits down.
+~
+trapdoor~
+1 -1 21863
+E
+steel ring floor large~
+A large, steel ring is set into the floor.  It appears to be a handle.
+~
+S
+#21863
+Magical Storage Room~
+The stair lead down into a HUGE storage room.  All around you on the floor, on 
+shelves and hanging from hooks in the ceiling are magical items that look as 
+if they don't work and probably never did.  A few newer items also clutter the 
+place, maybe some new magical experiments.  In the northeast corner is a 
+contraption which might be the secret 'Mobile Launcher' Digger has been 
+designing.
+~
+218 41 0 0 0 0 255 0
+D4
+The stairs lead up to a trapdoor.
+~
+trapdoor~
+1 -1 21862
+S
+#21864
+Private Chambers~
+The furnishings in this room are of the highest quality to be found.  A solid 
+oak table with expensive, upholstered chairs sits in western end of the room 
+but a huge, exquisitely beautiful four-poster bed dominates the view in this 
+room.
+~
+218 40 0 0 0 0 255 0
+D5
+The stairs lead down.
+~
+door~
+1 -1 21882
+S
+#21865
+On Gorgon Avenue~
+The street continues north and south.
+~
+218 0 0 0 0 1 255 0
+D0
+The street continues.
+~
+~
+0 -1 21881
+D2
+The street continues.
+~
+~
+0 -1 21860
+S
+#21866
+The Warriors Barracks~
+Beds are roughly lined up along the walls while clothes and debris clutter the 
+floor.  The whole place smells of sweat, booze and waste.
+~
+218 8 0 0 0 0 255 0
+D0
+You see the recreation room.
+~
+~
+0 -1 21880
+D3
+You see the rest of the barracks.
+~
+~
+0 -1 21867
+E
+debris trash garbage~
+It all looks like useless refuse.
+~
+S
+#21867
+The Warriors Barracks~
+Beds are roughly lined up along the walls while clothes and debris clutter the 
+floor.  The whole place smells of sweat, booze and waste.
+~
+218 8 0 0 0 0 255 0
+D1
+You see the rest of the barracks.
+~
+~
+0 -1 21866
+D2
+A hallway.
+~
+~
+0 -1 21859
+S
+#21868
+The Officers Barracks~
+Sparse furnishing occupy this room.  Beds are neatly lined along the walls and 
+the floor is devoid of debris.
+~
+218 8 0 0 0 0 255 0
+D0
+The north end of the barracks.
+~
+~
+0 -1 21878
+D2
+The door to the foyer.
+~
+door~
+1 -1 21858
+S
+#21869
+Death Knights Barracks~
+You notice a sudden temperature drop when you walk into this gloomy place.  
+The sleeping cots are perfectly lined along the walls of this room and the 
+cleanliness of it is on the verge of deathly sterility.  There is no 
+decoration whatsoever on any of the walls.
+~
+218 8 0 0 0 0 255 0
+D2
+A hallway.
+~
+~
+0 -1 21857
+D3
+The barracks.
+~
+~
+0 -1 21870
+S
+#21870
+Death Knights Barracks~
+The cots are positioned on the southern and west walls.  The 'coldness' of 
+this half of the barracks is even more noticeable than the eastern half.  
+Still, no decorations adorn the walls.  To the north is a doorway to a dimly 
+lit room.
+~
+218 8 0 0 0 0 255 0
+D0
+A doorway.
+~
+~
+0 -1 21877
+D1
+The barracks.
+~
+~
+0 -1 21869
+S
+#21871
+On Balrog Boulevard~
+The street continues north and south.
+~
+218 0 0 0 0 1 255 0
+D0
+The street continues north.
+~
+~
+0 -1 21876
+D2
+The street continues south.
+~
+~
+0 -1 21856
+S
+#21872
+Torture Room~
+This is obviously where the assassins take the prisoners once they have been 
+turned over for information gathering.  The walls are covered with so many 
+implements of torture your stomach turns.
+~
+218 41 0 0 0 0 255 0
+D4
+A ladder leads up.
+~
+trapdoor~
+1 21821 21854
+E
+ladder~
+You see a sturdy, iron ladder.
+~
+S
+#21873
+Private Chambers~
+The furnishings in this room are of the highest quality to be found.  A solid 
+oak table with expensive, upholstered chairs sits in western end of the room 
+but a huge, golden inlay in the stone of the ceiling above an exquisitely 
+beautiful four-poster bed dominates the view in this room.
+~
+218 40 0 0 0 0 255 0
+D4
+Set into the ceiling is an unholy religious symbol.
+~
+~
+0 -1 -1
+D5
+The stairs lead down.
+~
+door~
+1 -1 21875
+E
+unholy golden inlay religious symbol~
+This beautiful, yet purely evil, monstrosity is the symbol of "She Who Shall
+Remain Nameless".
+~
+S
+#21874
+Clerics Barracks~
+Sleeping cots and unholy symbols are about the only things in this room.  It's 
+the typical sparse furnishings you would expect clergy men to live in.  You 
+also see a doorway to the north.
+~
+218 8 0 0 0 0 255 0
+D0
+You see a door.
+~
+door~
+1 -1 21892
+D1
+The barracks.
+~
+~
+0 -1 21875
+S
+#21875
+Clerics Barracks~
+Sleeping cots and unholy symbols are about the only things in this room.  It's 
+the typical sparse furnishings you would expect clergy men to live in.  The 
+barracks continue on to the west and stairs lead up.
+~
+218 8 0 0 0 0 255 0
+D1
+The door out to the street.
+~
+door~
+1 -1 21876
+D3
+The barracks.
+~
+~
+0 -1 21874
+D4
+The stairs lead to a door.
+~
+door~
+1 -1 21873
+S
+#21876
+On Balrog Boulevard~
+The cobblestone street continues to the south.  To the north is a corner and 
+west of here is a simple stone building.
+~
+218 0 0 0 0 1 255 0
+D0
+The corner of Balrog Boulevard and Orcus Way.
+~
+~
+0 -1 21891
+D2
+Balrog Boulevard continues south.
+~
+~
+0 -1 21871
+D3
+A plain stone building.
+~
+door~
+1 -1 21875
+S
+#21877
+The Death Knight Worship Room~
+This room is darkened and forbidding.  There is no furniture at all here and 
+the floor is covered with blood-red carpet.  A large tapestry hanging against 
+the west wall is the only adornment in this room.
+~
+218 8 0 0 0 0 255 0
+D2
+The knights barracks.
+~
+~
+0 -1 21870
+E
+tapestry wall~
+This beautifully, gruesome piece of art depicts "She Who Shall Remain
+Nameless" in her warrior persona defeating a great host of Solamnic Knights.
+~
+E
+carpet floor~
+This carpet is plush, supposedly for kneeling comfort, and the color of newly 
+spilled blood.
+~
+S
+#21878
+The Officers Barracks~
+Sparse furnishing occupy this room.  Beds are neatly lined along the walls and 
+the floor is devoid of debris.  A large table with chairs around it occupy a 
+space on the north side of the room.
+~
+218 8 0 0 0 0 255 0
+D2
+The south end of the barracks.
+~
+~
+0 -1 21868
+S
+#21879
+The Mess Hall~
+This huge room is filled with long tables for dining.  In the back of the room 
+you see the ovens and cook fires.  Something in this room doesn't smell quite 
+right.
+~
+218 8 0 0 0 0 255 0
+D5
+The stairs lead down.
+~
+~
+0 -1 21858
+E
+fires~
+Pots of unrecognizable, boiling goop are hanging on tripods above the fires.
+~
+E
+ovens~
+Huge brick ovens stand here for cooking.
+~
+S
+#21880
+The Gaming Room~
+This appears to be the recreation room.  Card tables, dicing pits and throwing-
+knife targets are in abundance here.
+~
+218 8 0 0 0 0 255 0
+D2
+The barracks.
+~
+~
+0 -1 21866
+S
+#21881
+On Gorgon Avenue~
+Gorgon continues to the south.  To the north is a street corner and to the 
+east is a large building.
+~
+218 0 0 0 0 1 255 0
+D0
+The corner of Gorgon and Orcus.
+~
+~
+0 -1 21885
+D1
+Steps up to a large building.
+~
+door~
+1 -1 21882
+D2
+Gorgon continues south from here.
+~
+~
+0 -1 21865
+S
+#21882
+The Mages Living Quarters~
+Clerics may live a life of poverty but mages certainly do not.  Very clean and 
+comfortable, all the beds and furniture in the mages' quarters are moderately 
+luxurious.  The carpet on the floor is soft and thick and the temperature in 
+the room is perfectly enjoyable.  This room stretches on east and north and 
+stairs lead up to a door.
+
+~
+218 72 0 0 0 0 255 0
+D0
+The mages' quarters.
+~
+~
+0 -1 21884
+D1
+The mages' quarters.
+~
+~
+0 -1 21883
+D3
+You see the doorway out to the street.
+~
+door~
+1 -1 21881
+D4
+The stairs lead up to a door.
+~
+door~
+1 -1 21864
+S
+#21883
+The Mages Living Quarters~
+Clerics may live a life of poverty but mages certainly do not.  Very clean and 
+comfortable, all the beds and furniture in the mages' quarters are moderately 
+luxurious.  The carpet on the floor is soft and thick and the temperature in 
+the room is perfectly enjoyable.  This room stretches on west.
+~
+218 8 0 0 0 0 255 0
+D3
+The mages' quarters.
+~
+~
+0 -1 21882
+S
+#21884
+The Mages Living Quarters~
+Clerics may live a life of poverty but mages certainly do not.  Very clean and 
+comfortable, all the beds and furniture in the mages' quarters are moderately 
+luxurious.  The carpet on the floor is soft and thick and the temperature in 
+the room is perfectly enjoyable.  This room stretches on south.
+~
+218 8 0 0 0 0 255 0
+D2
+The mages' quarters.
+~
+~
+0 -1 21882
+S
+#21885
+The Corner of Gorgon Avenue and Orcus Way~
+Gorgon Avenue stretches on to the south while Orcus Way spans to the west.
+~
+218 0 0 0 0 1 255 0
+D2
+Gorgon Avenue runs south from here.
+~
+~
+0 -1 21881
+D3
+Orcus Way runs to the west.
+~
+~
+0 -1 21886
+S
+#21886
+On Orcus Way~
+Orcus Way continues east and west from here.
+~
+218 0 0 0 0 1 255 0
+D1
+A street corner.
+~
+~
+0 -1 21885
+D3
+The street continues west from here.
+~
+~
+0 -1 21887
+S
+#21887
+On Orcus Way~
+Orcus Way continues east and west from here.
+~
+218 0 0 0 0 1 255 0
+D1
+The street continues east from here.
+~
+~
+0 -1 21886
+D3
+The street continues west from here.
+~
+~
+0 -1 21888
+S
+#21888
+On Orcus Way~
+To the south is the back of a large building and to the north is the front of 
+an even larger building.  From the ornate door, you would guess you have found 
+Lord Malfor's Mansion.
+~
+218 0 0 0 0 1 255 0
+D0
+The door to the mansion.
+~
+ornate door~
+1 -1 21903
+D1
+The street continues east.
+~
+~
+0 -1 21887
+D2
+This looks like the back of the fighter barracks.
+~
+~
+0 -1 -1
+D3
+The street continues west.
+~
+~
+0 -1 21889
+E
+ornate door~
+This heavy-looking door is plated with gold and has a very intricate coat of 
+arms carved in it.
+~
+S
+#21889
+On Orcus Way~
+The street continues on to the east and west.
+~
+218 0 0 0 0 1 255 0
+D1
+The street continues to the east.
+~
+~
+0 -1 21888
+D3
+The street continues to the west.
+~
+~
+0 -1 21890
+S
+#21890
+On Orcus Way~
+The street continues to the east and to the west is a street corner.
+~
+218 0 0 0 0 1 255 0
+D1
+The street continues to the east.
+~
+~
+0 -1 21889
+D3
+A street corner.
+~
+~
+0 -1 21891
+S
+#21891
+The Corner of Balrog Boulevard and Orcus Way~
+Balrog and Orcus meet here. Balrog goes south form here and Orcus stretches to 
+the east.
+~
+218 0 0 0 0 1 255 0
+D1
+Orcus Way.
+~
+~
+0 -1 21890
+D2
+Balrog Boulevard.
+~
+~
+0 -1 21876
+S
+#21892
+The Altar Room~
+The room smells of death.  The floors and walls are stone and the ceiling 
+cannot be seen.  South appears to be the only exit.
+~
+218 8 0 0 0 0 255 0
+D2
+A door.
+~
+door~
+1 -1 21874
+S
+#21893
+Top of the Guard Tower~
+Stacks of missile objects are on the floor and torches ring the tower walls. 
+Crenelations allow the guards to see the enemy without being seen.
+~
+218 0 0 0 0 1 255 0
+D1
+You can see the other tower.
+~
+~
+0 -1 -1
+D2
+You see the main camp of Lord Jalek about a half-mile to the south of the 
+keep.
+~
+~
+0 -1 -1
+D3
+You see the forest.
+~
+~
+0 -1 -1
+D5
+You see the door to the stairs.
+~
+door~
+1 -1 21802
+S
+#21894
+Top of the Guard Tower~
+Stacks of missile objects are on the floor and torches ring the tower walls. 
+Crenelations allow the guards to see the enemy without being seen.
+~
+218 0 0 0 0 1 255 0
+D1
+You see the forest.
+~
+~
+0 -1 -1
+D2
+You see the main camp of Lord Jalek about a half-mile to the south of the 
+keep.
+~
+~
+0 -1 -1
+D3
+You see the other tower.
+~
+~
+0 -1 -1
+D5
+The door to the stairs.
+~
+door~
+1 -1 21806
+S
+#21895
+Guard Office~
+This is a very simple office with a single desk and chair.  On the wall is the 
+duty roster.
+~
+218 8 0 0 0 0 255 0
+D2
+The door to the street.
+~
+door~
+1 -1 21816
+E
+duty roster~
+It's unreadable to you.
+~
+S
+#21896
+ASSASSIN MOB CHUTE~
+Empty~
+218 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21813
+D1
+~
+~
+0 -1 21819
+D2
+~
+~
+0 -1 21885
+D3
+~
+~
+0 -1 21891
+S
+#21897
+INFANTRYMAN MOB CHUTE~
+Empty~
+218 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21834
+D1
+~
+~
+0 -1 21837
+D2
+~
+~
+0 -1 21865
+D3
+~
+~
+0 -1 21871
+D4
+~
+~
+0 -1 21889
+S
+#21898
+DEATH KNIGHT MOB CHUTE~
+Empty~
+218 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 21816
+D1
+~
+~
+0 -1 21832
+D2
+~
+~
+0 -1 21842
+D3
+~
+~
+0 -1 21846
+D4
+~
+~
+0 -1 21887
+S
+#21900
+Credits Room~
+This is the actual living area of Malfor in 'The Siege of Malfor's Keep'
+created by Joe Hunter.
+~
+218 572 0 0 0 0 255 0
+S
+#21901
+Receptionist's Office~
+This room is the office of Malfor's secretary.  It is provisioned with all
+the things you would expect to find in an office.  The secretary's desk is
+along the west wall, a filing cabinet is beside it and various plants and
+pictures are all over the room.
+~
+218 8 0 0 0 0 255 0
+D0
+There is a door to the north.
+~
+door~
+1 -1 21909
+D1
+The hallway is to the east.
+~
+~
+0 -1 21902
+S
+#21902
+Hallway~
+You are standing in a dimly lit hallway.
+~
+218 8 0 0 0 0 255 0
+D0
+You see a door to the north.
+~
+door~
+1 -1 21908
+D1
+The entryway is to the east.
+~
+~
+0 -1 21903
+D3
+There is an office to the west.
+~
+~
+0 -1 21901
+S
+#21903
+The Entryway~
+This is the entryway into Malfor's home.  There is a coatrack to your left if
+you wish to leave any of your apparel here.
+~
+218 12 0 0 0 0 255 0
+D0
+A hallway leads to the north.
+~
+~
+0 -1 21907
+D1
+You see the sitting room to the east.
+~
+~
+0 -1 21904
+D2
+You see a door.
+~
+ornate door~
+1 -1 21888
+D3
+There is a hallway to the west.
+~
+~
+0 -1 21902
+S
+#21904
+Sitting Room~
+This is where Malfor's visitors wait when they seek an audience.  There are
+comfortable benches here for them to relax in while they wait.
+~
+218 8 0 0 0 0 255 0
+D0
+You see the ballroom.
+~
+~
+0 -1 21906
+D1
+You see the trophy room.
+~
+~
+0 -1 21905
+D3
+You see the entryway.
+~
+~
+0 -1 21903
+S
+#21905
+The Trophy Room.~
+Obviously, Lord Malfor enjoys hunting in his spare time.  This room contains
+trophies of many different hunting expeditions for many different types of
+game.  In the far northeast corner are even a few human trophies.  Malfor
+must be a cold, ruthless man.
+~
+218 8 0 0 0 0 255 0
+D3
+The sitting room is the the west.
+~
+~
+0 -1 21904
+S
+#21906
+The Ballroom~
+This is one of the most decedently beautiful ballrooms you've ever seen.  The
+dance floor is polished to a high gloss and the stage area is one of the best.
+After the siege is successful or broken, you may want to return to this place
+for some sort of social gathering.
+~
+218 8 0 0 0 0 255 0
+D0
+To the north you see the banquet hall.
+~
+~
+0 -1 21913
+D2
+To the south you see the sitting room.
+~
+~
+0 -1 21904
+S
+#21907
+A hallway.~
+You are standing in a hallway.
+~
+218 8 0 0 0 0 255 0
+D0
+The hallway continues north.
+~
+~
+0 -1 21912
+D2
+The entryway is to the south.
+~
+~
+0 -1 21903
+S
+#21908
+The Castellan's Office~
+This is the office of the man who is Malfor's right-hand in business matters.
+It is very smartly furnished with a desk, chairs and a loveseat.
+~
+218 8 0 0 0 0 255 0
+D2
+You see the door out to the hallway.
+~
+door~
+1 -1 21902
+S
+#21909
+Malfor's Office~
+This room is luxuriously furnished with matching iron-wood pieces.  No
+expense was spared when Malfor picked out his office furnishings.  His desk
+sits in the middle of the room facing south.
+~
+218 8 0 0 0 0 255 0
+D0
+You see a door.
+~
+door~
+1 -1 21910
+D2
+You see the door to the secretary's office.
+~
+door~
+1 -1 21901
+S
+#21910
+Conference Room~
+With the size of the table occupying the center of the room, this can only be
+the conference room.  This huge table, also of iron-wood, will seat at least
+15 people.
+~
+218 8 0 0 0 0 255 0
+D0
+You see nothing special there....
+~
+secret~
+2 21820 21916
+D2
+The door to Malfor's office.
+~
+door~
+1 -1 21909
+S
+#21911
+The Library~
+Malfor must be quite a literature nut.  Thousands of books are housed in this
+enormous room.  Catalogued precisely are titles that most people think no
+longer exist.
+~
+218 8 0 0 0 0 255 0
+D1
+The doorway to the hall.
+~
+door~
+1 -1 21912
+S
+#21912
+The hallway~
+You are standing in a hallway.
+~
+218 8 0 0 0 0 255 0
+D0
+The hallway continues north.
+~
+~
+0 -1 21915
+D2
+The hallway continues south.
+~
+~
+0 -1 21907
+D3
+You see a door to the west.
+~
+door~
+1 -1 21911
+S
+#21913
+The Banquet Hall~
+This room is truly gorgeous.  A dozen different table tables are arranged
+perfectly around a huge iron-wood table that stands in the center of the
+room.  It's a shame this siege has put a halt to all of Malfor's dinner
+parties.  They are surely breathtaking to behold.
+~
+218 8 0 0 0 0 255 0
+D0
+You see a door to the north.
+~
+door~
+1 -1 21914
+D2
+The ballroom is to the south.
+~
+~
+0 -1 21906
+S
+#21914
+The Kitchen~
+This is one of the largest kitchens you have ever seen.  It will surely
+accommodate enough food to serve twice the occupancy of the banquet hall.  A
+small army could be fed from a kitchen this size.
+~
+218 8 0 0 0 0 255 0
+D0
+You see a door to the north.
+~
+door~
+1 -1 21921
+D2
+There is a door to the south.
+~
+door~
+1 -1 21913
+S
+#21915
+A hallway.~
+You are standing in a hallway.
+~
+218 8 0 0 0 0 255 0
+D0
+You see some stairs to the north.
+~
+~
+0 -1 21920
+D2
+The hall continues south.
+~
+~
+0 -1 21912
+S
+#21916
+Secret Room~
+This small room is dark and musty.  The only thing in it is a chest against 
+the west wall and there is a door to the north.
+~
+218 41 0 0 0 0 255 0
+D0
+There is a door here.
+~
+door~
+1 -1 21919
+D2
+You see nothing special there....
+~
+secret~
+2 21820 21910
+S
+#21917
+Dark Passage~
+You are in a roughly hewn passage.  It is very dark and smells of moist 
+earth.  A ladder going up is fixed to the west wall.
+~
+218 41 0 0 0 0 255 0
+D1
+This passage continues to the east.
+~
+~
+0 -1 21918
+D4
+The ladder leads up to a trapdoor.
+~
+trapdoor~
+1 -1 22051
+S
+#21918
+Dark Passage~
+You are in a roughly hewn passage.  It is very dark and smells of moist 
+earth.  Stairs lead up into the darkness above.
+~
+218 41 0 0 0 0 255 0
+D3
+The passage continues west.
+~
+~
+0 -1 21917
+D4
+The stairs climb to a door above.
+~
+door~
+1 -1 21919
+S
+#21919
+A Darkened Staircase~
+You are on a dark stairwell.  There is doors to the north, east, south and 
+also one in the floor.
+~
+218 41 0 0 0 0 255 0
+D0
+You see a door here.
+~
+door~
+1 -1 21949
+D2
+There is a door to the south.
+~
+door~
+1 -1 21916
+D4
+The stairs lead up into darkness.
+~
+~
+0 -1 21934
+D5
+A door leads down.
+~
+door~
+1 -1 21918
+S
+#21920
+Stairs~
+A simple staircase travels up to the next floor and the door to the cellar
+is set in the floor.
+~
+218 8 0 0 0 0 255 0
+D2
+A hallway is to the south.
+~
+~
+0 -1 21915
+D4
+The stairs climb up to the next floor.
+~
+~
+0 -1 21936
+D5
+The door leading down to the cellar.
+~
+door~
+1 -1 21951
+S
+#21921
+The Servants' Quarters~
+Simple cots and stand-up locker serve as bed and storage for Malfor's housing
+staff.
+~
+218 8 0 0 0 0 255 0
+D2
+The door to the kitchen.
+~
+door~
+1 -1 21914
+S
+#21922
+Council Chambers~
+A large table and five chairs set in the middle of this room.  From the maps 
+and miniature figures on the table, it is obvious this is where Malfor and 
+his colleagues have been planning their strategies concerning the siege.
+~
+218 168 0 0 0 0 255 0
+D0
+There is a door to the north.
+~
+heavy oak door~
+1 -1 21923
+S
+#21923
+Sentry Post~
+Torches on the wall keep this short extension of the hallway brightly lit.
+A heavy oak door prevents you from going any farther south.
+~
+218 8 0 0 0 0 255 0
+D0
+The hallway stretches to the north.
+~
+~
+0 -1 21926
+D2
+You see a heavy oak door.
+~
+heavy oak door~
+1 -1 21922
+S
+#21924
+A Vacant Room~
+This is a modestly furnished room.  All of the furniture is of high quality, 
+but there is little of it.  You see a bed, a writing desk and a small table 
+with two chairs.  
+~
+218 8 0 0 0 0 255 0
+D1
+The door to the hallway.
+~
+door~
+1 -1 21925
+S
+#21925
+A Short Hallway~
+You are in a short hallway.  To the east is the main hallway and to the west
+is a door.
+~
+218 8 0 0 0 0 255 0
+D1
+You see a wide hallway.
+~
+~
+0 -1 21926
+D3
+You see a door.
+~
+door~
+1 -1 21924
+S
+#21926
+Hallway~
+You are standing in a wide hallway.  You see passages to the east and west
+and to the south you see a guard point.
+~
+218 8 0 0 0 0 255 0
+D0
+The hallway continues north.
+~
+~
+0 -1 21931
+D1
+There is a passage to the east.
+~
+~
+0 -1 21927
+D2
+You see a guard point
+~
+~
+0 -1 21923
+D3
+There is a passage to the west.
+~
+~
+0 -1 21925
+S
+#21927
+A Short Hallway~
+You are in a short hallway.  To the west is the main hallway and to the east
+is a door.
+~
+218 8 0 0 0 0 255 0
+D1
+There is a door to the east.
+~
+door~
+1 -1 21928
+D3
+The main hallway is to the west.
+~
+~
+0 -1 21926
+S
+#21928
+Ssirak's Quarters~
+The furnishing in this room border on decedent.  It is all very elaborately, 
+and finely crafted.  The room itself is an oddity.  It seems capable of 
+comfortably holding far more furniture than it should be able to.
+~
+218 8 0 0 0 0 255 0
+D3
+You see a door to the west.
+~
+door~
+1 -1 21927
+S
+#21929
+A Vacant Room~
+This room is decorated with an incredible amount of gold and expensive stone
+works as well as masterful paintings of scenes of depravity.  It's obvious
+the ways of evil have their advantages.
+~
+218 8 0 0 0 0 255 0
+D3
+You see a door.
+~
+door~
+1 -1 21930
+S
+#21930
+A Short Hallway~
+You are in a short hallway.  To the west is the main hallway and to the east
+is a door.
+~
+218 8 0 0 0 0 255 0
+D1
+There is a door here.
+~
+door~
+1 -1 21929
+D3
+You see the main hallway.
+~
+~
+0 -1 21931
+S
+#21931
+Hallway~
+You are standing in a wide hallway.  You see short passages to the east and 
+west and to the north are stairs.
+~
+218 8 0 0 0 0 255 0
+D0
+You see stairs to the north.
+~
+~
+0 -1 21936
+D1
+You see a passage to the east.
+~
+~
+0 -1 21930
+D2
+The hallway continues south.
+~
+~
+0 -1 21926
+D3
+There is a short passage to the west.
+~
+~
+0 -1 21932
+S
+#21932
+A Short Hallway~
+You are in a short hallway.  To the east is the main hallway and to the west
+is a door.
+~
+218 8 0 0 0 0 255 0
+D1
+You see a wide hallway.
+~
+~
+0 -1 21931
+D3
+You see a door to the west.
+~
+door~
+1 -1 21933
+S
+#21933
+Krass' Quarters~
+The furnishings in this room are very sturdy but hold little for the eye to 
+enjoy.  A bed and a desk and chair are the only furniture here.  This room
+was never intended to be anything more than functional.
+~
+218 8 0 0 0 0 255 0
+D1
+There is a door.
+~
+door~
+1 -1 21932
+S
+#21934
+A Darkened Staircase~
+You are in a dark stairwell leading up and down.
+~
+218 41 0 0 0 0 255 0
+D4
+The stairs lead up into darkness.
+~
+~
+0 -1 21946
+D5
+The stairs go down into darkness.
+~
+~
+0 -1 21919
+S
+#21935
+The Tower Stairs~
+You are standing at the bottom of the stairs leading up to the northwest
+tower.  The main stairwell is to your east.
+~
+218 8 0 0 0 0 255 0
+D1
+The main stairs are to the east.
+~
+~
+0 -1 21936
+D4
+The stairs lead up to the tower.
+~
+door~
+1 -1 21945
+S
+#21936
+Stairs~
+You are standing in front of a staircase going to the floor above and below.
+Passages branch east, south and west from here.
+~
+218 8 0 0 0 0 255 0
+D1
+To the east is the tower stairs.
+~
+~
+0 -1 21937
+D2
+You see a wide hallway.
+~
+~
+0 -1 21931
+D3
+To the west is the tower stairs.
+~
+~
+0 -1 21935
+D4
+The stairs lead up to the floor above.
+~
+~
+0 -1 21947
+D5
+The stairs go down to the floor below.
+~
+~
+0 -1 21920
+S
+#21937
+The Tower Stairs~
+You are standing at the bottom of the stairs leading up to the northeast 
+tower.  The main stairwell is to your west.
+~
+218 8 0 0 0 0 255 0
+D3
+The main stairwell is to the west.
+~
+~
+0 -1 21936
+D4
+The stairs lead to the tower.
+~
+door~
+1 -1 21948
+S
+#21938
+The Sitting Room~
+You are in a finely decorated sitting room.  The tables, chairs and sofa are
+all beautifully crafted in a matching pattern the tastefully portrays wealth.
+~
+218 8 0 0 0 0 255 0
+D0
+The wardrobe is to the north.
+~
+~
+0 -1 21944
+D1
+There is a door to the east.
+~
+door~
+1 -1 21939
+S
+#21939
+Hallway~
+You are standing in a hallway.  To the west is a door and the hall continues
+east.
+~
+218 12 0 0 0 0 255 0
+D1
+The hall continues east.
+~
+~
+0 -1 21940
+D3
+You see a door.
+~
+door~
+1 -1 21938
+S
+#21940
+Hallway~
+You are standing in a hallway.  The hall continues to the north and west.
+~
+218 8 0 0 0 0 255 0
+D0
+The hall continues north.
+~
+~
+0 -1 21950
+D3
+The hall continues west.
+~
+~
+0 -1 21939
+S
+#21941
+Guest Room~
+You are standing in what is obviously a guest room.  It shows no signs of
+being in use at this time but from the clothes in the closet most of Malfor's
+guest are probably women.
+~
+218 8 0 0 0 0 255 0
+D3
+There is a door.
+~
+door~
+1 -1 21942
+S
+#21942
+Hallway~
+You are standing in a hallway.  To the east is a door and the hall continues
+to the west.
+~
+218 8 0 0 0 0 255 0
+D1
+There is a door.
+~
+door~
+1 -1 21941
+D3
+The hall continues west.
+~
+~
+0 -1 21950
+S
+#21943
+Malfor's Bedroom~
+A bed and nightstand are the only furnishings in this room.  They match the 
+rest of the furniture in his suite.
+~
+218 8 0 0 0 0 255 0
+D0
+You see nothing special there....
+~
+secret~
+1 21820 21946
+D3
+You see the wardrobe.
+~
+~
+0 -1 21944
+S
+#21944
+Dressing Room~
+This room is devoted entirely to clothing.  There is apparel here for every
+occasion but it's obvious Malfor prefers to wear black.
+~
+218 8 0 0 0 0 255 0
+D1
+You see a bedroom.
+~
+~
+0 -1 21943
+D2
+You see the sitting room.
+~
+~
+0 -1 21938
+S
+#21945
+The Northwest Tower~
+This tower looks out over the forest north of the keep.  If you look with a 
+eye, you can see Lord Jalek's forces spread out to the north.
+~
+218 0 0 0 0 1 255 0
+D5
+The door to the tower stairs.
+~
+door~
+1 -1 21935
+S
+#21946
+Hidden Room~
+This is Lord Malfor's bolt-hole.  Should the battle ever be lost, the stairs
+leading down is the route he'll take to safety.
+~
+218 41 0 0 0 0 255 0
+D2
+You see nothing special there....
+~
+secret~
+1 21820 21943
+D5
+Stairs lead down into darkness.
+~
+~
+0 -1 21934
+S
+#21947
+Stairs~
+You stand at the top of the stairs.  The stairs go down to the floor below 
+and a passage goes off to the south.
+~
+218 8 0 0 0 0 255 0
+D2
+The hall travels south.
+~
+~
+0 -1 21950
+D5
+The stairs lead down to the floor below.
+~
+~
+0 -1 21936
+S
+#21948
+The Northeast Tower~
+This tower looks out over the forest north of the keep.  If you look with a 
+eye, you can see Lord Jalek's forces spread out to the north.
+~
+218 0 0 0 0 1 255 0
+D5
+The door to the tower stairs.
+~
+door~
+1 -1 21937
+S
+#21949
+A Darkened Room~
+Too late!  A bolt of lightning as big around as a tree just hit you in the 
+center of the chest.  You've fallen into the trap set by Malfor to discourage 
+pursuit in case he must ever flee.  
+~
+218 155 0 0 0 0 255 0
+D2
+There is a door to the south.
+~
+door~
+1 -1 21919
+S
+#21950
+Hallway~
+You are standing in a hallway.  To the north is a staircase and the hall 
+continues east and south.
+~
+218 8 0 0 0 0 255 0
+D0
+You see stairs to the north.
+~
+~
+0 -1 21947
+D1
+The hall continues east.
+~
+~
+0 -1 21942
+D2
+The hall continues south.
+~
+~
+0 -1 21940
+S
+#21951
+The Wine Cellar~
+You are standing in a dark, cool wine cellar.  The smell of the earth is
+strong here.
+~
+218 41 0 0 0 0 255 0
+D4
+You see the door up to the ground floor.
+~
+door~
+1 -1 21920
+S
+#22000
+Credits Room~
+This area is of the force laying siege to Malfor's Keep.  Created by Joe 
+Hunter.
+~
+218 572 0 0 0 0 255 0
+S
+#22001
+The Keep Road~
+Here again the forces of good and evil are clashing. In order to
+prevent Lord Malfor from sending assistance to his allies in Dargaard 
+Keep, the forces of Krynn have initiated a flanking movement against
+Lord Malfor's Keep. You are standing on a road that leads north 
+towards the keep and south leads away.
+~
+218 0 0 0 0 1 255 0
+D0
+The road continues north.
+~
+~
+0 -1 22002
+D2
+the road continues south.
+~
+~
+0 -1 3998
+S
+#22002
+The Keep Road~
+You are on the road to the keep.  To the east is a trail leading to a large 
+military camp and the road continues north and south.
+~
+218 0 0 0 0 1 255 0
+D0
+The road continues north.
+~
+~
+0 -1 22012
+D1
+The trail moves east toward the camp.
+~
+~
+0 -1 22003
+D2
+The road continues south.
+~
+~
+0 -1 22001
+S
+#22003
+The Trail Toward Camp~
+You are on a wide trail cut through the trees.  East of here are the tents of 
+a large force.
+~
+218 0 0 0 0 2 255 0
+D1
+The military encampment.
+~
+~
+0 -1 22004
+D3
+The road to the keep is west of here.
+~
+~
+0 -1 22002
+S
+#22004
+The Trail Toward Camp~
+You are on a narrow trail cut into the woods.  To the north and south is
+thick forest.  The trail continues eat and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail continues east.
+~
+~
+0 -1 22005
+D3
+The trail continues west.
+~
+~
+0 -1 22003
+S
+#22005
+The Trail Toward Camp~
+You are on a narrow trail cut into the woods.  To the north and south is
+thick forest.  The trail continues eat and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail continues east.
+~
+~
+0 -1 22006
+D3
+The trail continues west.
+~
+~
+0 -1 22004
+S
+#22006
+The Trail Toward Camp~
+You are on a narrow trail cut through the woods.  To the southeast is a large
+pavilion tent.  The trail goes on to the east and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail continues east.
+~
+~
+0 -1 22007
+D3
+The trail continues west.
+~
+~
+0 -1 22005
+S
+#22007
+The Trail Through Camp~
+You are on the fringes of the camp.  A huge tent sets off to the south and
+the trail continues east and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail through camp.
+~
+~
+0 -1 22008
+D2
+You see a large tent to the south.
+~
+flap~
+1 -1 22028
+D3
+The trail continues west.
+~
+~
+0 -1 22006
+S
+#22008
+The Trail Through Camp~
+You are walking the trail through camp.  The trail bends to the north here
+and there are tents to the east and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail leads north.
+~
+~
+0 -1 22011
+D1
+You see a tent to the east.
+~
+flap~
+1 -1 22009
+D2
+You see a large tent to the south.
+~
+flap~
+1 -1 22025
+D3
+The trail continues west.
+~
+~
+0 -1 22007
+S
+#22009
+Soldier's Tent~
+You are in a common issue tent.  The only things in it are a pair of cots.
+~
+218 0 0 0 0 0 255 0
+D3
+A trail is to the west.
+~
+flap~
+1 -1 22008
+S
+#22010
+Soldier's Tent~
+You are in a common issue tent.  The only things in it are a pair of cots.
+~
+218 0 0 0 0 0 255 0
+D3
+A trail is to the west.
+~
+flap~
+1 -1 22011
+S
+#22011
+The Trail Through Camp~
+You are on a narrow trail.  You see that it continues to the north and south
+and there is a tent to the east.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail through camp.
+~
+~
+0 -1 22026
+D1
+There is a tent to the east.
+~
+flap~
+1 -1 22010
+D2
+The trail through camp.
+~
+~
+0 -1 22008
+S
+#22012
+The Keep Road~
+You are on the road to the keep.  To the southeast is a trail leading to a 
+large military camp and the road continues north and south.
+~
+218 0 0 0 0 1 255 0
+D0
+The road to the keep.
+~
+~
+0 -1 22019
+D2
+The road goes away from the keep.
+~
+~
+0 -1 22002
+S
+#22013
+A Clearing in the Woods~
+You are standing in the southeast corner of a clearing in the forest.  The
+trees around the clearing are quite tall so they provide excellent shade and
+cover during the daylight.
+~
+218 0 0 0 0 2 255 0
+D0
+You see the trail around the keep.
+~
+~
+0 -1 22016
+D3
+You see smoke to the west.
+~
+~
+0 -1 22014
+S
+#22014
+A Clearing in the Woods~
+You are standing in the southwest corner of this clearing.  There is a
+campfire kept burning here for warmth and light.
+~
+218 0 0 0 0 2 255 0
+D0
+The clearing extends to the north.
+~
+~
+0 -1 22015
+D1
+The clearing extends to the east.
+~
+~
+0 -1 22013
+S
+#22015
+A Clearing in the Woods~
+You are standing in the northwest corner of this clearing.  The trees around
+the clearing are quite tall so they provide excellent shade and cover during
+the daylight.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22016
+D2
+The clearing extends to the south.
+~
+~
+0 -1 22014
+S
+#22016
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues north and east and you see a large clearing to the
+southwest.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail continues north.
+~
+~
+0 -1 22030
+D1
+The trail continues east.
+~
+~
+0 -1 22017
+D2
+You see a clearing to the south.
+~
+~
+0 -1 22013
+D3
+You see a clearing to the west.
+~
+~
+0 -1 22015
+S
+#22017
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22018
+D3
+The trail around the keep.
+~
+~
+0 -1 22016
+S
+#22018
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues west and you can see the main road to the east.
+~
+218 0 0 0 0 2 255 0
+D1
+The main road to the keep.
+~
+~
+0 -1 22019
+D3
+The trail around the keep.
+~
+~
+0 -1 22017
+S
+#22019
+Outside the Keep~
+You are standing outside the keep.  To the north of you, the road changes
+from a level dirt road to being paved with brick.  Ahead of you to the north
+you can make out the gate and a narrow dirt trail through the forest extends
+to the east and west
+~
+218 0 0 0 0 1 255 0
+D0
+To the north you see the entrance to the keep.
+~
+~
+0 -1 21801
+D1
+A narrow trail cut through the trees.
+~
+~
+0 -1 22020
+D2
+The road goes south away from the keep.
+~
+~
+0 -1 22012
+D3
+A narrow trail cut through the trees.
+~
+~
+0 -1 22018
+S
+#22020
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and you can see the main road to the west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22021
+D3
+You see the main road to the west.
+~
+~
+0 -1 22019
+S
+#22021
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22022
+D3
+The trail around the keep.
+~
+~
+0 -1 22020
+S
+#22022
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22023
+D3
+The trail around the keep.
+~
+~
+0 -1 22021
+S
+#22023
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22024
+D3
+The trail around the keep.
+~
+~
+0 -1 22022
+S
+#22024
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail bends to the north and continues east and west.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22029
+D1
+The trail through the camp.
+~
+~
+0 -1 22026
+D3
+The trail around the keep.
+~
+~
+0 -1 22023
+S
+#22025
+A Large Tent~
+You are standing in a large tent that must belong to Solice, Lord Jalek's
+spiritual advisor.  It is very clean and neat.  A small field altar rests in
+the corner.
+~
+218 0 0 0 0 0 255 0
+D0
+The trail through the camp.
+~
+flap~
+1 -1 22008
+E
+field altar~
+This is a common looking field altar used by clerics for worship services
+stays in the field.
+~
+S
+#22026
+The Trail Through Camp~
+You are standing on a narrow path.  It continues south and west and you see a
+tent to the east.
+~
+218 0 0 0 0 2 255 0
+D1
+There is a tent to the east.
+~
+flap~
+1 -1 22027
+D2
+The trail continues south.
+~
+~
+0 -1 22011
+D3
+The trail continues west.
+~
+~
+0 -1 22024
+S
+#22027
+Soldier's Tent~
+You are in a common issue tent.  The only things in it are a pair of cots.
+~
+218 0 0 0 0 0 255 0
+D3
+A trail is to the west.
+~
+flap~
+1 -1 22026
+S
+#22028
+The Main Pavilion~
+This huge tent serves as both sleeping quarters and headquarters for Lord 
+Jalek.  There is one lone cot set up in the southeastern corner.  The rest 
+of the tent is devoted to tables, maps and plans set up by Lord Jalek and his 
+officers.
+~
+218 0 0 0 0 0 255 0
+D0
+A trail through the camp is to the north.
+~
+flap~
+1 -1 22007
+S
+#22029
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22034
+D2
+The trail around the keep.
+~
+~
+0 -1 22024
+S
+#22030
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22031
+D2
+The trail around the keep.
+~
+~
+0 -1 22016
+S
+#22031
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south and you see a small opening in the 
+trees to the east.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22036
+D1
+A small clearing.
+~
+~
+0 -1 22032
+D2
+The trail around the keep.
+~
+~
+0 -1 22030
+S
+#22032
+A Small Clearing~
+You are standing in a small clearing in the trees.  Looking east through the 
+trees you notice you have an excellent view of the southern towers without 
+risking exposure.
+~
+218 0 0 0 0 3 255 0
+D3
+The trail around the keep.
+~
+~
+0 -1 22031
+S
+#22033
+A Small Clearing~
+You are standing in a small clearing in the trees.  Looking west through the 
+trees you notice you have an excellent view of the southern towers without 
+risking exposure.
+~
+218 0 0 0 0 3 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22034
+S
+#22034
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south and you see a small opening in the 
+trees to the west.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22035
+D2
+The trail around the keep.
+~
+~
+0 -1 22029
+D3
+A small clearing.
+~
+~
+0 -1 22033
+S
+#22035
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22039
+D2
+The trail around the keep.
+~
+~
+0 -1 22034
+S
+#22036
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22038
+D2
+The trail around the keep.
+~
+~
+0 -1 22031
+S
+#22037
+A Small Clearing~
+You are standing in a small clearing.  There is a campfire burning here for 
+warmth and light.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22038
+S
+#22038
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south and you see a small clearing to 
+the west.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22043
+D2
+The trail around the keep.
+~
+~
+0 -1 22036
+D3
+A small clearing.
+~
+~
+0 -1 22037
+S
+#22039
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south and you see a small clearing to 
+the east.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22041
+D1
+A small clearing.
+~
+~
+0 -1 22040
+D2
+The trail around the keep.
+~
+~
+0 -1 22035
+S
+#22040
+A Small Clearing~
+You are standing in a small clearing.  There is a campfire burning here for 
+warmth and light.
+~
+218 0 0 0 0 2 255 0
+D3
+The trail around the keep.
+~
+~
+0 -1 22039
+S
+#22041
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22047
+D2
+The trail around the keep.
+~
+~
+0 -1 22039
+S
+#22042
+A Small Open Area~
+You are standing in a small clearing.  The whole area is no more than 10 foot 
+wide in any direction.
+~
+218 0 0 0 0 3 255 0
+D0
+Another clearing is to the north.
+~
+dead branches~
+1 -1 22046
+S
+#22043
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22044
+D2
+The trail around the keep.
+~
+~
+0 -1 22038
+S
+#22044
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south and you see a small opening in the 
+trees to the east.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22052
+D1
+A small clearing.
+~
+~
+0 -1 22045
+D2
+The trail around the keep.
+~
+~
+0 -1 22043
+S
+#22045
+A Small Clearing~
+You are standing in a small clearing in the trees.  Looking east through the 
+trees you notice you have an excellent view of the western wall without 
+risking exposure.  Some dead branches hide what may be an clearing to the 
+north.
+~
+218 0 0 0 0 3 255 0
+D0
+It is difficult to tell what is there.
+~
+dead branches~
+1 -1 22051
+D3
+The trail around the keep.
+~
+~
+0 -1 22044
+S
+#22046
+A Small Clearing~
+You are standing in a small clearing in the trees.  Looking east through the 
+trees you notice you have an excellent view of the western wall without 
+risking exposure.  Some dead branches hide what may be an clearing to the 
+south.
+~
+218 0 0 0 0 3 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22047
+D2
+It is difficult to tell what is there.
+~
+dead branches~
+1 -1 22042
+S
+#22047
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south and you see a small opening in the 
+trees to the west.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22050
+D2
+The trail around the keep.
+~
+~
+0 -1 22041
+D3
+You see a small clearing.
+~
+~
+0 -1 22046
+S
+#22048
+The End of the Clearing~
+You are standing in the eastern end of this clearing.  A campfire burns to 
+the west and trees surround you on all other sides.
+~
+218 0 0 0 0 2 255 0
+D3
+A campfire burns to the west.
+~
+~
+0 -1 22049
+S
+#22049
+A Clearing in the Trees~
+The clearing you are standing in is fairly good sized.  A large fire burns 
+brightly in the center well away from the overhanging limbs.
+~
+218 0 0 0 0 2 255 0
+D1
+The clearing continues to the east.
+~
+~
+0 -1 22048
+D3
+The trail around the keep.
+~
+~
+0 -1 22050
+S
+#22050
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south and you see an opening in the 
+trees to the east.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22056
+D1
+A clearing.
+~
+~
+0 -1 22049
+D2
+The trail around the keep.
+~
+~
+0 -1 22047
+S
+#22051
+A Small Open Area~
+You are standing in a small clearing.  The whole area is no more than 10 foot 
+wide in any direction.
+~
+218 0 0 0 0 3 255 0
+D2
+Another clearing is to the south.
+~
+dead branches~
+1 -1 22045
+S
+#22052
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south and you see an opening in the 
+trees to the west.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22055
+D2
+The trail around the keep.
+~
+~
+0 -1 22044
+D3
+A clearing.
+~
+~
+0 -1 22053
+D5
+You see the ground.  Were you expecting something else?
+~
+~
+0 -1 -1
+S
+#22053
+A Clearing in the Trees~
+The clearing you are standing in is fairly good sized.  A large fire burns 
+brightly in the center well away from the overhanging limbs.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22052
+D3
+The clearing continues to the west.
+~
+~
+0 -1 22054
+S
+#22054
+The End of the Clearing~
+You are standing in the western end of this clearing.  A campfire burns to 
+the east and trees surround you on all other sides.
+~
+218 0 0 0 0 2 255 0
+D1
+A campfire burns to the east.
+~
+~
+0 -1 22053
+S
+#22055
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22058
+D2
+The trail around the keep.
+~
+~
+0 -1 22052
+S
+#22056
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22057
+D2
+The trail around the keep.
+~
+~
+0 -1 22050
+S
+#22057
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22062
+D2
+The trail around the keep.
+~
+~
+0 -1 22056
+S
+#22058
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22059
+D2
+The trail around the keep.
+~
+~
+0 -1 22055
+S
+#22059
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the east and south.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail around the keep.
+~
+~
+0 -1 22060
+D2
+The trail around the keep.
+~
+~
+0 -1 22058
+S
+#22060
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and west.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22066
+D3
+The trail around the keep.
+~
+~
+0 -1 22059
+S
+#22061
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and east.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22063
+D1
+The trail around the keep.
+~
+~
+0 -1 22062
+S
+#22062
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the south and west.
+~
+218 0 0 0 0 2 255 0
+D2
+The trail around the keep.
+~
+~
+0 -1 22057
+D3
+The trail around the keep.
+~
+~
+0 -1 22061
+S
+#22063
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22074
+D2
+The trail around the keep.
+~
+~
+0 -1 22061
+S
+#22064
+A Small Clearing~
+You are standing in a small clearing in the trees.  Looking east through the 
+trees you notice you have an excellent view of the northern towers without 
+risking exposure.
+~
+218 0 0 0 0 3 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22072
+S
+#22065
+A Small Clearing~
+You are standing in a small clearing in the trees.  Looking east through the 
+trees you notice you have an excellent view of the northern towers without 
+risking exposure.
+~
+218 0 0 0 0 3 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22070
+S
+#22066
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues to the north and south.
+~
+218 0 0 0 0 2 255 0
+D0
+The trail around the keep.
+~
+~
+0 -1 22068
+D2
+The trail around the keep.
+~
+~
+0 -1 22060
+S
+#22067
+A Clearing in the Woods~
+You are standing in the southwest corner of a clearing in the forest.  The
+trees around the clearing are quite tall so they provide excellent shade and
+cover during the daylight.
+~
+218 0 0 0 0 2 255 0
+D0
+The clearing extends to the north.
+~
+~
+0 -1 22080
+D1
+The trail around the keep.
+~
+~
+0 -1 22068
+S
+#22068
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and south and you see a large clearing to the
+northwest.
+~
+218 0 0 0 0 2 255 0
+D0
+You see a clearing to the north.
+~
+~
+0 -1 22079
+D1
+The trail continues east.
+~
+~
+0 -1 22069
+D2
+The trail continues to the south.
+~
+~
+0 -1 22066
+D3
+You see a clearing to the west.
+~
+~
+0 -1 22067
+S
+#22069
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west and you see a large clearing to the
+northwest.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail continues east.
+~
+~
+0 -1 22070
+D3
+The trail continues east toward a clearing.
+~
+~
+0 -1 22068
+S
+#22070
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west and you see a small clearing to the south.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail continues east.
+~
+~
+0 -1 22071
+D2
+There is a narrow clearing to the south.
+~
+~
+0 -1 22065
+D3
+The trail continues to the west.
+~
+~
+0 -1 22069
+S
+#22071
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west and you see a large clearing to the
+north.
+~
+218 0 0 0 0 2 255 0
+D0
+You see a wide clearing to the north.
+~
+~
+0 -1 22078
+D1
+The trail continues to the east.
+~
+~
+0 -1 22072
+D3
+The trail continues to the west.
+~
+~
+0 -1 22070
+S
+#22072
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west and you see a small clearing to the south.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail continues east.
+~
+~
+0 -1 22073
+D2
+A clearing.
+~
+~
+0 -1 22064
+D3
+The trail around the keep.
+~
+~
+0 -1 22071
+S
+#22073
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west.
+~
+218 0 0 0 0 2 255 0
+D1
+The trail continues east.
+~
+~
+0 -1 22074
+D3
+The trail continues west.
+~
+~
+0 -1 22072
+S
+#22074
+The Trail Around the Keep~
+You are standing on a narrow trail cut through the forest.  You can tell it
+gets a great deal of use by the way the ground cover has been beaten down.
+The trail continues east and west and you see a large clearing to the
+northeast.
+~
+218 0 0 0 0 2 255 0
+D0
+You see a clearing to the north.
+~
+~
+0 -1 22077
+D1
+You see a clearing to the east.
+~
+~
+0 -1 22075
+D2
+The trail continues south.
+~
+~
+0 -1 22063
+D3
+The trail continues west.
+~
+~
+0 -1 22073
+S
+#22075
+A Clearing in the Woods~
+You are standing in the southeast corner of a clearing in the forest.  The
+trees around the clearing are quite tall so they provide excellent shade and
+cover during the daylight.
+~
+218 0 0 0 0 2 255 0
+D0
+The clearing extends to the north.
+~
+~
+0 -1 22076
+D3
+The trail around the keep.
+~
+~
+0 -1 22074
+S
+#22076
+A Clearing in the Woods~
+You are standing in the northeast corner of this clearing.  There is a
+campfire kept burning here for warmth and light.
+~
+218 0 0 0 0 2 255 0
+D2
+The clearing extends to the south.
+~
+~
+0 -1 22075
+D3
+The clearing extends to the west.
+~
+~
+0 -1 22077
+S
+#22077
+A Clearing in the Woods~
+You are standing in the northwest corner of a clearing in the forest.  The
+trees around the clearing are quite tall so they provide excellent shade and
+cover during the daylight.
+~
+218 0 0 0 0 2 255 0
+D1
+The clearing extends to the east.
+~
+~
+0 -1 22076
+D2
+The trail around the keep.
+~
+~
+0 -1 22074
+S
+#22078
+A Clearing in the Trees~
+The clearing you are standing in is fairly good sized.  A large fire burns 
+brightly in the center well away from the overhanging limbs.
+~
+218 0 0 0 0 2 255 0
+D0
+The clearing continues to the north.
+~
+~
+0 -1 22081
+D2
+The trail around the keep.
+~
+~
+0 -1 22071
+S
+#22079
+A Clearing in the Woods~
+You are standing in the northeast corner of a clearing in the forest.  The
+trees around the clearing are quite tall so they provide excellent shade and
+cover during the daylight.
+~
+218 0 0 0 0 2 255 0
+D2
+The trail around the keep.
+~
+~
+0 -1 22068
+D3
+The clearing extends to the west.
+~
+~
+0 -1 22080
+S
+#22080
+A Clearing in the Woods~
+You are standing in the northwest corner of this clearing.  There is a
+campfire kept burning here for warmth and light.
+~
+218 0 0 0 0 2 255 0
+D1
+The clearing extends to the east.
+~
+~
+0 -1 22079
+D2
+The clearing extends to the south.
+~
+~
+0 -1 22067
+S
+#22081
+The End of the Clearing~
+You are standing in the northern end of this clearing.  A campfire burns to 
+the south and trees surround you on all other sides.
+~
+218 0 0 0 0 2 255 0
+D2
+~
+~
+0 -1 22078
+S
+#22082
+SHOU-LIN MOB CHUTE~
+Empty~
+218 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 22020
+D1
+~
+~
+0 -1 22058
+D2
+~
+~
+0 -1 22063
+S
+#22083
+SOLAMNIC KNIGHT MOB CHUTE~
+Empty~
+218 0 0 0 0 0 255 0
+D0
+~
+~
+0 -1 22005
+D1
+~
+~
+0 -1 22017
+D2
+~
+~
+0 -1 22029
+D3
+~
+~
+0 -1 22057
+D4
+~
+~
+0 -1 22066
+S
+#22084
+PRIEST MOB CHUTE~
+Empty~
+218 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 22031
+D1
+~
+~
+0 -1 22035
+D2
+~
+~
+0 -1 22043
+D3
+~
+~
+0 -1 22047
+D4
+~
+~
+0 -1 22071
+S
+$~

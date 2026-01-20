@@ -1,0 +1,76 @@
+#38300
+P C 0~
+gnemma deaconess shopkeep~
+Gnemma the Deaconess~
+A female gnome dressed in robes tends the store here, her nose in a prayer book.
+~
+   Gnemma, the gnome deaconess runs the small clerical shop here.  It allows
+her plenty of time for her studies, as well as time to blow up things when she
+practices her brewing skills.  A cheery sort, she bows as you enter the shop
+and offers you to peruse the wares of the shop.    
+~
+134242382 0 0 0 131076 0 0 0 700
+30 -5 4 1d1+3400 5d5+55
+50 60
+9 9 2 0 -1 -1
+#38301
+E C 0~
+guildmaster chaplain~
+Gelfelas, the training chaplain~
+The chaplain in charge of your training stands here.
+~
+   Gelfelas is an elf about five feet tall, with long flowing blonde hair and
+almond shaped eyes.  As cleric chaplain, he is here to teach you the many
+skills and prayers needed to bring you closer to your god and receive their
+blessings.  He is dressed in a long white and black robe, his way of showing
+that he favors not good or evil clerics and will teach all.    
+~
+57418 0 0 0 131236 0 0 0 300
+40 -15 1 1d1+10000 1d1+0
+65 75
+9 9 1 0 5 -1
+#38302
+A C 0~
+giant decay scorpion~
+the guardian scorpion~
+A giant decaying scorpion scuttles from the shadows to prevent your entry.
+~
+   Truly a nightmare creation, this large scorpion was brought back to life
+through the dark prayer of some cleric who worships Morgion, the God of Decay
+from the Abyss.  It scuttles quietly from the shadows, watching for those who
+do not follow the dark gods in a bid to stop their intrusion on the ceremonies
+performed below.    
+~
+1204842 0 0 0 0 0 0 0 -800
+30 -10 2 1d1+5000 7d7+40
+50 60
+9 9 0 8 17 1
+#38303
+R W 0~
+werewolf red~
+&00The &01red&00 werewolf~
+A red werewolf is caged here, clawing desperately to get to you.
+~
+   This lycanthrope was unfortunately at one time, a cleric.  The guild has
+decided to keep it here a to keep an eye on it if it ever reverts back to human
+form.  All that has been tried so far to help it has failed.    
+~
+90186 0 0 0 164864 0 0 0 0
+35 -10 -5 1d1+30000 5d5+40
+50 60
+9 9 0 4 16 8
+#38304
+R W 0~
+werewolf grey~
+&00The &07grey&00 werewolf~
+A grey werewolf is caged here, clawing desperately to get to you.
+~
+   This lycanthrope was unfortunately at one time, a cleric.  The guild has
+decided to keep it here a to keep an eye on it if it ever reverts back to human
+form.  All that has been tried so far to help it has failed.    
+~
+90186 0 0 0 164864 0 0 0 0
+35 -10 -5 1d1+30000 5d5+40
+50 60
+9 9 0 8 4 15
+$

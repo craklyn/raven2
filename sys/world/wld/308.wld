@@ -1,0 +1,1906 @@
+#30800
+Base of the Rusted Stairs~
+The staircase descends about thirty or forty yards into the depths
+of the sewers, arriving finally in a small stone chamber, knee deep
+in scum-coated water. The air is damp, humid and reeks of various odors.
+A variety of fungi and molds thrive in this damp atmosphere coating
+the stone walls with their slick growth. Your feet sink into ankle deep
+mud that covers the floor, causing you to check for purchase with each
+step lest you lose your footing and slip on the muck. White algae gives
+off a dim luminescense, insufficient to see by, but enough to distract
+you when viewed from the corner of your eye. A narrow passage heads east
+from here.
+~
+308 32845 0 0 0 0 255 0
+D0
+~
+~
+0 0 30888
+D1
+~
+~
+0 0 30801
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D4
+Stairs leading up in to the city.
+~
+grate metal rusty~
+1 0 -1
+S
+#30801
+Scummy Water~
+You progress, with a small degree of difficulty, down the wet passage, sloshing
+through mud and water in irritation; besides the awful smell and the disgusting
+growths, this has to be the most disgusting part of this expedition.  The
+passage continues north into the darkness, and whatever it contains.    
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30802
+D3
+Stairs leading up
+~
+~
+0 0 30800
+S
+#30802
+Barred Passage~
+   The passage ends abruptly here, at a shimmering force field, which blocks
+the tunnel northwards.  Beyond it you can see a junction, with several passages
+leading deeper into the sewers, though you cannot see any way past this
+particular obstacle.  Deep claw marks on the wall indicate that something else
+is here, however, perhaps a guardian or a creature trapped and confused like
+you?    
+~
+308 9 0 0 0 0 255 0
+D0
+More of the sewers.
+~
+force field bar~
+2 30817 30803
+D2
+~
+~
+0 0 30801
+S
+#30803
+Unpleasent Surprise~
+You trudge sullenly along the northeast branch, sloshing through the
+water, which gradually rises to waist height as the passage descends
+slightly. Terrific. The slime is only a foot or two away from your
+face now, as is the horrid odor. You try to ignore the feeling that
+strange things are brushing against your feet in the water, and put
+the tingling sensation down to nerves. But when the tingling sensation
+intensifies to a burning pain, you wrench a leg from the water, and are
+horrified to see green slime eating through the sole of your boot!
+Fortunately you react in time, scraping it off with a spare dagger,
+and the damage to you (or your equipment) is not as great as it could
+have been.
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30804
+D2
+A force field.
+~
+force field bar~
+2 30817 30802
+S
+#30804
+Turn in the Passage~
+The passage turns here, and rises slightly, lowering the water back
+to your knees, which is a tremendous blessing in and of itself. Bones
+and rotting corpses protrude from the water at random intervals, the
+remnants of past adventurers fallen pray to various foes. Bits of flesh
+bob on the water, slowly putrefying and releasing a horrendous stench.
+Gagging, you put one sleeve over your mouth and continue.
+~
+308 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 30805
+D2
+~
+~
+0 0 30803
+S
+#30805
+Dark Junction~
+The passage branches here, affording the traveller three choices of
+direction- north, west and south. The northern and western branches
+disappear into the darkness, while the southern passage ends after
+a short distance before a wooden door. Curious that you have not thus
+far encountered terribly many guardians, surely a domicile would
+have tighter security measures?
+~
+308 9 0 0 0 0 255 0
+D0
+A wooden door.
+~
+~
+0 0 30808
+D2
+A wooden door.
+~
+~
+0 0 30806
+D3
+~
+~
+0 0 30804
+S
+#30806
+Water Swollen Door~
+The door to the south is soaked and damp, and has swollen in its frame,
+making it difficult to open. The water level may not even be constant
+inside the room, meaning you take the risk of engulfing whatever may
+lie within in a deluge of filthy water. But you see no other alternative
+should you wish to examine the interior of this chamber.
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30805
+D2
+A wooden door.
+~
+wooden door~
+1 0 30807
+S
+#30807
+Damp Cell~
+Giving the door a good shove, you force it open enough to squeeze
+into the room within. A small gush of water accompanies you, but the
+water level inside is only slightly lower than without and the effect
+is not dramatic. The water bobs with broken glass spheres, smashed by
+some unknown intruder, and the contents float about alongside them
+on the muck-covered surface. Most of it appears to be junk, though
+you think you see the glint of gold in one of the spheres. You also
+think you detect movement within and around this particular object...
+~
+308 9 0 0 0 0 255 0
+D0
+A dark passage.
+~
+wooden door~
+1 0 30806
+S
+#30808
+A Wooden Door~
+The passage north is barred by a thick wooden door bound with rusted
+iron. Slight swelling has occured in the wood, causing it to bulge
+unnaturally in the frame, which will make it difficult to open. There
+is no way of knowing what may lie behind this portal, as with all areas
+of the deranged place, there is a surprise around every corner.
+~
+308 13 0 0 0 0 255 0
+D0
+A wooden door.
+~
+wooden door~
+1 0 30809
+D2
+~
+~
+0 0 30805
+S
+#30809
+Another Failed Experiment~
+The door opens onto what was once a laboratory of some sort. Empty
+wooden boxed and glass jars bob on the knee deep water, in and around
+several tables and benches that protrude from the scummy water. Jars
+of body parts, on shelves set high along the barren stone walls, and
+the remnants of a badly burned corpse laden with electrodes is strapped
+to a wooden rack near the far wall, partially obscuring a second door
+in the far wall. Obviously the site of some failed experiment to create
+artificial life, this place has not been used in some time, save by
+whatever deranged beast still lives here to rampage in abandon through.
+Anything of value that once existed here has long since been demolished.
+~
+308 9 0 0 0 0 255 0
+D0
+A door.
+~
+door~
+1 0 30810
+D2
+A wooden door.
+~
+wooden door~
+1 0 30808
+S
+#30810
+Stairs~
+At this point, a narrow set of stairs leads up about three feet, to a
+section of floor that is dry and relatively clean. Eager to be free of
+the muck, you jump up the stairs and are happy when the sound of leather
+meeting hard, solid stone greets your ears instead of the soft squishy
+sound you had grown accustomed to as they sunk into the muck. Pausing to
+gather your bearings, you note that the passage bends sharply, heading
+east. This way is barred by a solid steel turnstile, remarkably devoid of
+rust. Some wag has jammed the turnstile, welding several iron bars at odd
+angles, which prevents it from turning. The only way past would be to
+use brute force, or magic.
+~
+308 13 0 0 0 0 255 0
+D1
+A turnstile.
+~
+turnstile~
+1 0 30811
+D2
+A door.
+~
+door~
+1 0 30809
+S
+#30811
+Another Bend~
+The passage beyond the turnstile bends again, heading south. The dry
+stone floor is covered in dust, dust which shows no recent tracks.
+Either most adventurers were stopped by the turnstile, or whatever lurks
+to the south of here was considered too difficult to handle! No matter,
+press on you must, for the thrill of adventure is in your blood, and be
+damned if you will be dissuaded by simple fears and superstitions! A
+slight red glow can be seen to the south, emanating around the edges and
+between the panels of an oaken door.
+~
+308 9 0 0 0 0 255 0
+D2
+A door.
+~
+door~
+1 0 30812
+D3
+A turnstile.
+~
+turnstile~
+1 0 30810
+S
+#30812
+Slippery Ledge~
+The door opens onto a narrow ledge, slick with moisture. Perched
+rather precariously at the northwestern end of a long, narrow chasm,
+you reel back as you stride in, almost toppling over the edge into the
+river of bubbling mud that fills the bottom of the chasm. Even from here
+the heat is intense, and you don't like to think of what might befall you
+should you topple down into the muck below. Bubbles of air rise through the
+mud, exploding with loud squishy pops, and occasionally a gout of boiling
+water and mud will erupt from the surface, a few stray drops of water 
+stinging you as they land on your arms. There doesn't appear to be any way
+across, unless you can fly, in which case you could head for a similar ledge
+to the southeast.
+~
+308 9 0 0 0 0 255 0
+D0
+A door.
+~
+door~
+1 0 30811
+D1
+~
+~
+0 0 30813
+D5
+~
+~
+0 0 30836
+S
+#30813
+Soaring above the Mud~
+It is with great trepidation that you begin your journey across the
+chasm, ever aware of the possibility of a geyser erupting and catching
+you fair in the chest, slamming you into the ceiling, and then your
+stunned form plummeting into the boiling mud far, far below. Pushing
+such thoughts from your mind, you concentrate on the far platform, some
+eighty yards away, pushing yourself to get there as quickly as possible.
+~
+308 9 0 0 0 9 255 0
+D2
+~
+~
+0 0 30814
+D3
+~
+~
+0 0 30812
+D5
+~
+~
+0 0 30836
+S
+#30814
+Safety?~
+The ledge on the far side of the river of mud is much wider than its
+neighbor to the northwest. It is with a sigh of relief that you set down
+on this stony precipice, and consider your options. Safe for the moment
+from the boiling geysers, you turn to examine your surroundings and notice
+a stone colored door set in the south wall, barely noticeable from more
+than a few feet away. A small handle is set into the center, which turns
+easily at your touch. A strange chill, noticeable even in the vicinity
+of the heat radiating from below, emanates from the door, or more accurately
+from around the door.
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30813
+D2
+A door.
+~
+door~
+1 0 30815
+D5
+~
+~
+0 0 30826
+S
+#30815
+A Cramped Crawlspace~
+The door opens onto a narrow crawlspace, no wider than a few feet,
+which would make even a dwarf feel a little claustrophobic. The gloom
+is resistant to the penetration of your light, and you cannot see further
+than a foot or two in any direction within the crawlspace. A second door,
+similar to the first, lies at the far end. Creeping cautiously through
+the darkness, you press on.
+~
+308 269 0 0 0 0 255 0
+D0
+A door.
+~
+door~
+1 0 30814
+D2
+~
+~
+0 0 30816
+S
+#30816
+The Tomb~
+Inky blackness beckons at the end of the crawlspace, cold, loathsome
+darkness that envelops and threatens to engulf you, you shudder at the
+imagined deathly cold touch. Then you realize that the touch was not
+imagined. Something lives here, in this room filled with darkness that
+no light may dispel. Something vile, something dark and wicked, older
+and more evil than the passing of countless centuries can measure or
+compare. And you have no doubt that the primary goal of this heinous
+unseen foe is to extinguish all light and life.
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30815
+S
+#30817
+Water Filled Passage~
+The water here rises to waist depth as the passage descends slightly,
+heading north towards a place where it ends in a large water filled room.
+The scum floating on the surface of the water exudes a powerful, rotting
+odor that makes you feel rather ill and dizzy. Various other objects bob
+in the water or brush against your legs. The whole journey is extremely
+unpleasant, and you find yourself fervently hoping for dry ground soon.
+~
+308 13 0 0 0 0 255 0
+D0
+~
+~
+0 0 30818
+D2
+~
+~
+0 0 30826
+S
+#30818
+Water Filled Chamber~
+The passage ends here, on a ledge that circles the edge of a large
+water filled chamber. The stone of the ledge can be seen beneath your
+feet, even through this murky water, and the point where it disappears,
+giving way to the depth of the chamber is clearly visible. It would be
+possible to circle the chamber, sticking to the ledge that heads around
+the western edge, and reach the exit on the northern wall, or you could
+brave a trip across the deeper section to the north, significantly
+reducing the time the journey would take, but also meaning you would have
+to brave whatever perils may lurk here.
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30830
+D2
+~
+~
+0 0 30817
+D3
+~
+~
+0 0 30819
+S
+#30819
+Slippery Edge~
+Various growths on the walls and floor make progress, when combined
+with the fact you have to wade through filthy thigh deep water, rather
+difficult. You fancy you can see strange shapes moving about in the
+depths of the pool, and feel glad that you decided to stick to the 
+ledge. To the north, the ledge narrows significantly, enabling but one
+person to make their way through at a time.
+~
+308 13 0 0 0 0 255 0
+D0
+~
+~
+0 0 30820
+D1
+~
+~
+0 0 30818
+S
+#30820
+Narrow Section~
+The ledge narrows to less than one foot here, making it quite difficult
+to continue without slipping and sinking into the depths of the pool
+below, where thousands of imagined fates may lie. The glint of gold
+is visible below, attracting your ever-avaricious eye. Perhaps where
+there is great peril there is also great treasure to be found? You are
+halfway through the room, and are reluctant to give that up, but the
+thought of treasure and magical items is a strong lure to explore deeper.
+~
+308 269 0 0 0 0 255 0
+D0
+~
+~
+0 0 30821
+D1
+~
+~
+0 0 30830
+D2
+~
+~
+0 0 30819
+S
+#30821
+Northwest Corner~
+The ledge bends here again, and to the east it ends before the northern
+exit, an open passage containing several steps that head up to dry
+corridor! Breathing a sigh of relief, you gather yourself and prepare
+to edge along the last few feet to the ledge that leads out of this
+dirty waterlogged chamber. Strange cries can suddenly be heard, cries
+of frustration and anger, they appear to be coming from below the surface
+of the murky waters...
+~
+308 13 0 0 0 0 255 0
+D1
+~
+~
+0 0 30822
+D2
+~
+~
+0 0 30820
+S
+#30822
+Farside~
+You made it! Reaching the far side, you bound up the short flight of
+steps and turn to stare back over the waters and the hidden dangers 
+they contain. Another perilous situation survived, the familiar rush
+of adrenalin still unused causes you to tremble. Cries of frustration
+arise from the murky waters, sending shivers up your spine. To the
+north, the dry stone passage continues into the darkness.
+~
+308 13 0 0 0 0 255 0
+D0
+~
+~
+0 0 30823
+D2
+~
+~
+0 0 30830
+D3
+~
+~
+0 0 30821
+S
+#30823
+Dry at Last~
+It is a welcome relief to be away from the dark and murky wetness of
+the passages to the south, and back on dry, solid ground. Whatever
+perils may lie ahead, you feel safer facing them on more familiar 
+terrain. Sniffing at the air, you catch the smell of oil, lantern oil
+to be precise, from somewhere nearby. A solid wooden door is set in
+the eastern wall, and from above you can detect the sound of people.
+~
+308 13 0 0 0 0 255 0
+D0
+~
+~
+0 0 30824
+D1
+A wooden door.
+~
+wooden door~
+1 0 30835
+D2
+~
+~
+0 0 30822
+D4
+~
+~
+0 0 18096
+S
+#30824
+End of Passage~
+The corridor ends here, before a thick metal door to the north, which
+has been designed with an overlapping metal edge on the northern side,
+flanging it so that it can only open to the north, i.e, it must be
+pushed from this side, any attempt to pull it or to push it from the 
+far side would be futile. You can hear a loud scraping sound to the
+north, even through the door, as of some large creature dragging itself
+across a stone floor. At least the area beyond doesn't appear to be 
+filled with water.
+~
+308 9 0 0 0 0 255 0
+D0
+A metal door.
+~
+metal door~
+1 0 30825
+D2
+~
+~
+0 0 30823
+S
+#30825
+Curious Lair~
+The metal door opens onto a rather strange sight. A narrow stone
+platform protrudes to the north, heading into the depths of a lake
+of boiling water! Panicking, you turn to flee, when you realize that
+a translucent field of soft, resilient material, of a magical nature,
+is keeping the water out. You cautiously proceed further, heading into
+a large dome shaped area, a circular "clearing" in the lake, protected
+from the volcano-heated waters by the elastic material of the magical
+field. The attraction of this anomaly as the prime feature of this area
+is overridden by the profusion of bones and broken weapons that lie
+scattered across the floor. Some fell beast lairs here, experienced in
+fighting without damaging the dome, and intent on adding to its grisly
+collection!
+~
+308 9 0 0 0 0 255 0
+D2
+A metal door.
+~
+metal door~
+1 0 30824
+S
+#30826
+Watersoaked Junction~
+Several paths meet here, beyond the forcefield, which shimmers back
+into place as you pass through. Knee deep muck sloshes around your feet
+and splashes onto your body, leaving a slimy residue that smells awful.
+Passages head away in three directions, heading deeper into the dark,
+murky undersewers.
+~
+308 13 0 0 0 0 255 0
+D0
+~
+~
+0 0 30817
+D3
+~
+~
+0 0 30837
+D4
+~
+~
+0 0 30813
+S
+#30827
+End of Tunnel~
+The dizzying tunnel ends here, spitting the reeling travellers into this
+small chamber, which boasts only a single wooden door, set in the north
+wall, as a feature of interest. But knowing this dungeon, anything may
+lie beyond that seeminly innocuous portal. 
+~
+308 13 0 0 0 0 255 0
+D0
+A wooden door.
+~
+wooden door~
+1 0 30828
+D3
+~
+~
+0 0 30835
+S
+#30828
+A Well-Appointed Apartment~
+This small chamber is remarkly clean and well furnished for this dungeon.
+It seems someone or something have kept their wits sufficiently to
+maintain a reasonable standard of living. Several chairs surround a small
+dining table, behind which rests a massive bookshelf overburdened with
+heavy books of little value. Incense smolders in a small clay pot resting
+on the table, near which the remains of a half-eaten meal are arranged. It
+seems the diners here were interrupted, recently too for the meals are still
+warm.
+~
+308 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 30829
+D2
+A wooden door.
+~
+wooden door~
+1 0 30827
+S
+#30829
+Boudoir~
+This room is a luxurious boudoir, the domain of some rich noble, surely,
+or an opulent merchant. Lewd tapestries depicting scenes of explicit
+sexual congress between woman and demon, or woman and animal, cover the
+walls, while the floor is lined with thick, intricately woven rugs of
+oriental make. Low tables are arranged near sumptuous divans and couches,
+and soft pillows of silk abound. A fire crackles in a small, low hearth,
+and next to it rests a solid wooden chest, bound in brass.
+~
+308 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 30828
+S
+#30830
+Floating in the Void~
+The murky waters beneath you ripple, disturbed by your passage, and
+you imagine you can see humanoid shapes moving beneath the surface,
+beckoning to you. Also present is the familiar glint of gold, a significant
+amount of wealth has undoubtedly fallen into these waters, perhaps you
+might be able to acquire some for yourself? To the north, you can see
+the far side, another ledge, this one containing a short flight of steps
+that heads up to a dry passage, a tempting destination indeed. To the
+west lies a narrower section of the ledge, where you might head instead
+of continuing in this direction.
+~
+308 524941 0 0 0 6 255 0
+D0
+~
+~
+0 0 30822
+D2
+~
+~
+0 0 30818
+D3
+~
+~
+0 0 30820
+D5
+~
+~
+0 0 30831
+S
+#30831
+Plunging into the Depths~
+Your first thought as you plunge deep into the water is that it is a
+lot deeper than you imagined, your ears ache as you head deeper, reaching
+an eventual depth of fifteen feet, worried that you can no longer see
+the glint of gold, or much else in the murky waters for that matter. A
+dark opening leads into an underwater chamber to the east, but the shadowy
+figures you glimpsed from the surface may be of a more immediate concern...
+~
+308 553 0 0 0 8 255 0
+D1
+~
+~
+0 0 30833
+D3
+~
+~
+0 0 30832
+D4
+~
+~
+0 0 30830
+S
+#30832
+Plunging into the Depths~
+The pool is much deeper than you imagined from the narrow ledge above,
+and your ears ache as you dive down to a depth of fifteen feet, weighed
+down by your heavy equipment. It is impossible to see terribly far in
+these filthy waters, and you find yourself eager to be out of this murky
+water. Shapes move about in the water to the east, seeming to beckon
+to you.
+~
+308 553 0 0 0 8 255 0
+D1
+~
+~
+0 0 30831
+S
+#30833
+Underwater Chamber~
+Piles of vegetation float in the water here, making it impossible to
+move quickly without becoming entangled. You feel as if the weeds are
+almost groping at you, attempting to drag you down and drown you.
+Shuddering, you cast off the thought and try to press for another dark
+entrance in the north wall, where you presume whatever lurks in these
+waters stores their loot.
+~
+308 9 0 0 0 8 255 0
+D0
+~
+~
+0 0 30834
+D3
+~
+~
+0 0 30831
+S
+#30834
+Hidden Lair~
+This tiny chamber contains the accumulated loot of the Kelpies, those
+vile, sentient creatures that lurk in the waters, luring travellers
+to a watery grave, and storing their belongings here. Who knows what
+treasures may lie here, taken from past adventurers who met their fates
+here? Truly this is a prime opportunity to acquire significant wealth!
+~
+308 521 0 0 0 0 255 0
+D2
+~
+~
+0 0 30833
+S
+#30835
+The Spinning Room~
+The door opens onto a strange passage, a spinning cylinder, approximately
+thirty feet long, decorated with a nausea-inducing spiral pattern, spins
+rapidly, confusing and dizzying travellers. A slick substance, most likely
+oil, coats the surface of the cylinder, making travel even more awkward.
+You cannot take three steps without falling to the ground, nauseated and
+sick, unable to concentrate properly.
+~
+308 524301 0 0 0 0 255 0
+D1
+~
+~
+0 0 30827
+D3
+A wooden door.
+~
+wooden door~
+1 0 30823
+S
+#30836
+Boiling Mud~
+Screaming in horror, you plummet downwards into the boiling mud,
+the flesh being boiled from your bones in seconds, an agonizing and
+particularly messy fate. Your death cry echoes around the cavern for
+several more seconds, the final act of your now destroyed body. What
+little remains sinks into the mud, to join the hundreds of others
+who have perished in a similar fashion.
+~
+308 2 0 0 0 0 255 0
+D5
+~
+~
+0 0 18096
+S
+#30837
+A Dreary Jourey~
+Trudging through the thigh deep muck that has half flooded this dank
+dungeon is far from one of the most pleasant things you have done, and
+the tedium of splashing laboriously through several hundred yards of
+waterlogged passageways is not helped by the uniformly grey stone walls,
+mottled with unpleasant growths, offering no features of interest 
+whatsoever. Not a single inhabitant seems to reside in this long stretch
+of passage.
+~
+308 13 0 0 0 0 255 0
+D1
+~
+~
+0 0 30826
+D3
+~
+~
+0 0 30838
+S
+#30838
+End of Passage~
+At this point the dreary passage ends, at the southern end of a regular
+stone corridor, measuring ten by eight feet, heading north as far as you
+can see (admittedly not a great distance in these corridors). The walls
+of this corridor are lined with a series of copper plates, for whatever
+purpose, that dimly reflect the illumination from your light source.
+Steam can be seen rising from the water in the distance, not a good sign.
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30839
+D1
+~
+~
+0 0 30837
+S
+#30839
+The Induction Field~
+As you proceed warily down the corridor, you notice a slight, but 
+definite, increase in the air temperature. At first a welcome relief
+from the damp chill, it quickly becomes unpleasant enough that you pause
+to wipe beads of sweat from your face, and cringe at contact with the 
+metal in your equipment. Small blisters are beginning to form on the
+areas of skin closest to the metal, and you realize that proceeding
+further will only mean suffering even greater temperatures.
+~
+308 524300 0 0 0 0 255 0
+D0
+~
+~
+0 0 30840
+D2
+~
+~
+0 0 30838
+S
+#30840
+The Induction Field~
+You proceed, sweating and swearing as the temperature soars. Water
+steams around your feet, and you tear at the items of equipment scalding
+your skin. Damn its hot! Finally it becomes too much, fuming, you 
+tear the equipment from your back and dash north, eager to be out of
+this accursed heat trap as quickly as possible!
+~
+308 524300 0 0 0 0 255 0
+D0
+~
+~
+0 0 30841
+D2
+~
+~
+0 0 30839
+S
+#30841
+The End?~
+At last! Free from the blistering heat, you pause in the water, which
+is only ankle deep here, and collect your wits. But your rest is to be
+very short-lived, many predators are eager to strike at unwary adventurers
+when they are least prepared, and in your exhausted and naked condition
+you are a prime target! A possible escape route down a set of stairs to 
+a dry corridor, is your only other option.
+~
+308 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 30840
+D5
+~
+~
+0 0 30842
+S
+#30842
+Stairs~
+The stairs end in a small corridor, which runs south for a short distance
+to a point where it ends at a wooden door, devoid of markings or trappings.
+Its metal handle is free of corrosion, and it appears as if it will open
+easily, though your frayed nerves and suspicious nature lead you to imagine
+all sorts of hidden threats behind its seemingly innocuous surface. 
+~
+308 12 0 0 0 0 255 0
+D2
+A door.
+~
+door~
+2 30803 30844
+D4
+~
+~
+0 0 30841
+S
+#30843
+Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+To the east you see the busy docks and to the south is a
+deep river.
+~
+308 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#30844
+Empty Hall~
+Flinging the door open, you leap in with weapons drawn, expecting (and
+fearing) the very worst. But all that greets you is an empty hall, the
+walls and floor of which are lined with shiny metal. Not a speck of dust
+nor trace of any markings mars the surface, it shines with an unrivaled
+sheen that would make the most devoted dwarven metalsmith jealous. To
+the west it ends in a dead end, with no obvious exits, though that is a
+good thirty yards away, a lot can happen in thirty yards...
+~
+308 8 0 0 0 0 255 0
+D0
+A door.
+~
+door~
+2 30803 30842
+D3
+~
+hidden~
+1 0 30846
+S
+#30845
+The River~
+The river meanders through the foothills of the eastern mountains.
+The air is dryer on this side of the continental divide and it seems
+a bit warmer.
+~
+308 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 30856
+D3
+~
+~
+0 0 -1
+S
+#30846
+Safety?~
+You slide through the illusory wall that barred the end of the eastern
+corridor, and land in a room with a more conventional surface- that of
+cold, hard grey stone. The walls, floor and ceiling are uniform in their
+similarity and their lack of interesting features. Only a plain wooden
+door, set in the north wall, affords any variety.
+~
+308 8 0 0 0 0 255 0
+D0
+A door.
+~
+door~
+1 0 30847
+S
+#30847
+A Short Corridor~
+This short, even corridor runs west a short distance from the door to
+a junction. The air here is still, and musty, not many intruders make
+it this far into the sewers of FairHaven. You can sense, even here,
+the eyes of the someone or thing upon you, watching your every move with mild
+(but growing) interest. You do not doubt that it will be totally prepared
+for your arrival when you do finally find it. And find it you will!
+~
+308 8 0 0 0 0 255 0
+D2
+A door.
+~
+door~
+1 0 30846
+D3
+~
+~
+0 0 30848
+S
+#30848
+A Dark Junction~
+Gloomy stone passageways head into the darkness to the north, east and
+south, none of them standing out from the others in any way, visually
+at least, the sound of running water can be distinctly heard to the
+north. The floor here is covered in muddy footprints, heading from the
+north southwards, along the passageway towards whatever may lie in 
+that direction.
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30849
+D1
+~
+~
+0 0 30847
+D2
+~
+~
+0 0 30861
+S
+#30849
+A Curious Anomaly~
+Reaching the end of the corridor, you stop short in the large chamber
+that lies at the northern end, staring in wonder at the fascinating
+feature it contains. Running through the center of the room, with no
+visible means of support, is a small river, complete with fish and various
+other forms of marine life, flowing swiftly from a hole in the east wall,
+through the center of the chamber, and into a hole in the west wall. It is
+possible to walk underneath the river, which "flows" about three feet off
+the floor, and is approximately five feet wide. Surely this is one of the
+most unusual sights you have seen yet! The hole that admits the water is
+large enough that it could well accomodate a brave mariner in a small
+watercraft, though the strength of the current is such that travel would
+only be possible in one direction, i.e, to the east.
+~
+308 13 0 0 0 0 255 0
+D1
+~
+~
+0 0 30850
+D2
+~
+~
+0 0 30848
+S
+#30850
+A Swift Stream~
+The stream disappears into the darkness ahead of you, rushing swiftly along
+its winding route, through the rough hewn tunnel. At no time does the water
+actually rest on the rocks, it is as if it is held in place by some magical
+field. Blind subterranean fish dash here and there, disturbed by your
+presence. You have no choice but to continue with the current.
+~
+308 12 0 0 0 7 255 0
+D1
+~
+~
+0 0 30851
+S
+#30851
+A Swift Stream~
+Further into the bedrock of the sewers the stream takes you, dashing down
+this rough hewn tunnel of volcanic rock. Occasionally you bruise an arm or
+your head as the boat takes a corner unexpectedly fast, bashing you against
+the rocky wall.  Wincing, you hold onto your helmet and keep your head down,
+eager for this rocky ride to be over.
+~
+308 12 0 0 0 7 255 0
+D0
+~
+~
+0 0 30852
+S
+#30852
+A Swift Stream~
+Onwards and onwards the stream continues, rushing around sharp corners and
+sudden bends, dipping and swaying as it gushes on its magically predetermined
+course. You realize now that the stream is shaped into a roughly circular
+circuit, ploughing through several chambers and corridors joined by the
+waterfilled tunnel.
+~
+308 8 0 0 0 7 255 0
+D3
+~
+~
+0 0 30853
+S
+#30853
+A Swift Stream~
+The stream disappears into the darkness ahead of you, rushing swiftly along
+its winding route, through the rough hewn tunnel. At no time does the water
+actually rest on the rocks, it is as if it is held in place by some magical
+field. Blind subterranean fish dash here and there, disturbed by your
+presence. You have no choice but to continue with the current.
+~
+308 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 30854
+S
+#30854
+A Swift Stream~
+Further into the bedrock of the sewers the stream takes you, dashing down
+this rough hewn tunnel of volcanic rock. Occasionally you bruise an arm or
+your head as the boat takes a corner unexpectedly fast, bashing you against
+the rocky wall. Wincing, you hold onto your helmet and keep your head down,
+eager for this rocky ride to be over.
+~
+308 8 0 0 0 7 255 0
+D2
+~
+~
+0 0 30855
+S
+#30855
+A Swift Stream~
+The stream pours into and through another stone chamber, this one dully
+lit and boasting greasy stone walls and floor. The ceiling is caked with
+thick red paint, some of which has peeled off, revealing the original grey
+stone beneath. The river bends in the center, heading through another hole
+in the east wall, which the current drags you irresistably towards. There
+is little else of interest in the chamber, save a faded mural on the
+southern wall.
+~
+308 8 0 0 0 7 255 0
+D1
+~
+~
+0 0 30857
+D2
+A mural.
+~
+mural~
+1 0 30858
+E
+mural~
+The mural depicts the elves of FairHaven constructing this fell lair for
+their master, in days of old, using all manner of beasts as slave labor.
+In the center of the diagram is a carving shaped much like the 
+ones seen on the northeastern tower of Fairhaven! Perhaps some magical 
+force has covered this old structure with stone, to deter unwanted visitors.
+~
+S
+#30856
+The River~
+You encounter some rapids as you enter this tunnel cut out of
+the mountains by the river.
+~
+308 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 30845
+S
+#30857
+A Swift Stream~
+The stream disappears into the darkness ahead of you, rushing swiftly along
+its winding route, through the rough hewn tunnel. At no time does the water
+actually rest on the rocks, it is as if it is held in place by some magical
+field. Blind subterranean fish dash here and there, disturbed by your
+presence. You have no choice but to continue with the current.
+ 
+You think you can see an opening to the east.
+~
+308 8 0 0 0 7 255 0
+D1
+~
+~
+0 0 30849
+S
+#30858
+Dark Tunnel~
+Floundering through a sudden wave of darkness that fills the area, you
+shake your light source fervently, wondering why you cannot see far in
+the gloom even with its aid. Peering intently around you, you cannot see
+more than a few inches, barely able to even see your own hands in front
+of your face. Small, unknown creatures brush against your legs, causing
+you to cringe in revulsion. It is impossible to see what directions you
+can head in.
+~
+308 269 0 0 0 0 255 0
+D0
+A stone wall.
+~
+stone wall~
+1 0 30855
+D2
+~
+~
+0 0 30859
+S
+#30859
+A Dark Tunnel~
+Floundering through a sudden wave of darkness that fills the area, you
+shake your light source fervently, wondering why you cannot see far in
+the gloom even with its aid. Peering intently around you, you cannot see
+more than a few inches, barely able to even see your own hands in front
+of your face. Small, unknown creatures brush against your legs, causing
+you to cringe in revulsion. It is impossible to see what directions you
+can head in.
+~
+308 269 0 0 0 0 255 0
+D0
+~
+~
+0 0 30858
+D1
+~
+~
+0 0 30860
+S
+#30860
+A Dark Tunnal~
+Floundering through a sudden wave of darkness that fills the area, you
+shake your light source fervently, wondering why you cannot see far in
+the gloom even with its aid. Peering intently around you, you cannot see
+more than a few inches, barely able to even see your own hands in front
+of your face. Small, unknown creatures brush against your legs, causing
+you to cringe in revulsion. It is impossible to see what directions you
+can head in.
+~
+308 269 0 0 0 0 255 0
+D1
+A stone wall.
+~
+stone wall~
+1 0 30861
+D3
+~
+~
+0 0 30859
+S
+#30861
+Southern Corridor~
+This plain grey stone corridor heads due south, sloping downwards as
+it goes. Presently you find yourself once more wading in knee deep water
+as it passes below the water table. As you splash noisily southwards,
+your eyes catch sight of a faded mural on the western wall. To the south
+you can see a heavy wooden door, swollen by moisture, barring the end of
+the passage.
+~
+308 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 30848
+D2
+A wooden door with some carvings on it.
+~
+wooden door~
+2 30801 30862
+D3
+A mural.
+~
+mural~
+1 0 30860
+E
+wooden door~
+Round she is, yet flat as a board.
+Altar of the Lupine Lords.
+Jewel on black velvet, pearl in the sea.
+Unchanged but e'erchanging, eternally.
+If ye have the answer, and ye may pass.
+~
+E
+mural~
+The mural depicts the elves of FairHaven constructing this fell lair for
+their master, in days of old, using all manner of beasts as slave labor.
+In the center of the diagram is a carving shaped much like the 
+ones seen on the northeastern tower of Fairhaven! Perhaps some magical 
+force has covered this old structure with stone, to deter unwanted visitors.
+~
+S
+#30862
+Lowest of Low~
+The door opens onto a lower corridor, totally submerged in salt water,
+which splashes around the doorway as you enter. Thriving with all manner
+of aquatic life, you are given the distinct impression that you just arrived
+at the bottom of the ocean.
+~
+308 13 0 0 0 0 255 0
+D0
+A wooden door.
+~
+wooden door~
+2 30801 30861
+D5
+~
+~
+0 0 30863
+S
+#30863
+Underwater Corridor~
+The walls of the corridor are slick with various underwater growths, such
+as algae and clumps of seaweed, not only has this section of the dungeon
+been submerged, it has also been filled with items indigenous to maritime
+regions. None of these growths, nor the clam shells that litter the floor,
+could have made their way here naturally. Unless of course you have passed
+through some invisible barrier unknowingly and are actually in some under-
+water ruin.
+~
+308 9 0 0 0 8 255 0
+D1
+~
+~
+0 0 30864
+D4
+~
+~
+0 0 30862
+S
+#30864
+Underwater Corridor~
+The waterfilled corridor continues, a slight current tugging you forwards,
+and away from the entrance. Various small fish and other creatures swim past
+you, seemingly oblivious to your rather unusual presence. Evidence of larger
+inhabitants is also present, most notably in the form of partially devoured
+corpses, lying in various states of decomposition at random intervals along
+the corridor.
+~
+308 9 0 0 0 8 255 0
+D2
+~
+~
+0 0 30865
+D3
+~
+~
+0 0 30863
+S
+#30865
+Underwater Corridor~
+Marine life virtually abounds in this waterlogged section of the dungeon.
+The water is quite clear and extremely salty, unlike the dirty, murky fresh
+water that filled the entrance tunnels. The growths on the walls are more
+like those you would expect at the bottom of the ocean, not in a stone walled
+dungeon passageway. Deep claw marks scar the walls at intervals, near piles
+of skulls and other debris.
+~
+308 9 0 0 0 8 255 0
+D0
+~
+~
+0 0 30864
+D2
+~
+~
+0 0 30866
+S
+#30866
+Underwater Corridor~
+The walls of the corridor are slick with various underwater growths, such
+as algae and clumps of seaweed, not only has this section of the dungeon
+been submerged, it has also been filled with items indigenous to maritime
+regions. None of these growths, nor the clam shells that litter the floor,
+could have made their way here naturally. Unless of course you have passed
+through some invisible barrier unknowingly and are actually in some under-
+water ruin.
+~
+308 9 0 0 0 8 255 0
+D0
+~
+~
+0 0 30865
+D2
+~
+~
+0 0 30867
+S
+#30867
+Underwater Corridor~
+The waterfilled corridor continues, a slight current tugging you forwards,
+and away from the entrance. Various small fish and other creatures swim past
+you, seemingly oblivious to your rather unusual presence. Evidence of larger
+inhabitants is also present, most notably in the form of partially devoured
+corpses, lying in various states of decomposition at random intervals along
+the corridor.
+~
+308 9 0 0 0 8 255 0
+D0
+~
+~
+0 0 30866
+D2
+~
+~
+0 0 30868
+S
+#30868
+Underwater Corridor~
+Marine life virtually abounds in this waterlogged section of the dungeon.
+The water is quite clear and extremely salty, unlike the dirty, murky fresh
+water that filled the entrance tunnels. The growths on the walls are more
+like those you would expect at the bottom of the ocean, not in a stone walled
+dungeon passageway. Deep claw marks scar the walls at intervals, near piles
+of skulls and other debris.
+~
+308 9 0 0 0 8 255 0
+D0
+~
+~
+0 0 30867
+D2
+~
+~
+0 0 30869
+S
+#30869
+Underwater Corridor~
+The walls of the corridor are slick with various underwater growths, such
+as algae and clumps of seaweed, not only has this section of the dungeon
+been submerged, it has also been filled with items indigenous to maritime
+regions. None of these growths, nor the clam shells that litter the floor,
+could have made their way here naturally. Unless of course you have passed
+through some invisible barrier unknowingly and are actually in some under-
+water ruin.
+~
+308 9 0 0 0 8 255 0
+D0
+~
+~
+0 0 30868
+D3
+~
+~
+0 0 30870
+S
+#30870
+Underwater Corridor~
+The waterfilled corridor continues, a slight current tugging you forwards,
+and away from the entrance. Various small fish and other creatures swim past
+you, seemingly oblivious to your rather unusual presence. Evidence of larger
+inhabitants is also present, most notably in the form of partially devoured
+corpses, lying in various states of decomposition at random intervals along
+the corridor.
+~
+308 9 0 0 0 8 255 0
+D1
+~
+~
+0 0 30869
+D3
+~
+~
+0 0 30871
+S
+#30871
+Underwater Corridor~
+The waterfilled corridor continues, a slight current tugging you forwards,
+and away from the entrance. Various small fish and other creatures swim past
+you, seemingly oblivious to your rather unusual presence. Evidence of larger
+inhabitants is also present, most notably in the form of partially devoured
+corpses, lying in various states of decomposition at random intervals along
+the corridor.
+The passage bends here, heading to the base of a stairwell that heads
+up out of the water.
+~
+308 9 0 0 0 8 255 0
+D1
+~
+~
+0 0 30870
+D2
+~
+~
+0 0 30872
+S
+#30872
+A Way Out?~
+The waterfilled passageway ends here, at the base of a corroded iron
+stairwell, mostly overgrown with mold and other marine growths. Peering
+upwards, you can see a yellow stone chamber, apparently dry, which lies
+above the water level, and forms the second tier of this section of the
+dungeon. Proceeding here will take you one step closer to the summit of
+the sewers, and presumably one step closer to Safety.
+~
+308 9 0 0 0 8 255 0
+D0
+~
+~
+0 0 30871
+D4
+~
+~
+0 0 30873
+S
+#30873
+Sandy Passage~
+The floor of this dry stone passage is covered in sand, stained at various
+intervals with blood and other substances. The air is hot and dry, and you
+find yourself wishing for a bit of water, even so shortly after having been
+immersed in it. A faint scuttling sound can be heard, as of spiny, bony
+legs scraping on the floor, scratching at the yellow stone beneath the sand.
+Accompanying this is a deep, booming laughter that reverberates through the
+passage, which is beginning to feel like a tomb.
+~
+308 12 0 0 0 0 255 0
+D1
+~
+~
+0 0 30874
+D5
+~
+~
+0 0 30872
+S
+#30874
+Sandy Passage~
+The walls here are of a yellow stone, not dissimilar to the color of the
+sand, which looks out of place here, in this damp subterranean lair. But
+you find it hard, despite knowing full well where you are, to dispel the
+feeling that you have been magically transported to some ancient ruin in
+the Eastern Desert, there to be entombed with the rotting remains of the
+ancient pharaohs of that wasteland.
+~
+308 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 30875
+D3
+~
+~
+0 0 30873
+S
+#30875
+Sandy Passage~
+The walls in this section bear simple murals, two dimensional representations
+of women being ravaged by jackal-headed men of immense proportions, and
+giving issue to vile half-human half-canine hybrids that rampage wantonly
+through the streets of some unknown city. The name Keraptis appears in several
+places around the walls. You remember hearing Keraptis was a wicked man, and 
+had done many wicked deeds in his past. He is also apparently much older than 
+you at first realized, several images of a laughing man clad in robes of 
+crimson dominate many of the murals, a figure you can only assume to be the 
+mad mage himself.
+~
+308 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 30874
+D2
+~
+~
+0 0 30876
+S
+#30876
+Sandy Passage~
+The floor of this dry stone passage is covered in sand, stained at various
+intervals with blood and other substances. The air is hot and dry, and you
+find yourself wishing for a bit of water, even so shortly after having been
+immersed in it. A faint scuttling sound can be heard, as of spiny, bony
+legs scraping on the floor, scratching at the yellow stone beneath the sand.
+Accompanying this is a deep, booming laughter that reverberates through the
+passage, which is beginning to feel like a tomb. You are close to the source
+of the madness now, close to Keraptis himself.
+~
+308 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 30875
+D2
+~
+~
+0 0 30877
+S
+#30877
+Sandy Passage~
+The floor of this dry stone passage is covered in sand, stained at various
+intervals with blood and other substances. The air is hot and dry, and you
+find yourself wishing for a bit of water, even so shortly after having been
+immersed in it. A faint scuttling sound can be heard, as of spiny, bony
+legs scraping on the floor, scratching at the yellow stone beneath the sand.
+Accompanying this is a deep, booming laughter that reverberates through the
+passage, which is beginning to feel like a tomb. You are close to the source
+of the madness now, close to Keraptis himself.
+~
+308 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 30876
+D2
+~
+~
+0 0 30878
+S
+#30878
+End of Passage~
+The passage bends here, ending at a small set of stairs, that winds
+upward into the darkness, towards the highest tier of this series of
+spirtalling corridors. You presume that you have gradually worked your
+way up into the sewers, and must be near the peak now, yet there is
+no real way of telling just exactly where you are, or how far you have
+travelled. All that remains is the next step, each time seeming to be
+the end, but in reality only an entrance to a series of new trials.
+~
+308 12 0 0 0 0 255 0
+D0
+~
+~
+0 0 30877
+D4
+~
+~
+0 0 30879
+S
+#30879
+A Sandy Arena~
+The stairs open onto a large chamber, a yellow stone affair with a
+high domed roof supported by iron statues of jackal, ibis and leopard,
+standing on their hind legs and supporting the roof with upraised arms
+or their heads. Strange black tendrils of magical energy writhe around
+and between the statues, radiating cold and evil. Only the southern wall
+is devoid of trappings or tendrils. The sand on the floor is stained
+crimson with blood, and is littered with dozens of half devoured corpses
+in various states of decomposition. What manner of vile beast would lair
+here?
+
+A sliding panel closes the stairway behind you as you enter!
+~
+308 616 0 0 0 0 255 0
+D2
+~
+~
+0 0 30880
+S
+#30880
+Corridor of Peril~
+You pass from the dry heat of the arena into the damp chill of a
+narrow tunnel, the likes of which you had grown accustomed to in the
+earlier sections of the dungeon. The walls are of black stone, slick with
+moisture and various growths. A dull, booming sound reverberates through
+this section of the corridor, and you begin to detect the unmistakable
+stench of Chaos in all of this.
+~
+308 616 0 0 0 0 255 0
+D0
+~
+~
+0 0 30879
+D2
+~
+~
+0 0 30881
+S
+#30881
+The Final Curtain?~
+The tunnel ends here, suddenly and without warning, in a dead end.
+Only a thick purple curtain is of note, the rest of the area is without
+interesting features. The booming sound is louder now, and the laughter
+has returned, high-pitched and maniacal. Waves of nausea pass over you as
+you stand here, and you double over, clutching at your stomach, hoping
+the sensation will pass. It doesn't. Gritting your teeth, you look for a
+way to continue.
+~
+308 616 0 0 0 0 255 0
+D0
+~
+~
+0 0 30880
+D2
+A curtain
+~
+curtain~
+1 0 30882
+S
+#30882
+An Opulent Gaol~
+Flinging open the curtain, you stride forth not into the dismal
+lair you expected, but rather into a very well apportioned chamber,
+replete with lavish furnishings, ornate sculptures, intricately woven
+tapestries, and a sumptuous divan, upon which the "prisoner" of this
+chamber reclines. A pile of treasure has been shoved underneath the
+divan, and the glint of gold is an irresistible lure to investigate
+this place further. A large metal door, with an ugly iron lock, is
+subtlely concealed by gossamer veils and strips of soft cloths.
+~
+308 616 0 0 0 0 255 0
+D0
+A curtain.
+~
+curtain~
+1 0 30881
+D2
+A metal door.
+~
+metal door~
+2 30814 30883
+S
+#30883
+A Filthy Den~
+You had no idea what to expect, as you journeyed here in search of the
+mad mage, at the end of your quest, but you are certain that you certainly
+didn't expect Keraptis to be living in such abject squalor as this. Ruined
+furniture, draped with the shredded remains of moldering tapestries, fills
+the small, damp chamber, which drips constantly with water. Torn, stained
+carpet crunches underfoot as you crush broken glass into it. Torn spellbooks
+lie on the scorched remains of wooden bookshelves, lining each wall. A
+gaping hole in the west wall leads to another section of the study, while
+a similar wound in the stonework of the ceiling reveals a crumbling stair
+leading up- a possible escape from this lair if needed. Somewhere within
+this mess lurks the mad mage himself, living up to his name at least.
+~
+308 620 0 0 0 0 255 0
+D0
+A metal door.
+~
+metal door~
+2 30814 30882
+D2
+~
+bookcase~
+2 30818 30893
+D3
+~
+~
+0 0 30884
+D4
+~
+~
+0 0 30885
+S
+#30884
+A Fiery Chamber~
+The rubble strewn chamber revealed by the hole in the wall contains
+very little of interest, save for several small smoldering braziers,
+arranged at the points of a pentacle graven into the black stone floor.
+The air here is dry, and hot, hurting your throat as you gasp for breath.
+The unmistakable stench of sulfur compounds your breathing difficulties.
+~
+308 616 0 0 0 0 255 0
+D1
+~
+~
+0 0 30883
+S
+#30885
+A Crumbling Stairway~
+A narrow, partially ruined staircase wends its way up here, through
+the hole and up towards a glowing, shimmering portal, through which
+you see a very familiar sight. The air is dry here, and rather hot,
+causing pain when you gasp for breath. The stench of sulfur is strong,
+and you occasionally feel waves of heat.
+~
+308 764 0 0 0 0 255 0
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 30883
+S
+#30886
+Boat House~
+   This small warehouse is cluttered with boats in various stages of repair.
+Sawdust covers the floor, no doubt created in the sculpting of the vessels.
+This shop makes any size boat, from a small raft, to an ocean going vessel. If
+you need a boat, you've come to the right place.
+~
+308 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 -1
+S
+#30887
+A Warehouse~
+This warehouse is filled with general goods such as coils of rope, piles of
+cheap cloth, barrels of ale and wine, lanterns, flasks of oil, jars of
+spices and dried meats. There is a sweet aroma in the air.
+~
+308 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 -1
+S
+#30888
+The Hide Out~
+You are standing in a dark, gloomy room, littered with bits of old furniture
+and decaying tapestries. Assassins are a morbid lot, and their guildhall
+serves as a perfect example of this.
+~
+308 588 0 0 0 0 255 0
+D0
+~
+~
+0 0 30889
+D2
+~
+~
+0 0 30800
+S
+#30889
+The Assassins Guild~
+In this room, the ancient Assassin scholar, Menzoah, awaits, ready
+to educate you in the ways of his people. You feel overawed standing in
+his presence.
+~
+308 393804 4 0 0 0 255 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 30888
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#30890
+Entrance to the Shadow Guild~
+You are standing at the bottom of a set of wooden steps covered in dust and
+cobwebs. Footprints show that many others have passed this way, but
+despite this the webs and dust remain as thick as if the steps hadn't
+been traversed for decades.
+~
+308 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 30891
+S
+#30891
+The Guildmaster~
+You have entered a particularly small, dark and cramped chamber that is
+devoid of furniture- the powerful presence hovers in the center of the
+room has no need for any. Shadows swirl and dance in every corner.
+~
+308 393804 0 0 0 0 255 0
+D5
+~
+~
+0 0 30890
+S
+#30892
+A Warehouse~
+This warehouse is filled with hides and furs from animals all over
+the world. 
+~
+308 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 -1
+S
+#30893
+A Secret Chamber~
+   Entering the room you are overwhelmed by the disarray.  Overrun by cobwebs
+and dust, this chamber looks as though it hasnt been entered in over a century.
+Strewn about the floor are rotten and decaying spell books and scrolls.  You
+darent attempt to touch them as they might crumble beneath your fingers.    
+~
+308 0 0 0 0 0 255 0
+D0
+~
+bookcase~
+2 30818 30883
+S
+$~

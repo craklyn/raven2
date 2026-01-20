@@ -1,0 +1,36 @@
+r --;c 'word of recall' $*
+m c 'relocate' $*
+f c 'fly' $*
+calm c 'calm' $*
+su c 'summon' $*
+fs c 'flame strike' $*
+a assist
+saga c 'sagacity' $*
+cl c 'cleanse' $*
+rc c 'remove curse' $*
+rpara c 'remove para' $*
+rp c 'remove poison' $*
+fort c 'fortify' $*
+summon c 'summon' $*
+sanc c 'sanc' $*
+re rest
+infra c 'infra' $*
+sense c 'sense life' $*
+regen c 'regenerate' $*
+cb cast 'cure blind' $*
+bl c 'blind' $*
+ward c 'ward' $*
+sum c 'summon' $*
+di c 'detect invis' $*
+he c 'heal' $*
+cf c 'create food'
+gt gt &13$*&00 
+armor c 'armor' $*
+say say &13$*&00
+hg c 'heal' group
+kk c 'flame strike' $*
+rel c 'relocate' $*
+rr --;c 'word' group
+h c 'revive' $*
+hh c 'heal' $*
+q c 'revive' your

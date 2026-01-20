@@ -1,0 +1,29 @@
+
+To add a new social create it and stuff it in either the a_m or
+n_z subdirectory. See if you can figure out which one. Next, edit
+the mksocials script and place your New And Wonderful social into
+the %socials_list associative array by listing the socials full
+name followed by the minimum position needed to execute it. Once
+this is done, exit mksocials and execute it with a list of all of
+the possible social files that it should use. Viola! A new socials
+and interp_socials.c file will be created.
+
+Example:
+
+1) create raise.soc in n_z with the following:
+
+raise 1 0
+You raise an eyebrow questioningly.
+$n raises an eyebrow questioningly.
+You raise an eyebrow questioningly.
+$n raises an eyebrow questioningly.
+$n raises an eyebrow questioningly.
+Eh, who?
+You wiggle your eyebrows.
+$n wiggles $s eyesbrows.
+
+2) add    "raise", $POS_RESTING   to the array.
+
+3) Generate the new files:   mksocials a_m/* n_z/*
+
+

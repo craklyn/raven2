@@ -1,0 +1,984 @@
+#33000
+Credits Room~
+Boggle.  Someone fried my credits room, will fix in a bit
+~
+330 0 0 0 0 0 255 0
+S
+#33001
+Saliu's Credits Room~
+This room appears to have been made by some sort of divine force.  Magnificent
+hieroglyphes on the walls appear to explain a tale of a long lost land...the lazy river.
+The hieroglyphes tell you about the two-level river system filled with fish,
+bugs, alligators, and many other tropical creatures.  They explain the places like
+the alligator den and the river barracuda hole hidden within the weeds.  Drop in,
+stay a while, and enjoy my new area!
+~
+330 1 0 0 0 0 255 0
+S
+#33002
+A Cascading Waterfall~
+You stand underneath a beautiful waterfall.  Whatever rapids and sharp rocks
+lie above the waterfall are not of your concern.  You feel relaxed and your
+spirit is freed from the troubles of the world.    
+~
+330 393236 0 0 0 7 255 0
+D0
+~
+~
+0 0 39584
+D2
+~
+~
+0 0 33003
+S
+#33003
+Gentle Rapids~
+The river is very slowly flowing south.  All sorts of wildlife seem to inhabit
+the water and the area surrounding it.  Unfortunately, the banks are too steep
+to climb.    
+~
+330 0 0 0 0 6 255 0
+D0
+~
+~
+0 0 33002
+D2
+~
+~
+0 0 33004
+S
+#33004
+Gentle Rapids~
+The river is slowly turning westward.  All sorts of wildlife seem to inhabit
+the water and the area surrounding it.  Unfortunately, the banks are too steep
+to climb.    
+~
+330 0 0 0 0 6 255 0
+D0
+~
+~
+0 0 33003
+D3
+~
+l~
+0 0 33005
+S
+#33005
+Gentle Rapids~
+The gentle rapids, which can hardly be called rapids at all are beginning to
+slow down even further.  To the south...  Calm water.    
+~
+330 0 0 0 0 6 255 0
+D1
+~
+~
+0 0 33004
+D2
+~
+~
+0 0 33006
+S
+#33006
+Shallows~
+You stand in some shallow green water.  You see all sorts of small fish and
+animals hiding among the weeds in the water.  Your observation is frequently
+disturbed by annoying little mosquitos.  To the south lies deeper water.    
+~
+330 0 0 0 0 6 255 0
+D0
+~
+~
+0 0 33005
+D2
+~
+~
+0 0 33010
+D3
+~
+~
+0 0 33007
+S
+#33007
+Shallows~
+You stand in some shallow green water.  You see all sorts of small fish and
+animals hiding among the weeds in the water.  The weeds here are thick, making
+it impossible to swim to the bottom without getting tangled.    
+~
+330 0 0 0 0 6 255 0
+D1
+~
+~
+0 0 33006
+D2
+~
+~
+0 0 33009
+S
+#33008
+Shallows~
+You stand in some shallow green water.  You see all sorts of small fish and
+animals hiding among the weeds in the water.  The weeds here are thick, making
+it impossible to swim to the bottom without getting tangled.    
+~
+330 0 0 0 0 6 255 0
+D1
+~
+~
+0 0 33009
+D2
+~
+~
+0 0 33012
+S
+#33009
+Deep Greenish Pool~
+Although the water is green here it is remarkably clear and looking down into
+the deep greenish water you see hundreds upon hundreds of fish of many
+different shapes and sizes.  Some are small and colourful while others look
+well...  Dangerous.    
+~
+330 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 33007
+D1
+~
+~
+0 0 33010
+D2
+~
+~
+0 0 33013
+D3
+~
+~
+0 0 33008
+D5
+~
+~
+0 0 33028
+S
+#33010
+Shallows~
+You stand in some shallow green water.  You see all sorts of small fish and
+animals hiding among the weeds in the water.  The weeds here are thick, making
+it impossible to swim to the bottom without getting tangled.    
+~
+330 0 0 0 0 6 255 0
+D0
+~
+~
+0 0 33006
+D2
+~
+~
+0 0 33014
+D3
+~
+~
+0 0 33009
+S
+#33011
+An Alligator Den~
+You step out of the water, through some thick reeds, and right into the den of
+an alligator!  Remains of animals both small and quite large litter the den and
+turn the white sand into red.  Watch out...  The mother always protects her
+young!    
+~
+330 69 0 0 0 16 255 0
+D1
+Tall reeds grow to the east.
+~
+reeds~
+1 0 33012
+S
+#33012
+Shallows~
+You stand in some shallow green water.  You see all sorts of small fish and
+animals hiding among the weeds in the water.  The weeds here are thick, making
+it impossible to swim to the bottom without getting tangled.    
+~
+330 0 0 0 0 6 255 0
+D0
+~
+~
+0 0 33008
+D1
+~
+~
+0 0 33013
+D3
+Tall reeds grow to the west.
+~
+reeds~
+1 0 33011
+S
+#33013
+Deep Greenish Pool~
+Although the water is green here it is remarkably clear and looking down into
+the deep greenish water you see hundreds upon hundreds of fish of many
+different shapes and sizes.  Some are small and colourful while others look
+well...  Dangerous.    
+~
+330 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 33009
+D1
+~
+~
+0 0 33014
+D2
+~
+~
+0 0 33018
+D3
+~
+~
+0 0 33012
+D5
+~
+~
+0 0 33029
+S
+#33014
+Deep Greenish Pool~
+Although the water is green here it is remarkably clear and looking down into
+the deep greenish water you see hundreds upon hundreds of fish of many
+different shapes and sizes.  Some are small and colourful while others look
+well...  Dangerous.    
+~
+330 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 33010
+D1
+~
+~
+0 0 33015
+D2
+~
+~
+0 0 33019
+D3
+~
+~
+0 0 33013
+D5
+~
+~
+0 0 33030
+S
+#33015
+Shallows~
+You stand in some shallow green water.  You see all sorts of small fish and
+animals hiding among the weeds in the water.  The weeds here are thick, making
+it impossible to swim to the bottom without getting tangled.    
+~
+330 0 0 0 0 6 255 0
+D1
+~
+~
+0 0 33016
+D3
+~
+~
+0 0 33014
+S
+#33016
+Onto a Wooden Dock~
+You stand on a rickity old dock.  To the west is the Lazy River.  To the east
+is the Great Barracuda Tavern.    
+~
+330 4 16 0 0 12 255 0
+D1
+~
+~
+0 0 33017
+D3
+~
+~
+0 0 33015
+S
+#33017
+On the boardwalk~
+You walk along a short boardwalk towards the Great Barracuda Tavern.  On either
+side of the boardwalk lies mud, water, jagged rocks, and other nasty things
+that you wouldn't want to step in.  It appears that the boardwalk is broken up
+ahead.  To go any further would be dangerous.  Perhaps you will have to visit
+the Great Barracuda Tavern some other time...    
+~
+330 0 0 0 0 12 255 0
+D3
+~
+~
+0 0 33016
+S
+#33018
+Deep Greenish Pool~
+Although the water is green here it is remarkably clear and looking down into
+the deep greenish water you see hundreds upon hundreds of fish of many
+different shapes and sizes.  Some are small and colourful while others look
+well...  Dangerous.    
+~
+330 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 33013
+D1
+~
+~
+0 0 33019
+D2
+~
+~
+0 0 33020
+D5
+~
+~
+0 0 33031
+S
+#33019
+Deep Greenish Pool~
+Although the water is green here it is remarkably clear and looking down into
+the deep greenish water you see hundreds upon hundreds of fish of many
+different shapes and sizes.  Some are small and colourful while others look
+well...  Dangerous.    
+~
+330 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 33014
+D2
+~
+~
+0 0 33021
+D3
+~
+~
+0 0 33018
+D5
+~
+~
+0 0 33032
+S
+#33020
+Deep Greenish Pool~
+Although the water is green here it is remarkably clear and looking down into
+the deep greenish water you see hundreds upon hundreds of fish of many
+different shapes and sizes.  Some are small and colourful while others look
+well...  Dangerous.    
+~
+330 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 33018
+D1
+~
+~
+0 0 33021
+D2
+~
+~
+0 0 33022
+D5
+~
+~
+0 0 33033
+S
+#33021
+Deep Greenish Pool~
+Although the water is green here it is remarkably clear and looking down into
+the deep greenish water you see hundreds upon hundreds of fish of many
+different shapes and sizes.  Some are small and colourful while others look
+well...  Dangerous.    
+~
+330 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 33019
+D3
+~
+~
+0 0 33020
+D5
+~
+~
+0 0 33034
+S
+#33022
+Narrows~
+You come to a narrowing of the river.  The bank slopes down into the water at
+an almost vertical incline.  Surely the dense weeds must contain plenty of life
+forms and perhaps even conceal a few secrets.    
+~
+330 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 33020
+D3
+~
+~
+0 0 33023
+D5
+~
+~
+0 0 33035
+S
+#33023
+Narrows~
+You come to a narrowing of the river.  The bank slopes down into the water at
+an almost vertical incline.  Surely the dense weeds must contain plenty of life
+forms and perhaps even conceal a few secrets.    
+~
+330 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 33022
+D2
+~
+~
+0 0 33024
+D5
+~
+~
+0 0 33036
+S
+#33024
+Narrows~
+You come to a narrowing of the river.  The bank slopes down into the water at
+an almost vertical incline.  Surely the dense weeds must contain plenty of life
+forms and perhaps even conceal a few secrets.
+~
+330 4 0 0 0 7 255 0
+D0
+~
+~
+0 0 33023
+D2
+~
+~
+0 0 33025
+D5
+~
+~
+0 0 33037
+S
+#33025
+Widening~
+The river empties here into a massive marsh.  Looking around, all you can
+see is endless mud, slime, and annoying insects.  It'd prolly be better
+off to keep your new equipment clean for now.  You can soil them later.
+~
+330 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 33024
+S
+#33026
+Marshland~
+You are in an unfinished room.
+~
+330 0 0 0 0 7 255 0
+D3
+~
+~
+0 0 33025
+S
+#33027
+Marshland~
+You are in an unfinished room.
+~
+330 0 0 0 0 7 255 0
+D1
+~
+~
+0 0 33025
+S
+#33028
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D2
+~
+~
+0 0 33029
+D4
+~
+~
+0 0 33009
+S
+#33029
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D0
+~
+~
+0 0 33028
+D1
+~
+~
+0 0 33030
+D2
+~
+~
+0 0 33031
+D4
+~
+~
+0 0 33013
+S
+#33030
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D2
+~
+~
+0 0 33032
+D3
+~
+~
+0 0 33029
+D4
+~
+~
+0 0 33014
+S
+#33031
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D0
+~
+~
+0 0 33029
+D1
+~
+~
+0 0 33032
+D2
+~
+~
+0 0 33033
+D4
+~
+~
+0 0 33018
+S
+#33032
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D0
+~
+~
+0 0 33030
+D2
+~
+~
+0 0 33034
+D3
+~
+~
+0 0 33031
+D4
+~
+~
+0 0 33019
+S
+#33033
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D0
+~
+~
+0 0 33031
+D1
+~
+~
+0 0 33034
+D2
+~
+~
+0 0 33035
+D4
+~
+~
+0 0 33020
+S
+#33034
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D0
+~
+~
+0 0 33032
+D3
+~
+~
+0 0 33033
+D4
+~
+~
+0 0 33021
+S
+#33035
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D0
+~
+~
+0 0 33033
+D3
+~
+~
+0 0 33036
+D4
+~
+~
+0 0 33022
+S
+#33036
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  Perhaps because this is the perfect river.    
+~
+330 0 0 0 0 8 255 0
+D1
+~
+~
+0 0 33035
+D2
+~
+~
+0 0 33037
+D4
+~
+~
+0 0 33023
+S
+#33037
+In the Depths of the Greenish Pool~
+You seem to have swam into the center of life.  Fish of many brilliant colours
+swim all around you.  You can't help but notice how all the organisms here seem
+to be in perfect health.  The river gets shallow south.    
+~
+330 0 0 0 0 8 255 0
+D0
+~
+~
+0 0 33036
+D4
+~
+~
+0 0 33024
+S
+#33038
+Hidden Underwater Tunnel~
+Amazing!  A underwater tunnel that is hidden from the outside world!  In here,
+you no longer see any small fish...  You try to hide among the rocks on the
+side of the tunnel but there is no guarantee that you will remain safe...    
+~
+330 5 0 0 0 8 255 0
+D0
+~
+~
+0 0 33034
+D1
+~
+~
+0 0 33039
+S
+#33039
+Hidden Underwater Tunnel~
+You can't help but feel in danger seeing remains of something that is too
+mangled to determine its origin.  You are pretty sure you won't be remaining
+safe for long...    
+~
+330 1 0 0 0 8 255 0
+D1
+~
+~
+0 0 33040
+D3
+~
+~
+0 0 33038
+S
+#33040
+Widening Area~
+You can't help but feel in danger seeing remains of something that is too
+mangled to determine its origin.  You are pretty sure you won't be remaining
+safe for long...    
+~
+330 1 0 0 0 8 255 0
+D1
+~
+~
+0 0 33041
+D2
+~
+~
+0 0 33042
+D3
+~
+~
+0 0 33039
+S
+#33041
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.    
+~
+330 33 0 0 0 8 255 0
+D0
+~
+~
+0 0 33043
+D1
+~
+~
+0 0 33045
+D3
+~
+~
+0 0 33040
+S
+#33042
+Warm Water Spring~
+Some sort of warm water spring seems to be here.  Luckily for you, most of the
+other organisms seem not to like the boiling water.  To you, it feels like a
+sauna.    
+~
+330 393317 0 0 0 8 255 0
+D0
+~
+~
+0 0 33040
+D4
+Air at last?
+~
+~
+0 0 33051
+S
+#33043
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.    
+~
+330 33 0 0 0 8 255 0
+D0
+~
+~
+0 0 33046
+D1
+~
+~
+0 0 33044
+D2
+~
+~
+0 0 33041
+S
+#33044
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.
+~
+330 33 0 0 0 8 255 0
+D2
+~
+~
+0 0 33045
+D3
+~
+~
+0 0 33043
+S
+#33045
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.
+~
+330 33 0 0 0 8 255 0
+D0
+~
+~
+0 0 33044
+D3
+~
+~
+0 0 33041
+S
+#33046
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.    
+~
+330 33 0 0 0 8 255 0
+D0
+~
+0~
+0 0 33047
+D2
+~
+~
+0 0 33043
+S
+#33047
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.    
+~
+330 33 0 0 0 8 255 0
+D0
+~
+~
+0 0 33050
+D2
+~
+~
+0 0 33046
+D3
+~
+~
+0 0 33048
+S
+#33048
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.    
+~
+330 33 0 0 0 8 255 0
+D0
+~
+~
+0 0 33049
+D1
+~
+~
+0 0 33047
+S
+#33049
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.    
+~
+330 33 0 0 0 8 255 0
+D1
+~
+~
+0 0 33050
+D2
+~
+~
+0 0 33048
+S
+#33050
+Underwater Caverns~
+You swim about in a dark underwater cavern.  For the first time ever, your
+concentration is not on breathing underwater but rather the dark shadows that
+seem to dart by just outside of clarity.    
+~
+330 33 0 0 0 8 255 0
+D2
+~
+~
+0 0 33047
+D3
+~
+~
+0 0 33049
+S
+#33051
+the Chamber of the Ages~
+You have stumbled into what appears to be the home of some
+ancient entity that has since left this place.
+
+A message is carved into the stone walls here and reads:
+
+"This is my legacy.  All of my work and my efforts in this 
+world are now irrelevant.  The only thing that matters is
+that I am remembered for who I am.  All the demons I have
+slain and all the adventurers I have helped along the way
+are but mere memories.  In my soul, I have achieved the
+inner strength that I yearned for and for my spirit, I have
+won peace eternal.  This my friend, is my legacy.
+
+Salkris Lum IIXII"
+
+You marvel at what is written on the walls here and cannot
+even begin to fathom the true meaning of this message.
+Throughout this room you can feel a brilliant radiance that
+could only be the protection that Salkris brings to those
+that respect his legacy.  A guardian from days long past..
+~
+330 8782568 0 0 0 0 255 0
+D5
+The warm spring
+~
+~
+0 0 33042
+E
+block_msg_char~
+$N telepathecally tells you, "Only masters of darkness can enter the test of the Lunar Spirits".
+~
+E
+block_msg_room~
+$n begins to proceed forward but suddenly stops as if they received some sort of warning against it.
+~
+E
+block_dir~
+north
+~
+S
+Z 18
+$~

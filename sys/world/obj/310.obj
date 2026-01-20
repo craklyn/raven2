@@ -1,0 +1,1421 @@
+#31000
+box~
+a box with your name written on it~
+A box with your name written on its lid lies here.~
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0
+1 0 1000
+B
+0 0 0 0
+#31001
+gold~
+some gold~
+Some gold has been dropped here. Looks like just two bits.~
+~
+20 0 0 0 0 1 0 0 0
+2 0 0 0
+2 0 0
+B
+0 0 0 0
+#31002
+note parchment~
+a note written on a small piece of parchment~
+A note written on a small piece of parchment lies here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+note parchment~
+The note is addressed to you, and it reads-
+
+"Well done. At least you had the sense to stop and take advantage of the
+token aid given to you. Now I can advise you that you will need to find and
+use several items if you hope to pass trimumphantly through my Deathtrap
+Dungeon. Signed Sukumvit."
+~
+B
+0 0 0 0
+#31003
+large iron bell~
+a large iron bell~
+A large iron bell hangs from the ceiling here.~
+~
+3 65548 0 0 0 16385 0 0 0
+30 1 1 2
+2 1000 100
+E
+bell~
+Ringing it may be dangerous, so you decide not to.
+~
+B
+0 0 0 0
+#31004
+leather bag~
+a leather bag~
+A leather bag lies in the dust here.~
+~
+15 0 0 0 0 1 0 0 0
+100 5 -1 0
+1 0 100
+B
+0 0 0 0
+#31005
+corked earthenware jug~
+a corked earthenware jug~
+A corked earthenware jug rolls about on the floor here.~
+~
+10 0 0 0 0 1 0 0 0
+30 33 4 38
+3 100 10
+E
+corked earthenware jug~
+It smells slightly acidic...
+~
+B
+0 0 0 0
+#31006
+club~
+a club~
+A rather crude club has been left here, perhaps intentionally.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 6 5
+10 0 625
+A
+13 15
+A
+2 2
+B
+0 0 0 0
+#31007
+leather wristband~
+a leather wristband from which 4 small rat skulls hang~
+A leather wristband decorated with small rat skulls lies here.~
+~
+11 640 0 0 0 4097 0 0 0
+0 0 0 0
+3 1000 275
+E
+leather wristband skull skulls~
+It looks like a piece of Hag jewellery, items that are traditionally thought
+to bear terrible curses for anyone who wears them other than the Hag who
+created them. Be careful!
+~
+A
+3 2
+A
+19 2
+A
+17 -5
+B
+0 0 0 0
+#31008
+large leather backpack~
+a large leather backpack~
+A large leather backpack has been abandoned here.~
+~
+15 0 0 0 0 1 0 0 0
+150 5 0 0
+5 100 150
+E
+leather backpack~
+It looks sturdy and dependable.
+~
+B
+0 0 0 0
+#31009
+coin~
+a gold coin~
+A gold coin has been left here. Tsk.~
+~
+20 0 0 0 0 1 0 0 0
+1 0 0 0
+1 0 0
+B
+0 0 0 0
+#31010
+water bamboo tube~
+a bamboo tube~
+A bamboo tube rests against one wall here.~
+~
+17 0 0 0 0 1 0 0 0
+10 10 0 0
+2 20 100
+E
+bamboo tube~
+The tube is full of what looks like water.
+~
+B
+0 0 0 0
+#31011
+coil rope~
+a coil of rope~
+A coil of rope lies here.~
+~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0
+2 100 60
+A
+2 1
+A
+3 1
+B
+0 0 0 0
+#31012
+morning star~
+a morning star~
+A spiked ball attached to a long chain with a wooden handle lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 6 3
+10 500 515
+E
+morning star~
+This is a truly wicked weapon.
+~
+A
+18 1
+A
+19 1
+A
+5 1
+B
+0 0 0 0
+#31013
+hollow wooden tube~
+a hollow wooden tube~
+A hollow wooden tube has been discarded here.~
+~
+3 0 0 0 0 16385 0 0 0
+30 1 1 119
+1 500 50
+E
+tube~
+This tube would allow you to stay underwater for a brief period.
+~
+B
+0 0 0 0
+#31014
+corpse~
+the corpse of a barbarian~
+The corpse of one of your competitors is impaled on a nasty trap here.~
+~
+15 0 0 0 0 0 0 0 0
+200 0 -1 0
+100 0 200
+E
+corpse~
+This barbarian was impaled on a spiked board that popped up out of
+the floor when he tripped a wire.
+~
+B
+0 0 0 0
+#31015
+spiked~
+a spiked board~
+A spiked board has impaled a barbarian here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+spiked board~
+This cunning trap impales whoever trips the trip wire by springing up from
+the floor and impaling them.
+~
+B
+0 0 0 0
+#31016
+rubbish debris~
+accumulated rubbish and debris~
+Piles of accumulated rubbish and debris litter the floor.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0
+E
+rubbish debris~
+Doubtless this debris made the tripwire impossible for the barbarian to see.
+~
+B
+0 0 0 0
+#31017
+silver goblet~
+a silver goblet~
+A silver goblet rests in an alcove here.~
+~
+10 0 4096 0 0 1 0 0 0
+30 69 71 34
+3 500 50
+E
+silver goblet~
+It is filled with a red liquid.
+~
+B
+0 0 0 0
+#31018
+pouch~
+a small pouch~
+A small pouch has fallen on the ground here.~
+~
+15 0 0 0 0 1 0 0 0
+100 5 -1 0
+5 100 100
+E
+pouch~
+It appears to be a herb pouch.
+~
+B
+0 0 0 0
+#31019
+herbal meat~
+some herbal meat~
+Some herbal meat has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+12 30 28 0
+2 100 36
+E
+herbal meat~
+It smells GOOD!
+~
+B
+0 0 0 0
+#31020
+emerald jewel gem~
+a large emerald~
+A large green jewel lies here, forgotten.~
+~
+18 1 0 0 0 1 0 0 0
+0 0 0 0
+2 10000 0
+E
+emerald jewel gem~
+This looks to be some sort of key...
+~
+B
+0 0 0 0
+#31021
+opal studded dagger~
+an opal-studded dagger~
+An opal-studded dagger is stuck in the ground here.~
+~
+5 3846144 32 0 0 8193 0 0 0
+0 12 3 11
+3 1000 1775
+A
+19 2
+A
+2 2
+A
+18 1
+B
+0 0 0 0
+#31022
+mirror wall~
+a mirror of distortion~
+A wall-length mirror is affixed to the wall here.~
+~
+24 66 0 0 0 0 0 0 0
+20204 5 10 0
+150 0 0
+E
+mirror~
+The mirror looks to be firmly attached, though with a bit of effort you are
+sure you could break it free. Looking into it, you notice your image is
+strangely distorted, and you begin to experience a severe headache. Perhaps
+you'd be better off leaving it be...
+~
+B
+0 0 0 0
+#31023
+stone statue~
+a stone statue~
+A stone statue of a paladin stands here.~
+~
+12 67174408 0 0 0 0 0 0 0
+0 0 0 0
+250 0 0
+E
+statue paladin~
+The paladin's face is contorted in a grimace of pain, as if he had suddenly
+suffered some horrid wound.
+~
+B
+0 0 0 0
+#31024
+stone statue~
+a stone statue~
+A stone statue of a monk stands here.~
+~
+12 33619976 0 0 0 0 0 0 0
+0 0 0 0
+250 0 0
+E
+statue monk~
+The monk's face is contorted in a grimace of pain, as if he had suddenly
+suffered some horrid wound.
+~
+B
+0 0 0 0
+#31025
+stone statue~
+a stone statue~
+A stone statue of a wizard stands here.~
+~
+12 33619976 0 0 0 0 0 0 0
+0 0 0 0
+250 0 0
+E
+statue wizard~
+The wizard's face is contorted in a grimace of pain, as if he had suddenly
+suffered some horrid wound.
+~
+B
+0 0 0 0
+#31026
+stone statue~
+a stone statue~
+A stone statue of a thief stands here.~
+~
+12 33619976 0 0 0 0 0 0 0
+0 0 0 0
+250 0 0
+E
+statue thief~
+The thief's face is contorted in a grimace of pain, as if he had suddenly
+suffered some horrid wound.
+~
+B
+0 0 0 0
+#31027
+ornate helm~
+an ornate helm~
+An ornate helm rests here. It looks to be centuries old.~
+~
+9 139247681 0 0 0 17 0 0 0
+5 0 0 0
+10 1000 435
+A
+12 25
+A
+19 2
+A
+3 1
+B
+0 0 0 0
+#31028
+bloodstealer sword~
+the Bloodstealer~
+A sword smeared with dried blood lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 6 3
+10 1000 475
+A
+3 1
+A
+19 1
+B
+0 0 0 0
+#31029
+parchment~
+a piece of parchment~
+An old piece of parchment lies here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+parchment~
+The parchment bears a sketch of a man-headed lion, with an inscription
+beneath-
+"Should you meet the Manticore,
+ Of its tail beware.
+ Shield yourself against the spikes
+ Flying through the air."
+~
+B
+0 0 0 0
+#31030
+boots~
+a pair of leather boots~
+A pair of leather boots rest here.~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+2 500 430
+A
+13 20
+A
+2 2
+A
+19 1
+B
+0 0 0 0
+#31031
+cloak~
+a tattered cloak~
+A tattered cloak lies neglected on the floor here.~
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0
+4 1000 940
+A
+17 -20
+A
+5 2
+A
+19 2
+A
+18 1
+B
+0 0 0 0
+#31032
+scale mail~
+a suit of archaic scale mail~
+This suit of scale mail must be at least 200 years old...~
+~
+9 524288 0 0 0 9 0 0 0
+5 0 0 0
+10 1000 795
+A
+5 2
+A
+3 2
+A
+12 15
+A
+9 20
+B
+0 0 0 0
+#31033
+ring trialmaster~
+the Ring of TrialMasters~
+A ring is lying here~
+~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+3 1000 635
+A
+19 3
+A
+18 3
+A
+17 -5
+A
+2 2
+A
+33 25
+B
+0 0 0 0
+#31034
+mushrooms~
+some tasty-looking mushrooms~
+Some tasty-looking mushrooms grow here.~
+~
+10 0 0 0 0 1 0 0 0
+30 19 44 50
+1 500 50
+E
+mushrooms~
+They appear to be free of contamination.
+~
+B
+0 0 0 0
+#31035
+short sword~
+a sharp short sword~
+A sharp short sword lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 6 6 3
+5 1000 1145
+A
+18 2
+A
+1 2
+A
+19 1
+B
+0 0 0 0
+#31036
+spear~
+a short throwing spear~
+A short throwing spear has been thrust into the dirt here.~
+a spear~
+7 0 0 0 0 1 0 0 0
+2 5 6 1
+3 500 0
+B
+0 0 0 0
+#31037
+skull~
+a human skull~
+A human skull rests here.~
+~
+15 0 0 0 0 16385 0 0 0
+100 0 -1 0
+10 200 190
+E
+skull~
+It appears to contain some yellow stones...
+~
+A
+3 2
+B
+0 0 0 0
+#31038
+jewel yellow topaz gem~
+a topaz~
+A yellow jewel lies here.~
+~
+20 0 0 0 0 1 0 0 0
+50000 0 0 0
+5 0 0
+E
+topaz~
+Yawn. A semi-precious stone.
+~
+B
+0 0 0 0
+#31039
+jewel yellow topaz gem~
+a topaz~
+A yellow jewel lies here.~
+~
+20 0 0 0 0 1 0 0 0
+50000 0 0 0
+5 0 0
+E
+topaz~
+Yawn. A semi-precious stone.
+~
+B
+0 0 0 0
+#31040
+loaded crossbow~
+a loaded crossbow~
+A loaded crossbow is aimed fair at you.~
+~
+6 0 0 0 0 24577 0 0 0
+1 2 1 0
+10 0 0
+B
+0 0 0 0
+#31041
+marble plinth~
+a marble plinth~
+A marble plinth stands in the center of the room.~
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0
+1000 0 1000
+E
+plinth~
+It appears to be hollow...
+~
+B
+0 0 0 0
+#31042
+wooden ball red~
+a red wooden ball~
+A red wooden ball rolls across the floor.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+2 0 0
+B
+0 0 0 0
+#31043
+wooden ball blue~
+a blue wooden ball~
+A blue wooden ball rolls across the floor.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+2 0 0
+B
+0 0 0 0
+#31044
+withered hand~
+a withered hand~
+A withered hand is nailed to the door here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+1000 0 0
+E
+hand~
+It is rather badly decayed.
+~
+B
+0 0 0 0
+#31045
+box~
+a wooden box~
+A small wooden box rests here.~
+~
+15 0 0 0 0 0 0 0 0
+500 5 -1 0
+100 0 500
+E
+box~
+It is covered with slime, and rattles when you shake it.
+~
+B
+0 0 0 0
+#31046
+iron key~
+an iron key~
+An iron key lies here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+iron key~
+Despite having spent considerable time in a damp sewer, it is free of
+corrosion.
+~
+B
+0 0 0 0
+#31047
+large gem sapphire~
+a sapphire~
+A large gem lies forgotten here.~
+~
+18 1 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+sapphire gem~
+It appears to be a key of some sort...
+~
+B
+0 0 0 0
+#31048
+broad axe~
+a broad axe~
+A broad axe lies on the ground.~
+~
+5 5009408 32 0 0 8193 0 0 0
+0 6 5 3
+15 1000 735
+A
+3 2
+A
+19 2
+B
+0 0 0 0
+#31049
+loincloth~
+a loincloth~
+A loincloth fashioned from bear furs has been dropped here.~
+~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0
+5 500 200
+E
+loincloth~
+It is badly stained.
+~
+A
+2 2
+A
+18 2
+B
+0 0 0 0
+#31050
+fur lined boots~
+a pair of fur-lined boots~
+A pair of fur-lined boots, good for walking, rest here.~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+5 500 290
+A
+17 -10
+A
+2 3
+B
+0 0 0 0
+#31051
+throwing dagger~
+a throwing dagger~
+A throwing dagger is stuck in the ground here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 6 6 11
+3 500 1085
+E
+throwing dagger~
+It is well-balanced.
+~
+A
+18 2
+A
+3 2
+B
+0 0 0 0
+#31052
+tattoo~
+a tattoo~
+A rough tattoo has been torn from someone's arm.~
+~
+11 0 0 0 0 32769 0 0 0
+0 0 0 0
+1 100 250
+E
+tattoo~
+It appears to be some sort of primitive tribal symbol.
+~
+A
+1 2
+A
+19 2
+B
+0 0 0 0
+#31053
+piece paper brown curled~
+a piece of brown, curled paper~
+A piece of paper, brown and curled with age, is pinned to the wall.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+paper~
+A message written in blood says- "BEWARE One of your group is a traitor!".
+~
+B
+0 0 0 0
+#31054
+red leather bound book~
+a red leather-bound book~
+A dusty red leather-bound book rests on a stone ledge here.~
+~
+2 0 0 0 0 1 0 0 0
+30 36 0 0
+5 2000 200
+E
+red leather book~
+It is an ancient treatise on the nature of Bloodbeasts, and may be worth no
+small amount to a dealer in such items.
+~
+B
+0 0 0 0
+#31055
+black leather bound book~
+a black leather-bound book~
+A dusty black leather-bound book rests on a stone ledge here.~
+~
+15 0 0 0 0 1 0 0 0
+100 5 -1 0
+10 100 100
+E
+black leather book~
+Upon closer examination, you notice that this "book" is in fact hollow,
+with the pages having been cut out and stuck together to form a storage
+cache.
+~
+B
+0 0 0 0
+#31056
+small corked bottle clear liquid~
+a small corked bottle~
+A small corked bottle containing a clear liquid lies here.~
+~
+10 64 0 0 0 1 0 0 0
+30 86 118 54
+2 2000 200
+E
+bottle~
+It is a long, narrow affair, much like a test tube.
+~
+E
+liquid~
+You tell me!
+~
+B
+0 0 0 0
+#31057
+bone ring talisman~
+a bone ring~
+A bone ring has been dropped here.~
+~
+11 1098304 0 0 0 3 0 0 0
+0 0 0 0
+2 1000 480
+E
+bone ring~
+It is engraved with symbols that identify it as some sort of Druidic
+talisman.
+~
+A
+12 30
+A
+2 2
+A
+1 2
+B
+0 0 0 0
+#31058
+leather pouch~
+a small leather pouch~
+A small leather pouch lies nearby.~
+~
+15 0 0 0 0 1 0 0 0
+10 0 0 0
+5 50 10
+E
+pouch~
+It wouldn't hold very damn much.
+~
+B
+0 0 0 0
+#31059
+wicker basket~
+a wicker basket~
+A wicker basket, much like those used by snake charmers, rests here.~
+~
+15 0 0 0 0 1 0 0 0
+25 0 0 0
+1 0 25
+B
+0 0 0 0
+#31060
+crossbow~
+a light crossbow~
+A light crossbow, cocked and ready to fire, has been left here.~
+~
+5 0 0 0 0 1 0 0 0
+0 1 1 11
+5 0 2
+B
+0 0 0 0
+#31061
+dwarven mail finely made chainmail~
+a suit of finely-made chainmail~
+A suit of Dwarven mail lies here.~
+~
+9 0 0 0 0 1 0 0 0
+0 0 0 0
+8 0 0
+E
+dwarven mail armor~
+It affords excellent protection to its wearer.
+~
+B
+0 0 0 0
+#31062
+ale stout~
+a pint of ale~
+A pint of ale, a nice dark stout, foams away here.~
+~
+17 0 0 0 0 1 0 0 0
+7 7 4 1
+1 0 70
+E
+guiness stout~
+It's fockin' good!
+~
+B
+0 0 0 0
+#31063
+roast meal~
+a roast meal~
+A steaming meal of vegetables and beef sits here.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+3 0 72
+E
+roast meal~
+It looks and smells delicious.
+~
+B
+0 0 0 0
+#31064
+casket~
+a wooden casket~
+A small wooden casket rests here.~
+~
+15 0 0 0 0 0 0 0 0
+500 5 -1 0
+100 0 500
+E
+casket~
+It rattles when you shake it.
+~
+B
+0 0 0 0
+#31065
+velvet bag~
+a velvet bag~
+A velvet bag lies here, forgotten.~
+~
+15 0 0 0 0 1 0 0 0
+100 5 -1 0
+5 1000 100
+E
+velvet bag~
+It is very finely embroidered.
+~
+B
+0 0 0 0
+#31066
+large pearl~
+a large pearl~
+A large pearl, fresh from the sea, rests here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+1 500 0
+E
+pearl~
+It is large but probably not as valuable as you may think.
+~
+B
+0 0 0 0
+#31067
+crown~
+a crown~
+A crown set with magnificent jewels sparkles here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 10 0
+E
+crown~
+Upon closer inspection, you notice that the "jewels" are in fact cheap glass
+and paste.
+~
+B
+0 0 0 0
+#31068
+plate food~
+a plate of food~
+A plate of food sits here, untouched.~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 1
+1 0 12
+B
+0 0 0 0
+#31069
+tray~
+a serving tray~
+A heavy serving tray has been dropped here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 6 7
+10 500 485
+E
+tray~
+It weighs a lot, and would doubtless do someone an injury if you hit them
+on the head with it.
+~
+A
+18 1
+A
+19 1
+B
+0 0 0 0
+#31070
+glass water~
+a glass of water~
+A glass of water sits here.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 0 1
+1 0 10
+B
+0 0 0 0
+#31071
+chair bird~
+a chair~
+A chair carved in the shape of a grotesque bird sits near one wall.~
+~
+15 0 0 0 0 0 0 0 0
+100 5 -1 0
+100 0 100
+E
+chair~
+You notice a small panel which may slide open...
+~
+B
+0 0 0 0
+#31072
+glass phial~
+a glass phial~
+A glass phial rests here.~
+~
+10 64 0 0 0 1 0 0 0
+30 119 118 116
+2 500 50
+B
+0 0 0 0
+#31073
+helm~
+a magnificent winged helm~
+A magnificent winged helm rests on a stick here.~
+~
+9 5009409 32 0 0 17 0 0 0
+7 0 0 0
+5 500 325
+E
+helm winged~
+It is truly magnificent. The stuff of legend, really.
+~
+A
+2 2
+A
+5 2
+A
+3 2
+B
+0 0 0 0
+#31074
+west cherub fountain~
+a fountain carved in the shape of a cherub~
+A fountain carved in the shape of a cherub rests near the west wall.~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 0 0
+1000 0 0
+E
+fountain~
+The water looks cool and refreshing.
+~
+B
+0 0 0 0
+#31075
+east cherub fountain~
+a fountain carved in the shape of a cherub~
+A fountain carved in the shape of a cherub rests near the east wall.~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 0 0
+1000 0 0
+E
+fountain~
+The water looks cool and refreshing.
+~
+B
+0 0 0 0
+#31076
+dagger~
+a dagger~
+A small dagger is stuck in the ground here.~
+~
+5 1 0 0 0 8193 0 0 0
+0 5 6 11
+5 500 685
+E
+dagger~
+It is of elven make.
+~
+A
+18 2
+A
+19 2
+A
+3 1
+B
+0 0 0 0
+#31077
+snake skin~
+a snake skin~
+This skin would make a funky-ass belt.~
+~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0
+3 200 250
+A
+1 2
+A
+19 2
+B
+0 0 0 0
+#31078
+elven boots~
+a pair of elven boots~
+A pair of soft elven boots lie here.~
+~
+11 64 0 0 0 65 0 0 0
+0 0 0 0
+3 500 200
+A
+18 2
+A
+2 2
+B
+0 0 0 0
+#31079
+metal grille~
+a metal grille~
+A metal grille is set in the floor here.~
+~
+15 0 0 0 0 0 0 0 0
+1000 0 0 0
+10000 0 1000
+E
+grille~
+You fancy you can see something shiny within.
+~
+B
+0 0 0 0
+#31080
+grappling iron~
+a grappling iron~
+A grappling iron has been left here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 6 22
+8 200 485
+E
+grappling iron~
+This would make a simple but effective weapon.
+~
+A
+18 1
+A
+19 1
+B
+0 0 0 0
+#31081
+chest~
+a large oak chest~
+A large oak chest bound with bands of iron rest here.~
+~
+15 0 0 0 0 1 0 0 0
+500 5 0 0
+100 0 500
+E
+chest~
+It looks rather heavy but you think you could lift it.
+~
+B
+0 0 0 0
+#31082
+pendant~
+a silver pendant~
+A silver pendant, once set with a stone now long gone, lies here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+2 1000 0
+E
+pendant~
+Even without the gem the silver is worth a fair bit.
+~
+B
+0 0 0 0
+#31083
+large golden effigy~
+a large golden effigy~
+A large golden effigy that serves as a Troglodyte totem stands tall here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+640 0 0
+E
+effigy~
+Its kinda hard to describe. Grab a copy of Deathtrap Dungeon and check out
+the picture with reference 230. ;)
+~
+B
+0 0 0 0
+#31084
+stone axe~
+a crude stone axe~
+A crude stone axe.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 6 7
+5 200 475
+A
+3 1
+A
+19 1
+B
+0 0 0 0
+#31085
+crude wooden spear~
+a crude wooden spear~
+A crude wooden spear.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 6 14
+3 200 455
+A
+1 1
+A
+18 1
+B
+0 0 0 0
+#31086
+loincloth~
+a feces-stained loincloth~
+A loincloth stained with Troglodyte feces lies here, unwanted.~
+~
+9 16 0 0 0 2049 0 0 0
+2 0 0 0
+3 100 660
+E
+loincloth~
+DON'T wear THAT!
+~
+A
+6 -5
+B
+0 0 0 0
+#31087
+dust~
+magic dust~
+Some magic dust floats about here.~
+~
+4 1 0 0 0 1 0 0 0
+25 1 1 56
+1 800 0
+B
+0 0 0 0
+#31088
+pair white boots~
+a pair of white boots~
+A white pair of soft boots with gold buckles have been left here.~
+~
+11 137805825 16390 0 0 65 0 0 0
+0 0 0 0
+1 32183 140
+E
+boots~
+These boots have been made of a fine leather and stained white.  They have
+fine gold trim and accents.
+~
+A
+12 20
+B
+0 0 0 0
+#31089
+brown belt~
+a brown belt with a gold buckle~
+A brown belt with a shiny gold buckle has been dropped here.~
+~
+9 0 0 0 0 1 0 0 0
+0 0 0 0
+2 0 0
+B
+0 0 0 0
+#31090
+green breeches~
+a pair of sturdy green breeches~
+A pair of sturdy green breeches have been neatly folded up here.~
+~
+9 64 0 0 0 1 0 0 0
+0 0 0 0
+5 0 0
+B
+0 0 0 0
+#31091
+green tunic~
+a bright green tunic~
+A homespun bright green tunic has been hung from a hook here.~
+~
+9 64 0 0 0 1 0 0 0
+0 0 0 0
+4 0 0
+B
+0 0 0 0
+#31092
+pipe~
+a pipe~
+A pipe smokes away here.~
+~
+1 1 0 0 0 1 0 0 0
+0 0 -1 0
+1 0 1000
+B
+0 0 0 0
+#31093
+green hat~
+a green hat with a gold buckle~
+A green puritan style hat with a gold buckle sits here.~
+~
+9 64 0 0 0 1 0 0 0
+0 0 0 0
+3 0 0
+B
+0 0 0 0
+#31094
+leather backpack~
+a leather backpack~
+A magical leather backpack rest here, half-open.~
+~
+15 0 0 0 0 1 0 0 0
+250 1 0 0
+5 0 250
+B
+0 0 0 0
+#31095
+unleavened bread~
+some elven unleavened bread~
+A loaf of elven bread sits here.~
+~
+19 64 0 0 0 1 0 0 0
+24 30 28 0
+1 0 72
+E
+elven bread~
+Elven bread is rumored to have magical qualities.
+~
+B
+0 0 0 0
+#31096
+mirror~
+a small silvered mirror~
+A small silvered mirror rests here.~
+~
+3 64 0 0 0 1 0 0 0
+30 1 1 4
+2 200 20
+B
+0 0 0 0
+#31097
+bone monkey charm~
+a bone monkey charm~
+A bone monkey charm attached to a leather thong has been discarded here.~
+~
+2 64 0 0 0 1 0 0 0
+45 1 3 111
+1 200 20
+B
+0 0 0 0
+#31098
+leather pouch~
+a small leather pouch~
+A small leather pouch has fallen on the ground here.~
+~
+15 0 0 0 0 1 0 0 0
+100 5 -1 0
+1 0 100
+B
+0 0 0 0
+#31099
+tiny brass bell~
+a tiny brass bell~
+A tiny brass bell rests here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+tiny brass bell~
+ding ding
+~
+B
+0 0 0 0
+$~

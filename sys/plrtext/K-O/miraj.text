@@ -1,0 +1,26 @@
+z scan
+wa wake;stand
+v cas 'shadow blades' $*
+blur cas 'blur'
+c shadow
+sv cas 'shadow vis' $*
+invis cas 'invis' $*
+bl cas 'blind' $*
+dom cas 'dance of mist' $1
+dod cas 'dance of dreams' $1
+curse cas 'curse' $1
+9 tit has &08Forsaken&00 the &10Light&00 to an eternity of &07Darkness&00
+life cas 'sense life
+clan cla &14$* &00
+b back $*
+p enter portal
+o order follower $*
+t trip $*
+id tog color off;use wand $*;tog color on
+step shadowstep $*
+dream cas 'dance of dreams' $*
+walk cas 'shadow walk'
+sphere cas 'shadow sphere'
+mist shadowmist $*
+a cas 'shadow blad' grim
+q get all all.miraj;wear all;get all all.miraj;wear all;wield dag;hold eye;rem bee;wear pain

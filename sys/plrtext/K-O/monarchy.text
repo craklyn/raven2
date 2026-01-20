@@ -1,0 +1,37 @@
+t rev khog
+rc cast ' remove curse '$*
+k kill$*
+gs gt &14|&00&13$*&00 &14|&00
+1 cast ' summon ' pickles
+f cast ' flame strike '$*
+earth cast 'earthquake'$*
+rp cast 'remove paralysis'$*
+heal cast ' heal '$*
+rev cast ' revive '$*
+sag cast ' sagacity '$*
+o order follower$*
+at cast ' assistant '$*
+bless cast ' bless '$*
+g get all all.corpse
+go norecall; nosummon
+fort cast ' fort '$*
+sanc cast ' sanc '$*
+ww cast ' word of recall '$*
+sum cast ' summon '$*
+regen cast ' regen '$*
+b cast ' blind '$*
+fly cast ' fly '$*
+ward cast ' ward '$*
+arm cast ' armor '$*
+sense cast ' sense '$*
+di cast ' detect invis '$*
+infra cast ' infra ' $*
+home n;n;n;n;n;n;n;n;n;e;e;s;e
+wa wake;stand
+rr recite el
+goto cast ' relocate '$*
+say say &14|&00&13$*&00 &14|&00
+q ' take me to alma kinan
+clean cast ' cleanse '$*
+cb cast ' cure blind '$*
+h cast ' revive '$*

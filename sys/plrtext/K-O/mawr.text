@@ -1,0 +1,24 @@
+age c 'age' $*
+nox c 'nox
+charm c 'charm corpse' $*
+shi c 'shield' $*
+sense c 'sense life
+ld c 'life drain' $*
+curse c 'curse' $*
+rp c 'resist poison' $*
+emb c 'embalm' $*
+con c 'consume corpse' $*
+infra c 'infravision
+sum c 'summon' $*
+invis c 'invis' $*
+di c 'detect invis' $*
+bl c 'blind' $*
+fly c 'fly' $*
+gt gsay &05$*&00
+8,10,3 10,9,1 9,6,3 9,7,2 9,10,3 11,10,2 8,11,2 9,9,1 12,9,3 9,7,2 9,8,2
+cw clanwho
+tit title :: &09Wanderer&00
+sp c 'soul pierce' $*
+wa wake;;st
+deb c 'debilitate' $*
+slow c 'slow' $*

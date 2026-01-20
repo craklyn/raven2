@@ -1,0 +1,13 @@
+reg c 'regenerate' $*
+di c 'detect invis' $*
+da c 'detect alignment' $*
+prot c 'protection from good'
+cw clanwho
+arm c 'armor' $*
+pest c 'pestilence' $*
+bl c 'blind' $*
+bd c 'black dart' $*
+fear c 'fear' $*
+bb c 'black breath' $*
+ch c 'chaos armor' $*
+aur c 'aura of apocalypse' $*

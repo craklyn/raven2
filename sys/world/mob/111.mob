@@ -1,0 +1,103 @@
+#11101
+H T 0~
+drunk worker~
+the drunk worker~
+A drunk worker is staggering around here.
+~
+The drunk worker looks like any other factory worker...only he is drunk.
+~
+72 0 0 0 1024 0 0 0 -500
+5 20 10 1d1+100 1d3+0
+35 40
+9 9 1 0 -1 -1
+#11102
+H T 0~
+drunk supervisor~
+the drunk supervisor~
+A drunk supervisor is yelling at someone here.
+~
+The supervisor looks like he has been imbibing a little too much.
+~
+72 0 0 0 1024 0 0 0 -500
+10 20 10 1d1+200 1d3+0
+35 40
+9 9 1 0 -1 -1
+#11103
+A T 0~
+soused rat~
+a soused rat~
+A rat that has been literally swimming in ale is here.
+~
+The rat looks wet...and drunk.
+~
+24648 0 0 0 0 0 0 0 -500
+0 20 8 1d1+20 1d2+0
+35 40
+9 9 0 0 -1 -1
+#11104
+H T 0~
+ian macale~
+Ian MacAle~
+Ian MacAle, owner/proprietor of this fine brewery stands here.
+~
+Ian was once an accomplished thief, until he found that he had a talent
+for drinking.  So he traded his earnings for this brewery and has been
+drunk ever since.
+~
+24650 0 0 0 0 0 0 0 500
+5 15 8 1d1+500 1d6+5
+35 40
+9 9 1 0 -1 -1
+#11105
+H T 0~
+brewmeister bob iii~
+Brewmeister Bob, III~
+Brewmeister Bob is working on a special brew.
+~
+Brewmeister Bob III, son of Bob II, was one of Ian's adventuring buddies
+who followed Ian into the Ale business.
+~
+24650 0 0 0 0 0 0 0 500
+7 15 8 1d1+500 1d6+5
+35 40
+9 9 1 0 -1 -1
+#11106
+H T 0~
+kristy secretary ian~
+Kristy~
+Kristy, Ian's secretary, sits here working.
+~
+Before you sits a beautiful woman with red hair and green eyes.  She is 
+5'8" tall with the measurements 37-24-34.  She is wearing a bright red 
+miniskirt and a low cut blouse. She is truly stunning even without makeup.
+~
+24650 0 0 0 0 0 0 0 500
+3 20 9 1d1+200 1d4+1
+35 40
+7 9 2 0 -1 -1
+#11107
+H T 0~
+drunk worker~
+the drunk worker~
+A drunk worker is staggering around here.
+~
+The drunk worker looks like any other factory worker...only he is drunk.
+~
+24648 0 0 0 0 0 0 0 0
+1 25 10 1d1+100 1d3+0
+35 40
+4 6 1 0 -1 -1
+#11108
+H M 0~
+brewmeister assistant~
+the brewmeister's assistant~
+One of the brewmeister's assistant's is standing here.
+~
+The brewmeister's assistant is helping the brewmeister by "sampling"
+the product in mass quantities.
+~
+24650 0 0 0 0 0 0 0 0
+1 20 10 1d1+100 1d3+0
+35 40
+9 9 1 0 -1 -1
+$

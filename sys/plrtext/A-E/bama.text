@@ -1,0 +1,37 @@
+da cast 'detect align
+2 cast 'banish' succ
+h order follower kill 3.
+tor cast 'revive' victoria
+cc cast 'revive' cray
+rr cast 'revive' rup
+call cast 'call lightning' $*
+rev cast 'revive' $*
+chain cast 'chain lightning' $*
+1 get all all.cor
+tt open door e;open door w;open door n;open door s
+b fol atro
+m assist atro
+gt gt &14<&13Fae&14>&09$* &14<&13rie&14>&00
+cure cast 'cure critic' $*
+food cast 'create food'
+sf shadowform
+male cast 'maledict' $*
+sen cast 'sense life' $*
+fs cast 'flame strike' $*
+qq cast 'earthquake'
+say emote says, '&14$* &00'
+hhh cast 'unholy word'
+bb cast 'revive' bunyip
+ff emote assists
+hh unlock door n;unlock door s;unlock door w;unlock door w;open door n;open door s;open door w;open door e
+vv cast 'revive' vical
+aa cast 'revive' airen
+kk cast 'revive' khog
+poi cast 'remove poison' $*
+dd cast 'revive' duke
+g order follower assist vical
+f emote assists
+gg order follower assist bama
+ss cast 'revive' sorrow
+xx cast 'revive' xia
+clean cast 'cleanse' yano

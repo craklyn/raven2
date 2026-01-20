@@ -1,0 +1,27 @@
+harm c 'harm' $*
+clean c 'cleanse' $*
+word c 'word' $*
+assist cast 'assistant' $*
+heal c 'heal'  $*
+sanc cast 'sanc' $*
+fort cast 'fortify' $*
+armor cast 'armor' $*
+earth c 'earthquake'
+di c 'det inv' $*
+fly c 'fly' $*
+gsanc c 'sanc' group
+summon c 'summon' $*
+infra c 'infra'
+rev c 'revive' $*
+regen c 'regen' $*
+blind c 'blind' $*
+sense c 'sense life'
+ward c 'ward' $*
+relo c 'relocate' $*
+food c 'create food'
+water c 'create water' $*
+holy c 'holy word' $*
+b c 'revive' nil
+a c 'summon' nil
+1 c 'rev' alh
+2 c 'rev' goonie

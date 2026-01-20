@@ -1,0 +1,29 @@
+0 kill grandmaster;toss dust
+dt c 'death touch' $*
+b bash $*
+bl c 'blind' $*
+tartit title Targaryen
+dm c 'aura of apoc'
+skill c 'black dart' $*
+pfg c 'protection from good'
+clan cla &09<&14(&08*&00&14)&09> &13$*&00  &09<&14(&08*&00&14)&09>&00
+gs gt &09<&14(&08O&00&14)&09> &13$*&00  &09<&14(&08O&00&14)&09>&00
+ep enter port
+arm c 'armor' $*
+r rescue $*
+bd c 'black dart' $*
+3 scan
+di c 'detect inv' $*
+cow c 'animate dead' $*
+of order follower $*
+wake wak;stand
+be emote breathes &25&08f&10i&08r&10e&00 all over the place.
+9 toss rev
+reg c 'regen' $*
+ha c 'chaos armor' self
+2 stop
+bb c 'black brea' $*
+rr rec rec rec
+infra c 'eyes of the dead'
+cs c 'call steed';mount drake
+sp breath $*

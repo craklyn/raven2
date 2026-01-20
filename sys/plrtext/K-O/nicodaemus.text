@@ -1,0 +1,29 @@
+b breath
+c calm
+say say &08+&10$* &08+&00
+slow cast 'slow' $*
+x scan
+gt gt &08+&10$* &08+&00
+bl cast 'blin' $*
+i des corp
+k gr
+j scan
+f flee
+su c 'summon' $*
+ha c 'haste' $*
+sl c 'slow' $*
+sil c 'silence' $*
+fb c 'flame blad' $*
+v ord fol resc nic
+h order follower rescue nico
+z cast 'doom'
+clan clan &10$* &11
+feeb cast 'feeb' $*
+q recite free ring
+g get all corp
+doom cast 'doom' $*
+t get all.coin
+o cast 'doom' pers
+y cast 'light bolt'
+p ord fol kill sun
+a assist

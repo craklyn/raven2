@@ -1,0 +1,47 @@
+emb cast 'embalm' cor;get cor;put cor bag
+fstand ord fol wake;ord fol stand
+fb rec fire boraj;sou;sou
+sh cast 'soul pierce' $*
+kick ord fol kick $*
+p ord fol kill $1;ord fol rescue Kriem
+ld cast 'life drain' $1
+drain cast 'life drain'
+clan clan &06$* &00
+gt gt &13$* &00
+cur cast 'curse'
+gshi cast 'shield' group
+mal cast 'maledict'
+life cast 'life drain' $1
+o ord fol kill $1
+rr rec rec rec
+debil cast 'debilitate' $1
+slow cast 'slow' $1
+energy cast 'energy drain' $1
+nox cast 'noxious'
+embalm cast 'embalm' $1
+charm cast 'charm corpse' $1
+vision cast 'infra'
+age cast 'age'
+resist cast 'resist poison'
+fly cast 'fly'
+shield cast 'shield'
+blind cast 'blind' $1
+dc destroy corpse
+sou cast 'soul pierce'
+sp cast 'soul pierce' $1
+yell cast 'detect invis'
+consume cast 'consume corpse' $1
+sil cast 'silence' $1
+invis cast 'invis'
+ginvis cast 'invis' gr
+rune cast 'create warding'
+wraith cast 'wraithform'
+gshield cast 'shield' group
+explode cast 'explode corpse' $1
+call cast 'call to corpse' $1
+entomb cast 'entomb corpse' $1
+summon cast 'summon' $1
+bone cast 'bone wall' $*
+gc get corpse;put corpse bag
+3 ord fol rescue Kriemhild
+ff recite fire Boraj

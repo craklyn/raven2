@@ -1,0 +1,550 @@
+#21201
+A W 0~
+peacemaker guard~
+the peacemaker~
+A statue of a large city guard is here.
+~
+   The peacemaker is perhaps the largest of all the automatons here. His stone 
+body is a perfect model of a human body in prime shape. He looks to be a VERY 
+formidable opponent!
+~
+2249 0 0 0 263176 0 0 0 750
+50 0 -6 20d50+500 3d9+30
+80 90
+9 9 0 6 -1 -1
+#21202
+A W 0~
+peacemaker protector equalizer statue~
+the city protector~
+A statue that looks ready to strike you down, is here.
+~
+   A statue of immense size, the protector is probably the largest of the 
+statues in town. Always ready for a fight he stares at you from eyes of cold 
+stone, as if waiting for you to make a move, or even flinch for that matter.
+~
+2251 0 0 0 262152 0 0 0 1000
+50 0 -9 300d6+500 6d8+25
+80 90
+9 9 0 6 -1 -1
+#21203
+F T 0~
+thief guildmaster statue dreasil~
+Dreasil~
+Dreasil, the thief guildmaster, stands here looking rather stoned.
+~
+   Dreasil the thief guildmaster decided that in order to achieve the pinnacle
+of stealth and deceipt he had to live forever.  The people of the town realized
+the human body was too frail to last so they transferred there essences into
+automatons.  Now they can continue to practice and train until the end of time.
+IF the magic holds out that is.    
+~
+2059 0 0 0 262280 0 0 0 -50
+50 0 -10 100d20+10000 5d8+20
+80 90
+9 9 0 6 7 -1
+#21204
+H W 0~
+shopkeeper hooper mr.hooper statue~
+Mr. Hooper~
+An older looking statue is here, reading a newspaper.
+~
+   Mr. Hooper looks like a kind old man, in fact he looks older than dirt! He's
+here reading a paper that must be as old as he is, and looks up often to talk
+(or to make sure you're not stealing him blind!).
+~
+2059 0 0 0 8 0 0 0 500
+40 1 -4 30d10+10000 9d3+30
+65 75
+9 9 0 6 -1 -1
+#21205
+H M 0~
+mumphurt amazing mage wizard~
+the mage~
+A strange mage is here muttering about peanut and butter jelly sandwiches.
+~
+He leans over to you and says' Excuse me would you happen to have seen my wand?' 
+
+   This mage seems to be misplacing everything and his magic never seems to do 
+what he had intended! If this is an example of the wizards that transformed 
+the city and its citizens its no wonder that its all crumbling!
+~
+2059 0 0 0 8 0 0 0 0
+35 1 -8 1d1+30000 15d3+15
+50 60
+9 9 1 12 -1 -1
+#21206
+H W 0~
+shopkeeper baker ~
+the baker~
+A statue of a baker is here sampling some of his fresh baked cookies.
+~
+   He is a large man, apparently he's had quite a few cookies over the 
+centuries! Given his great size you have no doubt that he would have the 
+strength to hurl you across the room should you attempt to attack or steal from 
+him.
+~
+2059 0 0 0 8 0 0 0 0
+35 1 -10 20d75+20000 10d5+20
+50 60
+9 9 1 6 -1 -1
+#21207
+H W 0~
+bellhop boy bell bellboy~
+the bellboy~
+A statue that resembles a bellboy is here waiting to show you to your room.
+~
+  The bellboy was very young when he abandoned his mortal body, he couldn't 
+have been older than fifteen. You have no doubt however that he would be a 
+formidable opponent in battle due to his stone body and obvious dexterity.
+~
+10267 0 0 0 8 0 0 0 0
+40 1 -10 500d3+20000 10d2+40
+65 75
+9 9 1 6 -1 -1
+#21208
+H R 0~
+highlander duncan mccloud~
+a Highlander~
+A young man is here, looking for the fiend that attacked him.
+~
+He says to you, "I am Duncan McCloud of the clan McCloud."
+
+   Duncan is a young man, which is strange because he's the only human, besides
+the king, that you have seen here. He wears his hair in a ponytail and of 
+course is wearing a long coat.
+~
+169994 0 0 0 262152 0 0 0 1000
+50 0 -7 500d4+15000 6d8+30
+80 90
+6 9 1 0 -1 -1
+#21209
+H W 0~
+king greybeard~
+King Greybeard~
+Old King Greybeard is here pondering the fate of his people.
+~
+   King Greybeard pleads with you, 'Please! my people are dying..you must help 
+us to survive. Long ago an evil mage fled our town with the gem that holds my 
+people together. If it is not returned they will crumble to dust. Please find
+it and i would be willing to buy it from you...
+~
+198814 0 0 0 542245000 0 0 0 1000
+51 -15 -5 1d5000+25000 10d3+35
+90 100
+9 9 1 6 -1 -1
+Z 21256
+#21210
+H W 0~
+shopkeeper keymaster keymaker~
+the keymaster~
+A kind looking statue is here grinding keys for various locks.
+~
+   The keymaker makes keys and locks for all types of people. He might also be
+willing to pay a little gold for any interesting keys you've found during you
+journeys. He's mumbling something about the good old days when people were 
+actually interested in his more unusual keys.
+~
+2059 0 0 0 8 0 0 0 0
+35 1 -10 30d40+4000 5d8+40
+50 60
+9 9 0 6 -1 -1
+#21211
+A W 0~
+citizen statue stone~
+the citizen~
+A statue of a citizen, poised as if walking the streets, remains here.
+~
+   The citizen resembles various stone golems you have seen in your adventuring
+career. It is of human height, looks like a human but is entirely made of stone
+It looks quite powerful for a normal citizen (since its not your average 
+citizen!)
+~
+2248 0 0 0 8 0 0 0 0
+24 1 -2 3d20+350 5d8+10
+40 40
+6 6 0 6 -1 -1
+#21212
+A W 0~
+citizen statue~
+a citizen~
+A statue of a citizen is here, crumbling to dust before your eyes.
+~
+   The magic that held the statue together is failing. One arm has already 
+fallen off the statue and it looks as if the entire thing will crumble in a 
+matter of moments. What could possibly be responsible for this tragedy?
+~
+2248 0 0 0 8 0 0 0 0
+21 1 0 10d30+150 2d8+10
+40 40
+7 7 0 6 -1 -1
+#21213
+A W 0~
+streetsweeper statue sweeper janitor~
+the streetsweeper~
+A small statue, which looks to be sweeping the streets, is here.
+~
+   Talk about getting the shaft! This poor statue is condemned to spend all 
+eternity (or at least a real long time) sweeping the streets and cleaning
+up all the junk adventurers leave lying around.
+~
+2253 0 0 0 8 0 0 0 0
+10 15 8 10d10+15 3d5+10
+35 40
+9 9 0 6 -1 -1
+#21214
+A W 0~
+guard townguard statue cityguard~
+the townguard~
+A statue of a townguard is watching you carefully.
+~
+   The townguard is sworn to protect the town and all its inhabitants. They 
+will almost always jump into a battle they see. Being composed of pure stone 
+certainly makes them a fighting force to be reconded with.
+~
+2249 0 0 0 8 0 0 0 0
+15 8 0 10d40+100 2d8+10
+35 40
+9 9 0 6 -1 -1
+#21215
+H W 0~
+barkeeper barkeep bartender statue herbert~
+the bartender~
+A strange looking statue of a bartender is here.
+
+The Bartender asks you 'what'll ya have?'
+~
+   Being a statue seems to actually helped the bartender with his job. He has
+several hoses running into his back, and pours drinks from several nozzles
+in his fingertips! Strange but functional...
+~
+2059 0 0 0 1032 0 0 0 0
+35 1 -5 300d15+3000 4d3+10
+50 60
+9 9 0 6 -1 -1
+#21216
+A W 0~
+panther cat onyx~
+&11Onyx&00~
+A large black panther is here, hunting for her master.
+~
+   The panther is an excellent specimen, everything about this cat is perfect. 
+Its coat is shinny, muscles rippling, and its teeth are extremely large! It 
+seems content to lie here in the warm sun and wait for the return of its master. 
+Usually cats aren't allowed in inns, but would you tell it to leave?
+It has a small name tag that says 'Onyx'
+~
+2056 0 0 0 263176 0 0 0 1000
+45 15 -2 9d99+2000 8d15+50
+65 75
+4 9 2 8 4 -1
+#21217
+H W 0~
+brightblade shopkeeper sturm statue weaponsmith~
+the weaponsmith~
+A strong looking statue of a weaponsmith is working at his forge.
+~
+   The statue is well built, which is not only a result of, but a requirement 
+of its profession. The swords it makes are of the finest quality, for it has 
+had years of practice, it was probably doing this before you were born!
+~
+2059 0 0 0 8 0 0 0 700
+35 1 -10 222d99+9000 7d9+25
+50 60
+9 9 0 6 -1 -1
+#21218
+H W 0~
+shopkeeper armourer blacksmith talos~
+Talos ~
+The statue of the armourer is working on a suit of plate mail here.
+~
+   Working 24 hours a day can improve the skills of anyone and it certainly has
+for this particular statue. He has turned out some of the finest items 
+you have ever seen, and you thought you had seen it all.
+~
+2059 0 0 0 8 0 0 0 0
+39 1 -10 500d10+9999 15d3+30
+50 60
+9 9 0 6 -1 -1
+#21219
+H R 0~
+environmentalist shopkeeper storekeeper dave david~
+David~
+A shopkeeper made of stone is here passing out flyers for bluepeace.
+~
+   He looks you straight in the eye and says, 'The end of the world is near! We
+are all doomed! You can save us you are our hope and our future!
+He seem quite fanatical but then all self made prophets are..
+~
+2059 0 0 0 8 0 0 0 1000
+35 1 -5 50d15+20000 5d6+15
+50 60
+9 9 1 6 -1 -1
+#21220
+A M 0~
+marut guardian~
+the Marut~
+A huge statue of a guardian marut rests impassively here.
+~
+   The maruts are the servants and the messangers of the gods. While they make 
+their home on some far off plane, they go wherever their god wills to spread
+their message and will. Since the marut is the servant of a god, they are 
+granted special powers to complete whatever mission their god desires.
+~
+155738 0 0 0 1192 0 0 0 0
+50 -10 -10 1d1+7000 5d10+40
+80 90
+6 6 0 6 -1 -1
+#21221
+G W 0~
+incarnation god atlas~
+an incarnation of Atlas~
+An incarnation of the god Atlas is here supporting the city.
+~
+   Over 20 feet tall, he is well suited to this job. Muscles cover his entire 
+body from head to toe. He is the only thing supporting the city, if he ever 
+fails in his duty, the city is doomed.
+~
+18458 0 0 0 1160 0 0 0 0
+51 -8 -10 10d10+25000 16d16+100
+90 100
+9 9 1 6 7 5
+#21223
+N M 0~
+balor xoaan~
+a Balor~
+A huge muscular demon with leathery wings and reddish-black skin is here.
+~
+Hey, how'd you know what this mob's name is? =)
+~
+18986 0 0 0 525448 0 0 0 -1000
+40 0 -3 5d20+6000 5d6+40
+65 75
+9 9 0 8 12 4
+#21224
+H P 0~
+steward celestial solar~
+the Solar~
+The greatest and most powerful of all celestial stewards waits here to test you.
+~
+   He appears to be a very large human with a beautiful and muscular body.  
+White, feathery wings protrude from his back.  His skin is a metallic bronze
+and hair a gleaming silver color.  The solar's eyes are a brilliant topaz.
+~
+740650 0 0 0 542344360 40960 0 0 1000
+51 -10 -10 5d80+19000 10d11+80
+90 100
+9 9 1 12 7 10
+#21225
+D M 0~
+fizban~
+a Platinum Dragon~
+A huge dragon with shiny platinum scales stands here impassively.
+~
+If you're reading this, you must be a god.
+~
+18730 0 0 0 1192 0 0 0 1000
+50 0 -8 5d20+6000 5d6+40
+80 90
+9 9 1 8 4 -1
+#21226
+U M 0~
+ghata~
+a swirling mist~
+A shifting, swirling mass of black mist is here.
+~
+A large mass of black mist.
+~
+16906 0 0 0 525448 0 0 0 -1000
+35 0 -8 5d20+6000 5d6+40
+50 60
+9 9 0 19 -1 -1
+#21227
+H W 0~
+per soldier warrior~
+a Per~
+A seemingly tireless warrior is standing guard here.
+~
+   He appears to be a well muscled human of great fighting prowess.  Dressed 
+in elaborately decorated steel armor and wearing a huge helmet adorned with a 
+large plume.  He appearance very grim and foreboding.
+~
+2314 0 0 0 1160 0 0 0 700
+31 0 -10 10d10+2000 10d4+15
+50 60
+9 9 1 6 -1 -1
+#21228
+H W 0~
+per soldier warrior~
+a Per~
+A seemingly tireless warrior is standing guard here.
+~
+   He appears to be a well muscled human of great fighting prowess.  Dressed 
+in elaborately decorated steel armor and wearing a huge helmet adorned with a 
+large plume.  He appearance very grim and foreboding.
+~
+2314 0 0 0 1160 0 0 0 700
+31 0 -10 10d10+2600 10d4+15
+50 60
+9 9 1 6 -1 -1
+#21229
+H W 0~
+per soldier warrior~
+a Per~
+A seemingly tireless warrior is standing guard here.
+~
+   He appears to be a well muscled human of great fighting prowess.  Dressed 
+in elaborately decorated steel armor and wearing a huge helmet adorned with a 
+large plume.  He appearance very grim and foreboding.
+~
+2314 0 0 0 1160 0 0 0 700
+31 0 -10 10d10+2000 10d4+15
+50 60
+9 9 1 6 -1 -1
+#21230
+H M 0~
+master guildmaster~
+the guildmaster~
+A statue that looks like your guildmaster is standing here.
+~
+   Apparently the guildmaster decided that in order to achieve the pinnacle in
+his field he had to live forever. The people of the town realized the human
+body was too frail to last so they transferred there essences into automatons.
+Now they can continue to practice and train until the end of time. IF the 
+magic holds out, that is.
+~
+2058 0 0 0 136 0 0 0 1000
+50 0 -10 100d20+1000 5d8+20
+80 90
+9 9 0 6 -1 -1
+#21231
+H W 0~
+master guildmaster~
+the guildmaster~
+A statue that looks like your guildmaster is standing here.
+~
+   Apparently the guildmaster decided that in order to achieve the pinnacle in
+his field he had to live forever. The people of the town realized the human
+body was too frail to last so they transferred there essences into automatons.
+Now they can continue to practice and train until the end of time. IF the 
+magic holds out that is.
+~
+2059 0 0 0 136 0 0 0 1000
+51 0 -10 100d20+1000 5d8+20
+90 100
+9 9 0 6 -1 -1
+#21232
+H W 0~
+master guildmaster~
+the guildmaster~
+A statue that looks like your guildmaster is standing here.
+~
+   Apparently the guildmaster decided that in order to achieve the pinnacle in
+his field he had to live forever. The people of the town realized the human
+body was too frail to last so they transferred there essences into automatons.
+Now they can continue to practice and train until the end of time. IF the 
+magic holds out that is.
+~
+2059 0 0 0 136 0 0 0 1000
+50 0 -10 100d20+20000 5d8+20
+80 90
+9 9 0 6 -1 -1
+#21233
+H M 0~
+witch shopkeeper brewer~
+the witch~
+A decrepit looking witch is here brewing potions in a cauldron.
+~
+   This is one of the few members of the city that didn't have to turn into 
+an automaton to survive all these year. Powerful potions and magic have 
+kept her alive through the centuries. They haven't done much for her 
+complexion however, which has rotted and begun to fall off her body.
+~
+2059 0 0 0 8 0 0 0 -800
+50 0 -10 10d10+25000 5d8+20
+80 90
+9 9 0 12 -1 -1
+#21234
+H W 0~
+shopkeeper zippy~
+Zippy~
+A strange looking shopkeeper observes you quietly.
+~
+   Zippy is one of the few people in town that has decided to cloth his stone 
+body. He has chosen to cloth himself in the dark leather clothes that he sells
+which give him a dark and morbid appearance.
+~
+2059 0 0 0 8 0 0 0 -1000
+50 1 -8 10d10+5000 5d8+30
+80 90
+9 9 0 6 -1 -1
+#21235
+U W 0~
+ghost spectre guildguard~
+the spectre~
+An ancient spectre is here, praying for forgiveness.
+~
+   When most of us die out spirit will depart this world and go to heaven or
+hell. This spirit, however, is one of the forsaken, those doomed to walk the 
+earth untill such time that they have comleted their dutys to the living.
+~
+2059 0 0 0 524424 0 0 0 0
+32 2 -5 1d100+450 2d8+25
+50 60
+9 9 2 19 -1 -1
+#21236
+H M 0~
+librarian mage guildguard~
+the librarian~
+A young mage is here organizing the books on the shelves.
+~
+   All young mages must, at some point in there training, spend countless 
+hours in their master's library keeping it in order. With hundreds of books
+comming and going this young mage is the only one able to keep track of them
+all, guess that would make him more of a librarian than a mage.
+~
+2059 0 0 0 10 0 0 0 200
+32 5 -10 3d50+390 3d4+20
+50 60
+9 9 1 12 -1 -1
+#21237
+H H 0~
+ninja guildguard~
+the ninja guard~
+The shadows here seem to move with a life of their own.
+~
+  He seems to be part of the shadows themselves, only by magical detection
+is it possible for you to see him at all! A master at disappering and at 
+combat, perhaps it wouldn't be a real good idea to attack him.
+~
+2059 0 0 0 524424 0 0 0 -500
+32 1 -3 2d50+500 4d8+20
+50 60
+9 9 1 3 8 16
+#21238
+A W 0~
+armor animated guildguard~
+the animated armor~
+A large suit of full plate armor has been left here for decoration.
+~
+  The armor is obviously the type worn for ceramonies and such, not worn for
+its protection but for its beauty. Even after all these years it is in perfect
+condition as if it was polished yesterday.
+~
+2059 0 0 0 136 0 0 0 800
+32 1 -10 10d10+800 2d8+40
+50 60
+9 9 0 3 -1 -1
+#21269
+A W 0~
+wolf fenris~
+the Fenris wolf~
+The mighty Fenris wolf devours all intruders.
+~
+    With the passing of Tyr, Fenris has been unchained and may frequently be
+seen guarding places mortals are not meant to tred.
+~
+27 0 0 0 263304 0 0 0 -1000
+57 -20 -10 1d1+30000 20d30+100
+90 100
+9 9 1 4 -1 -1
+$

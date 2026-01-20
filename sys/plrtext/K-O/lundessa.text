@@ -1,0 +1,50 @@
+rev ;; toss rev
+7 rec rec elv
+gt gtell &12$*&00
+2 block
+cs c 'call steed'
+uua gt going u ;; u ;; c 'trem' 
+dda gt going d ;; d ;; c 'trem' 
+wwa gt going w ;; w ;; c 'trem' 
+eea gt going e ;; e ;; c 'trem' 
+ssa gt going south ;; s ;; c 'trem' 
+nna gt going north ;; n ;; c 'trem' 
+ss gt GOING SOUTH;s;k $*
+nn gt GOING NORTH;n;k $*
+ee gt GOING EAST;e;k $*
+ww gt GOING WEST;w;k $*
+dd gt GOING DOWN;d;k $*
+uu gt GOING UP;u;k $*
+remcur cast 'remove curse' $*
+life cast 'p o l' $*
+infra cast 'right'
+divine cast 'divine'
+holy cast 'holy armor'
+di cast 'detect invis' $*
+armor cast 'armor' $*
+afk nosum;norec
+cw clanwho
+pfe cas 'protection from e
+heal cast 'cure serious' $*
+regen cast 'regen' $*
+tremor cast 'tremor'
+rp cast 'remove pois' $*
+cb cast 'cure blind' $*
+light cast 'cure light' $*
+crusade cast 'crusade'
+rempar cast 'remove para' $*
+wake wake;sta
+- cas 'holy word
+q kil 8.
+h cas 'prayer of life' $1
+re retreat e
+0 get all.scr all.cor
+cru c 'crusade' $*
+div c 'divine' $*
+pol c 'prayer of life' $*
+r rescue $*
+rr retreat $*
+4 kill 2.
+sa emote says, '&25&13$*&00
+9 mount wyv
+5 charge bac w ;; rec elv

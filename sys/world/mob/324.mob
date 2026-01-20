@@ -1,0 +1,821 @@
+#32401
+H W 0~
+dungeon guard dungeon_guard 32401~
+a dungeon guard~
+An armored guard is on the lookout for any signs of trouble.
+~
+  The man before you is an average size human and is in decent physical
+condition.  From beneath his helm you see short dark hair and quick eyes.  He
+moves easily considering the size and plethora of his armor.  His brass armor
+glistens in the torchlight seems to provide him very adequate protection from
+physical harm.  A double-edged axe dangles from this warrior's hand.
+~
+6220 0 0 0 1064 0 0 0 0
+35 10 -3 1d5+5000 1d5+40
+50 60
+9 9 1 0 13 -1
+#32402
+R W 0~
+testtank~
+Test tanking dummy~
+A test dummy stands here waiting to be beaten on.
+~
+Before you stands a test dummy that looks to have been
+the object of many angry attacks.
+~
+72 0 0 0 132140 3072 0 0 0
+50 0 0 1d1+30000 1d1+0
+80 90
+9 9 0 0 -1 -1
+#32403
+H D 0~
+dungeon guard dungeon_guard~
+a dungeon guard~
+An armored guard is on the lookout for any signs of trouble.
+~
+  Strong, rigid, and immovable.  These traits are quickly apparent in this human
+as he moves with the precision and discipline of one that has studied in one of
+the knight guilds.  The way he wears his armor, along with the untelling look
+upon his face suggests that this man has seen more than his share of battle.
+His armor reflects a dull glimmer of torchlight as he moves.
+~
+6220 0 0 0 1064 0 0 0 -500
+35 10 -3 1d5+5000 1d5+40
+50 60
+9 9 1 0 -1 -1
+#32404
+H K 0~
+dungeon guard dungeon_guard~
+a dungeon guard~
+An armored guard is on the lookout for any signs of trouble.
+~
+  Strong, rigid, and immovable.  These traits are quickly apparent in this human
+as he moves with the precision and discipline of one that has studied in one of
+the knight guilds.  The way he wears his armor, along with the untelling look
+upon his face suggests that this man has seen more than his share of battle. 
+His polished armor reflects a bright glimmer of torchlight as he moves.
+~
+6220 0 0 0 1064 0 0 0 500
+35 10 -3 1d5+5000 1d5+40
+50 60
+9 9 1 0 -1 -1
+#32405
+E R 0~
+somnolent elf dungeon guard~
+a somnolent elf~
+An off-duty elf guard is sleeping here.
+~
+  His long stringy hair does not adequately hide this stout elfs elven
+features.  His pointy ears are buried in hair and his distinctly elven eyes
+are closed. His plain cotton shirt and shorts are dark green and wrinkled.
+~
+6220 0 0 0 4588584 0 0 0 0
+35 10 -3 1d5+5000 1d5+30
+50 60
+4 4 1 0 -1 -1
+#32406
+H W 0~
+groggy human dungeon guard~
+a groggy human~
+A groggy human is lying here, trying to goto sleep.
+~
+  Dark circles under his steely eyes reveal this human's languor.  His hair is
+unkept as well as his beard.  There is a large scar on his lower-right ribs.
+His cotton shorts are faded black and torn.
+~
+6220 0 0 0 132136 0 0 0 0
+35 10 -3 1d5+5000 1d5+30
+50 60
+6 6 1 0 -1 -1
+#32407
+H W 0~
+guard off duty off-duty~
+an off-duty guard~
+An off-duty guard is seated at a table here, eating.
+~
+  The man before you is an average size human and is in decent physical
+condition.  His long dark hair hangs in his face.  His goatee has retained some
+of his last meal and drink.  His brass armor glistens in the torchlight seems to
+provide him very adequate protection from physical harm.
+~
+6222 0 0 0 1064 0 0 0 0
+35 10 -3 1d5+5000 1d5+30
+50 60
+7 7 1 0 -1 -1
+Z 32401
+#32408
+H T 0~
+Xaux dungeon cook~
+Xaux~
+The dungeon's cook, Xaux, is preparing food here.
+~
+  The dungeon's cook is a stout man with quick hands.  His arms and legs are
+quite hairy for a human.  Wiry light brown hair recedes from his wrinkled face.
+Xaus's arms are covered with scars, and there's a large arcing scar along his
+left breast.  His apron is stained and dirty.
+
+~
+38986 0 0 0 0 0 0 0 0
+40 3 -5 1d5+7500 3d15+30
+65 75
+9 9 1 0 -1 -1
+#32409
+E R 0~
+sentinel guard dungeon~
+a sentinel guard~
+A young elven guard stands at attention here.
+~
+  The young looking man before you is actually an elf of strong physical build.
+His long brown hair is tied in the back, revealing his elven facial features.
+His well tanned skin shows through in the few breaks between his pieces of
+armor.  The elf moves with elegant grace despite his armor.  The spear he
+wields glistens in the torch light and ends in a razor sharp tip.
+~
+67115086 0 0 0 4588584 0 0 0 0
+35 10 -3 1d5+5000 1d5+30
+50 60
+9 9 1 0 -1 -1
+#32410
+H D 0~
+dungeon guard~
+a dungeon guard~
+A guardsman is here, making sure the warden is not disturbed.
+~
+  Strong, rigid, and immovable.  These traits are quickly apparent in this human
+as he moves with the precision and discipline of one that has studied in one of
+the knight guilds.  The way he wears his armor, along with the untelling look
+upon his face suggests that this man has seen more than his share of battle.
+His armor reflects a dull glimmer of torchlight as he moves.  
+~
+67113070 0 0 0 1049644 0 0 0 -500
+35 -10 -3 1d5+5000 1d5+30
+50 60
+9 9 1 0 -1 -1
+#32411
+H K 0~
+dungeon guard~
+a dungeon guard~
+A guardsman is relaxing here, making sure noone disturbs the warden.
+~
+   Strong, rigid, and immovable.  These traits are quickly apparent in this
+human as he moves with the precision and discipline of one that has studied in
+one of the knight guilds.  The way he wears his armor, along with the untelling
+look upon his face suggests that this man has seen more than his share of
+battle.  His polished armor reflects a bright glimmer of torchlight as he
+moves.    
+~
+67113070 0 0 0 262156 0 0 0 500
+35 10 10 1d5+5000 1d5+30
+50 60
+6 6 1 0 -1 -1
+#32412
+H R 0~
+warden denegorth~
+the Warden of Denegorth~
+The Warden of the dungeons is agitated by your disruption.
+~
+  The warden is a large human at two meters tall.  His dark hair extends past
+his helm and stops near his shoulderblades.  Beneath his helm evergreen eyes
+dart to and fro with a penetrating gaze.  The warden's armor fails to disguise
+his physical prowess.  He appears to weigh in at roughly 18 stones.  He moves
+with both grace and strength revealing his extreme expertise in the arts of
+armed combat.  His gauntleted hand grasps a large runed battlehammer.
+~
+5996 0 0 0 4654248 0 0 0 0
+50 0 -2 1d5+20000 1d5+90
+80 90
+9 9 1 0 -1 -1
+#32413
+V D 0~
+warden's friend veneziruion~
+Veneziruion~
+The warden's friend, dressed in archaic armor, looks wiser than the eons.
+~
+   Armor more ancient than the stars adorns her body.  Her timeless penetrating
+gaze passes through you for an instant, then it move elsewhere.  Shimmering
+black armor made of dragonscale covers her body perfectly.  She seems
+unconcerned with your presence.    
+~
+6218 0 0 0 542549032 0 0 0 -500
+50 -5 -18 1d5+10000 8d5+74
+80 90
+6 6 2 13 4 19
+Z 32405
+#32414
+H A 0~
+zaeraicth torturer dungeon~
+Zaeraicth~
+A wiry haired older man is extracting information from a prisoner here.
+~
+  This lean man is of average height, but very thin.  His grey beard is short,
+but bushy.  His steely greenish eyes possess an intimidating stare.  His long
+narrow fingers are covered with burn and bite scars.  This is the
+quasi-notorious Zaeraicth who is known for his ability to extract the truth
+regarding just about anything from almost anyone.
+~
+2094 0 0 0 1072 0 0 0 -500
+40 4 0 1d5+10000 1d25+40
+65 75
+9 9 1 0 -1 -1
+#32415
+I M 0~
+rogulth~
+Rogulth~
+rogulth the painful torturer needs a walk-in description
+~
+  Jet black eyes stare from behing a very full beard.  This dwarf's foreboding
+appearance is due, in part, to the wicked grin on his face, revealing no teeth.
+Roughly one meter tall, his beard reaches past his belt.  His clothes are
+stained with blood and other fluids his victims have ejected.  This is the
+very notorious Rogulth the Painsmith.  He has but one goal: To cause a world
+of hurt to his victim.
+~
+6254 0 0 0 0 0 0 0 -500
+40 0 -8 1d5+10000 1d5+65
+65 75
+6 6 1 0 -1 -1
+#32416
+H S 0~
+monk amal~
+a monk of Amal~
+A monk is here counseling prisoners.
+~
+   This monk is of average size and build.  His head is shaven and his
+sleeveless burgendy tunic reveals well-muscled arms and calves.  His face bears
+an expression of remorse and joy at the same time.    
+~
+16392 0 0 0 393216 0 0 0 501
+40 5 0 1d5+5000 9d5+30
+65 75
+9 9 1 13 0 -1
+#32417
+H K 0~
+operator dungeon~
+the Dungeon Operator~
+The Dungeon Operator is here, seeing to the daily business of the Dungeons of Denegorth.
+~
+   The dungeon operator is an average size human.  He has dark blue eyes and
+short light brown hair.  He appears to weigh about 16 stones.  The armor he
+wears looks to be perfectly conditioned and placed.  He has a sword at his side
+and a tattoo of the symbol of the knighthood.    
+~
+4170 0 0 0 537007144 0 0 0 750
+50 4 -4 1d1000+18000 1d5+80
+80 90
+9 9 1 0 -1 -1
+#32418
+E W 0~
+assistant dungeon operator's~
+the dungeon operator's assistant~
+An assistant to the dungeon operator is buried in paperwork here.
+~
+  She seems to be wearing the standard issue dungeon armor that's modified to
+fit her unique physique.  Her long black hair is tied behind her head, 
+revealing a confident smirk.  She is of average height for a human woman.
+~
+4110 0 0 0 394280 0 0 0 0
+40 6 0 1d5+5000 1d5+35
+65 75
+9 9 2 0 -1 -1
+#32419
+C A 0~
+bounty hunter rogue~
+a rogue bounty hunter~
+A stocky bounty hunter is here to receive his reward.
+~
+   The hairy yellow skin of this orc is covered with scars and tattoos.  He
+seems to only be wearing leather, and a dagger.  He has a little bit of short
+black hair left on his head; the rest seems to of been burnt away.    
+~
+134223948 0 0 0 295976 0 0 0 0
+40 -4 0 1d5+5000 1d5+50
+65 75
+9 9 1 0 -1 -1
+#32420
+R H 0~
+warden's hound denegorth~
+the Hound of Denegorth~
+The Warden's hound is stalking prey here.
+~
+it looks big, mean, and hard to see
+~
+1185836 0 0 0 1612547194 0 0 0 -500
+50 0 10 1d5+10000 1d40+50
+80 90
+9 9 2 4 8 23
+#32421
+E W 0~
+courier~
+a courier~
+A courier is here, delivering a large sum of gold to the dungeon operator.
+~
+   This elf is small even for an elf, and dressed for travel.  His clothes,
+while worn from the road, appear somewhat stately.  His short brown hair is
+well kept.  His elven eyes are a deep &11blue&00 color.    
+~
+200 0 0 0 33832 0 0 0 1
+30 0 -2 1d5+5000 1d25+35
+50 60
+9 9 1 0 -1 -1
+#32422
+J M 0~
+detained enchanter~
+the detained enchanter~
+A fairy enchanter has been detained here.
+~
+  Her long light brown hair flows down to her shoulders.  Her silvery eyes
+dart back and forth, on the lookout for danger.  They express her intense fear.
+Her thin body is a mix between light brown and a dirty gold color, but that is
+nothing compared to her wings.  Her wings are a dim light cyan color and make
+no noise as she moves them.
+  She does have a couple nasty looking bruises on her arms, and her left wing
+is stained with smeared blood.  It's obvious that she's been roughed up
+d4
+~
+8 0 0 0 0 0 0 0 500
+40 -6 -5 1d5+7495 1d30+50
+65 75
+9 9 2 0 4 8
+#32426
+W W 0~
+scuzzy dwarf~
+a scuzzy dwarf~
+A dirty, scuzzy dwarf wonders if it is his time to leave.
+~
+   Dirtball.  This dwarf is very unkept.  All of his hair is unkempt, hiding
+his facial features.  His limbs are covered with bruises and scars, as is his
+torso.  His clothes look more like rangs and he does look rather angry.
+~
+4200 0 0 0 0 0 0 0 500
+25 7 0 1d5+1000 5d5+30
+40 40
+9 9 1 0 -1 -1
+#32427
+L T 0~
+halfling dark-haired~
+a dark-haired halfling~
+A halfling is here
+~
+   This small female halfling looks very wiry.  The mop of hair on her head is
+a very dark brown, as is the hair on her feet.  Her left hand is covered in
+dried blood, but she has no visible cuts, just bruises.    
+~
+134221928 0 0 0 0 0 0 0 500
+25 7 0 1d5+1000 4d4+35
+40 40
+9 9 2 0 -1 -1
+#32428
+H T 0~
+frightened young girl~
+a terrified young girl~
+A terrified young girl is looking for a hiding place here.
+~
+   This young human adolescent looks terrified.  She has many bruises on her
+stick-thin arms and legs and back.  Her eyes dart around wildly as she shivers.
+Her hair is short and mangled, revealing a big cut on her left cheek.  It is
+also obvious that she has been crying alot lately.    
+~
+4296 0 0 0 786432 0 0 0 0
+20 10 2 1d5+750 4d4+30
+40 40
+9 9 2 0 20 -1
+#32429
+E A 0~
+wild-eyed elf~
+a wild-eyed elf~
+A wild-eyed elf is sitting in the corner.
+~
+  Judging by the bruises, cuts, and scars this elf has been beaten up
+repeatedly.  In his left hand he's grasping a clump of hair.  Looking at his
+head is a bit sickening.  He still has some long hair left, but not much.  The
+rest of his scalp is bleeding or scabbed over.  In his eyes you see maddess.
+~
+8392808 0 0 0 787488 0 0 0 -500
+30 5 0 1d5+1250 5d5+30
+50 60
+9 9 1 0 -1 -1
+#32430
+H M 0~
+woman sad looking~
+a sad looking woman~
+A sad looking woman is sobbing in the corner.
+~
+  She stands at an average height for human women and has very long light
+brown hair that hangs just past her rear.  She's wearing a plain grey shawl
+that doesn't cover her arms, or lower legs.  She doesn't seem to be injured or
+abused in any way, yet she has a very sad look on her face.  She doesn't
+appear to of been crying lately, but her eyes seem to be ready to burst forth
+with tears.
+~
+200 0 0 0 4260904 0 0 0 0
+30 7 2 1d5+1250 5d5+25
+50 60
+9 9 2 0 -1 -1
+#32431
+E M 0~
+imprisoned mage imprisoned_mage~
+an imprisoned mage~
+An unkept mage sits here in the corner.
+~
+   He is of average build and height for an elf.  He has runic tattoos and
+scars upon his forearms and chest.  There is a large symbol on his left breast.
+He has fine long hair that is dirty blond in color.  It is pulled back
+revealing his distinctly elven ears.    
+~
+135276 0 0 0 5440572 0 0 0 -500
+40 -6 -8 1d5+7500 1d15+60
+65 75
+9 9 1 0 8 13
+#32432
+H W 0~
+Rashel~
+Rashel~
+Rashel is serving time for beating her husband to death
+~
+  She is a bit stocky for a human woman.  She has shoulder-length medium brown
+hair and dark brown eyes.  Her stance is dignified and her face proud.  She
+wears a grey shawl and grey rags on her feet.
+~
+4204 0 0 0 1180712 0 0 0 1000
+40 -5 -7 1d5+7495 1d5+60
+65 75
+9 9 2 0 -1 -1
+#32433
+H H 0~
+false prophet~
+a false prophet~
+A prophet urges you give him all your belongings to gain nirvana.
+~
+   This shady human has a non-distinct face with a crooked smile.  He is quite
+unkept and appears slightly malnourished.  His back bears the scars of many
+whippings.    
+~
+8388648 0 0 0 1115176 0 0 0 0
+35 -6 -1 10d10+7100 10d4+40
+50 60
+9 9 1 0 -1 -1
+#32434
+H W 0~
+beaten-down beater wife man prisoner~
+a beaten-down prisoner~
+A beaten-down man cowers at your presence.
+~
+  It looks as if this human man has been beaten and abused many times.  He
+has deep bruises, cuts, and scars all over his body.  He is missing some of 
+his hair and has a black eye.  Dried blood run downs his left leg.
+~
+168 0 0 0 1049608 0 0 0 0
+39 0 -1 10d10+5000 4d20+20
+50 60
+9 9 1 0 -1 -1
+#32435
+E K 0~
+elven squire~
+an elven squire~
+An elven squire pays no attention to you.
+~
+   Appearing as ageless as most elves do, he is well kept.  His hair, if a bit
+long, is in order and short enough to let his pointy ears remain visible.  His
+almond shaped eyes stare at you intently.  He is in good physical condition.  
+
+~
+44 0 0 0 1184808 0 0 0 400
+38 -8 10 10d10+7000 10d4+53
+50 60
+9 9 1 0 -1 -1
+#32436
+H M 0~
+charmer~
+a charmer~
+A charming, yet scarred, man is here.
+~
+  This man has several nasty scars on his face and arms.  He has long ashen
+hair and his skin is burnt black in spots.  He has several runes, written
+as scars, upon his chest.  His limbs are long and very slender.
+~
+108 0 0 0 5243948 0 0 0 0
+40 0 -3 1d1000+5000 1d40+40
+65 75
+9 9 1 0 -1 -1
+#32437
+H T 0~
+swindling swindler merchant thief~
+a swindling merchant~
+A grinning merchant offers to sell you a very familar wallet at a bargin price.
+~
+   Grinning from ear to year, this merchant looks like a troublemaker.  Her
+beady eyes are partially hidden by his long strinky black hair.  She is of
+average build for a female human, but has bone-thin legs.    
+~
+6312 0 0 0 1311752 0 0 0 400
+35 -4 -12 10d10+8000 4d10+41
+50 60
+9 9 2 0 -1 -1
+#32438
+I D 2~
+draconian death knight prisoner~
+an draconian prisoner~
+A lean and strong draconian hisses at you and attacks!
+~
+   Her dull black scales have a hint of red to them.  Many teeth portrude from
+her long snout.  Her cat-like glazed eyes posess a penetrating gaze.  She has a
+scar that resembles the symbol of Takhisis upon her chest.    
+~
+4140 0 0 0 1188904 0 0 0 -500
+39 -6 -7 10d5+8500 10d3+30
+50 60
+9 9 2 8 0 4
+#32439
+I W 1~
+draconian prisoner warrior~
+a draconian prisoner~
+A large draconian prisoner lumbers towards you.
+~
+   He is larger than the average draconian and has dark blue scales.  Light
+reflects in a creepy manner off his midnight black eyes.  He has a line of
+spikes down his spine and large curved claws.    
+~
+8394792 0 0 0 1049640 0 0 0 -500
+39 -6 10 10d5+9658 10d3+30
+50 60
+9 9 1 8 13 4
+#32440
+I M 3~
+draconian prisoner sorcerer~
+a draconian prisoner~
+A draconian sorcerer notices you and begins to cast a spell.
+~
+   This draconian's body is covered in crisp dark purple scales.  Her long
+fingers end in short curved claws.  Deep red eyes stare down her long snout at
+you.  Upon her chest is a glowing black rune of one of the draconian's gods.  
+
+~
+20524 0 0 0 5440522 0 0 0 -500
+41 -4 -5 10d5+7500 10d4+30
+65 75
+9 9 2 8 0 -1
+#32441
+C R 0~
+orc~
+an orc~
+Happy to see you arrive, an orc advances!
+~
+   Her tall and bulky body is an ugly yellow-gold in color.  She is covered
+with warts and scars.  She has a mop of short brown hair on her head.  Her dull
+yellow eyes watch you closely.  She doesn't seem to care about her lack of
+clothing.    
+~
+131176 0 0 0 5505064 0 0 0 -500
+40 -20 10 1d1000+5100 1d41+41
+65 75
+9 9 2 0 -1 -1
+#32442
+H A 0~
+mysterious woman~
+a mysterious woman~
+From the corner, a mysterious woman winks at you.
+~
+  From behind dirty blond hair, she beams a seductive wink to you.  Her well
+toned body is well tanned.  She is a bit taller than average for human females.
+She has a small tattoo of a wreath of 3 roses around her navel.
+~
+4204 0 0 0 1311784 0 0 0 0
+40 -6 -3 1d5+7500 1d25+50
+65 75
+9 9 2 0 -1 -1
+#32443
+C W 0~
+highwayman orc~
+a highwayman~
+An ungly orc tries to throttle you!
+~
+  Ugly and large, this orc's mangy light-brown hair hangs in his face.  His eyes
+have a mindless look to them and his grin reveals a few teeth.  His entire body
+is covered in thin light-brown hair which doesn't cover his scars too well.  His
+right hand bears burn scars and there is a fresh cut on his left shoulder.
+~
+4204 0 0 0 1311752 0 0 0 -500
+40 -20 -3 2d1000+6000 1d20+30
+65 75
+9 9 1 0 -1 -1
+#32444
+E T 0~
+mugger elf evil~
+a mugger~
+An evil looking elf sizes you up, then lunges at you grasping at your bracelet.
+~
+  Stocky for an elf, this elf has a evil look in his eye which is affixed on
+your bracelet.  His left arm bears burn scars, and his chest has several bruises
+on it.  A nasty gash extends from his left ear in an arc down to his chin.  He
+looks fairly muscular for an elf.
+~
+4204 0 0 0 1049608 0 0 0 -500
+40 -6 -3 1d5+7500 1d30+60
+65 75
+9 9 1 0 -1 -1
+#32445
+W W 0~
+marex dwarf~
+Marex~
+A beat-down dwarf is here, bleeding.
+~
+  A toothless grin meets you from behind a bloody beard.  His steely eyes scan
+around, studdying all they see.  This dwarf is a bit less round than most.  His
+hands have a couple deep scars on them.  There are a couple severe welts on his
+back, one is oozing blood.  There is also a large black and blue boot-shaped
+bruise centered on his chest.
+~
+4204 0 0 0 1049640 0 0 0 0
+40 -15 -5 1d5+8000 30d1+45
+65 75
+9 9 1 0 -1 -1
+#32446
+H H 0~
+wezero shadow dark~
+Wezero~
+A dark humanoid sits in the shadows motionless.
+~
+  The darkness woven about this being obscures his finer details.  His black
+eyes gaze out from beind mangled hair.  He moves his short thick limbs with
+ease.  Both of his upper arms are covered with runic tattoos.  What they say or
+mean is not decipherable.  
+~
+4204 0 0 0 1075577896 0 0 0 0
+40 -6 0 1d5+7500 1d30+60
+65 75
+9 9 1 0 -1 -1
+#32447
+H T 0~
+lerim thief woman human~
+Lerim~
+A young human female is sitting in silence here.
+~
+  Of average size for a human, this charming woman's light blond hair dances
+along her back as she moves.   Her deep blue eyes reflect saddness and remorse
+and ask for pity.  Her silent and flowing movement compliments her
+well-conditioned figure. 
+~
+4204 0 0 0 1967112 0 0 0 -500
+40 -6 -5 1d5+7500 1d40+48
+65 75
+9 9 2 0 -1 -1
+#32448
+L T 0~
+morrotelli heirloom thief hairy halfling~
+Morrotelli~
+A hairy halfling is imprisoned here.
+~
+  Starting with his hairy feet, this halfling is one of the hairest you've ever
+seen.  He's hairy everywhere.  His arms and legs are completely covered, as are
+the backs of his hands.  His beard and mustache disguise most of his face and
+infringe on his ears.  His eyes reveal an analyzing gaze.  He is otherwise
+expressionless.  Regardless of all the hair, he is suprisingly light and quick
+on his feet.
+~
+4204 0 0 0 1442824 0 0 0 0
+40 -6 -2 1d5+7500 1d5+64
+65 75
+9 9 1 0 -1 -1
+#32449
+H K 0~
+huetlef sir~
+Sir Huetlef~
+A knight of goodness is here grumbling, 'he bloody deserved it'.
+~
+  Standing proud, this man's strong physical condition is evident.  His light
+brown hair is cut short as is his goatee.  His brown eyes are set close together
+and deep within his face.  Holding his cloak tightly against himself does
+nothing to cover the battlescars scattered on his forearms.  A large burn scar
+is centered on his left thigh.
+~
+4204 0 0 0 1184808 0 0 0 500
+40 -15 -5 1d5+5000 1d10+60
+65 75
+9 9 1 0 -1 -1
+#32450
+H D 0~
+Ruerphux Lord~
+Lord Ruerphux~
+A death knight is here cursing up a storm while mumbling about his imprisonment.
+~
+   Uninviting aspects reside in every feature of this man.  His long black hair
+fails to cover his hate-filled eyes.  The grimace on his face speaks paragraphs
+about his disgust with his situation.  Beneath his cloak you see well muscled
+legs and arms.  His arms, legs and chest are covered in black hair .
+~
+4204 0 0 0 1188904 0 0 0 -500
+40 -15 -5 1d5+5000 1d40+45
+65 75
+9 9 1 0 -1 -1
+#32451
+M M 0~
+netheragi warlock minotaur~
+Netheragi~
+A tall minotaur with a hood over his head is bound in irons here.
+~
+   This minotaur stands three meters tall at the brow and has short horns.  
+His strange fur has black tips, but the underside is an off-white color.  
+Thick powerful legs end in cloven feet that mark the ground.  Upon his chest
+his fur is burnt away leaving the symbol of Hiddukel.
+~
+40 0 0 0 5243944 0 0 0 -500
+50 -10 -2 10d10+14000 1d40+60
+80 90
+9 9 1 0 -1 -1
+#32452
+H A 0~
+dark assassin rogue~
+the dark assassin~
+A dark rogue is standing in the shadows.
+~
+   Human in appearance, this man is of average build.  He is strained greatly
+by the stone shoes he wears.  His hands and arms bear no scars but his back
+bears a few scars from whippings.    
+~
+56 0 0 0 1049640 0 0 0 -500
+50 -10 -2 10d10+9500 1d60+80
+80 90
+9 9 1 0 -1 -1
+#32453
+H W 0~
+routhex prisoner warrior~
+Routhex~
+A large warrior is imprisoned here.
+~
+   He is a beast of a man, standing over two meters tall.  He looks to weigh
+about 19 or 20 stones, and most of it is muscle.  Brown eyes stare at you from
+under long black hair.  His arms bear many battlescars and he's missing part of
+his left ear.  He wears a large iron collar.    
+~
+40 0 0 0 1049608 0 0 0 1
+50 -30 -5 10d10+17500 2d25+50
+80 90
+9 9 1 0 -1 -1
+#32454
+H T 0~
+darumaethro~
+Darumaethro~
+Darumaethro eyes you up inquizitively.
+~
+   Darumaethro is small for a human, but seems to have some elven
+characteristics.  His hair is dark blond, but has a fair bit of grey in it.  
+He has a tattoo of the Keruzet Clan on his left shoulder.  It is of two aspen
+trees growing out from the same spot, encircling a cresent moon and rejoining.
+  
+~
+6252 0 0 0 1442856 0 0 0 1
+50 -10 -5 1d100+14950 1d30+75
+80 90
+9 9 1 0 -1 -1
+#32475
+H W 0~
+mercenary prisonbreak~
+a mercenary~
+A grinning warrior mercenary is looking for danger here.
+~
+He's a lean, mean, fighting machine.  He's a average size human in good
+physical condition.  He moves with some grace and looks strong.
+~
+6184 0 0 0 1064 0 0 0 -500
+39 -3 -14 1d5+1500 8d5+60
+50 60
+9 9 1 0 -1 -1
+#32480
+M D 0~
+minotaur guardsman~
+a Minotaur Guardsman~
+A large minotaur advances on you!
+~
+l
+~
+67113066 0 0 0 4588556 0 0 0 -500
+45 -5 -12 1d5+5000 1d5+75
+65 75
+9 9 1 0 -1 -1
+#32497
+R D 0~
+testtank tank test~
+the test tank~
+Dimetrodon's test tank is here
+~
+looks like the mob dimetrod uses to test fight with
+~
+72 0 0 0 537076780 0 0 0 -1000
+50 -15 -16 1d1+1000 8d5+62
+80 90
+9 9 0 0 -1 -1
+#32499
+C W 0~
+testmob guard~
+testmob for guards~
+a neked guard clone is here
+~
+the guards here (32401) wear eq that makes them a better fighter so their
+exp/difficulty ratio is way off.  if a guard had nat stats that it's eq
+gave it, it'd be me.
+~
+22604 0 0 0 1064 0 0 0 0
+35 -6 -10 1d5+5000 2d16+33
+50 60
+9 9 0 0 -1 -1
+$

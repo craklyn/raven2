@@ -1,0 +1,350 @@
+#24101
+O D 0~
+flesh golem humanoid~
+the flesh golem~
+A large humanoid stitched from chunks of flesh stands here.
+~
+This vile construction has been masterfully sewn together from the body parts
+of butchered humans. It stands about 7'6" and smells a little from embalming
+fluids.
+~
+24236 0 0 0 132100 0 0 0 0
+30 -7 9 1d2000+2000 20d4+50
+50 60
+9 9 0 0 -1 -1
+#24102
+G D 0~
+stone golem construction~
+the stone golem~
+A ponderous construction chiseled from solid stone reaches out for you.
+~
+The golem has been brilliantly rendered from granite in the form of a tall
+warrior, standing well over nine feet tall. While slow, it must be strong to
+simply move its heavy limbs.
+~
+1136428 0 0 0 427180 0 0 0 0
+49 -5 -5 1d2000+2000 20d4+50
+70 80
+9 9 0 0 -1 -1
+#24103
+G D 0~
+brass golem statue~
+the brass golem~
+A massive brazen statue waddles toward you.
+~
+The brass golem has been worked into the likeness of a huge fat man standing
+almost eleven feet tall. The very stone of the tower shakes under its heavy
+tread.
+~
+1662764 0 0 0 165036 0 0 0 0
+34 -5 -5 1d2000+2000 20d4+50
+50 60
+9 9 0 0 -1 -1
+#24104
+G D 0~
+iron golem colossus~
+the iron golem~
+A colossus formed from solid iron looms over you.
+~
+This mighty golem stands twelve feet tall. It is formed in the likenes of an
+enourmous armoured warrior. Twin eyes of gleaming iron stare at you
+impassively.
+~
+87592 0 0 0 165036 0 0 0 0
+36 -5 -5 1d2000+2000 20d4+50
+50 60
+9 9 0 0 -1 -1
+#24105
+H D 0~
+veteran tower guard~
+the Veteran Tower Guard~
+A grizzled tower guard patrols this area.
+~
+This grim looking man has seen a few battles, he'd certainly go down fighting.
+He looks you over, trying to decide whether you should be here.
+~
+24104 0 0 0 1036 0 0 0 -500
+30 6 -1 1d800+1100 3d5+20
+50 60
+9 9 1 0 -1 -1
+#24106
+U M 0~
+wraith~
+the Wraith~
+The ghastly wraith reaches out for you!
+~
+Twin points of light glittering with malice peer at you beneath the cowl of
+a tattered black robe. You can see the darkness beyond though holes in the
+robe, the body of the wraith has no substance.
+~
+190252 0 0 0 1311850 0 0 0 -1000
+35 4 -1 1d2000+2000 8d7+4
+50 60
+9 9 0 0 -1 -1
+#24107
+U M 0~
+spectre~
+the Spectre~
+A spectre emerges from the darkness to drain your life force.
+~
+The ethereal body of the spectre floats just above the ground. The spectre
+looks at you eagerly, licking its lips.
+~
+190252 0 0 0 328746 0 0 0 -1000
+38 3 -3 1d2200+3000 8d8+6
+50 60
+9 9 0 0 -1 -1
+#24108
+U W 0~
+ghoul~
+the Ghoul~
+The night-haunting ghoul looks at you hungrily.
+~
+You find yourself looking at a grey skinned sub-human creature. It's eyes
+reflect an unnatural hunger as its snarling lips draw back to reveal it's
+sharp pointed teeth.
+~
+28460 0 0 0 394240 0 0 0 -500
+33 4 -1 1d2000+2000 8d7+4
+50 60
+9 9 0 0 -1 -1
+#24109
+D W 6~
+dragon silver statue~
+the dragon statue~
+A huge silver dragon statue seems to be watching you.
+~
+The statue is of a Dragon. From nose to tail it is about 10 feet long. It seems
+to have been wrought from silver, but the tarnished metal is now a mottle of
+blacks and purples.
+~
+18478 0 0 0 33960 0 0 0 -1000
+45 0 -1 10d50+3800 6d8+40
+65 75
+9 9 1 21 8 4
+#24110
+N H 12~
+shadow demon~
+the Shadow Demon~
+The Shadow Demon is eager to taste your flesh.
+~
+   You see a mass of shadows forming what appears to be gigantic wings and a
+pair of claws.  Then, you see a movement of the shadows, and your danger
+becomes that much more apparent as you see the Shadow Dragon turn to face you,
+with it's glowing white eyes, and it's white, sharp fangs.
+~
+1069164 0 0 0 1073811694 0 0 0 -666
+50 -10 -10 1d1+20000 20d58+80
+80 90
+9 9 1 8 4 -1
+Z 60
+#24111
+H D 0~
+keeper~
+the Keeper~
+   The Keeper brandishes his sword and prepares to use it on you.
+~
+   The only look you get at this man is a quick one.  You see an evil grin on
+his face as he raises his eyes to see your face as he brandishes his sword.  
+
+~
+20268 0 0 0 165038 0 0 0 -900
+51 -10 -10 10d10+25500 6d7+100
+90 100
+9 9 0 0 -1 -1
+#24112
+A W 0~
+buzzard~
+Buzzard~
+A Giant Buzzard waits to feast on your corpse.
+~
+   You see a huge buzzard with a large, black beak and beady, yellow eyes. He
+sure looks hungry, and you realizes that he thinks you look VERY tasty...
+~
+22572 0 0 0 132140 0 0 0 -100
+10 0 -1 10d3+20 15d3+25
+35 40
+9 9 0 16 -1 -1
+#24113
+U W 0~
+skeleton~
+the skeleton~
+A skeleton clammers towards you.
+~
+something in his glowing red sockets-for-eyes says that he could make
+mincemeat of pretty much anyone.
+~
+22572 0 0 0 1213614 0 0 0 -500
+42 -7 -8 1d3000+3000 20d4+45
+65 75
+9 9 1 0 -1 -1
+#24114
+A W 0~
+horse nightmare keep~
+the nightmare~
+You see a jet black horse with flaming eyes standing before you.
+~
+   You see before you a jet black thoroughbred standing about eight feet tall
+at the shoulders.   As the nightmare turns to face you, you see flames burning 
+in his eyes, that seem to sear through your very soul. Then he rears back and 
+brandishes his hoofs, which are still glowing red as if they were still being 
+forged in a fiery furnace.
+~
+1593132 0 0 0 1179822 0 0 0 -1000
+51 -10 -10 10d10+20000 6d7+100
+90 100
+9 9 1 23 21 4
+#24115
+A W 0~
+rat~
+a rat~
+A rat glares at you from the corner.
+~
+The rat is a sickening grey color, with a disgustingly long, ringed, pink
+tail.  It stares at you with small black eyes and hisses, showing you its
+filthy yellow teeth.
+~
+22572 0 0 0 263208 0 0 0 -250
+40 8 7 1d4000+2000 60d1+42
+65 75
+9 9 0 0 -1 -1
+#24116
+A W 0~
+gargoyle gruesome stone~
+a gruesome stone gargoyle~
+A gruesome stone gargoyle crouches on a pedestal, grinning at you.
+~
+It appears to be a muscular humanoid, completely made of stone.  Its arms
+are longer than its legs, and it has a nasty underbite.  Short, blunt fangs
+stick upward, and long spines cover its back.
+~
+1065002 0 0 0 361640 0 0 0 0
+49 -10 -14 1d4000+2000 20d4+45
+70 80
+9 9 0 0 -1 -1
+#24117
+A M 0~
+armor armour suit~
+an animated suit of armor~
+A dirty suit of armor stands here.
+~
+The armor is made of a heavy, dull grey metal.  It is ornately decorated,
+and the visor of the helmet is in the shape of a wolf's muzzle.  The armor
+is covered with dirt and dust, and stains of blood appear to be somewhat
+fresh.
+~
+22572 0 0 0 263208 0 0 0 0
+27 -20 -8 10d10+900 10d2+10
+40 40
+9 9 0 0 -1 -1
+#24118
+U W 0~
+skeleton closet~
+a closet skeleton~
+A closet skeleton lurks here, half-hidden by all the coats.
+~
+This skeleton looks quite old, as its bones are very dry.  It stares at
+you with empty sockets, cold and expressionless.
+~
+1065004 0 0 0 296104 0 0 0 -500
+25 -5 0 1d2000+2000 20d4+50
+40 40
+9 9 0 0 -1 -1
+#24119
+A M 0~
+locathath~
+the locathath~
+A locathath rises out of the scummy water to attack.
+~
+It is humanoid in shape, but its body is green and completely covered with
+scales.  its hands, feet, and ears are webbed, and it also has a small
+dorsal fin.  Its jaw is elongated, but its mouth is very small, giving its
+face the appearance of a large fish.
+~
+1069102 0 0 0 1475752 0 0 0 -500
+45 -10 -8 1d2000+2000 60d1+42
+65 75
+9 9 0 0 -1 -1
+#24120
+P M 0~
+slug~
+a slug~
+A slime covered slug creeps towards you.
+~
+A slug with teeth?
+~
+152092 0 0 0 427176 0 0 0 -250
+49 -7 -12 1d2000+2000 1d20+45
+70 80
+9 9 0 4 16 21
+#24121
+V W 0~
+vampire~
+a vampire~
+A vampire lurks in the shadows here, glaring at you.
+~
+His skin is cold and pale, and his face is chiseled and solemn.  His lips
+are an extremely bright crimson.  He reaches out to you and grins evilly,
+revealing both his fangs and the hairs growing from his palm.
+~
+4488 0 0 0 262184 0 0 0 -750
+34 -15 -4 2d10+2200 10d2+8
+50 60
+9 9 1 0 -1 -1
+#24122
+V M 0~
+vampire female~
+a female vampire~
+A female vampire rides into the room on a moonbeam.
+~
+Her hair is black as the night, and her skin is fair.  Her dark eyes pierce
+into your soul as she gazes at you.  She licks her full, red lips and smiles.
+~
+4488 0 0 0 262184 0 0 0 -1000
+34 -20 -14 15d10+2600 5d3+7
+50 60
+9 9 2 0 -1 -1
+#24123
+V W 0~
+bat vampire~
+a vampire bat~
+A vampire bat is flitting about here.
+~
+A large, black, leathery-winged creature with a thirst for blood.
+~
+4264 0 0 0 262184 0 0 0 -250
+15 3 2 3d10+100 3d4+5
+35 40
+9 9 0 0 -1 -1
+#24124
+V H 0~
+pompius keep~
+Pompius the mad~
+You hear insane laughter from the corner.
+~
+   Pompius is by far the hairiest man you have ever seen.  His arms and hands
+seem to be covered with curly, black fur.  Greatwads of hair portrude the neck
+of his tunic.  His ears and nostrils look like birds nests and is he beard
+starts just under his lower eyelids and continues down, into a small pile on
+the floor. 
+~
+544558 0 0 0 33964 0 0 0 -1000
+51 -10 -10 1d1+18500 5d4+100
+90 100
+9 9 1 0 -1 -1
+#24125
+D D 6~
+eldrak eyes keep~
+the Eldrak~
+Two fiery eyes watch you.
+~
+It is about 18 feet tall and covered with shaggy black fur. It has
+virtually no nose, and its lower jaw juts out, showing two massive,
+protruding tusks. Its eyes are sunk in deep sockets beneath a heavey
+ridge of bone across its brow, and they burn with a hideous hunger.
+~
+1593132 0 0 0 165036 0 0 0 -1000
+51 -10 -10 10d10+20000 6d7+100
+90 100
+9 9 0 0 -1 -1
+$

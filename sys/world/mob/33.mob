@@ -1,0 +1,305 @@
+#3301
+H T 0~
+chef cook~
+the House Chef~
+The Chef is working here.
+~
+The house chef looks like he has been slaving in front of a hot stove all
+day.
+~
+16586 0 0 0 1024 0 0 0 0
+15 20 -1 5d5+120 1d7+3
+35 40
+9 9 1 0 -1 -1
+#3302
+H T 0~
+merchant man citizen~
+the Man of the House~
+A man dressed in fine clothes stands here, wondering why you are in his
+house.
+~
+This man is obviously very wealthy.  He wears very fine clothing and has
+a large pouch of coins hanging from his waist.
+~
+16588 0 0 0 1024 0 0 0 0
+15 20 1 5d5+500 1d6+1
+35 40
+9 9 1 0 -1 -1
+#3303
+H T 0~
+lady citizen ~
+the Lady of the House~
+A woman dressed in fine clothes gasps as you enter the room.
+~
+This woman is obviously very wealthy.  She stands before you with a look
+of shock on her face.
+~
+264 0 0 0 1024 0 0 0 200
+10 20 1 5d5+500 1d6+1
+35 40
+9 9 2 0 -1 -1
+#3304
+H T 0~
+young woman~
+the Young Woman~
+A young woman stands here.
+~
+This young woman has been given everything gold can buy.  Total panic
+is in her eyes as you stare at her.
+~
+200 0 0 0 1024 0 0 0 350
+5 20 2 1d1+700 1d6+1
+35 40
+9 9 2 0 -1 -1
+#3305
+H T 0~
+young man~
+the Young Man~
+A young man stands here.
+~
+This young man has been pampered all his life.  He trembles as you stare
+at him.
+~
+72 0 0 0 1024 0 0 0 -350
+10 20 1 5d5+100 1d6+2
+35 40
+9 9 1 0 -1 -1
+#3306
+H T 0~
+little girl~
+the Little Girl~
+A little girl is playing here.
+~
+   The little girl doesn't look twice at you.  She is having the time of her
+life and your presence is little more than a distraction to her.    
+~
+200 0 0 0 0 0 0 0 800
+2 20 8 1d1+20 1d3+0
+35 40
+7 9 2 0 -1 -1
+#3307
+H T 0~
+little boy~
+the Little Boy~
+A little boy is planning a nasty prank here.
+~
+The little boy sneers at you.
+~
+72 0 0 0 1024 0 0 0 -800
+5 20 8 1d1+20 1d3+0
+35 40
+9 9 1 0 -1 -1
+#3308
+H T 0~
+servant maid~
+the Maid~
+A maid bustles about here.
+~
+   The servant looks like she could use a break.  She doesn't acknowledge
+anyone's presence in the room.  Perhaps, this is for the best.  If you got in
+her way, she looks capable of bitch-slapping you across the room.    
+~
+16584 0 0 0 0 0 0 0 500
+6 20 1 2d6+150 1d3+1
+35 40
+9 9 2 0 -1 -1
+#3309
+H T 0~
+servant~
+the Servant~
+A servant bustles about here.
+~
+The servant looks like he could use a break.  He doesn't even notice your
+presence.
+~
+4168 0 0 0 1024 0 0 0 500
+15 20 1 2d6+300 1d7+1
+35 40
+9 9 1 0 -1 -1
+#3310
+H T 0~
+gardener~
+the Gardener~
+The gardener attends his duties here.
+~
+The old gardener is busy weeding the garden.
+~
+200 0 0 0 1024 0 0 0 800
+10 20 1 5d5+200 1d6+1
+35 40
+7 9 1 0 -1 -1
+#3311
+H W 0~
+bodyguard guard~
+the Bodyguard~
+A hired bodyguard stands here.
+~
+   Northern Midgaard citizens have hired the services of bodyguards for the
+safety of their neighborhood.  Most North Midgaard citizens believe the Baron
+spends to much time in Midgaard Proper, leaving them open to attack from the
+thieving scoundrels in the forest.  These men of security service have seen a
+little action in their day and look as if they could handle their own if
+someone happened to cross them.    
+~
+6216 0 0 0 1024 0 0 0 0
+15 20 1 5d5+1500 1d7+1
+35 40
+9 9 1 0 -1 -1
+#3312
+H T 0~
+street cleaner sweeper~
+the Street Cleaner~
+A man is cleaning the street here.
+~
+The street cleaner looks like he has been working for quite a while.
+~
+76 0 0 0 1024 0 0 0 0
+5 19 5 1d1+25 1d3+0
+35 40
+7 9 1 0 -1 -1
+#3313
+H T 0~
+wealthy merchant man~
+the Wealthy Merchant~
+A wealthy merchant strolls along his way.
+~
+The merchant totally ignores you.
+~
+72 0 0 0 1024 0 0 0 0
+10 20 1 5d5+300 1d7+1
+35 40
+9 9 1 0 -1 -1
+#3314
+H W 0~
+baronial guard~
+the Baronial Guardsman~
+A member of the baron's guard stands here.
+~
+The Guardsman looks like he has received some specialized combat training.
+~
+26696 0 0 0 1064 0 0 0 500
+15 20 7 5d5+1500 1d6+1
+35 40
+9 9 1 0 -1 -1
+#3315
+H W 0~
+terwin tall castellan~
+Terwin~
+Terwin the Tall, Castellan to the Baron, stands here.
+~
+As you stare at him, you realize why he is called "the Tall".  Terwin
+stands nearly seven feet tall, and most of it is muscle. Terwin doesn't
+look amused by your presence in the castle.
+~
+30792 0 0 0 1024 0 0 0 800
+35 20 1 5d5+1500 1d7+2
+50 60
+9 9 1 0 -1 -1
+#3316
+H T 0~
+galatia finehand chief steward~
+Galatia~
+Galatia Finehand, Chief Steward to the Baron, stands here.
+~
+Galatia has a very business-like demeanor.  She doesn't even look up
+from the book she is reading as you stare at her.
+~
+30792 0 0 0 1024 0 0 0 1000
+35 20 -2 5d5+1000 1d7+1
+50 60
+7 9 2 0 -1 -1
+#3317
+A W 0~
+chihuahuan raven bird~
+the chihuahuan raven~
+A stuffed bird gazes into obliviousness. 
+~
+   When you approach the stuffed bird it swivels its head and gazes at you with
+beady black eyes.  Apparently, Madam Ravenclaw keeps this particular bird as a
+live pet.  The bird has an all-black plumage with a rich purple-blue gloss in
+good light.    
+~
+74 0 0 0 65536 0 0 0 0
+6 17 10 100d1+30 1d4+0
+35 40
+9 9 0 0 -1 -1
+#3318
+H W 0~
+Madam Ravenclaw ~
+Madam Ravenclaw~
+Madam Ravenclaw goes about her business with the composure of a princess. 
+~
+   Madam Ravenclaw has lived in this mansion for over sixty years.  The
+antiquity of the building mirrors her face.  In her younger years she was known
+far and away for her beauty and abundant wealth.  The years have taken her
+beauty, but her vanity has remained intact.  The Madam is also known for her
+eccentric tastes in rare birds.    
+~
+72 0 0 0 0 0 0 0 600
+8 19 6 2d200+50 2d1+0
+35 40
+9 9 0 0 -1 -1
+#3319
+H W 0~
+baronial gatekeeper guard~
+the Baronial Gatekeeper~
+A young baronial guard keeps a vigilant eye out for trouble. 
+~
+   This young man has been given the duty to watch the North Midgaard gates.  
+He is new to the Baronial Guard and wants to make a good impression.  
+Therefore, he takes his job quite seriously and never takes his eyes off the
+northern forest.    
+~
+90 0 0 0 32 0 0 0 759
+12 18 -1 20d4+250 1d10+2
+35 40
+9 9 1 0 -1 -1
+Z 3300
+#3320
+H A 0~
+greize~
+Greize~
+Greize stands here inspecting his trained bodyguards. 
+~
+   Greize was hired by the citizens of North Midgaard to bring in certain
+individuals with combat experience.  Greize trains these individuals in the art
+of protection and security.  His trained security service personnel are sold to
+wealthy Midgaard citizens.  He has done a great deal (at a great cost) to
+hinder the pillaging done by ruffians in the forests north of Midgaard.    
+~
+72 0 0 0 0 0 0 0 0
+20 16 -2 100d2+80 3d4+2
+40 40
+9 9 1 0 -1 -1
+Z 3301
+Z 3302
+Z 3303
+#3321
+H M 0~
+super mob~
+super mobile~
+the super mobile stands here
+~
+I am super mobile guy, phear me!
+~
+8 0 0 0 0 0 0 0 0
+50 10 10 100d40+100 1d1+0
+80 90
+9 9 0 0 -1 -1
+#3364
+H M 0~
+Feargal Duroon metalsmith~
+Feargal Duroon~
+A brawny looking metalsmith watches over his forges.
+~
+   Feargal has been a popular attraction in Northern Midgaard for two decades.
+His armor is held in high regard among the Baronial Guardsmen.  Duroom, offers
+top quality armor for this region, but he also offers them at top prices.  
+Many young adventures with a small bank roll have stopped off at his shop
+before beginning their journey.    
+~
+180235 0 0 0 0 0 0 0 800
+25 -10 -5 1d40+28000 1d1+0
+40 40
+9 9 1 0 -1 -1
+$

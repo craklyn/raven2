@@ -1,0 +1,25 @@
+pacifi emote gets out his sandwichboard with "I am a Pacifist" on it.
+pick gt Wishtar Jenith Sly Lythsian Ralen Livia Horvath Stunner Thumper Lava Darrion Revenge
+wa wake ;stand
+rm c 'rem cur' $*
+cp c 'cure plag' $*
+rp c 'rem poi' $*
+cb cast 'bless' $*
+retitle title &10:: &06ElfLord&00
+ca c 'arm' $*
+bl c 'blind' $*
+qq cast 'earth'
+grr cast 'word' group
+rr cast 'word' $*
+cw cast 'ward' $*
+cr cast 'regen' $*
+hh cast 'heal' $*
+fly c 'fly' $*
+sum c 'sum' $*
+cs c 'sanc' $*
+kk cast 'harm' $*
+gt gtell &03$* &00
+tc tell crullen $*
+cbg c 'cu bl' group
+di c 'd i' $*
+gg get all all.cor

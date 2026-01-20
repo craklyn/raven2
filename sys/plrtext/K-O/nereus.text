@@ -1,0 +1,22 @@
+summ c 'summon' $*
+str c 'str' $*
+gt gt &08$*&00
+say say &08$*&00
+a assist crackle
+2 take $* hole
+1 put $* hole
+0 recite elv $*
+sto c 'stoneskin' $*
+` drink timble
+shi c 'shield' $*
+3 wake
+4 stand
+bre eat bread
+fly c 'fly' $*
+invis c 'invis' $*
+infra c 'infra' $*
+b c 'blind' $*
+flame c 'flame blade' $*
+pop recite pig pig
+988 recite elv elv
+ik c 'identify' $*

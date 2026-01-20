@@ -1,0 +1,18 @@
+h hand self
+ck close king
+coin get all.gold all.corpse
+key get all.key all.corpse
+dir l n;l e;l s;l w;l up;l down
+cw clanwho
+qi quest info
+hall n;n;n;n;n;n;n;n;n;e;e;s;e;e
+fly get liq beet;q liq
+reg get spirit beet;q spirit
+di get booz beet;q booze
+ale get ale beet;q ale
+food get bread beet;eat bread
+oc open chest
+all get all all.corpse
+ai auct -info
+de destroy corpse
+gt gt &13$*&00 

@@ -1,0 +1,19 @@
+re cast 'revive' $*
+j mock me
+2 kill 2.
+gte gtell &06>&00&09--&00&06<&00$* &00&06>&00&09--&00&06<&00
+out emote stares at you and utters the words, '&25&20&11Out &10of &08Mana&00'.
+lall get all all.corpse
+yuiop gt labumba
+clan clan &00&04>&00&13--&00&04<&00&11$* &00&04>&00&13--&00&04<&00
+gs gtell &04>&00&08--&00&04<&00&13$* &00&04>&00&08--&00&04<&00
+ea eat
+gq gtell &11>&00&08--&00&11<&00&08$* &00&11>&00&08--&00&11<&00
+say say &02>&00&03--&00&02<&00&10$* &00&02>&00&03--&00&02<&00
+no nod
+db drink thimble
+word cast 'word of recall' $*
+he cast 'heal' $*
+sanc cast 'sanc' $*
+cb cast 'blind' $*
+gt gtell &01>&00&08--&00&01<&00&07$* &00&01>&00&08--&00&01<&00

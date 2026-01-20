@@ -1,0 +1,341 @@
+#900
+key golden heavy~
+a golden key~
+A heavy golden key lies here.~
+~
+18 4 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#901
+shield minotaur~
+a dark minotaur shield~
+A dark minotaur shield has been left here.~
+~
+9 5075016 32 0 0 513 0 0 0
+7 0 0 0
+18 1000 305
+E
+shield minotaur~
+A strong, sturdy shield.  It brings to mind legends of a shield that
+provided protection from poisonous gases.
+~
+A
+5 2
+A
+19 2
+B
+0 0 0 0
+#902
+potion speckled~
+a speckled potion~
+A speckled potion speckles here.~
+~
+10 64 0 0 0 1 0 0 0
+35 77 0 0
+5 5000 500
+B
+0 0 0 0
+#903
+gauntlets troll~
+a pair of troll gauntlets~
+A pair of gauntlets made from troll skin lie on the ground.~
+~
+9 524352 0 0 0 129 0 0 0
+5 0 0 0
+10 1000 325
+A
+5 2
+A
+13 15
+A
+19 1
+B
+0 0 0 0
+#904
+ring platinum~
+a platinum ring~
+A shining ring of platinum lies here.  It has a tiny inscription.~
+~
+9 5009601 32 0 0 3 0 0 0
+5 0 0 0
+15 1000 615
+E
+ring platinum inscription~
+The inscription on the ring reads:
+
+Cursed be the gods that supply coins to mortals!
+And cursed be the mortal that accepts valuable gifts from the gods!
+Especially cursed are those who do not leave the toilet seat up!
+
+~
+A
+13 25
+A
+18 2
+B
+0 0 0 0
+#905
+flail~
+a flail~
+A flail has been carelessly left here.~
+~
+5 224 0 0 0 8193 0 0 0
+0 5 5 7
+5 1100 245
+A
+18 1
+A
+13 5
+B
+0 0 0 0
+#906
+coins gold treasure~
+a great pile of treasure~
+A great, gleaming pile of treasure lies at your feet.~
+~
+20 0 0 0 0 1 0 0 0
+50000 0 0 0
+20 43500 0
+B
+0 0 0 0
+#907
+spear heavy~
+a heavy spear~
+A heavy spear has been tossed on the ground here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 6 14
+5 900 555
+A
+19 1
+A
+18 2
+B
+0 0 0 0
+#908
+trident~
+a trident~
+There is a warrior's trident here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 4 11
+5 600 260
+E
+trident~
+This is a common trident, often used by gladiators or mermen.  It has
+three sharp prongs jutting from the business end and a smooth wooden
+handle with two comfortable grip points.
+~
+A
+2 3
+A
+19 1
+B
+0 0 0 0
+#909
+boots boat~
+a pair of boots~
+A pair of boots sit here in a puddle of water.~
+~
+22 65560 0 0 0 65 0 0 0
+0 0 0 0
+1 0 100
+E
+boots boat~
+The boots are made of a strange lightweight hide and float in a puddle
+of water.
+~
+A
+14 -20
+B
+0 0 0 0
+#990
+metal grip leather~
+a leather wrapped grip~
+A long piece of brushed metal wrapped in black leather lies here.~
+~
+12 8 64 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+grip leather~
+   This single piece of metal is large enough for two hands to fit around.  
+The top has some type of grooved hole with a notched raised portion.    
+~
+E
+new_item~
+992
+~
+E
+insert_item~
+991
+~
+E
+insert_to_char~
+The metal bar locks firmly into place with an audible 'click'.
+~
+E
+insert_to_room~
+$n locks the metal bar on top the grip. You hear a audible 'click'.
+~
+E
+insert_fail_char~
+You try in vain to put the pieces together, but to no avail.
+~
+E
+insert_fail_room~
+$n makes a futile attempt to fit two items together that obviously don't fit.
+~
+B
+0 0 0 0
+#991
+metal flat bar~
+an ornate flat metal bar~
+A flat bar of obsidian metal lies here.~
+~
+12 0 128 0 0 1 0 0 0
+0 0 0 0
+4 2000 0
+E
+metal flat bar~
+   This metal bar is made of a cold obsidian metal.  It is ornately carved and
+is wider than your hands.  The center of the bar has a large grooved hole in
+it.    
+~
+B
+0 0 0 0
+#992
+pommel handle~
+a beautiful sword pommel~
+A large handle of a sword made from obsidian metal lies here.~
+~
+12 0 64 0 0 1 0 0 0
+0 0 0 0
+7 10000 0
+E
+pommel sword handle~
+   This is obviously the handle to a massive sword.  The top of the pommel has
+a large groove in it where the sword blade would fit.    
+~
+E
+new_item~
+996
+~
+E
+insert_item~
+995
+~
+E
+insert_to_char~
+You lock the blade into place. &25&04*whoomf*&00&00 You have created the dread Sword of the Underworld!
+~
+E
+insert_to_room~
+$n locks the blade into the pommel.&04*whoomf*&00. They have created the Sword of the Underworld!
+~
+B
+0 0 0 0
+#993
+shaft sword half steel~
+a shaft of black steel~
+A razor sharp shaft of obsidian steel lies here, untouched.~
+~
+12 0 128 0 0 1 0 0 0
+0 0 0 0
+10 1000 0
+E
+sword shaft steel half~
+   This shaft of cold black steel is near 5 feet long.  One side of it is razor
+sharp to the touch, the other side has a long tab along the side, as if it was
+part of something.    
+~
+B
+0 0 0 0
+#994
+shaft sword half steel~
+a shaft of black steel~
+A razor sharp shaft of obsidian steel lies here, untouched.~
+~
+12 0 64 0 0 1 0 0 0
+0 0 0 0
+10 1000 0
+E
+shaft sword steel black metal~
+   This shaft of cold black steel is near 5 feet long.  One side of it is razor
+sharp to the touch, the other side has a slotted groove in it, as if something
+were to fit in it.    
+~
+E
+new_item~
+995
+~
+E
+insert_item~
+993
+~
+E
+insert_to_char~
+&04*Whoomf*&00 The blades emit a cold blue glow as you fit them together.
+~
+E
+insert_to_room~
+$n places the two sword halves together, emitting a brief, cold blue glow.
+~
+E
+insert_fail_char~
+You try in vain to put the two items together, but to no avail.
+~
+E
+insert_fail_room~
+$n tries to put the two items together, but has no luck. Perhaps he needs help.
+~
+B
+0 0 0 0
+#995
+akkursed blade stell obsidian~
+the akkursed blade~
+A deadly looking blade of obsidian steel lies here, glinting coldly.~
+~
+12 0 128 0 0 1 0 0 0
+0 0 0 0
+20 20000 0
+E
+akkursed blade~
+   This cold blade of black steel is just over five feet long and so sharp you
+require a piece of leather to hold it from prevent from it slicing through your
+hand.  A star shaped slot is at the base of the blade.    
+~
+B
+0 0 0 0
+#996
+corwin~
+corrupted obj~
+corrupted obj.~
+~
+13 0 0 0 0 0 0 0 0
+0 100 100 22
+0 0 0
+B
+0 0 0 0
+#999
+gristle toe~
+some gristletoe~
+A sliced off toe tied to a piece of holly with a ribbon lies here. Ick.~
+~
+11 6 0 0 0 16385 0 0 0
+0 0 0 0
+2 1 370
+E
+gristle toe~
+   Now this is disgusting.  Someone or thing has sliced off a human toe and
+tied it to a piece of holly with a red ribbon.  The toe is still fresh, and
+oozes a little blood.  You wonder to yourself..  What will happen if i stand
+under the gristletoe?  A mandatory stabbing?    
+~
+A
+6 4
+B
+512 0 0 0
+$~

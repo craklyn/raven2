@@ -1,0 +1,28 @@
+reg c 'regen' $*
+tr c 'tremor'
+ss resc zulu
+clan clan &00&02}&14-&00&02{&14$* &00&02}&14-&00&02{&00
+cpl c 'cure plag' $*
+rcu c 'remove curse' $*
+rpo c 'remove poison' $*
+dan gsa dance
+ban c 'banish' $*
+cb c 'cure blind' $*
+cru c 'crusade'
+di c 'det inv' $*
+rp c 'remove para' $*
+aa kill gak
+zz kill shad
+dri drink flagon
+hoa c 'holy armor'
+cf c 'create food'
+pro c 'protection'
+div c 'div'
+eat eat way
+say say &02}&14-&00&02{&14$*&00 &02}&14-&00&02{&00
+gs gs &02}&14-&00&02{&14$*&00 &02}&14-&00&02{&00
+rv c 'righteous vision'
+hw c 'holy word'
+he c 'prayer of life' $*
+rev c 'prayer of life' $*
+title title &00:: &14Knight&00 of the &09Green Stone&00 :: &07OD&00

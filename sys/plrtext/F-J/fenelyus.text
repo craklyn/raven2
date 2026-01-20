@@ -1,0 +1,39 @@
+fly cast 'fly' $*
+ch cast 'charm' $*
+feeb cast 'feeb' $*
+wa cast 'wrath'
+db cast 'doom bolt' $*
+cf cast 'fireball' $*
+fb cast 'flame blade' $*
+sh cast 'shield' $*
+lb cast 'lightning bolt' $*
+nex cast 'nexus' $*
+shriek cast 'shriek' $*
+web cast 'web' $*
+mm cast 'magic missile' $*
+blink c 'blink'
+' say &13$* &00
+rc cast 'remove curse' $*
+invis c 'invis' $*
+sum cast 'summon' $*
+loc cast 'locate' $*
+ts cast 'true sight' $*
+fw clanwho
+f clan &13$* &11
+g gt &13$* &00
+str c 'str' $*
+id cast 'iden' $*
+infra c 'infra'
+pp cast 'portal' $*
+b cast 'blind' $*
+o order follower $*
+gate c 'gate'
+ms cast 'monster summon'
+h cast 'haste' $*
+or order follower $*
+air cast 'airsphere' $*
+ele cast 'conjure elemental'
+ld cast 'life drain' $*
+911 {get all all.fenel;wear forev bod wear all;wield staff;hold brill;wear all;dest fenel;} 
+aw c 'awaken' $*
+port cast 'portal' $*

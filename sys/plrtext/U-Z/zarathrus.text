@@ -1,0 +1,19 @@
+dv devour
+aoa cast 'aura of apoca'
+pfg cast 'protection from good'
+bl cast 'blind' $1
+b bash $1
+ds disarm
+pg cast 'protection from good'
+rg cast 'regen'
+da cast 'detect align'
+ap cast 'aura'
+di cast 'detect inv' $1
+ca cast 'chaos armor'
+ws wake;stand
+ed cast 'eyes of the dead'
+pe cast 'pesti'
+ad cast 'animate dead' corpse
+dt cast 'death t'
+k kick
+ov order minion assist 

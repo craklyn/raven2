@@ -1,0 +1,42 @@
+cw cast 'create warding'
+t o fol k grim
+5 cast 'energy drain' $1
+4 cast 'mal'
+kord w
+pois cast 'poison' $1
+c cast 'charm corpse' $1
+dis c 'disease' $1
+title title &01S&08h&00&01r&08i&00&01n&08i&00&01n&08g&00 &07W&14itch of &07L&00&14ife&00
+bw c 'bone wall' $1
+sl c 'sense life'
+ent c 'entomb' $1
+newts e;e;e;e;e;e;e;e;e;e;d;w;open stone;u;n;w;n;e;e;s;s;s;e;s;s;s;d
+sum c 'sum' $1
+say SAY &07DIE&00&14$*&00 &07DIE&00
+gt gt &07DIE&00&14$*&00 &07DIE&00
+f flee
+1 br
+2 c 'soul pierce'
+shield c 'shield' $1
+fly c 'fly' $1
+wake wake;stand
+di c 'detect invis' $1
+3 c 'life drain'
+bl c 'blind' $1
+a ass
+invis c 'invis' $1
+infra c 'infr'
+clan clan &07DIE&00&14$*&00 &07DIE&00
+cc c 'charm corpse' $1
+x c 'consume corpse' $1
+em c 'embalm' $1
+nox c 'nox' $1
+ed c 'energy drain' $1
+wr c 'wraithform'
+slow cast 'slow' $1
+deb cast 'deb' $1
+sil c 'silence' $1
+colin COLIN CHARM
+vamp SUMMON VAMP_GUARD
+r rec elv
+po cast 'poison' $1

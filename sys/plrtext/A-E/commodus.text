@@ -1,0 +1,13 @@
+arm c 'armor' $*
+di c 'detect invisibility' $*
+ad c 'animate dead' $*
+regen c 'regenerate' $*
+ca c 'chaos armor' $*
+bd c 'black dart' $*
+p c 'pestilence'
+b bash $*
+titl title the &07Unholy&00 &14Knight&00 of &14S&00&07h&00&14i&00&07e&00&14l&00&07d&00
+bl c 'blind' $*
+pfg c 'protection from good' $*
+br c 'black breath' $*
+aura c 'aura of apocalypse' $*

@@ -1,0 +1,50 @@
+ex cast 'explode cor' corp
+ward cast 'create ward'
+entomb cast 'entomb;
+resis cast 'resist poi' group
+sil cast 'silence' $1
+bone cast 'bone wall' $1
+dis cast 'disease' $1
+cl clan &08$*&00
+gs gs &08$*&00
+sense cast 'sense life'
+di cast 'd i'
+lf cast 'life drain' $1
+sum cast 'summon' $1
+fly cast 'fly'
+infra cast 'infra'
+shield cast 'shield'
+sham cast 'summon' shamb
+8 cast 'soul' av
+bl cast 'blind' $1
+soul cast 'soul' $1
+charm cast 'charm corp' $1
+balm cast 'embalm' $1
+sl cast 'soul'
+grimlocks 16w6swse14s7e2s5e4n7ese6se
+skin cast 'n s'
+invis cast 'invis'
+inviss cast 'invis' $1
+ta cast 'debil' $1
+tomb cast 'entomb' $1
+b or min kil 2.min
+fl cast 'fly' $1
+sk cast 'n s' $1
+eatcorp cast 'consume corp' corp
+rp cast 'resist poison'
+2 cast 'charm corp' corp
+slow cast 'slow' $1
+bil cast 'debilitate' $1
+wra cast 'wraith'
+v get all.gold all.corp
+nx cast 'nox' min
+shi cast 'shield' $1
+ld cast 'life drain' $1
+gaks 2wsd22w2nwn2w4d3n 
+sou c 'soul pier
+3 get corp bee
+1 order fol dust elru
+zz say take me to elru
+nox cast 'nox' self
+io c 'charm cor' corpse;;group all
+en c 'entom corpse' $1

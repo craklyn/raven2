@@ -1,0 +1,18 @@
+f drop all;get all
+on assist oni
+cw clanwho
+ctr n;u;w;s;w;w;w
+wa wake;st
+guild e;e;e;n;e;d;s
+sv c 'shadow vision' $*
+sb c 'shadow blades' $*
+ds c 'dance of shadows
+blur c 'blur' $*
+sp c 'shadow sphere'
+invis c 'invis' $*
+sw c 'shadow walk' 
+bl c 'blind' $*
+b backstab $*
+gt gt &03$*&00
+sen c 'sense
+dream c 'dance of dreams' $*

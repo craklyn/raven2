@@ -1,0 +1,23 @@
+o order followers $*
+3 c 'ice storm
+armor rem sha-nama;hold oak;use oak $*;rem oak;hold sha-nama
+sil c 'silence'$*
+fly c 'fly'$*
+id c 'identify'$*
+infr c 'infravision'$*
+str c 'strength'$*
+blind c 'blind'$*
+shi c 'shield'$*
+mm c 'magic missile'$*
+' rec mid
+det c 'detect invisibility'$*
+gt gt &04*&07(&10-&00$*&00 &10-&07)&00&04*&00
+say say &09\&00$* &09/&00
+flame c 'flame blade'$*
+sum c 'summon'$*
+a ass uak
+= auc -info
+[ wa;st;rem ring;rem ring;wear dark;wear dark
+1 c 'stoneskin'$*
+2 c 'life drain'$*
+p get all all.sorvan;wear all;get all all.sorvan;wear all;hold tail;wield staff

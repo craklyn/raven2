@@ -1,0 +1,286 @@
+#30300
+Blood Bowl~
+Blood Bowl is a quest game that is a take off from the sport
+Football.  Myself and my old roomate Picric have put it together
+and we hope it turns out well.
+Diamond
+~
+303 512 0 0 0 0 255 0
+S
+#30301
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2097152 0 0 0 2 255 0
+D0
+~
+~
+0 0 30304
+D1
+~
+~
+0 0 30302
+S
+#30302
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2097152 0 0 0 2 255 0
+D0
+~
+~
+0 0 30305
+D1
+~
+~
+0 0 30303
+D3
+~
+~
+0 0 30301
+S
+#30303
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2097152 0 0 0 2 255 0
+D0
+~
+~
+0 0 30306
+D3
+~
+~
+0 0 30302
+S
+#30304
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2097152 0 0 0 2 255 0
+D0
+~
+~
+0 0 30307
+D1
+~
+~
+0 0 30305
+D2
+~
+~
+0 0 30301
+S
+#30305
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2129920 0 0 0 2 255 0
+D0
+~
+~
+0 0 30308
+D1
+~
+~
+0 0 30306
+D2
+~
+~
+0 0 30302
+D3
+~
+~
+0 0 30304
+D4
+~
+door~
+2 0 30046
+S
+#30306
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2097152 0 0 0 2 255 0
+D0
+~
+~
+0 0 30309
+D2
+~
+~
+0 0 30303
+D3
+~
+~
+0 0 30305
+S
+#30307
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2097152 0 0 0 2 255 0
+D1
+~
+~
+0 0 30308
+D2
+~
+~
+0 0 30304
+S
+#30308
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2097152 0 0 0 2 255 0
+D1
+~
+~
+0 0 30309
+D2
+~
+~
+0 0 30305
+D3
+~
+~
+0 0 30307
+S
+#30309
+The &01BloodZone&00.~
+     Victory is but a short time away.  This is the ground where
+many battles have been won and lost.  Fight to the death!  Glory
+and honor awaits the Victors!  Shame and disgrace chills the 
+loosers.
+~
+303 2097152 0 0 0 2 255 0
+D2
+~
+~
+0 0 30306
+D3
+~
+~
+0 0 30308
+S
+#30310
+&01BloodBowl Beginning&00.~
+*HUSH*
+     This is where it begins.  Read the board for rules.  Buy
+what supplies you need, when you need them.  
+
+     Above you lies the field of play.  Below, the &01BloodZone&00
+awaits.  Read the rules to understand the game.  
+Ask Questions...
+~
+303 2490384 0 0 0 0 255 0
+D0
+~
+door~
+2 0 20097
+D4
+~
+gate~
+2 30001 30046
+S
+#30311
+Blood Bowl~
+     The walls are painted with the blood of heroes long forgotten.
+Bones, belonging to every races you can imagine, litter the ground,
+giving the field an eerie, ghost-like presence.  Victory, Death
+and Pain await you...   FIGHT!
+~
+303 2097152 0 0 0 2 255 0
+D2
+~
+~
+0 0 30090
+D3
+~
+~
+0 0 30099
+D4
+~
+~
+0 0 30312
+S
+#30312
+Second Level of the Blood Bowl.~
+     The walls are painted with the blood of heroes long forgotten.
+Bones, belonging to every races you can imagine, litter the ground,
+giving the field an eerie, ghost-like presence.  Victory, Death
+and Pain await you...   FIGHT!
+~
+303 2097152 0 0 0 2 255 0
+D2
+~
+~
+0 0 30190
+D3
+~
+~
+0 0 30199
+D4
+~
+~
+0 0 30313
+D5
+~
+~
+0 0 30311
+S
+#30313
+Third Level of the Blood Bowl.~
+     The walls are painted with the blood of heroes long forgotten.
+Bones, belonging to every races you can imagine, litter the ground,
+giving the field an eerie, ghost-like presence.  Victory, Death
+and Pain await you...   FIGHT!
+~
+303 2097152 0 0 0 2 255 0
+D2
+~
+~
+0 0 30290
+D3
+~
+~
+0 0 30299
+D5
+~
+~
+0 0 30312
+S
+#30314
+&04The Penalty Box&00.~
+     Cuts and bruises cover your body from head to toe.  In the
+past battle the gods smiled upon you and have given you another
+soul to fight for your cause!
+~
+303 2491092 0 0 0 0 255 0
+S
+$~

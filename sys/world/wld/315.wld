@@ -1,0 +1,2301 @@
+#31500
+The Foot of the Hellspires~
+   Rising before you, like the teeth of some gigantic subterranean beast, are
+the jagged spires that form the range aptly known as the Hellspire mountains.
+The Hellspires have claimed countless lives, along the twisted, narrow,
+perilous paths that wind through its peaks.  It is said that no one is ever the
+same again after traversing this hostile range, whether they survive or not.  
+The temperature alone is said to be too extreme to survive in for long, and is
+a threat to all travellers in itself.  Then there are the many unstable paths
+and infamous sudden avalanches to contend with.  Many evil monsters also dwell
+in the Hellspires, and there is little hope of finding a safe place to hide
+from them in this malign environment.  Ahead, the path goes on, heading towards
+the base of these majestic but malevolent mountains, which conceal more hidden
+threats than a dozen cities of the south.    
+~
+315 524 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31501
+D3
+~
+~
+0 0 16099
+S
+#31501
+Passing Over the Foothills~
+The path climbs swiftly, soon reaching an altitude of several score
+cubits above the plains to the south. Soon it is winding northward
+through the foothills of the Hellspires, a series of sloping hills
+littered with bones and rubble, stretching for a short distance to
+the north before merging into the snow covered peaks ahead. A shiver
+runs up and down your spine, and you must needs pause to collect your
+addled wits before continuing. It is almost as if the mountains themselves
+were possessed of an evil intelligence, and were actively seeking to confuse
+and demoralize you. A rotted wooden sign, supported by three ogre skulls,
+rests near the path.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31502
+D2
+~
+~
+0 -1 31500
+E
+sign~
+The sign reads, in barely legible common-
+ 
+'Ware, ye careless traveller, afore ye enters the Hellspires!
+Wicked they be, and full of peril! Peril, yes, and Death!
+Dangerous indeed is it to traverse these parts. 
+ 
+It is recommended that no one less than at least level 30 even think
+of continuing, and those between 30 and 40 should be seriously careful.
+~
+S
+#31502
+A Difficult Ascent~
+It is not long before the (in comparison) easily traversable path
+merges into a steep, rubble strewn track, full of potholes and deadfalls
+to snare the unwary or tired traveller. More than once you barely avoid
+snapping an ankle or knee as you stumble across the obstacles. To the
+north, the path slopes to the point where it is almost vertical, and you
+realize it will be impossible to ascend to the higher mountain trails
+without some degree of climbing skill.
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31501
+D4
+~
+~
+0 -1 31503
+S
+#31503
+A Difficult Ascent~
+The path is so steep here that you are forced most of the time to
+climb, scrabbling for hand- and footholds in the treacherous slopes,
+cursing more than once as a seemingly stable rock comes loose in your
+hand and tumbles down the slope. The temperature is quickly dropping,
+and you swear it is already thrice as cold as it was a dozen paces ago.
+Howls and hoots echo around the rocky path, as unknown foes move about
+the snow covered slopes of the mountains that loom menacingly on all
+sides. A narrow path branches northeast from here, skirting the side
+of a smaller peak. It appears to be even and relatively smooth, and would
+doubtlessly provide an easier trip.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31504
+D4
+~
+~
+0 -1 31506
+D5
+~
+~
+0 -1 31502
+S
+#31504
+Skirting a Peak~
+This narrow path winds around the northern side of a smaller peak, and
+is certainly easier to traverse than the other paths, being more or less
+horizontal for a start helps, and there is little debris to trip you up.
+A low, distant rumbling sound can be heard, however, from far away but
+gradually getting louder. Perhaps this path contains other perils that
+you have yet to experience? The path bends sharply eastward just ahead,
+making it impossible to see very far ahead.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31505
+D3
+~
+~
+0 -1 31503
+S
+#31505
+Avalanche!~
+As you round the bend, the source of the rumbling sound becomes readily
+apparent. Gazing upward in horror, you stand paralyzed, staring as
+hundreds of tons of rock and ice come tumbling down the side of one of
+the mountains, crashing down with tremendous force, smashing aside or
+engulfing anything in its deadly path. Truly, no living creature could
+ever match the power of Nature herself in sheer ferocity or capacity to
+destroy without effort. It is in this awestruck state that you are slain,
+crushed and buried under the rubble, yet another victim of the perilous
+paths of the Hellspires.
+~
+315 525037 0 0 0 0 255 0
+S
+#31506
+The Higher Ground~
+The path evens out, finally, after winding upwards for hundreds of
+yards. It twists away northward from here, bending around a higher peak
+to the northwest. Staring south, you can see for miles, across the northern
+plains, and you fancy you can make out the towers of the Wall of Defiance
+to the distant south, harboring the empire of Estroglia from the hordes of 
+the north. Chaos abounds here, and you feel you are close to the diseased
+heart of the archenemy of all things Lawful in Brythunia. Shivering, you
+think you can feel someone watching you, and you swiftly spin around, noticing
+then a large opening in the mountainside to the northeast.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31507
+D3
+~
+~
+0 -1 31508
+D5
+~
+~
+0 -1 31503
+S
+#31507
+A Sleeping Beast~
+The floor of the cave that lies here is covered in bones, scraps of
+clothing and hide, and broken weapons. The stench of death fills the air,
+as if fresh slaughter had taken place here but recently. Twisted, mutilated
+corpses lie piled near one wall, most of them showing signs of having been
+partially devoured as well as mauled by massive claws. Most of the stench
+appears to be concentrated in this area.
+~
+315 13 0 0 0 0 255 0
+D3
+~
+~
+0 -1 31506
+S
+#31508
+A Slippery Path~
+The ground here is slick with recently fallen snow turned to slush,
+making travel slow and difficult. Occasionally a gust of frigid wind
+will blow down the path, which at this point is no more than a narrow
+crevice between the peaks, chilling you to the bone. But for the most
+part the air is still, as the mountains protect you from the brunt of
+the howling winds that gust about the icy peaks.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31509
+D1
+~
+~
+0 -1 31506
+S
+#31509
+Another Bend~
+The narrow path twists and turns about frequently, but still heads
+more or less in the same direction. Up ahead, it bends sharply to 
+the right, disappearing around the corner, making it impossible to 
+see what unknown dangers may lie ahead. A low, distant rumbling can
+be heard, a sure sign of one of the many avalanches that plague 
+travellers in the Hellspires. The echoing effect of the defile you
+are traversing makes it impossible to determine where the avlanche
+may be coming from, or, perhaps more importantly, where it may be headed.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31510
+D2
+~
+~
+0 -1 31508
+S
+#31510
+A Bend in the Trail~
+The path continues bending, twisting further to head due east, directly
+into the heart of the Hellspires. You aren't certain, but you are fairly
+sure that you are about halfway through the treacherous range, and for the
+first time you stop to wonder what may lie on the other side. Rumors abound,
+of course, most of them stating that beyond the Hellspires lies the source
+of the Chaos hordes that crossed into Brythunia so many centuries ago, 
+marring forever much of the once-beautiful landscape, and ravaging countless
+civilizations. You wonder how many others have come this way, in search of
+this place, only to find damnation or death.
+A sudden howl cuts through your contemplation, reminding you sharply of
+where you are. A cave entrance beckons to the northwest; a possible refuge,
+perhaps, from the sinister inhabitants of the Hellspires?
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31511
+D1
+~
+~
+0 -1 31512
+D3
+~
+~
+0 -1 31509
+S
+#31511
+Den of the Wolf~
+It is truly one of the most conspicuous features of the Hellspires,
+the fact that every nook and cranny seems to be literally infested
+with a variety of threats. This cave appears to be no different; the
+floor is covered in a morbid mosaic of splintered bone and dried blood,
+interspersed with the occasional half-devoured corpse or pile of
+decaying intestines. The smell is far from pleasant, and you do not doubt
+that whatever lairs here is not far away, as some of the odiferous kills
+appear to be quite recent...
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31510
+S
+#31512
+A Snowstorm~
+The path heads east here, skirting the peaks of the tallest mountains
+in the brutal range. Travel is easier along this even, if narrow, trail,
+and you are about to relax a little and rejoice in your improved fortunes
+when a snowstorm suddenly whirls up literally out of nowhere, assaulting
+you with stinging, blinding snow, reducing visibility (and comfort levels)
+to almost nothing. Strange, twisted shapes can barely be made out in the
+dizzying spectacle, and you aren't entirely unsure that you aren't surrounded
+by enemies waiting for you to succumb to exhaustion so that they may feed
+unmolested on your freezing remains.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31513
+D3
+~
+~
+0 -1 31510
+S
+#31513
+An Abandoned Guard Post~
+Staggering through the blizzard, you are surprised when suddenly you
+see a large stone structure looming before you, seemingly appearing out
+of nowhere. Eagerly, you press forwards, keen to seek shelter from this
+storm, but as you grow closer you are dismayed to note that it has been
+reduced to ruin, by whatever foes lurk in these mountains. You have no
+idea who built it, or why, but it did them little good. A narrow path
+runs north, into the blinding snowstorm.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31514
+D1
+~
+~
+0 -1 31521
+D3
+~
+~
+0 -1 31512
+S
+#31514
+The North Stair~
+Heading north, you pass through the ruins, and arrive at a narrow stair,
+carved into the stone of the mountainside, heading down to lower (and less
+frigid) ground. The chill of the blizzard is causing you to ache, but this
+doesn't worry you half as much as when the ache is replaced by a growing
+numbness, that dulls all sensation. Aware of the dangers of frostbite, you
+rub at your hands and stamp your feet, attempting to induce your sluggish
+blood into increasing its flow to your chilled extremities.
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31513
+D5
+~
+~
+0 -1 31515
+S
+#31515
+The Base of the Stair~
+The stairs descend sharply, quickly removing you from the brunt of the
+storm. Some substance has been smeared onto the steps, to provide traction
+for travellers in these wet, cold conditions. Thus the ice on them does not
+hamper or endanger you. The howling, screaming wild men that cavort on the
+nearby slopes might be another matter altogether though. You are fairly
+certain that the steps are not of dwarven make, though you know of no other
+mountain dwelling race that builds such features. Perhaps some ancient
+civilization once lived here, or perhaps the local inhabitants felt the need
+for it. At any rate it currently remains as much a mystery as the deserted
+guard post above.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31516
+D4
+~
+~
+0 -1 31514
+S
+#31516
+Dogleg~
+At this point the narrow path doglegs to the southeast, heading out
+onto a narrow path that is totally exposed to the elements, as it is
+on the northern side of one of the last mountains... last mountains...
+you are almost past the Hellspires! Before pressing eagerly forward, you
+pause to consider how difficult the narrow path will be to navigate, 
+accounting for the buffeting winds and sheets of sleet. Truly this could
+be the most challenging section of the trail thus far. It is a long, long
+way down yet, the jagged rocks and boulders that litter the foothills below
+barely visible even without the visual hindrance caused by the snowstorms.
+~
+315 588 0 0 0 5 255 0
+D1
+~
+~
+0 -1 31517
+D2
+~
+~
+0 -1 31515
+E
+boulder~
+This huge rock looks like it was pushed there to stop people from entering, or maybe something from exiting.
+~
+S
+Z 31503
+#31517
+Treacherous Paths~
+The path clings to the slope of the mountain, narrowing to the point
+where you can barely walk abreast. The stone crumbles away beneath your
+feet, which, compounded with the difficulty caused by ice and fierce winds,
+makes travel extremely difficult. Flying is impossible, as the winds would
+smash you into the mountainside, so you have to keep your feet close to the
+treacherous ground. Up ahead, another staircase lies, descending to a ledge
+far below.
+~
+315 12 0 0 0 0 255 0
+D3
+~
+~
+0 -1 31516
+D5
+~
+~
+0 -1 31518
+S
+#31518
+The End? Or Just the Beginning?~
+The staircase ends at a broad stone ledge, at which travellers can
+pause to reflect on their travails. It is with a jubilant heart that
+you realize you have made it all the way through the Hellspires. In
+reflection, it really wasn't that difficult, especially the descent.
+Somehow you thought that... Your thoughts are interrupted as you gaze
+northward, across the broad, featureless plateau of ice, and with a
+sinking heart you confirm what you already suspected; you are nowhere
+near through the Hellspires; your altitude should have been a hint. You
+are on a plateau in the middle of the mountains, now visible as you focus
+your eyes in the distance on every side. Despair sets in, as you realize
+you still have a long, long way to go.
+~
+315 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31519
+D4
+~
+~
+0 -1 31517
+S
+#31519
+Pillars of Perception~
+Rising up on the edge of the plateau is a pair of stone corinthian columns,
+covered in runes of gold and silver, rising to well over thirty feet in
+height. Amazingly enough, they are not visible from more than a few feet
+away, due either to an architectural trick or sorcery, or both. Between
+them shimmers a magical field, within which scenes from your life race
+past, glimpses and snatches from your past, present and future. You try to
+concentrate, but the images are moving too swiftly to glean much from them.
+The sharp odor of an electrical field hangs heavy in the frigid air, emanating
+from the crackling field of energy. Occasionally the flow of images will ebb,
+and at these points you see not your own history, but scenes of some huge city,
+magnificent and intricately designed, buried in the midst of a jungle. You have
+heard of lost cities of the ancients in the forests to the south of Brythunia,
+but this one looks somehow different. Interspersed with these images are scenes
+of death and destruction, and of hordes of indescribable horrors, swarming
+across the city, destroying all in their paths, leaving a crippled, smoking
+ruin in their ghastly wake. Staring, you suddenly stop and realize, by the 
+position of the stars, that you have been staring for several hours at this
+wonder. You feel a sudden urge to step through the field, but notice that a 
+barely visible series of chains, bound with a massive lock, bars the way to the
+ancient homeland of the builders of this artifact.
+~
+315 588 0 0 0 0 255 0
+D1
+~
+~
+0 0 31526
+D2
+~
+~
+0 -1 31518
+D3
+~
+~
+0 0 31526
+E
+pillars gate magical field~
+You think you could step into the field, but some magical lock bars the
+way.
+~
+S
+Z 31513
+#31520
+A Warm Lair~
+The warmth from the blazing fire in the middle of this cavern is enough,
+for a short while, to chase any thought of potential danger from your
+mind, and you rush impulsively forwards towards the heat. But this lair,
+as any lair in the Hellspires, is inhabited by an evil beast intent on
+slaying and devouring adventurers and their ilk, and the remains of many
+humanoids scattered on the floor are a testament to its proficiency in
+slaughter.
+~
+315 8 0 0 0 0 255 0
+S
+#31521
+Peace~
+The storm abates suddenly, as you move eastward away from the guard post.
+If you weren't a sane, rational being of some intelligence, you'd swear
+that something stirred up the storm to dissuade from passing through the
+guard post. But meterological phenomena aren't always the product of sorcery,
+and sudden blizzards are not unknown hazards to mountaineers in all mountain
+ranges. But most mountain ranges aren't like the Hellspires, either...
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31522
+D3
+~
+~
+0 -1 31513
+S
+#31522
+A Curious Encounter~
+Following the path, you wind up at the base of one of the shorter peaks
+of the Hellspires, which looms to the east like the taloned claw of some
+lithic construct, seeming to tear a hole in the sky with its nail. Several
+stones have been arranged here, around a campfire which burns without fuel.
+Compunding this curiosity is a small tent, within which are piled a horde of
+provisions, enough to feed a person for decades. Who would be insane 
+enough to reside in such a place? You sense sorcery is at work, and determine
+to investigate further.
+~
+315 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31521
+D1
+~
+~
+0 -1 31523
+S
+#31523
+Dragg's Peak~
+Named by the expedition that was sent to find Dragg, they discovered
+the grave of their famed hero here, buried by his companions, before
+they too met their ends here. The grave has long since been disinterred
+and the contents scattered, but the name remains, at least in legend.
+Peering upwards, you see a large cave entrance about two thirds of the
+way up the eastern slope.
+~
+315 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 31522
+D4
+~
+~
+0 -1 31524
+S
+#31524
+Flying up the Mountain~
+The winds are strong here, and it is a great risk to attempt to fly
+in them. More than once a particularly fierce gust threatens to smash
+you into the forbidding stone slopes of Dragg's Peak, though you manage
+to concentrate enough to keep from being slain by the malignant elements.
+Deep gouges mar the entrance to the cave, as if some massive beast had
+clawed at them with great gusto. The stench of death issues forth from 
+the dark opening, along with clouds of icy air.
+~
+315 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31525
+D5
+~
+~
+0 -1 31523
+S
+#31525
+Lair of the White Wyrm~
+A blast of icy wind greets you as you drift inside the cave. Dangling
+corpses half frozen into the ice that covers the ceiling impede your
+progress, as do the piles of bones and rotting flesh, beneath which
+you think you can see the glint of gold. Undoubtledly this is the lair
+of a dragon, some foul wyrm of these icy wastes, a beastly creature that
+is best destroyed if at all possible.
+~
+315 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 31524
+S
+#31526
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31526
+D1
+~
+~
+0 -1 31526
+D2
+~
+~
+0 0 31526
+D3
+~
+~
+0 -1 31527
+D4
+~
+~
+0 -1 31526
+D5
+~
+~
+0 -1 31530
+S
+#31527
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 31526
+D1
+~
+~
+0 -1 31528
+D2
+~
+~
+0 0 31527
+D3
+~
+~
+0 -1 31527
+D4
+~
+~
+0 0 31526
+D5
+~
+~
+0 0 31530
+S
+#31528
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31532
+D1
+~
+~
+0 0 31526
+D2
+~
+~
+0 0 31526
+D3
+~
+~
+0 -1 31529
+D4
+~
+~
+0 -1 31529
+D5
+~
+~
+0 -1 31529
+S
+#31529
+A Lonely Fate~
+Trudging heavily through the thick snow, you realize that your endurance is
+flagging even faster than your morale. You decide to sit down, just for a
+minute, just for a short rest. You never get back up. Snow quickly covers
+your unconscious form, which expires shortly afterwards from severe
+exhaustion and exposure.
+~
+315 525037 0 0 0 0 255 0
+S
+#31530
+Sudden Death~
+One minute you are plodding through the snowstorm, fighting through driving
+sleet and knee deep drifts of snow and ice. The next you are falling, falling,
+far down, down a sinkhole that lurked unnoticed beneath your feet. You
+scream as you hurtle downwards, disappearing deep in the bowels of the
+Hellspires, never to return.
+~
+315 749 0 0 0 0 255 0
+S
+#31531
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 31535
+D1
+~
+~
+0 0 31532
+D2
+~
+~
+0 0 31527
+D3
+~
+~
+0 0 31530
+D4
+~
+~
+0 0 31527
+D5
+~
+~
+0 0 31530
+S
+#31532
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31533
+D1
+~
+~
+0 -1 31533
+D2
+~
+~
+0 -1 31531
+D3
+~
+~
+0 -1 31533
+D4
+~
+~
+0 -1 31533
+D5
+~
+~
+0 -1 31529
+S
+#31533
+The Icy Wastelands~
+   The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet that
+pour down from the overcast sky.  You could literally stumble into a deadly
+threat and not realize until it was too late, in this blinding white hell.    
+~
+315 745 0 0 0 0 255 0
+D0
+~
+~
+0 0 31533
+D1
+~
+~
+0 0 31537
+D2
+~
+~
+0 0 31532
+D3
+~
+~
+0 0 31532
+D4
+~
+~
+0 0 31529
+D5
+~
+~
+0 0 31530
+S
+#31534
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31530
+D1
+~
+~
+0 -1 31535
+D2
+~
+~
+0 -1 31530
+D3
+~
+~
+0 0 31529
+D4
+~
+~
+0 -1 31536
+D5
+~
+~
+0 -1 31533
+S
+#31535
+The Icy Wastelands~
+   The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet that
+pour down from the overcast sky.  You could literally stumble into a deadly
+threat and not realize until it was too late, in this blinding white hell.    
+~
+315 745 0 0 0 0 255 0
+D0
+~
+~
+0 0 31540
+D1
+~
+~
+0 0 31526
+D2
+~
+~
+0 0 31526
+D3
+~
+~
+0 0 31526
+D4
+~
+~
+0 0 31526
+D5
+~
+~
+0 0 31526
+S
+#31536
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31526
+D1
+~
+~
+0 -1 31526
+D2
+~
+~
+0 -1 31533
+D3
+~
+~
+0 -1 31537
+D4
+~
+~
+0 -1 31541
+D5
+~
+~
+0 -1 31533
+S
+#31537
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31533
+D1
+~
+~
+0 0 31533
+D2
+~
+~
+0 -1 31533
+D3
+~
+~
+0 -1 31536
+D4
+~
+~
+0 -1 31526
+D5
+~
+~
+0 -1 31526
+S
+#31538
+A Sinkhole~
+Staggering blindly through the snow, you suddenly come across a sinkhole,
+twisting down into the bowels of the earth, into the heart of the
+Hellspires. It is a narrow edit, but you would be able to slide down with
+a little effort. Who knows what may lurk beneath the surface of the
+plateau? At any rate, it is bound to be better than wandering aimlessly
+in this desolate wasteland.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 31526
+D1
+~
+~
+0 -1 31526
+D2
+~
+~
+0 -1 31526
+D3
+~
+~
+0 -1 31526
+D4
+~
+~
+0 0 31526
+D5
+~
+~
+0 -1 31542
+S
+#31539
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 31526
+D1
+~
+~
+0 -1 31540
+D2
+~
+~
+0 -1 31535
+D3
+~
+~
+0 -1 31538
+D4
+~
+~
+0 -1 31526
+D5
+~
+~
+0 -1 31526
+S
+#31540
+The Icy Wastelands~
+   The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet that
+pour down from the overcast sky.  You could literally stumble into a deadly
+threat and not realize until it was too late, in this blinding white hell.    
+~
+315 745 0 0 0 0 255 0
+D0
+~
+~
+0 0 31526
+D1
+~
+~
+0 0 31526
+D2
+~
+~
+0 0 31526
+D3
+~
+~
+0 0 31526
+D4
+~
+~
+0 0 31526
+D5
+~
+~
+0 0 31539
+S
+#31541
+The Icy Wastelands~
+The plateau stretches for miles all around you, though your vision is
+curtailed by clouds of snow swept up by fierce winds, and waves of sleet
+that pour down from the overcast sky. You could literally stumble into a
+deadly threat and not realize until it was too late, in this blinding
+white hell.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 31526
+D1
+~
+~
+0 0 31526
+D2
+~
+~
+0 -1 31526
+D3
+~
+~
+0 -1 31526
+D4
+~
+~
+0 -1 31526
+D5
+~
+~
+0 0 31535
+S
+#31542
+The Bottom of the Sinkhole~
+You land with a soft thump at the bottom of the sinkhole, landing in
+a pile of freshly fallen snow, which cushions your short slide down.
+Your back is cold, and numbed from contact with the icy rock walls of
+the sinkhole, but you note to your surprise that the temperature down
+here, while still cold, is quite bearable compared to that above. A
+stone corridor, built by some ancient architect milennia ago, runs
+northward from here. The walls are smooth, unnaturally so, and bear no
+signs or markings that might indicate who or what lairs in this underground
+chamber. You surmise that this is undoubtedly one of the many ruins of
+the ancients, scattered across the whole continent of Brythunia, a grim
+testimony to the power of Chaos to utterly destroy anything that stands
+in its way. The taint of Chaos is strong in the Hellspires, and stronger
+still in this place.
+~
+315 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31543
+S
+#31543
+A Featureless Corridor~
+The corridor continues, widening slightly to a width that could easily
+accomodate a patrol of guards marching eight abreast. Whoever built this
+place made provisions for the movement of large volumes of people. No
+banners or carpets cover wall or floor, and the ceiling is bare; there are
+no signs of rafters or load bearing pillars; you wonder what engineering
+trick enabled them to construct such a broad ceiling with no support other
+than the walls. A flickering light shines in from the north, as of a torch
+or lantern.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31544
+D2
+~
+~
+0 -1 31542
+S
+#31544
+The Hall of the Ancients~
+The corridor ends at the western end of a long, broad hallway, the
+roof of which must be at least sixty feet high. This roof is supported
+by pillars, majestic affairs of gold and silver, set with gems the
+size of your fist (and larger). Torchlight flickers on the shiny surfaces,
+creating sufficient illumination to fill most of the hall. The torches
+smolder in brackets spaced evenly about the perimeter, and though they
+seem to burn, there is no sign of the wood decreasing as it is burned;
+some magical effect renders them perpetual sources of illumination. The
+stonework of the hall is the same as that you saw earlier; similarly plain
+and without decoration. There is evidence, however, in the form of tarnished
+bronze rails affixed to the walls, that at one stage in the past long banners
+hung on each wall. Five openings lead off of the central hall; two to the
+north and south and one to the far east. Nothing is visible through any of
+them, save for glimpses of a glowing chair or throne of some sort in the
+eastern exit. Undoubtedly this was once the throne room of a powerful
+monarch, of whatever culture or civilization once thrived here before the
+coming of Chaos.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31555
+D2
+~
+~
+0 -1 31543
+D3
+~
+~
+0 -1 31545
+D4
+~
+~
+0 -1 31549
+S
+#31545
+Hall of Time~
+Approaching the northern wall of the hall, you notice that the walls aren't
+as featureless as you initially supposed. Tiny engravings surround the
+arched opening, depicting sundials, hourglasses and other devices for
+measuring time. Evidently this hall was the center of all research and
+learning for whatever city once lay here; some force has protected,
+deliberately or otherwise, this one structure and its contents from the
+devastation that rained down upon the rest of the city, and the nation,
+which was destroyed so long ago that no record of its existence remains
+on Brythunia. Truly, stumbling upon this place is a great historical find.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 31546
+D1
+~
+~
+0 -1 31544
+S
+#31546
+Tempus Flux~
+The moment you step through the entrance your senses are assaulted with
+a dizzying array of sensations; visual, audial and olfactory manifestations
+confuse and bedazzle you on every side. Closing your eyes, you attempt to
+steady yourself and get your bearings in this maelstrom of time. Everything
+in this room exists in both all times and no time at once; the effect is almost
+unbearable! Images from the past, present and future rush past, a thousand
+realities of a thousand worlds. Whatever experiment was being conducted here
+has certainly gotten out of hand since the Chaos incursion. Fortunately even 
+the powers of Chaos recognize the dangers of tampering with time itself, and
+have managed to contain the anomaly in this chamber.
+~
+315 76 0 0 0 0 255 0
+D2
+~
+door~
+1 -1 31545
+S
+#31547
+Hall of Discordia~
+This section of the hall has been ravaged by some unknown beast. Stones
+have been torn from the walls and tossed aside like scraps of paper.
+The gaping holes in the wall peer out onto an inky black expanse, a void
+of nullspace which surrounds this relic of a past era. The largest of 
+these openings lies directly to the north, and could be entered by a
+humanoid, should they wish to brave the peril of the Chaotic miasma that
+ebbs and flows around the edges of this hall. Occasionally a black tendril
+of energy will drift out of one the holes and brush against you; the touch
+is deathly cold and leaves serious bruising where it made contact with your
+flesh, though there is surprisingly little pain.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31548
+D1
+~
+~
+0 -1 31551
+D2
+~
+~
+0 -1 31555
+D3
+~
+~
+0 -1 31549
+S
+#31548
+Discordia~
+The second you step into the maelstrom, you know that you will be
+slain. Forces of primal Chaos tear at your form, rending your body,
+mind and spirit with claws of foul magical energy. The pain is almost
+unbearable, and you watch in horror as you are dismembered and scattered
+through the whirling antiverse, destroyed and slain beyond all hope of
+redemption.
+~
+315 237 0 0 0 0 255 0
+S
+#31549
+Hall of Space~
+The walls, floor and ceiling of this section of the hall have been
+subtly decorated to resemble a starry sky, though you recognize none of
+the constellations depicted here. The decoration has been cunningly wrought
+in such a way that it is not visible from more than a few feet away. To
+the south, an open doorway lies in the center of the traced outline of a
+mammoth sun, a burning ball of yellowish flame that hangs in the sky amongst
+the stars. You are no astronomer, but you are reasonably sure that these
+skies have never enshrouded your world.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31550
+D1
+~
+~
+0 -1 31547
+S
+#31550
+Spatial Flux~
+The decorative theme apparent outside persists into this small chamber,
+which cleverly gives the illusion that you are hovering in a night sky,
+surrounded by a carpet of blackness pin pricked with brightly shining
+stars at irregular intervals. You smile at the cleverness of this illusion,
+then suddenly realize you are falling, rapidly, through empty air! The stars
+rush past you as you increase in speed, blurring into white streaks as you
+plummet endlessly downward. There is nothing to grab ahold of, no means of
+slowing your descent, and no means of escaping your endless plummet.
+~
+315 237 0 0 0 0 255 0
+S
+#31551
+Hall of Order~
+The walls here are of plain white dressed stone, devoid of markings or
+scarrings, save for the single opening in the south wall, which opens onto
+a sterile environment, a windowless room of perfect dimensions. The air here
+is fresh, but still, and carries a slightly stale, musty odor, one normally
+associated with old grimoires in some forgotten library, or of elderly sages
+who have spent too long sitting in their tiny studies poring over ancient
+arcane lore. Perhaps this was an attempt to indicate the dangers posed by
+a rigidly lawful society- sterility, a stale, emotionless environment. Many
+of humanity's greatest achievements arise from times of strife; in a society
+totally devoted to Law many of them would never have occured.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31552
+D3
+~
+~
+0 -1 31547
+S
+#31552
+Pure Symmetry~
+This chamber is a perfect cube, the dimensions being exactly identical
+in every direction. Not a single mark or trace of dirt mars the
+perfection, the glowing white walls appearing as pristine as they did
+two thousand years ago. A magical force prevents anyone from disturbing
+this order, or jeopardising the perfect state of equilibrium.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+door~
+2 31711 31553
+D2
+~
+~
+0 0 31551
+S
+#31553
+Approaching the Throne~
+As you reach the end of the hall, the whole theme of this place becomes
+clear to you. The four chambers- Time, space, chaos and order, the four
+elements of whatever civilization built this place, and the subject of
+much investigation, the source of both their power and their weaknesses.
+And seated at the end of these elements is the throne of the queen, the
+balancing force in the machinations of these primal forces, the calming
+and guiding force for her people through calamity as well as serenity.
+Either extreme was seen as a danger, and thus a balance was sought through
+careful research and neutrality in the affairs in the world. Unfortunately,
+the forces of Chaos struck, unmindful of the consequences, and this ancient
+and learned culture, like so many others, was struck from existence by the
+ravages of Chaos and the vile minions it brought from the netherworld. Now,
+only this hall remains, buried deep beneath the hostile Hellspires, as a
+testament to that ancient and proud race, protected by magicks of immense
+magnitude.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+door~
+2 31713 31554
+D2
+~
+door~
+2 31711 31552
+D3
+~
+door~
+2 31712 31556
+S
+#31554
+Throne of Ice~
+A deathly chill fills the air here, caused by waves of cold radiating
+from the massive throne of ice resting atop a metal platform that glistens
+with moisture. Icicles hang from the ceilings, obfuscating whatever 
+decorations once lay there. Broad stone pillars support the laden roof,
+and they too bear a thick layer of frost. Your breath fogs as you labor
+to breathe in air suddenly turned thin, as if you were at an immensely
+high altitude.
+~
+315 8 0 0 0 0 255 0
+D3
+~
+door~
+2 31713 31553
+S
+#31555
+Hall of Death~
+A deathly silence, the silence of the grave, fills this section of the
+hall, which has been shrouded in gloom by some magical enchantment. The
+floor boasts literally hundreds of tiny metal plates, each bearing the
+name of a noble of centuries past, indicating where his or her ashes now
+lie, in small recesses set in the walls and floor. Ghostly apparations
+shimmer into view at random intervals, staring soundlessly at you before
+drifting back into the recesses. The air is filled with a strong, musty odor
+tinged with the stench of decay and desolation. This anomaly aside, whatever
+civilization that once flourished here is now well and truly gone.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31547
+D3
+~
+~
+0 -1 31544
+S
+#31556
+Hall of Valor~
+This section of the hall is the last before the throne hall to the east,
+which is clearly visible from here. It contains no marks or decorations,
+save for a tall statue of iron standing in the center, bearing a glowing
+black lance. It is amazingly realistic, and it appears to be almost alive,
+though you know no creature could have survived so long without sustenance
+in this subterranean prison. 
+~
+315 8 0 0 0 0 255 0
+D1
+~
+door~
+2 31712 31553
+D4
+~
+~
+0 0 31557
+S
+#31557
+Temporal Dissolution~
+Stepping through the magical field, you scream as magical forces tear
+at your body and soul. A whirling kaleidoscope of images assault your
+senses, visible even when you attempt to close your eyes to block them
+out. A low, dull humming noise, louder than you can take for very long,
+hammers at your eardrums mercilessly, and blood trickles from your nose
+and ears. You are certain that your death is not far away, but, surprisingly,
+you do not perish. Instead, you find yourself drawn towards a small space
+in the vortex of images, a black hole which is sucking you gently towards it.
+A measure of willpower is required to not balk at entering an unknown and
+potentially dangerous edit, but you see little other choice.
+~
+315 8 0 0 0 0 255 0
+D4
+~
+~
+0 -1 31558
+S
+#31558
+The Eye of the Temporal Storm~
+The hole empties you into a black void, a cold place totally devoid
+of any features, physical or otherwise, in which you drift, thankful
+to be removed from the savagery of the temporal disjunction, but slightly
+wary as to where you are being taken. Best you can reason, is that you
+entered a zone where times converge, and for a brief instand existed in all
+time-space continuums simultaneously. The effect was almost lethal, but 
+you were fortunate enough to be expectorated into this place of null-time,
+one of many pockets of such phenomena, where time does not exist. You are
+certain that the ancients had not intended for this journey to be so
+traumatic, but then, who is to say they expected people to be coming IN
+instead of going out; perhaps the return journey will be more pleasant. At
+least you are away from the freezing wastes of the Hellspires.
+~
+315 8 0 0 0 0 255 0
+S
+Z 31509
+#31559
+Terra Firma~
+One second you are floating aimlessly in null-time, the next you are
+suddenly hurtling downwards, landing with a splash in knee deep water,
+in the center of a small mist-shrouded lake. Shaking your head, you
+realize that you have arrived, more or less, back on the prime material
+plane, albeit you aren't sure where... scratch that, the where is pretty
+obvious, its the plateau in the Hellspires long ago. Its how long ago,
+the when, that is the question. P'chaua spoke of a jungle surrounding
+his city, which once lay on the plateau, when the majority of Brythunia
+was covered in sweltering rainforest, not icy tundra. Apparently, someone
+has found a way to bridge the gap in time, and to allow forces to pass back
+and forth between this time and your time. Scratching your head, you try
+to recall the legends of Xchantharus. Assuming it is the "city" that P'chaua
+spoke of, it is somewhere in the jungle of Tinisbwana. The oldest of any
+recorded cities, Xchantharus was rumored to have been decimated by volcanic
+eruptions milennia ago, and buried beneath tons of ash and lava, the ruins
+long since covered by the Hellspires, which erupted with the coming of Chaos.
+But if Xchantharus was truly the fount of the power of Chaos, you may well
+have found a way to go back in time and prevent the calamities of the 
+succeeding generations from ever occuring! Confidence fills your heart, and
+you gaze northwards, where the mist clears to reveal a small path leading
+northward, into the jungles of Tinisbwana. It is there you must journey, and
+seek out the ancient and evil city of Xchantharus, fount of Chaos and source
+of all that is unlawful that troubles Brythunia!
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31560
+S
+#31560
+The Jungles of Tanisbwana~
+The trail passes through the mist into the sweltering heat of a tropical
+jungle. Tall trees of species unfamiliar to you tower to either side,
+crawling with a wide variety of plant and animal life, including clusters
+of mold that release clouds of sweet smelling spores at regular intervals.
+The path here is narrow, but definable, and has been traversed frequently.
+A sign has been nailed to a tree near the junction ahead; you are amazed to
+note that it has been placed here recently, and it is written in common!
+Someone of Law has been here, and recently too; booted heels mark the ground
+near the sign, which has thus far remained undisturbed by the locals, who or
+whatever they may be. You have never been in a jungle like this before; it 
+seems almost- prehistoric.
+Three paths lead away from here, all plunging deep into the steamy jungle.
+~
+315 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31573
+D1
+~
+~
+0 -1 31601
+D3
+~
+~
+0 -1 31561
+S
+#31561
+The Deep Jungle~
+The narrow path winds between tall thick undergrowth, clustered closely
+around the bases of unfamiliar trees. The occasional snake slithers through
+the trees, ignoring you, intent on smaller prey. Monkeys howl and chitter in
+the distance, accompanied by the occasional roar of a tiger or the trumpeting
+of an elephant. You have never felt so... alien... before, than when you trod
+this ancient trail in a world that disappeared milennia ago. Shaking your 
+head, you gather your resolve and continue.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31560
+D3
+~
+~
+0 -1 31562
+S
+#31562
+A Bend in the Path~
+You have only travelled a short distance away from the lake, but you
+are already soaked through with sweat, one of the many effects of the
+dizzying heat of this place. Unused to such temperatures, you trip and
+stumble occasionally, suffering heat exhaustion and dizzy spells. Every
+few dozen yards you need to pause and catch your breath. How could any
+race have ever survived, let alone flourished, in these harsh conditions?
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31563
+D1
+~
+~
+0 -1 31561
+S
+#31563
+A Junction~
+The path widens here, ending in a small clearing offering a variety of
+directions to choose from to continue. Tracks mark the trails in every
+direction, dozens of pairs of bare feet having travelled in each direction
+at frequent intervals. A playful monkey in the trees drops small nuts and
+berries on your head; you sputter in annoyance but the mischievious primate
+disappears before allowing you to retaliate. Removing your helm, you wipe
+at your forehead with a sweat soaked sleeve and wonder which direction to
+take.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31572
+D2
+~
+~
+0 -1 31562
+D3
+~
+~
+0 -1 31564
+S
+#31564
+Sacred Ground~
+A definite change in the air occurs as you tread along this path.
+You feel several pairs of eyes on you from all sides, as if dozens of
+unseen watchers glared with disapproval at your intrusion. Somewhere
+in the distance you think you can hear drums beating, and you hurry your
+step. Few animals lurk in this section of the jungle, it is almost as if
+they purposely avoid it.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31567
+D1
+~
+~
+0 -1 31563
+D3
+~
+~
+0 -1 31565
+S
+#31565
+A Grim Warning~
+Pushing through low hanging vines and fronds of sticky plants, you
+press westward, towards the drums. Several stakes line the path, each
+of them bearing the severed head of some unfortunate trespasser before
+you. Snakes and insects crawl through and over the decaying heads, hissing
+and clicking as they progress. Shuddering, you step away from one series
+of stakes and almost back into another set; there must be dozens of them
+along this narrow trail. An eerie feeling begins to overcome you, making
+you feel sick from fear and nausea. There is definitely black magic at
+work here, as well as the usually adverse psychological reaction severed
+heads generate.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31564
+D2
+~
+~
+0 -1 31566
+S
+#31566
+The Village of Tech'opi~
+Rising up out of the jungle is a pair of wooden gates, part of a low
+barricade of sticks and trees, lined with more heads, dangling from
+ropes or affixed in clumps to thick stakes, like coconuts dangling from
+trees. The smell is strong, a sickly sweet odor of decay, which does
+not do much for your nerves. You are deep in Tech'opi territory, and your
+chances of returning unscathed are slim now indeed!
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31565
+D2
+~
+gate~
+1 -1 31621
+S
+#31567
+Rubble Strewn Path~
+The crumbling remains of some ancient stone structure (ancient even
+in the times of Xchantharus at its height? That would mean that the
+assumed time of the evolution of humanity would be many thousands of
+years older than previously thought!) lie scattered across the path,
+covered with vines, moss and more patches of that strange, but 
+apparently harmless, mold that you spied earlier. The odor of decay is
+strong here, and you soon spot the source- several freshly killed monkeys
+hang upside down from thick vines attached to nearby trees, spear wounds
+evident on their prone muscular forms. Looks like you have stumbled into
+someone's hunting grounds.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31568
+D2
+~
+~
+0 -1 31564
+S
+#31568
+Bloodstained Battlefield~
+The path you were following ends here in a clearing, from which other
+paths depend, like the scrawny limbs of some plant covered beast. Blood
+stains carpet the dirt, as do the remains of various broken spears and
+cloven shields. Some sort of tribal battle took place here, recently too
+judging by the fresh stains. But no corpses litter the ground; they have
+been removed by the victors for some unfathomable purpose.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31569
+D2
+~
+~
+0 -1 31570
+D3
+~
+~
+0 -1 31567
+S
+#31569
+A Vine Covered Area~
+The northern path ends after a short distance in a dead end, a smaller
+clearing which is mostly filled with thick, low hanging vines dangling
+from the treetops above. Corpses litter the ground, of humans and animals
+alike, along with some corpses of beings unfamiliar to you. A strange 
+feeling comes over you as you linger here, not unpleasant but still
+slightly unsettling.
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31568
+S
+#31570
+A Well-Used Trail~
+The earth here is marked with dozens of imprints of naked feet, running
+in either direction. Leaves and twigs of overhaning branches have been
+snapped off by the travellers; whoever passed this way was either in a
+tremendous hurry or being deliberately careless, for it is a known fact
+that the inhabitants of such remote regions can pass virtually undetected
+through their natural habitat. A few blood stains mark the ground, as well
+as the occasional spear or blowgun dart.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31568
+D1
+~
+~
+0 -1 31571
+S
+#31571
+A Short Chase~
+The foilage here on both sides of the path has been trampled flat, as
+if by a horde of charging people, or as of some massive beast rising
+from the jungle. The crushed path continues to the north, where it widens
+into a more regular trail. At this point several Tech'opi warriors lie,
+crushed or skewered by spears. 
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31572
+D3
+~
+~
+0 -1 31570
+S
+#31572
+The Deeper Parts~
+The path twists and turns here, becoming steadily narrower as it disappears 
+into the thick undergrowth. Just as it seems the path has disappeared entirely,
+and you will have to hack your way further, you spot a place up ahead where 
+some titanic behemoth has levelled a large section of the jungle in its 
+passage. Hoots and howls echo through the trees, making you feel slightly
+nervous and queasy.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31571
+D3
+~
+~
+0 -1 31563
+S
+#31573
+The Shores of a Lake~
+The undergrowth is so thick here that you can barely see more than a few
+feet ahead, and so it is quite a shock when you stumble past another low
+hanging vine and almost tumble into the waters of a small, but deep, lake!
+The waters stretch away to the north, winding around the base of a massive
+spear of rock that arises from the waters due north. Unclimbable from this
+side, it appears to be wide enough that at some point there may be level
+ground somewhere atop it. You have heard of volcanic islands of this type
+in the Ocean of Dreams; many are rumored to hold fabulous treasures, as
+well as horrid foes.
+~
+315 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31574
+D2
+~
+~
+0 -1 31560
+S
+#31574
+Deep Waters~
+Progress around the granitic intrustion takes you across deeper waters,
+quite still and clear, not at all what you expected in this treacherous
+jungle. Relaxing a little, you are starting to enjoy the journey, and
+you gaze idly at the massive pieces of wood drifting by. How did such
+logs manage to end up drifting in the same spot... And why are they 
+suddenly moving and opening gaping mouths full of sharp teeth?
+~
+315 8 0 0 0 7 255 0
+D1
+~
+~
+0 -1 31575
+D3
+~
+~
+0 -1 31573
+S
+#31575
+The Far Side~
+Here the waters of the lake wash up on a small beach on the northern 
+shore of the island, a place where you could, if you desired, weigh
+anchor and go ashore. Several canoes of unfamiliar design have been
+drawn up on the shore, though there are no signs of their owners.
+A narrow path can be seen winding its way up the side of the rocky
+intrusion, heading to the summit.
+The lake ends to the north, at the mouth of one of the many rivers
+that feed it. Far in the distance, a great mountain rises from the
+waters, similar to the one south of here except it is roughly a dozen
+times larger, and not as tall. Atop it appears to be a plateau, though
+you cannot make out what may lie there from here. You have a sinister
+feeling, though, that it is Xchantharus...
+~
+315 8 0 0 0 7 255 0
+D0
+~
+~
+0 -1 31613
+D2
+~
+~
+0 -1 31576
+D3
+~
+~
+0 -1 31574
+S
+#31576
+The Shallows~
+The waters quickly shallow here, as a rocky ledge that protrudes from
+the island serves as a beach of sorts on which to land. A thin layer of
+black volcanic dust covers the shoreline, and most of the sides of the
+isle, which towers above you, soaring high into the sky. You wonder what
+wonders it holds in store, and what happened to the owners of these canoes.
+~
+315 12 0 0 0 7 255 0
+D0
+~
+~
+0 -1 31575
+D2
+~
+~
+0 -1 31577
+S
+#31577
+Standing on a Beach~
+A narrow strip of sand, stained gray-black by volcanic ash, stretches 
+for a short distance to the east and west. Shards of pumice litter the
+ground, as well as shards of bone, and broken and burnt weapons. Warfare
+is evidently a virtual epidemic in this time and place. Strange noises
+can be heard, from far, far away, of monsters crying out in anger and
+fear; you fancy that they are coming from the top of the island, which
+can be reached via a steep path to the southeast of here.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31576
+D1
+~
+~
+0 -1 31580
+D3
+~
+~
+0 -1 31578
+S
+#31578
+The Shoreline~
+The shoreline ends a short distance to the west, merging back into 
+the unscaleable cliff face of the island. Nothing of interest appears
+to be here at first glance, however upon closer examination you see
+a faint set of tracks leading into a clump of bushes to the northwest,
+partially obscuring a gap in the cliff face, which the tracks enter.
+Some humanoid actually lives on this strange island; maybe they can
+be of help to you?
+~
+315 12 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31577
+D3
+~
+~
+0 -1 31579
+S
+#31579
+A Cramped Dwelling~
+The narrow opening is the only entrance and exit from a small cave,
+barely visible from more than a few yards away, within which someone has
+attempted to make a home, of sorts. Several rugs cover the stone floor,
+while cooking implements hang above the remains of a small campfire,
+the utensils stained by smoke and grease. A rank odor permeates the air,
+a stale smell of sweat, blood and urine. What a charming little hovel you
+have discovered here.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31578
+S
+#31580
+Approaching the Path~
+The winding path that heads south towards a narrow crevice in the
+otherwise impenetrable cliff face is the only apparent way to plumb
+the depths of whatever mysteries it may house. A thick layer of cobwebs
+fill the defile; no one has come in our out of whatever lies on the
+island in quite some time.
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31581
+D3
+~
+~
+0 -1 31577
+S
+#31581
+The Defile~
+The defile ends in a narrow crack, which leads up as far as you can see.
+A hardy adventurer could shimmy up the crack, putting their back to one
+side and walking up the other. It is a relatively short climb, but while
+you were doing it you would be totally vulnerable to any creatures
+that passed by, either at the base or at the summit. Seeing no other
+alternative, you plan the best way to attack the climb.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31580
+D4
+~
+~
+0 -1 31582
+S
+#31582
+A Narrow Ledge~
+Breathing hard after the short but difficult ascent, you gaze southward
+across the small ledge you arrived on and are struck dumb by what you see.
+For in that direction, past the cliff, is a lush valley of verdant green,
+dotted with trees and streams, and absolutely teeming with wildlife. It is
+incredible how they are so visible from this great distance, though you
+cannot actually identify any specific species. Large birds soar high overhead
+in the stormy skies that cover Tinisbwana. A sharp, crisp wind refreshes and
+cools you, and you stride forth with new enthusiasm.
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31583
+D5
+~
+~
+0 -1 31581
+S
+#31583
+The Lost Valley~
+This is absolutely amazing. Such a wondrous vista, within an ugly
+volcanic edifice of stone. The valley slopes gently on all sides,
+rising to the lip of the stony peak; you cannot see other access points
+than this one, though you do not doubt there would be one you are somehow
+missing. The creatures roaming below are certainly large, and all appear
+to be reptiles, some of them of considerable bulk. Certainly, you have never
+seen such creatures, at least outside of history texts. Somewhere within
+this valley, however, is hidden the Shrine of the Ancients, so you must
+journey in to seek the information you need to find Xchantharus, whether
+the beasts below be malevolent or benign.
+~
+315 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31582
+D5
+~
+~
+0 -1 31584
+S
+#31584
+The Valley Floor~
+The descent into the valley, while not easy, is certainly nowhere near
+as difficult as the initial climb to get here. The smell of fresh green
+grass reaches your nostrils; in a life of adventuring where you are 
+plagued by constant odors of death, decay and other nasty aspects of life,
+the smell is almost paradise. Breathing deeply, you close your eyes and
+enjoy the sensation, snapping them back open when an earth-shattering roar
+from nearby almost knocks you off your feet!
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31585
+D4
+~
+~
+0 -1 31583
+S
+#31585
+The Grassy Fields of the Valley~
+Grassy fields extend as far as you can see on all sides, interrupted by
+small outcroppings of rock or the occasional tree. Dinosaurs, reptiles of
+immense size from a lost age far in your world's past, wander here, brought
+here by magic or simply an evolutionary leftover. You are awestruck by
+the awesome majesty of these titanic creatures, and more than a little
+terrified by their power and strength.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31584
+D1
+~
+~
+0 -1 31592
+D2
+~
+~
+0 -1 31590
+D3
+~
+~
+0 -1 31586
+S
+#31586
+The Grassy Fields of the Valley~
+Grassy fields extend as far as you can see on all sides, interrupted by
+small outcroppings of rock or the occasional tree. Dinosaurs, reptiles of
+immense size from a lost age far in your world's past, wander here, brought
+here by magic or simply an evolutionary leftover. You are awestruck by
+the awesome majesty of these titanic creatures, and more than a little
+terrified by their power and strength.
+A dense clump of vegetation lies to the south and west.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31587
+D1
+~
+~
+0 -1 31585
+D3
+~
+~
+0 -1 31589
+S
+#31587
+The Grassy Fields of the Valley~
+Grassy fields extend as far as you can see on all sides, interrupted by
+small outcroppings of rock or the occasional tree. Dinosaurs, reptiles of
+immense size from a lost age far in your world's past, wander here, brought
+here by magic or simply an evolutionary leftover. You are awestruck by
+the awesome majesty of these titanic creatures, and more than a little
+terrified by their power and strength.
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31586
+D3
+~
+~
+0 -1 31588
+S
+#31588
+The Grassy Fields of the Valley~
+Grassy fields extend as far as you can see on all sides, interrupted by
+small outcroppings of rock or the occasional tree. Dinosaurs, reptiles of
+immense size from a lost age far in your world's past, wander here, brought
+here by magic or simply an evolutionary leftover. You are awestruck by
+the awesome majesty of these titanic creatures, and more than a little
+terrified by their power and strength.
+The larger inhabitants of the valley seem to congregate near a small
+pool that lies at the westernmost extreme of the valley, right near
+here.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31587
+D3
+~
+~
+0 -1 31596
+S
+#31589
+A Wall of Vegetation~
+This section of the valley is almost completely overgrown with thick
+vegetation; lush, brightly hued green leaves providing an excellent
+source of food for the many herbivores that roam here. Judging by the
+large chunks missing, they feed here frequently. There is no way to
+pass through the vegetation, and nor does there seem to be any real
+need to.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31586
+S
+#31590
+The Grassy Fields of the Valley~
+Grassy fields extend as far as you can see on all sides, interrupted by
+small outcroppings of rock or the occasional tree. Dinosaurs, reptiles of
+immense size from a lost age far in your world's past, wander here, brought
+here by magic or simply an evolutionary leftover. You are awestruck by
+the awesome majesty of these titanic creatures, and more than a little
+terrified by their power and strength.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31585
+D1
+~
+~
+0 -1 31591
+S
+#31591
+The Grassy Fields of the Valley~
+Grassy fields extend as far as you can see on all sides, interrupted by
+small outcroppings of rock or the occasional tree. Dinosaurs, reptiles of
+immense size from a lost age far in your world's past, wander here, brought
+here by magic or simply an evolutionary leftover. You are awestruck by
+the awesome majesty of these titanic creatures, and more than a little
+terrified by their power and strength.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31592
+D3
+~
+~
+0 -1 31590
+S
+#31592
+The Grassy Fields of the Valley~
+Grassy fields extend as far as you can see on all sides, interrupted by
+small outcroppings of rock or the occasional tree. Dinosaurs, reptiles of
+immense size from a lost age far in your world's past, wander here, brought
+here by magic or simply an evolutionary leftover. You are awestruck by
+the awesome majesty of these titanic creatures, and more than a little
+terrified by their power and strength.
+~
+315 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31593
+D2
+~
+~
+0 -1 31591
+D3
+~
+~
+0 -1 31585
+S
+#31593
+The Grassy Fields of the Valley~
+Grassy fields extend as far as you can see on all sides, interrupted by
+small outcroppings of rock or the occasional tree. Dinosaurs, reptiles of
+immense size from a lost age far in your world's past, wander here, brought
+here by magic or simply an evolutionary leftover. You are awestruck by
+the awesome majesty of these titanic creatures, and more than a little
+terrified by their power and strength.
+A rocky outcrop, larger than the others, lies to the north of here.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31594
+D3
+~
+~
+0 -1 31592
+S
+#31594
+The Base of the Outcrop~
+Peering upwards, you think you can see a nest, perched atop the outcrop.
+There are enough hand and footholds to allow you to scale the edifice,
+but what for? To poke around in some most-likely angry and aggressive
+reptillian bird's nest, risking life and limb? Perhaps, though, the nest
+contains something of value? Perhaps not. Then again, it certainly seems
+safer than loitering around down here with all those raptors around...
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31593
+D4
+~
+~
+0 -1 31595
+S
+#31595
+The Pterodactyl's Roost~
+After a short, but strenuous, climb, you reach the nest, a very large
+affair which is devoid of eggs but littered with all sorts of other junk.
+Being the only fliers in the valley, the pterodactyls can soar far and 
+wide, collecting a variety of objects to add to their nest. You wonder
+how many people have been lured here, by the thought of potential loot,
+only to be slain and devoured? Not a lot, probably; not many adventurers
+cross the Hellspires, brave the temporal gates, stumble through mosquito
+infested jungles and scale rocky cliif walls to face off against a horde
+of dinosaurs.
+~
+315 8 0 0 0 9 255 0
+D5
+~
+~
+0 -1 31594
+S
+#31596
+A Small Pool~
+Water trickles over the grass here, turning it to a shallow mire beneath
+your feet. Huge tracks, of feet wider than a tall human, have made deep
+marks in the damaged savannah, and to the nearby trees; many appear to
+have been badly devoured or torn outright from the ground by hungry
+herbivores with the strength of titans. Peaceful they may be, they could
+nonetheless slay a person with an inadvertant twitch or stumble.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31597
+D1
+~
+~
+0 -1 31588
+D2
+~
+~
+0 -1 31598
+S
+#31597
+Plentiful Water Supplies~
+The pool that fills this clearing apparently draws its water from
+some underground source; presumably drawing eventually from the lake
+far below. The water is fresh, and clean, if a trifle bitter due to
+the mineral content. No conflict takes place here; it is almost an
+unwritten law that no violence should be perpetrated on other beasts
+while they quench their thirsts.
+~
+315 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31596
+S
+#31598
+A Ruined Temple~
+Rising up here, near a point where the plains curve sharply upwards
+to the lip of the valley, there rests a partially demolished stone
+temple, of marble or a similar material, partially overgrown with
+weeds. A construct from a civilization even older than Xchantharus?
+Amazing. And how did they manage to build it in this realm of savage
+reptiles? You shake your head and push such ponderings aside; this
+must be the shrine of the ancients, a rumored seat of knowledge and
+learning. Perhaps inside its stony portal you will discover more about
+Xchantharus.
+~
+315 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31596
+D3
+~
+~
+0 -1 31599
+S
+#31599
+Shrine of the Ancients~
+The interior of the marble structure is silent as the proverbial tomb.
+Not a single sound can be heard within; nor can any be made. The
+uttering of spells is thus similarly impossible. Strong enchantments
+protect this outpost of Law in a temporally displaced dimension gone
+mad. The interior is bare, devoid of any trappings save a single golden
+lectern, resting in the center of the polished marble floor. Upon which
+rests a single tome, open to the middle. A slight glow emanates from the
+lectern, illuminating most of the small chamber. You cannot see any other
+entrances or exits; evidently this place was constructed solely to house
+the book you see before you.
+~
+315 588 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31598
+D5
+~
+tome~
+2 31659 31600
+S
+$~

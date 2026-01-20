@@ -1,0 +1,3119 @@
+#14500
+The Great Tower of Xerxes - Level 4~
+This area (14501-14638) forms the 4th level of the Great Tower of Xerxes.
+
+The connection points are as follows:
+
+Down of 14501 connected to 14427.
+Up of 14626 connected to 14701.
+Both the previous connections extend both ways, the following are one-way
+connections:
+North of 14541 connected to 14353.
+East of 14582 connected to 14408.
+North of 14586 connected to 14130.
+
+Mob Chutes:
+        14638 is the Master Chute.
+        14627, 14628, 14629, 14630, 14636 and 14637 are the other chutes.
+
+This level is deadly, designed to KILL a group of 40+ characters. It will take
+a long time to wear down the hordes of powerfull monsters inhabiting this
+place. The purpose of this level is to ensure the final level of the tower is
+difficult to reach by even a competent group with many high level members... 
+
+This area was written by Vex.
+~
+145 8 0 0 0 0 255 0
+S
+#14501
+The Top of the Stairs~
+You are standing at the top of a spiral stair way, leading downward. To the
+west, lies a stone corrior, ending in a T-junction. Light is provided by 
+torches in the northern and southern walls.
+~
+145 12 0 0 0 0 255 0
+D3
+Looking to the west, you see a stone corridor.
+~
+~
+0 0 14502
+D5
+Looking down, you see a spiral stair well.
+~
+~
+0 0 14427
+S
+#14502
+A stone corridor~
+This is a short stone corridor leading from a spiral stair way to the east,
+to a T-junction to the west. Torches on the southern and northern walls 
+illuminate this area.
+~
+145 8 0 0 0 0 255 0
+D1
+Looking east, you see the top of a spiral stair well.
+~
+~
+0 0 14501
+D3
+Looking west, you see a T-junction.
+~
+~
+0 0 14503
+S
+#14503
+A T-Junction~
+You are standing in a T-junction in a corridor of smooth, flawless stone. To
+the east, the corridor leads back to a spiral stair well. To the north and
+south, it would appear the corridor leads only to dead ends. A torch on the
+western wall provides light, you notice a small bronze plaque below it.
+~
+145 8 0 0 0 0 255 0
+D0
+To the north you see a dead end.
+~
+~
+0 0 14504
+D1
+To the east you see the corridor continues.
+~
+~
+0 0 14502
+D2
+To the south you see a dead end.
+~
+~
+0 0 14505
+E
+bronze plaque~
+The plaque reads : "The Trial of Despair"
+~
+S
+#14504
+A dead end~
+No sooner than you enter the dead end of the corridor than you feel a sudden
+queasy sensation in the pit of your stomach. A kaleidoscope of images flashes
+before you, then you are struck by buffeting winds, but they subside before
+they do more than ruffle your hair. It would appear you are now some where 
+else. Taking in your surroundings, you note a fine grey mist hanging in the 
+air. The light filtering through the mist seems quite dim, then you realise it 
+is the mist itself that emits the light. The walls here are of rough stone,
+covered in slick slime. You note there are scratches and gouges in the stone 
+here.
+~
+145 72 0 0 0 0 255 0
+D0
+Peering through the mist, you see a hallway of some kind.
+~
+~
+0 0 14506
+E
+scratches gouges stone~
+It looks like something tore into the stone with it's claws, leaving gouges
+several inches deep... the stone itself appears to be a form of granite.
+~
+S
+#14505
+A dead end~
+This is the dead end of a smooth stone corridor. A torch in the southern wall
+provides light. You can see a T-junction to the north.
+~
+145 8 0 0 0 0 255 0
+D0
+A T-junction lies to the north, far to the north, you see another dead end.
+~
+~
+0 0 14503
+S
+#14506
+Dead end in the Misty Tunnels~
+It would appear you have reached a dead end in the misty tunnels. This place
+looks a little familiar. You notice there are scratches and gouges in the
+rough stone walls. The only way out is back to the north.
+~
+145 8 0 0 0 0 255 0
+D0
+To the north you see a rough stone tunnel, with mist hanging in the air.
+~
+~
+0 0 14507
+E
+scratches gouges stone~
+It looks like something tore into the stone with it's claws, leaving gouges
+several inches deep... the stone itself appears to be a form of granite.
+~
+S
+#14507
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see tunnels leading to the north, south and west from here.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14573
+D2
+Peering through the mist, you see what appears to be a dead end.
+~
+~
+0 0 14506
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14508
+S
+#14508
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things moving, slithering, crawling
+... how close they are is impossible to determine. Peering through the murk,
+you can see this tunnel leads to the east and west from here.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14507
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14509
+S
+#14509
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. You can hear the
+sound of water dripping near by, perhaps to the west. Peering through the
+murk, you can see tunnels leading to the east and west from here.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14508
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14510
+S
+#14510
+End of a Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. Suddenly you hear a
+splash and violent thrashing off to the west, then all is still. To the west,
+you see the misty tunnel widens into a cavern, filled with a deep pool of
+water. To the east lies a rough stone tunnel.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14509
+D3
+Peering through the mist, you see a cavern, its floor covered by a dark pool.
+~
+~
+0 0 14511
+S
+#14511
+A Dark lake~
+Your in a large gloomy cavern with a deep, dark pool obscuring its floor. The
+mist is quite dense here, making it hard to see beyond a few feet from where
+you are. The dim glow from the mist does nothing to illuminate the inky depths
+of the pool, you think you'd rather not know what resides in it. The cavern
+extends to the north and west, while a rough stone tunnel lies to the east.
+~
+145 8 0 0 0 6 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14532
+D1
+Peering through the mist, you see a rough stone tunnel.
+~
+~
+0 0 14510
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14512
+S
+#14512
+A Dark Lake~
+Your traversing across a deep, dark pool in a large cavern. The mist is quite
+dense here, making it hard to see beyond a few feet from where your are. You
+notice ripples moving across the surface of the pool... your don't think your
+boat was the source of them. The cavern extends to the north, south and east.
+~
+145 8 0 0 0 6 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14533
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14511
+D2
+Peering through the mist, you see the cavern narrows to the south.
+~
+~
+0 0 14513
+S
+#14513
+A Dark Lake~
+Your in a small off shoot of a large cavern, whose floor is covered by a murky
+pool of dark water. The cavern widens to the north, while to the west you can
+see a pebbly beach and a tunnel beyond.
+~
+145 8 0 0 0 6 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14512
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14514
+S
+#14514
+Edge of a Dark Lake~
+Your standing on a small pebbly beach at the edge of a lake of murky water.
+The stones of the beach are quite rough and sharp, you had best be carefull
+where you step. To the east, you can wade into the pool itself while a
+mist-filled tunnel leads off to the west.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a cavern, its floor covered by a dark pool.
+~
+~
+0 0 14513
+D3
+Peering through the mist, you see a rough stone tunnel.
+~
+~
+0 0 14515
+S
+#14515
+A Misty Tunnel~
+Your walking along a rough stone tunnel filled with a fine mist. While the
+mist obscures vision some what, you catch a glimpse of a large glittering
+object off to the west. To the east lies a beach on the edge of a dark
+lake.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a small rocky beach to the east.
+~
+~
+0 0 14514
+D3
+Peering through the mist, you can see a glimmer of gold to the west.
+~
+~
+0 0 14516
+S
+#14516
+A misty tunnel~
+As soon as you enter the tunnel you experience a queasy feeling in the pit of
+your stomach and are struck by buffeting winds which subside almost as soon as
+they begin. Recovering from the sudden disorientation, you find yourself some
+where else. Taking in your new surroundings, you find your self in a room of
+grey stone. To your north, south, east and west simple archways lead to stone
+corridors. Torches above the arches provide light. At least there is none of 
+the mist here.
+~
+145 72 0 0 0 0 255 0
+D0
+To the north you see a corridor, leading east.
+~
+~
+0 0 14583
+D1
+To the east you see a corridor, leading south.
+~
+~
+0 0 14585
+D2
+To the south you see a corridor, leading west.
+~
+~
+0 0 14587
+D3
+To the west you see a corridor, leading north.
+~
+~
+0 0 14581
+S
+#14517
+A dead end~
+No sooner than you enter the dead end of the room than you feel a sudden
+queasy sensation in the pit of your stomach. A kaleidoscope of images flashes
+before you, then you are struck by buffeting winds, but they subside before
+they do more than ruffle your hair. It would appear you are now some where 
+else. Taking in your surroundings, you note a fine grey mist hanging in the 
+air, looks like your back into the misty tunnels again. The tunnel walls are
+of rough stone, slick with slime. Looking around, you can leave to the north
+or east.
+~
+145 72 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14518
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14516
+S
+#14518
+A misty tunnel~
+As soon as you enter the tunnel you experience a queasy feeling in the pit of
+your stomach and are struck by buffeting winds which subside almost as soon as
+they begin. Recovering from the sudden disorientation, you find yourself some
+where else. Taking in your new surroundings, you find your self in a room of
+grey stone. To your north, south, east and west simple archways lead to stone
+corridors. Torches above the arches provide light. At least there is none of 
+the mist here.
+~
+145 72 0 0 0 0 255 0
+D0
+To the north you see a corridor, leading east.
+~
+~
+0 0 14583
+D1
+To the east you see a corridor, leading south.
+~
+~
+0 0 14585
+D2
+To the south you see a corridor, leading west.
+~
+~
+0 0 14587
+D3
+To the west you see a corridor, leading north.
+~
+~
+0 0 14581
+S
+#14519
+A Misty Tunnel~
+Your travelling along a mist-filled tunnel. The mist dampens your clothes,
+making them cling to you uncomfortably. The tunnel continues to the north and
+to the south, where you can see a large glittering object, perhaps of gold?
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14520
+D2
+Peering through the mist, you see think you can see a glimmer of gold to the
+south.
+~
+~
+0 0 14518
+S
+#14520
+A Misty Tunnel~
+Your walking along a slimy tunnel. The ever present fine mist hangs in the
+air, glowing eerily. To the north, the tunnel opens into a sizeable cavern,
+while the tunnel continues to the south.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a small cavern to the north.
+~
+~
+0 0 14521
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14519
+S
+#14521
+A Misty Cavern~
+The misty tunnels widen here into a small cavern. The fine mist hanging in the
+air makes it difficult to see a great deal of detail. Puddles filling 
+depressions in the cavern floor could be just a few inches deep, or could be 
+deep holes, waiting to take you to a watery grave. Wisely, you step around 
+them. The small cavern extends to the north and east, while to the south lies
+a rough stone tunnel.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14522
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14524
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14520
+S
+#14522
+A Misty Cavern~
+Your in a small cavern, with rough stone walls. The fine mist hanging in the
+air makes it difficult to see a great deal of detail. Puddles filling 
+depressions in the cavern floor could be just a few inches deep, or could be 
+deep holes, waiting to take you to a watery grave. Wisely, you step around 
+them. The small cavern extends to the south and east.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14523
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14521
+S
+#14523
+A Misty Cavern~
+The misty tunnels widen here into a small cavern. The fine mist hanging in the
+air makes it difficult to see a great deal of detail. Puddles filling 
+depressions in the cavern floor could be just a few inches deep, or could be 
+deep holes, waiting to take you to a watery grave. Wisely, you step around 
+them. The small cavern extends to the west and south, while a misty tunnel 
+lies to the east.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14525
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14524
+D3
+Peering through the mist, you the cavern extends to the west.
+~
+~
+0 0 14522
+S
+#14524
+A Misty Cavern~
+Your in a small cavern, with rough stone walls. The fine mist hanging in the
+air makes it difficult to see a great deal of detail. Puddles filling 
+depressions in the cavern floor could be just a few inches deep, or could be 
+deep holes, waiting to take you to a watery grave. Wisely, you step around 
+them. The small cavern extends to the north and west.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14523
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14521
+S
+#14525
+A Misty Passage~
+Your in a narrow tunnel of rough stone, leading between two caverns to the
+east and west. The walls of the passage are slick with slime, you try to avoid
+brushing into them. The mist is quite dense in the passage, despite the narrow
+confines, anything could be in here waiting for you.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see the passage widens into a cavern.
+~
+~
+0 0 14526
+D3
+Peering through the mist, you see the passage widens into a cavern.
+~
+~
+0 0 14523
+S
+#14526
+Edge of a Dark Lake~
+Your standing on a sandy beach, bordering a lake which lies to the south-west.
+There are strange trails in the sand here, it's clear the vile inhabitants of
+the mists frequent this area. You can continue walking along the lakes shore
+to the east and south, while tunnels branch of from this cavern to the north
+and west.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14534
+D1
+The beach continues further to the east.
+~
+~
+0 0 14527
+D2
+The beach continues further to the south.
+~
+~
+0 0 14529
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14525
+S
+#14527
+A sandy shoreline~
+Your standing on the shore of a dark lake, which lies to the south. The waters
+of the lake are quite murky, it's impossible to tell how deep it might be...
+or what horrors it might conceal.
+~
+145 8 0 0 0 0 255 0
+D2
+Peering through the mist, you see the cavern floor is covered in water.
+~
+~
+0 0 14528
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14526
+S
+#14528
+A Dark Lake~
+Your floating in a dark lake inside a large, mist-filled cavern. It's very
+quiet here, the only sounds are the splash of your oars as you row cautiously
+across the surface of the lake. All seems well. You can continue across the
+lake to the south, or venture up onto a sandy beach to the north and west.
+~
+145 8 0 0 0 6 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14527
+D2
+Peering through the mist, you see the pool extends to the south.
+~
+~
+0 0 14530
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14529
+S
+#14529
+A sandy shoreline~
+Your standing on the shore of a deep dark lake, which lies to the east. The
+thick mist hanging in the air makes it impossible to see how large the lake
+might be. You can venture into the murky waters of the lake to the east or
+walk along the beach to the north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14526
+D1
+Peering through the mist, you see the cavern floor is covered in water.
+~
+~
+0 0 14528
+S
+#14530
+A Dark Lake~
+Your floating in a dark lake inside a large cavern. The cavern wall is to
+the west, and you notice deep gouges in it's surface... they don't appear
+natural. The lake itself continues to the north, east and west.
+~
+145 8 0 0 0 6 255 0
+D0
+Peering through the mist, you see the pool extends to the north.
+~
+~
+0 0 14528
+D1
+Peering through the mist, you see the pool extends to the east.
+~
+~
+0 0 14531
+D2
+Peering through the mist, you see the pool extends to the south.
+~
+~
+0 0 14533
+E
+gouges west wall~
+The marks are quite deep, and close to the waterline, indeed, you see they
+extend below it.
+~
+S
+#14531
+A Dark Lake~
+The lake here is bounded by the cavern wall to the north and east. The waters
+seem quite deep, although how deep is hard to tell. The lake continues to
+the south and west.
+~
+145 8 0 0 0 6 255 0
+D2
+Peering through the mist, you see the pool extends to the south.
+~
+~
+0 0 14532
+D3
+Peering through the mist, you see the pool extends to the west.
+~
+~
+0 0 14530
+S
+#14532
+A Dark Lake~
+Your in a gloomy cavern with a deep, dark pool obscuring its floor. The mist
+is quite dense here, making it hard to see beyond a few feet from where your
+standing. The dim glow from the mist does nothing to illuminate the inky 
+depths of the Lake, you think you'd rather not know what resides in it. The
+cavern extends to the north, south and west.
+~
+145 8 0 0 0 6 255 0
+D0
+Peering through the mist, you see the pool extends to the north.
+~
+~
+0 0 14531
+D2
+Peering through the mist, you see the pool extends to the south.
+~
+~
+0 0 14511
+D3
+Peering through the mist, you see the pool extends to the west.
+~
+~
+0 0 14533
+S
+#14533
+A Dark Lake~
+Ripples of dark water slosh around in this part of the cavern... the source
+seems to be deep underwater. You wait anxiously, but fortunately nothing
+surfaces. The Lake continues to the north, east and south.
+~
+145 8 0 0 0 6 255 0
+D0
+Peering through the mist, you see the pool extends to the north.
+~
+~
+0 0 14530
+D1
+Peering through the mist, you see the pool extends to the east.
+~
+~
+0 0 14532
+D2
+Peering through the mist, you see the pool extends to the south.
+~
+~
+0 0 14512
+S
+#14534
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see the tunnel continues to the north, and widens into a
+cavern to the south.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14535
+D2
+Peering through the mist, you see the tunnel widens into a cavern.
+~
+~
+0 0 14526
+S
+#14535
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see tunnels leading to the south and east from here.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14536
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14534
+S
+#14536
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see tunnels leading to the west and east from here.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14537
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14535
+S
+#14537
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see tunnels leading to the west and east from here.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14538
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14536
+S
+#14538
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see the tunnel continues to the west, and opens to the east
+into a misty cavern.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see the tunnel widens to a cavern to the east.
+~
+~
+0 0 14539
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14537
+S
+#14539
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east and south, while a rough
+stone passage lies to the west.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14540
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14578
+D3
+Peering through the mist, you see a rough stone passage to the west.
+~
+~
+0 0 14538
+S
+#14540
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the west and south, while a rough
+stone tunnel leads to the east.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14541
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14579
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14539
+S
+#14541
+A Misty Passage~
+As soon as you enter the mist-filled passage, you experience a queasy feeling
+in the pit of your stomach and a kaleidoscope of images momentarily blinds
+you. This is followed by being subjected to buffeting winds, which subside
+almost as soon as they begin. Recovering from the sudden disorientation, you
+find you are some where else. Your new surroundings are completely dark and 
+bitterly cold. Even your enchanted light sources shed but a dim glow here, 
+just barely enough to see by. You can feel a cold stone wall to the east, 
+south and west.
+~
+145 77 0 0 0 0 255 0
+D0
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14353
+S
+#14542
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east and south, while a rough
+stone tunnel leads to the west.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14543
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14546
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14541
+S
+#14543
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east, west and south.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14544
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14547
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14542
+S
+#14544
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east, west and south.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14545
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14548
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14543
+S
+#14545
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the west and south.
+~
+145 8 0 0 0 0 255 0
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14549
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14544
+S
+#14546
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east and north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14542
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14547
+S
+#14547
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east, west and north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14543
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14548
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14546
+S
+#14548
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east, west and north, while a
+misty tunnel lies to the south.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14544
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14549
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14567
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14547
+S
+#14549
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the west and north. To the east lies
+a rough stone passage, skirting an immense rock formation to the south.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14545
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14550
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14548
+S
+#14550
+A Misty Passage~
+This is a rough stone passage skirting a large rock formation. A fine grey
+mist hangs in the air, glowing softly with a greenish light. The stone of the
+passage is covered in some kind of slime which obviously thrives in this odd
+enviroment. To the west lies the main part of the cavern, while a smaller off 
+shoot is to the south.
+~
+145 8 0 0 0 0 255 0
+D2
+Peering through the mist, you see a small cavern to the south.
+~
+~
+0 0 14551
+D3
+Peering through the mist, you a large cavern to the west.
+~
+~
+0 0 14549
+S
+#14551
+A Misty Cavern~
+The misty tunnels widen here into a small cavern. The fine mist hanging in the
+air makes it difficult to see a great deal of detail. Puddles filling 
+depressions in the cavern floor could be just a few inches deep, or could be 
+deep holes, waiting to take you to a watery grave. Wisely, you step around 
+them. The small cavern extends to the south and east. To the north, a passage
+skirts around a immense rock formation to the west.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a misty tunnel to the north.
+~
+~
+0 0 14550
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14552
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14569
+D3
+You see nothing special...
+~
+circle~
+2 14510 14631
+S
+#14552
+A Misty Cavern~
+Your in a small cavern, with rough stone walls. The fine mist hanging in the
+air makes it difficult to see a great deal of detail. Puddles filling 
+depressions in the cavern floor could be just a few inches deep, or could be 
+deep holes, waiting to take you to a watery grave. Wisely, you step around 
+them. The small cavern extends to the south and west. 
+~
+145 8 0 0 0 0 255 0
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14553
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14551
+S
+#14553
+A Misty Cavern~
+The misty tunnels widen here into a small cavern. The fine mist hanging in the
+air makes it difficult to see a great deal of detail. Puddles filling 
+depressions in the cavern floor could be just a few inches deep, or could be 
+deep holes, waiting to take you to a watery grave. Wisely, you step around 
+them. The small cavern extends to the north and west, while to the south lies
+a rough stone tunnel.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14552
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14554
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14569
+S
+#14554
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see a tunnel leading to the south, while the tunnel opens
+into a small cavern to the north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a small cavern to the north.
+~
+~
+0 0 14553
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14555
+S
+#14555
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you see the tunnel leads north and south from here.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14554
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14556
+S
+#14556
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you see the tunnel leads north and south.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14555
+D2
+Looking south through the mist, you see the tunnel turns to the west.
+~
+~
+0 0 14557
+S
+#14557
+Turn in the Misty Tunnel~
+As soon as you enter the turn in the tunnl, you experience a queasy feeling
+in the pit of your stomach and a kaleidoscope of images momentarily blinds
+you. This is followed by being subjected to buffeting winds, which subside
+almost as soon as they begin. Recovering from the sudden disorientation, you
+discover you are some where else. Taking in your new surroundings, you find
+your self in what appears to be the dead end of a smooth stone corridor. Your
+only option appears to be to go north, to where the corridor turns to the
+north. It's something of a relief to be out of the mist at least. A torch on
+the southern wall provides light.
+~
+145 8 0 0 0 0 255 0
+D0
+Looking to the north, you see the corridor turns to the east.
+~
+~
+0 0 14612
+S
+#14558
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you see the tunnel leads east and west.
+~
+145 8 0 0 0 0 255 0
+D1
+Looking east through the mist, you see the tunnel turns to the north.
+~
+~
+0 0 14557
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14559
+S
+#14559
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you see the tunnel leads east and west.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14558
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14560
+S
+#14560
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you see the tunnel leads east and west.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14559
+D3
+Looking west through the mist, you see the tunnel turns to the north.
+~
+~
+0 0 14561
+S
+#14561
+Turn in the Misty Tunnel~
+You are standing at a turn in a gloomy tunnel, filled with a fine grey mist. 
+The only light is provided by the mist itself, an eerie green glow. The rough 
+stone of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you see the tunnel leads east and north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14562
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14560
+S
+#14562
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you see the tunnel leads north and south.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14563
+D2
+Looking south through the mist, you see the tunnel turns to the east.
+~
+~
+0 0 14561
+S
+#14563
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see a tunnel leading to the south, while the tunnel opens
+into a small cavern to the north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a small cavern to the north.
+~
+~
+0 0 14564
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14562
+S
+#14564
+A Small Cavern~
+You are in a small cavern with several tunnels leading out of it, the closest
+being to the south. A fine mist hangs in the air, glowing softly. The stone of
+the cavern is rough, with spiky projections jutting from the floor and walls.
+The formations dont seem truly natural, you wonder how they came about. Like
+everything else here, they are covered in a green slime that appears to enjoy
+the cold, moist environment. The cavern extends further to the north and west.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern continues to the north.
+~
+~
+0 0 14565
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14563
+D3
+Peering through the mist, you see the cavern continues to the west.
+~
+~
+0 0 14571
+S
+#14565
+A Small Cavern~
+You are in a small cavern with several tunnels leading out of it, the closest
+being to the east. A fine mist hangs in the air, glowing softly. The stone of
+the cavern is rough, with spiky projections jutting from the floor and walls.
+The formations dont seem truly natural, you wonder how they came about. Like
+everything else here, they are covered in a green slime that appears to enjoy
+the cold, moist environment. The cavern extends further to the south and west.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14566
+D2
+Peering through the mist, you see the cavern continues to the south.
+~
+~
+0 0 14564
+D3
+Peering through the mist, you see the cavern continues to the west.
+~
+~
+0 0 14570
+S
+#14566
+A Misty Crossways~
+You have reached a T-Junction in this strange, subterranean-like place. To
+the north a rough stone passage leads around a massive rock formation to the 
+north-east. To the west lies small cavern, while a misty passage leads to the
+east. A fine mist hangs in the air, wetting your clothing and making it hard 
+to see, despite the dim glow it emits. You look forward to reaching more 
+familiar and comfortable surroundings.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a short passage leading to a more open area.
+~
+~
+0 0 14567
+D1
+Peering through the mist, you see a misty passage.
+~
+~
+0 0 14568
+D3
+Peering through the mist, you see a small cavern.
+~
+~
+0 0 14565
+S
+#14567
+A Misty Passage~
+This is a rough stone passage skirting a large rock formation to the east. A 
+fine grey mist hangs in the air, glowing softly with a greenish light. The 
+stone of the passage is covered in some kind of slime which obviously thrives 
+in this odd enviroment. To the north lies a large cavern, while the passage 
+continues to the south.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a large cavern to the north.
+~
+~
+0 0 14548
+D2
+Peering through the mist, you a kind of T-junction to the south.
+~
+~
+0 0 14566
+S
+#14568
+A Misty Passage~
+This is a rough stone passage skirting a large rock formation to the north. A 
+fine grey mist hangs in the air, glowing softly with a greenish light. The 
+stone of the passage is covered in some kind of slime which obviously thrives 
+in this odd enviroment. To the east lies a small cavern, while the passage 
+continues to the west.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a small cavern to the east.
+~
+~
+0 0 14569
+D3
+Peering through the mist, you a kind of T-junction to the west.
+~
+~
+0 0 14566
+S
+#14569
+A Misty Cavern~
+The misty tunnels widen here into a small cavern. The fine mist hanging in the
+air makes it difficult to see a great deal of detail. Puddles filling 
+depressions in the cavern floor could be just a few inches deep, or could be 
+deep holes, waiting to take you to a watery grave. Wisely, you step around 
+them. The small cavern extends to the north and east. To the west, a passage
+skirts around a immense rock formation.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14551
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14553
+D3
+Peering through the mist, you see a misty tunnel to the west.
+~
+~
+0 0 14568
+S
+#14570
+A Small Cavern~
+You are in a small cavern with several tunnels leading out of it. A fine mist 
+hangs in the air, glowing softly. The stone of the cavern is rough, with spiky 
+projections jutting from the floor and walls. The formations dont seem truly 
+natural, you wonder how they came about. Like everything else here, they are 
+covered in a green slime that appears to enjoy the cold, moist environment. 
+The cavern extends further to the south and east.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see the cavern continues to the east.
+~
+~
+0 0 14565
+D2
+Peering through the mist, you see the cavern continues to the south.
+~
+~
+0 0 14571
+S
+#14571
+A Small Cavern~
+You are in a small cavern with several tunnels leading out of it, the closest
+being to the west. A fine mist hangs in the air, glowing softly. The stone of
+the cavern is rough, with spiky projections jutting from the floor and walls.
+The formations dont seem truly natural, you wonder how they came about. Like
+everything else here, they are covered in a green slime that appears to enjoy
+the cold, moist environment. The cavern extends further to the north and east.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern continues to the north.
+~
+~
+0 0 14570
+D1
+Peering through the mist, you see the cavern continues to the east.
+~
+~
+0 0 14564
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14572
+S
+#14572
+Tunnel T-Cross~
+Two tunnels intersect here, leading to the west and south. To the east, you
+can see the edge of a small cavern. A fine mist in the air, glowing faintly. 
+The mist dampens sound some what, but you can still here things snarling and 
+moving out in the murk. Its hard to tell how far away they are.
+~
+145 8 0 0 0 0 255 0
+D1
+Peering through the mist, you see a small cavern to the east.
+~
+~
+0 0 14571
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14573
+D3
+Peering through the mist, you see a rough stone tunnel to the west.
+~
+~
+0 0 14574
+S
+#14573
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see tunnels leading to the north and south from here.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14572
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14507
+S
+#14574
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see tunnels leading to the north and east from here.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see a rough stone tunnel to the north.
+~
+~
+0 0 14575
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14572
+S
+#14575
+A Misty Tunnel~
+You are standing in a gloomy tunnel, filled with a fine grey mist. The only
+light is provided by the mist itself, an eerie green glow. The rough stone
+of the tunnel is slick with slime, making footing treacherous. The mist 
+dampens sounds some what, but you can hear things scraping against stone, and
+an occassional blood thirsty roar sends a chill up your spine. Peering through
+the murk, you can see a tunnel leading to the south, while a large cavern 
+begins to the north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the edge of a large cavern to the north.
+~
+~
+0 0 14576
+D2
+Peering through the mist, you see a rough stone tunnel to the south.
+~
+~
+0 0 14574
+S
+#14576
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the west and north, while a rough
+stone tunnel leads to the south.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.       
+~
+~
+0 0 14579
+D2
+Peering through the mist, you see a rough stone tunnel to the south.  
+~
+~
+0 0 14575
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14577
+S
+#14577
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east and north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.       
+~
+~
+0 0 14578
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14576
+S
+#14578
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east, south and north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.       
+~
+~
+0 0 14539
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14579
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14577
+S
+#14579
+A Large Cavern~
+A fine grey mist hangs densely in the air of this cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the west, south and north.
+~
+145 8 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.       
+~
+~
+0 0 14540
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14576
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14578
+S
+#14580
+A four-way Intersection~
+Your standing in a small stone room. Simple arches in the north, south, east
+and west walls lead to stone corridors. Torches above each arch shed light.
+The grey stone making up this room is continuous, without crack or seam to
+indicate how it was made. It would appear it is formed entirely from a single
+piece of stone.
+~
+145 8 0 0 0 0 255 0
+D0
+Looking to the north, you see the corridor leads to the east.
+~
+~
+0 0 14583
+D1
+Looking to the east, you the corridor leads to the south.
+~
+~
+0 0 14585
+D2
+Looking to the south, you see the corridor leads to the west.
+~
+~
+0 0 14587
+D3
+Looking to the west, you see the corridor leads to the north.
+~
+~
+0 0 14581
+S
+#14581
+A Corridor~
+You in a plain stone corridor. A torch on the western wall provides light. To
+The east, you can see a small stone chamber, while to the north it would 
+appear the corridor comes to an end.
+~
+145 8 0 0 0 0 255 0
+D0
+Looking to the north you see a dead end.
+~
+~
+0 0 14582
+D1
+To the east you see a small stone room.
+~
+~
+0 0 14580
+S
+#14582
+A Dead End~
+As soon as you enter the dead end, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. Recovering from the sudden disorientation, you find you are 
+some where else. Your new surroundings are completely dark and bitterly cold. 
+Even your enchanted light sources shed but a dim glow here, just barely enough 
+to see by. You can feel a cold stone wall to the north, south and west.
+~
+145 77 0 0 0 0 255 0
+D1
+Darkness engulfs you, pressing closer on all sides.
+~
+~
+0 0 14408
+S
+#14583
+A Corridor~
+You in a plain stone corridor. A torch on the northern wall provides light. To
+The south, you can see a small stone chamber, while to the east it would 
+appear the corridor comes to an end.
+~
+145 8 0 0 0 0 255 0
+D1
+Looking to the east you see a dead end.
+~
+~
+0 0 14584
+D2
+To the south you see a small stone room.
+~
+~
+0 0 14580
+S
+#14584
+A Dead End~
+As soon as you enter the dead end, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. Recovering from the sudden disorientation, you find you are 
+some where else. You still appear to be in a dead end, not unlike the one you 
+entered, except now your only exit lies north, to a turn in a plain stone 
+corridor. A torch on the southern wall sheds light here.
+~
+145 72 0 0 0 0 255 0
+D0
+Looking to the north, you see a corridor turning to the west.
+~
+~
+0 0 14597
+S
+#14585
+A Corridor~
+You in a plain stone corridor. A torch on the eastern wall provides light. To
+The west, you can see a small stone chamber, while to the south it would 
+appear the corridor comes to an end.
+~
+145 8 0 0 0 0 255 0
+D2
+Looking to the south you see a dead end.
+~
+~
+0 0 14586
+D3
+To the west you see a small stone room.
+~
+~
+0 0 14580
+S
+#14586
+A Dead End~
+As soon as you enter the dead end, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. Recovering from the sudden disorientation, you find you are 
+some where else. You find your in a small featureless stone room. The walls
+are of smooth, flawless stone and are completely devoid of decoration. Your
+only exit lies north, to what looks like a more open area.
+~
+145 76 0 0 0 0 255 0
+D0
+To the north you see a stone hall, extending to the east out of view.
+~
+~
+0 0 14130
+S
+#14587
+A Corridor~
+You in a plain stone corridor. A torch on the southern wall provides light. To
+The north, you can see a small stone chamber, while to the west it would 
+appear the corridor comes to an end.
+~
+145 8 0 0 0 0 255 0
+D0
+To the north you see a small stone room.
+~
+~
+0 0 14580
+D3
+Looking to the west you see a dead end.
+~
+~
+0 0 14588
+S
+#14588
+A Dead End~
+As soon as you enter the dead end, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. Recovering from the sudden disorientation, you find you are 
+some where else. Your now in a small, mist filled cavern. The mist glows with
+an eerie greenish light, better highlighting the green slime clinging to some
+spiky rock projections jutting from the floor. The cavern extends further to
+the south and east.
+~
+145 72 0 0 0 0 255 0
+D1
+Peering through the mist, you see the cavern continues to the east.
+~
+~
+0 0 14565
+D2
+Peering through the mist, you see the cavern extends to the south.
+~
+~
+0 0 14571
+S
+#14589
+A Dead End~
+Your standing at one end of long rectangular room which extends further to
+the south. From here, you cant see any exits out of this place. A torch on
+the southern wall sheds light over the place, you notice perhaps for the first
+time that none of the torches here really seem to burn down, perhaps they are
+enchanted in some way, hmmm.
+~
+145 8 0 0 0 0 255 0
+D2
+The room extends further southwards.
+~
+~
+0 0 14590
+S
+#14590
+A Rectangular Room~
+Your standing in the mid-point of a rectangular room, extending further to the
+south and east. There appear to be no exits at either end, you wonder how you
+will leave this place. Torches on the eastern and western walls provide light.
+~
+145 8 0 0 0 0 255 0
+D0
+To the north the room comes to a dead end.
+~
+~
+0 0 14589
+D2
+To the south the room comes to a dead end.
+~
+~
+0 0 14517
+S
+#14591
+A Culdesac~
+As soon as you enter the culdesac, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. Recovering from the sudden disorientation, you find you are 
+some where else. Your in a plain stone corridor, leading east-west. Torches
+on the northern and southern walls shed light. To the east the corridor ends,
+while off to the west you can see a set of spiral stairs, leading upwards.
+~
+145 72 0 0 0 0 255 0
+D1
+Looking to the east, you see a dead end
+~
+~
+0 0 14595
+D3
+Looking to the west, the corridor continues.
+~
+~
+0 0 14593
+S
+#14592
+A Corridor~
+Your in a plain stone corridor, leading east-west. Torches on the northern
+and southern walls shed light. To the east, the corridor comes to a dead end,
+while it continues to the west, leading eventually to a spiral stairwell.
+~
+145 8 0 0 0 0 255 0
+D1
+Looking to the east, you see a dead end
+~
+~
+0 0 14595
+D3
+Looking to the west, the corridor continues.
+~
+~
+0 0 14593
+S
+#14593
+A Corridor~
+Your in a plain stone corridor, leading east-west. Torches on the northern
+and southern walls shed light. To the west, you can see the corridor ends at
+a spiral stair well, leading upwards.
+~
+145 8 0 0 0 0 255 0
+D1
+To the east the corridor continues.
+~
+~
+0 0 14592
+D3
+Looking to the west, you see a set of stairs, spiralling up.
+~
+~
+0 0 14594
+S
+#14594
+Base of the Stairs~
+Your standing at the base of a set of stone stairs, spiraling upward. The 
+steps are perfectly formed, althou slightly marred by scratches in the stone.
+A corridor leads eastward from here.
+~
+145 8 0 0 0 0 255 0
+D1
+To the east you see a stone corridor.
+~
+~
+0 0 14593
+D4
+The stairs spiral upward.
+~
+~
+0 0 14626
+S
+#14595
+A Dead End~
+As soon as you enter the dead end, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. *SPLASH* You've just dropped about five feet into a dark, murky 
+pool. Coming back to the surface, you find your in watery cavern. The mist
+is quite dense here, making it hard to see beyond a few feet from where your
+standing. The dim glow from the mist does nothing to illuminate the inky 
+depths of the pool, you think you'd rather not know what resides in it. The
+cavern extends to the south and west.
+~
+145 8 0 0 0 6 255 0
+D2
+Peering through the mist, you see the pool extends to the south.
+~
+~
+0 0 14532
+D3
+Peering through the mist, you see the pool extends to the west.
+~
+~
+0 0 14530
+S
+#14596
+A Dead End~
+Your standing at a dead end in a corridor of feature less stone. A torch on
+the southern wall sheds light. The corridor continues to the north, turning
+west.
+~
+145 8 0 0 0 0 255 0
+D0
+To the north the corridor turns westward.
+~
+~
+0 0 14597
+S
+#14597
+A Corridor~
+It would appear this corridor leads no where. The corridor turns abruptly 
+here, leading west and south. Both directions, how ever, appear to provide
+no means of egress from this region. A torch situated on south-west corner
+illuminates where you stand.
+~
+145 8 0 0 0 0 255 0
+D2
+To the south you see a dead end.
+~
+~
+0 0 14596
+D3
+To the west you see a dead end.
+~
+~
+0 0 14598
+S
+#14598
+A Dead End~
+As soon as you enter the dead end, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. Recovering from the sudden disorientation, you find you are 
+some where else. Your in a large, irregular shaped stone hall of some kind.
+Torches along the walls provide light. The hall itself extends to the north
+and east.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14601
+D1
+The hall continues to the east.
+~
+~
+0 0 14604
+S
+#14599
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the west and south.
+~
+145 8 0 0 0 0 255 0
+D2
+The hall continues to the south.
+~
+~
+0 0 14602
+D3
+The hall continues to the west.
+~
+~
+0 0 14600
+S
+#14600
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the south and east. You
+notice a grey stone door is set into the western wall.
+~
+145 8 0 0 0 0 255 0
+D1
+The hall continues to the east.
+~
+~
+0 0 14599
+D2
+The hall continues to the south.
+~
+~
+0 0 14601
+D3
+A grey stone door blocks vision past it.
+~
+grey stone door~
+2 14501 14617
+E
+grey stone door~
+The door blends naturally with the wall, making it hard to see at first.
+~
+S
+#14601
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the east, north and south.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14600
+D1
+The hall continues to the east.
+~
+~
+0 0 14602
+D2
+The hall continues to the south.
+~
+~
+0 0 14603
+S
+#14602
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the west, north and south.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14599
+D2
+The hall continues to the south.
+~
+~
+0 0 14604
+D3
+The hall continues to the west.
+~
+~
+0 0 14601
+S
+#14603
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the east and north.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14601
+D1
+The hall continues to the east.
+~
+~
+0 0 14604
+S
+#14604
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the east, west north and 
+south.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14602
+D1
+The hall continues to the east.
+~
+~
+0 0 14605
+D2
+The hall continues to the south.
+~
+~
+0 0 14607
+D3
+The hall continues to the west.
+~
+~
+0 0 14603
+S
+#14605
+An Irregular Stone Hall~
+Entering this section of the hall you experience a familiar queasy feeling in 
+the pit of your stomach and a kaleidoscope of images momentarily blinds you. 
+This is followed by being subjected to buffeting winds, which subside almost 
+as soon as they begin. Recovering from the sudden disorientation, you find you 
+are some where else. It would appear your in one end of a long rectangular
+room extending to the south. From here, no exit is visible, but perhaps you
+will be able to find one.
+~
+145 72 0 0 0 0 255 0
+D2
+The rectangular room continues to the south.
+~
+~
+0 0 14590
+S
+#14606
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the west, north and south.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14605
+D2
+The hall continues to the south.
+~
+~
+0 0 14608
+D3
+The hall continues to the west.
+~
+~
+0 0 14607
+S
+#14607
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the east, south and north.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14604
+D1
+The hall continues to the east.
+~
+~
+0 0 14606
+D2
+The hall continues to the south.
+~
+~
+0 0 14610
+S
+#14608
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the east, west and north.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14606
+D1
+The hall continues to the east.
+~
+~
+0 0 14609
+D3
+The hall continues to the west.
+~
+~
+0 0 14610
+S
+#14609
+An Irregular Stone Hall~
+Your in an irregular shaped stone hall. While the hall is oddly shaped, the
+walls, ceilings and floor are perfectly smooth and continuous. It's as if the
+whole hall was formed from a single piece of grey stone. Torches along the 
+walls illuminate the hall. The hall continues to the west.
+~
+145 8 0 0 0 0 255 0
+D3
+The hall continues to the west.
+~
+~
+0 0 14608
+S
+#14610
+An Irregular Stone Hall~
+Entering this section of the hall you experience a familiar queasy feeling in 
+the pit of your stomach and a kaleidoscope of images momentarily blinds you. 
+This is followed by being subjected to buffeting winds, which subside almost 
+as soon as they begin. Recovering from the sudden disorientation, you find you 
+are some where else. Your in a large cavern, filled with a fine grey mist. The 
+walls are of rough stone, covered in slick, green slime. Rocky projections 
+jut from the floor, as rough as the stone forming the cavern walls. You note 
+the lack of truly natural formations, such as stalactites and stalagmites. The 
+rough stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the east and north.
+~
+145 72 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.       
+~
+~
+0 0 14578
+D1
+Peering through the mist, you see the cavern extends to the east.
+~
+~
+0 0 14576
+S
+#14611
+A Dead End~
+Your in the dead end of a stone corridor that continues to the north. A torch 
+in the southern wall illuminates where you stand. The stone is almost 
+perfectly smooth, except for one section which appears to have suffered the 
+rage of one of the mist creatures.
+~
+145 8 0 0 0 0 255 0
+D0
+To the north, the corridor turns east.
+~
+~
+0 0 14612
+S
+#14612
+A Turn in the Corridor~
+Your in a corridor of smooth stone, which turns here, leading south and east.
+Ample light is provided by torches attached to the northern and western walls.
+~
+145 8 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14613
+D2
+The corridor seems to end to the south.
+~
+~
+0 0 14611
+S
+#14613
+Before a Golden Door~
+The stone of the corridor is as plain as ever, but you pay it little mind, for
+set into the southern wall is a door of solid gold! If only you can remove it
+from this place you will all be rich. A torch in the northern wall gives the
+door a reddish sheen. The corridor continues to the east and west.
+~
+145 8 0 0 0 0 255 0
+D1
+To the east, the corridor turns to southwards.
+~
+~
+0 0 14615
+D2
+A door of shimmering gold neatly shows your reflection.
+~
+gold door~
+2 14502 14614
+D3
+To the west, the corridor turns southwards.
+~
+~
+0 0 14612
+E
+gold door~
+Examining the door more closely, you discover that, unlike gold, the material
+this door is made of is very hard and strong. Indeed, it seems completely
+impervious to any attempts you make to remove it. You notice a golden lock
+set into the right hand side. If you could unlock it, the door would swing 
+inwards.
+~
+S
+#14614
+The Pentagram Room~
+The air in this room is a little stale, as if sealed for a long time. The
+walls, ceiling and floor appear to be of gold, or at least plated with it. 
+In the centre of the room, a perfectly defined pentagram is set into the floor
+in silver. Black candles set before it give out light, but oddly, no smoke.
+The only exit lies back to the north, through a gold door.
+~
+145 8 0 0 0 0 255 0
+D0
+A gold door set in the northern wall leads to a stone corridor.
+~
+gold door~
+2 14502 14613
+E
+pentagram silver~
+The pentagram is perfectly formed in silver. It's said that such pentagrams
+can imprison demons from the lower planes. It's also said that crossing the
+pentagram will release the demon, but thats just mage stuff, no need to worry
+about that.
+~
+E
+black candles~
+There made of some kind of strange black wax, you dont know why, but something 
+about them seems sinister...
+~
+E
+gold~
+The gold forming the walls, ceiling, floor and even the door, is unmalleable
+and resists any attempts to mark it.
+~
+S
+#14615
+A Turn in the Corridor~
+Your in a corridor of smooth stone, which turns here, leading south and west.
+Ample light is provided by torches attached to the northern and western walls.
+~
+145 8 0 0 0 0 255 0
+D2
+The corridor seems to end to the south.
+~
+~
+0 0 14616
+D3
+The corridor continues to the west.
+~
+~
+0 0 14613
+S
+#14616
+A Dead End~
+As soon as you enter the dead end, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. Recovering from the sudden disorientation, you find you are 
+some where else. Your now in a large, mist filled cavern. The walls are of
+rough stone, covered in slick, green slime. Rocky projections jut from the 
+floor, as rough as the stone forming the cavern walls. You note the lack of
+truly natural formations, such as stalactites and stalagmites. The rough
+stone formations obscure parts of the cavern from view and you advance
+cautiously. The cavern extends further to the west and north. To the east lies
+a rough stone passage, skirting an immense rock formation to the south.
+~
+145 72 0 0 0 0 255 0
+D0
+Peering through the mist, you see the cavern extends to the north.
+~
+~
+0 0 14545
+D1
+Peering through the mist, you see a rough stone tunnel to the east.
+~
+~
+0 0 14550
+D3
+Peering through the mist, you see the cavern extends to the west.
+~
+~
+0 0 14548
+S
+#14617
+A Stone Chamber~
+You enter the small stone chamber, prepared for battle. As soon as you enter, 
+you experience that familiar queasy feeling in the pit of your stomach and a 
+kaleidoscope of images momentarily blinds you. This is followed by being 
+subjected to buffeting winds, which subside almost as soon as they begin. 
+Recovering from the sudden disorientation, you find you are some where else. 
+Your now in a small stone culdesac, off a larger hall to the south. The stone
+is that same familiar, drab grey stone you see just about everywhere, how
+boring. It's obvious the builders of this place could have used the advice of
+someone familiar with interior decoration.
+~
+145 72 0 0 0 0 255 0
+D2
+A large stone hall lies to the south.
+~
+~
+0 0 14619
+S
+#14618
+A Culdesac~
+You've entered a small stone culdesac, off the main hall to the south. There's
+not much to see really, torch in the northern wall provides light, drab grey
+stone walls, hmmm looks preety standard.
+~
+145 8 0 0 0 0 255 0
+D2
+A large stone hall lies to the south.
+~
+~
+0 0 14619
+S
+#14619
+A Large Stone Hall~
+You are in a large hall of plain, featureless stone. The hall is devoid of
+any decoration, unless you count the torch brackets on the walls. It would
+appear to serve no purpose you can fathom. Your mildly disturbed by the lack
+of any obvious way to get out of the hall. There is a small culdesac to the 
+north, while the hall itself continues to the east, west and south.
+~
+145 8 0 0 0 0 255 0
+D0
+A small culdesac lies to the north.
+~
+~
+0 0 14618
+D1
+The hall extends eastwards.
+~
+~
+0 0 14621
+D2
+The hall extends southwards.
+~
+~
+0 0 14623
+D3
+The hall extends westwards.
+~
+~
+0 0 14620
+S
+#14620
+A Large Stone Hall~
+You are in a large hall of plain, featureless stone. The hall is devoid of
+any decoration, unless you count the torch brackets on the walls. It would
+appear to serve no purpose you can fathom. Your mildly disturbed by the lack
+of any obvious way to get out of the hall. The hall continues to the east and
+south.
+~
+145 8 0 0 0 0 255 0
+D1
+The hall extends eastwards.
+~
+~
+0 0 14619
+D2
+The hall extends southwards.
+~
+~
+0 0 14622
+S
+#14621
+A Large Stone Hall~
+You are in a large hall of plain, featureless stone. The hall is devoid of
+any decoration, unless you count the torch brackets on the walls. It would
+appear to serve no purpose you can fathom. Your mildly disturbed by the lack
+of any obvious way to get out of the hall. The hall continues to the west and
+south.
+~
+145 8 0 0 0 0 255 0
+D2
+The hall extends southwards.
+~
+~
+0 0 14624
+D3
+The hall extends westwards.
+~
+~
+0 0 14619
+S
+#14622
+A Large Stone Hall~
+You are in a large hall of plain, featureless stone. The hall is devoid of
+any decoration, unless you count the torch brackets on the walls. It would
+appear to serve no purpose you can fathom. Your mildly disturbed by the lack
+of any obvious way to get out of the hall. There is a small culdesac to the 
+south, while the hall itself continues to the east and north.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall extends northwards.
+~
+~
+0 0 14620
+D1
+The hall extends eastwards.
+~
+~
+0 0 14623
+D2
+A small culdesac lies to the south.
+~
+~
+0 0 14591
+S
+#14623
+A Large Stone Hall~
+You are in a large hall of plain, featureless stone. The hall is devoid of
+any decoration, unless you count the torch brackets on the walls. It would
+appear to serve no purpose you can fathom. Your mildly disturbed by the lack
+of any obvious way to get out of the hall. A large rectangular column lies
+to the south, while the hall itself continues to the east, west and north.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall extends to the north.
+~
+~
+0 0 14619
+D1
+The hall extends eastwards.
+~
+~
+0 0 14624
+D3
+The hall extends westwards.
+~
+~
+0 0 14622
+S
+#14624
+A Large Stone Hall~
+You are in a large hall of plain, featureless stone. The hall is devoid of
+any decoration, unless you count the torch brackets on the walls. It would
+appear to serve no purpose you can fathom. Your mildly disturbed by the lack
+of any obvious way to get out of the hall. There is a small culdesac to the 
+south, while the hall itself continues to the west and north.
+~
+145 8 0 0 0 0 255 0
+D0
+The hall extends northwards.
+~
+~
+0 0 14621
+D2
+A small culdesac lies to the south.
+~
+~
+0 0 14625
+D3
+The hall extends westwards.
+~
+~
+0 0 14623
+S
+#14625
+A Culdesac~
+As soon as you enter the culdesac, you experience a queasy feeling in the pit 
+of your stomach and a kaleidoscope of images momentarily blinds you. This is 
+followed by being subjected to buffeting winds, which subside almost as soon 
+as they begin. Recovering from the sudden disorientation, you find you are 
+some where else. Your in a dead end of a smooth stone corridor. A torch in 
+the southern wall provides light. You can see a T-junction to the north.
+~
+145 72 0 0 0 0 255 0
+D0
+A T-junction lies to the north, far to the north, you see another dead end.
+~
+~
+0 0 14503
+S
+#14626
+On the Stairs~
+Your half way up a spiral stair well. Torches regularly spaced along the stair 
+well provide light. From here, you can go down to the base of the stairs or
+up to a landing.
+~
+145 12 0 0 0 0 255 0
+D4
+Looking up, you see a landing.
+~
+~
+0 0 14701
+D5
+Looking down, you see the base of the stairs.
+~
+~
+0 0 14594
+S
+#14627
+The Mists of Despair~
+This is a mob chute. What are you doing here punk?
+~
+145 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 14506
+D1
+~
+~
+0 0 14509
+D2
+~
+~
+0 0 14512
+D3
+~
+~
+0 0 14515
+D4
+~
+~
+0 0 14618
+D5
+~
+~
+0 0 14521
+S
+#14628
+The Mists of Despair~
+This is a mob chute. What are you doing here punk?
+~
+145 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 14524
+D1
+~
+~
+0 0 14527
+D2
+~
+~
+0 0 14530
+D3
+~
+~
+0 0 14533
+D4
+~
+~
+0 0 14536
+D5
+~
+~
+0 0 14539
+S
+#14629
+The Mists of Despair~
+This is a mob chute. What are you doing here punk?
+~
+145 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 14542
+D2
+~
+~
+0 0 14545
+D3
+~
+~
+0 0 14548
+D4
+~
+~
+0 0 14551
+D5
+~
+~
+0 0 14554
+S
+#14630
+The Mists of Despair~
+This is a mob chute. What are you doing here punk?
+~
+145 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 14557
+D1
+~
+~
+0 0 14560
+D2
+~
+~
+0 0 14563
+D3
+~
+~
+0 0 14566
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#14631
+A stone tube~
+Unlike the exterior, the interior of the rock formation is very smooth. Mist
+still hands in the air, making the surface slippery to stand upon. You notice
+the tube extends further upwards, but how far is unclear due to the obscuring
+mists.
+~
+145 584 0 0 0 0 255 0
+D1
+The circular door you entered is more easily discernible from this side.
+~
+circle~
+2 14510 14551
+D4
+The tube extends further upwards, althou the sides of the tube offer not even
+the slightest handhold.
+~
+~
+0 0 14632
+S
+Z 19
+#14632
+In the tube~
+The tube may be unclimbable, but there are ways around that problem. The tube
+is quite wide, but none the less, your sure Zilanthor would not of been able
+to squeeze up it, hrmm, of course the way he simply devolved from the
+surrounding mists implies that perhaps he has more than one form availble
+to him. Of course, it's all academic now, you witnessed, indeed, caused
+his demise. Peering through the mists floating in the tube, you think it
+ends up ahead.
+~
+145 584 0 0 0 9 255 0
+D4
+Peering through the mists, you see the tube opens into a large chamber.
+~
+~
+0 0 14633
+D5
+The small chamber you entered is no longer visible from this height.
+~
+~
+0 0 14631
+S
+#14633
+The cavern opening~
+You've flown into a small cavern at the top of the smooth tube. The mist still
+hangs thick in the air, making it difficult to see, however your able to
+discern an opening to the north, and it appears to lead to a larger area.
+~
+145 520 0 0 0 0 255 0
+D0
+To the north you it appears the cavern opens up.
+~
+~
+0 0 14634
+D5
+The bottom of the tube is lost in the mists.
+~
+~
+0 0 14632
+S
+#14634
+Beginning of a large cavern~
+Advancing into the cavern, you see it is large indeed, the walls of the cavern
+are lost in the mist that still hangs here. You also note the ceiling rises
+dramactically. Up ahead, you see the main part of the cave, and even through
+the mist, the glint of gold is discernible.
+~
+145 524 0 0 0 0 255 0
+D0
+Whatever is glittering up ahead, there sure seems to be a LOT of it.
+~
+~
+0 0 14635
+D2
+You can walk back to the cave entrance from here.
+~
+~
+0 0 14633
+S
+#14635
+The Lair of Zilanthor~
+It becomes quite obvious you have entered the lair of Zilanthor... and it
+would also seem he spends most of his time here in draconian form, atop the
+enourmous mound of gold in the centre of the place. Littered through the
+pile are doubtless many items from the great heroes the Dragon has slain
+over the ages. Sifting through the pile could take a while thou...
+~
+145 648 0 0 0 0 255 0
+D2
+The beginning of Zilanthor's lair lies to the south.
+~
+~
+0 0 14634
+S
+#14636
+The Mists of Despair~
+This is a mob chute. What are you doing here punk?
+~
+145 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 14575
+D1
+~
+~
+0 0 14578
+D2
+~
+~
+0 0 14581
+D3
+~
+~
+0 0 14584
+D4
+~
+~
+0 0 14587
+D5
+~
+~
+0 0 14590
+S
+#14637
+The Mists of Despair~
+This is a mob chute. What are you doing here punk?
+~
+145 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 14611
+D1
+~
+~
+0 0 14596
+D2
+~
+~
+0 0 14599
+D3
+~
+~
+0 0 14602
+D4
+~
+~
+0 0 14607
+D5
+~
+~
+0 0 14608
+S
+#14638
+The Mists of Despair~
+This is the master mob chute. You REALLY don't want to be here...
+~
+145 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 14627
+D1
+~
+~
+0 0 14628
+D2
+~
+~
+0 0 14629
+D3
+~
+~
+0 0 14630
+D4
+~
+~
+0 0 14636
+D5
+~
+~
+0 0 14637
+S
+$~

@@ -1,0 +1,10 @@
+fly c 'fly' $*
+bl c 'blind' $*
+soul c 'soul pierce' $*
+drain c 'life drain' $*
+shi c 'shield' $*
+sum c 'summon' $*
+di c 'detect invis' $*
+infra c 'infra'
+gt gt &09 $* &00
+corpse e; e; get all malacar; w; w

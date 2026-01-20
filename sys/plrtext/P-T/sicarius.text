@@ -1,0 +1,10 @@
+walk cast 'shadow walk'
+dos cast 'dance of shadows'
+blur cast 'blur' $*
+sphere cast 'shadow sphere'
+gt gt &06$* &00
+blind cast 'blind' $*
+blade cast 'shadow blades' $*
+invis cast 'invis' $*
+sv cast 'shadow vision' $*
+cw clanwho

@@ -1,0 +1,20 @@
+fink title &07 Finklestein&08 Forsaken&00
+glance diagnose $*
+bl c 'blind' $*
+say emote &01mutters&00, '  &01$*&00   '
+ani c 'animate dead' $*
+pro c 'protection from good' $*
+dt c 'death touch' $*
+pest c 'pestilence' $*
+reg c 'regenerate' $*
+chaos c 'chaos armor' $*
+di c 'detect invis' $*
+aura c 'aura of apocalypse' $*
+sv c 'eyes of the dead' $*
+angel title &01Forsaken&03 Guardian&06 Demon&00
+clan clan &00&01<&03^&01>&00  &03$*&00   &01<&03^&01>&11
+gt gt &01<&03^&01>&00  &06$*&00   &01<&03^&01>&00
+dart c 'black dart' $*
+r rescue Duriel
+animate c 'animate dead' $*
+dice drop dice

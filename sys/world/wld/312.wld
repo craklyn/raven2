@@ -1,0 +1,1291 @@
+#31200
+Entrance to the Bazaar~
+You are walking toward the Bazaar, a huge marketplace full of brightly-
+colored tents, within which dozens of merchants hawk their wares to the
+public. The market is always crowded, and you quickly break out in a sweat
+as you elbow your way through the teeming hordes of people.
+~
+312 32772 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31201
+D2
+You see sand.
+~
+~
+0 0 5048
+S
+#31201
+An Open Area~
+You have entered the first part of the bazaar, an open area which is lined
+by tents to the far east, south and west, and which stretches away to a
+market square to the north. Merchants, traders, slaves, vagrants and thieves
+all rush by you, and you find yourself feeling quite dizzy.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31208
+D1
+~
+~
+0 -1 31205
+D2
+~
+~
+0 -1 31200
+D3
+~
+~
+0 -1 31202
+S
+#31202
+An Open Area~
+You have entered the first part of the bazaar, an open area which is lined
+by tents to the far east, south and west, and which stretches away to a
+market square to the north. Merchants, traders, slaves, vagrants and thieves
+all rush by you, and you find yourself feeling quite dizzy.
+
+To the south lies a herbalist's tent, and to the west a tailor.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31250
+D1
+~
+~
+0 -1 31201
+D2
+~
+~
+0 -1 31203
+D3
+~
+~
+0 -1 31204
+S
+#31203
+A Herbalist's Tent~
+The interior of this tent is pungent with the aroma of a variety of herbs
+and salves sold by this merchant. Bags used for storing and preserving the
+herbs line the rear wall of the tent, hanging above a large counter which
+is lined with the herbalist's best products.
+~
+312 32772 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31202
+S
+#31204
+A Tailor's Tent~
+You make your way past a row of clothes horses and clothes racks and come to
+a small counter covered with scraps of expensive material. A small tailor
+is busy making alterations to the robes of some nobleman, and he tells you
+around a mouthful of pins that he won't be long.
+~
+312 32772 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31202
+S
+#31205
+An Open Area~
+You have entered the first part of the bazaar, an open area which is lined
+by tents to the far east, south and west, and which stretches away to a
+market square to the north. Merchants, traders, slaves, vagrants and thieves
+all rush by you, and you find yourself feeling quite dizzy.
+
+To the south lies a scribe's tent, and to the east a goods merchant.
+~
+312 32772 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31211
+D1
+~
+~
+0 -1 31207
+D2
+~
+~
+0 -1 31206
+D3
+~
+~
+0 -1 31201
+S
+#31206
+A Scribe's Tent~
+The interior of this tent is fairly plain, being dominated by a single
+writing desk and a rack of scrolls. There is also a map on the back wall, of
+a land you have never heard of.
+~
+312 32772 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31205
+S
+#31207
+A Goods Merchant~
+This tent is full of items such as blankets, tents, belt pouches, lanterns,
+ropes, packs and other adventuring gear that you may find of use. In
+addition, there is sometimes a collection of items sold by other adventurers
+such as keys, treasures and lights.
+~
+312 32772 0 0 0 0 255 0
+D3
+~
+~
+0 -1 31205
+S
+#31208
+A Slave Auction~
+At this point in the central area, a dais has been erected, and atop it stands
+a burly man selling some of his trained warrior slaves. If you wish you can
+stop and examine his merchandise, or proceed north into the center of the
+market square, or east or west along Buyer's Lane, which dissects the square
+at this point.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31213
+D1
+~
+~
+0 -1 31211
+D2
+~
+~
+0 -1 31201
+D3
+~
+~
+0 -1 31250
+S
+#31209
+Slave Storage~
+The slave master stores his slaves in this small room. It looks very
+uncomfortable.
+~
+312 4 0 0 0 0 255 0
+S
+#31210
+Buyer's Lane~
+This narrow lane runs the perimeter of the Bazaar, heading west from here
+for a while before bending north to follow the wall that surrounds the
+bazaar, and heading east back toward the market square.
+~
+312 32776 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31250
+D3
+~
+~
+0 -1 31234
+S
+#31211
+The Market Square~
+This is the center of the bazaar, and the primary gathering point for the
+hordes of people who visit the bazaar every day and night. You see strangely-
+clad visitors from many foreign lands clamoring to buy and sell every
+conceivable item known to humanity. The air is thick with the stench of stale
+sweat, camel manure and exotic spices.
+
+At this point Buyer's Lane cuts through the square, running east-west.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31216
+D1
+~
+~
+0 -1 31212
+D2
+~
+~
+0 -1 31205
+D3
+~
+~
+0 -1 31208
+S
+#31212
+Buyer's Lane~
+This narrow lane runs the perimeter of the Bazaar, heading east from here
+for a while before bending north to follow the wall that surrounds the
+bazaar, and heading west back toward the market square.
+~
+312 32776 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31232
+D3
+~
+~
+0 -1 31211
+S
+#31213
+The Center of the Square~
+You are at the hub of the bazaar- the center of the market square. People
+rush to and fro on business of their own, as merchants flog their wares to
+them mercilessly. Slaves, whores, beggars and thieves mingle with the crowd,
+each of them attempting to elicit a few coppers from any generous souls by
+one means or another.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31218
+D1
+~
+~
+0 -1 31216
+D2
+~
+~
+0 -1 31208
+D3
+~
+~
+0 -1 31214
+S
+#31214
+The Market Square~
+This is the center of the bazaar, and the primary gathering point for the
+hordes of people who visit the bazaar every day and night. You see strangely-
+clad visitors from many foreign lands clamoring to buy and sell every
+conceivable item known to humanity. The air is thick with the stench of stale
+sweat, camel manure and exotic spices.
+
+The odor of baked food comes from the west.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31219
+D1
+~
+~
+0 -1 31213
+D2
+~
+~
+0 -1 31250
+D3
+~
+~
+0 -1 31215
+S
+#31215
+A Food Tent~
+A skilled chef is here busily preparing and serving a variety of middle
+eastern dishes to a horde of hungry merchants. It is very hot in here, and
+the air is thick with smoke and grease, but the food still smells very
+good.
+~
+312 32772 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31214
+S
+#31216
+The Market Square~
+This is the center of the bazaar, and the primary gathering point for the
+hordes of people who visit the bazaar every day and night. You see strangely-
+clad visitors from many foreign lands clamoring to buy and sell every
+conceivable item known to humanity. The air is thick with the stench of stale
+sweat, camel manure and exotic spices.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31221
+D1
+~
+~
+0 -1 31217
+D2
+~
+~
+0 -1 31211
+D3
+~
+~
+0 -1 31213
+S
+#31217
+Produce Tent~
+Fresh (or reasonably fresh) fruit and vegetables are for sale in this tent.
+A mob of farmers file in and out in a steady stream, dropping off cases of
+produce for sale to the constant flow of customers.
+~
+312 32772 0 0 0 0 255 0
+D3
+~
+~
+0 -1 31216
+S
+#31218
+The Market Square~
+This is the center of the bazaar, and the primary gathering point for the
+hordes of people who visit the bazaar every day and night. You see strangely-
+clad visitors from many foreign lands clamoring to buy and sell every
+conceivable item known to humanity. The air is thick with the stench of stale
+sweat, camel manure and exotic spices.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31228
+D1
+~
+~
+0 -1 31221
+D2
+~
+~
+0 -1 31213
+D3
+~
+~
+0 -1 31219
+S
+#31219
+The Market Square~
+This is the center of the bazaar, and the primary gathering point for the
+hordes of people who visit the bazaar every day and night. You see strangely-
+clad visitors from many foreign lands clamoring to buy and sell every
+conceivable item known to humanity. The air is thick with the stench of stale
+sweat, camel manure and exotic spices.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31227
+D1
+~
+~
+0 -1 31218
+D2
+~
+~
+0 -1 31214
+D3
+~
+~
+0 -1 31220
+S
+#31220
+A Side Road~
+This narrow lane cuts across the north of market square, heading back to
+buyers' lane to the west, and the square itself to the east. Tents line
+even this thoroughfare- no part of the bazaar is empty of customers.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31226
+D1
+~
+~
+0 -1 31219
+D3
+~
+~
+0 -1 31224
+S
+#31221
+The Market Square~
+This is the center of the bazaar, and the primary gathering point for the
+hordes of people who visit the bazaar every day and night. You see strangely-
+clad visitors from many foreign lands clamoring to buy and sell every
+conceivable item known to humanity. The air is thick with the stench of stale
+sweat, camel manure and exotic spices.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31229
+D1
+~
+~
+0 -1 31222
+D2
+~
+~
+0 -1 31216
+D3
+~
+~
+0 -1 31218
+S
+#31222
+A Side Road~
+This narrow lane cuts across the north of market square, heading back to
+buyers' lane to the east, and the square itself to the west. Tents line
+even this thoroughfare- no part of the bazaar is empty of customers.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31230
+D1
+~
+~
+0 -1 31223
+D3
+~
+~
+0 -1 31221
+S
+#31223
+A Junction~
+Here Buyer's Lane, running north-south, is met by Market Lane from the east.
+There is a conglomeration of people here, all curiously staring at something
+or someone. With a gasp, you realize that that someone is Princess Fatima,
+ruler of a great empire of the east.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31231
+D1
+~
+~
+0 -1 31249
+D2
+~
+~
+0 -1 31233
+D3
+~
+~
+0 -1 31222
+S
+#31224
+A Junction~
+Here Buyer's Lane, running north-south, is met by Market Lane from the east.
+A crowd of noisy revellers suddenly rush past, heading from one party to
+the next somewhere in the bazaar, or maybe in the rooms that lie to the
+east in the wall of the bazaar.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31225
+D1
+~
+~
+0 -1 31220
+D2
+~
+~
+0 -1 31235
+D3
+~
+~
+0 -1 31245
+S
+#31225
+The Wall of the Bazaar~
+You are heading along the western part of Buyer's Lane, past the market on
+the right, and the houses and shops built into the wall on the left. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31236
+D2
+~
+~
+0 -1 31224
+D3
+~
+~
+0 -1 31246
+S
+#31226
+A Spice Tent~
+As you enter, you are almost overwhelmed by the overpowering aroma of hundreds
+of exotic spices, and you are not surprised to see that the proprietor is
+wearing nose plugs. This makes more sense still when he explains to you that
+many of his herbs have magical or addictive qualities, either or both of
+which can take effect with but a single sniff...
+~
+312 4 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31220
+S
+#31227
+A Florist~
+This tent is actually a small greenhouse lined with rows of potted plants and
+flowers on metal shelves, kept constantly moist by a fine mist that emanates
+from metal pipes in the roof to belay the debilitating effects of the summer
+heat. There is also a wide variety of picked flowers for sale, arranged in
+metal and ceramic containers near the entrance.
+~
+312 4 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31219
+S
+#31228
+A Magical Shop~
+This small tent is rather spartan, having only a small table, a wooden
+chair, and two wooden cases containing a variety of rods, staves and wands.
+Feel free to browse.
+~
+312 32772 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31218
+S
+#31229
+A Blacksmith's Forge~
+This tent serves as a workplace for the blacksmith. A forge rests in one
+corner, beneath a circular hole in the leather hide that comprises the roof
+of this tent, which allows smoke to escape. A variety of hammers, tongs and
+pliers line one wall, hanging from a wooden rack stained with oil and grease.
+A pail of oil rests near a large anvil, and atop it lies a huge hammer.
+~
+312 4 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31221
+S
+#31230
+A Jeweller's Tent~
+This small tent has four glass cabinets full of costume jewellery made of
+plastic and paste, all the items being replicas of the real items the
+jeweller offers, should you be interested (you don't think he is foolish
+enough to keep his REAL products here, do you?). However, the jeweller does
+keep a small stock of genuine jewellery for customers who don't wish to
+wait for weeks to obtain their ornaments.
+~
+312 4 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31222
+S
+#31231
+The Wall of the Bazaar~
+You are heading along the eastern part of Buyer's Lane, past the market on
+the left, and the houses and shops built into the wall on the right. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31237
+D1
+~
+~
+0 -1 31251
+D2
+~
+~
+0 -1 31223
+S
+#31232
+The Wall of the Bazaar~
+You are heading along the eastern part of Buyer's Lane, past the market on
+the left, and the houses and shops built into the wall on the right. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+
+The road to the east changes into Port Lane, and heads toward the docks.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31233
+D1
+~
+~
+0 -1 31247
+D3
+~
+~
+0 -1 31212
+S
+#31233
+The Wall of the Bazaar~
+You are heading along the eastern part of Buyer's Lane, past the market on
+the left, and the houses and shops built into the wall on the right. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31223
+D2
+~
+~
+0 -1 31232
+S
+#31234
+The Wall of the Bazaar~
+You are heading along the western part of Buyer's Lane, past the market on
+the right, and the houses and shops built into the wall on the left. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31235
+D1
+~
+~
+0 -1 31210
+D3
+~
+~
+0 -1 31243
+S
+#31235
+The Wall of the Bazaar~
+You are heading along the western part of Buyer's Lane, past the market on
+the right, and the houses and shops built into the wall on the left. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31224
+D2
+~
+~
+0 -1 31234
+D3
+~
+~
+0 -1 31244
+S
+#31236
+The Wall of the Bazaar~
+You are heading along the northern part of Buyer's Lane, past the market to
+the south, and the houses and shops built into the wall to the north. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31238
+D2
+~
+~
+0 -1 31225
+S
+#31237
+The Wall of the Bazaar~
+You are heading along the northern part of Buyer's Lane, past the market to
+the south, and the houses and shops built into the wall to the north. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31231
+D3
+~
+~
+0 -1 31242
+S
+#31238
+The Wall of the Bazaar~
+You are heading along the northern part of Buyer's Lane, past the market to
+the south, and the houses and shops built into the wall to the north. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31239
+D3
+~
+~
+0 -1 31236
+S
+#31239
+The Wall of the Bazaar~
+You are heading along the northern part of Buyer's Lane, past the market to
+the south, and the houses and shops built into the wall to the north. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31240
+D3
+~
+~
+0 -1 31238
+S
+#31240
+The Wall of the Bazaar~
+You are heading along the northern part of Buyer's Lane, past the market to
+the south, and the houses and shops built into the wall to the north. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31241
+D3
+~
+~
+0 -1 31239
+S
+#31241
+The Wall of the Bazaar~
+You are heading along the northern part of Buyer's Lane, past the market to
+the south, and the houses and shops built into the wall to the north. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31242
+D3
+~
+~
+0 -1 31240
+S
+#31242
+The Wall of the Bazaar~
+You are heading along the northern part of Buyer's Lane, past the market to
+the south, and the houses and shops built into the wall to the north. People
+enter and exit many of these houses as you watch, and you surmise that no
+place in the bazaar is free of mercantilism- everyone has something to sell.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31237
+D3
+~
+~
+0 -1 31241
+S
+#31243
+A Weapons Shop~
+This store, built into the wall of the bazaar, is lined with weapons of
+every variety, crafted from bronze, iron, steel, copper and even gold. You
+look around and see several of interest.
+~
+312 4 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31234
+S
+#31244
+An Armor Shop~
+This store, built into the wall of the bazaar, is lined with suits of armor
+every variety, crafted from bronze, iron, steel, copper and even gold. You
+look around and see several items of interest.
+~
+312 4 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31235
+S
+#31245
+A Brothel~
+Several merchants look away with embarrassment as you catch their eyes upon
+entering. Evidently visiting such places is not considered good for business,
+if you are caught. Several attractive men and women smile seductively at
+you, and you gulp nervously. Have you had your shots?
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31224
+S
+#31246
+A Guard House~
+This room serves as quarters for the market guards. There are rarely many
+guards in here at any one time- the market is so busy and so prone to
+crime that they rarely have time to relax.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31225
+S
+#31247
+Near the Docks~
+You are standing near the docks of the city, which lie upon the massive
+harbour it is nestled in. Ships of all nations sail back and forth, either
+delivering or picking up cargo, passengers or illicit goods. Near here there
+is a large warehouse, wherein ships are constructed for anyone with the
+interest and the financial means.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31248
+D3
+~
+~
+0 -1 31232
+S
+#31248
+A Shipyard~
+Here you may negotiate the purchase of a seagoing vessel to suit your needs.
+There is no shortage of supply in a huge port such as this; indeed, in this
+city, ships are more common than horses.
+~
+312 4 0 0 0 0 255 0
+D2
+~
+~
+0 -1 31247
+S
+#31249
+An Empty Shop~
+This shop is currently vacant, awaiting a new tenant after its last was
+slain in a knife fight with some disgruntled customers.
+~
+312 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 31223
+S
+#31250
+The Market Square~
+This is the center of the bazaar, and the primary gathering point for the
+hordes of people who visit the bazaar every day and night. You see strangely-
+clad visitors from many foreign lands clamoring to buy and sell every
+conceivable item known to humanity. The air is thick with the stench of stale
+sweat, camel manure and exotic spices.
+
+At this point Buyer's Lane cuts through the square, running east-west.
+~
+312 32776 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31214
+D1
+~
+~
+0 -1 31208
+D2
+~
+~
+0 -1 31202
+D3
+~
+~
+0 -1 31210
+S
+#31251
+An Animal Trainer's Store~
+In this place you can purchase yourself an animal companion for your travels
+from the range of animals trained by the proprietor.
+~
+312 4 0 0 0 0 255 0
+D1
+~
+door gate~
+1 0 31252
+D3
+~
+~
+0 -1 31231
+S
+#31252
+Animal Shed~
+He keeps his animals here. Don't bother reading this, you shouldn't be here
+anyway.
+~
+312 8 0 0 0 0 255 0
+D3
+~
+door gat8Ú	Ø~
+1 0 31251
+S
+#31253
+Before the Mages Guild~
+You are standing in the forecourt of the tower which holds the chambers of
+the Mages Guild. Here, practitioners of the magic of the Mage come to
+advance their knowledge of their art. 
+~
+312 4 0 0 0 0 255 0
+D1
+~
+~
+0 0 31254
+D3
+~
+~
+0 0 30485
+S
+#31254
+The Offices of the Guild~
+On this level, the various administrative personnel of the Guild rush to and
+fro, preparing documents and memorandums for the various officials of the
+city, as the Mages also act as the official Scribes, due to their
+fluency in tongue and their adroitness with the quill. Upstairs lies the
+office of the Guildmaster himself, while downstairs is the Bar.
+~
+312 584 0 0 0 0 255 0
+D3
+~
+~
+0 0 31253
+D4
+~
+~
+0 0 31255
+D5
+~
+~
+0 0 31256
+S
+#31255
+The Guildmaster~
+This spacious office is lined on every wall by tall bookcases crammed with
+books on magic and mystical lore, as well as treatises on history, science
+mathematics, philosophy and alchemy. The Guildmaster himself sits behind
+a large oak desk covered in scrolls, quills, papers and jars of ink. He
+looks up as you enter and asks how he may be of service. If you don't know,
+try looking at him.
+~
+312 393804 0 0 0 0 255 0
+D5
+~
+~
+0 0 31254
+S
+#31256
+The Mage's Bar~
+Mages are notorious drinkers, mainly due to the fact that their power relies
+solely on mana, and the best way to rapidly regain mana is to be rip-roaring
+drunk. Thus it is extremely rare to see an active adventuring mage remotely
+sober.
+~
+312 12 0 0 0 0 255 0
+D4
+~
+~
+0 0 31254
+S
+#31257
+The Pet Shop~
+You have entered a virtual Zoo, a crowded shop packed with a menagerie of
+animals of every type, size, shape and description imaginable. However,
+only a few are for sale- the rest are the owner's personal collection, and
+are his pride and joy. To see what to do next, try looking at the owner.
+~
+312 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 30517
+S
+#31258
+The Sage~
+You have entered the modest dwelling of Mitzak the Sage, an elderly, bearded
+gent who will identify anything- for a price. Drawing on his extensive
+knowledge of Legend Lore, he will be able to give you exact details of the
+function of any item in your possession. 
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 30510
+S
+#31259
+Mercenaries Unlimited~
+You have entered a hiring hall for mercenaries. A stout Mercenary Master
+grunts as you enter. If you don't know what to do, try looking at him.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 30496
+S
+#31260
+The Chippy~
+You have entered the local chippy. Your nostrils are almsot immediately
+assailed by a pleasant aroma- it's amazing how good hot fat smells, isn't
+it? You see a portly Elf standing behind a large glass counter full of
+fried food. It certainly smells a lot better than it looks. A customer
+standing next to you says- "It looks a lot better than it tastes...". Most
+of the food has probably been sitting under those hot lights for a couple
+of hours. The only thing you can be reasonably sure of is the chips.
+By the way, EVERYTHING is fried.
+~
+312 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 30466
+S
+#31261
+The Travel Agency~
+In this tree lie portals that lead to the other dimensions of the
+world of Raven. Proceed carefully, for you travel at your own risk!
+~
+312 12 0 0 0 0 255 0
+D0
+~
+~
+0 0 30453
+S
+#31262
+The Pottery Shop~
+You have entered a plain, nondescript room with whitewashed stone walls
+and a straw-covered floor. Various cracked and broken pots of clay are
+scattered about on the floor. A large potter's wheel sits in the corner,
+pots and urns of various sizes line the shelves.
+~
+312 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 30414
+S
+#31263
+Entrance to the Prison~
+You are standing in the shadow of a formidable building. There are no windows
+only slits to let in light. In the distance you hear screams that send chills
+down your spine.
+~
+312 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 31264
+D2
+~
+~
+0 0 30480
+S
+#31264
+The Fairhaven Prison~
+You are standing in front of a large Prison. It looks as if what goes in
+never comes out. A large rusty gate is to the north. A plaque is on the
+wall.
+~
+312 0 0 0 0 0 255 0
+D0
+~
+rusty gate~
+1 0 31265
+D2
+~
+~
+0 0 31263
+E
+plaque~
+Welcome to the Prison of Fairhaven where our motto is "Work sets you free."
+~
+S
+#31265
+The Quiet Hallway~
+You are standing in a quiet hallway. There is a large painting of the
+Mayor on the wall here.
+~
+312 12 0 0 0 0 255 0
+D0
+~
+~
+0 0 31266
+D2
+~
+rusty gate~
+1 0 31264
+E
+painting mayor~
+The picture of the mayor has been eloquently doodled upon.
+Scrolled upon the bottom of the painting are the words:
+THE MAYOR IS A FINK!
+~
+S
+#31266
+The Reception Area~
+You are standing in the main reception room. There is a lovely couch and
+a drinking fountain here. 
+~
+312 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 31267
+D1
+~
+~
+0 0 31269
+D2
+~
+~
+0 0 31265
+S
+#31267
+The Warden's Office~
+You are in the receptionist's office. It smells like
+flowers in here.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+door~
+1 0 31268
+D2
+~
+~
+0 0 31266
+S
+#31268
+The Warden's Chambers~
+You are standing in the Wardens chamber. There are pictures of all the
+inmates he has had executed on the walls. A large stack of pictures is
+on the floor as well.
+~
+312 8 0 0 0 0 255 0
+D2
+~
+door~
+1 0 31267
+S
+#31269
+The Guard Room~
+You are in what appears to be a guard room. There is a huge locked
+door to the east.
+~
+312 8 0 0 0 0 255 0
+D1
+~
+door~
+1 0 31270
+D3
+~
+~
+0 0 31266
+S
+#31270
+A Cellblock~
+This is the reason this Prison is here, to keep these people from
+getting out. You start to wonder if you can ever get out yourself.
+There are cells to the north and south.
+~
+312 8 0 0 0 0 255 0
+D0
+~
+bars~
+1 0 31271
+D1
+~
+~
+0 0 31273
+D2
+~
+bars~
+1 0 31272
+D3
+~
+door~
+1 0 31269
+S
+#31271
+A Cell~
+You are standing in a cell. There ais a pile of straw on the floor
+and some crude drawings on the wall.
+~
+312 8 0 0 0 0 255 0
+D2
+~
+bars~
+1 0 31270
+S
+#31272
+A Cell~
+You are standing in a cell. There ais a pile of straw on the floor
+and some crude drawings on the wall.
+~
+312 0 0 0 0 0 255 0
+D0
+~
+bars~
+1 0 31270
+S
+#31273
+Executioners Room~
+This is the last room some of the prisoners will ever see. There is a large
+block in the middle of the room which is used for seperating the head from
+the body. The stench is overwhelming here.
+~
+312 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 31270
+S
+$~

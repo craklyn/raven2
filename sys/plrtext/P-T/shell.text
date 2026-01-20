@@ -1,0 +1,22 @@
+stone cast 'stoneskin' $*
+shield cast 'shield' $*
+slow cast 'slow' $*
+sil cast 'silence' $*
+blind cast 'blind' $*
+str cast 'strength' $*
+ident cast 'identify' $*
+haste cast 'haste' $*
+1 ass kryll
+0 rec rec rec
+3 ass seona
+gt gt &06$* &00
+say say &06$* &00
+clan clan &06$* &11
+2 ass meltdown
+summon cast 'summon' $*
+gate cast 'gate'
+r cast 'life drain' $*
+ts cast 'true sight' $*
+infra cast 'infravision' 
+port cast 'portal' $*
+da cast 'doom bolt' $*

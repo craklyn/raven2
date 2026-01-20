@@ -1,0 +1,1405 @@
+#3500
+The Plains~
+   You are on the plains, to the north you notice a small path into the hills.
+~
+35 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 4000
+D2
+~
+~
+0 0 3501
+S
+#3501
+The Lane~
+   You are strolling along a pleasant, shady lane.  The road is lined on both
+sides by tall, stately trees which lend the scene with a sense of quiet
+serenity.  You can follow the road north or south.
+~
+35 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 3500
+D2
+~
+~
+0 0 3502
+D4
+~
+~
+0 0 29301
+S
+#3502
+The Turning Point~
+  The trees stand close here, and the tall, bushy undergrowth prevents you
+from seeing far in any direction save north, where a broad lane leads off into
+the distance; and west, where the same lane continues towards what looks like
+a fairly large city.  The muted sounds of city commotion reach your ears from a
+distance; stray dogs barking, children crying, and street salesmen shouting.
+  A steep path leads down from here towards the Dwarven Caverns and to the
+east lies the King's Road, which takes travelers to the kingdom of Garamond.
+~
+35 0 0 0 0 12 255 0
+D0
+~
+~
+0 -1 3501
+D1
+You see a path and a large castle in the distance.
+~
+~
+0 -1 15001
+D2
+~
+~
+0 0 1300
+D3
+~
+~
+0 -1 3503
+D5
+~
+~
+0 -1 6500
+S
+#3503
+Samsera City Entrance~
+   You stand on the outskirts of a large city - Samsera; the capital of this
+land.  The road leads east into the peace and quiet - and dangers - of the
+eastern lands; and to the west it becomes the main street of the town; surrounded by a
+confusion of shops, bars, and market places.  To the west stands the massive
+arch and eastern gate of Samsera, flanked by two guardhouses.    
+~
+35 4 0 0 0 1 255 0
+D0
+~
+~
+0 0 3523
+D1
+~
+~
+0 0 3502
+D3
+~
+~
+0 0 18097
+S
+#3504
+The South Bridge~
+     You are standing on a small, rickety bridge leading from the Midgaard
+City Dump, to the forest of Miden'Nir (Goblinic for Green Blood).  You can
+smell the Dump to the north, but go south and there is fresh air and
+greenery.
+~
+35 4 0 0 0 3 255 0
+D0
+You can see the clutter of the City Dump.
+~
+~
+0 0 3030
+D2
+If you go south, you will enter the Miden'Nir.
+~
+~
+0 0 3505
+S
+#3505
+The Trail to Miden'Nir~
+     You are in a light forest.  A path leads south, but the passage to the
+east is easy enough.  To the west, smoke can be seen rising above the 
+treetops.  The sprawl of Midgaard lies north of here.
+~
+35 0 0 0 0 3 255 0
+D0
+To the north, you see the bridge to Midgaard.
+~
+~
+0 0 3504
+D1
+More light forest.
+~
+~
+0 0 3506
+D2
+This path cuts through the darkness of the Miden'Nir.
+~
+~
+0 0 3507
+S
+#3506
+The Miden'Nir~
+     You are in a dark forest.  To the east, mountains block passage.  From
+here, only the lighter forest to the west or south offer a way to travel.
+~
+35 0 0 0 0 3 255 0
+D2
+The forest is darker to the south.
+~
+~
+0 0 3509
+D3
+The forest gets lighter as you go west.
+~
+~
+0 0 3505
+S
+#3507
+The Miden'Nir~
+     The forest is deep here and the wind blows through the trees and
+through your hair.  To the north, the forest gets lighter.  However, the
+southern and eastern paths place you even deeper in the wood.
+~
+35 0 0 0 0 3 255 0
+D0
+The forest is lighter in this direction.
+~
+~
+0 0 3505
+D2
+More and darker woods.
+~
+~
+0 0 3510
+D3
+There is a small path leading west.
+~
+~
+0 0 3508
+S
+#3508
+On a Small Path~
+     A path is here, leading east and south.  Mountains slash the scenery
+to the west of here.
+~
+35 0 0 0 0 3 255 0
+D1
+Wind-swept forest.
+~
+~
+0 0 3507
+D2
+To the south, the trail continues.
+~
+~
+0 0 3511
+S
+#3509
+The Miden'Nir~
+     More trees...  You can go north, south or travel toward the mountains
+that lie east of here.
+~
+35 0 0 0 0 3 255 0
+D0
+The trees lighten up a bit this way.
+~
+~
+0 0 3506
+D1
+Huge grey mountains lie in this direction.
+~
+~
+0 0 3512
+D2
+The forest continues.
+~
+~
+0 0 3514
+S
+#3510
+The Crossroads~
+     Here footworn paths lead north, south and east.  The trees seem to
+be closing in on you at this point.
+~
+35 0 0 0 0 3 255 0
+D0
+Trees as far as the eye can see.
+~
+~
+0 0 3507
+D1
+There is an especially dark part of the forest this way.
+~
+~
+0 0 3514
+D2
+There is an especially dark section of forest this way.
+~
+~
+0 0 3516
+S
+#3511
+The Trail~
+     You are on a north-south trail.  To the west, impassible mountains glare
+at you.
+~
+35 0 0 0 0 3 255 0
+D0
+The trail bends to the north.
+~
+~
+0 0 3508
+D2
+To the south, the path re-enters the forest.
+~
+~
+0 0 3515
+S
+#3512
+At the Foot of the Mountains~
+     You can go west or south and re-enter the forest.  Mountains prevent
+passage in any other direction.
+~
+35 0 0 0 0 3 255 0
+D2
+A light section of forest.
+~
+~
+0 0 3513
+D3
+The forest continues here.
+~
+~
+0 0 3509
+S
+#3513
+The Miden'Nir~
+    The forest is light here and gets lighter to the north.  To the west
+everything gets dark.  The wind kicks up as you ponder your options.
+~
+35 0 0 0 0 3 255 0
+D0
+There is a small clearing to the north.
+~
+~
+0 0 3512
+D3
+It gets darker and thicker this way.
+~
+~
+0 0 3514
+S
+#3514
+Deep Forest~
+     It is quite dark here, forest surrounds you.  Footsteps can be heard,
+but their direction can not be determined.
+~
+35 0 0 0 0 3 255 0
+D0
+More forest.
+~
+~
+0 0 3509
+D1
+Lighter forest and mountains in the distance.
+~
+~
+0 0 3513
+D2
+More trees.
+~
+~
+0 0 3517
+D3
+The forest continues.
+~
+~
+0 0 3510
+S
+#3515
+Light Forest~
+     The forest is light here and you can easily pick your way through the
+trail.  To the east, the forest becomes deep again.  South, the trail
+continues.
+~
+35 0 0 0 0 3 255 0
+D0
+A trail leading north-south.
+~
+~
+0 0 3511
+D1
+The trees get thicker as you go east.
+~
+~
+0 0 3516
+D2
+More trees and some small hills.
+~
+~
+0 0 3518
+S
+#3516
+The Sink~
+     The ground is quite muddy here and puddles are all around.  Your boots
+make a disgusting SQUISH as you walk here.  You can go in any of the four
+cardinal directions from here.  Hopefully, it will be dryer.
+~
+35 0 0 0 0 3 255 0
+D0
+The Miden'Nir continues.
+~
+~
+0 0 3510
+D1
+More trees.
+~
+~
+0 0 3517
+D2
+The trees get VERY thick to the south.  You can barely see...
+~
+~
+0 0 3519
+D3
+Some light trees and daylight.
+~
+~
+0 0 3515
+S
+#3517
+Near the Mountains~
+    The most prominent feature here is the mountains that lie to the east.
+You can only go north and west from here as the rocks stop all other
+movement.
+~
+35 0 0 0 0 3 255 0
+D0
+Many trees to the north.
+~
+~
+0 0 3514
+D3
+There is a bit of a slope downward to the west.
+~
+~
+0 0 3516
+S
+#3518
+The Fading Trail~
+     The trail becomes nearly impassible here.  You can go south and west,
+as the forest is relatively light.  To the north, you can see a path.
+~
+35 0 0 0 0 3 255 0
+D0
+You can see a trail this way.
+~
+~
+0 0 3515
+D2
+Dark forests.
+~
+~
+0 0 3522
+D3
+Light trees and mountains in the distance.
+~
+~
+0 0 3520
+S
+#3519
+The Dark Path~
+     You are hemmed in by trees on either side of you.  There is no way
+to go east or west.  The wind, which howled earlier, seems to have died in
+this natural tunnel.
+~
+35 1 0 0 0 3 255 0
+D0
+Ahhh...  daylight.
+~
+~
+0 0 3516
+D2
+More darkness.
+~
+~
+0 0 3521
+S
+#3520
+On the Verge of Darkness~
+     The forest is getting pretty thick here.  To the south, the forest is
+too dense to venture into.  The eastern path seems the only way to go from
+here.
+~
+35 0 0 0 0 3 255 0
+D1
+Light and a visible trail.
+~
+~
+0 0 3518
+S
+#3521
+Carnage~
+     Here, you see a gruesome sight.  Blood is everywhere...  on the trees
+and soaked into the ground.  Two carcasses lie in front of you, seeming to
+look up at you.  The forest is impassible to the south, but the path
+continues north and west.
+~
+35 0 0 0 0 3 255 0
+D0
+Darkness...
+~
+~
+0 0 3519
+D3
+More dark forest.
+~
+~
+0 0 3522
+E
+carcass body corpse carcasses bodies corpses~
+   The corpses looked as if they have been pierced by a large, jagged
+spear.  The damage these people sustained is simply amazing.  Worse, the
+lips on the bodies are a light shade of blue, hinting at poison in
+their systems.
+~
+S
+#3522
+Stench~
+   There is a sickening stench here.  It smells of blood and death.  To the
+north, you catch glimpses of daylight.  To the east, you simply cannot see.
+The trees are close and stifling.
+~
+35 1 0 0 0 3 255 0
+D0
+Daylight and a trail to follow.
+~
+~
+0 0 3518
+D1
+Darkness..  the smell seems to come from here.
+~
+~
+0 0 3521
+S
+#3523
+Forest Road - North~
+The city gates of Samsera stands just to the south. The spires of the huge 
+wall and towers can be seen high in the air, and the noise of the markets 
+fills the air even outside the gates.  To the north, road stretches off 
+through the dense forest.
+~
+35 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 3524
+D2
+~
+~
+0 0 3503
+S
+Z 19826
+#3524
+Forest Road - North~
+The city walls of Samsera stands just to the west. The spires of the huge 
+towers can be seen high in the air, and the noise of the markets and people
+fills the air.  To the north, road stretches off through the dense forest 
+towards the huge Northeast Tower.
+~
+35 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 40048
+D2
+~
+~
+0 0 3523
+S
+#3525
+The corner of Forest Road~
+A wide grassy field opens up in front of you. The peaks of tall mountains and
+rolling foothills can be seen farther to the north. To the west a well worn
+road heads towards the Northern Gates of Samsera. Above you, the huge
+Northeast Tower touches the clouds over head.
+~
+35 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 10609
+D2
+~
+~
+0 0 40053
+D3
+~
+~
+0 0 40057
+S
+#3526
+The Grassy Road~
+This wide grassy road leads along the northern wall of the city.
+To the west and north you see grasslands and off to the west you see
+a line of soaring peaks reaching to the heavens surrounded by thick and 
+gloomy Forests. To the south lies wall of the great city of Samsera. 
+~
+35 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 10608
+D1
+~
+~
+0 0 40054
+D3
+~
+~
+0 0 3527
+S
+#3527
+The Grassy Road~
+This wide grassy road leads along the northern wall of the city.
+To the west and north you see grasslands and off to the west you see
+a line of soaring peaks reaching to the heavens surrounded by thick and 
+gloomy Forests. To the south lies wall of the great city of Samsera. 
+~
+35 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 10607
+D1
+~
+~
+0 0 3526
+D3
+~
+~
+0 0 3528
+S
+#3528
+The Grassy Road~
+This wide grassy road leads along the northern wall of the city.
+To the north you see grasslands and off to the east you see a line 
+of soaring peaks reaching to the heavens surrounded by thick and 
+gloomy Forests. To the west you can see the northern gates of the 
+great city of Samsera. 
+~
+35 3145940 4 0 0 0 7 35
+D0
+~
+~
+0 0 10606
+D1
+~
+~
+0 0 3527
+D2
+~
+~
+0 0 19350
+D3
+~
+~
+0 0 3529
+E
+block_msg_char~
+$N swiftly steps in your way.
+~
+E
+block_msg_room~
+$N quickly steps into $n's way.
+~
+E
+block_dir~
+south
+~
+S
+#3529
+The Grassy Road~
+This wide grassy road leads along the northern wall of the city.
+To the north you see grasslands and off to the east you see a line 
+of soaring peaks reaching to the heavens surrounded by thick and 
+gloomy Forests. To the west you can see the northern gates of the 
+great city of Samsera. 
+~
+35 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 10605
+D1
+~
+~
+0 0 3528
+D3
+~
+~
+0 0 10601
+S
+#3530
+Northern Road~
+   The Northern road plunges into a deep forest here.  A long abandoned trail
+wanders off to the west, it has become so overgrown that it can no longer be
+traveled.  The sounds of City can be heard faintly to the east, but mostly the
+sounds of deep forest prevail.    
+~
+35 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 3531
+D2
+~
+~
+0 0 40067
+S
+#3531
+A Shady Spot on the Northern Road~
+   The trees here are extremely thick, and block almost all light from the sun.
+Leaves are piled up deep on the road here, and not a sound can be heard but for
+the sounds of the deep forest.    
+~
+35 1 0 0 0 12 255 0
+D0
+~
+~
+0 0 3532
+D2
+~
+~
+0 0 3530
+S
+#3532
+End of the Northern Road~
+   The Northwest Tower of Samsera stands just to the east.  The spires of the
+huge tower can be seen high in the air, and the noise of the markets and people
+fills the air.  To the north, the road is blocked by impassible shrubbery, and
+to the east the road continues toward the Northern Gates.    
+~
+35 0 0 0 0 12 255 0
+D1
+~
+~
+0 0 3533
+D2
+~
+~
+0 0 3531
+S
+#3533
+The Grassy Road~
+   This wide grassy road leads along the northern wall of the city.  To the
+west and north you see grasslands and off to the west you see a line of soaring
+peaks reaching to the heavens surrounded by thick and gloomy forests.  To the
+south lies the fortified walls of Samsera.    
+~
+35 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 3534
+D3
+~
+~
+0 0 3532
+S
+#3534
+The Grassy Road~
+   This wide grassy road leads along the northern wall of the city.  To the
+west and north you see grasslands and off to the east you see a line of soaring
+peaks reaching to the heavens surrounded by thick and gloomy forests.  To the
+south lies the fortified walls of Samsera.    
+~
+35 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 3535
+D3
+~
+~
+0 0 3533
+S
+#3535
+The Grassy Road~
+   This wide grassy road leads along the northern wall of the city.  To the
+west and north you see grasslands and off to the east you see a line of soaring
+peaks reaching to the heavens surrounded by thick and gloomy forests.  To the
+south lies the fortified walls of Samsera.    
+~
+35 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 10613
+D1
+~
+~
+0 0 3536
+D3
+~
+~
+0 0 3534
+S
+#3536
+The Grassy Road~
+   This wide grassy road leads along the northern wall of the city.  To the
+north you see grasslands and off to the west you see a line of soaring peaks
+reaching to the heavens surrounded by thick and gloomy forests.  To the east
+you can see the northern gates of the great city of Samsera.    
+~
+35 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 10614
+D1
+~
+~
+0 0 40058
+D3
+~
+~
+0 0 3535
+S
+#3537
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the north and south.  The main gate can be seen 
+to the southeast.  The outline of Samsera can be made out to the
+far west.
+~
+35 0 0 0 0 1 255 0
+D0
+The perimeter road awaits you.
+~
+~
+0 0 3538
+D2
+~
+~
+0 0 1920
+S
+#3538
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and south.  The main gate can be seen 
+to the southeast.  The outline of Samsera can be made out to the
+far west.
+~
+35 0 0 0 0 1 255 0
+D1
+The perimeter road awaits you.
+~
+~
+0 0 3539
+D2
+The perimeter road awaits you.
+~
+~
+0 0 3537
+S
+#3539
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the north and west.  The outline of Samsera can be
+made out to the far west.
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3540
+D3
+The perimeter road awaits you.
+~
+~
+0 0 3528
+S
+#3540
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and south.  The city of Freeport can be
+seen off to the northwest.  
+~
+35 0 0 0 0 1 255 0
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3541
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3539
+S
+#3541
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and west.  The city of Freeport can be seen
+off to the northwest.  
+~
+35 0 0 0 0 1 255 0
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3542
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3540
+S
+#3542
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and west.  
+~
+35 0 0 0 0 1 255 0
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3543
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3541
+S
+#3543
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and west.  
+~
+35 0 0 0 0 1 255 0
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3544
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3542
+S
+#3544
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the west and south.  
+~
+35 0 0 0 0 1 255 0
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3545
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3543
+S
+#3545
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the north and east.  
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3544
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3546
+S
+#3546
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the south and west.  A mountain range can be seen to
+the east.
+~
+35 0 0 0 0 1 255 0
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3547
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3545
+S
+#3547
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the north and south.  A mountain range can be seen to
+the east.
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3546
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3548
+S
+#3548
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the north and south.  A mountain range can be seen to
+the east.
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3546
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3549
+S
+#3549
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the north and south.  A mountain range can be seen to
+the east.
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3548
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3550
+S
+#3550
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the north and west.  A mountain range can be seen to
+the east.
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3549
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3551
+S
+#3551
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the south and east.  A mountain range can be seen to
+the far east.
+~
+35 0 0 0 0 1 255 0
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3550
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3552
+S
+#3552
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the north and west.  A mountain range can be seen to
+the far east.
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3551
+D2
+~
+~
+0 0 15801
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3553
+S
+#3553
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and west.  A mountain range can be seen to
+the far east.
+~
+35 0 0 0 0 1 255 0
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3552
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3554
+S
+#3554
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and west.  What looks to be a river can
+be seen to the south.
+~
+35 0 0 0 0 1 255 0
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3553
+D2
+A dirt path awaits you.
+~
+~
+0 0 3560
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3555
+S
+#3555
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and west.  What looks to be a river can
+be seen to the south.
+~
+35 0 0 0 0 1 255 0
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3554
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3556
+S
+#3556
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road 
+continues to the east and west.
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3557
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3555
+S
+#3557
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road
+continues to the west and south.  The city of Samsera can be
+seen off to the west.
+~
+35 0 0 0 0 1 255 0
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3556
+D3
+The Garamond Perimeter Road.
+~
+~
+0 0 3558
+S
+#3558
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road
+continues to the north and east.  The city of Samsera can be
+seen off to the west.
+~
+35 0 0 0 0 1 255 0
+D0
+The Garamond Perimeter Road.
+~
+~
+0 0 3559
+D1
+The Garamond Perimeter Road.
+~
+~
+0 0 3557
+S
+#3559
+The Perimeter road of Garamond.~
+King Garamond ordered this road to be built to help preserve his
+castle and town.  The road allows his people to make the proper
+repairs to the city's walls after an invasion.  The road
+continues to the north and south.  The city of Samsera can be
+seen off to the west.
+~
+35 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 1920
+D2
+The Garamond Perimeter Road.
+~
+~
+0 0 3558
+S
+#3560
+A path to the river.~
+The dirt path is large enough to allow 5 trolls to walk side by 
+side.  This path is used by the citizens of Garamond along with
+other travelers.  Garamond's walls are to the north.  To the 
+south a river can be seen.
+~
+35 0 0 0 0 1 255 0
+D0
+The perimeter of Garamond.
+~
+~
+0 0 3554
+D2
+A dirt path awaits you.
+~
+~
+0 0 3561
+S
+#3561
+A path to the river.~
+The dirt path is large enough to allow 5 trolls to walk side by 
+side.  This path is used by the citizens of Garamond along with
+other travelers.  Garamond's walls are to the north.  To the 
+south a river can be seen.
+~
+35 0 0 0 0 1 255 0
+D0
+A dirt path awaits you.
+~
+~
+0 0 3560
+D2
+A dirt path awaits you.
+~
+~
+0 0 3562
+S
+#3562
+The path to the river.~
+This path is used by the citizens of Garamond along with
+other travelers.  Garamond's walls are off to the north.
+To the south you can make out a river that runs to the
+east and west.
+~
+35 0 0 0 0 1 255 0
+D0
+A dirt path awaits you.
+~
+~
+0 0 3561
+D2
+A dirt path awaits you.
+~
+~
+0 0 3563
+S
+#3563
+The path to the river.~
+This path is used by the citizens of Garamond along with
+other travelers.  Garamond's walls are off to the north.
+To the south you can make out a river that runs to the
+east and west.
+~
+35 0 0 0 0 1 255 0
+D0
+A dirt path awaits you.
+~
+~
+0 0 3562
+D2
+A dirt path awaits you.
+~
+~
+0 0 3564
+S
+#3564
+The path to the river.~
+This path is used by the citizens of Garamond along with
+other travelers.  Garamond's walls are off to the north.
+To the south you can make out a river that runs to the
+east and west.
+~
+35 0 0 0 0 1 255 0
+D0
+A dirt path awaits you.
+~
+~
+0 0 3563
+D2
+A dirt path awaits you.
+~
+~
+0 0 3565
+S
+#3565
+The path to the river.~
+This path is used by the citizens of Garamond along with
+other travelers.  Garamond's walls are off to the north.
+To the south you can make out a river that runs to the
+east and west.
+~
+35 0 0 0 0 1 255 0
+D0
+A dirt path awaits you.
+~
+~
+0 0 3564
+D2
+The bank of the river lie just ahead.
+~
+~
+0 0 3566
+S
+#3566
+The banks of a river.~
+You are standing infront of a huge river that stretches to the
+east and west.  To the east you can make out a large tunnel
+entrance.  A dirt path lead to the north and what looks to be 
+the walls of Garamond.
+~
+35 0 0 0 0 2 255 0
+D0
+A dirt path awaits you.
+~
+~
+0 0 3565
+D2
+The river calls your name.
+~
+~
+0 0 3240
+S
+#3567
+Market Road~
+   To the north the busy river and to the south the dark forest.  Travelers
+passing back and forth over the bridge to the east.  Carts filled with goods of
+all sorts heading to and from Market.    
+~
+35 4 0 0 0 0 255 0
+D1
+~
+~
+0 0 3100
+D3
+~
+~
+0 0 3568
+S
+#3568
+Market Road~
+   The Black Market is to the west, with it's busy streets and shipping docks.
+The sounds of the people rushing by almost drowns out the sounds of the passing
+ships on the river.    
+~
+35 4 0 0 0 0 255 0
+D1
+~
+~
+0 0 3567
+D3
+~
+~
+0 0 3569
+S
+#3569
+Market Road~
+   Just to the south are the gates of the Black Market.  Several people file in
+and out, carrying goods they have bought, or brought to sell.    
+~
+35 0 0 0 0 0 255 0
+D1
+~
+~
+0 0 3568
+D2
+~
+~
+0 0 15435
+S
+$~

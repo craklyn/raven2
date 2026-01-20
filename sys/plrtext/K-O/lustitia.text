@@ -1,0 +1,44 @@
+xp emote tells you, '$*'
+robbo emote Lustitia tells you, '$*'
+emb cast 'embalm' $*
+bone cast 'bone wall' $*
+charm cast 'charm corpse' $*;gr all
+entomb cast 'entomb' $*
+say say &11$* &00
+gt gt &11$* &00
+deb cast 'debil' $*
+cw clanwho
+sil cast 'silence' $*
+em cast 'embalm' corpse
+slow cast 'slow' $*
+shield cast 'shield' $*
+ed cast 'energy drain' $*
+ld cast 'life drain' $*
+fly cast 'fly' $*
+invis cast 'invisibility' $*
+nox cast 'noxious skin' $*
+di cast 'detect invisibility' $*
+infra cast 'infravision' $*
+wr cast 'wraithform' $*
+sum cast 'summon' $*
+rp cast 'resist poison' $*
+cs c 'summon corp' $*
+sp cast 'soul pierce' $*
+sense cast 'sense life'
+o ord fol k mar
+de cast 'debilitate' $*
+wraith cast 'wraith'
+blind cast 'blind' $*
+embalm cast 'embalm' $*
+silence cast 'silence' $*
+soul cast 'soul pierce' $*
+consume cast 'consume corpse' $*
+ward cast 'create ward'
+life cast 'life drain' $*
+ss slow 2.war
+dd deb 2.war
+ff order follow k $*
+sss cast 'slow' 2.war
+ddd cast 'deb' 2.war
+fff order follower kill 2.war
+1 tell dag follow lust

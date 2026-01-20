@@ -1,0 +1,47 @@
+5 kill 3. 
+db c 'doom' $*
+00 get all all.cor
+;; rem frost ;; wear morg ;; rem veil ;; wear monocle ;; rem tear ;; wear 2.tear
+mmmm2 rem hind ;; wear chimera ;; rem peridot ;; wear circle ;; rem cobalt ;; wear sash ;; rem octypus ;;  rem octypus ;; wear brac
+elet ;; wear bracelet ;; rem heart ;; hold witch
+3 c 'doom'
+1 c 'charm person' $*
+4 c 'light' $*
+bl c 'blind' $*
+invis c 'invis' $*
+fly c 'fly' $*
+infra c 'infra' $*
+di c 'detect invis' $*
+sum c 'summon' $*
+mm c 'magic' $*
+cc c 'color' $*
+ts c 'true sight' $*
+haste c 'haste' $*
+fb c 'flame blade' $*
+shield c 'shield' $*
+port c 'portal' $*
+gt gtell &05$*&00 
+10 c 'magic missile' maraxus north ;; c 'magic missile' maraxus north
+/ rec elven
+000 rem morg ;; wear hood
+8888 tell atrophy corpse
+tt order follower rescue amethyst
+feeb c 'feeble' $*
+00000000 Sliver tells you, 'name: alius pw: ikarpass1
+cb c 'doom bolt' $*
+vv c 'doom' $*
+llll sell 14. ;; sell 15. ;; sell 16. ;; sell 17. ;; sell 18. sell 19. ;; sell 20. ;; sell 21. ;; sell 22. ;; sell 23. ;; sell 24. 
+12. ;; sell 13.
+ell 36. ;; sell 37. ;; sell 38.
+0 'nexus' rey
+mmmm sell 25. ;; sell 26. ;; sell 27. ;; sell 28. ;; sell 29. ;; sell 30. ;; sell 31. ;; sell 32. ;; sell 33. ;; sell 34. 
+pppp sell 1. ;; sell 2. ;; sell 3. ;; sell 4. ;; sell 5. ;; sell 6. ;; sell 7. ;; sell 8. ;; sell 9. sell 10. ;; sell 11. ;; sell 1
+ofa order follower $*
+6 get all all.cor
+2 look 2.
+off order follower $*
+9 order urkii kill zombie ;; order follower ass urk
+pp c 'locate' Corpse
+loll get scro bag ;; sell 30 sc ;; buy 2.scro ;; put scro bag ;; buy 30 mid ;; get scro bag
+7 c 'summon' ikarus
+8 c 'nexus' jester

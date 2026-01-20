@@ -1,0 +1,29 @@
+bb ca 'banish' $*
+dt ca 'detect invis'
+rc ca 'remove curse'
+pl ca 'cure plague'
+blind ca 'cure blind' 
+pp ca 'prayer of life' $*
+gs gs &14$*
+di disarm $*
+ts toss sanc
+tr toss revive
+dis ca 'dispel evil' $*
+remp ca 'remove poison' $*
+b bash $*
+arm ca 'holy armor'
+reg ca 'regenerate' $*
+steed ca 'call steed'
+div ca 'divine mission' $*
+cs ca 'cure serious' $*
+light ca 'cure light' $*
+det ca 'detect invis' $*
+pfe ca 'protection from evil' $*
+ret retreat $(
+ali ca 'detect alignment' $*
+ban ca 'banish'
+cureb ca 'cure blind' $*
+cc ca 'cure critic' $*
+vis ca 'righteous vision'
+cru ca 'crusade' $*
+word ca 'holy word'

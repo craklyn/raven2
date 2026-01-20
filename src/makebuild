@@ -1,0 +1,5 @@
+
+mv /home/raven/RavenMUD/src/bin/binaries/moon /home/raven/RavenMUD/src/bin/binaries/moon.bak
+make
+cp -p /home/raven/RavenMUD/src/bin/binaries/moon /home/raven/RavenMUD/bin/moon
+

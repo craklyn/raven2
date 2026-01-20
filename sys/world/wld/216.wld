@@ -1,0 +1,2490 @@
+#21600
+Credits Room~
+    The Garden of Xinge was written by Robert Hayden <hayden@pobox.com>
+for Ravenmud.  It is the first part of the overall City of Xinge area,
+which is actually several zones.  The garden and its tower is outside, and
+the city is beyond the garden's gates.  
+    The Garden's purpose is two-fold.  First it islargely a basic,
+medium-risk xp area.  11 different plant varieties are offered.  Second,
+in the center of the garden is a large magic tower, with 12 very
+heavy-duty mobs in it, and appropriate eq, guarded by a 4-headed Dragon
+named Cabal.
+    None of the plants wander, and only a couple are aggro.  The Yellow
+Musk Zombies, made by the creepers, do wander around the zone.
+    As it is, I made sure every one of the 69 rooms outside of the central
+tower have plants in them, all varieties in seemingly random locations.
+    One of the intersting plants is the Bloodvine.  The heart is towards
+the middle of the garden.  However, in each room is a "runner", showing
+the plant spreading out all over the garden.
+    I liked making this zone; I think it's better than my ant colony
+(although the room descriptions were purposly left pretty generic, in
+this type of zone, nobody reads them anyways.)  I like it for the huge
+variety of mobs here, including one that covers the entire zone :-)  For
+that plant, I had each "runner" load, if-flagged to the main "heart" of
+the plant. Thus, to get each runner to repop, you would have to kill the
+heart of the plant (the heart is limited to one incarnation).  Thought it
+was an interesting approach. Hope it works ;-)
+    The Tower of Xinge is in the center of the garen. The goal of this
+tower was for good run, with tough mobs, and good EQ for everyone (much
+like the Abyss).  What I've got is 12 mobs of heavy strength (45th
+level), with the last bastard being an ugly wizard (50th level).  1 of
+each class is present in each of the 10 wings of the tower, with the key
+from one room leading to the next (hence, you have 10 rooms to go through
+to get to the end).  Originally written as a seperate zone (The Tower of
+Dread), but it has been modified and patched into the Garden of Xinge.
+    On the north side of the garden is a gate which will eventually lead
+to the next zone (the city itself).  The key to the gate can be either
+purchased from the gatekeeper, or the gatekeeper can be killed for the key
+Currently, the gate described as an "E", but doesn't go anywhere.  A sign
+on the gate explains.
+~
+216 8 0 0 0 0
+D5
+~
+~
+0 -1 21690
+S
+#21601
+Entrance to the Garden of Xinge~
+    You stand before the legendary Garden of Xinge.  This was once the
+great garden of Queen Vlania and King T'Pal, but with the falling of the
+Kingdom of Xinge, the garden has fallen as well.  Now it is little more
+than a run-down collection of weeds and wildflowers.  Still, you get a
+feeling of death and dismay here, as if something still dwells within;
+something not of this world...
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21611
+D1
+~
+~
+0 -1 21602
+D2
+~
+~
+1 0 21699
+S
+#21602
+Wandering along the South Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21612
+D1
+~
+~
+0 -1 21603
+D3
+~
+~
+0 -1 21601
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21603
+Wandering along the South Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21613
+D1
+~
+~
+0 -1 21604
+D3
+~
+~
+0 -1 21602
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21604
+Wandering along the South Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21614
+D1
+~
+~
+0 -1 21605
+D3
+~
+~
+0 -1 21603
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21605
+Wandering along the South Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21615
+D1
+~
+~
+0 -1 21606
+D3
+~
+~
+0 -1 21604
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21606
+Wandering along the South Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21616
+D1
+~
+~
+0 -1 21607
+D3
+~
+~
+0 -1 21605
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21607
+Wandering along the South Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21617
+D1
+~
+~
+0 -1 21608
+D3
+~
+~
+0 -1 21606
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21608
+Wandering along the South Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21618
+D1
+~
+~
+0 -1 21609
+D3
+~
+~
+0 -1 21607
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21609
+Wandering along the South Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21619
+D1
+~
+~
+0 -1 21610
+D3
+~
+~
+0 -1 21608
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21610
+Wandering along the South-East Corner~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your south and east, a huge, vine-covered wall stands defying the
+ravages of time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21620
+D3
+~
+~
+0 -1 21609
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21611
+Wandering along the West Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your west, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21621
+D1
+~
+~
+0 -1 21612
+D2
+~
+~
+0 -1 21601
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21612
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21622
+D1
+~
+~
+0 -1 21613
+D2
+~
+~
+0 -1 21602
+D3
+~
+~
+0 -1 21611
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21613
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21623
+D1
+~
+~
+0 -1 21614
+D2
+~
+~
+0 -1 21603
+D3
+~
+~
+0 -1 21612
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21614
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21624
+D1
+~
+~
+0 -1 21615
+D2
+~
+~
+0 -1 21604
+D3
+~
+~
+0 -1 21613
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21615
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21625
+D1
+~
+~
+0 -1 21616
+D2
+~
+~
+0 -1 21605
+D3
+~
+~
+0 -1 21614
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21616
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21626
+D1
+~
+~
+0 -1 21617
+D2
+~
+~
+0 -1 21606
+D3
+~
+~
+0 -1 21615
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21617
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21627
+D1
+~
+~
+0 -1 21618
+D2
+~
+~
+0 -1 21607
+D3
+~
+~
+0 -1 21616
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21618
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21628
+D1
+~
+~
+0 -1 21619
+D2
+~
+~
+0 -1 21608
+D3
+~
+~
+0 -1 21617
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21619
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21629
+D1
+~
+~
+0 -1 21620
+D2
+~
+~
+0 -1 21609
+D3
+~
+~
+0 -1 21618
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21620
+Wandering along the East Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your east, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21630
+D2
+~
+~
+0 -1 21610
+D3
+~
+~
+0 -1 21619
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21621
+Wandering along the West Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your west, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21631
+D1
+~
+~
+0 -1 21622
+D2
+~
+~
+0 -1 21611
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21622
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21632
+D1
+~
+~
+0 -1 21623
+D2
+~
+~
+0 -1 21612
+D3
+~
+~
+0 -1 21621
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21623
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21633
+D1
+~
+~
+0 -1 21624
+D2
+~
+~
+0 -1 21613
+D3
+~
+~
+0 -1 21622
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21624
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21634
+D1
+~
+~
+0 -1 21625
+D2
+~
+~
+0 -1 21614
+D3
+~
+~
+0 -1 21623
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21625
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21626
+D2
+~
+~
+0 -1 21615
+D3
+~
+~
+0 -1 21624
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21626
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21636
+D1
+~
+~
+0 -1 21627
+D2
+~
+~
+0 -1 21616
+D3
+~
+~
+0 -1 21625
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21627
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21637
+D1
+~
+~
+0 -1 21628
+D2
+~
+~
+0 -1 21617
+D3
+~
+~
+0 -1 21626
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21628
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21638
+D1
+~
+~
+0 -1 21629
+D2
+~
+~
+0 -1 21618
+D3
+~
+~
+0 -1 21627
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21629
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21639
+D1
+~
+~
+0 -1 21630
+D2
+~
+~
+0 -1 21619
+D3
+~
+~
+0 -1 21628
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21630
+Wandering along the East Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your east, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21640
+D2
+~
+~
+0 -1 21620
+D3
+~
+~
+0 -1 21629
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21631
+Wandering along the West Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your west, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21641
+D1
+~
+~
+0 -1 21632
+D2
+~
+~
+0 -1 21621
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21632
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21642
+D1
+~
+~
+0 -1 21633
+D2
+~
+~
+0 -1 21622
+D3
+~
+~
+0 -1 21631
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21633
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21643
+D1
+~
+~
+0 -1 21634
+D2
+~
+~
+0 -1 21623
+D3
+~
+~
+0 -1 21632
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21634
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    The entrance to the Great Tower of Xinge lies to your east.  A low,
+rhythmic rumbling resembling something between growling and snoring can be
+heard coming from the base of the tower.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21644
+D1
+~
+~
+0 -1 21671
+D2
+~
+~
+0 -1 21624
+D3
+~
+~
+0 -1 21633
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+
+#21636
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21646
+D1
+~
+~
+0 -1 21637
+D2
+~
+~
+0 -1 21626
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21637
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence
+seems to press down upon you.  You hear no birds or insects, only the low
+moan of a cold wind blowing through your clothing.  The ground is cracked
+and dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21647
+D1
+~
+~
+0 -1 21638
+D2
+~
+~
+0 -1 21627
+D3
+~
+~
+0 -1 21636
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21638
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21648
+D1
+~
+~
+0 -1 21639
+D2
+~
+~
+0 -1 21628
+D3
+~
+~
+0 -1 21637
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21639
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21649
+D1
+~
+~
+0 -1 21640
+D2
+~
+~
+0 -1 21629
+D3
+~
+~
+0 -1 21638
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21640
+Wandering along the East Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your east, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21650
+D2
+~
+~
+0 -1 21630
+D3
+~
+~
+0 -1 21639
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21641
+Wandering along the West Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your west, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21651
+D1
+~
+~
+0 -1 21642
+D2
+~
+~
+0 -1 21631
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21642
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21652
+D1
+~
+~
+0 -1 21643
+D2
+~
+~
+0 -1 21632
+D3
+~
+~
+0 -1 21641
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21643
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21653
+D1
+~
+~
+0 -1 21644
+D2
+~
+~
+0 -1 21633
+D3
+~
+~
+0 -1 21642
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21644
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21654
+D1
+~
+~
+0 -1 21645
+D2
+~
+~
+0 -1 21634
+D3
+~
+~
+0 -1 21643
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21645
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21655
+D1
+~
+~
+0 -1 21646
+D3
+~
+~
+0 -1 21644
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21646
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21656
+D1
+~
+~
+0 -1 21647
+D2
+~
+~
+0 -1 21636
+D3
+~
+~
+0 -1 21645
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21647
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21657
+D1
+~
+~
+0 -1 21648
+D2
+~
+~
+0 -1 21637
+D3
+~
+~
+0 -1 21646
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21648
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21658
+D1
+~
+~
+0 -1 21649
+D2
+~
+~
+0 -1 21638
+D3
+~
+~
+0 -1 21647
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21649
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21659
+D1
+~
+~
+0 -1 21650
+D2
+~
+~
+0 -1 21639
+D3
+~
+~
+0 -1 21648
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21650
+Wandering along the East Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your east, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21660
+D2
+~
+~
+0 -1 21640
+D3
+~
+~
+0 -1 21649
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21651
+Wandering along the West Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your west, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21661
+D1
+~
+~
+0 -1 21652
+D2
+~
+~
+0 -1 21641
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21652
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21662
+D1
+~
+~
+0 -1 21653
+D2
+~
+~
+0 -1 21642
+D3
+~
+~
+0 -1 21651
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21653
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21663
+D1
+~
+~
+0 -1 21654
+D2
+~
+~
+0 -1 21643
+D3
+~
+~
+0 -1 21652
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21654
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21664
+D1
+~
+~
+0 -1 21655
+D2
+~
+~
+0 -1 21644
+D3
+~
+~
+0 -1 21653
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21655
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21665
+D1
+~
+~
+0 -1 21656
+D2
+~
+~
+0 -1 21645
+D3
+~
+~
+0 -1 21654
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21656
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21666
+D1
+~
+~
+0 -1 21657
+D2
+~
+~
+0 -1 21646
+D3
+~
+~
+0 -1 21655
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21657
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21667
+D1
+~
+~
+0 -1 21658
+D2
+~
+~
+0 -1 21647
+D3
+~
+~
+0 -1 21656
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21658
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21668
+D1
+~
+~
+0 -1 21659
+D2
+~
+~
+0 -1 21648
+D3
+~
+~
+0 -1 21657
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21659
+Wandering the Garden of Xinge~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21669
+D1
+~
+~
+0 -1 21660
+D2
+~
+~
+0 -1 21649
+D3
+~
+~
+0 -1 21658
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21660
+Wandering along the East Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your east, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D0
+~
+~
+0 -1 21670
+D2
+~
+~
+0 -1 21650
+D3
+~
+~
+0 -1 21659
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21661
+Wandering along the North-West Corner~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north and west, a huge, vine-covered wall stands defying the
+ravages of time.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21662
+D2
+~
+~
+0 -1 21651
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21662
+Wandering along the North Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21663
+D2
+~
+~
+0 -1 21652
+D3
+~
+~
+0 -1 21661
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21663
+Wandering along the North Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21664
+D2
+~
+~
+0 -1 21653
+D3
+~
+~
+0 -1 21662
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21664
+Wandering along the North Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21665
+D2
+~
+~
+0 -1 21654
+D3
+~
+~
+0 -1 21663
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21665
+Wandering along the North Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north, a huge, vine-covered wall stands defying the ravages of
+time.  Set into the wall is a heavy iron gate.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21666
+D2
+~
+~
+0 -1 21655
+D3
+~
+~
+0 -1 21664
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+E
+gate~
+The gate is made of heavy, rusted iron.  A hand-painted sign hangs on the
+it.
+~
+E
+sign~
+The sign reads, "THE CITY IS CLOSED FOR REPAIRS".  Beyond the bars you can
+see an immense city and a castle off in the distance.  The sounds of
+hammers and saws can be heard.  An occasional crack of a slave master's
+whip also pierces the still.
+~
+S
+#21666
+Wandering along the North Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21667
+D2
+~
+~
+0 -1 21656
+D3
+~
+~
+0 -1 21665
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21667
+Wandering along the North Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21668
+D2
+~
+~
+0 -1 21657
+D3
+~
+~
+0 -1 21666
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21668
+Wandering along the North Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21669
+D2
+~
+~
+0 -1 21658
+D3
+~
+~
+0 -1 21667
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21669
+Wandering along the North Wall~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north, a huge, vine-covered wall stands defying the ravages of
+time.
+~
+216 0 0 0 0 1
+D1
+~
+~
+0 -1 21670
+D2
+~
+~
+0 -1 21659
+D3
+~
+~
+0 -1 21668
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+#21670
+Wandering along the North-East Corner~
+    You are walking though the Garden of Xinge.  An eerie silence seems to
+press down upon you.  You hear no birds or insects, only the low moan of a
+cold wind blowing through your clothing.  The ground is cracked and
+dust-covered, and wildflowers grow unkempt throughout the area.
+    To your north and east, a huge, vine-covered wall stands defying the
+ravages of time.
+~
+216 0 0 0 0 1
+D2
+~
+~
+0 -1 21660
+D3
+~
+~
+0 -1 21669
+E
+wildflowers ground~
+The plants seem to look at you, a hungry look in their leaves.
+~
+S
+
+
+#21671
+Before the Tower of Xinge~
+    You stand before the great Tower of Xinge.  Rising upwards like a
+rocket, the top disappears into the clouds with a finality that seems to
+spell your doom.  A wooden double door stands before you, a small sign
+below the knocker.
+~
+216 4 0 0 0 2
+D4
+It is too dark to see...
+~
+door wooden~
+2 21601 21672
+D3
+Back to the Garden
+~
+~
+0 -1 21634
+E
+sign~
+The sign reads, "GO BACK, FOOLISH MORTALS."  Cheesy, but effective.
+~
+E
+door~
+It is made of solid oak.
+~
+E
+knocker~
+It is made of polished brass, and shaped like a gargoyle.
+~
+S
+#21672
+Hallway~
+    You are standing on the first floor of the Tower of Dread.  To your
+west lies a glowing door.  To your east is a golden door with a shelf of
+some kind on it.
+~
+216 9 0 0 0 0
+D1
+A heavy golden door blocks your path.  A small shelf of some kind on the
+door seems to be pressure sensitive...
+~
+golden door shelf~
+2 21606 21673
+D3
+The door seems to be alive, and snaps at your hands when you try to open
+it.  Weapons would be useless, but maybe you could kill it another way...
+~
+glowing door~
+2 21609 21674
+D5
+The exit from the Tower lies below you!  Perhaps that should be your
+destination!  The steel door you entered through stands at the entrance.
+~
+door steel~
+0 -1 21671
+D4
+The Tower rises above you.
+~
+up~
+0 -1 21675
+E
+girls dancing~
+What dancing girls?
+~
+S
+#21673
+Abode of Goval, the Demon King's Knight~
+    The room has a dreary evilness to it, and seems to press down on you
+from all sides.  This is where Goval works, and legend has it he is not a
+person you want over for a party.  
+~
+216 8 0 0 0 0
+D3
+The exit back to the hallway.
+~
+door~
+2 21606 21672
+S
+#21674
+Abode of the Mad Wizard, Juroc-Tai~
+    The room is brightly lit from an indeterminate source.  A long table
+is here covered with books and other instruments of wizardly work.  Juroc,
+unfortunately, does not appreciate inturruptions, and plans to explain it
+to you.
+~
+216 8 0 0 0 0
+D1
+The exit back to the hallway.
+~
+door~
+2 21609 21672
+E
+instruments books~
+Unfortunately, because Juroc is mad, his notes are completely unreadable.
+~
+S
+#21675
+Hallway~
+    A musty scent drifts through the room, causing a shiver to crawl up
+and down your spine.  To the east is a pure white door.  To the west is an
+ornate, gold door inlaid with gems.
+~
+216 8 0 0 0 0
+D1
+The door is white for a reason, it is carved from solid bone!
+~
+bone door white~
+2 21604 21676
+D3
+This is perhaps the finest door you have ever seen!  What riches must lie
+beyond...
+~
+door ornate gold gems~
+2 21602 21677
+D4
+The stairway continues upwards.
+~
+up~
+0 -1 21678
+D5
+The starways winds back down the tower.
+~
+down~
+0 -1 21672
+S
+#21676
+The Abode of the Barbarian Lord, Falcon~
+    Falcon, a great barbarian lord from the north, has been held int he
+Tower for years, and had his goodness sapped.  Now he its little more than
+a shell for evil.
+~
+216 8 0 0 0 0
+D3
+The exit back to the hallway.
+~
+door~
+2 21604 21675
+S
+#21677
+The Abode of the Master Jester, Astare~
+    Astare fades from the shadows, his sleep inturrupted...
+~
+216 8 0 0 0 0
+D1
+The exit back to the hallway.
+~
+~
+2 21602 21675
+S
+#21678
+Hallway~
+    Above and below you are the stairs through the tower.  To your west
+lies a wooden door with a small peephole in it.  To your east, you see a
+door with electricity dancing around it.  You think twice before touching
+it.
+~
+216 8 0 0 0 0
+D1
+The electricity around the door prevents you from getting very close.  If
+only you had something to short it out with...
+~
+electricity lightning door~
+2 21610 21679
+D3
+A gruff voice from behind the door says, "Is that you Falcon?  Let me see
+your face so I can let you in."
+~
+peephole door~
+2 21605 21680
+D4
+The stairs go up.
+~
+up~
+0 -1 21681
+D5
+The stairs go down.
+~
+down~
+0 -1 21675
+S
+#216179
+The Abode of Tesla, the mad scientist~
+    Tesla often spends her time in experiements relating to electricity.
+Gadgets and doo-dads and widgets lie strewn all over the room.
+~
+216 8 0 0 0 0
+D3
+The exit back to the hallway.
+~
+door~
+2 21610 21678
+E
+gadgets doodads widgets~
+Far too confusing...
+~
+S
+#21680
+The Abode of the Master Assassin, Sid~
+    You could have sworn you heard someone in here, and yet, nobody can be
+seen, except maybe that shadow over there...
+~
+216 8 0 0 0 0
+D1
+The exit back to the hallway.
+~
+door~
+2 21602 21678
+S
+#21681
+Hallway~
+    Back in the main hallway, the stairs continue up and down.  To your
+east is a plain steel doorway.  To your west is another doorway, with an
+odd keyhole in it.
+~
+216 8 0 0 0 0
+D1
+The door is made of steel, and is very plain looking.
+~
+plain steel door~
+2 21601 21682
+D3
+The door has a hexagonally shaped keyhole to prevent picking.
+~
+hexagonal door odd keyhole~
+2 21608 21683
+D4
+The stairs go up.
+~
+up~
+0 -1 21684
+D5
+The stairs go down.
+~
+down~
+0 -1 21678
+E
+stairs~
+The stairs go up and down from here.
+~
+S
+#21682
+The Abode of the King's Thief, Pilfer~
+    This room is hip deep in junk that Pilfer has "collected" through the
+years.  If you had time, maybe you could find some useful stuff, but as it
+is, you are a little busy.
+~
+216 8 0 0 0 0
+D3
+The exit back to the hallway.
+~
+door~
+2 21601 21681
+E
+junk~
+You don't have time to plow through it all.
+~
+S
+#21683
+The Abode of Dargon, the King's Sherriff~
+    This is a well-kept room, with the windows thrown open, allowing a
+fresh breeze through.  However, there is still a strange, almost chilling
+feeling here, as if you are being watched.
+~
+216 8 0 0 0 0
+D1
+The exit back to the hallway.
+~
+door~
+2 21608 21681
+S
+#21684
+Hallway~
+    You have reached the top landing of the tower.  Above you is a short
+flight of stairs leading to a set of double doors.  To your east is a
+blood-red doorway, beyond which can be heard chanting.  West lies a
+humming door.
+~
+216 393224 0 0 0 0
+D1
+The door seems to be covered in blood.
+~
+blood door red~
+2 21607 21685
+D3
+The door vibrates to your touch.
+~
+humming vibrating vibrate door~
+2 216103 21686
+D4
+The doors are made of crystal.  There is a small opening where it seems
+another crystal should be placed.
+~
+crystal door double stairs~
+2 21611 21687
+D5
+The stairs head back down the tower.
+~
+down~
+0 -1 21681
+S
+#21685
+The Abode of the Mad Priest~
+    It has been said that once Father Mathias was a kind, gentle soul.  It
+has also been said that his corruption was caused by a demonic possession
+or some such.
+~
+216 8 0 0 0 0
+D3
+The exit back to the hallway.
+~
+exit door~
+2 21607 21684
+S
+#21686
+The Abode of the Fallen Knight~
+    Huor, The Grand Knight, was once a protector of the realm, the saviour
+of the people, and the hero to young maidens everywhere.  Now he has
+fallen to the depths of evil and dispair.
+~
+216 8 0 0 0 0
+D1
+The exit back to the hallway.
+~
+exit door~
+2 21603 21684
+S
+#21687
+The Abode of the Dread Lord, the mad wizard Fiskral~
+    You ascend the final set of stairs and enter the top of the tower.
+The room is cluttered with instruments of magic and mayhem.  In one corner
+is a shelf of books, in another a torturer's rack.  Fiskral certainly has
+a lot of hobbies.  Above you is a glowing sphere of some kind, lighting
+the room.
+    Behind you, the crystal doors slam shut and click locked.  You are
+TRAPPED! 
+~
+216 8 0 0 0 0
+E
+books shelf~
+They appear to be written in gibberish.
+~
+E
+rack~
+Many a soul has been made taller on the rack.
+~
+E
+sphere light~
+It lights up the room.
+~
+E
+doors crystal~
+The have sealed themselves with a doom-like finality.
+~
+S
+#21690
+S
+One the road to Xinge~
+    You are taveling down the road to the City of Xinge.  Little has been
+heard from the city in recent months, as if all communication has been cut
+off.
+    The road continues north and south.
+~
+216 0 0 0 0 4
+D0
+~
+~
+0 -1 21691
+S
+#21691
+One the road to Xinge~
+    You are taveling down the road to the Xity of Xinge.  The road
+continues north and south.
+~
+216 0 0 0 0 4
+D0
+~
+~
+0 -1 21692
+D2
+~
+~
+0 -1 21690
+S
+#21692
+One the road to Xinge~
+    You are taveling down the road to the Xity of Xinge.  The road
+continues east and south.
+~
+216 0 0 0 0 4
+D1
+~
+~
+0 -1 21693
+D2
+~
+~
+0 -01 21691
+S
+#21693
+One the road to Xinge~
+    You are taveling down the road to the Xity of Xinge.  The road
+continues east and west.
+~
+216 0 0 0 0 4
+D1
+~
+~
+0 -1 21694
+D3
+~
+~
+0 -1 21692
+S
+#21694
+One the road to Xinge~
+    You are taveling down the road to the Xity of Xinge.  The road
+continues north and west.
+~
+216 0 0 0 0 4
+D0
+~
+~
+0 -1 21695
+D3
+~
+~
+0 -1 21693
+S
+#21695
+One the road to Xinge~
+    You are taveling down the road to the Xity of Xinge.  The road
+continues north and south.
+~
+216 0 0 0 0 4
+D0
+~
+~
+0 -1 21696
+D2
+~
+~
+0 -1 21694
+S
+#21696
+One the road to Xinge~
+    You are taveling down the road to the Xity of Xinge.  The road
+continues north and south.
+~
+216 0 0 0 0 4
+D0
+~
+~
+0 -1 21697
+D2
+~
+~
+0 -1 21695
+S
+#21697
+One the road to Xinge~
+    You are taveling down the road to the Xity of Xinge.  The road
+continues north and south.
+~
+216 0 0 0 0 4
+D0
+~
+~
+0 -1 21698
+D2
+~
+~
+0 -1 21696
+S
+#21698
+One the road to Xinge~
+    You are taveling down the road to the Xity of Xinge.  The road
+continues east and south.
+~
+216 0 0 0 0 4
+D1
+~
+~
+0 -1 21699
+D2
+~
+~
+0 -1 21697
+S
+#21699
+Before the Entrance to the Gardens~
+    You stand before the gates to the Garden of Xinge.  Beyond the gates
+you can see the once-beautiful gardens have fallen into disrepair.  
+~
+216 0 0 0 0 4
+D0
+The gardens lie on the other side of the gate.~
+gate iron~
+1 0 21601
+D3
+~
+~
+0 -1 21698
+E
+gate iron~
+It has become rusted and is in poor repair, but you can probably swing it
+open.
+~
+S
+#99999
+$~
+

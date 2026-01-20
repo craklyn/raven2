@@ -1,0 +1,4895 @@
+#4600
+The UnderWorld~
+This area (4601-4808) was written by builder unknown. If you should happen
+to know who did write it, please include them in the credits here and in
+the area listing. The area is really a collection of areas, inhabited by
+Kuo-Toans, Duergar and all manner of subterranean monsters. Equipment here
+is oriented towards the warrior and cleric classes for the most part.
+
+Modified by Vex 30/12/95 for RavenMud
+~
+46 8 0 0 0 0 255 0
+E
+la-la-la~
+te-ge
+~
+S
+#4601
+An Underground River~
+   The current in this side branch is a bit stronger than it was back
+to the east, bending here from the east to the south.  The gradual 
+curve of the cave-tunnel here makes the river's course change much
+less violent, without a lot of splashing and turbulence.
+~
+46 9 0 0 0 7 255 0
+D1
+The river's fork is there.
+~
+~
+0 0 4670
+D2
+The river flows along a straighter path there.
+~
+~
+0 0 4606
+E
+river water~
+The river is very cold and crystal clear.  Along with thick humidity, 
+the mild odor of subterranean minerals wafts off the water as it flows 
+through the cavern.  The river's water is probably cleaner than any
+you've seen on the surface world.
+~
+S
+#4602
+An Underground River~
+   The river's current is less turbulent in this side branch, becoming 
+both wider and calmer to the east.  Several large stalagmites rise up 
+above the water level here, causing dozens of tiny whirlpools as the 
+river flows slowly by.  The purple illuminating fungus has also returned 
+in this section of the cavern, clinging to the walls and ceiling high 
+above.
+~
+46 8 0 0 0 7 255 0
+D1
+The river continues in that direction.
+~
+~
+0 0 4603
+D3
+The river's fork is there.
+~
+~
+0 0 4670
+E
+river water~
+The river is very cold and crystal clear.  Along with thick humidity, 
+the mild odor of subterranean minerals wafts off the water as it flows 
+through the cavern.  The river's water is probably cleaner than any
+you've seen on the surface world.
+~
+E
+fungus purple~
+The fungus resembles a mutated ivy that easily clings to the walls.  Its 
+purplish glow probably comes from a chemical reaction of some sort within 
+its tiny stems.  This fungus looks as if it's been here a long time.
+~
+S
+#4603
+An Underground River~
+   The river widens a bit here bulging out to about thirty feet in size,
+slowing the river's current even further.  The river flows into a large
+cavern to the east, and narrows a bit to the west.  A single, huge 
+stalagmite rises out of the river almost the to caverns ceiling here,
+with its upper most peak covered in glowing purple fungus.
+~
+46 8 0 0 0 7 255 0
+D1
+The river flows into a large cavern there.
+~
+~
+0 0 4604
+D3
+The river continues there.
+~
+~
+0 0 4602
+S
+#4604
+Large Cavern~
+   The river comes to an end here in this large cavern, which must be
+three hundred feet in diameter.  The water occupies about half of the 
+cavern's total area, with the only visible shore line being a small ledge 
+to the south.  There is an indentation in the water at the center of the 
+cavern here, with water slowly spinning around it in a gentle whirlpool, 
+indicating that the river probably empties through a hole at the bottom
+of the cavern.
+~
+46 8 0 0 0 7 255 0
+D2
+The ledge leads back into darkness.
+~
+~
+0 0 4605
+D3
+The river continues through the cavern's opening there.
+~
+~
+0 0 4603
+S
+#4605
+Huge, Rocky Ledge~
+   This ledge is about seventy feet long and fifty feet deep with no visible 
+exits other than the river to the south.  The area is cluttered with stones 
+and small stalagmites, accompanied by larger boulders to the rear of the
+ledge.  Strangely, there is none of the glowing fungus in this area of the
+cavern.
+~
+46 9 0 0 0 2 255 0
+D0
+The water-filled cavern is there.
+~
+~
+0 0 4604
+S
+#4606
+An Underground River~
+   The river gets a little wider here, spanning about thirty feet or 
+so across, and flows quietly on from north to south.  There are allot 
+of stalactites in this cavern, looking like huge glowing spikes from the 
+purple fungus covering them.  The river gets wider still to the south.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues on a narrower path there.
+~
+~
+0 0 4601
+D2
+The river gets a bit wider in that direction.
+~
+~
+0 0 4607
+S
+#4607
+An Underground River~
+   The river expands to nearly forty feet in width here, flowing slowly
+from north to south.  The cavern containing the river only reaches up 
+about twenty feet above the water line, and continues at this height to 
+the south for a considerable distance.  There is a strange smell on the 
+air similar to that of small plants or mushrooms.  A large side cavern 
+branches off to the east here onto dry land.
+~
+46 72 0 0 0 7 255 0
+D0
+The river gets a bit narrower there.
+~
+~
+0 0 4606
+D1
+The floor of that cavern is covered in mushrooms.
+~
+~
+0 0 4608
+D2
+The river continues there.
+~
+~
+0 0 4610
+S
+#4608
+Cavern of Mushrooms~
+   The floor of this cavern is completely covered with huge mushrooms,
+each about a foot high.  The mushrooms are green with purplish streaks
+running down their tops.  The cavern is wide, but only twenty to thirty 
+feet tall, and continues on to the east.  The glowing fungus is very 
+abundant here, with the river flowing quietly by to the west.
+~
+46 8 0 0 0 2 255 0
+D1
+The mushroom cavern continues.
+~
+~
+0 0 4609
+D3
+The underground river is there.
+~
+~
+0 0 4607
+S
+#4609
+Cavern of Mushrooms~
+   The floor of this cavern is completely covered with huge mushrooms,
+each about a foot high.  The mushrooms are so dense here that traveling
+across the cavern here is impossible without crushing one with every step. 
+The cavern is wide, but only twenty to thirty feet tall, and continues 
+back to the west.  The glowing fungus is very abundant here.
+~
+46 8 0 0 0 2 255 0
+D3
+The mushroom cavern continues there.
+~
+~
+0 0 4608
+D4
+~
+~
+0 0 4110
+S
+#4610
+An Underground River~
+   The river expands to nearly forty feet in width here, flowing slowly
+from north to south.  The cavern containing the river only reaches up 
+about twenty feet above the water line, and continues at this height to 
+the south for a considerable distance.  There is a strange smell in this 
+area similar to that of small plants or mushrooms.  A large side cavern 
+branches off to the west here onto dry land.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues..
+~
+~
+0 0 4607
+D2
+The river continues..
+~
+~
+0 0 4612
+D3
+The floor of that cavern is covered in mushrooms.
+~
+~
+0 0 4611
+E
+river water~
+The river is very cold and crystal clear.  Along with thick humidity, 
+the mild odor of subterranean minerals wafts off the water as it flows 
+through the cavern.  The river's water is probably cleaner than any
+you've seen on the surface world.
+~
+S
+#4611
+Cavern of Mushrooms~
+   Large green mushrooms cover every inch of this small cavern,
+numbering in the hundreds.  The glowing purple fungus is so thick 
+on the walls and ceiling here that the area is almost bright.  
+There are no exits from this cave except back to the east where 
+the river continues it's southerly march.
+~
+46 8 0 0 0 2 255 0
+D1
+The river flows quietly by there.
+~
+~
+0 0 4610
+S
+#4612
+An Underground River~
+   The river flows in a general north-to-south course here, with a sizable
+cavern heading off to the west onto dry land.  A mammoth stalactite that 
+broke loose from the ceiling has split the river in two here, rising out of 
+the water like a huge fallen icicle.  The humid air is filled with the smells 
+of subterranean minerals.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4610
+D2
+The river continues.
+~
+~
+0 0 4615
+D3
+The floor of that cavern is covered in mushrooms.
+~
+~
+0 0 4613
+S
+#4613
+Cavern of Mushrooms~
+   This huge cavern resembles a giant funnel, tapering off further to the 
+west with it's wide end opening upon the river east of here.  Thousands
+of large, green mushrooms crowd the floor of this entire area taking
+on the image of an endless purple-green forest.  Hundreds of tiny
+sharp stalactites hang from the ceiling of this odd shaped cavern.
+~
+46 8 0 0 0 2 255 0
+D1
+The river flows quietly by there.
+~
+~
+0 0 4612
+D3
+The mushroom cavern continues further on in that direction.
+~
+~
+0 0 4614
+S
+#4614
+End of a Cavern filled with Mushrooms~
+   This great funnel-like cavern comes to an end here, with purple-green
+mushrooms occupying every square inch of the floor.  The cavern narrows 
+further still to the west, though it has become to small for humanoids 
+to travel through.  The cavern opens up wider to the east.  A trickle of 
+water splashes down onto a trap door from a small crack in the ceiling.
+~
+46 8 0 0 0 2 255 0
+D1
+The mushroom cavern continues.
+~
+~
+0 0 4613
+D3
+~
+~
+0 -1 -1
+D5
+you see a trap door
+~
+trap door~
+1 0 11862
+S
+#4615
+An Underground River~
+   The river becomes much narrower here, as the cavern containing it
+thins out to about twenty feet in width.  The water's current has also
+picked up as a result, making northerly travel more difficult by boat.
+A small shore on the river's east side leads into a tiny cavern, while 
+the river trudges on from north to south.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4612
+D1
+The tiny cavern is covered in mushrooms.
+~
+~
+0 0 4616
+D2
+The river gets narrower still in that direction.
+~
+~
+0 0 4617
+S
+#4616
+Tiny Cavern of Mushrooms~
+   This ten foot wide cavern more resembles a small cave, with a dozen
+or so purple-green mushrooms collected at it's center.  Almost none of the 
+glowing fungus grows here, possibly as a result of the cracks scarring 
+the ceiling from which a cool draft blows.  The cave has no visible exits 
+other then the river to the west.  
+~
+46 9 0 0 0 2 255 0
+D3
+The river flows quietly by there.
+~
+~
+0 0 4615
+S
+#4617
+An Underground River~
+   The river gets much thinner and more swift here, with it's host cavern
+spanning only about fifteen feet in width.  Two fifty foot long stalactites
+hang next to each other from the ceiling, diving into the wider like a
+pair of great fangs with the river rushing by between them.  To the south, 
+it looks as though the river runs strait into a cavern wall, and to the north 
+it gets a bit wider.  A very small tunnel leads away from the river to the 
+west.
+~
+46 8 0 0 0 7 255 0
+D0
+The river gets a bit wider there.
+~
+~
+0 0 4615
+D2
+The river comes to an end just up ahead there.
+~
+~
+0 0 4618
+D3
+The small tunnel leads into darkness.
+~
+~
+0 0 4619
+S
+#4618
+Sharp Turn in an Underground River~
+   The river curves around here as it runs into a sloped wall, heading
+down stream to the east.  Mist sprays up into the air as the water 
+impacts against the wall, and drips down from hundreds of small
+stalactites on the ceiling.  The humid air is very warm here, making 
+the cavern hot and somewhat uncomfortable.  To the north, the river
+continues beyond the range of sight.
+~
+46 8 0 0 0 7 255 0
+D0
+The river gets a bit wider there.
+~
+~
+0 0 4617
+D1
+The river continues in that direction.
+~
+~
+0 0 4802
+S
+#4619
+Rounded Tunnel~
+   This eight foot tall tunnel looks as though it might have been an 
+offshoot of the river at one time that has now gone dry.  The eastern 
+wall of this cave resembles a huge flat rock that collapsed from the 
+ceiling above.  The river flows rapidly by to the east spraying mist 
+into the air.  There is none of the glowing fungus here, making it 
+very dark.
+~
+46 9 0 0 0 2 255 0
+D1
+The river flows quietly by there.
+~
+~
+0 0 4617
+D2
+Nothing special there...
+~
+rock flat~
+1 0 4620
+E
+rock flat~
+Upon closer examination, the rocks true nature is revealed.  This 
+is no natural feature of the tunnel at all, but more a very cleverly 
+concealed door whose seams are barely visible.
+~
+S
+#4620
+Cavern of Mushrooms~
+   Hundreds of purple-green mushrooms cover almost the entire 
+floor of this large cavern.  A five foot swath has been cut away 
+running strait through the middle of the mushrooms, forming a 
+trail through the tiny forest that follows the cavern around from 
+west to south.  Several thin stalagmites pierce upwards towards
+the ceiling here, each with a razor sharp tip.  The trail looks 
+as though it was made by someone.
+~
+46 9 0 0 0 2 255 0
+D0
+Nothing special there...
+~
+rock flat~
+1 0 4619
+D2
+The cavern continues in that direction.
+~
+~
+0 0 4623
+D3
+The cavern continues in that direction.
+~
+~
+0 0 4621
+S
+#4621
+T-Intersection in a Cavern of Mushrooms~
+   Three caverns join together here to form a T-intersection, with
+forks running to the north, east, and south.   Mushrooms cover 
+the floor, though a small path has been carved out in the center
+of the cavern making travel a bit easier.  Several large stalactites
+hang ominously from the ceiling above.
+~
+46 8 0 0 0 2 255 0
+D0
+The smallest of the three caverns runs in that direction.
+~
+~
+0 0 4622
+D1
+The mushroom cavern continues there.
+~
+~
+0 0 4620
+D2
+The mushroom cavern continues there.
+~
+~
+0 0 4627
+S
+#4622
+Small Cavern of Mushrooms~
+   Hundreds of tiny stalactites hang from this small cavern, which is
+about twenty feet in diameter.  A huge mass of sticky, black webs hang 
+from the walls of this small cave, looking similar to a giant spiders nest.  
+An unpleasant odor that fills the air, smelling of rotting meat and body odor. 
+~
+46 9 0 0 0 2 255 0
+D2
+The mushroom cavern continues there.
+~
+~
+0 0 4621
+E
+web webs~
+The webs are black with strands about an inch thick.  An unpleasant
+odor rises off of a sticky material that coats the webs.
+~
+S
+#4623
+Long Cavern of Mushrooms~
+   This long, narrow cavern heads in a north-south direction opening
+into a huge area on it's southern end.  Dozens of stalactites and 
+stalagmites decorate the area, with flakes of sub terrain minerals
+glistening in the light.  The entire floor of the cavern is covered 
+with purple-green mushrooms whose growth seems only limited by
+the amount of space available.
+~
+46 9 0 0 0 2 255 0
+D0
+The mushroom cavern continues there.
+~
+~
+0 0 4620
+D2
+The cavern opens into a mammoth cavern there.
+~
+~
+0 0 4624
+S
+#4624
+Mammoth Cavern~
+   The height of this immense cavern is stunning, reaching up almost 
+beyond the range of sight.  What is more amazing is that thousands of
+crystalline formations cover the walls and floor of this entire area, each
+looking like a beautiful plant made from tan-colored crystals.  The smell
+of subterranean minerals permeates the air, and a cool draft blows in 
+from somewhere.  The beauty of this place is awe inspiring, continuing
+on in the cavern west of here.
+~
+46 9 0 0 0 1 255 0
+D0
+A smaller cavern branches off there.
+~
+~
+0 0 4623
+D3
+The mammoth cavern continues in that direction.
+~
+~
+0 0 4625
+E
+crystal formation plant~
+The plants are each about five feet in size with thick stubby leaves
+of tan-colored minerals sprouting outwards, looking like plants made
+from pure crystal.  It must have taken millions of years for such a 
+beautiful thing to take form.
+~
+S
+#4625
+Mammoth Cavern~
+   This great cavern is bit smaller than the one east of here, but no less
+stunning.  A huge formation of tan-colored minerals occupies the center
+of this place, and must be thirty feet in diameter.  The formation is
+simply stunning and very delicate looking, with hundreds of stubby
+leaf-like spikes popping outwards from the formation's midsection.
+The unimaginable amount of time it must have taken for this crystalline 
+tree to form serves as a stern reminder of just how far underground this 
+cavern really is, with a beauty that would be hard to match on the surface 
+world.  The cavern continues on to the east and west.
+~
+46 9 0 0 0 1 255 0
+D1
+The mammoth cavern continues.
+~
+~
+0 0 4624
+D3
+The mammoth cavern continues.
+~
+~
+0 0 4626
+E
+crystal formation plant~
+The huge plant is nearly twenty feet tall and thirty feet in diameter.
+It's hundreds of leaves are each about six inches thick, protruding
+outwards like the stems of a bush.  How something so beautiful and 
+delicate could have formed simply boggles the imagination.
+~
+S
+#4626
+Huge Crystalline Cavern~
+   This incredibly foot tall cavern extends to east a considerable distance.  
+Huge areas of the cavern wall here are composed of glittering crystals of 
+many different varieties, reflecting light across every color of the spectrum.
+Some of them look as smooth and clear as glass, while others resemble 
+beautiful plant-like formations.  There is also a much smaller cavern 
+opening to the north.
+~
+46 521 0 0 0 1 255 0
+D0
+The smaller cavern is coated with purple-green mushrooms.
+~
+~
+0 0 4628
+D1
+The mammoth cavern continues in that direction.
+~
+~
+0 0 4625
+S
+#4627
+Low Cavern of Mushrooms~
+   This cavern is only about ten feet high, with large purple-green 
+mushrooms covering every inch of the floor.  Dozens of large stalactites 
+and stalagmites connect the floor and ceiling together, making this cavern 
+look like the inside of huge mouth.  There are exits to the north and west 
+of here.
+~
+46 8 0 0 0 3 255 0
+D0
+The mushroom cavern gets a little larger in that direction.
+~
+~
+0 0 4621
+D3
+The mushroom cavern gets a little larger in that direction.
+~
+~
+0 0 4628
+S
+#4628
+Cavern of Mushrooms~
+   Hundreds of mushrooms occupy this cavern, surrounding several very 
+large stalagmites that climb into the air seventy feet.  The area is 
+well illuminated by the glow of purple fungus, revealing further caverns 
+to the east and west.  A small opening leads south into a very large area,
+and a hole in the ceiling leading upwards.
+~
+46 9 0 0 0 2 255 0
+D1
+The mushroom cavern continues there.
+~
+~
+0 0 4627
+D2
+The opening is about eight feet in diameter.
+~
+~
+0 0 4626
+D3
+The mushroom cavern gets a bit smaller there.
+~
+~
+0 0 4629
+D4
+The hole leads into a small cave.
+~
+~
+0 0 4787
+S
+#4629
+Cavern of Mushrooms~
+   This cavern is much smaller than the one to the east, about thirty 
+feet across and twenty feet tall.  The glowing fungus is less prevalent
+here, probably accounting for the reduced number of mushrooms which are 
+scattered about every few feet.  There is a small cave entrance to the 
+north and west, while the mushroom caverns continue back to the east.
+~
+46 8 0 0 0 2 255 0
+D0
+The cave is too dark to see any detail.
+~
+~
+0 0 4630
+D1
+The mushroom cave continues in that direction.
+~
+~
+0 0 4628
+D3
+The cave is too dark to see any detail.
+~
+~
+0 0 4786
+S
+#4630
+Small Cave~
+   This twenty foot cave is covered in black sticky webs from floor 
+to ceiling.  A foul stench pollutes the air of this dark area, as there 
+is none of the glowing fungus here.  This appears to be a lair for 
+some form of arachnid, the only exits being the cavern to the south,
+and a small opening to the north.
+~
+46 9 0 0 0 2 255 0
+D0
+The cave continues.
+~
+~
+0 0 4785
+D2
+The mushroom cavern continues there.
+~
+~
+0 0 4629
+D3
+Nothing special there...
+~
+secret hatch~
+1 0 4631
+E
+web webs~
+The webs are black with strands about an inch thick.  An unpleasant
+odor rises off of a sticky material that coats the webs.
+~
+S
+#4631
+Mysterious Hole~
+   A huge hole leads down into darkness from this tiny chamber.  
+There is a very carefully constructed door leading out to the east, 
+that is probably a secret door from the other side.  On the north 
+wall, the inscription of a large eight legged spider has been carved, 
+which glows with a faint red hue.
+~
+46 9 0 0 0 0 255 0
+D1
+The door looks is circular, leading back into the small cave.
+~
+secret hatch~
+1 0 4630
+D5
+The hole leads into darkness...
+~
+~
+0 0 4731
+E
+carving spider inscription~
+The spider has a fat body connected to eight very long spindly legs, each 
+coming to a sharp point.  There is also a very small magical rune carved
+in the wall, just below the spider in a very elegant, but foreign language.
+Both the spider and rune glow faintly red. 
+~
+S
+#4632
+On a Great Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint and continues on to the north and 
+south.  The area is illuminated in a pale light by a strange, purple 
+glowing fungus that covers the walls and ceiling of the cavern.  There 
+is a small patch of land to the west.
+~
+46 12 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4671
+D2
+The river continues.
+~
+~
+0 0 4633
+S
+#4633
+On a Great Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint, and continues on to the north and 
+south.  The area is illuminated in a pale light by a strange, purple 
+glowing fungus that covers the walls and ceiling of the cavern.
+~
+46 12 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4632
+D2
+The river continues.
+~
+~
+0 0 4634
+S
+#4634
+On a Great Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint, and continues on to the north 
+and south.  The area is illuminated in a pale light by a strange, 
+purple glowing fungus that covers the walls and ceiling of the cavern.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4633
+D2
+The river continues.
+~
+~
+0 0 4789
+S
+#4635
+On a Great Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint, and continues on to the north 
+and south.  The area is illuminated in a pale light by a strange, 
+purple glowing fungus that covers the walls and ceiling of the cavern.
+~
+46 12 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4794
+D2
+The river continues.
+~
+~
+0 0 4636
+S
+#4636
+The Wide Underground River~
+   The river widens here noticeably, expanding its breadth to nearly 
+eighty feet.  The larger cavern rises about a hundred feet higher than 
+the water line, and is completely covered with the same glowing purple 
+fungus.  The  water's color has darkened some, indicating that it has 
+also become much deeper.  The river continues on its north-south 
+course, with a small branch leading into a side cavern west of here.
+~
+46 8 0 0 0 7 255 0
+D0
+The river narrows, and continues onward.
+~
+~
+0 0 4635
+D2
+The widened river continues.
+~
+~
+0 0 4642
+D3
+The side cavern looks much smaller and less turbulent.
+~
+~
+0 0 4637
+S
+#4637
+Side Cavern on an Underground River~
+   This small cavern is perhaps thirty feet high and fifty feet long.  
+The river ends upon a small rocky shore on its western end, which opens 
+into a cave beyond.  The purplish fungus seems less abundant here.  The 
+great underground river runs back to the east.
+~
+46 8 0 0 0 7 255 0
+D1
+The river continues there.
+~
+~
+0 0 4636
+D3
+You see a small, dark cave.
+~
+~
+0 0 4638
+S
+#4638
+Mossy Cave~
+   This rather cramped cave is covered from floor to ceiling with a 
+thick, green moss that has overgrown the glowing fungus making the 
+area dark.  The sounds of running water can be heard to the east, and 
+the cave continues to the west.  The smell of rotting plants sits 
+heavily on the air.
+~
+46 9 0 0 0 3 255 0
+D1
+You can make out a river in that direction.
+~
+~
+0 0 4637
+D3
+The cave continues.
+~
+~
+0 0 4639
+E
+moss~
+This thick moss produces a very unpleasant odor that resembles decayed 
+or rotting plants, and completely covers the area.
+~
+S
+#4639
+Slime Covered Cave~
+   This cavern is large, about seventy feet tall and fifty feet across.  
+Many large stalactites and stalagmites hang from the floors and ceiling.  
+A thick green slime covers most of the cavern, producing a horrible smell 
+that resembles rotting plants.  The cavern continues to the north and 
+south, with a small cave opening to the east.
+~
+46 9 0 0 0 3 255 0
+D0
+The cavern continues.
+~
+~
+0 0 4640
+D1
+The cavern opens onto a smaller cave there.
+~
+~
+0 0 4638
+D2
+The cavern continues.
+~
+~
+0 0 4641
+E
+moss~
+This thick moss produces a very unpleasant odor that resembles decayed 
+or rotting plants, and completely covers the area.
+~
+S
+#4640
+Slime Covered Cave~
+   This cavern is large, about seventy feet tall and fifty feet across.  
+Many large stalactites and stalagmites hang from the floors and ceiling.  
+A thick green slime covers most of the cavern, producing a horrible smell 
+that resembles rotting plants.  The cavern continues back to the south.
+~
+46 9 0 0 0 3 255 0
+D2
+The cavern continues.
+~
+~
+0 0 4639
+S
+#4641
+Huge Slimy Cavern~
+   This immense cavern must be three hundred feet in length, and a hundred 
+feet high.  Great stalactites hang ominously from the ceiling.  The thick 
+green moss covers most of the caverns' walls and ceiling.  The air in this 
+large area is stale and unpleasant, as the rotting smell is much thicker.
+~
+46 9 0 0 0 3 255 0
+D0
+The cavern continues.
+~
+~
+0 0 4639
+S
+#4642
+On the Wide Underground River~
+   This eighty foot wide river flows in a north to south direction, 
+cutting a great path down the middle of this huge cavern that must be 
+as least five hundred feet tall.  The waters are less turbulent in this 
+wider section of the river than they are to the north.  A purple glowing 
+fungus illuminates the entire cavern, covering every wall and the whole 
+ceiling.  Several stone huts or dwellings to the south indicate that this 
+cavern must house a settlement of some kind. 
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4636
+D2
+The river continues.
+~
+~
+0 0 4643
+S
+#4643
+On the Wide underground River~
+   The great river slowly flows from north to south, down the middle of 
+this two thousand foot long cavern.  A very large, flat rock protrudes 
+ten feet out into the river here from the eastern shore, looking something 
+like a crude dock.  There is a sizable village of stone huts on the 
+eastern side of the river, numbering eight or so.  On the western bank, 
+several small pools have been dug into the shoreline.
+~
+46 12 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4642
+D1
+You can see a rocky path way leading away from the shoreline.
+~
+~
+0 0 4647
+D2
+The river continues.
+~
+~
+0 0 4646
+D3
+You can see several small pools of water there on the shoreline.
+~
+~
+0 0 4644
+E
+dock rock~
+The rock looks as if it was definitely carved flat to suit as a crude 
+dock of sorts.  Several stakes have been driven into its top.
+~
+S
+#4644
+Slimy Pool~
+   A large pool of murky, slimy water perhaps twenty feet in diameter 
+sits here, connected to the river by several tiny streams.  The pool is 
+filled with a thick green algae that smells horrible.  The river flows 
+calmly by to the east, and the wall of the great cavern is west of here.  
+There is another pool of slime nearby to the south.
+~
+46 8 0 0 0 2 255 0
+D1
+The river flows slowly by there.
+~
+~
+0 0 4643
+D2
+There is a larger pool in that direction.
+~
+~
+0 0 4645
+E
+algae slime~
+This slimy algae looks as if it is being grown intentionally, either as 
+a food source or for some other unknown purpose.
+~
+S
+#4645
+Large Pool of Slime~
+   This huge pool is completely covered over with a thick slimy algae.  
+It looks as if this smelly sludge is being grown intentionally for some 
+reason.  There is another pool to the north of here, and the river 
+flows by quietly off to the west.
+~
+46 8 0 0 0 2 255 0
+D0
+There is another pool in that direction.
+~
+~
+0 0 4644
+D1
+The river flows by there.
+~
+~
+0 0 4646
+S
+#4646
+On the Wide Underground River~
+   The river flows slowly down this immense cavern from north to south, 
+with a village of some kind off the east.  There is a small stone hut on 
+the eastern bank of the river.  To the west there is a large green 
+pool just off the river's bank.  The entire cavern is illuminated by  
+glowing purple fungus from high above.  To the south the river flows 
+through a tunnel at the caverns end.
+~
+46 12 0 0 0 7 255 0
+D0
+The river continues there.
+~
+~
+0 0 4643
+D1
+You can't make out much detail about the hut from here.
+~
+~
+0 0 4660
+D2
+The river continues there.
+~
+~
+0 0 4668
+D3
+There is a pool of green liquid there.
+~
+~
+0 0 4645
+S
+#4647
+Pathway to the Village~
+   The rocky ground here has been cut more smoothly than the surrounding 
+natural curves and slopes of the cavern, creating a crude pathway.  The 
+path leads from the river's edge eastward, into a small village of stone 
+huts.  There are also stone huts directly to the north and south of here, 
+each standing fifteen about ten feet tall.  No entrances can be seen on 
+this side of them to go in through.
+~
+46 8 0 0 0 2 255 0
+D1
+You can see the village there.
+~
+~
+0 0 4648
+D3
+The river flows slowly by there.
+~
+~
+0 0 4643
+S
+#4648
+Pathway in a Kuo-Toan Village~
+   The pathway is cut smooth out of the natural curving ground of the 
+cavern, running to the north, west, and south.  Stone huts of many 
+different sizes comprise this crude village, most of them with only 
+one entryway.  It looks as if the kuo-toans have lived here for a long 
+time, having carved several large grotesque images of unknown monsters 
+in the cavern's floor along the pathway here.  An eighty foot tall 
+stalagmite climbs into the air at the path's end, also covered with 
+small carvings.
+~
+46 8 0 0 0 2 255 0
+D0
+The crude pathway continues.
+~
+~
+0 0 4649
+D2
+The crude pathway continues.
+~
+~
+0 0 4661
+D3
+The pathway leads back towards the river in that direction.
+~
+~
+0 0 4647
+E
+stalagmite~
+The stalagmite is carved with many lines of text, all in the foreign
+kuo-toa dialect.
+~
+S
+#4649
+Pathway in a Kuo-Toan Village~
+   A large picture of a horrid looking monster, perhaps twenty feet in 
+size is engraved into the floor of the cavern here.  There are two stone 
+huts nearby, with entry ways to the north and west.  These particular 
+huts do not appear to have doors.  The pathway runs back to the south, 
+and a large pond is just east of here.
+~
+46 8 0 0 0 2 255 0
+D0
+It is too dark to see what is inside the hut.
+~
+~
+0 0 4651
+D1
+The pond is rather large.
+~
+~
+0 0 4652
+D2
+The pathway continues.
+~
+~
+0 0 4648
+D3
+It is too dark to see what is inside the hut.
+~
+~
+0 0 4650
+E
+picture monster~
+The image is of a god, or deity that is definitely not humanoid.  It is 
+green with many spindly tentacles protruding outwards.  The hideous 
+thing has several eyes all the way around it's head, and no hair.  
+It stands on three trunk-like legs with webbed feet.
+~
+S
+#4650
+Small Stone Hut~
+   This hut stands about fifteen feet tall, twenty feet long, and is roughly 
+square with a flat roof.  Crude images have been painted on the walls of 
+kuo-toan's in different scenes.  Several pieces of stone furniture line 
+the edges of this place.  There is a small window in the south wall and 
+an opening leading out to the east.
+~
+46 9 0 0 0 2 255 0
+D1
+The opening leads back onto the street outside.
+~
+~
+0 0 4649
+E
+window~
+The small window affords an excellent view of the village beyond.
+~
+E
+stone furniture~
+There are no beds here, though several long benches shoved against
+walls look as though they have been slept on.  A very low, stone table 
+occupies the center of the room.
+~
+E
+painting images image~
+The images look more like a child's scribbling, with stick figures
+pictured in battle or just walking around.  Some of the images 
+however are much more elaborate, of older looking kuo-toans
+as well as a few symbols or crests.
+~
+S
+#4651
+Small Stone Hut~
+   This hut stands about fifteen feet tall, twenty feet long, and is roughly 
+square with a flat roof.  Crude images have been painted on the walls of 
+kuo-toan's in different scenes.  Several pieces of stone furniture line 
+the edges of this place.  There is a small window in the south wall and 
+an opening leading out to the south.
+~
+46 9 0 0 0 2 255 0
+D2
+The opening leads back onto the street outside.
+~
+~
+0 0 4649
+S
+#4652
+Large, Shallow Pond~
+   This scummy, murky pond smells horrible.  A thick layer of green 
+sludge covers the surface of the water that spans roughly fifty feet 
+in diameter, and is about four feet deep.  There is a big stone 
+hut next to the pond's north edge, and a larger pond connecting to 
+the east of here.  The stone pathway is back to the west.
+~
+46 8 0 0 0 2 255 0
+D0
+The big stone hut doesn't seem to have a door barring entrance.
+~
+~
+0 0 4653
+D1
+The pond looks a bit cleaner there.
+~
+~
+0 0 4654
+D3
+You can see the stone pathway there.
+~
+~
+0 0 4649
+S
+#4653
+Large Stone Hut~
+   This larger single-room dwelling is about twenty feet tall and eighty 
+feet long from here to its eastern end.  Many pieces of crude stone 
+furniture occupy this place, decorated by dozens of paintings and 
+carvings on the stone walls, all done in dark colors.  It would seem 
+that this place is the home for the more well-to-do Kuo-Toan's.  The 
+building continues to the east, with it's only exit being the one south.
+~
+46 12 0 0 0 2 255 0
+D1
+The building continues there.
+~
+~
+0 0 4655
+D2
+You can make out a pond there.
+~
+~
+0 0 4652
+E
+painting paintings carving carvings~
+The paintings and carvings here all depict Kuo-Toan's in battle 
+against various foes of the underworld, or likenesses of more 
+old and noble looking members of the race.  They are all hand 
+painted or carved directly onto the walls, and look very old.
+~
+S
+#4654
+Large Pond~
+   This pond is much deeper looking than the one to the west of here, 
+and considerably more clean.  It looks artificial, with a small shore 
+carved smooth leading all the way around its one hundred foot perimeter.
+There's a very odd structure to the south, with a smaller pond connecting 
+up to the west.
+~
+46 8 0 0 0 7 255 0
+D2
+There is some kind of altar there.
+~
+~
+0 0 4657
+D3
+You can make out a smaller pond there.
+~
+~
+0 0 4652
+S
+#4655
+Eastern end of a Large Stone Hut~
+   This side of the large hut is less lavishly furnished, and seems more 
+dedicated more to the storage of equipment than to relaxation.  Several 
+weapons racks line the walls, accompanied by a number of large wooden 
+crates, that all look very heavy.  The hut continues to the west, while 
+a small stone door is set in the eastern wall.
+~
+46 8 0 0 0 2 255 0
+D1
+The door is about five feet tall without a lock.
+~
+door~
+1 0 4656
+D3
+The large hut continues in that direction.
+~
+~
+0 0 4653
+E
+furniture furnishings~
+A very long stone couch is set against the south wall.
+~
+E
+rack racks~
+The weapons racks each stand about ten feet tall, and are securely 
+fastened to the north wall here.  These racks look as though they
+were designed to hold spears or tridents.
+~
+S
+#4656
+Back Room~
+   The small chamber is unlit, having no windows and a low ceiling.  
+A small table and several wooden chairs occupy the room's center.  
+There are drawings all over the walls, that look like crude battle 
+or defense plans, though only tiny pieces of them have been left
+unerased.  A small tray attached to the northern wall looks as if it 
+once contained chalk or some other writing utensil.  A small door 
+leads out to the west into a room full of wooden crates and racks.
+~
+46 9 0 0 0 2 255 0
+D3
+The small stone door leads back into the hut.
+~
+door~
+1 0 4655
+E
+chairs chair~
+The table and chairs in this room are very simple and cheap looking.  
+They don't look like furniture someone would enjoy a meal on, but 
+more like a table to hold things or for some other purpose.
+~
+S
+#4657
+Shrine of the Kuo-Toa~
+   This small island of land in-between the two pools of water rises about 
+three feet above the waterline.  A large altar has been constructed at its 
+center, covered by a thin stone canopy atop four pillars.  The altar itself 
+is blood stained and decorated with numerous images of grotesque monsters 
+or deities.  Covering every square inch of ground on this tiny island is a
+huge image of the Kuo-Toan god.  There is a smaller hut to the west, 
+and large ponds to the north and south.
+~
+46 8 0 0 0 2 255 0
+D0
+A large pool of water is there.
+~
+~
+0 0 4654
+D2
+A large pool of water is there.
+~
+~
+0 0 4659
+D3
+You see an ornate looking stone hut there.
+~
+~
+0 0 4658
+E
+image images~
+The image is painted in many different colors, some of them glowing.
+The wretched look upon the god's face is horrifying.
+~
+E
+altar~
+The altar looks as if it's been used for sacrificing people to the 
+sickening looking deity pictured on it.  The dried blood on its top 
+look fresh, indicating that someone has probably been killed here 
+recently.
+~
+S
+#4658
+Ornate Stone Hut~
+    This small circular hut stands about eight feet tall and is ten feet 
+in diameter.  The walls are painted black, and covered with magical runes 
+and inscriptions written in some obscure kuo-toan dialect.  A small carved 
+out fire pit occupies the center of the room, accompanied by a small hole in 
+the roof directly above.  This hut looks like a place of worship.  There is 
+a small opening to the east.
+~
+46 12 0 0 0 2 255 0
+D1
+The opening leads back out into the cavern.
+~
+~
+0 0 4657
+E
+fire pit~
+The fire pit is small, only about two feet in diameter, with tiny black 
+rocks filling it rather than wood.  The rocks look like magma stones,
+and radiate intense heat.
+~
+E
+inscription inscriptions runes~
+Most of the inscriptions glow with a faint orange hue, and appear to have
+very carefully carved in the walls.
+~
+S
+#4659
+Large Pond~
+   This pond is about a hundred feet around and very shallow.  It is bordered 
+by steep slopes of rock to the east and west, with stone beaches to the 
+north and south.  There is a large dwelling on the southern shoreline.  
+Small fish and strange aquatic animals can be seen swimming around in 
+the pond.
+~
+46 8 0 0 0 5 255 0
+D0
+You can see a grotesque looking altar there.
+~
+~
+0 0 4657
+D2
+There is a large building on the shore there.
+~
+~
+0 0 4664
+E
+fish animals~
+The tiny fish are only about an inch long, and much too fast to catch.
+~
+S
+#4660
+Fishing Hut~
+   The hut is small, perhaps ten feet high and as big around.  Several 
+large nets hang from the walls, each looking big enough to require several 
+people to hoist.  The sounds of a river can be heard, and doorways lead 
+out to the east and west.
+~
+46 12 0 0 0 2 255 0
+D1
+The doorway leads out into the village itself.
+~
+~
+0 0 4661
+D3
+You can see a large river through the doorway.
+~
+~
+0 0 4646
+E
+net nets~
+The nets are huge, each about thirty feet long, and made of a thick 
+sticky-rope.  Each one is folded into neat squares and hung on the walls.
+~
+S
+#4661
+Pathway in a Kuo-Toan Village~
+   This pathway is cut smooth out of the natural curving ground of the 
+cavern floor and runs in all directions.  Stone huts of many different 
+sizes comprise this crude village, most of them with only one entryway.  
+It looks as if the kuo-toans have lived here for a long time, having carved 
+several large grotesque images of unknown monsters in the cavern's 
+floor along the pathway.
+~
+46 8 0 0 0 2 255 0
+D0
+The pathway continues.
+~
+~
+0 0 4648
+D1
+A small entryway leads into a stone hut.
+~
+~
+0 0 4662
+D2
+A small entryway leads into a stone hut.
+~
+~
+0 0 4663
+D3
+There is a small fishing hut there.
+~
+~
+0 0 4660
+E
+image crude images~
+Most of the images are of crude stick figures and unknown objects,
+though some of them are a bit more elaborate.
+~
+S
+#4662
+Small Stone Hut~
+   This hut stands about fifteen feet tall, twenty feet long, and is roughly 
+square with a flat roof.  Crude images have been painted on the walls of 
+kuo-toans in different scenes.  Several pieces of stone furniture line 
+the edges of this place.  There is a small window in the south wall and 
+an opening leading out to the west.
+~
+46 8 0 0 0 2 255 0
+D3
+The opening leads back onto the street outside.
+~
+~
+0 0 4661
+S
+#4663
+Small Stone Hut~
+   This hut stands about fifteen feet tall, twenty feet long, and is roughly 
+square with a flat roof.  Crude images have been painted on the walls of 
+kuo-toan's in different scenes.  Several pieces of stone furniture line 
+the edges of this place.  There is a small window in the south wall and 
+an opening leading out to the north.
+~
+46 8 0 0 0 2 255 0
+D0
+The opening leads back onto the street outside.
+~
+~
+0 0 4661
+S
+#4664
+Entrance to a Huge Stone Dwelling~
+   Two large metal gates mark the entrance to this two-story stone 
+building, which is covered in moss and purple fungus.  Several small 
+windows have been carved into the building, though it is too dark to 
+see inside them. There is a large pond to the south.
+~
+46 12 0 0 0 2 255 0
+D0
+The large pond is there.
+~
+~
+0 0 4659
+D2
+The gates look very old.
+~
+gates gate~
+2 4640 4665
+E
+gates gate~
+The gates are made from dozens of thin metal bars, swirling and flowing in 
+odd patterns, and surrounded by a thick frame.  They stand about twenty 
+feet tall, and are fitted with several large spikes at the top.
+~
+S
+#4665
+Huge Stone Dwelling~
+   This building is probably a hundred feet long, and is lavishly 
+decorated with plush chairs and other fine furniture.  None of it 
+looks as if it came from this area originally, as much of it is made 
+from wood.  The long chamber continues to the west, and the 
+front gates are to the north.
+~
+46 8 0 0 0 2 255 0
+D0
+The gates lead back out into the cavern.
+~
+gates gate~
+2 4640 4664
+D3
+The elegant room continues in that direction.
+~
+~
+0 0 4666
+S
+#4666
+Huge Stone Dwelling~
+   This building is probably a hundred feet long, and is lavishly decorated 
+with plush chairs and other fine furniture.  None of it though, looks as if 
+it came from this area originally as much of it is made from wood.  The 
+long chamber continues to the east, and there is a large trap door in the 
+ceiling accessible from a stone ladder on the west wall.
+~
+46 8 0 0 0 2 255 0
+D1
+The elegant room continues in that direction.
+~
+~
+0 0 4665
+D4
+The door looks very sturdy, with a small keyhole near the top.
+~
+trapdoor trap~
+2 4650 4667
+E
+ladder~
+The ladder looks very primitive.  Obviously these people don't have the 
+means to construct a staircase.
+~
+S
+#4667
+Second Floor of a Huge Stone dwelling~
+   This is obviously the living quarters of the leader of the small 
+village, as it is very well furnished.  There is a large bed made from 
+a strange moss, weaved together tightly as to look almost comfortable.  
+A large wooden desk sits next to a small window on the north wall, 
+right next to a clothing rack.  A large trapdoor in the floor leads 
+down in to the room below.
+~
+46 8 0 0 0 2 255 0
+D5
+The trapdoor looks very sturdy, with a keyhole near the top.
+~
+trapdoor trap~
+2 4650 4666
+E
+window~
+The window affords a magnificent view of the cavern beyond, showing the
+entire village from a bird's-eye view.  The river flows slowly by down the 
+cavern's center.
+~
+E
+bed~
+The bed looks very odd, being weaved together of thick strands of dried 
+moss.  It's sits about a foot off the floor, and looks almost comfortable.
+~
+S
+#4668
+Tunnel on the Wide Underground River~
+   The great river flows into a large tunnel here at the caverns 
+southern end.  The water line is very high here, leaving only three or four 
+feet of head clearance from the ceiling.  There isn't much of the glowing 
+fungus in this tunnel, but enough to provide a very dim illumination.  
+The river continues its slow north to south course.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues there.
+~
+~
+0 0 4646
+D2
+The river continues on down this tunnel.
+~
+~
+0 0 4669
+S
+#4669
+Tunnel on the Wide Underground River~
+   The river narrows a bit here, picking up its pace enough to make 
+northerly travel difficult but not impossible.  The river occupies all 
+but three or four feet of the cavern, not leaving travelers allot of head 
+room.  There is almost none of the glowing purple fungus on the ceiling 
+here, which is very wet from the river, just a few feet below.  The river 
+continues it's north to south course.
+~
+46 9 0 0 0 7 255 0
+D0
+The river continues there.
+~
+~
+0 0 4668
+D2
+The river widens considerably there.
+~
+~
+0 0 4670
+S
+#4670
+Fork on the Wide Underground River~
+   The river makes an abrupt split here, with a huge stalagmite bending 
+the river from its southerly course downstream to the east and west.  
+The splits are much thinner than the source to the north, but the caverns 
+seem a bit more roomy with eight to ten feet of head clearance in each.  
+There is none of the glowing fungus here at all.
+~
+46 9 0 0 0 7 255 0
+D0
+The river's source runs from that direction.
+~
+~
+0 0 4669
+D1
+The split runs off in that direction.
+~
+~
+0 0 4602
+D3
+The split runs off in that direction.
+~
+~
+0 0 4601
+S
+#4671
+On an Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint, and continues on to the north and 
+south.  The area is illuminated in a pale light by a strange, purple 
+glowing fungus that covers the walls and ceiling of the cavern.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4672
+D2
+The river continues.
+~
+~
+0 0 4632
+S
+#4672
+Thin Cavern on an Underground River~
+   The cavern in this part of the river thins out to about twenty feet 
+at it's widest, forcing the water line upwards to occupy more of the cavern.  
+There is only about five feet of head clearance in this area of the cavern.  
+The current is a bit more brisk here, making northerly travel difficult, 
+but not impossible.  There is less of the glowing fungus illuminating the 
+area here.
+~
+46 9 0 0 0 7 255 0
+D0
+The river continues there.
+~
+~
+0 0 4795
+D2
+The river continues on a wider path there.
+~
+~
+0 0 4671
+S
+#4673
+Thin Cavern on an Underground River~
+   The cavern in this part of the river thins out to about twenty feet 
+at it's widest, forcing the water line upwards to occupy more of the cavern.  
+There is only about five feet of head clearance in this area of the cavern.  
+The current is a bit more brisk here, making northerly travel difficult, 
+but not impossible.  There is less of the glowing fungus illuminating the 
+area here.
+~
+46 9 0 0 0 7 255 0
+D0
+The river flows around a bend there.
+~
+~
+0 0 4674
+D2
+The river continues on a wider path there.
+~
+~
+0 0 4797
+S
+#4674
+Great Bend in an Underground River~
+   The river makes a sharp turn here, flowing from the east around to 
+the south.  An ice-cold spray plumes into the air from the water crashing 
+into the western wall as the river curves around, soaking everything in 
+the area.  There is none of the glowing fungus here, and the spray has 
+formed hundreds of tiny stalactites that hang from the ceiling like tiny 
+teeth.  The river bends again further to the east, and flows along a more 
+straight course to the south.
+~
+46 13 0 0 0 7 255 0
+D1
+The river curves around another bend there.
+~
+~
+0 0 4675
+D2
+The river flows along a more strait course there.
+~
+~
+0 0 4673
+S
+#4675
+Great Bend in an Underground River~
+  The river makes a sharp turn here, flowing from the north around to 
+the west.  An ice-cold spray plumes into the air from the water crashing 
+into the southern wall as the river curves around, soaking everything in 
+the area.  There is none of the glowing fungus here, and the spray has 
+formed hundreds of tiny stalactites that hang from the ceiling like tiny 
+teeth.  The river bends again further to the east, and flows along a more 
+strait course to the south.
+~
+46 9 0 0 0 7 255 0
+D0
+The cavern containing the river grows considerably there.
+~
+~
+0 0 4676
+D3
+The river curves around another bend there.
+~
+~
+0 0 4674
+S
+#4676
+Tall Cavern on an Underground River~
+   The cavern rises up about two hundred feet here to a tapered ceiling 
+high above.  The river continues in it's general north-south course, 
+illuminated by the pale lights of purple-glowing fungus, which seems much
+more abundant in this cavern.  There is a small beach up ahead to the 
+north, on the river's western side.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4677
+D2
+The river curves around a bend there.
+~
+~
+0 0 4675
+S
+#4677
+Tall Cavern on an Underground River~
+   The cavern rises up about two hundred feet here to a tapered ceiling 
+high above.  The river continues in it's general north-south course, 
+illuminated by the pale lights of purple-glowing fungus, which seems much 
+more abundant in this cavern.  The cavern along the western side has been
+carved into a small alcove of sorts, cutting into the wall about twenty feet.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues in that direction.
+~
+~
+0 0 4678
+D2
+The river continues in that direction.
+~
+~
+0 0 4676
+D3
+A rocky beach is there.
+~
+~
+0 0 4680
+S
+#4678
+Long Cavern on an Underground River~
+   This cavern runs along about three hundred feet, where it dead-ends 
+into a rocky wall.  Large stalactites jut downwards from the ceiling, 
+some of them into the river itself.  The rivers pace is even more brisk 
+in this area, running north to south.  A rushing sound can be heard from 
+the north.  The illuminating, purple fungus is abundant in this cavern.
+~
+46 8 0 0 0 7 255 0
+D0
+The river runs into a rock wall over there.
+~
+~
+0 0 4679
+D2
+The river continues there.
+~
+~
+0 0 4677
+S
+#4679
+Rocky Wall~
+   The river pours out of the caverns end here, through a tunnel that 
+leaves no room for travels attempting to enter.  The river continues back to 
+the south, down this long cavern.  Someone or something has carved a strange 
+symbol in the caverns wall, directly above the river's tunnel.
+~
+46 8 0 0 0 7 255 0
+D2
+The river continues down the cavern there.
+~
+~
+0 0 4678
+E
+symbol carving~
+The symbol is of a spider, with eight long, spindly legs attached to a fat 
+torso.  The carving is very elegant, and probably marks this river opening.
+~
+S
+#4680
+Small Rocky Beach~
+   This looks like a natural high-spot in the cavern, carved out by the 
+river millions of years ago.  The river itself flows quietly by to the east, 
+while a tunnel that definitely looks man-made runs into the western wall.  
+~
+46 12 0 0 0 2 255 0
+D1
+The river flows quietly by there.
+~
+~
+0 0 4677
+D3
+The cave beyond the opening resembles a mining tunnel.
+~
+~
+0 0 4681
+S
+#4681
+Mining Tunnel~
+   This tunnel was obviously carved away by miners, and is roughly square, 
+being about eight feet tall.  There are holes randomly spaced out in the 
+walls, where it looks as though the miners extracted an ore of some kind.  
+The opening to the east is small, and not smoothly worked, indicating that 
+the miners probably broke out into the river by mistake.  The tunnel bends 
+around to the south.
+~
+46 9 0 0 0 2 255 0
+D1
+The river can be seen in that direction.
+~
+~
+0 0 4680
+D2
+The cramped tunnel continues there.
+~
+~
+0 0 4682
+S
+#4682
+Mining Tunnel~
+   The tunnel here is wide, perhaps thirty feet across and square.  It 
+looks as though the miners hit a large vein of ore in this area, with 
+large holes dug into the walls, now empty.  The tunnels run to the north, 
+west, and south of here.
+~
+46 9 0 0 0 2 255 0
+D0
+The mining tunnel continues.
+~
+~
+0 0 4681
+D2
+The mining tunnel continues.
+~
+~
+0 0 4684
+D3
+The mining tunnel continues.
+~
+~
+0 0 4683
+S
+#4683
+Long Mining Tunnel~
+   This long east-west tunnel extends a hundred feet in either direction.  
+The walls have been scarred by deep gouges, every few feet or so where 
+miners extracted a silver ore of some kind.  Small bits of the shiny metal 
+can be seen in he gouges, though very little was left behind.
+~
+46 9 0 0 0 2 255 0
+D1
+The mining tunnel continues
+~
+~
+0 0 4682
+D3
+The mining tunnel continues.
+~
+~
+0 0 4694
+E
+metal silver ore~
+The shiny silver colored metal reflects light as well as any mirror, but 
+is harder than any metal you've seen before.  Legend tells of the great 
+mithril mines of the deep dwarves, and this seems to fit the picture here.
+~
+S
+#4684
+Mining Tunnel~
+   The eight foot high tunnel runs north to south here, opening upon a 
+larger area to the south.  The absence of allot of holes in the walls 
+indicate that this was probably not a lucrative area for extracting the 
+silver ore.
+~
+46 9 0 0 0 2 255 0
+D0
+The mining tunnel continues.
+~
+~
+0 0 4682
+D2
+There is a large, dark cavern there.
+~
+~
+0 0 4685
+S
+#4685
+Dark Cavern~
+   This large ovular cavern has none of the glowing fungus, making 
+it very dark and aerie.  The cavern is extremely tall, though there
+is not enough light to see all the way to the ceiling.  The floor here 
+is also very curved and uneven, looking similar to the surface of 
+a stormy sea that was frozen solid in rock.  The cavern continues 
+on further to the west, while a small tunnel heads north.
+~
+46 13 0 0 0 4 255 0
+D0
+The mining tunnel runs in that direction.
+~
+~
+0 0 4684
+D3
+The dark cavern continues there.
+~
+~
+0 0 4686
+S
+#4686
+Dark Cavern~
+   There is none of the glowing purple fungus in the extremely tall
+cavern, making it impossible to see the ceiling high above.  Travel 
+across this area is made difficult by the curved nature of the ground
+here, with dozens of deep pits and short drops.  The cavern continues 
+further eastward, and a small cave mouth leads into darkness through 
+the west wall.
+~
+46 9 0 0 0 4 255 0
+D1
+The dark cavern continues there.
+~
+~
+0 0 4685
+D3
+The cave leads into darkness.
+~
+~
+0 0 4687
+S
+#4687
+Bi-Level Cavern~
+   The center of this cavern is split by a rocky ledge, evaluating the
+northern side some fifteen feet.  The west wall is scarred by a huge
+blast mark, with bits of rock and metal lying scattered about everywhere.  
+An metal arrow protrudes from the back wall of this cavern, which has 
+exits leading to the north, east and south of here. 
+~
+46 13 0 0 0 2 255 0
+D0
+A mining tunnel branches off in that direction.
+~
+~
+0 0 4693
+D1
+There is a huge cavern running in that direction.
+~
+~
+0 0 4686
+D2
+A small tunnel runs in that direction.
+~
+~
+0 0 4688
+E
+arrow metal~
+The arrow is made of a very hard, black metal like adamantite,
+and is deeply embedded into the rock wall.  It's fleching is composed
+of three spindly-looking spider legs, each coming to a sharp point.
+~
+E
+blast mark wall~
+The blast mark looks like something a very powerful fireball might
+have caused, leaving a fifteen foot crater in the wall.  From the 
+looks of the debris in the cavern, a large battle must have been 
+fought here some time ago, though no bodies have been left behind
+to confirm it.
+~
+S
+#4688
+Ore Deposit~
+   The walls of this ten foot high corridor are almost entirely composed
+of a dull-silvery metal.  There are a few chips in walls here and there,
+indicating that miners have most likely been through here, and found 
+the ore to be of little value.  The small tunnel continues to the west, 
+while a larger cavern opens up to the north.
+~
+46 9 0 0 0 2 255 0
+D0
+A cavern opens up there.
+~
+~
+0 0 4687
+D3
+The small corridor continues.
+~
+~
+0 0 4689
+S
+#4689
+End of an Ore Deposit~
+   The walls of this ten foot high corridor are almost entirely composed
+of a dull-silvery metal.  There are a few chips in walls here and there,
+indicating that miners have most likely been through here, and found 
+the ore to be of little value.  The small tunnel comes to an end here,  
+with the only exit being the corridor back to the east.
+~
+46 9 0 0 0 2 255 0
+D1
+The tunnel continues.
+~
+~
+0 0 4688
+D2
+Nothing special there...
+~
+secret door~
+1 0 4690
+E
+wall secret walls~
+As you examine the walls more closely, the paper-thin outline
+of a concealed door becomes visible!
+~
+S
+#4690
+Cramped Cave~
+   This very small cave is only about five feet high and ten feet around,
+with tiny inch-long stalactites hanging from the ceiling.  A large pit in
+the center of the cave leads down into darkness, and a tiny door leads
+to the north.
+~
+46 13 0 0 0 2 255 0
+D0
+~
+secret wall~
+1 0 4689
+D5
+It is too dark to see what is below.
+~
+~
+0 0 4691
+S
+#4691
+Bottom of a Pit~
+   The walls of this pit runs upwards about twenty feet to a tiny cave
+above, with a four-foot circular hatch mounted in the rock, leading
+northwards.  The hatch is made of a black metal and is completely 
+smooth, with a tiny keyhole near it's bottom.  There are no other exits
+from this cramped area.
+~
+46 9 0 0 0 4 255 0
+D0
+The hatch is completely smooth.
+~
+hatch metal black~
+2 4600 4692
+D4
+The pit leads back up into a small cave.
+~
+~
+0 0 4690
+S
+#4692
+Underground Dwelling~
+   This cave has been turned into an underground dwelling of sorts
+with carvings decorating the walls, furniture here and there, and a 
+forty foot rug covering the floor.  The chamber is about fifty feet
+in diameter with a black hatch leading out on the south wall.  A large
+bed sits against the north wall, next to a night stand and a desk 
+made from oak.  A large table occupies the room's center, surrounded 
+by four comfortable looking chairs.  From the general layout of the 
+place, this is probably home to a pirate or renegade.
+~
+46 8 0 0 0 1 255 0
+D2
+The hatch is completely smooth.
+~
+hatch metal black~
+2 4600 4691
+E
+rug~
+The rug is deep red in color, with elegant patters traced on it in deep
+blues and violets.  It looks very expensive, and very heavy.
+~
+E
+carving carvings~
+The carvings are all of people, spanning a variety of different races
+of beings.  There are humans, elves, drow elves, and even a few
+dwarves pictured here, all of them looking similar thieves or brigands
+from their garb.  Most of them bear evil or mischievous expressions.
+~
+S
+#4693
+Mining Tunnel~
+   The walls and ceiling of this small corridor sparkle in the light from 
+their high mineral content.  From the looks of how the tunnel was 
+constructed, it must have been the masterful hands of dwarves who
+mined out this area.  The corridor runs north to south here.
+~
+46 9 0 0 0 2 255 0
+D0
+The mining tunnel continues.
+~
+~
+0 0 4694
+D2
+The tunnel opens up into a large cavern there.
+~
+~
+0 0 4687
+S
+#4694
+Mining Tunnel~
+   The tunnel splits off in three directions here, heading to the north,
+east and south.  The fact that there are hundreds of gouge marks on 
+the walls and ceiling, and that the tunnel is cut perfectly square,  
+indicate this area was carved out by miners at some point. The tunnel
+glitters from its high mineral content.    
+~
+46 9 0 0 0 2 255 0
+D0
+The mining tunnel connects to a larger cave there.
+~
+~
+0 0 4695
+D1
+The mining tunnel continues.
+~
+~
+0 0 4683
+D2
+The mining tunnel continues.
+~
+~
+0 0 4693
+S
+#4695
+Cylindrical Tunnel~
+   This circular tunnel is about fifteen feet in diameter, running some
+thirty feet in length.  On it's northern end, a huge cavern opens up to
+the dull purple hue of glowing fungus, while to the south a mining 
+tunnel leads on into darkness.  This tunnel looks to have been cut
+through by expert miners.
+~
+46 13 0 0 0 2 255 0
+D0
+A *huge* cavern opens up there.
+~
+~
+0 0 4696
+D2
+The mining tunnel leads into darkness.
+~
+~
+0 0 4694
+S
+#4696
+Entrance to a Great Cavern~
+   The tunnel opens out into a cavern that must be at least a thousand
+feet in length, rising up to a great domed ceiling a hundred feet high.
+The entire area is illuminated by purple glowing fungus that covers
+almost the entire ceiling, that makes the cavern look as though 
+it has a dark-blue sky.  Mammoth stalactites hang hundreds of 
+feet, like giant icicles of dull gray stone.  The overall effect that 
+the sheer size of this cavern has is stunning.  A small trail runs 
+to the east along the caverns edge, while a pathway leads towards 
+a settlement of some kind occupying the center of this enormous area.
+~
+46 12 0 0 0 1 255 0
+D0
+The pathway leads into a settlement there.
+~
+~
+0 0 4763
+D1
+A trail leads along the cavern wall there.
+~
+~
+0 0 4697
+D2
+A small tunnel leads into darkness there.
+~
+~
+0 0 4695
+E
+settlement village~
+The settlement consists of stone buildings, numbering twenty
+or so, and look like the homes for a race of short humanoids.
+~
+S
+#4697
+Rocky Trail in a Great Cavern~
+   This trail runs along the southern wall of the great cavern, which
+rises almost straight upwards nearly two hundred feet.  The sheer size
+of this immense cavern is awe inspiring, illuminated by the glow from
+a dark-blue sky of glowing fungus.  The trail runs east to west,
+reaching the entrance of this area just west of here.
+~
+46 8 0 0 0 1 255 0
+D1
+The trail continues.
+~
+~
+0 0 4698
+D3
+The trail continues leads to the caverns entrance there.
+~
+~
+0 0 4696
+S
+#4698
+South-East Corner of a Great Cavern~
+   The immense cavern wall curves around here from the west
+to the north, gradually sloping up into the air about two hundred
+feet.  The air is crisp and clean smelling here in this huge cavern, 
+with a large settlement of stone buildings at it's center.
+The trail runs to the west of here, while a small rocky ledge climbs
+up onto the eastern cavern wall to the north.
+~
+46 8 0 0 0 1 255 0
+D0
+The ledge is small, but looks stable enough.
+~
+~
+0 0 4699
+D3
+The trail continues in that direction.
+~
+~
+0 0 4697
+E
+settlement village~
+The settlement consists of stone buildings, numbering twenty
+or so, and look like the homes for a race of short humanoids.
+~
+S
+#4699
+Rocky Incline~
+   This small ledge climbs upwards about a hundred feet above 
+ground level to a small pathway on the cavern's eastern wall.
+The path is about five feet wide, and gives a fantastic view of
+the entire area.  The settlement looks small from this distance,
+with twenty or so stone buildings of various sizes huddled 
+together in a circular arrangement.  The path runs north to 
+south.
+~
+46 8 0 0 0 3 255 0
+D0
+The path continues upwards to a small ledge.
+~
+~
+0 0 4700
+D2
+The ledge ends there at the caverns south-east corner.
+~
+~
+0 0 4698
+S
+#4700
+Ledge on the Eastern Cavern Wall~
+   This five foot wide ledge runs about three hundred feet to the 
+north and south, at an elevation of nearly a hundred feet.  The 
+settlement looks tiny from this distance, veiled in the pale glow
+of the purple glowing fungus which covers the entire ceiling of 
+this great cavern.
+~
+46 8 0 0 0 4 255 0
+D0
+The thin ledge continues there.
+~
+~
+0 0 4701
+D2
+The ledge starts it's decent off in that direction.
+~
+~
+0 0 4699
+S
+#4701
+Thin Ledge on a Cavern Wall~
+   This part of the ledge is only about three feet wide, and runs a 
+considerable distance both to the north and south.  The solid nature
+of the rock in this great cavern makes this ledge quite stable, 
+despite its small size.  The ground level of this mammoth cavern 
+is about a hundred feet below, necessitating extreme caution
+when traveling along this precarious ledge.
+~
+46 8 0 0 0 4 255 0
+D0
+A dark blemish scars the face of the cavern wall up ahead there.
+~
+~
+0 0 4702
+D2
+The rocky ledge continues.
+~
+~
+0 0 4700
+S
+#4702
+Thin Ledge on a Cavern Wall~
+   This part of the ledge is only about three feet wide, and runs a 
+considerable distance both the north and south.  The solid nature
+of the rock in this great cavern makes this ledge quite stable, 
+despite it's small size.  The ground level of this mammoth cavern 
+is about a hundred feet below, necessitating extreme caution
+when traveling along this precarious ledge.
+~
+46 8 0 0 0 4 255 0
+D0
+The ledge comes to an end up ahead there.
+~
+~
+0 0 4703
+D1
+Nothing special there...
+~
+secret~
+1 0 4726
+D2
+The ledge continues in that direction.
+~
+~
+0 0 4701
+E
+wall ledge~
+As you examine the rocky wall around the ledge, the paper-thin 
+outline of a cleverly concealed secret door becomes visible! 
+~
+S
+#4703
+North-East Edge of a Cavern Wall~
+   The ledge ends here as the great cavern curves around to the
+west, heading off into the distance.  From this great height, no way
+can be seen to descend to the cavern floor below without flight of
+some form.  The ledge continues back to the south.
+~
+46 8 0 0 0 4 255 0
+D2
+The ledge continues in that direction.
+~
+~
+0 0 4702
+D5
+It is a very long way to the ground from this height.
+~
+~
+0 0 4766
+S
+#4704
+Entrance to a Duergar Settlement~
+   A huge stone archway standing thirty feet tall marks the entrance
+to this settlement.  A single phrase carved at the top of the arch in 
+huge foot-tall letters reads, 'Home of Clan Gnomeslayer!'.  The buildings 
+past this entrance all stand between seven and eight feet high, and 
+look very sturdy with wall made from slabs of rock rather than bricks 
+or smaller rocks.  The path leads north into the settlement, and south 
+towards the southern cavern wall.
+~
+46 12 0 0 0 1 255 0
+D0
+The path enters the duergar settlement in that direction.
+~
+~
+0 0 4705
+D2
+The path leads towards the cavern wall in that direction.
+~
+~
+0 0 4764
+E
+arch archway stone~
+The arch is quite beautiful, obviously carved by the hands of master 
+dwarven craftsman, making an almost perfect half circle, with rounded 
+edges and dwarven runes carved upon it. 
+~
+S
+#4705
+Duergar Settlement~
+   From the overall layout of the village here, it is obvious that 
+these are a people of functionality.  There aren't any decorations 
+on the buildings, and houses are indistinguishable from the work 
+places meaning these people put a high priority on their professions.  
+The smells of burning coal and smoke permeates the air from forges 
+that the duergar must use to create their fine weapons or armor.  
+There is a small well to the east, while streets leads off the north 
+and west.
+~
+46 8 0 0 0 1 255 0
+D0
+A street of stones runs in that direction.
+~
+~
+0 0 4710
+D1
+A large well is there.
+~
+~
+0 0 4706
+D2
+The archway leads back out of the duergar complex.
+~
+~
+0 0 4704
+D3
+A street of stones runs in that direction.
+~
+~
+0 0 4716
+S
+#4706
+Huge Stone Well~
+   A well that must be twenty feet in diameter burrows into the cavern
+floor here.  A large winch is supported over the well by metal beams
+on tall saw horses, to which a large bucket is attached.  The well must
+lead down a considerable distance as the bottom cannot be seen,
+though the sounds of a river can be heard from far below.  The 
+entrances to three different buildings lead to the north, east, 
+and south of here, while the main street is to the west.
+
+~
+46 8 0 0 0 1 255 0
+D0
+The smells of smoke emanate from that building.
+~
+~
+0 0 4711
+D1
+It is too dark to see what is inside that building.
+~
+~
+0 0 4708
+D2
+It is too dark to see what is inside that building.
+~
+~
+0 0 4707
+D3
+The main street is over there.
+~
+~
+0 0 4705
+E
+well stone~
+Dwarven runes have been carved all over the well, many of them 
+the scribbling of children.  About ten feet down the well shaft, 
+you notice that metal rods have been placed every foot or so apart 
+with an opening in the middle large enough for the bucket to pass 
+through.  These are probably there to prevent people from falling 
+in into the well, and down to their deaths below..
+~
+S
+#4707
+Stone Dwelling~
+   This appears to be a dwarven home of from its cramped size, though 
+it is very sparsely furnished.  The chamber is about twenty feet square, 
+with several beds neatly placed against one wall.  The beds, along with a 
+large wooden table are about the only other furnishings of note in this 
+building, which has a single exit leading out to the north.
+~
+46 12 0 0 0 1 255 0
+D0
+The doorway leads back out into the complex.
+~
+~
+0 0 4706
+E
+bed beds~
+The beds are wooden, each covered with a small mattress and 
+several thick blankets.
+~
+S
+#4708
+Stone Dwelling~
+   This appears to be a dwarven home from its cramped size, though 
+it is very sparsely furnished.  The chamber is about twenty feet square, 
+with several beds neatly placed against one wall.  The beds, along with a 
+large wooden table are about the only other furnishings of note in this 
+building, which has a single exit leading out to the west.
+
+~
+46 12 0 0 0 1 255 0
+D3
+The doorway leads back out into the complex.
+~
+~
+0 0 4706
+D5
+Nothing special there...
+~
+trapdoor trap~
+1 0 4709
+E
+trapdoor trap~
+A small, very cleverly concealed trapdoor has been hidden beneath
+the rug here!
+~
+E
+rug~
+The rug spans most of the home's floor, and is rather unremarkable
+otherwise, having no pattern or color variation outside dull-gray.
+Three edges of the rug have been secured to the ground with iron
+stakes.  One corner of the rug is creased slightly from being pulled 
+aside often.  In fact, there is something in the floor there...
+~
+S
+#4709
+Secret Chamber~
+   This chamber is only about eight feet square and six feet 
+tall, with a small trapdoor leading back up into the building 
+above.  This is obviously a storage area for goods and other 
+valuables that the duergar want to keep hidden from the eyes 
+of invaders.
+~
+46 8 0 0 0 1 255 0
+D4
+The trapdoor leads back up into the building.
+~
+trapdoor trap~
+1 0 4708
+S
+#4710
+Street of Stones~
+   Dozens of large flat rocks have been laid out on the cavern floor
+here, forming a smooth street that is about ten feet in width.  This 
+street runs north to south through the middle of the complex, with 
+the entrance of what must be a forge to the east.  The walls of a 
+much larger, two story building rise upwards to the west, though
+there is no visible entrance on this side.
+~
+46 8 0 0 0 2 255 0
+D0
+The street of stones continues in that direction.
+~
+~
+0 0 4715
+D1
+A doorway leads into the forge, from which smoke emerges.
+~
+~
+0 0 4711
+D2
+The street of stones continues in that direction.
+~
+~
+0 0 4705
+S
+#4711
+Huge Forge~
+   This fifty foot square building is crowded with four large 
+forges, each with a great furnace attached at its side.  The 
+smell of smoke sits heavily upon the air, and the furnaces have 
+increased the temperature in here considerably.  Bits and pieces 
+of metal lay strewn about the place, which has three exits to the 
+north, west, and south.  A doorway leads to the east into another 
+chamber of the building.
+~
+46 12 0 0 0 1 255 0
+D0
+A doorway leads into storage room of some kind.
+~
+~
+0 0 4713
+D1
+The forge continues through that doorway.
+~
+~
+0 0 4712
+D2
+A doorway leads out into a small courtyard there.
+~
+~
+0 0 4706
+D3
+A doorway leads out onto a street in that direction.
+~
+~
+0 0 4710
+E
+forge furnace~
+The forges are essentially great furnaces, with large fans attached 
+at their sides like water wheels that keep the coals hot.  The
+edges of each forge consist of iron ledges used to work metal as
+it emerges from the coals.
+~
+S
+#4712
+Huge Forge~
+   This fifty foot square building is crowded with four large forges, 
+each with a great furnace attached at its side.  The smell of smoke
+sits heavily upon the air, and the furnaces have increased the 
+temperature in here considerably.  Bits and pieces of metal lay 
+strewn about the place, which has two exits to the west and through
+a doorway to the north.
+~
+46 12 0 0 0 1 255 0
+D0
+The large wooden door looks quite sturdy.
+~
+door wooden~
+1 0 4714
+D3
+The forge continues through that doorway.
+~
+~
+0 0 4711
+E
+forge furnace~
+The forges are essentially great furnaces, with large fans attached 
+at their sides similar to water wheels that keep the coals hot.  The
+edges of each forge consist of iron ledges used to work metal as
+it emerges from the coals.
+~
+S
+#4713
+Ore Storage Area~
+   This dark room is pact from floor to ceiling with huge blocks of 
+a silvery metal that look allot like mithril.  The blocks number about 
+twenty, and are on average four feet in size, probably weighing 
+hundreds of pounds.  How blocks this large could be transported 
+here remains a mystery.  A doorway leads south back into the forge.
+~
+46 9 0 0 0 1 255 0
+D2
+The doorway leads back into the forge.
+~
+~
+0 0 4711
+S
+#4714
+Small Storage Room~
+   There are no windows in this small chamber, that is filled with several
+benches and small tables.  It appears that this is a temporary storage
+area for the finished products of the duergar blacksmith, though it is
+currently rather bare.  A thick wooden door leads back out into the forge 
+to the south.
+~
+46 9 0 0 0 1 255 0
+D2
+The door is very sturdy looking.
+~
+door wooden~
+1 0 4712
+E
+bench benches~
+The benches look like places where one might store weapons of various
+kinds.
+~
+E
+table tables~
+The tables are all about two feet tall and three feet wide, each made from 
+planks of wood capable of supporting large amounts of weight.
+~
+S
+#4715
+Edge of a Duergar Settlement~
+   The street of stones comes to an end at small three foot tall wall 
+of rock here, probably used as a defensive measure against rear attacks 
+on the complex.  Beyond the wall, the great cavern continues for some 
+distance to the north across uneven, sloped ground.  The street continues 
+back to the south into the main area of the settlement.
+~
+46 8 0 0 0 1 255 0
+D0
+The great cavern runs in that direction away from the complex.
+~
+~
+0 0 4770
+D2
+The street of stones continues in that direction.
+~
+~
+0 0 4710
+S
+#4716
+Street of Stones~
+   Dozens of large flat rocks have been laid out on the cavern floor
+here, forming a smooth street that is about ten feet in width.  This 
+street runs east to west through the middle of the complex, with 
+the gates to what must be a palace for the duergar are to the north
+of here.  The entrance to a smaller building is south of here. 
+~
+46 8 0 0 0 2 255 0
+D0
+A set of large gates guards the huge building's entrance there.
+~
+~
+0 0 4721
+D1
+The street heading through the middle of the complex runs there.
+~
+~
+0 0 4705
+D2
+A smaller building is there.
+~
+~
+0 0 4717
+D3
+The street of stones continues in that direction.
+~
+~
+0 0 4718
+S
+#4717
+Stone Dwelling~
+   This appears to be a dwarven home of from its cramped size, though 
+it is very sparsely furnished.  The chamber is about twenty feet square, 
+with several beds neatly placed against one wall.  The beds, along with a 
+large wooden table are about the only other furnishings of note in this 
+building, which has a single exit leading out to the north.
+~
+46 8 0 0 0 1 255 0
+D0
+Out there you see the street of stones.
+~
+~
+0 0 4716
+S
+#4718
+Street of Stones~
+   Dozens of large flat rocks have been laid out on the cavern floor
+here, forming a smooth street that is about ten feet in width.  This 
+street runs east to west through the middle of the complex, with 
+ a training area to the north and a large tavern to the south. 
+~
+46 8 0 0 0 2 255 0
+D0
+There is an open training area in that direction.
+~
+~
+0 0 4720
+D1
+The street heading through the middle of the complex runs there.
+~
+~
+0 0 4716
+D2
+The opening to a large tavern is there.
+~
+~
+0 0 4719
+D3
+The street of stones continues in that direction.
+~
+~
+0 0 4801
+S
+#4719
+Large Duergar Tavern~
+   This is large building stands fifteen feet high, and must be fifty
+feet across.  Dozens of wooden tables with chairs surrounding them 
+occupy the bulk of this large room, which is evidently where these 
+people relax and spend their free time.  A long oak bar runs most of 
+length of the north wall, with rows of bottles filling a huge wooden 
+liqueur rack behind it.  It would be a common occurrence to find such 
+a place on the surface world, but this far down it's a bit a surprising.
+~
+46 8 0 0 0 1 255 0
+D0
+The doorway leads back out onto the street of stones.
+~
+~
+0 0 4718
+E
+oak bar~
+The bar is pitted and gouged in hundreds of places, and looks very old.
+~
+S
+#4720
+Training Grounds~
+   The dozen or so wooden practice dummies, and a long weapons
+rack leaning against the western wall indicate that this must be a 
+fighters training grounds.  There is also a fenced off area near the 
+rear of this area that is probably used for sparring and mock combat.  
+From the looks of this set-up, these people take their fighting very
+seriously.  The street of stones lies is just to the south of here.
+~
+46 8 0 0 0 1 255 0
+D2
+A street of stones is there.
+~
+~
+0 0 4718
+E
+rack~
+The weapons rack looks like it could contain a dozen or so weapons
+at maximum, though it is currently empty.
+~
+E
+dummy dummies~
+The practice dummies are made of solid wood, suspended off the 
+ground by large metal poles just behind them.  The dummies all
+look badly worn, with hundreds of chip marks and gouges scarring
+them for the students who practice here.
+~
+S
+#4721
+Gates of a Huge Stone Building~
+   Two fifteen foot tall iron gates block passage to the large building 
+just north of here.  The gates are set into a twenty foot high stone 
+wall, and look very sturdy.  There is a large lock in the gate that 
+glows faintly blue, probably protected from picking by a magical 
+spell of some sorts.  The street of stones lies just to the south.
+~
+46 12 0 0 0 1 255 0
+D0
+The gates look very sturdy.
+~
+gates gate~
+2 4610 4722
+D2
+The street of stones lies in that direction.
+~
+~
+0 0 4716
+S
+#4722
+Outside a Huge Stone Building~
+   The large building rises up only thirty feet or so, but compared to
+the other buildings in the complex it is quite sizable.  There are half 
+a dozen windows on the outside of the building, and a large wooden 
+door leading north into the structure itself.  The iron gates are just
+south of here, which lead back onto the street of stones.
+~
+46 8 0 0 0 1 255 0
+D0
+The door is made of oak, with a single pull handle on it's right side.
+~
+door oak~
+2 4660 4723
+D2
+The gates lead back out onto the street of stones.
+~
+gates gate~
+2 4610 4721
+E
+window windows~
+The windows are each about a foot square, and are set about four 
+feet apart along the side of the building.  As you peer into one, you
+see a large well lit room that looks very similar to an audience
+chamber or throne room.  The windows next to the door offer a view
+of a dimly lit entry foyer, who's walls are covered with carvings.
+~
+S
+#4723
+Large Entry Foyer~
+   This room is about forty feet square with dozens of carvings 
+covering most of the walls and floor.  There is a small table here, 
+and a dozen or so chairs lined against the eastern wall.  A rather 
+large hallway heads to the west, which an oak door leading out 
+of the building to the south.
+~
+46 8 0 0 0 1 255 0
+D2
+The door is made of oak, with a single pull handle on it's right side.
+~
+door oak~
+2 4660 4722
+D3
+The dimly lit hallway leads off in that direction.
+~
+~
+0 0 4724
+E
+chairs chair~
+The chairs look more like benches, making the area look like a waiting
+room of sorts.
+~
+E
+table~
+The table is small, about a foot in diameter and stands three foot 
+off the ground.
+~
+E
+carving carvings~
+A beautiful hammer, probably twenty feet in size has been carved 
+onto the floor of this room, held by strong looking dwarven hand.
+The carvings on the walls are all of noble duergar looking males, 
+each with a name beneath it inscribed in the dwarven language.  
+They are probably the leaders or chiefs that either rule, or once 
+ruled this settlement.
+~
+S
+#4724
+Great Hallway~
+   This hallway rises up twenty foot to an arched ceiling above.  Both 
+sides of the walls are covered in neat dwarven writing that has been
+etched into the stone itself.  The hallway runs east to south, where it 
+opens up into larger areas.
+~
+46 12 0 0 0 1 255 0
+D1
+There is an entry foyer in that direction.
+~
+~
+0 0 4723
+D2
+The hallway opens up into a large audience chamber.
+~
+~
+0 0 4725
+E
+writing writings~
+The writings are written in some obscure dwarven dialect, and are thus
+unreadable.  It all seems to be organized into sections, and might 
+possibly be a set of laws or rules spelled out for all to see.
+~
+S
+#4725
+Audience Chamber~
+   This room is large, spanning some seventy feet around with a domed
+ceiling high above.  At the southern end, a large throne sits upon a 
+small mithril pedestal.  There is a six foot round circular portal on the
+west wall that glows brightly in a green hue.  This is obviously where the 
+leader of these people usually resides, making battle or trading plans for 
+the duergar people.  The only exit from this chamber is to the north into a 
+large hallway.  Several windows in the southern wall give a clear view of 
+the duergar complex beyond.
+~
+46 12 0 0 0 1 255 0
+D0
+The chamber leads back into the hallway.
+~
+~
+0 0 4724
+D3
+The portal glows very brightly and radiates intense magic.  Beyond the
+glow, what looks like a long narrow tunnel leads to the west, disappearing
+into a cloud of shadowy vapor.  The gate strikes you with awe and wonder.
+~
+~
+0 0 4788
+E
+portal~
+The portal glows very brightly and radiates intense magic.  Beyond the
+glow, what looks like a long narrow tunnel leads to the east, disappearing
+into a cloud of shadowy vapor.  The gate strikes you with awe and wonder.
+~
+E
+throne~
+The throne is studded with a dozen gems, and is made entirely of mithril.
+It rests atop a pedestal of the same metal, and looks rather elegant.
+~
+S
+#4726
+Rough Corridor~
+   This five foot wide passageway look as though they were mined out 
+in a hurry, with roughly chipped out walls and floor.  The corridor
+heads to the east from the great cavern about twenty feet where it
+comes upon a small cave.  The backside of what must be a secret 
+door is set into the western wall here, leading out onto the thin
+ledge.
+~
+46 9 0 0 0 2 255 0
+D1
+The corridor leads into a small cave there.   
+~
+~
+0 0 4727
+D3
+The concealed door leads back out onto the ledge.
+~
+secret door~
+1 0 4702
+S
+#4727
+Rough Cave~
+   This twenty foot circular cave has a low ceiling, and looks as
+though it was mined out in a hurry.  Hundreds of circular tracks
+lead down into a small rounded shaft that burrows into the cave
+floor here, and a thin corridor runs to the west.  The shaft is not 
+a natural feature of this cave, and appears to have been mined 
+out as well.
+~
+46 9 0 0 0 2 255 0
+D3
+The thin corridor leads back towards the great cavern there.
+~
+~
+0 0 4726
+D5
+The shaft leads downwards into darkness.
+~
+~
+0 0 4728
+S
+#4728
+Rounded Shaft~
+   This vertical tube runs straight up and down about thirty feet,
+and continues to descend.  Directly above the shaft opens into a 
+small cave.  A sticky black substance covers the rocky walls of
+this shaft, looking like some kind of tar or glue.
+~
+46 9 0 0 0 9 255 0
+D4
+The shaft leads up to a small cave above.
+~
+~
+0 0 4727
+D5
+The shaft continues downwards.
+~
+~
+0 0 4729
+S
+#4729
+Rounded Shaft~
+   The thin shaft is about six feet in diameter here, heading upwards
+about eighty more feet before ending in a small cave.  There is a larger
+cavern directly below here that is totally dark.  The jagged walls
+of this tube are covered with a sticky, odorless black substance.
+~
+46 13 0 0 0 9 255 0
+D4
+The shaft continues upwards.
+~
+~
+0 0 4728
+D5
+The tube opens up into a large cavern there.
+~
+~
+0 0 4730
+S
+#4730
+Large Cavernous Lair~
+   This rounded cavern is about a hundred feet in diameter, with a
+single hole leading upwards into the ceiling above.  Hundreds of
+thick gray webs hang everywhere, covering all the walls and floor.
+There is a faint odor on the air as well, that smells like rotten eggs.  
+There are no other apparent exits from this cavernous lair.
+~
+46 9 0 0 0 5 255 0
+D4
+The shaft leads up into darkness.
+~
+~
+0 0 4729
+E
+web webs~
+The webs are quite thick, and must have been produced by a rather 
+large arachnid.  This is definitely a lair for large spiders.
+~
+S
+#4731
+Vertical Shaft~
+   This natural shaft must have been carved out be a stream or well
+at some time a million years ago or so.  Running downwards several 
+hundred feet, this shaft has a diameter of about fifteen feet with 
+smooth limestone walls that seem to flow like lava.  The shaft ends
+directly above. 
+~
+46 9 0 0 0 9 255 0
+D4
+There is a small cave above.
+~
+~
+0 0 4631
+D5
+The shaft continues down for some distance.
+~
+~
+0 0 4732
+S
+#4732
+Vertical Shaft~
+   This natural shaft must have been carved out be a stream or well
+at some time a million years ago or so.  Running downwards several 
+hundred feet, this shaft has a diameter of about fifteen feet with 
+smooth limestone walls that seem to flow like lava.  The shaft continues
+up and down for quite some distance.
+~
+46 9 0 0 0 9 255 0
+D4
+The shaft continues upwards.
+~
+~
+0 0 4731
+D5
+The shaft continues downwards.
+~
+~
+0 0 4733
+S
+#4733
+Vertical Shaft~
+   This natural shaft must have been carved out be a stream or well
+at some time a million years ago or so.  Running downwards several 
+hundred feet, this shaft has a diameter of about fifteen feet with 
+smooth limestone walls that seem to flow like lava.  A large cavern
+opens up below, while the shaft continues upwards.
+~
+46 9 0 0 0 9 255 0
+D4
+The shaft continues upwards.
+~
+~
+0 0 4732
+D5
+The shaft opens into a cavern below.
+~
+~
+0 0 4734
+S
+#4734
+Above a Huge Cavern~
+   The shaft comes out of the ceiling in a mammoth cavern, that rises
+up to a height of about a hundred feet.  Below on the cavern's 
+floor sits a huge shallow lake of crystal clear water, with a small
+waterfall feeding it from the northern cavern wall.  Directly 
+underneath the shaft in the lake's center, a short stalagmite protrudes 
+from the waters surface about three feet like a tiny island amidst a 
+huge two hundred foot lake.  Great stalactites hang like mighty pillars
+from the ceiling around the shaft, coated in glowing purple fungus.
+The area possess a raw beauty that one would be hard pressed to find 
+on the surface world.
+~
+46 9 0 0 0 9 255 0
+D4
+The vertical shaft leads upwards into darkness.
+~
+~
+0 0 4733
+D5
+The tiny island is directly below.
+~
+~
+0 0 4736
+E
+waterfall~
+A small opening high on the north wall lets flow a small waterfall
+that crashes downwards, feeding the shallow lake.  The water is crystal
+clear.
+~
+E
+lake~
+The lake is about two hundred feet in diameter, and appears to be
+quite shallow.  It is fed from a small waterfall.
+~
+S
+#4735
+Shallow Lake in a Huge Cavern~
+   The waters in this lake are only about four feet deep and immensely
+cold.  The smells of subterranean minerals fill the air as the crashing
+sounds of a small waterfall resound off to the north-east.  The lake
+continues to the north and south with a tiny stalagmite island just to
+the east of here.  A large rocky overhang shields a rocky shore 
+immediately to the west.
+~
+46 8 0 0 0 3 255 0
+D0
+The shallow underground lake continues.
+~
+~
+0 0 4775
+D1
+The small stalagmite island lies in that direction.
+~
+~
+0 0 4736
+D2
+The shallow underground lake continues.
+~
+~
+0 0 4739
+D3
+The small rocky shore is littered with stones.
+~
+~
+0 0 4761
+S
+#4736
+Small Stalagmite Island~
+   A nearly flat stalagmite pierces the water-line by about three feet here,
+gradually sloping upwards to a point.  The small island is about fifteen
+feet in diameter and is rather slippery looking.  The lake surrounding
+this stalagmite is only about four feet deep with a small waterfall feeding
+it from the northern cavern wall.
+~
+46 12 0 0 0 1 255 0
+D0
+The underground lake continues in that direction.
+~
+~
+0 0 4774
+D1
+The underground lake continues in that direction.
+~
+~
+0 0 4737
+D2
+The underground lake continues in that direction.
+~
+~
+0 0 4740
+D3
+The underground lake continues in that direction.
+~
+~
+0 0 4735
+D4
+There is a small shaft at the top of the cavern.
+~
+~
+0 0 4734
+E
+waterfall~
+A small opening high on the north wall lets flow a small waterfall
+that crashes downwards, feeding the shallow lake.  The water is crystal
+clear.
+~
+E
+lake~
+The lake is about two hundred feet in diameter, and appears to be
+quite shallow.  It is fed from a small waterfall.
+~
+S
+#4737
+Shallow Lake in a Huge Cavern~
+   The waters in this lake are only about four feet deep and immensely
+cold.  The smells of subterranean minerals fill the air as the crashing
+sounds of a small waterfall resound off to the north-east.  The lake
+continues to the north and south with a tiny stalagmite island just west 
+of here.  A small waterfall fills the air with mist as it crashes into
+the lake just to the north.
+~
+46 8 0 0 0 3 255 0
+D0
+The small waterfall is over there.
+~
+~
+0 0 4738
+D1
+There is a small rocky shore in that direction.
+~
+~
+0 0 4743
+D2
+The underground lake continues in that direction.
+~
+~
+0 0 4741
+D3
+The stalagmite island is over there.
+~
+~
+0 0 4736
+S
+#4738
+Base of a Small Waterfall~
+   Ice cold water crashes down into the lake here from a small hole in
+the cavern wall high above.  Cold mist sprays up into the air making 
+the cavern wall behind and around the waterfall very wet, and strange
+crystalline formations have built themselves up from the mineral rich
+waters.  The lake runs to the west and south from here.
+~
+46 8 0 0 0 3 255 0
+D2
+The underground river continues in that direction.
+~
+~
+0 0 4737
+D3
+The underground river continues in that direction.
+~
+~
+0 0 4774
+S
+#4739
+Shallow Lake in a Huge Cavern~
+   The waters in this lake are only about four feet deep and immensely
+cold.  The smells of subterranean minerals fill the air as the crashing
+sounds of a small waterfall resound off to the north-east.  The lake
+continues to the north and east with a tiny stalagmite island just to the
+north-east of here.  A large rocky overhang shields a rocky shore 
+immediately to the west.
+~
+46 8 0 0 0 3 255 0
+D0
+The shallow underground lake continues.
+~
+~
+0 0 4735
+D1
+The shallow underground lake continues.
+~
+~
+0 0 4740
+D3
+The small rocky shore is littered with stones.
+~
+~
+0 0 4762
+S
+#4740
+Shallow Lake in a Huge Cavern~
+   The waters in this lake are only about four feet deep and immensely
+cold.  The smells of subterranean minerals fill the air as the crashing
+sounds of a small waterfall resound far off to the north-east.  The lake
+continues to the east and west with a tiny stalagmite island just to the
+north of here.  A small rocky shore lies to the south.    
+~
+46 8 0 0 0 3 255 0
+D0
+The small stalagmite island is there.
+~
+~
+0 0 4736
+D1
+The underground lake continues over there.
+~
+~
+0 0 4741
+D2
+The rocky shore is large, sloping upwards to the east.
+~
+~
+0 0 4742
+D3
+The underground lake continues there.
+~
+~
+0 0 4739
+S
+#4741
+Shallow Lake in a Huge Cavern~
+   The lake comes to an end here on a twenty foot tall rock wall.  The ledge
+above slopes down to the north and west, becoming almost even with the
+water line in both directions.  Huge stalactites hang ominously from the 
+ceiling high above like giant icicles of gray stone.  The splashing sounds of
+the waterfall can be heard to the north, barely visible beneath the soft glow
+of glowing purple fungus.
+~
+46 8 0 0 0 3 255 0
+D0
+The underground lake continues in that direction.
+~
+~
+0 0 4737
+D3
+The underground lake continues in that direction.
+~
+~
+0 0 4740
+S
+#4742
+Rocky Shoreline~
+   The lake comes to an end here upon a limestone beach, slippery from 
+the high humidity here.  The cavern slants upwards to the east, rising
+above the water line about twenty feet.  The cold waters of the lake lead 
+off to the north, and no other visible exit from this cavern can be seen 
+except the small shaft in the ceiling leading upwards.
+~
+46 12 0 0 0 2 255 0
+D0
+The shallow underground lake is there.
+~
+~
+0 0 4740
+D1
+The beach angles upwards in that direction.
+~
+~
+0 0 4744
+D3
+A small path continues across the cavern there.
+~
+~
+0 0 4771
+S
+#4743
+Rocky Shoreline~
+   The lake comes to an end here upon a limestone beach, slippery from 
+the high humidity here.  The cavern slants upwards to the south, rising
+above the water line about twenty feet.  The cold waters of the lake lead 
+off to the west, and no other visible exit from this cavern can be seen 
+except a large crack in wall here, that might be just large enough to allow
+someone to slip through.
+~
+46 12 0 0 0 2 255 0
+D1
+The crack is about a foot and a half wide.
+~
+~
+0 0 4778
+D2
+The cavern angles upwards in that direction.
+~
+~
+0 0 4744
+D3
+The shallow underground lake begins there.
+~
+~
+0 0 4737
+S
+#4744
+Rocky Cliff in a Huge Cavern~
+   This cliff stands about twenty feet above the cavern floor, giving a 
+complete view of the entire cavern.  The lake is about two hundred feet 
+in diameter, occupying most of the cavern with a small waterfall splashing 
+down from the north wall.  The ceiling rises up to a height of nearly a 
+hundred feet, with great stalactites thrusting downwards like mighty spears.  
+On the caverns west side, what appears to be a rocky overhang shields 
+a small beach from sight.  The cliff slopes down to the west and north, 
+meeting the waters edge below.  A small tunnel cuts into the stone wall 
+here.
+~
+46 8 0 0 0 2 255 0
+D0
+The cliff angles down to the lake shore below.
+~
+~
+0 0 4743
+D2
+The tunnel leads into darkness.
+~
+~
+0 0 4745
+D3
+The cliff angles down to the lake shore below.
+~
+~
+0 0 4742
+S
+#4745
+Cavernous Tunnel~
+   The walls of ceiling of this small passageway fit more to the size of 
+a tunnel than a cavern, though it's natural features prove it not to be 
+man made.  There are no stalactites or stalagmites in this tunnel.  The 
+humidity in here is quite thick, filled with the smells of subterranean 
+minerals.  To the south, the tunnel opens up into a larger cavern, while 
+the northern side leads back out onto the rocky ledge.
+~
+46 13 0 0 0 2 255 0
+D0
+The passageway ends upon the small ledge.
+~
+~
+0 0 4744
+D2
+The cavern opens into what looks like a very muddy area.
+~
+~
+0 0 4746
+S
+#4746
+Mud Filled Cavern~
+   The floor of this cavern is entirely submerged in thick black mud, and 
+probably is quite deep.  The sludge is so viscous that walking upon it is
+actually possible without sinking in.  The area itself is about a three hundred
+feet in diameter, larger than the huge cavern back to the north, but much 
+shorter with a ceiling eighty feet high.  This large area continues to the 
+east and south of here, with a small passageway leading back to the north.
+~
+46 9 0 0 0 5 255 0
+D0
+The passageway leads back towards the rocky ledge.
+~
+~
+0 0 4745
+D1
+The mud filled cavern continues.
+~
+~
+0 0 4748
+D2
+The mud filled cavern continues.
+~
+~
+0 0 4747
+S
+#4747
+Mud Filled Cavern~
+   The floor of this cavern is entirely submerged in thick black mud, and 
+probably is quite deep.  The sludge is so viscous that walking upon it is
+actually possible without sinking in.  The area itself is about a three hundred
+feet in diameter, larger than the huge cavern back to the north, but much 
+shorter with a ceiling eighty feet high.  This large area continues to the 
+east and north of here.
+~
+46 9 0 0 0 5 255 0
+D0
+The mud filled cavern continues.
+~
+~
+0 0 4746
+D1
+The mud filled cavern continues.
+~
+~
+0 0 4749
+S
+#4748
+Mud Filled Cavern~
+   The floor of this cavern is entirely submerged in thick black mud, and 
+probably is quite deep.  The sludge is so viscous that walking upon it is
+actually possible without sinking in.  The area itself is about a three hundred
+feet in diameter, larger than the huge cavern back to the north, but much 
+shorter with a ceiling eighty feet high.  This large area continues to the 
+west and south of here.
+~
+46 9 0 0 0 5 255 0
+D2
+The mud filled cavern continues.
+~
+~
+0 0 4749
+D3
+The mud filled cavern continues.
+~
+~
+0 0 4746
+S
+#4749
+Mud Filled Cavern~
+   The floor of this cavern is entirely submerged in thick black mud, and 
+probably is quite deep.  The sludge is so viscous that walking upon it is
+actually possible without sinking in.  The area itself is about a three hundred
+feet in diameter, larger than the huge cavern back to the north, but much 
+shorter with a ceiling eighty feet high.  This large area continues to the 
+north and west of here.
+~
+46 9 0 0 0 5 255 0
+D0
+The mud filled cavern continues.
+~
+~
+0 0 4748
+D3
+The mud filled cavern continues.
+~
+~
+0 0 4747
+S
+#4750
+Carved-Out Chamber~
+   This chamber is about forty feet in diameter and ten feet high.  The room 
+has been perfectly carved out of the limestone rock, with glassy smooth 
+walls.  It must have taken a greatly skilled group of miners to accomplish 
+this feat.  There are two doors in the room, one directly above that looks like 
+the backside of a secret or concealed door, and a larger one in the north 
+wall.  The northern door is made from a stone that is identical to jade, with 
+the texture of marble.  The jade doors only blemish is a very small key hole 
+on it's upper left corner.  This chamber is otherwise featureless, and why 
+someone would carve out a place like this remains a mystery.
+~
+46 9 0 0 0 1 255 0
+D0
+The door is glassy smooth, with no handles or grips of any kind.
+~
+jade stone door~
+2 4620 4751
+D4
+The concealed door is expertly designed to look exactly like a part of the 
+wall. 
+~
+rock~
+1 0 4761
+E
+jade door~
+Upon closer examination of the door you do notice one other feature.  
+At the exact center, a tiny spider has been engraved into the stone.  It 
+is only about a centimeter in size, and is highly detailed.  It's appearance 
+presents just more evidence that this room must have been constructed 
+by master craftsmen.
+~
+S
+#4751
+Carved Out Tunnel~
+   This tunnel's construction is a mirror of the circular chamber to the 
+south, with walls carved totally smooth.  The rock at this great depth 
+is extremely hard, with a smooth texture that almost looks polished 
+making it nearly frictionless.  The corridor is a perfect ten feet square, 
+and continues on to the north for another fifty feet.  The carved out 
+circular chamber is to the south of here.
+~
+46 73 0 0 0 1 255 0
+D0
+The carved out tunnel continues in that direction.
+~
+~
+0 0 4752
+D2
+The jade stone door has no handholds of any kind.
+~
+jade stone door~
+2 4620 4750
+S
+#4752
+Turn in a Carved Out Tunnel~
+   The glassy smooth tunnel makes a perfect ninety degree turn here 
+from the south to the east, leading into darkness in both directions.  
+The rock that this corridor was cut from is totally black, with dull gray 
+lines ore running through it giving these tunnels a very dark and 
+foreboding appearance.  The stone has been mined so smooth as 
+to be almost frictionless, making it a bit slippery to walk through.
+~
+46 9 0 0 0 1 255 0
+D1
+The carved out tunnel continues in that direction another twenty feet.
+~
+~
+0 0 4753
+D2
+The carved out tunnel continues in that direction for some distance.
+~
+~
+0 0 4751
+S
+#4753
+Circular Room~
+   This room is about fifteen feet in diameter with a flat floor and ceiling.  
+The craftsmanship of the mining here is very exquisite, with walls carved 
+smoother than any miner on the surface world could dream of.  The reason 
+for the awesome craftsmanship of this area becomes apparent from the 
+large image carved on the north wall.  There is a shaft in the exact center of 
+the room leading downwards, and a carved tunnel heading to the west.  No 
+other exits from this chamber are visible.
+~
+46 9 0 0 0 1 255 0
+D3
+The carved out tunnel leads off in that direction.
+~
+~
+0 0 4752
+D5
+The shaft leads down into darkness...
+~
+~
+0 0 4754
+E
+image carving~
+The image carved into the wall is of a huge eight legged spider, with a 
+humans head and large razor sharp mandibles.  The face of the spider 
+looks vaguely female, wearing a twisted and evil expression.  A single line 
+of text accompanies the spider at the base of the image, written in a very 
+ornate language that is definitely NOT common.  The writing is more akin 
+to elven in some respects.  Taken as a whole, the image speaks loudly 
+that whoever carved these caves either worked for, or were members of, 
+the Drow elven race...
+~
+S
+#4754
+Carved-Out Shaft~
+   This vertical tunnel leads extends some hundred feet in total length, and 
+continues further downwards.  A small chamber opens up directly above.
+The shaft has been carved glassy smooth, with fine gray lines decorating 
+the totally black stone.  Climbing down the shaft is made completely 
+impossible from the smooth nature of the tunnel.
+~
+46 9 0 0 0 9 255 0
+D4
+The shaft breaks out into a small chamber there.
+~
+~
+0 0 4753
+D5
+The shaft continues downwards.
+~
+~
+0 0 4781
+S
+#4755
+Carved-Out Shaft~
+   This vertical tunnel leads extends some hundred feet in total length, and 
+continues further downwards.  The tunnel continues up for some distance.
+The shaft has been carved glassy smooth, with fine gray lines decorating 
+the totally black stone.  Climbing down the shaft is made completely 
+impossible from the smooth nature of the tunnel.  Directly below the 
+shaft opens upon a large cavern.
+~
+46 9 0 0 0 9 255 0
+D4
+The shaft continues upwards.
+~
+~
+0 0 4784
+D5
+The shaft enters a large cavern there.
+~
+~
+0 0 4756
+S
+#4756
+Above a Black Cavern~
+   The tunnel exits into a large cavern here that is about two hundred 
+feet in height.  The stone of this entire natural cavern is totally black, 
+with lines of hardened magma stone running through it.  The stalactites 
+a few in number here, and those that do hang downwards are all rounded 
+on the ends, not sharp.  There eerie affect at having millions of tons of 
+rock looming ominously above is very unsettling at this great depth.  
+The cavern floor below is uneven, looking like a molten sea of stone 
+that froze solid in warped patterns of black rock.
+~
+46 13 0 0 0 9 255 0
+D4
+The shaft leads upwards into darkness in that direction.
+~
+~
+0 0 4755
+D5
+The cavern floor is very uneven, but glassy smooth below.
+~
+~
+0 0 4757
+S
+#4757
+Black Cavern~
+   The floor here looks more like a plane of rolling hills than an 
+underground cavern, extending onwards to the east about three 
+hundred feet.  A dozen or so large stalactites hang from the ceiling 
+of black rock above, all with rounded tips as opposed to pointed 
+ones that can be found at higher depths.  The stone of this cavern 
+is totally black in color, with thin gray textures of compressed magma 
+stone mixed in giving it a layered appearance.  High above on the 
+ceiling, some two hundred feet up, a small shaft climbs out of sight.
+~
+46 521 0 0 0 3 255 0
+D1
+The cavern continues in that direction for another three hundred feet.
+~
+~
+0 0 4758
+D4
+The shaft is quite a ways up.
+~
+~
+0 0 4756
+S
+#4758
+Black Cavern~
+   The floor here looks more like a plane of rolling hills than an 
+underground cavern, extending onwards to the west about three 
+hundred feet.  A dozen or so large stalactites hang from the ceiling 
+of black rock above, all with rounded tips as opposed to pointed 
+ones that can be found at higher depths.  The stone of this cavern 
+is totally black in color, with thin gray textures of compressed magma 
+stone mixed in giving it a layered appearance.  The unsettling feeling
+of having millions of tons of rock above is very strong in this cavern.    
+Directly to east of here, the cavern narrows down to a small cave.
+~
+46 521 0 0 0 3 255 0
+D1
+The cavern comes to an end up ahead.
+~
+~
+0 0 4759
+D3
+The black cavern continues about three hundred feet in that direction.
+~
+~
+0 0 4757
+S
+#4759
+End of a Black Cavern~
+   The long black cavern comes to an end here, funneling down from a 
+height of nearly a hundred in the cavern west of here.  A thin, rocky
+corridor branches off to the east at the funnel's end, leading into darkness.
+The walls and floor of this cavern are warped and uneven, with thin lines
+of gray magma stone tracing out swirling patterns in the rock.
+~
+46 521 0 0 0 2 255 0
+D1
+The small black corridor leads into darkness there.
+~
+~
+0 0 4760
+D3
+The black cavern widens out in that direction.
+~
+~
+0 0 4758
+S
+#4760
+Rounded Passageway~
+   This ten foot rounded passageway leads north away from the cavern, 
+at a slight angle downwards.  The passage is a natural one, with a slightly 
+uneven ground.  Footprints are clearly visible in the mineral dust on the 
+tunnel's floor, with feet slightly smaller than one might expect from a human 
+traveler.  The tunnel widens out to the east.  
+~
+46 13 0 0 0 2 255 0
+D1
+The tunnel gets a bit wider there.
+~
+~
+0 0 4805
+D3
+A large, black cavern begins there.
+~
+~
+0 0 4759
+S
+#4761
+Shore Beneath a Rocky Overhang~
+   A thirty foot deep gash has been cut into the western cavern wall here, 
+creating a small beach beneath a rocky overhang.  The deep gouge seems 
+to have been naturally eroded away over the millennia, continuing further 
+on to the south.  Erosion had no part in creating the cave tunnel leading 
+to the west however, as chips and gouges all around it's entrance into the
+cave wall loudly suggest mining of some kind.  The underground lake 
+begins to the east of here.
+~
+46 13 0 0 0 2 255 0
+D1
+The underground lake begins there.
+~
+~
+0 0 4735
+D2
+The small beach continues that way.
+~
+~
+0 0 4762
+D3
+The cave tunnel is only about five feet wide.
+~
+~
+0 0 4776
+D5
+Nothing special there...
+~
+rock~
+1 0 4750
+S
+#4762
+Shore Beneath a Rocky Overhang~
+   A thirty foot deep gash has been cut into the western cavern wall here, 
+creating a small beach beneath a rocky overhang.  The deep gouge seems 
+to have been naturally eroded away over the millennia, continuing further 
+on to the north.  The underground lake begins to the east of here.
+~
+46 13 0 0 0 2 255 0
+D0
+The rocky beach continues in that direction.
+~
+~
+0 0 4761
+D1
+The underground lake begins there.
+~
+~
+0 0 4739
+D2
+A huge pile of stones marks where part of the wall caved in there.
+~
+~
+0 0 4772
+S
+#4763
+Trail in a Great Cavern~
+   A rough but well traveled trail cuts through the center of this mammoth 
+cavern here, leading towards the small complex in the distance.  Most of 
+the mighty stalactites looming above on the ceiling are coated with 
+glowing fungus, veiling the whole area in a violet hue.  A small tunnel 
+cuts into the cavern wall to the south of here.
+~
+46 8 0 0 0 1 255 0
+D0
+The path continues towards the settlement.
+~
+~
+0 0 4764
+D2
+The entrance to this cavern can be seen in that direction.
+~
+~
+0 0 4696
+E
+settlement village~
+The settlement consists of stone buildings, numbering twenty
+or so, and look like the homes for a race of short humanoids.
+~
+S
+#4764
+Trail in a Great Cavern~
+   A rough but well traveled trail cuts through the center of this mammoth 
+cavern here, leading towards the small complex just up ahead.  Most of 
+the mighty stalactites looming above on the ceiling are coated with 
+glowing fungus, veiling the whole area in a violet hue.  The entrance 
+tunnel into this cavern is ways south from here, while a small pond is to 
+the west.
+~
+46 12 0 0 0 1 255 0
+D0
+The path reaches the settlement there.
+~
+~
+0 0 4704
+D2
+The trail continues across the cavern.
+~
+~
+0 0 4763
+D3
+The pond is just west of here.
+~
+~
+0 0 4765
+S
+#4765
+Small Pond~
+   A ten foot pond of clear water sits nested in a shallow dip of the
+cavern's floor here.  The pond can't be more than a few feet deep 
+at best.  The trail to the east of here leads through the center of the 
+cavern, connecting the small settlement to the cavern entrance.
+~
+46 8 0 0 0 1 255 0
+D1
+The trail leads across the cavern there.
+~
+~
+0 0 4764
+E
+pond~
+The pond's water is a bit stagnant, a carries a slight odor.
+~
+S
+#4766
+Cavern Wall in a Great Cavern~
+   The cavern wall runs about a hundred feet straight up and down here.  
+Far below a small trail cuts across the cavern into a settlement nested 
+in the center of this immense area.  High above, a small ledge runs 
+along the caverns eastern wall.  There is absolutely no way that anyone
+could climb this wall, as it's face is almost completely smooth.   
+~
+46 8 0 0 0 9 255 0
+D4
+There is a small ledge is about a hundred feet above.
+~
+~
+0 0 4703
+D5
+The ground is about a hundred feet below.
+~
+~
+0 0 4767
+S
+#4767
+Trail in a Great Cavern~
+   A rough but well traveled trail cuts through the center of this mammoth 
+cavern here, leading towards the small complex in the distance.  Most of 
+the mighty stalactites looming above on the ceiling are coated with 
+glowing fungus, veiling the whole area in a violet hue.  There is large
+mushroom forest to the south along the path.
+~
+46 8 0 0 0 1 255 0
+D2
+The path runs into the mushroom forest in that direction.
+~
+~
+0 0 4768
+D4
+A small ledge is barely visible high above.
+~
+~
+0 0 4766
+S
+#4768
+Mushroom Forest in a Great Cavern~
+   Thousands upon thousands of large green mushrooms form a small 
+forest in this area of the great cavern.  A four foot wide path has been 
+cut through the forest here, leading off towards the small complex in the 
+distance, from which thin trails of black smoke rise upwards.  Some two 
+hundred feet up from here, a small ledge runs the entire length of the 
+cavern along the eastern wall, though no means can been seen to reach 
+it with flying.
+~
+46 8 0 0 0 2 255 0
+D0
+The path runs into the northern cavern wall ahead.
+~
+~
+0 0 4767
+D2
+The trail leads through the mushroom forest.
+~
+~
+0 0 4769
+S
+#4769
+Path in a Mushroom Forest~
+   This four foot wide path cuts straight through the forest here, where 
+thousands of large green mushrooms grow in abundance.  The mushrooms
+themselves are streaked with small violet lines across their top's, that 
+seem to reflect and absorb the glowing hue of the purple fungus high 
+above on the cavern's ceiling.  The path heads from north to south here, 
+leading on towards the small settlement at the cavern's center.
+~
+46 12 0 0 0 2 255 0
+D0
+The path leads out of the forest, towards the cavern wall.
+~
+~
+0 0 4768
+D2
+the path leads out of the forest, and towards the settlement.
+~
+~
+0 0 4770
+S
+#4770
+Center of a Great Cavern~
+   The ceiling reaches it's highest point above this area in the cavern, about 
+two hundred feet up.  The ground is rocky and uneven here, with only a very 
+vague trail connecting the forest to the settlement, just south of here.  A 
+small rock wall three feet in height surrounds the complex on this side.
+~
+46 12 0 0 0 2 255 0
+D0
+The vague trail comes upon a mushroom forest.
+~
+~
+0 0 4769
+D2
+The vague trail comes up the small settlement.
+~
+~
+0 0 4715
+S
+#4771
+Huge Cavern~
+   This area of the cavern is relatively flat, filled with dozens of small 
+pools in shallow dips across the rocky floor.  Thick humidity and the 
+pungent odor of subterranean minerals fill the air.  High above mighty 
+stalactites hang ominously from the ceiling downwards, some as long 
+as fifty feet in length.  The path continues to the east, where it meets a 
+large lake at the caverns center, while to the west a huge pile of stones 
+has collected against the rocky wall.
+~
+46 8 0 0 0 2 255 0
+D1
+There is a rocky beach in that direction.
+~
+~
+0 0 4742
+D3
+A huge pile of stones marks where part of the wall caved in.
+~
+~
+0 0 4772
+S
+#4772
+Caved In Wall~
+    A huge pile of stones and rubble has collected against the west wall
+here, obviously as part of a cave in.  Large cracks run upwards on the
+cavern wall, indicating it's relative instability.  Some of the huge cracks 
+get as large as three feet in width, with one that looks large enough to
+travel through leading south into darkness.  The horrifying realization
+that there is a million of tons of rock hanging directly above is extremely
+unsettling here.
+~
+46 8 0 0 0 2 255 0
+D0
+A small rocky overhang leads along the lake shore there.
+~
+~
+0 0 4762
+D1
+A path leads across the cavern in that direction.
+~
+~
+0 0 4771
+D2
+The crack is just wide enough to fit through.
+~
+~
+0 0 4773
+S
+#4773
+Rubble Filled Cave~
+   The crack opens up into a small rubble filled cave that can't be much 
+larger than eight feet in diameter.  The floor is covered in rocks, making 
+footing a bit tricky in this cramped area.  The only exit leads out to the 
+north, back into the huge cavern.
+~
+46 9 0 0 0 5 255 0
+D0
+The crack leads back out into the cavern.
+~
+~
+0 0 4772
+S
+#4774
+Shallow Lake in a Huge Cavern~
+   The waters in this lake are only about four feet deep and immensely
+cold.  The smells of subterranean minerals fill the air as the crashing
+sounds of a small waterfall resound directly to the east of here.  The lake
+continues to the west with a tiny stalagmite island to the south.  There is
+a large rocky overhang shielding a rocky shore off to the west a ways.
+~
+46 8 0 0 0 3 255 0
+D1
+The waterfall splashes down into the lake their.
+~
+~
+0 0 4738
+D2
+The stalagmite island is over there.
+~
+~
+0 0 4736
+D3
+The shallow underground lake continues there.
+~
+~
+0 0 4775
+S
+#4775
+Shallow Lake in a Huge Cavern~
+   The waters in this lake are only about four feet deep and immensely
+cold.  The smells of subterranean minerals fill the air as the crashing
+sounds of a small waterfall resound directly to the east of here.  The lake
+continues to the east and south with a tiny stalagmite island off to the
+south-east.  There is  a large rocky overhang shielding a rocky shore 
+to the south-west of here.
+~
+46 8 0 0 0 3 255 0
+D1
+The shallow underground lake continues in that direction.
+~
+~
+0 0 4774
+D2
+The shallow underground lake continues in that direction.
+~
+~
+0 0 4735
+S
+#4776
+Cave Tunnel~
+   This rough cave tunnel has an unpleasant smell to it, similar to that of 
+human body odor.  The tunnel continues to the west another thirty feet or
+so, where it connects to another cave.  There is none of the glowing 
+fungus in this eight foot wide corridor.
+~
+46 9 0 0 0 2 255 0
+D1
+The huge cavern opens up in that direction.
+~
+~
+0 0 4761
+D3
+The tunnel connects to a larger cave there.
+~
+~
+0 0 4777
+S
+#4777
+Cave Dwelling~
+   This fifty foot wide cave appears to be the home for at least one humanoid.
+A large wooden bed is shoved against the north wall, while a huge table  
+occupies the rooms center.  There are two chairs on either side of the table.
+The chamber resembles a bargaining room of some kind, that is also 
+occupied from time to time.  A narrow tunnel leads out to the east.
+~
+46 9 0 0 0 2 255 0
+D1
+The rough tunnel leads back out into the huge cavern.
+~
+~
+0 0 4776
+S
+#4778
+Crack in the Huge Cavern Wall~
+   This crack in the cavern wall is only about one and a half feet wide,
+making travel very slow and difficult.  The crack runs another twenty
+feet to the east, deeper into the rock where it widens out a little more.
+The huge cavern is back to the west.
+~
+46 9 0 0 0 5 255 0
+D1
+The crack gets a bit wider up ahead.
+~
+~
+0 0 4779
+D3
+The huge cavern opens up there.
+~
+~
+0 0 4743
+S
+#4779
+Wide Crack in the Huge Cavern Wall~
+   This area of the crack in the is about three feet wide, making travel 
+slow but not quite as difficult.  The crack runs another twenty or so
+feet to the west, where it opens out into a huge cavern beyond.  A
+naturally eroded cave opens up to the south.
+~
+46 9 0 0 0 5 255 0
+D2
+A tight squeeze leads into a small cave there.
+~
+~
+0 0 4780
+D3
+The crack gets narrower in that direction.
+~
+~
+0 0 4778
+S
+#4780
+Small Pocket-Like Cave~
+   This cave resembles a ten foot circular sphere that was naturally eroded
+out of the limestone rock over millions of years.  A tiny crack just barely
+large enough for one humanoid to fit through leads out to the north.
+~
+46 9 0 0 0 3 255 0
+D0
+The crack leads into a larger one out there.
+~
+~
+0 0 4779
+S
+#4781
+Carved-Out Shaft~
+   This vertical tunnel leads extends some hundred feet in total length, and 
+continues further downwards.  The tunnel continues up for some distance.
+The shaft has been carved glassy smooth, with fine gray lines decorating 
+the totally black stone.  Climbing down the shaft is made completely 
+impossible from the smooth nature of the tunnel.  
+~
+46 9 0 0 0 9 255 0
+D4
+The shaft continues into darkness.
+~
+~
+0 0 4754
+D5
+The shaft continues into darkness.
+~
+~
+0 0 4782
+S
+#4782
+Carved-Out Shaft~
+   This vertical tunnel leads extends some hundred feet in total length, and 
+continues further downwards.  The tunnel continues up for some distance.
+The shaft has been carved glassy smooth, with fine gray lines decorating 
+the totally black stone.  Climbing down the shaft is made completely 
+impossible from the smooth nature of the tunnel.  
+~
+46 9 0 0 0 9 255 0
+D4
+The tunnel continues into darkness.
+~
+~
+0 0 4781
+D5
+The tunnel continues into darkness.
+~
+~
+0 0 4783
+S
+#4783
+Carved-Out Shaft~
+   This vertical tunnel leads extends some hundred feet in total length, and 
+continues further downwards.  The tunnel continues up for some distance.
+The shaft has been carved glassy smooth, with fine gray lines decorating 
+the totally black stone.  Climbing down the shaft is made completely 
+impossible from the smooth nature of the tunnel.  
+~
+46 9 0 0 0 9 255 0
+D4
+The tunnel continues into darkness.
+~
+~
+0 0 4782
+D5
+The tunnel continues into darkness.
+~
+~
+0 0 4784
+S
+#4784
+Carved-Out Shaft~
+   This vertical tunnel leads extends some hundred feet in total length, and 
+continues further downwards.  The tunnel continues up for some distance.
+The shaft has been carved glassy smooth, with fine gray lines decorating 
+the totally black stone.  Climbing down the shaft is made completely 
+impossible from the smooth nature of the tunnel.  
+~
+46 9 0 0 0 9 255 0
+D4
+The tunnel continues into darkness.
+~
+~
+0 0 4783
+D5
+The tunnel continues into darkness.
+~
+~
+0 0 4755
+S
+#4785
+Small Cave~
+   This twenty foot cave is covered in thick black sticky webs from 
+floor to ceiling.  A foul stench pollutes the air of this cave, and is
+nearly unbearable.  This appears to be a lair for some form of arachnid, 
+the only exits being the cave to the south.
+~
+46 13 0 0 0 2 255 0
+D2
+The cave continues.
+~
+~
+0 0 4630
+S
+#4786
+Small Cave~
+   This twenty foot cave is covered in thick black sticky webs from 
+floor to ceiling.  A foul stench pollutes the air of this cave, and is
+nearly unbearable.  This appears to be a lair for some form of arachnid, 
+the only exits being the cave to the east.
+~
+46 13 0 0 0 2 255 0
+D1
+The cave opens back out into the mushroom cavern.
+~
+~
+0 0 4629
+S
+#4787
+Small Cave~
+   This twenty foot cave is covered in thick black sticky webs from 
+floor to ceiling.  A foul stench pollutes the air of this cave, and is
+nearly unbearable.  This appears to be a lair for some form of arachnid, 
+the only exits being the cavern below.
+~
+46 13 0 0 0 2 255 0
+D5
+The hole leads back into the cavern below.
+~
+~
+0 0 4628
+S
+#4788
+Tunnel of Intense Light~
+   This narrow tunnel radiates an incredibly bright green light from 
+every direction.  The intensity is of the light is such that no mortal
+human could stand to look upon it without shielding their eyes.
+A shadowy vapor fills the area, blurring vision and making it very
+difficult to see anything.  The air in here is thick and intensely hot, 
+with small blue bolts of magical energy sparking from wall to wall 
+every few seconds.  Because of the brightness, what lies at the end 
+of the tunnel cannot be seen.  This is the kind of place that children
+have nightmares about, a place that would strike terror into the 
+hearts of all but those with godlike gallantry and a will of steel.   
+~
+46 140 0 0 0 5 255 0
+D3
+AAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!
+Pain RIPS through your head as you attempt to gaze into the searing bright
+light of the tunnel beyond..
+~
+~
+0 0 4616
+S
+#4789
+On an Underground River~
+   The river is shallow here, only about eight feet deep making the 
+current in this cavern much more turbulent.  Water sprays upwards
+in several different places as it crashes against stalagmites on it's
+southerly march.  The cavern here is only ten or fifteen feet high,
+with large stalactites protruding down into the water's current.
+~
+46 8 0 0 0 7 255 0
+D0
+The underground river continues.
+~
+~
+0 0 4634
+D2
+The underground river continues.
+~
+~
+0 0 4790
+S
+#4790
+On a Great Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint, and continues on to the north 
+and south.  The area is illuminated in a pale light by a strange, 
+purple glowing fungus that covers the walls and ceiling of the cavern.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4789
+D2
+The river continues.
+~
+~
+0 0 4791
+S
+#4791
+Huge Cavern on an Underground River~
+   This cavern is probably two hundred feet wide, and a thousand
+feet in total length, continuing on further to the south.  The river's 
+current is much more calm here, flowing quietly past a dozen or so
+large stalagmites that rise out of the water, connecting to the ceiling 
+above.  The river is immensely cold, and very clear though the 
+bottom is to far down to see.  The area is illuminated in a pale light 
+by a strange, purple glowing fungus that covers the walls and ceiling 
+of the cavern.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4790
+D2
+The river continues.
+~
+~
+0 0 4792
+S
+#4792
+Huge Cavern on an Underground River~
+   This cavern is probably two hundred feet wide, and a thousand
+feet in total length, continuing on further to the north.  The river's 
+current is much more calm here, flowing quietly past a dozen or so
+large stalagmites that rise out of the water, connecting to the ceiling 
+above.  The river is immensely cold, and very clear though the 
+bottom is to far down to see.  The area is illuminated in a pale light 
+by a strange, purple glowing fungus that covers the walls and ceiling 
+of the cavern.  The cavern narrows considerably to the south of here.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4791
+D2
+The river continues.
+~
+~
+0 0 4793
+S
+#4793
+On a Great Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint and continues on to the south, 
+while entering a much larger cavern to the north.  The area is  
+illuminated in a pale light by a strange, purple glowing fungus that 
+covers the walls and ceiling of the cavern.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4792
+D2
+The river continues.
+~
+~
+0 0 4794
+S
+#4794
+On a Great Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint, and continues on to the north 
+and south.  The area is illuminated in a pale light by a strange, 
+purple glowing fungus that covers the walls and ceiling of the cavern.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4793
+D2
+The river continues.
+~
+~
+0 0 4635
+S
+#4795
+Thin Cavern on an Underground River~
+   The cavern in this part of the river thins out to about twenty feet 
+at it's widest, forcing the water line upwards to occupy more of the cavern.  
+There is only about five feet of head clearance in this area of the cavern.  
+The current is a bit more brisk here, making northerly travel difficult, 
+but not impossible.  There is less of the glowing fungus illuminating the 
+area here.
+~
+46 9 0 0 0 7 255 0
+D0
+The river continues there.
+~
+~
+0 0 4796
+D2
+The river continues on a wider path there.
+~
+~
+0 0 4672
+S
+#4796
+An Underground River~
+   This great river's brisk current is strong, but not enough so to 
+inhibit travel in either direction.  The water is immensely cold, and 
+very clear though the bottom is too far down to see.  The river itself 
+reaches to the cavern's midpoint, and continues on to the north 
+and south into more narrow areas.  The area is illuminated in a pale 
+light by a strange, purple glowing fungus that covers the walls and 
+ceiling of the cavern.
+~
+46 8 0 0 0 7 255 0
+D0
+The river continues.
+~
+~
+0 0 4797
+D2
+The river continues.
+~
+~
+0 0 4795
+S
+#4797
+Thin Cavern on an Underground River~
+   The cavern in this part of the river thins out to about twenty feet 
+at it's widest, forcing the water line upwards to occupy more of the cavern.  
+There is only about five feet of head clearance in this area of the cavern.  
+The current is a bit more brisk here, making northerly travel difficult, 
+but not impossible.  There is less of the glowing fungus illuminating the 
+area here.
+~
+46 9 0 0 0 7 255 0
+D0
+The river continues there.
+~
+~
+0 0 4673
+D2
+The river continues on a wider path there.
+~
+~
+0 0 4796
+S
+#4798
+Stone Dwelling~
+   This appears to be a dwarven home of from its cramped size, though 
+it is very sparsely furnished.  The chamber is about twenty feet square, 
+with several beds neatly placed against one wall.  The beds, along with a 
+large wooden table are about the only other furnishings of note in this 
+building, which has a single exit leading out to the north.
+~
+46 12 0 0 0 1 255 0
+D0
+Out there you see the street of stones.
+~
+~
+0 0 4801
+S
+#4799
+Stone Dwelling~
+   This appears to be a dwarven home of from its cramped size, though 
+it is very sparsely furnished.  The chamber is about twenty feet square, 
+with several beds neatly placed against one wall.  The beds, along with a 
+large wooden table are about the only other furnishings of note in this 
+building, which has a single exit leading out to the east.
+~
+46 12 0 0 0 1 255 0
+D1
+Out there you see the street of stones.
+~
+~
+0 0 4801
+S
+#4800
+Stone Dwelling~
+   This appears to be a dwarven home of from its cramped size, though 
+it is very sparsely furnished.  The chamber is about twenty feet square, 
+with several beds neatly placed against one wall.  The beds, along with a 
+large wooden table are about the only other furnishings of note in this 
+building, which has a single exit leading out to the south.
+~
+46 12 0 0 0 1 255 0
+D2
+Out there you see the street of stones.
+~
+~
+0 0 4801
+S
+#4801
+End of a Street of Stones~
+   The street comes to an abrupt end upon a large fifteen foot tall wall
+of rock here.  The wall is probably used to defend the complex against
+outside invasion, and looks pretty thick.  There are small stone homes
+to the north, west, and south of here.  The street continues back to the 
+east.
+~
+46 8 0 0 0 1 255 0
+D0
+The entrance to a small stone building is there.
+~
+~
+0 0 4800
+D1
+The street of stones continues in that direction.
+~
+~
+0 0 4718
+D2
+The entrance to a small stone building is there. 
+~
+~
+0 0 4798
+D3
+The entrance to a small stone building is there.
+~
+~
+0 0 4799
+S
+#4802
+Humid Cavern~
+   The air in this long cavern is extremely humid and uncomfortably 
+warm.  The river itself widens out a little to about twenty feet across,
+and continues on it's easterly march.  The river's current is made more 
+turbulent here from dozens of stalagmites beneath the water line.  Back 
+to the west, the cavern bends around to the north.  A foot thick layer of
+steam or hot fog slowly flows along the top of the ceiling to the west.
+~
+46 8 0 0 0 7 255 0
+D1
+The river continues in that direction.
+~
+~
+0 0 4803
+D3
+The river makes a turn to the north there.
+~
+~
+0 0 4618
+S
+#4803
+Steam Filled Cavern~
+   The air of this hundred foot long cavern is filled with hot steamy vapor
+that slowly flows to the west against the river's current.  The steam seems
+to be emanating from a large open area to the east of here.  The river itself
+flows westward into the much larger area, though it is too foggy to see what 
+is there.  Thousands of small stalactites have formed on the ceiling from
+condensation, as the steam collects and falls back into the river.
+~
+46 8 0 0 0 7 255 0
+D1
+The river opens into a large area there.
+~
+~
+0 0 4804
+D3
+The river continues in that direction.
+~
+~
+0 0 4802
+S
+#4804
+Boiling Lake in an Underground Cavern~
+   The river flows into a large cavern that is perhaps two hundred feet
+in diameter and fifty feet tall.  Steam rises off of the waters surface,
+and the lake appears to be boiling near it's center, probably from some
+sort of volcanic activity far below.  The air is extremely hot and
+uncomfortable here, and vision is almost totally impaired from the waves
+of steam that slowly roll into the cavern leading out to the west.
+
+There are no other visible exits from this cavern.
+~
+46 8 0 0 0 7 255 0
+D3
+The river flows in from a smaller cavern there.
+~
+~
+0 0 4803
+S
+#4805
+Dark Tunnel~
+   This tunnel bends around from the east to the north, leading downwards
+slightly in both directions.  The floor is curved and uneven with a fine layer
+of sparkling mineral dust covering the ground.  The rock that this tunnel
+is carved out of is totally black, with an occasional line of gray making a 
+swirling pattern in the stone.  A smaller passage way leads off to the west.
+~
+46 9 0 0 0 1 255 0
+D0
+The tunnel continues into darkness there.
+~
+~
+0 0 4806
+D1
+The tunnel continues into darkness there.
+~
+~
+0 0 4808
+D3
+The small side branch leads off in that direction.
+~
+~
+0 0 4760
+S
+#4806
+Caved-In Tunnel~
+   This tunnel at one time split off in three directions, to the north, east,
+and south.  The northern branch has totally collapsed, blocking any chance
+of travel in that direction.  The huge mound of boulders looks a little too
+perfectly arranged however, indicating that the tunnel may have been 
+deliberately sealed off for some unknown reason.  The main tunnel continues
+back to the south, while a small side branch leads off to the east.
+~
+46 9 0 0 0 1 255 0
+D0
+A large pile of boulders is there.
+~
+rock boulder mound~
+1 0 21501
+D1
+A side branch leads off in that direction.
+~
+~
+0 0 4807
+D2
+The dark tunnel leads back in that direction.
+~
+~
+0 0 4805
+E
+boulder boulders rock rocks~
+The mound of rock looks at least ten feet thick, and there appears to be no
+visible way to bypass it.
+~
+S
+#4807
+Small Pool In a Dark Cave~
+   A fifteen foot diameter pool of water is nested in a shallow groove of this
+thirty foot wide cave.  The pool is only about four feet deep at it's center, 
+and appears to be somewhat stagnant.  Water slowly drips into the pool 
+from a thin crack along the ceiling of the cave, from which a cool draft 
+blows.  Tunnels lead to the west and south from here into darkness.
+~
+46 9 0 0 0 2 255 0
+D2
+It is far too dark to see what is down the tunnel
+~
+~
+0 0 4808
+D3
+The this tunnel leads into darkness.
+~
+~
+0 0 4806
+E
+pool water~
+The pool is definitely something that you would not want to drink from.
+~
+S
+#4808
+Dark Tunnel~
+   This tunnel makes a gradual turn from the west to the north.  Small rocks
+clutter the ground along with a fine layer of mineral dust.  A cool draft blows
+in from the northern passage, where it opens into a small cave.
+~
+46 9 0 0 0 1 255 0
+D0
+The tunnel opens into a small cave.
+~
+~
+0 0 4807
+D3
+The dark tunnel continues.
+~
+~
+0 0 4805
+S
+$~

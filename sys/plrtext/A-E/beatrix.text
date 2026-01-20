@@ -1,0 +1,18 @@
+di cast 'detect invis'
+gt gtell &14[&10S&14]&10 $*  &14[&10K&14]&00
+cl clan &10$*&00
+regen cast 'regenerate'
+divine cast 'divine mission'
+dm cast 'divine mission'
+holy cast 'holy armor'
+infra cast 'righteous vision'
+cr cast 'crusade'
+spells cast 'holy armor';cast 'divine'; cast 'crusade'
+armor cast 'armor'
+c cast 'create food'
+title title :: &14Praise&00 the &10LORD&00 and pass the &14[/-\&10|\/\&14]munition!
+pfe cast 'protection from evil'
+j tell crysto rev
+a tell crysto word
+k tell gobias db
+o tell gobias assist

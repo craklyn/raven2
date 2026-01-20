@@ -1,0 +1,50 @@
+gr get elven sack
+pr put all.recall sack
+sd scan down
+pp put all.mug sack
+ctt c 'terror' $*
+dd disarm $*
+say say &07-&08$*&07 -&00
+backk tit &08Forsaken&00 to be &08Forever&00 &01Bleeding&07...&00
+kkk kick
+clan clan &14-&11$*&14 -&00
+gs gsay &14-&11$*&14 -&00
+prr put all.recall sack
+grr get recall sack
+pgg put all.roll sack
+ggg get all.roll all.corpse
+afkk  tit &08Forsaken&00 to be &08Forever A&00&14f&00&11K&00
+rt rescue link
+lic look in corpse
+eb eat bread
+gac get all corpse
+gcc get all.coins all.corpse
+sw scan w
+sn scan n
+aa assist
+rr recite recall
+se scan e
+ss scan s
+goinge emote &25&18&14GOING EAST!!!&00&00&00
+goingw emote &25&18&14GOING WEST!!!&00&00&00
+goingn emote &25&18&14GOING NORTH!!!&00&00&00
+gb get bread beet
+rrr rec rec recall
+gg get all all.greggles
+ccc c 'terror'
+kf kill guard
+pf put all.free beet
+mg murder gaius
+ma murder arian
+my murder yomar
+goings emote is &25&14&18Going South!!!&00&00&00
+bb shield
+ku kill 4.
+od open door
+ii rescue castrail
+gacc get all all.corpse
+gkk get all.know all.corpse
+kk kill 2.
+bbb bash
+dsd destroy 1.
+kj kill 1.

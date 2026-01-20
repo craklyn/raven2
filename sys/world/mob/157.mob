@@ -1,0 +1,454 @@
+#15700
+H R 0~
+jack man~
+Jack~
+A young man, one with the forest, stands on guard here.
+~
+You see before you a courageous and daring young man. Born to the Forest
+of Innocence, he lives in solitude with the animals. He is but the purest
+mortal to walk these lands.
+~
+32858 0 0 0 1180844 0 0 0 1000
+45 -10 -4 20d40+10000 10d6+25
+65 75
+9 9 1 0 0 0
+#15701
+H M 0~
+lily woman~
+Lily~
+A beautiful woman, dances in and out of sight.
+~
+You see before you stunning girl, dancing in circles.  The purity from this
+creature touches your soul.  At second glance, however, her flowing white
+dress transcends into a gown of evil.  And her partner, the black seductress,
+servant to the Lord of Darkness, becomes more vivid.
+~
+9594680 0 0 0 1213612 0 0 0 1000
+40 -20 -4 1d1+10000 9d9+30
+65 75
+9 9 2 23 0 15
+#15702
+N D 0~
+lord darkness~
+the Lord of Darkness~
+The Lord of Darkness whispers in your ear "&08It is your time to die.&00"
+~
+The Lord of Darkness is a massive demon. His skin glistens with the blood of
+his last kill, his hooves ready to crush you out of existence, and his horns
+sweep into impale you.
+~
+158332 0 0 0 2008236 0 0 0 -1000
+45 -20 -6 1d1+22000 10d9+55
+65 75
+9 9 1 22 8 9
+#15703
+N D 0~
+embrace father darkness evil~
+Father Darkness~
+You feel the embrace of death enfold you in its arms.
+~
+You are surrounded by a &13black presence&00 you have never known before, a
+presence few have ever returned from. When he speaks, you only hear the
+torrid screams of those who have dared to disturb him. And when he opens
+his eyes, you see the firey pits of Hell.
+~
+8646526 0 0 0 2000044 0 0 0 -1000
+51 -30 -9 1d1+25000 13d8+65
+70 80
+9 9 1 21 19 12
+#15704
+H W 0~
+nell peasent~
+Nell~
+A pleasant woman stands here, glowing with the radiance of purity.
+~
+A woman, worn by the years of a peasant life holds her hands out to
+you, offering a comforting hug and a glass of milk.
+~
+72 0 0 0 136236 0 0 0 1000
+30 10 -2 1d1+2000 2d5+10
+50 60
+9 9 2 0 -1 -1
+#15705
+G W 0~
+demon cook~
+the demon cook~
+A hideous creature hovers over a black pot, preparing a ghoulish feast.
+~
+Servant staff to the Lord of Darkness, this huge creature lumbers over you,
+wondering how your body parts will compliment the feast he is preparing.  His
+face is horribly disfugired and partially covered by a black leather mask.
+His body, hard and lean, could banish you from the premises.
+~
+18216 0 0 0 140332 0 0 0 -1000
+40 -7 -4 1d100+7000 1d55+25
+65 75
+9 9 0 0 -1 -1
+#15706
+I W 4~
+stone figurine gargoyle~
+the gargoyle~
+This tiny stone figurine watches you intenseley.
+~
+When you aren't looking at this stone demon, he is looking at you. His eyes
+serve as the eyes to his master, The Lord of Darkness.
+~
+16494 0 0 0 140332 0 0 0 -500
+30 10 -4 1d100+900 5d10+10
+50 60
+9 9 0 8 10 5
+#15707
+H D 0~
+creature vile goblin blix~
+Blix~
+A vile creature stands here, wielding the future of mankind in his hand.
+~
+Black as midnight, black as pitch, blacker than the foulest witch.
+~
+17002 0 0 0 99360 0 0 0 0
+35 10 -5 1d1+5000 10d2+30
+50 60
+9 9 1 8 0 -1
+#15708
+P W 0~
+vines entangling razor~
+the razor vine~
+A large mass of razor vines are here, choking out all vegetation.
+~
+   A creeping mass of vegetation moves about the ground, slicing all
+other plants and animals in its path to ribbons. This is a razor-vine,
+a foul plant spawned from the darkness.
+~
+524444 0 0 0 263228 0 0 0 -455
+14 0 1 2d600+3000 4d4+30
+35 40
+9 9 0 3 2 15
+#15709
+H D 0~
+goblin pox servant~
+Pox~
+The loyal servant to the Lord of Darkness waits for eternal darkness.
+~
+This ugly little wretch disgusts you with his mere presence. You decide
+to end his miserable existence (not to mention stench) right here and now.
+~
+17002 0 0 0 132140 0 0 0 -750
+35 -7 -11 1d1+3500 15d1+20
+50 60
+9 9 1 0 23 20
+#15710
+H R 0~
+blunder goblin~
+Blunder the Goblin~
+Blunder hides under the straw of this cell.
+~
+Below the frightening masks and ghoulish behavior, Blunder, brother to Brown Tom
+and Screwball, was once a pure creature.  He still struggles between the forces
+of good and evil for his rightful place in this land.
+~
+16458 0 0 0 656428 0 0 0 500
+30 -3 -7 1d1+1000 9d2+35
+50 60
+9 9 1 0 -1 -1
+#15711
+E R 0~
+small man gump honeythorn~
+Honeythorn~
+A small man begs you to fight the forces of evil.
+~
+Honey Thorn appears as a small boy, but is wise beyond his years.
+Born of the Forests of Innocence, he is on a trek to reclaim the light to
+the land and restore its beauty.
+~
+74 0 0 0 918580 0 0 0 1000
+35 -9 -7 1d1+5000 1d50+5
+50 60
+9 9 1 0 23 13
+#15712
+W R 0~
+brown tom old man fairy~
+Brown Tom~
+This little old man works fervently to put silver platters into position.
+~
+Brown Tom is a kind, old dwarf of 700 years.  When he isn't working to help his
+champion, he sips his Elderberry Wine.  
+~
+16458 0 0 0 136236 0 0 0 1000
+30 -15 -5 1d1+1500 2d14+15
+50 60
+9 9 1 0 -1 -1
+#15713
+W R 0~
+man dwarf tiny screwball~
+Screwball~
+A tiny dwarven man runs himself in circles around you.
+~
+Hundreds of years old, he has the spirit of a child, the wisdom of an elder, and
+the soul of an angel. 
+~
+16474 0 0 0 136236 0 0 0 1000
+30 -14 -9 1d1+1500 4d9+15
+50 60
+9 9 1 0 -1 -1
+#15714
+J C 0~
+una light faerie sprite~
+Una~
+A tiny light flickers around the room.
+~
+A pure sprite, she transforms from a flickering light, into a small girl. 
+Beware of her magic, as she cleverly uses it to decieve you into doing her
+bidding.  And her bidding, a kiss...  Fight the magic all you want, but a kiss
+may provide you with the key to your dilemna.
+~
+16459 0 0 0 201900 0 0 0 1000
+50 -20 -10 1d1+25000 1d100+50
+80 90
+9 9 2 0 -1 -1
+#15715
+T A 0~
+witch meg~
+Meg Mucklebones~
+A slimy green witch leaps out of the swampy waters at you.
+~
+This disformed creature has spent several of your lifetimes wading through the
+murky waters of this swamp.  She, unlike the other inhabitants of this area,
+does not wish to turn your soul black, but rather to simply feed her hunger with
+your flesh.
+~
+8540030 0 0 0 1246380 0 0 0 -1000
+35 -10 -9 1d1+7600 5d9+34
+50 60
+9 9 2 8 20 15
+#15716
+N A 0~
+mother night~
+the Mother of Night~
+The shadow of an ancient woman stands here, luring you into forbidden darkness.
+~
+Once a ravishing woman, the Mother of Night serves as evil's temptress.  Her
+breathtaking beauty and graceful movements are her weapons.  She can steal your
+soul and turn the blood in your veins cold before you take your next breath.
+~
+8580924 0 0 0 1212526 0 0 0 -1000
+42 -19 -9 1d1+10000 25d4+50
+65 75
+9 9 2 0 -1 -1
+#15717
+U H 0~
+mummy guard corpse~
+a Mummified Guard~
+A rotting corpse stands guard to the secrets of the tree.
+~
+This undead soul has stood guard to the Great Tree, Land of Sacrifice for the
+Wicked, as long as it has existed.  Once a man, loyal servant to the Lord of
+Darkness, this guard rose from the dead to continue his watch. 
+~
+149370 0 0 0 1213612 0 0 0 -1000
+49 -9 -10 100d100+8000 1d60+39
+70 80
+9 9 1 19 13 -1
+#15718
+U H 0~
+prescence shadow night~
+a shadow of the night~
+Within the shadows of the night, you feel an eerie presence.
+~
+This creature rises up from your shadows and looms overhead.  It moves with the
+stealth of the undead and threatens to suffocate you with your own silhouette.
+~
+8603516 0 0 0 1705068 0 0 0 -1000
+34 -10 -3 1d200+4000 4d12+40
+50 60
+9 9 1 0 -1 -1
+#15719
+U H 0~
+solace shadows~
+the Solace of the Shadows~
+The Solace of the Shadows fades in and out of sight.
+~
+This figure stands steadfast guard to the private chambers of the Lord of
+Darkness.  As you draw your weapon against this foe, you fear you may be
+striking at yourself.
+~
+9133674 0 0 0 1074431212 0 0 0 -1000
+43 -10 -11 3d1000+11000 8d8+69
+65 75
+9 9 1 19 17 15
+#15720
+A S 0~
+bear cub~
+a black bear cub~
+A black bear cub is here, trying to get honey from the beehive.
+~
+This cuddly bear dwarves you in his size, however, his is not frightening.  In
+fact, you see a very playful creature in his eyes.
+~
+16458 0 0 0 132268 0 0 0 1000
+30 4 -1 1d1+1000 1d10+10
+50 60
+9 9 1 8 20 -1
+#15721
+A S 0~
+queen bee ~
+the Queen~
+the Queen of this hive buzzes madly around your head.
+~
+This tiny pest has a fierce determination to protect its hive.
+~
+22890 0 0 0 136236 0 0 0 1000
+30 -10 -5 1d1+1500 1d5+20
+50 60
+9 9 1 1 -1 -1
+#15722
+A S 0~
+bee yellowjacket~
+a yellowjacket~
+A Yellowjacket is here protecting his Queen.
+~
+Yellow and black striped, this insect stings with wicked venom.
+~
+22890 0 0 0 136236 0 0 0 1000
+20 -10 -5 1d1+1000 1d4+15
+40 40
+9 9 1 1 -1 -1
+#15723
+A C 0~
+alicorn~
+the Alicorn~
+A beautiful alicorn lies here.
+~
+Guardian of the Light, this Unicorn, struck down by the powers of darkness,
+awaits the return of its power. His wings lay lifeless by his side.
+~
+16458 0 0 0 234668 0 0 0 -1000
+50 -20 -20 1d1+30000 10d10+100
+80 90
+9 9 1 23 20 0
+#15724
+A T 0~
+vulture~
+a vulture~
+A massive vulture, flies hauntingly overhead.
+~
+With a wing span of 50 feet, this hagard creature looms over you, waiting for
+his next feast.  Will it be you?
+~
+24426 0 0 0 1770668 0 0 0 -1000
+25 -5 -5 20d20+800 2d15+15
+40 40
+9 9 1 16 8 -1
+#15725
+A W 0~
+bunny rabbit~
+a bunny rabbit~
+A sweet little bunny hops around your feet.
+~
+A cute, little, fuzzy bunny with white, fluffy fur thumps his paws.
+~
+12 0 0 0 131116 0 0 0 1000
+15 -5 -7 1d1+700 1d15+1
+35 40
+9 9 1 0 -1 -1
+#15726
+A A 0~
+anaconda snake~
+the anaconda~
+An anaconda hisses at your intrusion.
+~
+This enormous snake slowly makes its way around your ankle, and up your leg. 
+You can feel your life draining out of your body.
+~
+2670 0 0 0 394348 0 0 0 -1000
+25 -6 -8 1d1+2000 3d20+1
+40 40
+9 9 1 17 4 15
+#15727
+A R 0~
+hummingbird~
+a hummingbird~
+A graceful hummingbird flies through the flowers.
+~
+This beautiful tiny creature longs for nectar. His graceful movements
+sound to you like a peaceful melody.
+~
+20842 0 0 0 197676 0 0 0 1000
+20 -3 -7 20d10+1320 5d5+10
+40 40
+9 9 1 0 -1 -1
+#15728
+A R 0~
+monarch butterfly~
+monarch butterfly~
+A monarch flutters around you here.
+~
+This butterfly's wings are painted with the vibrabt, yet subtle shades of the
+forest.  His wings flutter against your face like a whisper.
+~
+16458 0 0 0 131116 0 0 0 1000
+20 -3 -3 1d1+500 5d5+10
+40 40
+9 9 1 0 -1 -1
+#15729
+A R 0~
+mouse~
+a field mouse~
+A tiny field mouse scurries past you.
+~
+This tiny little creature is a lovely winter white, with the softest fur.
+~
+16396 0 0 0 131116 0 0 0 1000
+20 -3 -3 1d1+500 5d5+10
+40 40
+9 9 1 0 -1 -1
+#15730
+A A 0~
+fox~
+a small fox~
+A cunning fox watches you intensely.
+~
+A vibrant reddish creature guards his forest from a cautious distance.
+~
+16392 0 0 0 131116 0 0 0 -1000
+20 -3 -3 1d1+500 5d5+10
+40 40
+9 9 1 20 -1 -1
+#15731
+A S 0~
+dragonfly~
+dragonfly~
+An overgrown dragonfly whips around your face.
+~
+This thing is very large and very mean looking.
+~
+16458 0 0 0 197676 0 0 0 -1000
+20 -3 -5 1d1+500 5d5+10
+40 40
+9 9 1 1 -1 -1
+#15732
+A S 0~
+doe~
+a doe~
+A lovely doe dashes out of the bushes.
+~
+This magnificant creature dashes in and out of your sight.  Her coat is a shiny amber, with a fluffy white tail.
+~
+16456 0 0 0 135212 0 0 0 1000
+20 -5 -8 1d1+500 5d5+10
+40 40
+9 9 1 0 -1 -1
+#15733
+A C 0~
+crimson bird cardinal~
+the cardinal~
+A bright crimson bird flutters about here.
+~
+It is a myth of Legend that if a cardinal crosses your path that it is a
+sign of good fortune. You watch as it flys off and hope this is true, for
+you will need all the luck you can get.
+~
+12 0 0 0 66608 0 0 0 0
+20 0 0 10d10+700 4d8+8
+40 40
+9 9 1 16 -1 -1
+$

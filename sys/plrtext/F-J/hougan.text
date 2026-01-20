@@ -1,0 +1,18 @@
+consume c 'consume' corpse
+sum c 'summon' $*
+sp c 'soul pierce'$*
+rp c 'resist poison'$*
+gt gt &02$* &00
+y say &02$* &00
+bl c 'blindness'$*
+cw clanwho
+infra c 'infra' $*
+age c 'age' $*
+sense c 'sense' $*
+nox c 'nox' $*
+tit title &07Consumer&00 of &03Death&00
+ld c 'life drain' $*
+1 c 'consume' corpse
+embalm c 'embalm' corpse
+charm c 'charm corpse' corpse
+invis c 'invis' $*

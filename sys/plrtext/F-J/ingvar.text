@@ -1,0 +1,40 @@
+port c 'portal' $*
+k order follower kill $*
+gshie c 'shield' group
+ts c 'true sight' $*
+charm c 'charm' $*
+mm c 'magic missile' $*
+wak order follower wake;order follower stand
+feeble c 'feeblemind' $*
+wr c 'wrath of the ancients'
+rc c 'remove curse' $*
+bl c 'blind' $*
+invis c 'invisibility' $*
+shie c 'shield' $*
+fly c 'fly' $*
+rr rec rec rec scr
+infra c 'infravision' $*
+id c 'identify' $*
+cs c 'color spray' $*
+title title :: &09Wanderer&00
+dr drink flask
+awaken c 'awaken' $*
+locate c 'locate' $*
+sum c 'summon' $*
+fb c 'flame blade' $*
+gfly c 'fly' group
+ll c 'lightning bolt' $*
+haste c 'haste' $*
+ghaste c 'haste' group
+air c 'airsphere' $*
+nex c 'nexus' $*
+says emote slurs, '&03$* &00'
+say emote slurs, '&03$* &00'
+gt gt &11(&09+&11)&12$* &11(&09+&11)&00
+clan clan &00&03$* &00
+wa wake;stand
+ms c 'monster summon'
+gate c 'gate'
+f c 'doom bolt' $*
+gfb c 'flame blade' group
+gts c 'true sight' group

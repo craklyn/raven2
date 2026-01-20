@@ -1,0 +1,190 @@
+#!/usr/bin/perl
+
+$POS_DEAD       = 0;
+$POS_MORTALLYW  = 1;
+$POS_INCAP      = 2;
+$POS_STUNNED    = 3;
+$POS_SLEEPING   = 4;
+$POS_RESTING    = 5;
+$POS_SITTING    = 6;
+$POS_FIGHTING   = 7;
+$POS_STANDING   = 8;
+
+@POSITION_STR = (
+	"POS_DEAD",
+	"POS_MORTALLYW",
+	"POS_INCAP",
+	"POS_STUNNED",
+	"POS_SLEEPING",
+	"POS_RESTING",
+	"POS_SITTING",
+	"POS_FIGHTING",
+	"POS_STANDING"
+);
+
+%socials_list	= (
+	"abuse",	$POS_RESTING,		"accuse",	$POS_RESTING,		"ack",		$POS_RESTING,		
+	"afk",		$POS_RESTING,		"agree",	$POS_RESTING,		"apologize",	$POS_RESTING,		
+	"applaud",	$POS_SITTING,		"aplogize",	$POS_STANDING,
+
+	"banzai",	$POS_STANDING,		"bark",		$POS_SITTING,		"bearhug",	$POS_STANDING,
+	"beckon",	$POS_SITTING,		"beg",		$POS_SITTING,		"belch",	$POS_RESTING,
+	"bite",		$POS_STANDING,		"bleed",	$POS_RESTING,		"blush",	$POS_RESTING,
+	"boggle",	$POS_RESTING,		"bonk",		$POS_STANDING,		"booger",	$POS_RESTING,
+	"bounce",	$POS_STANDING,		"bow",		$POS_STANDING,		"brb",		$POS_RESTING,		
+	"burp",         $POS_RESTING,
+
+	"cackle",	$POS_RESTING,		"cheer",	$POS_STANDING,		"choke",	$POS_STANDING,
+	"chuckle",	$POS_RESTING,		"clap",		$POS_RESTING,		"clear",	$POS_RESTING,		
+	"comb",		$POS_SITTING,		"comfort",	$POS_STANDING,		"complain",	$POS_RESTING,		
+	"confuse",	$POS_RESTING,		"contemplate",	$POS_RESTING,		"cookie",	$POS_STANDING,		
+	"cough",	$POS_RESTING,		"cringe",	$POS_RESTING,		"cry",		$POS_RESTING,		
+	"cuddle",	$POS_RESTING,		"curse",	$POS_STANDING,		"curtsey",	$POS_STANDING,
+
+	"dance",	$POS_STANDING,		"daydream",	$POS_RESTING,		"dead",		$POS_RESTING,
+	"demand",	$POS_STANDING,		"drool",	$POS_RESTING,		"duck",		$POS_STANDING,
+	"duh",		$POS_RESTING,
+
+	"eek",		$POS_RESTING,		"egg",		$POS_STANDING,		"embrace",	$POS_SITTING,
+
+	"faint",	$POS_STANDING,		"fart",		$POS_RESTING,		"flare",	$POS_RESTING,
+	"flex",		$POS_STANDING,		"flip",		$POS_STANDING,		"flirt",	$POS_RESTING,
+	"fondle",	$POS_SITTING,		"forehead",	$POS_STANDING,		"french",	$POS_RESTING,
+	"frown",	$POS_RESTING,		"fume",		$POS_RESTING,
+
+	"gag",		$POS_RESTING,		"gasp",		$POS_RESTING,		"gawk",		$POS_RESTING,
+	"giggle",	$POS_RESTING,		"gimme",	$POS_SITTING,		"glare",	$POS_RESTING,
+	"goose",	$POS_RESTING,		"greet",	$POS_STANDING,		"grin",		$POS_RESTING,
+	"groan",	$POS_RESTING,		"grope",	$POS_RESTING,		"grovel",	$POS_SITTING,
+	"growl",	$POS_SITTING,		"grumble",	$POS_RESTING,		"gulp", 	$POS_RESTING,
+
+	"harrass",	$POS_STANDING,		"headbutt",	$POS_STANDING,		"highfive",	$POS_STANDING,
+	"holdbreathe",	$POS_RESTING,		"hop",		$POS_STANDING,		"howl",		$POS_STANDING,
+	"hug",		$POS_RESTING,		"huh",		$POS_RESTING,		"hum",		$POS_RESTING,
+
+	"idiot",	$POS_RESTING,		"innocent",	$POS_RESTING,		"inspire",	$POS_RESTING,
+
+	"jump",		$POS_STANDING,		"jig",		$POS_STANDING,
+
+	"kiss",		$POS_RESTING,		"kisshand",	$POS_STANDING,		"kneel",	$POS_STANDING,
+
+	"lag",		$POS_RESTING,		"laugh",	$POS_RESTING,		"leer",		$POS_RESTING,
+	"level",	$POS_STANDING,		"lick",		$POS_RESTING,		"lol",		$POS_RESTING,
+	"loser",	$POS_STANDING,		"love",		$POS_RESTING,
+
+	"massage",	$POS_RESTING,		"melt",		$POS_RESTING,		"moan",		$POS_RESTING,
+	"mock",		$POS_RESTING,		"moon",		$POS_STANDING,		"mosh",		$POS_STANDING,
+	"muh",		$POS_RESTING,		"mumble",	$POS_RESTING,		"mutter",	$POS_RESTING,
+
+	"nibble",	$POS_RESTING,		"night",	$POS_STANDING,		"nitpick",	$POS_RESTING,
+	"nod",		$POS_RESTING,		"noogie",	$POS_STANDING,		"nudge",	$POS_RESTING,
+	"nuzzle",	$POS_RESTING,
+
+	"ooops",	$POS_RESTING,		"ouch",		$POS_STANDING,
+
+	"pace",		$POS_STANDING,		"panic",	$POS_STANDING,		"pant",		$POS_RESTING,
+	"pat",		$POS_RESTING,		"patback",	$POS_STANDING,		"peer",		$POS_RESTING,
+	"pet",		$POS_RESTING,		"piddle",	$POS_RESTING,		"pillow",	$POS_SITTING,
+	"pinch",	$POS_RESTING,		"point",	$POS_RESTING,		"poke",		$POS_RESTING,
+	"ponder",	$POS_RESTING,		"pounce",	$POS_STANDING,		"pout",		$POS_RESTING,
+	"prance",	$POS_STANDING,		"protect",	$POS_STANDING,		"puke",		$POS_RESTING,
+	"pull",		$POS_RESTING,		"puzzle",	$POS_RESTING,
+
+	"raise",	$POS_RESTING,		"relax",	$POS_RESTING,		"roll",		$POS_RESTING,
+	"ruffle",	$POS_RESTING,
+
+	"salute",	$POS_STANDING,		"scoff",	$POS_RESTING,		"scratch",	$POS_RESTING,
+	"scream",	$POS_SITTING,		"seduce",	$POS_RESTING,		"shake",	$POS_RESTING,
+	"shh",		$POS_RESTING,		"shiver",	$POS_RESTING,		"shrug",	$POS_RESTING,
+	"shudder",	$POS_RESTING,		"sigh",		$POS_RESTING,		"sing",		$POS_STANDING,
+	"slam",		$POS_STANDING,		"slap",		$POS_RESTING,		"smile",	$POS_RESTING,
+	"smirk",	$POS_RESTING,		"smoke",	$POS_STANDING,		"smooch",	$POS_RESTING,
+	"smother",	$POS_RESTING,		"snap",		$POS_RESTING,		"snarl",	$POS_RESTING,
+	"sneeze",	$POS_RESTING,		"snicker",	$POS_RESTING,		"sniff",	$POS_RESTING,
+	"snore",	$POS_SLEEPING,		"snort",	$POS_RESTING,		"snowball",	$POS_STANDING,
+	"snuggle",	$POS_RESTING,		"sob",		$POS_RESTING,		"spank",	$POS_STANDING,
+	"spit",		$POS_STANDING,		"squeeze",	$POS_RESTING,		"stagger",	$POS_STANDING,
+	"stare",	$POS_RESTING,		"stomp",	$POS_STANDING,		"strangle",	$POS_STANDING,
+	"stroke",	$POS_RESTING,		"strut",	$POS_STANDING,		"stump",	$POS_RESTING,
+	"sulk",		$POS_RESTING,		"swear",	$POS_RESTING,		"sweat",	$POS_RESTING,
+
+	"tackle",	$POS_STANDING,		"tango",	$POS_STANDING,		"tap",          $POS_RESTING,
+	"tattoo",	$POS_RESTING,           "taunt",	$POS_RESTING,		"tease",	$POS_RESTING,		
+	"thank",	$POS_RESTING,           "think",	$POS_RESTING,		"thwap",	$POS_STANDING,		
+	"tickle",	$POS_RESTING,		"tongue",	$POS_RESTING,		"triumph",	$POS_STANDING,		
+	"twiddle",	$POS_RESTING,
+
+	"wave",		$POS_RESTING,		"wetwilly",	$POS_RESTING,		"whine",	$POS_RESTING,
+	"whistle",	$POS_RESTING,		"wiggle",	$POS_STANDING,		"wink",		$POS_RESTING,
+	"worship",	$POS_SITTING,
+
+	"yawn",		$POS_RESTING,		"yodel",	$POS_RESTING
+);
+
+$LONGEST_SOCIAL = 0;
+$TOTAL_SOCIALS  = 0;
+
+open( SOCIAL_OUT, "> socials" ) || die "$!: Cannot open $SOCIAL_OUT";
+
+while( $SOCIAL_FN = shift( @ARGV )){
+
+	open( SOCIAL_IN, "< $SOCIAL_FN" ) || die "$!: Cannot open $SOCIAL_FN";
+
+	$SOCIAL_NOT_SET = 0;
+
+	while( <SOCIAL_IN> ){
+
+		if( $SOCIAL_NOT_SET == 0 ){
+			$SOCIAL_NOT_SET = 1;
+			( $THIS_SOCIAL ) = /(\w+)/;
+			if( $socials_list{ $THIS_SOCIAL } ){
+				print "Adding $THIS_SOCIAL\n";
+				$SAVE_THIS_SOCIAL = 1;
+				if( $LONGEST_SOCIAL < length( $THIS_SOCIAL )){ $LONGEST_SOCIAL = length( $THIS_SOCIAL ); }
+				push( @COMPILED_FROM_LIST, $THIS_SOCIAL );
+				$TOTAL_SOCIALS += 1;
+			}
+
+			else {
+				print "Reject $THIS_SOCIAL\n";
+				$SAVE_THIS_SOCIAL = 0;
+			}
+		}
+
+		if( $SAVE_THIS_SOCIAL ){
+			print SOCIAL_OUT $_;
+		}
+	}
+
+	print SOCIAL_OUT "\n";
+	close( SOCIAL_IN );
+
+}
+
+print SOCIAL_OUT "\$\n\@\n";
+close( SOCIAL_OUT );
+
+print "A total of $TOTAL_SOCIALS were imported.\n";
+
+@COMPILED_FROM_LIST = sort @COMPILED_FROM_LIST;
+
+open( INTERP, "> interp_socials.c" ) || die "$!: Cannot open $INTPERP";
+
+$LONGEST_SOCIAL += 2; # Make room for the quotes.
+
+foreach $INTERP_ENTRY ( @COMPILED_FROM_LIST ){
+	$WORK_STRING = "\"" . $INTERP_ENTRY . "\"";
+	while( length( $WORK_STRING ) < $LONGEST_SOCIAL ){
+		$WORK_STRING .= " ";
+	}
+
+	printf INTERP "    { %s, %-12s, do_action, 0, 0, AFF_HIDE },\n",
+                             $WORK_STRING, $POSITION_STR[ $socials_list{ $INTERP_ENTRY }];
+
+}
+
+close( INTERP );
+
+system( "cp socials ../../sys/misc"      );
+system( "cp interp_socials.c ../actions" );
+

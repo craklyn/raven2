@@ -1,0 +1,50 @@
+sh c 'shie' $*
+k assist
+2 or fol wak
+fla c 'fl bl' $*
+mon c 'mo su';gr all
+gate c 'gat';gr all
+z ord fol kil $*;ass;c 'co sp'
+tog tog passivepet
+0 rec rec
+port c 'port' $*
+clanhall wake;stand;d;n;n;n;n;n;n;n;n;n;w;w;od;e;e;sleep
+a calm
+ts c 'tr si' $*
+id c 'id' $*
+in c 'inf'
+fly c 'fly' $*
+sum c 'sum' $*
+ld c 'li dr' $*
+str c 'str' $*
+di c 'det in' $*
+bl c 'bli' $*
+pp who
+4 get all all.cor
+` or fol sleep
+- rec rec rec
+cs c 'col sp' $*
+aa stop
+sc scan
+ice c 'ice'
+mm c 'mag mis' $*
+tit title &03O&00&07D&00
+ms c 'met sw'
+bli c 'blink'
+wr c 'wra'
+nex c 'nex' $*
+inv c 'inv' $*
+con c 'con ele';gr all
+ss c 'san st' $*
+1 or fol sleep
+3 or fol stan;or fol invig
+dd c 'doo' $*
+ha rem amul;get ker bag;wear ker;c 'has' $*;rem ker;put ker bag;wear amul
+da dia $*
+f c 'col spr' $*
+fb c 'fire' $*
+aw c 'awa'
+wake wak;sta
+loc c 'loc' $*
+fee c 'fee' $*
+ch c 'ch p' $*

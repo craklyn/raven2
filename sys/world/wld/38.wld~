@@ -1,0 +1,1814 @@
+#3800
+The Isle of Tuatha de Danaan~
+This area (3801-3899) was written by an unknown builder. If you should happen
+to know who the original builder was, please include them in the credits here
+and in the general area listing. This area is of a Celtic flavour, with gods
+and heroes taken from the Celtic mythos. It is a fairly difficult area, 
+suitable for characters levels 35+. Equipment here is for neutral characters 
+only, Knights and Death Knights will find the pickings particularly dry here.
+
+*IMPORTANT* The first room of this area is really 3802. North of 3802 is 
+currently connected to 3815.
+
+Modified by Vex 3/1/96.
+~
+38 0 0 0 0 0 255 0
+S
+#3801
+The northwest edge of the Emerald Sea~
+The sea is calmer here where it borders upon the warmer waters of the
+north.  However strong currents bar you from sailing north to safety.  To the
+west you spy a dim black shape in the water and to the south, you see nothing
+but more ocean.
+~
+38 32768 0 0 0 7 255 0
+D2
+~
+~
+0 0 3807
+D3
+~
+~
+0 0 3816
+S
+#3802
+Before the raging waters of the Emerald Sea~
+With some trepidation, you gaze upon the rolling green waters of the oceans
+of the Tuatha de Danaan.  It is rumored that these waters are home to many
+fantastic creatures, and that somewhere beyond their borders lies the Isle
+of the fairy folk.  A mighty storm is brewing off to the west giving you life
+only to sail south and east, or back north, the way you came.
+~
+38 32768 0 0 0 7 255 0
+D0
+The strange waters of the Mystic Sea extend to the horizon.
+~
+~
+0 0 3915
+D1
+~
+~
+0 0 3803
+D2
+~
+~
+0 0 3808
+D5
+~
+~
+0 0 35401
+S
+#3803
+The northern edge of the Emerald Sea~
+Somewhere off in the distance to the north you see the faint shapes of other
+far-off lands, but you are far too busy attempting to stay afloat in the
+greedy waters to give much thought to going there.  You think you hear the
+faint sound of horses on the eastern wind.  You may sail west, east or south,
+deeper into the ocean.
+~
+38 32768 0 0 0 7 255 0
+D1
+~
+~
+0 0 3804
+D2
+~
+~
+0 0 3809
+D3
+~
+~
+0 0 3802
+S
+#3804
+The northern edge of the Emerald Sea~
+The sky darkens as you sail further and further from known waters.  The
+east-west current is quite strong here.  You find that it is impossible to
+sail against them.
+~
+38 32768 0 0 0 7 255 0
+D1
+~
+~
+0 0 3805
+D3
+~
+~
+0 0 3803
+S
+#3805
+Before the cliffs~
+The turbulent current carries you alarmingly close to the huge jagged cliffs
+which rise straight up into the steel grey sky from the water before you.
+Although you are quite blinded by the spray from crashing waves, you realize
+that it would be folly to attempt to land here.  You may sail west, or south
+alongside the cliffs.
+~
+38 32768 0 0 0 7 255 0
+D2
+~
+~
+0 0 3811
+D3
+~
+~
+0 0 3804
+S
+#3806
+In the face of the western storm~
+You have sailed straight into the face of the oncoming western storm. 
+Lightning splits the sky with electric brilliance, as waves which are several
+meters high crash around your ship, threatening to overturn you.  An enormous
+bolt of lightning strikes to the east, cutting you off from the way you came.
+You may sail south alongside the storm.
+~
+38 32768 0 0 0 7 255 0
+D2
+~
+~
+0 0 3812
+S
+#3807
+In the Emerald Sea~
+The western current carries you careening across the ocean, relieving from you
+the need, much less the ability, to steer your ship.  All you can do is hold
+fast to your rudder and pray that the winds do not carry you foul.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3801
+D3
+~
+~
+0 0 3806
+S
+#3808
+Near the entrance of the Emerald Sea~
+The ocean here is rough, but not impossible to navigate.  To the south you see
+the waters begin to churn in a disconcertingly familiar manner.  Something
+tells you that if you sail in that direction, you may never return.  The
+water flows faster heading to the west, towards a great wall of
+darkness.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3802
+D2
+The waters seems to be swirling ever faster in a circular direction.~
+~
+0 0 3814
+D3
+~
+~
+0 0 3807
+S
+#3809
+In the Emerald Sea~
+You are beginning to wonder why you chose to sail these waters in the middle
+of the storm season.  But you remember the stories of the glorious riches
+of the Tuatha and simply wrap your cloak about yourself and sail on.  You may
+steer towards the north or the east.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3803
+D1
+~
+~
+0 0 3810
+S
+#3810
+In an east-west current~
+The water rolling around you makes it near impossible to sail either north or
+south, but the current running from east to west is not strong.  To the east
+you see the ocean come to an abrupt end in blackness. 'Could I be sailing away
+from one storm only to be destroyed in the arms of another?' You wonder.
+~
+38 32768 0 0 0 7 255 0
+D1
+~
+~
+0 0 3811
+D3
+~
+~
+0 0 3809
+S
+#3811
+Alongside the jagged cliff~
+An enormous cliff rises from the water to the east, stretching as far as the
+eye can see.  A broken finger of rock juts to your immediate south, cutting
+you off from the water in that direction.  You may sail west back away from
+the cliff, or north alongside it.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3805
+D3
+~
+~
+0 0 3810
+S
+#3812
+Running before the western storm~
+Even though you realize that a single errant lightning bolt or 5 meter wave
+could send you to your death, you begin to feel that certain excitement
+afforded only those who have given control of their lives path to the gods.
+The winds are carrying you at speeds at which you have never before traveled.
+You cackle with glee when you realize that with a hard turn of the rudder you
+just might break away from the stormfront, although something inside of you
+wants to see just how far you can ride the fierce winds.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3806
+D1
+~
+~
+0 0 3813
+D2
+~
+~
+0 0 3818
+S
+#3813
+Escaped from the western storm~
+With a mighty heave, you manage to rip your boat from the terrifying winds,
+sending you careening on a new course eastward.  Unfortunately, your new
+course is taking you straight into a monstrous whirlpool.  Unless you want
+to end up as fodder for the creatures of mac Lir, you had better steer clear.
+~
+38 32768 0 0 0 7 255 0
+D2
+~
+~
+0 0 3819
+D3
+~
+~
+0 0 3812
+S
+#3814
+The whirlpool~
+The waters rush around you faster and faster, whirling your boat and your 
+companions around and around.  Somehow, over the raging waters, you hear the
+sounds of your ship breaking apart.  You pray to the gods that protect you,
+but here, they are no match for the power of Mananan mac Lir.
+The whirlpool
+          sucks
+               you 
+                    to
+                         your
+                              DEATH.
+~
+38 32770 0 0 0 7 255 0
+D0
+~
+~
+0 0 3808
+S
+#3815
+Near the middle of the Emerald Sea~
+To your west, the mighty whirlpool still exerts some force upon your ship,
+trying to fling you northward.  But to the east you can see the jagged cliffs
+which mark the border of the Fairy Isle and, with some work, you think you
+might be able to swing in that direction.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3809
+D1
+~
+~
+0 0 3817
+S
+#3816
+The jagged rock~
+Storm tossed and weary, you find yourself clinging desperately to a cluster of
+jagged black rock thrusting to the surface from the ocean depths.  The waves
+have scoured the rocks clean over the ages, and they seems to glow with an
+unearthly light.  You realize that unless you desire to be dashed to pieces
+on their unyielding surface, you had better sail back the way you came.
+~
+38 32768 0 0 0 7 255 0
+D1
+~
+~
+0 0 3801
+S
+#3817
+Near the jagged cliff~
+The waters here are relatively calm, due to the finger of fallen rock which
+extends out from the cliff to the north breaking the worst of the waves.  You
+may sail west towards the center of the ocean or south along to the cliffside.
+~
+38 32768 0 0 0 7 255 0
+D2
+~
+~
+0 0 3823
+D3
+~
+~
+0 0 3815
+S
+#3818
+Running along the western storm~
+The winds push your boat to it's breaking point.  You begin to hear creaking
+sounds of strain in the very timbers of your craft.  But the time for decision
+is long past, now you are at the mercy of the King of the Emerald Sea.
+~
+38 32768 0 0 0 7 255 0
+D2
+~
+~
+0 0 3824
+S
+#3819
+Near the whirlpool~
+The water churns underneath your craft, as if eager to join with the whirlpool
+which spins to the northeast.  It might be best if you do not join it,
+however.  You may sail south towards what looks like calmer water, east where
+the current is quicker, or north.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3813
+D1
+~
+~
+0 0 3820
+D2
+~
+~
+0 0 3825
+S
+#3820
+South of the whirlpool~
+You tear by the southernmost edge of the whirlpool, catching the currents put
+off by its devastating spin, but not close enough to be sucked in.  The 
+mighty centrifugal forces flings you eastward.
+~
+38 32768 0 0 0 7 255 0
+D1
+~
+~
+0 0 3821
+S
+#3821
+Near the whirlpool~
+The whirlpool, now off to your northwest, still has enough force to send you
+ripping to the north.  You are beginning to feel quite dizzy, yet also
+quite relieved that you are only riding the whirlpool's edge.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3815
+S
+#3822
+On the Emerald Sea~
+You are sailing against an extremely strong headwind from the northwest, which
+pushes you south and east.  To the south you see a fairly dense fog and to
+the east you see the jagged cliffs.
+~
+38 32768 0 0 0 7 255 0
+D1
+~
+~
+0 0 3823
+D2
+~
+~
+0 0 3828
+S
+#3823
+Along the jagged cliffs~
+The water still tosses you to and fro, but your way seems relatively clear
+here.  You may sail west back towards the middle of the Sea, or north and
+south along the cliff edge.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3817
+D2
+~
+~
+0 0 3829
+D3
+~
+~
+0 0 3822
+S
+#3824
+The southern edge of the western storm~
+Although you are still being pushed southward at a fairly fast clip, the winds
+no longer seem as strong as they once did.  To the east, it looks as if there 
+is an area in which the storm has ceased completely.  To the south you see an
+even blacker darkness.
+~
+38 32768 0 0 0 7 255 0
+D1
+~
+~
+0 0 3825
+D2
+~
+~
+0 0 3830
+S
+#3825
+An area of calm~
+Even though the storm still rages on to the west, the waters here seem almost
+completely unaffected.  You may sail north or south, but your way east is
+blocked by an enormous unmoving wall of water which rises several tens of
+meters from the surface.  You pass your sword through the wall easily enough,
+but realize that it would be impossible to sail over. You wonder what is on
+the
+other side.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3819
+D2
+~
+~
+0 0 3831
+S
+#3826
+The Eye of the Storm~
+This is the center of the Emerald Sea and the seat of Mananan mac Lir's power.
+From here he rules as lord and master over the waters of the Tuatha de Danaan
+and the creatures that reside in them.  It is said that he is older even than
+the eldest of the faerie, and his grotto radiates the enormous mystery and
+age of the oceans.
+~
+38 32768 0 0 0 7 255 0
+D2
+~
+~
+0 0 3832
+S
+#3827
+The Grotto of Peace~
+You have entered a small grotto surrounded on all sides by walls of water many
+meters high.  You find that you are far too weary to marvel at the mystery of
+their creation.  You feel completely at peace here.
+~
+38 32772 0 0 0 7 255 0
+D2
+~
+~
+0 0 3833
+S
+#3828
+In the fog~
+You have entered an enormous bank of fog which seems strangely warm. To the
+south you hear the faint sound of 'birdsong?' The way west is blocked by
+and enormous wall of water and the way east by fog so dense you cannot see
+within it.  You may sail north back towards the light, or south where the fog
+seems to lessen.
+~
+38 32769 0 0 0 7 255 0
+D0
+~
+~
+0 0 3822
+D2
+~
+~
+0 0 3834
+S
+#3829
+On the edge of the Fairy Isle~
+Rising before you to the south is small wooded island which seems
+characteristically out of place next to the foreboding cliffs which still rise
+to the east.  The island is shrouded in a living fog from which come the
+sounds of birds and other woodland creatures.  There does not seem to be
+anywhere to land however.  You may sail north along the cliffs or west, into
+the dense fog which rolls from the island.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3823
+D3
+~
+~
+0 0 3828
+S
+#3830
+Where the storm meets the southern cliffs~
+The storm, while still raging off to your west, spends itself ineffectually
+against the cliffs you now sail towards.  You have sailed into a peaceful
+harbor surrounded on all sides by the high dark walls.  The only way out is
+the way you came, back into the storm.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3824
+S
+#3831
+By the southern cliffs~
+The southern cliffs rise before you in majestic splendor, dampening the effect
+of the waves and the wind.  The water is almost completely calm before you. 
+You can sail southward or eastward, where you definitely hear the sounds of
+angry horses.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3825
+D1
+~
+~
+0 0 3832
+S
+#3832
+The Hall of the King~
+You have entered a giant hall, which is bounded on the south by the southern
+cliffs and on the east by a giant wall of water.  There is no sign of the
+storm, or indeed of any waves or wind at all.  To the north you see the fabled
+grotto where Mananan mac Lir makes his home.  Unfortunately for you, the hall
+was not left unprotected.
+~
+38 32768 0 0 0 7 255 0
+D0
+~
+~
+0 0 3826
+D3
+~
+~
+0 0 3831
+S
+#3833
+Before the grotto~
+The water is very calm here, and the air seems quite warm.  To your west you
+see a large unmoving wall of water, and to your south the southern cliffs rise
+into the sky.  To the north is a small grotto bounded by walls of water which
+seem to hang suspended in the air.
+~
+38 32768 0 0 0 7 255 0
+D0
+You see a peaceful looking grotto.~
+~
+0 0 3827
+D1
+~
+~
+0 0 3834
+S
+#3834
+On the beach~
+Abruptly, you find yourself aground on a sandy beach.  The fog still surrounds
+you, although it seems less thick here.  East of the beach you see the
+beginning of a large forest, and what looks like a small path.  Or you can
+push your boat back in the water and sail north or west.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3828
+D1
+~
+~
+0 0 3835
+D3
+~
+~
+0 0 3833
+S
+#3835
+The sacred grove~
+You follow the path until it ends in a small clearing ringed by trees of ash,
+oak and holly.  Two thin saplings have grown together at the southern end of
+the clearing to form a living arch which leads, as far as you can tell, only
+into blackness.  A flat rock covered with berries and leaves lies in the
+center of the glade.  Even though you hear the sounds of animals echoing from
+the woods around you, you feel strangely compelled to make neither sound nor
+trouble in this holy place.
+~
+38 32768 0 0 0 3 255 0
+D2
+~
+black arch~
+2 3831 3836
+D3
+~
+~
+0 0 3834
+E
+black arch~
+It looks like it leads deeper into the forest.
+~
+S
+#3836
+Under the arch~
+The arch leads into a long corridor, walled and roofed by saplings spaced
+several yards apart which grow together far above your head.  You are 
+reminded of an ancient cathedral.  A thin layer of mist twines around your
+feet and legs as you follow the corridor deeper into the forest.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+black~
+2 3831 3835
+D2
+~
+~
+0 0 3837
+E
+black~
+It leads back to the ocean.
+~
+S
+#3837
+Into the forest~
+The corridor abruptly ends behind you and you find yourself in a forest such
+as you have never before seen.  Ancient trees rise from the loamy soil to
+hundreds of feet above your head.  Their crowns interlock virtually 
+seamlessly allowing very little sunlight to filter to the forest floor.  Ivy
+intermingled with various species of vine give the ground a springy feel.
+You also notice that there is a path running before you.  You may go either
+east or west.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3836
+D1
+~
+~
+0 0 3851
+D3
+~
+~
+0 0 3838
+S
+#3838
+A bend in the path~
+The path bends from east to south here, swerving to miss a large mossy rock
+formation.  Strange sigils have been graven into the stone, and the tree
+branches have been blackened and twisted, as if some terrible heat once filled
+the air.
+~
+38 32768 0 0 0 3 255 0
+D1
+~
+~
+0 0 3837
+D2
+~
+~
+0 0 3839
+S
+#3839
+In the forest~
+As you trudge along the path, you begin to hear things echoing out of the
+woods around you, voices raised in mournful song.  The trees have changed
+from beech and ash to more foreboding clusters of oak and elm, and the light
+is failing steadily, although you still can see enough to see that the path
+continues in a north-south fashion.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3838
+D2
+~
+~
+0 0 3840
+S
+#3840
+In the forest~
+The path continues deeper into the forest.  Off to the west you see a
+clearing of some sort, although what lies within is not exactly clear.  You
+may also continue south from whence you hear the faint sound of metal rending
+on metal.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3839
+D2
+~
+~
+0 0 3842
+D3
+You see a small clearing of some sort.~
+~
+0 0 3841
+S
+#3841
+The Druid's glade~
+You have entered the sacred glade of the Tuatha druids.  In the center lies
+a large black cauldrin embedded in a foundation of stone.  Although no fire
+is visible, the cauldrin bubbles and steams, sending a foul odor into the
+air which reminds you of burnt human flesh.  To the left of the cauldrin lie
+the skinned carcasses of two humanoid creatures.
+~
+38 32768 0 0 0 3 255 0
+D1
+~
+~
+0 0 3840
+S
+#3842
+In the forest~
+The path ambles on in a north-south direction.  You notice that twisted bits
+of metal and leather lie on the ground on either side of the path.  Something
+that looks like a shield that has been split in two is leaning against a
+tree.  You wonder if you have just missed a battle of some sort.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3840
+D2
+~
+~
+0 0 3843
+S
+#3843
+The intersection~
+The path splits in two here, the older branch running southward into a
+deadfall of tangled brush and branches.  Although it looks dangerous, you
+think you might be able to carry on in that direction.  The path also bends
+to the west, from where you hear the definite sound of battle.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3842
+D2
+~
+~
+0 0 3844
+D3
+~
+~
+0 0 3845
+S
+#3844
+On the deadfall~
+You climb to the top of the deadfall and look down into a small valley.
+Realizing that it is impossible to continue this way, you start to turn back. 
+Before you can turn, the deadfall shifts downward and you fall to your knees. 
+Any other sudden movements would send you careening down the hill tangled in
+a mix of sharp branches and thick logs.  You realize that your only choice may
+be to leap clear of the deadfall and take your chances with the drop.
+~
+38 32768 0 0 0 3 255 0
+D5
+~
+~
+0 0 3849
+E
+valley~
+It looks like a long way down.~
+S
+#3845
+The plain of rocks~
+Abruptly you find yourself out of the forest and on a large rocky plain which
+stretches far to the west before ending at what you imagine to be the ocean. 
+The terrain is sprinkled with huge boulders and good sized rocks which make
+walking very hazardous.  Particularly large rock fields lie to the north and
+south of the path, you realize that traveling safely in those directions
+would be almost impossible.  You no longer hear the sounds of battle.
+~
+38 32768 0 0 0 3 255 0
+D1
+~
+~
+0 0 3843
+D3
+~
+~
+0 0 3846
+S
+#3846
+The cliffs edge~
+The western path reaches to the cliffs edge and turns southward.  Looking 
+down, you see the raging waters which carried you here, far, far below you.
+Although you do not hear anything, you catch glimpses of sunlight flashing
+on metal to the south.
+~
+38 32768 0 0 0 3 255 0
+D1
+~
+~
+0 0 3845
+D2
+~
+~
+0 0 3847
+S
+#3847
+The battlefield~
+The path disappears in a confusion of the passage of many booted feet, which
+have churned the entire area into a muddy quagmire.  The field is littered
+with bits of armor and broken weaponry, and bodies.  The corpses are like
+nothing you have ever seen before, twisted and misshapen, with large heads and
+wickedly sharp claws.  There seem to be dozens of them lying in the mud.
+You wonder what manner of creature had the power to wreak such havoc on these
+loathsome creatures.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3846
+S
+#3848
+The heart of the old forest~
+The stairs end in a large room hewn from the living rock and loam which make
+up the forest floor of the oldest forest in the western world.  A bed of soft
+heather lies in one corner and there appears to be a circle of light in the
+center of the room which you just might be able to reach.
+~
+38 32769 0 0 0 8 255 0
+D4
+It looks like it might be daylight.~
+light hole~
+0 0 3841
+D5
+~
+~
+0 0 3895
+S
+#3849
+In the valley~
+You leap clear of the deadfall and tumble to the forest floor with a sickening
+THUMP!  Fortunately, the deadfall does not fall on top of you.  You scramble
+to your feet and find yourself next to the source of a small bubbling brook
+which spills from the hillside and runs past you to the north.  Since it is
+impossible to climb back up the deadfall, you have no other choice but to
+follow it.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3850
+S
+#3850
+The small pond~
+You come across a small clear pond which is fed by a creek with runs from the
+south.  Lilypads with huge pink flowers float to and fro on the crystal
+water.  The way south from which the stream originates is choked with bracken
+and dense foliage, impossible to enter from this direction.  The only way out
+appears to be through the trees to the east.
+~
+38 32768 0 0 0 3 255 0
+D1
+~
+~
+0 0 3856
+S
+#3851
+The forest of the Danaan~
+You feel a twisting sensation in your gut and your eyes momentarily cloud
+over.  When you regain your bearings, you realize that you have somehow
+entered a different part of the forest altogether.  Large stately trees march
+in anarchically ordered rows to either side of you, and you can sense life all
+around.  A marvelously colored mist wraps around you lovingly and you catch
+your breath at it's embrace.
+~
+38 32768 0 0 0 3 255 0
+D1
+~
+~
+0 0 3852
+D3
+~
+~
+0 0 3837
+S
+#3852
+The forest of the Danaan~
+The corridor of trees abruptly bends from east to south.  You can hear voices
+on the winds whispering and laughing.  They speak in a language which, though
+you have no understanding, fills you with a sense of wonder and delight.
+~
+38 32768 0 0 0 3 255 0
+D2
+~
+~
+0 0 3853
+D3
+~
+~
+0 0 3851
+S
+#3853
+The forest of the Danaan~
+The corridor of trees begins to widen as you go deeper into the forest.  You
+notice tools lying forgotten in the underbrush, bright pieces of cloth strewn
+about and trees which have been marked with strange runes by faerie hands.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3852
+D2
+~
+~
+0 0 3854
+S
+#3854
+The forest of the Danaan~
+The corridor widens into a large field ringed on all sides by trees.  Small
+sprites dart from the mist to tug at your clothing and to marvel at your
+strange appearance.  All around you Tuatha children play their solemn games,
+under the watchful eye of their Tuathan sires.  Upon closer inspection you
+realize that there are openings in the trees to the east and west.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3853
+D1
+~
+~
+0 0 3858
+D3
+~
+~
+0 0 3855
+S
+#3855
+The forest of the Danaan~
+You are walking on a roadway of sorts, the ground having been cleared of all
+choking bracken and bramble.  You see no signs on dwellings, although you have
+never before experienced a forest so alive.  You may walk either south or east
+where you see a large open space.
+~
+38 32768 0 0 0 3 255 0
+D1
+~
+~
+0 0 3854
+D2
+~
+~
+0 0 3856
+S
+#3856
+The forest of the Danaan~
+You have reached a minor crossroads.  The path continues south and north, and
+a smaller trail winds to the west, where you think you spy glimmering between
+the closely growing trees.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3855
+D2
+~
+~
+0 0 3896
+D3
+~
+~
+0 0 3850
+S
+#3857
+The Tree~
+Wandering between the stones, you arrive at a large circular clearing, almost
+entirely devoid of all growth except for the enormous tree growing in the
+center.  Bent and gnarled with age, the tree defies description or
+classification, although you sense that it is still very much alive, and aware
+of your presence.  Suddenly, you hear a crunching sound and whirl to find that
+the stones have somehow closed ranks, trapping you within the clearing.
+~
+38 32772 0 0 0 3 255 0
+D0
+~
+oak tree trunk~
+1 -1 3885
+E
+door~
+It looks like you may be able to pry it open with your sword.
+~
+E
+oak tree~
+It looks like the faint outlines of a door within the trunk of the tree.
+~
+S
+#3858
+The forest of the Danaan~
+The mist thickens around your feet and ankles as you wander deeper into the
+forest.  Sounds of life surround you, although as before, you feel as if you
+are somehow wandering though a world which only half-exists.  You wonder if
+the power of the forest is somehow draining you of solidity.
+~
+38 32768 0 0 0 3 255 0
+D2
+~
+~
+0 0 3859
+D3
+~
+~
+0 0 3854
+S
+#3859
+The forest of the Danaan~
+The mist thickens around your feet and ankles as you wander in the deep
+forest.  All sense of time and direction have become muddled in the half light
+of the faerie forest.  You think you can make out paths which lead north and
+south.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3858
+D2
+~
+~
+0 0 3861
+S
+#3860
+Before the standing stones~
+You have run up against a group of standing stones which tower above you,
+running off in a semi-circle far into the mist.  You notice that there is a
+small gap in the two stones directly to the north.  A sense of immense power
+and age radiates from that direction.  Other paths lead to the east and south.
+~
+38 32768 0 0 0 3 255 0
+D0
+It looks like a small glade with an enormous tree in the center.~
+~
+0 0 3857
+D1
+~
+~
+0 0 3861
+D2
+~
+~
+0 0 3898
+S
+#3861
+A crossroads~
+You have wandered to a crossroads of a sort.  The northern path runs until is
+abuts against what looks to be a large wall of rock, where it is bisected by
+a road running east-west.  You look up and discover that you have run into a
+large mountain which stretches beyond the trees above you.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3859
+D1
+~
+~
+0 0 3862
+D3
+~
+~
+0 0 3860
+S
+#3862
+The edge of the forest~
+The path becomes rockier as you get closer to the mountain, although sturdy
+trees of oak and beech still have a tenuous hold on the stony ground.  The
+path winds around a large boulder to the south and stops abruptly east of
+here at the mountain face.
+~
+38 32768 0 0 0 5 255 0
+D2
+~
+~
+0 0 3863
+D3
+~
+~
+0 0 3861
+S
+#3863
+Before the entrance of the mountain~
+The path winds on a slight incline between boulder and jagged rock, until it
+suddenly ends before a great door carved in the side of the mountain.  When
+you put your ear to its solid surface, you can hear the faint sounds of howls.
+~
+38 32768 0 0 0 5 255 0
+D0
+~
+~
+0 0 3862
+D2
+~
+door stone~
+2 3828 3864
+E
+door stone~
+You see the small image of a swan graven in a corner of the door.
+~
+S
+#3864
+Before the corridor of winds~
+You stand in a low-ceilinged entryway scooped from the northern side of the
+mountain.  To the west lies a portal of swirling mist, and to the north lies
+the entrance.  The howls are louder here, echoing in the small cavern.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+door stone~
+2 3828 3863
+D3
+Black mists whirls around the entrance of the tunnel.~
+~
+0 0 3865
+E
+door stone~
+The large door rests on perfectly oiled hinges.
+~
+S
+#3865
+The corridor of winds~
+You have entered a maelstrom of hate and anger.  Wickedly sharp swirls of mist
+wrap around your unprotected bodies and wrack your body with pain.  You
+realize that this place was never meant for the living, and pray that you find
+the exit soon.  The howls echo around you, invading every pore of your being.
+~
+38 32776 0 0 0 0 255 0
+D3
+~
+~
+0 0 3866
+S
+#3866
+The corridor of winds~
+The corridor twists and turns in impossible ways, throwing you into a great
+confusion.  You begin to feel as if this place has as much as a hold on your
+mind as it does on your body.  The howls seem brutally close.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 3865
+D2
+~
+~
+0 0 3867
+S
+#3867
+The corridor of winds~
+Blacker than any pit of despair you have yet encountered on your long journey
+is this place.  The very walls and floor scream out in the pain of long
+association with the evil creatures which reside here.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 3866
+D3
+~
+~
+0 0 3868
+S
+#3868
+The corridor of winds~
+You begin to feel as if there is no escape from this place, as fear and
+desperation overtake you.  Simpler to lie down and die than to face what lies
+before you.  The howls surround you.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 3867
+D2
+~
+~
+0 0 3869
+S
+#3869
+The corridor of winds~
+You mind and soul scream in agony at the pure chaotic evil of this place.  You
+are hard pressed to remember your humanity amidst this insanity.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 3868
+D3
+~
+~
+0 0 3870
+S
+#3870
+The corridor of winds~
+Your spirit numbs as the mists whirl around you in an even deeper frenzy, as
+if trying to rip the very skin from your body.  The twists and turns of the
+corridors seem endless.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 3869
+D2
+~
+~
+0 0 3871
+S
+#3871
+The corridor of winds~
+Light! Blessed light reaches you from the gloom of the south.  The mists,
+while still angry seem daunted by the mellow glow.  The corridor give one last
+moan of anger and hatred for all that is free and pure.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 3870
+D2
+~
+~
+0 0 3872
+S
+#3872
+Before the hall of the king~
+You find yourself in a small alcove, bounded on the west and the east by two
+solid looking doors of black stone.  To the north lie the first tendrils of
+mist which mark the corridor of winds.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 3871
+D1
+~
+door black~
+2 3828 3873
+D3
+~
+door black~
+2 3828 3894
+E
+door black~
+You see the small image of a swan graven near the door's keyhole.
+~
+S
+#3873
+A hallway~
+You stand in a long corridor lit by flickering torches ensconced on both side
+of the wall.  To the east you hear sounds of laughter.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 3874
+D3
+~
+door black~
+2 3828 3872
+E
+door black~
+You see the back of a large black door.
+~
+S
+#3874
+The entrance of the east hall~
+The corridor bends to the west and south.  To the south you can see richly
+carpeted halls, and on the walls hang tapestries depicting the heroics, of
+Nuada of the Silver Hand, the king of the Tuatha de Danaan.
+~
+38 32776 0 0 0 0 255 0
+D2
+~
+~
+0 0 3875
+D3
+~
+~
+0 0 3873
+S
+#3875
+The east hall~
+The hall rises above you and before you.  It is lined with pillars on both
+sides and covered with tapestries, lush carpet and other works of art.  Of
+particular notice is a statue near the north end of the hall carved in the
+likeness of one of the most beautiful women you have ever seen, and kneeling
+before her the stone figure of a man who could be her twin.  The hall
+continues in a north-south direction and there is a brown door to the east.
+~
+38 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 3874
+D1
+~
+door brown~
+2 3836 3876
+D2
+~
+~
+0 0 3877
+E
+door brown~
+You see the small image of a heron graven in a corner of the door.
+~
+S
+#3876
+The library~
+You enter a very large room which seems much smaller due to the amount of
+paper and number of books which clutter every corner and shelf.  A large
+table stands at the center covered with blank sheaves of paper and wells of
+black ink.  A high window in the east wall lets in the brilliant rays of the
+sun.
+~
+38 32776 0 0 0 0 255 0
+D3
+~
+door brown~
+2 3836 3875
+E
+door brown~
+It leads back to the eastern hall.
+~
+S
+#3877
+The east hall~
+The immense hall continues, and the artwork only gets richer as you wander
+it's length.  In this section, there lies a large banquet table covered with
+bowls of fruit and slabs of what looks like venison.  Although you are
+terribly hungry, you remember legends of the consequences of eating faerie
+food and so you cinch your belt and carry on.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 3875
+D2
+~
+~
+0 0 3878
+S
+#3878
+The east hall~
+On the west side of the hall you notice a particularly large tapestry
+depicting a terrible battle.  The Sidhe folk are depicted fighting a mob of
+horrible creatures lead by a one eyed giant, wielding a terrible spear. 
+Facing this monster is a shining Tuathan warrior.  One of his hands ends in a
+ragged stump.  You realize that you are viewing a tapestry depicting the
+terrible battle between Nuada and Balor One-Eye, king of the Fomhor.  There
+is a silver door in the east wall.
+~
+38 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 3877
+D1
+~
+door silver~
+2 3837 3879
+D2
+~
+~
+0 0 3880
+E
+door silver~
+You see the small image of a heron graven on a corner of the door.
+~
+S
+#3879
+The smithy~
+You have entered a small smokey room from which arises the terrible din of
+hammer on anvil.  Twisted bits of metal line the floor and bowls of jewels
+rest upon a small table in the north corner of the room.  Shields of
+sturdy make and beautiful workmanship join an assortment of swords and daggers
+hanging from the east wall.
+~
+38 32776 0 0 0 0 255 0
+D3
+~
+door silver~
+2 3837 3878
+E
+door silver~
+It leads back to the eastern hall.
+~
+S
+#3880
+The south-east corner of the hall~
+The hall abruptly ends and bends towards the center of the mountain.  To the
+west you see a small hallway which leads to the throne room of Nuada of the
+Silver Hand.  To the north you see the great eastern hall.
+~
+38 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 3878
+D3
+~
+~
+0 0 3881
+S
+#3881
+The entrance to the throne room~
+You stand in a small passageway which ends at a large gold embossed door.  The
+guttering torches reflect the symbol of a powerful hand etched in silver upon
+the doors broad face.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 3880
+D3
+~
+door gold~
+2 3838 3882
+E
+door gold~
+You see the small image of a heron graven in a corner of the door.
+~
+S
+#3882
+The throne of the king~
+The first thing that you notice is the size of the room.  It is not terribly
+large, but you are near blinded by the light given off by thousands of candles
+lining the walls which seem to burn brighter than ordinary wax candles.  A
+simple throne hewn from the trunk of a mighty oak stands against the north
+wall, flanked on either side by statues of the Dagda and the Morrigan.  A
+small silver door leads south.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+door gold~
+2 3838 3881
+D2
+~
+door silver~
+2 3830 3883
+D3
+~
+door gold~
+2 3838 3886
+E
+door silver~
+You see a simple door made of silver.
+~
+E
+door gold~
+You see the back of a large gold door.
+~
+S
+#3883
+The corridor of light~
+You stand in a long featureless corridor made entirely of silver, which glows
+with an intense light.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+door silver~
+2 3830 3882
+D2
+~
+~
+0 0 3884
+E
+door silver~
+You see a simple door made of silver.
+~
+S
+#3884
+Before the door of mist~
+The corridor ends in a large room, dominated by an archway filled with
+a vibrant golden mist on the south wall.  Here lies the gateway to the gods of
+the Tuatha de Danaan and her guardian.  Only those found worthy may pass.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 3883
+S
+#3885
+Inside the Tree~
+The trunk cracks open and you slip inside the great tree.  You see a small
+passageway leading west into darkness.
+~
+38 32777 0 0 0 0 255 0
+D2
+~
+door tree oak~
+2 -1 3857
+D3
+~
+~
+0 0 3895
+E
+door tree oak~
+You see the faint outlines of a door in the tree trunk.
+~
+S
+#3886
+The entrance to the throne room~
+You stand in a small passageway which ends at a large gold embossed door. The
+guttering torches reflect the symbol of a powerful hand etched in silver upon
+the doors broad face.
+~
+38 32777 0 0 0 0 255 0
+D1
+~
+door gold~
+2 3838 3882
+D3
+~
+~
+0 0 3887
+E
+door gold~
+You see the small image of a heron graven on a corner of the door.
+~
+S
+#3887
+The south-western end of the hall~
+The hall comes to an end and bends toward the center of the mountain, and the
+seat of the Tuatha's power.  To the east you see a small corridor which leads
+to the throne room of Nuada of the Silver Hand.  To the north lies the western
+hall.
+~
+38 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 3888
+D1
+~
+~
+0 0 3886
+S
+#3888
+The west hall~
+The walls here are lined with various weapons and pieces of armor.  While some
+seem new and untouched, others have seen obvious use and have been shattered
+or twisted beyond use.  Perhaps this is a museum of those weapons which have
+served the Tuatha in past wars, and of those which are to serve in future
+ones.  The is a green door in the west wall.
+~
+38 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 3890
+D2
+~
+~
+0 0 3887
+D3
+~
+door green~
+2 3829 3889
+E
+door green~
+You see the small image of a heron graven on a corner of the door.
+~
+S
+#3889
+A small room~
+You have entered a small room devoid of all furnishing except for a small cot
+against the west wall and a low table in the center.  The table is covered
+with plants both alive and dead and a small pestle and grind.  A lantern
+hanging in a hook from the ceiling reflects arcane symbols carved in all four
+walls.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+door green~
+2 3829 3888
+E
+door green~
+It leads out to the western hall.
+~
+S
+#3890
+The west hall~
+This section of the hall seems to be devoted to statues of Tuathan heroes of
+the past.  Although the statues seem carved in almost universal poses of
+conquest and victory, each face bears a look of sorrow which belies their
+place here.
+~
+38 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 3891
+D2
+~
+~
+0 0 3888
+S
+#3891
+The west hall~
+The hall rises above and before you.  Rich tapestries line the walls and the
+floor is covered with a lush green carpet.  Even though torches line the
+walls, the hall seems as bright as if it stood in broad daylight.  There is a
+yellow door in the west wall.
+~
+38 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 3893
+D2
+~
+~
+0 0 3890
+D3
+~
+door yellow~
+2 3829 3892
+E
+door yellow~
+You see the small image of a heron graven on a corner of the door.
+~
+S
+#3892
+A bedroom~
+You have entered a sumptuous bedroom.  A large bed of mossy peat covered with
+soft heather lies in the west corner before a large window which looks out
+over the fabulously blue ocean.
+~
+38 32777 0 0 0 0 255 0
+D1
+~
+door yellow~
+2 3829 3891
+E
+door yellow~
+It leads back out to the western hall.
+~
+S
+#3893
+The entrance of the west hall~
+The hall bends east and south.  To the south you see an entrance to the Hall
+of the Tuathan king, Nuada of the Silver Hand.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 3894
+D2
+~
+~
+0 0 3891
+S
+#3894
+A hallway~
+You find yourself in a narrow hallway which runs east and west.  To the west,
+you see a much brighter light than the small guttering torches which line the
+walls here.
+~
+38 32776 0 0 0 0 255 0
+D1
+~
+black stone door~
+2 3829 3872
+D3
+~
+~
+0 0 3893
+E
+stone door black~
+You see the back of a stone door.
+~
+S
+#3895
+In the tree~
+The passageway wanders until it runs up to a stone stairway rising from the
+darkness.
+~
+38 32777 0 0 0 0 255 0
+D1
+~
+~
+0 0 3885
+D4
+~
+~
+0 0 3848
+S
+#3896
+The forest of the Danaan~
+You trudge down forgotten forest paths.  The trees creep closer and closer to
+the edge of the path the deeper you get into the forest, as if the
+trees themselves are eager to reclaim what they once have grudgingly given.
+~
+38 32768 0 0 0 3 255 0
+D0
+~
+~
+0 0 3856
+D2
+~
+~
+0 0 3897
+S
+#3897
+Beneath the mountain~
+The path skirts the edge of the mountain wall which rises to the south. 
+Although no entrance is apparent here, the path runs east and north.
+~
+38 32768 0 0 0 5 255 0
+D0
+~
+~
+0 0 3896
+D1
+~
+~
+0 0 3898
+S
+#3898
+Beneath the mountain~
+The mountain rises forbodingly to the south, devoid of the greenery you have
+come to expect from this forest.  The path runs west and north, and enters a
+small cave to the east.
+~
+38 32768 0 0 0 5 255 0
+D0
+~
+~
+0 0 3860
+D1
+~
+~
+0 0 3899
+D3
+~
+~
+0 0 3897
+S
+#3899
+The shrine~
+This ancient dry cave once served as home for people older even than the
+Tuatha.  It is deserted now.  Bits of rock and ancient rusted metal which
+could been the remnants of old tools litter the floor.  A faded picture covers
+the east wall.  It depicts a shining woman standing at the prow of a
+magnificent boat.  The inscription underneath, obviously added a great time
+later, because it is in the western tongue, reads "The Coming of the
+Fomhor."
+~
+38 32777 0 0 0 0 255 0
+D3
+~
+~
+0 0 3898
+S
+$~

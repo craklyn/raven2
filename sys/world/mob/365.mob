@@ -1,0 +1,663 @@
+#36500
+H T 0~
+rotting corpse~
+a rotting corpse~
+A rotting corpse rises up from its grave!
+~
+   These mindless undead have been animated by the foul workings of the curse
+of the Necromancer.  Torn from their resting places against their will, they
+now harbor an abiding hatred of all that lives and breathes.    
+~
+719564 0 0 0 33832 0 0 0 -400
+35 -5 -1 1d7500+5000 2d50+50
+50 60
+9 9 0 0 -1 -1
+Z 36514
+Z 60
+#36501
+H W 0~
+skeleton~
+the skeleton~
+The skeletal remains of some unknown warrior rise from the ground.
+~
+Animated by the ghastly curse placed upon this region, this skeleton
+exists only to destroy hated life and creatures of light.
+~
+9107656 0 0 0 5538856 0 0 0 -400
+40 0 -1 1d5000+5000 3d40+50
+65 75
+9 9 0 0 -1 -1
+Z 36512
+Z 60
+#36502
+H P 0~
+lord tarrant~
+Lord Tarrant~
+A thin, haggard figure strides forth from the darkness.
+~
+   The soul of Lord Tarrant was cursed by the witch to be bound to this plane,
+and has in its rage become a revenant, thirsting for vengeance.  Were Tarrant
+to know the witch to be slain, he could at last rest, with the rest of his
+kinfolk.  A mighty sorcerer as well as a formidable swordsman, Tarrant is a foe
+worthy of respect for any perpetrator of evil deeds.    
+~
+712730 0 0 0 542545064 0 0 0 1000
+51 -20 -20 1d1+23000 25d25+75
+90 100
+9 9 1 0 -1 -1
+Z 36521
+Z 36522
+Z 36523
+Z 36530
+Z 36531
+#36503
+H P 0~
+knight manor~
+the Knight~
+A Knight of the Manor stands his ground here.
+~
+   The knights of the manor are a small band of warriors sworn to protect the
+baron and his family in these times of trouble.  They will be curt with
+strangers, but that it because with all the troubles of late they have little
+choice but to be distrustful.    
+~
+714970 0 0 0 1213480 0 0 0 1000
+45 5 -20 1d5000+500 8d8+20
+65 75
+9 9 1 0 -1 -1
+Z 36506
+Z 36507
+Z 36508
+Z 36553
+Z 36579
+#36504
+A W 0~
+horse war~
+the horse~
+A mighty warhorse stamps and chomps on his bit.
+~
+   The horses of the manor are a sturdy lot, well accustomed to the heat of
+battle and the thrust of the lance.    
+~
+718922 0 0 0 1082408 0 0 0 1000
+10 10 -1 1d4700+200 8d8+20
+35 40
+9 9 1 23 18 4
+#36505
+H M 0~
+clone1 tus'schepteba witch~
+Tus'schepteba~
+A cackling, grinning crone of infinite years stares at you.
+~
+   A cackling, grinning crone of infinite years stares at you.    
+~
+253978 0 0 0 4228264 32 0 0 -100
+51 -30 -10 1d20000+4900 20d20+50
+90 100
+9 9 2 0 -1 -1
+Z 36537
+#36506
+U T 0~
+cadaverous ghoul~
+a cadaverous ghoul~
+A rotting ghoul gibbers and drools as it dances maniacally through the tunnels.
+~
+   The animated remains of scores of sacrifical victims, these foul beasts now
+wander the catacombs taken over by the cabal, eternally vigilant for intruders,
+who form the basis of their diet.  Known thieves and scavengers as well as
+ruthless killers, it is rumored their hidden lairs are filled with all manner
+of objects.    
+~
+587884 0 0 0 542540840 0 0 0 -666
+35 -5 -10 1d1000+10000 10d15+50
+50 60
+9 9 1 0 -1 -1
+#36507
+H C 0~
+mad priest~
+the mad priest~
+A huddled, pathetic creature scurries away as you approch.
+~
+   Once a kindly priest of Brontrel, this poor fellow's mind has been destroyed
+by what he has witnessed befall this house of his deity.  Sent here to lay the
+evil to rest, he has instead fallen under its fell sway.    
+~
+555146 0 0 0 1213480 0 0 0 0
+50 -30 -10 1d5000+5000 20d6+100
+80 90
+9 9 1 0 -1 -1
+Z 36515
+Z 36516
+#36508
+R R 0~
+dire wolf~
+a dire wolf~
+A dark wolf stalks through the pews.
+~
+   The senses of these foul creatures are so finely attuned that they can
+detect even magically concealed foes, hence their great usefulness as guards,
+undoubtledly the function they have been put to in this chapel.  But guards for
+what...?    
+~
+555260 0 0 0 1475624 0 0 0 -400
+35 5 -1 5d5000+500 13d20+10
+50 60
+9 9 0 0 -1 -1
+Z 36518
+#36509
+H C 0~
+mad cabalist~
+a mad cabalist~
+A screaming, moaning minion of the Necromancer wanders the catacombs.
+~
+   This evil human has devoted his life to serving the Necromancer, and is part
+of the Cabal of the Witch, that select organization that carries out the
+Necromancer's bidding on this plane.  He is utterly devoid of any moral center,
+and is quite psychotic.    
+~
+556684 0 0 0 537961512 0 0 0 -666
+47 0 -10 1d5000+10000 20d10+50
+70 80
+9 9 1 0 -1 -1
+#36510
+H D 0~
+lieutenant witch g'qor~
+G'qor~
+G'qor the Witch's lieutenant, reviews some dark manuscript.
+~
+   A dark half-troll shaman, G'qor has advanced swiftly through the ranks of
+the Cabal since his arrival, usually by assassinating those who are his
+immediate superior.  His advancement has halted however, as lieutenant to the
+Witch, who is well aware of his bloodthirsty ambition and harnesses it to
+further her own dark plans.    
+~
+269154394 0 0 0 5276840 0 0 0 -666
+51 -30 -20 1d2000+20000 25d15+50
+90 100
+9 9 1 0 -1 -1
+Z 36533
+Z 36534
+Z 36582
+#36511
+N W 0~
+demonic creature~
+the demonic creature~
+A horrid beast spawned from the depths of Hell rises to meet you.
+~
+   An aberration known only to exist in Hell, this indescribable mass of fangs,
+claws and black hide can only exist on the prime material plane if summoned
+hither by some black power.    
+~
+719384 0 0 0 5244072 0 0 0 -1000
+15 0 3 1d1+5000 5d10+30
+35 40
+9 9 1 0 -1 -1
+#36512
+K M 0~
+mortus beast~
+the mortus beast~
+A horrifying mass of black ooze slides across the floor.
+~
+   This unspeakable horror is one of the many powerful minions of the dark
+Necromancer, placed under the command of his Cabal, and thus nominally
+controlled by Tsu'schepteba.  She, however, does not trust it and keeps it
+locked here unless it is sorely needed.    
+~
+555086 0 0 0 33832 0 0 0 -100
+51 0 -10 1d1+24500 10d20+100
+90 100
+9 9 0 0 -1 -1
+Z 36588
+#36513
+H P 0~
+portrait knight~
+a Ghostly Knight~
+The ghostly remains of a long-dead knight rises to serve its master.
+~
+   Sworn to Tarrant in life, this knight continues his vows of allegiance unto
+death, and beyond.    
+~
+587916 0 0 0 536871976 0 0 0 500
+40 -10 -7 1d1+5000 15d5+10
+65 75
+9 9 1 0 -1 -1
+#36514
+H M 0~
+priest damned~
+a damned priest~
+A crazed man coated in the blood of virgins offers unspeakable libations.
+~
+   Foul cleric of unspeakable powers, this gaunt man has the touch of madness,
+in its worst form.  Divorced from reality, his mind gamboles freely amongst the
+nightmarish anti-reality of the Hells, and draws sustenance from therein.  
+Slavishly devoted to the Necromancer and his cabal, this priest is truly a
+despicable, yet tragic, figure.    
+~
+28878 0 0 0 538092584 0 0 0 -666
+50 5 1 1d1+10000 10d20+50
+80 90
+9 9 1 0 -1 -1
+Z 36535
+#36515
+R R 0~
+dire wolf~
+a dire wolf~
+A long, black wolf slinks through the corridors.
+~
+   The senses of these foul creatures are so finely attuned that they can
+detect even magically concealed foes, hence their great usefulness as guards,
+undoubtledly the function they have been put to in this chapel.  But guards for
+what...?    
+~
+555260 0 0 0 1475624 0 0 0 -400
+10 15 1 1d1+10000 10d20+30
+35 40
+9 9 1 0 -1 -1
+Z 36518
+#36516
+H W 0~
+Niles butler~
+Niles~
+A distinguished looking butler stands near the door.
+~
+   An elderly man, Niles has served the DuChesne for three generations.  
+Nearing the end of his life, Niles nevertheless performs his duties with
+fautless precision.    
+~
+718938 0 0 0 1213608 0 0 0 500
+50 -8 -1 1d1+15000 15d15+100
+80 90
+9 9 1 0 -1 -1
+Z 36543
+Z 36544
+Z 36545
+Z 36580
+#36517
+H W 0~
+guard baron~
+the baron's guard~
+A member of the baron's guard watches for trouble.
+~
+   This sturdy guard is one of the many sworn to protect the baron and his
+family from harm, a difficult task in these dark days.    
+~
+588236 0 0 0 5420072 0 0 0 500
+40 2 -10 1d1+7500 15d10+30
+65 75
+9 9 1 0 -1 -1
+#36518
+H W 0~
+baronguard guard baron~
+a baron's guard~
+A member of the baron's guard watches for trouble.
+~
+   This sturdy guard is one of the many sworn to protect the baron and his
+family from harm, a difficult task in these dark days.    
+~
+719194 0 0 0 42024 0 0 0 -400
+40 5 -10 1d100+10000 10d10+40
+65 75
+9 9 1 0 -1 -1
+#36519
+D W 4~
+black dragon dengraz'ch~
+Dengraz'ch~
+An enormous black dragon lies curled up in the cave.
+~
+   Dengraz'ch is a formidable drake, one of the many terrors inflicted on the
+hapless village of Gilchrist by the Necromancer.  He answers to none but The
+Necromancer, not even to the witch or her cabal, who hate and fear him.  While
+he is of unfathomable evil, he is not overtly violent, and will not attack
+obviously capable adventurers without provocation- past experience has taught
+him not to underestimate these disarmingly frail-looking creatures.    
+~
+718938 0 0 0 5285032 0 0 0 -400
+50 -30 -10 1d5000+20000 20d20+50
+80 90
+9 9 1 8 4 6
+Z 36554
+Z 36555
+Z 36556
+#36520
+H N 0~
+necromancer fakenecro~
+the Necromancer~
+A dark figure swathed in robes of night utters an incantation...
+~
+   A dark figure swathed in robes of night utters an incantation...    
+~
+188506 0 0 0 5285032 0 0 0 -1000
+20 19 -1 1d1+10000 25d25+25
+40 40
+9 9 1 0 -1 -1
+Z 36557
+#36521
+N N 0~
+necromancer~
+the Necromancer~
+A skeletal figure swathed in darkness steps forth to meet you.
+~
+   Before you stands the vile mastermind behind the evil that has beset the
+valley.  Cold light gleams in the hollow sockets where the vile being's eyes
+once existed, gazing balefully at you.  A taloned claw of a hand reaches out of
+the tattered robes, beckoning you to your fate...    
+~
+8577146 0 0 0 542155944 0 0 0 -1000
+51 -10 -15 1d1+30000 20d30+75
+90 100
+9 9 1 0 -1 -1
+Z 36575
+Z 36574
+#36522
+H W 0~
+baron duchesne~
+Baron DuChesne~
+A distinguished gentleman in his middle years sits here reading.
+~
+   A former knight of the realm who has seen action in three wars, the Baron
+now prefers to spend his time relaxing in the manor of his family, which he has
+become head of.  His greying hair and developing paunch belie a man who is in
+fact of considerable strength.  The recent trials have taken their toll
+however, and his face is the face of a broken man.    
+~
+718938 0 0 0 1217704 0 0 0 900
+51 -30 -10 1d4000+20000 20d20+50
+90 100
+7 9 1 0 -1 -1
+Z 36546
+Z 36547
+Z 36548
+Z 36549
+Z 36550
+Z 36576
+#36523
+H M 0~
+maryah seer~
+Maryah~
+A middle-aged woman gazes intently into a darkened sphere.
+~
+   An elegant woman in her forties, Maryah is a seer, gifted with the power of
+second sight.  Rumored to have elven blood in her veins, she is respected by
+the local townsfolk.  Her eyes flash with the power of arts magica. 
+~
+782426 0 0 0 1475752 0 0 0 400
+50 -5 1 1d1+20000 15d20+50
+80 90
+9 9 2 0 -1 -1
+Z 36542
+Z 36553
+#36524
+H W 0~
+francois burgomeister~
+Francois, the burgomeister~
+The big-bellied burgomeister stands here twirling his moustaches.
+~
+   Francois is a good, honest man, who sincerely wishes to end the evils
+troubling his little village.  After all efforts by the Baron failed, the
+burgomaster began to set about hiring mercenaries to attempt to defeat the
+Witch and perhaps even the Necromancer.    
+~
+782426 0 0 0 1213608 0 0 0 750
+51 -20 -10 1d24000+999 20d20+50
+90 100
+9 9 1 0 -1 -1
+Z 36539
+Z 36540
+Z 36541
+Z 36553
+Z 36577
+Z 36589
+#36525
+H W 0~
+alain blacksmith~
+Alain~
+A surprisingly lean blacksmith sharpens a new blade.
+~
+   Alain is a renowned and respected blacksmith, responsible for the fine
+swords of the Baron and his knights, amongst others.  He appears to be of slim
+build, and it seems impossible that he could have pounded the steel into shape
+to forge these items.    
+~
+712794 0 0 0 1082536 0 0 0 500
+51 -30 -10 1d5000+20000 28d28+75
+90 100
+9 9 1 0 -1 -1
+Z 36551
+Z 36552
+Z 36553
+Z 36562
+Z 36581
+#36526
+H C 0~
+villager gilchrist~
+a villager of gilchrist~
+A stout, middle-aged villager wearing a dour expression stomps past.
+~
+   The citizens of this hamlet seem inordinately depressed; doubtless the
+machinations of the Necromancer are taking their toll on their morale.    
+~
+584152 0 0 0 1344680 0 0 0 500
+45 5 -5 1d1+5000 8d7+0
+65 75
+9 9 1 0 -1 -1
+Z 36553
+Z 36566
+#36527
+H W 0~
+villager gilchrist~
+a villager~
+A homely, middle-aged woman wanders the streets, pining for her children.
+~
+   The citizens of this hamlet seem inordinately depressed; doubtless the
+machinations of the Necromancer are taking their toll on their morale.    
+~
+588236 0 0 0 1082536 0 0 0 500
+45 5 -5 1d1+8000 8d15+25
+65 75
+9 9 2 0 -1 -1
+Z 36553
+#36528
+H D 0~
+ghoulish minion~
+a ghoulish minion~
+A ghoulish minion cavorts with glee!
+~
+   This foul abberation is the damned soul of one who followed the path of the
+Necromancer and received their final 'reward'...    
+~
+718970 0 0 0 33960 0 0 0 -400
+50 0 -10 1d1+7500 10d10+50
+80 90
+9 9 1 0 -1 -1
+#36529
+N H 0~
+wall flesh~
+a wall of flesh~
+A quivering, twitching wall of flesh bars the passage.
+~
+   A quivering, twitching wall of flesh bars the passage.    
+~
+716922 0 0 0 1082536 0 0 0 -1000
+50 5 5 1d1+20000 15d15+50
+80 90
+9 9 0 0 -1 -1
+Z 60
+Z 36573
+#36530
+N M 0~
+tus'schepteba witch~
+Tus'schepteba~
+A twisted old crone cackles fearfully as she prepares a new curse.
+~
+   Vile, inculcating whore of the Necromancer, this foul aberration is despised
+by all who behold her pustulent, malodorous form.  Scars criss cross her
+grinning, cackling visage, which is formed from the faces torn from a dozen
+virgins on their wedding nights.  The witch revels in her role of servitude to
+the Necromancer, and is constantly seeking new souls to devour in his honor.  
+
+~
+720474 0 0 0 5285032 0 0 0 -999
+51 -30 -20 1d20000+4999 25d25+50
+90 100
+9 9 2 0 -1 -1
+Z 36571
+Z 36578
+#36531
+H W 0~
+skeleton guard~
+a skeleton guard~
+A blackened skeleton guards his master's bastion.
+~
+A blackened skeleton guards his master's bastion.
+~
+718938 0 0 0 1090728 0 0 0 -400
+50 -30 1 1d1000+12500 18d7+75
+80 90
+9 9 1 0 -1 -1
+Z 36559
+Z 36560
+Z 36561
+Z 21
+#36532
+H C 0~
+mad cabalist~
+a mad cabalist~
+An insane devotee of the Necromancer awaits the attention of his master.
+~
+   This evil human has devoted his life to serving the Necromancer, and is part
+of the Cabal of the Witch, that select organization that carries out the
+Necromancer's bidding on this plane.  He is utterly devoid of any moral center,
+and is quite psychotic.    
+~
+718970 0 0 0 99368 0 0 0 -400
+50 -30 -10 1d1+12000 8d20+40
+80 90
+9 9 1 0 -1 -1
+Z 60
+#36533
+H W 0~
+damned soul~
+a damned soul~
+A damned soul prowls the halls endlessly.
+~
+   These pitiable wretches believed the lies of the Necromancer, and sought to
+attain immortality by aceding to his dark wishes.  They achieved their goal,
+though hardly in the form they expected.    
+~
+718968 0 0 0 99368 0 0 0 -500
+50 -30 -10 1d1+7500 13d18+50
+80 90
+9 9 1 0 -1 -1
+Z 60
+#36534
+D D 12~
+xanclaw wyvern~
+Xanclaw~
+A sinuous, snakelike wyrm rises from a pile of treasure.
+~
+   This foul wyvern is acutely aware of the fact that he is not equal to his
+draconian cousins, and this has made him a malicious and foul tempered brute,
+even more than the usual wyvern.  His tail drips an acidic venom that scores
+the floor where it lands.    
+~
+712826 0 0 0 5735592 0 0 0 -400
+50 0 -1 1d1+15000 25d20+25
+80 90
+9 9 1 0 -1 -1
+Z 36564
+Z 36565
+Z 36570
+#36535
+H R 0~
+scout~
+a scout~
+One of the baron's scouts dashes hurriedly past you.
+~
+   Clad in the livery of the baron, concealed by dusty brown cloak and armor,
+this tired fellow has been tirelessly carrying the baron's orders around the
+valley.    
+~
+719052 0 0 0 1344552 0 0 0 600
+30 10 1 1d1000+5000 10d9+25
+50 60
+9 9 1 0 -1 -1
+Z 36553
+Z 36579
+#36536
+U T 0~
+undead marauder~
+an undead marauder~
+A slobbering, drooling undead creature scurries along the path.
+~
+   These ghoulish minions of the necromancer wander the valley, protected from
+the sun during the day by the long shadows cast by the hills.  They feed and
+slay randomly, their keen senses allowing them to detect hidden victims.    
+~
+8935564 0 0 0 4490280 0 0 0 -1000
+35 0 1 1d1000+2000 10d10+50
+50 60
+9 9 0 0 -1 -1
+#36537
+U W 0~
+undead marauder~
+an undead marauder~
+These ghoulish minions of the necromancer wander the valley, protected
+~
+These ghoulish minions of the necromancer wander the valley, protected
+from the sun during the day by the long shadows cast by the hills. They
+feed and slay randomly, their keen senses allowing them to detect hidden
+victims.
+~
+8941788 0 0 0 295976 0 0 0 -1000
+35 -10 1 1d100+5000 10d10+60
+50 60
+9 9 0 0 -1 -1
+Z 36510
+#36538
+N A 0~
+crazed nekrabeast~
+the crazed Nek'rabeast~
+A cackling, fiendish undead hacks the dead and dying into tiny pieces.
+~
+   A foul amalgamation of parts of a dozen creatures, this creature is the
+Necromancer's assassin, sent to slay his enemies.  It managed to infiltrate the
+manor, and dispose of the kitchen staff and a couple of guards.  It should have
+struck for the Baron next; but being of a nature that defies any sort of order,
+it has instead elected to sit here for a while, enjoying this sport.    
+~
+718972 0 0 0 5407912 0 0 0 -666
+50 0 -15 1d15000+2500 30d12+100
+80 90
+9 9 1 0 -1 -1
+Z 60
+#36539
+D M 0~
+brother Dengraz'ch~
+the brother dragon~
+The brother dragon of Dengraz'ch looks very upset.
+~
+This is a very pissed of dragon!
+~
+718936 0 0 0 4228136 0 0 0 -400
+35 -10 -20 1d1000+15000 20d10+50
+50 60
+9 9 1 8 4 16
+Z 60
+Z 36558
+#36540
+H W 0~
+alain2 smith~
+Alain~
+A surprisingly lean blacksmith sharpens a new blade.
+~
+   Alain is a renowned and respected blacksmith, responsible for the fine
+swords of the Baron and his knights, amongst others.  He appears to be of slim
+build, and it seems impossible that he could have pounded the steel into shape
+to forge these items.    
+~
+712794 0 0 0 541099176 0 0 0 500
+51 -20 -1 1d1+25000 50d2+100
+90 100
+9 9 1 0 -1 -1
+Z 36563
+$

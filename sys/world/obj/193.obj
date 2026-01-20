@@ -1,0 +1,1329 @@
+#19300
+clan options sign~
+a sign to list clan options~
+A sign that lists purchasable clan options.~
+~
+16 12 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+New Clan                       *250m* Rent room with Innkeeper, Board room
+                                      with Board, guard room with guard, all
+                                      names and discriptions personalized,
+                                      must be supplied before creation.
+Bank Deposit Box               * 15m*
+Fountain                       * 10m* Name and discrip, 10k units, !take
+Additional Rooms               * 50m* Room name, discription and linking
+Decorative Objects             *  5m* No Stats allowed, must be !take
+Room Flags                     *  5m* Available Flags: Regen, Peace, Dark,
+                                      Indoors, Regen, Fog, !Sound
+Additional Mobs                * 10m* No triggers or Eq
+Clan Locker                    * 50m* 200 items, increase 10m per 40 items
+Existing Personal Locker Moved *  5m* Rename and discription
+New Personal Locker in Hall    * -> * 15 mil for 10 items, 30 mil for 20
+                                      includes personalized name and discrip
+Add Alt to Personal Locker     *  1m* 1 alt addition, no limit on alts
+Add Content to Personal Locker * 15m* 10 additional items, no size limit
+Teleport Out of Hall Script    * 70m* mob w/ discript - Samsera, Turra, Abenos,
+                                      Freeport, Fairhaven, Underdark, Freehold,
+                                      Shaden, Midgaard, New Thalos, Lost City
+Teleport into Hall Script      * 50m* can't be in Samsera or on a main pathway
+Exit to Fairhaven Center       * 50m*
+Relocate Rm, Obj, Script, Mob  *  5m*
+Rename Rm, Obj, Mob or Discrip *  5m*
+Shop Keeper                    *100m* regen, di, fly, shield, blur, refresh,
+                                      food w/ str,  invis, ward
+Add Items to Existing Shop     * 10m* Per item - Immortal discretion
+Misc Room/Mob Triggers         * -> * cost and avail at Immortal discretion
+Transfer of Clan Ownership     *100QP*
+~
+B
+0 0 0 0
+#19301
+forsaken board~
+the board~
+A large board stands here surrounded by marble benches.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#19302
+fountain urn lotus~
+an urn~
+&07A finely crafted urn rests in the center of the room.&00~
+~
+23 0 0 0 0 0 0 0 0
+100000 100000 15 0
+10000 0 0
+E
+urn fountain~
+   The liquid it contains is a very unusual substance, a slight shimmering
+effect with an ominous &07black lotus&00 floating on the surface.  Its
+regenerative qualities are perhaps the lifeblood of this very old and
+mysterious cathedral.    
+~
+B
+0 0 0 0
+#19303
+candles altar obsidian~
+three candles on an obsidian altar~
+Three candles burn here for all eternity upon an altar made of pure obsidian.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#19304
+a desk~
+a desk~
+A small desk covered in keys rests quietly in the corner.~
+~
+15 0 0 0 0 0 0 0 0
+2800 16 -1 0
+0 0 2800
+E
+desk~
+You see a small ancient desk made from the great oaks of the elven forests.
+It is encrusted with small jewels favored by the elves.
+Sheets of parchment are scattered on the desk. You can only imagine the
+documents that have been signed on it through its long history. There
+are many keys that cover it. You think one is a piece to the fabled
+Cavern of Heroes.
+~
+B
+0 0 0 0
+#19305
+fountain forsaken stone water drink~
+a stone fountain~
+A large stone fountain filled with the purest water beckons you.~
+~
+23 0 0 0 0 0 0 0 0
+10000 10000 15 0
+1000 0 0
+Z 19305
+E
+fountain stone~
+
+The fountain stands in the middle of the room, attracting anyone who
+passes by with its beauty. It is made of stone ripped from the bowels
+of the dwarven mountains. The center is three large statues, standing
+with one hand extended up to form a circle. Clutched in their hands is
+a piece of parchment, each containing one of the vows of Forsaken. The
+vows are written in the purest of gold. Each time you drink from this
+fountain, you are renewing your vows, and forging your soul with your
+brothers of Forsaken.
+~
+B
+0 0 0 0
+#19306
+shelves o19306~
+shelves~
+Richly crafted hardwood shelves line the walls.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+220 0 0
+E
+shelves~
+The shelves were made by the best wood workers from the realms of Raven.  The
+wood was imported all they way from the great Forest of Korduth.  Carvings on
+the sides depict every class and race that has fought for the great name of
+Forsaken.  The shelves are filled with scrolls that will take you almost
+anywhere, and potions that will imbue you with almost any spell.    
+~
+B
+0 0 0 0
+#19307
+greggles locker~
+the statue of Greggles~
+The statue of &08Greggles&00 stands here, poised for flight into battle.~
+~
+15 0 0 0 0 0 0 0 0
+20 21 -1 0
+1000 0 20
+E
+greggles locker statue~
+   Before you stands the statue of a great dragon with fearsome &10yellow&00
+eyes.  Deep battle scars are the only imperfections on his shimmering
+&01crimson&00 scales.  This warrior has left the mortal world only to be reborn
+to endure the horrors spilling the blood of innocents.  In one of his enormous
+claws is a flag bearing the words &08Forever Forsaken&00.    
+~
+B
+0 0 0 0
+#19308
+stained glass box inner light~
+a Stained glass box.~
+A stained glass box sits here, seeming to glow with an inner light.~
+~
+15 0 0 0 0 0 0 0 0
+1000 16 -1 0
+8000 1000000 1000
+B
+0 0 0 0
+#19309
+assorted flowers~
+Assorted flowers~
+A utopia of every-kind of flower from around the world grows here divinely.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1 1 0
+B
+0 0 0 0
+#19310
+board~
+the board~
+&07A very long black casket rests in the back of the cathedral.&00~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#19311
+a sign~
+a sign~
+A sign has been posted here, Read List/Look sign for Information.~
+A sign.
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+1 1 0
+E
+sign~
+If you are caught abusing this right you've been given in anyway. This privilege
+will be taken away, and whoever was caught abusing it will be dealt accordingly.
+
+
+Anubis.
+~
+E
+list~
+
+For Courage to assist you properly, here is a list of where he may take you.
+For each town the correct word(s) must be spoken.
+Lost city
+turra
+Under Dark
+Samsera
+Elven
+Freehold
+Freeport
+Midgaard
+Abenos
+Shaden
+New Thalos
+For example: Speck says, 'Elven' - He will be transported to elven.
+~
+B
+0 0 0 0
+#19312
+ghastly crypt~
+&01Ghastly Crypt&00~
+&01Stained and old, twisted bones form a ghastly crypt.&00~
+~
+15 0 0 0 0 0 0 0 0
+400 16 -1 0
+1000 1000 400
+E
+ghastly crypt~
+Neutral human (and non-human alike) bones form the shape of this apparently ancient 
+coffin. The strange thing is, despite the way the bones lie in contorted chaos, it appears to 
+be air tight. There is a thick black iron-cast latch that seals it closed, for what appears
+to have been an eternity due to the amount of cobwebs and the dusts of time that have
+settled upon it.  A &07^&08v&00&07^&00 is engraved into the latch, perhaps this was a vampire's coffin long 
+ago - and the cursed negative energy seems to permeate the continuum itself.
+~
+B
+0 0 0 0
+#19313
+&07a rotting scroll&00~
+&07a rotting scroll&00~
+A scroll slowly decays on the ground.~
+~
+2 0 0 0 0 1 0 0 0
+50 117 0 0
+1 2000 200
+B
+0 0 0 0
+#19314
+fire flames hearth~
+the fire~
+The flames flicker and dance within the hearth.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#19315
+fire flames hearth~
+the fire~
+The flames flicker and dance within the hearth.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#19316
+glowing crystal~
+a large glowing crystal~
+A large crystal is here exuding raw arcane powers.~
+~
+8 0 0 0 0 0 0 0 0
+0 0 0 0
+189 1000000 0
+E
+glowing crystal~
+   A glowing crystal resting on a three foot pedestal has been secured to the
+floor.  Many late nights have been spent telling deeds and tales of the
+Republic, all the while, this glowing crystal being the fixation of attention.
+  
+~
+B
+0 0 0 0
+#19317
+spear forsaken~
+&07The &08S&07pear of The &08F&07orsaken&00~
+Holy Crap! Caleb is Fucking Awsome!~
+~
+5 0 0 0 0 1 0 0 0
+0 1 1 5
+1 15000 2
+B
+0 0 0 0
+#19318
+board tome enchanted~
+an enchanted tome.~
+An enchanted tome floats here, ruffling its pages as you approach.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+1 250 0
+B
+0 0 0 0
+#19319
+trunk tickle~
+&08The Tickle Trunk&00~
+A seemingly bottomless &08red trunk&00 rests here.~
+~
+15 0 0 0 0 0 0 0 0
+240 16 -1 0
+5 20000 240
+E
+tickle trunk~
+This is an especially &01h&02a&03p&04p&05y&00 looking trunk.
+~
+B
+0 0 0 0
+#19320
+wall board~
+board item available for use~
+There appears to be some strange encrypted writing upon various parts of the walls in this office.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#19321
+large black hole swirling mass~
+Large Black Hole~
+A large bottomless swirling mass of blackness beckons to your belongings.~
+~
+15 0 0 0 0 0 0 0 0
+1100 16 -1 0
+0 0 1100
+E
+hole~
+As you stare into this hole it seems to be almost bottomless.
+~
+B
+0 0 0 0
+#19322
+marble fountain~
+a cascading marble fountain~
+An immaculate marble fountain is nestled into the gardens, cascading pure clear blue water into the center.~
+~
+23 0 0 0 0 0 0 0 0
+100000 100000 0 0
+50 0 0
+E
+fountain~
+   Hand-carved from rare and beautifully polished Calcium Gold marble, this
+fountain is large and awe-inspiring.  An eye-opening attraction that offers a
+vibrant centerpiece to the Hanging Gardens.  At close to fifteen feet tall, it
+leaves a lasting impression of power and strength.  Stunning is one word that
+simply describes this marble masterpiece.  Clear blue water cascades from a
+marble sculpture of a warrior, spear wielded, down a set of steps into a rather
+large pool.    
+~
+B
+0 0 0 0
+#19323
+skeleton~
+skeleton~
+A skeleton~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+50 0 0
+B
+0 0 0 0
+#19324
+shelves books board~
+the shelves~
+Shelves of books are here, all containing intense knowledge of the lands of Raven.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#19325
+board rack scrolls~
+several racks of scrolls~
+Several racks of scrolls are here.~
+Several racks of scrolls are here.
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#19326
+sign potions~
+sign~
+A sign stands prominently here, detailing the potions for sale.~
+~
+16 33554432 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+&00&07Aftermath's &00&01store &00&04menu&00
+&00&14----------------&00
+&00a &07flask&00 of &09t&00rol&09l&00 rotgut&00
+&00Spell &00&04- &00&01Ward&00
+&00Spell level - 30&00
+&00&14----------------&00
+&00a &07glass&00 of &05e&00lve&05n&00 wine&00
+&00Spell &00&04- &00&01Blur&00
+&00Spell level &00&04- &00&0120&00
+&00&14----------------&00
+&00a &07mug&00 of &01m&00inotauria&01n&00 ale&00
+&00Spell &00&04- &00&01Refresh&00
+&00Spell level &00&04- &00&0130&00
+&00&14----------------&00
+&00a &07stein&00 of &03d&00warve&03n&00 beer&00
+&00Spell &00&04- &00&01Shield&00
+&00Spell level &00&04- &00&0130&00
+&00&14----------------&00
+&00a &07grail&00 of &11g&00nomis&11h&00 booze&00
+&00Spell &00&04- &00&01Detect Invisibility&00
+&00Spell level &00&04- &00&0140&00
+&00&14----------------&00
+&00a &07platter&00 of &06d&00emoni&06c&00 entrails&00
+&00Spell &00&04- &00&01Strength&00
+&00Spell level &00&04- &00&0120&00
+&00&04Item is &00&01Edible&00
+&00&14----------------&00
+&00a &07goblet&00 of &04d&00ro&04w&00 liqueur&00
+&00Spell &00&04- &00&01Fly&00
+&00Spell level &00&04- &00&0140&00
+&00&14----------------&00
+&00a &07chalice&00 of &14e&00lementa&14l&00 cordial&00
+&00Spell &00&04- &00&01Invisibility&00
+&00Spell level &00&04- &00&0140&00
+&00&14----------------&00
+&00a &07vessel&00 of &12h&00alflin&12g&00 spirits&00
+&00Spell &00&04- &00&01Regenerate&00
+&00Spell level &04- &00&0140&00
+~
+B
+0 0 0 0
+#19327
+granite dust~
+&07granite dust&00~
+Some granite dust covers the floor~
+~
+10 0 0 0 0 1 0 0 0
+50 54 0 0
+10 2000 200
+B
+0 0 0 0
+#19328
+shimmering phial unrestrained emotion~
+&08a shimmering phial of unrestrained emotion&00~
+A shimmering vial has been placed here~
+~
+10 0 0 0 0 1 0 0 0
+30 29 69 0
+4 30000 3000
+B
+0 0 0 0
+#19329
+cat cat's eye, mashed into jelly~
+&05a cat's eye, mashed into jelly&00~
+A small pile of flesh is on the ground.~
+~
+10 0 0 0 0 1 0 0 0
+50 44 0 0
+6 4000 400
+B
+0 0 0 0
+#19330
+scrawlings board 19330~
+Scrawlings of a Madman~
+The Scrawlings of a Madman are here.~
+~
+12 0 0 0 0 65536 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#19331
+locker pandora box 19331~
+Pandora's box~
+Pandora's Box is here.~
+~
+15 67108864 0 0 0 0 0 0 0
+25 16 -1 0
+25 10 25
+B
+0 0 0 0
+#19332
+styrofoam cooler esky~
+a stryofoam cooler~
+&11A styrofoam cooler sits here.&00~
+~
+15 1 0 0 0 0 0 0 0
+400 16 -1 0
+300 0 400
+E
+esky cooler styrofoam~
+   It looks like one of those squeaky blue-speckled Esky's your mom used to use
+on the family picnic.  (and where your dad hides his beer stash!  ) You wonder
+what's packed in it...    
+~
+B
+0 0 0 0
+#19333
+cactus~
+&09a cactus&00~
+A cactus lies here.~
+~
+17 0 0 0 0 1 0 0 0
+500 500 0 0
+11 5 2000
+B
+0 0 0 0
+#19334
+no place like home sign~
+a "no place like &03home&00" sign~
+A small sign sticks out of the ground~
+~
+2 0 0 0 0 1 0 0 0
+50 42 0 0
+7 3500 350
+B
+0 0 0 0
+#19335
+powdered bones vanquished foe~
+&07the powdered bones of a vanquished foe&00~
+A small pile of ashes takes up some of the ground.~
+~
+27 0 0 0 0 1 0 0 0
+50 89 0 0
+1 230 23
+B
+0 0 0 0
+#19336
+storage cupboard~
+the cupboard~
+The large cupboard looks like a good place to store supplies.~
+~
+15 0 0 0 0 0 0 0 0
+400 16 -1 0
+10000 0 400
+B
+0 0 0 0
+#19337
+chest forsaken heros~
+the &08Forsaken&00 Chest of Heroes.~
+An enormous &21&14platinum&00 chest rests near the north wall.~
+~
+15 0 0 0 0 0 0 0 0
+10000 5 -1 0
+0 0 10000
+E
+chest forsaken heroes~
+   The chest itself is made from pure platinum.  It is bound with large bands
+of gold and silver.  It is glowing slightly and you can feel powerful magic
+pulsating from it.  Etched into the sides are images of the greatest of
+&08Forsaken&00 Champions.    
+~
+B
+0 0 0 0
+#19338
+kaban box~
+a clan locker~
+Kaban ng Bayan.~
+~
+15 0 0 0 0 0 0 0 0
+800 16 -1 0
+10000 0 800
+B
+0 0 0 0
+#19339
+skull giant locker jhasso~
+&00&16Glorious Sea Giant&00 skull~
+The skull of a &00&16Glorious Sea Giant&00.~
+~
+15 0 0 0 0 0 0 0 0
+303 21 -1 0
+0 0 299
+E
+skull giant~
+   Far removed from its natural habitat the skull of the &00&16Sea Giant&00 dominates the
+room.  With what appears to have been great effort, an engraving has been made
+on its enormous forehead: XXXV
+~
+B
+0 0 0 0
+#19340
+tome board~
+a board~
+A large old Tome elevated by sorcery stands upon the side of the room gleaming faintly.~
+~
+13 0 0 0 0 65536 0 0 0
+0 0 0 0
+50 0 0
+E
+board~
+   This soul is weak, you can feel its pain.  Not being worthy of taking the
+burden from the cursed souls it is forever enslaved to carry the stories of one
+member to another.    
+~
+B
+0 0 0 0
+#19341
+pond~
+a pond.~
+A sparkling pond seduces you with it's clear water.~
+~
+23 0 0 0 0 0 0 0 0
+30000 30000 0 0
+10000 1 0
+B
+0 0 0 0
+#19342
+cigar~
+a half-lit cigar~
+A cigar lies here.  It shouldn't be!~
+~
+12 16777216 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#19344
+frozen lake~
+a small lake~
+&11A frozen lake reflects the night sky.&00~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+lake frozen~
+The smooth glassy surface beautifully reflects the night sky. The image is so perfect you can see the constellations in its surface.
+~
+B
+0 0 0 0
+#19350
+tome~
+a Tome~
+A dusty book rests on a pedestal.~
+~
+12 65545 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+tome book 1~
+   You open the dusty tome and find the ancient knowledge of past historians.
+Many pages are marked.  Look pagenumber to see the contents of each page.    
+~
+E
+2~
+They looked down over the valley.  Here, this is where we will settle.  The
+valley leading in here can easily be defended.  Gazing across the untouched
+lands their imagination pieced the layout of the hall as it is destined to be.
+They see the trainers, mighty wizards and aging warriors, priests with the
+powers of the gods.  All of these, and the new ones.  They shall all come.  
+The fire burns in them.  They know that the lands hold many things to give
+those who seek it, and we shall know it all.  The sloven lords seek the quick
+cash, but only those who prove themselves shall be admitted.  The quest we send
+them on shall be challenging, but like a chunk of iron, the fire shall mold
+them into tempered steel of weapons and armor.    
+~
+E
+3~
+   No Blade, nor whip, nor force of arms shall ever overcome the power of one
+man's singular passion for the pursuit of knowledge and the celebration of
+imagination.    
+~
+E
+4~
+   This page is dedicated to those Wanderers that have come before us.    
+Ack
+Autumn
+Bloodsong
+Caliquendi
+Cheun
+Corwin
+Dragos
+Grimble
+Jimmy
+Katri
+Kulgan
+Lan
+MacDunn
+Malkavain
+Pookie
+Ragnarok
+Rohan
+Tori
+Venus
+Verbal
+Zog
+~
+B
+0 0 0 0
+#19351
+waterfall pool stream~
+Khelban's waterfall~
+A small waterfall cascades down the cliff into an inviting pool full of fish.~
+~
+23 256 0 0 0 0 0 0 0
+30000 30000 15 0
+1500 0 0
+E
+waterfall pool stream~
+The waterfall cascades over the edge of the cliff in a cloud of mist, causing a hazy
+rainbow to arch across half the valley. You see fish jumping in the ripples caused by 
+the waterfall's descent. The pool itself looks cool and refreshing, and you wonder if
+anybody would mind if you jumped in and took a swim.
+~
+B
+0 0 0 0
+#19352
+vault locker~
+the Vault~
+The Vault of Lost Knowledge is here.~
+~
+15 67108864 0 0 0 0 0 0 0
+400 16 -1 0
+1000 0 400
+E
+vault locker~
+   Inside you see a vast array of armor, weapons, and other useful items.    
+~
+B
+0 0 0 0
+#19353
+board~
+board~
+You see the clan message board here.~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+board~
+   Read messages from your fellow clan members or leave one for others to read.
+  
+~
+B
+0 0 0 0
+#19354
+fountain ornate~
+a fountain~
+An ornate fountain stands here.~
+~
+23 67108864 0 0 0 0 0 0 0
+10000 10000 0 0
+10000 0 0
+E
+fountain Ornate~
+   Meticulously crafted by the dwarves of Greyrock Mountain, this ornate
+fountain brightens the room it fills.  The gentle bubbling sounds invite you
+for a refreshing drink.    
+~
+B
+0 0 0 0
+#19355
+board~
+board~
+You see the Clan Policy Board here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+board~
+   This is a record of the Wanderer Clan Policies.  Read it to familiarize
+yourself with our policies, purposes, and beliefs.    
+~
+B
+0 0 0 0
+#19356
+tag necklace~
+a tag~
+A necklace made from gold lays here.~
+~
+11 67174400 0 0 0 32769 0 0 0
+0 0 0 0
+0 0 0
+E
+necklace tag~
+A necklace made from gold with the letters "Fluffy" inscribed on it.
+~
+B
+0 0 0 0
+#19357
+tag necklace~
+a tag~
+A gold necklace is lying here.~
+~
+11 67174400 0 0 0 32769 0 0 0
+0 0 0 0
+0 0 0
+E
+tag necklace~
+A golden necklace with the letters "Spot" inscribed on it.
+~
+B
+0 0 0 0
+#19358
+Chest level advance~
+a chest~
+The Chest of Advancement is here.~
+~
+15 0 0 0 0 0 0 0 0
+400 16 -1 0
+0 0 400
+E
+chest~
+Useful items for low levels and leveling fill this chest.
+~
+B
+0 0 0 0
+#19359
+elite armoire~
+an Elite armoire~
+The Armoire of the Elite is here.~
+~
+15 0 0 0 0 0 0 0 0
+400 16 -1 0
+10000 1000 400
+E
+Armoire  Elite~
+Some of the most powerful relics known to mortals are stored in here.
+~
+B
+0 0 0 0
+#19360
+wicker basket~
+a Wicker Basket~
+A Wicker Basket sits here.~
+~
+15 67108864 0 0 0 0 0 0 0
+400 16 -1 0
+0 0 400
+E
+Wicker Basket~
+Dawn's junk basket.
+Help yourself.
+~
+B
+0 0 0 0
+#19361
+locker Gangrel Crackle Negelum Forsaken Zzas Taker Turtle Mulegen~
+the statue of &08Gangrel&00~
+The statue of &08Gangrel&00 watches over you protectively.~
+~
+15 67174428 0 0 0 0 0 0 0
+110 21 -1 0
+50 0 110
+E
+locker statue gangrel~
+The statue of Gangrel stands nearly 20 feet tall. He stands coiled, ready
+to strike. An eerie light accents his &06demonic&00 features. His eyes lock
+onto yours. He smiles kindly at you and bows slightly.
+~
+B
+0 0 0 0
+#19362
+statue l19362 ltalis talis~
+the statue of Talis.~
+The statue of &14Talis&00 reclines here, head buried in a large book.~
+~
+15 0 0 0 0 0 0 0 0
+50 21 -1 0
+0 0 50
+E
+talis ltalis deahtop ldeahtop~
+   This marble statue belies his drow nature, but his eyes speak only the truth
+of foes vanquished and mischief obtained.  Staring deep into the onyx eyes you
+shake your head as they appear to wink your way and the hint of a smile seems
+to reach his lips as he begins to hiss, "&07Forever Forsaken&00".    
+~
+B
+0 0 0 0
+#19363
+blood fountain~
+a blood fountain~
+A fountain of contorted human corpses gushes &01crimson&00 liquid here.~
+~
+23 0 0 0 0 0 0 0 0
+10000 10000 13 0
+0 0 0
+B
+0 0 0 0
+#19367
+blood~
+&01A crimson fountain dripping blood&00~
+&01A crimson fountain gushes the lifeblood of fallen foes.&00~
+~
+23 64 0 0 0 0 0 0 0
+100000 100000 13 0
+1500 497 0
+B
+0 0 0 0
+#19368
+locker crypt ancient one o19368~
+the Crypt of the &07Ancient One&00~
+&00the Crypt of the &07Ancient One&00 is resting in the corner of the room.~
+~
+15 100663296 0 0 0 0 0 0 0
+400 21 -1 0
+1 0 400
+E
+locker crypt ancient one o19368~
+This small crypt is covered in thousands of pictures of struggles and triumphs. You don't 
+see any pattern at first, but as you look longer you begin to suspect an impossible truth. If 
+these ancient carvings are to be believed, the different characters in each picture are the 
+same being who has existed on Raven since the beginning of time. Wearing dozens of 
+faces and fighting in thousands of battles, you wonder what this being fights for.
+~
+B
+0 0 0 0
+#19370
+board~
+board~
+A stone board, edged with gold and silver, hangs on the far wall.~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+board~
+   As you examine closer, you notice the wear of this magnificent board, only
+further exemplifying what may be inscribed upon it.    
+~
+B
+0 0 0 0
+#19371
+elaborate marble fountain~
+an elaborate marble fountain~
+An elaborate marble fountain is here.~
+~
+23 0 0 0 0 0 0 0 0
+9999 9999 0 0
+1200 1200 0
+E
+elaborate marble fountain~
+   The fountain is made of thick marble.  The thickness reminds you of the
+strong ties in the brotherhood.  The water flowing from the top is of the
+purest kind, straight from an unknown source.  The water makes you think of the
+pure heart and motives amongst the kin.    
+~
+B
+0 0 0 0
+#19372
+keg~
+a large keg~
+A large Keg rests here.~
+~
+15 67108876 0 0 0 0 0 0 0
+2000 16 -1 0
+10000 0 2000
+E
+keg~
+A large keg of dark brown lager from the brewery of &11the Brethren&00.
+~
+B
+0 0 0 0
+#19373
+Samsera~
+pool to Samsera~
+A small pool with a plaque beside it that reads, 'Samsera'~
+~
+24 0 0 0 0 0 0 0 0
+18001 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19374
+Turra~
+pool to Turra~
+A small pool with a plaque beside it that reads, 'Turra'~
+~
+24 0 0 0 0 0 0 0 0
+27718 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19375
+Freeport~
+pool to Freeport~
+A small pool with a plaque beside it that reads, 'Freeport'~
+~
+24 0 0 0 0 0 0 0 0
+22953 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19376
+FairHaven~
+pool to FairHaven~
+A small pool with a plaque beside it that reads, 'FairHaven'~
+~
+24 0 0 0 0 0 0 0 0
+30601 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19377
+Underdark~
+pool to Underdark~
+A small pool with a plaque beside it that reads, 'Underdark'~
+~
+24 0 0 0 0 0 0 0 0
+20684 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19378
+Lost City~
+pool to Lost City~
+A small pool with a plaque beside it that reads, 'Lost City'~
+~
+24 0 0 0 0 0 0 0 0
+21201 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19379
+New Thalos~
+pool to New Thalos~
+A small pool with a plaque beside it that reads, 'New Thalos'~
+~
+24 0 0 0 0 0 0 0 0
+13506 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19380
+construction tarsis board~
+Construction of Tarsis~
+The Construction of Tarsis lays here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#19381
+locker 19381 bottomless fez~
+the Bottomless Fez~
+A bright red fez lies here, upturned.~
+~
+15 67108864 0 0 0 0 0 0 0
+400 16 -1 0
+0 10 400
+B
+0 0 0 0
+#19382
+blood fountain cauldron~
+a blood fountain~
+&08A large cauldron full of blood entices your hunger.&00~
+~
+23 0 0 0 0 0 0 0 0
+1000000 1000000 13 0
+50 0 0
+B
+0 0 0 0
+#19384
+cambruin locker l19384 mausoleum paladine soul~
+the Mausoleum~
+&07The Mausoleum for &11Paladine's &07Lost Souls&00~
+~
+15 0 0 0 0 0 0 0 0
+20 21 -1 0
+0 0 20
+E
+cambruin locker l19384 mausoleum paladine soul~
+   &07Before you stands a magnificent arched door embedded in what appears to
+be a solid block of marble carved into the visage of Hammurabi's lost Obelisk.
+As you stare at the door you see that it bears the protections of Paladine
+himself.  You realize that this door is the infamous gateway that leads deep
+into Maladomini where the lost souls have been blessed with respite from their
+wanderings in this realm.  You shiver with a chill when you realize what the
+penalty for disturbing their audenience with Paladine would be.  As you turn
+away you wonder what could have been so valuable to have been worth carving
+into Hell itself to protect!  &00
+~
+B
+0 0 0 0
+#19385
+statue khelban gaul natas shaitan~
+a statue of Khelban, the Lost Hero~
+&00The statue of &03Khelban&00, the &01Lost Hero&00, stands here.&00~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1300 1000000 0
+E
+statue khelban gaul natas shaitan~
+  Khelban, a lost but not forgotten friend of the entire land, will surely be
+missed by mortals and imms alike.  He was always ready and willing to help
+anybody on, or lead anybody on any run from ten minutes to two days in length.
+This land lost a great asset in the fall of 2002 when justice took a blow and
+Khelban was taken from us all.    
+  The statue stands in a defiantly strong position, with a smile on his face and 
+sweat on his brow.  His hand is extended towards you in friendship.
+~
+B
+0 0 0 0
+#19386
+sign~
+a Sign~
+A sign is posted here that reads:  Type "Read list/Look sign" for more information.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+1 1 0
+E
+sign~
+If you are caught abusing this right you've been given in anyway. This privilege
+will be taken away, and whoever was caught abusing it will be dealt accordingly.
+
+Anubis.
+
+~
+E
+list~
+For the pit fiend to assist you properly, here is a list of where he may take you.
+For each town the correct word/s must be spoken.
+Lost city
+turra
+Under Dark
+Samsera
+Elven
+Freehold
+Freeport
+Midgaard
+Abenos
+Shaden
+New Thalos
+For example: Trona says,'Elven'. She'll be transported to elven.
+~
+B
+0 0 0 0
+#19387
+Freehold~
+pool to Freehold~
+A small pool with a plaque beside it that reads, 'Freehold'~
+~
+24 0 0 0 0 0 0 0 0
+12223 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19388
+Shaden~
+pool to Shaden~
+A small pool with a plaque beside it that reads, 'Shaden'~
+~
+24 0 0 0 0 0 0 0 0
+11501 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19389
+Midgaard~
+pool to Midgaard~
+A small pool with a plaque beside it that reads, 'Midgaard'~
+~
+24 0 0 0 0 0 0 0 0
+3005 -1 10 0
+0 0 0
+B
+0 0 0 0
+#19390
+board damn ~
+a board~
+The master forger has left his notebook here. ~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+B
+0 0 0 0
+#19391
+locker trash bin~
+a trash bin~
+A large trash bin sits in the corner.~
+~
+15 0 0 0 0 0 0 0 0
+2000 16 -1 0
+10000 0 2000
+B
+0 0 0 0
+#19392
+crack water ceiling~
+a fountain~
+A crack in the ceiling allows a dirty trickle of water through.~
+The water looks drinkable. Just.
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 0 0
+10000 0 0
+E
+crack ceiling water~
+The water looks drinkable. Just.
+~
+B
+0 0 0 0
+#19393
+zerik locker~
+the statue of Zerik~
+The statue of &13Zerik&00 is here chanting his mantra.~
+~
+15 0 0 0 0 0 0 0 0
+400 21 -1 0
+1 0 400
+E
+locker zerik~
+   Looking at this mighty figure, you see a man of immense knowledge and
+ability.  As you peer into his eyes, you get an uneasy feeling leaving you with
+the awareness that he has seen many a battle and many a foe fall.  Grasped in
+his hand is a book undoubtedly with all the notes of his healing arts.  The
+cover is emblazoned with the words: &08"Forever Forsaken"&00.    
+~
+B
+0 0 0 0
+#19394
+under construction~
+an under construction sign~
+A sign lies here telling you this place is under construction.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 2730
+A
+19 4
+A
+19 4
+A
+19 4
+A
+18 4
+A
+18 4
+A
+18 4
+B
+0 0 0 0
+#19395
+Sarcophagus~
+the Sarcophagus~
+A sarcophagus bearing the image of a warrior laid to rest sits here.~
+~
+15 0 0 0 0 0 0 0 0
+800 16 -1 0
+1000 0 800
+E
+sarcophagus locker granite~
+The sarcophagus is composed of ancient granite. The lid is carved in the shape of a proud 
+warrior wearing the armor and weapons in which he fell. On the sides are images of the
+hundreds of battles this mighty warrior fought. Now his spirit remains to guard the 
+treasures of his clan and make sure only the worthy may open the lid and survive.
+~
+B
+0 0 0 0
+#19396
+bench desk justice o19396~
+Kinison's bench of judgement~
+A huge bench stands here, from which you shall be judged.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+bench scale scales desk justice~
+   The large bench is made of some dark stone and upon it rests two scales held
+in the balance.  As Kinison stares at you, you watch the scales begin to tip
+and wonder how your soul will fare and what your fate will be.    
+~
+B
+0 0 0 0
+#19397
+tome understanding board~
+the tome~
+A tome of understanding is spread open here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#19398
+statue goblet darkness fountain o19398~
+Statue of Darkness fountain.~
+&02A glowing statue of &07Darkness&00&02 stands here holding forth a golden &03goblet&02 overflowing with blood-red &01wine&00.~
+~
+23 320 0 0 0 0 0 0 0
+999999 999999 2 0
+1500 0 0
+E
+statue Nemesis goblet fountain o19398~
+As you look closer you realize there is more to this statue of the goddess of
+justice and vengeance than you first thought.  The eyes seem to shift and
+pierce your soul, and you feel as if you are being judged.  You notice that
+while one hand holds forth an overflowing goblet, the other holds a sword of
+pure &24Darkness&00 poised over your head.  It is only after the statue offers
+you a drink from the goblet that you realize you have been deemed worthy and
+allowed to live.    
+~
+B
+0 0 0 0
+#19399
+OD locker~
+an unfinished object~
+An unfinished object is lying here.~
+~
+15 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+$~

@@ -1,0 +1,9 @@
+#!/bin/csh
+
+# Remove the backups that are more than 30 days old
+#
+find /home/raven/archives/sysarc -name \* -mtime +30 -print -exec /bin/rm -f {} \;
+
+/bin/rm -rf /home/raven/archives/sysarc/etc
+/bin/rm -rf /home/raven/archives/sysarc/world
+

@@ -1,0 +1,11 @@
+bread buy 20 bread;put all.bread bas
+clan clan &00&04>&00&13--&00&04<&00&11$* &00&04>&00&13--&00&04<&00
+say say &00&03>&00&09--&00&03<&00&14$* &00&03>&00&09--&00&03<&00
+gt gtell &00&03>&00&09--&00&03<&00&14$* &00&03>&00&09--&00&03<&00
+gs gtell &00&03>&00&09--&00&03<&00&14$* &00&03>&00&09--&00&03<&00
+ord order follow $*
+cf get bread bas;eat bread
+3 kill 3.
+2 kill 2.
+1 kill 1.
+db drink water

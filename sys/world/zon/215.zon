@@ -1,0 +1,157 @@
+#215
+Under Dark Extensions~
+21599 60 2 0
+D 0 21501 2 1        
+O 0 21532 1 21537    
+D 0 21526 0 1        
+D 0 21527 2 1        
+D 0 21527 1 1        
+D 0 21528 2 1        
+D 0 21529 3 1        
+D 0 21531 1 2        
+D 0 21536 3 2        
+D 0 21590 0 1        
+D 0 21591 2 2        
+D 0 21595 2 1        
+D 0 21596 0 2        
+M 0 21511 6 21502    * Mob : a piercer
+M 0 21511 6 21522    * Mob : a piercer
+M 0 21511 6 21582    * Mob : a piercer
+M 0 21500 1 21506    * Mob : an umber hulk
+O 0 21515 1 21506    
+M 0 21508 4 21509    * Mob : a Drow scout
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+M 0 21508 4 21522    * Mob : a Drow scout
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+M 0 21508 4 21551    * Mob : a Drow scout
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+M 0 21508 4 21589    * Mob : a Drow scout
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+M 0 21505 1 21511    * Mob : a displacer beast
+M 0 21502 1 21515    * Mob : a Drow merchant
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+G 1 21506 99 -1      * Give: a bar of silver
+G 1 21507 99 -1      * Give: a bar of gold
+G 1 21508 99 -1      * Give: a bar of mithril
+G 1 21509 99 -1      * Give: a bar of adamantite
+M 0 21501 2 21515    * Mob : a riding lizard
+E 1 21500 10 5       * Eqp : a riding saddle
+M 0 21503 6 21515    * Mob : a bugbear guard
+E 1 21510 10 19      * Eqp : an adamantite morning star
+M 0 21504 6 21515    * Mob : a troglodyte slave
+E 1 21511 10 19      * Eqp : a spear
+M 0 21503 6 21516    * Mob : a bugbear guard
+E 1 21510 10 19      * Eqp : an adamantite morning star
+M 0 21504 6 21517    * Mob : a troglodyte slave
+E 1 21511 10 19      * Eqp : a spear
+M 0 21521 1 21528    * Mob : a Drow vampire mage
+E 1 21521 1 20       * Eqp : a wand
+G 1 21524 1 -1       * Give: a key
+M 0 21522 1 21528    * Mob : a succubus
+E 1 21522 1 3        * Eqp : some expensive jewelry
+E 1 21522 1 4        * Eqp : some expensive jewelry
+E 1 21526 1 17       * Eqp : some expensive jewelry
+E 1 21526 1 18       * Eqp : some expensive jewelry
+M 0 21523 1 21529    * Mob : a gnome slave
+O 0 21523 1 21529    
+P 1 21525 0 21523    * Put : a scroll
+P 1 21515 0 21523    * Put : a sparkling gem
+M 0 21526 8 21531    * Mob : a Drow guard
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+M 0 21526 8 21532    * Mob : a Drow guard
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+M 0 21526 8 21533    * Mob : a Drow guard
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+M 0 21525 1 21534    * Mob : a Drow priestess
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21527 10 19      * Eqp : a Lesser Tentacle Rod
+E 1 21529 10 20      * Eqp : a key
+M 0 21509 1 21535    * Mob : a nightmare
+M 0 21527 1 21536    * Mob : a Drow mage
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21528 10 20      * Eqp : a Drow brooch
+M 0 21517 1 21537    * Mob : a nycadaemon
+E 1 21520 1 19       * Eqp : a battle axe
+M 0 21512 1 21540    * Mob : a lurker above
+M 0 21506 3 21542    * Mob : a hook horror
+M 0 21520 3 21546    * Mob : a jermlaine
+E 1 21511 10 19      * Eqp : a spear
+M 0 21515 2 21550    * Mob : a Kuotoan scout
+E 1 21517 10 20      * Eqp : a net
+E 1 21518 10 19      * Eqp : a barbed trident
+E 1 21519 10 5       * Eqp : a leather body harness
+M 0 21507 6 21555    * Mob : a Svirfneblin
+E 1 21512 10 19      * Eqp : a svirfneblin pick axe
+E 1 21513 10 5       * Eqp : a suit of svirfneblin chainmail
+E 1 21514 10 17      * Eqp : an earth stone
+G 1 21515 10 -1      * Give: a sparkling gem
+G 1 21516 10 -1      * Give: a mineral pill
+M 0 21507 6 21556    * Mob : a Svirfneblin
+E 1 21512 10 19      * Eqp : a svirfneblin pick axe
+E 1 21513 10 5       * Eqp : a suit of svirfneblin chainmail
+E 1 21514 10 17      * Eqp : an earth stone
+G 1 21515 10 -1      * Give: a sparkling gem
+G 1 21516 10 -1      * Give: a mineral pill
+M 0 21507 6 21557    * Mob : a Svirfneblin
+E 1 21512 10 19      * Eqp : a svirfneblin pick axe
+E 1 21513 10 5       * Eqp : a suit of svirfneblin chainmail
+E 1 21514 10 17      * Eqp : an earth stone
+G 1 21515 10 -1      * Give: a sparkling gem
+G 1 21516 10 -1      * Give: a mineral pill
+O 0 21530 1 21557    
+P 1 21531 0 21530    * Put : ore
+M 0 21516 1 21556    * Mob : an earth elemental
+M 0 21513 3 21544    * Mob : a gelatinous cube
+M 0 21513 3 21559    * Mob : a gelatinous cube
+M 0 21513 3 21566    * Mob : a gelatinous cube
+M 0 21514 1 21580    * Mob : a gray ooze
+M 0 21528 1 21572    * Mob : a purple worm
+M 0 21524 4 21588    * Mob : a wererat
+E 1 21504 10 19      * Eqp : a drow short sword
+M 0 21518 6 21591    * Mob : a ghoul
+M 0 21519 3 21596    * Mob : a ghast
+M 0 21510 1 21599    * Mob : a Mezzodaemon
+M 0 21529 4 21598    * Mob : a drow sentry
+E 1 21501 10 15      * Eqp : a drow cloak
+E 1 21502 10 11       * Eqp : a pair of drow boots
+E 1 21503 10 5       * Eqp : a suit of drow chainmail
+E 1 21504 10 19      * Eqp : a drow short sword
+E 1 21505 10 20      * Eqp : a drow hand crossbow
+S
+$

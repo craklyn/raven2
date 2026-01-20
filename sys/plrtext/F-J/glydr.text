@@ -1,0 +1,35 @@
+bless c 'bless' $*
+a c 'rev' talid
+sac c 'sac' $*
+banish c 'banish' $*
+fort c 'fort' $*
+sanc c 'sanc' $*
+sum c 'summon' $*
+cb c 'cure blind' $*
+ward c 'ward' $*
+infra c 'infra'
+sense c 'sense'
+di c 'detect invis' $*
+cl c 'call lightning' $*
+food c 'create food'
+harm c 'harm' $*
+h c 'heal' $*
+wa wake;stand
+where who -z
+fly c 'fly' $*
+word c 'word' $*
+bl c 'blindness' $*
+med rest
+clea c 'cleanse' $*
+reg c 'regen' $*
+r c 'revive' $*
+rp c 'remove poison' $*
+gh c 'heal' group
+para c 'rem para' $*
+o tell sliver $*
+gt gt &12>&00&04<>&00&14$* &00&04<>&00&12<&00
+title tit &12>&00&13<> &07Glub&00&13 <>&00&12<&00
+relo c 'relo' $*
+armor c 'armor' $*
+rere rec elv elv
+howhow put all bee;get all.elv bee

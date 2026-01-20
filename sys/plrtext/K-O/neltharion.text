@@ -1,0 +1,34 @@
+spellup c 'nox';c 'shield';c 'fly';c 'dete in';c resis';c 'wr'
+ent c 'entomb' $*
+rune c 'create ward'
+deb c 'deb' $*
+rp c 'resist poison' $*
+] wear all
+[ get all all.nelt
+cons c 'consume' $*
+say say &08$*&00
+sp c 'soul pierce' $*
+ld c 'life drain' $*
+fly c 'fly' $*
+summ c 'summ' $*
+b c 'blindness' $*
+invis c 'invisibility' $*
+di c 'detect invisibility' $*
+infra c 'infravision'
+shield c 'shield' $*
+nox c 'nox' $*
+emb c 'embalm' $*
+cc c 'charm corpse' $*
+age c 'age' $*
+loot get all all.corpse
+ce drop $*;c 'charm cor' $*
+eg get all all.corp;c 'emb' $*;get $*
+wr c 'wraith
+ginvis c 'invis' gr
+ar look e;look w;look n;look s;look u;look d
+bone c 'bone wall' $*
+gt gt &08<<<<< $* >>>>>&00
+cs c 'summ corp' $*
+ctc c 'call to corpse' $*
+ise give infra $*;o $* q infra;give sense $*;o $* q sense
+dis $*;o ec k dis

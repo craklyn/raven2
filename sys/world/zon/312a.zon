@@ -1,0 +1,167 @@
+#312
+The Bazaar (all)~
+31299 30 2 0
+D 0 31272 0 2        
+D 0 31270 2 2        
+D 0 31270 0 2        
+D 0 31270 3 2        
+D 0 31271 2 2        
+D 0 31269 1 2        
+D 0 31268 2 1        
+D 0 31267 0 1        
+D 0 31265 2 1        
+D 0 31264 0 1        
+M 0 31220 8 31222    * Mob : a beggar
+G 1 31240 100 -1     * Give: a tin cup
+M 0 31220 8 31220    * Mob : a beggar
+G 1 31240 100 -1     * Give: a tin cup
+M 0 31220 8 31201    * Mob : a beggar
+G 1 31240 100 -1     * Give: a tin cup
+M 0 31221 10 31201   * Mob : a guard
+G 1 31245 1 -1       * Give: a studded vest
+G 1 31201 1 -1       * Give: a pair of leather breeches
+G 1 31202 1 -1       * Give: an iron helmet
+G 1 31205 1 -1       * Give: a huge shamsheer
+M 0 31234 8 31250    * Mob : a busker
+E 1 31262 8 20       * Eqp : a sitar
+M 0 31234 8 31212    * Mob : a busker
+E 1 31262 8 20       * Eqp : a sitar
+M 0 31218 8 31240    * Mob : a shopper
+M 0 31219 2 31240    * Mob : a thieving scoundrel
+M 0 31234 8 31240    * Mob : a busker
+E 1 31262 8 20       * Eqp : a sitar
+M 0 31234 8 31221    * Mob : a busker
+E 1 31262 8 20       * Eqp : a sitar
+M 0 31220 8 31214    * Mob : a beggar
+G 1 31240 100 -1     * Give: a tin cup
+M 0 31235 4 31214    * Mob : a snake charmer
+E 1 31261 100 6      * Eqp : a turban
+G 1 31264 100 -1     * Give: a flute
+M 0 31236 4 31214    * Mob : a cobra
+O 1 31263 1 31214    
+M 0 31212 1 31208    * Mob : a slave trainer
+M 0 31218 8 31208    * Mob : a shopper
+M 0 31236 1 31208    * Mob : a cobra
+O 1 31263 1 31208    
+M 0 31220 8 31216    * Mob : a beggar
+G 1 31240 100 -1     * Give: a tin cup
+M 0 31235 4 31216    * Mob : a snake charmer
+G 1 31264 100 -1     * Give: a flute
+M 0 31235 4 31216    * Mob : a snake charmer
+G 1 31264 100 -1     * Give: a flute
+O 1 31263 1 31216    
+M 0 31213 1 31218    * Mob : a monk
+M 0 31219 2 31218    * Mob : a thieving scoundrel
+M 0 31235 4 31218    * Mob : a snake charmer
+G 1 31264 100 -1     * Give: a flute
+M 0 31235 4 31218    * Mob : a snake charmer
+G 1 31264 100 -1     * Give: a flute
+D 0 31252 3 1        
+M 0 31228 1 31252    * Mob : the chimpanzee
+M 0 31229 1 31252    * Mob : the jaguar
+M 0 31230 1 31252    * Mob : the gorilla
+D 0 31251 1 1        
+M 0 31211 1 31251    * Mob : an animal trainer
+M 0 31218 8 31224    * Mob : a shopper
+M 0 31222 1 31224    * Mob : the princess fatima
+E 1 31246 1 6        * Eqp : a veil
+E 1 31247 1 11        * Eqp : a pair of soft slippers
+E 1 31248 1 5        * Eqp : a gold nipple ring
+M 0 31226 8 31224    * Mob : a slave
+M 0 31200 1 31244    * Mob : an armor merchant
+G 1 31200 99 -1      * Give: a chainmail tunic
+G 1 31201 99 -1      * Give: a pair of leather breeches
+G 1 31202 99 -1      * Give: an iron helmet
+G 1 31203 99 -1      * Give: a pair of mithril gauntlets
+M 0 31201 1 31243    * Mob : an arms merchant
+G 1 31204 99 -1      * Give: a scimitar
+G 1 31205 99 -1      * Give: a huge shamsheer
+G 1 31206 99 -1      * Give: a short spear
+G 1 31207 99 -1      * Give: a silver dagger
+M 0 31202 1 31207    * Mob : a goods dealer
+G 1 31208 99 -1      * Give: a coarse blanket
+G 1 31209 99 -1      * Give: a torch
+G 1 31210 99 -1      * Give: a brass lantern
+G 1 31211 99 -1      * Give: a pouch belt
+M 0 31203 1 31215    * Mob : a chef
+G 1 31212 99 -1      * Give: a felafel
+G 1 31213 99 -1      * Give: a beef shish kebab
+G 1 31214 99 -1      * Give: a lamb doner kebab
+G 1 31215 99 -1      * Give: fried capsicum
+M 0 31204 1 31228    * Mob : a thaumaturgist
+G 1 31216 99 -1      * Give: a bone staff
+G 1 31217 99 -1      * Give: a slender ivory wand
+G 1 31218 99 -1      * Give: an oak staff
+G 1 31219 99 -1      * Give: a short black wand
+M 0 31205 1 31203    * Mob : a herbalist
+G 1 31220 99 -1      * Give: a yellow herb
+G 1 31221 99 -1      * Give: a red herb
+G 1 31222 99 -1      * Give: a green herb
+G 1 31223 99 -1      * Give: a white herb
+M 0 31206 1 31204    * Mob : a tailor
+G 1 31224 99 -1      * Give: a bright red fez
+G 1 31225 99 -1      * Give: a camelhair jacket
+G 1 31226 99 -1      * Give: a pair of silk trousers
+G 1 31227 99 -1      * Give: a pair of curled boots
+M 0 31208 1 31229    * Mob : a blacksmith
+M 0 31209 1 31206    * Mob : a scribe
+G 1 31228 99 -1      * Give: a scroll
+G 1 31229 99 -1      * Give: a scroll
+G 1 31230 99 -1      * Give: a scroll
+G 1 31231 99 -1      * Give: a scroll
+M 0 31210 1 31248    * Mob : a shipwright
+G 1 31232 99 -1      * Give: a skiff
+G 1 31233 99 -1      * Give: a chinese junk
+G 1 31234 99 -1      * Give: a small galley
+G 1 31235 99 -1      * Give: a scow
+M 0 31214 1 31217    * Mob : a fruiterer
+G 1 31236 99 -1      * Give: an overripe tomato
+G 1 31237 99 -1      * Give: a juicy pear
+G 1 31238 99 -1      * Give: a crunchy apple
+G 1 31239 99 -1      * Give: a juicy melon
+M 0 31215 1 31234    * Mob : Dave the peddler
+G 1 31240 99 -1      * Give: a tin cup
+G 1 31241 99 -1      * Give: a rusty knife
+G 1 31242 99 -1      * Give: a potion
+G 1 31243 99 -1      * Give: a small pouch
+P 1 31224 1 31223    * Put : a bright red fez
+M 0 31216 1 31213    * Mob : an agitator
+M 0 31217 8 31234    * Mob : a shopper
+M 0 31217 8 31236    * Mob : a shopper
+M 0 31217 8 31232    * Mob : a shopper
+M 0 31217 8 31242    * Mob : a shopper
+M 0 31218 8 31223    * Mob : a shopper
+M 0 31221 10 31246   * Mob : a guard
+G 1 31245 1 -1       * Give: a studded vest
+G 1 31201 1 -1       * Give: a pair of leather breeches
+G 1 31202 1 -1       * Give: an iron helmet
+G 1 31205 1 -1       * Give: a huge shamsheer
+M 0 31221 10 31242   * Mob : a guard
+G 1 31245 1 -1       * Give: a studded vest
+G 1 31201 1 -1       * Give: a pair of leather breeches
+G 1 31202 1 -1       * Give: an iron helmet
+G 1 31205 1 -1       * Give: a huge shamsheer
+M 0 31223 1 31226    * Mob : a spice merchant
+G 1 31249 99 -1      * Give: a sachet of exotic spices
+G 1 31250 99 -1      * Give: a sachet of exotic spices
+G 1 31251 99 -1      * Give: a sachet of exotic spices
+G 1 31252 99 -1      * Give: a sachet of exotic spices
+M 0 31224 1 31227    * Mob : a florist
+G 1 31253 99 -1      * Give: a wildflower
+G 1 31254 99 -1      * Give: a rose
+G 1 31255 99 -1      * Give: a carnation
+G 1 31256 99 -1      * Give: a daisy
+M 0 31225 1 31230    * Mob : a jeweller
+G 1 31257 99 -1      * Give: a &01dark crystal bracelet&00
+G 1 31258 99 -1      * Give: a &10sun jewel&00
+G 1 31259 99 -1      * Give: a &05strange stone ring&00
+G 1 31260 99 -1      * Give: a string of &07tiny black pearls&00
+M 0 31226 8 31213    * Mob : a slave
+M 0 31226 8 31231    * Mob : a slave
+M 0 31226 8 31238    * Mob : a slave
+M 0 31227 4 31245    * Mob : a whore
+M 0 31231 1 31209    * Mob : the spearman
+M 0 31232 1 31209    * Mob : the bowman
+M 0 31233 1 31209    * Mob : the swordsman
+S
+$

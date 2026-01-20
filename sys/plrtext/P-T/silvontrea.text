@@ -1,0 +1,46 @@
+9 c 'summon' linx
+sp c 'doom bolt' $*
+3 scan
+df get ever pou;drink ever
+foy c 'fount'
+rr rec rec rec
+ep enter po
+clan cla &13---&14(&10*&14)&00&11$* &14(&10*&14)&13---
+say sa &13---&14(&10*&14)&00&11$* &14(&10*&14)&13---
+mm c 'magic mis' $*
+h c 'haste' $*
+inv c 'invis' $*
+ce c 'conjure'
+of order follower $*
+as c 'airsphere' $*
+str c 'strength' $*
+woa c 'wrath of the ancient' $*
+infra c 'infra'
+fb c 'flame blade' $*
+id c 'identify' $*
+shi c 'shield' $*
+bl c 'blindness' $*
+db c 'doom bolt' $*
+2 calm
+1 get all corpse
+ts c 'true sight' $*
+sum c 'summon' $*
+lo c 'locate object' $*
+port c 'portal' $*
+cp c 'charm person' $*
+fm c 'feeblemind' $*
+gate c 'gate'
+sw c 'meteor swarm' $*
+ms c 'meteor'
+cow c 'monster sum' 
+lb c 'lightning bolt' $*
+ld c 'life drain' $*
+nex c 'nexus' $*
+awk c 'awake' $*
+gs gt &13---&14(&10*&14)&00&11$* &14(&10*&14)&13---&00
+wake wak;stand
+manaeq rem all;wield staff;wear peri;wear claws;get all che;wear ice body;wear all;hold heart;put all che
+dameq rem all;wear claws;
+ow order warrior $*
+oj order jenny $*
+fly c 'fly' $*

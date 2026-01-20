@@ -1,0 +1,34 @@
+z c 'heal' kryll
+r c 'word' gr
+g c 'heal' gr
+y get all all.cor
+assis c 'assistant'
+bl c 'blind' $1
+t brew sanc shot
+a ass
+sum c 'sum' $1
+wake wake;stand
+fly c 'fly' $1
+regen c 'regen' $1
+f flee
+h c 'heal' $1
+di c 'detect invis' $1
+ward c 'ward' $1
+armor c 'arm' $1
+bless c 'bless' $1
+blind c 'blind' $1
+gt gt &10*&09|&10*&14$* &10*&09|&10*&00
+say say &10*&09|&10*&14$* &10*&09|&10*&00
+clan clan  &10*&09|&10*&14$* &10*&09|&10*&00
+sense c 'sense'
+infra c 'infravision'
+title title the &01S&08h&00&01r&08i&00&01n&08i&00&01n&08g&00 &12Odd&14parent&00
+con convert $1
+ea c 'earthquake'
+sanc c 'sanc' $1
+fort c 'fortify' $1
+newts e;e;e;e;e;e;e;e;e;e;n;n;n;n;n;n;n;n;n;n;e;e;n;n;n;n;e;e;e;e
+sharks s;s;s;s;s;s;s;s;e;e;e;s;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;w;w;w;w;w;w;w;w;w;w;w;s;s;w;s;w;w;n;n;n;
+orca s;s;s;s;s;s;s;s;e;e;e;s;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;w;n;w;n;n;n;e;n;n
+xerxes c 'sacrifice' xerxes
+q c 'demon fire'

@@ -1,0 +1,2601 @@
+#14700
+The Great Tower of Xerxes - Level 5~
+This area (14701-14819) forms the final level of the Great Tower of Xerxes.
+The connection points are as follows:
+        There are none. This area can be reached from 14626 on the 4th level.
+
+Mob Chutes:
+        14815 loads Skathor into it, allowing him to start in 6 different
+        locations.
+
+This is the final level of the tower, I expect a well-balanced group of 45th+
+characters would be able to do it, IF they are sufficiently determined. There
+are considerably lower numbers of mobiles here, how ever, all of them are
+tougher and in particular, hit much more often, than the inhabitants of the
+lower levels... There are many powerfull items here.
+
+This area was written by Vex.
+~
+147 520 0 0 0 0 255 0
+S
+#14701
+A Landing~
+The spiral stairway comes to a landing here. To the south, the outer wall of
+the Tower curves inward and you surmise you are now close to the uppermost
+level. To the north, you see the base of another flight of spiral stairs. As
+you look down, you realise the stairs there have dissapeared...
+~
+147 520 0 0 0 0 255 0
+D0
+To the north you another flight of stairs leading upward.
+~
+~
+0 0 14799
+S
+#14702
+On the Stairs~
+Your on a flight of spiral stairs. Torches on the walls provide light. From
+here you can go up or down the stairs.
+~
+147 520 0 0 0 0 255 0
+D4
+Looking up you see the top of the stairs.
+~
+~
+0 0 14703
+D5
+Looking down you see the base of the stairs.
+~
+~
+0 0 14799
+S
+#14703
+The Top of the Stairs~
+Your standing at the top of a spiral stairwell leading downward. To the west,
+a long corridor of smooth stone leads onward. You note that the outer wall of
+the tower to the south curves inward. From here you can go west along the 
+corridor or down the stairs.
+~
+147 520 0 0 0 0 255 0
+D3
+A long corridor of stone leads westwards.
+~
+~
+0 0 14704
+D5
+A spiral stairwell descends downwards.
+~
+~
+0 0 14702
+S
+#14704
+A Long Corridor~
+Your in a long corridor of smooth stone. Torches on the northern and southern
+walls provide light. The outer wall of the tower to the south curves inwards,
+making the corridor a little more narrow. The corridor extends to the west,
+while to the east you see some stairs.
+~
+147 520 0 0 0 0 255 0
+D1
+Looking to the east, you see the top of a spiral stairwell.
+~
+~
+0 0 14703
+D3
+To the west, the corridor continues.
+~
+~
+0 0 14705
+S
+#14705
+A Long Corridor~
+Your in a long corridor of smooth stone. Torches on the northern and southern
+walls provide light. The outer wall of the tower to the south curves inwards,
+making the corridor a little more narrow. The corridor extends to the west and
+east.
+~
+147 520 0 0 0 0 255 0
+D1
+To the east, the corridor continues.
+~
+~
+0 0 14704
+D3
+To the west, the corridor continues.
+~
+~
+0 0 14706
+S
+#14706
+A Long Corridor~
+Your in a long corridor of smooth stone. Torches on the northern and southern
+walls provide light. The outer wall of the tower to the south curves inwards,
+making the corridor a little more narrow. The corridor extends to the east and
+comes to an end to the west.
+~
+147 520 0 0 0 0 255 0
+D1
+To the east, the corridor continues.
+~
+~
+0 0 14705
+D3
+The corridor ends to the west.
+~
+~
+0 0 14707
+S
+#14707
+The Entrance~
+Your standing at one end of a long stone corridor, which continues to the 
+east. To the north you see a corridor of white marble, throu an ornate 
+archway. There is a golden plaque above the arch.
+~
+147 520 0 0 0 0 255 0
+D0
+You see a white marble corridor to the north, throu an ornate archway.
+~
+~
+0 0 14708
+D1
+A stone corridor leads to the east.
+~
+~
+0 0 14706
+E
+ornate archway~
+        The arch is formed as the face of a sleeping child. You marvel at the
+detail worked into the stone. Then, even as you watch, the child appears to
+age. Fantastically fast, you see the face mature into that of a young man,
+then the cheeks sink and become wrinkled, the hair thins away. All the while,
+the eyes remained closed, and the expression peacefull. Then suddenly the eyes 
+blink open and stare into your own. The face sneers at you with contempt,
+then in a sonorous whisper, it speaks:
+
+        "Ahh, I have watched your progress through my trials with pleasure,
+you have far exceeded those deluded mortals whose only purpose is to tendure
+their souls to feed my power. I must confess, I was a little surprised at your 
+defeat of that demonling, Astaroth. No matter, your arrogance will be your 
+downfall. Do you truly believe you can vanquish a God? Hah! Come then insects, 
+I await you upon my Throne."
+
+Then the old mans eyes close and the face rapidly changes back to its original
+state.
+~
+E
+plaque golden~
+The plaque reads: "The Trial of Kings"
+~
+S
+#14708
+A corridor of white marble~
+Your standing in a corridor of white marble, lit by a guttering torch on the
+wall. You can't help but notice the strange pallour of the marble, making it
+look some what like bone. You almost fancy you can see something writhing
+beneath the surface and shuddering you look away. You decide you would
+rather not know what it was. The corridor itself continues to the north and
+east while the entrance lies back to the south.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 0 14716
+D1
+The corridor continues to the east.
+~
+~
+0 0 14709
+D2
+To the south lies the entrance.
+~
+~
+0 0 14707
+E
+marble white~
+Peering deep into the marble you see shadowy, human like forms. Their faces
+are distorted with terror and they seem to be trying to reach out to you,
+pleading for you to end their torment. It's as if the soul of every human
+ever slain in the tower is bound into the marble that forms these walls...
+You wonder why any being would want to do such a thing, and how much power
+it would take to do so.
+~
+S
+#14709
+A corridor of white marble~
+Your standing in a corridor of bone white marble. You fancy you can hear
+voices whispering behind you, not quite loud enough for you to hear the
+words. You turn quickly, but see nothing. As you walk on, the whispering
+resumes. The corridor continues to the east and west.
+~
+147 520 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14710
+D3
+The corridor turns to the west.
+~
+~
+0 0 14708
+S
+#14710
+A corridor of white marble~
+Your standing in a corridor of white marble. From the north you can hear the
+clash of steel against steel. Sounds like some kind of fight, perhaps the 
+natives are killing each other you think to yourself hopefully. The corridor
+itself continues to the east and west, while a large room lies to the north.
+~
+147 520 0 0 0 0 255 0
+D0
+A large room of white marble lies to the north.
+~
+~
+0 0 14732
+D1
+The corridor continues to the east.
+~
+~
+0 0 14711
+D3
+The corridor continues to the west.
+~
+~
+0 0 14709
+S
+#14711
+A corridor of white marble~
+Your standing in a corridor of bone white marble. From all around you, you
+hear sonorous voices whispering, try as you might, you can't shut them out,
+like voices in your head. The corridor continues to the east and west.
+~
+147 520 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14712
+D3
+The corridor continues to the west.
+~
+~
+0 0 14710
+S
+#14712
+A corridor of white marble~
+Your standing in a corridor of bone white marble. A gaggle of whispering
+voices suddenly become quiet as you enter this section of the corridor. You
+have a strong sensation of being watched, but no sign of the watchers is
+visible. The corridor continues to the east and west.
+~
+147 520 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14713
+D3
+The corridor continues to the west.
+~
+~
+0 0 14711
+S
+#14713
+A corridor of white marble~
+Your standing in a corridor of bone white marble. All is quiet, you feel 
+ill at ease, without quite knowing why. You notice a door is set into the
+northern wall. The corridor continues to the west and comes to a T-Junction
+to the east.
+~
+147 520 0 0 0 0 255 0
+D0
+A simple wooden door is set into the northern wall.
+~
+wooden door~
+1 14799 14751
+D1
+The corridor comes to a T-junction to the east.
+~
+~
+0 0 14714
+D3
+The corridor continues to the west.
+~
+~
+0 0 14712
+S
+#14714
+A T-Junction~
+You've reached a T-Junction in a corridor of bone white marble. A torch on 
+the eastern wall sheds light. You fancy you can hear a faint rustling 
+movement behind you, but when you turn there is nothing there. The corridor
+continues to the north, south and west.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor turns to the north.
+~
+~
+0 0 14730
+D2
+The corridor ends to the south.
+~
+~
+0 0 14715
+D3
+The corridor stretches out to the west.
+~
+~
+0 0 14713
+S
+#14715
+End of the corridor~
+Your standing at the end of a corridor of bone white marble. Ghostly voices
+seem to be mocking you, apparently emanating from the very walls around you.
+There is gold-veined door of black marble clearly visible in the eastern wall.
+The corridor itself leads northwards.
+~
+147 520 0 0 0 0 255 0
+D0
+You can see a T-Junction to the north.
+~
+~
+0 0 14714
+D1
+A strange door of black gold-veined marble is set into the eastern wall.
+~
+marble gold-veined black door~
+1 14799 14758
+S
+#14716
+A corridor of white marble~
+Your standing in a corridor of bone white marble. You hear voices whispering
+around you, but your unable to discern the words. You peer around you and
+the voices become silent, but as you walk on, the whispering resumes. The 
+corridor continues to the north and south.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 0 14717
+D2
+The corridor continues to the south.
+~
+~
+0 0 14708
+S
+#14717
+A corridor of white marble~
+Your standing in a corridor of bone white marble. From all around you hear
+ethereal whispering voices, some crying, some laughing, some babbling 
+insanely. Try as you might, you can't shut them out. You feel a powerfull urge
+to scream at them, make them stop. The corridor continues to the north and
+south.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor turns to the north.
+~
+~
+0 0 14718
+D2
+The corridor continues to the south.
+~
+~
+0 0 14716
+S
+#14718
+A turn in the corridor~
+The corridor turns here, leading east and south. The incessant whispering 
+voices seem to be silent for the moment. Through an archway to the north, you
+see what appears to be a kitchen.
+~
+147 520 0 0 0 0 255 0
+D0
+You can see what is obviously a well-equipped kitchen to the north.
+~
+~
+0 0 14739
+D1
+The corridor continues to the east.
+~
+~
+0 0 14719
+D2
+The corridor continues to the south.
+~
+~
+0 0 14717
+S
+#14719
+A corridor of white marble~
+Your standing in a corridor of bone white marble, leading east-west. Your
+momentarily over whelmed by a strong feeling of being watched. You almost
+imagine the very walls of this place mean you harm.
+~
+147 520 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14720
+D3
+The corridor continues to the west.
+~
+~
+0 0 14718
+S
+#14720
+A corridor of white marble~
+Your standing in a corridor of bone white marble. You feel something breathing
+on your neck, but when you turn there is nothing there. There are archways
+to large rooms to the north and south. The corridor itself leads east and west
+from here.
+~
+147 520 0 0 0 0 255 0
+D0
+Through the archway you see what appears to be a dining hall.
+~
+~
+0 0 14743
+D1
+The corridor continues to the east.
+~
+~
+0 0 14721
+D2
+To the south you see a large room with a sand covered floor.
+~
+~
+0 0 14735
+D3
+The corridor continues to the west.
+~
+~
+0 0 14719
+S
+#14721
+A corridor of white marble~
+Your standing in a corridor of bone white marble. You experience the strange
+sensation of ethereal fingers running over your body. You'd not feel them at
+all if they were'nt so deathly cold. The corridor continues to the east and
+west.
+~
+147 520 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14722
+D3
+The corridor continues to the west.
+~
+~
+0 0 14720
+S
+#14722
+A corridor of white marble~
+Your standing in a corridor of bone white marble. You see bizzare lights
+flickering in the air out of the corner of your eye. When ever you try
+to look at them directly, they dissapear. The corridor continues to the east
+and west.
+~
+147 520 0 0 0 0 255 0
+D1
+The corridor continues to the east.
+~
+~
+0 0 14723
+D3
+The corridor continues to the west.
+~
+~
+0 0 14721
+S
+#14723
+A corridor of white marble~
+Your standing in a corridor of bone white marble. You brace yourself for
+some kind of ghostly assault, but nothing happens. You notice a simple
+wooden door is set into the southern wall. The corridor itself comes
+to a T-junction to the east and extends further to the west.
+~
+147 520 0 0 0 0 255 0
+D1
+Looking east, you see a T-junction.
+~
+~
+0 0 14724
+D2
+A wooden door is set into the southern wall.
+~
+wood door~
+1 14799 14750
+D3
+The corridor continues to the west.
+~
+~
+0 0 14722
+S
+#14724
+A T-Junction~
+You've come to a T-Junction in a corridor of bone white marble. Seeing a 
+shadow on the wall, you turn quickly, before ruefully realising the shadow
+is of yourself. You faintly hear peals of spectral laughter, mocking you.
+The corridor branches to the north, east and west.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 0 14725
+D1
+The corridor continues to the east.
+~
+~
+0 0 14727
+D3
+The corridor continues to the west.
+~
+~
+0 0 14723
+S
+#14725
+A corridor of white marble~
+Your standing in a corridor of bone white marble. All is deathly quiet, you
+hear your heart beating a little quicker than a brave adventurers should. A 
+sturdy iron-bound door is set into the western wall. The corridor continues a 
+little further to the north, while south lies a T-Junction.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor ends to the north.
+~
+~
+0 0 14726
+D2
+To the south you see a T-Junction.
+~
+~
+0 0 14724
+D3
+A strong iron-bound door is set into the western wall.
+~
+door iron-bound~
+1 14799 14749
+S
+#14726
+End of the corridor~
+Your standing at the end of a corridor of bone white marble. You catch a 
+glimpse of some phantom slithering past to the left... it seemed to go
+directly into the wall. There is a strong door of solid iron set into the
+eastern wall. The corridor itself leads back to the south.
+~
+147 520 0 0 0 0 255 0
+D1
+A strong door of solid iron blocks the way to the east.
+~
+iron door~
+1 14799 14752
+D2
+The corridor continues to the south.
+~
+~
+0 0 14725
+S
+#14727
+Turn in the corridor~
+The corridor turns here, leading to the west and south. You note an iron door
+is set into the northern wall. The restless spirits that haunt the white
+marble corridors seem to be leaving you in peace for now.
+~
+147 520 0 0 0 0 255 0
+D0
+A strong door of solid iron blocks vision past it.
+~
+iron door~
+1 14799 14754
+D2
+The corridor comes to an intersection to the south.
+~
+~
+0 0 14728
+D3
+You see a T-Junction to the west.
+~
+~
+0 0 14724
+S
+#14728
+An Intersection~
+Your standing at an intersection in a corridor of bone white marble. You can
+hear faint ethereal voices, some pleading for you to flee now while you still
+can, while others laugh grimly and urge you to take the eastern corridor.
+Ignoring the voices, who for all their chatter, at least seem harmless you
+take in your surroundings. To the east, you see the bone white marble gives
+way to simple grey stone. To the north and south, the marble corridor 
+continues, while an archway in the western wall allows egress to a flight
+of spiral stairs leading up.
+~
+147 520 0 0 0 0 255 0
+D0
+You can see the white marble corridor turns to the north.
+~
+~
+0 0 14727
+D1
+A corridor of simple grey stone lies to the east. You barely feel spectral 
+hands trying to push you in that direction. Ghastly voices whisper in your
+ear: "Go on! The King is waiting!".
+~
+~
+0 0 14760
+D2
+You can see the white marble corridor turns to the south.
+~
+~
+0 0 14729
+D3
+Through an archway, you see a spiral stairway leading up into the unknown.
+~
+~
+0 0 14796
+S
+#14729
+A turn in the corridor~
+The corridor turns here, leading to the north and west. The malicious spirits
+inhabiting the white marble corridors appear to be quiet at the moment.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor comes to an intersection to the north.
+~
+~
+0 0 14728
+D3
+The corridor continues to the west.
+~
+~
+0 0 14730
+S
+#14730
+A turn in the corridor~
+The corridor turns here, leading to the east and south. You can hear faint
+whispering, seeming to emanate from the bone white marble making up the walls
+of the corridor. The words, however, remain inaudible.
+~
+147 520 0 0 0 0 255 0
+D1
+The corridor turns to the east.
+~
+~
+0 0 14729
+D2
+You see a T-Junction to the south.
+~
+~
+0 0 14714
+S
+#14731
+The Training Room~
+Your standing in the south-west corner of a large stone room. The floor is
+covered with deep sand, no doubt to absorb any blood spilt. Scattered about
+the place are wooden dumbies and a variety of weights, all of which look
+well-used. The room extends further to the north and east.
+~
+147 520 0 0 0 0 255 0
+D0
+The training room extends further to the north.
+~
+~
+0 0 14734
+D1
+The training room extends further to the east.
+~
+~
+0 0 14732
+S
+#14732
+The Training Room~
+Your standing in a large stone room. The floor is covered with deep sand, no 
+doubt to absorb any blood spilt. Scattered about the place are wooden dumbies 
+and a variety of weights, all of which look well-used. The room extends 
+further to the north, west and east, while to the south you see a corridor of
+bone-white marble.
+~
+147 520 0 0 0 0 255 0
+D0
+The training room extends further to the north.
+~
+~
+0 0 14735
+D1
+The training room extends further to the east.
+~
+~
+0 0 14733
+D2
+To the south you see a corridor of white marble.
+~
+~
+0 0 14710
+D3
+The training room extends further to the west.
+~
+~
+0 0 14731
+S
+#14733
+The Training Room~
+Your standing in the south-east corner of a large stone room. The floor is
+covered with deep sand, no doubt to absorb any blood spilt. Scattered about
+the place are wooden dumbies and a variety of weights, all of which look
+well-used. The room extends further to the north and west, while a strong iron
+door bars the way east.
+~
+147 520 0 0 0 0 255 0
+D0
+The training room extends further to the north.
+~
+~
+0 0 14736
+D1
+A sturdy iron door is set into the eastern wall.
+~
+iron door~
+1 14701 14738
+D3
+The training room extends further to the west.
+~
+~
+0 0 14732
+S
+#14734
+The Training Room~
+Your standing in the north-west corner of a large stone room. The floor is
+covered with deep sand, no doubt to absorb any blood spilt. Scattered about
+the place are wooden dumbies and a variety of weights, all of which look
+well-used. The room extends further to the south and east.
+~
+147 520 0 0 0 0 255 0
+D1
+The training room extends further to the east.
+~
+~
+0 0 14735
+D2
+The training room extends further to the south.
+~
+~
+0 0 14731
+S
+#14735
+The Training Room~
+Your standing in a large stone room. The floor is covered with deep sand, no 
+doubt to absorb any blood spilt. Scattered about the place are wooden dumbies 
+and a variety of weights, all of which look well-used. The room extends 
+further to the south,west and east, while to the north you see a corridor of
+bone-white marble.
+~
+147 520 0 0 0 0 255 0
+D0
+To the north you see a corridor of white marble.
+~
+~
+0 0 14720
+D1
+The training room extends further to the east.
+~
+~
+0 0 14736
+D2
+The training room extends further to the south.
+~
+~
+0 0 14732
+D3
+The training room extends further to the west.
+~
+~
+0 0 14734
+S
+#14736
+The Training Room~
+Your standing in the north-east corner of a large stone room. The floor is
+covered with deep sand, no doubt to absorb any blood spilt. Scattered about
+the place are wooden dumbies and a variety of weights, all of which look
+well-used. The room extends further to the south and west, while a strong iron
+door bars the way east.
+~
+147 520 0 0 0 0 255 0
+D1
+A sturdy iron door is set into the eastern wall.
+~
+iron door~
+1 14799 14737
+D2
+The training room extends further to the south.
+~
+~
+0 0 14733
+D3
+The training room extends further to the west.
+~
+~
+0 0 14735
+S
+#14737
+Armoury~
+Like those of the training grounds outside, the walls of the armoury are of
+a simple dull grey stone commonly used throughout the tower. In racks set
+into the wall are a wide variety of weapons that are used in training
+exercises conducted by the Weapon's Mistress to sharpen the well-honed skills
+of King Xerxes elite guards. The only exit lies back to the west.
+~
+147 520 0 0 0 0 255 0
+D3
+To the west you see the sand-covered floor of the training room.
+~
+iron door~
+1 14799 14736
+S
+#14738
+Prison Cell~
+This open cell holds a large number of miserable wretches whose only purpose 
+is to be slain in weapons practice carried out in the large room to the west. 
+The room smells badly from all the unwashed bodies contained within, while the
+floor is covered in dirt and excrement. The only way out is back through the
+door to the west.
+~
+147 520 0 0 0 0 255 0
+D3
+To the west you see the sand-covered floor of the training room.
+~
+iron door~
+1 14701 14733
+S
+#14739
+Kitchen~
+This stone chamber obviously serves as a kitchen. A large trestle table in
+the centre of the room is strewn with a variety of pots, bags of stuff and
+slabs of meat. A side board on the western wall holds similiar stuff, while
+a door in the northern wall might lead to a pantry. Through an arch in the
+eastern wall, you see what looks to be a large dining hall.
+~
+147 520 0 0 0 0 255 0
+D0
+A simple wooden door is set into the northern wall.
+~
+door wooden~
+1 14799 14740
+D1
+Looking through the archway, you see a large dining hall.
+~
+~
+0 0 14742
+D2
+A corridor of bone white marble lies to the south.
+~
+~
+0 0 14718
+S
+#14740
+Store Room~
+The store room has walls of dull grey stone. It's quite cold in here, a fact
+which must help in preserving the food stuffs stored in the various crates
+scattered about the room. The only exit lies back to the south.
+~
+147 520 0 0 0 0 255 0
+D2
+To the south lies a kitchen.
+~
+door wooden~
+1 14799 14739
+S
+#14741
+Dining Hall~
+Your standing in the north-west corner of a large stone hall. Torches on the
+walls shed light. Long tables and many chairs take up much of the floor space
+of the hall. The hall continues to the east and south.
+~
+147 520 0 0 0 0 255 0
+D1
+The hall extends further to the east.
+~
+~
+0 0 14744
+D2
+The hall extends further to the south.
+~
+~
+0 0 14742
+S
+#14742
+Dining Hall~
+Your standing in the south-west corner of a large stone hall. Torches on the
+walls shed light. Long tables and many chairs take up much of the floor space
+of the hall. The hall continues to the east and south, while through an 
+archway to the west you can see a kitchen.
+~
+147 520 0 0 0 0 255 0
+D0
+The hall extends further to the north.
+~
+~
+0 0 14741
+D1
+The hall extends further to the east.
+~
+~
+0 0 14743
+D3
+Looking to the west, you see a kitchen.
+~
+~
+0 0 14739
+S
+#14743
+Dining Hall~
+Your standing in a large stone hall. Torches on the walls shed light. Long 
+tables and many chairs take up much of the floor space of the hall. The hall 
+continues to the north, west and east, while a white marble corridor lies to 
+the south.
+~
+147 520 0 0 0 0 255 0
+D0
+The hall extends further to the north.
+~
+~
+0 0 14744
+D1
+The hall extends further to the east.
+~
+~
+0 0 14746
+D2
+To the south you see a corridor of bone-white marble.
+~
+~
+0 0 14720
+D3
+The hall extends further to the west.
+~
+~
+0 0 14742
+S
+#14744
+Dining Hall~
+Your standing in a large stone hall. Torches on the walls shed light. Long 
+tables and many chairs take up much of the floor space of the hall. The hall 
+continues to the south, west and east.
+~
+147 520 0 0 0 0 255 0
+D1
+The hall extends further to the east.
+~
+~
+0 0 14745
+D2
+The hall extends further to the south.
+~
+~
+0 0 14743
+D3
+The hall extends further to the west.
+~
+~
+0 0 14741
+S
+#14745
+Dining Hall~
+Your standing in the north-east corner of a large stone hall. Torches on the
+walls shed light. Long tables and many chairs take up much of the floor space
+of the hall. The hall continues to the west and south, while you notice a door
+in the eastern wall. There is some kind of picture on the door.
+~
+147 520 0 0 0 0 255 0
+D1
+A door is set into the eastern wall. There is a picture of some kind on it.
+~
+door~
+1 14799 14747
+D2
+The hall extends further to the south.
+~
+~
+0 0 14746
+D3
+The hall extends further to the west.
+~
+~
+0 0 14744
+E
+door picture~
+Looking closely at the door, you see there is a silhouette of a voluptous
+female warrior on the door.
+~
+S
+#14746
+Dining Hall~
+Your standing in the south-east corner of a large stone hall. Torches on the
+walls shed light. Long tables and many chairs take up much of the floor space
+of the hall. The hall continues to the west and north, while you notice a door
+in the eastern wall. There is some kind of picture on the door.
+~
+147 520 0 0 0 0 255 0
+D0
+The hall extends further to the north.
+~
+~
+0 0 14745
+D1
+A door is set into the eastern wall. There is a picture of some kind on it.
+~
+door~
+1 14799 14748
+D3
+The hall extends further to the west.
+~
+~
+0 0 14743
+E
+door picture~
+Looking closely at the door, you see there is a silhouette of a brawny male 
+warrior on the door.
+~
+S
+#14747
+Women's Latrine~
+The walls of this room are of simple grey stone. The latrine itself is basic
+and functional. The only exit lies west back to the dining hall.
+~
+147 520 0 0 0 0 255 0
+D3
+To the west you see the dining hall.
+~
+door~
+1 14799 14745
+S
+#14748
+Men's Latrine~
+The walls of this room are of simple grey stone. The latrine itself is basic
+and functional. The only exit lies west back to the dining hall.
+~
+147 520 0 0 0 0 255 0
+D3
+To the west you see the dining hall.
+~
+door~
+1 14799 14746
+S
+#14749
+Master Chef's Room~
+The room is filthy and unkempt, you wonder if anything brought here has ever
+left. A reeking pile of furs in the corner appears to be where the inhabitant
+sleeps. You notice some bones nearby appear to have been gnawed on... it looks
+like a human femur is among them. The only exit lies east back into the 
+corridor.
+~
+147 520 0 0 0 0 255 0
+D1
+To the east you see a corridor of bone white marble.
+~
+door iron-bound~
+1 14799 14725
+S
+#14750
+Servant's Quarters~
+This stone room is simply appointed to accomodate a number of the servants
+required for menial tasks in the tower. You notice it is very clean. The
+only exit lies north to the corridor.
+~
+147 8 0 0 0 0 255 0
+D0
+To the north you see a corridor of bone-white marble.
+~
+wood door~
+1 14799 14723
+S
+#14751
+Servant's Quarters~
+This stone room is simply appointed to accomodate a number of the servants
+required for menial tasks in the tower. You notice it is very clean. The
+only exit lies south to the corridor.
+~
+147 520 0 0 0 0 255 0
+D2
+To the south you see a corridor of bone-white marble.
+~
+wood door~
+1 14799 14713
+S
+#14752
+Tower Guard Mess~
+This is clearly a relaxation area for the numerous guards protecting this
+part of the tower. Scattered about are several tables, a half-dozen chairs,
+cups, and, of course, a large barrel no doubt containing some alchoholic
+beverage. Perhaps these guys are'nt so bad afterall, hrmm, what is that bed
+of hot coals for exactly? You may leave through the iron door you entered to
+the west, or there is a another iron door to the east.
+~
+147 520 0 0 0 0 255 0
+D1
+An iron door is set into the eastern wall.
+~
+door iron~
+1 14799 14753
+D3
+An iron door is set into the western wall.
+~
+iron door~
+1 14799 14726
+S
+#14753
+Barracks~
+The dull grey stone walls of this large chamber are lined with bunks. There
+appears to be little space allocated for the occupants personel possessions.
+The only exit is through the strong iron door you entered to the west.
+~
+147 520 0 0 0 0 255 0
+D3
+The mess lies to the west.
+~
+door iron~
+1 14799 14752
+S
+#14754
+Amazon Relaxation Chambers~
+This appears to be the place the female guards wind down when they are off
+duty. Looking around, you can see various forms of entertainment they indulge
+them selves in. A board on the north wall has a number of rings drawn on it,
+with several knives stuck in it. You note there are a large cluster of knife
+marks around the centre of the board. There are a number of chairs around a
+large table in the centre of the room, there are strong leather straps
+attached to the table for securing victims for torture while the guards relax
+for a few drinks and a chat. You can make a hasty exit to the south, or, you
+could risk disturbing what ever lies behind the iron door to the east.
+~
+147 520 0 0 0 0 255 0
+D1
+An iron door in the eastern wall blocks vision past it.
+~
+iron door~
+1 14799 14755
+D2
+The corridor lies back to the south, through an iron door.
+~
+iron door~
+1 14799 14727
+S
+#14755
+Barracks~
+The dull grey stone walls of this large chamber are lined with bunks. There
+appears to be little space allocated for the occupants personel possessions.
+The only exit is to the west, from whence you came.
+~
+147 520 0 0 0 0 255 0
+D3
+An iron door leads back to the relaxation chamber.
+~
+iron door~
+1 14799 14754
+S
+#14756
+The Dark Chapel~
+Lines of pews carved from sablewood occupy the floor of the chapel, apart from
+an aisle down the centre. Glowing red eyes from demonic faces rendered in
+bas-relief on the walls of the Chapel provide a dim, hellish light that makes
+you seem covered in blood. Even lingering in the Chapel makes you feel
+tainted, as if the essence of the countless evil deeds committed here could
+seep into your very soul. The taint of evil seems even stronger to the
+east, where a flat altar of black marble squats upon a raised dais. It would
+be far wiser to leave to the south and never return.
+~
+147 520 0 0 0 0 255 0
+D1
+You can feel waves of pulsating evil emanating from the altar to the east.
+~
+~
+0 0 14757
+D2
+The Vestry lies to the south.
+~
+~
+0 0 14758
+S
+#14757
+The Altar of Xerxes~
+Under the crimson illumination of glowing eyes in the walls, sits an Altar
+of black marble. Ribbons of gold writhe throu the marble like veins in a dying
+mans body. No stain of blood or stench of death is upon it, but yet you
+feel as if no place you have ever known seemed so horrible. Here, vile rites
+of worship to abominable to fathom have taken place. While clean, the altar
+seems none the less tainted by the terrible suffering and hideous evil that
+has taken place upon it. You see one item sits upon the altar, a dark orb
+that seems even blacker than the altar itself. To the south lies a marble
+door, while lines of sablewood pews stretch out to the west.
+~
+147 520 0 0 0 0 255 0
+D2
+A marble door is visible in the southern wall.
+~
+marble door~
+2 14779 14759
+D3
+The main part of the Chapel lies to the west.
+~
+~
+0 0 14756
+S
+#14758
+Vestry~
+The walls, ceiling and floor of this chamber are of a lustrous black marble,
+gold-veins glimmering on it's surface. Set into the wall is a closet of
+sablewood, almost as black as the marble itself. The room is lit by sconces
+in the wall in which balls of incense burn slowly, giving off a dim light.
+An ornate arch-way is carved into the northern wall, beyond you can see lines
+of pews in what is clearly some unholy place of worship. You feel reluctant
+to pass through the arch, indeed, the open marble door to the west leads to
+safety, take it while you can.
+~
+147 520 0 0 0 0 255 0
+D0
+The Chapel lies to the north, through an ornate arch way.
+~
+~
+0 0 14756
+D3
+A door of black gold-veined marble leads to salvation.
+~
+marble black gold-veined door~
+1 14799 14715
+E
+ornate arch-way arch~
+The arch is formed from blocks of black marble, the keystone is carved into
+the likeness of a grinning skull. The gold-veins in the skull seem not random,
+but to follow the form of arteries in the face of living creature, althou
+aside from the "arteries" the skull is devoid of flesh. Far more disturbing
+than this, however, is the emerald fires burning in the skulls sockets. You
+have the uncanny feeling they are looking at you, regarding you as you might
+a cockroach before crushing it under foot. Shuddering, you look away, trying
+to tell yourself your simply imagining things.
+~
+S
+#14759
+Private Chamber of the High Priestess~
+You have entered a plush chamber, carpeted in black. The walls are of a
+similiar black marble to the Chapel outside, althou here, hundreds of gem
+stones are set into the ceiling, glittering like baleful demonic eyes as light
+strikes them. In the four corners of the room, tall candles of tallow gutter
+sporadically. These illuminate a large bed in the centre of the room, beside
+which lies a full-length mirror and a small table upon which rests obsidian
+goblets containing some red liquid. A door of marble in the north wall leads
+to the Chapel.
+~
+147 520 0 0 0 0 255 0
+D0
+The Altar lies to the north past a marble door.
+~
+marble door~
+2 14779 14757
+D5
+You see nothing special...
+~
+secret~
+2 14779 14816
+S
+#14760
+A stone corridor~
+Your standing in a corridor of smooth, flawless grey stone. Torches on the 
+northern and southern walls provide light. The stone corridor ends to the 
+east, while an intersection with a white marble corridor is to the west.
+~
+147 520 0 0 0 0 255 0
+D1
+The corridor continues a little further to the east.
+~
+~
+0 0 14761
+D3
+To the west you see the corridor intersects another corridor, with walls, 
+floor and ceiling of a bone white marble.
+~
+~
+0 0 14728
+S
+#14761
+A stone corridor~
+Your standing in a corridor of smooth, flawless grey stone. Torches on the 
+northern and southern walls provide light. Set into the wall below the 
+torches are iron doors. A curtain of black velvet hangs across the eastern 
+wall, while the corridor itself extends back to the west.
+~
+147 520 0 0 0 0 255 0
+D0
+A door of solid iron bars the way north.
+~
+iron door~
+1 14799 14762
+D1
+A curtain of velvet, black as midnight, hangs across the eastern wall.
+~
+curtain black velvet~
+1 14799 14764
+D2
+A door of solid iron bars the way south.
+~
+iron door~
+1 14799 14763
+D3
+The corridor extends back to the west.
+~
+~
+0 0 14760
+S
+#14762
+Chambers of the Royal Guard~
+The grey stone walls of this chamber are hung with embroided tapestries, 
+whilst plush carpets cover the floor. Two comfortable looking beds are
+obviously where the guards sleep when not on duty. The only exit lies back
+to the south.
+~
+147 520 0 0 0 0 255 0
+D2
+A corridor of grey stone lies southward.
+~
+iron door~
+1 14799 14761
+S
+#14763
+Chambers of the Royal Guard~
+The grey stone walls of this chamber are hung with embroided tapestries, 
+whilst plush carpets cover the floor. Two comfortable looking beds are
+obviously where the guards sleep when not on duty. The only exit lies back
+to the north.
+~
+147 520 0 0 0 0 255 0
+D0
+A corridor of grey stone lies northward.
+~
+iron door~
+1 14799 14761
+S
+#14764
+Before the Doors~
+Passing through the curtain, you find yourself in a grey stone corridor, 
+running north-south. Set into the eastern wall are a pair of riveted bronze 
+valves. Each of the massive doors is nine feet wide and twenty one feet tall. 
+From the look of the great hinges set into the wall, the doors must be at 
+least a foot thick. Worked into the bronze are many leering demonic visages. 
+Weird symbols form a crabbed tracery around the border of each great brazen 
+portal. 
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor extends a little further to the north.
+~
+~
+0 0 14765
+D1
+A pair of massive bronze doors dominate the eastern wall.
+~
+doors bronze valve portal~
+2 14702 14779
+D2
+The corridor extends further to the south.
+~
+~
+0 0 14772
+D3
+A curtain of black velvet blocks vision past it.
+~
+curtain black velvet~
+1 14799 14761
+S
+#14765
+End of a stone corridor~
+Your standing at one end of a corridor of grey, smooth stone. Torches on the
+walls illuminate the area. You notice there is a iron door set into the 
+northern wall. The corridor itself leads back to the south.
+~
+147 520 0 0 0 0 255 0
+D0
+An iron door is set into the northern wall.
+~
+iron door~
+1 14799 14766
+D2
+The corridor extends southward from here.
+~
+~
+0 0 14764
+S
+#14766
+Jail~
+It would appear the servants who keep the rest of this level of the tower 
+clean have not been here for a very long time. The stone floor is caked with
+filth and corruption, it would appear the Jailor does not take the trouble of
+walking to the latrine. Trying to stop yourself from gagging at the dreadfull
+stench, you look around. There are cells to the east and west, while to the 
+north you see an area containing all manner of devices for the infliction of
+pain. You can leave this area through the iron door to the south.
+~
+147 520 0 0 0 0 255 0
+D0
+The torture chamber lies to the north.
+~
+~
+0 0 14767
+D1
+A cell door is set in the east wall.
+~
+cell door~
+1 14703 14771
+D2
+An iron door leads into a stone corridor.
+~
+iron door~
+1 14799 14765
+D3
+A cell door is set in the west wall.
+~
+cell door~
+1 14703 14768
+S
+#14767
+Torture Chamber~
+The ceiling is higher here, allowing even quite tall victims to be hung in
+chains well above the floor. Whips, chains, a bed of coals (with iron rods 
+for victims to lie on), a rack, wires and other instruments for the infliction
+of pain are festooned about the chamber. There are more cells to the east and
+west, while the Jailor's quarters lie back to the south.
+~
+147 520 0 0 0 0 255 0
+D1
+A cell door is set into the east wall.
+~
+cell door~
+1 14703 14770
+D2
+A dank, smelly chamber lies to the south.
+~
+~
+0 0 14766
+D3
+A cell door is set into the west wall.
+~
+cell door~
+1 14703 14769
+S
+#14768
+Cell~
+The walls of the cell are of smooth grey stone. The floor is strewn with 
+filthy straw, there is nothing in the way of furnishings.
+~
+147 521 0 0 0 0 255 0
+D1
+The jailors quarters lie to the east.
+~
+cell door~
+1 14703 14766
+S
+#14769
+Cell~
+The walls of the cell are of smooth grey stone. The floor is strewn with 
+filthy straw, there is nothing in the way of furnishings.
+~
+147 521 0 0 0 0 255 0
+D1
+The torture chamber lies to the east.
+~
+cell door~
+1 14703 14767
+S
+#14770
+Cell~
+The walls of the cell are of smooth grey stone. The floor is strewn with 
+filthy straw, there is nothing in the way of furnishings.
+~
+147 521 0 0 0 0 255 0
+D3
+The torture chamber lies to the west.
+~
+cell door~
+1 14703 14767
+S
+#14771
+Cell~
+The walls of the cell are of smooth grey stone. The floor is strewn with 
+filthy straw, there is nothing in the way of furnishings.
+~
+147 521 0 0 0 0 255 0
+D3
+The jailors quarters lie to the west.
+~
+cell door~
+1 14703 14766
+S
+#14772
+A stone corridor~
+Your standing in a corridor of grey, smooth stone leading north-south. Torches
+on the eastern and western walls shed light here.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 0 14764
+D2
+The corridor continues to the south.
+~
+~
+0 0 14773
+S
+#14773
+A Stone corridor~
+Your in a stone corridor of grey, smooth stone. There are simple wooden doors
+in the eastern and western walls, torches above the doors provide light. The
+corridor ends to the south and continues to the north.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 0 14772
+D1
+There is a wood door in the east wall.
+~
+door wood~
+1 14799 14777
+D2
+The corridor continues to the south.
+~
+~
+0 0 14774
+D3
+There is a wood door in the west wall.
+~
+door wood~
+1 14799 14775
+S
+#14774
+End of the corridor~
+You've reached the end of a corridor of smooth, grey stone. There are simple
+wooden doors in the east and west walls, a torch in the southern wall provides
+illumination. The corridor itself leads northwards.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 0 14773
+D1
+There is a wood door in the east wall.
+~
+door wood~
+1 14799 14778
+D3
+There is a wood door in the west wall.
+~
+door wood~
+1 14799 14776
+S
+#14775
+Guest Room~
+This room does'nt appear to be in use at the moment. The floor is carpetted,
+and tastefull tapestries adorn the walls. Beside a large four-poster bed is
+a dressing table. The only exit lies back to the east.
+~
+147 521 0 0 0 0 255 0
+D1
+To the east you see a stone corridor.
+~
+door wood~
+1 14799 14773
+S
+#14776
+Guest Room~
+This room has been furnished according to the requirements of it's occupant.
+In front of a simple reed mat on the floor, is a small brass brazier which
+gives off a heady incense. The only exit is back to the east.
+~
+147 520 0 0 0 0 255 0
+D1
+To the east you see a stone corridor.
+~
+door wood~
+1 14799 14774
+S
+#14777
+Synelle's Chamber~
+The stone walls of this chamber have been covered with ornate wooden panels, 
+painted with scenes of orgies and bloody combat, some times both at once. 
+A carved weapons rack on the northern wall displays a variety of weapons,
+along with cords, whips and chains. The bed against the eastern wall is
+massive, easily able to accomodate four or more persons in various activities.
+The only exit lies back to the west.
+~
+147 520 0 0 0 0 255 0
+D2
+You notice one of the wooden panels seems slightly worn around the edges.
+~
+panel wooden~
+1 14799 14778
+D3
+To the west lies a stone corridor.
+~
+door wood~
+1 14799 14773
+S
+#14778
+Skathor's Chamber~
+The stone walls of this chamber are adorned with tapestries depicting a wide
+variety of battle scenes, from single combat to clashes between armies. Soft
+carpets adorn the floor. A large bed against the southern wall is heaped with
+furs. The only exit lies back to the west.
+~
+147 520 0 0 0 0 255 0
+D0
+A tapestry on the northern wall is slightly ascew.
+~
+tapestry~
+1 14799 14777
+D3
+To the west lies a stone corridor.
+~
+door wood~
+1 14799 14774
+S
+#14779
+The Great Hall of Xerxes~
+Passing through the massive brazen doors to the west, you find yourself in
+a immense hall, easily able to hold hundreds of people. The floor, ceilings
+and walls are of what appears to be pure, polished onyx. Demonic visages
+leer at you from bas-relief carvings on the walls, while strange symbols
+are carved into the floor. The ceiling is high above you and shrouded in 
+gloom. Huge candles of black wax stand to either side of the bronze doors,
+shedding a dim light. The hall extends further to the north, east and south.
+~
+147 520 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14780
+D1
+Off to the east you can see a great throne of black opal.
+~
+~
+0 0 14783
+D2
+The hall continues to the south.
+~
+~
+0 0 14781
+D3
+Two massive doors of bronze are set into the western wall.
+~
+doors bronze valve portal~
+2 14702 14764
+S
+#14780
+The Great Hall of Xerxes~
+You are standing in the north-west corner of an immense hall, easily able to 
+hold hundreds of people. The floor, ceilings and walls are of what appears to 
+be pure, polished onyx. Demonic visages leer at you from bas-relief carvings 
+on the walls, while strange symbols are carved into the floor. The ceiling is 
+high above you and shrouded in gloom. Sconces on the wall burn globes of dark
+incense and shed a dim glow around them. The hall continues to the south and
+east.
+~
+147 520 0 0 0 0 255 0
+D1
+The hall continues to the east.
+~
+~
+0 0 14782
+D2
+The hall continues to the south.
+~
+~
+0 0 14779
+S
+#14781
+The Great Hall of Xerxes~
+You are standing in the south-west corner of an immense hall, easily able to 
+hold hundreds of people. The floor, ceilings and walls are of what appears to 
+be pure, polished onyx. Demonic visages leer at you from bas-relief carvings 
+on the walls, while strange symbols are carved into the floor. The ceiling is 
+high above you and shrouded in gloom. Sconces on the wall burn globes of dark
+incense and shed a dim glow around them. The hall continues to the north and
+east.
+~
+147 520 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14779
+D1
+The hall continues to the east.
+~
+~
+0 0 14784
+S
+#14782
+The Great Hall of Xerxes~
+You are standing in an immense hall, easily able to hold hundreds of people. 
+The floor, ceilings and walls are of what appears to be pure, polished onyx. 
+Demonic visages leer at you from bas-relief carvings on the walls, while 
+strange symbols are carved into the floor. A great tapestry hangs on the 
+northern wall, depicting a Radiant Goddess battling a laughing King. The 
+ceiling is high above you and shrouded in gloom. Sconces on the wall burn 
+globes of dark incense and shed a dim glow around them. The hall continues to 
+the west, east and south.
+~
+147 520 0 0 0 0 255 0
+D0
+You see a beautifully detailed tapestry covering the wall.
+~
+tapestry~
+1 14799 14792
+D1
+The hall continues to the east.
+~
+~
+0 0 14785
+D2
+The hall continues to the south.
+~
+~
+0 0 14783
+D3
+The hall continues the west.
+~
+~
+0 0 14780
+S
+#14783
+The Great Hall of Xerxes~
+You are standing in  the centre of an immense hall, easily able to hold 
+hundreds of people. The floor, ceilings and walls are of what appears to be 
+pure, polished onyx. Wierd symbols are carved into the floor, some of them 
+glow eerily. The ceiling is high above you and shrouded in gloom. The black
+opal throne upon which King Xerxes himself sits is clearly visible to the 
+east, the hall itself continues to the north, west and south.
+~
+147 520 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14782
+D1
+To the east you the black opal throne of King Xerxes the Mad.
+~
+~
+0 0 14786
+D2
+The hall continues to the south.
+~
+~
+0 0 14784
+D3
+The hall continues to the west.
+~
+~
+0 0 14779
+S
+Z 19
+#14784
+The Great Hall of Xerxes~
+You are standing in an immense hall, easily able to hold hundreds of people. 
+The floor, ceilings and walls are of what appears to be pure, polished onyx. 
+Demonic visages leer at you from bas-relief carvings on the walls, while 
+strange symbols are carved into the floor. A great tapestry hangs on the 
+southern wall, depicting the building of a colossul tower on a great plateau. 
+The ceiling is high above you and shrouded in gloom. Sconces on the wall burn 
+globes of dark incense and shed a dim glow around them. The hall continues to 
+the west, east and north.
+~
+147 520 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14783
+D1
+The hall continues to the east.
+~
+~
+0 0 14787
+D2
+You see a beautifully detailed tapestry covering the wall.
+~
+tapestry~
+1 14799 14788
+D3
+The hall continues the west.
+~
+~
+0 0 14781
+S
+#14785
+The Great Hall of Xerxes~
+You are standing in the north-east corner of an immense hall, easily able to 
+hold hundreds of people. The floor, ceilings and walls are of what appears to 
+be pure, polished onyx. Demonic visages leer at you from bas-relief carvings 
+on the walls, while strange symbols are carved into the floor. The ceiling is 
+high above you and shrouded in gloom. Sconces on the wall burn globes of dark
+incense and shed a dim glow around them. The hall continues to the west, while
+King Xerxes throne of black opal is visible to the south.
+~
+147 520 0 0 0 0 255 0
+D2
+To the south you see the black opal throne of King Xerxes the Mad.
+~
+~
+0 0 14786
+D3
+The hall continues to the west.
+~
+~
+0 0 14782
+S
+#14786
+Before the Throne~
+Standing before the great throne of Xerxes, your overcome with a feeling of
+awe. The being that has sat upon this throne for millennium has vanquished
+all who opposed him, including the Goddess who bestowed divinity upon him.
+Eldritch runes etched into the onyx floor before the throne glow with infernal
+power. The demonic visages carved onto the walls almost seem to lean forward
+with anticipation, for upon the throne sits King Xerxes the Mad, the most
+powerfull force of evil ever to walk the earth!
+~
+147 520 0 0 0 0 255 0
+D0
+The hall continues to the north.
+~
+~
+0 0 14785
+D2
+The hall continues to the south.
+~
+~
+0 0 14787
+D3
+The hall continues to the west.
+~
+~
+0 0 14783
+S
+#14787
+The Great Hall of Xerxes~
+You are standing in the south-east corner of an immense hall, easily able to 
+hold hundreds of people. The floor, ceilings and walls are of what appears to 
+be pure, polished onyx. Demonic visages leer at you from bas-relief carvings 
+on the walls, while strange symbols are carved into the floor. The ceiling is 
+high above you and shrouded in gloom. Sconces on the wall burn globes of dark
+incense and shed a dim glow around them. The hall continues to the west, while
+King Xerxes throne of black opal is visible to the north.
+~
+147 520 0 0 0 0 255 0
+D0
+To the north you see the black opal throne of King Xerxes the Mad.
+~
+~
+0 0 14786
+D3
+The hall continues to the west.
+~
+~
+0 0 14784
+S
+#14788
+A stone corridor~
+Your standing in a short corridor of smooth grey stone. A torch on the western
+wall provides light. You note a sturdy iron-bound door in the eastern wall. 
+The corridor itself ends to the south.
+~
+147 520 0 0 0 0 255 0
+D0
+You see the reverse side of a large tapestry.
+~
+tapestry~
+1 14799 14784
+D1
+A sturdy iron-bound door is set into the eastern wall.
+~
+door iron-bound~
+2 14704 14789
+D2
+The corridor ends to the south.
+~
+~
+0 0 14790
+S
+#14789
+Laboratory~
+This area has obviously been set aside for the study and application of the
+arcane arts. Inscribed onto the floor is silver pentagram, a black candle has
+been place at each of the points of the pentagram and sheds a dim light over 
+room. A work table against the far wall is covered with a variety of beakers
+and jars, many containing strange swirling fluids or gases... you wisely
+decide against imbiding any of them. The only exit lies back to the west.
+~
+147 520 0 0 0 0 255 0
+D3
+To the west you see a stone corridor.
+~
+door iron-bound~
+2 14704 14788
+S
+#14790
+End of the Corridor~
+You've reached the end of a stone corridor leading from the great hall to the
+north. A torch on the southern wall provides light here. Set into the eastern
+wall is door of obsidian, the door is very cold to the touch. The corridor 
+itself leads back to the north.
+~
+147 520 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 0 14788
+D1
+The obsidian door radiates cold and an evil force seems almost palpable through
+it.
+~
+obsidian door~
+1 14799 14791
+S
+#14791
+Chamber of Cold~
+This room is completely unlit and deathly cold, certainly nothing living could
+survive in here for more than a few hours. The only furnishings in the room is
+a couch of obsidian, upon which lies the shrouded form of a long dead human.
+The only exit lies back to the west, it might be wise to use it.
+~
+147 521 0 0 0 0 255 0
+D3
+To the west lies a stone corridor.
+~
+obsidian door~
+1 14799 14790
+S
+#14792
+A Stone Chamber~
+Behind the tapestry, you find an empty stone chamber, devoid of furnishings.
+To the north, however you see a massive adamantite vault, no sign of any 
+locking mechanism is visible. The eastern wall is nothing more than a strange
+cloud of swirling darkness, it feels quite solid to the touch however. The
+great hall lies back to the south.
+~
+147 520 0 0 0 0 255 0
+D0
+The adamantite vault looks like it would defy any force.
+~
+adamantite vault~
+2 14705 14793
+D1
+The swirling darkness seems insubstantial, but allows no progress past it.
+~
+darkness~
+2 14705 14794
+D2
+You see the reverse side of a large tapestry.
+~
+tapestry~
+1 14799 14782
+S
+#14793
+The Vault of Xerxes~
+Entering the vault, you see that apart from the door, the walls, ceiling and
+floor are also of pure adamantite. Of far more interest to you than the 
+construction of the vault, how ever, is the vast wealth displayed now before
+you. Of the countless offerings to the God-King over the ages, only the most
+precious are secreted here, surely enough to make you all King's yourselves.
+~
+147 648 0 0 0 0 255 0
+D2
+The invincible adamantite door is to the south.
+~
+adamantite vault~
+2 14705 14792
+S
+#14794
+Royal Chamber~
+Considering the grand scale of the tower, the Royal Chamber is surprisingly
+small. It is richly furnished, as you might expect, but you note a thick
+layer of dust over the glitter. It would appear no one has entered this place
+for a very long time. A globe of crystal in the ceiling sheds an eerie green
+glow over the slowly decaying trappings of royalty. The room to the north is
+dark, but there is something glowing softly on the floor. From here you can
+leave north, or go back through the swirling darkness to the west.
+~
+147 520 0 0 0 0 255 0
+D0
+You notice a faint shimmering in the air, an invisible force field bars egress
+to the north.
+~
+field force~
+2 14705 14795
+D3
+An eerie cloud of swirling darkness forms the western wall.
+~
+darkness~
+2 14705 14792
+S
+#14795
+Darkness?~
+The room seems at first to be completely dark, and bone-numbingly cold. Even 
+the enchanted light sources in your possession shed but a faint glimmer here. 
+There is something glowing softly in the darkness, however. As you approach
+you see it is the form of a female lying on the ground in deep sleep. She is
+beautifull beyond your experience and it is from her that the soft glow comes.
+You wonder who she is and how she came to be here. Feeling around the  
+blackness, you determine that the only exit lies through the force field to 
+the south.
+~
+147 521 0 0 0 0 255 0
+D2
+A faint green glow comes from the south.
+~
+field force~
+2 14705 14794
+S
+Z 18
+#14796
+Base of the Stairs~
+Your standing at the base of a spiral staircase, leading upwards. The stone
+here is of the more usual grey variety, unlike the strange bone white marble
+of the corridor to the east.
+~
+147 520 0 0 0 0 255 0
+D1
+To the east you see a corridor of bone white marble.
+~
+~
+0 0 14728
+D4
+The stairs spiral upwards.
+~
+~
+0 0 14797
+S
+#14797
+On the Stairs~
+Your on a long flight of spiral stairs leading upward. The stair well is lit
+by torches along the walls. You surmise you must be nearing the very top of 
+the tower.
+~
+147 520 0 0 0 0 255 0
+D4
+The stairs continue upwards.
+~
+~
+0 0 14798
+D5
+The stairs continue down.
+~
+~
+0 0 14796
+S
+#14798
+On the Stairs~
+Your on a long flight of spiral stairs leading upward. The stair well is lit 
+by torches along the walls. Looking up, you can see a patch of sky ahead.
+~
+147 520 0 0 0 0 255 0
+D4
+The stairs emerge onto the tower roof.
+~
+~
+0 0 14800
+D5
+The stairs continue down.
+~
+~
+0 0 14797
+S
+#14799
+Base of the Stairs~
+Your standing at the base of a flight of spiral stairs, leading upward. From
+here, you may proceed south to a landing, or up the stairs.
+~
+147 520 0 0 0 0 255 0
+D2
+To the south you see a landing.
+~
+~
+0 0 14701
+D4
+The stairs spiral upward.
+~
+~
+0 0 14702
+S
+#14800
+Atop the Great Tower of Xerxes~
+High atop the the Great Tower of Xerxes, the air is cold and thin. You marvel
+at what effort of engineering and magic it must have taken the builders to 
+create this massive monument, and wonder how they would feel if they had the
+chance to see what it has become, the centre of a diabolical cult to a mad and
+merciless God. From here you can proceed in almost all directions.
+~
+147 512 0 0 0 0 255 0
+D0
+To the north, you see the battlements.
+~
+~
+0 0 14803
+D1
+The large open area atop the tower continues to the east.
+~
+~
+0 0 14808
+D2
+To the south, you see the battlements.
+~
+~
+0 0 14812
+D3
+The large open area atop the tower continues to the west.
+~
+~
+0 0 14807
+D5
+You see a long flight of spiral stairs.
+~
+~
+0 0 14798
+S
+#14801
+The Battlements~
+Your standing at the north-west corner of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Far to the north you can see some low lying clouds that
+might lie over a oasis, while a ruined city is visible of to the west.You can 
+proceed east or south from here.
+~
+147 512 0 0 0 0 255 0
+D1
+To the east, you see the battlements.
+~
+~
+0 0 14802
+D2
+To the south you see the battlements.
+~
+~
+0 0 14806
+S
+#14802
+The Battlements~
+Your standing along the northern edge of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Far to the north you can see some clouds that lie over
+an oasis in the desert. You can proceed east, west or south from here.
+~
+147 512 0 0 0 0 255 0
+D1
+To the east, you see the battlements.
+~
+~
+0 0 14803
+D2
+The large open area atop the tower continues to the south.
+~
+~
+0 0 14807
+D3
+To the west you see the battlements.
+~
+~
+0 0 14801
+S
+#14803
+The Battlements~
+Your standing along the northern edge of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Far to the north you can see some clouds that lies over
+an oasis in the desert. You can proceed east, west or south from here.
+~
+147 512 0 0 0 0 255 0
+D1
+To the east, you see the battlements.
+~
+~
+0 0 14804
+D2
+The large open area atop the tower continues to the south.
+~
+~
+0 0 14800
+D3
+To the west you see the battlements.
+~
+~
+0 0 14802
+S
+#14804
+The Battlements~
+Your standing along the northern edge of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Far to the north you can see some clouds that lie over an
+oasis in the desert. You can proceed east, west or south from here.
+~
+147 512 0 0 0 0 255 0
+D1
+To the east, you see the battlements.
+~
+~
+0 0 14805
+D2
+The large open area atop the tower continues to the south.
+~
+~
+0 0 14808
+D3
+To the west you see the battlements.
+~
+~
+0 0 14803
+S
+#14805
+The Battlements~
+Your standing at the north-east corner of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Far to the north you can see some clouds that lie over an
+oasis in the desert, while to the east you see a great mountain range. You can 
+proceed west or south from here.
+~
+147 512 0 0 0 0 255 0
+D2
+To the south you see the battlements.
+~
+~
+0 0 14809
+D3
+To the west, you see the battlements.
+~
+~
+0 0 14804
+S
+#14806
+The Battlements~
+Your standing along the western edge of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Off to the west, you see the ruins of an ancient city, 
+which the desert is working hard to reclaim. You can proceed north, south or 
+east from here.
+~
+147 512 0 0 0 0 255 0
+D0
+To the north, you see the battlements.
+~
+~
+0 0 14801
+D1
+The large open area atop the tower continues to the east.
+~
+~
+0 0 14807
+D2
+To the south you see the battlements.
+~
+~
+0 0 14810
+S
+#14807
+Atop the Great Tower of Xerxes~
+Your standing in a large open area atop the tower. The air is cold and hard
+to breathe at this height. From here you can walk to the battlements to the
+north, west and south, while to the east you see the top of the stairs.
+~
+147 512 0 0 0 0 255 0
+D0
+To the north you see the battlements.
+~
+~
+0 0 14802
+D1
+To the east you see the top of a spiral stairwell leading down.
+~
+~
+0 0 14800
+D2
+To the south you see the battlements.
+~
+~
+0 0 14811
+D3
+To the west you see the battlements.
+~
+~
+0 0 14806
+S
+#14808
+Atop the Great Tower of Xerxes~
+Your standing in a large open area atop the tower. The air is cold and hard
+to breathe at this height. From here you can walk to the battlements to the
+north, east and south, while to the west you see the top of the stairs.
+~
+147 512 0 0 0 0 255 0
+D0
+To the north you see the battlements.
+~
+~
+0 0 14804
+D1
+To the east you see the battlements.
+~
+~
+0 0 14809
+D2
+To the south you see the battlements.
+~
+~
+0 0 14813
+D3
+To the west you see the top of a spiral stairwell leading down.
+~
+~
+0 0 14800
+S
+#14809
+The Battlements~
+Your standing along the eastern edge of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Off to the east, you see a great mountain range, althou 
+a large stretch of trackless desert must be crossed to reach it. You can 
+proceed north, south or west from here.
+~
+147 512 0 0 0 0 255 0
+D0
+To the north, you see the battlements.
+~
+~
+0 0 14805
+D2
+To the south you see the battlements.
+~
+~
+0 0 14814
+D3
+The large open area atop the tower continues to the west.
+~
+~
+0 0 14808
+S
+#14810
+The Battlements~
+Your standing at the south-west corner of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Off to the west you can see an ancient ruined city. To the
+south, the desert seems to stretch on endlessly. You can proceed east or north 
+from here.
+~
+147 512 0 0 0 0 255 0
+D0
+To the north, you see the battlements.
+~
+~
+0 0 14806
+D1
+To the east you see the battlements.
+~
+~
+0 0 14811
+S
+#14811
+The Battlements~
+Your standing along the southern edge of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. To the south you can see a vast expanse of trackless
+desert wasteland. You can proceed east, west or north from here.
+~
+147 512 0 0 0 0 255 0
+D0
+The large open area atop the tower continues to the north.
+~
+~
+0 0 14807
+D1
+To the east, you see the battlements.
+~
+~
+0 0 14812
+D3
+To the west you see the battlements.
+~
+~
+0 0 14810
+S
+#14812
+The Battlements~
+Your standing along the southern edge of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. To the south you can see a vast expanse of trackless
+desert waste land. You can proceed east, west or north from here.
+~
+147 512 0 0 0 0 255 0
+D0
+The large open area atop the tower continues to the north.
+~
+~
+0 0 14800
+D1
+To the east, you see the battlements.
+~
+~
+0 0 14813
+D3
+To the west you see the battlements.
+~
+~
+0 0 14811
+S
+#14813
+The Battlements~
+Your standing along the southern edge of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. To the south you can see a vast expanse of trackless
+desert wasteland. You can proceed east, west or north from here.
+~
+147 512 0 0 0 0 255 0
+D0
+The large open area atop the tower continues to the north.
+~
+~
+0 0 14808
+D1
+To the east, you see the battlements.
+~
+~
+0 0 14814
+D3
+To the west you see the battlements.
+~
+~
+0 0 14812
+S
+#14814
+The Battlements~
+Your standing at the south-east corner of the tower top. The crenalated 
+battlements along the edge of the tower are more decorative than functional, 
+for the top of the tower is far to high to be threatened by anything that
+does'nt have wings. Far to the east you can see a great mountain range, while
+to the south you see a vast expanse of desert. You can proceed west or north 
+from here.
+~
+147 512 0 0 0 0 255 0
+D0
+To the north, you see the battlements.
+~
+~
+0 0 14809
+D3
+To the west you see the battlements.
+~
+~
+0 0 14813
+S
+#14815
+No Where~
+This is a mob chute, what are you doing in here punk?
+~
+147 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 14736
+D1
+~
+~
+0 0 14778
+D2
+~
+~
+0 0 14757
+D3
+~
+~
+0 0 14744
+D4
+~
+~
+0 0 14803
+D5
+~
+~
+0 0 14728
+S
+#14816
+A Dark Tunnel~
+Your in a lightless tunnel, just below the High Priestess's chamber. The walls
+of the tunnel are of some black stone, smooth and featureless. The tunnel
+continues to the north.
+~
+147 557 0 0 0 0 255 0
+D0
+The tunnel continues to the north.
+~
+~
+0 0 14817
+D4
+The concealed trap door you entered lies upward.
+~
+secret~
+2 14779 14759
+S
+#14817
+A Dark Tunnel~
+Your walking along a dark tunnel of black stone. Something seems not quite
+right here, it's quiet, unnaturally quiet, you can hear nothing at all. The
+tunnel continues to the north and south.
+~
+147 553 0 0 0 0 255 0
+D0
+The tunnel continues to the north.
+~
+~
+0 0 14818
+D2
+The tunnel continues to the south.
+~
+~
+0 0 14816
+S
+#14818
+End of the Tunnel~
+The tunnel comes to and end here, but you see there are aged bronze rungs set
+into the northern wall. Looking up, you see they climb to a circular hole in
+the ceiling, a darkened chamber lies up there.
+~
+147 553 0 0 0 0 255 0
+D2
+The tunnel continues to the south.
+~
+~
+0 0 14817
+D4
+You can climb the ladder to reach the chamber above.
+~
+~
+0 0 14819
+S
+#14819
+The Sacristry~
+Still shaking after your encounter with the guardian, you find yourself
+in a hemispherical chamber of cold, black stone. The room is completely
+smooth, except for the hole through which you entered and a pedestel in the
+centre of the chamber.
+~
+147 553 0 0 0 0 255 0
+D5
+A ladder allows you to climb downwards.
+~
+~
+0 0 14818
+S
+$~

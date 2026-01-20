@@ -1,0 +1,25 @@
+fb cast 'flame blade' $*
+' say &07<&08*&07>&14$* &07<&08*&07>&00
+food buy 20 bread;put all.bread back
+cs cast 'color' $*
+id cast 'iden' $*
+inom get thim back;drink thim;drink thim;put thim back
+kaon get bread back;get bread back;eat bread;eat bread
+wake wake;stand;look
+str cast 'strength' $*
+b cast 'blind' $1
+fly cast 'fly' $*
+ms cast 'monster summon'
+di cast 'detect invis' $*
+sh cast 'shield' $*
+sum cast 'summon' $*
+invis cast 'invis' $*
+st cast 'stoneskin' $*
+charm cast 'charm' $*
+o order follo $*
+ok order foll kill $*
+os order fol say $*
+k cast 'color spray' $*
+ce cast 'conjure elemental' $*
+gt gt <&08*&00>&14 $* &00<&08*&00>
+cb cast 'blindness' $*

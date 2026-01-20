@@ -1,0 +1,46 @@
+chw cast 'holy word' $*
+cpol cast 'prayer of life' $*
+clan clan &00&07$*&00
+cru cast 'crusade'
+crv cast 'righteous vision'
+ba cast 'banish' $*
+k murder $*
+cl close door $*
+ccc cast 'cure critic' $*
+b bash $*
+cdi cast 'det inv' $*
+la alias
+gpc get all.pot all.cor
+cde cast 'dispel evil' $*
+cha cast 'holy armor'
+gri gro
+ee east
+cdm cast 'divine mission'
+wo who
+cr cast 'regenerate' $*
+taac get all all.corpse
+r rescue $*
+pfe cast 'protection from evil'
+cda cast 'detect alignment' $*
+z recite elven $*
+a assist $*
+ccf cast 'create food'
+bahs bash $*
+lp look in portal
+crc cast 'remove curse' $*
+ep enter portal
+ccs cast 'cure serious' $*
+tac get all corpse
+crp cast 'remove poison' $*
+gt gtell &13[&00&06$*&00 &13]&00
+ca cast 'armor' $*
+gac get all all.corpse
+ban cast 'banish' $*
+zg rec recall recall
+gs gtell &07::&00&03$*&00 &07::&00
+dis cast 'dispel evil' $*
+ccb cast 'cure blind' $*
+ccp cast 'cure plague' $*
+crpa cast 'remove paralysis' $*
+re retreat $*
+ret retarget $*

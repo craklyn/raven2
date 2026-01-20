@@ -1,0 +1,41 @@
+#163
+The Isle of Myst III~
+16399 30 2 0
+D 0 16318 1 2        
+D 0 16350 1 1        
+D 0 16309 2 2        
+M 0 16306 1 16309    * Mob : the owlbear
+E 1 16302 1 20       * Eqp : a wooden key
+M 0 16301 50 16303   * Mob : the wind
+M 0 16301 50 16303   * Mob : the wind
+M 1 16301 50 16303   * Mob : the wind
+M 1 16301 50 16303   * Mob : the wind
+M 1 16301 50 16303   * Mob : the wind
+M 1 16301 50 16303   * Mob : the wind
+D 0 16303 0 1        
+O 0 16303 1 16300    
+D 0 16351 3 1        
+D 0 16351 1 1        
+M 0 16313 1 16351    * Mob : the Minotaur Battle Master
+D 0 16316 0 2        
+D 0 16316 2 2        
+D 0 16316 3 2        
+D 0 16307 2 1        
+M 0 16305 1 16308    * Mob : the water weird
+G 1 16301 1 -1       * Give: a gold key
+D 0 16308 0 1        
+M 0 16303 1 16306    * Mob : the earth elemental
+M 1 16304 50 16306   * Mob : a worm
+M 1 16304 50 16306   * Mob : a worm
+M 1 16304 50 16306   * Mob : a worm
+M 1 16304 50 16306   * Mob : a worm
+M 1 16304 50 16306   * Mob : a worm
+M 1 16304 50 16306   * Mob : a worm
+M 1 16304 50 16306   * Mob : a worm
+M 1 16304 50 16306   * Mob : a worm
+M 1 16304 50 16306   * Mob : a worm
+D 0 16305 0 1        
+D 0 16304 2 1        
+M 0 16302 1 16304    * Mob : the mimic
+S
+$

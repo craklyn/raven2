@@ -1,0 +1,244 @@
+Message 1 : Tue Sep  6 (Tarin)      :: Help with my mobprogs...
+
+I need help with these....*hint hint Digger*, yeah I know you already said 
+you'd help me...
+Okay, here goes...
+
+I'll do these mob by mob....some are almost the same except for slight changes
+
+Mob 16001 - Lesser Demon: good aligned
+        when char or mob enters room checks for align, if evil (-350) then
+        says "You shall feel pain", and attacks.
+        during battle it breathes fire (if possible), not sure of chance
+        percentage yet...need help determining that one.
+
+Mob 16002 - Lesser Demon: evil aligned
+          same as above only looks for good aligned mobs and chars to attack
+Mob 16003 - Major Demon: good aligned
+        same as 16001 only chance of breathing is increased for better chance
+
+Mob 16004 - Major Demon: evil aligned
+        same as 16003, but looks for good aligned
+
+Mob 16005 - Adept Conjurer: good aligned
+        looks for evil aligned mobs/chars when something enters rooms.
+        if evil aligned emote appears saying conjurer starts opening a portal
+        to another plane. Then randomly loads 16001,16011,16013, forces it
+        to attack mob/char, then attacks...during battle (if not attacked
+        first) casts fireballs...if attacked first...very low chance of 
+        loading another mob, then force it to rescue then attack...
+
+Mob 16006 - Adept Conjurer: evil aligned
+         same as 16006 only looks for good aligned
+
+Mob 16007 - Master Conjurer: good aligned
+        same as 16005 only can only load mob 16003
+
+Mob 16008 - Master Conjurer: evil aligned
+         same as 16007 only looks for good aligned
+
+Mob 16009 - Ancient Wizard: good aligned
+          looks for evil aligned...attacks with lightning bolts
+
+Mob 16010 - Ancient Wizard: evil aligned
+          looks for good aligned...attackes with lightning bolts
+
+Mob 16011 - Phantom: good aligned
+         loaded mob...when hits opponent has chance to also cast energy drain
+         on victim...like a double hit almost...
+
+Mob 16012 - Phantom: evil aligned
+        same as 16011 but looks for good aligned
+
+Mob 16013 - Wraith: good aligned
+        same as 16011
+
+Mob 16014 - Wraith: evil aligned
+        same as 16012
+
+okay, that about wraps it up...I hope...
+thanks for all your time...
+Tarin - the newbie moon god...circle learning :)
+
+Message 2 : Thu Sep  8 (Goth)       :: possible spec_proc:
+
+Digger, I was thinking (scary thought, eh?) that a variation on random 
+teleportation would be kewl.  Instead of a spell teleporting people away,
+a bigger mob might "throw" the person somewhere on the mud:
+
+
+Grymthorne picks you up and hurls you across the mud!
+
+Or something like that.  
+
+Also, I always thought the proc on generic that made a mob throw you out of a
+room was cool too.  It was set up so a mob threw you out of a room, and you'd
+bounce through about 4 or 5 rooms going in random exits.
+Just a couple of thoughts. More to come when I can think about anything other 
+than my upcoming physics test.
+
+-Goth wants mobs to do kewl stuff.
+
+
+Message 3 : Sun Sep 11 (Goth)       :: OK this time I think I MAY have it!
+
+Ok, Referring to the equations I was discussing with Liam and Sparhawk
+about making ACprevent some of the damage inflicted (got my terminal sux).
+The first equation will shave off 1% damage for every 1.0 ac points below
+10.0 (the mud sees 100 ac as 10.0 and -100 ac as -10.0).  This means that
+a -100 AC will shave off 20% of the damage from an attack. The equation is
+this:
+
+DAMAGE = [XdY+Z] - [0.01(XdY+Z)(10.0-AC)]
+
+But, Sparhawk wanted it so that a high hitroll would negate the effects of
+the damage reduction due to AC.  The equation I made for this is based on the
+assumptions below:
+
+1. The Dicerollfor attack is 1d20
+2. Thac0 is from 20 to 0, but can go lower than 0 with modifiers.
+3. The mud sees, for example, -100 AC as -10.0 AC for its calculations.
+4. 2 HITROLL = -1 to Thac0
+
+Therefore,if the following equation is true, then the above damage quation
+must not be used, but rather the standard XdY+Z equation should be used.
+
+The following equation determines if the attacker hit "hard" enough to do
+full damage:
+
+[[Thac0 - (HITROLL/2)] - [Diceroll]] < or = [AC - (1.75*|AC|)]
+
+This means that if a player's modified attack hits an AC 1.75 times less than
+the opponent/mob's AC, then they will hit trough the Armor and do full damage.
+
+I HOPE this sort of explains things for you.  If you have any questions or
+find any problems with the equations (asyou prolly will) just find me on the
+mud or write meme a note or something.
+
+-Goth thinks he's put too much time into this
+
+
+i60 500H 100M 82V > read 4
+Message 4 : Sun Oct 16 (Sparhawk)   :: Hmmm, Idea
+
+Ok, I was thinking... detect magic is a pretty worthless spell as is.
+Was kind of kicked back here considering on how to make it useful and
+here's what I came up with.  Once we get real mobs in and we add their
+classes I'm assuming that they will have certain skills/spells related
+to that class.  For example a ranger mob might sand storm; a mage mob
+might fireball; a death knight might energy drain etc.  Ok, so how
+about specific color auras for each class?  Like green for rangers,
+red for mages, white for clerics etc.  That way detect magic becomes
+VERY useful for any player with a brain.  *shrug* just an idea that
+sounds real good here at 4 a.m.  Get back to me.
+
+-Beuford
+
+
+Message 5 : Sun Oct 16 (Sparhawk)   :: Detect Poison
+
+Ok, while I'm filling up the wrong board here, what kind of moron uses
+detect poison? As if you'd waste as much mana on a spell to see if the
+poison is actually there rather than just cure it; or as if you can't 
+tell someone is poisoned when they shiver and shake.  *shrug*  Ok, here's
+what I was thinking.  When an assassin/cleric/whoever traps something
+that item not only does damage when tripped, but also poisons you.  That
+way, you could cast detect poison on the OBJECT to detect the trap...
+Also... with assassin's envenom (putting a spell effect of poison on
+a weapon) they could use detect poison instead of wasting the MASSIVE
+mana envenom will cost.  Just an idea.
+
+-Sparhawk
+no, Hmm, gotta stay in theme with the goofy names
+
+Message 6 : Sat Oct 22 (Mo)         :: ACK! unimportant stuff *Stare*
+
+hmm was wonderin is the objects pen and paper could be
+made accessible so people could write notes :).
+Welp thats all I got to say.
+Mo Mo Mo Mo Mo Mo Mo Mo Mo Mo Mo Mo Mo Mo
+
+
+Message 7 : Mon Oct 24 (Tyr)        :: Lycanthropy:
+
+Ok here is what i had in mind for a spec_proc for the
+werecreatures in LupusVille. Since we don't have races
+of anysort in, we wont even discuss actually changing
+them into werewolves BUT:
+
+Ever hit from the mob with this spec_proc has a 10%
+chance of causing Lycanthropy. This will show up
+as an affect just like a spell (on attrib etc).
+Lycanthropy will cause the creature to receive double
+hitpoints back per tick BUT will cause the char to
+be immue to healing magic of any kind (hmmmm or maybe 
+all? magic?) EXCEPT of course for a remove lycanthropy
+spell which should be a level 20 cleric spell.
+Duration of Lycanthropy will be 10hours per level of
+the creature cusing it. 
+
+Hmmm now that i think about it it COULD even be made
+innto a Cause Lycanthropy spell...but thats the subject
+of another post...
+
+
+ What'ca think?
+Tyr
+
+
+Message 8 : Thu Oct 27 (Christian)  :: Um....
+
+Just kinda a little thing that bugs me:  Some players like to bring a
+lot of extra stuff in with them as they rent right?  Heh, I just watched
+Bandage's inventory scroll my screen MANY MANY MANY times with a schimmering
+liquid or somehting, I mean, no no.  That's not, IMHO, possible.  Sure, 
+when the MUD opens it'll be harder with a more strict code for renting,
+but shoudln't we start to "ease" them into an open style MUD??  If
+you lost me, that's fine cause I think I lost myself too.  *stare*
+
+
+Message 9 : Fri Oct 28 (Judas)      :: Suggestion:
+
+Make all potions and keys no_rent. This way if you have a healer, classes
+like cleric won't be left out.  Personally I would love to see a healer
+ban here.
+
+-J
+@
+
+
+Message 10 : Sun Oct 30 (Sparhawk)   :: Revelations
+
+If you all want to check if a door isn't supposed to be named, or find the
+vnum for a key to a door in that room, or even a list of the edesc's, just
+use the STAT ROOM feature ;)
+
+Yes, this has been another Deep Thought,
+By Jack Handy
+
+
+Message 11 : Sun Oct 30 (Tyr)        :: Suggestion:
+
+Ok, we're REALLY crowding up this board l8ly so heres an idea.
+Digg was kind enough to add LOTS of boards one of which is the
+board one west of here that no one seems to use...Sooooooo
+Lets dedicate the board one west of here to be used for 
+reporting bugs, lets also make sure we use the other boards 
+where appropriate also...
+
+Tyr
+PS: would the writers of the last few posts move them? thanx...
+
+
+Message 12 : Mon Oct 31 (Mo)         :: PROMOTION? *stare*
+
+Um ......I just found a really really really really big bug
+that crashes the mud every time anyone does it. It seems that
+if you type 0.Mo *player name* you can do socials to em, but if 
+you try to hit them BAM!! down goes the mud.
+Fix right away!!!!
+later,
+Mo
+p.s. oh yeah happen to see the title *stare* :)
+
+

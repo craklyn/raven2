@@ -1,0 +1,480 @@
+#30601
+fountain~
+a fountain~
+A beautiful fountain flows here.~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 0 0
+1000 0 0
+B
+0 0 0 0
+#30602
+teller~
+the Teller~
+The Teller smiles sweetly and says, "Next?"~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1000 0 0
+E
+teller~
+"Hello! Welcome to the Fairhaven Bank. To activate an account, you
+ must do one of three things-
+ 1.To withdraw cash, type WITHDRAW <amount>, and your account will be
+   automatically debited while the money is transferred to you.
+ 2.To deposit cash, type DEPOSIT <amount>, and your account will be
+   automatically credited.
+ 3.To simply check your balance, type BALANCE.
+ Thank You and have a GOOD day :)"
+~
+B
+0 0 0 0
+#30603
+large copper ring~
+a copper ring~
+A large copper ring has been tossed in the dirt here.~
+~
+12 0 64 0 0 1 0 0 0
+0 0 0 0
+5 0 0
+E
+insert_fail_room~
+$n flinches in pain.
+~
+E
+insert_fail_char~
+A burning sensation travels up your arm.
+~
+E
+insert_to_room~
+A blinding flash of light fills the room.
+~
+E
+insert_to_char~
+A flash of light blinds you as the two copper pieces touch.
+~
+E
+insert_item~
+30604
+~
+E
+new_item~
+30605
+~
+B
+0 0 0 0
+#30604
+copper shaft~
+a shaft of copper~
+A long coppery shaft has been dropped here.~
+~
+12 0 128 0 0 1 0 0 0
+0 0 0 0
+5 0 0
+B
+0 0 0 0
+#30605
+ring strange~
+a strange ring~
+A strange looking ring sits here.~
+~
+12 0 64 0 0 1 0 0 0
+0 0 0 0
+5 0 0
+E
+insert_fail_room~
+You hear a tiny clinking noise.
+~
+E
+insert_fail_char~
+The copper makes a clinking noise.
+~
+E
+insert_to_room~
+A warm glow comes from $n's hand.
+~
+E
+insert_to_char~
+The copper seems to melt in to the diamond.
+~
+E
+insert_item~
+30606
+~
+E
+new_item~
+30607
+~
+B
+0 0 0 0
+#30606
+diamond gem~
+a diamond~
+A diamond has been dropped here.~
+~
+12 0 128 0 0 1 0 0 0
+0 0 0 0
+2 0 0
+B
+0 0 0 0
+#30607
+key hasana~
+a diamond tipped key~
+A key sparkles in the light.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+5 0 0
+B
+0 0 0 0
+#30610
+recall elven scroll fairhaven~
+an Elven Scroll~
+An Elven scroll is lying here.~
+~
+2 0 0 0 0 16385 0 0 0
+50 42 30601 30601
+2 2500 250
+B
+0 0 0 0
+#30611
+fairy part1 1~
+&00                   ,_   .--.~
+Part 1 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30612
+fairy part2 2~
+&00                  _)\ /    ;--.~
+Part 2 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30613
+fairy part3 3~
+&00     . ' .    _.-'   |   .'    \~
+Part 3 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 5 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30614
+fairy part4 4~
+&00    -= * =-  (.-,    /  /       |~
+Part 4 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 32769 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30615
+fairy part5 5~
+&00     ' .\'    ). `))/ .'   _/\ /~
+Part 5 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30616
+fairy part6 6~
+&00         \_   \_  /( /     \ /(~
+Part 6 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 17 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30617
+fairy part7 7~
+&00         /_\ .--'   `-.    //  \~
+Part 7 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30618
+fairy part8 8~
+&00         ||\/        , '._//    |~
+Part 8 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 524289 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30619
+fairy part9 9~
+&00         ||/ /`(_ (_,;`-._/     /~
+Part 9 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 33 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30620
+fairy part10 10~
+&00         \_.'   )   /`\       .'~
+Part 10 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 131073 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30621
+fairy part11 11~
+&00              .' &25&08.&00  |  ;.   /`~
+Part 11 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30622
+fairy part12 12~
+&00             /      |\(  `.(~
+Part 12 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 129 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30623
+fairy part13 13~
+&00            |   |/  | `    `~
+Part 13 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 257 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30624
+fairy part14 14~
+&00            |   |  /~
+Part 14 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 513 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30625
+fairy part15 15~
+&00            |   |.'~
+Part 15 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30626
+fairy part16 16~
+&00         __/'  /~
+Part 16 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30627
+fairy part17 17~
+&00     _ .'  _.-`~
+Part 17 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 4097 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30628
+fairy part18 18~
+&00  _.` `.-;`/~
+Part 18 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 4097 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30629
+fairy part19 19~
+&00 /_.-'` / /~
+Part 19 of a fairy costume lies here.~
+NOACTDESC~
+5 0 0 0 0 8193 0 0 0
+0 1 1 0
+1 0 2
+B
+0 0 0 0
+#30630
+fairy part20 20~
+&00       | /~
+Part 20 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30631
+fairy part21 21~
+&00      ( /~
+Part 21 of a fairy costume lies here.~
+NOACTDESC~
+11 0 0 0 0 65537 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30632
+frog part1 1~
+&00        &09.---.     .---.&00~
+Part 1 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30633
+frog part2 2~
+&00&09       ( -&25&09o&00&09- )---( -&25&09o&00&09- )&00~
+Part 2 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30634
+frog part3 3~
+&00       &09;-...-`   `-...-;&00~
+Part 3 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 5 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30635
+frog part4 4~
+&00      &09/                 \&00~
+Part 4 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 32769 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30636
+frog part5 5~
+&00     &09/                   \&00~
+Part 5 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30637
+frog part6 6~
+&00    &09| /_               _\ |&00~
+Part 6 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 17 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30638
+frog part7 7~
+&00    &09\`'.`'"--.....--"'`.'`/&00~
+Part 7 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30639
+frog part8 8~
+&00     &09\  '.   &08`._.`   &09.'  /&00~
+Part 8 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 524289 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30640
+frog part9 9~
+&00  &09_.-''.  `-.,___,.-`  .''-._&00~
+Part 9 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 33 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30641
+frog part10 10~
+&00 &09`--._  `'-._______.-'`  _.--`&00~
+Part 10 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 131073 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30642
+frog part11 11~
+&00     &09/                 \&00~
+Part 11 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30643
+frog part12 12~
+&00     &09/.-'`\   .'.   /`'-.\&00~
+Part 12 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 129 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+#30644
+frog part13 13~
+&00    &09`      '.'   '.'&00~
+Part 13 of a frog costume lies here.~
+NOACTDESC~
+11 0 0 0 0 257 0 0 0
+0 0 0 0
+1 0 0
+B
+0 0 0 0
+$~

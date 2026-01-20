@@ -1,0 +1,49 @@
+4 poke sla
+1 assist
+gd going down;d;tre;tre;block;block
+gu going up;u;tre;tre;block;block
+nod emote nods his head.
+vines .8s3e4sd30s5e
+0 auc -info
+reflect c 'reflection'
+tre c 'tremor';order follower ass
+blind c 'blind' $*
+of order follower $*
+eye c 'eyes
+ru retreat up
+rd retreat down
+rw retreat west
+re retreat east
+rn retreat north
+rs retreat south
+ch n;n;n;n;n;n;n;n;n;w;w;od
+bd c 'black dart' $*
+say emote &25&14trembles&00, '&08$* &00'
+regen c 'regen' $*
+gte gt &01<&00&08^&00&10>&00&14$* &00&10<&00&08^&00&01>&00
+steed c 'call steed';mount dra
+aura c 'aura
+chaos c 'chaos'
+death c 'death touch' $*
+di c 'det inv' $*
+da c 'det ali' $*
+ruin rem wand;wie ruin
+wand rem ruin;wie wand
+ani c 'ani dea' corp
+wdark remove shield;remove standard;remove ruin;wie darkswor
+wmas rem darksword;wear shie;hold standar;wie ruin
+loot get all reid;wear all;wie ruin;hold stand;get all reid;dest reid
+charm c 'anim dead' corp
+word c 'unholy'
+] look north;look east;look west;look south;look down;look up
+\ look north;look east;look west;look south;look down;look up
+sl dism;sleep
+wa wake;stand;mount dra
+ref c 'refle
+gw gte going west;w;c 'tre;c 'tre;block;block
+ge gte going east;e;c 'tre;c 'tre;block;block
+gs gte going south;s;c 'tre;c 'tre;block;block
+gn gte going north;n;c 'tre;c 'tre;block;block
+2 slap slacker
+3 of ass
+title titl &01<&08^&10>&00&03Order of Darkness&10<&08^&00&01>&00

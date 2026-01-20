@@ -1,0 +1,555 @@
+#38801
+board challenges wall~
+the Wall of Challenges~
+The northern wall is covered with Pit challenges for fame, wealth, and power.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38802
+pedestal~
+a pedestal~
+An ornate pedestal of meticulous craftsmanship stands guarded utop a dais.~
+NOACTDESC~
+15 2 0 0 0 0 0 0 0
+100 5 -1 0
+1000 0 100
+E
+pedestal icon~
+   This pedestal holds the Guild Icon, worn only by the proven master of their
+guild.    
+~
+B
+0 0 0 0
+#38803
+icon quickhand guild_item guilditem~
+the Icon of the Quickhand~
+A tiny orb if scintillating light spins erratically about here.~
+~
+11 8368203 32 0 0 65537 0 0 0
+0 0 0 0
+3 0 410
+E
+icon warlord guild_item~
+This item belongs only to that who holds the title of Master for their guild.
+~
+A
+19 3
+A
+31 10
+A
+2 2
+B
+0 0 0 0
+#38804
+glowing torch light~
+a softly glowing torch~
+A softly burning torch glows in a wall sconce near the steps.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 0 0
+18 0 0
+E
+torch glowing light~
+A torch resting on a sconce illuminates the room.
+~
+B
+0 0 0 0
+#38806
+fountain pool~
+the musical fountain~
+A fountain sprinkles jets of water in soothing, almost magical patterns into a shallow pool.~
+   The pool appears to be made of one single slab of a fine white stone with a
+shallow basin carved into it.  The fountain itself is formed in the depiction
+of a band of dryads at middance, whose panpipes shoot out water.  The water
+sprays out in myriad swirls which ensorcel the eye with their almost magical
+scintillations.    
+~
+23 0 0 0 0 0 0 0 0
+1000000 1000000 15 0
+1800 0 0
+B
+0 0 0 0
+#38807
+small spoon~
+a small, silver spoon~
+A small spoon is here.~
+~
+12 67108864 0 0 0 16385 0 0 0
+0 0 0 0
+1 100 440
+A
+13 20
+A
+19 2
+B
+0 0 0 0
+#38808
+cook apron~
+a cook's white apron~
+The apron of a chef lies crumpled on the ground.~
+~
+15 67108864 0 0 0 32769 0 0 0
+100 0 -1 0
+2 100 100
+A
+10 100
+B
+0 0 0 0
+#38809
+lyre~
+a beer-stained lyre~
+A decrepit looking lyre lies off kilter, beer stains blotching the otherwise smooth finish.~
+~
+3 66 0 0 0 16385 0 0 0
+50 4 4 98
+4 34 3
+B
+0 0 0 0
+#38810
+silver platter~
+a large silver platter piled high with tasty-looking dishes~
+A large silver platter is decked with assorted, tasty-looking dishes of every imaginable sort.~
+~
+15 0 0 0 0 16385 0 0 0
+250 0 -1 0
+25 50000 250
+B
+0 0 0 0
+#38811
+large mohogany table~
+a large mohogany table~
+A large table of polished mohogany sprawls near the corner, surrounded by high-backed chairs.~
+A large table of polished mohogany rests in the center of the sectioned hall, surrounded by high-backed chairs.
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+B
+0 0 0 0
+#38812
+small gilded key~
+a small gilded key~
+A small gilded key gleams here.~
+   This key's detailed toothing patterns style it as a modern key, and its
+gilded, highly textured pattern suggests that it is the key to some highly
+styled room or fixture.    
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0
+2 20000 0
+B
+0 0 0 0
+#38813
+stove~
+a huge cooking stove~
+A huge cooking stove with several burners and ovens sprawls across the northern wall.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0
+B
+0 0 0 0
+#38814
+assorted crates chests~
+an assortment of crates and chests~
+An assortment of chests and crates are stacked neatly near the broad stairway.~
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0
+0 0 1000
+E
+crates chests~
+These containers are used to secure and store away plundered loot brought into the Thief Guild.
+~
+B
+0 0 0 0
+#38815
+spyglass brass north~
+a brass spyglass perched on the northern ledge~
+A spyglass fashioned in bright brass is fixed on the northern ledge.~
+   This long and broad contraption of newfangled brass machinery houses a
+serious of polished glass, in an obviously gnomish attempt to further ones
+capacities at scanning some distant horizon.  Indeed, it has been securely
+fastened to the northern wall, and the swivel bearing mechanism that some
+inventor fastened on only allows restricted movement, restraining it to the
+northern region.  However, the spyglass hums softly, as if also imbued with
+some incantation.  However, that humming can also refer to the obvious lack of
+reliability on most gnomish machinery.  Caution would be advised.    
+~
+24 0 0 0 0 0 0 0 0
+38801 -1 6 0
+0 0 0
+B
+0 0 0 0
+#38816
+spyglass brass~
+a shiny spyglass of gnomish workmanship has been fastened to the window.~
+A shiny spyglass of gnomish workmanship is sitting next to the window~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38817
+spyglass brass east eastern~
+a shiny spyglass fastened to the eastern window~
+A shiny spyglass of gnomish workmanship has been fastened to the eastern window.~
+~
+24 0 0 0 0 0 0 0 0
+38801 -1 7 0
+0 0 0
+B
+0 0 0 0
+#38818
+spyglass brass west western~
+a gnomish spyglass pointed to the west~
+A gnomish spyglass has been affixed to the western window.~
+~
+24 0 0 0 0 0 0 0 0
+38801 -1 6 0
+0 0 0
+B
+0 0 0 0
+#38819
+brass gnomish tools~
+a brass set of odd-looking gnomish tools~
+An odd-looking set of small brass tools lies here, steaming and squeeking and exploding.~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 0 0
+B
+0 0 0 0
+#38820
+large mohogany discussion table~
+a large, polished mohogany discussion table~
+An enormous table of polished mohogany sprawls across the balcony.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#38821
+box large~
+a large box~
+A large wooden box with metallic edges rests near the side.~
+~
+15 0 0 0 0 0 0 0 0
+100 13 38822 0
+0 0 100
+B
+0 0 0 0
+#38822
+dulled sliver metal~
+a dulled sliver of metal~
+A dulled sliver of metal rests here.~
+~
+18 75563012 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+D500
+#38823
+ancient crate~
+an ancient-looking metal crate~
+A crate fashioned in an ancient metal lies dust covered in the corner.~
+~
+15 0 0 0 0 0 0 0 0
+200 13 38822 0
+0 0 200
+B
+0 0 0 0
+#38824
+large chest stone~
+a large stone chest~
+A large stone chest spans the entire northern wall of the enclosed hall.~
+~
+15 0 0 0 0 0 0 0 0
+500 13 38822 0
+0 0 500
+B
+0 0 0 0
+#38825
+collection scroll magi~
+a piled collection of ancient magi scrolls~
+A tattered and half rotten collection of ancient looking magi scrolls rots here.~
+~
+13 6 0 0 0 1 0 0 0
+0 0 0 0
+200 0 0
+E
+collection ancient magic scrolls~
+As you study these ancient scrolls you can make out parts of the
+ancient inscription. You wonder what could have been so important that
+it was locked away in this room for safety.
+
+"The grea...t tre..u.. .f .he Thi...s .uil. is k.pt lock.d aw.. in . se..et .oo."
+"To f..d it, ..u must se.k th. m..ter .nd utt.. the ..rds 'tier.k nut.m'"
+"Then se. t.e past th.t is o.r fut.re"
+~
+B
+0 0 0 0
+#38826
+ancient sarcophaguys~
+an ancient sarcophagus of strange origin~
+An ancient sarcophagus of some strange, unknown origin hovers centimeters above the floor.~
+~
+15 0 0 0 0 0 0 0 0
+500 13 38822 0
+0 0 500
+B
+0 0 0 0
+#38827
+mummy rotten corpse~
+an ancient mummified corpse~
+An ancient mummified corpse lies crumpled and half rotten.~
+   This corpse has not been traditionally wrapped in bandages and balming
+items.  Rather, it has been mummified magically, so that the incantation slows,
+but does not prevent, decay.  The lack of air in the strange sarcophagus no
+doubt aided in the preservation of this odd corpse.  No clue or mark gives an
+idea to who this body once was, or what.  Whether or not this man or woman or
+thing was a ruler, magician, warrior, or necromancer also is uncertain.  
+However, that the Warehouse should be holding this mummy poses an odd question.
+Why?    
+~
+12 33620036 0 0 0 1 0 0 0
+0 0 0 0
+450 0 0
+B
+0 0 0 0
+#38828
+row crates chest~
+an enormous row of crates and chests~
+An enormously long row of chests and crates and ancient containers spans the warehouse length.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+crates chests row~
+Rows of various sized crates and chests line the walls.
+~
+B
+0 0 0 0
+#38829
+key~
+the crateroom key~
+A key labeled 'crateroom' is here.~
+~
+18 67174412 0 0 0 1 0 0 0
+0 0 0 0
+2 42000 0
+B
+0 0 0 0
+#38830
+crate secret~
+a chest labeled 'Secret'~
+A large crate with a label 'Secret' lies in one corner.~
+~
+15 0 0 0 0 0 0 0 0
+50 5 -1 0
+0 0 50
+B
+0 0 0 0
+#38831
+chest aspiring rogues~
+the chest for aspiring rogues~
+A large chest left open for new and apiring rogues lies near the end of a long row of crates.~
+~
+15 0 0 0 0 0 0 0 0
+400 16 -1 0
+0 0 400
+E
+chest rogue~
+A good sized chest baring the mark of the Samserian Thief Guild rests here.  
+Guild members commonly deposit armors, weapons, and potions into the chest for
+other members of the guild.    
+~
+B
+0 0 0 0
+#38832
+flask liquor old~
+a half-filled flask of old liquor~
+An old flask of putrid smelling liquor lies half empty.~
+~
+17 0 0 0 0 16385 0 0 0
+24 14 7 0
+5 300 240
+B
+0 0 0 0
+#38833
+half eaten morsel bread~
+a half-eaten morsel of stale bread~
+A morsel of stale bread has been scattered on the ground.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+1 0 72
+B
+0 0 0 0
+#38835
+slim long longdagger dagger~
+a slim longdagger~
+A slim-bladed longdagger glimmers in the light here.~
+   It has been fashioned of iron, and seems sturdy and sharp enough to pierce
+through most hardened leathers.  It looks as if it might draw blood from the
+most vital regions of a persons body.    
+~
+5 73736 0 0 0 24577 0 0 0
+0 6 3 11
+9 620 250
+A
+2 1
+A
+18 2
+B
+0 0 0 0
+#38836
+jeweled bracelet~
+a jewelled bracelet~
+A slim bracelet set in cheap jewels rests here.~
+   The jewels, however cheap they may be, have been imbued with magic to modify
+the attributes of whoever wears them.  There are aquamarines, jades, and quartz
+jewels.    
+~
+11 67108872 0 0 0 4097 0 0 0
+0 0 0 0
+2 1435 90
+A
+4 1
+A
+5 1
+A
+3 1
+B
+0 0 0 0
+#38837
+boots leather soft~
+a pair of black-dyed leather boots~
+A pair of leather boots dyed pitch black rest crumpled here.~
+~
+9 524296 0 0 0 65 0 0 0
+5 0 0 0
+3 800 145
+A
+14 10
+A
+2 1
+A
+18 1
+B
+0 0 0 0
+#38838
+bracers quickhand~
+bracers of the quickhand~
+A pair of leather bracers with slits in them rest together here.~
+~
+15 3846152 32 0 0 257 0 0 0
+30 1 -1 0
+4 1200 230
+A
+18 1
+A
+3 2
+A
+17 -8
+B
+0 0 0 0
+#38839
+leather hood~
+a leather hood~
+A small pile of leather is crumpled together on the floor.~
+~
+12 3846152 32 0 0 524305 0 0 0
+0 0 0 0
+2 5500 100
+A
+31 5
+A
+18 1
+A
+19 1
+B
+0 0 0 0
+#38840
+escape chute~
+an escape chute~
+An escape chute is built into the wall here to give a quick way out of the guild for its members...just in case.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+escape chute~
+   This escape chute was put here to give a back exit from the Thieve's Guild.
+It is a common motto among thieves that you can never have enough exits
+because one never knows when some politician might quit taking bribes
+and try to make a name for himself by harassing the hard-working thieves
+in the city. Many guild members also like to use the chute just to save
+time or just for the fun of it. 
+
+A sign near the chute says, "Enter. And hold on tight"
+~
+B
+0 0 0 0
+#38841
+something hidden~
+Something concealed too well for your meager abilities.~
+You notice nothing here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 0
+B
+0 0 0 0
+#38842
+stone lark bird figurine pax~
+a Lark made of stone~
+A Lark made of stone sits here, longing for a nest.~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0
+20 1200 0
+B
+0 0 0 0
+#38849
+dagger~
+dagger~
+Dagger~
+~
+5 8302592 32 0 0 8193 0 0 0
+0 7 6 11
+0 0 1485
+B
+0 0 0 0
+#38850
+quietus o38850 thief quest~
+&11Q&07u&11i&07e&11t&07u&11s&00~
+A dagger lies here &11s&07h&11i&07m&11m&07e&11r&07i&11n&07g&00 in a hypnotic pattern.~
+~
+5 8368192 4194336 0 0 8193 0 0 0
+0 4 15 11
+1 500000 4535
+A
+18 4
+A
+31 15
+B
+0 0 0 0
+#38860
+An ornate scrollcase~
+an ornate scrollcase covered in ancient runes~
+A platinum scroll tube covered in ancient glyphs glowing with power lies here.~
+~
+8 33554498 0 0 0 1 0 0 0
+0 0 0 0
+5 200000 0
+B
+0 0 0 0
+$~

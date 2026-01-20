@@ -1,0 +1,13 @@
+ren rent
+loot get all.coin all.corpse
+sha shake
+id cast 'ident' $1
+charm cast 'charm' $1
+shield cast 'shield'
+lo cast 'locate' $1
+invis cast 'invis'
+rr rec sams
+afk nosum;norec
+qq kill bunny
+aa assist elizabet
+q quest offer

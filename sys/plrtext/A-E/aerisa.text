@@ -1,0 +1,26 @@
+j scan
+a assist terra
+bless cast 'bless' $*
+h cast 'heal' $*
+sanc cast 'sanc' $*
+ha cast 'harm' $*
+harm cast 'harm' $*
+cf cast 'create food'
+wf remove valar;put valar hole;get eagle hole;wear eagle neck
+wv remove eagle;put eagle hole;get valar hole;wear valar
+b breath $*
+arm cast 'armor' $*
+bl cast 'blind' $*
+ward cast 'ward' $*
+r cast 'word' $*
+sum cast 'summon' $*
+sense cast 'sense life'
+infra cast 'infra'
+m meditate
+fort cast 'fortify' $*
+c convert $*
+grec cast 'word' group
+as assist $*
+ass cast 'assistant'
+wa wake;stand
+f use staff

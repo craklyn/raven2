@@ -1,0 +1,78 @@
+#38100
+H R 0~
+fendur ranger suppli~
+Fendur the Outfitter~
+A ranger of slight build tries to sell you supplies.
+~
+   Fendur has become known within the ranger's guild as the man who can 'get
+whatever you need', be it the pelt of a yeti or a simple shark's tooth.  An
+expert in wilderness survival, Fendur is rumored to have lived for sixteen
+months in the forest of Haon-Dor with only a simple cloth tunic and roll of
+tissue paper.  Upon seeing you, he grabs a quill and paper, preparing to write
+down what you require.    
+~
+24654 0 0 0 0 0 0 0 380
+25 -5 1 3d3+3000 5d5+50
+40 40
+9 9 1 23 0 -1
+#38101
+H R 0~
+jhaethin ranger guildmaster~
+Guildmaster Jhaethin~
+The ranger guildmaster, dressed in a black cloak, watches you.
+~
+   The man who now trains all new rangers to the guild goes by the name of
+Jhaethin.  Little is really known him aside that he is hands down the best
+tracker and bowman this side of the Emerald Sea.  His dark skinned face is
+covered by a heavy grey beard.  His sharp eyes watch you with a careful ease.
+~
+134242378 0 0 0 0 0 0 0 200
+40 -5 0 10d10+5000 10d10+80
+65 75
+9 9 1 0 13 13
+#38102
+P W 0~
+ranger target one~
+Target Dummy One~
+A circular archery target stands here, covered in arrows.
+~
+   This target is about five feet in diameter with bands of different colored
+concentric circles from its center.  You notice a few arrows have stuck the
+exact center of the target.  You also notice a large number of arrows stuck in
+the trees behind the target.    
+~
+24650 0 0 0 0 0 0 0 0
+1 20 10 1d1+30000 1d1+0
+35 40
+9 9 0 5 7 -1
+#38103
+P R 0~
+ranger target two~
+Target Dummy Two~
+A circular archery target stands here, covered in arrows.
+~
+   This target is about five feet in diameter with bands of different colored
+concentric circles from its center.  You notice a few arrows have stuck the
+exact center of the target.  You also notice a large number of arrows stuck in
+the trees behind the target.    
+~
+24650 0 0 0 0 0 0 0 0
+0 20 10 1d1+20000 1d1+0
+35 40
+9 9 0 5 7 -1
+#38104
+R W 0~
+ranger target three~
+Target Dummy Three~
+A circular archery target stands here, covered in arrows.
+~
+   This target is about five feet in diameter with bands of different colored
+concentric circles from its center.  You notice a few arrows have stuck the
+exact center of the target.  You also notice a large number of arrows stuck in
+the trees behind the target.    
+~
+24650 0 0 0 0 0 0 0 0
+51 20 -10 1d1+30000 1d1+0
+35 40
+9 9 0 5 7 -1
+$

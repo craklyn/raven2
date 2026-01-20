@@ -1,0 +1,121 @@
+#5100
+H W 0~
+goblin slave~
+the goblin slave~
+A goblin slave lies here asleep.
+~
+The defenseless goblin begs for mercy.
+~
+138 0 0 0 0 0 0 0 350
+1 20 9 1d11+11 1d5+0
+35 40
+4 4 1 0 -1 -1
+#5101
+X W 0~
+Drow commoner~
+the Drow commoner~
+A drow commoner is here, walking around on guard duty.
+~
+I doubt he is the type to give directions.
+~
+3944 0 0 0 394248 0 0 0 -1000
+25 5 0 1d400+800 8d2+10
+40 40
+9 9 1 0 -1 -1
+#5102
+X W 0~
+drow noble warrior~
+the drow warrior noble~
+A drow warrior noble stands here guarding his home.
+~
+He looks kind of p.o.ed!
+~
+3882 0 0 0 394248 0 0 0 -1000
+30 4 0 1d600+1000 8d2+12
+65 60
+9 9 1 0 -1 -1
+#5103
+X M 0~
+drow noble mage~
+the drow mage noble~
+A drow mage noble is here protecting his home.
+~
+The mage prepares to cast a spell...at you!!
+~
+3882 0 0 0 394248 0 0 0 -1000
+30 9 2 1d500+900 8d2+10
+50 60
+9 9 1 0 -1 -1
+#5104
+X C 0~
+drow priestess~
+the drow priestess~
+A drow priestess is here shouting orders.
+~
+I wouldn't want go get on her bad side!
+~
+3882 0 0 0 394376 0 0 0 -1000
+30 8 0 1d700+1200 8d2+14
+50 60
+9 9 2 0 -1 -1
+#5105
+X W 0~
+drow master~
+the drow master~
+A drow master stares at you angrily.
+~
+The drow master is ALWAYS ready for a fight.
+~
+3880 0 0 0 394248 0 0 0 -1000
+31 4 0 1d800+1500 8d2+16
+50 60
+9 9 1 0 -1 -1
+#5106
+X W 0~
+drow weaponsmaster~
+the weaponsmaster~
+A drow weaponsmaster is here shadow boxing.
+~
+He definitely know his way around in combat.
+~
+3882 0 0 0 394248 0 0 0 -1000
+33 6 -2 1d1000+2000 9d2+20
+70 60
+9 9 1 0 -1 -1
+#5107
+X M 0~
+drow matron mother~
+the Matron Mother~
+The Matron Mother of the house is standing here.
+~
+She looks really p.o.ed!!!!
+~
+3882 0 0 0 394376 0 0 0 -1000
+34 5 -3 1d1500+2000 12d2+22
+50 100
+9 9 2 0 -1 -1
+#5108
+X M 0~
+drow matron mother~
+the Matron Mother~
+The Matron Mother of the first house is waiting for you.
+~
+She looks like she is about to rip your head of and eat it.
+~
+3882 0 0 0 402600 0 0 0 -1000
+35 -1 -4 1d2000+2500 12d2+26
+60 80
+9 9 2 0 -1 -1
+#5109
+N M 0~
+yochlol~
+the yochlol~
+A yochlol forms out of a swirling mist...
+~
+The yochlol is not in a good mood.
+~
+3882 0 0 0 402600 0 0 0 -1000
+35 -1 -6 1d2000+3000 15d2+30
+80 60
+9 9 2 8 4 19
+$

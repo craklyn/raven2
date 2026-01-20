@@ -1,0 +1,20 @@
+g group
+clean get all corpse
+summon cast 'summon' $*
+cs clan &08$*&11 
+port cast 'portal' $*
+mm cast 'magic mis' $*
+ws wake;stand
+8 o fol ass driz
+sle1 rem band;rem band;wear ring;wear ring;sleep
+ws1 wake;stand;rem ring;rem ring;wear band;wear band
+shock cast 'shocking' $1
+4 o fol ass herzy
+ws2 wake;stand;rem gold;wear energy
+sle2 rem energy;wear gold;sle
+sle3 rem pain;wear gold;sle
+ws3 wake;stand;rem gold;wear pain
+0 rec rec rec
+1 o fol kil $1;ass bodak
+2 o fol rescue herzy
+3 o fol rescue herzy

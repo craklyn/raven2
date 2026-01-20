@@ -1,0 +1,1130 @@
+#4401
+Entrance to the Elven forest.~
+Huge green trees are everywhere. An enormous wooden gate rises up to
+the north.
+The gate is currently guarded by:
+~
+44 0 0 0 0 3 255 0
+D0
+~
+gate wooden~
+1 -1 4402
+D2
+You see a narrow trail leading away from the gate.
+~
+~
+0 -1 6151
+E
+block_msg_room~
+$N screams, 'You don't look like an elf interloper! Go no further!'
+~
+E
+block_msg_char~
+$N says, 'You don't look like an elf to me interloper! Go no further!'
+~
+E
+block_dir~
+north
+~
+S
+#4402
+Inside the Fortress~
+The path runs straight through the fortress from south to north. 
+You feel yourself being observed by someone from the east. You 
+see a the guard house and to the west you see the small homes of 
+the elvens that populate this fortress.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 4407
+D1
+~
+~
+0 -1 4403
+D2
+~
+gate wooden~
+1 -1 4401
+D3
+~
+~
+0 0 4441
+D4
+~
+~
+0 -1 4406
+S
+#4403
+Guard room.~
+The floor is covered in a heavy wool carpet and in the north-east
+corner of this dimly lit room stands a large round 
+stone table. To the east and west you can see doors.
+~
+44 8 0 0 0 3 255 0
+D1
+~
+~
+0 -1 4404
+D3
+~
+~
+0 -1 4402
+D5
+
+~
+carpet wool~
+1 0 4405
+S
+#4404
+Guard chiefs bed room.~
+This room is apparently the chief of the elvenguard's bedroom. In a
+corner stands a large bed, and there is a door to the west.
+~
+44 8 0 0 0 3 255 0
+D3
+~
+~
+0 -1 4403
+S
+#4405
+Cellar.~
+In this damp cellar, food and other things stored.
+~
+44 589 0 0 0 3 255 0
+D2
+~
+~
+0 0 7064
+D4
+~
+carpet wool~
+1 -1 4403
+S
+#4406
+On the platform.~
+You are standing on a wooden platform above the entrance of the elven
+forest. From here you can see as far as Samsara. ~
+44 4 0 0 0 5 255 0
+D5
+~
+~
+0 -1 4402
+S
+#4407
+Guarded path through the forest.~
+The path runs straight through the forest from south to north.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 4408
+D2
+~
+~
+0 -1 4402
+S
+#4408
+Path crossing.~
+The path splits here and on the center of the crossing stands a
+gigantic stone obelisk with some runes on it. 
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 4409
+D1
+
+~
+
+~
+0 -1 4436
+D2
+~
+~
+0 -1 4407
+D3
+~
+~
+0 0 4449
+E
+runes obelisk stone~
+If you had been an old elven sage you might have known what the runes
+told, but you are not, so this means nothing to you.... 
+~
+S
+#4409
+A fine path through the elven forest.~
+On both sides of this path are doors. Over the eastern door is a sign
+telling you this must be the weapon shop, and over the western door
+is a similar sign telling you it's the armory. 
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 4412
+D1
+~
+~
+0 -1 4410
+D2
+~
+~
+0 -1 4408
+D3
+~
+~
+0 -1 4411
+S
+#4410
+The Elven Armory.~
+On the walls of this large room, fine elven armour hangs.
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 4409
+S
+#4411
+The Elven Weaponry.~
+On the counter and upon the walls hang fine weapons of elven quality.
+~
+44 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 4409
+S
+#4412
+A fine path through the elven forest.~
+On both sides of this path are doors. Over the eastern door is a sign telling
+you this must be the magic shop of the elven village, and over the western
+door is a similar sign telling you it's Quintors fine shop.  To the north the
+path continues.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 4415
+D1
+~
+~
+0 -1 4414
+D2
+~
+~
+0 -1 4409
+D3
+~
+~
+0 -1 4413
+S
+#4413
+Quintors Elven Outpost~
+The cabin is filled with all kinds of equipment. Everything from water skins
+to lights. All you need to explore and adventure can be found here.
+~
+44 588 0 0 0 0 255 0
+D1
+~
+~
+0 -1 4412
+S
+#4414
+The Magic Shop.~
+As you enter this store you feel a sensation in your stomach. There
+is something wrong here or is it just the powers of all magic in
+here? All around this room you see objects of different shapes and
+sizes. 
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 4412
+S
+#4415
+The end of the fine path.~
+On both sides of this path are doors. Over the eastern door is a sign
+telling you this must be the tavern of the village, and to the north
+you see a large house, about two stories high.
+
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 4417
+D1
+~
+~
+0 -1 4416
+D2
+~
+~
+0 -1 4412
+D3
+~
+~
+0 -1 4438
+S
+#4416
+The Tavern of Hope.~
+You are standing in the bar of the Tavern. The bar is set against the
+northern wall, old elven writings, carvings and symbols cover its
+top. A fireplace is built into the eastern wall, and through the door
+in the western wall you see the fine path. This place really makes
+you feel at home.
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 4415
+D4
+~
+~
+0 -1 4490
+S
+#4417
+Inside the fine house.~
+You stand in a large foyer with large stairs leading up and doors to
+the east and west. 
+~
+44 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 4419
+D2
+~
+~
+0 -1 4415
+D3
+~
+~
+0 -1 4418
+D4
+~
+~
+0 -1 4420
+S
+#4418
+The Dining Room~
+This is the dinning hall. Several long tables surrounded with dozens
+of chairs fill the room. When meals arn't being served the guards use 
+this room to socialize.
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 4477
+D1
+~
+~
+0 -1 4417
+S
+#4419
+Trophy room of the Elven King.~
+You stand in the trophy room of the King. On the walls of the room
+hunting trophies and gifts of all sorts are hanging. 
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 4417
+S
+#4420
+The grand stairs.~
+You are climbing up the grand stairs of the house. The stairs
+continue up and down. 
+~
+44 8 0 0 0 0 255 0
+D4
+~
+~
+0 -1 4421
+D5
+~
+~
+0 -1 4417
+S
+#4421
+The upper floor of the house.~
+You are standing in a corridor leading to the east. On the north and
+south walls are doors. 
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 4423
+D1
+~
+~
+0 -1 4422
+D2
+~
+~
+0 -1 4424
+D5
+~
+~
+0 -1 4420
+S
+#4422
+The corridor.~
+You are standing in a corridor with wooden floor and ceiling. To the
+north and to the south are doors. To the east you see an open window. 
+That looks kinda dangerous.
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 4426
+D1
+The window leads to mid-air! If you go that way you
+will fall to your death...
+~
+window~
+1 -1 4425
+D2
+~
+~
+0 -1 4427
+D3
+~
+~
+0 -1 4421
+S
+#4423
+The Library.~
+Book shelves line the walls of this room. In the center of the room
+is a large desk and some chairs. The shelves are filled with books
+and scrolls.
+~
+44 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 4421
+S
+#4424
+The Livingroom.~
+In this room you feel the warmth from the fireplace and there is some
+nice chairs in front of the fireplace. You feel relaxed, why not rest
+a while?
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 4421
+S
+#4425
+Falling down to the ground.~
+You find yourself clinging to the edge of the windowsill.  Best pull
+yourself back in before you become spatula-meat. Ooops! Too late!
+An elf leans over and pries your fingers loose and waves bye-bye.
+~
+44 518 0 0 0 0 255 0
+D3
+~
+~
+0 -1 4422
+S
+#4426
+Guards bed room.~
+This looks like an ordinary bed room with about twenty beds in it.
+There are no other exits than the one to the south. 
+~
+44 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 4422
+S
+#4427
+The Training room.~
+This is the training room for the guards and soldiers. Several pieces
+of practice equipment line the walls.
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 4422
+S
+#4436
+A forest glade~
+You are standing in a large glade.  It is very peaceful and serene
+here.  Well, it is when the children are asleep.
+~
+44 0 0 0 0 3 255 0
+D0
+a forested glade
+~
+~
+0 0 4437
+D1
+~
+~
+0 0 4465
+D2
+~
+~
+0 0 4463
+D3
+~
+~
+0 0 4408
+S
+#4437
+A forested glade~
+You are in a beautiful forested glade.  You are truly in touch with
+nature here.  You can feel the power of the forest emanate all around
+you. You truly are at peace with the world.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 2130
+D1
+~
+~
+0 0 4466
+D2
+~
+~
+0 0 4436
+S
+#4438
+Trail to the Proving Grounds~
+This trail leads through the forest away from the village to where
+the elves hold their mock-battles and non-lethal combat.
+~
+44 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 4415
+D2
+~
+~
+0 0 4462
+D3
+~
+~
+0 -1 4439
+S
+#4439
+Trail to the Proving Grounds~
+This trial leads through the forest, away from the village, to where
+the elves hold their mock-battles and non-lethal combat.
+~
+44 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 4438
+D2
+~
+~
+0 0 4459
+D3
+~
+~
+0 -1 4440
+S
+#4440
+Trail to the Proving Grounds~
+This trail leads through the forest, away from the village, to where
+the elves hold their mock-battles and non-lethal combat.
+~
+44 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 4439
+D2
+~
+ArenaEntrance~
+2 0 22286
+S
+#4441
+Inside the Fortess~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4457
+D1
+~
+~
+0 0 4402
+D3
+~
+~
+0 0 4442
+S
+#4442
+Path along the Wall~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4456
+D1
+~
+~
+0 0 4441
+D3
+~
+~
+0 0 4443
+S
+#4443
+Path along the Wall~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4455
+D1
+~
+~
+0 0 4442
+D3
+~
+~
+0 0 4444
+S
+#4444
+The Corner~
+You stand in the southwest corner of the fort. The path travels
+back east to the front gate and north along the west wall of the
+fortress.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4445
+D1
+~
+~
+0 0 4443
+S
+#4445
+Path along the Wall~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4446
+D2
+~
+~
+0 0 4444
+S
+#4446
+Path along the Wall~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4458
+D1
+~
+~
+0 0 4447
+D2
+~
+~
+0 0 4445
+S
+#4447
+A Path~
+The path runs east towards the main path or west towards the wall.
+Small but nice looking homes dot the path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4453
+D1
+~
+~
+0 0 4448
+D2
+~
+~
+0 0 4452
+D3
+~
+~
+0 0 4446
+S
+#4448
+A Path~
+The path runs east towards the main path or west towards the wall.
+Small but nice looking homes dot the path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4454
+D1
+~
+~
+0 0 4449
+D2
+~
+~
+0 0 4451
+D3
+~
+~
+0 0 4447
+S
+#4449
+A Path~
+The path runs east towards the main path or west towards the wall.
+Small but nice looking homes dot the path.
+~
+44 0 0 0 0 3 255 0
+D1
+~
+~
+0 0 4408
+D2
+~
+~
+0 0 4450
+D3
+~
+~
+0 0 4448
+S
+#4450
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 4449
+S
+#4451
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 4448
+S
+#4452
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 4447
+S
+#4453
+A Path~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 4447
+S
+#4454
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 4448
+S
+#4455
+A Path~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 4443
+S
+#4456
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 4442
+S
+#4457
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 4441
+S
+#4458
+Path along the Wall~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4459
+D1
+~
+~
+0 0 4461
+D2
+~
+~
+0 0 4446
+S
+#4459
+Path along the Wall~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4439
+D1
+~
+~
+0 0 4460
+D2
+~
+~
+0 0 4458
+S
+#4460
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 4459
+S
+#4461
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 4458
+S
+#4462
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 4438
+S
+#4463
+The Glade~
+The large glade is full of children playing happily together, and
+women talking and spending time just enjoying life.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4436
+D1
+~
+~
+0 0 4464
+S
+#4464
+The Glade~
+The large glade is full of children playing happily together, and
+women talking and spending time just enjoying life.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4465
+D3
+~
+~
+0 0 4463
+S
+#4465
+The Glade~
+The large glade is full of children playing happily together, and
+women talking and spending time just enjoying life.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4466
+D2
+~
+~
+0 0 4464
+D3
+~
+~
+0 0 4436
+S
+#4466
+The Glade~
+The large glade is full of children playing happily together, and
+women talking and spending time just enjoying life.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4467
+D2
+~
+~
+0 0 4465
+D3
+~
+~
+0 0 4437
+S
+#4467
+Path along the Wall~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4468
+D1
+~
+~
+0 0 4473
+D2
+~
+~
+0 0 4466
+D3
+~
+~
+0 0 4474
+S
+#4468
+Path along the Wall~
+The path runs along the tall wooden wall that surrounds the fort.
+There are several small, chearfull looking homes along this path.
+~
+44 0 0 0 0 3 255 0
+D0
+~
+~
+0 0 4469
+D1
+~
+~
+0 0 4472
+D2
+~
+~
+0 0 4467
+D3
+~
+~
+0 0 4475
+S
+#4469
+The Corner~
+You stand in the northeast corner of the fort. The path leads back
+south to the glade.
+~
+44 0 0 0 0 3 255 0
+D1
+~
+~
+0 0 4471
+D2
+~
+~
+0 0 4468
+D3
+~
+~
+0 0 4476
+S
+#4471
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 4469
+S
+#4472
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 4468
+S
+#4473
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D3
+~
+~
+0 0 4467
+S
+#4474
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 4467
+S
+#4475
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 4468
+S
+#4476
+A Home~
+This is one of the small comfortable elven homes.  You can see the
+fine workmanship that went into making it warm and welcoming.
+~
+44 8 0 0 0 0 255 0
+D1
+~
+~
+0 0 4469
+S
+#4477
+The Kitchen~
+The Kitchen is always busy. Soldiers travel on their stomachs they say.
+These soldiers could travel around the world.
+~
+44 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 4419
+S
+#4490
+The Reception in the Tavern of the hope.~
+   You are standing in the reception.  The staircase leads down to
+the entrance hall.  There is a small sign on the counter. 
+~
+44 604 0 0 0 0 255 0
+D5
+You see the Tavern of Hope.
+~
+~
+0 -1 4416
+E
+sign~
+Rooms are expensive but good!  You may:
+
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+           minimum charge is one day.
+
+
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+~
+S
+$~

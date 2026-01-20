@@ -1,0 +1,14 @@
+r cast 'word'
+f flee
+z cast 'doom'
+t get all.coin
+bt set $* team black
+nt set $* team none
+i des corp
+j scan
+got set $* team gold
+rt set $* team rogue
+say say &05^^&10$* &00&05^^&00
+gt gt &08^&02%&10$* &01^&02%&00
+g get all corp
+c calm

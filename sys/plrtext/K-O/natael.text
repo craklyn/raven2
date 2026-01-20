@@ -1,0 +1,18 @@
+fly c 'fly' $*
+invis c 'invis' $*
+resist c 'resist poison' $*
+nox c 'nox skin' $*
+blind c 'blind' $*
+shield c 'shield' $*
+di c 'detect invis' $*
+life c 'life drain' $*
+soul c 'soul pierce' $*
+debil c 'debil' $*
+iden buy identify $*
+consume c 'consume' $*
+charm c 'charm cor' $*
+gt gt &07%&09$* &07% &00
+infra c 'infra'
+m rec rec rec
+say say &02$* &00
+em c 'embalm' $*

@@ -1,0 +1,331 @@
+#19201
+silver key~
+a silver key~
+A silver key rest here, making a clean perimeter wherever it touches.~
+~
+18 0 4096 0 0 1 0 0 0
+2 0 0 0
+1 0 0
+E
+silver key~
+Inscribed on this key are unintelliglble runes.
+~
+E
+runes~
+You don't understand what the runes say at all.
+~
+B
+0 0 0 0
+#19202
+key necklace~
+a key on a necklace~
+A necklace with a key on it is on the floor.~
+~
+18 0 0 0 0 5 0 0 0
+2 0 0 0
+1 0 0
+B
+0 0 0 0
+#19203
+key iron~
+an iron key~
+An iron key is on the floor.~
+~
+18 0 0 0 0 1 0 0 0
+2 0 0 0
+1 0 0
+B
+0 0 0 0
+#19204
+wall walls~
+the walls~
+The old wooden walls look like they are about to fall down on you.~
+~
+15 0 0 0 0 0 0 0 0
+300 0 0 0
+1 0 300
+E
+wall walls~
+The walls here are made of rock holding back the rock and soil.  They look
+like they are ready to fall apart.  Most of these walls hold a torch.
+~
+B
+0 0 0 0
+#19205
+wall walls cave caves cavern~
+the walls of the cave~
+The walls gleam with hidden treasures!~
+~
+15 0 0 0 0 0 0 0 0
+300 0 0 0
+1 0 300
+E
+wall walls cave caves cavern~
+The walls of this cave shine with sparkling gems, although most of them are
+too small to be dug out.
+~
+B
+0 0 0 0
+#19206
+box~
+the box~
+A box sits in the corner.~
+~
+15 0 0 0 0 0 0 0 0
+300 0 0 0
+1 0 300
+B
+0 0 0 0
+#19207
+crate~
+the crate~
+An old crate sits here.~
+~
+15 0 0 0 0 0 0 0 0
+300 0 0 0
+1 0 300
+B
+0 0 0 0
+#19208
+table~
+the table~
+An old table sits here.~
+~
+15 0 0 0 0 0 0 0 0
+300 0 0 0
+1 0 300
+B
+0 0 0 0
+#19209
+stool~
+the stool~
+A lone stool sits on the floor.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 3 7
+5 100 210
+E
+stool~
+This sturdy stool looks like it can be used as a weapon!
+~
+A
+1 2
+A
+19 1
+B
+0 0 0 0
+#19210
+food~
+food fit for rats~
+Some food fit for rats gathers dust on the floor and assimilates.~
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0
+5 0 45
+E
+food~
+Well, you can barely eat it, but you can eat it.
+~
+B
+0 0 0 0
+#19211
+stake wooden~
+a wooden stake~
+A wooden stake is against the wall.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 4 11
+2 200 210
+E
+stake wooden~
+This wooden stake is quite sharp, and looks designed as a weapon.  The
+blood-stains at the tip confirm this idea.
+~
+A
+5 2
+A
+19 1
+B
+0 0 0 0
+#19212
+shrine~
+the shrine~
+A small Shrine stands here.~
+~
+15 0 0 0 0 0 0 0 0
+200 0 0 0
+100 0 200
+E
+shrine~
+This shrine is built for worshiping the Goddess Icaza.  Red carnation
+petals cover the shrine, exuding a light, fresh scent to this place.
+~
+B
+0 0 0 0
+#19213
+long rusted knife~
+a long rusted knife~
+A long bladed knife is rusting on the floor.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 4 11
+2 50 200
+E
+long rusted knife~
+This knife is rusted, but the rust only adds to the wickedness of this
+blade.
+~
+A
+19 1
+A
+3 -1
+B
+0 0 0 0
+#19214
+tin bracer~
+a tin bracer~
+A tin bracer is rusting on the floor.~
+~
+9 524288 0 0 0 4097 0 0 0
+6 0 0 0
+5 100 110
+A
+5 1
+A
+18 1
+B
+0 0 0 0
+#19215
+tin leggings~
+tin leggings~
+A pair of tin leggings rusts on the floor.~
+~
+9 524288 0 0 0 33 0 0 0
+6 0 0 0
+5 100 170
+A
+2 2
+A
+18 1
+B
+0 0 0 0
+#19216
+tin armguards~
+tin armguards~
+A pair of tin armguards rusts on the floor.~
+~
+9 524288 0 0 0 257 0 0 0
+6 0 0 0
+5 100 170
+A
+1 2
+A
+18 1
+B
+0 0 0 0
+#19217
+flail spiked~
+a spiked flail~
+A spiked flail rests on the floor.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 6 5
+5 100 320
+A
+19 2
+B
+0 0 0 0
+#19218
+whip barbed~
+a barbed whip~
+A barbed whip is curled up on the floor.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 7 2
+5 100 310
+A
+18 3
+B
+0 0 0 0
+#19219
+rod holy icaza~
+Holy Rod of Icaza~
+A rod of gold rests millimeters from the floor.~
+~
+4 1 131584 0 0 16385 0 0 0
+10 3 3 34
+5 200 155
+E
+rod holy icaza~
+This rod was blessed by the touch and laugh of Goddess Icaza.  Holding on
+to it will bring you luck and protection.
+~
+A
+17 -5
+A
+24 -2
+A
+3 1
+B
+0 0 0 0
+#19220
+torch~
+a torch~
+A torch is here.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 99 0
+2 20 99
+B
+0 0 0 0
+#19221
+treasure gold coins~
+the treasure of gold coins~
+A big pile of gold coins is in the middle of the room!~
+~
+20 1 0 0 0 1 0 0 0
+4568 0 0 0
+10 1 0
+B
+0 0 0 0
+#19222
+sapphire gem~
+a sapphire gem~
+A big sapphire gem glitters on the floor.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 2675 170
+A
+1 1
+A
+12 20
+B
+0 0 0 0
+#19223
+ruby gem~
+a ruby gem~
+A big ruby gem glitters on the floor.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 1435 60
+A
+19 1
+B
+0 0 0 0
+#19260
+object junk ~
+a grate~
+Dirty water drips through a rusty grate here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+1000 0 0
+E
+grate~
+You can see a dark stairwell below the rusty bars of the grate.
+~
+B
+0 0 0 0
+$~

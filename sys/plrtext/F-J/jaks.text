@@ -1,0 +1,42 @@
+em cast 'embalm' corps
+emb cast 'embalm'$*
+o cast 'life drain'$*
+p flee
+ed cast 'energy drain'$*
+bw cast 'bone wall'$*
+go get all all.corpse
+sum cast 'summon'$*
+de cast 'deb'$*
+cs cast 'consume'$*
+mm cast 'maledict'
+cc cast 'charm corpse' corpse
+c calm
+in cast 'invis'$*
+m cast 'soul pierce'$*
+sh cast 'shield'$*
+bl cast 'blind'$*
+fly cast 'fly'$*
+di cast 'detect invis'$*
+ii cast 'infra'
+gs&01$$* &00
+wa wake; stand
+aa stop
+sense cast 'sense life'
+loot get all all.jaks; wiel dec; wear div; wear all; hold vial
+f ord fol kil$*
+slo cast 'slow'$*
+gg get cor; put cor bask
+ccc get cor bask; drop cor
+wr cast 'wraith'
+no cast 'nox'$*
+et cast 'entomb'$*
+sil cast 'silence'$*
+g get cor; put cor beet
+rp cast 'resist poison'$*
+rr rec rec scroll
+lll ord fol kil 2.min
+sco cast 'summon corpse'$*
+rune cast 'create ward'$*
+ex cast 'explode' cor
+dis cast 'dise'$*
+ll gs assists

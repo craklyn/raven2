@@ -1,0 +1,18 @@
+rc c 'remove curse' $*
+gt gtell &13$* &00
+id color off;c 'id' $*;color comp
+say sa &14$* &00
+str c 'str' $*
+charm c 'charm' $*
+ice c 'ice'
+stone c 'stoneskin' $*
+drain c 'life' $*
+shield c 'shield' $*
+spring c 'create spring'
+blind c 'blind' $*
+1 ass zenel
+\ rec rec scroll
+fly c 'fly' $*
+silence c 'silence' $*
+summon c 'summon' $*
+di c 'detect invis' $*

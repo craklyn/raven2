@@ -1,0 +1,7 @@
+h c 'heal' maraxus
+y ass maraxus
+bl c 'blind' $1
+regen w;w;w;n;n;n;n;n;w;open door;w;close door;d;
+recall u;open door;e;close door;e;s;s;s;s;s;e;e;e;
+docks d;s;s;s;s;s;s;s;e;e;e;s;s;d;
+t c 'heal'

@@ -1,0 +1,9 @@
+cc c 'charm corpse' $*
+o order followers $*
+say sa &02.:.&07$* &02.:.&00
+role role &02.:.&07$* &02.:.&00
+ooc ooc &02.:.&07$* &02.:.&00
+clan cla &02.:.&07$* &02.:.&00
+gt gtell &02.:.&07$* &02.:.&00
+i assist
+so c 'male

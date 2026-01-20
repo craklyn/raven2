@@ -1,0 +1,20 @@
+poison c 'poison' $*
+blur c 'blur' $*
+clanelven w;w;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;n;w;n;w;n;n
+clanhall Rec Elven;w;w;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;n;w;n;w;n;n
+blind cast 'blind' $*
+, tell frogalog &08 $* &00
+sb cast 'shadow blades' $*
+sv cast 'shadow vision' $*
+ss cast 'shadow sphere' self
+gt gt &08 $* &00
+die back $1;cast 'shadow blades' $1
+rm rec mid
+say emote whispers from deep within the shadows. '&07$* &00'
+' say $*
+dos c 'dance of shadows' $*
+sl c 'sense life' $*
+r rec rec rec
+. tell enig &08 $* &00
+csleep c 'sleep' $*
+sw c 'shadow walk' $*

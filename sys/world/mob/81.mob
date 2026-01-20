@@ -1,0 +1,572 @@
+#8101
+H W 0~
+servant~
+a Servant~
+A lowly servant runs errands for his Solamnic master.
+~
+You see a mere commoner of Krynn, with lackluster fighting skills, but a heart
+as pure as gold, as he tries to help his armor-clad master in any way he can.
+Though he's clad only in meager leather armor, he is prepared to die for his
+master's welfare.
+~
+4104 0 0 0 4104 0 0 0 500
+25 3 -5 400d1+0 1d1+1
+40 40
+9 9 1 0 -1 -1
+#8102
+H P 0~
+solamnic soldier~
+a Solamnic Soldier~
+A Solamnic Soldier prepares himself for the battle ahead.
+~
+   You see a huge, muscular man with stone-cold features; the features of a man
+who's seen many battles and much bloodshed. He knows that today may be his last
+day on this realm, for the battle for Dargaard Keep will be almost impossible.
+Yet he dilligently prepares himself, ready to die for Krynn and Paladine.
+~
+4106 0 0 0 4106 0 0 0 700
+30 2 -6 700d1+0 4d4+20
+50 60
+9 9 1 0 -1 -1
+#8103
+H C 0~
+priest paladine~
+a Priest of Paladine~
+A kindly priest waits here to bless your soul.
+~
+   You see a kindly old man with soft features and a smile on his face.  Clad
+in white, and holy symbols hanging around his neck, his fragile nature belies
+his awesome power, for this priest has the power of Paladine at his fingertips.
+His magic is powerful indeed. It probably wouldn't be such a good idea to cross
+him.
+~
+22666 0 0 0 164010 0 0 0 1000
+45 -20 -9 1d1+10000 9d6+25
+65 75
+9 9 1 0 -1 -1
+#8104
+H P 0~
+solamnic knight crown m8104~
+a Knight of the Crown~
+A Solamnic Knight of the Order of the Crown stands here.
+~
+  You see a proud knight standing before you. Clad in polished steel armor, and
+wearing armor with a crown upon his chest, you can see that he belongs to the
+Order of the Crown. Even though he belongs to the lowest order within the ranks
+of the Solamnic Knights, his skill and power are certainly apparent.
+~
+4106 0 0 0 4106 0 0 0 800
+30 1 -8 2300d1+0 5d6+20
+50 60
+9 9 1 0 -1 -1
+#8105
+H P 0~
+solamnic knight sword m8105~
+a Knight of the Sword~
+A Solamnic Knight of the Order of the Sword stands here dilligently.
+~
+   Clad in shining silver armor, this knight embodies the power of the sword.
+Belonging to the Order of the Sword, this Solamnic Knight prepares his weapon
+for the coming battle against Lord Soth and his evil minions.  He sees you, and
+bows deeply, for his oath demands honor above all, but that doesn't sway his
+caution, which is told by his hand resting on the pommel of his sword.
+~
+20766 0 0 0 1217710 0 0 0 900
+37 -10 -9 1d1+3600 6d6+32
+50 60
+9 9 1 0 -1 -1
+#8106
+H P 0~
+solamnic knight rose m8106~
+a Knight of the Rose~
+The Solamnic Knight of the Order of the Rose stands here.
+~
+   Of all of the lands in all of the realms there is not a finer warrior than a
+Knight of the Rose.  The highest and most respected of the three orders, the
+Order of the Rose contains only the finest and purest knights of Krynn, as you
+can see when you look upon this powerful warrior. So great are the deeds of the
+Knights of the Rose that Paladine himself has bestowed magical power and 
+protection onto them. As you gaze upon this powerful knight, you know that he
+has to power to vanquish all evil.  You're not evil are you?
+~
+4106 0 0 0 4106 0 0 0 1000
+40 -15 -10 2900d1+0 7d6+25
+65 75
+9 9 1 0 -1 -1
+#8107
+H P 0~
+ratleif sir knight~
+Sir Ratleif~
+Sir Ratleif stands here, ready to lead his knights into battle.
+~
+   The most noble of the Knights of the Rose, Sir Ratleif, stands proudly
+looking over his powerful army.  His sharp features portray that of a fearless
+warrior, but when you look into his eyes you see a wisdom unmatched by most
+men.  Clad head to toe in shining golden armor, Sir Ratleif knows he must soon
+face Lord Soth, and for all the confidence he shows on the outside, he knows
+that he is probably sending his troops in to be slaughtered.  Yet he also knows
+that if he does not defeat Soth, all of Krynn will suffer.    
+~
+4106 0 0 0 4106 0 0 0 1000
+45 -20 -10 5500d1+1 6d5+20
+65 75
+9 9 1 0 -1 -1
+#8108
+H T 0~
+spy evil dark furpoff lackey~
+a Spy from Soth~
+Soth's lackey tries to sneak past you to deliver his information.
+~
+ As he notices you, this spy tries to make a break for the entrance to Dargaard
+Keep. Dressed to look like a common servant in the Solamnic Encampment, he is
+trying to smuggle information he has gained back to Lord Soth, so that he might
+defeat the siege before it starts.
+~
+16520 0 0 0 138 0 0 0 -400
+20 1 0 1000d1+1 4d4+20
+40 40
+9 9 1 0 -1 -1
+#8109
+D W 7~
+shade gold dragon~
+a Gold Dragon Shade~
+A ghostly silhouette of a long dead dragon appears, watching for any sign of evil.
+~
+   Even in death, the Gold Dragon upholds his sworn duty to protect Palanthas.
+A translucent image of its former self, this spiritual shade is still quite
+capable of fulfilling its duty.
+~
+20778 0 0 0 5130 0 0 0 1000
+40 0 -8 3000d1+1 10d2+20
+65 75
+9 9 1 8 20 21
+#8110
+H W 0~
+citizen person palanthian palanthas jack palance m8110~
+a Palanthian Citizen~
+A citizen of Palanthas goes about her daily business.
+~
+   Although dressed in ordinary clothing with no armour or weapons, it would
+seem that Paladine's divine light shines even on this commoner, giving her
+the strength and will to fight against evil, as her muscular body seems to
+indicate.
+~
+4106 0 0 0 4106 0 0 0 1000
+25 3 -5 700d2+50 8d5+20
+40 40
+9 9 2 0 -1 -1
+#8111
+H W 0~
+citizen person palanthian palanthas jack palance~
+a Palanthian Citizen~
+A citizen of Palanthas goes about his daily business.
+~
+   Although dressed in ordinary clothing with no armour or weapons, it would
+seem that Paladine's divine light shines even on this commoner, giving him
+the strength and will to fight against evil, as his muscular body seems to
+indicate.
+~
+4106 0 0 0 4106 0 0 0 1000
+25 3 -5 700d2+50 8d5+20
+40 40
+9 9 2 0 -1 -1
+#8112
+H W 0~
+guardsman guard palanthian~
+a Palanthian Guardsman~
+A Palanthian Guardsman stands guard against intruders.
+~
+   Bulging muscles pressing their way through his tunic, this brute stands
+guard at his post.  Though he stands there motionless, his shifting, fiery
+eyes look around with the alertness of a cat.  Then his eyes focus on you,
+and you see his arm twitch.  You still don't know if he's going to attack,
+but you never even SAW him draw his sword...
+~
+4106 0 0 0 4106 0 0 0 1000
+30 1 -7 800d2+50 9d9+10
+50 60
+9 9 1 0 -1 -1
+#8113
+H W 0~
+constable guard keeper~
+a city constable~
+A keeper of the peace patrols the city streets.
+~
+   Dressed in a splint mail jerkin with a bright badge on his chest signifying
+him as a city constable, this man seems quite capable of doing his job.
+~
+4168 0 0 0 4168 0 0 0 1000
+30 2 -6 700d3+20 8d5+20
+50 60
+9 9 1 0 -1 -1
+#8114
+H W 0~
+archer bowman~
+a Solamnic archer~
+A Solamnic archer stands here polishing his bow.
+~
+   With eyes of a hawk, and hands guided by the blessings of Paladine, this
+noble archer serves as the first line of defense against an attack.  Her
+reflexes honed sharper than wyvern's claws, and her great strengh of arm,
+this bowman could fell you before you got to within earshot of her.
+~
+4110 0 0 0 4110 0 0 0 1000
+27 0 -5 500d2+100 7d7+12
+40 40
+9 9 2 0 -1 -1
+#8115
+H C 0~
+priest high paladine~
+the High Priest of Paladine~
+A regal-looking priest holds his hands up in prayer.
+~
+   Clad in a flowing white gown of purity, this man emodies the almighty power
+of the God of Goodness.  His prayers to Paladine rise up to the heavens like a
+beautiful symphony.  And in return, the powerful diety fills his priest's body
+with the holy strength to destroy evil.
+~
+4426 0 0 0 4250 0 0 0 1000
+47 -10 -8 100d100+6500 10d9+35
+70 80
+9 9 1 12 21 19
+#8116
+D M 7~
+dragon gold golden grymthorne~
+Grymthorne~
+A great golden wyrm stands here, staring at you curiously.
+~
+   Legend has it that Grymthorne, one of the oldest and wisest of the gold
+dragons, once battled Takhisis herself.  Though he did not win the battle,
+he fought her to a standstill, forcing her and her minions to retreat.
+Grymthorne's name alone is enough to strike fear into the hearts of the forces
+of evil.  Now this icon of the forces of good stands before you, his mighty
+talons glistening in his own golden aura, still ready, after centuries of
+life, to destroy all evil.
+~
+153948 0 0 0 1250412 0 0 0 1000
+51 -30 -20 1d1+25000 15d9+55
+90 100
+6 9 1 12 21 8
+#8117
+D W 8~
+dragon silver wyrm great~
+the Great Silver Wyrm~
+A great dragon of silver scales eyes you warily.
+~
+   Born with wings of silver and a taste for the flesh of Takhisis' minions,
+the power the Silver Wyrm wields is enough to rip through the Draconian forces
+like so much cannon fodder.  
+~
+203116 0 0 0 1053772 0 0 0 1000
+50 0 -9 100d10+9000 10d4+30
+80 90
+6 9 1 0 -1 -1
+#8118
+D W 9~
+dragon grand bronze wyrm~
+the Grand Bronze Dragon~
+The mother of all bronze dragons is concentrating on her maternal work.
+~
+   Powerful and wise, the Bronze Wyrm towers over other dragons, her features
+regal and aloof.  For she knows that hers is the lifeblood that fills the
+winged warriors that carry the Dragonriders.  She is their mother.  And all
+their power and ferocity is hers, as she shows while protecting her young.
+~
+1261932 0 0 0 4195436 0 0 0 1000
+46 0 -9 100d10+7000 20d3+30
+70 80
+6 9 2 0 -1 -1
+#8119
+D W 9~
+dragon bronze~
+a bronze dragon~
+A mighty bronze dragon awaits his aerial companion.
+~
+   A leviathon in the sky, yet graceful as an eagle, this aerial serpent
+commands both fear and respect from its enemies.  With its mighty wings,
+the bronze dragon lifts the Dragonrider into the sky, ready to slay any
+evil that comes by air.
+~
+4460 0 0 0 4172 0 0 0 1000
+35 0 -8 3000d1+1 10d5+10
+50 60
+6 9 1 0 -1 -1
+#8120
+D W 9~
+dragon bronze hatchling m8120~
+a bronze dragon hatchling~
+A bronze dragon hatchling is sitting here.
+~
+   Just hatched, at the very beginning of its centuries-long life, this scaled
+beast is even now a powerful being.  Only days out of the egg, this bronze
+creature towers over you, its claws and teeth razor sharp, capable, even at
+birth, of tearing through flesh.
+~
+4168 0 0 0 4168 0 0 0 1000
+20 1 -6 1500d1+1 10d2+20
+40 40
+6 9 1 0 -1 -1
+#8121
+H P 0~
+rider dragon dragonrider knight~
+a Dragonrider~
+A knight wearing a winged helm strides toward you.
+~
+   Born with one eye skyward, this aerial knight commands the highest respect
+from friend and foe alike.  With strength and skill unparalleled, he and his
+legendary dragonlance are a bane to those who would attack Palantahs from the
+sky.
+~
+10 0 0 0 10 0 0 0 1000
+40 0 -8 2000d1+1 7d8+10
+65 75
+9 9 1 0 -1 -1
+#8122
+H S 0~
+keeper faith priest m8122~
+a Keeper of the Faith~
+A hooded figure with white flowing robes stands solemnly before you.
+~
+   Clad only in a long white robe, this hooded figure stands here as a
+guardian to the faithful of Paladine.   Though meek body, this Keeper of
+the Faith commands a very powerful selection of spells, granted to him by
+his lord, Paladine.
+~
+4362 0 0 0 536870922 0 0 0 1000
+30 2 -6 1000d1+1 8d8+20
+50 60
+9 9 1 0 -1 -1
+#8123
+H W 0~
+sweeper street streetsweeper janitor~
+a streetsweeper~
+A broom-wielding streetsweeper humbly goes about his work.
+~
+   This humble-looking street cleaner may be the closest to the poverty level
+of all Palanthians, but he's still proud of his job, and smiles at you as he
+sweeps his way by.
+~
+8 0 0 0 8 0 0 0 1000
+10 4 -2 100d2+10 3d3+5
+35 40
+9 9 1 0 -1 -1
+#8124
+H R 0~
+bard wandering~
+a wandering bard~
+A happy looking storyteller is playing a joyous tune on his flute.
+~
+   A jack of all trades, this man makes his living by his glibness of tongue.
+But as is with any bard, this one can fight as well as he can talk if provoked.
+But right now you listen has he plays a beautiful melody on his golden flute,
+the music calming your soul with its almost ENCHANTING qualities...
+~
+8 0 0 0 8 0 0 0 0
+30 1 -7 2500d1+30 9d7+20
+50 60
+9 9 1 0 -1 -1
+#8125
+I M 0~
+bozak draconian leader~
+the Bozak draconian~
+A large draconian cloaked in black robes, stands here chanting.
+~
+This large draconian has a blocky, cumbersome body, almost a contradiction
+for what most mages look like. But obviously it is a mage. It stares at
+you in disgust and begins to chant a threatening spell. Your life will end
+this day if it has its way.
+~
+153390 0 0 0 1148 0 0 0 0
+30 -10 -5 1d1000+1000 5d6+30
+50 60
+9 9 1 8 3 20
+#8126
+I W 0~
+draconian sivak~
+the Sivak draconian~
+An ugly draconian fans its wings and jabs a serrated blade at you.
+~
+   Draconians are actually twisted abominations of true dragons. Dragon
+eggs stolen by dark priests are warped and twisted into different draconian
+races by black magic rituals.  The Sivak is the only draconian with
+functional wings, allowing it the ability of flight. This makes them
+extremely versatile and useful in the Armies of the Dark Queen. They, like
+most draconians, despise most other races.
+~
+1580846 0 0 0 1056 0 0 0 600
+20 0 5 2d300+1000 2d10+10
+40 40
+9 9 1 0 4 8
+#8127
+I W 0~
+baaz draconian~
+the Baaz draconian~
+A draconian bares its fangs and attacks!
+~
+Baaz draconians are the most common of the race, and are generally used
+as foot soldiers in the evil armies. Bereft of magic and any quality
+fighting ability, they usually overcome their foes with their sheer numbers
+and ferocity. This one does not even hesitate before attacking you.
+~
+1089326 0 0 0 263168 0 0 0 700
+15 5 6 100d1+500 12d2+5
+35 40
+9 9 1 8 20 23
+#8128
+H C 0~
+doomsayer cleric crazy~
+the doomsayer~
+A man preaching tales of doom stands here, gesturing wildly.
+~
+This former priest of Paladine has shed his faith to warn the citizens
+of Palanthas that the apocalypse is coming. As he yammers on about
+Death Knights, the fall of Palanthas, death and destruction, you can't
+help but notice how far this man has fallen. His once white robes are
+tattered and soiled and he obviously has not washed for weeks. 'He is
+definitely mad' you think, and attempt to quickly pass him by.
+~
+536716 0 0 0 132096 0 0 0 600
+20 10 0 100d1+700 2d10+5
+40 40
+9 9 0 15 20 13
+#8129
+H P 0~
+palanthian dragon guard knight~
+a Palanthian Dragon Guard~
+&00A Knight dressed in &03shining&00 dragonscale armor guards the way.
+~
+To protect the City's growing army of dragons and dragonriders, Amothus
+has appointed the very best trained of his personal guard to ensure
+that no one without his permission is allowed to enter the Dragon Domes.
+Just by looking at this knight's size but relaxed, confident appearance
+you judge he is not someone to argue with.
+~
+9599338 0 0 0 4330536 0 0 0 1000
+40 -13 -10 70d70+9000 11d6+50
+65 75
+9 9 0 0 13 -1
+#8130
+H P 0~
+knight guardsman solamnic~
+a Solamnic Guardsman~
+A strong-looking Knight of the Crown is here, standing guard.
+~
+   This Knight of the Crown has been sent by Lord Gunthar of Solamnia
+to help protect Amothus in this time of great danger. Already there 
+have been two attempts on his life by Draconian shapeshifters, but
+these guardsmen have saved it both times. He stands vigilant, prepared
+to lay down his life in the name of a greater cause.
+~
+161866 0 0 0 136216 0 0 0 1000
+30 -15 -4 1d1+4000 10d3+35
+50 60
+9 9 1 0 13 -1
+#8131
+H M 0~
+hostess secretary receptionist woman belle~
+the city hostess~
+A lovely hostess is here, asking you to be have a seat.
+~
+   Belle is Amothus' personal secretary/receptionist/hostess. She
+organizes all major social functions as well as makes all his 
+appointments with citizens and others. She asks you to please have
+a seat and wait until your name is called.
+~
+22606 0 0 0 537134088 0 0 0 1000
+15 -10 5 1d1+1000 10d2+10
+35 40
+9 9 2 20 15 -1
+#8132
+H C 0~
+lord amothus ruler palanthas~
+Lord Amothus~
+Lord Amothus of Palanthas is here, holding an audience captive.
+~
+Lord Amothus is not quite what you expected. From all the pomp and
+circumstance of the city, you expected to see a plump, overweight snobbish
+individual more concerned with the weight of the gold in his pockets 
+than the welfare of his citizens. But Amothus is nothing like that. He
+has an air of confidence and concern about him, and addresses everyone
+as an equal. By his demeanor alone, he has charmed Palanthas and its
+citizens into trusting him.
+~
+186458 0 0 0 4326460 0 0 0 980
+45 -20 -11 3d3000+10000 10d10+35
+65 75
+9 9 1 0 -1 -1
+#8133
+H T 0~
+councilman palanthian citizen~
+a Palanthian councilman~
+A councilman is here, shuffling through papers.
+~
+   Yet another of Palanthas' many businessmen, this gentleman is here
+the same day, same time, every week requesting monetary assistance
+from the city treasury. If the look on his face is any indication on
+how well his plea is going...well its not going well.
+~
+186670 0 0 0 1064 0 0 0 60
+15 -15 0 1d2000+900 10d4+20
+35 40
+9 9 1 20 15 15
+#8134
+H P 0~
+head lord gunthar knight~
+Lord Gunthar Ust Wistan~
+The Head of the Knights of Solamnia stands here, patient and proud.
+~
+   Lord Gunthar, a Knight of the Rose, comes from one of the oldest
+and richest bloodlines of all the Knights of Solamnia. He has been the
+head of the Knights for quite some time now, and age has frosted the 
+tips of his long, flowing mustache and thick eyebrows. Though not as 
+quick as he used to be, Gunthar's intelligence in combat and incredible
+stamina are well known within the Orders.
+~
+712042 0 0 0 4359324 0 0 0 1000
+50 -30 -8 1d100+15000 10d10+85
+80 90
+9 9 1 3 14 13
+#8135
+H W 0~
+lady cook sleaze~
+the lady-in-waiting~
+A woman jumps out of bed, wearing only a sheet.
+~
+   Unbeknownst to Amothus, this kitchen cook has crept up to his bedroom
+while he works and is waiting to suprise him with her..uh..cooking.
+Pretty and petite, she feels that everyone in the city hall should
+partake of her cooking once in a while.
+~
+202 0 0 0 0 0 0 0 0
+10 15 10 1d100+400 10d3+1
+35 40
+9 9 2 15 20 -1
+#8136
+H P 0~
+courier knight crown sir fortuis~
+Sir Fortuis~
+Gunthar's personal message courier stands here at his side.
+~
+   So dire are these days with the Knights of Solamnia that Gunthar
+keeps Sir Fortuis at his side to deliver any urgent message back to
+the encampment. Sir Fortuis is only a Knight of the Crown, but
+come from a long bloodline of great knights. He stands proud,
+in anticipation of his next task.
+~
+151914 0 0 0 132108 0 0 0 1000
+30 -10 -3 1d2000+2000 6d10+33
+50 60
+9 9 1 3 14 0
+#8137
+H M 0~
+Mordekain~
+Mordekain~
+A mage wanders by, his mind busy someplace else.
+~
+Mordekain seems only interested in the strange object in his hands.
+~
+16520 0 0 0 1082540 0 0 0 700
+40 5 -2 1d2000+1000 6d4+10
+65 75
+9 9 1 0 -1 -1
+$

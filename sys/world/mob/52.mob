@@ -1,0 +1,419 @@
+#5200
+A M 0~
+beholder~
+the mighty beholder~
+You meet a beholder's deadly gaze!
+~
+It has a large central eye that projects an anti-magic ray and ten
+eyestalks atop the round body which can do anything from charm you
+to disintegrate you.  Beholders are not known for their personality.
+~
+18474 0 0 0 1064 0 0 0 -870
+25 6 0 1d14+450 6d9+5
+40 40
+9 9 0 4 -1 -1
+#5201
+A T 0~
+lamia beast~
+the lamia~
+A strange lamia stands here waiting for her next meal. 
+~
+This is a creature with the upper torso of a beautiful woman, but the lower
+body of a four-legged beast.  She licks her lips as she looks at you greedily.
+~
+76 0 0 0 0 0 0 0 -1000
+12 12 3 1d10+120 2d5+1
+35 40
+9 9 2 4 -1 -1
+#5202
+A M 0~
+mimic chest~
+the mimic~
+A strong chest lies in one corner of the room.
+~
+A strong, wooden chest bound with iron straps and a heavy pad-lock on the
+front.
+~
+10 0 0 0 0 0 0 0 10
+11 10 1 1d20+130 2d7+0
+35 40
+7 9 0 5 -1 -1
+#5203
+A T 0~
+mimic boulder~
+the mimic~
+Two skeletons lie crushed under a large boulder.
+~
+Is this really what you think?
+~
+2058 0 0 0 40 0 0 0 -10
+14 7 1 3d15+150 3d5+1
+35 40
+7 9 0 6 -1 -1
+#5204
+A T 0~
+mimic floor~
+the mimic~
+The stone floor of this house has been ripped apart.
+~
+Did this floor just move?
+~
+10 0 0 0 0 0 0 0 -140
+11 11 3 2d6+110 2d6+0
+35 40
+7 9 0 5 -1 -1
+#5205
+A T 0~
+mimic pottery~
+the mimic~
+Some broken shards of pottery lie strewn about the floor.
+~
+The pieces seem to be alive!
+~
+10 0 0 0 0 0 0 0 200
+11 14 0 1d8+100 2d5+3
+35 40
+7 9 0 3 -1 -1
+#5206
+A T 0~
+mimic planks~
+the mimic~
+A few wooden planks lie stacked on a low shelf.
+~
+Something is not right here.
+~
+10 0 0 0 0 0 0 0 0
+11 9 0 1d12+110 4d3+1
+35 40
+7 9 0 5 -1 -1
+#5207
+A W 0~
+lizard horned~
+the horned lizard~
+A small horned lizard flicks his tongue and slithers away.
+~
+A cute little lizard -- that is, if you like reptiles!
+~
+136 0 0 0 0 0 0 0 300
+3 17 4 1d14+30 2d4+0
+35 40
+9 9 0 4 -1 -1
+#5208
+A W 0~
+golem stone~
+the stone golem~
+In the corner you see a large, stone golem faithfully standing watch.
+~
+It is a big chunk of rock that has been magically formed into a giant stone
+creature.  He stands here still guarding the city.
+~
+2314 0 0 0 40 0 0 0 800
+25 0 -20 6d6+500 4d7+3
+40 40
+9 9 0 6 18 17
+#5209
+A T 0~
+lamia beast~
+the lamia~
+A strange lamia stands here waiting for her next meal. 
+~
+This is a creature with the upper torso of a beautiful woman, but the lower
+body of a four-legged beast.  She licks her lips as she looks at you greedily.
+~
+108 0 0 0 32 0 0 0 -500
+9 10 3 1d12+120 1d4+5
+35 40
+9 9 2 4 -1 -1
+#5210
+V M 0~
+warlock Behern~
+the warlock Behern~
+The warlock Behern chuckles at you and dares you to attack him.
+~
+Before you stands the master of the keep, Behern the warlock. And while
+Behern is weak compared to sorcerers such as Krogthar and his minions,
+or the vile Jher, he is no pushover either.
+Behern is a handsome young man with long white hair, and deep blue eyes.
+He would appear to be almost angelic were it not for the diabolical gleam
+to his eyes, and the evil grin on his thin, cruel lips.
+~
+22572 0 0 0 1192 0 0 0 -1000
+25 6 1 1d14+450 6d9+5
+40 40
+9 9 1 0 -1 -1
+#5211
+H M 0~
+woman witch Altora~
+the witch Altora~
+A comely woman in her early twenties grins at you.
+~
+This woman is the witch Altora, associate and lover of Behern. She is nude
+save for a leather bandolier across her chest and buttocks, which contains
+a variety of potions, scrolls and throwing daggers. She would be very
+attractive if she didn't cackle insanely so much.
+~
+22572 0 0 0 1192 0 0 0 -1000
+25 6 -1 1d14+450 6d9+5
+40 60
+9 9 2 0 -1 -1
+#5212
+N W 0~
+demon~
+the demon~
+A minor demon hisses and snarls at you.
+~
+Behern and Altora managed to capture this demon and keep it in this room,
+but they lacked the power necessary to control it, so they dare not release
+it again. And now you're in here with this eight foot tall, four armed,
+green skinned monstrosity from the lower planes. Great.
+~
+22572 0 0 0 1064 0 0 0 -1000
+20 6 -1 1d1+500 6d9+5
+40 40
+9 9 0 0 -1 -1
+#5213
+A W 0~
+cat familiar~
+a cat familiar~
+Altora's familiar, a black cat, hisses at you.
+~
+This angry feline is Altora's familiar. Do away with it.
+~
+22572 0 0 0 1064 0 0 0 -1000
+12 12 10 1d10+120 2d5+2
+35 40
+9 9 0 0 -1 -1
+#5214
+A W 0~
+hawk familiar~
+a hawk familiar~
+Altora's familiar, a hawk, screeches at you.
+~
+This angry bird is Behern's familiar. Do away with it.
+~
+22572 0 0 0 66600 0 0 0 -1000
+12 12 10 1d10+120 2d5+2
+35 40
+9 9 0 0 -1 -1
+#5215
+T D 0~
+troll guard~
+a troll guard~
+A troll guard squints suspiciously at you.
+~
+These trolls are meant to prevent strangers from entering the inner keep,
+but they see so many strange creatures here they aren't sure which type is
+allowed and which isn't.
+~
+22542 0 0 0 1064 0 0 0 -1000
+20 0 -5 6d6+500 4d7+3
+40 40
+9 9 0 0 -1 -1
+#5216
+F W 0~
+flesh golem~
+a flesh golem~
+A flesh golem stands here, arms folded.
+~
+This mindless automaton is a creation of Behern's. It answers only to him,
+a fact which irritates (and worries) Altora.
+~
+22542 0 0 0 1064 0 0 0 -1000
+20 0 -5 6d6+500 4d7+3
+40 40
+9 9 0 0 -1 -1
+#5217
+D W 0~
+fire drake~
+a fire drake~
+A fire drake snorts flames and attacks!
+~
+This angry dragonkin has been roused from its nap by you, and it isn't happy
+about it...
+~
+22574 0 0 0 1064 0 0 0 -1000
+20 0 -5 6d6+500 4d7+5
+40 40
+9 9 0 0 -1 -1
+#5218
+U T 0~
+zombie servant~
+a zombie servant~
+A zombie servant gazes at you blankly.
+~
+This poor fellow was once a living servant of Behern who made one mistake
+too many. Behern eventually decided undead staff were far more reliable,
+if a little slower, and slew all his staff, turning them subsequently into
+mindless undead. That's what a charming guy he is.
+~
+16524 0 0 0 1064 0 0 0 0
+12 12 5 1d10+120 2d5+1
+35 40
+9 9 0 0 -1 -1
+#5219
+H D 0~
+keep guard~
+a keep guard~
+A keep guard stands rigidly at attention here.
+~
+This guard is slightly bemused at your entrance, but doesn't move to stop
+you- Behern receives dozens of visitors daily, and if they are powerful
+enough to slay him, then the guards certainly don't stand a chance, so they
+keep quiet. You may wonder why in that case Behern bothers having guards.
+Well, so does he.
+~
+22542 0 0 0 1064 0 0 0 -1000
+20 6 -1 6d6+500 4d7+3
+40 40
+9 9 0 0 -1 -1
+#5220
+B M 0~
+apprentice mage~
+an apprentice mage~
+An apprentice mage looks up from her work, startled.
+~
+This woman was a former lover of Altora's who was brought here by the witch
+as a student after Altora hooked up with Behern, a warlock of a different
+gender. She is small, cute, and evil.
+~
+23054 0 0 0 1064 0 0 0 -1000
+25 6 -1 6d6+500 4d7+3
+40 40
+9 9 2 0 -1 -1
+#5221
+A W 0~
+grell~
+a grell~
+A grell gropes at you with its tentacles.
+~
+This looks like a huge brain with green tentacles and a huge squid-like
+beak. It hovers in the center of the room, glaring at you menacingly.
+~
+22574 0 0 0 66600 0 0 0 -1000
+20 0 -5 6d6+500 4d7+3
+40 40
+9 9 0 0 -1 -1
+#5222
+A M 0~
+mimic chest~
+a mimic~
+A wooden chest suddenly comes to life!
+~
+This mimic has been placed here by Behern to fool (and hopefully slay)
+potential thieves.
+~
+22670 0 0 0 1064 0 0 0 -1000
+11 10 1 1d20+130 2d7+1
+35 40
+9 9 0 0 -1 -1
+#5223
+A W 0~
+hungry crocodile~
+a hungry crocodile~
+A hungry crocodile snaps its jaws at you.
+~
+This hungry reptile hasn't been fed in days. Behern starves his crocs to
+keep them savage. He uses them to punish his guards. They seldom make
+the same mistake twice, because they are usually dead.
+~
+30766 0 0 0 1064 0 0 0 0
+11 6 10 1d20+130 2d7+3
+35 40
+9 9 0 0 -1 -1
+#5224
+A D 0~
+savage war dog~
+the savage war dog~
+A savage war dog snarls viciously at you.
+~
+Behern bred these brutes from the most vicious alsatians and pit bulls he
+could find, then infected them with super-rabies to make 'em nice and
+friendly.
+~
+22574 0 0 0 1064 0 0 0 -1000
+11 6 10 4d4+400 6d9+5
+35 40
+9 9 0 20 -1 -1
+#5225
+H A 0~
+assassin~
+an assassin~
+An assassin appears suddenly before you.
+~
+This mysterious woman is one of Behern's elite black-robed assassins.
+Closely aligned with the assassins of Krogthar's domain, they are cold-
+blooded, ruthless fanatics devoted to their ruler.
+~
+22572 0 0 0 1836200 0 0 0 -1000
+30 0 -1 6d6+500 6d9+5
+50 60
+9 9 0 0 -1 -1
+#5226
+H A 0~
+assassin Dagar~
+the assassin Dagar~
+Dagar the assassin urges you to be silent.
+~
+Dagar is an agent of Thalos, sent here to eliminate Behern. He has spent
+weeks infiltrating the keep, and is now in the final stages of his plan.
+However, he'd be more than happy for you to complete the task for him.
+~
+30764 0 0 0 1836200 0 0 0 -500
+30 6 -5 6d6+500 6d9+5
+50 60
+9 9 1 0 -1 -1
+#5227
+W T 0~
+gnoll slave~
+a gnoll slave~
+A gnoll slave yelps in surprise at your presence.
+~
+These evil dog-like humanoids have been captured by Behern and set to work
+as miners and laborers helping to excavate the ancient lower cavers beneath
+the keep.
+~
+22668 0 0 0 1064 0 0 0 0
+11 12 10 1d10+120 2d5+1
+35 40
+9 9 0 0 -1 -1
+#5228
+O T 0~
+ogre slave~
+an ogre slave~
+An ogre slave grunts as you enter, then turns back to his work.
+~
+These evil giant-kin have been captured by Behern and set to work as miners
+and laborers helping to excavate the ancient lower cavers beneath the keep.
+~
+22668 0 0 0 1064 0 0 0 -1000
+12 12 10 1d10+120 2d5+1
+35 40
+9 9 0 0 -1 -1
+#5229
+W W 0~
+flind slave master~
+a flind slave master~
+A flind slave master howls fiercely and orders you to leave.
+~
+This gnoll-kin has been placed in charge of the gnolls and ogres that
+labor here, and will not tolerate any interruptions
+~
+22668 0 0 0 1064 0 0 0 -1000
+14 6 -5 1d14+450 6d9+5
+35 40
+9 9 0 0 -1 -1
+#5230
+N W 0~
+otyugh~
+a otyugh~
+An otyugh gibbers and attacks!
+~
+This creature is a trangular mass of flesh with a huge maw and two tentacles.
+It rushes toward you on stubby legs. It is used to devour the garbage of
+the keep.
+~
+22574 0 0 0 1064 0 0 0 -1000
+20 0 -5 6d6+500 6d9+5
+40 40
+9 9 0 0 -1 -1
+$

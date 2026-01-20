@@ -1,0 +1,604 @@
+#31200
+H W 0~
+armor merchant dealer abdul~
+an armor merchant~
+A merchant specializing in armor offers to sell you a good shield.
+~
+This wily fellow has stock from all around the world. He will offer you a
+price for your own armor, should you wish to sell it, though you can be
+guaranteed of him selling it for a big profit.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31201
+H W 0~
+arms merchant hazid~
+an arms merchant~
+A merchant specializing in a variety of weapons shows you a nice dagger.
+~
+This fellow, Hazid by name, is the brother of the the armor merchant. They
+are vicious rivals, each determined to rake in the most gold through sale
+of items of warfare. So far, Hazid's brother Abdul is the clear winner- it
+would seem most people are more concerned with protecting their own life
+than with taking others.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31202
+H W 0~
+goods dealer~
+a goods dealer~
+A dealer in basic goods smiles happily and rubs her hands together.
+~
+She sure seems pleased to see you, especially when her greedy eyes light upon
+that bulge in your... money pouch. She stocks a variety of basic adventuring
+goods that you may be interested in.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31203
+H W 0~
+chef~
+a chef~
+A busy chef is here preparing and selling hot meals.
+~
+You can feast on felafels, kebabs or fried capsicum here, all cooked by the
+fine chef standing before you. The smell is mouth watering.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31204
+H W 0~
+thaumaturgist~
+a thaumaturgist~
+A thaumaturgist offers to show you some nice wands.
+~
+The thaumaturgist is a travelling mage who collects rods, staves and wands.
+he has no potions or scrolls, nor is he interested in them. For them you
+must go to the herbalist or the scribe.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31205
+H W 0~
+herbalist~
+a herbalist~
+A herbalist grins as you enter and puts out some of her wares.
+~
+This lady specializes in herbs, pills and other digestible magical
+substances, including potions (she has branched out to fill the gap in the
+market).
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31206
+H W 0~
+tailor~
+a tailor~
+A tailor leaps up and begins to measure you for a suit.
+~
+This fellow is the finest clothier in the bazaar. Well, he's actually the
+ONLY clothier in the bazaar. Oh well.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31207
+H W 0~
+sage~
+a wise old sage~
+A wise old sage offers to identify your equipment.
+~
+This fellow is a wise and learned and very expensive scholar of legend lore,
+the divination of the properties of items both arcane and mundane. Just
+give him the item you want identified and he will do so.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31208
+H W 0~
+blacksmith smith~
+a blacksmith~
+Smith, the blacksmith, sniffs as you enter.
+~
+Smith can repair any type of armor you have, for a price. And don't be
+surprised by a rude outburst if you waste his time by giving him something
+that isn't broken to mend.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31209
+H W 0~
+scribe~
+a scribe~
+A scribe offers to show you his range of scrolls.
+~
+This felloe is an avid collector of rare and magical scrolls, and has quite
+a few he sells to the discerning public. Have a browse.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31210
+H W 0~
+shipwright ship wright~
+a shipwright~
+A shipwright smiles and offers you a ship.
+~
+This fellow has been making and selling all types of water craft for decades.
+He's quite good at it too.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31211
+H W 0~
+animal trainer~
+an animal trainer~
+An animal trainer playfully punches a gorilla as you enter.
+~
+She is going to do that once too often, you think to yourself as you see
+the gorilla glower. Still, she's a big enough lass to make you doubt the
+gorilla's chances in a scrap.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31212
+H W 0~
+slave trainer~
+a slave trainer~
+A slave trainer is whipping some slaves into combat readiness.
+~
+If you want to, you can buy one of this fellow's slaves to aid you in combat.
+They don't talk back, they follow orderd fanatically, and they are quite
+tough.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31213
+H S 0~
+healer monk~
+a monk~
+A wandering monk sits crosslegged here, healing the ill.
+~
+This fellow wanders the land, spreading the word of his god, and healing
+the injuries of his fellow beings.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+7 9 0 7 5 9
+#31214
+H W 0~
+fruiterer~
+a fruiterer~
+A fruiterer offers you a magical pear.
+~
+The fruit that this pretty girl sells is magically enchanted, as it is
+grown in a field of magical energy in a secret location only she knows. Thus
+she has the market cornered so to speak. Buy a piece and eat it, it may be
+greatly beneficial.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31215
+H W 0~
+dave peddler~
+Dave the peddler~
+A wandering peddler attempts to sell you some of his goods.
+~
+This fellow wanders from market to market across the world, selling the many
+things he has acquired on his journeys. You may find something of interest,
+maybe not.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31216
+H W 0~
+agitator~
+an agitator~
+An agitator is here stirring up the public (or attempting to).
+~
+Market places and the like are always popular places for demagogues, public
+speakers and other agitators, for they have a ready-made captive audience.
+Listening to this woman babble on, you suddenly remember that a shop near
+here sells tomatoes...
+~
+24780 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31217
+H W 0~
+shopper~
+a shopper~
+A shopper moves about the bazaar.
+~
+A customer of the merchants here, just like you. A little poorer perhaps,
+and a damn sight less violent, but a shopper nonetheless.
+~
+24776 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 1 7 5 9
+#31218
+H W 0~
+shopper~
+a shopper~
+A shopper moves about the bazaar.
+~
+A customer of the merchants here, just like you. A little poorer perhaps,
+and a damn sight less violent, but a shopper nonetheless.
+~
+24776 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 2 7 5 9
+#31219
+H T 0~
+thief scoundrel~
+a thieving scoundrel~
+A thieving scoundrel skulks about here.
+~
+Market places are like a magnet for thieves in every nation, and this one is
+no exception. With so many fat merchants waddling around with such fat
+purses, who wouldn't feel a little larcenous?
+~
+24780 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31220
+H T 0~
+beggar~
+a beggar~
+A beggar cries out for alms.
+~
+Market places are popular gathering spots for beggars, the poor souls hoping
+for a coin from a fat merchant or busy shopper. Unfortunately they are very
+rarely lucky.
+He's a Bum-a-Bumming   Gotcha!
+~
+24780 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31221
+H W 0~
+guard~
+a guard~
+A black-robed guard swaggers past you.
+~
+These guards are actually a squad of mercenaries hired by the Merchant's
+Union to keep the peace in the bazaar. They approach their task with great
+relish, delighting in terrorising anyone they don't like.
+~
+24780 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31222
+H M 0~
+princess fatima~
+the princess fatima~
+Princess Fatima glares imperiously at you.
+~
+The princess is a frequent customer of the bazaar. She is used to having
+people grovel before her, and she seems affronted by your refusal to do
+so.
+~
+24650 0 0 0 1192 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31223
+H W 0~
+spice merchant~
+a spice merchant~
+A spice merchant sneezes as he gets a noseful of pepper.
+~
+This stout fellow has a wide variety of spices gathered from all parts of
+the world. Most of them are of little use to an adventurer, though it is
+said that some spices have a rejuvenating effect on people...
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31224
+H W 0~
+florist~
+a florist~
+A florist offers to sell you a rose.
+~
+This florist stocks a good range of flora. Most of it isn't of immediate
+practical use to an adventurer, though in this magical land one can never
+tell just what could be useful...
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31225
+H W 0~
+jeweller~
+a jeweller~
+A jeweller shows you some fine rubies.
+~
+This half elf is a superb jeweller- she has even created jewellery for
+royalty. Her products are very expensive but also very good.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31226
+H W 0~
+slave~
+a slave~
+A male slave hauls his master's goods along.
+~
+This fellow is burdened with several chests full of goods recently acquired
+by his master.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31227
+H T 0~
+slave whore~
+a whore~
+A whore stands here, waiting for a "client".
+~
+This girl has been placed by the merchants to provide "services" for any
+patron of the bazaar who is so inclined. She is obedient, well-groomed and
+very broad-minded.
+~
+24782 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31228
+H W 0~
+chimp chimpanzee~
+the chimpanzee~
+The chimpanzee squeaks and scratches its ass.
+~
+The chimp looks like a fierce fighter.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31229
+H W 0~
+jaguar~
+the jaguar~
+The jaguar growls menacingly at you.
+~
+The jaguar looks like a fierce fighter.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31230
+H W 0~
+gorilla~
+the gorilla~
+The gorilla beats its chest and roars!
+~
+The gorilla looks like a fierce fighter.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31231
+H W 0~
+spearman~
+the spearman~
+The spearman stands rigidly at attention.
+~
+The spearman looks like a fierce fighter.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31232
+H W 0~
+bowman~
+the bowman~
+The bowman strings his bow.
+~
+The bowman looks like a fierce fighter.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31233
+H W 0~
+swordsman~
+the swordsman~
+The swordsman flashes his scimitars.
+~
+The swordsman looks like a fierce fighter.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31234
+H W 0~
+busker~
+a busker~
+A busker is here playing his sitar.
+~
+This fellow is plying his trade to make a few pennies for his family.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31235
+H W 0~
+snake charmer~
+a snake charmer~
+A snake charmer entices a cobra from a basket.
+~
+This game fellow charms the cobras he keeps with a small flute. Sometimes it
+works, sometimes a new snake charmer gets a job...
+Oh look, he's a flute player, so that makes him
+A piper piping
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31236
+A W 0~
+cobra~
+a cobra~
+A cobra rears from the basket, fangs bared.
+~
+This snake is for the present quite harmless, as it has been charmed by the
+snake charmer's hypnotic tune.
+~
+24650 0 0 0 1064 0 0 0 0
+35 5 -6 1d1+1550 8d7+12
+50 60
+9 9 0 7 5 9
+#31237
+E W 0~
+mage guildmaster~
+the Mages Guildmaster~
+The Mages Guildmaster welcomes you to his office.
+~
+"Welcome, friend, to the Guild of Mages. Should you wish to practice
+a skill or spell that is within my area of expertise, simply type PRAC
+<skillname>. Typing PRAC without an argument will display what skills or
+spells you may learn here".
+~
+253962 0 0 0 1192 0 0 0 0
+50 -30 -10 1d30000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#31238
+E W 0~
+raistlin majere mage wizard brother~
+Raistlin Majere~
+Raistlin Majere is withdrawn in a corner mixing a aromic cup of herbal brew.
+~
+This young mage is withdrawn in a corner hidden underneath the flowing
+red robes of his order. He seems to have a horrible racking cough, and
+frequently uses the aid of his staff to keep himself upright. Upon
+meeting the gaze of this bizarre mage's face you become horrified to see
+eyes with pupils that appear to be hourglasses set in a metallic gold face.
+~
+253962 0 0 0 1192 0 0 0 0
+50 -30 -10 1d30000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#31239
+E W 0~
+bartender nigel~
+Nigel the bartender~
+Nigel the bartender is here pouring some ale while talking to a patron.
+~
+The jovial bartender before you is wearing a cotton apron and holding a
+glass. His cheeks are a rosy red and his eyes squinted from smiling.
+although nigel is a little plump he is well adjusted to the brawls that
+occur in his bar, and has become quite a force to reckon with as a result
+of his experience.
+~
+253962 0 0 0 1192 0 0 0 0
+50 -30 -10 1d30000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#31240
+E W 0~
+pottery shop owner~
+the Pottery Shop Owner~
+The Pottery Shop Owner wipes clay from his hands and smiles.
+~
+"Greetings. You wish to buy a pot? Well, to see what I have in stock, type
+LIST.
+~
+253962 0 0 0 1192 0 0 0 0
+50 -30 -10 1d30000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#31241
+E W 0~
+mitzak sage~
+Mitzak the Sage~
+Mitzak the Sage waves at you feebly as you enter his home.
+~
+"Hullo. Come to ID some equipment have you? Well, the process is quite
+simple really. Even dwarves can understand it... hmmph... yes now where was
+I? Ah yes... the process... hmmm... well, simply type LIST,
+and then I will sell you the magic to identify it, and tell you what it does.
+Easy, eh? Hmmph... Anyway..."
+~
+253962 0 0 0 1192 0 0 0 0
+50 -30 -10 1d30000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#31242
+E W 0~
+mercenary master~
+the Mercenary Master~
+The Mercenary Master grunts as you enter.
+~
+"Want a Mercenary? Then type LIST to see what I sell, then type BUY <name>
+to hire 'im. That's it. Now pay up or get out".
+~
+253962 0 0 0 1192 0 0 0 0
+50 -30 -10 1d30000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+#31243
+E W 0~
+salvatore~
+Salvatore~
+Salvatore says, in a broad Scottish accent, "What yer havin'?"
+~
+Salvatore is a broad man of Mediterranean descent in his middle years. He
+goes on to tell you that you can have anything you want, as long as it's
+deep-fried. That includes the pizza...
+~
+253962 0 0 0 1192 0 0 0 0
+50 -30 -10 1d30000+1 50d50+50
+80 90
+9 9 0 0 -1 -1
+$

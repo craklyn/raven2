@@ -1,0 +1,1247 @@
+#1200
+The Chat Room~
+   You are lounging in a quiet cozy parlor, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  There are no doors out.  Clearly
+the owner of this room needs none.
+~
+12 dj 0 0 0 0
+S
+#1201
+The Mud Dumping Ground~
+
+  This room is used by the mud code as a dumping ground for buggy
+objects or mobs. The old code used to simply invoke the assert call
+which causes a silent failure and reboot. That is the chickeshit
+method for handling problems. If an object show up here the mud will
+log the error and you can bet there is SOMEthing wrong with the obj,
+mob, or container that the obj was supposed to be in.
+
+~
+12 cdefghkv 0 0 0 0
+S
+#1202
+The Ice Box~
+   Here lie the frozen remains of mud players who just couldn't play with
+the other kids in the sandbox.
+~
+12 dhjv 0 0 0 0
+S
+#1203
+The Waiting Room of the Immortals~
+   This room is spartan in design and is not meant to be comfortable. As a
+matter of fact you get the distinct impression that if you don't have a
+DAMNED good reason for being here that you may be randomly teleported to
+such places as &08Hell&00 or the Abyss. Enjoy your stay. NOT!
+~
+12 d 0 0 0 0
+D4
+~
+Ivory Gates~
+2 -1 1205
+D5
+In the air.
+~
+~
+0 -1 -1
+S
+#1204
+The Board Room of the Immortals~
+   This large room is well decorated, and lit from above by a soft magical
+glow of no particular origin.  Scattered around the room are comfortable chairs
+and piles of furs of various dimensions, and in the very middle there is a
+huge oaken table that shimmers in an odd manner.  A large picture window looks
+down over the whole world, showing the exploits of the many intrepid mortals.
+A spiral staircase leads down to another part of this room.
+~
+12 dgj 0 0 0 0
+D0
+~
+~
+0 -1 1250
+D1
+~
+~
+0 -1 1210
+D2
+~
+~
+0 0 3030
+D3
+~
+~
+0 -1 1206
+D4
+~
+~
+0 0 18001
+D5
+You see the lower part of this room, and the normal board.
+~
+~
+0 -1 1205
+S
+#1205
+The Lower Board Room of the Immortals~
+   This room is a close twin to the main Immortal Board Room at the top of the
+spiral staircase here.  Your mind and body cannot help but relax as you gaze
+around this comfortable room, and hope that you will be able to linger here
+a while.  Many green plants line a marble stairway that leads down to the 
+Temple of Midgaard. 
+~
+12 cdj 0 0 0 0
+D4
+You see the main Immortal Board Room at the top of the spiral staircase
+~
+~
+0 -1 1204
+D5
+~
+Ivory Gates~
+2 -1 1203
+S
+#1206
+The Atrium of the Architects~
+    Since the Architects of this mud are given to endless prattle about
+various inane subjects, a decision was made to expand the realm and add
+more boards so we can generate three times as much. Please use each board
+in accordance with the pertinent subject described by the room in which it
+resides.
+~
+12 cdj 0 0 0 0
+D1
+~
+~
+0 -1 1204
+D3
+~
+~
+0 0 1270
+S
+#1207
+The RavenMUD Policy Chamber~
+    This is the place where immortals post messages pertinent to current
+mud policy. It is the responsibility of the players to keep them selves
+informed of what the rules of play are.
+~
+12 cdef 0 0 0 0
+D4
+~
+~
+0 0 18012
+S
+#1208
+&01Kellory's Rift&00~
+   A small yet quaint rooms surrounds you.  A fire burns in the mantle on the
+far wall, with two large chairs placed nearby.  Row upon row of books line the
+walls, apparently supported by some unearthly force, as there are no book
+shelves for them to rest upon.
+~
+12 drs 0 0 0 0
+D0
+~
+~
+0 0 13506
+D1
+~
+~
+0 0 22946
+D2
+~
+~
+0 0 21201
+D3
+~
+~
+0 0 12223
+D4
+~
+~
+0 0 18001
+D5
+~
+~
+0 0 3001
+S
+#1210
+The Corridor of Connections~
+    This is a long and twisted hallway that seems to run along the edges
+of the Mists of Chaos. At times it seems as if any doorway to areas within
+the realm may appear and disapper here without warning.
+~
+12 cdj 0 0 0 0
+D1
+~
+~
+0 -1 1211
+D2
+you see a comfortable looking room.
+~
+~
+0 0 23099
+D3
+~
+~
+0 -1 1204
+D4
+~
+~
+0 0 18001
+S
+#1211
+The Corridor of Connections~
+    This is a long and twisted hallway that seems to run along the edges
+of the Mists of Chaos. At times it seems as if any doorway to areas within
+the realm may appear and disapper here without warning.
+~
+12 cdj 0 0 0 0
+D0
+~
+~
+0 -1 1220
+D1
+~
+~
+0 -1 1212
+D2
+you see a toy box?
+~
+~
+0 0 1400
+D3
+~
+~
+0 -1 1210
+S
+#1212
+The Corridor of Connections~
+    This is a long and twisted hallway that seems to run along the edges
+of the Mists of Chaos. At times it seems as if any doorway to areas within
+the realm may appear and disapper here without warning.
+~
+12 cdj 0 0 0 0
+D1
+~
+~
+0 -1 1213
+D3
+~
+~
+0 -1 1211
+D4
+~
+~
+0 0 -1
+S
+#1213
+The Corridor of Connections~
+    This is a long and twisted hallway that seems to run along the edges
+of the Mists of Chaos. At times it seems as if any doorway to areas within
+the realm may appear and disapper here without warning.
+~
+12 cdj 0 0 0 0
+D3
+~
+~
+0 -1 1212
+S
+#1214
+Diamond's launching room~
+The room is quite bare.  A few doors are about the room.
+Which one should you take?
+~
+12 cjrs 0 0 0 0
+D0
+~
+door~
+1 0 19804
+D1
+~
+door~
+1 0 8502
+D3
+~
+door~
+0 0 19403
+D5
+~
+door~
+1 0 18001
+S
+#1215
+Diamond's Lair~
+     A very basic room is layed out before you.  A wooden table
+rest in the far corner with 2 old chairs.  On top of the table
+are a few sharpening stones and a small vial of oil.
+     Everything else is rather plain.  Wait, you notice some
+scratches on the north wall.  As you examine them with more 
+detail you find that there are literally hundreds of names.  
+The thing that catches your eye is that there is a line through
+ALL of them.  Some of the names you recognize, actually a few USE
+to be your close friends, while others do not ring a bell.
+At the bottom of the list there are a few names that have no
+marks through them.   One is YOURS!
+~
+12 jrs 0 0 0 0
+D0
+~
+~
+0 0 18001
+D1
+~
+~
+0 0 1214
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 1231
+D4
+~
+~
+0 0 1204
+D5
+~
+~
+0 0 22286
+S
+#1216
+Mortius's Haven~
+Your feet sink into the soft white sand as you enter it's
+confines.  The walls are made of a beautiful white marble with
+veins of gold and silver running throughout.  The only thing you
+can think of is rest... relaxation... this would be the perfect
+room for meditation.
+
+Wait, maybe you are meditating...
+     Maybe you are dreaming...
+          Maybe you are dead...
+~
+12 j 0 0 0 1
+D5
+There's noway out, time to die.
+~
+door~
+2 1216 18001
+S
+#1217
+Smoke Filled Room~
+As you enter this smoke filled room, the first thing you notice is
+the lack of exits.  In the middle of the room is a craps large table
+that looks designed for player dice games on.  There is a bartender standing at
+one end of the room and a huge troll at the other.  You get the idea
+the troll is here incase of trouble makers.
+~
+12 0 0 0 0 0
+S
+#1220
+The Temples of Syrinx~
+"I lie awake, staring out at the bleakness of Megadon.  City and sky
+become one, merging into a single plane, a vast sea of unbroken grey.  The
+Twin Moons, just two pale orbs as they trace their way across the steely
+sky.  I used to think I had a pretty good life here, just plugging into my
+machine for the day, then watching Templevision or reading a Temple Paper
+in the evening.
+My friend Jon always said it was nicer here than under the atmospheric 
+domes of the Outer Planets.  We have had peace since 2062, when the 
+surviving planets were banded together under the Red Star of the Solar 
+Federation.  The less fortunate gave us a few new moons.
+I believed what I was told.  I thought it was a good life, I thought I
+was happy.  Then I found something that changed it all..."
+~
+12 cdj 0 0 0 0
+D2
+~
+~
+0 -1 1211
+S
+#1221
+Hipp's Happy Hideaway~
+The room you find yourself in is completely spherical, and lit by a faintly
+luminiscent quality of the air. Looking around, you have the strange feeling
+that who ever created this place cleverly concealed a really bad pun here...
+None the less, you do note that this place seems completely with out exits
+of any kind, not that its owner requires them.
+~
+12 d 0 0 0 0
+S
+#1222
+&06T&08h&09e &10R&11e&12a&06l&08m &09o&10f &11W&12o&06n&08d&09e&10r&00~
+You find yourself in a strange room that seems to have been made from nothing
+less extraordinary than &06r&08a&09i&10n&11b&12o&13w&00s! In the centre of the place , you can see
+a large glowing crystal ball, with ghostly images in its depths. In order to
+leave this place, you are faced with myriad possibilities, for there are 
+strange &06r&08a&09i&10n&11b&12o&13w&00 portals leading in all directions. Stepping through them
+may no be such a wise decision, how ever.
+~
+12 dej 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+E
+crystal ball~
+You are unable to make sense of the strange images, clearly thou it is
+used by the creator of this place to view events in the multiverse.
+~
+S
+#1230
+A Plush Living Space~
+    You are standing in a medium sized room that was obviously built for
+resting, relaxing, and working in comfort. In the center of the room you
+see several plush couches and reclining chairs, and along the northern wall
+there is a semi-organized (not anal) desk with some techno looking device
+resting on it. This room oozes with a welcoming air while at the same time
+you get distinct impression that touching anything that isn't yours would be
+a &08grave&00 error indeed. You see what appears to be a portal of some sort
+in the southern wall and several thousands books on the elvenwood shelves
+the lining eastern wall.
+~
+12 degrs 0 0 0 0
+D0
+~
+~
+0 0 6150
+D2
+~
+~
+0 -1 18001
+D4
+~
+~
+0 0 1231
+D5
+~
+~
+0 -1 1204
+S
+#1231
+The Library of the Moon~
+
+Shhhhhhh!
+
+   This is the room where Digger goes to concentrate on building,
+coding, and debugging. There is a desk here with a notepad on it.
+
+~
+12 cdgj 0 0 0 0
+D0
+~
+~
+0 0 1222
+D2
+~
+~
+0 0 1232
+D3
+A shimmering curtain of energy.
+~
+curtain shimmer~
+2 0 1259
+D5
+~
+~
+0 0 1230
+S
+#1232
+A Test Laboratory~
+  You are standing in a barren room that looks like the inside of a blast
+furnace. The walls are chipped and scarred and are either made of obsidian
+or simply charred beyond belief.
+~
+12 0 0 0 0 0
+D0
+~
+~
+0 0 1231
+D1
+~
+~
+0 0 1215
+D2
+~
+Hell's Gate~
+0 0 25010
+D3
+~
+~
+0 0 22286
+D4
+~
+~
+0 0 18001
+S
+#1233
+&01The UnderWorld&00~
+You awake, visions of your death still vivid in your mind. The pain..
+the blood..then darkness. You clamber to your feet, feeling a strange
+power flow through your limbs. An immense stone chamber sprawls about 
+you, filling you with dread and fear. Possessed by some dark force, 
+you walk for what seems like an eternity. You slowly approach a mass of
+bones and realize it is a massive throne, made of skulls. Seated upon
+it is an ominous figure, staring down at you with interest. You fall to
+your knees as you realize where you are...and what you have become.
+~
+12 djv 0 0 0 0
+D4
+A gateway, back to the land of the living is here.
+~
+gateway Door~
+1 -1 18001
+E
+throne skull~
+The Throne of Kurse is created from the skulls of the fallen Knights 
+of Solamnia who died with honor in combat. From here, he watches the
+mortal realm, searching for those worthy of becoming a denizen of the
+Underworld after their death.
+~
+S
+#1234
+The Abode of Lilis~
+   You enter a large room made of cold stone walls raising hundreds of
+feet into the heavens. Set into each wall is a massive glass window,
+stained red with reliefs of many battles and places. The light passes
+through the glass, throwing a crimson haze over everything in the room.
+In the chamber's centre is a magnificent builder's table, crafted
+from a cherry wood. Scattered about the table's surface are many sheets
+of parchment detailing complex building plans and diabolical schemes.
+~
+12 adgjv 0 0 0 0
+D1
+~
+~
+0 0 25110
+S
+#1235
+The Portal of Blackness~
+   You stand in a large clearing below the caved in street of Samsera Center.
+Looking upwards at the cracked edges of the street abouve, you can glimpse the
+top of the large fountain, no longer spewing water.  Pieces of rubble litter
+the periphery of the clearing.  In the center of the 'room' swirls a large disk
+of energy.  A palpable aura of evil radiates outward from the portal like a
+cold wind, chilling your soul.  You attempt to look within the gate and glimpse
+a large volcano before you are driven back by the diabolical force.    
+~
+12 tv 0 0 0 0
+D4
+~
+~
+0 0 18001
+S
+#1240
+A Mob Chute~
+
+This room is used to distribute mobs across various areas through
+the mud. The mob, of course, must be a wanderer.
+
+~
+12 defg 0 0 0 0
+D0
+~
+~
+0 0 13506
+D2
+~
+~
+0 0 12223
+D4
+<NONE>
+~
+~
+0 0 21201
+D5
+~
+~
+0 0 15432
+S
+#1242
+Kaidon's Rift In Time~
+You find yourself standing amidst everything, and nothing.  Images fade
+and reform around you, shifting the landscape through a myriad of scenes.
+At the moment, you stand in a small cabin, the sounds of a thunderstorm
+echoing from outside.  Wind creeps in through the window to threaten a
+tall candle sitting on a table.  As your gaze rests on the flickering
+flame, you begin to feel much smaller as the light expands to become a
+blinding sun.  From beneath your feet, a comet archs in its approach
+toward the star, which suddenly contracts to form an eye, surrounded by
+the sleek black feathers of a raven.
+~
+12 cj 0 0 0 0
+D0
+~
+~
+0 0 1250
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 1243
+S
+#1243
+The Portal~
+No help here..
+~
+12 ag 0 0 0 0
+D0
+~
+~
+0 0 1204
+D1
+~
+~
+0 0 1205
+D2
+~
+~
+0 0 18001
+D3
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 1242
+S
+#1250
+De - The Immortal Guild Hall - Kn~
+A long hallway stretches to the north, lined with small alcoves along either
+side, including ones to your immediate east and west.  Each of these spaces
+appears to have a board in it.  All along the hall, you see artistic
+renderings on the walls depicting the various classes of RavenMUD.  Before
+you on the west wall, you see the ominous figure of a Death Knight, eyes
+glowing with an eery red light as if burning from within.  He almost appears
+to be glaring across the hallway.  Looking to your east, you see the figure
+of a Solamnic Knight, looking grimly determined as he prepares for battle.
+You happen to notice that someone has tied the laces of his boots together.
+~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 1251
+D1
+~
+~
+0 0 1260
+D2
+~
+~
+0 0 1204
+D3
+~
+~
+0 0 1255
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#1251
+Mu - The Immortal Guild Hall - Sd~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 1252
+D1
+~
+~
+0 0 1261
+D2
+~
+~
+0 0 1250
+D3
+~
+~
+0 0 1256
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#1252
+As - The Immortal Guild Hall - Th~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 1253
+D1
+~
+~
+0 0 1262
+D2
+~
+~
+0 0 1251
+D3
+~
+~
+0 0 1257
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#1253
+Cl - The Immortal Guild Hall - Wa~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 1254
+D1
+~
+~
+0 0 1263
+D2
+~
+~
+0 0 1252
+D3
+~
+~
+0 0 1258
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#1254
+Sl - The Immortal Guild Hall - Ra~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1264
+D2
+~
+~
+0 0 1253
+D3
+~
+~
+0 0 1259
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#1255
+The Board Room of the Death Knights~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1250
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18117
+S
+#1256
+The Board Room of the Mages~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1251
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18123
+S
+#1257
+The Board Room of the Assassins~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1252
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18136
+S
+#1258
+The Board Room of the Clerics~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1253
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18114
+S
+#1259
+The Board Room of the Shou-lins~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1254
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18109
+S
+#1260
+The Board Room of the Solamnic Knights~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1250
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18111
+S
+#1261
+The Board Room of the Shadowdancers~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1251
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18130
+S
+#1262
+The Board Room of the Thieves~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1252
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18133
+S
+#1263
+The Board Room of the Warriors~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1253
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18106
+S
+#1264
+The Board Room of the Rangers~
+Empty~
+12 cdg 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1254
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 18102
+S
+#1270
+The Map Room~
+This room was created to provide "maps" of the lands I 
+consider west of samsera to imms only and for imm use only.  
+I hope that my request that these not be shared with ANY 
+non-imm be honored.  These maps are provided to the gods only.  
+The maker of these maps does this for the fact that many gods 
+don't have time to "mud" as mortals and exlpore the realms, 
+and that being so, sometimes imms(who are mortals too) don't 
+know the worlds which they govern.  I merely wish to provide 
+an aid.  I make these maps formyself.  I do NOT share them all.  
+Over the years, i've shared less than a dozen with the same 
+number of people merely to try to urge them to explore and make 
+such maps for themselves.  The ones I do share are very simply 
+laid out zones, like gnolls of the black fang.
+Each zone's map is an ascii node map.  where lines 
+designate paths, instersections of lines designate "rooms".  
+Too see a zone's map, use "look <zonename>"  such as "look haon-dor".
+~
+12 d 0 0 0 0
+D1
+~
+~
+0 0 1206
+E
+list zones~
+shire
+hoan-dor
+myth-try
+holy grove
+elven village
+ancalador
+hamlet of dusk
+gypsie fair
+lost temple
+xanth
+river island of minos
+gnolls of the black fang
+highTower
+Mahn-tor
+pax norrian
+~
+E
+ancalador~
+ __ __4__ __          &08Ancalador&00                       
+|  __ __     \  \                         __                
+5 |__|__|9    \__|__ __ __ __ __ __ __ __|  |  __    __     
+ 6|__|__|       \|     /  /  /  /  / 8      | |  |  |  |__  
+                       6  7  7  7  9         \|  |__|     ` 
+s of `=4                                                    
+7=noexit                                                    
+8=locked door                                               
+5=27wn of sam center, mad hermit                            
+goto and \ are both used for up/down moves                     
+                                                            
+          __ __   &08Old Enclave "Ancalador"&00             
+         |__|__                                             
+         |__|__       __       __ __                        
+            |        |__|__ __      |                       
+ __ __    __|__      !     |  |__ __|__ __ __|              
+|__|__|__ __ __|__ __|__ __ __|__   |        |              
+|__|__|                 |  |__ __ __|        !              
+                        |__ __|__ __         |              
+                             _ __ __ __ __ __|              
+     !=space holder           1=16ws2e from sam center      
+~
+E
+elven village~
+                 |__|__          
+                /|  |            
+            |__/_     __ __      
+ __ ___________|__/   __|__      
+   |_        __|__    __|        
+   |_        __|__   .__|        
+   |___|__|_ __|_____|__|        
+   |   |  | |  |     |__|        
+   |_|__|__|___|/_ __            
+               |                 
+               |                 
+               1=20w2n from samse
+&18&02The Elven Forest&00        
+.=link into holy grove           
+~
+S
+#1280
+&03Temple of the Apprentice&00~
+You stand inside a small, humbly constructed Temple which bustles with
+people. Rows of hard benches are occupied by young adventurers seeking
+tutelage from the Temple priests before they venture out into the realm
+of Raven. Some appear confident and prepared, others uncertain and
+nervous. You begin to walk towards the temple door, wondering if you are
+indeed ready for the challenges and adventures which await you.
+If the challenges are too much...  If you think you are not ready...?
+Venture upward to the &02Midgaard University&00.  Education can be deadly!
+~
+12 cders 0 0 0 0
+D4
+~
+~
+0 0 22700
+D5
+You see the Temple of Midgaard.
+~
+~
+0 0 3001
+S
+#1281
+&13Temple of the Journeyman&00~
+   Large stone steps lead down into the Center of Samsera from this
+large elevated plateau. The Temple is made of a cracked white marble,
+adding to the feeling of purity and peace you always experience here.
+Large columns reach to the sky, surrounded by many benches and tables.
+Faces familiar and strange relax here, seeking a brief shelter and safety
+from the rigors of the world below.
+~
+12 cde 0 0 0 0
+D0
+~
+~
+0 0 -1
+D4
+You see nothing but air.
+~
+~
+0 0 1401
+D5
+You see the Center of Samsera.
+~
+~
+0 0 18001
+S
+#1282
+Temple of Adventurers~
+  This is the Temple where all the adventurers meet.Important news, tips 
+and adventures can be shared and passed on here. Remember, "Levels do not
+make you a good player, Knowledge does."
+~
+12 0 0 0 0 0
+D0
+You see the Center of Samsera.
+~
+~
+0 0 18001
+D1
+Before you is the middle of the Lost City.
+~
+~
+0 0 21201
+S
+#1283
+The Temple of Masters~
+   This room is the highest mortal room on RavenMud. Only the most powerful
+of of players is allowed to occupy these chambers. Being Masters is not all
+prestige however, he must tutor all new players that wish to learn.
+~
+12 0 0 0 0 0
+D0
+You see the Center of Samsera.
+~
+~
+0 0 18001
+D1
+You see the middle of the Forgotten City.
+~
+~
+0 0 21201
+D2
+You see the Center of New Thalos.
+~
+~
+0 0 13506
+S
+$~

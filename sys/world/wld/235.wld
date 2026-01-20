@@ -1,0 +1,1475 @@
+#23500
+The Ocean~
+  Just a connector zone.
+Connects to old ocean at 3601 - 2 west of Black Market.
+Connects to Freeport at 23557 - east to 22916, Freeport Harbor.
+Connects to Pal at 23566 - north to 8101
+Connects to Pirate Isles at 23553 west to 6287
+~
+235 0 0 0 0 0 255 0
+S
+#23501
+The Ocean~
+  You are on the ocean. Large waves rock you, and you have a hard time
+keeping on course. You realize this will be hard work. Seagulls chirp
+above, and whales spurt water far off into the horizon. The wind blows 
+constantly here.
+~
+235 4 8 0 0 7 255 0
+D0
+~
+~
+0 0 23502
+D1
+~
+~
+0 0 23502
+D2
+~
+~
+0 0 3601
+D3
+~
+~
+0 0 6287
+S
+#23502
+The Ocean~
+  The salty smell of the ocean stings your nose. You feel a sense 
+of rejuvenation as you stare out across the water. You know many 
+adventures lie ahead.
+~
+235 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 23503
+D1
+~
+~
+0 0 23501
+D2
+~
+~
+0 0 23501
+D3
+~
+~
+0 0 23503
+S
+#23503
+The Ocean~
+  A few strands of dragon grass floats coiling and writhing in the water
+beside you. It seems to move with an inner force, twisting, wriggling,
+contracting and relaxing. Against the calm dark water it gleams with a
+shimmering richness of color, each strand iridescent, showing glints of
+emerald and indigo and vermilion.
+~
+235 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 23525
+D1
+~
+~
+0 0 23502
+D2
+~
+~
+0 0 23502
+D3
+~
+~
+0 0 23504
+S
+#23504
+The Ocean~
+  You carefully note your position so as not to lose your bearings on
+this boundless and monotonous ocean.
+~
+235 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 23501
+D1
+~
+~
+0 0 23503
+D2
+~
+~
+0 0 23505
+D3
+~
+~
+0 0 23502
+S
+#23505
+The Ocean~
+  You are beginning to feel it, that hideous killing boredom, that
+frightful choking feeling of having condemned yourself to an endless
+journey to nowhere.
+~
+235 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 23504
+D1
+~
+~
+0 0 23501
+D2
+~
+~
+0 0 23506
+D3
+~
+~
+0 0 23503
+S
+#23506
+The Ocean~
+  The journey has been so uneventful that the days have become voids.
+Each dawn the swollen bronze-green sun rises out of the east, by noon
+it blazes overhead out of a cloudless sky, in the afternoon it plunges
+towards the inconceivably distant horizon, and the next day is the same.
+~
+235 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 23505
+D1
+~
+~
+0 0 23507
+D2
+~
+~
+0 0 23501
+D3
+~
+~
+0 0 23502
+S
+#23507
+The Ocean~
+  You had imagined daily adventure, new beasts of fantastic nature, 
+unknown islands, heroic storms, a sky driven by lightening and daubed
+with clouds of fifty unfamiliar hues. But not this, this grinding 
+sameness, this unvarying repetition of days.
+~
+235 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 23505
+D1
+~
+~
+0 0 23508
+D2
+~
+~
+0 0 23504
+D3
+~
+~
+0 0 23506
+S
+#23508
+The Ocean~
+  The wind begins to pick up and is blowing briskly over gray blue 
+surface of the water. The spray causing small white caps to appear
+on the otherwise flat motionless water.
+~
+235 0 0 0 0 7 255 0
+D0
+~
+~
+0 0 23503
+D1
+~
+~
+0 0 23509
+D2
+~
+~
+0 0 23504
+D3
+~
+~
+0 0 23507
+S
+#23509
+The Ocean~
+  There is no air. It seems as if the world has suddenly been turned
+into a vast, reeking pool of stagnant water. All thoughts and memories
+of a breeze is lost. 
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23510
+D1
+~
+~
+0 0 23505
+D2
+~
+~
+0 0 23502
+D3
+~
+~
+0 0 23508
+S
+#23510
+The Ocean~
+  There is no air. It seems as if the world has suddenly been turned
+into a vast, reeking pool of stagnant water. All thoughts and memories
+of a breeze is lost. 
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23511
+D1
+~
+~
+0 0 23501
+D2
+~
+~
+0 0 23509
+D3
+~
+~
+0 0 23503
+S
+#23511
+The Ocean~
+  There is no air. The ocean steams and stinks beneath a sun that does 
+not burn so much as boil. Each breath seems to be half water.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23508
+D1
+~
+~
+0 0 23503
+D2
+~
+~
+0 0 23510
+D3
+~
+~
+0 0 23512
+S
+#23512
+The Ocean~
+  You sweat and swear as you move slowly against the current, almost
+as if you struggle against a tide of thick oil that clings to you
+like loathsome glue.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23513
+D1
+~
+~
+0 0 23511
+D2
+~
+~
+0 0 23502
+D3
+~
+~
+0 0 23504
+S
+#23513
+The Ocean~
+  The clouds begins to roll in, and the thunder begins to rumble off in the
+distance as the rain sweeps across the waters surface. Swirling little
+eddies of raindrops run across the gray water in a fitful wind.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23510
+D1
+~
+~
+0 0 23514
+D2
+~
+~
+0 0 23512
+D3
+~
+~
+0 0 23505
+S
+#23514
+The Ocean~
+  You are on the ocean. Large waves rock you, and you have a hard time
+keeping on course. You realize this will be hard work. Seagulls chirp
+above, and whales spurt water far off into the horizon. The wind blows 
+constantly here.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23501
+D1
+~
+~
+0 0 23515
+D2
+~
+~
+0 0 23510
+D3
+~
+~
+0 0 23513
+S
+#23515
+The Ocean~
+  A few strands of dragon grass floats coiling and writhing in the water
+beside you. It seems to move with an inner force, twisting, wriggling,
+contracting and relaxing. Against the calm dark water it gleams with a
+shimmering richness of color, each strand iridescent, showing glints of
+emerald and indigo and vermilion.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23525
+D1
+~
+~
+0 0 23508
+D2
+~
+~
+0 0 23516
+D3
+~
+~
+0 0 23514
+S
+#23516
+The Ocean~
+  You carefully note your position so as not to lose your bearings on
+this boundless and monotonous ocean.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23515
+D1
+~
+~
+0 0 23503
+D2
+~
+~
+0 0 23517
+D3
+~
+~
+0 0 23509
+S
+#23517
+The Ocean~
+  You are beginning to feel it, that hideous killing boredom, that
+frightful choking feeling of having condemned yourself to an endless
+journey to nowhere. But is there something far to the east?
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23516
+D1
+A rocky shoreline is far off.
+~
+~
+0 0 23565
+D2
+~
+~
+0 0 23518
+D3
+~
+~
+0 0 6419
+S
+#23518
+The Ocean~
+  The journey has been so uneventful that the days have become voids.
+Each dawn the swollen bronze-green sun rises out of the east, by noon
+it blazes overhead out of a cloudless sky, in the afternoon it plunges
+towards the inconceivably distant horizon, and the next day is the same.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23517
+D1
+~
+~
+0 0 23503
+D2
+~
+~
+0 0 23519
+D3
+~
+~
+0 0 23509
+S
+#23519
+The Ocean~
+  You had imagined daily adventure, new beasts of fantastic nature, 
+unknown islands, heroic storms, a sky driven by lightening and daubed
+with clouds of fifty unfamiliar hues. But not this, this grinding 
+sameness, this unvarying repetition of days.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23518
+D1
+~
+~
+0 0 23502
+D2
+~
+~
+0 0 23520
+D3
+~
+~
+0 0 23510
+S
+#23520
+The Ocean~
+  The wind begins to pick up and is blowing briskly over gray blue 
+surface of the water. The spray causing small white caps to appear
+on the otherwise flat motionless water.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23519
+D1
+~
+~
+0 0 23504
+D2
+~
+~
+0 0 23505
+D3
+~
+~
+0 0 23521
+S
+#23521
+The Ocean~
+  There is no air. It seems as if the world has suddenly been turned
+into a vast, reeking pool of stagnant water. All thoughts and memories
+of a breeze is lost.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23522
+D1
+~
+~
+0 0 23520
+D2
+~
+~
+0 0 23506
+D3
+~
+~
+0 0 23507
+S
+#23522
+The Ocean~
+  There is no air. The ocean steams and stinks beneath a sun that does 
+not burn so much as boil. Each breath seems to be half water.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23509
+D1
+~
+~
+0 0 23510
+D2
+~
+~
+0 0 23521
+D3
+~
+~
+0 0 23523
+S
+#23523
+The Ocean~
+  You sweat and swear as you move slowly against the current, almost
+as if you struggle against a tide of thick oil that clings to you
+like loathsome glue.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23511
+D1
+~
+~
+0 0 23522
+D2
+~
+~
+0 0 23524
+D3
+~
+~
+0 0 23512
+S
+#23524
+The Ocean~
+  The clouds begins to roll in, and the thunder begins to rumble off in the
+distance as the rain sweeps across the waters surface. Swirling little
+eddies of raindrops run across the gray water in a fitful wind.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23523
+D1
+~
+~
+0 0 23525
+D2
+~
+~
+0 0 23525
+D3
+~
+~
+0 0 23546
+S
+#23525
+The Ocean~
+  You mistake the dragon grass for a mass of sea-serpants
+at first. It seems to move with an inner force. There is a
+small patch of it on your port side and a somewhat broader
+streak of it staining the water to starboard.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23503
+D3
+~
+~
+0 0 23526
+S
+#23526
+The Ocean~
+  Already you are beyond the first patches, but there is
+more ahead, larger masses of it, and you squint trying to
+pick individual strands out of the tangled drifts.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23527
+D1
+~
+~
+0 0 23525
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23535
+S
+#23527
+The Ocean~
+  The stuff moves, as serpent might move. But yet you see
+no heads, no eyes. There is a sharp ammoniac smell in the air.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23528
+D2
+~
+~
+0 0 23526
+D3
+~
+~
+0 0 23535
+S
+#23528
+The Ocean~
+  No doubt about it, the stuff is seaweed of some sort, each
+flat fleshy strand about as long as a man, about as wide as a
+forearm, about as thick as a finger. It twitches and jerks
+convulsively, as though on strings.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23529
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23527
+S
+#23529
+The Ocean~
+  As you stare out across the ocean you notice the weeds appear
+thicker. They gather in bunched clumps, and their rhythmic writhing
+make the flat and listless surface of the water seem to throb and
+swell. But broad channels lay between each clump.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23528
+D3
+~
+~
+0 0 23530
+S
+#23530
+The Ocean~
+  There are tales of oceans where weeds were impenetrable, where
+ships became hopelessly enmeshed, their crews living on crabs
+and fishes and eventually dying of thirst, and the vessels drifting
+on and on for hundreds of years with skeletons aboard.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23529
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23531
+S
+#23531
+The Ocean~
+  The true menace, you think, is not the seaweed but boredom. For
+months the journey has been so uneventful that the days had become 
+voids that had to be filled with the most desperate entertainments.
+  You decide you can cope with seaweed, and move onward.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23530
+D2
+~
+~
+0 0 23532
+D3
+~
+~
+0 0 23535
+S
+#23532
+The Ocean~
+  You are beginning to have your doubts already. You stare warily at
+the ever thickening seaweed. It is forming little islands now, fifty
+or a hundred yards across, and the channels between narrower.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23531
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23533
+D3
+~
+~
+0 0 23535
+S
+#23533
+The Ocean~
+  All the surface of the ocean is in motion, quivering, trembling. 
+Under the searing rays of an almost vertical sun the seaweed grew
+richer in color, sliding in a manic way from tone to tone as if 
+pumped higher by inrush of solar energy.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23532
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23534
+S
+#23534
+The Ocean~
+  You see creatures moving about in the tight packed strands,
+enormous crablike things, many legged, spherical, with knobby
+green shells, and sinuous serpentine animals, something like
+squid, harvesting other lifeforms to small for you to see.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23533
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23535
+S
+#23535
+The Ocean~
+  You eye the horizon uneasily. A few hours ago the dragon
+grass had amounted to mere isolated strands, then scattered 
+patches and clumps, but now, although you are for the moment
+in clear water, it did indeed look as if an unbroken ring
+of seaweed had come to enclose you.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23534
+D3
+~
+~
+0 0 23536
+S
+#23536
+The Ocean~
+  You now lay in the heart of a tight-woven fabric of seaweed 
+that seems to stretch to the ends of the universe. The landscape
+that presents itself is something like a dream, a single 
+unbroken carpet of a trillion knotted strands, it surface pulsing,
+twitching, throbbing, trembling, and its colors shifting everywhere
+through a restless spectrum of deep assertive tones.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23537
+D3
+~
+~
+0 0 23535
+S
+#23537
+The Ocean~
+  Here and there in the infinitely entangled webwork its inhabitants 
+could be seen variously scuttling, creeping, slithering, crawling,
+clambering, and scampering. From the densely entwined masses of
+seaweed rose an odor so piercing it seems to go straight past the
+nostrils to the back of the skull. No clear water is in sight.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23536
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23538
+S
+#23538
+The Ocean~
+  A red mist was rising from the water, and in that thick vapor the
+creatures of the algae are moving about in great numbers, so the great
+raftlike weed structure is constantly in tremor.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23539
+D1
+~
+~
+0 0 23537
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23535
+S
+#23539
+The Ocean~
+  All the surface of the ocean is in motion, quivering, trembling. 
+Under the searing rays of an almost vertical sun the seaweed grew
+richer in color, sliding in a manic way from tone to tone as if 
+pumped higher by inrush of solar energy.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23540
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23538
+D3
+~
+~
+0 0 23535
+S
+#23540
+The Ocean~
+  You see creatures moving about in the tight packed strands,
+enormous crablike things, many legged, spherical, with knobby
+green shells, and sinuous serpentine animals, something like
+squid, harvesting other lifeforms to small for you to see.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23541
+D2
+~
+~
+0 0 23539
+D3
+~
+~
+0 0 23535
+S
+#23541
+The Ocean~
+  You eye the horizon uneasily. A few hours ago the dragon
+grass had amounted to mere isolated strands, then scattered 
+patches and clumps, but now, although you are for the moment
+in clear water, it did indeed look as if an unbroken ring
+of seaweed had come to enclose you.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23542
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23540
+S
+#23542
+The Ocean~
+  You now lay in the heart of a tight-woven fabric of seaweed 
+that seems to stretch to the ends of the universe. The landscape
+that presents itself is something like a dream, a single 
+unbroken carpet of a trillion knotted strands, it surface pulsing,
+twitching, throbbing, trembling, and its colors shifting everywhere
+through a restless spectrum of deep assertive tones.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23543
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23541
+S
+#23543
+The Ocean~
+  Here and there in the infinitely entangled webwork its inhabitants 
+could be seen variously scuttling, creeping, slithering, crawling,
+clambering, and scampering. From the densely entwined masses of
+seaweed rose an odor so piercing it seems to go straight past the
+nostrils to the back of the skull. No clear water is in sight.
+~
+235 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 23535
+D1
+~
+~
+0 0 23544
+D2
+~
+~
+0 0 23542
+D3
+~
+~
+0 0 23535
+S
+#23544
+The Ocean~
+  This dense and tightly interwoven mass of algae stretching toward
+the horizon now means only stink and decay to you, danger and death,
+the bubbling gases of rot and secret teeth of destruction.
+~
+235 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 23545
+D1
+~
+~
+0 0 23545
+D2
+~
+~
+0 0 23545
+D3
+~
+~
+0 0 23543
+S
+#23545
+The Ocean~
+  As you shade your eyes against the dazzling sky you see the great
+humped shapes, gliding serenely towards you. Flukes high, wings held
+close to their bodies or in a few cases magnificently outspred.
+Dragons, Sea Dragons!
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23544
+D1
+~
+~
+0 0 23544
+D2
+~
+~
+0 0 23544
+D3
+~
+~
+0 0 23544
+S
+#23546
+The Ocean~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23547
+D1
+~
+~
+0 0 23524
+S
+#23547
+The Ocean~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock you.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 6213
+D2
+~
+~
+0 0 23546
+D3
+~
+~
+0 0 23548
+S
+#23548
+The Ocean~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock you.
+~
+235 8 0 0 0 7 255 0
+D1
+~
+~
+0 0 23547
+D2
+~
+~
+0 0 23549
+S
+#23549
+The Ocean~
+You are sailing on the high seas of the pirate lords. There is a 
+maelstrom off the horizon.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23548
+D3
+~
+~
+0 0 23550
+S
+#23550
+The Ocean~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. The current begins to
+move swiftly.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23551
+D1
+~
+~
+0 0 23549
+S
+#23551
+The Ocean~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. The current begins to
+move swiftly.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23552
+D2
+~
+~
+0 0 23550
+S
+#23552
+The Ocean~
+You are sailing the ocean, with wild eddies sending you everywhere.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23553
+D2
+~
+~
+0 0 23551
+S
+#23553
+The Ocean~
+You are sailing the ocean, with wild eddies sending you everywhere.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23554
+D2
+~
+~
+0 0 23552
+D3
+~
+~
+0 0 6287
+S
+#23554
+The Ocean~
+You have sailed next to the famed Thunder reef.  Many a mariner has 
+wrecked his ship there.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23555
+D2
+~
+~
+0 0 23553
+S
+#23555
+The Ocean~
+As you look at Thunder reef, you remember the tale an old retired captain
+once told you about the Foamrunner laden with gold running aground on 
+Thunder reef.
+~
+235 8 0 0 0 7 255 0
+D1
+~
+~
+0 0 23556
+D2
+~
+~
+0 0 23554
+S
+#23556
+The Ocean~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23558
+D1
+~
+~
+0 0 23557
+D3
+~
+~
+0 0 23555
+S
+#23557
+Freeport Harbor~
+You are in the bay of the isle of Freeport. Wharves line the bay to the 
+where dockworkers load and unload crates. High on a hill overlooking the
+harbor is the city of Freeport, mercantile center of the world.
+~
+235 12 0 0 0 7 255 0
+D1
+~
+~
+0 0 22916
+D3
+~
+~
+0 0 23556
+D5
+~
+grate~
+1 -1 22975
+S
+#23558
+The Ocean~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. The seas are colder
+here and there is a bite in the wind.
+~
+235 8 0 0 0 7 255 0
+D2
+~
+~
+0 0 23556
+D3
+~
+~
+0 0 23559
+S
+#23559
+The Ocean~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. The seas are colder
+here and there is a bite in the wind.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23560
+D1
+~
+~
+0 0 23558
+S
+#23560
+The Ocean~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is brackish, and there is a chop to the sea. It has become very cold.
+Ice flows drift from the north.
+~
+235 8 0 0 0 7 255 0
+D1
+~
+~
+0 0 23561
+D2
+~
+~
+0 0 23559
+S
+#23561
+The Ocean~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is brackish, and there is a chop to the sea. It has become very cold.
+Ice flows drift from the north.
+~
+235 8 0 0 0 7 255 0
+D1
+~
+~
+0 0 23562
+D3
+~
+~
+0 0 23560
+S
+#23562
+The Ocean~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. To the north you hear
+a haunting song, that reminds you of home.
+~
+235 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 23563
+D3
+~
+~
+0 0 23561
+S
+#23563
+The Sea of Ice~
+You have after a very hard journey, finally arrived in the sea of ice.
+The way is treacherous and narrow, and your ship plows through the thin
+ice. You notice some footprints in the snow next to a sign.
+~
+235 8 0 0 0 7 255 0
+D2
+~
+~
+0 0 23562
+D3
+~
+~
+0 0 23564
+E
+sign footprint~
+The footprints look like they were made by tiny females.
+The sign reads: Welcome Sailors
+~
+S
+#23564
+Shipwrecked~
+You have run aground on the shoals and your ship has been torn asunder.
+The rocks you stand on show evidence of inhabitation, mainly a small
+crude fire made of driftwood and the bones of several fish lie here.
+~
+235 8 0 0 0 7 255 0
+D1
+~
+~
+0 0 23563
+S
+#23565
+A Sloping Shoreline~
+   Out of the ocean fog rises a long shoreline, stretching far south. Unsure
+of your exact location, you decide to go ashore. The shoreline is quite
+rocky, and rises to a widening plains to the east. A large trail leads
+eastward, and judging by the tracks of shodden hooves and cartwheels, it
+was travelled by a large party within the last week or so. A stiff ocean
+breeze blows from the west, crashing large waves into the banks.
+~
+235 4 0 0 0 6 255 0
+D1
+To the east lie plains which stretch as far as the eye can see.
+~
+~
+0 0 23566
+D3
+Turbulent waters of the ocean churn wildly.
+~
+~
+0 0 23517
+S
+#23566
+The Plains of Solamnia~
+   After walking for 2 days you stop to gaze upon the famed Plains of
+Solamnia. Made famous by its Knights and beautiful cities, the plains make
+up most of the northern part of Ansalon. The terrain is very diverse, 
+switching from rocky sections of hill and mountain to lush rolling grasslands.
+Far to the north stands the great city of Palanthas, and farther to the 
+east is rumored to be Daargard Keep, stronghold of the foul deathknight
+known as Lord Soth.
+~
+235 0 0 0 0 2 255 0
+D0
+The trail extends far to the northeast. Some type of encampment can be seen
+far off to the north.
+~
+~
+0 0 8101
+D3
+You see a long road leading to the ocean¿iΩ~
+~
+0 0 23565
+S
+$~

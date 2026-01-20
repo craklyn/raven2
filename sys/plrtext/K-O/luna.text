@@ -1,0 +1,37 @@
+ne cast 'earthquake'
+se kil 2.
+cle cast 'cleanse' $*
+tit title &10Feline &14O&07f the &14D&07esolate &11Moon&00
+gt gt &07((I)&10$* &07(I))&00
+r cast 'revive' $*
+mal cast 'maledict' $*
+sag cast 'sagacity' $*
+sw scan
+fort cast 'fortify' $*
+ban cast 'banish' $*
+ha cast 'harm' $*
+san cast 'sanctuary' $*
+rpar cast 'remove paralysis' $*
+h cast 'heal' $*
+rcu cast 'remove curse' $*
+fly cast 'fly' $*
+cc cast 'cure critic' $*
+inf cast 'infravision'
+sum cast 'summon' $*
+word cast 'word of recall' $*
+arm cast 'armor' $*
+ble cast 'bless' $*
+bli cast 'blindness' $*
+cb cast 'cure blind' $*
+rpo cast 'remove poison' $*
+sli cast 'sense life' $*
+di cast 'detect invisibility' $*
+nw calm
+1 get all luna
+2 wear all
+3 des luna
+assi cast 'assistant'
+ma cast 'maledict' $*
+dis cast 'dishearten' $*
+ear cast 'earthquake'
+rel cast 'relocate' $*

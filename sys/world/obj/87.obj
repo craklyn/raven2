@@ -1,0 +1,148 @@
+#8701
+key~
+an emerald key~
+A silver key encrusted with emerald lies here.~
+~
+17 0 0 0 0 1 0 0 0
+1 0 0 0
+1 1000 10
+B
+0 0 0 0
+#8702
+armor human~
+a suit of Human Skin Armor~
+A bizzare looking suit of leather armor is abandoned here.~
+~
+9 524288 0 0 0 9 0 0 0
+10 0 0 0
+8 30000 100
+B
+0 0 0 0
+#8703
+knife bone~
+a bone-handled knife~
+A bone-handled knife lies here.~
+~
+5 256 0 0 0 40961 0 0 0
+0 6 2 11
+3 3000 150
+A
+18 1
+A
+19 1
+B
+0 0 0 0
+#8704
+fountain decrepit ~
+a decrepit fountain~
+An old decrepit fountain gurgles forth a steady stream of &11water&00~
+~
+23 64 0 0 0 0 0 0 0
+99 99 0 0
+1000 0 0
+E
+decrepit fountain~
+   This fountain was once an astonishing piece of art.  Hand carved designs can
+still be seen in the stone work.  However, time has not treated it well.  The
+jet stream of water that had previously sprayed from the inner workings is now
+but a gurgle of fresh water.    
+~
+B
+0 0 0 0
+#8705
+signet ring~
+a ring~
+A signet lays here, lost to it's owner.~
+~
+8 0 0 0 0 3 0 0 0
+0 0 0 0
+1 10000 0
+B
+0 0 0 0
+#8706
+silver circlet~
+a Silver Circlet~
+A hoop of pure silver floats in mid-air.~
+~
+1 1081 4096 0 0 16401 0 0 0
+0 0 -1 0
+2 20000 1395
+A
+1 4
+A
+17 5
+B
+0 0 0 0
+#8707
+spear bronze~
+a bronze-tipped spear~
+A spear lays discarded here.~
+~
+5 2 0 0 0 8193 0 0 0
+0 4 5 22
+8 2000 110
+B
+0 0 0 0
+#8708
+blade tempest~
+the Tempest's Blade~
+A glowing blade lies here.~
+~
+5 225 0 0 0 8193 0 0 0
+0 6 5 3
+12 500000 585
+A
+18 1
+A
+19 1
+B
+0 0 0 0
+#8709
+shield web rainbow~
+a web of &05R&00&04a&08i&10n&11b&12o&00&05w&00 colors~
+A web of many colors floats here.~
+~
+9 8306760 0 0 0 513 0 0 0
+8 0 0 0
+10 75000 530
+A
+19 3
+A
+12 20
+B
+0 0 0 0
+#8740
+small piece gold o8740~
+&10a small piece of gold&00~
+A piece of gold glitters in the sun~
+~
+12 67174477 64 0 0 32769 0 0 0
+0 0 0 0
+2 10000 0
+E
+new_item~
+35086
+~
+E
+insert_item~
+8199
+~
+E
+insert_fail_character~
+   The gold glows bright then fades back to normal
+~
+E
+insert_fail_room~
+   The gold glows bright then fades back to normal
+~
+E
+insert_to_character~
+You smell burning metal and suddenly the two pieces meld! 
+~
+E
+insert_to_room~
+   The two pieces of gold begin to glow then melt together into one!    
+~
+B
+0 0 0 0
+$~

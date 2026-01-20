@@ -1,0 +1,49 @@
+db cas 'soul' $*
+sil cas 'sil' $*
+fly cas 'fly' $*
+flee blah;flee
+gold get all.gold all.cor
+st stop
+afk title :: &08Forsaken&00 :: AFK
+cl clan &14$* &00&11
+ward cas 'create warding'
+res order follower rescue $*
+wa wake;stand;look
+gs gs &14$* &00
+bl cas 'blind' $*
+2 rec sam scr
+1 rec sam
+br breath $*
+cwho clanwho
+o order follower $*
+sum c 'summon' $*
+deb c 'deb' $*
+soul c 'soul pierce' $*
+ed cas 'energy drain' $*
+slow cas 'slow' $*
+fe cas 'life drain' $*
+invis cas 'invis' $*
+ge get all all.cor
+con cas 'consume' $*
+bone cas 'bone wall' $1
+blahrw emot notices that&14&15$*&00
+age cas 'age' $*
+csum cas 'summon corpse' $*
+scream emot screams, '&25&14&22$* &00'
+title title :: &01Forsaken&00 Lord of &07Death&00 and &03Decay&00
+say say &03$* &00
+ent cas 'entomb corpse' $*
+di cas 'd i' $*
+infra cas 'infra' $*
+sen cas 'sen' $*
+em cas 'embalm' $*
+nox cas 'nox' $*
+shi cas 'shield' $*
+resist cas 'resist' $*
+wraith cas 'wraith'
+bers order follower berserk
+ch ungroup $*;cas 'charm corpse' $*;group all
+call cas 'c t c' $*
+rent1 rent
+start gr all;gs khalebstartkhaleb
+rent ungr;gr all;gs khalebrentkhaleb

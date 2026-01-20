@@ -1,0 +1,19 @@
+z cast 'heal'ro
+x cast 'sanc'banach
+4 cast 'harm'
+h cast 'heal'
+ww cast 'word'
+gg cast 'cure crit
+rr rec recall
+bb cast 'blind'
+wak wake;stand;look
+zz cast 'blind' $1
+m cast 'maled' 
+2 get all cor;des cor
+pou put all pouch;get all.recall pouch;save
+hh cast 'cure crit'
+kk cast 'maled' $1
+sp cast 'rem par'spa;c 'rem po' sp;cast 'cur bl' sp
+9 wield shaft;hold scept;wear all;save
+sss cast 'sanc
+www cast 'word' group

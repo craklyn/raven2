@@ -1,0 +1,34 @@
+cleanse c 'cleanse' $*
+fort c 'fortify' $*
+rc c 'remove curse' $*
+rev c 'revive' $*
+fs c 'flame strike' $*
+gsanc c 'sanctuary' group
+bl c 'blind' $*
+garm c 'armor' group
+wa wake;stand
+relo c 'relocate' $*
+gbless c 'bless' group
+bless c 'bless' $*
+arm c 'armor' $*
+cf c 'create food'
+dr drink thimble
+infra c 'infravision'
+assistant c 'assistant'
+sense c 'sense life' $*
+sum c 'summon' $*
+fly c 'fly' $*
+gfly c 'fly' group
+gword c 'word of recall' group
+word c 'word of recall' $*
+gdi c 'detect invis' group
+di c 'detect invis' $*
+heal c 'heal' $*
+sanc c 'sanctuary' $*
+cb c 'cure blind' $*
+title title :: &09Wanderer&00
+f c 'earthquake'
+rpoi c 'remove poison' $*
+rpar c 'remove para' $*
+saga c 'sagacity' $*
+h c 'revive' seifer

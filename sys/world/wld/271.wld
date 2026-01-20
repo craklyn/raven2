@@ -1,0 +1,3674 @@
+#27100
+Credits Room~
+   This area has been created for several reasons.  The first reason, is this
+is the first area that I've created and turned into the staff at RavenMUD.  
+The second reason is that I felt there was a need for a elven camp of some sort
+that was something like "the big brothers" of "the elven village" where Quintor
+resides.  The third reason is that I hope this area can serve as a foundation
+for other area's I have some desire to create.  The 01 room of this zone is
+written to be where this zone is connected to the rest of the world, preferably
+one-way through one of the portal 3968 chambers in the "Mystic Sea".  
+Preferably, past an emerald guardian.  There is a &08plaque&00 on the wall
+here.  This area is for level 30+ groups.    
+~
+271 1096 0 0 0 9 255 0
+E
+plaque~
+This plaque shows what this world is meant to look like.  This is a node map.  
+The end of each line is a room, each line is a passage way.
+              _
+             |_|\
+        __   |
+       |__|__|
+     _\|__|__|/_
+  _\|__|__|__|__|/_
+ |__|__|__|__|__|__|_
+ |__|__|__|__|__|__|
+    |__|__|__|__|
+       |__|__|
+          |
+          | 
+_|__|__|__|__|_
+_|__|__|__|__|_
+_|__|__|__|__|_
+_|__|__|__|__|_
+_|__|__|__|__|_
+ |  |  |  |  |
+       ^
+       |
+       |
+       *=room 27101
+~
+S
+#27101
+Before the Meadow~
+   As you pass through the portal you fight off the disorientation and glance 
+behind you to peer back through, but all that you see is swirling rock in a 
+cliff-face.  As you look, up, you see a large rocky cliff that is easily ten
+times your height.  You bring your eyes back down to ground level and notice an
+inviting, sparsely treed meadow lies directly to the north.  As you regain your
+composure, you summise that you would prefer to not pass through solid rock
+again anytime soon.
+~
+271 64 0 0 0 3 255 0
+D0
+An inviting, sparsely tree'd meadow lies to the north.
+~
+~
+0 -1 27104
+S
+#27102
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27107
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27103
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27122
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27106
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27103
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27108
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27104
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27123
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27102
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27104
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You realize that the
+cliff face that should be just to your south is completely gone.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27109
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27105
+D2
+As you gaze off to the south, you wonder where the huge cliff went!
+~
+~
+0 -1 27124
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27103
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27105
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27110
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27106
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27125
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27104
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27106
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27111
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27102
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27126
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27105
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27107
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27112
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27108
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27102
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27111
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27108
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27113
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27109
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27103
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27107
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27109
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27114
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27110
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27104
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27108
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27110
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27115
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27111
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27105
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27109
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27111
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27116
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27107
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27106
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27110
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27112
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27117
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27113
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27107
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27116
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27113
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27118
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27114
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27108
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27107
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27114
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27119
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27115
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27109
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27113
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27115
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27120
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27116
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27110
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27114
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27116
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27121
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27112
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27111
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27115
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27117
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27122
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27118
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27112
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27121
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27118
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27123
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27119
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27113
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27117
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27119
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27124
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27120
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27114
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27118
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27120
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27125
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27121
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27115
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27119
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27121
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27126
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27117
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27116
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27120
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27122
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27102
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27123
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27117
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27126
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27123
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27103
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27124
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27118
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27122
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27124
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27104
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27125
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27119
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27123
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27125
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27127
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27126
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27120
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27124
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27126
+Within the Lea~
+  You are within a pleasant meadow of ankle high grasses.  The sounds of 
+songbirds fills the air.  There is the occasional oak and maple tree scattered
+about here.  You here the sounds of the occasional small woodland animal for a
+moment.  The meadow stretches off into all directions.  You feel invited to lie
+down and rest.
+~
+271 0 0 0 0 2 255 0
+D0
+As you gaze off further into the meadow, you think you spot a deer.
+~
+~
+0 -1 27106
+D1
+As you gaze off further into the meadow, you think you spot a hare.
+~
+~
+0 -1 27122
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27121
+D3
+As you gaze off further into the meadow, you think you spot a squirrel.
+~
+~
+0 -1 27125
+D4
+As you stare into the sky, you strain your neck.
+~
+~
+0 -1 -1
+D5
+As you look down, you wiggle your toes and grin.
+~
+~
+0 -1 -1
+S
+#27127
+Upon a Trail~
+  You are on a narrow trail that leads out of the meadow.  The sounds of 
+songbirds still fills the air.  The oak and maple trees are more densely
+populated here.  There is also many shrubs and bushes growing thickly to the
+west and east of here, blocking your way.  You hear some small animal scurry
+away in terror.  The meadow stretches off to the south, while this path seems
+to lead to a stream to the north. 
+~
+271 64 0 0 0 3 255 0
+D0
+As you gaze off to the north, you see the path plunge into a creek.
+~
+~
+0 -1 27128
+D1
+You see thick undergrowth blocking your way.
+~
+undergrowth~
+1 -1 23988
+D2
+As you gaze off further into the meadow, you think you spot a badger.
+~
+~
+0 -1 27125
+D3
+You see thick undergrowth blocking your way.
+~
+~
+0 -1 -1
+D4
+As you stare into the sky, you see birds.
+~
+~
+0 -1 -1
+D5
+As you look down, you realize that you stepped in deer doo.
+~
+~
+0 -1 -1
+S
+#27128
+In the Creek~
+  You are standing in the middle of a creek.  The oak and maple trees are
+densely populated to either side of you. The creek you are in seems to flow
+under the flora that seems to be impassable to any animals, including you.
+You smell the sweet fragrance of fruits coming from the north. 
+  You sense something else...
+~
+271 1 0 0 0 7 255 0
+D0
+As you gaze off to the north, you see a small opening.
+~
+~
+0 -1 27130
+D1
+You see the creek water flowing away from you.
+~
+~
+0 -1 -1
+D2
+You see a dark trail.
+~
+~
+0 -1 27127
+D3
+You see the creek water flowing into the pool.
+~
+~
+0 -1 -1
+D4
+The treetops block your view of the sky here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see a small fish.
+~
+~
+0 -1 -1
+E
+block_msg_char~
+$N pushes you back with his free hand while raising his axe to strike.
+~
+E
+block_msg_room~
+$N blocks $n while raising his axe to strike!
+~
+E
+block_dir~
+north
+~
+S
+#27129
+Among the Fruit Stands~
+   As you enter this opening, you see rows upon rows of dried and drying
+fruits.  Some lay on shelves, while others are strung up to dry.  There are
+baskets scattered about.  Some are full of fresh fruit.  Some filled with dried
+fruits.  The impassable combination of undergrowth and trees lies to the south
+and west of here, blocking your way.  It is doubtful that even a berserked
+troll would be able to crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large tree.
+~
+~
+0 -1 27133
+D1
+You see the dark guarded entrance.
+~
+~
+0 -1 27130
+D2
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D3
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27130
+A Fork in the Trail~
+   Your initial hunch that the trail merely branches here proves incomplete.  
+Upon further inspection, you realize you are on the outskirts of a camp of some
+kind.  You here campsounds from the north, and the smell of sweet fruits lures
+you west of here.    
+~
+271 1 0 0 0 3 255 0
+D0
+As you gaze off to the north, you see a small opening.
+~
+~
+0 -1 27134
+D1
+There is an opening in the brush, allowing passage through.
+~
+~
+0 -1 27131
+D2
+You see a small creek.
+~
+~
+0 -1 27128
+D3
+There is an opening in the brush, allowing passage through.
+~
+~
+0 -1 27129
+D4
+The treetops block your view of the sky here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see footprints.
+~
+~
+0 -1 -1
+E
+block_dir~
+north
+~
+E
+block_msg_room~
+$N blocks $n's path as he raises his axe to strike!
+~
+E
+block_msg_char~
+$N pushes you back with his free hand while raising his axe to strike.
+~
+S
+#27131
+Among some Meat Racks~
+   As you enter this opening, you see rows upon rows of dried and drying meats.
+Salted meats lay in boxes and traveling packs.  There are baskets scattered
+about here as ell.  There seems to be enough meat here to feed a small army!  
+The impassable combination of undergrowth and trees lies to the south and east
+of here, blocking your way.  It is doubtful that even a berserked troll would
+be able to crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large tree.
+~
+~
+0 -1 27135
+D1
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D2
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D3
+You see the dark guarded entrance.
+~
+~
+0 -1 27130
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27132
+Among Baked Goods~
+   As you enter this opening, you see a numerous baked goods.  Mostly it's
+trail bread rations, but there are a few more palatable goodies here as well.
+There are baskets here full of fresh fruits; they sure look good.  There is
+stone oven here that seems to be the source of that fresh pie aroma.  The
+impassable combination of undergrowth and trees lies to the south and west of
+here, blocking your way.  It is doubtful that even a berserked troll would be
+able to crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large tree.
+~
+~
+0 -1 27138
+D1
+You see a large tree.
+~
+~
+0 -1 27133
+D2
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D3
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27133
+By a Large Tree~
+   As you enter the clearing, you notice it's dominated by a large tree.  The
+tree you noticed is large and thick.  The ground here is covered in grass.  
+You still can't see up through the canopy.    
+~
+271 0 0 0 0 3 255 0
+D0
+You think You hear voices from the north..
+~
+~
+0 -1 27139
+D1
+You see a path.
+~
+~
+0 -1 27134
+D2
+You think you spot a person to the south.
+~
+~
+0 -1 27129
+D3
+You think you spot a person to the west.
+~
+~
+0 -1 27132
+D4
+There is an opening in the branches, allowing passage.
+~
+~
+0 -1 27174
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27134
+On the Trail~
+   This is clearly a north-south trail, and seems to be used frequently based
+on the wear of the grass.  But as for what travels this trail, you cannot tell
+for there are no footprints whatsoever, man nor beast.  You definitely hear
+voices coming from the north of here.    
+~
+271 0 0 0 0 3 255 0
+D0
+You hear voices from the north.
+~
+~
+0 -1 27140
+D1
+You see a large tree.
+~
+~
+0 -1 27135
+D2
+You see a dark guarded entrance.
+~
+~
+0 -1 27130
+D3
+You see a large tree.
+~
+~
+0 -1 27133
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27135
+By a Large Tree~
+   As you enter the clearing, you notice it's dominated by a large tree.  The
+tree you noticed is large and thick.  The ground here is covered in grass.  
+You still can't see up through the canopy.    
+~
+271 0 0 0 0 3 255 0
+D0
+You think you hear voices from the north.
+~
+~
+0 -1 27141
+D1
+You think you spot a person to the east.
+~
+~
+0 -1 27136
+D2
+You think you spot a person to the south.
+~
+~
+0 -1 27131
+D3
+You see a trail.
+~
+~
+0 -1 27134
+D4
+There is an opening in the branches, allowing passage.
+~
+~
+0 -1 27175
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27136
+The Butcher Block~
+   As you enter this opening, you see some dead animals and freshly cut meats.
+This must be where game is butchered and prepared for consumption.  There is a
+bloody butcher's block in the corner.  It is surrounded by wood chips.  This
+area is kept relatively clean.  The impassable combination of undergrowth and
+trees lies to the south and east of here, blocking your way.  You imagine that
+not even a berserked troll would be able to crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large tree.
+~
+~
+0 -1 27142
+D1
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D2
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D3
+You see a large tree.
+~
+~
+0 -1 27135
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see wood chips.
+~
+~
+0 -1 -1
+S
+#27137
+The Writer's Post~
+   This opening seems to be some sort of correspondence station.  This is where
+the residents of this camp come to receive messages from home, and to send
+message home.  There is a desk for the head of the post with some mail still on
+it.  Amazingly, the crude furniture was made with no fasteners or bindings.  
+They are made from pure uncut wood from the forest.  The impassable combination
+of undergrowth and trees lies to the south and west of here, blocking your way.
+It is doubtful that even a berserked troll would be able to crash through it.
+  
+~
+271 0 0 0 0 3 255 0
+D0
+The woods are lit with a glowing aura.
+~
+~
+0 -1 27144
+D1
+You see a large tree.
+~
+~
+0 -1 27138
+D2
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D3
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27138
+By a Large Tree~
+   As you enter the clearing, you notice it's dominated by a large tree.  The
+tree you noticed is large and thick.  The ground here is covered in grass.  
+You still can't see up through the canopy.    
+~
+271 0 0 0 0 3 255 0
+D0
+You think you hear voices from the north.
+~
+~
+0 -1 27145
+D1
+You smell hot food.
+~
+~
+0 -1 27139
+D2
+You smell fresh baked goods.
+~
+~
+0 -1 27132
+D3
+You think you spot a person to the west.
+~
+~
+0 -1 27137
+D4
+There is an opening in the branches, allowing passage.
+~
+~
+0 -1 27176
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27139
+Among the Tables~
+   As you enter the clearing you realize this is where the residents eat.  
+There are several crude, yet sturdy, tables and seats setup here in an orderly
+fashion.  Amazingly, the crude furniture was made with no fasteners or
+bindings.  They are made from pure uncut wood from the forest.  There seems to
+be more of the like east of here.    
+~
+271 0 0 0 0 3 255 0
+D0
+You hear voices from the north.
+~
+~
+0 -1 27146
+D1
+You smell hot food.
+~
+~
+0 -1 27140
+D2
+You see a large tree.
+~
+~
+0 -1 27133
+D3
+You see a large tree.
+~
+~
+0 -1 27138
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses. but no food scraps. 
+~
+~
+0 -1 -1
+S
+#27140
+Among the Tables~
+   As you enter the clearing you realize this is where the residents eat.  
+There are several crude, yet sturdy, tables and seats setup here in an orderly
+fashion.  Amazingly, the crude furniture was made with no fasteners or
+bindings.  They are made from pure uncut wood from the forest.  There seems to
+be more of the like east and west of here.    
+~
+271 0 0 0 0 3 255 0
+D0
+You hear voices from the north.
+~
+~
+0 -1 27147
+D1
+You smell hot food.
+~
+~
+0 -1 27141
+D2
+You see a trail.
+~
+~
+0 -1 27134
+D3
+You smell hot food.
+~
+~
+0 -1 27139
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses. but no food scraps.
+~
+~
+0 -1 -1
+S
+#27141
+Among the Tables~
+   As you enter the clearing you realize this is where the residents eat.  
+There are several crude, yet sturdy, tables and seats setup here in an orderly
+fashion.  Amazingly, the crude furniture was made with no fasteners or
+bindings.  They are made from pure uncut wood from the forest.  There seems to
+be more of the like west of here.    
+~
+271 0 0 0 0 3 255 0
+D0
+You hear voices from the north.
+~
+~
+0 -1 27148
+D1
+You see a large tree.
+~
+~
+0 -1 27142
+D2
+You see a large tree.
+~
+~
+0 -1 27135
+D3
+You smell hot food.
+~
+~
+0 -1 27140
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses. but no food scraps.
+~
+~
+0 -1 -1
+S
+#27142
+By a Large Tree~
+   As you enter the clearing, you notice it's dominated by a large tree.  The
+tree you noticed is large and thick.  The ground here is covered in grass.  
+You still can't see up through the canopy.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see something on the ground to the north.
+~
+~
+0 -1 27149
+D1
+You hear the sound of running water.
+~
+~
+0 -1 27143
+D2
+You see a blood-stained block.
+~
+~
+0 -1 27136
+D3
+You smell hot food.
+~
+~
+0 -1 27141
+D4
+There is an opening in the branches, allowing passage.
+~
+~
+0 -1 27177
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27143
+By the Stream~
+   As you enter this opening, you nearly plunge into a stream.  It flows in
+from the south, turns and leaves to the east.  This seems to be the only source
+of water for the inhabitants here.  The impassable combination of undergrowth
+and trees lies to the south and east of here, blocking your way.  It is
+doubtful that even a berserked troll would be able to crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large pile of brush.
+~
+~
+0 -1 27150
+D1
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D2
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D3
+You see a large tree.
+~
+~
+0 -1 27142
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see brisk, cool running water.
+~
+~
+0 -1 -1
+S
+#27144
+The Theatron~
+   The theatron seems to be a place of display.  Next to the western
+undergrowth, there is an apparent stage, which is nothing more than a flat
+knee- high level mound of grass-covered dirt.  The rest of the ground slopes
+gently toward the mound and is covered in plush grass.  The trees behind the
+mound are pleasant, yet still impassable.    
+~
+271 0 0 0 0 3 255 0
+D0
+You hear praying. 
+~
+~
+0 -1 27151
+D1
+You see more plush grass.
+~
+~
+0 -1 27145
+D2
+You see a person to the south.
+~
+~
+0 -1 27137
+D3
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D4
+There's a slight opening in the canopy, allowing in a beam of sunlight.
+~
+~
+0 -1 -1
+D5
+As you look down, you see plush grasses.
+~
+~
+0 -1 -1
+S
+#27145
+Surrounded by Plush Grasses~
+   You're surrounded by plush, inviting grasses.  The land here gently slopes
+to the west.  The trees bordering this area are large enough to maintain the
+canopy.  It is a shame, for you feel, for just an instant, like lying down and
+staring into the sky.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large tree.
+~
+~
+0 -1 27152
+D1
+You hear men talking, armed men..
+~
+~
+0 -1 27146
+D2
+You see a large tree.
+~
+~
+0 -1 27138
+D3
+The ground slopes downward to the east.
+~
+~
+0 -1 27144
+D4
+Unfortunately The treetops act as a canopy here. as well
+~
+~
+0 -1 -1
+D5
+As you look down, you see plush grasses.
+~
+~
+0 -1 -1
+S
+#27146
+In the Clearing~
+   All except for the tall trees have been removed here, even the grasses.  
+The large trees that are here still maintain the canopy above.  In some spots,
+there are things drawn on the ground.  The clearing continues to the north and
+east.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see more clearing.
+~
+~
+0 -1 27153
+D1
+You hear men talking, armed men..
+~
+~
+0 -1 27147
+D2
+You smell hot food.
+~
+~
+0 -1 27139
+D3
+The ground slopes downward to the east.
+~
+~
+0 -1 27145
+D4
+A rope ladder leads up a large tree..
+~
+~
+0 -1 27182
+D5
+As you look down, you see diagrams for what appears to be an invasion.
+~
+~
+0 -1 -1
+S
+#27147
+In the Clearing~
+   All except for the tall trees have been removed here, even the grasses.  
+The trees that are here still maintain the canopy above.  In some spots, there
+are things drawn on the ground.  The clearing continues to the north, west and
+east.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see more clearing.
+~
+~
+0 -1 27154
+D1
+You hear men talking, armed men..
+~
+~
+0 -1 27148
+D2
+You smell hot food.
+~
+~
+0 -1 27140
+D3
+You hear men talking, armed men..
+~
+~
+0 -1 27146
+D4
+A rope ladder leads up a large tree.
+~
+~
+0 -1 27183
+D5
+You see diagrams for what appears to be defense plans for a village.
+~
+~
+0 -1 -1
+S
+#27148
+In the Clearing~
+   All except for the tall trees have been removed here, even the grasses.  
+The trees that are here still maintain the canopy above.  In some spots, there
+are things drawn on the ground.  The clearing continues to the north, west and
+east.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see more clearing.
+~
+~
+0 -1 27155
+D1
+You see something on the ground.
+~
+~
+0 -1 27149
+D2
+You smell hot food.
+~
+~
+0 -1 27141
+D3
+You hear men talking, armed men.
+~
+~
+0 -1 27147
+D4
+A rope ladder leads up a large tree.
+~
+~
+0 -1 27184
+D5
+You see a diagram for the positioning of snipers along a road.
+~
+~
+0 -1 -1
+S
+#27149
+By the Chests~
+   There are 2 large chests in this room that are far to big to be moved.  
+They are made without bindings or fasteners, such as the other furnishings in
+the camp.  The grass here is heavily trampled.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large tree.
+~
+~
+0 -1 27156
+D1
+You see a large pile of brush.
+~
+~
+0 -1 27150
+D2
+You see a large tree.
+~
+~
+0 -1 27142
+D3
+You hear men talking, armed men.
+~
+~
+0 -1 27148
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+You see heavily trampled grasses.
+~
+~
+0 -1 -1
+S
+#27150
+Outside the Hut~
+   You are outside a hut made of dead undergrowth and tree branches.  The walls
+of the hut are thick as an ox and has numerous thick branches in it for
+support.  You realize that you don't hear any noises from within the hut.    
+~
+271 0 0 0 0 3 255 0
+D0
+You hear swordplay.
+~
+~
+0 -1 27157
+D1
+You see the animal-skin doorway.
+~
+pelt~
+1 2710 27188
+D2
+You hear a stream.
+~
+~
+0 -1 27143
+D3
+You see something on the ground.
+~
+~
+0 -1 27149
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+You see dirt.
+~
+~
+0 -1 -1
+S
+#27151
+Before the Shrine~
+   As you enter this enclosure, you spot a small shrine on in the western part
+of the room.  There are smaller trees to the south and west, making this a
+fairly private enclosure, though there is room for several persons in here.  
+This seems to be where the residents come to pray to their god or gods.  There
+is a single candle on the shrine.  The impassable combination of undergrowth
+and trees lies to the north and west of here, blocking your way.  It is
+doubtful that even a berserked troll would be able to crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see thick impenetrable brush. 
+~
+~
+0 -1 -1
+D1
+You see a large tree.
+~
+~
+0 -1 27152
+D2
+The woods are lit with a glowing aura.
+~
+~
+0 -1 27144
+D3
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see uniformly trimmed grasses.
+~
+~
+0 -1 -1
+S
+#27152
+By a Large Tree~
+   As you enter the clearing, you notice it's dominated by a large tree.  The
+tree you noticed is large and thick.  The ground here is covered in grass.  
+You still can't see up through the canopy.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see someone.
+~
+~
+0 -1 27158
+D1
+You hear men talking, armed men.
+~
+~
+0 -1 27153
+D2
+You see a grassy area.
+~
+~
+0 -1 27145
+D3
+You see a shrine.
+~
+~
+0 -1 27151
+D4
+There is an opening in the branches, allowing passage.
+~
+~
+0 -1 27178
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27153
+In the Clearing~
+   All except for the tall trees have been removed here, even the grasses.  
+The trees that are here still maintain the canopy above.  In some spots, there
+are things drawn on the ground.  The clearing continues to the south and east.
+  
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large tree.
+~
+~
+0 -1 27159
+D1
+You hear men talking, armed men.
+~
+~
+0 -1 27154
+D2
+You hear men talking, armed men.
+~
+~
+0 -1 27146
+D3
+You see a large tree.
+~
+~
+0 -1 27152
+D4
+A rope ladder leads up a large tree.
+~
+~
+0 -1 27185
+D5
+You see unfamiliar runes scratched into the dirt.
+~
+~
+0 -1 -1
+S
+#27154
+In the Clearing~
+   All except for the tall trees have been removed here, even the grasses.  
+The trees that are here still maintain the canopy above.  In some spots, there
+are things drawn on the ground.  The clearing continues to the south and east.
+  
+~
+271 0 0 0 0 3 255 0
+D0
+You see a trail.
+~
+~
+0 -1 27160
+D1
+You hear men talking, armed men.
+~
+~
+0 -1 27155
+D2
+You hear men talking, armed men.
+~
+~
+0 -1 27147
+D3
+You hear men talking, armed men.
+~
+~
+0 -1 27153
+D4
+A rope ladder leads up a large tree.
+~
+~
+0 -1 27186
+D5
+You see uninterrupted, smooth dirt.
+~
+~
+0 -1 -1
+S
+#27155
+In the Clearing~
+   All except for the tall trees have been removed here, even the grasses.  
+The trees that are here still maintain the canopy above.  In some spots, there
+are things drawn on the ground.  The clearing continues to the south and east.
+~
+271 0 0 0 0 3 255 0
+D0
+You see a large tree.
+~
+~
+0 -1 27161
+D1
+You see a large tree.
+~
+~
+0 -1 27156
+D2
+You hear men talking, armed men.
+~
+~
+0 -1 27148
+D3
+You hear men talking, armed men.
+~
+~
+0 -1 27154
+D4
+A rope ladder leads up a large tree.
+~
+~
+0 -1 27187
+D5
+You see diagrams for what appears to be defense plans for these woods.
+~
+~
+0 -1 -1
+S
+#27156
+By a Large Tree~
+   As you enter the clearing, you notice it's dominated by a large tree.  The
+tree you noticed is large and thick.  The ground here is covered in grass.  
+You still can't see up through the canopy.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a dark corner.
+~
+~
+0 -1 27162
+D1
+You hear swordplay.
+~
+~
+0 -1 27157
+D2
+You see something on the ground.
+~
+~
+0 -1 27149
+D3
+You hear men talking, armed men.
+~
+~
+0 -1 27155
+D4
+There is an opening in the branches, allowing passage.
+~
+~
+0 -1 27179
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27157
+A Fight!~
+   This area seems to be where this camp's inhabitants practice one-on-one
+combat.  There ground is smooth and hard and free of debris.  The impassable
+combination of undergrowth and trees lies to the north and east of here,
+blocking your way.  It is doubtful that even a berserked troll would be able to
+crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see thick impenetrable brush. 
+~
+~
+0 -1 -1
+D1
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D2
+You see a pile of brush.
+~
+~
+0 -1 27150
+D3
+You see a large tree.
+~
+~
+0 -1 27156
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see smooth hard dirt.
+~
+~
+0 -1 -1
+S
+#27158
+A Corner Grove~
+   The ground here well worn.  There is no sign of grass.  There is a
+makeshift, yet well worn, desk here made from raw tree limbs.  It is of
+ingenious design and uses no fasteners of any kind.  There are many scrolls
+stashed into the bushes and trees that surround the desk.  The impassable
+combination of undergrowth and trees lies to the north and west of here,
+blocking your way.  It is doubtful that even a berserked troll would be able to
+crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see thick impenetrable brush. 
+~
+~
+0 -1 -1
+D1
+You see a large tree.
+~
+~
+0 -1 27159
+D2
+You see a large tree.
+~
+~
+0 -1 27152
+D3
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see compacted dirt.
+~
+~
+0 -1 -1
+S
+#27159
+By a Large Tree~
+   As you enter the clearing, you notice it's dominated by a large tree.  The
+tree you noticed is large and thick.  The ground here is covered in grass.  
+You still can't see up through the canopy.    
+~
+271 0 0 0 0 3 255 0
+D0
+You hear chanting.
+~
+~
+0 -1 27163
+D1
+You see a trail.
+~
+~
+0 -1 27160
+D2
+You hear men talking, armed men.
+~
+~
+0 -1 27153
+D3
+You hear voices.
+~
+~
+0 -1 27158
+D4
+There is an opening in the branches, allowing passage.
+~
+~
+0 -1 27180
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27160
+On a Trail~
+   This is clearly a north-south trail, and seems to be used frequently based
+on the wear of the grass.  But as for what travels this trail, you cannot tell
+for there are no footprints whatsoever, man nor beast.  You definitely hear
+chanting coming from the north of here.    
+~
+271 0 0 0 0 3 255 0
+D0
+You hear chanting.
+~
+~
+0 -1 27164
+D1
+You see a large tree.
+~
+~
+0 -1 27161
+D2
+You hear men talking, armed men.
+~
+~
+0 -1 27154
+D3
+You see a large tree.
+~
+~
+0 -1 27159
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27161
+By a Large Tree~
+   As you enter the clearing, you notice it's dominated by a large tree.  The
+tree you noticed is large and thick.  The ground here is covered in grass.  
+You still can't see up through the canopy.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a trail.
+~
+~
+0 -1 27165
+D1
+You see a dark corner.
+~
+~
+0 -1 27162
+D2
+You hear men talking, armed men.
+~
+~
+0 -1 27155
+D3
+You see a trail.
+~
+~
+0 -1 27160
+D4
+There is an opening in the branches, allowing passage.
+~
+~
+0 -1 27181
+D5
+As you look down, you see trampled grasses.
+~
+~
+0 -1 -1
+S
+#27162
+A Dark Corner~
+   This is a dark corner in the forest, seemingly unused.  The impassable
+combination of undergrowth and trees lies to the north and east of here,
+blocking your way.  It is doubtful that even a berserked troll would be able to
+crash through it.    
+~
+271 393216 0 0 0 3 255 0
+D0
+You see thick impenetrable brush. 
+~
+~
+0 -1 -1
+D1
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D2
+You see a large tree.
+~
+~
+0 -1 27156
+D3
+You see a large tree.
+~
+~
+0 -1 27161
+D4
+The treetops act as a canopy here.
+~
+~
+0 -1 -1
+D5
+As you look down, you see a restful looking mound.
+~
+~
+0 -1 -1
+S
+#27163
+A Burnt Clearing~
+   This is a small circular clearing that opens to the east of here.  A large
+oval area twice as wide and as long as a large human male is burnt into the
+ground.  The surrounding grasses are darkened.  The trees surrounding the
+clearing are singed and lacking in smaller branches at ground level.  An eerie
+chanting seems to be coming from the north and east.  The impassable
+combination of undergrowth and trees lies to the west of here, blocking your
+way.  It is doubtful that even a berserked troll would be able to crash through
+it.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see a indigo tent flap.
+~
+flap~
+1 2710 27166
+D1
+You hear more chanting.
+~
+~
+0 -1 27164
+D2
+You see a large tree.
+~
+~
+0 -1 27159
+D3
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here. 
+~
+~
+0 -1 -1
+D5
+You seem to be standing in the middle of the burnt earth.
+~
+~
+0 -1 -1
+S
+#27164
+A Burnt Clearing~
+   This is a small circular clearing that opens to the west of here.  The
+grasses here have an indigo hue to them.  An eerie chanting seems to be coming
+from the north and west.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see an indigo tent flap.
+~
+flap~
+1 -1 27167
+D1
+You see a trail.
+~
+~
+0 -1 27165
+D2
+You see a trail.
+~
+~
+0 -1 27160
+D3
+You hear chanting.
+~
+~
+0 -1 27163
+D4
+The treetops act as a canopy here. 
+~
+~
+0 -1 -1
+D5
+You see grass that has an indigo hue to it.
+~
+~
+0 -1 -1
+S
+#27165
+A Heavily Trodden Path~
+   There is a heavily trodden path here, stretching north and south.  An eerie
+chanting seems to be coming from the and west.  The impassable combination of
+undergrowth and trees lies to the east of here, blocking your way.  It is
+doubtful that even a berserked troll would be able to crash through it.    
+~
+271 0 0 0 0 3 255 0
+D0
+The trail continues.
+~
+~
+0 -1 27168
+D1
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D2
+The trail leads to a large tree.
+~
+~
+0 -1 27161
+D3
+You hear chanting.
+~
+~
+0 -1 27164
+D4
+The treetops act as a canopy here. 
+~
+~
+0 -1 -1
+D5
+You see a heavily trodden path.
+~
+~
+0 -1 -1
+S
+#27166
+A Large Indigo Tent~
+   You are in a large indigo tent that stretches off to the west.  There is a
+door-flap to the south.  Judging by the many runes and odors, this is a mage's
+tent.  This part of the tent is large enough to squeeze a dozen people into it.
+There's a small opening in the top of the tent designed to let smoke out, but
+not let rain or snow in.  There's a small fire burning in the middle of the
+floor and many chests around the perimeter.    
+~
+271 0 0 0 0 3 255 0
+D0
+There is a rune on the tent wall:
+    /
+ /\/|
+/|  |
+ |__|
+ \   \
+~
+~
+0 -1 -1
+D1
+The tent stretches off to the east
+~
+~
+0 -1 27167
+D2
+The smell of smoke is coming from the south.
+~
+flap~
+1 -1 27163
+D3
+A burning green rune of the crent moons is on the tent wall here.
+&14           _
+          |^\
+           \ \
+            \ \
+     .      |  \
+    /|      |   |
+   / /      |   |
+  /  |      |   |
+ |  /      /   / 
+ |  |     /   / 
+  \ \     |  /
+   \ \    |_/ 
+    \_|&00 
+~
+~
+0 -1 -1
+D4
+The tent roof is beyond your jumping reach.
+~
+~
+0 -1 -1
+D5
+You are standing on a fine rug of woven grasses.
+~
+~
+0 -1 -1
+S
+#27167
+A Large Indigo Tent~
+   You are in a large indigo tent that stretches off to the east.  There is a
+door-flap to the south.  Judging by the many runes and odors, this is a mage's
+tent.  This part of the tent is large enough to squeeze a dozen people into it.
+There's a small opening in the top of the tent designed to let smoke out, but
+not let rain or snow in.  There's a small fire burning in the middle of the
+floor and many chests around the perimeter.    
+~
+271 0 0 0 0 3 255 0
+D0
+The tent is covered in &01&21red smokey runes&00.
+~
+~
+0 -1 -1
+D1
+A large &05liquid violet rune&00 dominates the tent wall:
+&05             /\
+            /  \
+           /_  _\
+         /\ /  \ 
+        /  \    \
+       /_  _\   _\
+     /\ /  \    \
+    /  \    \    \
+   /_  _\   _\ ___\
+    /  \    \  |
+   /    \    \_|
+  /_    _\ ___\
+   /    \  |
+  /      \_|
+ /___  ___\
+    |  |
+    |__|&00
+~
+~
+0 -1 -1
+D2
+The smell of smoke is coming from the south.
+~
+flap~
+1 2710 27164
+D3
+The tent stretches off to the west.
+~
+~
+0 -1 27166
+D4
+The tent roof is beyond your jumping reach.
+~
+~
+0 -1 -1
+D5
+You see a fine rug of woven grasses.
+~
+~
+0 -1 -1
+S
+#27168
+A Heavily Trodden Path~
+   The is a heavily trodden path narrows here and stretches north and south.  
+The impassable combination of undergrowth and trees lies to the east of here,
+blocking your way.  It is doubtful that even a berserked troll would be able to
+crash through it.    
+~
+271 4 0 0 0 3 255 0
+D0
+A dark grove lies to the north.
+~
+~
+0 -1 27169
+D1
+You see thick impenetrable brush.
+~
+~
+0 -1 -1
+D2
+The trail continues to the south.
+~
+~
+0 -1 27165
+D3
+You see impassibly thick trees.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here. 
+~
+~
+0 -1 -1
+D5
+You see a heavily trodden path.
+~
+~
+0 -1 -1
+E
+block_dir~
+north
+~
+E
+block_msg_room~
+$N grabs $n, blocking their way and growls something in their ear.
+~
+E
+block_msg_char~
+$N twists your arm around your back and and growls, "Just where do you think you're going!"
+~
+S
+#27169
+A Dark Grove~
+   This dark grove extends off to the north and east.  The thick forest that
+forms this grove is thicker than the other portions of the forest that surround
+this encampment.  The canopy is also unusually thick compared to the rest of
+the forest, blocking out almost all natural light.  The ground is made of solid
+stone here.    
+~
+271 0 0 0 0 3 255 0
+D0
+A dark grove lies to the north.
+~
+~
+0 -1 27171
+D1
+A dark grove lies to the east.
+~
+~
+0 -1 27170
+D2
+A heavily trodden trail travels south from here.
+~
+~
+0 -1 27168
+D3
+You see thick impregnable brush.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here. 
+~
+~
+0 -1 -1
+D5
+You see solid rock.
+~
+~
+0 -1 -1
+S
+#27170
+A Dark Grove~
+   This dark grove extends off to the north and west.  The thick forest that
+forms this grove is thicker than the other portions of the forest that surround
+this encampment.  The canopy is also unusually thick compared to the rest of
+the forest, blocking out almost all natural light.  The ground is made of solid
+stone here.    
+~
+271 0 0 0 0 3 255 0
+D0
+A dark grove
+~
+~
+0 -1 27172
+D1
+You see thick impregnable brush.
+~
+~
+0 -1 -1
+D2
+You see thick impregnable brush.
+~
+~
+0 -1 -1
+D3
+A dark grove lies to the south.
+~
+~
+0 -1 27169
+D4
+The treetops act as a canopy here. 
+~
+~
+0 -1 -1
+D5
+You see solid rock.
+~
+~
+0 -1 -1
+S
+#27171
+A Dark Grove~
+   This dark grove extends off to the south and east.  The thick forest that
+forms this grove is thicker than the other portions of the forest that surround
+this encampment.  The canopy is also unusually thick compared to the rest of
+the forest, blocking out almost all natural light.  The ground is made of solid
+stone here.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see thick impregnable brush.
+~
+~
+0 -1 -1
+D1
+A dark grove lies to the east.
+~
+~
+0 -1 27172
+D2
+A dark grove lies to the south.
+~
+~
+0 -1 27169
+D3
+You see thick impregnable brush.
+~
+~
+0 -1 -1
+D4
+The treetops act as a canopy here. 
+~
+~
+0 -1 -1
+D5
+You see solid rock.
+~
+~
+0 -1 -1
+S
+#27172
+A Dark Grove~
+  This appears to be the nerve center of this camp.  There are several chairs
+and two tables made from dead limbs and branches here.  They are made without
+any sort of fasteners whatsoever.  The branches and sticks are woven, balanced,
+braced against each other to form this sturdy furniture.   
+  This dark grove extends off to the south and west.  The thick forest that
+forms this grove is thicker than the other portions of the forest that surround
+this encampment.  The canopy is also unusually thick compared to the rest of
+the forest, blocking out almost all natural light.  The ground is made of solid
+stone here.
+~
+271 0 0 0 0 3 255 0
+D0
+You see thick impregnable brush.
+~
+~
+0 -1 -1
+D1
+You see thick impregnable brush.
+~
+~
+0 -1 -1
+D2
+A dark grove lies to the south.
+~
+~
+0 -1 27170
+D3
+A dark grove lies to the west.
+~
+~
+0 -1 27171
+D4
+The treetops act as a canopy here. 
+~
+~
+0 -1 -1
+D5
+You see a crack in the solid rock.
+~
+hatch~
+2 27117 27173
+S
+#27173
+A Secret Chamber~
+   This secret chamber is obviously meant to not be found easily.  The secret
+hatch leading out is as thick as a large human male.  It's quite nondescript,
+dark, and cold.  It's solid stone in every direction.    
+~
+271 673 0 0 0 3 255 0
+D0
+You see smooth rock.
+~
+~
+0 -1 -1
+D1
+You see smooth rock. 
+~
+~
+0 -1 -1
+D2
+You see smooth rock. 
+~
+~
+0 -1 -1
+D3
+You see smooth rock. 
+~
+~
+0 -1 -1
+D4
+You see the stone hatch.
+~
+hatch~
+2 27117 27172
+D5
+You see smooth rock.
+~
+~
+0 -1 -1
+S
+#27174
+In a large tree~
+  From this position in the tree it is possible to see, through the many leaves 
+and branches, very far off to the south and west.  The many branches and leaves 
+appear to effectively hide anyone that may be here from eyes on the ground.  Off 
+to the south you see a Lea full of wild game.
+~
+271 1 0 0 0 3 255 0
+D0
+You see treetops.
+~
+~
+0 -1 -1
+D1
+You see treetops.
+~
+~
+0 -1 -1
+D2
+You see a Lea beyond some treetops 
+~
+~
+0 -1 -1
+D3
+You see unending forest. 
+~
+~
+0 -1 -1
+D4
+You see the top of this tree.
+~
+~
+0 -1 -1
+D5
+You see the ground below.
+~
+~
+0 -1 27133
+S
+#27175
+In a large tree~
+  From this position in the tree it is possible to see, through the many leaves 
+and branches, very far off to the south and east.  The many branches and leaves 
+appear to effectively hide anyone that may be here from eyes on the ground.  Off 
+to the south you see a Lea full of wild game and off to the east you see a huge 
+savanna past the edge of this forest.
+~
+271 1 0 0 0 3 255 0
+D0
+You see treetops.
+~
+~
+0 -1 -1
+D1
+You see a huge savanna beyond some treetops.
+~
+~
+0 -1 -1
+D2
+You see a Lea beyond some treetops. 
+~
+~
+0 -1 -1
+D3
+You see unending forest. 
+~
+~
+0 -1 -1
+D4
+You see the top of this tree.
+~
+~
+0 -1 -1
+D5
+You see the ground below.
+~
+~
+0 -1 27135
+S
+#27176
+In a large tree~
+  From this position in the tree it is possible to see, through the many leaves 
+and branches, very far off to the south and west.  The many branches and leaves 
+appear to effectively hide anyone that may be here from eyes on the ground.  Off 
+to the south you see a Lea full of wild game.
+~
+271 1 0 0 0 3 255 0
+D0
+You see treetops.
+~
+~
+0 -1 -1
+D1
+You see treetops. 
+~
+~
+0 -1 -1
+D2
+You see a Lea beyond some treetops. 
+~
+~
+0 -1 -1
+D3
+You see unending forest. 
+~
+~
+0 -1 -1
+D4
+You see the top of this tree.
+~
+~
+0 -1 -1
+D5
+You see the ground below.
+~
+~
+0 -1 27138
+S
+#27177
+In a large tree~
+   From this position in the tree it is possible to see, through the many
+leaves and branches, very far off to the south and east.  The many branches and
+leaves appear to effectively hide anyone that may be here from eyes on the
+ground.  Off to the south you see a Lea full of wild game and off to the east
+you see a huge savanna past the edge of this forest.    
+~
+271 1 0 0 0 3 255 0
+D0
+You see treetops.
+~
+~
+0 -1 -1
+D1
+You see a huge savanna beyond some treetops. 
+~
+~
+0 -1 -1
+D2
+You see a Lea beyond some treetops. 
+~
+~
+0 -1 -1
+D3
+You see unending forest. 
+~
+~
+0 -1 -1
+D4
+You see the top of this tree.
+~
+~
+0 -1 -1
+D5
+You see the ground below.
+~
+~
+0 -1 27142
+S
+#27178
+In a large tree~
+  From this position in the tree it is possible to see, through the many leaves 
+and branches, very far off to the north and west.  The many branches and leaves 
+appear to effectively hide anyone that may be here from eyes on the ground.  Off 
+to the north you see a pine forest.
+~
+271 1 0 0 0 3 255 0
+D0
+You see a pine forest.
+~
+~
+0 -1 -1
+D1
+You see treetops.
+~
+~
+0 -1 -1
+D2
+You see treetops.
+~
+~
+0 -1 -1
+D3
+You see unending forest. 
+~
+~
+0 -1 -1
+D4
+You see the top of this tree.
+~
+~
+0 -1 -1
+D5
+You see the ground below.
+~
+~
+0 -1 27152
+S
+#27179
+In a large tree~
+  From this position in the tree it is possible to see, through the many leaves 
+and branches, very far off to the north and east.  The many branches and leaves 
+appear to effectively hide anyone that may be here from eyes on the ground.  Off 
+to the north you see a pine forest and off to the east you see a huge savanna 
+past the edge of this forest.
+~
+271 1 0 0 0 3 255 0
+D0
+You see a pine forest.
+~
+~
+0 -1 -1
+D1
+You see a huge savanna beyond some treetops.
+~
+~
+0 -1 -1
+D2
+You see treetops.
+~
+~
+0 -1 -1
+D3
+You see unending forest. 
+~
+~
+0 -1 -1
+D4
+You see the top of this tree.
+~
+~
+0 -1 -1
+D5
+You see the ground below.
+~
+~
+0 -1 27156
+S
+#27180
+In a large tree~
+  From this position in the tree it is possible to see, through the many leaves 
+and branches, very far off to the north and west.  The many branches and leaves 
+appear to effectively hide anyone that may be here from eyes on the ground.  Off 
+to the north you see a pine forest.
+~
+271 1 0 0 0 3 255 0
+D0
+You see a pine forest.
+~
+~
+0 -1 -1
+D1
+You see treetops.
+~
+~
+0 -1 -1
+D2
+You see treetops.
+~
+~
+0 -1 -1
+D3
+You see unending forest. 
+~
+~
+0 -1 -1
+D4
+You see the top of this tree.
+~
+~
+0 -1 -1
+D5
+You see the ground below.
+~
+~
+0 -1 27159
+S
+#27181
+In a large tree~
+  From this position in the tree it is possible to see, through the many leaves 
+and branches, very far off to the north and east.  The many branches and leaves 
+appear to effectively hide anyone that may be here from eyes on the ground.  Off 
+to the north you see a pine forest and off to the east you see a huge savanna 
+past the edge of this forest.
+~
+271 1 0 0 0 3 255 0
+D0
+You see a pine forest.
+~
+~
+0 -1 -1
+D1
+You see a huge savanna beyond some treetops. 
+~
+~
+0 -1 -1
+D2
+You see treetops.
+~
+~
+0 -1 -1
+D3
+You see unending forest.
+~
+~
+0 -1 -1
+D4
+You see the top of this tree.
+~
+~
+0 -1 -1
+D5
+You see the ground below.
+~
+~
+0 -1 27161
+S
+#27182
+Resting quarters~
+  You are in a large room that's up in the trees.  The ground below you is made 
+of long woven green blades and is supported underneath by the living branches of 
+the trees.  There are makeshift walls of dried grasses to the south and west.  
+It is quiet up here.  None of the sounds from the camp below are detectable 
+here.
+  This seems to be the sleeping quarters for the camp.  There are many rows of 
+makeshift beds made of feathers and grasses.  Every one seems to be the same, 
+having no personalization.  There doesn't seem to be enough beds here for all 
+the inhabitants of the camp to have their own.  
+~
+271 393249 0 0 0 3 255 0
+D0
+The resting quarters extend off to the north.
+~
+~
+0 -1 27185
+D1
+The resting quarters extend off to the east.
+~
+~
+0 -1 27183
+D2
+You see a wall made of dried grasses thatched together.
+~
+~
+0 -1 -1
+D3
+You see a wall made of dried grasses thatched together. 
+~
+~
+0 -1 -1
+D4
+You see the thatched grass roof.
+~
+~
+0 -1 -1
+D5
+You see an exit from this restful place.
+~
+~
+0 -1 27146
+S
+#27183
+Resting quarters~
+  You are in a large room that's up in the trees.  The ground below you is made 
+of long woven green blades and is supported underneath by the living branches of 
+the trees.  There is a makeshift wall of dried grasses to the south.  It is 
+quiet up here.  None of the sounds from the camp below are detectable here.
+  This seems to be the sleeping quarters for the camp.  There are many rows of 
+makeshift beds made of feathers and grasses.  Every one seems to be the same, 
+having no personalization.  There doesn't seem to be enough beds here for all 
+the inhabitants of the camp to have their own.  
+~
+271 393249 0 0 0 3 255 0
+D0
+The resting quarters extend off to the north.
+~
+~
+0 -1 27186
+D1
+The resting quarters extend off to the east.
+~
+~
+0 -1 27184
+D2
+You see a wall made of dried grasses thatched together.
+~
+~
+0 -1 -1
+D3
+You see a wall made of dried grasses thatched together. 
+~
+~
+0 -1 27182
+D4
+You see the thatched grass roof.
+~
+~
+0 -1 -1
+D5
+You see an exit from this restful place.
+~
+~
+0 -1 27147
+S
+#27184
+Resting quarters~
+  You are in a large room that's up in the trees.  The ground below you is made 
+of long woven green blades and is supported underneath by the living branches of 
+the trees.  There are makeshift walls of dried grasses to the south and east.  
+It is quiet up here.  None of the sounds from the camp below are detectable 
+here.
+  This seems to be the sleeping quarters for the camp.  There are many rows of 
+makeshift beds made of feathers and grasses.  Every one seems to be the same, 
+having no personalization.  There doesn't seem to be enough beds here for all 
+the inhabitants of the camp to have their own.  
+~
+271 393249 0 0 0 3 255 0
+D0
+The resting quarters extend off to the north.
+~
+~
+0 -1 27187
+D1
+You see a wall made of dried grasses thatched together.
+~
+~
+0 -1 -1
+D2
+You see a wall made of dried grasses thatched together.
+~
+~
+0 -1 -1
+D3
+The resting quarters extend off to the west.
+~
+~
+0 -1 27183
+D4
+You see the thatched grass roof.
+~
+~
+0 -1 -1
+D5
+You see an exit from this restful place.
+~
+~
+0 -1 27148
+S
+#27185
+Resting quarters~
+  You are in a large room that's up in the trees.  The ground below you is made 
+of long woven green blades and is supported underneath by the living branches of 
+the trees.  There are makeshift walls of dried grasses to the north and west.  
+It is quiet up here.  None of the sounds from the camp below are detectable 
+here.
+  This seems to be the sleeping quarters for the camp.  There are many rows of 
+makeshift beds made of feathers and grasses.  Every one seems to be the same, 
+having no personalization.  There doesn't seem to be enough beds here for all 
+the inhabitants of the camp to have their own.  
+~
+271 393249 0 0 0 3 255 0
+D0
+You see a wall made of dried grasses thatched together.
+~
+~
+0 -1 -1
+D1
+The resting quarters extend off to the east.
+~
+~
+0 -1 27186
+D2
+The resting quarters extend off to the east. 
+~
+~
+0 -1 27182
+D3
+You see a wall made of dried grasses thatched together.
+~
+~
+0 -1 -1
+D4
+You see the thatched grass roof.
+~
+~
+0 -1 -1
+D5
+You see an exit from this restful place.
+~
+~
+0 -1 27153
+S
+#27186
+Resting quarters~
+  You are in a large room that's up in the trees.  The ground below you is made 
+of long woven green blades and is supported underneath by the living branches of 
+the trees.  There is a makeshift wall of dried grasses to the north.  It is 
+quiet up here.  None of the sounds from the camp below are detectable here.
+  This seems to be the sleeping quarters for the camp.  There are many rows of 
+makeshift beds made of feathers and grasses.  Every one seems to be the same, 
+having no personalization.  There doesn't seem to be enough beds here for all 
+the inhabitants of the camp to have their own.  
+~
+271 393249 0 0 0 3 255 0
+D0
+You see a wall made of dried grasses thatched together. 
+~
+~
+0 -1 -1
+D1
+The resting quarters extend off to the east.
+~
+~
+0 -1 27187
+D2
+The resting quarters extend off to the south.
+~
+~
+0 -1 27183
+D3
+The resting quarters extend off to the west.
+~
+~
+0 -1 27185
+D4
+You see the thatched grass roof.
+~
+~
+0 -1 -1
+D5
+You see an exit from this restful place.
+~
+~
+0 -1 27154
+S
+#27187
+Resting quarters~
+  You are in a large room that's up in the trees.  The ground below you is made 
+of long woven green blades and is supported underneath by the living branches of 
+the trees.  There are makeshift walls of dried grasses to the north and east.  
+It is quiet up here.  None of the sounds from the camp below are detectable 
+here.
+  This seems to be the sleeping quarters for the camp.  There are many rows of 
+makeshift beds made of feathers and grasses.  Every one seems to be the same, 
+having no personalization.  There doesn't seem to be enough beds here for all 
+the inhabitants of the camp to have their own.  
+~
+271 393249 0 0 0 3 255 0
+D0
+You see a wall made of dried grasses thatched together. 
+~
+~
+0 -1 -1
+D1
+You see a wall made of dried grasses thatched together. 
+~
+~
+0 -1 -1
+D2
+The resting quarters extend off to the south. 
+~
+~
+0 -1 27184
+D3
+The resting quarters extend off to the west.
+~
+~
+0 -1 27186
+D4
+You see the thatched grass roof.
+~
+~
+0 -1 -1
+D5
+You see an exit from this restful place.
+~
+~
+0 -1 27148
+S
+#27188
+In the Hut~
+   You are inside a hut made of dead undergrowth and tree branches.  The walls
+of the hut are thick as an ox and covered with many animal pelts.  You realize
+that you don't hear any outside noises within the hut.  There is a small stone
+forge in the center of the room, with an ingenious vent that nearly eliminates
+the release of smoke.    
+~
+271 0 0 0 0 3 255 0
+D0
+You see the pelt-covered wall.
+~
+~
+0 -1 -1
+D1
+You see the pelt-covered wall.
+~
+~
+0 -1 -1
+D2
+You see the pelt-covered wall.
+~
+~
+0 -1 -1
+D3
+You see a thick pelt door.
+~
+pelt~
+1 -1 27150
+D4
+You see the vent exit up through the pelt-covered ceiling.
+~
+~
+0 -1 -1
+D5
+You see dirt.
+~
+~
+0 -1 -1
+S
+#27198
+A Mobchute~
+You are in an unfinished room.
+This is the mobchute for the wizen old man.  He is a questmaster.
+This place links to olympous galoe camelot twixt Mahn-tor and usurpers.
+If you are a mortal you should leave this room immediately.
+~
+271 4194833 0 0 0 3 255 0
+D0
+~
+~
+0 0 13805
+D1
+~
+~
+0 0 18529
+D2
+~
+~
+0 0 23441
+D3
+~
+~
+0 0 8444
+D4
+~
+~
+0 0 2367
+D5
+~
+~
+0 0 24712
+E
+extra exits~
+kenku or garamond
+~
+S
+#27199
+Scorched Wastelands~
+   Burnt darkness.  Ashen blackness surrounds the landscape.  Burnt skeletons
+of huge trees lie flattened into the waste faceing south by east.  Grey clouds
+of ash and smoke fly through the black sky with suprising speed.    
+~
+271 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 27199
+D1
+~
+~
+0 0 27199
+D2
+~
+~
+0 0 27199
+D3
+~
+~
+0 0 27199
+S
+$~

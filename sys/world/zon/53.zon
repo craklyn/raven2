@@ -1,0 +1,84 @@
+#53
+The Enfans~
+5399 45 2 0
+*
+D 0 5304 0 2    * Close and lock
+D 0 5352 2 2    * fireplace
+D 0 5312 3 2 
+D 0 5316 1 2    * Close all the sewer
+D 0 5356 1 2    * doors!
+D 0 5353 3 2 
+D 0 5355 4 1 
+D 0 5334 1 1 
+D 0 5332 1 1    * Close doors of sanctum
+D 0 5333 3 1 
+*
+M 0 5307 1 5352   * Guard dog in fireplace
+E 1 5308 40 3       * give him the ring!
+G 1 5312 50         * give him an opal potion
+M 0 5312 1 5311   * Gargoyle
+G 1 5302 5         * give gargoyle the key to the sewers
+M 0 5308 2 5354   * Rats
+M 0 5308 2 5357 
+M 0 5311 3 5331   * aggressive Yellow enfan in foyer
+G 1 5311 5         * give him the key for the cases!
+E 1 5314 20 19     * wields runed dagger
+O 0 5310 3 5324 
+P 1 5306 100 5310  * tunic in armory
+O 0 5310 3 5330 
+P 1 3022 -1 5310   * long swords
+O 0 5310 3 5337 
+P 1 5309 40 5310   * bracelet in case in jewellery
+*
+M 0 5309 4 5345   * agg green
+M 0 5309 4 5345   * agg green
+M 0 5310 2 5345   * agg purple
+M 0 5311 3 5345   * agg yellow
+G 1 5301 5        * give this guy the key to the fireplace
+*
+M 0 5301 10 5312 
+M 0 5301 10 5316 
+M 0 5301 10 5319 
+M 0 5301 10 5325        * blue enfans
+M 0 5301 10 5338 
+M 0 5301 10 5338 
+M 0 5301 10 5349 
+M 0 5301 10 5351 
+*
+M 0 5302 10 5314 
+M 0 5302 10 5314 
+M 0 5302 10 5327 
+M 0 5302 10 5332       * grey enfans
+M 0 5302 10 5339 
+M 0 5302 10 5342 
+M 0 5302 10 5347 
+M 0 5302 10 5346 
+*
+M 0 5309 4 5333  * agg green
+M 0 5309 4 5333  * agg green
+M 0 5310 2 5333  * agg purple
+M 0 5311 3 5333  * agg yellow
+M 0 5306 1 5333  * the black man!
+*E 1 3056 15 17     * wand of fireballs 
+E 1 5303 30 18      * boots
+E 1 5305 30 14      * shield
+E 1 5304 15 19      * claymore
+*
+M 0 5303 5 5310 
+M 0 5303 5 5330 
+M 0 5303 5 5340    * green enfans
+M 0 5303 5 5350 
+M 0 5303 5 5359 
+*
+M 0 5304 4 5323 
+M 0 5304 4 5322    * purple
+M 0 5304 4 5341 
+M 0 5304 4 5348 
+*
+M 0 5305 3 5332    * yellows
+M 0 5305 3 5343 
+M 0 5305 3 5347 
+*
+S
+#99999
+$~

@@ -1,0 +1,21 @@
+b butcher $*
+tit2 title &00  &04T&10h&08e&00 &07Dark&00  Ranger
+latin say igne natura renovatur integra
+swarm c 'swarm' $*
+g gs &13+&00 &07$*&00  &13+&00
+o order follower $*
+ref c 'refresh' $*
+ent c 'entangle' $*
+gs groupsay $*
+3 gr
+f clan &00$* &00
+ff c 'fleet foot' $*
+test  &07//&01/&00
+br cast 'briar
+lore c 'forest lore'
+call c 'call of the wild'
+shield c 'shield' $*
+sense c 'sense life'
+rpo c 'remove poison' $*
+tit title &11 T&10h&01e &07Dark&00  Ranger&14
+arr c 'fletch'

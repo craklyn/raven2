@@ -1,0 +1,43 @@
+1 assist
+oo c 'shrief' $*
+pp c 'color' $*
+a assist
+p order bar kill waymera
+i c 'mag mis' 2.head n
+cp c 'color spray' $1
+awaken cast 'awaken' $*
+charm cast 'charm person' $*
+id cast 'identify' $*
+life cast 'life drain' $*
+shield cast 'shield' $*
+gate cast 'gate'
+blink cast 'blink'
+monster cast 'monster summon'
+silence cast 'silence' $*
+cw clanwho
+flame c 'fl bl' $*
+port c 'portal' $*
+conj c 'c e'
+ts c 'true sight' $*
+fly c 'fly' $*
+infra c 'infra'
+str c 'str' $*
+mm c 'm m' $*
+sum c 'sum' $*
+invis c 'invis' $*
+bl c 'blin' $*
+wa wake;stand
+gt gt &14$* &00
+where who -z
+si c 'sil' $*
+stone c 'stone' $*
+ice c 'i s' $*
+iden c 'ide' $*
+slow c 'slow' $*
+fire c 'fireball' $*
+haste cast 'haste' $*
+air cast 'air' $*
+blind cast 'blind' $*
+spelld cast 'awaken' $*
+nexus cast 'nexus' $*
+fb cast 'flame blade' $*

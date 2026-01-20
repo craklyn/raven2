@@ -1,0 +1,448 @@
+#33100
+D M 6~
+rabbit white quest 33100~
+the white rabbit~
+A white rabbit hops around frenziedly.
+~
+The rabbit is, for some reason, wearing a waistcoat and a watch on a
+fob chain.
+~
+10 0 0 0 1049772 0 0 0 0
+51 -10 -20 50d300+2000 20d20+90
+90 100
+9 9 0 0 -1 -1
+Z 33100
+#33101
+H T 0~
+flotsam sam 33101~
+Flotsam Sam~
+Sam stands here ready to offer you a bargain.
+~
+Flotsam Sam is an old sea dog who has retired from sailing and set up shop
+here in Abenos.  He was once a tall, well built human, but now he is bent
+with age and wrinkled from exposure to the sun.  He remains cheerful, with
+a smile wrapped around a lit pipe.
+~
+16394 0 0 0 0 0 0 0 200
+30 -15 -5 1d1+24000 10d10+100
+50 60
+9 9 1 0 0 -1
+#33102
+H R 0~
+waitress 33102~
+a waitress~
+A waitress hurries past you.
+~
+The waitress is a young female human, wearing a long black cotton dress
+gathered about her waist by a short apron.  Her long dark hair is tyed back
+from her face, but in her hurry several strands of hair manage to creep
+forward.
+~
+16394 0 0 0 0 0 0 0 0
+30 5 -7 5d100+3000 5d9+5
+50 60
+9 9 2 0 -1 -1
+#33103
+H W 0~
+harcastle captain 33103~
+Captain Harcastle~
+Captain Harcastle searches roughly for some lost item.
+~
+Captain Harcastle is an old salt.  Having spent years as a sailor, working
+his way up from cabin boy to owning his own vessel, he feels more at home
+on a ship's deck than on land.  Thus, having become too old to be on a ship,
+he is perpetually irritated.  His one relief is the pipe he is never far
+from, that and shouting at customers.
+~
+49162 0 0 0 -2147483648 0 0 0 -400
+40 -5 -8 2d300+9000 6d10+20
+65 75
+9 9 1 0 -1 -1
+#33104
+H R 0~
+waiter 33104~
+the waiter~
+A waiter stands ready to take your order.
+~
+The waiter is dressed in typical sailor's garb of white cotton pants and a
+loose fitting white shirt.  He marks himself from the patrons by wearing an
+apron about his waist with the Dancing Pig stitched onto it.  Various gravy
+and ale stains on the shirt and apron suggest his outfit needs a wash.
+~
+16394 0 0 0 0 0 0 0 0
+35 -5 -9 3d150+6000 5d8+15
+50 60
+9 9 1 0 -1 -1
+#33105
+H W 0~
+skipper 33105~
+the Skipper~
+The Skipper stands here with a clipboard in one hand.
+~
+The Skipper is the only soul in Abenos who isn't hated by Captain Harcastle.
+They sailed together on many a voyage, and when the time came for the
+Captain to retire, the Skipper decided he'd had enough of the ocean life.
+They run a small business here in Abenos supplying the ships who come in
+needing repairs and general supplies.
+~
+16394 0 0 0 0 0 0 0 100
+38 -10 -9 3d120+7000 8d6+15
+50 60
+9 9 1 0 -1 -1
+#33106
+H R 0~
+bithul grocer 33106~
+Bithul~
+Bithul the Grocer stands behind the counter.
+~
+Bithul is a short man in his late forties, with graying hair and a ready
+smile.  He is fairly rotund, and wears a faded green apron atop a pair of
+breeches and a plain cotton shirt.  There are patches of flour on his
+apron and face, and his counter is stained with a variety of spillages.
+~
+49162 0 0 0 0 0 0 0 250
+36 0 -6 4d100+6500 5d7+12
+50 60
+9 9 1 0 -1 -1
+#33107
+H R 0~
+tyzede butcher 33107~
+Tyzede~
+Tyzede the butcher turns to you with a smile.
+~
+Tyzede is a average height male human.  His age is hard to pick, as he has
+smooth features yet touches of grey in his hair.  He is dressed in simple
+cotton pantaloons and an aging shirt, with a blue and white striped apron
+covering his chest and thighs.  There are several bloodstains on his apron
+that appear fresh, and a few that appear a little less fresh.
+~
+147466 0 0 0 0 0 0 0 0
+35 -2 -9 3d200+8000 6d8+15
+50 60
+9 9 1 0 -1 -1
+#33109
+H M 0~
+sobacci glassblower 33109~
+Sobacci~
+Sobacci the glassblower looks up as you enter.
+~
+Sobacci is a young woman, in her early to mid twenties.  She has light brown
+hair down to just past her shoulders, braided behind her head.  Her eyes are
+a deep green, and are accentuated by a pair of glasses.  She is wearing a
+simple ankle length cotton dress, gathered about the waist to give the
+appearance of a long skirt.
+~
+16394 0 0 0 0 0 0 0 190
+28 2 -3 3d100+4500 5d4+8
+40 40
+9 9 2 0 -1 -1
+#33110
+B M 0~
+agnos gnome 33110~
+Agnos~
+Agnos the Gnome is here, mixing a potion.
+~
+Agnos is a short male gnome, with darkened skin and a receeded hair line
+from recent potion making accidents.  He is dressed in discoloured red
+trousers and a once bright blue shirt, both with a few slight holes and
+frayed edges.
+~
+16394 0 0 0 0 0 0 0 0
+35 -3 -4 3d200+6000 5d6+8
+50 60
+9 9 1 0 -1 -1
+Z 33104
+#33111
+E M 0~
+zepheba clockmaker 33111~
+Zepheba~
+Zepheba the Clockmaker is here.
+~
+Zepheba is an elven refugee from the Everwar battles.  He abandoned his
+forest during a series of ogre raids, and took up residence here, in the
+only human city not plagued by violence.  He remains true to his elven
+heritage by being a master at his craft, being well known as the finest
+clockmaker in the land.  He is dressed neatly in matching trousers and a
+waistcoat, with a fine laced silk shirt setting off the outfit.  A golden
+watch on a chain sits in his pocket just beneath his lapels.
+~
+16394 0 0 0 1032 0 0 0 800
+40 0 -4 4d200+6000 5d7+5
+65 75
+9 9 1 0 -1 -1
+#33112
+H C 0~
+lileki 33112~
+Lileki~
+Lileki stands here, tending to her shop.
+~
+Lileki is a cheerful woman in her late thirties.  She has tended the gift
+shop in Abenos for over twenty years now, and still enjoys seeing new faces
+come in with stories from foreign parts.  She wears the standard Abenos
+clothing, a light cotton dress gathered at the waist.  Around her shoulders,
+a light woolen scarf keeps her warm against the sea breeze that blows in
+from the docks.
+~
+16394 0 0 0 0 0 0 0 190
+34 2 -2 3d200+5000 5d4+8
+50 60
+9 9 2 0 -1 -1
+#33113
+H M 0~
+ishexido mage 33113~
+Ishexido~
+Ishexido the Mage exudes a sense of power.
+~
+Ishexido was born in Abenos many years ago, but a wandering mage noticed a
+talent in him at a very early age.  He was sent off to the High Tower of
+Sorcery in Wayreth to learn the secret arts, and though he never rose high
+he maintains a pride in his guild.  As an accomplished mage, he returned to
+Abenos to distribute magical items to his townsfolk.  He also serves as an
+advisor to the castle on the council of mages when needed, as he is the only
+local mage.  He wears a rich red robe, with a deep hood covering his face
+with shadows.
+~
+16394 0 0 0 4326440 0 0 0 0
+42 5 -3 5d100+4500 6d5+10
+65 75
+9 9 1 12 21 -1
+#33114
+H T 0~
+vinzule vendor 33114~
+Vinzule~
+Vinzule the hot food vendor displays his wares.
+~
+Vinzule is a male human of indeterminate age.  His skin is browned and
+wrinkled from hours spent in the sun while plying his trade, and his clothes
+are faded, though clean.  He displays his food on a small white cart, with
+a few hot coals in a metal tray on one side to keep the warm food warm.  The
+smell of sausage hangs heavily in the air around him.
+~
+16394 0 0 0 0 0 0 0 0
+38 -5 -6 3d100+6500 5d6+8
+50 60
+9 9 1 0 -1 -1
+#33115
+H R 0~
+hysatu cobbler 33115~
+Hysatu~
+Hysatu is standing behind his counter.
+~
+Hysatu is the town's cobbler, and takes great pride in his important work.
+His leather apron is carefully maintained, and although it is scarred from
+his work, no hole larger than a finger's width remains unpatched.  Beneath
+his apron he wears a pair of cotton pants, and a loose fitting cotton shirt.
+~
+10 0 0 0 0 0 0 0 150
+39 -15 -7 50d400+500 6d6+30
+50 60
+9 9 1 0 -1 -1
+#33116
+H R 0~
+alutoh seamstress matron 33116~
+Alutoh~
+A plump matron with graying hair studies your clothing critically.
+~
+Alutoh, the Abenos seamstress, is an aging woman.  She stands straight and
+proud, with her graying hair tied back in a severe bun light grey eyes
+look out of a lightly lined face that suggests she was once very beautiful.
+~
+10 0 0 0 536870912 0 0 0 400
+43 -10 -15 1d1+15000 6d6+20
+65 75
+9 9 2 0 -1 -1
+#33117
+H R 0~
+citizen abenos 33117~
+the citizen~
+A local citizen moves about his business.
+~
+The citizen is a male human, a bit under 6ft tall.  He is dressed in 
+the traditional Abenos breeches and cotton shirt, and wears a
+comfortable looking pair of soft leather shoes.
+~
+548940 0 0 0 1048576 0 0 0 0
+35 5 -5 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#33118
+H R 0~
+citizen abenos 33118~
+the citizen~
+A local citizen goes about her business.
+~
+You see a female human, around 5'7".  She is wearing a plain cotton
+dress, with a light woolen cardigan over the top.  On her head sits a
+wide brimmed straw hat, designed to provide plenty of shade from the
+strong sun.
+~
+548940 0 0 0 1048576 0 0 0 0
+35 5 -5 1d1+1550 8d9+12
+50 60
+9 9 2 0 -1 -1
+#33119
+H S 0~
+patrolman abenos 33119~
+the patrolman~
+A patrolman watches for trouble.
+~
+The patrolman stands tall and proud as he serves his town.  He is
+unarmed, but all Abenos patrolmen are trained in hand to hand combat,
+and are blessed for the duration of their watch by magics laid down
+by the last Lord of Abenos.
+~
+30728 0 0 0 1049608 0 0 0 150
+35 5 -7 1d1+1650 8d9+14
+50 60
+9 9 0 0 -1 -1
+#33120
+H W 0~
+trader sailor 33120~
+the trader~
+A trader fresh off his ship is here.
+~
+You see a man dressed in rough cotton pants and a coarse woolen
+sleeveless shirt.  He walks with the rolling gait of someone more used
+to the deck of a ship than a cobblestone road, and has the rough look
+of an experienced sailor.
+~
+552972 0 0 0 1048576 0 0 0 0
+35 5 -6 1d1+1650 8d9+13
+50 60
+9 9 1 0 -1 -1
+#33121
+H T 0~
+merchant 33121~
+the merchant~
+A merchant in rich silk robes walks past you.
+~
+The merchant appears not to notice the crowd around him as he heads
+purposefully but unhurriedly towards his destination.  His robes of
+silk hang gracefully across his slightly heavyset bulk, and various
+items of jewelry about his person are positioned to display his
+wealth.
+~
+24716 0 0 0 536870912 0 0 0 -100
+33 6 -3 1d1+1450 8d8+12
+50 60
+9 9 1 0 -1 -1
+#33122
+H R 0~
+waitress 33122~
+a waitress~
+A waitress hurries past you.
+~
+The waitress is a young female human, wearing a long black cotton dress
+gathered about her waist by a short apron.  Her long dark hair is tyed back
+from her face, but in her hurry several strands of hair manage to creep
+forward.
+~
+16394 0 0 0 0 0 0 0 0
+30 5 -7 5d100+3000 5d9+5
+50 60
+9 9 2 0 -1 -1
+#33123
+H K 0~
+dockmaster 33123~
+the dockmaster~
+The Dockmaster of Abenos stands here.
+~
+The Dockmaster is an impressive figure.  He stands nearly seven feet tall,
+with muscles stretching his clothing across the shoulders and chest.  His
+forehead is creased from frequent frowns while concentrating, and his hands
+are uncalloused from more work with quills than ropes.
+~
+75802 0 0 0 538117160 0 0 0 400
+45 -15 -9 1d1+7000 9d10+10
+65 75
+9 9 1 0 -1 -1
+#33124
+H C 0~
+planner choranai 33124~
+Choranai~
+The town planner is resting here.
+~
+The town planner is a short, slender woman with dark hair and dark eyes.  She
+wears a knee length dress of black cotton, gathered about the waist with a
+silk sash.  A pair of soft leather boots reach nearly to the end of her
+dress, and a finely woven black jacket sits on her shoulders.
+~
+8202 0 0 0 0 32 0 0 100
+35 5 -2 1d1+2200 5d5+9
+50 60
+7 7 2 0 -1 -1
+#33125
+H S 0~
+guard watch 33125~
+the guard~
+A guard stands on watch.
+~
+The guard appears to take his duty seriously.  His uniform is clean and neat,
+and his face is clean shaven.  As with all Abenos guards he is unarmed, but
+the muscles on his forearms stand out like whipcords, and he gives an aura
+of readiness.
+~
+524314 0 0 0 536871944 0 0 0 150
+35 -15 -5 1d1+1850 8d9+14
+50 60
+9 9 1 0 -1 -1
+#33126
+H S 0~
+offduty guard 33126~
+the guard~
+An off duty guard relaxes here.
+~
+The guard is taking a well earned break from his duties.  Despite not being
+on duty, while wearing the uniform he represents Abenos, and so is clean and
+polite.
+~
+10250 0 0 0 0 0 0 0 150
+35 -10 -6 1d1+1650 8d7+14
+50 60
+9 9 1 0 -1 -1
+#33127
+H C 0~
+receptionist abenos 33127~
+the receptionist~
+A receptionist sits behind her desk.
+~
+The receptionist is a trim lady, wearing a plain gray dress and a pair of
+stylish spectacles.  Her hair is tucked back in a bun, and she appears
+uninterested in what you are doing.
+~
+24586 0 0 0 1064 0 0 0 120
+35 5 -2 1d1+1550 5d5+9
+50 60
+7 7 2 0 -1 -1
+#33180
+E C 0~
+elf christmas m33180~
+the christmas elf~
+A christmas elf rushes around you.
+~
+Elves, as a race, are generally quite beautiful.  And, as with all rules,
+there are exceptions.  This elf is one of them.  He stands four feet tall,
+with a nose perfectly in proportion to a six feet tall body.  His face, far
+from being flawlessly elegant, could best be described as 'homely.'  But
+set above the oversized nose, in the middle of the plain face, are two of
+the merriest eyes that ever graced a face, and in the shadow of his nose,
+his lips are curved up into a wide and friendly smile.
+~
+49288 0 0 0 229376 0 0 0 1000
+35 5 -2 10d10+900 3d5+10
+50 60
+9 9 1 0 -1 -1
+Z 29832
+#33190
+H M 0~
+claus santa~
+Mrs. Claus~
+Mrs. Claus stands here fretting.
+~
+You see the very worried matriarch of Christmas. 
+~
+134217736 0 0 0 1064 0 0 0 0
+51 -30 10 1d1+25000 50d50+25
+90 100
+9 9 2 0 -1 -1
+$

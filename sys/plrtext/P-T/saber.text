@@ -1,0 +1,39 @@
+regen c 'regen' $*
+armor c 'armor' $*
+call c 'call steed'
+um unmount
+cc c 'cure critic' $*
+r retarget $*
+crus c 'crusade' $*
+cb cast 'cure blind' $*
+rpo c 'remove poison'$*
+rpa c 'remove paralysis'$*
+rt toss revive
+rv cast 'righteous vision'
+tr cast 'tremor'
+f clan &14+&00 &00&03$* &00 &14+&00
+hw c 'holy word'
+dm c 'divine mission'
+ha c 'holy armor'
+cl c 'cure light'
+g gs &03$* &00
+pfe c 'protection from evil'
+di c 'detect invis' $*
+da c 'detect align' $*
+b bash $*
+3 gr
+dv c 'divine mission'
+water c 'create water' $*
+cp c 'cure plague' $*
+' say &03$* &00
+1 ass
+p cast 'prayer' $*
+rc cast 'remove curse' $*
+4 disarm
+9 get all.key all.corpse
+dis dismount
+ms mount steed
+tit title &11*&00&10*&00&08*&00 &07Heavy&00 &03Cavalry&00
+m mount wyvern
+0 get mid corp
+ban c 'banish' $*

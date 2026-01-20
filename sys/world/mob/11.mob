@@ -1,0 +1,171 @@
+#1101
+H W 0~
+boy teenaged m1101~
+a teenaged boy~
+A teenaged boy ignores you like he does all the other adults.
+~
+You see before you the stereo-typical teenaged boy.  He probably has nothing
+more in mind than to see how much work he can avoid.
+~
+8396 0 0 0 262144 0 0 0 -250
+8 4 0 1d1+125 1d3+3
+35 40
+9 9 1 0 -1 -1
+#1102
+H W 0~
+girl teenaged m1102~
+a teenaged girl~
+A teenaged girl walks along here giggling about who-only-knows what.
+~
+You see before you a teenaged girl who isn't about the share the joke.  So,
+give up trying to figure out what's so funny.
+~
+8396 0 0 0 1024 0 0 0 -250
+8 4 0 1d1+125 1d3+3
+35 40
+9 9 2 0 -1 -1
+#1103
+H W 0~
+wife thief m1103~
+a thief's wife~
+A thief's wife wonders why you are here.
+~
+She is looking at you also and you can tell by the look on her face as she
+scrutinizes you, she trying to decide whether or not to end your life.
+~
+8268 0 0 0 262144 0 0 0 -500
+10 2 -1 1d1+150 1d4+4
+35 40
+9 9 2 0 -1 -1
+#1104
+H T 0~
+thief m1104~
+a thief~
+A thief is trying to decide if you belong here.
+~
+He is dressed just like you would expect him to be.  He's looking at you trying
+to figure out if you are a apart of the band or not.
+~
+8286 0 0 0 263208 0 0 0 -750
+50 0 -2 1d1+175 1d5+5
+80 90
+9 9 1 0 -1 -1
+#1105
+H T 0~
+thief m1105~
+a thief~
+A thief is here wondering if he knows you.
+~
+This thief is dressed in the normal leather outfit of most thieves.  By the
+puzzled look on his face, you see he's not sure if he knows you or not.
+~
+8284 0 0 0 262144 0 0 0 -750
+16 -2 -3 1d1+200 1d6+6
+35 40
+9 9 1 0 -1 -1
+#1106
+H T 0~
+thief m1106~
+a thief~
+A thief looks at you suspiciously.
+~
+The thief is suspicious of your presence here.  His catlike shifting of
+muscles, lets you know he's ready for trouble.
+~
+8284 0 0 0 262144 0 0 0 -750
+18 -4 -4 1d1+225 1d7+7
+35 40
+9 9 1 0 -1 -1
+#1107
+H T 0~
+thief~
+a thief~
+A thief watches you for an opening to attack.
+~
+This man isn't fooled at all.  He knows you don't belong here and at the first
+opportunity, he WILL cut our throat.
+~
+8284 0 0 0 262144 0 0 0 -750
+20 -6 -5 1d1+250 1d8+8
+40 40
+9 9 1 0 -1 -1
+#1108
+H T 0~
+thief leader m1108 Lethal Grace~
+the leader of the thieves~
+The leader of the thieves looks at you with open contempt.
+~
+   Lethal Grace.  Those words describe this man so well, he took it as his name
+in his teenage years.  Since then, he quickly climbed the ranks of the thief
+hierarchy and cleared the ranks when climbing proved too troublesome.    
+   His movements are so fluid he almost appears not to move.
+~
+8284 0 0 0 262144 0 0 0 -1000
+25 -10 -6 1d1+500 2d6+9
+40 40
+9 9 1 0 -1 -1
+#1109
+H T 0~
+thief m1109~
+a thief~
+A thief is trying to decide if you belong here.
+~
+He is dressed just like you would expect him to be.  He's looking at you trying
+to figure out if you are a part of the band or not.
+~
+8284 0 0 0 262144 0 0 0 -750
+14 0 -2 1d1+175 1d5+5
+35 40
+9 9 1 0 -1 -1
+#1110
+G D 0~
+Headless Norseman~
+the Headless Norseman~
+A massive undead figure stands before you, draped in furs and wielding a mighty axe.
+~
+This decaying, giant viking is missing his head.....and he want's YOURS!!!
+~
+8200 0 0 0 22249684 188448 0 0 -1000
+51 5 -20 1d1+1000 6d6+50
+90 100
+9 9 1 3 15 16
+#1111
+H T 0~
+big wimp~
+a big wimp~
+A big wimp is here, looking all wimpy.
+~
+a big wimp
+~
+147514 0 0 0 164076 0 0 0 -1000
+51 -30 10 1d1+1 100d100+100
+90 100
+6 6 0 0 -1 -1
+#1112
+V D 0~
+vampire bunny~
+a &08Vampire&00 Bunny~
+A small, furry, lovable, neck biter hops about the room.
+~
+Oooooooohhhhh....look at the fuzzy bunny!
+
+*bite* OUCH!
+~
+24616 0 0 0 1540136 17440 0 0 -1000
+50 -30 -20 1d1+2000 2d2+4
+80 90
+9 9 0 20 20 20
+Z 29832
+#1113
+Z K 0~
+izarti kitty 1113~
+the Solamnic Kitty~
+the Solamnic Kitty
+~
+Meow.
+~
+24600 0 0 0 542310460 3168 0 0 1000
+50 0 -20 1d1+30000 5d5+10
+80 90
+9 9 1 8 4 16
+$

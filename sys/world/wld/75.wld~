@@ -1,0 +1,358 @@
+#7500
+Typical Boring Imm Info Room~
+The Haunted Mansion
+Low to Mud lvl area (15-30ish)
+Not sure how many rooms as I've not yet taken
+pen to graph-paper.
+
+This are done by the one and only Tarin of Ravenmud Fame.
+Started June 1998
+Finished (Yeah Right)
+~
+75 2097396 0 0 0 0 255 0
+S
+#7501
+Long Winding Path~
+You stand at the bottom of a lonely hill outside of town.  The path before you
+winds upward to a house upon a hill.  A house once owned by a wealthy
+alchemist, now stands alone, ruined, and if you can believe from what you've
+heard in the taverns, haunted.  As you peer upward a light seems to shine from
+one of the windows and out toward the sea on which the house stands beside.  
+You notice that the house is backed up against a sheer cliff that you hadn't
+noticed till you saw the light in the window.  A fog has begun to drift in off
+the sea making the path hard to make out.  You're not sure which way the trail
+lead from here but you assume up is as good as anything.    
+~
+75 4194305 0 0 0 4 255 0
+D4
+~
+~
+0 0 7502
+S
+#7502
+Winding Path~
+You stand about halfway up the hill to the house.  At this close range you can
+begin to make out broken windows, a neglected front porch and what appears to
+be roosting bats on all the overhanding cornices.  The house itself stands 3
+stories high with many windows fronting it and you're sure all the sides as
+well.  Many have been boarded up to the point where looking through them would
+be pointless and those with some semblence of glass still intact are so dirty
+from the inside that you couldn't look in anyway.  A fog seems to swirl around
+the hill here making the trail difficult to make out.    
+~
+75 4194305 0 0 0 4 255 0
+D4
+~
+~
+0 0 7503
+D5
+~
+~
+0 0 7501
+S
+#7503
+On the Front Porch~
+You stand on the front porch of this once glorious mansion.  The only entrance
+you been able to find so far is an old oaken door which leads into the house.
+You look for side entrances but vines and thorns seem to block all ways around
+the house on both sides.  A strange fog appears to have settled over the house
+as you got to the top of the trail.    
+~
+75 4194305 0 0 0 1 255 0
+D0
+You see an old oak door.
+~
+oak door~
+1 0 7504
+D5
+~
+~
+0 0 7502
+S
+#7504
+Entrance Foyer~
+You stand within the entrance of this once immense mansion.  Now, everywhere
+you look you see ruin.  Wood rotting on bannisters, coat pegs broken and
+scattered about the place and dust everywhere you look, with the ocassional
+rodent print here and there.  A once grand staircase leads up to the next floor
+of the house and hallways branch off north, west and east.    
+~
+75 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 7514
+D1
+~
+~
+0 0 7510
+D2
+You see an old oak door.
+~
+oak door~
+1 0 7503
+D3
+~
+~
+0 0 7505
+S
+#7505
+Western Hallway~
+A long hallway stretches down the western side of the interior of the house.  
+From here you can make out a door in the north and south walls and at the far
+end of the hallway a door leading west.    
+~
+75 9 0 0 0 0 255 0
+D0
+A rotting oak door.    
+~
+oak~
+1 0 7507
+D1
+~
+~
+0 0 7504
+D2
+A battered oak door.    
+~
+oak~
+1 0 7506
+D3
+An old worn oak door.    
+~
+oak~
+1 0 7508
+S
+#7506
+Library~
+You can tell that this was once the house library as bookshelves line everywall
+and toppled over bookcase litter the floor.  A small pile of books lie in a
+corner of the room which may be worth while to search through.    
+~
+75 9 0 0 0 0 255 0
+D0
+A battered oak door.    
+~
+oak~
+1 0 7505
+S
+#7507
+Study~
+This room was once a writing room or study of some sort.  Against one of the
+walls under the window is a large wooden writing desk, somewhat battered and
+broken and covered with damp rot.  As you examine it closer you notice three
+drawers in each pedestal and a large central drawer.  The latter is closed but
+some of the others are open, some looked forcibly so.    
+~
+75 9 0 0 0 0 255 0
+D2
+A rotting oak door
+~
+oak~
+1 0 7505
+S
+#7508
+Living Area~
+This was once a large living room or sitting room.  A door leads north out onto
+an overgrown patio surrounded by a high wall.  Refuse litters the floor and a
+large pile lies in one of the corners.    
+~
+75 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 7509
+D1
+An old worn oak door.    
+~
+oak~
+1 0 7505
+S
+#7509
+Overgrown Patio~
+The tiles used to cover the floor of this once nice patio are faded and cracked
+beyond repair.  Weeds grow all over the tall surrounding wall and crawl across
+the patio toward the house itself.  The fog out here isn't as bad as in the
+front of the house but still, it exists.    
+~
+75 4194305 0 0 0 0 255 0
+D2
+~
+~
+0 0 7508
+S
+#7510
+Eastern Hallway~
+You stand at the beginning of the eastern part of the house looking down a long
+hallway.  A door leads off to the south and further along you can see another
+door leading southward.    
+~
+75 9 0 0 0 0 255 0
+D1
+~
+~
+0 0 7511
+D2
+A battered wooden door.    
+~
+wood wooden door~
+1 0 7512
+D3
+~
+~
+0 0 7504
+S
+#7511
+End of the Eastern Hallway~
+You stand at the end of the eastern part of the house.  A door here leads south
+and you can just make out the entry of the house at the western end of the
+hallway.  A small window here looks out over the cliff toward the sea.    
+~
+75 9 0 0 0 0 255 0
+D2
+A broken pine door.    
+~
+broken pine door~
+1 0 7513
+D3
+~
+~
+0 0 7510
+S
+#7512
+Small living room~
+You stand in a bare room which once must have been a living room or sitting
+room.  The only decoration in the room now is a small fireplace filled with old
+ash and strange red mushrooms growing along it's walls.    
+~
+75 9 0 0 0 0 255 0
+D0
+A battered wooden door.    
+~
+wood wooden door~
+1 0 7510
+D1
+~
+~
+0 0 7513
+S
+#7513
+A small living area~
+This room is bare save for the plaster which litters the floor in here.  
+Looking up it isn't to hard to guess where the plaster came from.  Other then
+that there is nothing of value anywhere that you can see.    
+~
+75 9 0 0 0 0 255 0
+D0
+A broken pine door.    
+~
+broken pine door~
+1 0 7511
+D3
+~
+~
+0 0 7512
+S
+#7514
+Northern Hallway~
+You stand under the steps leading upstairs and find yourself in a dark hallway
+heading off north into the mansion.  To your right and left doors lead into
+more rooms and further along you can make out a side passage leading east and
+another door heading north.    
+~
+75 9 0 0 0 0 255 0
+D0
+~
+~
+0 0 7517
+D1
+An old wooden door.    
+~
+wooden door~
+1 0 7516
+D2
+~
+~
+0 0 7504
+D3
+An old wood door.    
+~
+wood door~
+1 0 7515
+S
+#7515
+Dining Room~
+This was once the dining room which is evident do to the large broken oak table
+which dominates the center of this room.  All about smashed and broken chairs
+and porceline lie.    
+~
+75 9 0 0 0 0 255 0
+D1
+An old wood door.    
+~
+wood door~
+1 0 7514
+S
+#7516
+Withdrawing Room~
+This room must have once been lush as it is apparantly the withdrawing room for
+the mansions lord.  Stuffing from the rooms comfort chairs covers the floor.  
+A large fireplace stands by the eastern wall, soot and more are within it.    
+~
+75 9 0 0 0 0 255 0
+D3
+An old wooden door.    
+~
+wooden door~
+1 0 7514
+S
+#7517
+Northern end of hallway.~
+This is the northern end of the hallway.  To your north lies a swinging door
+and to the east a short hallway with a door leading outside.    
+~
+75 9 0 0 0 0 255 0
+D0
+~
+swinging~
+1 0 7519
+D1
+An old backdoor.
+~
+back door backdoor~
+1 0 7518
+D2
+~
+~
+0 0 7514
+S
+#7518
+Outside on the cliff~
+The fog here makes it hard to see but you can vaguely make out the shape of a
+well and hear the sounds of sea birds calling in the night.  You stumble around
+for a bit and find that you are in fact rather close to the edge of the cliff
+here, you had better watch your step so as not to fall off in this fog.    
+~
+75 4194305 0 0 0 5 255 0
+D3
+An old backdoor.
+~
+back door backdoor~
+1 0 7517
+S
+#7519
+Kitchen~
+This small kitchen sits at the very back of the house. A small broken down
+cupboard stands in the corner and what appears to be an old icebox leans
+up against it's side. A two sink counter resides under the only window in this
+room which looks out into the night. Looking out the window you can just make
+out the vague outlines of the horizon which lie far out over the sea.
+South of the room a small swinging door leads out into a dark hallway.
+~
+0 9 0 0 0 0 0 0
+D2
+~
+swinging~
+1 0 7517
+S
+$~

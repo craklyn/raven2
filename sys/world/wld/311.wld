@@ -1,0 +1,400 @@
+#31100
+A Long Corridor~
+You continue along this north-south corridor. It is rather plain and
+featureless, though you do see something interesting on the floor here...
+~
+311 521 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31101
+D2
+~
+~
+0 -1 31098
+S
+#31101
+A Long Corridor~
+At this point, there is a wooden door set in the west wall. Listening at it,
+you hear nothing, not unusual in this place as you have already seen. You
+can hear what sounds like chanting coming from the north, though.
+~
+311 521 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31103
+D2
+~
+~
+0 -1 31100
+D3
+You see nothing unusual. The handle turns easily.
+~
+door west~
+1 -1 31102
+S
+#31102
+A Treasure Room~
+You are excited to see a large wooden chest with iron bands sitting on a
+stone base on the far side of the room. Your excitement fades when you spot
+the footprints in the dust on the floor leading to and from the chest, and
+the fact that the chest is standing open. Still, might be worth a look.
+~
+311 521 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 31101
+S
+#31103
+A Huge Cavern~
+The passage ends in a huge cavern, which is filled with a small tribe of
+Troglodytes dancing about a golden effigy. They are immersed in their ritual
+and don't seem to notice you. On the far side you see a bridge spanning a
+dark, deep river.
+~
+311 521 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31104
+D2
+~
+~
+0 -1 31101
+S
+#31104
+On the Bridge~
+This bridge spans a rather sinister-looking black river full of strange
+fish, and you are glad you don't need to go in there. In front of you is a
+large iron door, which is securely locked. Hope you have the key...
+~
+311 521 0 0 0 0 255 0
+D0
+The door is quite strong and beyond your means to bash down or pick.
+~
+iron door~
+2 31046 31105
+D2
+~
+~
+0 -1 31103
+S
+#31105
+The Other Side~
+You slip through the door and find yourself in a short passage that runs
+north to a junction. You proceed.
+~
+311 521 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31106
+D2
+~
+door~
+2 31046 31104
+S
+#31106
+A Junction~
+You reach a junction where the paths to the east and west end in dead ends,
+and the passage to the south ends at a locked iron door. A voice suddenly
+calls from the north, beckoning you, and you proceed.
+~
+311 521 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31107
+D2
+~
+~
+0 -1 31105
+S
+#31107
+A Bend~
+The passage bends sharply to the east here. An old man crouched near a basket
+is visible there, while to the south you can see a junction.
+~
+311 521 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31108
+D2
+~
+~
+0 -1 31106
+S
+#31108
+The Only Way is Up?~
+Here, an elderly man is selling people rides in his basket, taking them
+up to the next level. To get the key to go up, simply give him something.
+He asks you not to kill him, for then you won't know the secret. Alternatively
+you can continue east or west.
+~
+311 521 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31109
+D3
+~
+~
+0 -1 31107
+D4
+The basket is affixed to a pulley which is pulled by someone quite strong
+up above.
+~
+up basket~
+2 31129 31111
+S
+#31109
+Continuing East~
+You head east along a passage toward what looks like some sort of electrical
+field, though it only seems to stop people coming from the east to here,
+and you find you can pass through it without harm should you wish.
+~
+311 521 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31082
+D3
+~
+~
+0 -1 31108
+S
+#31110
+A Marble Hall~
+You enter a spacious marble hall, lined with elegant Doric columns that
+run from floor to ceiling on either side. There seems to be no other exit
+from here save for a small chute in the far wall. However, you may not be
+here alone...
+~
+311 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 31117
+D2
+~
+~
+0 -1 31116
+S
+#31111
+Ivy's Room~
+This room serves as the quarters of Poison Ivy, the brawn in the partnership
+with the man downstairs. She hardly ever gets paid anything, and she seems
+awful upset about it...
+~
+311 521 0 0 0 0 255 0
+D1
+From behind the door you can hear barking...
+~
+door~
+1 -1 31112
+D5
+~
+door~
+2 31129 31108
+S
+#31112
+The Corridor Ends~
+You find the corridor ends here in a flight of steps leading down. Something
+large and hungry, probably rabid too, is down there. It is barking and
+howling, as if it has caught your scent and is anticipating the upcoming
+feast...
+~
+311 521 0 0 0 0 255 0
+D3
+~
+~
+0 -1 31111
+D5
+~
+~
+0 -1 31113
+S
+#31113
+Dog Kennels~
+Here two large savage guard dogs are quartered by the Trialmasters to help
+track down runaway slaves. They haven't been used for quite some time, and
+are restless and hungry. Unfortunately for you.
+~
+311 521 0 0 0 0 255 0
+D1
+~
+~
+0 -1 31114
+D4
+~
+~
+0 -1 31112
+S
+#31114
+A-roarin'~
+The passage you are in turns suddenly northward, where it ends at a wooden
+door. From behind the door comes the most godawful roaring you have ever
+heard. Whatever lives behind there is big, bad and ANGRY!
+~
+311 521 0 0 0 0 255 0
+D0
+~
+door wooden~
+1 -1 31115
+D3
+~
+~
+0 -1 31113
+S
+#31115
+The Pit Fiend's Lair~
+You have stumbled into the lair of the Pit Fiend, a ten-metre green-skinned
+T-Rex with sharp enough teeth to crush rock and steel. It has seen you, and
+has decided to take out its frustration at its captivity on you.
+~
+311 521 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 31116
+D2
+~
+door wooden~
+1 -1 31114
+S
+#31116
+A Red Line~
+At this point, a large sign has been erected near a dotted red line on the
+floor. The sign reads-
+
+                    "NO WEAPONS BEYOND THIS POINT"
+
+and below that-
+
+                   "Violators will be disqualified"
+
+Looks like you better get rid of your weapons if you want your prize.
+~
+311 521 0 0 0 0 255 0
+D0
+~
+~
+0 -1 31110
+D2
+~
+door~
+1 -1 31115
+S
+#31117
+The Pool of Slime~
+You emerge from the chute in a pool of fetid slime, in which lives quite
+possibly the most repulsive creature you have ever seen. Unless you were
+extremely lucky and landed here just after someone else did it in. If you
+aren't lucky, you are going to have a heck of a fight on your hands!
+~
+311 521 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 31118
+S
+#31118
+A Marble Hall~
+You enter a spacious marble hall, lined with elegant Doric columns that
+run from floor to ceiling on either side. There is an iron door on the far
+wall, leading (hopefully) to the exit! However, you may not be in here
+alone...
+~
+311 521 0 0 0 0 255 0
+D0
+~
+door~
+1 -1 31119
+D2
+~
+door south~
+1 -1 31117
+S
+#31119
+The End is Nigh~
+You have reached the final chamber of the Dungeon! Congratulations. Few
+get this far. As you stand here looking around, you notice a locked door
+on the far wall. If you wait, a Trialmaster should be along to tell you
+what you need to do. Or you may already know...
+
+If you don't have the right items needed to finish, you will have to recall
+and start again.
+~
+311 521 0 0 0 0 255 0
+D0
+~
+door~
+2 31020 31120
+D2
+~
+door~
+1 -1 31118
+S
+#31120
+The Next Door~
+Well Done! You had the Emerald! Now, try the next door...
+~
+311 521 0 0 0 0 255 0
+D0
+~
+door~
+2 31047 31121
+D2
+~
+door~
+2 31020 31119
+S
+#31121
+The Final Door~
+Well Done! You had the Emerald and the Sapphire! Now, try the last door...
+~
+311 521 0 0 0 0 255 0
+D0
+~
+door~
+2 31108 31122
+D2
+~
+door~
+2 31047 31120
+S
+#31122
+The Exit~
+Fabulous!  You opened all three!  You emerge into bright sunlight, and a crowd
+of thousands, who roar with approval as you exit.  The baron himself is here,
+congratulating you, and your prize lies here, awaiting you.  Well done!  You
+feel all warm and fuzzy, and you brush a tear from your eye as you are
+proclaimed the conquerer of Deathtrap Dungeon.
+~
+311 521 0 0 0 0 255 0
+S
+#31123
+The Fortress~
+You pass thru the gates into a large town-sized courtyard.  Everyone one you
+see seems to be hurrying towards the east and there is a sense of excitement in
+the air!  Narrow straw and mud-strewn streets criss-cross each other in the
+area surrounding this vast stone ediface.  Peddler's cries punctuate the air as
+they try to sell to these people who all seem in a rush to get somewhere.  
+It's as if some great race were about to start!    
+~
+311 32768 0 0 0 1 255 0
+D1
+To the east you see a crowd
+~
+~
+0 0 31000
+D3
+To the west you smell marsh gas
+~
+~
+0 0 5618
+S
+$~

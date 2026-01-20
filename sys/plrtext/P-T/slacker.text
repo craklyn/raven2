@@ -1,0 +1,32 @@
+3 c 'revive' reid
+cp c 'remove poi' $*
+title titl &01<&08^&10> &00&03Order of Darkness &10<&08^&00&01>&00
+dama rem wig;wear mitre
+level rem mitre;wear wig
+// c 'earth
+1 ass
+ch n;n;n;n;n;n;n;n;n;w;w;od
+word c 'word' $*
+wa wake;stand
+heal c 'heal' $*
+sanc  c 'sanc' $*
+infra c 'infra
+di c 'detect invis' $*
+blind c 'blind' $*
+armor c 'armor' $*
+summon c 'summon' $*
+sum c 'summon' $*
+fly c 'fly' $*
+sense c 'sense
+food c 'create food;eat way;c 'create food;eat way;dr thi;dr thi
+rev c 'revive' $*
+harm c 'harm' $*
+regen c 'regen' $*
+saga c 'saga' $*
+cleanse c 'clea' $*
+fire c 'demon fire' $*
+rc c 'remove cur' $*
+6 c 'earth
+fort c 'fort' $*
+4 c 'revive' banan
+2 c 'revive' nigel

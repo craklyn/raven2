@@ -1,0 +1,738 @@
+#24800
+UW section for the flag game arena~
+This section is an add-on for the flag game arena.
+It consists of 2 sections which are randomised mazes.
+The mazes will change every zreset.. 5ticks or so.
+Also i have 2 types of super aggro scripted sentinel mobs to slow down those triggered walking people.
+
+I'll basically connect them to the river crossing on each side of the parapet.
+Creating a new exciting way to go about in a flag game.
+
+Anubis.
+~
+248 0 0 0 0 0 255 0
+S
+#24801
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24809
+D2
+~
+~
+0 0 24802
+D3
+~
+~
+0 0 24809
+D4
+~
+~
+0 0 20002
+S
+Z 24801
+#24802
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24809
+D2
+~
+~
+0 0 24803
+D3
+~
+~
+0 0 24809
+S
+Z 24802
+#24803
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24804
+D2
+~
+~
+0 0 24809
+D3
+~
+~
+0 0 24809
+S
+Z 24803
+#24804
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24805
+D2
+~
+~
+0 0 24809
+D3
+~
+~
+0 0 24809
+S
+Z 24804
+#24805
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24809
+D2
+~
+~
+0 0 24809
+D3
+~
+~
+0 0 24806
+S
+Z 24805
+#24806
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24809
+D2
+~
+~
+0 0 24809
+D3
+~
+~
+0 0 24807
+S
+Z 24806
+#24807
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24809
+D2
+~
+~
+0 0 24808
+D3
+~
+~
+0 0 24809
+S
+Z 24807
+#24808
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24810
+D1
+~
+~
+0 0 24809
+D2
+~
+~
+0 0 24809
+D3
+~
+~
+0 0 24809
+S
+#24809
+An Underwater Abyss~
+   As the currents movements and constant dragging disorientates you in the
+murky water a quick or what appears to be a clean opening can be seen.  
+Without thinking twice you take the exit.  Suddenly a jagged reef appears in
+front of you.  Instantaneously smashing your body parts into mulch.    
+
+HAHAHAHAHAHAHAHAHAHAHAHA - *COMFORT*
+~
+248 514 0 0 0 8 255 0
+S
+#24810
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24809
+D2
+~
+~
+0 0 24808
+D3
+~
+~
+0 0 24811
+S
+#24811
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24809
+D1
+~
+~
+0 0 24810
+D2
+~
+~
+0 0 24809
+D3
+~
+~
+0 0 24809
+D4
+~
+~
+0 0 20102
+S
+#24812
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.
+~
+248 0 32 0 0 8 255 0
+S
+#24820
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24830
+D1
+~
+~
+0 0 24830
+D2
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24821
+D4
+~
+~
+0 0 20102
+S
+Z 24820
+#24821
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24830
+D1
+~
+~
+0 0 24822
+D2
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24830
+S
+Z 24821
+#24822
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24830
+D1
+~
+~
+0 0 24823
+D2
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24830
+S
+Z 24822
+#24823
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24824
+D1
+~
+~
+0 0 24830
+D2
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24830
+S
+Z 24823
+#24824
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24825
+D1
+~
+~
+0 0 24830
+D2
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24830
+S
+Z 24824
+#24825
+An Underwater Abyss~
+   You are in an unfinished room.  The water ripples, swirls and surges
+dragging everything along with its powerful current.  The water itself is very
+dark and murky, making it very hard to see clearly.  Outlines of various forms
+can be vaguely seen moving around, some quite bigger then the rest.  As the
+movement of the current shifts and differentiates multiple exit chutes arise.
+Swimming against this current is futile, although pushing through the chute is
+a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24830
+D1
+~
+~
+0 0 24830
+D2
+~
+~
+0 0 24826
+D3
+~
+~
+0 0 24830
+S
+Z 24825
+#24826
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24830
+D1
+~
+~
+0 0 24830
+D2
+~
+~
+0 0 24827
+D3
+~
+~
+0 0 24830
+S
+Z 24826
+#24827
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24830
+D1
+~
+~
+0 0 24820
+D2
+~
+~
+0 0 24828
+D3
+~
+~
+0 0 24830
+S
+#24828
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24827
+D1
+~
+~
+0 0 24830
+D2
+~
+~
+0 0 24829
+D3
+~
+~
+0 0 24830
+S
+#24829
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24828
+D1
+~
+~
+0 0 24830
+D2
+~
+~
+0 0 24831
+D3
+~
+~
+0 0 24830
+S
+#24830
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 2 0 0 0 8 255 0
+S
+#24831
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24829
+D1
+~
+~
+0 0 24832
+D2
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24830
+S
+#24832
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24830
+D1
+~
+~
+0 0 24833
+D2
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24831
+S
+#24833
+An Underwater Abyss~
+   The water ripples, swirls and surges dragging everything along with its
+powerful current.  The water itself is very dark and murky, making it very hard
+to see clearly.  Outlines of various forms can be vaguely seen moving around,
+some quite bigger then the rest.  As the movement of the current shifts and
+differentiates multiple exit chutes arise.  Swimming against this current is
+futile, although pushing through the chute is a far wiser decision.    
+~
+248 0 32 0 0 8 255 0
+D0
+~
+~
+0 0 24830
+D1
+~
+~
+0 0 24830
+D2
+~
+~
+0 0 24830
+D3
+~
+~
+0 0 24832
+D4
+~
+~
+0 0 20002
+S
+#24835
+a sudden drop~
+You are in an unfinished room.
+~
+248 0 0 0 0 0 255 0
+S
+#24836
+generic~
+test
+~
+248 1441792 4 0 0 0 0 35
+S
+#24850
+This Room May Be Reused~
+Old mob chute room for Black Spirit - relocated to room 24850.
+~
+248 2097216 4 0 0 0 255 0
+D0
+~
+~
+0 0 31585
+D1
+~
+~
+0 0 31650
+D2
+~
+~
+0 0 31699
+D3
+~
+~
+0 0 31662
+D4
+~
+~
+0 0 31718
+S
+$~

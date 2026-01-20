@@ -1,0 +1,1679 @@
+#10900
+The Ant Hill~
+This area (10901-10999) was created as a place for lower level 
+characters to gain some exp on their own as well as learn some basic MUD 
+commands.  Also included are a few pieces of eq to help them get started.
+
+Smythe
+~
+109 0 0 0 0 0
+S
+#10901
+Entrance to the Ant Hill~
+    You are  standing on top of the  giant ant  hill.  It's quite a large 
+hill...the ants that live inside must be REALLY big.  The hillside slopes
+to the north, east, west and south.  There is a large hole going down
+into the hill itself...I bet that's where the ants are.
+~
+109 0 0 0 0 4
+D1
+~
+~
+0 0 2201
+D2
+~
+~
+0 -1 10992
+D5
+~
+~
+0 -1 10902
+S
+#10902
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the north, east and down.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10903
+D1
+~
+~
+0 -1 10928
+D4
+~
+~
+0 -1 10901
+D5
+~
+~
+0 -1 10982
+S
+#10903
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the south and down.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10902
+D5
+~
+~
+0 -1 10904
+S
+#10904
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the west and up.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10905
+D4
+~
+~
+0 -1 10903
+S
+#10905
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the east and down.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10904
+D5
+~
+~
+0 -1 10906
+S
+#10906
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the north and up.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10907
+D4
+~
+~
+0 -1 10905
+S
+#10907
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the west, south and down.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10906
+D3
+~
+~
+0 -1 10920
+D5
+~
+~
+0 -1 10908
+S
+#10908
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the east and up.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10909
+D4
+~
+~
+0 -1 10907
+S
+#10909
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the west and down.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10908
+D5
+~
+~
+0 -1 10910
+S
+#10910
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the east and up.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10911
+D4
+~
+~
+0 -1 10909
+S
+#10911
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the west and down.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10910
+D5
+~
+~
+0 -1 10912
+S
+#10912
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the east and up.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10913
+D4
+~
+~
+0 -1 10911
+S
+#10913
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the west and down.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10912
+D5
+~
+~
+0 -1 10914
+S
+#10914
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the north and up.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10915
+D4
+~
+~
+0 -1 10913
+S
+#10915
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the east and south.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10916
+D2
+~
+~
+0 -1 10914
+S
+#10916
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10917
+D2
+~
+~
+0 -1 10919
+D3
+~
+~
+0 -1 10915
+S
+#10917
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10918
+D3
+~
+~
+0 -1 10916
+S
+#10918
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10917
+D3
+~
+~
+0 -1 10919
+S
+#10919
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10916
+D1
+~
+~
+0 -1 10918
+S
+#10920
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the east and down.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10907
+D5
+~
+~
+0 -1 10921
+S
+#10921
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues down and up.
+~
+109 d 0 0 0 0
+D4
+~
+~
+0 -1 10920
+D5
+~
+~
+0 -1 10922
+S
+#10922
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the west and up.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10923
+D4
+~
+~
+0 -1 10921
+S
+#10923
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them. The
+tunnel continues to the east and south.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10922
+D2
+~
+~
+0 -1 10924
+S
+#10924
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10923
+D1
+~
+~
+0 -1 10925
+D2
+~
+~
+0 -1 10927
+S
+#10925
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10926
+D3
+~
+~
+0 -1 10924
+S
+#10926
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10925
+D3
+~
+~
+0 -1 10927
+S
+#10927
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10924
+D1
+~
+~
+0 -1 10926
+S
+#10928
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10929
+D3
+~
+~
+0 -1 10902
+S
+#10929
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10928
+D5
+~
+~
+0 -1 10930
+S
+#10930
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10931
+D4
+~
+~
+0 -1 10929
+D5
+~
+~
+0 -1 10950
+S
+#10931
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10930
+D5
+~
+~
+0 -1 10932
+S
+#10932
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10933
+D4
+~
+~
+0 -1 10931
+S
+#10933
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10932
+D5
+~
+~
+0 -1 10934
+S
+#10934
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10935
+D4
+~
+~
+0 -1 10933
+S
+#10935
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10936
+D3
+~
+~
+0 -1 10934
+D5
+~
+~
+0 -1 10940
+S
+#10936
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10939
+D1
+~
+~
+0 -1 10937
+D3
+~
+~
+0 -1 10935
+S
+#10937
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10938
+D3
+~
+~
+0 -1 10936
+S
+#10938
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10937
+D3
+~
+~
+0 -1 10939
+S
+#10939
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10938
+D2
+~
+~
+0 -1 10936
+S
+#10940
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10941
+D4
+~
+~
+0 -1 10935
+S
+#10941
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10940
+D5
+~
+~
+0 -1 10942
+S
+#10942
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10943
+D4
+~
+~
+0 -1 10941
+S
+#10943
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10942
+D5
+~
+~
+0 -1 10944
+S
+#10944
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10945
+D4
+~
+~
+0 -1 10943
+S
+#10945
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10944
+D2
+~
+~
+0 -1 10946
+S
+#10946
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10945
+D2
+~
+~
+0 -1 10947
+D3
+~
+~
+0 -1 10949
+S
+#10947
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10946
+D3
+~
+~
+0 -1 10948
+S
+#10948
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10949
+D1
+~
+~
+0 -1 10947
+S
+#10949
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10946
+D2
+~
+~
+0 -1 10948
+S
+#10950
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10951
+D4
+~
+~
+0 -1 10930
+S
+#10951
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10950
+D3
+~
+~
+0 -1 10952
+S
+#10952
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10951
+D5
+~
+~
+0 -1 10953
+S
+#10953
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10954
+D4
+~
+~
+0 -1 10952
+S
+#10954
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10953
+D5
+~
+~
+0 -1 10955
+S
+#10955
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10956
+D4
+~
+~
+0 -1 10954
+S
+#10956
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10955
+D5
+~
+~
+0 -1 10957
+S
+#10957
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10958
+D4
+~
+~
+0 -1 10956
+S
+#10958
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10959
+D3
+~
+~
+0 -1 10957
+D5
+~
+~
+0 -1 10967
+S
+#10959
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10958
+D5
+~
+~
+0 -1 10960
+S
+#10960
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10961
+D4
+~
+~
+0 -1 10959
+S
+#10961
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10962
+D2
+~
+~
+0 -1 10960
+S
+#10962
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10963
+D3
+~
+~
+0 -1 10961
+S
+#10963
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10964
+D2
+~
+~
+0 -1 10962
+D3
+~
+~
+0 -1 10966
+S
+#10964
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10963
+D3
+~
+~
+0 -1 10965
+S
+#10965
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10964
+D2
+~
+~
+0 -1 10966
+S
+#10966
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10965
+D1
+~
+~
+0 -1 10963
+S
+#10967
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10968
+D4
+~
+~
+0 -1 10958
+S
+#10968
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10967
+D5
+~
+~
+0 -1 10969
+S
+#10969
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10970
+D4
+~
+~
+0 -1 10968
+S
+#10970
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10969
+D5
+~
+~
+0 -1 10971
+S
+#10971
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10973
+D3
+~
+~
+0 -1 10972
+D4
+~
+~
+0 -1 10970
+S
+#10972
+Dead End~
+    You have come to a dead end in the ant's tunnel system...Isn't that
+strange?
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10971
+S
+#10973
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10971
+D5
+~
+~
+0 -1 10974
+S
+#10974
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10976
+D4
+~
+~
+0 -1 10973
+S
+#10975
+Egg Chamber~
+    You are in the ant's egg chamber.  I hope the queen ant and her
+guards aren't around.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10978
+D2
+~
+~
+0 -1 10976
+S
+#10976
+Egg Chamber~
+    You are in the ant's egg chamber.  I hope the queen ant and her
+guards aren't around.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10975
+D1
+~
+~
+0 -1 10979
+D2
+~
+~
+0 -1 10977
+D3
+~
+~
+0 -1 10974
+S
+#10977
+Egg Chamber~
+    You are in the ant's egg chamber.  I hope the queen ant and her
+guards aren't around.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10976
+D1
+~
+~
+0 -1 10980
+S
+#10978
+Egg Chamber~
+    You are in the ant's egg chamber.  I hope the queen ant and her
+guards aren't around.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10979
+D3
+~
+~
+0 -1 10975
+S
+#10979
+Egg Chamber~
+    You are in the ant's egg chamber.  I hope the queen ant and her
+guards aren't around.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10978
+D1
+~
+~
+0 -1 10981
+D2
+~
+~
+0 -1 10980
+D3
+~
+~
+0 -1 10976
+S
+#10980
+Egg Chamber~
+    You are in the ant's egg chamber.  I hope the queen ant and her
+guards aren't around.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10979
+D3
+~
+~
+0 -1 10977
+S
+#10981
+The Queen Ant's Chamber~
+    Well, you have discovered the queen's bedroom, now what are you
+going to do?  Whatever it is, her personal guards will most likely
+disapprove...if they are here.
+~
+109 cd 0 0 0 0
+D3
+~
+~
+0 -1 10979
+S
+#10982
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D3
+~
+~
+0 -1 10983
+D4
+~
+~
+0 -1 10902
+S
+#10983
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10982
+D5
+~
+~
+0 -1 10984
+S
+#10984
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10985
+D3
+~
+~
+0 -1 10991
+D4
+~
+~
+0 -1 10983
+S
+#10985
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10984
+D5
+~
+~
+0 -1 10986
+S
+#10986
+Underground in the Ant Hill~
+    You are in the tunnels underneath the ant hill.  You notice that the
+tunnel walls have some kind of luminescent fungus growing on them.
+~
+109 d 0 0 0 0
+D2
+~
+~
+0 -1 10987
+D4
+~
+~
+0 -1 10985
+S
+#10987
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 dj 0 0 0 0
+D0
+~
+~
+0 -1 10986
+D2
+~
+~
+0 -1 10988
+D3
+~
+~
+0 -1 10990
+S
+#10988
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10987
+D3
+~
+~
+0 -1 10989
+S
+#10989
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D0
+~
+~
+0 -1 10990
+D1
+~
+~
+0 -1 10988
+S
+#10990
+Storage Chamber~
+    You have entered a large storage chamber inside the ant hill.  The
+walls of the chamber are covered with the same glowing fungus that you
+have seen on the tunnel walls.  
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10987
+D2
+~
+~
+0 -1 10989
+S
+#10991
+Dead End~
+    Ant's don't make dead ends...do they?
+~
+109 d 0 0 0 0
+D1
+~
+~
+0 -1 10984
+S
+#10992
+On the Side of the Ant Hill~
+    You are on the southern slope of the ant hill.  It looks like this
+is the direction the ants take when they go into the ant hill.  To the
+north you can see the entrance to the ants' tunnels.  These ants must
+be pretty big to live in a hill this size.
+~
+109 0 0 0 0 4
+D0
+~
+~
+0 -1 10901
+D1
+~
+~
+0 -1 10995
+D3
+~
+~
+0 -1 10993
+D5
+~
+~
+0 -1 10678
+S
+#10993
+On the Side of the Ant Hill~
+    You are on the western slope of the ant hill. You can continue around
+the side of the ant hill to the  north or to the  east.  To the west, the
+hill is very steep and it  looks like it  would be a very  painful way to
+descend.
+~
+109 0 0 0 0 4
+D0
+~
+~
+0 -1 10994
+D1
+~
+~
+0 -1 10992
+S
+#10994
+On the Side of the Ant Hill~
+    You are on the northern slope of the ant hill.  You are actually
+higher up the slope from the entrance to the ants' tunnels.  You can
+continue around the side of the hill to the south or down from here.
+The hill to the north ends in a long, steep drop.
+~
+109 0 0 0 0 4
+D2
+~
+~
+0 -1 10993
+D5
+~
+~
+0 -1 10995
+S
+#10995
+On the Side of the Ant Hill~
+    You are on the eastern slope of the ant hill.  You can continue up
+the hill or go around to the west.  To the east the hill is very steep
+and it looks like it would be a very painful way to descend.
+~
+109 0 0 0 0 4
+D3
+~
+~
+0 -1 10992
+D4
+~
+~
+0 -1 10994
+S
+#10996
+Worker Ant Chute #1~
+This chute drops ants into 10917, 10919, 10927, 10925, 10988 and 10990.
+~
+109 h 0 0 0 0
+D0
+~
+~
+0 -1 10917
+D1
+~
+~
+0 -1 10919
+D2
+~
+~
+0 -1 10927
+D3
+~
+~
+0 -1 10925
+D4
+~
+~
+0 -1 10988
+D5
+~
+~
+0 -1 10990
+S
+#10997
+Worker Ant Chute #2~
+This chute drops ants into 10964,10966,10937,10939,10947 and 10949.
+~
+109 h 0 0 0 0
+D0
+~
+~
+0 -1 10964
+D1
+~
+~
+0 -1 10966
+D2
+~
+~
+0 -1 10937
+D3
+~
+~
+0 -1 10939
+D4
+~
+~
+0 -1 10947
+D5
+~
+~
+0 -1 10949
+S
+#10998
+Soldier Ant Chute #1~
+This chute drops ants into 10916,10924,10936,10946,10963 and 10987.
+~
+109 h 0 0 0 0
+D0
+~
+~
+0 -1 10916
+D1
+~
+~
+0 -1 10924
+D2
+~
+~
+0 -1 10936
+D3
+~
+~
+0 -1 10946
+D4
+~
+~
+0 -1 10963
+D5
+~
+~
+0 -1 10987
+S
+#10999
+Worker Ant Chute #3~
+This chute drops ants into 10930,10907,10954,10959,10970 and 10943.
+~
+109 h 0 0 0 0
+D0
+~
+~
+0 -1 10930
+D1
+~
+~
+0 -1 10907
+D2
+~
+~
+0 -1 10954
+D3
+~
+~
+0 -1 10959
+D4
+~
+~
+0 -1 10970
+D5
+~
+~
+0 -1 10943
+S
+$~

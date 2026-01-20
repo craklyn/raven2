@@ -1,0 +1,44 @@
+feeb c 'feeb' $*
+ms c 'monster sum
+air c 'air' $*
+stat toggle color off;stat $*;toggle color on
+blink c 'blink
+arm rem pebb;hold oak;use oak $*;rem oak;hold pebb
+port c 'portal' $*
+z scan
+flame c 'flame bl' $*
+wa wake;stand
+fly cast 'fly' $*
+mm cast 'magic missile' $*
+infra cast 'infra'
+str cast 'str' $*
+sum cast 'summon' $*
+invis cast 'invis' $*
+stone cast 'stoneskin' $*
+shie c 'shield' $*
+loc c 'locate' $*
+rc c 'remove curse' $*
+p enter portal
+clan cla &14$* &00
+drain c 'life drain' $*
+bl c 'blind' $*
+go gs going $1;$1;kill 2.
+x c 'life drain' $*
+ts c 'true sight' $*
+b calm
+nex c 'nex' $*
+gate c 'gate
+v c 'doom b' $*
+id toggle color off;c 'id' $*;toggle color on
+ice c 'ice
+fou c 'fou
+hast c 'haste' $*
+kk o urk kill $*;o fol assist urk;assist
+o order foll $*
+m c 'shriek' $*
+charm c 'charm' $*
+awaken c 'awaken' $*
+q get all all.azmo;wear forever bod;wear all;wield staff;hold shard;get all all.azmo;rem bee;wear slime
+g say rev apo 
+f gt sd
+a k grim

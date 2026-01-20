@@ -1,0 +1,11 @@
+1 order follower kill $*
+cc c 'charm corpse' $*
+sp c 'soul pierce' $*
+fly c 'fly' $*
+di c 'detect invisibility' $*
+sh c 'shield' $*
+invis c 'invisibility' $*
+ld c 'life drain' $*
+infra c 'infravision' $*
+wa wake;stand
+bl c 'blind' $*

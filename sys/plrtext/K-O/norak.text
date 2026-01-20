@@ -1,0 +1,41 @@
+di c 'detect invis' $*
+sen c 'sense
+fs c 'demon fire' $*
+say sa &11<&08EVIL&11>&14$* &00&11<&08GNOME&11>&00
+gs gt &11<&08EVIL&11>&14$* &00&11<&08GNOME&11>&00
+cb c 'cur blind' $*
+rc c 'remove curse' $*
+df drink mug;drink mug;drink mug
+bh get shot pou;brew heal shot
+ep enter portal
+cow c 'assistant'
+sanc c 'sanc' $*
+tb tell lebowski ON $*
+lb c 'harm' $*
+a assist
+male c 'maledict' $*
+wake wak;stand
+tn tell goshen ON $*
+on gs ON$*
+wak wake;stand
+cc c 'cure crit' $*
+br c 'create food';eat way
+bl c 'blindness' $*
+g get all.coins all.corpse
+2 destroy corpse
+1 get all corpse
+arm c 'armor' $*
+ward c 'ward' $*
+h c 'heal' $*
+reg c 'regen' $*
+sum c 'summon' $*
+fly c 'fly' $*
+infra c 'infravision' norak
+0 assist
+fort c 'fortify' $*
+sag c 'saga' $*
+bsanc get shot pou;brew sanc shot
+bheal get shot pou;brew heal shot
+rr c 'word of recall' $*
+3 where;scan
+sp c 'demon fire' $*

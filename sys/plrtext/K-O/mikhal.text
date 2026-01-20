@@ -1,0 +1,18 @@
+dd destroy corpse
+ss stop
+nn north; fist 2.
+ee east; fist 2.
+ww west; fist 2.
+g get all.coins all.corp
+f fist $*
+ff feign death; stand
+a assist
+aa assist; feign; stand; assist
+hh hands $*
+h hands me
+wake wake; stand
+gg get all all.corpse
+b blind $*
+kk knock $*
+di disarm $*
+rr group all; rec rec rec

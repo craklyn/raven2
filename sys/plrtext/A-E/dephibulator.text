@@ -1,0 +1,28 @@
+1 cast 'heal' duriel
+m cast 'word' duriel
+a assist
+moo : moos.
+rcur cast 'remove curse' $*
+qw dr wat
+rp cast 'remove poison' $*
+fw clanwho
+5 cast 'word' group
+reg cast 'regen' $*
+arm cast 'armor' $*
+h cast 'heal' $*
+ew eat way
+way cast 'create food'
+inf cast 'infravision' $*
+sen cast 'sense' $*
+cb c 'cure blind' $*
+fly c 'fly' $*
+di c 'detect invis' $*
+sum c 'summon' $*
+b c 'blind' $*
+ward c 'ward' $*
+0 cast 'word' $*
+cs clan &07*&00&14$*&00 &07*&00
+rpar cast 'remove paralysis' $*
+y say &11$*&00
+clan clan &00&10<&00&11$*&00&10 >&00&11
+gt gt &10<&00&11$*&00&10 >&00

@@ -1,0 +1,38 @@
+loot get all all.rupert;wear scarf neck;wear pelt cloak;wear all;wield sword;hold bow
+rd retreat d
+belt get belt corpse;open belt;get all belt
+a sa take me to alma kinan
+z toss revive
+ru retreat up
+rw retreat west
+re retreat east
+rn retreat north
+rs retreat south
+dir l n;l e;l s;l w;l up;l down
+title titl :: &09Wandering&00 Savage
+armor get wine beet;q wine
+scr buy 5 sams
+now gt going;e;kill 2.
+ale get ale beet;q ale
+cu get cube beet;q cube
+ai auction -info
+g guard $*
+cw clanwho
+ck close king
+wake wake;stand
+de destroy corpse
+coin get all.coin all.corpse
+r rescue $*
+food get bread beet;eat bread
+regen get regen beet;q regen
+di get booz beet;q booze
+fly get fly beet;q fly
+key get all.key all.corpse
+oc open king
+qi quest info
+hall n;n;n;n;n;n;n;n;n;e;e;s;e;e
+c beet;wear spec
+t;wear mask
+all get all all.corpse
+door open door n;open door w;open door s;open door e
+gt gt &09$*&00 

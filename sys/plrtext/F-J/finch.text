@@ -1,0 +1,32 @@
+roll get bakka oss;rem thorn;wear bakka;get roll oss;rec roll;rem bakk;wear thorn;put bakka oss
+em cas 'embalm' $*
+ch cas 'charm corpse' $*;group all
+age cas 'age' $*
+fly cas 'fly' $*
+di cas 'd i' $*
+soul cas 'soul pierce' $*
+shi cas 'shield' $*
+fe cas 'life drain' $*
+bl cas 'blind' $*
+sum cas 'summon' $*
+invis cas 'invis' $*
+say emote says, '&10$* &00'
+cl clan &10$* &11
+cwho clanwho
+gs gt &10$* &00
+title title :: &08Forsaken&00
+2 rec sam scr
+1 rec sam
+ge get all all.cor
+wa wake;stand;look
+fo get bread osseous;eat bread
+sen cas 'sense life'
+con cas 'consume corpse' $*
+start get clock osseous;get kayak osseous;get all.sam osseous;get flagon osseous
+afk titl :: &08Forsaken&00 :: AFK
+o order follower $*
+resist cas 'resist' $*
+flee blah;flee
+regen get halfling osseous;get bakka osseous;rem thorn;wear bakka;q halfling;rem bakka;wear thorn;put bakka osseous
+nox cas 'nox' $*
+armor get bakka osseous;rem thorn;wear bakka;rem sceptre;hol oak;use oak $*;rem oak;hol sceptre;rem bakka;wear thorn;put bakka osse

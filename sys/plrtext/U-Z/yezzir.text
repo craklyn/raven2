@@ -1,0 +1,47 @@
+res or fol rescue $*
+ed c 'e d' $*
+db cas 's p' $*
+resist cas 'resist poison' $*
+bone cas 'bone wall' $*
+ent cas 'ent cor' $*
+sil cas 'sil' $*
+wraith cas 'wraith'
+deb cas 'deb' $*
+sb cas 's p' $*
+rent1 rent
+rent tell courage yezzirrentyezzir
+start tell courage yezzirstartyezzir
+shi cas 'shi' $*
+invis c 'invis' $*
+bl cas 'blindness' $*
+title title :: &08Forsaken&00
+con cas 'consume cor' $*
+fe cas 'life drain' $*
+o order followers $*
+age cas 'age'
+ch cas 'charm corpse' $*
+gs gs &10$* &00
+cwho clanwho
+cl clan &10$* &11
+wa wake;stand;look
+ge get all all.cor
+sen cas 'sense life'
+say say &10$* &00
+2 rec sam scr
+1 rec sam
+nox c 'nox' $*
+infra c 'infra'
+di c 'detect invis' $*
+fly c 'fly' $*
+sum c 'summon' $*
+ward cas 'create warding'
+slow cas 'slow' $*
+bers or follower bers
+as ass $*;or fol ass $*
+explode c 'explode' $*
+3 hug yuiri;hug yuiri;hug yuiri
+dis c 'disease' $*
+awaken get mushroom pock;eat mush
+vig get mino pock;q mino
+regen get regen pock;q regen
+str get plat pock;eat plat

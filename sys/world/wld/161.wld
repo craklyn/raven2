@@ -1,0 +1,1981 @@
+#16100
+The Isle of Mysts~
+This is a collection of all the scraps of areas I had started and never
+finished.
+Turned out to be a complete island.
+Players level 10 - 50, solo or grouped can find something here.
+This area links to other areas, the swamp and the ocean.
+A list of mobs and obj will follow.
+~
+161 6216 0 0 0 0 255 0
+E
+list~
+The mobs and obj in this area.
+[16100]                     a tree  |  [16101]                     a rock
+[16102]              a hermit crab  |  [16103]      a flash of lightening
+[16104]                  a seagull  |  [16105]              the fisherman
+[16106]                the citizen  |  [16107]                 the farmer
+[16108]                     a crow  |  [16109]                  a citizen
+[16110]          a panic villiager  |  [16111]             the werebadger
+[16112]            the water snake  |  [16113]            the blood thorn
+[16114]                 the zombie  |  
+ 
+[16100]                     a pool  |  [16101]                    a dwarf
+[16102]            a soft fur vest  |  [16103]           a snakeskin belt
+~
+S
+#16101
+The Road~
+To the south is the small harbor where most of
+the food for this tiny village is either caught
+or delived. Tiny fishing boats dot the crystal
+blue of the water and sleek white seagulls circle
+in the sky.
+~
+161 32776 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16158
+D2
+~
+~
+0 0 16156
+D3
+~
+~
+0 0 16102
+S
+#16102
+The Road~
+The warm dusty road leads around the harbor and
+down to the pebble covered beach. The high cliffs
+shelter you to the west and the small village
+harbor is to the east.
+~
+161 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 16101
+D2
+~
+~
+0 0 16155
+S
+#16103
+The Road~
+Children play happily in the dust of the road, running
+from doorway to doorway. The smell of the ocean fills
+the air and the sun seems to smile down from the heavens.
+~
+161 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 16160
+D3
+~
+~
+0 0 16104
+S
+#16104
+The Road~
+The road travels in to a thick jungle to the west or back
+to the center to the east. Several strange animal noises
+come from the darkness of the jungle.
+~
+161 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 16105
+D1
+~
+~
+0 0 16103
+D2
+~
+~
+0 0 16106
+D3
+~
+~
+0 0 16402
+S
+#16105
+A Hut~
+Walls of mud and sod, roof of large palm leaves and a
+floor of dirt. Not very fancy, but it serves it's purpose.
+~
+161 32776 0 0 0 0 255 0
+D2
+~
+~
+0 0 16104
+S
+#16106
+A Hut~
+Walls of mud and sod, roof of large palm leaves and a
+floor of dirt. Not very fancy, but it serves it's purpose.
+~
+161 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 16104
+S
+#16107
+A Hut~
+Walls of mud and sod, roof of large palm leaves and a
+floor of dirt. Not very fancy, but it serves it's purpose.
+~
+161 32776 0 0 0 0 255 0
+D2
+~
+~
+0 0 16172
+S
+#16108
+The Mist~
+  You feel so alone, surrounded by silence, absolutely adrift from
+your world.
+~
+161 4227245 0 0 0 0 255 0
+D0
+you see mist
+~
+~
+0 -1 16109
+D1
+you see mist
+~
+~
+0 -1 2337
+D2
+you see mist
+~
+~
+0 -1 2337
+D3
+you see mist
+~
+~
+0 -1 16107
+S
+#16109
+The Mist~
+  Trying to keep your mind occupied, you concentrate on you movements
+and counting your steps.
+~
+161 4227245 0 0 0 0 255 0
+D0
+you see mist
+~
+~
+0 -1 2337
+D1
+you see mist
+~
+~
+0 -1 16110
+D2
+you see mist
+~
+~
+0 -1 16108
+D3
+you see mist
+~
+~
+0 -1 2337
+S
+#16110
+The Mist~
+  A numbness washes over you. The lack of sounds, smells, and sight
+in this white void seems to be sapping your will to proceed.
+~
+161 4227245 0 0 0 0 255 0
+D0
+you see mist
+~
+~
+0 -1 2337
+D1
+you see mist
+~
+~
+0 -1 2337
+D2
+you see mist
+~
+~
+0 -1 16111
+D3
+you see mist
+~
+~
+0 -1 16109
+S
+#16111
+The Mist~
+  You squint your eyes, shadows seem to be forming in the distance.
+~
+161 32941 0 0 0 0 255 0
+D0
+you see mist
+~
+~
+0 -1 16110
+D1
+you see mist
+~
+~
+0 -1 2337
+D2
+you see mist
+~
+~
+0 -1 16112
+D3
+you see mist
+~
+~
+0 -1 2337
+S
+#16112
+The Mist~
+  Did you hear something? A bird, the wind, a voice maybe? 
+~
+161 32776 0 0 0 0 255 0
+D0
+you see mist
+~
+~
+0 -1 16111
+D1
+you see mist
+~
+~
+0 -1 2337
+D2
+you see mist
+~
+~
+0 -1 16113
+D3
+you see mist
+~
+~
+0 -1 2337
+S
+#16113
+The Mist~
+  Tangled, white flowered privets and scrawny belladonna peek out of
+the swirls of mist that still cover the stony ground.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see mist
+~
+~
+0 -1 16112
+D1
+you see faint outlines of hills
+~
+~
+0 -1 16114
+D2
+you see dark shadows
+~
+~
+0 -1 16191
+D3
+you see a faint outline of hills
+~
+~
+0 -1 16137
+S
+#16114
+The Hills~
+  Most of the mist is rolling downhill towards vast stands of
+drooping firs and barren oaks.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16115
+D3
+you see misty hills
+~
+~
+0 -1 16113
+S
+#16115
+The Hills~
+  Patches of weeds struggle for purchase in the rocky soil. Small
+bushes and stunted plants huddle around the crests of the small
+hills.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16116
+D3
+you see hills
+~
+~
+0 -1 16114
+S
+#16116
+The Hills~
+  A deep groan, a monstrous sound, breaks the silence. As though some
+great thing lay dyeing very close by.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16117
+D3
+you see hills
+~
+~
+0 -1 16115
+S
+#16117
+The Hills~
+  The ground seems solid enough, but yet you experience a moment of
+vertigo, as if it shifted underfoot.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16118
+D3
+you see hills
+~
+~
+0 -1 16116
+S
+#16118
+The Hills~
+  A low moan splits the air. The sound is sepulchral, and rattles
+with a noise of wind blowing dead leaves.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16119
+D3
+you see hills
+~
+~
+0 -1 16117
+S
+#16119
+The Hills~
+  A moan rings out with power, echoing over the hills and forest.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16120
+D3
+you see hills
+~
+~
+0 -1 16118
+S
+#16120
+The Hills~
+  The ground begins to tremble and a great rift opens in the earth
+just in front of you. It is filled with a swirling gray mist that is
+tainted with the chill of the grave.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see your grave
+~
+~
+0 -1 16123
+D2
+you see hills
+~
+~
+0 -1 16121
+D3
+you see hills
+~
+~
+0 -1 16119
+S
+#16121
+The Hills~
+   Silence intermingles with the roar of the ground shaking and quivering.  
+Great rifts open and close across the terrain.  Scattered across the horizon
+are thousands of uprooted trees.  A path that once led up the hill has been
+completely obliterated, there seems to be no escape from the chasms opening up
+across the land.    
+~
+161 32768 0 0 0 4 255 0
+D0
+you see hills
+~
+~
+0 -1 16120
+D2
+you see hills
+~
+~
+0 -1 16122
+S
+#16122
+A Crossroad Between the Hills~
+   The chasms in the earth roar with a decimal that could shatter a mortal
+eardrum.  The supernatural rifts are completely swallowing up hills and
+rearranging the entire landscape.  A large hill to the south waivers and than
+implodes upon itself.  It is possible to actually maneuver around the rubble,
+into what looks like the entrance to a cavern beneath the hill.    
+~
+161 32768 0 0 0 0 255 0
+D0
+you see hills
+~
+~
+0 -1 16121
+D1
+you see your grave
+~
+~
+0 -1 16124
+D2
+you see hills
+~
+~
+0 -1 16125
+D3
+you see hills
+~
+~
+0 -1 16170
+S
+#16123
+The Rift~
+  You fall deep into the poison mist.
+                  You have cheated the gravediggers out of their pay.
+                                              R.I.P.
+~
+161 32771 0 0 0 0 255 0
+D3
+~
+~
+0 -1 16120
+S
+#16124
+The Rift~
+  You fall deep into the poison mist.
+                  You have cheated the gravediggers out of their pay.
+                                              R.I.P.
+~
+161 32775 0 0 0 0 255 0
+D3
+~
+~
+0 -1 16122
+S
+#16125
+Entrance into a Hillside Cavern~
+   The path leads into a cavern beneath a hill that might be considered a small
+mountain.  The rubble around the entrance is quite fresh and possibly caused by
+the number of rifts and chasms opening up across the misty isle.  Although, the
+possibility of greater danger lurks inside the cavern, it does offer an escape
+from the quakes further north.    
+~
+161 32773 0 0 0 4 255 0
+D0
+~
+~
+0 -1 16122
+D2
+~
+~
+0 -1 16126
+S
+#16126
+The Damp Cavern~
+   The cavern around you is humid and moist.  The rocky walls sweat droplets of
+moisture that slowly drip to the ground forming muddy pools.  The mud makes a
+slippery surface which gently pulls you in a southern direction.    
+~
+161 32769 0 0 0 15 255 0
+D0
+~
+~
+0 -1 16125
+D2
+~
+~
+0 -1 16127
+S
+#16127
+The Damp Cavern~
+   The cavern around you is humid and moist.  The rocky walls sweat droplets of
+moisture that slowly drip to the ground forming muddy pools.  The mud makes a
+slippery surface which pulls you with a strong force to the south.    
+~
+161 32769 0 0 0 15 255 0
+D0
+~
+~
+0 -1 16126
+D2
+~
+~
+0 -1 16128
+S
+#16128
+The Mud Hole~
+   The mud that has slid down from the northern part of the cavern has
+collected here, but dissipates through small cracks in the rock.  However,
+there is still a large build up of mud and slimy sludge.  To the east is a
+small crevice that opens up into another part of the cavern.    
+~
+161 32769 0 0 0 15 255 0
+D0
+~
+~
+0 -1 16127
+D1
+~
+~
+0 -1 16129
+S
+#16129
+The Wedge~
+   You wiggle into a crevice that separates a cavern to the east from another
+cavern, much larger, to the north.  The cavern to the north breathes into the
+crevice with warm moisturize gusts of air. 
+~
+161 33025 0 0 0 15 255 0
+D0
+~
+~
+0 -1 16130
+D3
+~
+~
+0 -1 16128
+S
+#16130
+A Large Cavern~
+   A large cavern spans out to the north.  To the south is a small crevice in
+the rock, barely enough room for a mortal human to fit through.  The air in the
+cavern is hot, steam fills the room and the vaporous mist makes visibility
+limited.    
+~
+161 4227073 0 0 0 12 255 0
+D0
+~
+~
+0 -1 16131
+D2
+~
+~
+0 -1 16129
+S
+#16131
+A Brine Cavern~
+   The temperature steadily increases, steam and vapor actually seep through
+the cracks and crevices between the rocks.  A shrill whine echoes down the
+cavern as a number of rocks dislodge from the ground.  A &02greenish&00 vapor
+rises up from a geyser-like fountain (of death)!    
+~
+161 32773 64 0 0 12 255 0
+D0
+~
+~
+0 -1 16132
+D2
+~
+~
+0 -1 16130
+S
+#16132
+A Cavernous Intersection~
+   The air in the cavern becomes so hot, beads of sweat start forming on your
+forehead.  Any progress north has been stopped by a cave in of mud and dirt.  
+To the east the cavern narrows in size and to the south vaporous clouds of
+steam blurs all distinguishing factors.    
+~
+161 32769 0 0 0 12 255 0
+D1
+~
+~
+0 -1 16133
+D2
+~
+~
+0 -1 16131
+S
+#16133
+A Very Hot Room~
+   The air becomes so hot, it is difficult to breathe.  Steam rolls off the
+cavern walls, droplets of water from the cavern ceiling hit the floor bursting
+into steam.  You make a note to yourself that this would be an excellent place
+to "slow cook" a wildebeest.    
+~
+161 1073774593 0 0 0 5 255 0
+D2
+~
+~
+0 -1 16134
+D3
+~
+~
+0 -1 16132
+E
+suffer_msg~
+$n doesn't look so "hot"!
+~
+E
+death_room~
+$n's flesh catches fire, engulfing $m in flickering flames.
+~
+E
+death_char~
+Your skin literally catches fire and your entire body becomes engulfed in flames.
+~
+E
+suffer4~
+A wave of heat blisters and peels away your mortal flesh.
+~
+E
+suffer3~
+A wave of heat burns your mortal flesh.
+~
+E
+suffer2~
+A wave of heat singes your mortal flesh.
+~
+E
+suffer1~
+A wave of heat scorches your mortal flesh.
+~
+E
+max_dam~
+10
+~
+E
+min_dam~
+5
+~
+S
+#16134
+Crevice Compression!~
+   A crevice here provides further advance to the south.  Touching the rocky
+walls singes the flesh.  The air is so hot it is difficult to breathe.  
+However, a small breeze flows from the south, perhaps there is another outlet
+in the cavern?    
+~
+161 1073774849 0 0 0 5 255 0
+D0
+~
+~
+0 -1 16133
+D2
+~
+~
+0 -1 16135
+E
+suffer_msg~
+Sweat begins to stream off the face of $n.
+~
+E
+death_char~
+Your skin literally catches fire and your entire body becomes engulfed in flames.
+~
+E
+death_room~
+$n's flesh catches fire, engulfing $m in flickering flames.
+~
+E
+max_dam~
+40
+~
+E
+min_dam~
+20
+~
+E
+suffer3~
+A wave of heat burns your mortal flesh.
+~
+E
+suffer4~
+A wave of heat blisters and peels away your mortal flesh.
+~
+E
+suffer2~
+A wave of heat singes your mortal flesh.
+~
+E
+suffer1~
+A wave of heat scorches your mortal flesh.
+~
+S
+#16135
+The Piping Hot Cavern~
+   Mortal men aren't meant for such temperatures.  Small flames flicker between
+the rocky walls and the ground literally hisses as scorching vapors escape
+between the cracks.  Further south, the temperature only increases, while to
+the north the intense heat seems to regress.    
+~
+161 1073774593 0 0 0 5 255 0
+D0
+~
+~
+0 -1 16134
+D2
+~
+~
+0 -1 16136
+E
+suffer_msg~
+$n's skin begins to blister and peel under this intense heat.
+~
+E
+death_room~
+$n's flesh catches fire, engulfing $m in flickering flames.
+~
+E
+death_char~
+Your skin literally catches fire and your entire body becomes engulfed in flames.
+~
+E
+max_dam~
+60
+~
+E
+min_dam~
+50
+~
+E
+suffer4~
+A wave of heat blisters and peals away your mortal flesh.
+~
+E
+suffer3~
+A wave of heat burns your mortal flesh.
+~
+E
+suffer2~
+A wave of heat singes your mortal flesh.
+~
+E
+suffer1~
+A wave of heat scorches your mortal flesh.
+~
+S
+#16136
+The Boiler Room~
+   Huge &01flame&00 waves shoot from the ceiling, the walls, and the ground.  
+The entire room glows red, the rock beneath your boots is softening up and
+turning into molten rock that seeps into a stream of liquid fire.  Directly
+above your head is a hole that appears to lead up to safer grounds.  Staying
+here much longer will surely result in a very "well done" corpse.    
+~
+161 1107329024 0 0 0 5 255 0
+D0
+~
+~
+0 -1 16135
+D4
+~
+~
+0 0 36500
+E
+suffer_msg~
+$n doesn't look like he can last much longer under this type of heat.
+~
+E
+min_dam~
+70
+~
+E
+max_dam~
+100
+~
+E
+suffer1~
+A wave of heat scorches your mortal flesh.
+~
+E
+suffer2~
+A wave of heat singes your mortal flesh.
+~
+E
+suffer3~
+A wave of heat burns your mortal flesh.
+~
+E
+suffer4~
+A wave of heat blisters and peels away your mortal flesh.
+~
+E
+death_char~
+Your skin literally catches fire and your entire body becomes engulfed in flames.
+~
+E
+death_room~
+$n's flesh catches fire, engulfing $m in flickering flames.
+~
+S
+#16137
+The Hills~
+  After the monotony of the mist, you are overwhelmed by the vista
+unfolding around you.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16113
+D3
+you see hills
+~
+~
+0 -1 16138
+S
+#16138
+The Hills~
+  The mist has retreated completely. Distant mountain stand to the
+west, their snow capped peaks pushing high into the air. As you
+watch, the sun touches the peaks, setting the horizon alight with
+subtle shades of crimson, gold and purple.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16137
+D3
+you see hills
+~
+~
+0 -1 16139
+S
+#16139
+The Hills~
+  The sounds of small birds heralding the end of the day, the pungent
+smell of newly flowering bushes and the brisk touch of the evening
+breeze now stirring the trees refreshes you, giving you the willpower
+to find out more about this strange land.
+~
+161 425996 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16138
+D3
+you see a pool
+~
+~
+0 -1 16140
+S
+#16140
+The Pool~
+   Tall bearded grass grows besides a circular pool that bulges
+strangely. The illusion of motion plays over its convex surface.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16139
+D3
+you see hills
+~
+~
+0 -1 16141
+S
+#16141
+The Hills~
+  You make your way over lightly wooded hills.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see hills
+~
+~
+0 -1 16140
+D2
+you see hills
+~
+~
+0 -1 16142
+S
+#16142
+The Hills~
+  You stand on a high hill overlooking a rocky beach. To your west
+are mountains and you see a thick forest off to the east.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see hills
+~
+~
+0 -1 16141
+D2
+you see a path
+~
+~
+0 -1 16143
+S
+#16143
+The Path~
+  The path leads down a grassy slope to the beach or west towards the
+mountains or north into the hills.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see hills
+~
+~
+0 -1 16142
+D2
+you see a path
+~
+~
+0 -1 16144
+D3
+you see mountains
+~
+~
+0 -1 16271
+S
+#16144
+The Path~
+  As you gaze down the grassy slope you see a small gloomy looking
+village, made up of mostly mud and daub huts.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a path
+~
+~
+0 -1 16143
+D2
+you see a path
+~
+~
+0 -1 16145
+S
+#16145
+The Path~
+  The narrow dirt path leads north to the hills or south to the sea
+cliffs.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a path
+~
+~
+0 -1 16144
+D2
+you see a path
+~
+~
+0 -1 16146
+S
+#16146
+The Path~
+  You pick your way along a narrow rocky path.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a path
+~
+~
+0 -1 16145
+D2
+you see a path
+~
+~
+0 -1 16147
+S
+#16147
+The Path~
+  To the east is a narrow shelf of rock, leading into some tall pines.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a path
+~
+~
+0 -1 16146
+D1
+you see a rocky shelf
+~
+~
+0 -1 16228
+D2
+you see a path
+~
+~
+0 -1 16148
+S
+#16148
+The Path~
+You stand beneath a huge overhang of rock. To the 
+north the path leads up the cliff. To the south is 
+a rocky beach and to the east is a thick jungle.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a path
+~
+~
+0 -1 16147
+D1
+~
+~
+0 0 16402
+D2
+you see a rocky beach
+~
+~
+0 -1 16149
+S
+#16149
+The Beach~
+  The sandstone cliffs beneath the overhang is pocked with hundreds
+of tiny holes.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a small path leading up the cliff
+~
+~
+0 -1 16148
+D2
+you see a rocky beach
+~
+~
+0 -1 16150
+S
+#16150
+The Beach~
+  Your traveling in the cool shadows of the rock ledge that blocks
+your view of the sky.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a rocky beach
+~
+~
+0 -1 16149
+D2
+you see a rocky beach
+~
+~
+0 -1 16151
+S
+#16151
+The Beach~
+  An azure ocean laps gently against the shore, washing over a line
+of smooth tapered rocks that edge the beach like the teeth of some
+great submerged creature.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a rocky beach
+~
+~
+0 -1 16150
+D1
+you see a rocky beach
+~
+~
+0 -1 16152
+S
+#16152
+The Beach~
+  The gentle slush and hiss of the ocean has a very soothing effect.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see a rocky beach
+~
+~
+0 -1 16153
+D3
+you see a rocky beach
+~
+~
+0 -1 16151
+S
+#16153
+The Beach~
+  The water lappes at the rocks, while somewhere out in the distant
+haze seagull call forlornly.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a path leading into the jungle
+~
+~
+0 0 16401
+D1
+you see a rocky beach
+~
+~
+0 -1 16154
+D3
+you see a rocky beach
+~
+~
+0 -1 16152
+S
+#16154
+The Beach~
+  The ocean is calm and green, rippled by the light breeze that blows
+across it.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see a rocky beach
+~
+~
+0 -1 16155
+D3
+you see a rocky beach
+~
+~
+0 -1 16153
+S
+#16155
+The Beach~
+  The incoming waves seem to undulate like a windblown sheet, tiny
+globules of water, heated by the late afternoon sun, tumble across
+the beach.
+~
+161 32780 0 0 0 0 255 0
+D0
+~
+~
+0 0 16102
+D1
+you see a small harbor
+~
+~
+0 -1 16156
+D3
+you see a rocky beach
+~
+~
+0 -1 16154
+S
+#16156
+The Harbor~
+  One wall has been created by sinking hundreds of long poles into
+the floor of the ocean to form a sunken barrier.
+~
+161 32776 0 0 0 7 255 0
+D0
+~
+~
+0 0 16101
+D1
+you see a pier
+~
+~
+0 -1 16157
+D3
+you see a rocky beach
+~
+~
+0 -1 16155
+S
+#16157
+The Pier~
+  A dozen or so small but sturdy looking fishing boats rest here,
+their masts laid flat, their cloth sails furled. To the north you can
+see a small but busy village.
+~
+161 32776 8 0 0 0 255 0
+D0
+you see a small fishing village
+~
+~
+0 -1 16158
+D3
+you see a rocky beach
+~
+~
+0 -1 16156
+S
+#16158
+The Road~
+The warm dusty road travels north through
+the little village. The beach can be found
+to the east and west and a small fishing
+dock is to the south.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a small village
+~
+~
+0 -1 16159
+D2
+you see the pier
+~
+~
+0 -1 16157
+D3
+~
+~
+0 0 16101
+S
+#16159
+The Road~
+  Squat drab huts stand to the east and west and the center is just
+to the north.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see the center
+~
+~
+0 -1 16160
+D1
+you see a hut
+~
+~
+0 -1 16248
+D2
+you see a dirt road
+~
+~
+0 -1 16158
+D3
+you see a hut
+~
+~
+0 -1 16246
+S
+#16160
+The Center~
+The village is so small, it has no name.
+To the south is a snug little harbor where
+the water sparkles in the summer sun as if
+the surface is covered with jewels.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16161
+D1
+you see a dirt road
+~
+~
+0 -1 16171
+D2
+you see a dirt road
+~
+~
+0 -1 16159
+D3
+~
+~
+0 0 16103
+S
+#16161
+The Road~
+  The road passes through the center of this village to the south,
+bisecting the tiny collection of buildings.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16162
+D1
+you see a hut
+~
+~
+0 -1 16247
+D2
+you see the center
+~
+~
+0 -1 16160
+D3
+you see a hut
+~
+~
+0 -1 16245
+S
+#16162
+The Road~
+  Several farmers with their wagons full of supplies travel this hard
+packed dirt road.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16163
+D2
+you see a small village
+~
+~
+0 -1 16161
+S
+#16163
+The Road~
+  The road rises and falls dramatically as you travel along.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16164
+D2
+you see a dirt road
+~
+~
+0 -1 16162
+S
+#16164
+The Road~
+  You stand atop a rise, to the south you see a tiny village and to
+the east this road travels towards a dark forest.
+~
+161 32780 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16165
+D2
+you see a dirt road
+~
+~
+0 -1 16163
+S
+#16165
+The Road~
+  Overhead a large flock of crows dive haphazardly through the air.
+The flutter of their wings in the cloud covered sky gives you a bad
+feeling.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16166
+D3
+you see a dirt road
+~
+~
+0 -1 16164
+S
+#16166
+The Road~
+  The road is forced to twist and turn around huge outcroppings of
+granite.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16167
+D2
+you see a dirt road
+~
+~
+0 -1 16165
+S
+#16167
+The Road~
+The dusty road travels slowly around the island. Animal
+noises creep out from the thick forest and fields that 
+border the road on each side.
+~
+161 32776 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16168
+D3
+you see a dirt road
+~
+~
+0 -1 16166
+S
+#16168
+The Road~
+The dusty road travels slowly around the island. Animal
+noises creep out from the thick forest and fields that 
+border the road on each side.
+~
+161 32780 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16169
+D3
+you see a dirt road
+~
+~
+0 -1 16167
+S
+#16169
+The Intersection~
+The dusty road stretches out to the north and to the south. 
+To the east is a small hill.
+~
+161 32780 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16223
+D1
+you see a small hill
+~
+~
+0 -1 16170
+D3
+you see a dirt road
+~
+~
+0 -1 16168
+S
+#16170
+The Hill~
+  You stand on a small hillock overlooking a small valley. To the
+west you see a dirt road and to the east the cliff over looks the
+vast beauty of the ocean.
+~
+161 32780 0 0 0 0 255 0
+D3
+you see a dirt road
+~
+~
+0 -1 16169
+S
+#16171
+The Road~
+  The forest pushes in on the houses and fields from all sides.
+~
+161 32780 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16172
+D3
+you see the village
+~
+~
+0 -1 16160
+S
+#16172
+The Road~
+  A sagging church of mud and wood stands just to your south. There
+seems to be a large crowd gathered there.
+~
+161 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 16107
+D1
+you see a dirt road
+~
+~
+0 -1 16188
+D2
+you see a large crowd
+~
+~
+0 -1 16173
+D3
+~
+~
+0 0 16171
+S
+#16173
+The Church~
+The church is not rich, but it doesn't
+seem to bother anyone. The world is at
+peace here and the Gods have smiled 
+upon this place.
+~
+161 425992 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16172
+S
+#16174
+The Road~
+  As you head away from the grisly scene the ominous sounds of the
+hanging are replaced by the gentle chirping of crickets.
+~
+161 8 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16175
+D2
+you see a church
+~
+~
+0 -1 16173
+D3
+~
+~
+0 -1 16171
+S
+#16175
+The Road~
+  A scream splits the air, then a growl rolls loud and long. As a
+snarl echoes from the direction of the hanging, you hear a voice
+shout, "Run you fools, Run."
+~
+161 8 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16188
+D3
+you see a dirt road
+~
+~
+0 -1 16176
+S
+#16176
+The Road~
+  A panicked villager busts from the direction of the hanging, waving
+his hands in fright. "Run", he screams.
+~
+161 8 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16188
+D2
+you see a church
+~
+~
+0 -1 16177
+D3
+you see a dirt road
+~
+~
+0 -1 16171
+S
+#16177
+The Church~
+  A surprising scene greets you as you enter the clearing. The remains
+of some villagers lay around the hanging tree, their corpses shredded 
+and bloody.
+~
+161 8 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16178
+S
+#16178
+The Road~
+  A sagging church made of mud and wood stands just to the south of
+you. The road runs east to the forest and west to the center.
+~
+161 8 0 0 0 0 255 0
+D1
+you see a dirt road
+~
+~
+0 -1 16188
+D2
+you see a church
+~
+~
+0 -1 16179
+D3
+you see a dirt road
+~
+~
+0 -1 16171
+S
+#16179
+The Church~
+  A sagging abandon church stands here, its bellower lies in pieces
+upon the ground.
+~
+161 8 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16178
+S
+#16180
+The Rivers Edge~
+  The river crawls sullenly through the forest, its banks as
+treacherous as the rest of this land, for it is a thief, not a
+benefactor. Simply touching the water robs a man of his health and
+its swift current has swept many a traveler to his doom.
+~
+161 12 0 0 0 0 255 0
+D0
+you see a dirt road
+~
+~
+0 -1 16168
+D1
+you see deadly water
+~
+~
+0 -1 16181
+S
+#16181
+The River~
+  Above you are black, constantly moving clouds, almost as black as
+this swirling water that is slowly draining your energy and life from
+your body.
+~
+161 8 0 0 0 7 255 0
+D1
+you see black water
+~
+~
+0 -1 16182
+D3
+you see the rivers edge
+~
+~
+0 -1 16180
+S
+#16182
+The River~
+  As you float on the jet-black water you feel the occasional bump of
+something as it brushes by you. You try to focus on it but the water
+is to dark.
+~
+161 8 0 0 0 7 255 0
+D2
+you see black water
+~
+~
+0 -1 16183
+D3
+you see black water
+~
+~
+0 -1 16181
+S
+#16183
+The River~
+  As you travel farther into this land you keep noticing something
+following you. Every time you look back all you see is a dark shape
+disappears under the water.
+~
+161 584 0 0 0 7 255 0
+D0
+you see black water
+~
+~
+0 -1 16182
+D2
+you see black water
+~
+~
+0 -1 16184
+S
+#16184
+The River~
+  Just to your west you see a low bank that would be a good place to
+exit this tar colored water.
+~
+161 8 0 0 0 7 255 0
+D0
+you see black water
+~
+~
+0 -1 16183
+D2
+you see black water
+~
+~
+0 -1 16185
+D3
+you see a break in the rocks
+~
+~
+0 -1 16190
+S
+#16185
+The River~
+  The river runs north through a thick forest or south into a misty
+swamp.
+~
+161 8 0 0 0 7 255 0
+D0
+you see black water
+~
+~
+0 -1 16184
+D2
+you see black water
+~
+~
+0 -1 16186
+S
+#16186
+The River~
+  The river cuts its way through thick undergrowth and winds around
+several rocks of various sizes and shapes.
+~
+161 8 0 0 0 7 255 0
+D0
+~
+~
+0 0 16185
+D2
+you see a misty swamp
+~
+~
+0 -1 16187
+S
+#16187
+The Swamp~
+  It gets surprisingly windy. A strong, gusting breeze bends the
+heads of the long grass stalks and swirls thick gray misty all around
+you.
+~
+161 8 0 0 0 0 255 0
+D0
+~
+~
+0 0 16186
+S
+#16188
+The Road~
+  The road twists around the cliff, overlooking the beach.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see a forest
+~
+~
+0 -1 16189
+D3
+you see a dirt road
+~
+~
+0 -1 16172
+S
+#16189
+The Road~
+  The road disappears into a forest to the north or towards a village
+to the south.
+~
+161 32780 0 0 0 0 255 0
+D0
+you see a thick forest
+~
+~
+0 -1 16190
+D2
+you see a cliff
+~
+~
+0 -1 16188
+S
+#16190
+The Forest~
+  The summer sun reaches its zenith in the sky, but the thick trees
+blot out its searing rays, making travel very comfortable.
+~
+161 32776 0 0 0 0 255 0
+D0
+you see alot of trees
+~
+~
+0 -1 16191
+D2
+you see a dirt road
+~
+~
+0 -1 16189
+S
+#16191
+The Forest~
+  Twisted and bent tress crowd out the sun, plunging the forest floor into darkness.
+~
+161 32781 0 0 0 0 255 0
+D0
+~
+~
+0 0 16192
+D2
+~
+~
+0 -1 16190
+D3
+~
+~
+0 0 16194
+S
+#16192
+The Forest~
+  Gigantic, mossy gray firs and pines hem you in from all sides.
+~
+161 32777 0 0 0 0 255 0
+D1
+~
+~
+0 0 16193
+D2
+~
+~
+0 0 16191
+S
+#16193
+The Forest~
+  A tangle of mottled ivies and grayish ferns hide the earth from sight, providing the perfect cover for snakes, rodents and insects.
+~
+161 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 16169
+D3
+~
+~
+0 -1 16192
+S
+#16194
+The Forest~
+  As you wander these woods you begin to get an ever growing sense of dread. There seems to be movement in the shadows.
+~
+161 32777 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16191
+D3
+~
+~
+0 -1 16195
+S
+#16195
+The Forest~
+  This faint path appears to have been neglected. You get the feeling it has not been used for quite some time. A well worn path breaks off to the south.
+~
+161 32777 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16194
+D2
+~
+~
+0 -1 16199
+D3
+~
+~
+0 -1 16196
+S
+#16196
+The Forest~
+  The plantlife is thick and grabs at you like unhuman hands.
+~
+161 32777 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16195
+D3
+~
+~
+0 -1 16197
+S
+#16197
+The Forest~
+  The thick charnel smell of unburied corpses, corrupt skin and stagnant blood overwhelms you.
+~
+161 32777 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16196
+D3
+~
+~
+0 -1 16198
+S
+#16198
+The Forest~
+  The smell of death reaches you before the feeble moonlight revels anything about the creature watching you from the shadows.
+~
+161 32777 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16197
+D3
+~
+~
+0 -1 16205
+S
+#16199
+The Forest~
+  As you look closer, you relize that this is not a worn path at all, but a path that has been burned into the ground and not long ago, for the trail is still smoldering.
+~
+161 32777 0 0 0 0 255 0
+D0
+~
+~
+0 -1 16195
+D2
+~
+~
+0 -1 16201
+S
+$~

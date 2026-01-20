@@ -1,0 +1,2311 @@
+#11700
+The Camp of the Northern Barbarians~
+This area is designed as a high level XP zon.  It will most likely be fine
+tuned several times in order to fit that purpose (duh).  There are also
+a couple of pieces of Warrior EQ in the zon (nothing special).
+
+Smythe
+June 1996
+
+revamped and  links fixed and changed
+Ragnarok
+Oct 1997
+~
+117 0 0 0 0 0
+S
+#11701
+Path to the Barbarian Camp~
+As you approach the camp, you realize these are not your ordinary, every
+day, run-of-the-mill barbarians.  The camp is surrounded by a five foot
+tall, wooden palisade which is actively patrolled.  A guarded gate looks
+to be the only break in the fence.  You also realize that the Sultan's
+road ends abruptly here....these barbarians apparantly don't appreciate
+encroachment upon their hunting grounds.
+~
+117 g 0 0 0 2
+D0
+~
+~
+0 -1 11702
+D2
+~
+~
+0 -1 11860
+S
+#11702
+Before the Gate~
+The entrace to the barbarian camp is open, but a guard stands alertly at
+his post.
+~
+117 g 0 0 0 2
+D0
+~
+~
+0 -1 11703
+D2
+~
+~
+0 -1 11701
+S
+#11703
+Path in the Barbarian Camp~
+This path leads into the barbarian camp. It seems to work its way
+around the edge of the camp slowly making its way to the center,
+where there seems to be several large tents.
+~
+117 c 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11702
+D3
+~
+~
+0 -1 11704
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11704
+A path leading into the camp~
+This path leads you deeper into the barbarian off to the west.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11703
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11705
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11705
+Path in the Barbarian Camp~
+The path turns south here leading towards a small group of tents.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11704
+D2
+~
+~
+0 -1 11706
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11706
+Tent Group~
+You are standing in the middle of a small tent group. There are
+several campfires burning here. 
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11705
+D1
+~
+~
+0 -1 11707
+D2
+~
+~
+0 -1 11708
+D3
+~
+~
+0 -1 11709
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11707
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11706
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11708
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11706
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11709
+Tent~
+This is a very large tent, designed to hold at least three families. There
+is an opening in the tent off to the west.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11706
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11710
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11710
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11709
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11711
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11711
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 c 0 0 0 2
+D0
+~
+~
+0 -1 11712
+D1
+~
+~
+0 -1 11710
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11712
+Tent Group~
+You are standing in the middle of a small tent group. There are several 
+campfires burning here. There is an opening in the tent off to the west.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11714
+D1
+~
+~
+0 -1 11713
+D2
+~
+~
+0 -1 11711
+D3
+~
+~
+0 -1 11715
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11713
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11712
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11714
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11712
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11715
+Tent~
+This is a very large tent, designed to hold at least three families. There 
+is an opening in the tent off to the west.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11712
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11716
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11716
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11717
+D1
+~
+~
+0 -1 11715
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11717
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11718
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11716
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11718
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11719
+D2
+~
+~
+0 -1 11717
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11719
+Tent Group~
+You are standing in the middle of a small tent group. There are several
+campfires burning here.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11722
+D1
+~
+~
+0 -1 11721
+D2
+~
+~
+0 -1 11720
+D3
+~
+~
+0 -1 11718
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11720
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11719
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11721
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11719
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11722
+Tent~
+This is a very large tent, designed to hold at least three families. There 
+is an opening in the tent off to the west.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11719
+D3
+~
+~
+0 -1 11723
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11723
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 c 0 0 0 2
+D0
+~
+~
+0 -1 11724
+D1
+~
+~
+0 -1 11722
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11724
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11725
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11723
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11725
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11726
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11724
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11726
+Path in the Barbarian Camp~
+This path stretches along the North/East edge of the barbarian camp.
+A mountain range blocks any way off to the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11727
+D2
+~
+~
+0 -1 11725
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11727
+Path in the Barbarian Camp~
+This path stretches along the North/East edge of the barbarian camp.
+A mountain range blocks any way off to the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11728
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11726
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11728
+Path in the Barbarian Camp~
+This path stretches along the North/East edge of the barbarian camp.
+A mountain range blocks any way off to the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11729
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11727
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11729
+Path in the Barbarian Camp~
+This path stretches along the North/East edge of the barbarian camp.
+A mountain range blocks any way off to the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11730
+D3
+~
+~
+0 -1 11728
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11730
+Path in the Barbarian Camp~
+This path stretches along the North/East edge of the barbarian camp.
+A mountain range blocks any way off to the north.
+~
+117 c 0 0 0 2
+D0
+~
+~
+0 -1 11729
+D1
+~
+~
+0 -1 11731
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11731
+Path in the Barbarian Camp~
+This path stretches along the North/East edge of the barbarian camp.
+A mountain range blocks any way off to the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11732
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11730
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11732
+Path in the Barbarian Camp~
+This path stretches along the North/East edge of the barbarian camp.
+A mountain range blocks any way off to the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11733
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11731
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11733
+Tent Group~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11734
+D1
+~
+~
+0 -1 11736
+D2
+~
+~
+0 -1 11735
+D3
+~
+~
+0 -1 11732
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11734
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11733
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11735
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11733
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11736
+Tent~
+This is a very large tent, designed to hold at least three families. There
+is an opening in the tent off to the north.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11737
+D1
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11733
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11737
+Path in the Barbarian Camp~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11738
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11736
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11738
+North/East Battlement~
+A valley cuts through the mountain range here. This Battlement was built
+to defend the camp from attacks from the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11739
+D2
+~
+~
+0 -1 11737
+D3
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11739
+North/East Battlement~
+A valley cuts through the mountain range here. This Battlement was built
+to defend the camp from attacks from the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11740
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11738
+D4
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 -1
+S
+#11740
+North/East Battlement~
+A valley cuts through the mountain range here. This Battlement was built
+to defend the camp from attacks from the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11741
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11739
+S
+#11741
+North/East Battlement~
+A valley cuts through the mountain range here. This Battlement was built
+to defend the camp from attacks from the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 0 11742
+D3
+~
+~
+0 0 11740
+S
+#11742
+North/East Battlement~
+A valley cuts through the mountain range here. This Battlement was built
+to defend the camp from attacks from the north.
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 0 11743
+D3
+~
+~
+0 0 11741
+S
+#11743
+North/East Battlement~
+A valley cuts through the mountain range here. This Battlement was built
+to defend the camp from attacks from the north.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11742
+D2
+~
+~
+0 -1 11744
+S
+#11744
+Tent Group~
+A fire blazes here, bounded on each side by large canvas tents.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11743
+D1
+~
+~
+0 -1 11746
+D2
+~
+~
+0 -1 11747
+D3
+~
+~
+0 -1 11745
+S
+#11745
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 0 11744
+S
+#11746
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D1
+~
+~
+0 -1 -1
+D3
+~
+~
+0 0 11744
+S
+#11747
+Tent Group~
+A large fire blazes here, bounded on each side by large canvas tent.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11744
+D1
+~
+~
+0 0 11749
+D2
+~
+~
+0 -1 11750
+D3
+~
+~
+0 0 11748
+S
+#11748
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11747
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+S
+#11749
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D3
+~
+~
+0 0 11747
+S
+#11750
+Tent Group~
+A large fire blazes here, bounded on each side by large canvas tent.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11747
+D1
+~
+~
+0 -1 11752
+D2
+~
+~
+0 0 11753
+D3
+~
+~
+0 0 11751
+S
+#11751
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D1
+~
+~
+0 0 11750
+D2
+~
+~
+0 -1 -1
+S
+#11752
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11750
+S
+#11753
+Path~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11750
+D1
+~
+~
+0 0 11754
+S
+#11754
+Path~
+This path leads between tent-groups and campfires.  It looks as if this
+camp has been here for at least a month.
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 -1 11755
+D3
+~
+~
+0 0 11753
+S
+#11755
+Heavily Guarded Path~
+As you work your way deeper into the camp you start to see members
+of the OverLords elite guard. These elite guards are sworn to protect
+the OverLord with their lives.
+~
+117 0 0 0 0 2
+D2
+~
+~
+0 -1 11756
+D3
+~
+~
+0 0 11754
+S
+#11756
+Heavily Guarded Path~
+As you work your way deeper into the camp you start to see members
+of the OverLords elite guard. These elite guards are sworn to protect
+the OverLord with their lives.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11755
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11757
+D3
+~
+~
+0 -1 -1
+S
+#11757
+Heavily Guarded Path~
+As you work your way deeper into the camp you start to see members
+of the OverLords elite guard. These elite guards are sworn to protect
+the OverLord with their lives.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11756
+D3
+~
+~
+0 0 11758
+S
+#11758
+Heavily Guarded Path~
+As you work your way deeper into the camp you start to see members
+of the OverLords elite guard. These elite guards are sworn to protect
+the OverLord with their lives.
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11757
+D2
+~
+~
+0 0 11759
+D3
+~
+~
+0 -1 -1
+S
+#11759
+Heavily Guarded Path~
+As you work your way deeper into the camp you start to see members
+of the OverLords elite guard. These elite guards are sworn to protect
+the OverLord with their lives.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11758
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 0 11760
+S
+#11760
+Heavily Guarded Path~
+As you work your way deeper into the camp you start to see members
+of the OverLords elite guard. These elite guards are sworn to protect
+the OverLord with their lives.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11759
+D2
+~
+~
+0 -1 11761
+D3
+~
+~
+0 -1 -1
+S
+#11761
+Heavily Guarded Path~
+As you work your way deeper into the camp you start to see members
+of the OverLords elite guard. These elite guards are sworn to protect
+the OverLord with their lives
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11760
+D3
+~
+~
+0 0 11762
+S
+#11762
+A path before a large group of tents.~
+Just to the west is the largest group of  tents you have seen so far. 
+Seemingly better made than the previous tents you get the idea that
+these tents belong to the families closest to the OverLord.
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11761
+D3
+~
+~
+0 -1 11763
+S
+#11763
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 0 11764
+D1
+~
+~
+0 0 11762
+D2
+~
+~
+0 -1 11765
+D3
+~
+~
+0 0 11766
+S
+#11764
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11763
+D3
+~
+~
+0 -1 11767
+S
+#11765
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11763
+D3
+~
+~
+0 0 11768
+S
+#11766
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 0 11767
+D1
+~
+~
+0 0 11763
+D2
+~
+~
+0 0 11768
+D3
+~
+~
+0 -1 11769
+S
+#11767
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D1
+~
+~
+0 0 11764
+D2
+~
+~
+0 -1 11766
+D3
+~
+~
+0 0 11770
+S
+#11768
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11766
+D1
+~
+~
+0 -1 11765
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11771
+S
+#11769
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11770
+D1
+~
+~
+0 0 11766
+D2
+~
+~
+0 0 11771
+D3
+~
+~
+0 0 11772
+S
+#11770
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D1
+~
+~
+0 0 11767
+D2
+~
+~
+0 0 11769
+D3
+~
+~
+0 -1 -1
+S
+#11771
+Tent~
+This is a very large tent, designed to house at least three families.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 0 11769
+D1
+~
+~
+0 0 11768
+D2
+~
+~
+0 -1 -1
+S
+#11772
+Tent Group~
+A fire blazes outside a large group of tents to the east.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 11769
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11773
+S
+#11773
+A narrow path~
+This path travels between the large tent group and the center of the
+barbarian camp.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11774
+D1
+~
+~
+0 -1 11772
+S
+#11774
+A narrow path~
+This path travels between the large tent group and the center of the
+barbarian camp.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 0 11773
+D3
+~
+~
+0 0 11775
+S
+#11775
+A narrow path~
+This path travels between the large tent group and the center of the
+barbarian camp.
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11774
+D3
+~
+~
+0 -1 11776
+S
+#11776
+A narrow path~
+This path travels between the large tent group and the center of the
+barbarian camp.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11777
+D1
+~
+~
+0 -1 11775
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+S
+#11777
+A junction in the middle of the Camp~
+You are standing at a junction, at what looks to be the center of the
+barbarian camp.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11778
+D1
+~
+~
+0 -1 11782
+D2
+~
+~
+0 0 11776
+S
+#11778
+North of the Junction~
+Just off to the north there is a strange looking tent, and even from here
+you can sense or maybe you are feeling a dangerous magic at work.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 0 11777
+D3
+~
+~
+0 0 11779
+S
+#11779
+Outside a Strange Tent~
+This strange tent has dangerous red aura surrounding it.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11780
+D1
+~
+~
+0 0 11778
+D3
+~
+~
+0 -1 -1
+S
+#11780
+Inside a Strange Tent~
+A strange blue fire blazes here just inside the opening of this tent.
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 11779
+D3
+~
+~
+0 -1 11781
+S
+#11781
+Inside the Shamans Tent~
+This is a very large tent, and along the walls are hermetic symbols that
+seem to glow with an arcane energy.
+~
+117 d 0 0 0 0
+D1
+~
+~
+0 -1 11780
+D5
+~
+~
+0 0 -1
+S
+#11782
+Nearing the tent of the OverLord.~
+Battle standards depicting an attacking falcon overlaid on a crimson 
+background, line the approach to the OverLords Pavillion 
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11783
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 0 11777
+S
+#11783
+Nearing the tent of the OverLord~
+Battle standards depicting an attacking falcon overlaid on a crimson 
+background, line the approach to the OverLords Pavillion
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11784
+D3
+~
+~
+0 -1 11782
+S
+#11784
+Nearing the tent of the OverLord~
+Battle standards depicting an attacking falcon overlaid on a crimson 
+background, line the approach to the OverLords Pavillion
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 -1 11785
+D1
+~
+~
+0 -1 -1
+D3
+~
+~
+0 0 11783
+S
+#11785
+Outside the OverLords Tent~
+You are standing outside a large pavillion that stands right in the middle of the
+barbarian encampent.
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11786
+D2
+~
+~
+0 -1 11784
+S
+#11786
+Pavillion of the OverLord~
+This VERY large pavillion could easily house 50 men with plenty of space
+to spare. It is sturdily constructed, and has dividing "walls" made from
+the same heavy material as the tent itself.  
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11791
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 0 11785
+D3
+~
+~
+0 0 11787
+S
+#11787
+Pavillion of the OverLord~
+This VERY large pavillion could easily house 50 men with plenty of space
+to spare. It is sturdily constructed, and has dividing "walls" made from
+the same heavy material as the tent itself.  
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11790
+D1
+~
+~
+0 -1 11786
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 11788
+S
+#11788
+Pavillion of the OverLord~
+This VERY large pavillion could easily house 50 men with plenty of space
+to spare. It is sturdily constructed, and has dividing "walls" made from
+the same heavy material as the tent itself.  
+~
+117 d 0 0 0 0
+D0
+~
+~
+0 -1 11789
+D1
+~
+~
+0 0 11787
+D3
+~
+~
+0 -1 -1
+S
+#11789
+Pavillion of the OverLord~
+This VERY large pavillion could easily house 50 men with plenty of space
+to spare. It is sturdily constructed, and has dividing "walls" made from
+the same heavy material as the tent itself.  
+~
+117 d 0 0 0 0
+D1
+~
+~
+0 -1 11790
+D2
+~
+~
+0 -1 11788
+S
+#11790
+Pavillion of the OverLord~
+This VERY large pavillion could easily house 50 men with plenty of space
+to spare. It is sturdily constructed, and has dividing "walls" made from
+the same heavy material as the tent itself.  
+~
+117 d 0 0 0 0
+D1
+~
+~
+0 -1 11791
+D2
+~
+~
+0 -1 11787
+D3
+~
+~
+0 -1 11789
+S
+#11791
+Private Area of the New OverLord~
+Sparsely furnished, this area is only used as a sleeping chamber by the 
+OverLord.  He is normally among his people.
+~
+117 d 0 0 0 0
+D2
+~
+~
+0 -1 11786
+D3
+~
+~
+0 -1 11790
+S
+#11792
+mob chute #1~
+this chute drops mobs into tents:
+11707 11708 11709 11713 11714 11715
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 -1 11707
+D1
+~
+~
+0 -1 11708
+D2
+~
+~
+0 -1 11709
+D3
+~
+~
+0 -1 11713
+D4
+~
+~
+0 -1 11714
+D5
+~
+~
+0 -1 11715
+S
+#11793
+mob chute #2~
+this chute drops mobs into tents:
+11720 11721 11722 11734 11735 11736
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 -1 11720
+D1
+~
+~
+0 -1 11721
+D2
+~
+~
+0 -1 11722
+D3
+~
+~
+0 -1 11734
+D4
+~
+~
+0 -1 11735
+D5
+~
+~
+0 -1 11736
+S
+#11794
+mob chute #3~
+this chute drops mobs into tents:
+11745 11746 11748 11749 11751 11752
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 -1 11745
+D1
+~
+~
+0 -1 11746
+D2
+~
+~
+0 -1 11748
+D3
+~
+~
+0 -1 11749
+D4
+~
+~
+0 -1 11751
+D5
+~
+~
+0 -1 11752
+S
+#11795
+mob chute #4~
+this chute drops mobs into tents:
+11764 11765 11767 11768 11770 11771
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 -1 11764
+D1
+~
+~
+0 -1 11765
+D2
+~
+~
+0 -1 11767
+D3
+~
+~
+0 -1 11768
+D4
+~
+~
+0 -1 11770
+D5
+~
+~
+0 -1 11771
+S
+#11796
+mob chute #5~
+this chute drops mobs into paths:
+11716 11726 11740 11757 11761 11777
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 -1 11716
+D1
+~
+~
+0 -1 11726
+D2
+~
+~
+0 -1 11740
+D3
+~
+~
+0 -1 11757
+D4
+~
+~
+0 -1 11761
+D5
+~
+~
+0 -1 11777
+S
+$~

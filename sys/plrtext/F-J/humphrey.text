@@ -1,0 +1,48 @@
+hw cast 'holy word'
+nw gs tremor
+cb cast 'cure blind' $*
+5 cast 'word of recall' group
+oa order follower assist
+cal cast 'calm' $*
+word cast 'word of recall' $*
+de cast 'dispel evil' $*
+rel cast 'relocate' $*
+rpar cast 'remove para' $*
+cle cast 'cleanse' $*
+fl cast 'flame strike' $*
+rcu cast 'remove curse' $*
+sag cast 'sagacity' $*
+fort cast 'fortify' $*
+reg cast 'regenerate' $*
+bli cast 'blindness' $*
+fly cast 'fly' $*
+inf cast 'infravision'
+cf cast 'create food'
+sl c 'sen lif' $*
+arm c 'armor' $*
+sum cast 'summon' $*
+di c 'det invis' $*
+h c 'heal' $*
+rpo c 'rem poi' $*
+ble c 'bless' $*
+ha cas 'harm' $*
+war cas 'ward' $*
+ma cas 'male'
+san cas 'san' $*
+assi cast 'assistant'
+ear cast 'earthquake'
+deta cast 'detect align' $*
+sac cast 'sacrifice' $*
+3 des hump
+ban cast 'banish' $*
+2 wear all
+r cast 'revive' $*
+1 get all humphrey
+sw scan
+x get all corpse
+se kil 2.
+z destroy corpse
+ok order follower kill $*
+op order follower $*
+dis cast 'dishearten' $*
+gt gt &14+&13$* &14+&00

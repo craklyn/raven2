@@ -1,0 +1,47 @@
+air cast 'air'$*
+infra c 'infra'$*
+dd drop dice
+db c 'doom bolt' $1
+rr reelin
+co castout
+ry cast 'port' rhyvis
+ss tell cry sum
+dt drink thimble
+charm cast 'charm' $*
+sum cast 'summon' $1
+1 cast 'color spray'
+inf cast 'infravision' $1
+` say samsera
+mon cast 'monster summon'
+loc c 'locat objec' $1
+str c 'str' $1
+shield c 'shield' $1
+fly c 'fly' $1
+fb c 'flame blade' $1
+awa c 'awaken' $1
+col c 'color spra'
+invis c 'invis' $1
+bl c 'blind' $1
+cp c 'color spray' $1
+haste cast 'haste' $1
+id cast 'ident' $1
+qw drink thimble
+loot get all all.globe
+mm cast 'magic' $*
+gac get all corpse
+lic look in corpse
+cm cast 'monster summon'
+gt gt '&09 $* &00'
+gd get dice
+sle or fol sle;;slee
+wa wake;;or fol wake;;or fol stand;;stand
+ri reelin
+z or fol as
+mer or fol k mer;;as;;c 'col
+port c 'portal' $1
+feeb cast 'feeble' $*
+gate cast 'gate'
+o order follower kill $*
+sp c ' doom bolt ' $*
+a assist
+ts cast 'true sight'$*

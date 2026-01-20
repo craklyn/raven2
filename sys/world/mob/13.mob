@@ -1,0 +1,375 @@
+#1300
+H W 0~
+farmer 3swords~
+the Farmer~
+A farmer walks around, looking for something to do.
+~
+This farmer is worried about Aglandir penting his
+rage upon the people of Stanneg.
+~
+583884 0 0 0 33832 0 0 0 500
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1301
+H W 0~
+storekeeper 3swords~
+the Storekeeper~
+A storekeeper waits for you to do something.
+~
+The storekeeper keeps a warie eye on you as he
+waits for you to buy something.  
+~
+10 0 0 0 0 0 0 0 750
+20 1 0 3d5+245 3d6+6
+40 40
+9 9 1 0 -1 -1
+#1302
+H W 0~
+stable hand 3swords~
+the stable hand~
+A stable hand stand here ready to defend her horses...
+~
+This woman seems ready for anything you might do...
+she is truly a woman to be reckoned with...
+~
+583886 0 0 0 1064 0 0 0 750
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 2 0 -1 -1
+#1303
+A W 0~
+horse 3swords~
+the Horse~
+A horse does horsely things here.
+~
+This horse looks like a nice horse.  It looks at you
+with soft brown eyes and you want to give it a carrot.
+~
+587982 0 0 0 1064 0 0 0 1000
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1304
+H T 0~
+farmer's wife 3swords~
+the Farmer's Wife~
+A farmer's wife offers you some vegetables.
+~
+This woman has many different types of fruits and
+vegetables for you to buy.  She looks a bit worried, 
+though.
+~
+10 0 0 0 0 0 0 0 500
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 2 0 -1 -1
+#1305
+D C 1~
+Aglandiir dragon 3swords~
+Aglandiir~
+The Dragon Prince, Aglandiir, glares at you.
+~
+Aglandiir is a prince of his kind, and he didn't get where 
+he is today by letting people steal from him.
+~
+8583260 0 0 0 33960 0 0 0 -1000
+35 5 -1 1d1+2000 8d7+15
+50 60
+9 9 1 0 -1 -1
+#1306
+G W 0~
+Cyclops 3swords~
+the Cyclops~
+A Cyclops is here, trying to judge range with no depth perception.
+~
+This Cyclops throws rocks real good.  With one eye though, 
+hitting the target is another matter.  He looks at you and 
+growls as he misses again!
+~
+583886 0 0 0 0 0 0 0 -500
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1307
+H W 0~
+Salle woman 3swords~
+Salle~
+A woman fixes her eyes upon you.
+~
+   She is a stunning woman, all hair and eyes, it seems.
+Her clothing is of the same tawny brown of her skin and
+hair.  Her blue eyes look at you appraisingly, seemingly
+to show great intelligence.  Her mouth twitches into a 
+sneer...
+~
+190684 0 0 0 33960 0 0 0 -600
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 2 0 -1 -1
+#1308
+G A 0~
+Duwick man 3swords~
+Duwick~
+A truly immense man glares at you.
+~
+   This has to be one of the biggest men you've ever seen.  
+He is a full seven feet toe to head, and weighs a good three 
+hundred pounds -- mostly on his biceps and pectorals it appears.  
+An empty ornate scabbard slaps by his side.
+~
+583916 0 0 0 33832 0 0 0 -900
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1309
+H W 0~
+Receptionist 3swords~
+the Receptionist~
+Due to reconstruction, the Receptionist offers you a trip to a city near by.
+~
+   He looks like a retired farmer now making an honest living
+in an inn.  More power to him!
+~
+16394 0 0 0 1064 0 0 0 400
+35 5 -1 8d7+12 2d7+1
+50 60
+9 9 1 0 -1 -1
+#1310
+H W 0~
+innkeeper 3swords~
+the innkeeper~
+An aged innkeeper greets you as you enter.
+~
+   He's old and greying, but seems to have been able to
+keep his mental faculties through the years.  A large
+woolen sweater is wrapped about him for warmth.  His
+blue eyes dance with amusement as he notices your weapons,
+but he doesn't seem too terribly startled.
+~
+583822 0 0 0 1064 0 0 0 750
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1311
+H R 0~
+hunter 3swords~
+the hunter~
+A hunter checks his weapon.
+~
+   He looks mean, as if the very personality of the mountains
+had infected him with hardness.  His stance is purposeful,
+his face weathered, his eyes cold and dark.
+~
+583884 0 0 0 1049640 0 0 0 500
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1312
+H W 0~
+waiter 3swords~
+a waiter~
+A waiter rushes by, intent on his business.
+~
+   He looks harried from the way he hastily takes orders and 
+rushes in the back to get food, and to the bar for drinks.  
+He doesn't even spare you a glance as he passes by.
+~
+583822 0 0 0 1049640 0 0 0 1000
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1313
+H W 0~
+waitress 3swords~
+a waitress~
+A waitress rushes by, intent on her business.
+~
+   She looks harried from the way she hastily takes orders and rushes
+in the back to get food, and to the bar for drinks.  She doesn't even
+spare you a glance as she passes by.
+~
+583886 0 0 0 1049640 0 0 0 1000
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 2 0 -1 -1
+#1314
+H T 0~
+bartender 3swords~
+a bartender~
+A bartender washes a glass idly here.
+~
+   He nods, smiles, and asks you what you would like to drink.
+As you decide, he slowly polishes a glass with an old bar
+rag.  The glass is completely clean, but he polishes it anyway.
+Go figure.
+~
+16394 0 0 0 1064 0 0 0 1000
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1315
+H T 0~
+bandit 3swords~
+the bandit~
+A bandit springs into action upon seeing you.
+~
+   Whew!  Has this guy ever seen a bath?  His face, hands, arms...
+nearly every bit of him is covered with grime, dust, dirt and
+decay.  His sword is polished and cleaned though...
+~
+583900 0 0 0 1311784 0 0 0 -500
+35 5 -1 1d1+1600 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1316
+H W 0~
+bandit guard 3swords~
+the bandit guard~
+A bandit guard stands at attention here.
+~
+   He may be a bandit, but he's no slacker.  You wonder
+who would be able to keep these bandits in line enough
+to pull a good guard duty...
+
+(boy is this guy DIRTY!!!)
+~
+583838 0 0 0 1049640 0 0 0 -500
+35 5 -1 1d1+1600 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1317
+H T 0~
+drunk citizen 3swords~
+the drunk~
+A citizen is drowning his worries..
+~
+   The drunk citizen sits here staring into his ale.
+He is worried about Aglandirs rage also.
+~
+583822 0 0 0 1049640 0 0 0 1000
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1318
+H W 0~
+citizen 3swords~
+the citizen~
+A citizen walks around, looking a bit worried.
+~
+This citizen is a resident of Stanneg by the Mountains,
+and as such, is worried about Aglandirs rage.
+~
+583884 0 0 0 1082408 0 0 0 1000
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 1 0 -1 -1
+#1319
+H W 0~
+Gabadiel 3swords~
+Gabadiel~
+Gabadiel sits in the corner and laughs at you.
+~
+  One look into this mans eyes and you know what 
+madness looks like.
+~
+555214 0 0 0 1082536 0 0 0 500
+45 3 -6 1d1+5000 8d7+15
+65 75
+6 9 1 0 -1 -1
+#1321
+H W 0~
+bartender cook 3swords~
+the Cook~
+The Chief Cook-Bartender offers you a meal and drink.
+~
+   Before you stands a moderately normal fellow of average height and build.  
+He wears a white apron about his middle to denote his occupation here as cook
+and bartender.  He gives you a quick wink and a small and motions for you to
+partake in a glass of mead, or perhaps beer.    
+~
+16410 0 0 0 1064 0 0 0 1000
+35 5 -1 1d1+1550 8d7+12
+50 60
+9 9 0 0 -1 -1
+#1370
+P R 0~
+potted plant~
+a &09potted plant&00 (Level 1)~
+A nondescript &09plant&00 in a pot sits here, oddly enough.
+~
+Did you think this was something worth further inspection? It's a
+small green plant embedded in some rather rich looking soil. Actually, does
+it have teeth? Perhaps you should lean in closer...
+~
+86042 0 0 0 0 0 0 0 0
+51 5 -1 1d1+100 1d1+3
+15 100
+9 9 0 0 -1 -1
+Z 806
+#1371
+A W 0~
+crabs~
+a group of tiny &00&01crabs&00 (Level 2)~
+A small group of &00&01crabs&00 have wandered here from the ocean.
+~
+There are quite a few of these tiny crustacean critters clattering around.
+They noisily snap their tiny claws as they aggressively move towards you.
+Funny, you could crush all of them, at the same time, with one foot.
+They sure look like they mean business though.
+~
+86042 0 0 0 0 0 0 0 0
+51 0 -2 1d1+500 1d1+10
+20 100
+9 9 0 0 -1 -1
+Z 806
+#1372
+A W 0~
+angry chicken~
+a large &08angry &14chicken&00 (Level 3)~
+An &08angry &14chicken&00 is here, squawking incessantly.
+~
+Whatever made this chicken angry sure did its job well. Strutting back
+and forth in a typical bird-like motion this chicken will not stop squawking.
+Not your average size bird this chicken stands about three feet tall.
+Its feathers have been ruffled to the max giving it an even larger appearance.
+~
+86042 0 0 0 0 0 0 0 0
+51 -3 -1 1d1+750 1d1+15
+25 100
+9 9 0 0 -1 -1
+Z 806
+#1373
+A W 0~
+flying frogs~
+a group of &09flying frogs&00 (Level 4)~
+A group of &09frogs&00 are hovering in midair...?
+~
+These are very large frogs. Time has been kind to them and afforded
+them the opportunity to sprout wings and take flight. They are
+however very clumsy while moving around in the air. It sure has made
+hunting much easier for them. They all stare at you, blankly.
+~
+86042 0 0 0 0 0 0 0 0
+51 -5 -1 1d1+750 1d1+18
+25 100
+9 9 0 0 -1 -1
+Z 806
+#1380
+T W 0~
+internet troll~
+an &00&03internet troll&00 (Level 10)~
+A large &00&03troll&00 stands here, goading you about something!
+~
+Ah. An infamous internet troll. He is quite a large fellow, with
+brown fur covering most of his body. While he is rather short with
+stubby legs, he makes up for it with speed. He is also trying to lure
+you into something much more dangerous...an argument about politics
+or health care!
+~
+86042 0 0 0 1115176 32 0 0 0
+51 -10 -8 100d4+5600 6d6+45
+50 60
+9 9 1 0 -1 -1
+Z 802
+$

@@ -1,0 +1,30 @@
+o cast 'heal' kryll $*
+wa wake;stand$*
+food c 'creat food' $*
+eat eat way;eat way;drin thimble;drin thimble $*
+1 cast 'bless' $*
+2 cast 'ward' $*
+3 cast 'armor' $*
+4 cast 'blind' $*
+5 cast 'heal' $*
+6 cast 'summon' $*
+7 cast 'detect invis' $*
+8 cast 'infra' $*
+9 cast 'regen' $*
+10 cast 'word' $*
+11 cast 'fly' $*
+12 cast 'earth' $*
+13 cast 'cure blind' $*
+14 cast 'harm' $*
+15 cast 'sanc' $*
+16 cast 'fort' $*
+17 familiarize $*
+18 cast 'assistant' $*
+19 cast 'cure poison' $*
+20 cast 'cleanse' $*
+r rec elv $*
+say say &11*&13~ &14$*  &13~&11* &00
+gt gt &11*&13~ &14$*  &13~&11* &00
+00 scan $*
+p get all elmo;wear all;get all elmo;wear all $*
+title title - &07Ninky &08D&07emolished my tit&08L&07e &00

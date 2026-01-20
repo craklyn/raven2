@@ -1,0 +1,135 @@
+#20301
+H W 0~
+gnoll~
+a Gnoll~
+A Gnoll is resting here.
+~
+The Gnoll is trying to decide if you are a friend or foe...Gnolls
+aren't very smart, you know.
+~
+24648 0 0 0 1064 0 0 0 -1000
+30 20 10 5d5+1500 1d6+1
+50 60
+7 9 1 0 -1 -1
+#20302
+H W 0~
+gnoll m20302~
+a Gnoll~
+A Gnoll stands here with a dumb look on his face.
+~
+The Gnoll is trying to decide if you are a friend or foe...Gnolls
+aren't very smart, you know.
+~
+24648 0 0 0 1064 0 0 0 -1000
+20 20 10 5d5+1500 1d6+1
+40 40
+9 9 1 0 -1 -1
+#20303
+H W 0~
+gnoll female~
+a Gnoll Female~
+A Gnoll female stands here.
+~
+The Gnoll female doesn't look much different from the males...
+~
+24648 0 0 0 0 0 0 0 -1000
+20 20 10 5d5+1500 1d6+1
+40 40
+9 9 2 0 -1 -1
+#20304
+H W 0~
+gnoll whelp~
+a Gnoll Whelp~
+A Gnoll whelp is playing here.
+~
+It looks like a miniature gnoll.  You have no idea what sex it is,
+though.
+
+~
+24648 0 0 0 0 0 0 0 -1000
+5 5 2 2d8+50 1d4+1
+35 40
+9 9 0 0 -1 -1
+#20305
+H W 0~
+gnoll weapon master~
+the Gnoll Weapon Master~
+The Gnoll weapon master stands here.
+~
+The gnoll weapon master doesn't look much smarter than the other gnolls.
+He just happens to have lived longer and got stuck with this duty.
+~
+74 0 0 0 0 0 0 0 -1000
+25 0 -2 5d5+500 1d7+10
+40 40
+9 9 1 0 0 0
+#20306
+H W 0~
+gnoll armor master~
+the Gnoll Armor Master~
+The Gnoll armor master stands here.
+~
+The gnoll weapon master doesn't look much smarter than the other gnolls.
+He just happens to have lived longer and got stuck with this duty.
+~
+24650 0 0 0 0 0 0 0 -1000
+25 0 -2 5d5+500 1d7+10
+40 40
+9 9 1 0 -1 -1
+#20307
+H H 0~
+gnoll shaman~
+the Gnoll Shaman~
+The Gnoll Shaman stands here looking holy.
+~
+This is the gnoll's version of a wise man.  It just looks like an old
+gnoll to you.
+~
+74 0 0 0 0 0 0 0 -1000
+25 0 -2 5d5+500 1d7+10
+40 40
+9 9 1 0 -1 -1
+#20308
+H W 0~
+gnoll chief~
+the Gnoll Chief~
+The Gnoll Chief stands here looking regal...sort of.
+~
+This is the Chief of the Black Fang tribe, leader of this camp.
+Unfortunately for him, you aren't impressed.
+
+~
+74 0 0 0 0 0 0 0 -1000
+30 0 -4 5d6+1000 4d5+10
+50 60
+9 9 1 0 -1 -1
+#20309
+H W 0~
+half orc bandit~
+a Half-orc Bandit~
+A Half-orc bandit stands here.
+~
+What an ugly dude!  Half-orc and half-human (you guess), this guy got
+the worst of both races.  Too bad he has an orc brain, or he would
+know that you mean him harm.
+
+~
+24648 0 0 0 0 0 0 0 -1000
+20 2 -3 5d5+300 2d5+5
+40 40
+9 9 1 0 -1 -1
+#20310
+H W 0~
+half orc bandit chief~
+the Half-orc Chief~
+The chief of the half-orcs stands here.
+~
+The half-orc chief is a little smarter than the other half-orcs of
+camp.  But he is still too dumb to realize what you are here for.
+
+~
+24650 0 0 0 0 0 0 0 -1000
+30 0 -4 5d5+1500 4d5+10
+50 60
+9 9 1 0 -1 -1
+$

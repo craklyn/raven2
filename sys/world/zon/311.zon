@@ -1,0 +1,67 @@
+#311
+DeathTrap Dungeon (40+group)~
+31199 240 1 0
+M 0 31002 30 31123   * Mob : a crowd of people
+M 0 31036 1 31110    * Mob : a ninja
+E 1 31101 1 12        * Eqp : a pair of ninja tiger claws
+E 1 31103 1 15       * Eqp : Armplates of the Sensei
+G 1 31106 1 -1       * Give: rice wrapped in palm leaf
+G 1 31105 1 -1       * Give: a flask of water
+G 1 31107 1 -1       * Give: a jar of healing ointment
+G 1 31102 4 -1       * Give: a shuriken
+O 0 31079 1 31100    
+P 1 31098 1 31079    * Put : a small leather pouch
+P 1 31080 1 31098    * Put : a grappling iron
+P 1 31099 1 31098    * Put : a tiny brass bell
+O 0 31033 1 31122    
+O 0 31130 1 31122    
+M 0 31034 1 31113    * Mob : a guard dog
+E 1 31112 2 4        * Eqp : a spiked dog collar
+P 1 31125 1 31112    * Put : an amulet of strength
+M 0 31035 1 31113    * Mob : a guard dog
+E 1 31112 2 4        * Eqp : a spiked dog collar
+D 0 31108 4 2        
+O 0 31109 1 31108    
+M 0 31032 1 31108    * Mob : an old man
+G 1 31129 1 -1       * Give: a basket shell
+D 0 31111 5 2        
+D 0 31111 1 1        
+M 0 31033 1 31111    * Mob : poison ivy
+O 0 31114 1 31111    
+P 1 31110 1 31114    * Put : a bone
+O 0 31083 1 31103    
+M 0 31028 3 31103    * Mob : a primitive troglodyte
+E 1 31085 3 19       * Eqp : a crude wooden spear
+E 1 31086 3 16       * Eqp : a shit-stained loincloth
+M 0 31029 3 31103    * Mob : a primitive troglodyte
+E 1 31084 3 19       * Eqp : a crude stone axe
+E 1 31086 3 16       * Eqp : a shit-stained loincloth
+M 0 31030 3 31103    * Mob : a primitive troglodyte
+E 1 31085 3 19       * Eqp : a crude wooden spear
+E 1 31086 3 16       * Eqp : a shit-stained loincloth
+D 0 31102 1 1        
+O 0 31081 1 31102    
+P 1 31082 1 31081    * Put : a silver pendant
+D 0 31121 2 2        
+D 0 31121 0 2        
+D 0 31120 2 2        
+D 0 31120 0 2        
+D 0 31119 2 1        
+D 0 31119 0 2        
+D 0 31118 0 1        
+D 0 31118 2 1        
+D 0 31117 0 1        
+D 0 31116 2 1        
+D 0 31115 0 1        
+D 0 31115 2 1        
+D 0 31114 0 1        
+D 0 31105 2 2        
+D 0 31104 0 2        
+D 0 31101 3 1        
+M 0 31049 1 31115    * Mob : a pit fiend
+G 1 31113 1 -1       * Give: a magnificent shield
+M 0 31023 1 31117    * Mob : the bloodbeast
+M 0 31037 1 31118    * Mob : a manticore
+M 0 31038 1 31119    * Mob : a gnomish trialmaster
+S
+$

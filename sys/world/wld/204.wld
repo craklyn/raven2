@@ -1,0 +1,1184 @@
+#20400
+Quest Playing Field - Additions~
+Due to the large amount of players and changes that the Flag games go
+through, I've decided to add some additions to smooth out the gameplay.
+
+Since the secret door concept is not 'secret', ill be adding a dungeon area 
+underneath the flag game playing field. This will act as a 'Gauntlet'
+that is..a set of rooms with some soundproof, !recall, flags in them.
+
+The gauntlet will be linear with a center what has 3 branches..each 'branch will
+be a tunnel, hence blockable..making the center the only way through.
+Ultimately, what i would prefer is a set of 'Duel' rooms, that allow only
+2 players in, forcing a number of one on one confrontations. Hopefully
+channeling the area will cause this anyways.
+I should add a few one way rooms as well. Maybe 4 branches. 2 one way.
+and 2  2 ways.
+
+Kurse 1999
+~
+204 520 0 0 0 0 255 0
+S
+#20401
+&00The Gauntlet - &05Black&00 Dungeon~
+   You arrive in a short corridor, lit only by the torches that flank the
+walls.  Strangely enough, the walls themselves are made of ebony as black as
+night, and split off into three corridors, none of which you can see very far
+into.  Dare you run the Gauntlet?    
+~
+204 33288 0 0 0 0 255 0
+D0
+~
+~
+0 0 20406
+D1
+~
+~
+0 0 20402
+D2
+~
+~
+0 0 20419
+D4
+The gauntlet entry to the Black Castle lies overhead.
+~
+gauntlet door entry iris grate~
+1 -1 20178
+S
+#20402
+The Black Gauntlet~
+   You have entered into a tunnel constructed of perfectly shaped bricks of
+ebony, forming a perfectly smooth surface.  Great care was taken into the
+creation of this passage, indicating that it may be of some importance.  It
+goes as far as the eye can see to the east.  You can see the entry to the black
+gauntlet to the west.    
+~
+204 557832 0 0 0 0 255 0
+D1
+~
+~
+0 0 20403
+D3
+~
+~
+0 0 20401
+S
+Z 16
+#20403
+The Black Gauntlet~
+   You have entered into a tunnel constructed of perfectly shaped bricks of
+ebony, forming a perfectly smooth surface.  Great care was taken into the
+creation of this passage, indicating that it may be of some importance.  It
+goes as far as the eye can see to the east.  You can see the entry to the black
+gauntlet to the west.    
+~
+204 557832 0 0 0 0 255 0
+D1
+~
+~
+0 0 20404
+D3
+~
+~
+0 0 20402
+S
+Z 16
+#20404
+The Black Atrium~
+   The tunnel widens at this point to a larger circular room with passages in
+all directions.  As soon as you step into the chamber, your magical items which
+glow begin to fade, as well as your spells, leading you to believe that there
+is some type of anti magic enchantment in place.  An odd humming noise emanates
+from the east.    
+~
+204 33420 0 0 0 0 255 0
+D0
+~
+~
+0 0 20407
+D1
+~
+~
+0 0 20405
+D2
+~
+~
+0 0 20420
+D3
+~
+~
+0 0 20403
+S
+#20405
+The Black Machine Room~
+   You have entered an odd chamber of metal and stone.  Immense steel pipes,
+gears, and wheels lie embedded into the rock overhead in a complex
+configuration.  Suspecting that this is the mechanism used to raise and lower
+the colossal Portcullis above the earth, you follow the maze of pipes down to a
+gearbox on the wall.  An obvious gnomish invention, the gearbox is covered with
+a number of odd looking buttons you dare not press.  A central alcove lies to
+the east.    
+~
+204 33288 0 0 0 0 255 0
+D1
+~
+~
+0 0 20429
+D3
+~
+~
+0 0 20404
+S
+#20406
+A blackened tunnel~
+   You step into a long corridor which stretches north-south.  The footing is
+rather unsure here, so you use roughly hewn walls as a guide to prevent
+yourself from tripping.  You hear the sound of wind to the north.    
+~
+204 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 20409
+D2
+~
+~
+0 0 20401
+S
+#20407
+A passageway~
+   From this point, the black passage stretches in three directions.  To the
+north lies a rocky chasm, to the south a large atrium, and to the east lies a
+large room filled with odd machinery.  Interesting slabs of stone and contours
+in the walls make this an ideal room for fighting battles.    
+~
+204 32776 0 0 0 0 255 0
+D0
+A large slab of stone can be used to block the passage north.
+~
+slab stone door~
+1 -1 20412
+D1
+~
+~
+0 0 20408
+D2
+~
+~
+0 0 20404
+S
+#20408
+The Black Machine Room~
+   You have entered an odd chamber of metal and stone.  Immense steel pipes,
+gears, and wheels lie embedded into the rock overhead in a complex
+configuration.  Suspecting that this is the mechanism used to raise and lower
+the colossal Portcullis above the earth, you follow the maze of pipes down to a
+gearbox on the wall.  An obvious gnomish invention, the gearbox is covered with
+a number of odd looking buttons you dare not press.  A central alcove lies to
+the east.    
+~
+204 33288 0 0 0 0 255 0
+D1
+~
+~
+0 0 20428
+D3
+~
+~
+0 0 20407
+S
+#20409
+The Cliff~
+   The black corridor gives way to this small clearing of rock which overlooks
+a bottomless chasm.  A cold wind blows fiercely from the depths of the fall,
+near knocking you off the ledge.  Far in the distance, you see the other side.
+  
+~
+204 33289 0 0 0 0 255 0
+D1
+~
+~
+0 0 20410
+D2
+~
+~
+0 0 20406
+S
+#20410
+The Gaping Maw~
+   The ground disappears from under your feet, giving way to an enourmous black
+chasm.  The edges of the huge hole are jagged, with many sharp outcrops, giving
+it the frightening appearance of a enourmous mouth trying to swallow you whole.
+A terrible wind roars from the depths, near blowing you into the edged rocks.
+  
+~
+204 98824 0 0 0 0 255 0
+D1
+~
+~
+0 0 20411
+D3
+~
+~
+0 0 20409
+D5
+~
+~
+0 0 20413
+S
+#20411
+The Gaping Maw~
+   The ground disappears from under your feet, giving way to an enourmous black
+chasm.  The edges of the huge hole are jagged, with many sharp outcrops, giving
+it the frightening appearance of a enourmous mouth trying to swallow you whole.
+A terrible wind roars from the depths, near blowing you into the edged rocks.
+  
+~
+204 98824 0 0 0 0 255 0
+D1
+~
+~
+0 0 20412
+D3
+~
+~
+0 0 20410
+D5
+~
+~
+0 0 20416
+S
+#20412
+The Cliff~
+   The black corridor gives way to this small clearing of rock which overlooks
+a bottomless chasm.  A cold wind blows fiercely from the depths of the fall,
+near knocking you off the ledge.  Far in the distance, you see the other side.
+  
+~
+204 33289 0 0 0 0 255 0
+D2
+~
+~
+0 0 20407
+D3
+~
+~
+0 0 20411
+D4
+~
+~
+0 0 20158
+S
+#20413
+The Chasm~
+   You fall deeper into the dark chasm and begin to shiver as the frigid wind
+from below buffets you and slows any attempt at a descent.  A hissing sound
+seems to be coming from the void below.    
+~
+204 98889 0 0 0 9 255 0
+D4
+~
+~
+0 0 20410
+D5
+~
+~
+0 0 20414
+S
+#20414
+Falling~
+   You have fallen further into the blackness of the chasm and at last see the
+source of the wind.  Geysers of freezing mist rush from cracks in the rock,
+frosting your flesh.  You begin to fall faster as you no longer have the
+updraft of mist to support you.    
+~
+204 4784712 0 0 0 9 255 0
+D4
+~
+~
+0 0 20413
+D5
+~
+~
+0 0 20415
+S
+#20415
+Falling~
+   'Gee..  I guess there is a bottom.  ' you think just as your body slams into
+the spiny rocks which cover the base of the chasm, impaling it.  The last thing
+you remember is the coppery taste of blood in your mouth.    
+~
+204 10 0 0 0 0 255 0
+S
+#20416
+The Chasm~
+   You fall deeper into the dark chasm and begin to shiver as the frigid wind
+from below buffets you and slows any attempt at a descent.  A hissing sound
+seems to be coming from the void below.    
+~
+204 98889 0 0 0 9 255 0
+D4
+~
+~
+0 0 20411
+D5
+~
+~
+0 0 20417
+S
+#20417
+Falling~
+   You have fallen further into the blackness of the chasm and at last see the
+source of the wind.  Geysers of freezing mist rush from cracks in the rock,
+frosting your flesh.  You begin to fall faster as you no longer have the
+updraft of mist to support you.    
+~
+204 4784712 0 0 0 9 255 0
+D4
+~
+~
+0 0 20416
+D5
+~
+~
+0 0 20418
+S
+#20418
+Rock Bottom~
+   'Gee..  I guess there is a bottom.  ' you think just as your body slams into
+the spiny rocks which cover the base of the chasm, impaling it.  The last thing
+you remember is the coppery taste of blood in your mouth.    
+~
+204 10 0 0 0 0 255 0
+S
+#20419
+A blackened tunnel~
+   You step into a long corridor which stretches north-south.  The footing is
+rather unsure here, so you use roughly hewn walls as a guide to prevent
+yourself from tripping.  The air seems to be more humid to the south.    
+~
+204 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 20401
+D2
+~
+~
+0 0 20422
+S
+#20420
+A passageway~
+   From this point, the black passage stretches in three directions.  To the
+south lies a dark, humid cavern, to the north a large atrium, and to the east
+lies a large room filled with odd machinery.  Interesting slabs of stone and
+contours in the walls make this an ideal room for fighting battles.    
+~
+204 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 20404
+D1
+~
+~
+0 0 20421
+D2
+A large slab of stone can be used to block the passage south.
+~
+slab stone door~
+1 -1 20423
+S
+#20421
+The Black Machine Room~
+   You have entered an odd chamber of metal and stone.  Immense steel pipes,
+gears, and wheels lie embedded into the rock overhead in a complex
+configuration.  Suspecting that this is the mechanism used to raise and lower
+the colossal Portcullis above the earth, you follow the maze of pipes down to a
+gearbox on the wall.  An obvious gnomish invention, the gearbox is covered with
+a number of odd looking buttons you dare not press.  A central alcove lies to
+the east.    
+~
+204 33288 0 0 0 0 255 0
+D1
+~
+~
+0 0 20430
+D3
+~
+~
+0 0 20420
+S
+#20422
+The Pool~
+   Eons of shifting in the strata of the underground bedrock have somehow led
+to the creation of this subterranean pool.  Water drips from an overhead
+stalagmite, causing ripples in the calm surface of the dark, dank water.  You
+are unable to see the bottom.    
+~
+204 33289 0 0 0 0 255 0
+D0
+~
+~
+0 0 20419
+D5
+~
+~
+0 0 20424
+S
+#20423
+The Pool~
+   Eons of shifting in the strata of the underground bedrock have somehow led
+to the creation of this subterranean pool.  Water drips from an overhead
+stalagmite, causing ripples in the calm surface of the dark, dank water.  You
+are unable to see the bottom.    
+~
+204 33289 0 0 0 0 255 0
+D0
+~
+~
+0 0 20420
+D5
+~
+~
+0 0 20427
+S
+#20424
+Deep Water~
+   You swim far beneath the surface of the world for what seems like an
+eternity.  Small bioluminescent creatures occasionally drift by..  Their
+sightless bodies glowing faintly.  You are surrounded on all sides by a
+darkness that seeks to consume you.  Envelope you.  Glancing upwards, you
+notice that the water is lighter.    
+~
+204 33289 0 0 0 8 255 0
+D1
+~
+~
+0 0 20425
+D4
+~
+~
+0 0 20422
+S
+#20425
+The Subterranean River~
+   You float in a darkened tunnel of water, deep within the bowels of the
+world.  The walls of this tunnel are perfectly smooth, indicating that somehow
+it was crafted by great might or magic.  Regardless, there once were great
+forces at work here.    
+~
+204 2130473 0 0 0 8 255 0
+D1
+~
+~
+0 0 20426
+D3
+~
+~
+0 0 20424
+S
+#20426
+The Subterranean River~
+   You float in a darkened tunnel of water, deep within the bowels of the
+world.  The walls of this tunnel are perfectly smooth, indicating that somehow
+it was crafted by great might or magic.  Regardless, there once were great
+forces at work here.    
+~
+204 2130473 0 0 0 8 255 0
+D1
+~
+~
+0 0 20427
+D3
+~
+~
+0 0 20425
+S
+#20427
+Deep Water~
+   You swim far beneath the surface of the world for what seems like an
+eternity.  Small bioluminescent creatures occasionally drift by..  Their
+sightless bodies glowing faintly.  You are surrounded on all sides by a
+darkness that seeks to consume you.  Envelope you.  Glancing upwards, you
+notice that the water is lighter.    
+~
+204 33289 0 0 0 8 255 0
+D3
+~
+~
+0 0 20426
+D4
+~
+~
+0 0 20423
+S
+#20428
+&07The Central Alcove&00~
+   You have entered into a narrowed passageway which has been cut smoothly out
+of the bedrock.  The base of the massive portcullis sits high above your head,
+indicating that this indeed is the center of the dungeon.  Small metal slats
+lie in the rock underneath your feet.  Given its size, you estimate that this
+room would be perfect to defend against the enemy, as no-one will be able to
+pass you into the room beyond.  As you take a step, you think you hear a
+'click'.    
+~
+204 10781389 0 0 0 0 255 0
+D1
+~
+~
+0 0 20451
+D3
+~
+~
+0 0 20408
+S
+#20429
+&07The Central Alcove&00~
+   You have entered into a narrowed passageway which has been cut smoothly out
+of the bedrock.  The base of the massive portcullis sits high above your head,
+indicating that this indeed is the center of the dungeon.  Small metal slats
+lie in the rock underneath your feet.  Given its size, you estimate that this
+room would be perfect to defend against the enemy, as No one will be able to
+pass you into the room beyond.    
+~
+204 10781389 0 0 0 0 255 0
+D1
+~
+~
+0 0 20435
+D3
+~
+~
+0 0 20405
+S
+Z 17
+#20430
+&07The Central Alcove&00~
+   You have entered into a narrowed passageway which has been cut smoothly out
+of the bedrock.  The base of the massive portcullis sits high above your head,
+indicating that this indeed is the center of the dungeon.  Small metal slats
+lie in the rock underneath your feet.  Given its size, you estimate that this
+room would be perfect to defend against the enemy, as No one will be able to
+pass you into the room beyond.  As you take a step, you think you hear a
+'click'.    
+~
+204 10519245 0 0 0 0 255 0
+D1
+~
+~
+0 0 20438
+D3
+~
+~
+0 0 20421
+S
+#20431
+&00The Gauntlet - &03Gold&00 Dungeon&00~
+   You arrive in a short corridor, lit only by the torches that flank the
+walls.  Strangely enough, the walls themselves are made of glittering gold, and
+split off into three corridors, none of which you can see very far into.  Dare
+you run the Gauntlet?    
+~
+204 33288 0 0 0 0 255 0
+D0
+~
+~
+0 0 20449
+D2
+~
+~
+0 0 20436
+D3
+~
+~
+0 0 20432
+D4
+The gauntlet entry to the Gold Castle lies overhead.
+~
+gauntlet door entry iris grate~
+1 -1 20078
+S
+#20432
+The Gold Gauntlet~
+   You have entered into a tunnel constructed of perfectly shaped bricks of
+gold, forming a perfectly smooth surface.  Great care was taken into the
+creation of this passage, indicating that it may be of some importance.  It
+goes as far as the eye can see to the west.  You can see the entry to the gold
+gauntlet to the east.    
+~
+204 557832 0 0 0 0 255 0
+D1
+~
+~
+0 0 20431
+D3
+~
+~
+0 0 20433
+S
+Z 16
+#20433
+The Gold Gauntlet~
+   You have entered into a tunnel constructed of perfectly shaped bricks of
+gold, forming a perfectly smooth surface.  Great care was taken into the
+creation of this passage, indicating that it may be of some importance.  It
+goes as far as the eye can see to the west.  You can see the entry to the gold
+gauntlet to the east.    
+~
+204 557832 0 0 0 0 255 0
+D1
+~
+~
+0 0 20432
+D3
+~
+~
+0 0 20434
+S
+Z 16
+#20434
+The Gold Atrium~
+   The tunnel widens at this point to a larger circular room with passages in
+all directions.  As soon as you step into the chamber, your magical items which
+glow begin to fade, as well as your spells, leading you to believe that there
+is some type of anti magic enchantment in place.  An odd humming noise emanates
+from the west.    
+~
+204 33420 0 0 0 0 255 0
+D0
+~
+~
+0 0 20450
+D1
+~
+~
+0 0 20433
+D2
+~
+~
+0 0 20437
+D3
+~
+~
+0 0 20435
+S
+#20435
+The Gold Machine Room~
+   You have entered an odd chamber of metal and stone.  Immense steel pipes,
+gears, and wheels lie embedded into the rock overhead in a complex
+configuration.  Suspecting that this is the mechanism used to raise and lower
+the colossal Portcullis above the earth, you follow the maze of pipes down to a
+gearbox on the wall.  An obvious gnomish invention, the gearbox is covered with
+a number of odd looking buttons you dare not press.  A central alcove lies to
+the wast.    
+~
+204 33288 0 0 0 0 255 0
+D1
+~
+~
+0 0 20434
+D3
+~
+~
+0 0 20429
+S
+#20436
+A tunnel of gold~
+   You step into a long corridor which stretches north-south.  The footing is
+rather unsure here, so you use roughly hewn walls as a guide to prevent
+yourself from tripping.  You hear the sound of wind to the south.    
+~
+204 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 20431
+D2
+~
+~
+0 0 20439
+S
+#20437
+The passageway~
+   From this point, the gold passage stretches in three directions.  To the
+south lies a rocky chasm, to the north a large atrium, and to the west lies a
+large room filled with odd machinery.  Interesting slabs of stone and contours
+in the walls make this an ideal room for fighting battles.    
+~
+204 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 20434
+D2
+A large slab of stone can be used to block the passage south.
+~
+slab stone door~
+1 -1 20442
+D3
+~
+~
+0 0 20438
+S
+#20438
+The Gold Machine Room~
+   You have entered an odd chamber of metal and stone.  Immense steel pipes,
+gears, and wheels lie embedded into the rock overhead in a complex
+configuration.  Suspecting that this is the mechanism used to raise and lower
+the colossal Portcullis above the earth, you follow the maze of pipes down to a
+gearbox on the wall.  An obvious gnomish invention, the gearbox is covered with
+a number of odd looking buttons you dare not press.  A central alcove lies to
+the west.    
+~
+204 33288 0 0 0 0 255 0
+D1
+~
+~
+0 0 20437
+D3
+~
+~
+0 0 20430
+S
+#20439
+The Cliff~
+   The gold corridor gives way to this small clearing of rock which overlooks a
+bottomless chasm.  A cold wind blows fiercely from the depths of the fall, near
+knocking you off the ledge.  Far in the distance, you see the other side.    
+~
+204 33289 0 0 0 0 255 0
+D0
+~
+~
+0 0 20436
+D3
+~
+~
+0 0 20440
+S
+#20440
+The Gaping Maw~
+   The ground disappears from under your feet, giving way to an enourmous black
+chasm.  The edges of the huge hole are jagged, with many sharp outcrops, giving
+it the frightening appearance of a enourmous mouth trying to swallow you whole.
+A terrible wind roars from the depths, near blowing you into the edged rocks.
+  
+~
+204 98824 0 0 0 0 255 0
+D1
+~
+~
+0 0 20439
+D3
+~
+~
+0 0 20441
+D5
+~
+~
+0 0 20443
+S
+#20441
+The Gaping Maw~
+   The ground disappears from under your feet, giving way to an enourmous black
+chasm.  The edges of the huge hole are jagged, with many sharp outcrops, giving
+it the frightening appearance of a enourmous mouth trying to swallow you whole.
+A terrible wind roars from the depths, near blowing you into the edged rocks.
+  
+~
+204 98824 0 0 0 0 255 0
+D1
+~
+~
+0 0 20440
+D3
+~
+~
+0 0 20442
+D5
+~
+~
+0 0 20446
+S
+#20442
+The Cliff~
+   The gold corridor gives way to this small clearing of rock which overlooks a
+bottomless chasm.  A cold wind blows fiercely from the depths of the fall, near
+knocking you off the ledge.  Far in the distance, you see the other side.    
+~
+204 33289 0 0 0 0 255 0
+D0
+~
+~
+0 0 20437
+D1
+~
+~
+0 0 20441
+S
+#20443
+The Chasm~
+   You fall deeper into the dark chasm and begin to shiver as the frigid wind
+from below buffets you and slows any attempt at a descent.  A hissing sound
+seems to be coming from the void below.    
+~
+204 98889 0 0 0 9 255 0
+D4
+~
+~
+0 0 20440
+D5
+~
+~
+0 0 20444
+S
+#20444
+Falling~
+   You have fallen further into the blackness of the chasm and at last see the
+source of the wind.  Geysers of freezing mist rush from cracks in the rock,
+frosting your flesh.  You begin to fall faster as you no longer have the
+updraft of mist to support you.    
+~
+204 4784713 0 0 0 9 255 0
+D4
+~
+~
+0 0 20443
+D5
+~
+~
+0 0 20445
+S
+#20445
+Rock Bottom~
+   'Gee..  I guess there is a bottom.  ' you think just as your body slams into
+the spiny rocks which cover the base of the chasm, impaling it.  The last thing
+you remember is the coppery taste of blood in your mouth.    
+~
+204 10 0 0 0 0 255 0
+S
+#20446
+The Chasm~
+   You fall deeper into the dark chasm and begin to shiver as the frigid wind
+from below buffets you and slows any attempt at a descent.  A hissing sound
+seems to be coming from the void below.    
+~
+204 98889 0 0 0 9 255 0
+D4
+~
+~
+0 0 20441
+D5
+~
+~
+0 0 20447
+S
+#20447
+Falling~
+   You have fallen further into the blackness of the chasm and at last see the
+source of the wind.  Geysers of freezing mist rush from cracks in the rock,
+frosting your flesh.  You begin to fall faster as you no longer have the
+updraft of mist to support you.    
+~
+204 4784713 0 0 0 9 255 0
+D4
+~
+~
+0 0 20446
+D5
+~
+~
+0 0 20448
+S
+#20448
+Rock Bottom~
+   'Gee..  I guess there is a bottom.  ' you think just as your body slams into
+the spiny rocks which cover the base of the chasm, impaling it.  The last thing
+you remember is the coppery taste of blood in your mouth.    
+~
+204 6 0 0 0 0 255 0
+S
+#20449
+A tunnel of gold~
+   You step into a long corridor which stretches north-south.  The footing is
+rather unsure here, so you use roughly hewn walls as a guide to prevent
+yourself from tripping.  The air seems to be more humid to the north.    
+~
+204 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 20452
+D2
+~
+~
+0 0 20431
+S
+#20450
+The passageway~
+   From this point, the gold passage stretches in three directions.  To the
+north lies a dark, humid cavern, to the south a large atrium, and to the wast
+lies a large room filled with odd machinery.  Interesting slabs of stone and
+contours in the walls make this an ideal room for fighting battles.    
+~
+204 32776 0 0 0 0 255 0
+D0
+A large slab of stone can be used to block the passage north.
+~
+slab stone door~
+1 -1 20453
+D2
+~
+~
+0 0 20434
+D3
+~
+~
+0 0 20451
+S
+#20451
+The Gold Machine Room~
+   You have entered an odd chamber of metal and stone.  Immense steel pipes,
+gears, and wheels lie embedded into the rock overhead in a complex
+configuration.  Suspecting that this is the mechanism used to raise and lower
+the colossal Portcullis above the earth, you follow the maze of pipes down to a
+gearbox on the wall.  An obvious gnomish invention, the gearbox is covered with
+a number of odd looking buttons you dare not press.  A central alcove lies to
+the west.    
+~
+204 33288 0 0 0 0 255 0
+D1
+~
+~
+0 0 20450
+D3
+~
+~
+0 0 20428
+S
+#20452
+The Pool~
+   Eons of shifting in the strata of the underground bedrock have somehow led
+to the creation of this subterranean pool.  Water drips from an overhead
+stalagmite, causing ripples in the calm surface of the dark, dank water.  You
+are unable to see the bottom.    
+~
+204 33289 0 0 0 0 255 0
+D2
+~
+~
+0 0 20449
+D5
+~
+~
+0 0 20454
+S
+#20453
+The Pool~
+   Eons of shifting in the strata of the underground bedrock have somehow led
+to the creation of this subterranean pool.  Water drips from an overhead
+stalagmite, causing ripples in the calm surface of the dark, dank water.  You
+are unable to see the bottom.    
+~
+204 33289 0 0 0 0 255 0
+D2
+~
+~
+0 0 20450
+D5
+~
+~
+0 0 20459
+S
+#20454
+Deep Water~
+   You swim, far beneath the surface of the world for what seems like an
+eternity.  Small bioluminescent creatures occasionally drift by..  Their
+sightless bodies glowing faintly.  You are surrounded on all sides by a
+darkness that seeks to consume you..  Envelope you.  Glancing upwards, you
+notice that the water is lighter.    
+~
+204 33289 0 0 0 8 255 0
+D3
+~
+~
+0 0 20455
+D4
+~
+~
+0 0 20452
+S
+#20455
+The Subterranean River~
+   You are in an unfinished room.  You float in a darkened tunnel of water,
+deep within the bowels of the world.  The walls of this tunnel are perfectly
+smooth, indicating that somehow it was crafted by great might or magic.  
+Regardless, there once were great forces at work here.    
+~
+204 2130473 0 0 0 8 255 0
+D1
+~
+~
+0 0 20454
+D3
+~
+~
+0 0 20456
+S
+#20456
+The Subterranean River~
+   You float in a darkened tunnel of water, deep within the bowels of the
+world.  The walls of this tunnel are perfectly smooth, indicating that somehow
+it was crafted by great might or magic.  Regardless, there once were great
+forces at work here.    
+~
+204 2130473 0 0 0 8 255 0
+D1
+~
+~
+0 0 20455
+D3
+~
+~
+0 0 20459
+S
+#20457
+Deep Water~
+   You swim far beneath the surface of the world for what seems like an
+eternity.  Small bioluminescent creatures occasionally drift by..  Their
+sightless bodies glowing faintly.  You are surrounded on all sides by a
+darkness that seeks to consume you.  Envelope you.  Glancing upwards, you
+notice that the water is lighter.    
+~
+204 809 0 0 0 8 255 0
+S
+#20458
+The Penalty Box~
+   Apparently, you've been a Bad Player(tm) and have been sent to the penalty
+box for a while.  Sit back, Relax, and watch the score for a while.  You'll get
+ejected back into the game in a bit.    
+~
+204 393392 4 0 0 0 255 0
+D0
+A Stout Door
+~
+penalty~
+2 0 20097
+S
+#20459
+Deep Water~
+You swim far beneath the surface of the world for what seems like an eternity. Small
+bioluminescent creatures occasionally drift by..their sightless bodies glowing faintly. You are
+surrounded on all sides by a darkness that seeks to consume you.envelope you. Glancing
+upwards, you notice that the water is lighter. 
+~
+204 33545 0 0 0 8 255 0
+D1
+~
+~
+0 0 20456
+D4
+~
+~
+0 0 20453
+S
+#20490
+The Waterfield~
+   You have somehow been transported to the inside of a self contained cube.  
+The cube is small, and to your horror..  Filled with water.  You swim in
+circles, desparately trying to find a seam or outline of something that might
+be a way out.    
+~
+204 2097225 0 0 0 8 255 0
+D0
+~
+~
+0 0 20493
+D4
+~
+~
+0 0 20491
+S
+#20491
+The Waterfield~
+   You have somehow been transported to the inside of a self contained cube.  
+The cube is small, and to your horror..  Filled with water.  You swim in
+circles, desparately trying to find a seam or outline of something that might
+be a way out.    
+~
+204 2097225 0 0 0 8 255 0
+D0
+~
+~
+0 0 20492
+D5
+~
+~
+0 0 20490
+S
+#20492
+The Waterfield~
+   You have somehow been transported to the inside of a self contained cube.  
+The cube is small, and to your horror..  Filled with water.  You swim in
+circles, desparately trying to find a seam or outline of something that might
+be a way out.    
+~
+204 2097225 0 0 0 8 255 0
+D2
+~
+~
+0 0 20491
+D5
+~
+~
+0 0 20493
+S
+#20493
+The Waterfield~
+   You have somehow been transported to the inside of a self contained cube.  
+The cube is small, and to your horror..  Filled with water.  You swim in
+circles, desparately trying to find a seam or outline of something that might
+be a way out.    
+~
+204 2097225 0 0 0 8 255 0
+D2
+~
+~
+0 0 20490
+D4
+~
+~
+0 0 20492
+S
+#20494
+&00The &03Golden&00 Web~
+   You fall, screaming until you hit what seems to be a net of gold.  
+Panicked, you try to move, and only succeed in tangling yourself further in the
+incredibly sticky strands..  Of web.  Unable to move from the incredibly
+durable webbing, you relax and spy something out of the corner of your eye.  A
+large golden arachnid..  That is slowly moving its grotesque body towards
+you...  Closer..  Closer...  Clo.    
+~
+204 2622176 0 0 0 0 255 0
+S
+#20495
+&00The &05Black&00 Web~
+   You fall, screaming until you hit what seems to be a net of ebony.  
+Panicked, you try to move, and only succeed in tangling yourself further in the
+incredibly sticky strands..  Of web.  Unable to move from the incredibly
+durable webbing, you relax and spy something out of the corner of your eye.  A
+large black arachnid..  That is slowly moving its grotesque body towards you...
+Closer..  Closer...  Clo.    
+~
+204 2622176 0 0 0 0 255 0
+S
+#20496
+The Penalty Box~
+   Apparently, you've been a Bad Player(tm) and have been sent to the penalty
+box for a while.  Sit back, Relax, and watch the score for a while.  You'll get
+ejected back into the game in a bit.    
+~
+204 2097904 4 0 0 0 255 0
+S
+$~

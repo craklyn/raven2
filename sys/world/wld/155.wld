@@ -1,0 +1,2320 @@
+#15501
+A Mysterious Dolmen~
+   Set firmly in the ground before you is an ancient dolmen, its surface 
+covered in lichen and its corners weathered to a rough hewn.  It looks as 
+though it hasn't been disturbed in ages; in fact there isn't a single track
+from an animal near it, save for what appear to be tracks left behind by men.
+~
+155 c 0 0 0 3
+D0
+The opening in the dolmen appears to be large enough for you to enter.
+~
+~
+0 -1 15502
+D2
+The black forest of Butwa-Phuque.
+~
+~
+0 -1 15622
+E
+dolmen~
+Looks as if it may have been crafted from limestone.  Large, heavy stones.
+~
+E
+opening~
+Seems a bit silly that anyone would bother exploring in there.
+~
+S
+#15502
+Inside the Dolmen~
+   Naturally, it is quite dark in here, and it feels very damp.  It appears 
+that you are standing next to a black pool of water; with your light you can
+see that it is very deep, and must lead some ways below ground.  There are
+some markings above you on the underside of the capstone.  Depending on just 
+how reckless you are there are TWO ways out, south ... and DOWN.
+~
+155 acd 0 0 0 0
+D2
+You see fresh air, solid ground, and an altogether nicer world out there.
+~
+~
+0 -1 15501
+D5
+Do you really want to make the plunge?  (and get wet too?)
+~
+~
+0 -1 15503
+E
+water pool black~
+The murky pool doesn't seem to support any life.  
+~
+E
+capstone~
+It looks like your average ancient capstone, there are markings on it.
+~
+E
+marking markings~
+Your education has paid off!  The ancient markings read :-
+   
+   "Only those who have become one with the Immortal Fire may pass here
+    to that Holy Place known unto all as the Isle of Druids, for those
+    unworthy will surely find their Perdition."
+~
+S
+#15503
+The Black Pool~
+   V
+      V
+          !!SPLASH!!  You drop bravely into the dark pool.  Rather than 
+explore its cavernous depths, you gratefully locate a pocket of air between 
+the water and an underground cavern as you rise to the surface.  You may 
+continue exploring to the east (or swim back).
+~
+155 acdh 0 0 0 6
+D1
+The way is no clearer with the light, you'll have to move to see anything.
+~
+~
+0 -1 15504
+D3
+Looks like an easy swim to the point where you dropped in.
+~
+~
+0 -1 15502
+E
+cavern~
+Hard as granite, and very close to the water's surface.  Watch your head!
+~
+S
+#15504
+Swimming Beneath the Cavern~
+   You have swum only a short distance, it seems, before sensing a source of
+relatively fresh air to the east.  At this point you tell yourself, "I need
+more adventure in my life, to turn west now would affirm my boorish self."
+~
+155 acdh 0 0 0 6
+D1
+Your hunch is correct!  There does appear to be a way out of this cavern.
+~
+~
+0 -1 15506
+D3
+It's too dark to see this way, but you could manage fine.
+~
+~
+0 -1 15505
+E
+cavern~
+Looks just like the cavern you swam beneath a moment ago.
+~
+S
+#15505
+Swimming Beneath the Cavern~
+  You have swum only a short distance, it seems, before sensing a source of
+relatively fresh air to the east.  At this point you tell yourself, "I need
+more adventure in my life, to turn west now would affirm my boorish self."
+The way west leads up and out of the cavern.
+~
+155 acdh 0 0 0 6
+D1
+There is evidence of another opening to the pool.
+~
+~
+0 -1 15504
+D3
+The point at which you originally entered is to the west.
+~
+~
+0 -1 15502
+E
+cavern~
+Looks just like the cavern you swam beneath a moment ago.
+~
+S
+#15506
+Emerging into the Fog~
+   Well, you've reached the edge of the subterranean pool and made it to this 
+obscure exit.  But looking around, you have to wonder, "where the heck am I?" 
+There aren't any signposts, or friendly guides lined up to show you around.  
+Guess you'll have to explore and discover whatever there is to discover. 
+~
+155 a 0 0 0 3
+D0
+Fog floats mysteriously before your eyes.
+~
+~
+0 -1 15506
+D1
+Fog floats mysteriously before your eyes.
+~
+~
+0 -1 15507
+D2
+Fog floats mysteriously before your eyes.
+~
+~
+0 -1 15506
+D5
+It's a murky pool that looks (amazingly) like a way out of here.
+~
+~
+0 -1 15504
+E
+fog~
+A fine mist that slowly dampens your clothing and obscures your vision.
+~
+S
+#15507
+In the Floating Fog~
+   You are completely surrounded by a curtain of fog, not sure which
+direction to take next.  You're thinking so far so good, since you don't 
+hear your name being called from somewhere deep in the fog (the horror!).
+~
+155 a 0 0 0 3
+D0
+More fog.
+~
+~
+0 -1 15507
+D1
+Did you see a light?  Nah, it MUST be your imagination.
+~
+~
+0 -1 15508
+D2
+More fog.
+~
+~
+0 -1 15507
+D3
+More fog.
+~
+~
+0 -1 15506
+E
+fog~
+A fine mist that slowly dampens your clothing and obscures your vision.
+~
+S
+#15508
+The Shimmering Fog~
+  You feel bittersweet at the moment, since to the east you spy a light that
+shimmers as the fog floats by.  Could it be an escape from this wretched
+void, or yet another unpleasant discovery?
+~
+155 a 0 0 0 3
+D0
+More fog.
+~
+~
+0 -1 15508
+D1
+Certainly looks like light, but you can't determine the source of it.
+~
+~
+0 -1 15509
+D2
+More fog.
+~
+~
+0 -1 15508
+D3
+More fog.
+~
+~
+0 -1 15507
+E
+fog~
+A fine mist that slowly dampens your clothing and obscures your vision.
+~
+E
+light~
+It is too faint from this point of view to learn any more about it.
+~
+S
+#15509
+The Shimmering Fog~
+  You feel bittersweet at the moment, since to the east you spy a light that
+shimmers as the fog floats by.  Could it be an escape from this wretched
+void, or yet another unpleasant discovery?
+~
+155 a 0 0 0 3
+D0
+The path stretches north, the end disappearing into fog.
+~
+~
+0 -1 15510
+D1
+All you know is that you can barely see through the fog to the east.
+~
+~
+0 -1 15509
+D2
+All you know is that you can barely see through the fog to the south.
+~
+~
+0 -1 15509
+D3
+All you know is that you can barely see through the fog to the west.
+~
+~
+0 -1 15508
+E
+light path stone~
+The stones of the path are very smooth, glowing with a mystical light.
+~
+S
+#15510
+The Luminous Path~
+   You are standing on a path that, although it appears to be paved of stone,
+glows with a faint, silver light.  Except for the fog that surrounds on 
+either side, you can't help but imagine that you are walking on a moon-beam.
+At least you can see where you are going now.
+The path continues north.
+~
+155 0 0 0 0 1
+D0
+The path stretches north, the end disappearing into fog.
+~
+~
+0 -1 15511
+D1
+All you know is that you can barely see through the fog to the east.
+~
+~
+0 -1 15510
+D2
+All you know is that you can barely see through the fog to the south.
+~
+~
+0 -1 15509
+D3
+All you know is that you can barely see through the fog to the west.
+~
+~
+0 -1 15510
+S
+#15511
+The Luminous Path~
+   You are standing on a path that, although it appears to be paved of stone,
+glows with a faint, silver light.  Except for the fog that surrounds on 
+either side, you can't help but imagine that you are walking on a moon-beam.
+At least you can see where you are going now.  The fog is thinner to the 
+northeast.  The path continues north.
+~
+155 c 0 0 0 1
+D0
+The path stretches north, the end disappearing into fog.
+~
+~
+0 -1 15512
+D1
+All you know is that you can barely see through the fog to the east.
+~
+~
+0 -1 15511
+D2
+All you know is that you can barely see through the fog to the south.
+~
+~
+0 -1 15510
+D3
+All you know is that you can barely see through the fog to the west.
+~
+~
+0 -1 15511
+S
+#15512
+Intersection at the Luminous Path~
+   You are standing, illuminated by this mystical path, at an intersection.
+To the east is a path that appears to be overhung with foliage.  To the west
+you notice the surface of a hewn stone wall barely hidden by fog.  The 
+luminous path continues north and south -- YOU FEEL VERY CAUTIOUS about 
+continuing north.
+~
+155 c 0 0 0 1
+D0
+It looks darker ahead, perhaps the end of the path?
+~
+~
+0 -1 15513
+D1
+An entrance to a fog-free area, looks like a different world lies this way.
+~
+~
+0 -1 15514
+D2
+You can see that the path continues south, disappearing into fog.
+~
+~
+0 -1 15511
+E
+stone wall~
+The wall looks fairly high and strong, you can't make out its breadth.
+~
+E
+vaulting foliage~
+Some sort of rosebush?  You can't really tell from here.
+~
+E
+light path~
+The stones of the path are very smooth, glowing with a mystical light.
+~
+S
+#15513
+Entrance to the Mound~
+   The fog dissipates and you stand before a monstrous earthen mound; its 
+face rises sharply above you casting an ominous shadow.  Set in the face 
+is a magnificent bronze door, its surface raised with a cast of two dragons, 
+each dragon clutching a great orb (symbolizing a struggle for something).
+You immediately realize that such an obvious entrance would not be left
+unguarded.  The luminous path disappears south into the fog.
+~
+155 0 0 0 0 1
+D0
+There is a VERY impenetrable bronze door.
+~
+bronze door~
+1 15521 15578
+D2
+The path continues south into the fog.
+~
+~
+0 -1 15512
+E
+orb~
+Noticing the patterns on its surface, the orb seems to resemble the moon.
+~
+E
+bronze door dragon dragons~
+The sculpted dragons appear to be fighting for possession of the orb.
+~
+S
+#15514
+The Arched Path~
+   You find yourself standing beneath an arched canopy of eglantine, its 
+sides firmly interwoven.  The air is clear and sweet with the scent of 
+roses, creating a peaceful atmosphere.  Your feet feel light, supported by 
+a cushion of fertile ground.  The path continues to the east.
+~
+155 ch 0 0 0 1
+D1
+This beautiful scene stretches on to the east.
+~
+~
+0 -1 15515
+D3
+Your view is slightly obscured by fog, but you can see a glowing light.
+~
+~
+0 -1 15512
+E
+arched eglantine canopy~
+A well-tended architecture of a rose-adorned sweetbriar.
+~
+S
+#15515
+The Arched Path~
+   You find yourself standing beneath an arched canopy of eglantine, its 
+sides firmly interwoven.  The air is clear and sweet with the scent of 
+roses, creating a peaceful atmosphere.  Your feet feel light, supported by 
+a cushion of fertile ground.  The path continues east and west.
+~
+155 ch 0 0 0 1
+D1
+This beautiful scene stretches on to the east.
+~
+~
+0 -1 15516
+D3
+This beautiful scene stretches on to the west.
+~
+~
+0 -1 15514
+E
+arched eglantine canopy~
+A well-tended architecture of a rose-adorned sweetbriar.
+~
+S
+#15516
+The Arched Path~
+   You find yourself standing beneath an arched canopy of eglantine, its 
+sides firmly interwoven.  The air is clear and sweet with the scent of 
+roses, creating a peaceful atmosphere.  Your feet feel light, supported by 
+a cushion of fertile ground.  To the east the path opens into a large open
+area of trees.
+~
+155 ch 0 0 0 1
+D1
+The path opens eastward into an expanse of trees.
+~
+~
+0 -1 15517
+D3
+This beautiful scene stretches on to the west.
+~
+~
+0 -1 15515
+E
+arched eglantine canopy~
+A well-tended architecture of a rose-adorned sweetbriar.
+~
+S
+#15517
+The Ash Grove~
+   . . . breathtakingly serene.  You are in the in the midst of a verdant
+grove of tall ash trees.  The ground is covered from row to row with 
+flowering clover, becoming lost in the tall grass between the trees on 
+either side.  The center of the grove is worn from the traffic of the
+inhabitants here, who seem to be oblivious to your presence.
+~
+155 0 0 0 0 2
+D0
+The grove stretches far north.
+~
+~
+0 -1 15520
+D1
+You view an impressive row of ashes a short distance to the east.
+~
+~
+0 -1 15518
+D3
+An arched path leads westward.
+~
+~
+0 -1 15516
+E
+ash tree trees~
+Tall leafy trees with trunks and limbs covered by a smooth, ashen bark.
+~
+S
+#15518
+The Ash Grove~
+   . . . breathtakingly serene.  You are in the in the midst of a verdant
+grove of tall ash trees.  The ground is covered from row to row with 
+flowering clover, becoming lost in the tall grass between the trees on 
+either side.  The center of the grove is worn from the traffic of the
+inhabitants here, who seem to be oblivious to your presence.
+~
+155 0 0 0 0 2
+D0
+The grove stretches far north.
+~
+~
+0 -1 15519
+D3
+You view an impressive row of ashes a short distance to the west.
+~
+~
+0 -1 15517
+E
+ash tree trees~
+Tall leafy trees with trunks and limbs covered by a smooth, ashen bark.
+~
+S
+#15519
+The Ash Grove~
+   . . . breathtakingly serene.  You are in the in the midst of a verdant
+grove of tall ash trees.  The ground is covered from row to row with 
+flowering clover, becoming lost in the tall grass between the trees on 
+either side.  The center of the grove is worn from the traffic of the
+inhabitants here, who seem to be oblivious to your presence.
+~
+155 0 0 0 0 2
+D0
+The grove stretches far north.
+~
+~
+0 -1 15522
+D2
+The grove ends south at a hedge of laurel.  Fog barely seeps through.
+~
+~
+0 -1 15518
+D3
+You view an impressive row of ashes a short distance to the west.
+~
+~
+0 -1 15520
+E
+ash tree trees~
+Tall leafy trees with trunks and limbs covered by a smooth, ashen bark.
+~
+S
+#15520
+The Ash Grove~
+   . . . breathtakingly serene.  You are in the in the midst of a verdant
+grove of tall ash trees.  The ground is covered from row to row with 
+flowering clover, becoming lost in the tall grass between the trees on 
+either side.  The center of the grove is worn from the traffic of the
+inhabitants here, who seem to be oblivious to your presence.
+~
+155 0 0 0 0 2
+D0
+The grove stretches far north.
+~
+~
+0 -1 15521
+D1
+You view an impressive row of ashes a short distance to the east.
+~
+~
+0 -1 15519
+D2
+The grove ends south at a hedge of laurel.  Fog barely seeps through.
+~
+~
+0 -1 15517
+E
+ash tree trees~
+Tall leafy trees with trunks and limbs covered by a smooth, ashen bark.
+~
+S
+#15521
+The Ash Grove~
+   . . . breathtakingly serene.  You are in the in the midst of a verdant
+grove of tall ash trees.  The ground is covered from row to row with 
+flowering clover, becoming lost in the tall grass between the trees on 
+either side.  The center of the grove is worn from the traffic of the
+inhabitants here, who seem to be oblivious to your presence.  There is a
+dingy gray stone wall to the west, overgrown with ivy and clover.
+~
+155 0 0 0 0 2
+D0
+The grove continues north.
+~
+~
+0 -1 15524
+D1
+You view an impressive row of ashes a short distance to the east.
+~
+~
+0 -1 15522
+D2
+The grove ends far to the south.
+~
+~
+0 -1 15520
+E
+stone gray wall~
+A dark gray stone wall that seems almost part of the mound.
+~
+E
+ash tree trees~
+Tall leafy trees with trunks and limbs covered by a smooth, ashen bark.
+~
+S
+#15522
+The Ash Grove~
+   . . . breathtakingly serene.  You are in the in the midst of a verdant
+grove of tall ash trees.  The ground is covered from row to row with 
+flowering clover, becoming lost in the tall grass between the trees on 
+either side.  The center of the grove is worn from the traffic of the
+inhabitants here, who seem to be oblivious to your presence.
+~
+155 0 0 0 0 2
+D0
+The grove continues north into thorny brush that skirts a swampy area.
+~
+~
+0 -1 15523
+D2
+The grove ends far to the south.
+~
+~
+0 -1 15519
+D3
+You view an impressive row of ashes a short distance to the west.
+~
+~
+0 -1 15521
+E
+ash tree trees~
+Tall leafy trees with trunks and limbs covered by a smooth, ashen bark.
+~
+S
+#15523
+Edge of the Ash Grove~
+   This is the last of the majestic ash trees in the eastern part of the
+grove.  It thrives hardily despite the sour earth and heavy air of a swamp 
+to the north.  This spot is just as safe as any other in the grove, yet you 
+suspect the presence of EVIL north in the swamp.  Everything is so 
+wonderfully placid elsewhere in the grove, why not just take a load off your 
+feet and enjoy the scenery?  Brush blocks the way north.
+~
+155 0 0 0 0 2
+D0
+The way north leads into thorny brush that skirts a swampy area.
+~
+brush~
+2 -1 15526
+D2
+The grove continues far to the south.
+~
+~
+0 -1 15522
+D3
+You view an impressive row of ashes a short distance to the west.
+~
+~
+0 -1 15524
+E
+ash tree trees~
+Tall leafy trees with trunks and limbs covered by a smooth, ashen bark.
+~
+S
+#15524
+Edge of the Ash Grove~
+   This is the last of the majestic ash trees in the western part of the
+grove.  There a few thin trees here which hardly conceal a large crag, set 
+into the northeastern foot of the mound.  Perhaps it would afford a better 
+view of the mound as it curves to the west? There is a dingy gray stone wall 
+to the west, overgrown with ivy and clover.
+~
+155 0 0 0 0 2
+D0
+A smattering of saplings and thin, wind-driven trees lie north.
+~
+~
+0 -1 15525
+D1
+You view an impressive row of ashes a short distance to the east.
+~
+~
+0 -1 15523
+D2
+The grove continues far to the south.
+~
+~
+0 -1 15521
+E
+stone gray wall~
+A dark gray stone wall that seems almost part of the mound.
+~
+E
+ash tree trees~
+Tall leafy trees with trunks and limbs covered by a smooth, ashen bark.
+~
+S
+#15525
+Rocky Outgrowth~
+   A few wind-driven trees, sun-scorched brush, and saplings barely 
+conceal a massive crag set into this eastern foot of the mound.  It looks
+like you could manage a climb up to the crag's top.  The way north and 
+east is blocked by several crags, as if they were put there to keep
+something out.  The serenity of the grove beckons you south.
+~
+155 c 0 0 0 3
+D2
+The expanse of the ash grove lies before you.
+~
+~
+0 -1 15524
+D4
+The rugged condition of the crag makes a climb possible.
+~
+~
+0 -1 15564
+E
+foot mound~
+The mound rises triumphantly above you.
+~
+E
+crag~
+Huge, rugged boulder that looks impossible even for a god to budge.
+~
+S
+#15526
+A Depraved Swamp~
+  You have, unfortunately, stumbled upon the most unpleasant spot that
+exists beside the great mound.  The pungent air and lifeless atmosphere
+assaults you, filling you with the desire to leave quickly.  You can hear
+faint wailing sounds emanating from every direction.  Could it be the wind
+that now gusts through the limbs of dying trees or the trees themselves?
+~
+155 a 0 0 0 4
+D0
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15527
+D2
+The life-filled ambiance of the grove beckons you south.
+~
+brush~
+2 -1 15523
+E
+swamp~
+Mushy, water-laden earth, that releases pent-up gases with every step.
+~
+E
+trees~
+Their terrible condition makes you sympathetic, even though they ARE trees.
+~
+S
+#15527
+A Depraved Swamp~
+  You have, unfortunately, stumbled upon the most unpleasant spot that
+exists beside the great mound.  The pungent air and lifeless atmosphere
+assaults you, filling you with the desire to leave quickly.  You can hear
+faint wailing sounds emanating from every direction.  Could it be the wind
+that now gusts through the limbs of dying trees or the trees themselves?
+~
+155 a 0 0 0 4
+D0
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15528
+D1
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15527
+D2
+The swamp appears to end at a grove to the south.
+~
+~
+0 -1 15526
+E
+swamp~
+Mushy, water-laden earth, that releases pent-up gases with every step.
+~
+E
+trees~
+Their terrible condition makes you sympathetic, even though they ARE trees.
+~
+S
+#15528
+A Depraved Swamp~
+  You have, unfortunately, stumbled upon the most unpleasant spot that
+exists beside the great mound.  The pungent air and lifeless atmosphere
+assaults you, filling you with the desire to leave quickly.  You can hear
+faint wailing sounds emanating from every direction.  Could it be the wind
+that now gusts through the limbs of dying trees or the trees themselves?
+~
+155 a 0 0 0 4
+D0
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15528
+D1
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15528
+D2
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15527
+D3
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15529
+E
+swamp~
+Mushy, water-laden earth, that releases pent-up gases with every step.
+~
+E
+trees~
+Their terrible condition makes you sympathetic, even though they ARE trees.
+~
+S
+#15529
+A Depraved Swamp~
+  You have, unfortunately, stumbled upon the most unpleasant spot that
+exists beside the great mound.  The pungent air and lifeless atmosphere
+assaults you, filling you with the desire to leave quickly.  You can hear
+faint wailing sounds emanating from every direction.  Could it be the wind
+that now gusts through the limbs of dying trees or the trees themselves?
+~
+155 a 0 0 0 4
+D0
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15529
+D1
+This swamp, in all its disgusting presence, lies before you.
+~
+~
+0 -1 15528
+E
+swamp~
+Mushy, water-laden earth, that releases pent-up gases with every step.
+~
+E
+trees~
+Their terrible condition makes you sympathetic, even though they ARE trees.
+~
+S
+#15530
+Intersection Inside the Mound~
+   You are standing in a four-way intersection within the great mound.  Each
+identical exit is blocked by strong wooden double doors.  None of them appear
+to be locked, but you can't tell just by admiring them, for above each of
+the entrances is a beautiful golden sculpture of winged serpents in flight.  
+There are exits north, east, south, and west.
+~
+155 cd 0 0 0 0
+D0
+Looks just as interesting as any other exit.
+~
+wooden double door~
+2 15521 15536
+D1
+Looks just as interesting as any other exit.
+~
+wooden double door~
+2 15521 15531
+D2
+Looks just as interesting as any other exit.
+~
+wooden double door~
+2 -1 15578
+D3
+Looks just as interesting as any other exit.
+~
+wooden double door~
+2 15521 15544
+E
+sculpture sculptures dragons~
+The dragons are captured as though they were engaged in a mating ritual. 
+~
+E
+wooden double door~
+Heavy and wide doors with carvings of mistletoe in each of the corners.
+~
+S
+#15531
+The Vestibule~
+   This is an airy, yet comfortable room. The walls are adorned with hanging 
+tapestries depicting, well, young men and women enjoying the pleasures that 
+nature's beauty has to offer in the comfort of the ash grove.  No need to 
+ogle, for to you adventure is (possibly) the most pressing desire to fulfill.
+A sparkling silk curtain hangs to the east, and a double door is west.
+~
+155 d 0 0 0 0
+D1
+A large silk curtain hangs there, blocking your view east.
+~
+sparkling silk curtain~
+2 -1 15532
+D3
+A set of heavy wooden double doors lies west.
+~
+wooden double door~
+2 -1 15530
+E
+sparkling silk curtain~
+It seems to be made of silk, woven in with gold and silver thread.
+~
+E
+wooden double door~
+Heavy and wide doors with carvings of mistletoe in each of the corners.
+~
+S
+#15532
+The Proselyte Quarters~
+   You are within an open area, sparsely decorated, that adjoins a private
+chamber to the northeast.  There are a few pieces of furniture here, most
+notably a silver spinning wheel in the easternmost corner.  You see a few
+young women here and to the east looking very busy, their movements rigid 
+and precise as if entranced into their tasks.  A silk curtain lies west.
+~
+155 d 0 0 0 0
+D1
+A young proselyte sets her needlework aside and begins working the wheel.
+~
+~
+0 -1 15533
+D3
+A large silk curtain hangs there, blocking your view west.
+~
+sparkling silk curtain~
+2 -1 15531
+E
+sparkling silk curtain~
+It seems to be made of silk, woven in with gold and silver thread.
+~
+E
+silver wheel~
+It very much defines the room.  It serves no purpose useful to you.
+~
+S
+#15533
+The Proselyte Quarters~
+   You are within an open area, sparsely decorated, that adjoins a private
+chamber to the northeast.  There are a few pieces of furniture here, most
+notably a silver spinning wheel in the easternmost corner.  You see a few
+young women here and to the west looking very busy, their movements rigid 
+and precise as if entranced into their tasks.  
+A square wooden door is to the north.
+~
+155 d 0 0 0 0
+D0
+You see a square door with a sturdy lock set in amethyst.
+~
+square door~
+1 15518 15534
+D3
+One of the proselytes tries to glance at you, but she turns back to her work.
+~
+~
+0 -1 15532
+E
+square wooden door~
+The door is fitted loosely in its hinges, maybe a thief could work it out?
+~
+S
+#15534
+Chamber of the Prophetess~
+   Here is the private room of the sybil, Aloysius.  She has put great care
+into its design and decoration.  The ceiling is vaulted in the form of a 
+starburst with gold accents.  Tapestries (undoubtedly woven by proselytes) 
+fill the room with color, and candelabras line the northern wall.  A metal 
+door in the western wall glows at the cracks with a blue light, you figure 
+that it is caused by powerful magic.  The exit lies south.
+~
+155 d 0 0 0 0
+D2
+You see a square door with a sturdy lock set in amethyst.
+~
+square door~
+1 15518 15533
+D3
+Besides the blue aura, the western door looks powerfully built.
+~
+metal~
+2 15522 15535
+E
+square~
+Looks rather unimpressive, compared to the metal door.
+~
+E
+metal~
+A heavy iron door with a small keyhole.
+~
+E
+door~
+Which door?  The metal or the square?
+~
+S
+#15535
+The Antechamber~
+> 
+A beautiful elven woman, dressed in white satin and glowing with a 
+wonderful warm light, smiles at you.
+
+> 
+She EXPLODES into a brilliant flash and a beam of light gushes
+forth from the room.
+
+>  
+CONGRATULATIONS!!  You have done a great deed in opening this magically
+warded door and freeing the once imprisoned Daughter of the Moon.  The
+prophetess had hoped to gain from her wisdom and augment her own power. 
+Take your reward and leave light of heart for your act will be revered 
+throughout the realms.
+~
+155 dh 0 0 0 0
+D1
+The iron door has lost its power of ward.
+~
+metal door~
+1 15522 15530
+E
+metal door~
+The iron door becomes transparent, revealing the intersection inside the
+mound.
+~
+S
+#15536
+Hall of Nine Torches~
+   You have never felt more insignificant.  The ceiling here must be at 
+least twenty feet high... and the place is SO green.  The floor is covered 
+by green marble tile, the stone walls are stained to a deep emerald.  On 
+either side you see two great golden beacons, burning hotly; the flames
+flicker as you look about.  To the north you hear a roaring sound and see
+a blue light.  To the south is a large set of double doors.
+~
+155 d 0 0 0 0
+D0
+Your eyes are fixated on the blue light to the north.
+~
+~
+0 -1 15537
+D2
+A set of heavy wooden double doors lies south.
+~
+wooden double door~
+1 15521 15530
+E
+double door~
+You see a set of heavy wooden doors.
+~
+E
+beacon beacons~
+Large golden beacon built into a wall.  It burns without producing smoke.
+~
+S
+#15537
+Hall of Nine Torches~
+   You have never felt more insignificant.  The ceiling here must be at 
+least twenty feet high... and the place is SO green.  The floor is covered 
+by green marble tile, the stone walls are stained to a deep emerald.  On 
+either side you see two great golden beacons, burning hotly; the flames
+flicker as you look about.  The roaring sound is louder and you can almost
+see the source of the light, a pedestal, north.  The hall continues south.
+~
+155 d 0 0 0 0
+D0
+Your eyes are fixated on the blue light to the north.
+~
+~
+0 -1 15538
+D2
+You can see a set of double doors to the south.
+~
+~
+0 -1 15536
+E
+double door~
+All you can see is that there are doors to the south.
+~
+E
+beacon beacons~
+Large golden beacon built into a wall.  It burns without producing smoke.
+~
+S
+#15538
+The Ninth Torch~
+   What a sound!  This olympic size torch burns fiercely with a searing hot
+blue light.  You stand back from it knowing full well it could incinerate 
+you in a matter of seconds.  This space is roughly the center of a long, yet
+spacious area filled with images of the Druid religion.  In the darkly lit 
+eastern end is a large altar.  To the west is the Fane, reserved for 
+invocations to the gods of the Druids.  It seems you may have company.
+There is an oak door to the north.  
+~
+155 d 0 0 0 0
+D0
+There is a carved oak door to the north.
+~
+carved oak door~
+1 15525 15539
+D1
+An altar, faintly lit, lies to the east.
+~
+~
+0 -1 15540
+D2
+Lining the emerald walls to the south are eight golden beacons.
+~
+~
+0 -1 15537
+D3
+The entrance to the Fane lies to the west.
+~
+door~
+2 -1 15542
+E
+olympic ninth torch~
+It appears to be made out of stone. There is some bronze ornamentation.
+~
+E
+carved oak door~
+A large door, the same color as the walls, with carvings depicting gods.
+~
+S
+#15539
+The Shrine~
+   This is an area where sacred relics are stored and kept in order.  There
+isn't much to see here, possibly since anyone who wanted to come in through
+the hole in the ceiling would have run of the place.  The hole is too high
+for you to reach, and it doesn't look safe. As you ponder your observations, 
+you notice the door to the south.
+~
+155 acd 0 0 0 0
+D2
+You see a plain-looking oak door to the south.
+~
+oak door~
+1 15525 15538
+E
+oak door~
+It doesn't look very exciting.
+~
+S
+#15540
+Altar Room~
+   Looking very similar to a dolmen is a large altar near the eastern wall.
+It consists of a monolithic limestone slab supported by thick marble posts.
+The edges of the slab are encrusted with intricate bronze serpents; the 
+corners each hold a small candle.  You find yourself admiring the wall to 
+the east -- a magnificent mural of a dragon perched on a summit holding an 
+orb of magic within its claws.  The Ninth Torch lies to the west.
+~
+155 d 0 0 0 0
+D1
+There is a mural of a dragon covering the entire eastern wall.
+~
+magnificent mural~
+2 15519 15541
+D3
+The blue light of the Ninth Torch fills your eyes and clouds your mind.
+~
+~
+0 -1 15538
+E
+dragon~
+Even though the colors are a bit dingy, the "dragon" is a white wyrm.
+~
+E
+magnificent mural~
+It covers the ENTIRE eastern wall.  It is quite a masterpiece.
+~
+S
+#15541
+The Lair of Ivo~
+   This looks more like a cave than any room; it actually looks more like a
+lair.  The place is almost too cold to bear, but you can stand it so long as
+the heat of your bloodlust doesn't subside.  You see an opening to the sky
+high above you.  Do you really want to create an unnecessary confrontation?  
+If not, then bid the great white wyrm here a quick goodbye.  Otherwise SHE 
+will be glad to entertain you with a quick (but still painful) death.  
+The only exit is west.
+~
+155 d 0 0 0 1
+D3
+A section of the western wall appears to be an exit.
+~
+wall~
+2 -1 15540
+E
+cave~
+At least it is well ventilated, and dry.
+~
+E
+opening~
+Yes, that's a good ways up.  You can't possibly escape that way.
+~
+S
+#15542
+The Fane~
+   This is a very solitary area, and appropriately so, for this is where
+the higher priests and patriarchs come to converse with their gods and
+perhaps get a glimpse of what the future holds for the realms.  There are a
+few lamps here, supported on tall, thin copper stands.  You feel a little
+cramped in this space; there do not appear to be any windows.  The Ninth 
+Torch burns fiercely to the east and the Fane continues west.
+~
+155 cd 0 0 0 0
+D1
+The blue light of the Ninth Torch filters into this room from the east.
+~
+door~
+2 -1 15538
+D3
+The Fane continues toward the western wall.
+~
+~
+0 -1 15543
+E
+lamp lamps~
+Simple, functional stands holding the candles that barely light the room.
+~
+S
+#15543
+The Fane~
+   This is a very solitary area, and appropriately so, for this is where
+the higher priests and patriarchs come to converse with their gods and
+perhaps get a glimpse of what the future holds for the realms.  There are a
+few lamps here, supported on tall, thin copper stands.  You feel a little
+cramped in this space; there do not appear to be any windows.  The Fane 
+extends to the east.
+~
+155 d 0 0 0 0
+D1
+The Fane entrance lies a few paces to the east.
+~
+~
+0 -1 15542
+E
+lamp lamps~
+Simple, functional stands holding the candles that barely light the room.
+~
+S
+#15544
+Entertainer's Hall~
+   This is probably the most spacious area within the mound.  Maple paneled
+floors and hardwood vaulted ceilings provide for exceptional acoustics --  
+you have stumbled upon the local conservatory for bards.  A small plaque in
+the shape of a harp is on the wall here.  The hall continues west.
+~
+155 d 0 0 0 1
+D1
+A set of heavy wooden double doors lies east.
+~
+wooden double door~
+2 -1 15530
+D3
+The Entertainer's Hall continues west.
+~
+~
+0 -1 15545
+E
+wooden double doors~
+Heavy and wide doors with carvings of mistletoe in each of the corners.
+~
+E
+harp plaque~
+The plaque reads :-
+
+             "under the unerring guidance and unequaled example
+             of Master Bard Turlough, brighter voices and greater
+                   music shall propagate into the realms"
+~
+S
+#15545
+Entertainer's Hall~
+   This is probably the most spacious area within the mound.  Maple paneled
+floors and hardwood vaulted ceilings provide for exceptional acoustics --  
+you have stumbled upon the local conservatory for bards.  There are several
+apprentices here practicing their voices and playing various instruments.
+The hall continues east and west.
+~
+155 d 0 0 0 1
+D1
+You see an exit of large double doors to the east.
+~
+~
+0 -1 15544
+D3
+The Entertainer's Hall continues west.
+~
+~
+0 -1 15546
+S
+#15546
+Entertainer's Hall~
+   This is probably the most spacious area within the mound.  Maple paneled
+floors and hardwood vaulted ceilings provide for exceptional acoustics --  
+you have stumbled upon the local conservatory for bards.  There are several
+apprentices here practicing their voices and playing various instruments.
+You can see a couple of small windows in the western wall that overlook a 
+grove of large oaks.  A corridor lies to the south.  The hall continues 
+east and north.
+~
+155 d 0 0 0 1
+D0
+Ahead to the north is a door on both the west and east side.
+~
+~
+0 -1 15551
+D1
+The Entertainer's Hall continues east.
+~
+~
+0 -1 15545
+D2
+To the south lies an entrance to a corridor.
+~
+door~
+2 -1 15547
+E
+window windows oaks~
+Through a window you spy a grove of ancient oaks, teeming with the creatures 
+of the forest.
+~
+S
+#15547
+A Plain Corridor~
+   You have entered a plain, stone-walled corridor.  The floor is covered 
+with simple paving stones and lit by several unimpressive torches.  You 
+wonder why the entrance to this area wasn't closed, since it is such an 
+awful contrast to every other space within the mound.  The corridor 
+continues south and the Entertainer's Hall lies north.
+~
+155 d 0 0 0 1
+D0
+The entrance to the Entertainer's Hall lies to the north.
+~
+door~
+2 -1 15546
+D2
+The corridor ends at a wall to the south.
+~
+~
+0 -1 15548
+E
+corridor~
+Looks pretty plain.
+~
+S
+#15548
+A Plain Corridor~
+   You have entered a plain, stone-walled corridor.  The floor is covered 
+with simple paving stones and lit by several unimpressive torches.  You 
+wonder why the entrance to this area wasn't closed, since it is such an 
+awful contrast to every other space within the mound.  A red door with a
+sign above it serves as an entrance to the east.  
+The corridor extends to the north.
+~
+155 d 0 0 0 1
+D0
+The corridor continues north.
+~
+~
+0 -1 15546
+D1
+There is a sign above the door here.
+~
+red door~
+2 -1 15549
+E
+sign~
+The sign reads :-
+             []===========================[]
+             ||  POST OF THE BEASTMASTER  ||
+             ||                           ||  
+             ||  defense of the interior  ||
+             []===========================[]
+~
+E
+red door~
+You see that it is painted crimson red; aside from that, nothing special.
+~
+E
+corridor~
+Looks pretty plain.
+~
+S
+#15549
+The Beastmaster's Post~
+   This room is decorated like your average guard post, except there are no
+guards.  There is a large desk here, covered with trophies, possibly taken
+from adventurers like yourself who went a bit too deep into the mound, like
+yourself.  You see a set of hangers on the wall with empty leather harnesses
+hanging there.  To the east there is the smell of animal fur.
+~
+155 d 0 0 0 0
+D1
+There is a large door here, which might be kept closed for a good reason.
+~
+large door~
+2 -1 15550
+D3
+The door opens into a corridor.
+~
+red door~
+2 -1 15548
+E
+desk trophies~
+Hmmm, a femur, a mandible, a skull without a mandible, you get the picture.
+~
+E
+large door~
+Looks large and strong-built, probably for a good reason.
+~
+S
+#15550
+The Wolves Den~
+   A large barren room, with a cold stone floor.  There are a few thin slats
+in the walls to let at least some fresh air and a little sunlight into the
+otherwise musty room.  Chains bolted to the base of each of the walls 
+restrain the wolves that rest here.  The only exit is west.
+~
+155 d 0 0 0 0
+D3
+The Beastmaster's office is to the west.
+~
+large door~
+2 -1 15549
+E
+chain chains~
+Very strong and made of forged iron.  It would be nice if the wolves were
+actually RESTRAINED by them.
+~
+S
+#15551
+Entertainer's Hall~
+   This is probably the most spacious area within the mound.  Maple paneled
+floors and hardwood vaulted ceilings provide for exceptional acoustics --  
+you have stumbled upon the local conservatory for bards.  There are several
+apprentices here practicing their voices and playing various instruments.
+An oaken door, you presume to the grove, lies west.  The master bard's study 
+lies to the east.  The Hall continues south.
+~
+155 cd 0 0 0 1
+D1
+There is a door marked "Turlough" to the east.
+~
+door~
+2 -1 15552
+D2
+The Entertainer's Hall continues south.
+~
+~
+0 -1 15546
+D3
+An oaken door leads to guess where?  An oak grove.
+~
+oaken door~
+1 15523 15553
+E
+oaken door~
+A solid oak door, with several large knots on its surface.
+~
+S
+#15552
+Turlough's Study~
+   Scroll upon scroll of inspired lyrics and poetry are strewn across a
+low and wide table in the middle of this room.  A large war harp stands in a
+far corner of the room, a smaller harp and a lyre sit on shelves in a set
+of cabinets near the entrance.  This is the study of Turlough the Master
+Bard, known far and wide as a great teller of stories -- and also for his 
+nimble fingers, able to touch the hardest of hearts with sounds from a harp.
+~
+155 d 0 0 0 0
+D3
+The door opens into the Entertainer's Hall.
+~
+door~
+2 -1 15551
+E
+table~
+You see nothing special about the table.
+~
+E
+war harp~
+An impressive object, carved of heavy wood, and having a widely spaced set
+of metal strings.  It is said to sound like distant thunder when played.
+~
+S
+#15553
+The Oak Grove~
+   Another magnificent grove, but these great oaks are the most revered of
+all trees by Druids throughout the realms.  Many an ArchDruid and greater
+have come here to draw upon the power of these ancient oaks, some more than 
+half a millennium old.  The oaks, in their rows, stand in silence, possibly
+considering your worthiness to even set foot here.  This is a rarely
+disturbed area where animals roam freely, with no apparent fear of harm.
+A door, set into the side of an ivy covered wall, lies east.
+~
+155 h 0 0 0 3
+D0
+The eastern row of oaks continues north.
+~
+~
+0 -1 15560
+D1
+There is an oaken door to the east.
+~
+oaken door~
+1 15523 15551
+D2
+The eastern row of oaks continues south.
+~
+~
+0 -1 15554
+D3
+You view another impressive row of oaks across the way west.
+~
+~
+0 -1 15558
+E
+oak oaks tree~
+A very old tree with an extremely large girth and gargantuan branches.
+~
+S
+#15554
+The Oak Grove~
+   Another magnificent grove, but these great oaks are the most revered of
+all trees by Druids throughout the realms.  Many an ArchDruid and greater
+have come here to draw upon the power of these ancient oaks, some more than 
+half a millennium old.  The oaks, in their rows, stand in silence, possibly
+considering your worthiness to even set foot here.  This is a rarely
+disturbed area where animals roam freely, with no apparent fear of harm.
+You notice an ivy covered wall to the east.
+~
+155 h 0 0 0 3
+D0
+The eastern row of oaks continues north past an oaken door.
+~
+~
+0 -1 15553
+D2
+The eastern row of oaks continues south.
+~
+~
+0 -1 15555
+D3
+You view another impressive row of oaks across the way west.
+~
+~
+0 -1 15557
+E
+oak oaks tree~
+A very old tree with an extremely large girth and gargantuan branches.
+~
+S
+#15555
+The Oak Grove~
+   Another magnificent grove, but these great oaks are the most revered of
+all trees by Druids throughout the realms.  Many an ArchDruid and greater
+have come here to draw upon the power of these ancient oaks, some more than 
+half a millennium old.  The oaks, in their rows, stand in silence, possibly
+considering your worthiness to even set foot here.  This is a rarely
+disturbed area where animals roam freely, with no apparent fear of harm.
+You notice an ivy covered wall to the east.
+~
+155 h 0 0 0 3
+D0
+The eastern row of oaks continues north.
+~
+~
+0 -1 15554
+D3
+You view another impressive row of oaks across the way west.
+~
+~
+0 -1 15556
+E
+oak oaks tree~
+A very old tree with an extremely large girth and gargantuan branches.
+~
+S
+#15556
+The Oak Grove~
+   Another magnificent grove, but these great oaks are the most revered of
+all trees by Druids throughout the realms.  Many an ArchDruid and greater
+have come here to draw upon the power of these ancient oaks, some more than 
+half a millennium old.  The oaks, in their rows, stand in silence, possibly
+considering your worthiness to even set foot here.  This is a rarely
+disturbed area where animals roam freely, with no apparent fear of harm.
+~
+155 h 0 0 0 3
+D0
+The western row of oaks continues north.
+~
+~
+0 -1 15557
+D1
+You view another impressive row of oaks across the way east.
+~
+~
+0 -1 15555
+E
+oak oaks tree~
+A very old tree with an extremely large girth and gargantuan branches.
+~
+S
+#15557
+The Oak Grove~
+   Another magnificent grove, but these great oaks are the most revered of
+all trees by Druids throughout the realms.  Many an ArchDruid and greater
+have come here to draw upon the power of these ancient oaks, some more than 
+half a millennium old.  The oaks, in their rows, stand in silence, possibly
+considering your worthiness to even set foot here.  This is a rarely
+disturbed area where animals roam freely, with no apparent fear of harm.
+~
+155 h 0 0 0 3
+D0
+The western row of oaks continues north.
+~
+~
+0 -1 15558
+D1
+You view another impressive row of oaks across the way east.
+~
+~
+0 -1 15554
+D2
+The western row of oaks continues south.
+~
+~
+0 -1 15556
+E
+oak oaks tree~
+A very old tree with an extremely large girth and gargantuan branches.
+~
+S
+#15558
+The Oak Grove~
+   Another magnificent grove, but these great oaks are the most revered of
+all trees by Druids throughout the realms.  Many an ArchDruid and greater
+have come here to draw upon the power of these ancient oaks, some more than 
+half a millennium old.  The oaks, in their rows, stand in silence, possibly
+considering your worthiness to even set foot here.  This is a rarely
+disturbed area where animals roam freely, with no apparent fear of harm.
+You can barely make out what appears to be a small home to the north.
+~
+155 h 0 0 0 3
+D0
+The western row of oaks continues north towards a small domicile.
+~
+~
+0 -1 15559
+D1
+You view another impressive row of oaks across the way east.
+~
+~
+0 -1 15553
+D2
+The western row of oaks continues south.
+~
+~
+0 -1 15557
+E
+oak oaks tree~
+A very old tree with an extremely large girth and gargantuan branches.
+~
+S
+#15559
+The Oak Grove~
+   Another magnificent grove, but these great oaks are the most revered of
+all trees by Druids throughout the realms.  Many an ArchDruid and greater
+have come here to draw upon the power of these ancient oaks, some more than 
+half a millennium old.  The oaks, in their rows, stand in silence, possibly
+considering your worthiness to even set foot here.  This is a rarely
+disturbed area where animals roam freely, with no apparent fear of harm.
+The timber wall of a small domicile blocks the way north.
+~
+155 h 0 0 0 3
+D1
+You view another impressive row of oaks across the way east.
+~
+~
+0 -1 15560
+D2
+The western row of oaks continues south.
+~
+~
+0 -1 15558
+E
+oak oaks tree~
+A very old tree with an extremely large girth and gargantuan branches.
+~
+S
+#15560
+The Oak Grove~
+   Another magnificent grove, but these great oaks are the most revered of
+all trees by Druids throughout the realms.  Many an ArchDruid and greater
+have come here to draw upon the power of these ancient oaks, some more than 
+half a millennium old.  The oaks, in their rows, stand in silence, possibly
+considering your worthiness to even set foot here.  This is a rarely
+disturbed area where animals roam freely, with no apparent fear of harm.
+You can see an entrance to a humble domicile to the northwest.
+~
+155 h 0 0 0 3
+D0
+The grove ends at a spring to the north.
+~
+~
+0 -1 15561
+D2
+The western row of oaks continues south past an eastern door.
+~
+~
+0 -1 15553
+D3
+You view another impressive row of oaks across the way west.
+~
+~
+0 -1 15559
+E
+oak oaks tree~
+A very old tree with an extremely large girth and gargantuan branches.
+~
+S
+#15561
+A Sylvan Spring~
+   You are standing next to a quietly flowing spring, surrounded by wild
+eglantine, which trickles into a pleasant arrangement of stones.  There is a
+stray coin and a few remains of food, which may have been offerings to the
+"genius loci."  A simple thatched-roof home, with mortar and stone walls and
+a solid door, merges with the scenery here.  Its front door lies west.
+~
+155 h 0 0 0 3
+D0
+A circle of large stones lies just north of here.
+~
+~
+0 -1 15579
+D2
+The eastern row of oaks continues south.
+~
+~
+0 -1 15560
+D3
+The door to a humble domicile lies west.
+~
+solid door~
+2 -1 15562
+E
+spring~
+A timeless spot, where many a meeker man came to pay his homage.
+~
+S
+#15562
+Domicile of the Physician~
+   A very humble spot indeed; not that the physician who lives here concerns
+himself with human comforts.  There are shelves on every wall in this large
+space that serves as a lab/workshop/office/living room.  The physician, you
+quickly guess, is one of none other than the gnome race.  Rather than devote
+himself to a sedentary life of answering sick calls, Eton the physician 
+busies himself with the pursuit of some fix-it-all invention.
+~
+155 cd 0 0 0 0
+D0
+You can see a bedroom to the north.
+~
+door~
+2 -1 15563
+D1
+You can hear the trickling sound of a spring to the east.
+~
+solid door~
+2 -1 15561
+E
+wall shelves~
+You don't see anything that looks remotely useful on the shelves.
+~
+S
+#15563
+Green Bedroom~
+   This is Eton's bedroom.  Nothing special -- by now you've seen enough
+green, and yes this bedroom is all green (green walls, floor, and bed).
+Very cozy though, looks like the best place to take a nap on the whole 
+"island."  Through an eastern window you can see a circle of stones.
+~
+155 cd 0 0 0 0
+D2
+The main room of the domicile is to the south.
+~
+door~
+2 -1 15562
+E
+window~
+A Druidic circle of standing stones haunts the pasture to the east.
+~
+S
+#15564
+Ledge Atop the Crag~
+   You are standing at the base of a rather precarious ledge that rises 
+along the outer curve of the mound.  The narrow path created by the ledge is 
+covered with a thin layer of white sand, making it more visible in contrast 
+with the mound.  Watch your step!  Lest you fall into the swamp -- a wicked 
+place.
+~
+155 c 0 0 0 4
+D0
+The sandy ledge continues north.
+~
+~
+0 -1 15565
+D1
+Just don't lose your balance!
+~
+~
+0 -1 15526
+D5
+You can climb down the crag to the level of the ash grove.
+~
+~
+0 -1 15525
+E
+ledge path~
+Enough sand here to slip if you aren't careful.
+~
+S
+#15565
+The Sandy Ledge~
+   You are following a rather precarious ledge that rises along the outer
+curve of the mound.  The narrow path created by the ledge is covered with
+a thin layer of white sand, making it more visible in contrast with the
+mound.  Watch your step! Lest you fall into the swamp -- a wicked place.
+~
+155 c 0 0 0 4
+D1
+Just don't lose your balance!
+~
+~
+0 -1 15527
+D2
+The sandy ledge continues south to the top of a huge crag.
+~
+~
+0 -1 15564
+D3
+The sandy ledge curves to the northwest.
+~
+~
+0 -1 15566
+E
+ledge path~
+Enough sand here to slip if you aren't careful.
+~
+S
+#15566
+The Sandy Ledge~
+   You are following a rather precarious ledge that rises along the outer
+curve of the mound.  The narrow path created by the ledge is covered with
+a thin layer of white sand, making it more visible in contrast with the
+mound.  The path is slightly banked towards the mound here making footing
+less difficult.
+~
+155 c 0 0 0 4
+D0
+The sandy ledge continues north.
+~
+~
+0 -1 15567
+D1
+The sandy ledge curves to the southeast.
+~
+~
+0 -1 15565
+E
+ledge path~
+Enough sand here to slip if you aren't careful, though it is easier here.
+~
+S
+#15567
+The Sandy Ledge~
+   You are following a rather precarious ledge that rises along the outer
+curve of the mound.  The narrow path created by the ledge is covered with
+a thin layer of white sand, making it more visible in contrast with the
+mound.  The path is slightly banked towards the mound here making footing
+less difficult.  You feel a cool, swirling breeze.
+~
+155 c 0 0 0 4
+D2
+The sandy ledge curves to the southeast.
+~
+~
+0 -1 15566
+D3
+The sandy ledge continues west.
+~
+~
+0 -1 15568
+E
+ledge path~
+Enough sand here to slip if you aren't careful, though it is easier here.
+~
+S
+#15568
+The Sandy Ledge~
+   You are following a rather precarious ledge that rises along the outer
+curve of the mound.  The narrow path created by the ledge is covered with
+a thin layer of white sand, making it more visible in contrast with the
+mound.  The path is slightly banked towards the mound here making footing
+less difficult.  The wind currents seem to strengthen as you continue west.
+~
+155 c 0 0 0 4
+D1
+The sandy ledge continues east.
+~
+~
+0 -1 15567
+D3
+The sandy ledge curves to the northwest.
+~
+~
+0 -1 15569
+E
+ledge path~
+Enough sand here to slip if you aren't careful, though it is easier here.
+~
+S
+#15569
+The Sandy Ledge~
+   You are following a rather precarious ledge that rises along the outer
+curve of the mound.  The narrow path created by the ledge is covered with
+a thin layer of white sand, making it more visible in contrast with the
+mound.  The path is slightly banked towards the mound here making footing
+less difficult.  There is a razed, open area to the north.  You can hear
+the sound of strong wind.
+~
+155 c 0 0 0 4
+D0
+The sandy ledge curves to the northwest.
+~
+~
+0 -1 15570
+D1
+The sandy ledge continues east.
+~
+~
+0 -1 15568
+E
+ledge path~
+Enough sand here to slip if you aren't careful, though it is easier here.
+~
+S
+#15570
+The Western Cave Opening~
+   So this mound is not completely earthen as it appeared to be!  You are
+standing at the northern-most extremity of the mound, which is very rocky
+and mountainous.  In addition to that fact is the presence of a large cave
+to the west.  Great gusts of wind seem to be emanating from within.  Every 
+few moments a gust rushes into you, almost knocking you off your feet.
+~
+155 c 0 0 0 2
+D2
+The sandy ledge continues to the southeast.
+~
+~
+0 -1 15569
+D3
+The blowing sand makes it hard to see clearly into the cave opening.
+~
+~
+0 -1 15571
+E
+wind~
+Only a one-eyed dog can see the wind... STUPID!
+~
+E
+cave opening~
+It looks kind of dark, but sunlight may still reveal whatever is in there.
+~
+S
+#15571
+The Home of Zephirus~
+   A very comfortable looking cave, with smooth walls and a packed-hard dirt
+floor.  Would be a nice place to rest, you think, if it were not for the
+excessive howling of wind that permeates this cave.  Perhaps you have not
+come to realize just who resides HERE.  Why Zephirus, the mighty West Wind,
+of course.  South, you may venture deeper into the cave.
+~
+155 ad 0 0 0 1
+D1
+The cave opens out into a small open area east.
+~
+~
+0 -1 15570
+D2
+South leads further into the darkness of the cave.
+~
+~
+0 -1 15572
+S
+#15572
+Deeper into the Cave~
+   Looks pretty dark in here.  You can certainly see some light to the 
+northeast since you came in that way, yet to the south, it just gets darker.
+The air feels unusually cool.  Wait... is that a hole in the cave floor?
+~
+155 ad 0 0 0 1
+D0
+A larger section of the cave lies north.
+~
+~
+0 -1 15571
+D2
+The cave continues south into darkness.
+~
+~
+0 -1 15573
+D5
+A hole, that possibly caved in beneath the feet of an unsuspecting
+adventurer, opens down into a dark space.
+~
+~
+0 -1 15539
+S
+#15573
+Deeper into the Cave~
+   Looks pretty dark in here.  You may or may not see a hint of light to the 
+north, yet continuing to the south, it just gets darker.  The air feels 
+unusually cool.
+~
+155 ad 0 0 0 0
+D0
+The cave continues north.
+~
+~
+0 -1 15572
+D1
+The cave continues east into darkness.
+~
+~
+0 -1 15574
+S
+#15574
+A Climb to the Summit~
+   Warmer air and the promise of light offer encouragement for you to climb 
+the stone steps that spiral up before you.  They appear to lead up into some
+form of lookout or watchtower.  The cold darkness of the cave lies west.
+~
+155 ad 0 0 0 0
+D3
+The cave continues west into darkness.
+~
+~
+0 -1 15573
+D4
+The can see the mortared walls of a wide, turret structure.
+~
+~
+0 -1 15575
+E
+step steps~
+You see nothing special about the steps.
+~
+S
+#15575
+Inside the Lookout~
+   You are standing on a stairwell, almost halfway up to the top of this 
+ancient lookout tower.  You are surrounded by gray stone walls that may have 
+been built many centuries ago.  They still hold strong, save for a collapsed 
+portion of the lower eastern wall.  It looks large enough for your average
+big guy to crawl through, but YOU REALLY DO NOT WANT TO RISK YOUR LIFE 
+exploring there, since you can see enough through the wall to tell you that
+there is a tremendous chasm on the other side.  A trapdoor is above you.
+~
+155 cd 0 0 0 4
+D1
+You surely WILL NOT survive a fall into that CHASM you see through the wall.
+~
+~
+0 -1 15576
+D4
+The top of the lookout tower is a short climb from where you stand.
+~
+trapdoor~
+2 -1 15577
+D5
+The stairwell leads down to the cave floor.
+~
+~
+0 -1 15574
+E
+collapsed wall~
+The mortar seems to have deteriorated there, causing part of it to collapse
+into the CHASM immediately east of it.
+~
+S
+#15576
+The Chasm in the Mound~
+   AAAAAGGGGGHHHHHHHH!!!!!!
+      !
+          !  
+             you say a quick prayer
+               !
+                  you wish you weren't so ignorant
+                    !
+                        !
+                            you hear the pleasant surprise of a great white
+                             wyrm as she awakes from a slumber below.
+                               !
+                                  !
+                                    !
+                                     !ULLPPPHHHH!
+                                    smack! mmmmmmmmm good!
+~
+155 bc 0 0 0 0
+D3
+THE WAY OUT.
+~
+~
+0 -1 15575
+D5
+The Lair of Ivo.
+~
+~
+0 -1 15541
+E
+great white wyrm~
+She looks very glad to see you!  It's not often that dinner falls from the
+sky.
+~
+S
+#15577
+Very Top of Lookout~
+   Quite an eyeful!  You can see very clearly now, why this place is called 
+the Isle of Druids -- fog, swamp, and impenetrable forest cut-off this
+earthen mountain from every direction, except for that luminous path which
+cannot be seen at all from up here through the fog.  The sky is thankfully
+clear and wide, and you can barely make out the small towers atop the walls
+of Midgaard to the east. To the north, one could only guess what lies beyond
+the forests of Hahn-Dor and to the south, you recognize the routes to other
+civilizations.
+~
+155 0 0 0 0 1
+D5
+A stone stairwell spirals down within the lookout tower.
+~
+trapdoor~
+2 -1 15575
+E
+fracture bluish light~
+An interdimensional fracture, which looks as if suspended in the air, flashes 
+brilliantly as it crackles.  You realize this phenomenon acts as a portal if 
+one walks through it.
+~
+S
+#15578
+A Foyer~
+   A musty smelling, but dry room.  The Ostiar apparently rests here while
+off duty from his post at the entrance.  The ceiling is built of strong
+wooden timbers and the walls are of polished mahogany.  The bronze door lies
+immediately to the south and a set of heavy wooden double doors is north.
+~
+155 d 0 0 0 0
+D0
+The doors look very strong.  They have some small carvings at the corners.
+~
+wooden double door~
+2 -1 15530
+D2
+The magnificent bronze door opens south.
+~
+bronze door~
+1 15521 15513
+E
+bronze door~
+It looks smooth and functional from the inside.
+~
+E
+wooden double door~
+Heavy and wide doors with carvings of mistletoe in each of the corners.
+~
+S
+#15579
+Circle of Stones~
+   You have walked into the midst of a circle of erect stones, most of which
+are over ten feet high.  With the sun overhead, you can almost see their
+shadows move; this is aptly referred to as the giants' dance.  The ground
+is well-tread here, given that this is a place of great ceremony at least
+once every month.  You notice a fallen stone in the northeast quadrant.
+~
+155 c 0 0 0 2
+D0
+These standing stones form the northwestern curve of the circle.
+~
+~
+0 -1 15582
+D1
+These standing stones form the southeastern curve of the circle.
+~
+~
+0 -1 15580
+D2
+You can hear the trickling sound of a spring to the south.
+~
+~
+0 -1 15561
+E
+stone circle~
+These are solid stone monoliths.  Only a powerful and strong people could 
+have erected them.
+~
+S
+#15580
+Circle of Stones~
+   You have walked into the midst of a circle of erect stones, most of which
+are over ten feet high.  With the sun overhead, you can almost see their
+shadows move; this is aptly referred to as the giants' dance.  The ground
+is well-tread here, given that this is a place of great ceremony at least
+once every month.  You notice a fallen stone to the north.
+~
+155 c 0 0 0 2
+D0
+These standing stones form the northeastern curve of the circle.
+~
+~
+0 -1 15581
+D3
+These standing stones form the southwestern curve of the circle.
+~
+~
+0 -1 15579
+E
+stone circle~
+These are solid stone monoliths.  Only a powerful and strong people could 
+have erected them.
+~
+S
+#15581
+Circle of Stones~
+   You have walked into the midst of a circle of erect stones, most of which
+are over ten feet high.  With the sun overhead, you can almost see their
+shadows move; this is aptly referred to as the giants' dance.  The ground
+is well-tread here, given that this is a place of great ceremony at least
+once every month.  You notice a fallen stone, torn from its seat deep in the 
+ground, that almost completely covers a hole.
+~
+155 c 0 0 0 2
+D2
+These standing stones form the southeastern curve of the circle.
+~
+~
+0 -1 15580
+D3
+These standing stones form the northwestern curve of the circle.
+~
+~
+0 -1 15582
+D5
+You see what might be a hole or cavern, but it is blocked by a huge stone.
+~
+fallen stone~
+2 -1 15583
+E
+stone circle~
+These are solid stone monoliths.  Only a powerful and strong people could 
+have erected them.
+~
+S
+#15582
+Circle of Stones~
+   You have walked into the midst of a circle of erect stones, most of which
+are over ten feet high.  With the sun overhead, you can almost see their
+shadows move; this is aptly referred to as the giants' dance.  The ground
+is well-tread here, given that this is a place of great ceremony at least
+once every month.  You notice a fallen stone to the east.
+~
+155 c 0 0 0 2
+D1
+These standing stones form the northeastern curve of the circle.
+~
+~
+0 -1 15581
+D2
+These standing stones form the southwestern curve of the circle.
+~
+~
+0 -1 15579
+E
+stone circle~
+These are solid stone monoliths.  Only a powerful and strong people could 
+have erected them.
+~
+S
+#15583
+Cavernous Hole Below the Circle~
+   Interesting indeed!  You wonder how many souls actually bother to go
+down here, to such a hidden spot as this.  Water drips from the southern
+wall; it is very dark and quiet down here.  You can hear a faint humming
+sound in the very southwest corner, but what is it?
+~
+155 adh 0 0 0 0
+D4
+A massive fallen stone partially covers the way up.
+~
+massive fallen stone~
+2 -1 15581
+E
+cavern walls~
+They sweat drops of water, possibly due to an underground spring nearby.
+~
+S
+$~

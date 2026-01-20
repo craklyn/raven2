@@ -1,0 +1,22 @@
+x get all corpse
+sw scan
+z destroy corpse
+cw clanwho
+ha hands $*
+9 rec mid
+fe feign death
+cl clan &08<<<&10$* &08>>>&00
+h hands $*
+- rec elv elv
+dr drink thimble
+0 rec elv elv
+nw kick $*
+se kill 2.
+hg hands gnosh
+1 get all gnosh
+2 wear all
+3 destroy gnosh
+ne bli
+gt gs &01(#)&07$* &01)#(&00
+tit title &08Lucifugous &14bare&07knuckle&14M&07O&14N&07K &14of &10OD&00
+say say &01(#)&07$* &08)#(&00

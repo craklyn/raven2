@@ -1,0 +1,22 @@
+hw c 'holy word' $*
+ban c 'banish' $*
+of order follower $*
+crus c 'crusade'
+rv c 'righteous vision' 
+cc c 'cure critic' $*
+rp c 'remove poison' $*
+pfe c 'protection from evil'
+infra remove helm; wear band
+reg c 'regen' $*
+regen c 'regen' $*
+dm c 'divine mission'
+say say &06[&00&03$*&00 &06]&00
+gt gt &06[&00&03$*&00 &06]&00
+res buy restore
+di c 'det inv' $*
+, get all all.ifalna
+holy c 'holy armor'
+die c 'dispel evil' $*
+cb c 'cure blind' $*
+tit title .:&07Forsaken&00 &11Fish&00:.
+pol c 'prayer of life' $*

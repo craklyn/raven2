@@ -1,0 +1,25 @@
+dis disarm $*
+afk norec;nosum
+sneak sneak;score
+di distract $*
+g who
+ud unlock door $*
+p palm 1.
+t track $*
+h hide;score
+j scan
+od open door $*
+cd close door $*
+st sting $*
+m meditate
+wa wake;stand
+ci circle $*
+f feign;stand
+r rec elven $*
+grec rec rec rec
+titl title the &09Wandering&00 &10Bard&00
+wo who
+tr trip $*
+ki kick $*
+c cower $*
+a assist lassic

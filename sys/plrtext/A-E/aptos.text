@@ -1,0 +1,49 @@
+male c 'maledict' $*
+slow c 'slow' $*
+mal c 'maledict' $*
+ug ungroup
+ca castout
+cor c 'charm corpse' cor
+res orfer fol rescue aptos
+des des 1.
+gold get gold all.cor
+belt get belt all.cor
+disease c 'disease' $*
+explode c 'explode' $*
+entomb c 'entomb' $*
+wraith c 'wraithform'
+ward c 'create warding'
+ga group all
+charm c 'charm corpse' $*
+dc des cor
+death emote takes out his &18I LOVE DEATH XP SHIRT&00 and puts it on.
+consume c 'consume' $*
+infra c 'infra' $*
+invis c 'detect invis' $*
+fly c 'fly' $*
+summon c 'summon' $*
+shield c 'shield' $*
+say sa &01 $* &00
+gt gs &01 $* &00
+drain c ' life' $*
+inv c 'invis' $*
+nox c 'nox' $*
+blind c 'blind' $*
+soul c 'soul' $*
+sense c 'sense'
+age c 'age' $*
+embalm c 'embalm' $*
+b c 'soul' 
+resist c 'resist' $*
+deb c 'debilitate' $*
+ener c 'energy drain' $*
+bone c 'bone wall' $*
+dis c 'disease' $*
+poison c 'poison' $*
+z order gak kick
+call c 'call to corpse' $*
+gc get all all.cor
+ti titl :: &01Forsaken&00
+xq vial
+silence c 'silence' $*
+x ' trick or treat

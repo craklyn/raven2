@@ -1,0 +1,6 @@
+fs cast 'flame strike'
+dg cast 'dispel good'
+rev cast 'revive' $1
+fort cast 'fort' self
+di cast 'detect invis' $1
+armor cast 'armor' $1

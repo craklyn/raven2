@@ -1,0 +1,339 @@
+#12701
+H T 0~
+refugee child~
+refugee child~
+A small refugee child stands here crying.
+~
+He seems upset at having to leave his house suddenly.
+~
+140 0 0 0 0 0 0 0 600
+13 10 4 1d100+100 1d7+1
+35 40
+9 9 1 0 -1 -1
+#12702
+H T 0~
+refugee~
+refugee~
+A refugee stands here clutching his meager belongings.
+~
+He doesn't look like he was able to take much with him.
+~
+140 0 0 0 0 0 0 0 600
+20 5 3 1d400+400 2d6+8
+40 40
+9 9 1 0 -1 -1
+#12703
+W P 0~
+knight~
+knight~
+A knight is here preparing to mount his warhorse.
+~
+The knight's shining armor and determined expression convince you of his skill.
+~
+4106 0 0 0 0 0 0 0 800
+35 -5 -5 1d1500+1500 2d6+17
+50 60
+9 9 1 0 -1 -1
+#12704
+H W 0~
+man soldier~
+man at arms~
+A man at arms sits here packing his gear.
+~
+He is busily working to get his gear ready.
+~
+4106 0 0 0 0 0 0 0 800
+30 0 1 1d1000+1000 2d5+15
+50 60
+6 6 1 0 -1 -1
+#12705
+H W 0~
+stablehand hand stable~
+stablehand~
+A stable hand is busily grooming the horses for the upcoming battle.
+~
+The stablehand is dressed in simple cotton clothes but appears quite strong.
+~
+10 0 0 0 0 0 0 0 600
+25 5 2 1d800+800 2d5+13
+40 40
+9 9 1 0 -1 -1
+#12706
+A W 0~
+horse stallion~
+Stallion~
+A stallion stands here ready to fight for its master.
+~
+The stallion steps on your foot as you get to close.
+~
+4106 0 0 0 0 0 0 0 600
+30 0 1 1d1200+1200 2d8+15
+50 60
+9 9 1 0 -1 -1
+#12707
+H W 0~
+guard~
+guard~
+A guard stands here ready to defend the Keep.
+~
+He is constantly watching for any sign of the enemy.
+~
+4106 0 0 0 0 0 0 0 700
+32 0 -5 1d1200+1200 2d6+16
+50 60
+9 9 1 0 -1 -1
+#12708
+H W 0~
+guard~
+guard~
+A guard stands here looking over the battlements for signs of trouble.
+~
+He keeps a vigilant watch on the horizon.
+~
+4106 0 0 0 0 0 0 0 700
+32 0 -5 1d1200+1200 2d6+16
+50 60
+9 9 1 0 -1 -1
+#12709
+H W 0~
+cook~
+cook~
+A cook stands here preparing food for the waiting soldiers.
+~
+He is quite fat, but the way he waves that ladle looks menacing...
+~
+142 0 0 0 0 0 0 0 600
+28 0 0 1d900+900 2d6+13
+40 40
+9 9 1 0 -1 -1
+#12710
+H W 0~
+soldier~
+soldier~
+A soldier sits here eating.
+~
+This guy is eating so much, you might think that this was his last meal he
+would eat...
+~
+4106 0 0 0 0 0 0 0 700
+30 0 1 1d1000+1000 2d5+15
+50 60
+6 6 1 0 -1 -1
+#12712
+H C 0~
+priest~
+priest~
+A priest is exhorting the soldiers to do their best in the battle.
+~
+He is wearing a white vestament and wielding a golden cross.
+~
+10 0 0 0 128 0 0 0 1000
+36 -5 -6 1d1+2500 2d6+16
+50 60
+9 9 1 0 -1 -1
+#12713
+H P 0~
+knight~
+Knight~
+A knight is kneeling in prayer here.
+~
+The knight is dressed in armor, and appears ready to go to war.
+~
+4106 0 0 0 0 0 0 0 800
+36 -5 -6 1d1800+1800 2d8+17
+50 60
+6 6 1 0 -1 -1
+#12715
+H M 0~
+librarian~
+Librarian~
+A librarian is here stacking books on the shelves.
+~
+The librarian inquire "What are you doing here?"
+~
+10 0 0 0 128 0 0 0 600
+30 0 0 1d12+247 2d6+16
+50 60
+9 9 1 0 -1 -1
+#12716
+H W 0~
+soldier~
+soldier~
+A soldier is here training for combat.
+~
+He appears like he is getting the hang of it pretty well.
+~
+4106 0 0 0 0 0 0 0 600
+28 0 2 1d900+900 2d5+14
+40 40
+9 9 1 0 -1 -1
+#12717
+H P 0~
+allister preceptor~
+Allister~
+Allister, preceptor of the Michaeline Order, is standing here.
+~
+Allister's grey hair in no way disguises his competence with weapons.
+~
+6154 0 0 0 136 0 0 0 1000
+45 -15 -10 1d1+5000 4d3+22
+65 75
+9 9 1 0 -1 -1
+#12718
+H P 0~
+vanion knight~
+Vanion~
+Vanion is here preparing to mount his war horse.
+~
+Vanion has a grim look on his face as he prepares his men to leave.
+~
+4106 0 0 0 136 0 0 0 900
+43 -15 -10 1d1+4750 4d3+21
+65 75
+9 9 1 0 -1 -1
+#12719
+H M 0~
+sephriana~
+Sephriana~
+Sephriana, the instructor of magic for the knights, stands here.
+~
+She looks quite youthful and is a bright spot of color amidst the grim men.
+~
+10 0 0 0 128 0 0 0 1000
+40 -10 -10 1d1+2600 4d6+18
+65 75
+9 7 2 0 -1 -1
+#12721
+H P 0~
+james guard~
+James~
+James, the treasury guard, stands here vigilantly.
+~
+He looks very tough.
+~
+4106 0 0 0 136 0 0 0 900
+37 -10 -3 1d1+2450 2d8+18
+50 60
+9 9 1 0 -1 -1
+#12722
+H P 0~
+kieth guard~
+Kieth~
+Kieth, the other treasurery guard angrily stands here.
+~
+He looks very tough.
+~
+4142 0 0 0 136 0 0 0 900
+37 -10 -3 1d1+2450 2d8+18
+50 60
+9 9 1 0 -1 -1
+#12723
+H P 0~
+rinaldo master fencer~
+Rinaldo~
+Rinaldo, the master fencer, is teaching sword fighting to his pupils here.
+~
+Rinaldo does a backflip, parries two blows, and neatly trips one of his
+students, giving pointers on technique the entire time.
+~
+4106 0 0 0 136 0 0 0 900
+40 -10 -9 1d1+3500 4d4+19
+65 75
+9 9 1 0 -1 -1
+#12724
+H P 0~
+strategy senior knight~
+Senior Knight~
+A Senior Knight is here discussing strategy with the other leaders of the Order.
+~
+The knight paces the room nervously as he discusses possible future actions.
+~
+4106 0 0 0 0 0 0 0 800
+38 -10 -6 1d2200+2200 4d3+19
+50 60
+9 9 1 0 -1 -1
+#12725
+W P 0~
+knight~
+knight~
+A knight is here preparing to mount his warhorse.
+~
+The knight's shining armor and determined expression convince you of his skill.
+~
+4106 0 0 0 0 0 0 0 800
+35 -5 -5 1d1500+1500 2d6+17
+50 60
+9 9 1 0 -1 -1
+#12726
+A W 0~
+horse stallion~
+Stallion~
+A stallion stands here ready to fight for its master.
+~
+The stallion steps on your foot as you get to close.
+~
+4106 0 0 0 0 0 0 0 600
+30 0 1 1d1200+1200 2d8+15
+50 60
+9 9 1 0 -1 -1
+#12727
+A W 0~
+horse stallion~
+Stallion~
+A stallion stands here ready to fight for its master.
+~
+The stallion steps on your foot as you get to close.
+~
+4106 0 0 0 0 0 0 0 600
+30 0 1 1d1200+1200 2d8+15
+50 60
+9 9 1 0 -1 -1
+#12728
+H W 0~
+guard~
+guard~
+A guard stands here looking over the battlements for signs of trouble.
+~
+He keeps a vigilant watch on the horizon.
+~
+4106 0 0 0 0 0 0 0 700
+32 0 -5 1d1200+1200 2d6+16
+50 60
+9 9 1 0 -1 -1
+#12729
+H P 0~
+knight~
+Knight~
+A knight is kneeling in prayer here.
+~
+The knight is dressed in armor, and appears ready to go to war.
+~
+4106 0 0 0 0 0 0 0 800
+36 -5 -6 1d1800+1800 2d8+17
+50 60
+6 6 1 0 -1 -1
+#12730
+W P 0~
+knight~
+knight~
+A knight is here preparing to mount his warhorse.
+~
+The knight's shining armor and determined expression convince you of his skill.
+~
+4106 0 0 0 0 0 0 0 800
+35 -5 -5 1d1500+1500 2d6+17
+50 60
+9 9 1 0 -1 -1
+#12731
+A W 0~
+horse stallion~
+Stallion~
+A stallion stands here ready to fight for its master.
+~
+The stallion steps on your foot as you get to close.
+~
+4106 0 0 0 0 0 0 0 600
+30 0 1 1d1200+1200 2d8+15
+50 60
+9 9 1 0 -1 -1
+$

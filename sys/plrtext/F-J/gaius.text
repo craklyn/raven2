@@ -1,0 +1,45 @@
+a cast 'shadow blades' even
+cor get all all.gaius;wear all;get all all.gaius;wear all;wield blade;hol eye;get all all.gaius
+f flee
+g get all all.cor
+r order followers rescue $*
+mertul 3d3nen3nese2nen
+loc ndn2wd4ne4ndw3ne
+malfor 16w6swse14s10wdw3n3dnde2s2w2n
+motherphoenix 3nwuned2es2d2u2n2e
+chain n3w5sesw3s3e2s
+sle cast 'sleep' $*
+lc look in corpse
+sw cast 'shadow walk'
+ss cast 'shadow sphere'
+sb cast 'shadow blades' $*
+sv cast 'shadow vision' $*
+in cast 'invisibility' $*
+arm cast 'blur'
+sen cast 'sense life'
+hid cast 'dance of shadows'
+dan cast 'dance of dreams' $*
+bl cast 'blind' $*
+cur cast 'curse' $*
+poi cast 'poison' $*
+de open door east
+dw open door west
+dn open door north
+ds open door south
+clan clan &08$* &11
+gs gsay &08$* &00
+sa say &08$* &00
+wo who
+dd close door $*
+wa wake;stand
+gp get all corpse
+dis disarm $*
+cha cast 'charm person' $*
+mist cast 'dance of mists' $*
+c shadow $*
+no shadowstep north
+so shadowstep south
+ea shadowstep east
+we shadowstep west
+o order followers $*
+z rec sam

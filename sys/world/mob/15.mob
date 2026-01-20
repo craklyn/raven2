@@ -1,0 +1,223 @@
+#1500
+W W 0~
+dwarf~
+the small dwarf~
+A small dwarf is here mining at the tunnel walls.
+~
+  The small dwarf is dirty and dressed only in a small tunic and leggings.  His
+beard is encrusted with cracked rock and dust from the tunnel walls.
+~
+6156 0 0 0 1024 0 0 0 500
+15 13 4 1d100+200 8d7+1
+35 40
+9 9 1 0 -1 -1
+#1501
+W W 0~
+dwarf~
+the small dwarf~
+A small dwarf is here, on the watch for Duergar.
+~
+  The small dwarf is dressed in colorful clothing and has a full and long beard.
+His eyes are keen and sharp, well suited for sight in the dark tunnels of the
+mines.
+~
+6156 0 0 0 1024 0 0 0 500
+17 18 5 1d100+250 8d7+1
+35 40
+9 9 1 0 -1 -1
+#1502
+W T 0~
+dwarf guard~
+the dwarf guard~
+A small dwarf is here, dressed in a makeshift suit of armor.
+~
+  This small dwarf is the militia of the Dwarven Kingdom it watches over.  The
+small body is strong which makes him a match for any foe.  The armor of the
+dwarf is of no use to anyone but him, but provides adequate defense.
+~
+4106 0 0 0 1024 0 0 0 700
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#1503
+W C 0~
+dwarf yentle~
+Yentle the dwarf~
+A small dwarf sits here trying to grow a new rock.
+~
+  The insane little dwarf who thinks he can grow a rock.  He is dressed in many
+yellows and oranges, and seems to have a happy look about him despite his years
+of failure at growing rocks.
+~
+12 0 0 0 536871944 0 0 0 1000
+20 10 -1 1d100+2000 1d20+20
+40 40
+7 7 1 0 -1 -1
+#1504
+W W 0~
+juargan dwarf king~
+Juargan the Dwarven King~
+Juargan the Dwarven King sits here upon his throne, looking out over his gardens.
+~
+  The small king is bulging at the seems with muscle.  He is dressed in nothing
+but a noble robe made of a grey silk.  His face has a visage of stone like his
+surroundings, as if his burden has become to much for him.
+~
+4394 0 0 0 1160 0 0 0 1000
+30 5 -10 1d100+3000 1d30+30
+50 60
+7 7 1 0 -1 -1
+#1505
+W W 0~
+duergar dwarf~
+the duergar dwarf~
+A repulsive Duergar is here, biting at its own arm.
+~
+  The Duergar are the outcast dark dwarves.  They have grown insane through
+their isolation from the rest of the dwarven population and have become bitter
+enemies with them.
+~
+44 0 0 0 1024 0 0 0 -1000
+16 13 3 1d150+225 8d7+1
+35 40
+9 9 1 0 -1 -1
+#1506
+U W 0~
+grimdale king dwarf~
+Grimdale the ancient king~
+A ancient and partially decayed dwarf lies here ever so silent.
+~
+  The ancient king of the dwarves lies here.  Forgotten over the past decades
+his once cherished body has fallen into utter decay.  His once cheery face has
+turned into a crude scowl as you can feel that his soul is not at ease.
+~
+42 0 0 0 1192 0 0 0 -999
+32 0 -1 5d5+700 1d7+15
+50 60
+9 9 1 0 -1 -1
+#1507
+A T 0~
+rock worm dreaded~
+the dreaded rock worm~
+The dreaded rock worm has blasted through the rock wall, its jaws open wide!
+~
+  The jaws of this strange beast are large enough to fit at lease two dwarves
+into.  Judging by the size you can see that is has been eating quite a few too
+many dwarves as it's body is at least five feet in diameter.
+~
+42 0 0 0 1064 0 0 0 0
+25 8 -1 1d100+2500 1d25+25
+40 40
+9 9 0 4 1 -1
+#1508
+U D 0~
+spirit dwarf~
+a dwarven spirit~
+A small dwarven spirit is at unrest here.
+~
+  The small spirit screams in agony as it is bound to this wretched existence.
+The soul of some unfortunate dwarf now has to fly aimlessly through this chamber
+of eternal pain.
+~
+42 0 0 0 1192 0 0 0 -999
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 0 19 -1 -1
+#1509
+W W 0~
+dwarf duegar~
+the duegar dwarf~
+A duegar dwarf sleeps off a meal here.
+~
+Just down right ugly.
+~
+16394 0 0 0 0 0 0 0 -1000
+15 5 -4 5d5+200 1d7+3
+35 40
+4 9 0 0 -1 -1
+#1510
+W W 0~
+chief duegar dwarf~
+the chief~
+The Chief Duegar drools as you enter.
+~
+He looks very glad to see you.
+~
+20266 0 0 0 1068 0 0 0 -1000
+25 0 -2 5d5+500 1d7+10
+40 40
+9 9 0 0 -1 -1
+#1511
+W W 0~
+smith dwarf~
+the Smith~
+A Smithy stands here pounding away.
+~
+He has arms as big and strong as the steel he forges.
+~
+16394 0 0 0 1064 0 0 0 500
+25 0 -4 5d5+500 1d7+10
+40 40
+9 9 1 0 -1 -1
+#1512
+W W 0~
+pasty woman dwarf~
+Pasty~
+Pasty offers you a warm cookie.
+~
+Pasty loves her job and from the size of her, you can tell.
+~
+16394 0 0 0 1064 0 0 0 500
+25 0 -4 5d5+500 1d7+10
+40 40
+9 9 2 0 -1 -1
+#1513
+W W 0~
+leatherbie dwarf~
+Leatherbie~
+Leatherbie shows you his lastest creation.
+~
+A mouth full of pins and a tape measure around his neck, this Dwarf will make you a full outfit if you like.
+~
+16394 0 0 0 1064 0 0 0 500
+25 0 -4 5d5+500 1d7+10
+40 40
+9 9 1 0 -1 -1
+#1514
+W W 0~
+gem dwarf~
+Gem~
+Gem works away on a tiny pile of colored stones.
+~
+You have heard of turning lead into gold?
+Well, Gem turns rocks into beautiful jewelery.
+~
+16394 0 0 0 1064 0 0 0 500
+25 0 -4 5d5+500 1d7+10
+40 40
+9 9 2 0 -1 -1
+#1515
+W W 0~
+child dwarf~
+the dwarven child~
+A small child wanders around tossing stones.
+~
+This small child looks a bit bored.
+~
+16392 0 0 0 1064 0 0 0 500
+5 5 -2 5d5+50 1d4+1
+35 40
+9 9 0 0 -1 -1
+#1516
+W W 0~
+female dwarf~
+the female dwarf~
+A dwarven female hurries about her way.
+~
+This female looks like she maybe in a hurry.
+~
+16396 0 0 0 1064 0 0 0 500
+15 5 -4 5d5+120 1d7+3
+35 40
+9 9 2 0 -1 -1
+$

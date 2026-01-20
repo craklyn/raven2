@@ -1,0 +1,2901 @@
+#10500
+The ravenwide chute credits room~
+  This is meant to be a huge mob chute to be used to spread mobs all over
+The world of ravenmud.  It is compartmentalized and meant to randomly distribute
+Mobs to every zone.  The purpose of this is to encourage exploring by
+distributing the strange travelers everywhere.  This was written by the player
+known as Aggression the Death Knight and Drez the Thief.  Load the 00 object
+for this zone for further information.
+~
+105 1023 0 0 0 0 255 0
+S
+#10501
+The Chute~
+  This is the first room of the chute.  This is only room where stuff
+loads.  If you are a mortal, and are here, you should immediately go
+north, north, south or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10502
+D1
+~
+~
+0 0 10503
+D2
+~
+~
+0 0 10504
+D3
+~
+~
+0 0 10505
+D4
+~
+~
+0 0 10506
+D5
+~
+~
+0 0 10507
+S
+#10502
+The Chute~
+  This is the second teir the chute.  This teir helps spread out
+exits.  If you are a mortal, and are here, you should immediately go
+north, south or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10508
+D1
+~
+~
+0 0 10510
+D2
+~
+~
+0 0 10513
+D3
+~
+~
+0 0 10515
+D4
+~
+~
+0 0 10518
+D5
+~
+~
+0 0 10520
+S
+#10503
+The Chute~
+  This is the second teir the chute.  This teir helps spread out
+exits.  If you are a mortal, and are here, you should immediately go
+or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10523
+D1
+~
+~
+0 0 10525
+D2
+~
+~
+0 0 10528
+D3
+~
+~
+0 0 10530
+D4
+~
+~
+0 0 10533
+D5
+~
+~
+0 0 10535
+S
+#10504
+The Chute~
+  This is the second teir the chute.  This teir helps spread out
+exits.  If you are a mortal, and are here, you should immediately go
+(dirs out) or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10538
+D1
+~
+~
+0 0 10540
+D2
+~
+~
+0 0 10543
+D3
+~
+~
+0 0 10545
+D4
+~
+~
+0 0 10548
+D5
+~
+~
+0 0 10551
+S
+#10505
+The Chute~
+  This is the second teir the chute.  This teir helps spread out
+exits.  If you are a mortal, and are here, you should immediately go
+(dirs out) or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10553
+D1
+~
+~
+0 0 10555
+D2
+~
+~
+0 0 10558
+D3
+~
+~
+0 0 10560
+D4
+~
+~
+0 0 10563
+D5
+~
+~
+0 0 10565
+S
+#10506
+The Chute~
+  This is the second teir the chute.  This teir helps spread out
+exits.  If you are a mortal, and are here, you should immediately go
+(dirs out) or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10568
+D1
+~
+~
+0 0 10570
+D2
+~
+~
+0 0 10573
+D3
+~
+~
+0 0 10575
+D4
+~
+~
+0 0 10578
+D5
+~
+~
+0 0 10580
+S
+#10507
+The Chute~
+  This is the second teir the chute.  This teir helps spread out
+exits.  If you are a mortal, and are here, you should immediately go
+(dirs out) or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10583
+D1
+~
+~
+0 0 10585
+D2
+~
+~
+0 0 10588
+D3
+~
+~
+0 0 10590
+D4
+~
+~
+0 0 10593
+D5
+~
+~
+0 0 10595
+S
+#10508
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 907
+D1
+~
+~
+0 0 1392
+D2
+~
+~
+0 0 1417
+D3
+~
+~
+0 0 1514
+S
+#10509
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 1581
+D1
+~
+~
+0 0 1651
+D2
+~
+~
+0 0 1758
+D3
+~
+~
+0 0 1808
+S
+#10510
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 1950
+D1
+~
+~
+0 0 2003
+D2
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2255
+S
+#10511
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 2318
+D1
+~
+~
+0 0 2441
+D2
+~
+~
+0 0 2548
+D3
+~
+~
+0 0 2718
+S
+#10512
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 2807
+D1
+~
+~
+0 0 3102
+D2
+~
+~
+0 0 3240
+D3
+~
+~
+0 0 3307
+S
+#10513
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 3604
+D1
+~
+~
+0 0 3730
+D2
+~
+~
+0 0 3835
+D3
+~
+~
+0 0 3953
+S
+#10514
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 4101
+D1
+~
+~
+0 0 4255
+D2
+~
+~
+0 0 4412
+D3
+~
+~
+0 0 4537
+S
+#10515
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 584 0 0 0 0 255 0
+D0
+~
+~
+0 0 4654
+D1
+~
+~
+0 0 4776
+D2
+~
+~
+0 0 5061
+D3
+~
+~
+0 0 5127
+S
+#10516
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 5209
+D1
+~
+~
+0 0 5361
+D2
+~
+~
+0 0 5583
+D3
+~
+~
+0 0 5608
+S
+#10517
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 5824
+D1
+~
+~
+0 0 5903
+D2
+~
+~
+0 0 6022
+D3
+~
+~
+0 0 6289
+S
+#10518
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 7363
+D1
+~
+~
+0 0 7828
+D2
+~
+~
+0 0 7975
+D3
+~
+~
+0 0 8017
+S
+#10519
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 8142
+D1
+~
+~
+0 0 8275
+D2
+~
+~
+0 0 8306
+D3
+~
+~
+0 0 8448
+S
+#10520
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D1
+~
+~
+0 0 8833
+D3
+~
+~
+0 0 9606
+S
+#10521
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 9748
+D1
+~
+~
+0 0 9817
+D2
+~
+~
+0 0 10022
+D3
+~
+~
+0 0 10122
+S
+#10522
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10648
+D1
+~
+~
+0 0 10762
+D2
+~
+~
+0 0 10819
+D3
+~
+~
+0 0 10989
+S
+#10523
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 11033
+D1
+~
+~
+0 0 11123
+D2
+~
+~
+0 0 11509
+D3
+~
+~
+0 0 11622
+S
+#10524
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 11750
+D1
+~
+~
+0 0 12243
+D2
+~
+~
+0 0 12342
+D3
+~
+~
+0 0 12524
+S
+#10525
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 12605
+D1
+~
+~
+0 0 12634
+D2
+~
+~
+0 0 12742
+D3
+~
+~
+0 0 12864
+S
+#10526
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 13077
+D1
+~
+~
+0 0 13265
+D2
+~
+~
+0 0 13304
+D3
+~
+~
+0 0 13640
+S
+#10527
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 13806
+D1
+~
+~
+0 0 13930
+D2
+~
+~
+0 0 14001
+D3
+~
+~
+0 0 14055
+S
+#10528
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 14145
+D1
+~
+~
+0 0 14922
+D2
+~
+~
+0 0 15022
+D3
+~
+~
+0 0 15144
+S
+#10529
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 15257
+D1
+~
+~
+0 0 15335
+D2
+~
+~
+0 0 15451
+D3
+~
+~
+0 0 15669
+D4
+~
+~
+0 0 10530
+D5
+~
+~
+0 0 10528
+S
+#10530
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 15744
+D2
+~
+~
+0 0 16005
+D3
+~
+~
+0 0 16166
+S
+#10531
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 16252
+D1
+~
+~
+0 0 16411
+D2
+~
+~
+0 0 17096
+D3
+~
+~
+0 0 17265
+S
+#10532
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 18173
+D1
+~
+~
+0 0 18472
+D2
+~
+~
+0 0 18539
+D3
+~
+~
+0 0 18820
+S
+#10533
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 18926
+D1
+~
+~
+0 0 19014
+D2
+~
+~
+0 0 19153
+D3
+~
+~
+0 0 19226
+S
+#10534
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 20252
+D1
+~
+~
+0 0 20337
+D2
+~
+~
+0 0 20505
+D3
+~
+~
+0 0 20601
+S
+#10535
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 20743
+D1
+~
+~
+0 0 21253
+D2
+~
+~
+0 0 21312
+D3
+~
+~
+0 0 21552
+S
+#10536
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 22072
+D1
+~
+~
+0 0 22302
+D2
+~
+~
+0 0 22423
+D3
+~
+~
+0 0 22526
+D4
+~
+~
+0 0 10537
+D5
+~
+~
+0 0 10535
+S
+#10537
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 22942
+D1
+~
+~
+0 0 23007
+D2
+~
+~
+0 0 23410
+D3
+~
+~
+0 0 23535
+S
+#10538
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 24212
+D1
+~
+~
+0 0 24317
+D2
+~
+door~
+1 0 24416
+D3
+~
+~
+0 0 24563
+S
+#10539
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 24636
+D1
+~
+~
+0 0 34724
+D2
+~
+~
+0 0 27231
+D3
+~
+~
+0 0 27292
+S
+#10540
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 30501
+D1
+~
+~
+0 0 30649
+D2
+~
+~
+0 0 30922
+D3
+~
+~
+0 0 31012
+S
+#10541
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D1
+~
+~
+0 0 31390
+D2
+~
+~
+0 0 31522
+S
+#10542
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10543
+D5
+~
+~
+0 0 10541
+S
+#10543
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10544
+D5
+~
+~
+0 0 10542
+S
+#10544
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10545
+D5
+~
+~
+0 0 10543
+S
+#10545
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10519
+D1
+~
+~
+0 0 10521
+D2
+~
+~
+0 0 10522
+D3
+~
+~
+0 0 10524
+D4
+~
+~
+0 0 10546
+D5
+~
+~
+0 0 10544
+S
+#10546
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10547
+D5
+~
+~
+0 0 10545
+S
+#10547
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10548
+D5
+~
+~
+0 0 10546
+S
+#10548
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10549
+D5
+~
+~
+0 0 10547
+S
+#10549
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10551
+D5
+~
+~
+0 0 10548
+S
+#10550
+Black Spirit Mob Chute~
+   This room is specifically for randomly placing the Black Spirit in the area
+Legacy.  Room exits leading into zone 315, 316, & 317.  This room is seperated
+from the other rooms in this zone and no exits use it as an entrance in zone
+105.    
+~
+105 2097872 4 0 0 0 255 0
+D0
+~
+~
+0 0 31585
+D1
+~
+~
+0 0 31650
+D2
+~
+0~
+0 0 31699
+D3
+~
+~
+0 0 31662
+D4
+~
+~
+0 0 31718
+S
+#10551
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10552
+D5
+~
+~
+0 0 10553
+S
+#10552
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10553
+D5
+~
+~
+0 0 10551
+S
+#10553
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10509
+D1
+~
+~
+0 0 10511
+D2
+~
+~
+0 0 10512
+D3
+~
+~
+0 0 10513
+D4
+~
+~
+0 0 10554
+D5
+~
+~
+0 0 10552
+S
+#10554
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10555
+D5
+~
+~
+0 0 10553
+S
+#10555
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10514
+D1
+~
+~
+0 0 10515
+D2
+~
+~
+0 0 10516
+D3
+~
+~
+0 0 10517
+D4
+~
+~
+0 0 10556
+D5
+~
+~
+0 0 10554
+S
+#10556
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10557
+D5
+~
+~
+0 0 10555
+S
+#10557
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10558
+D5
+~
+~
+0 0 10556
+S
+#10558
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10559
+D5
+~
+~
+0 0 10557
+S
+#10559
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10560
+D5
+~
+~
+0 0 10558
+S
+#10560
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10561
+D5
+~
+~
+0 0 10559
+S
+#10561
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10562
+D5
+~
+~
+0 0 10560
+S
+#10562
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10563
+D5
+~
+~
+0 0 10561
+S
+#10563
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10564
+D5
+~
+~
+0 0 10562
+S
+#10564
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10565
+D5
+~
+~
+0 0 10563
+S
+#10565
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10566
+D5
+~
+~
+0 0 10564
+S
+#10566
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10567
+D5
+~
+~
+0 0 10565
+S
+#10567
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10568
+D5
+~
+~
+0 0 10566
+S
+#10568
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10569
+D5
+~
+~
+0 0 10567
+S
+#10569
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10570
+D5
+~
+~
+0 0 10568
+S
+#10570
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10571
+D5
+~
+~
+0 0 10569
+S
+#10571
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10572
+D5
+~
+~
+0 0 10570
+S
+#10572
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10573
+D5
+~
+~
+0 0 10571
+S
+#10573
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10574
+D5
+~
+~
+0 0 10572
+S
+#10574
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10575
+D5
+~
+~
+0 0 10573
+S
+#10575
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10576
+D5
+~
+~
+0 0 10574
+S
+#10576
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10577
+D5
+~
+~
+0 0 10575
+S
+#10577
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10578
+D5
+~
+~
+0 0 10576
+S
+#10578
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10579
+D5
+~
+~
+0 0 10577
+S
+#10579
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10580
+D5
+~
+~
+0 0 10578
+S
+#10580
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10581
+D5
+~
+~
+0 0 10579
+S
+#10581
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10582
+D5
+~
+~
+0 0 10580
+S
+#10582
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10583
+D5
+~
+~
+0 0 10581
+S
+#10583
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10584
+D5
+~
+~
+0 0 10582
+S
+#10584
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10585
+D5
+~
+~
+0 0 10583
+S
+#10585
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10586
+D5
+~
+~
+0 0 10584
+S
+#10586
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10587
+D5
+~
+~
+0 0 10585
+S
+#10587
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10588
+D5
+~
+~
+0 0 10586
+S
+#10588
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10589
+D5
+~
+~
+0 0 10587
+S
+#10589
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10590
+D5
+~
+~
+0 0 10588
+S
+#10590
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10591
+D5
+~
+~
+0 0 10589
+S
+#10591
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10592
+D5
+~
+~
+0 0 10590
+S
+#10592
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10593
+D5
+~
+~
+0 0 10591
+S
+#10593
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10594
+D5
+~
+~
+0 0 10592
+S
+#10594
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10595
+D5
+~
+~
+0 0 10593
+S
+#10595
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10596
+D5
+~
+~
+0 0 10594
+S
+#10596
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10597
+D5
+~
+~
+0 0 10595
+S
+#10597
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10598
+D5
+~
+~
+0 0 10596
+S
+#10598
+The Chute~
+  This is the third teir the chute.  This is the distribution Teir.
+If you are a mortal, and are here, you should immediately go N,S,E
+or W and recall or be summoned out.
+~
+105 729 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10508
+D5
+~
+~
+0 0 10597
+S
+#10599
+The Chute~
+   This is the third teir the chute.  This is the distribution Tier.  If you
+are a mortal, and are here, you should immediately go N,S,E or W and recall or
+be summoned out.    
+~
+105 730 0 0 0 0 255 0
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10501
+D2
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10501
+D4
+~
+~
+0 0 10501
+D5
+~
+~
+0 0 10501
+S
+$~

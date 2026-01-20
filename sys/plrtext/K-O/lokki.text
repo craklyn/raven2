@@ -1,0 +1,46 @@
+9 c 'summon' alf
+ent c 'entomb corpse' $*
+ep enter po
+dis c 'disea' $*
+sh c 'soul pierce' $*
+rp c 'resist poi' $*
+nox c 'nox' $*
+cs c 'summon corpse' $*
+cw c 'create warding' 
+deb c 'debil' $*
+sum c 'summon' $*
+sp c 'soul pierce' $*
+xc c 'explode corpse' $*
+sl c 'slow' $*
+shi c 'shield' $*
+fly c 'fly' $*
+sen c 'sense life' $*
+ld c 'life drain' $*
+inv c 'invis' $*
+di c 'detect invis' $*
+bl c 'blindness' $*
+infra c 'infravision'
+con c 'consume corpse' $*
+wf c 'wraithform' $*
+age c 'age' $*
+cc c 'charm corpse' $*
+ec c 'embalm' corpse
+gc get corpse
+bw c 'bone wall' $*
+ctc c 'call to corpse' $*
+g get all.coins all.corpse
+ed c 'energy drain' $*
+sil c 'silence' $*
+wake wak;stand
+tnt c 'explode corpse' $*
+1 c 'charm corpse' corpse
+clan cla &14$* &00
+cur c 'curse' $*
+gs gsay &14$* &00
+exp c 'explode corpse' $*
+rr rec rec rec
+0 assist min
+q c 'quicken'
+2 calm
+3 where;scan
+of order follower $*;assist

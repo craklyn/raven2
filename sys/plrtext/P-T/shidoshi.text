@@ -1,0 +1,14 @@
+g bl gak
+t scan
+lc des corpse
+dis disarm $1
+ret retreat $1
+b blind
+gt gt &03$*&00
+2 rec mid
+1 rec mid scroll
+4 rec sam
+3 rec sam scroll
+ha hands self
+tit title : &07B&00&04l&00&07a&00&04c&00&07k&00&04m&00&07e&00&04r&00&07e&00
+kill king

@@ -1,0 +1,66 @@
+#40
+Moria~
+4199 20 2 0
+M 0 4054 3 4053      * Mob : the centipede
+M 0 4054 3 4052      * Mob : the centipede
+M 0 4054 3 4060      * Mob : the centipede
+G 1 4050 20 -1       * Give: a purple potion
+M 0 4000 1 4030      * Mob : the snake
+G 1 4001 1 -1        * Give: a corpse
+P 1 4002 1 4001      * Put : some coins
+M 0 4001 2 4025      * Mob : the green snake
+M 0 4001 2 4015      * Mob : the green snake
+M 0 4002 3 4023      * Mob : the centipede
+M 0 4002 3 4017      * Mob : the centipede
+M 0 4002 3 4020      * Mob : the centipede
+M 0 4003 6 4021      * Mob : the kobold
+M 0 4003 6 4021      * Mob : the kobold
+M 0 4003 6 4013      * Mob : the kobold
+M 0 4003 6 4013      * Mob : the kobold
+M 0 4003 6 4027      * Mob : the kobold
+M 0 4003 6 4027      * Mob : the kobold
+M 0 4004 3 4015      * Mob : the orc
+M 0 4004 3 4028      * Mob : the orc
+M 0 4004 3 4028      * Mob : the orc
+M 0 4005 1 4022      * Mob : the orc
+E 1 4000 5 1         * Eqp : a yellow and green ring
+M 0 4057 1 4038      * Mob : the mountain lion
+M 0 4057 1 4041      * Mob : the mountain lion
+M 0 4058 1 4044      * Mob : the hill giant
+M 0 4050 1 4062      * Mob : the warrior
+G 1 4051 3 -1        * Give: a metal helmet
+M 0 4051 4 4070      * Mob : the warrior
+M 0 4051 4 4050      * Mob : the warrior
+M 0 4051 4 4073      * Mob : the warrior
+M 0 4051 4 4055      * Mob : the warrior
+M 0 4052 3 4056      * Mob : the hobgoblin
+M 0 4052 3 4065      * Mob : the hobgoblin
+M 0 4052 3 4059      * Mob : the hobgoblin
+M 0 4053 2 4058      * Mob : the snake
+M 0 4053 2 4068      * Mob : the snake
+M 0 4055 2 4064      * Mob : the hobgoblin
+M 0 4055 2 4071      * Mob : the hobgoblin
+M 0 4056 2 4067      * Mob : the orc
+M 0 4056 2 4057      * Mob : the orc
+O 0 4052 8 4068      
+O 0 4052 8 4069      
+O 0 4052 8 4070      
+O 0 4052 8 4071      
+M 0 4100 1 4114      * Mob : the Mage
+G 1 4102 2 -1        * Give: a scroll which reads "ysafg"
+M 0 4101 1 4122      * Mob : the troll
+G 1 4100 2 -1        * Give: a black demon blade
+M 0 4102 3 4111      * Mob : the snake
+G 1 4103 10 -1       * Give: a green slime mold
+M 0 4102 3 4111      * Mob : the snake
+G 1 4104 3 -1        * Give: a green slime mold
+M 0 4103 6 4103      * Mob : the thief
+M 0 4103 2 4124      * Mob : the thief
+E 1 4053 3 19        * Eqp : a thieves' dirk
+M 0 4105 3 4108      * Mob : a centipede
+M 0 4106 2 4113      * Mob : the Warrior
+G 1 4101 1 -1        * Give: a pair of swordmans' gloves
+M 0 4107 1 4119      * Mob : the kobold
+G 1 4104 10 -1       * Give: a green slime mold
+S
+$

@@ -1,0 +1,862 @@
+#23401
+H P 0~
+knight reknown camelot~
+the knight of reknown~
+A knight of reknown slaps you with his gauntlet and challenges you!
+~
+The knight of reknown is mounted on a warhorse, uses a lance, and you can 
+see his morningstar on his horse. His colors fly from a banner carried by 
+his squire.
+~
+26700 0 0 0 33832 0 0 0 1000
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23402
+H P 0~
+squire camelot~
+the squire~
+A squire is here on an errand for his lord.
+~
+A squire stands here on a mission for his lord. He is dressed in rags, 
+smells bad, and looks like he is in a hurry.
+~
+26700 0 0 0 33832 0 0 0 250
+25 8 -1 1d100+2500 1d25+25
+40 40
+9 9 1 0 -1 -1
+#23403
+H P 0~
+knight quality camelot~
+the knight of quality~
+A knight of quality looks down upon you from his mount.
+~
+The knight is in full plate mail on a barded horse and carries a lance.
+~
+26700 0 0 0 33832 0 0 0 900
+35 4 -1 1d100+3500 1d35+35
+50 60
+9 9 1 0 -1 -1
+#23404
+H P 0~
+arthur king camelot~
+King Arthur~
+King Arthur sits upon his throne awaiting the return of the grail.
+~
+King Arthur, the one True King is a dark bearded, barrel chested man. His
+eyes convey to you a incredible wisdom and regality which make you want
+to kneel at his feet. He wears finely wrought full plate armor emblazoned 
+with the sign of a gold dragon. He carries the wondrous sword, Excalibur
+in a strange looking sheath at his side.
+~
+161870 0 0 0 1082536 0 0 0 1000
+50 -10 -1 5d5000+5000 9d8+60
+80 90
+9 9 1 0 -1 -1
+#23405
+H P 0~
+benlad knight green camelot~
+Sir Benlad de Haudtesert (the green knight)~
+Sir Benlad slaps you with his gauntlet and challenges you!
+~
+Sir Benlad is clad in his renowned green armor, rumored to be impervious 
+to normal weaponry. He bears a huge battle axe.
+~
+30798 0 0 0 33960 0 0 0 1000
+45 3 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#23406
+H P 0~
+galahad knight camelot~
+Sir Galahad~
+Sir Galahad, paragon of chivalry, bastard of Lancelot & Elane, stands here.
+~
+Sir Galahad is dressed in his white armor and carries a two handed sword
+(it was Sir Galahad who completed the quest for the grail in the Arthurian 
+saga)
+~
+30798 0 0 0 33960 0 0 0 1000
+50 -5 -10 1d5000+5000 60d5+75
+80 90
+9 9 1 0 -1 -1
+#23407
+H D 0~
+black knight camelot~
+the black knight~
+A knight dressed in black armor says "NONE SHALL PASS"
+~
+The black knight has black armor and a visored helm. He stands resting on 
+a two handed sword.
+~
+30830 0 0 0 32896 0 0 0 -1000
+30 4 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23408
+H P 0~
+gareth knight camelot~
+Sir Gareth~
+A knight with armor of many colors stands here.
+~
+Sir Gareth, son of Lot, aka Beaumains proudly wears his armor and shield 
+of many colors. He anxiously awaits an opportunity to help a damsel in 
+distress.
+~
+31054 0 0 0 33964 0 0 0 1000
+45 3 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#23409
+H D 0~
+garlon knight camelot~
+Sir Garlon~
+Sir Garlon, the invisible knight, is waiting here.
+~
+Sir Garlon (the vile villian) is hiding here. He was given his invisibility 
+power by the witch of the fens for the furtherment of evil.
+~
+30798 0 0 0 820394 0 0 0 -1000
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 1 0 -1 -1
+#23410
+H P 0~
+gawaine knight camelot~
+Sir Gawaine~
+Sir Gawaine, the strong, is on a mission of vengeance!
+~
+Sir Gawaine, the red headed cousin of Arthur, is mounted, fully armored and 
+bears his longsword Galantine.
+~
+30798 0 0 0 33960 0 0 0 500
+45 3 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#23411
+H D 0~
+lamorak knight camelot~
+Sir Lamorak~
+Sir Lamorak hefts his bastard sword as he considers you.
+~
+Sir Lamorak, son of King Pellinore, lover of Queen Morgawse, vanquisher of 
+the twelve of Morgan le Fey, and enemy of Sir Gawaine is fully armored and 
+mounted.
+~
+30798 0 0 0 33960 16384 0 0 -500
+47 3 -1 3d3500+5000 1d75+75
+70 80
+9 9 1 0 -1 -1
+#23412
+H P 0~
+lancelot knight camelot~
+Sir Lancelot du Lake~
+Sir Lancelot, champion of the Round Table, smiles at you.
+~
+Sir Lancelot is mounted upon a white charger and is wearing polished steel 
+armor. His visor is up, and his lance raised in salute to you.
+~
+30798 0 0 0 33960 0 0 0 1000
+45 0 -1 1d5000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#23413
+H M 0~
+merlin mage camelot~
+Merlin~
+The mighty Merlin is here grumbling over a book.
+~
+Merlin, the son of a sorceress and a demon, seer of Camelot, is garbed in 
+an earthy colored robe and bears a twisted staff. His flowing white beard 
+offsets his rosy cheeks and sparkling blue eyes.
+~
+30926 0 0 0 1082536 0 0 0 750
+51 -10 -1 5d5100+5100 8d7+50
+90 100
+9 9 1 0 -1 -1
+#23414
+H M 0~
+morgan mage camelot~
+Morgan Le Fey~
+A beautiful woman with an inviting smile beckons to you!
+~
+Morgan le Fey, evil enchantress, scourge of Camelot, snarls as you have 
+seen through her disguise. She is wearing silk robes which do little to 
+hide her ugly and hateful, twisted body.
+~
+30830 0 0 0 1082536 0 0 0 -1000
+45 3 -5 1d4000+5000 1d65+65
+65 75
+9 9 2 0 -1 -1
+#23415
+H W 0~
+pellinore king camelot~
+King Pellinore~
+King Pellinore is here searching for the Questing Beast.
+~
+King Pellinore tells you that his family has been searching for the Questing
+Beast for generations and asks if you have seen it. Pellinore is just past
+middle age, though he is still a stout fighter.
+~
+30798 0 0 0 33832 0 0 0 500
+35 5 -1 1d3000+5000 1d55+55
+50 60
+9 9 1 0 -1 -1
+#23416
+N D 0~
+beast questing camelot~
+the Questing Beast~
+A long necked, lion pawed, spotted, creature is here knawing on a femur.
+~
+The Questing Beast *** NUKES *** you!
+The Questing Beast *** OBLITERATES *** you!
+The Questing Beast dodges your attack.
+You sure are BLEEDING!
+The Questing Beast is in perfect health.
+~
+30830 0 0 0 33832 0 0 0 -1000
+44 -2 -1 1d4400+4400 1d75+75
+65 75
+9 9 0 0 -1 -1
+#23417
+H P 0~
+tristram camelot~
+Sir Tristram of Lyoness~
+Sir Tristram smirks at you.
+~
+Sir Tristram, suitor of Isolade, is considered by many to be second only to
+Lancelot in skill of arms. He wears plate mail and carries a two handed 
+sword.
+~
+30798 0 0 0 33832 0 0 0 1000
+45 3 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#23418
+H D 0~
+mordred camelot~
+Mordred~
+An boy in golden armor gives you an elfin laugh and strikes with his spear!
+~
+Mordred, bastard son of Lancelot and Gwenivere, wears his enchanted golden 
+armor and his unholy spear.
+~
+30830 0 0 0 33960 0 0 0 -1000
+44 3 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#23419
+U D 0~
+charmed knight reknown camelot~
+Charmed knight of reknown~
+A charmed knight of reknown woodenly attacks you!
+~
+The knight is in rusty armor and bears a knotched sword. He has a disheveled 
+look to him and his eyes stare vacantly at you!
+~
+26700 0 0 0 33832 0 0 0 -500
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23420
+U D 0~
+charmed knight quality camelot~
+Charmed knight of quality~
+A charmed knight of quality woodenly attacks you!
+~
+A charmed knight of quality stands here in his rusted armor. His eyes are 
+vacant, his sword is knotched, and he is unkempt.
+~
+26700 0 0 0 33792 0 0 0 -750
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23421
+H T 0~
+lady waiting camelot~
+a lady in waiting~
+A lady in waiting bats her eyes at you!
+~
+The lady in waiting snuggles up closer to you, pressing you for the details 
+of your last campaign. She is clad in a long gown and garlands of flowers 
+are in her hair.
+~
+26828 0 0 0 33832 0 0 0 500
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 2 0 -1 -1
+#23422
+H C 0~
+queen gwenivere camelot~
+Queen Gwenivere~
+A raven haired queen winks at you from behind her fan.
+~
+Gwenivere tells you a sorry tale about her forbidden love with Lancelot.
+~
+30926 0 0 0 165032 0 0 0 500
+45 10 -1 1d4000+5000 1d75+75
+65 75
+9 9 2 0 -1 -1
+#23423
+U D 0~
+squire charmed camelot~
+Charmed Squire~
+A charmed squire stands here woodenly
+~
+The charmed squire is wearing various leather garmets in a state of disarray.
+~
+26828 0 0 0 33792 0 0 0 -250
+25 8 -1 1d100+2500 1d25+25
+40 40
+9 9 1 0 -1 -1
+#23424
+H P 0~
+barant king apres knight camelot~
+Barant Les Apres (King of the Hundred Knights)~
+A knight in a flowing white cape and swings a spiked ball here.
+~
+Barant Les Apres, King of the Hundred Knights stands here. Barant wears a 
+white cape and carries a spiked ball and chain. He hefts his weapon and 
+grins at you.
+~
+30798 0 0 0 33960 0 0 0 750
+35 5 -1 1d3000+5000 1d55+55
+50 60
+9 9 1 0 -1 -1
+#23425
+H T 0~
+dagonet jester fool camelot~
+Dagonet (Arthur's Court Jester)~
+A fool in motley cavorts here!
+~
+Dagonet, the court jester of Arthur, is a master of his craft. He dances 
+on his hands while juggling a set of knives. You get the impression that 
+he could handle himself well in a fight.
+~
+30926 0 0 0 33832 0 0 0 1000
+45 2 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#23426
+H D 0~
+turquine knight camelot~
+Turquine~
+A knight with a wolf helm cackles with glee!
+~
+Turquine is dressed in scale mail and a wolf helm. He is a slender whip 
+of a man, and his eyes dart left and right.
+~
+30798 0 0 0 33960 0 0 0 -500
+40 4 -1 1d4000+4000 1d65+65
+65 75
+9 9 1 0 -1 -1
+#23427
+H P 0~
+perimones knight camelot~
+Perimones (the Red Knight)~
+A knight dressed red shimmering armor faces you!
+~
+Perimones, the red knight, has a red beard and mustache. He is a short 
+stocky man. His ruby armor is shimmering in the sunlight, and he wears 
+the silken red favor of Galenvine on his sleeve.
+~
+30798 0 0 0 33960 0 0 0 500
+40 4 -1 1d4200+4200 1d65+65
+65 75
+9 9 1 0 -1 -1
+#23428
+H T 0~
+damsel lady woman distress camelot~
+a damsel in distress~
+A damsel in distress is here, screaming for help!
+~
+The damsel in distress has been badly roughed up by the ruffians. She is 
+tied with here hands behind her back. Her coartly gowns are soiled and 
+tattered.
+~
+30926 0 0 0 33832 0 0 0 200
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 2 0 -1 -1
+#23429
+H T 0~
+nobleman camelot~
+a nobleman~
+A nobleman stands here in all his finery.
+~
+The nobleman wears the finest cotton and wool clothing available. Riches 
+adorn him in the form of chains, and a rather heavy looking purse. He 
+seems intent on going somewhere.
+~
+26828 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23430
+H T 0~
+serf camelot~
+a serf~
+A dirty serf shuffles along here.
+~
+The serf is in rags, smells, and you actually think you can see lice on him.
+~
+26828 0 0 0 33832 0 0 0 0
+25 8 -1 1d100+2500 1d25+25
+40 40
+9 9 1 0 -1 -1
+#23431
+H T 0~
+merchant camelot~
+a merchant~
+A brightly clothed merchant hawks his goods to you!
+~
+The merchant wears a bright tunic to draw attention and signify his wares.
+~
+26828 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23432
+H C 0~
+monk camelot~
+a monk~
+A monk is here in his mumbling in Latin here.
+~
+The monk has a brown robe with a hood on it. He has tied it off with a 
+piece of rope. The top of his head is shaved in the Fransician fashion.
+~
+26830 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23433
+H T 0~
+troubadour camelot~
+a troubadour~
+A troubadour is here, strumming a merry tune.
+~
+The troubadour is playing on a mandolin, and is dressed in festival colors.
+~
+30926 0 0 0 33832 0 0 0 100
+35 3 -1 1d4000+4000 1d75+75
+50 60
+9 9 2 0 -1 -1
+#23434
+H T 0~
+bard camelot~
+a bard~
+A bard is here, singing a sweet ballad.
+~
+The bard is dressed in silk leggings, a leather vest, and bright orange 
+shirt.
+~
+26830 0 0 0 33832 0 0 0 100
+35 4 -1 1d3000+5000 1d65+65
+50 60
+9 9 1 0 -1 -1
+#23435
+H T 0~
+entertainer camelot~
+an entertainer~
+An entertainer is here, leaping with great acrobatic prowess!
+~
+The entertainer is doing handsprings and backflips in a dizzying progression.
+~
+30926 0 0 0 33832 0 0 0 100
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 1 0 -1 -1
+#23436
+H T 0~
+servant camelot~
+a servant~
+A servant is rushing by.
+~
+The servant has a plate of hot food that looks delicious.
+~
+26828 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 2 0 -1 -1
+#23437
+N D 0~
+demon camelot~
+a towering, black scaled demon~
+A towering, black scaled demon has come to eat your soul!
+~
+The demon stands 20' tall, has two heads, black scales, a mouthfull of 
+sharp teeth, 4 arms with long razorlike claws, and two muscular legs 
+with cloven hooves. The heads are batlike, and the black eyes seem to 
+vacantly stare at you. As it breathes the ground you stand on rumbles, 
+and you are seared by its hot breath. It is this demon which has been 
+laughing at you in all your visions. Merlin has bound this demon here 
+to use its power in the fabrication of magic items, however his hold 
+has slipped a few times, enabling the demon to give out a few artifacts 
+to encourage the downfall of Camelot (Morgana, Pict leader).
+~
+16494 0 0 0 33960 0 0 0 -1000
+50 -5 -1 5d5000+5000 1d75+75
+80 90
+9 9 0 0 -1 -1
+#23438
+H W 0~
+jack iron camelot~
+Iron Jack~
+Iron Jack, the armorer of Camelot is here.
+~
+Iron Jack wears his smith apron, leather leggings, and has corded muscular 
+arms.
+~
+24650 0 0 0 33832 0 0 0 0
+50 -5 -1 1d1+30000 8d7+75
+80 90
+9 9 1 0 -1 -1
+#23439
+H W 0~
+stirrup master shop_keeper camelot~
+Stirrup~
+Stirrup, the stable master of Camelot is here.
+~
+Stirrup is a short man, wearing a leather jerkin, and smells of the barn.
+~
+24650 0 0 0 33832 0 0 0 400
+50 -5 -1 1d1+30000 8d7+75
+80 90
+9 9 1 0 -1 -1
+#23440
+A W 0~
+horse riding camelot~
+a riding horse~
+A riding horse is here.
+~
+The riding horse is saddled with light tack, and has long slender limbs 
+for speed.
+~
+26830 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 2 0 -1 -1
+#23441
+A W 0~
+warhorse medium camelot~
+a medium warhorse~
+A medium warhorse is tethered here.
+~
+The medium warhorse is has heavy tack and leather barding.
+~
+26830 0 0 0 33832 0 0 0 0
+25 8 -1 1d100+2500 1d25+25
+40 40
+9 9 2 0 -1 -1
+#23442
+A W 0~
+warhorse heavy camelot~
+a heavy warhorse~
+A heavy warhorse paws the ground and snorts in preparation for battle!
+~
+The heavy warhorse has full chain barding and stands 17 hands.
+~
+26830 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23443
+H W 0~
+raider saxon camelot~
+a Saxon raider~
+A Saxon raider is here, ready to take your head as a trophy.
+~
+The Saxon raider carries his sax, *yes really it is an actual weapon name*, 
+and is dressed in various hides.
+~
+26702 0 0 0 33832 0 0 0 -200
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23444
+H W 0~
+slave camelot~
+a slave~
+A slave is here, cringing from battle.
+~
+The slave is dirty and unkempt, but she retains a vestage of her former 
+station and bearing.
+~
+26830 0 0 0 33832 0 0 0 0
+25 8 -1 1d100+2500 1d25+25
+40 40
+9 9 2 0 -1 -1
+#23445
+H W 0~
+chief saxon render camelot~
+a Saxon chief~
+A Saxon chief is here, leading his raiders into battle!
+~
+The Saxon chief, Render (you know his name because of the general grunting), 
+is decked in the spoils of war. All and all you think he has lice.
+~
+26702 0 0 0 33832 0 0 0 -500
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23446
+H W 0~
+guard border northern camelot~
+a northern border guard~
+A northern border guard is here, stoically holding the line against intruders.
+~
+The border guard wears chain armor and is equipped with a standard sword.
+~
+26702 0 0 0 33832 0 0 0 300
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23447
+H W 0~
+commander outpost camelot~
+the northern outpost commander~
+The northern outpost commander is here, safe in the respect of his men.
+~
+The outpost commander is a hardened, grizzled veteran with the cunning that 
+comes from a life of leading men in endless battle.
+~
+26702 0 0 0 33832 0 0 0 500
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23448
+H W 0~
+clansman scot camelot~
+a Scot clansman~
+A Scot clansman is here, ready to seize your women and whiskey!
+~
+The Scot clansman is wearing a kilt, leather sandles, and has a long swath 
+of cloth wrapped around his shoulders. He carries a beautiful claymore which 
+is about 4' long.
+~
+26702 0 0 0 33832 0 0 0 0
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23449
+H W 0~
+chief clan scot camelot~
+the Scot clan chief~
+The Scot clan chief is here, seizing his clansman's women and whiskey!
+~
+The Scot clan chief towers over you. He looks like he could toss a tree end 
+over end and have it land pointing away from him. He looks like he could 
+heave a sheaf with a fork more than 20' in the air. He looks like he could 
+down a barrel of ale and still have his whiskey. He looks...
+~
+26702 0 0 0 33832 0 0 0 -100
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23450
+H W 0~
+serf busy camelot~
+a busy serf~
+A busy serf is here, tilling the fields for harvest.
+~
+The serf has a farm tool and a rag to cover himself.
+~
+26830 0 0 0 33832 0 0 0 0
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#23451
+H W 0~
+raider angle camelot~
+an Angle raider~
+An Angle raider is here, burning huts and raping women!
+~
+The Angle raider is tall, blond haired, and wears a horned helmet. He 
+carries a shield and his Angle, an angled swordlike blade. He is in partial 
+leather armor.
+~
+26702 0 0 0 33832 0 0 0 -200
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23452
+H W 0~
+chief angle camelot~
+the Angle chief~
+The Angle chief is here, leading the massacre!
+~
+The Angle chief is a giant of a man, covered in blood, and laughing with 
+a deep boom at each kill.
+~
+26702 0 0 0 33832 0 0 0 -700
+40 4 -1 1d4000+4000 1d65+65
+65 75
+9 9 1 0 -1 -1
+#23453
+H W 0~
+calvary unit camelot~
+the calvary unit~
+A calvary unit is here, flanking the enemy lines.
+~
+The calvary unit consists of about 30 mounted knights on medium warhorses.
+~
+26702 0 0 0 33832 0 0 0 200
+40 4 -1 1d4000+4000 1d65+65
+65 75
+9 9 0 0 -1 -1
+#23454
+H W 0~
+infantry unit camelot~
+the infantry unit~
+An infantry unit is here, fighting the Pict hoards.
+~
+The infantry unit has about 50 squires and serfs armed with polearms.
+~
+26702 0 0 0 33832 0 0 0 0
+40 0 -5 1d4000+4000 1d40+40
+65 75
+9 9 0 0 -1 -1
+#23455
+H W 0~
+hoard pict picts camelot~
+the pict hoard~
+A hoard of Picts is here, fighting the troops of Camelot.
+~
+The hoard of Picts consists of about 500 poorly armed and armored foot 
+soldiers.
+~
+26702 0 0 0 33832 0 0 0 -100
+40 0 -1 1d4000+4000 1d40+40
+65 75
+9 9 0 0 -1 -1
+#23456
+H W 0~
+leader pict camelot~
+the Pict leader~
+The Pict leader is here, retreating from battle.
+~
+The Pict leader is covered in blue dye, giving him a fearsome demonic 
+appearance which is further augmented by his reindeer horned helmet.
+~
+26702 0 0 0 33832 0 0 0 -400
+50 -5 -1 1d5000+5000 1d50+50
+80 90
+9 9 1 0 -1 -1
+#23457
+H W 0~
+persante knight camelot~
+Persante of Inde (the blue knight)~
+Persante of Inde is here, marshalling the troops of Camelot.
+~
+Persante is called the blue knight because of his brilliant blue armor. 
+He is mounted on a fine charger, and is waving his blue pennant.
+~
+26702 0 0 0 33832 0 0 0 400
+45 -3 -1 1d4500+4500 1d45+45
+65 75
+9 9 1 0 -1 -1
+#23458
+H W 0~
+dodinas knight camelot~
+Dodinas le Savage~
+Dodinas le Savage is here, holding the center of the line!
+~
+Dodinas is a whirlwind of weapons and martial skill, felling all who
+approach. He is mounted atop his famed steed Rue.
+~
+26702 0 0 0 33832 0 0 0 100
+42 -1 -1 1d4200+4200 1d42+42
+65 75
+9 9 1 0 -1 -1
+#23459
+H W 0~
+lionel knight camelot~
+Lionel~
+Lionel is here, unhorsed, and fighting for his life!
+~
+Lionel is covered in blood, and is walking as if stunned. It looks like he 
+is going to fall.
+~
+26702 0 0 0 33832 0 0 0 300
+40 0 -1 1d4000+4000 1d40+40
+65 75
+9 9 1 0 -1 -1
+#23460
+H W 0~
+gaheris knight camelot~
+Gaheris~
+Gaheris (Gawaine's brother) is here putting down the raiders.
+~
+Gaheris has long red hair, and a gray stallion. He is extremely angry with 
+the Angles and is cutting his way to the chief.
+~
+26702 0 0 0 33832 0 0 0 500
+43 -2 -1 1d4300+4300 1d43+43
+65 75
+9 9 1 0 -1 -1
+#23461
+H W 0~
+commander outpost southern camelot~
+the southern outpost commander~
+The southern outpost commander is here, safe in the respect of his men.
+~
+The outpost commander is a hardened, grizzled veteran with the cunning that 
+comes from a life of leading men in endless battle.
+~
+26702 0 0 0 33832 0 0 0 500
+35 2 -5 1d3500+3500 1d35+35
+50 60
+9 9 1 0 -1 -1
+#23462
+H W 0~
+guard border southern camelot~
+a southern border guard~
+A southern border guard is here, stoically holding the line against intruders.
+~
+The border guard wears chain armor and is equipped with a standard sword.
+~
+26702 0 0 0 33832 0 0 0 300
+30 5 -5 1d3000+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#23463
+H W 0~
+slave camelot~
+a slave~
+A slave is here, cringing from battle.
+~
+The slave is dirty and unkempt, but she retains a vestage of her former 
+station and bearing.
+~
+30926 0 0 0 33832 0 0 0 0
+25 7 -5 1d2500+2500 8d7+25
+40 40
+9 9 2 0 -1 -1
+#23470
+H M 0~
+nyneve~
+Nyneve~
+Nyneve welcomes you to your fate.
+~
+A lady of indefinite age stands before you. She was the tutor of
+Merlin, and in achieving this she gained all his secrets. She also 
+has the gifts possessed by all females making her a much fiercer enemy.
+~
+546858 0 0 0 1194 0 0 0 -1000
+40 0 -10 1d800+5400 6d2+25
+65 75
+9 9 0 0 -1 -1
+#23480
+H H 0~
+shade~
+the &01Shade&00~
+You see a movement in the shadows....you think.
+~
+The &01Shade&00 was put here for one thing and one thing only.
+To make Ravens first level 50 Sd.
+~
+136 0 0 0 263272 0 0 0 0
+50 -30 10 1d1+28000 20d20+80
+80 90
+9 9 0 13 23 14
+$

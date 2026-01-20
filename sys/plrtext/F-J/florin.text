@@ -1,0 +1,14 @@
+rrr rec recall recall
+hh cast 'consume corp' corpse
+h cast 'life drain'
+cc cast 'charm corpse' corpse
+oo order foll kill $1;assist
+ee get cup pou;drink cup
+vv cast 'embalm' corpse
+rr rec recall
+pou put all pou;get all.rec pouch;sav
+4 cast 'soul'
+kk cast 'soul' $1
+wak wake;stand
+zz cast 'blind' $1
+2 get all corpse

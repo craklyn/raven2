@@ -1,0 +1,1846 @@
+#10400
+The North Wall~
+You continue along the north road.  The city wall blocks your way north and
+Cloudy Mountain casts a shadow over the street.  Homes are to the south and 
+the road is east and west.
+~
+104 0 0 0 0 2 255 0
+D1
+the north wall
+~
+~
+0 -1 7798
+D3
+north wall
+~
+~
+0 -1 10401
+S
+#10401
+The North Wall~
+You continue along the north road.  The city wall blocks your way north and
+Cloudy Mountain casts a shadow over the street.  Homes are to the south and the
+road is east and west.
+~
+104 0 0 0 0 2 255 0
+D1
+north wall
+~
+~
+0 -1 10400
+D3
+north wall
+~
+~
+0 -1 10402
+S
+#10402
+The North Wall~
+You continue along the north road.  The city wall blocks your way north and
+Cloudy Mountain casts a shadow over the street.  Homes are to the south and the
+road is east and west.
+~
+104 0 0 0 0 2 255 0
+D1
+north wall
+~
+~
+0 -1 10401
+D3
+north wall
+~
+~
+0 -1 10403
+S
+#10403
+The North Wall~
+You travel along the north road.  The city wall blocks your way north and
+Cloudy Mountain cast a shadow over the street.  Homes are to the south and the 
+road continues east and west.
+~
+104 0 0 0 0 2 255 0
+D1
+north wall
+~
+~
+0 -1 10402
+D3
+northwest corner
+~
+~
+0 -1 10404
+S
+#10404
+The Northwest Corner~
+You are at a corner of the city.  The entire layout of the town appears to
+be made up of squares and rectangles.  Roads continue along the walls east and
+south.
+~
+104 0 0 0 0 2 255 0
+D1
+the north wall
+~
+~
+0 -1 10403
+D2
+~
+~
+0 0 10406
+D3
+the west wall
+~
+~
+0 -1 10406
+D4
+the northwest tower
+~
+~
+0 -1 10405
+S
+#10405
+The Northwest Tower~
+From this lookout tower, guards can see for miles along the mountain range to
+the west and Cloudy Mountain blocks the view north.  The sunsets from this 
+tower are breathtaking and are second to none in the land of Pandora's
+Box.
+~
+104 0 0 0 0 2 255 0
+D5
+the village
+~
+~
+0 -1 10404
+S
+#10406
+The West Wall~
+You travel on a road along the west wall.  At sunset, an orange glow can be
+seen at the top of the wall.  Homes are east, a corner is north, and the road
+continues south.
+~
+104 0 0 0 0 2 255 0
+D0
+the northwest corner
+~
+~
+0 -1 10404
+D2
+west wall
+~
+~
+0 -1 10407
+S
+#10407
+The West Wall~
+You travel on a road along the west wall.  At sunset, an orange glow can be
+seen at the top of the wall.  Homes are east, and the road continues north and
+south.
+~
+104 0 0 0 0 2 255 0
+D0
+the west wall
+~
+~
+0 -1 10406
+D2
+along west wall
+~
+~
+0 -1 10408
+S
+#10408
+The West Wall~
+You travel on a road along the west wall.  At sunset, an orange glow can be
+seen at the top of the wall.  Homes are east and the road continues north and
+south.
+~
+104 0 0 0 0 2 255 0
+D0
+along west wall
+~
+~
+0 -1 10408
+D2
+west wall
+~
+~
+0 -1 10409
+S
+#10409
+An Intersection~
+You are on a road that runs parallel to the west wall.  It is made from the
+same tiles as the court.  A dark alley is east and the road continues north 
+and south.
+~
+104 0 0 0 0 2 255 0
+D0
+the west wall
+~
+~
+0 -1 10408
+D1
+a dark alley
+~
+~
+0 -1 10435
+D2
+west wall
+~
+~
+0 -1 10410
+S
+#10410
+The West Wall~
+You are on the west road of the city.  The wall blocks your path to the 
+west and homes are east.  The road continues north and south.
+~
+104 0 0 0 0 2 255 0
+D0
+the west wall
+~
+~
+0 -1 10409
+D2
+west wall
+~
+~
+0 -1 10411
+S
+#10411
+The West Wall~
+You are on the west road of the city.  The wall blocks your path to the 
+west and homes are east.  The road continues north and south.
+~
+104 0 0 0 0 2 255 0
+D0
+west wall
+~
+~
+0 -1 10410
+D2
+west wall
+~
+~
+0 -1 10412
+S
+#10412
+The West Wall~
+You are traveling on the west road.  The wall blocks your path west and 
+houses are to the east.  The road continues north and the southwest corner is
+south.
+~
+104 0 0 0 0 2 255 0
+D0
+west wall
+~
+~
+0 -1 10411
+D2
+southwest corner
+~
+~
+0 -1 10413
+S
+#10413
+The Southwest Corner~
+You are at one of the corners of the city.  A tower is to the southwest and 
+the city walls block your path south and west.  Roads continue along the walls
+north and east.
+~
+104 0 0 0 0 2 255 0
+D0
+west wall
+~
+~
+0 -1 10412
+D1
+south wall
+~
+~
+0 -1 10415
+D4
+southwest tower
+~
+~
+0 -1 10414
+S
+#10414
+The Southwest Tower~
+From this tower the guards can spot attacks from the mountain range to the
+west, can oversee the valley to the southwest, and has the perfect view of
+the road leading to the city.
+~
+104 0 0 0 0 2 255 0
+D5
+the village
+~
+~
+0 -1 10413
+S
+#10415
+The South Wall~
+You are traveling along the south wall.  The wall blocks your path south and
+homes are north.  The southwest corner is west and the road continues east.
+~
+104 0 0 0 0 2 255 0
+D1
+south wall
+~
+~
+0 -1 10416
+D3
+south wall
+~
+~
+0 -1 10413
+S
+#10416
+The South Wall~
+You are traveling along the south wall.  You see nothing but the stone wall
+and blue sky to the south.  Homes are north and the road continues east and
+west.
+~
+104 0 0 0 0 2 255 0
+D1
+south wall
+~
+~
+0 -1 10417
+D3
+south wall
+~
+~
+0 -1 10415
+S
+#10417
+The South Wall~
+You are traveling along the south wall.  You see nothing but the stone wall
+and blue sky to the south.  Homes are north and the road continues east and 
+west.
+~
+104 0 0 0 0 2 255 0
+D1
+south wall
+~
+~
+0 -1 10418
+D3
+south wall
+~
+~
+0 -1 10416
+S
+#10418
+The South Wall~
+You are traveling along the south wall.  You see nothing but the stone wall
+and blue sky to the south.  Homes are north and the road continues east and 
+west.
+~
+104 0 0 0 0 2 255 0
+D1
+south wall
+~
+~
+0 -1 10419
+D3
+south wall
+~
+~
+0 -1 10417
+S
+#10419
+The South Wall~
+You are traveling along the south wall.  You see nothing but the stone wall
+and blue sky to the south.  Homes are north and the road continues east and
+west.
+~
+104 0 0 0 0 2 255 0
+D1
+south wall
+~
+~
+0 -1 10420
+D3
+south wall
+~
+~
+0 -1 10418
+S
+#10420
+The South Wall~
+You are on a road traveling west along the south wall.  The road is made 
+of the same stone tiles as the court to the east.  Homes are to the north.
+~
+104 0 0 0 0 2 255 0
+D1
+the court 
+~
+~
+0 -1 7706
+D3
+the south wall
+~
+~
+0 -1 10419
+S
+#10421
+A Dark Alley~
+You are a little nervous as you see rift-rafts and other shady characters
+lurking in this alley.  The court is east and the west market is, well, west.
+~
+104 0 0 0 0 2 255 0
+D1
+the court
+~
+~
+0 -1 7718
+D2
+a citizen's house
+~
+~
+0 -1 10422
+D3
+west market
+~
+~
+0 -1 10423
+S
+#10422
+A Citizen's House~
+A home with only the comforts necessary to live a content life.
+~
+104 0 0 0 0 2 255 0
+D0
+a dark alley
+~
+~
+0 -1 10421
+S
+#10423
+The West Market Square~
+The city appears to be darker here.  The tiles on the market are a flat
+black color.  Although this is gloomier than the remainder of the city, it is 
+not in the least bit run-down.  A dark alley is east and the market continues
+north, east, and south.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10424
+D1
+a dark alley
+~
+~
+0 -1 10421
+D2
+west market
+~
+~
+0 -1 10447
+S
+#10424
+The West Market Square~
+You are on one of two market squares of Cloudy Mountain.  The people here
+do not seem very friendly and only seem interested in how much money you want
+to spend.  Homes are east and the market continues north, east and south.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10424
+D2
+west market
+~
+~
+0 -1 10423
+D3
+west market
+~
+~
+0 -1 10451
+S
+#10425
+The West Market Square~
+You are in the wealthy part of the square.  Many snobbish nobles are walking
+past and pay no attention to you.  Large town houses are north and east.  The
+court continues south and west.
+~
+104 0 0 0 0 2 255 0
+D2
+west market
+~
+~
+0 -1 10424
+D3
+west market
+~
+~
+0 -1 10426
+S
+#10426
+The West Market Square~
+You are in the wealthy part of the square.  Many snobbish nobles are walking
+past and pay no attention to you.  Large town houses are north and the court
+continues east, south, and west.
+~
+104 0 0 0 0 2 255 0
+D1
+west market
+~
+~
+0 -1 10425
+D2
+west market
+~
+~
+0 -1 10451
+D3
+west market
+~
+~
+0 -1 10427
+S
+#10427
+The West Market Square~
+The people here are rich and will kill you to get richer if they see the
+opportunity.  The mage's guild is north and the market continues east, south,
+and west.
+~
+104 0 0 0 0 2 255 0
+D0
+the mage guild
+~
+~
+0 -1 10428
+D1
+market square
+~
+~
+0 -1 10426
+D2
+west market
+~
+~
+0 -1 10450
+D3
+west market
+~
+~
+0 -1 10431
+S
+#10428
+The Mage Guild~
+You feel a tingling sensation as the increase of mana in the air becomes
+obvious.  Paintings of great magicians are on the walls.
+~
+104 0 0 0 0 2 255 0
+D1
+mage's guild
+~
+~
+0 -1 10429
+D2
+west market
+~
+~
+0 -1 10427
+S
+#10429
+Mage's Guild~
+Many magic books are on a bookshelf against one of the walls.  There are many
+tables where magic potions and dusts are being made.  Magic items and scrolls 
+are on the walls.
+~
+104 0 0 0 0 2 255 0
+D1
+Barnok's Study
+~
+~
+0 -1 10430
+D3
+mage guild
+~
+~
+0 -1 10428
+S
+#10430
+Barnok's Study~
+Fire, lightning, and ice are all swirling through the room as the mana 
+is insanely high in this room.  The walls, ceiling, and floor disappear and
+you feel like you are in some kind of void.  You think you can go west.
+~
+104 0 0 0 0 2 255 0
+D3
+mage guild
+~
+~
+0 -1 10429
+S
+#10431
+The West Market Square~
+You are in a corner of the market, many large, but dull houses are to the
+north and west.  The people traveling through here appear to be very 
+wealthy.  They only care about getting richer and certainly don't want to help
+you.
+~
+104 0 0 0 0 2 255 0
+D1
+west market
+~
+~
+0 -1 10427
+D2
+west market
+~
+~
+0 -1 10432
+S
+#10432
+The West Market Square~
+You are on a busy section of the market.  Many shady merchants and dealers
+are lurking about.  You tighten your grip on your wallet.  A noble's home is 
+west and the market continues north, east, and south.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10431
+D1
+west market
+~
+~
+0 -1 10450
+D2
+west market
+~
+~
+0 -1 10434
+D3
+a noble's manor
+~
+~
+0 -1 10433
+S
+#10433
+A Noble's Manor~
+A large stuffy house with many needless items and treasures.  The furniture 
+looks ridiculously expensive.
+~
+104 0 0 0 0 2 255 0
+D1
+the market
+~
+~
+0 -1 10432
+S
+#10434
+The West Market Square~
+You are on one of two market squares in Cloudy Mountain.  The tiles here are
+a dull black color.  Even though this market seems rather gloomy, the city
+here is still in excellent condition.  A dark alley is west and a dark mansion
+is east.  The market continues north and south.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10432
+D1
+Kringe's domain
+~
+~
+0 -1 10436
+D2
+the market
+~
+~
+0 -1 10438
+D3
+a dark alley
+~
+~
+0 -1 10435
+S
+#10435
+A Dark Alley~
+You hurry though a dark alley as many large shadows loom in the shadows.
+You feel a hand reaching for your wallet, but you knock it away with the butt
+of your weapon.  The west market is east and the city wall is west.
+~
+104 0 0 0 0 2 255 0
+D1
+west market
+~
+~
+0 -1 10434
+D3
+west wall
+~
+~
+0 -1 10409
+S
+#10436
+Kringe's Domain~
+A dark room with a large, smoked oak table in the center.  Lots of 
+slime-balls and rift-rafts turn and stare at you.  You wonder if this was a 
+good idea, you seem to have stumbled upon the headquarters of the Dragons of
+Anarchy.
+~
+104 0 0 0 0 2 255 0
+D1
+Kringe's treasure room
+~
+~
+0 -1 10437
+D3
+west market
+~
+~
+0 -1 10434
+S
+#10437
+Kringe's Treasure Room~
+You are blinded by the reflection from the mountains of gold in this room.
+Kringe sleeps, eats, and swims through the treasure.  He also probably buries
+the bodies of his enemies here.
+~
+104 0 0 0 0 2 255 0
+D3
+Kringe's domain
+~
+~
+0 -1 10436
+S
+#10438
+The West Market Square~
+You are on the western marketplace.  Many shady characters do their business
+here.  Although the city is still well-kept in this section, it appears to be
+gloomy and drab.  The market continues north, east, and south.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10434
+D1
+west market
+~
+~
+0 -1 10449
+D2
+west market
+~
+~
+0 -1 10439
+S
+#10439
+The West Market Square~
+This corner of the market is filled with all kinds of sleazy looking beings.
+The citizens seems to be more in a hurry when they pass through these parts.
+You clutch your wallet tightly as you see that the market continues north and
+east.  The thief guild is west and Ghanekar's Lair is to the south.
+~
+104 0 0 0 0 2 255 0
+D0
+the market
+~
+~
+0 -1 10438
+D1
+west market
+~
+~
+0 -1 10444
+D2
+Ghanekar's lair
+~
+~
+0 -1 10443
+D3
+thief guild
+~
+~
+0 -1 10440
+S
+#10440
+The Thieves' Guild~
+You enter a dark room filled with shady characters.  They check you out 
+to make sure you aren't an undercover guard before being allowed to continue
+into the guild.
+~
+104 0 0 0 0 2 255 0
+D1
+west market
+~
+~
+0 -1 10439
+D2
+thief guild
+~
+~
+0 -1 10441
+S
+#10441
+The Thief Guild~
+You shine your light throughout the dark room and discover hoards of stolen
+treasures, gold, and other goods throughout this large hall.  Many beady eyes
+are watching your every move.  The only obvious exit is north.
+~
+104 0 0 0 0 2 255 0
+D0
+the thieves' guild
+~
+~
+0 -1 10440
+D3
+the assassin's room
+~
+wall west~
+1 -1 10442
+S
+#10442
+The assassin's Room~
+The room is pitch black, you sense someone moving towards you.
+~
+104 0 0 0 0 2 255 0
+D1
+thief guild
+~
+wall east door~
+1 -1 10441
+S
+#10443
+Ghanekar's Lair~
+A large forest green house.  Many plants and small trees are in the windows
+and along the walls.  The smells of the forest are strong in here.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10439
+S
+#10444
+The West Market Square~
+The western market.  This is where evil congregate to make sleazy deals.  
+Homes are to the south and the market continues north, east, and west.
+~
+104 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 10449
+D1
+west market
+~
+~
+0 -1 10445
+D3
+west market
+~
+~
+0 -1 10439
+S
+#10445
+The West Market Square~
+The western market.  This is where evil congregate to make sleazy deals.  
+Homes are to the south and the market continues north, east, and west.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10448
+D1
+west market
+~
+~
+0 -1 10446
+D3
+west market
+~
+~
+0 -1 10444
+S
+#10446
+The West Market Square~
+The western market.  This is where evil congregate to make sleazy deals.
+Homes are east and south.  The market continues north and west.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10447
+D3
+west market
+~
+~
+0 -1 10445
+S
+#10447
+The West Market Square~
+The western market.  This is where evil congregate to make sleazy deals.
+Homes are east and the market continues north, south, and west.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10423
+D2
+west market
+~
+~
+0 -1 10446
+D3
+west market
+~
+~
+0 -1 10448
+S
+#10448
+The West Market Square~
+The western market.  This is where evil congregate to make sleazy deals.
+A mansion is north and the market is east, south, and west.
+~
+104 0 0 0 0 2 255 0
+D1
+west market
+~
+~
+0 -1 10447
+D2
+west market
+~
+~
+0 -1 10445
+D3
+the market
+~
+~
+0 -1 10449
+S
+#10449
+The West Market Square~
+The western market.  This is where evil congregate to make sleazy deals.  
+A mansion blocks the way north and the market continues east, south, and west.
+~
+104 0 0 0 0 2 255 0
+D1
+west market
+~
+~
+0 -1 10448
+D2
+west market
+~
+~
+0 -1 10444
+D3
+west market
+~
+~
+0 -1 10438
+S
+#10450
+The West Market Square~
+You are on the western market.  The people here are ill-tempered and are
+unwilling to help or answer questions.  A mansion blocks the way south and the
+market continues north, east and west.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10427
+D1
+~
+~
+0 -1 10451
+D3
+west market
+~
+~
+0 -1 10432
+S
+#10451
+The West Market Square~
+You are on the western market.  The people here are ill-tempered and 
+unwilling to help or answer questions.  A mansion blocks the way south and 
+the market continues north, east and west.
+~
+104 0 0 0 0 2 255 0
+D0
+west market
+~
+~
+0 -1 10426
+D1
+west market
+~
+~
+0 -1 10424
+D3
+west market
+~
+~
+0 -1 10450
+S
+#10452
+A Cavern~
+You seem to have entered Cloudy Mountain itself.  The caves appear dark from
+a distant but seem to light up when you enter them.  The cavern is damp and
+you hear dragons snoring deep within.  Legend has it that the Crown of Kings
+are guarded by two winged dragons.  High levels may adventure forth, whereas
+low and middle levels should turn back.
+~
+104 0 0 0 0 2 255 0
+D0
+a cave
+~
+~
+0 -1 10454
+D1
+a large cavern
+~
+~
+0 -1 10453
+D4
+back to the palace
+~
+trapdoor~
+1 -1 7742
+S
+#10453
+The Dracolich's Lair~
+The room is black and a blue flame roars in the center of the cave.  The
+smell of death nearly over powers you.  You gasp in terror as you see skulls
+from adventurers that have come before you.
+~
+104 0 0 0 0 2 255 0
+D3
+cavern
+~
+~
+0 -1 10452
+S
+#10454
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north
+east and south.  You see tiny paw-prints on the ground.
+~
+104 0 0 0 0 2 255 0
+D0
+the cave
+~
+~
+0 -1 10459
+D1
+the cave
+~
+~
+0 -1 10455
+D2
+a cavern
+~
+~
+0 -1 10452
+S
+#10455
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and west.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10458
+D1
+the caves
+~
+~
+0 -1 10456
+D3
+the caves
+~
+~
+0 -1 10454
+S
+#10456
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+south and west.  You see paw prints on the floor.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10457
+D2
+the caves
+~
+~
+0 -1 10469
+D3
+the caves
+~
+~
+0 -1 10455
+S
+#10457
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+south and west.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10470
+D2
+the caves
+~
+~
+0 -1 10456
+D3
+the caves
+~
+~
+0 -1 10458
+S
+#10458
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and south.  You notice paw prints on the ground.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10461
+D1
+the caves
+~
+~
+0 -1 10457
+D2
+the caves
+~
+~
+0 -1 10455
+S
+#10459
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+south and west.  You hear a strange slurping sound from another room.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10460
+D2
+the caves
+~
+~
+0 -1 10454
+D3
+the caves
+~
+~
+0 -1 10477
+S
+#10460
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are east,
+south and west.  You hear a strange slurping sound coming from another room.
+~
+104 0 0 0 0 2 255 0
+D1
+the caves
+~
+~
+0 -1 10461
+D2
+the caves
+~
+~
+0 -1 10459
+D3
+the caves
+~
+~
+0 -1 10479
+S
+#10461
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+south and west.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10462
+D2
+the caves
+~
+~
+0 -1 10458
+D3
+the caves
+~
+~
+0 -1 10460
+S
+#10462
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are east,
+south and west.  You hear a strange slurping sound in another room.
+~
+104 0 0 0 0 2 255 0
+D1
+the caves
+~
+~
+0 -1 10469
+D2
+the caves
+~
+~
+0 -1 10461
+D3
+the caves
+~
+~
+0 -1 10463
+S
+#10463
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and west.  You hear a dragon snoring.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10464
+D1
+the caves
+~
+~
+0 -1 10462
+D3
+the caves
+~
+~
+0 -1 10482
+S
+#10464
+A Winding Cavern~
+You are now in a cavern.  It is slightly wider here, and the ceiling is very
+high.  You cringe at the thought of all the stalactites falling on top of you.
+Your light reflects off of certain parts of the cave wall.
+~
+104 0 0 0 0 2 255 0
+D0
+cavern
+~
+~
+0 -1 10465
+D2
+the caves
+~
+~
+0 -1 10463
+S
+#10465
+A Winding Cavern~
+There are more stalactites hanging from the ceiling here and you realize 
+the reflections on the walls are diamonds and other jewels.  A constant
+snoring echos through the cavern.
+~
+104 0 0 0 0 2 255 0
+D2
+the cavern
+~
+~
+0 -1 10464
+D3
+cavern
+~
+~
+0 -1 10466
+S
+#10466
+A Winding Cavern~
+You are very uneasy because of all the stalactites on the ceiling.  You
+look up and swear one of them is moving until you take a second look.  The 
+walls glitter with gems and gold.
+~
+104 0 0 0 0 2 255 0
+D0
+the cavern
+~
+~
+0 -1 10467
+D1
+the cavern
+~
+~
+0 -1 10465
+S
+#10467
+A Winding Cavern~
+The walls are covered with all kinds of raw gems, diamonds, and precious
+metals.  There are even treasures hidden in the nooks and crannies.  There is
+an unusual number of stalactites on the ceiling.  You hear a very loud 
+snoring to the west.
+~
+104 0 0 0 0 2 255 0
+D2
+a cavern
+~
+~
+0 -1 10466
+D3
+a chamber
+~
+~
+0 -1 10468
+S
+#10468
+A Large Chamber~
+You are nearly blinded by all the gold and treasures in this room!  You 
+quickly come to your senses as you see the winged dragon rearing his head to
+strike.  He is guarding half of the crown of kings.
+~
+104 0 0 0 0 2 255 0
+D1
+cavern
+~
+~
+0 -1 10467
+S
+#10469
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+south and west.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10456
+D2
+the caves
+~
+~
+0 -1 10470
+D3
+the caves
+~
+~
+0 -1 10462
+S
+#10470
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and south.  Strange, lizard-like tracks are on the ground.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10469
+D1
+the caves
+~
+~
+0 -1 10471
+D2
+the caves
+~
+~
+0 -1 10457
+S
+#10471
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+south and west.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10482
+D2
+the caves
+~
+~
+0 -1 10472
+D3
+the caves
+~
+~
+0 -1 10470
+S
+#10472
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out the rock.  Exits are north,
+east and south.  Strange, lizard-like tracks are on the ground.  You hear a 
+dragon snoring.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10471
+D1
+the caves
+~
+~
+0 -1 10480
+D2
+the caves
+~
+~
+0 -1 10473
+S
+#10473
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and south.  A skull is lying in the dust.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10472
+D1
+the caves
+~
+~
+0 -1 10481
+D2
+the caves
+~
+~
+0 -1 10474
+S
+#10474
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and west.  Some paw prints are on the ground.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10474
+D1
+the caves
+~
+~
+0 -1 10475
+D3
+the caves
+~
+~
+0 -1 10452
+S
+#10475
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and west.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10481
+D1
+the caves
+~
+~
+0 -1 10476
+D3
+the caves
+~
+~
+0 -1 10474
+S
+#10476
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+west and down.  Some paw prints are on the ground.  You hear a strange, 
+slurping sound from another room.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10477
+D3
+the caves
+~
+~
+0 -1 10475
+D5
+~
+~
+0 -1 10479
+S
+#10477
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and south.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10478
+D1
+the caves
+~
+~
+0 -1 10459
+D2
+the caves
+~
+~
+0 -1 10476
+S
+#10478
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+south and west.  You hear a dragon snoring.  You also hear a strange, slurping
+sound.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10479
+D2
+the caves
+~
+~
+0 -1 10477
+D3
+the caves
+~
+~
+0 -1 10480
+S
+#10479
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are east,
+south and up.
+~
+104 0 0 0 0 2 255 0
+D1
+the caves
+~
+~
+0 -1 10460
+D2
+the caves
+~
+~
+0 -1 10478
+D4
+the caves
+~
+~
+0 -1 10476
+S
+#10480
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are east,
+south and west.
+~
+104 0 0 0 0 2 255 0
+D1
+the caves
+~
+~
+0 -1 10478
+D2
+the caves
+~
+~
+0 -1 10481
+D3
+the caves
+~
+~
+0 -1 10472
+S
+#10481
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+south and west.  You see paw prints in the dirt.  You hear a dragon snoring.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10480
+D2
+the caves
+~
+~
+0 -1 10475
+D3
+the caves
+~
+~
+0 -1 10473
+S
+#10482
+The Caves of Cloudy Mountain~
+You only see a large, stone room carved out of the rock.  Exits are north,
+east and south.  Some strange lizard-like prints are in the dirt.
+~
+104 0 0 0 0 2 255 0
+D0
+the caves
+~
+~
+0 -1 10483
+D1
+the caves
+~
+~
+0 -1 10463
+D2
+the caves
+~
+~
+0 -1 10471
+S
+#10483
+A Cavern~
+You enter a large cavern that appears to be somewhat natural, but has
+been expanded by someone or something.
+~
+104 0 0 0 0 2 255 0
+D0
+the cavern
+~
+~
+0 -1 10484
+D1
+~
+~
+0 0 10490
+D2
+the caves
+~
+~
+0 -1 10482
+S
+#10484
+The Cavern~
+The cavern becomes slightly narrower here.  Some stalactites hang from the 
+cave ceiling.  You shudder at the though of being impaled by one.  You notice
+some gems glittering in the rock.
+~
+104 0 0 0 0 2 255 0
+D1
+the cavern~
+~
+0 -1 10485
+D2
+the cavern
+~
+~
+0 -1 10483
+S
+#10485
+The Cavern~
+The cavern turns east and then north again.  You hear a dragon snoring to 
+the north.  Many stalactites hang from the ceiling, you hurry through the room
+in fear that they will rain down upon you.  Many jewels reflect your light, this
+room appears to be mined or excavated by some intelligent life form.
+~
+104 0 0 0 0 2 255 0
+D0
+the cavern
+~
+~
+0 -1 10486
+D3
+the cavern
+~
+~
+0 -1 10484
+S
+#10486
+The Cavern~
+The cave is very wide here and there are many raw gems glowing in the rock.
+You see a skeleton in the corner that appears to have been impaled, but the 
+object that did so is nowhere to be found.  An unusual number of stalactites
+hang from the ceiling.  A dragon's snoring is rumbling from the east.
+~
+104 0 0 0 0 2 255 0
+D1
+the treasure room
+~
+~
+0 -1 10487
+D2
+~
+~
+0 -1 10485
+S
+#10487
+The Treasure Room~
+The cavern is shining with a golden light!  There is so much treasure and
+gold here that the reflection makes the rock appear to be made of gold!  But,
+alas, your entrance has not gone unnoticed.
+~
+104 0 0 0 0 2 255 0
+D3
+the cavern
+~
+~
+0 -1 10486
+S
+#10488
+Scourge's Storeroom~
+This is a room where imms, if they choose, may find powerful equipment that
+mortals are not allowed to have.
+~
+104 0 0 0 0 2 255 0
+S
+#10489
+Scourge' Room~
+You have entered Scourge's private room.  It is rather dark, those of 
+good alignment may find it sinister and feel uncomfortable...those who walk
+the path of evil are right at home.  There is a roaring fire in the fireplace,
+yet the room feels chilly.  There are some plants in the window, but they 
+appear to be dead.  Scourge is sitting in a black and red chair, he grins 
+at you evilly.
+~
+104 0 0 0 0 2 255 0
+E
+fire fireplace roaring~
+A fire roars here, for a second you think you see a body in the fire, but you
+blink and it's gone.
+~
+E
+plants window~
+The plants look like they died from lack of water and disease, you notice
+that you are developing a cough as you sit in your chair.
+~
+E
+chair red black~
+The chair looks very comfortable, the pattern is the colors of the Katyusha 
+clan.
+~
+E
+scourge~
+You meet his cold stare, as a chill runs up and down your spine, he speaks.
+Scourge says, 'I am not here right now, if you would like to leave a message,
+please leave your name, number, and I'll get back to you as soon as possible.'
+*BEEP*
+~
+S
+#10490
+A Dark Alley~
+You are in a dark cobblestone alley.  To the east is the wall of the city.  To
+the west is an archway under which is a opening into a cave right into the
+mountain.    
+~
+104 0 0 0 0 2 255 0
+D1
+the east wall 
+~
+~
+0 -1 7756
+D3
+east market
+~
+~
+0 -1 10483
+S
+#10497
+The East Market~
+You are on the east market of Cloudy Mountain.  A large mansion is south and
+the market continues north, east, and west.
+~
+104 0 0 0 0 2 255 0
+D0
+market
+~
+~
+0 -1 7779
+D1
+market
+~
+~
+0 -1 7782
+D3
+market
+~
+~
+0 -1 10498
+S
+#10498
+The East Market~
+You are on the east market of Cloudy Mountain.  A large mansion is south and
+the market continues north, east, and west.
+~
+104 0 0 0 0 2 255 0
+D0
+market
+~
+~
+0 -1 7774
+D1
+market
+~
+~
+0 -1 10497
+D3
+market
+~
+~
+0 -1 7772
+S
+$~

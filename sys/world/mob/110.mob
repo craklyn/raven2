@@ -1,0 +1,213 @@
+#11001
+H S 0~
+monk solemn~
+the Solemn Monk~
+A solemn monk shuffles about, deep in thought.
+~
+The monk stands here reading from a scroll.  He seems not to notice you.
+~
+30792 0 0 0 1056 0 0 0 0
+25 5 2 5d5+800 5d3+10
+40 40
+9 9 1 0 -1 -1
+#11002
+H S 0~
+monk warrior~
+the Warrior Monk~
+A warrior monk practices martial arts here.
+~
+The warrior monk is thouroughly absorbed in his training.  His
+perspiration-stained headband indicates he has been at it for a while.
+~
+30792 0 0 0 1056 0 0 0 0
+33 5 0 5d5+1500 5d3+15
+50 60
+9 9 1 0 -1 -1
+#11003
+H S 0~
+monk priest buddha~
+the Monk-Priest of Buddha~
+The priest of Buddha sits here meditating.
+~
+The Monk-Priest differs little in appearence when compared to the other
+monks of the monastery.  The holy symbol he wears is the only indication
+of his office.
+~
+28762 0 0 0 132268 0 0 0 0
+35 1 -6 5d5+5000 5d4+20
+50 60
+7 9 1 0 -1 -1
+#11004
+H S 0~
+shou lin master monk~
+the Shou Lin Master~
+The Shou Lin Master stands here studying you.
+~
+The Shou Lin Master looks a lot like the warrior monks who are practicing
+in the Hall outside his door...only more imposing.  He doesn't seem very
+pleased by your presence in his private cubicle.
+~
+28762 0 0 0 132268 0 0 0 0
+40 0 -8 5d5+6000 5d5+30
+65 75
+9 9 1 0 -1 -1
+#11005
+N S 0~
+copper statue~
+the Copper Statue~
+A copper statue stands here.
+~
+This is a nine foot tall statue of a Shou Lin monk molded from what
+appears to be copper.
+~
+28762 0 0 0 132268 0 0 0 0
+40 5 -8 5d5+4000 5d6+25
+65 75
+9 9 0 6 13 -1
+#11006
+N S 0~
+silver statue~
+the Silver Statue~
+A silver statue stands here.
+~
+This is a nine foot tall statue of a Shou Lin monk molded from what
+appears to be sliver.
+~
+28762 0 0 0 132268 0 0 0 0
+40 5 -8 5d5+2000 5d6+25
+65 75
+9 9 0 6 13 -1
+#11007
+N S 0~
+gold statue~
+the Gold Statue~
+A gold statue stands here.
+~
+This is a nine foot tall statue of a Shou Lin monk molded from what
+appears to be gold.
+~
+28762 0 0 0 132268 0 0 0 0
+40 4 -9 5d5+2000 5d6+27
+65 75
+9 9 0 6 13 -1
+#11008
+N S 0~
+platinum statue~
+the Platinum Statue~
+A platinum statue stands here.
+~
+This is a nine foot tall statue of a Shou Lin monk molded from what
+appears to be platinum.
+~
+28762 0 0 0 132268 0 0 0 0
+40 3 -10 5d5+2000 5d6+29
+65 75
+9 9 0 6 13 -1
+#11009
+G S 0~
+amal ialad guardian statue~
+Amal Ialad~
+Amal Ialad, The Guardian of the Ivory Buddha stands here.
+~
+You see before you a fifteen foot tall representation of Amal Ialad, the 
+founder of the Mountain Monastery which you have invaded, carved from
+basalt. 
+~
+28762 0 0 0 132268 0 0 0 0
+45 -5 -10 5d5+5000 5d8+30
+100 75
+9 9 0 6 18 13
+#11010
+U S 0~
+spirit guardian shou lin master monk m11010~
+Spirit~
+The spirit of an ancient Shou Lin master materializes before you.
+~
+A swirling mist materializes into an almost substantial form.  You can
+make out the features of an ancient Shou Lin Monk.
+~
+62328 0 0 0 951486 0 0 0 0
+45 -10 -10 5d5+5000 5d8+30
+65 75
+9 9 0 19 -1 -1
+#11011
+U S 0~
+spirit guardian shou lin monk master guardianspirit~
+Guardian Spirit~
+The spirit of an ancient Shou Lin master stands before you.
+~
+A swirling mist materializes into an almost substantial form.  You can
+make out the features of an ancient Shou Lin Monk.
+~
+63358 0 0 0 656572 0 0 0 0
+50 -20 -10 5d5+10000 18d5+50
+100 90
+9 9 0 19 -1 -1
+#11012
+H S 0~
+shou lin quartermaster m11012~
+the Shou Lin Quartermaster~
+The Shou Lin quartermaster awaits your request.
+~
+The Shou Lin quartermaster's duty is to register and attend to all
+guests of the monastery.
+~
+122970 0 0 0 1213608 0 0 0 0
+50 -20 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11013
+H S 0~
+shou lin provisioner monk m11013~
+the Shou Lin Provisioner~
+The shou lin provisioner waits to serve you.
+~
+The shou lin provisioner's duty is to provide for the basic needs of
+the inhabitants and guests of the monastery.
+~
+122970 0 0 0 1213608 0 0 0 0
+50 -20 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11014
+H S 0~
+guardian wise man~
+a Shou Lin Guardian~
+A Shou Lin master stands here guarding the door.
+~
+The guardian stands before the door, blocking those who would wish to
+enter.
+~
+192858 0 0 0 1213612 0 0 0 0
+50 -10 -10 1d1+15000 15d5+60
+80 90
+9 9 1 0 -1 -1
+#11071
+D S 0~
+shoulin dragon Soong Chen Yi ~
+Soong Chen Yi~
+Soong Chen Yi the great northern dragon stands here.
+~
+This ancient northern dragon has wandered the face of the known and unknown
+realms studing and perfecting the arts of the shoulin masters. Gazing into
+the horizon his deep eyes tell of planes no mortal has walked upon, or lived
+to tell as much.
+~
+188490 0 0 0 5735572 0 0 0 0
+50 -5 -11 50d8+12000 10d10+30
+100 90
+9 9 1 0 1 8
+#11072
+H S 0~
+monk visiting~
+a visiting monk~
+A small weary monk stands with his arms folded.
+~
+  This little monk doesn't looks very young.  He may see his 10th year this
+year.  He wears a saffron robe loosely.
+~
+8 0 0 0 0 0 0 0 0
+10 11 5 1d100+900 1d10+3
+35 40
+9 9 1 13 0 -1
+$

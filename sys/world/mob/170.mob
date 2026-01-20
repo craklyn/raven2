@@ -1,0 +1,399 @@
+#17000
+W W 0~
+guard dwarf dwarven~
+the dwarven guard~
+A Dwarven Guard stands here, protecting his sanctuary.
+~
+The guard is short and stocky, he looks like he is very strong. He stands
+watching over the door and looks you over warily as you approach.
+~
+22826 0 0 0 132096 0 0 0 750
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#17001
+W W 0~
+guard off-duty~
+the off-duty guard~
+An off-duty guard is sleeping here after a long, hard shift.
+~
+The guard looks very tired. He has just finished a long shift protecting his
+home from the evil hordes that roam these corridors.
+~
+20328 0 0 0 1064 0 0 0 750
+20 10 -1 1d100+2000 1d20+20
+40 40
+4 9 1 0 -1 -1
+#17002
+W W 0~
+lord moria balin~
+Balin~
+The Lord of Moria is sitting here, making decisions to protect his people.
+~
+Balin, The current Lord of Moria is a very powerful looking dwarf. He led the
+expedition to retake Moria from those that would desecrate it, and although his
+expansion has been somewhat thwarted, he rules his people as best he can and
+does his best to ensure that they live a safe and enjoyable existence in their
+homeland of old.
+~
+134281226 0 0 0 136360 0 0 0 1000
+45 2 -1 1d4000+5000 1d75+75
+65 75
+7 9 1 0 -1 -1
+#17003
+W W 0~
+counsellor dwarven dwarf~
+a dwarven counsellor~
+A dwarven counsellor is sitting here, consulting with his lord.
+~
+This old dwarf looks like he has quite a bit of fight left in him yet.
+~
+55306 0 0 0 132096 0 0 0 800
+30 5 -1 1d100+3000 1d30+30
+50 60
+7 9 1 0 -1 -1
+#17004
+W W 0~
+storekeeper dwarven keeper~
+the storekeeper~
+The dwarven storekeeper is here, dealing out mining equipment.
+~
+The dwarven storekeeper is big and strong. He probably used to be a miner
+himself expect his age has kept him out of the latest expeditions.
+~
+2350 0 0 0 132096 0 0 0 750
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 1 0 -1 -1
+#17005
+W W 0~
+cook dwarf dwarven~
+the Dwarven Cook~
+The cook stands here, stirring her broth.
+~
+The cook looks like she has spent many long hours stirring cauldrons of food.
+Her arms are enormous.
+~
+2058 0 0 0 132096 0 0 0 800
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 2 0 -1 -1
+#17006
+W W 0~
+citizen dwarf dwarven~
+the dwarven citizen~
+The dwarven citizen walks around here, seemingly ignorant of his plight.
+~
+The citizen looks quite happy with life and seems totally confident in the
+ability of the guards to protect the sanctuary.
+~
+16588 0 0 0 1024 0 0 0 1000
+25 8 -1 1d100+2500 1d25+25
+40 40
+9 9 0 0 -1 -1
+#17007
+W W 0~
+dwarf dwarven child~
+the dwarven child~
+The dwarven child sits here, waiting for his parents.
+~
+The child looks very bored. He is waiting for his parents to get home and
+feed and entertain him.
+~
+16542 0 0 0 1024 0 0 0 1000
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 1 0 -1 -1
+#17008
+O W 0~
+orog orc guard~
+the orog guard~
+An orog stands here, looking about warily.
+~
+The orog guard basically looks like a huge, mean orc. He towers above you at
+over seven feet in height and looks at you angrily before rushing to the attack.
+~
+546924 0 0 0 1024 0 0 0 -850
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 0 0 -1 -1
+#17009
+O W 0~
+orog orc sleeping~
+the sleepy orog~
+An orog sleeps here, dispelling the myths that they never need to rest.
+~
+The orog seems to be sleeping very soundly. By the volume of its snores you are
+surprised that it hasn't attracted all the denizens of the deep to an easy
+meal.
+~
+18536 0 0 0 1024 0 0 0 -800
+25 8 -2 1d100+2500 1d25+25
+40 40
+4 7 0 0 -1 -1
+#17010
+O M 0~
+shaman witch-doctor~
+the orog shaman~
+An evil looking witch-doctor is here, weaving his awful magic.
+~
+The orog shaman is tall and extremely ugly. He doesn't quite have the huge
+build that you have seen in others of his race, in fact, he is quite scrawny.
+He has a long, twisted scar running down his left cheek and has an evil,
+intelligent gleam in his eyes.
+~
+51322 0 0 0 1192 0 0 0 -1000
+45 5 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#17011
+O W 0~
+chieftain orog immense~
+the Orog Chieftain~
+An immense orog is pacing the room here, seeming rather preoccupied.
+~
+The Orog Chieftain is extremely large and solid. He stands at least 8 foot tall
+and you would guess that he is at least half that across the shoulders. He is
+pacing about the room and looks like he is deep in thought.
+   Perhaps you have a chance to get out before he notices you, you cant help
+but think that that would be the wisest course of action.
+~
+59434 0 0 0 132264 0 0 0 -1000
+45 3 -1 1d4000+5000 1d75+75
+65 75
+9 9 1 0 -1 -1
+#17012
+P W 0~
+jelly ochre~
+the ochre jelly~
+An opaque jelly clings to the roof here, waiting for some flesh to devour.
+~
+The jelly is opaque and is clinging to the roof. Its surface looks acidic
+and you shudder to think what would happen were it to touch your skin.
+~
+49194 0 0 0 656426 0 0 0 -200
+30 5 -1 1d100+3000 1d30+30
+50 60
+9 9 0 0 -1 -1
+#17013
+W W 0~
+dwarf dwarven miner~
+a dwarven miner~
+A sturdy dwarven miner is picking at the rockface here.
+~
+This dwarf looks extremely strong, and by the looks of the huge mining pick
+he is using, he needs every ounce of his strength to extract the mithril
+from the hard mountain rock.
+~
+22954 0 0 0 132096 0 0 0 1000
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 1 0 -1 -1
+#17014
+W W 0~
+mine sub-leader dwarf~
+the mine sub-leader~
+The Sub-Leader of the mine sits here, shuffling papers to look busy.
+~
+   The Sub-Leader of the mines looks like a large dwarf who has reached his
+elevated status and is content to ride on his fortune thus far. He is very
+overweight and looks completely disinterested in the job he has been assigned.
+~
+18446 0 0 0 132096 0 0 0 800
+35 4 -1 1d3000+5000 1d55+55
+50 60
+7 7 1 0 -1 -1
+#17015
+W W 0~
+mine leader dwarf~
+the mine leader~
+The Leader of the Mines is sitting here, grumbling about incompetent workers.
+~
+The mine leader looks big and strong, as though he has spent many long years
+mining the rock himself. You feel certain that he has earned his road to the
+top and that he is not a man to mess with.
+~
+59690 0 0 0 132264 0 0 0 1000
+40 3 -1 1d4000+1000 1d65+65
+65 75
+7 7 1 0 -1 -1
+#17016
+W W 0~
+peon dwarf dwarven~
+a dwarven peon~
+A dwarven peon wanders about here, going about his duties.
+~
+The dwarven peon looks mindless and dull. This must be the job assigned
+to the dwarves that arent strong enough to work the roch or without the skill
+or mental capacity to do so. They seem disinterested and weary.
+~
+20552 0 0 0 1024 0 0 0 850
+20 10 -1 1d100+2000 1d20+20
+40 40
+9 9 0 0 -1 -1
+#17017
+T W 0~
+xorn rock monster~
+the xorn~
+A monster seemingly made out of the very rock lumbers along here.
+~
+As you look at the rock you see that it is moving somewhat. Right before your
+very eyes a barrel like creature of about 5 foot in height with 3 arms, 3 legs
+and 3 eyes, seemingly made out of the very rock melds out of the rock and
+starts moving towards you.
+~
+51240 0 0 0 656552 0 0 0 -800
+35 3 -1 1d3000+5000 1d55+55
+50 60
+9 9 0 0 -1 -1
+#17018
+T W 0~
+umber hulk~
+an umber hulk~
+An umber hulk waddles slowly towards you here.
+~
+The umber hulk is large and cumbersome. It stands about 8 feet high and is
+about 5 feet across. It has two huge pincers in front of a mouth containing
+small but very sharp looking teeth. It has two pairs of eyes, one pair looking
+straight at you and the other seemingly surveying the surrounding rock.
+~
+18472 0 0 0 132264 0 0 0 -1000
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 0 0 -1 -1
+#17019
+G W 0~
+earth elemental~
+the earth elemental~
+An earth elemental is standing here, still as a rock.
+~
+Towering at a height of about 14 feet, this elemental looks as though he is
+as strong as the very rock under which you stand. It does not look like a thing
+to mess with. Maybe you should leave it in peace to do its own bidding.
+~
+59402 0 0 0 656552 0 0 0 0
+35 4 -25 1d3000+5000 1d55+55
+50 60
+9 9 0 0 -1 -1
+#17020
+G W 0~
+trapper~
+the trapper~
+A trapper lies on the floor here, waiting to engulf you.
+~
+The trapper looks like a tiled floor, although you can see at its edges that
+it is more like a tough amoeba.
+~
+190506 0 0 0 656552 0 0 0 -1000
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 0 0 -1 -1
+#17023
+N M 0~
+balrog~
+the Balrog~
+The Dread Balrog stands here, flame emanating from his entire body.
+~
+Before you stands the infamous Balrog. It is a dark figure streaming with fire,
+a black smoke rising above its head. It has a mane of fire about its neck and
+looks to be an insurmountable foe.
+~
+257838 0 0 0 1213608 0 0 0 -1000
+51 -10 -10 10d10+22500 6d7+100
+90 100
+9 9 1 8 4 21
+#17050
+H W 0~
+dickweed orog~
+a orog~
+A orog stands here.
+~
+The orog growls at you.
+~
+16394 0 0 0 0 0 0 0 1000
+10 10 -5 10d10+10 5d5+5
+35 40
+9 9 0 0 -1 -1
+#17051
+W M 0~
+dwarf questmaster mage~
+the Dwarven Questmaster~
+The Dwarven Questmaster stands here.
+~
+Yep, he's sporting a beard... short, stout... must be a Dwarf.
+~
+134299656 0 0 0 1192 0 0 0 0
+51 -20 0 1d1+15000 10d10+90
+90 100
+9 9 1 0 -1 -1
+#17121
+A W 0~
+worm purple~
+the purple worm~
+A purple worm is making its home here.
+~
+The worm is absolutely huge. It must be at least 25 feet long and looks like
+it could swallow you whole.
+~
+59434 0 0 0 132136 0 0 0 0
+40 -10 -10 200d10+4000 10d4+10
+65 75
+9 9 0 0 -1 -1
+#17122
+G W 0~
+giant stone~
+the Stone Giant~
+A stone giant stands here with a key hanging around it's neck.
+~
+The giant towers above you and seems annoyed by your presence.
+~
+124970 0 0 0 132264 0 0 0 -1000
+35 4 -1 1d3000+5000 1d55+55
+50 60
+9 9 0 0 -1 -1
+#17123
+N M 0~
+balrog clonerog~
+the Balrog~
+The Dread Balrog stands here, flame emanating from his entire body.
+~
+Before you stands the infamous Balrog. It is a dark figure streaming with fire,,
+a black smoke rising above its head. It has a mane of fire about its neck and
+looks an insurmountable foe.
+~
+8640522 0 0 0 1213608 0 0 0 -1000
+6 -10 -10 1d50+100 5d4+1
+35 40
+9 9 1 0 -1 -1
+#17124
+W W 0~
+dwarf guard irondoor~
+the dwarven guard~
+A dwarven guard stands here, protecting the entrance to Moria.
+~
+He stands around 4 feet tall, and almost as broad across the shoulders. There
+are streaks of grey in his lenghty beard and the torch light sparkles on his
+fine chainmail. He stares back at you grimly, hefting his axe - seems like
+he has seen your kind before.
+~
+10 0 0 0 0 0 0 0 500
+35 -10 0 1d1000+4000 8d2+25
+50 60
+9 9 0 0 -1 -1
+#17125
+W W 0~
+dwarf guard~
+the dwarven guard~
+A dwarven guard stands here, trying to warn you.
+~
+The guard looks at you with wide eyes and says:
+"NO! Go back! The mines aren't safe!!"
+He seems rather agitated for a dwarf, you wonder whats got
+him spooked.
+Perhaps its that weapon your holding.
+~
+10 0 0 0 0 0 0 0 500
+35 -5 0 1d800+2000 6d2+20
+50 60
+9 9 0 0 -1 -1
+$

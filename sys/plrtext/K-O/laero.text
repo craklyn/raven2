@@ -1,0 +1,10 @@
+5 cast 'aura of apocalypse' self
+4 cast 'protection from good' self
+3 cast 'detect invisibility' self
+2 cast 'cause wound'
+regen cast 'regenerate'
+1 cast 'black dart'
+gac get all corpse; destroy corpse
+gt gt &01$*&00
+sa say &01$*&00
+armor cast 'armor' self

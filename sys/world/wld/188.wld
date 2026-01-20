@@ -1,0 +1,1437 @@
+#18800
+Mountain Trail~
+   Here, a small trail had been trampled through the tough grassland barely
+growing on this mountainside.  Small butterflies flit to and fro along the
+trail, lured on by sweet smelling flowers which grow nearby.  The air is
+pure and refreshing, and has a slight scent of flowers wafting through the
+air.  To the east, this trail leads up higher into the mountains, while the
+western direction leads down from them.
+~
+188 4 0 0 0 4 255 0
+D1
+~
+~
+0 -1 18801
+D2
+~
+~
+0 0 11407
+E
+air~
+The wind slightly blows in from the northeast, it is pure and refreshing.
+~
+E
+grass~
+The grasses here grow up to your ankle.
+~
+E
+trail~
+Judging by the disturbance in the grasses and the footprints, it looks
+like someone had passed through here recently.
+~
+E
+flower flowers~
+A sweet smell of flowers is in the air here.
+~
+S
+#18801
+Mountain Trail~
+   A small pebble tumbles uncontrollably down a steep mountainside nearby
+to the north.  The pebble nearly hits you, but doesn't.  It bounces to a
+stop in front of you, in the middle of the rocky trail you are on.  The
+trail is a depressing mix of tan and gray colors.  Clouds of dust settle
+on the mountainside, to be whipped up into swirling tornadoes of choking
+dust whenever a soft breeze picks up; which happens every so often.  The
+scent of stout yellowish green grass along with a mix of fresh flowers in
+the air slowly begins to fade from memory to be replaced by a strenghtening
+smell of damp earth and pine of a forest steadfastly growing to the east and
+south.
+~
+188 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 18805
+D2
+~
+~
+0 -1 18802
+D3
+~
+~
+0 -1 18800
+E
+pine~
+There is nothing like a breath of fresh mountain air and the slight smell
+of pine in the air.
+~
+E
+mountain~
+You are in the foothills of some mountains.
+~
+E
+grasses grass~
+These grasses are a very hardy variety, they can survive the high altitute
+and frequent lack of water.
+~
+S
+#18802
+In the Forest~
+   This is a large forest on the side of a mountain.  The air here is very
+cool and comfortable with a slight scent of pine in the air.  Up here in
+such high altitudes, the one thing you do not have to worry about are pesky
+insects like mosquitos.  To the north, this forest begins to thin out into
+rocky grasslands, while the forest thickens to the south.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18801
+D2
+~
+~
+0 -1 18803
+E
+mountain~
+It is peaceful here in the mountains.
+~
+E
+forest~
+This forest is vast, at its fringes are familar trees like balsam pine
+and hemlocks.
+~
+E
+mosquito mosquitos~
+Fortunately, you are in high altitutes; as such, mosquitos can not readily
+function in relatively thin atmosphere.
+~
+S
+#18803
+In the Forest~
+   You travel through the forest floor sheltered by the outstretched arms
+of the many hemlock and balsam fir trees that grow here.  This forest is
+quite large, and slightly disorienting since most of the landmarks you
+have to rely on in this relatively non-descript forest are the trees.  The
+sun only briefly filters in from the thick canopy and you are easily lost.
+This forest continues in all directions.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18802
+D1
+~
+~
+0 -1 18804
+D2
+~
+~
+0 -1 18803
+D3
+~
+~
+0 -1 18803
+E
+forest~
+Deep in the forest, you hope you have enough sense not to get lost.
+~
+S
+#18804
+In the Forest~
+   You are deep in a forest in the foothills of some mountains.  This forest
+is thick and not much light penetrates through the thick canopy of the trees.
+Underfoot, you make you way slowly through the small bushes that grow
+intermittantly among the various rocks scattered here over the ages.  This
+forest continues both east and west.
+~
+188 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 18836
+D3
+~
+~
+0 -1 18803
+E
+mountains~
+You are at its foothills travelling on relatively easy terrain.
+~
+E
+forest~
+This forest is thick and it doesn't seem like it will loosen up soon.
+~
+S
+#18805
+In the Forest~
+   Following an east-west trail, you stand on top of a small outcropping
+of rocks to better survey the area.  To the west, the trail heads down the
+mountain side.  To the east, the trail leads to a gathering of small huts
+where you smell the burning of wood and hear laughter.
+~
+188 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 18806
+D3
+~
+~
+0 -1 18801
+E
+trail~
+There is a trail trampled into the bushes leading west into the base of a
+mountain, and east into the forest and a small village.
+~
+E
+rock rocks~
+The rocks appear to be gneiss.
+~
+E
+wood huts area~
+You spy a small village here in the mountains to the east.
+~
+S
+#18806
+Isolated Dwarven Village of Frun~
+   You are in the village of Frun, long nestled in isolation in the
+mountains.  Apparently, the villagers here make their living hunting game
+and whatever else they find in the mountains.  As you walk around, some of
+the villagers stop and greet you, while others stop and cast suspicious
+glances at you.  To the northeast, you see a dwelling you assume to be the
+chieftain's hut.  Directly to the south, the village weaponsmith can be heard
+forging weapons and repairing armor.
+~
+188 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18807
+D1
+~
+~
+0 -1 18812
+D2
+~
+~
+0 -1 18810
+D3
+~
+~
+0 -1 18805
+E
+village frun~
+This is the Village of Frun, it seems lonely here.
+~
+E
+weaponsmith workshop~
+The workshop of the village weaponsmith is to the south.
+~
+S
+#18807
+Village Road~
+   You are on a road aptly named the Village Road, since it is the only
+road that this small community of hunters have.  Not only does this road
+serve its purpose of connecting the village together, but it also serves
+a symbol of unity to this community.
+~
+188 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18808
+D2
+~
+~
+0 -1 18806
+D3
+~
+~
+0 -1 18809
+E
+road~
+This road is no more that a well maintained footpath connecting all of the
+dwellings of this hamlet.
+~
+S
+#18808
+Dwarf Hunter's Hut~
+   This is where a dwarf hunter lives in, if one is not out in the forests
+and mountains hunting.  Only six feet high and ten feet in diameter, this
+crudely built hut's main purpose is to serve as a reminder to the hunter of
+their ties to the community.  This hut exits out onto the Village Road.
+~
+188 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18807
+E
+hut~
+This hut looks like most of the huts in this village, it is low key,
+and seemingly blends in with the surroundings.
+~
+S
+#18809
+Dwarf Hunter's Hut~
+   This is where a dwarf hunter lives in, if one is in the village at all.
+Only six feet high and ten feet in diameter, this crudely built hut's main
+purpose is to serve as a reminder to the hunter of their ties to the
+community.  The hut exits out east onto the Village Road.
+~
+188 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18807
+E
+hut~
+This hut looks flimsy, but then again, most of the hunters are hard people
+able to subsist directly on the land.
+~
+S
+#18810
+Weaponsmith's Workshop~
+   Spare and unadorned, save for some hammers and other tools, the smith's
+workshop is utilitarian.  In the center of this workshop, is a massive table
+built from one of the ancient trees that grow on this mountainside.  Cluttered
+on the table are more tools and weapons.  To the east, is the weaponsmith's
+furnace for smelting iron and forging tools.
+~
+188 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18806
+D1
+~
+~
+0 -1 18811
+E
+tool tools weapons~
+The village weaponsmith only has some of the tools necessary to make
+and repair armor and weapons.  The weaponsmith makes some of the tools
+when no other tool can substitute.
+~
+E
+hut~
+Through the window of this workshop, you see a large round dwelling with
+a stone wall encirling it.  There are a lot of dwarves outside having fun
+and socializing.
+~
+E
+furnace~
+You see a towering structure to the east that can only be the furnace.
+~
+S
+#18811
+Weaponsmith's Forge~
+   Housed here is the mighty furnace used by the weaponsmith.  Towering like
+a small mountain, the shape of this furnace is bulbous at the bottom which
+tapers into the furnace's smokestack.  Attached to the tuyeres at both ends
+of the furnace are two large bellows constructed from wood and leather.
+Protruding from the center is a fire-hardened clay tapping spout allowing
+molten metal to flow into various receiving vessels.
+~
+188 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 18810
+E
+furnace forge~
+The structure is only eight feet high and built of mud and stone.
+Protruding from its sides are tow bellows that are directed at a fire
+pit dug into the stone floor.  It would take two strong dwarves to
+work the bellows for it it labor-intensive work.
+~
+S
+#18812
+Village Road~
+   You are on the Village Road which runs east-west.  The road is a rocky dirt
+road studded with tree roots and rocks.  When it rains, the road turns into a
+gigantic mud puddle.  To the northeast, you see a large circular building with
+a stone wall encircling it.  To the southwest, is the weaponsmith workshop; you
+can see the furnace directly to the south.  To the southeast, there is another
+dwelling; you smell burning herbs coming from that direction.
+~
+188 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18813
+D3
+~
+~
+0 -1 18806
+E
+building~
+This large dwelling is unique in the fact that it is the only stone building
+in this hamlet.  The building must be important, and indeed it is, it is the
+cheiftain's house.
+~
+E
+workshop~
+The workshop lies to the southwest, it sounds rather busy.
+~
+E
+road~
+This road is nothing more that a large foot trail through the forest linking
+most of the dwellings in this small hamlet.
+~
+E
+furnace~
+Through the trees, you can see the large furnace bellowing some smoke and
+noise as it being worked on by some dwarves.
+~
+S
+#18813
+Village Green~
+   The village road widens here into an open area.  There are many dwarfs
+here working and socializing.  Overhearing some of the conversations, you
+hear laments about poor crop yields, and ferocious animals roaming close
+to the village.  To the north and south are two stone dwellings.  The hut
+to the north has a small stone wall surrounding it.  You smell burning herbs
+emanating from the dwelling to the south.
+~
+188 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18814
+D1
+~
+~
+0 -1 18819
+D2
+~
+~
+0 -1 18817
+D3
+~
+~
+0 -1 18812
+E
+green~
+This is the green, it is a cleared section of forest suitable where everyone
+can gather to trade the latest gossip and news.
+~
+E
+hut~
+Many of these huts look flimsy and hastily built.  Despite the condition
+they appear to be in, dwarven know how must make these huts seem sturdy.
+~
+S
+#18814
+Chieftain's Hut~
+   You enter a large and spacious hut.  In the center of this room is a large
+stone pit with a small fire in it to cut down the bit of the cold mountain air.
+Surrounding this fire, on the floor, are the skins of various animals.  On the
+walls, you see weapons, armor and more skins, especially weretiger, all neatly
+arrayed.  To the north and west are extra rooms adjoining this meeting hall.
+~
+188 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18815
+D2
+~
+~
+0 -1 18813
+D3
+~
+~
+0 -1 18816
+E
+weapons~
+These weapons you see are mostly some slightly tarnished knifes,
+spears and swords.
+~
+E
+hide hides~
+These hides are mostly weretiger skins.
+~
+E
+armor armors~
+These armors you see include a masked horned helmet, that for most
+purposes look ceremonial.  Other armors you see are made from animal hides.
+~
+S
+#18815
+Chieftain's Sleeping Room~
+   This is where the chieftain of this village sleeps in; fortunately not many
+people get to see this room for the chieftain is a slob.  Cluttering this room
+on the floors and hanging loosely from the walls and the rare few pieces of
+short-legged furniture here are trinkets and objects some people would bring
+in as gifts to the chieftain when they visited this village.  Most of the items
+are junk, like tourist items people would often buy and offload to friends and
+relatives.
+~
+188 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18814
+S
+#18816
+Chieftain's Hunting Room~
+   This is the room of this hut the chieftain is most proud of, for it is here
+the chieftain displays most of his most valuable possessions.  Much of the
+display consists of carefully preserved animal hides, bones and teeth.  Other
+objects of interest here, displayed on short-legged tables, are weapons like
+spears and swords probably heirlooms passed on from generation to generation.
+~
+188 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18814
+S
+#18817
+Healer's Workshop~
+   You enter a smoke-choked hut with the smell of bitter herbs filling the
+air.  On walls and on shelves, you see dried and fresh plant and animal
+materials.  On a table by a wall, you see the origins of the smoke, a small
+setup of incense.  This hut must belong to the village healer; for without
+one, there probably would not be a community and a settlement here.  On a
+large table in the back, you see a rack with several curing skins on it.  Ah,
+the village healer with his knowledge on the use of plant and animal tissues
+also doubles as a tanner.  You see a door left slightly ajar to the south.
+~
+188 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18813
+D2
+A wooden door built of stick and mud lies slightly ajar to the south.
+~
+door wooden~
+0 -1 18818
+E
+smoke incense~
+The setup of incense simply is a small clay dish with some burning
+herbs in it.  The smell is very exotic.
+~
+E
+rack~
+The rack is large enough to hold several pelts.
+~
+E
+door~
+It is a rickety thing of mud and sticks.
+~
+S
+#18818
+Healer's Storeroom~
+   This is the village healer's storeroom.  There are many wooden shelves here
+all stockpiled with bundles of dried plant and animal matters; kiln-fired clay
+jars of various shapes and sizes containing things unknown to you; and some
+miscellaneous pieces of apparatus that only the village healer knows how to use.
+~
+188 8 0 0 0 0 255 0
+D0
+A wooden door built of sticks and mud lies slightly ajar to the nouth.
+~
+door wooden~
+0 -1 18817
+E
+jar jars~
+Many of these kiln-fired jars hold various liquids.  Other jars hold dried
+stuff and powders.
+~
+E
+apparatus~
+There are variuos equipment on the shelves whose function is unknown to you.
+~
+E
+shelves~
+These wooden shelves look rickety.  Made of some type of wood, these
+planks are old and gray.
+~
+E
+storeroom~
+This storeroom measures approximately three-by-three in dimension.
+~
+E
+door~
+It is a rickety thing of mud and sticks.
+~
+S
+#18819
+Village Road~
+   A large bough from an oak tree extends the length of the road here.
+The road is a widened trail of dirt with interspersed with tufts of grass
+growing mostly at the edge of the road.  This road connects together all
+of the huts of this small hamlet.  It continues east and west.
+~
+188 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18820
+D3
+~
+~
+0 -1 18813
+E
+road~
+This well-maintained road is mostly a large foot path that cuts through
+the forest.  In the village itself, this road connects together all the
+dwellings together.
+~
+S
+#18820
+Village Road~
+   The Village Road is actually a small trail linking together all the huts
+in this village.  It runs roughly east-west along the side of a mountain.
+Here at a crossroad, you can either go east along the road which eventually
+leads out of the village, or west into the its heart.  Roads north and south
+from here continue within the village.
+~
+188 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18826
+D1
+~
+~
+0 -1 18834
+D2
+~
+~
+0 -1 18821
+D3
+~
+~
+0 -1 18819
+S
+#18821
+Village Road South~
+   This small road is heavily-rutted containing a few small mud-filled
+potholes.  For the most part, this village is partially hidden under the
+cover of pine and oak trees on a heavily forested mountainside.  In such
+a cold environment, the villagers would want more sun at least for its
+warmth, but apparently, the need for cover is a hunter's instinct.  This
+road continues north and south.
+~
+188 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18820
+D2
+~
+~
+0 -1 18822
+E
+hut~
+This dwelling is crudely built, perhaps the hunters are not skilled
+builders, or maybe they don't want to spend the time to build something
+they would rarely use since they are out hunting for days and weeks at
+a time.
+~
+S
+#18822
+Village Road South~
+   This small road crests a small hill.  On top of this hill are a few
+wood and mud hut overlooking the entire village.  A lot of people live in
+this village.  You see men and woman doing chores and gossiping, and little
+children running around playing tag and having fun.  A songbird can be heard
+singing a lovely song for all to hear.  There are small huts east, south and
+west.  The Village Road continues north.
+~
+188 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18821
+D1
+~
+~
+0 -1 18824
+D2
+~
+~
+0 -1 18823
+D3
+~
+~
+0 -1 18825
+S
+#18823
+An Ramshackled Hut~
+   This hut seems in danger of collapsing, the walls lean radically and the
+roof twitches at the hint of a breeze.  Everytime a stiff wind blows through
+here, you cringe at the thought of the roof falling down on you.  In the
+middle of the hut is a small firepit containing a small fire.  You stare
+mindlessly at the fire, enchanted by the dance and flicker of the flames.
+Elsewhere in the room you find pots and pans, old paintings, personal
+belongings, and a large wicker chair set in the back of the hut.  An exit
+leads north outside.
+~
+188 8 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18822
+S
+#18824
+Dwarf Hunter's Hut~
+   Crudely built of wattle and daub, this hut is a welcome shelter from the
+elements.  The packed dirt floor of this hut has been covered with a thin
+mat of woven plant leaves.  Against the back of this hut is a shallow stone
+pit where a fire can be maintained for warmth and for cooking purposes.  This
+hut exits west.
+~
+188 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 18822
+E
+pit~
+The stone pit really is a shallow-dug semi-circular pit lined with rocks
+and the pit itself encircled with stones to contain the fire within the pit.
+~
+S
+#18825
+Storehouse~
+   This is a small hut built of wood and reinforced with clay.  This hut
+serves as a storehouse for items which belong to the community as a whole.
+On rough wooden shelves and in reinforced wooden chest are rusty tools and
+weapons, you see sacks of grain and beans on the floor.  This storehouse
+exits east.
+~
+188 8 0 0 0 0 255 0
+D1
+~
+~
+0 -1 18822
+S
+#18826
+Village Road North~
+   You are on a trail named the Village Road, since this is the village's only
+road.  This little trail on the side of a mountain connects together all the
+dwellings in this small community of dwarven hunters.  To the west, is the
+chieftain's hut, the social and geographic center of this community.  To the
+northeast, you see an equally impressive dwelling that seems more cheerful than
+the hut to the east.
+~
+188 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18827
+D2
+~
+~
+0 -1 18820
+E
+dwelling~
+To the northeast, is a large stone dwelling impressive for the fact that it
+is the only stone building here in this village.
+~
+E
+road~
+This road runs north to connect the other dwellings of this village.
+~
+S
+#18827
+Village Road North~
+   You are on the Village Road.  This road connects together, in a symbol
+of unity as well as traveling convenience, all the dwellings of this small
+dwarven community of hunters.  To the east you see a cheerfully painted
+dwelling in white and blue stripes.  You smell the faint aroma of flowers
+wafting through the air.  This road continues north and south.
+~
+188 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18828
+D2
+~
+~
+0 -1 18826
+S
+#18828
+Village Road North~
+   This is the Village Road you travel on, it is a small dirt path which
+wanders within this small dwarven hamlet on a mountainside of the Sleeping
+Giants Mountains.  The cool mountain air is brisk and refreshing.  To the
+north and east are small huts of wood and clay.  This road ends to the west
+in a cul-de-sac.
+~
+188 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 18829
+D1
+~
+~
+0 -1 18831
+D2
+~
+~
+0 -1 18827
+D3
+~
+~
+0 -1 18830
+S
+#18829
+Storehouse~
+   This is a small storehouse for storing grain, tools, and other items which
+belongs to the community as a whole.  You see sacks of grain on the floor,
+rough wooden shelves filled with rusty tools and weapons, and a few wooden
+buckets.  There is a small board here for posting messages.  This hut exits
+south.
+~
+188 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18828
+S
+#18830
+Cul-de-sac of the Village Road~
+   This is a dead end on the Village Road.  The floor is wet and soaked with
+water.  There is a small stone cistern of water that has been built here for
+the benefit of the village.  This cistern is where the villagers can come to
+get fresh water.  Every so often, the cistern must be replenished, so a small
+detail is formed to refill this cistern from a small fresh water stream that
+is located nearby.  The Village Road continues to the east.
+~
+188 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18828
+S
+#18831
+Traveler's Rest~
+   You graciously knock on the door of this dwelling, and immediately the
+owner, a charming dwarven lady, by the name of Daphne, beckons you to enter
+her humble abode.  This dwelling is much like the chieftain's hut, large and
+roomy.  The only difference being that it is much more cheery in here.  A
+fire crackles in the center of this room, and in the air, you catch a faint
+whiff of flowers.  To the east and north, are other rooms of this hut.
+   Daphne, you learn, is an adventurer and explorer who had retired in order
+to take up responsibilities given to her by the village.  Hoping you will
+share with her some of your tales of travel and bold adventure, she invites
+you to dinner and a place to rest your bones for the night.
+~
+188 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 18832
+D1
+~
+~
+0 -1 18833
+D3
+~
+~
+0 -1 18828
+E
+fire~
+It looks warm and inviting.
+~
+S
+#18832
+Spare Room~
+   This is the guest room where travelers can stay for the night.  It is an
+unadorned room, spare save for several pelts in the corner for sleeping in.
+There is a window here on the eastern wall that looks out into the forest here
+on the side of this mountain.  This rooms is very clean, and like the rest of
+the hut, it has the smell of fresh flowers wafting through the air.
+~
+188 8 0 0 0 0 255 0
+D2
+~
+~
+0 -1 18831
+E
+spare room~
+This room is spare, but to spend the night in a bed beats spending the
+night in the bushes.
+~
+E
+forest~
+This hamlet settles in a lightly wooded area on the side of a Sleeping
+giants mountain.
+~
+E
+window~
+The window is unadorned like this room.  Through the window, you see the
+forest this little hamlet is situated in.
+~
+E
+pelt pelts~
+These pelts are slightly used, but look extremely comfortable.  You
+remember when you had sleep this good.
+~
+E
+flower flowers~
+The smell of flowers is very fragrant.
+~
+E
+guest~
+Looks like you are the guest.
+~
+S
+#18833
+Daphne's Bedchamber~
+  This is the bedroom where Daphne sleeps in.  Like most of this dwelling,
+this room is largely unadorned, except for a few blue-dyed curtains that
+decorate the windows;  and for several soft pelts on the floor near the corner
+for sleeping in.  There is a low-lying table with a slender kiln-fired clay
+vase here with fresh wildflowers in it that seem to put in extra effort in
+cheering up the place.
+~
+188 8 0 0 0 0 255 0
+D3
+~
+~
+0 -1 18831
+E
+curtain curtains~
+These curtains sure make the difference between a spare room and a decorated
+room.
+~
+E
+flower flowers~
+They smell nice and are freshly cut.
+~
+E
+vase~
+It is well made, and delicate.
+~
+E
+pelt~
+They look very comfortable, but the bed isn't yours.
+~
+S
+#18834
+Village Road~
+   You are strolling on the Village Road.  This village of dwaren hunters is
+situated on a lightly forested mountainside belonging to some unknown chain
+of mountains.  The trail here fades a bit as it transitions between a heavily
+forested area to the east and the village to the west.
+~
+188 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 18835
+D3
+~
+~
+0 -1 18820
+E
+forest~
+The forest lies to the east.
+~
+E
+village~
+You are in the isolated dwarven Village of Frun located on a mountainside.
+~
+E
+road~
+This is the main road through the forest on this mountainside.  It is mainly
+a foot trail and it is well maintained and well travelled.
+~
+S
+#18835
+A Path through the Forest~
+   You follow a sliver of a trail trampled and imprinted into the bushes and
+undergrowth.  In the invigoratingly cold mountain air you can smell the sweet
+smell of pines.  Off in the distance, the chirp and warble of birds in song
+can be heard.
+~
+188 4 0 0 0 2 255 0
+D1
+~
+~
+0 -1 18836
+D3
+~
+~
+0 -1 18834
+E
+bushes~
+These bushes don't pose much of a problem traveling through.
+~
+E
+forest~
+You are in a large forest in the foothills of a mountain.
+~
+S
+#18836
+In the Forest~
+   This forest is majestic in its greatness; there are many great and ancient
+trees here which tower over the forest floor.  In a few places, the golden
+light of the sun can be seen filtering through the thick canopy of the forest.
+Occasionaly, a few animals can be seen stealthily moving among the bushes,
+using as cover, the darkness and shadows of this great forest.  This forest
+continues east and west.
+~
+188 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 18837
+D3
+~
+~
+0 -1 18835
+E
+shadow~
+You wonder if that shadow is friendly or will something jump out from it
+toward you.
+~
+E
+animal~
+You really don't see the animals themselves, only their shadows, that is if
+they let you see their shadows.
+~
+E
+forest~
+Because this forest looks alike in all directions, it is easy to get lost.
+~
+S
+#18837
+In the Forest~
+   Much of the undergrowth and many trees of the forest begins to thin in the
+diminishing light filtering in from the rapidly growing canopy.  In its place
+are those trees more able to survive in shade than in sunshine.  You notice
+there are fewer sounds here in the forest, you can almost sense the loneliness
+emanating from it; although in truth, the forest is more than alive, it is 
+just hidden from view.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18839
+D1
+~
+~
+0 -1 18838
+D3
+~
+~
+0 -1 18836
+E
+canopy~
+The canopy is high above and doesn't seem to offer much shelter.
+~
+S
+#18838
+In the Forest~
+   You are deep in a forest on a mountainside somewhere.  Throughout the
+forest, few sounds can be heard save for the snap and crunch of the leaf
+litter underfoot, and the occasional rustle of stealthy movement in the
+bushes.  The forest may seem still in these hours, but just beneath the
+surface, is a frenzy of activity by a multitude of species which keeps these
+woods alive and healthy.
+~
+188 0 0 0 0 3 255 0
+D3
+~
+~
+0 -1 18837
+E
+mountains~
+You hope that any giants you do encounter will be sleeping, although the
+chance to come across a giant is remote.
+~
+E
+bushes~
+There are fewer bushes around, even the shade is too dark for some of these
+species to grow.
+~
+E
+forest~
+The makeup of this forest begins to include more fir and pine trees.
+~
+S
+#18839
+In the Forest~
+   You are in somewhere inside a vast forest of oak and maple.  This forest
+is just a tiny part of the millions of acres which line the foothills and
+mountainsides of the some mountains.  The canopy of this forest is thin;
+sunlight is able to filter in through the treetops to nourish the scraggly
+undergrowth with much needed energy.  This forest continues to the north and
+south.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18840
+D2
+~
+~
+0 -1 18837
+S
+#18840
+In the Forest~
+   In is rather difficult to bushwhack your way through this forest, the
+scraggly undergrowth of bushes and overhanging vines are very fibrous and
+tough to cut through.  To add to your predicament, you must be careful of
+your footing; all the tons of loose rock debris scattered all over can
+cause you to slip and break your ankle.  There are exits north, south and
+east through the forest.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18841
+D1
+~
+~
+0 -1 18846
+D2
+~
+~
+0 -1 18839
+S
+#18841
+In the Forest~
+   This forest is filled with many old oak and maple trees.  Some trees are
+huge with diameters measuring over ten feet.  For ages, these great trees
+have stood here on this mountainside, withstanding whatever natural disasters
+that may occur.  From fire to avalanche, these trees have borne the brunt of
+time.  This forest continues to the north, south and east.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18842
+D1
+~
+~
+0 -1 18845
+D2
+~
+~
+0 -1 18840
+S
+#18842
+In the Forest~
+   You are deep in a forest of oak and maple.  You can hear songbirds singing
+happily in the cool mountain air.  Off in the distance, you faintly hear the
+trickling of water from a stream or brook nearby.  This forest continues to
+the east and south; the undergrowth of scraggly bushes and vines impedes your
+progress further north and west.
+~
+188 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 18843
+D2
+~
+~
+0 -1 18841
+S
+#18843
+In the Forest~
+   The forest here opens up quite a bit, allowing enough light to penetrate
+through to allow the growth of sun-loving grasses and flowers.  The undergrowth
+of bushes and vines retreats slightly at this edge of the forest.  To the north
+you see a small babbling brook.  To the south and west, this forest continues.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18844
+D2
+~
+~
+0 -1 18845
+D3
+~
+~
+0 -1 18842
+S
+#18844
+Beside a Small Stream~
+   You come across a small crystal clear stream filled with ice cold, yet
+refreshing water.  This stream must have surfaced nearby from a long journey
+originating from the melting snows of some nearby mountains.  The stream will
+probably reenter underground as part of its long journey west to the seacoast.
+The ground here is soft and moist, growing under a few brown and withered
+maple leaves is a thick layer of velvety moss.  You see ants crawling through
+the moss' thick forest of sporophytes in the same way as you are bushwhacking
+through this forest of oak and maple.
+~
+188 0 0 0 0 3 255 0
+D2
+~
+~
+0 -1 18843
+S
+#18845
+In the Forest~
+   You are in an old forest of oak and maple.  This forest is also home to
+many jackalopes and other animals which Dwarven hunters from the nearby
+village come to hunt them.  This forest is dense and hard to navigate in,
+the presence of predators like those jackalopes only compound the problem
+of survival.  This forest extends in all directions.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18843
+D1
+~
+~
+0 -1 18847
+D2
+~
+~
+0 -1 18846
+D3
+~
+~
+0 -1 18841
+S
+#18846
+In the Forest~
+   You come across an outcrop of large boulders here in the forest.  These
+boulders are weathered and almost look a part of the forest themselves.
+Lichens grow on the boulders and mar its surface, vines use the boulders as
+a stepping stone in order to reach nearby trees.  There are even small
+scrubby plants growing in small pockets of dirt on the surface of the rocks.
+To the north, east and west, this forest continues.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18845
+D1
+~
+~
+0 -1 18848
+D3
+~
+~
+0 -1 18840
+S
+#18847
+In the Forest~
+   You are in large forest on a mountainside.  The forest is thick and lush,
+you see mostly oak and maple trees, but there are also sycamore and and
+occasional pine tree.  Under this canopy of trees grow small vines and scrubby
+plants all competing for an equal share of sunlight.  With all this vegetation
+crowded together, your rate of travel as well as your visual acuity to see
+danger is impeded.  To the south and west, this forest continues.
+~
+188 0 0 0 0 3 255 0
+D2
+~
+~
+0 -1 18848
+D3
+~
+~
+0 -1 18845
+S
+#18848
+In the Forest~
+   This is a large forest of maple and oak.  Hidden in the treetops, you
+hear songbirds sing cheerful songs to their mates as well as to all to hear.
+Underfoot are small animals scampering for cover away from your footsteps.
+The forest is a mysterious place, sometimes it can be an adventure if you are
+sufficiently prepared for the worse, otherwise it can be a scary place to be
+in.  This forest extends in all directions.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18847
+D1
+~
+~
+0 -1 18849
+D2
+~
+~
+0 -1 18851
+D3
+~
+~
+0 -1 18846
+S
+#18849
+In the Forest~
+   You are in a jungle-like forest crowded with various trees, plants, birds
+and animals.  The top carnivore of this forest are the jackalopes, it can be
+said that giants are the top carnivores here, but the giants almost never
+venture this far down the mountainside.  This forest continues to the south
+and west.
+~
+188 0 0 0 0 3 255 0
+D2
+~
+~
+0 -1 18850
+D3
+~
+~
+0 -1 18848
+S
+#18850
+In the Forest~
+   You wander through a large forested mountainside, the air here is cool,
+clean and exhilarating.  You hear the singing of birds, the rustling of
+leaves in the wind, and the occasional furtive movement of animals in the
+bushes.  This forest continues to the north and west.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18849
+D3
+~
+~
+0 -1 18851
+S
+#18851
+In the Forest~
+   This is a beautiful ancient forest brimming with life.  The trees are
+tall and beautiful with overhanging vines intertwined around their trunks
+and branches, and scraggly underbrush adorning the forest floor between
+them.  In the trees, you hear the rustling of leaves and birds chirping.
+You see a large and sturdy tree to the west.  This forest continues north
+and east.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18848
+D1
+~
+~
+0 -1 18850
+D3
+~
+~
+0 -1 18852
+S
+#18852
+At the Base of a Tree~
+   You are at the foot of a large stalward oak tree.  The tree measures at
+least ten feet in diameter with a height of at least one hundred feet.  The
+bark of the tree is colored as black as night and looks scaly.  The cracks
+chiseled into the bark are wide and can be used as footholds to climb up this
+tree, if you dare.  This forest continues east.
+~
+188 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 18851
+D4
+~
+~
+0 -1 18853
+S
+#18853
+On the Side of a Tree~
+   You climb up the side of a tree using the cracks in between the bark as
+footholds.  The tree is very tall, and you are already twenty feet up in the
+air.  You can see the first branch just above you, a massive silhouetted
+bough which gives the humorous impression of a cracked sky and being able to
+peer out into the blackness of space.
+~
+188 4 0 0 0 3 255 0
+D4
+~
+~
+0 -1 18854
+D5
+~
+~
+0 -1 18852
+S
+#18854
+In a Large Nest~
+   This is a large bough you find yourself on.  On is is a large nest built
+of leaves and branches.  The nest looks like a mound of leaves one might find
+in a compost pile, than a well-groomed nest.  You can gingerly crawl west
+on this bough, or climb down the tree.
+~
+188 0 0 0 0 3 255 0
+D3
+~
+~
+0 -1 18855
+D5
+~
+~
+0 -1 18853
+S
+#18855
+Out on a Tree Limb~
+   You are out on a tree limb, the bough here is thin and weak, and it cannot
+support much weight.  Every step you take on this branch causes the branch to
+bend even further downward.  Pretty soon, it will crack and fall under such
+stress.
+~
+188 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 18854
+S
+#18856
+Next to a Tree in a Forest~
+   You stand under a large sycamore tree growing at the edge of a large forest
+in the foothills of some mountains.  You notice the tree has been molested
+over the ages by scratches and markings done by people who wanted to leave
+their names for prosperity.  Not only have people marked this tree, but also
+a few other trees nearby.
+   You notice one NAME boldly inscribed on the tree that you recognize, but
+don't seem to remember when and where.  To the west, this small path widens
+into a more open area occupied by a small and isolated hamlet of dwarven
+hunters.  To the east, this path dwindles into the thickening forest.
+~
+188 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 18836
+E
+hamlet~
+To the west lies a small village of dwarves who hunt these woods.
+~
+E
+forest~
+The forest seems still, but in reality, it is more than alive with plants
+and animals in their own daily struggle of survival.
+~
+E
+sycamore tree names name markings mark scratches scratch~
+Crudely inscribed on the tree you see the words,
+'Another fine creation by Azo/Xero'.
+~
+S
+$~

@@ -1,0 +1,478 @@
+#38600
+The Mage's Guild of Samsera~
+The Mages guild takes shape of a 5 room high tower in Samsera. This tower will rpwise
+mirror the other two towers in the game, the Tower of High Sorcery in Wayreth and in
+SHoiken Grove. Each level will be segmented to hold a different sphere of mage 
+features.
+The guild will be lain out as follows:
+
+Level1: Map Level, Link to lower room of slave chambers for mage creations. Read: The Dead
+Ones from DL.
+
+Level2: General Level
+Regen Room, Shopkeeper for basic items
+
+Level3: Training Room
+Guildmaster Chamber, Pentagram Chamber for mob summonings, Scribing room for Gnome only
+And one room with 2 portals to 2 other soundproof practice rooms.
+
+Level4: Lore and Artifacts
+This level will be level 10 and up and will contain the Vault, A Library of Lore, and a portal
+chamber to both Midgaard (future Hightowers, and HT of sorcery in wayreth)
+
+Level5: Challenge Chamber with board.
+Battle in the Air, Battle of Wills and Knowledge.
+Kurse, Oct 00'
+~
+386 1024 0 0 0 0 255 0
+S
+#38601
+The Gate of the Mystics~
+   This ornate circular antechamber is truly a ruse and not part of the Guild
+at all.  If for some reason the guardian of the tower was defeated, the Mages
+could hide in their guild without worry for a secret nexus point has been
+established for them.  Wasn't it "friend"ly of the Archmage to go through all
+this trouble for his brethren?    
+~
+386 1049096 0 0 0 0 0 0
+D3
+~
+~
+0 0 18122
+S
+Z 38600
+#38602
+The Base of the Tower of the Arcane~
+   You are in the very bottom of the Mage's Guild Tower, an impressive
+structure which stretches a thousand feet into the sky.  The Tower is of unique
+design in that it is a hollow spire, much like a straw.  Its various rooms and
+secrets are located Off the main core of the tower, which you can view simply
+by looking up.  Above your head, powerful sorcerers and meek apprentices float
+from room to room or hover about with aid of magic.
+~
+386 1049096 0 0 0 0 0 0
+D0
+A black door with a danger sign on it is to the north.
+~
+door danger black~
+1 -1 38607
+D4
+~
+~
+0 0 38603
+S
+#38603
+The Second Level of the Tower~
+   This section of the guild that you hover in currently is used for meetings
+on the guild as a whole.  Here, mages from all the orders come together to
+discuss the guild and their mutual love of magic.  To the north is a chamber of
+rest, where mages and their apprentices can relax and memorize spells.  To the
+south lies a small shop which provides basic magical necessitites to the GUild.
+  
+~
+386 66056 0 0 0 9 255 0
+D0
+~
+~
+0 0 38609
+D2
+~
+~
+0 0 38610
+D4
+~
+~
+0 0 38604
+D5
+~
+~
+0 0 38602
+S
+#38604
+The Third Level, Guild Training~
+   It is on this third level of the tower that some of the greatest Arch-Mages
+began their training.  All around you here the air is electric with residual
+magic from the many spells of mages new and old, honing their art.  To the
+north is the Guildmaster of training, an experienced Magus that can teach you
+the fundamentals of virtually any spell.  A small door lies to the east, which
+leads to the guild scribing room.  A door to the south leads to a summoning
+chamber, and should Always be knocked upon before entering.    
+~
+386 1114632 0 0 0 9 0 0
+D0
+~
+~
+0 0 38611
+D1
+A small door in the east wall leads to the scribing chamber.
+~
+door small~
+1 -1 38612
+D2
+   A thick oak door with a pentagram symbol on it denotes the summoning
+chamber.  Take heed before entering.    
+~
+door oak pentagram,~
+1 -1 38613
+D4
+~
+~
+0 0 38605
+D5
+~
+~
+0 0 38603
+S
+#38605
+The Fourth Level, Artifacts and Lore~
+   So high are you in the tower now that those on the bottom floor are no
+longer recognizable.  The knowledge contained in the surrounding rooms is
+ancient in its origin, and accessible to only those mages who have proven
+themselves to be devoted members of the conclave.  A magically sealed vault for
+rare items and artifacts is to the west.  To the east is the Library of the
+Occult, where some of the most powerful spellbooks of the realms are kept for
+safekeeping.    
+~
+386 1114632 0 0 0 9 0 0
+D1
+The dark mahogonoy door to the Library of the Occult lies to the east.
+~
+door dark mahogony~
+1 -1 38617
+D3
+A wizard locked vault door lies to the west.
+~
+vault door~
+1 -1 38616
+D5
+~
+~
+0 0 38604
+S
+#38606
+The Test of Grandmaster~
+   At this highest point in the tower stands a bridge which spans from the east
+to the west side, allowing you to stand if you wish.  The center of the bridge
+is occupied by a board and pedestal.  It is here that Magi petition to attain
+the rank of Grandmaster of Magic, a rank of high standing in the guild.  The
+Grandmaster must be knowledgable in all matters of the arcane, and able to hold
+their own in magical combat.    
+~
+386 520 0 0 0 0 255 0
+D1
+A single door with the symbol of two overlapping circles on it stands to the east.
+~
+door symbol~
+2 38603 38624
+D3
+A thick door of stone is set into the side of the tower, leading to the outside.
+~
+stone door~
+2 38603 38619
+D5
+~
+~
+0 0 38605
+S
+#38607
+The iron staircase~
+   Here, an ancient staircase wrought of iron spins from the base of the tower
+to the 'test laboratory'.  The walls are carved roughly from the bedrock and
+are covered in odd paintings from top to bottom.  Eerie shadows dance and
+flicker about from the lit torches mounted on the rock.    
+~
+386 1180168 0 0 0 0 0 0
+D2
+A black door leads back to the center of the Tower.
+~
+door black~
+1 -1 38602
+D5
+A barred door leads to a spiral staircase downwards.
+~
+bars door~
+1 -1 38608
+S
+#38608
+The Test Laboratory~
+   This large cavern is not truly a laboratory so much as it is a holding cell
+for those experiments gone horribly wrong.  The cavern stretches on into the
+darkness as far as your vision can see, and echoes with a hollow resonance when
+you speak.  Deformed creatures, minor demons, and hordes of other nasty
+creatures best left forgotten down here, with a multitude of dangerous
+artifacts.  It is best to return above for your own sake as soon as possible.
+  
+~
+386 1180168 0 0 0 0 0 0
+D4
+A spiral staircase leads back up to the tower, the top is blocked by a barred door.
+~
+bars door~
+1 -1 38607
+S
+#38609
+The Study~
+   You float into a rather lavish chamber filled with numbers of plush chairs,
+thick oak tables, and books of realms lore.  Mages and their apprentices come
+to this room to heal up their wounds as well as restore their depleted mental
+and physical energies, a result from using magic.  The room is nearly silent,
+as many are asleep, or in quiet concentration on some subject.    
+~
+386 1442312 0 0 0 0 0 0
+D2
+~
+~
+0 0 38603
+S
+#38610
+The Apprentice's Shop~
+   The familiar smell of spell components and musty books assault your senses
+as you enter this shop.  Run by the many apprentices of the Guild, it supplies
+to all mages the basic tools needed for casting their magics.  You eye the many
+shelves for what you need, spying some rather interesting items.    
+~
+386 1049096 0 0 0 0 0 0
+D0
+~
+~
+0 0 38603
+S
+#38611
+The Chamber of Magiks~
+   This large room spans the whole north side of this part of the Tower, and is
+where the Guildmaster teaches spells to learning magi.  The walls are covered
+in hundreds of spellbooks, from the minor cantrips of a beginner, to the
+monster summonings of a Thaumaturge.  Tables and racks of magical items and
+components are organized about.  Many mages are here, learning enchantments,
+divinations, conjurations, and sorcery.    
+~
+386 1049096 0 0 0 0 0 0
+D2
+~
+~
+0 0 38604
+S
+#38612
+The Scribing Room~
+   This room is filled with scrolls, hordes of them.  The walls are lined with
+cabinets which contain magical scrolls, all in alphabetical order.  As well,
+there are reams of blank papyrus, ready for scribing.  Scribing is one of the
+basic things taught to apprentices of magic, and periodically an accident
+happens which results in the exploding of one or two, but this is not a common
+occurence.    
+~
+386 1049096 0 0 0 0 0 0
+D3
+A small door in the wall leads back to the core of the tower.
+~
+door small~
+1 -1 38604
+S
+#38613
+The Summoning Pentagram~
+   This room is only used by the more powerful mages of the guild, and with
+good reason: Summonings.  Few of the magical arts are as dangerous as summoning
+a creature from the netherworld and binding it to your will.  Those mages which
+have taken this art lightly have either died, or been taken to another plane.
+The room is a place of power, with three large plateaus sequestered by lines of
+sand or stone.  The central plateau contains a pentagram, used only for Gating
+the most powerful of extra-planar beings.    
+~
+386 1049096 0 0 0 0 0 0
+D0
+A thick door of oak leads back to the center of the tower.
+~
+door oak pentagram~
+1 -1 38604
+S
+#38614
+The Spell Chamber~
+   This arena-like room is located somewhere deep in the heart of the tower
+away from everything else, to provide a place for magi to safely practice their
+spells without fear of endangering others.  It is said that a magical shell of
+silence has been placed about the room for absolute privacy.  The room is about
+25' by 25', with tables and shelves for study and mixture of spell components.
+~
+386 1049128 0 0 0 0 0 0
+S
+#38615
+The Spell Chamber~
+   This arena-like room is located somewhere deep in the heart of the tower
+away from everything else, to provide a place for magi to safely practice their
+spells without fear of endangering others.  It is said that a magical shell of
+silence has been placed about the room for absolute privacy.  The room is about
+25' by 25', with tables and shelves for study and mixture of spell components.
+~
+386 1442344 0 0 0 0 0 0
+S
+#38616
+The Vault of Artifacts~
+   This large vault of magically strengthened metal is used by the Guild of
+Mages to store all manners of magical items gained upon their travels.  The
+vault itself is protected by a powerful sphere of anti-magic, which prevents
+any of the more dangerous items getting out of hand.  An side effect of this
+however, is that enchanted objects periodically lose their enchantments.  The
+guild allows use of the vault to all Mages, counting that their honor and
+loyalty to the guild will prevent them from selflishly abusing it.    
+~
+386 1051304 0 0 0 0 0 0
+D1
+A thick vault door of magically strengthened steel stands here.
+~
+vault door steel~
+1 -1 38605
+S
+#38617
+The Library of the Occult~
+   This dark room is filled with many bookcases and cabinets of spell tomes,
+lore, and other rare information know to the Conclave.  The spellbooks of some
+of the most poweful Magic-Users that walk the lands are contained in this room,
+though most are protected from ill use by magical enchantments on the books
+themselves.  You could spend your whole life in this incredible library
+studying, and still only learn a fraction of the wealth of knowledge here.    
+~
+386 1049096 0 0 0 0 0 0
+D1
+   An large bookcase occupies the east wall, you can't help but notice an odd
+copy of 'Chulothin's Compendium of Conjuration' sticking from the edge of a
+shelf.    
+~
+bookcase book compendium~
+1 -1 38618
+D3
+A dark door of mahogony leads back to the hollow core of the Tower.
+~
+door dark mahogony~
+1 -1 38605
+S
+#38618
+The Portal Chamber~
+   You step beyond the door and enter this circular room with stone floors and
+walls.  This place is where mages of great power render holes in the fabric of
+space, connecting two places in the world by a portal of magic.  Two such
+portals hover in the room now, crackling wildly with energy.    
+~
+386 1049096 0 0 0 0 0 0
+D3
+A thick door without knobs or handles lies seamlessly in the west wall.
+~
+door bookcase secret~
+1 -1 38617
+S
+#38619
+Battle in the Air!~
+   You fly outside the tower and gasp as you see the city of Samsera far below
+you.  It is here, in the air, that you must face your nemesis to become the
+Grandmaster.    
+~
+386 1114624 0 0 0 9 0 0
+D1
+A stone door in the side of the tower leads back within.
+~
+door stone~
+2 38603 38606
+D3
+~
+~
+0 0 38625
+D5
+~
+~
+0 0 38620
+S
+#38620
+Above the City~
+   You swoop wildly over the city of Samsera below, whose ground and building
+tops grow rapidly closer as you descend.    
+~
+386 1114624 0 0 0 9 0 0
+D5
+~
+~
+0 0 38621
+S
+#38621
+Above the City~
+   You swoop wildly over the city of Samsera below, whose ground and building
+tops grow rapidly closer as you descend.    
+~
+386 1114624 0 0 0 9 0 0
+D5
+~
+~
+0 0 38622
+S
+#38622
+Above the City~
+   You swoop wildly over the city of Samsera below, whose ground and building
+tops grow rapidly closer as you descend.    
+~
+386 1114624 0 0 0 9 0 0
+D5
+~
+~
+0 0 38623
+S
+#38623
+Above the City~
+   You swoop wildly over the city of Samsera below, whose ground and building
+tops grow rapidly closer as you descend.    
+~
+386 1114624 0 0 0 9 0 0
+D5
+~
+~
+0 0 18030
+S
+#38624
+The Battle of Divination~
+   This simple room is dominated by two circles of power.  Within each circle
+stands a mage and from this point, they use their magical powers of divination
+to comprehend and answer those questions posed to them by the guild.  This test
+is to ascertain which mage's knowledge is greatest and whose power of
+divination is stronger.    
+~
+386 1049096 0 0 0 0 0 0
+D3
+A single door with a symbol of two overlapping circles on it stands to the west.
+~
+door symbol~
+2 38603 38606
+S
+#38625
+Battle in the Air!~
+   You fly outside the tower and gasp as you see the city of Samsera far below
+you.  It is here, in the air, that you must face your nemesis to become the
+Grandmaster.    
+~
+386 1114624 0 0 0 9 0 0
+D1
+~
+~
+0 0 38619
+D3
+~
+~
+0 0 38626
+D5
+~
+~
+0 0 38620
+S
+#38626
+Battle in the Air!~
+   You fly outside the tower and gasp as you see the city of Samsera far below
+you.  It is here, in the air, that you must face your nemesis to become the
+Grandmaster.    
+~
+386 1114624 0 0 0 9 0 0
+D1
+~
+~
+0 0 38625
+D5
+~
+~
+0 0 38620
+S
+$~

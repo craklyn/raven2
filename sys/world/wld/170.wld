@@ -1,0 +1,3744 @@
+#17000
+The Mines Of Moria (Depths).~
+   This is the expansion to the standard diku area of moria. It is very loosely 
+based on the actual Mines of Moria from J.R.R. Tolkien's Lord of the Rings,
+and is meant for characters of level 15-30. Written by Sauron for Raven DikuMud.
+~
+170 12 0 0 0 0 255 0
+D3
+To the west is the 4th level of the Mines of Moria.
+~
+~
+0 0 17001
+S
+#17001
+The Hole.~
+   Deeper into the depths of the mountains you go. There is an iron door to the
+north, the first signs of civilized life you have seen in these monster ridden
+tunnels. Above you there is a hole taking you towards the surface and freedom
+from the claustrophobia that is slowly overwhelming you.
+~
+170 9 0 0 0 0 255 0
+D0
+In the distance to the north is an imposing iron door.
+~
+~
+0 0 17002
+D4
+Above you is a hole that with some effort you think you would be able to pull
+yourself up through.
+~
+~
+0 0 4074
+S
+#17002
+Approaching the Dwarven Sanctuary.~
+   The tunnel here is much smoother than those you have seen elsewhere in the
+mines. There are elaborate lines carved in the rock near the ceiling, you
+suspect that they are of Dwarven origin, although you haven't seen any sign of
+dwarves living amidst the monsters that seem to be everywhere.
+   To the north an iron door blocks any further progress while to the south
+there is a hole in the ceiling leading to the level above.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a sturdy iron door just to the north.
+~
+~
+0 0 17003
+D2
+To the south there is a hole in the ceiling leading to the safer parts of the
+mines.
+~
+~
+0 0 17001
+S
+#17003
+Before the Iron Door.~
+   Before you stands a sturdy iron door. It has some scratches and dents upon 
+its surface as though something has tried to knock it down, but whatever it was
+seems to have failed its attempt to penetrate the defenses.
+   There is a small guardhouse off to the east and a corridor leading off to
+the south. The door bars any further progress northwards.
+~
+170 9 0 0 0 0 255 0
+D0
+The iron door blocks your way northwards.
+~
+iron door n~
+2 17000 17005
+D1
+To your east there is a small guardhouse where the people protecting the
+entrance can rest.
+~
+~
+0 0 17004
+D2
+The corridor heads southwards towards a hole in the ceiling.
+~
+~
+0 0 17002
+E
+iron door~
+The door is made of solid iron and looks very sturdy indeed. You dont think
+that you could knock it over no matter how hard you tried.
+~
+S
+#17004
+The Guardhouse.~
+   The guardhouse is very sparsely furnished. There are two beds on which the
+guards can sleep when they are off duty. The only exit leads back to the door to
+the west.
+~
+170 9 0 0 0 0 255 0
+D3
+There is a guarded iron door to the west.
+~
+~
+0 0 17003
+E
+bed beds~
+The bed is a very basic one, consisting of a few hessian blankets on a stone
+slab.
+~
+S
+#17005
+The entrance to the Dwarven Stronghold.~
+   You enter a small corridor that leads between the doorway to the stronghold
+and the main chamber of the Dwarves.
+   There is a door to the south and a large hall to your north.
+~
+170 8 0 0 0 0 255 0
+D0
+The southeast corner of a large hall is to your north.
+~
+~
+0 0 17006
+D2
+There is a large iron door blocking your way southwards.
+~
+iron door s~
+2 17000 17003
+S
+#17006
+The South-east corner of the Great Hall Of the Dwarves.~
+   You are at the south-east corner of the 21st hall of north. This is the
+section of the mines in which the current Lord of Moria has decided to make his
+stand against the evil forces which assail them from all sides.
+   The hall extends to the north and west, and to your south is the exit of the
+stronghold.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves extends to the north.
+~
+~
+0 0 17007
+D2
+There is a corridor to your south leading to the door to the stronghold.
+~
+~
+0 0 17005
+D3
+The Great Hall Of the Dwarves extends to the west.
+~
+~
+0 0 17013
+S
+#17007
+The Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the north, west and south. There is a small
+store to the west.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves continues to your north.
+~
+~
+0 0 17008
+D1
+There is a small storehouse to your east.
+~
+~
+0 0 17018
+D2
+The Great Hall Of the Dwarves extends to your south.
+~
+~
+0 0 17006
+D3
+The Great Hall Of the Dwarves extends to your west.
+~
+~
+0 0 17012
+S
+#17008
+The Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the north, west and south.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves continues to your north.
+~
+~
+0 0 17009
+D2
+The Great Hall Of the Dwarves extends to your south.
+~
+~
+0 0 17007
+D3
+The Great Hall Of the Dwarves extends to your west.
+~
+~
+0 0 17011
+S
+#17009
+The North-east corner of the Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the west and south. There is a passage heading
+off to the east towards some homes.
+~
+170 8 0 0 0 0 255 0
+D1
+There is a corridor heading east towards some dwarven homes.
+~
+~
+0 0 17019
+D2
+The Great Hall Of the Dwarves extends to the south.
+~
+~
+0 0 17008
+D3
+The Great Hall Of the Dwarves extends to the west.
+~
+~
+0 0 17010
+S
+#17010
+The Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the east, west and south. To the north there
+is a hallway leading towards some large double doors.
+~
+170 8 0 0 0 0 255 0
+D0
+A corridor heads off to the north, towards some large double doors.
+~
+~
+0 0 17029
+D1
+The north-east corner of the Great Hall Of the Dwarves is off to the east.
+~
+~
+0 0 17009
+D2
+The Great Hall Of the Dwarves continues to the south.
+~
+~
+0 0 17011
+D3
+The north-west corner of the Great Hall Of the Dwarves is off to the west.
+~
+~
+0 0 17017
+S
+#17011
+In the center of the Great Hall Of the Dwarves.~
+   Standing in the center of the Great Hall Of the Dwarves you find yourself 
+getting visions of what this place would have been like in its heyday.
+Unfortunately, the mines were overrun by monsters and the stronghold in which 
+you stand has a much more sombre mood of late.
+   The hall continues around you in all directions.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves continues to the north.
+~
+~
+0 0 17010
+D1
+The Great Hall Of the Dwarves continues to the east.
+~
+~
+0 0 17008
+D2
+The Great Hall Of the Dwarves continues to the south.
+~
+~
+0 0 17012
+D3
+The Great Hall Of the Dwarves continues to the west.
+~
+~
+0 0 17016
+S
+#17012
+In the center of the Great Hall Of the Dwarves.~
+   Standing in the center of the Great Hall Of the Dwarves you find yourself
+getting visions of what this place would have been like in its heyday.
+Unfortunately, the mines were overrun by monsters and the stronghold in which
+you stand has a much more sombre mood of late.
+   The hall continues around you in all directions.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves continues to the north.
+~
+~
+0 0 17011
+D1
+The Great Hall Of the Dwarves continues to the east.
+~
+~
+0 0 17007
+D2
+The Great Hall Of the Dwarves continues to the south.
+~
+~
+0 0 17013
+D3
+The Great Hall Of the Dwarves continues to the west.
+~
+~
+0 0 17015
+S
+#17013
+The Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the north, east and west.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves continues to the north.
+~
+~
+0 0 17012
+D1
+The south-east corner of the Great Hall Of the Dwarves is to the east.
+~
+~
+0 0 17006
+D3
+The south-west corner of the Great Hall Of the Dwarves is to the west.
+~
+~
+0 0 17014
+S
+#17014
+The South-West corner of the Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the north and east.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves continues to the north.
+~
+~
+0 0 17015
+D1
+The Great Hall Of the Dwarves continues to the east.
+~
+~
+0 0 17013
+S
+#17015
+The Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the north, east and south.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves continues to your north.
+~
+~
+0 0 17016
+D1
+The center of the Great Hall Of the Dwarves is off to the east.
+~
+~
+0 0 17012
+D2
+The Great Hall Of the Dwarves extends to your south.
+~
+~
+0 0 17014
+S
+#17016
+The Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the north, east and south. There is a corridor
+to the west heading into another room.
+~
+170 8 0 0 0 0 255 0
+D0
+The Great Hall Of the Dwarves continues to your north.
+~
+~
+0 0 17017
+D1
+The center of the Great Hall Of the Dwarves is off to the east.
+~
+~
+0 0 17011
+D2
+The Great Hall Of the Dwarves extends to your south.
+~
+~
+0 0 17015
+D3
+There is a corridor heading west into another room. You can hear some movement
+coming from within. 
+~
+~
+0 0 17024
+S
+#17017
+The North-west corner of the Great Hall Of the Dwarves.~
+   As you look around you see the Great Hall Of the Dwarves in all its grandeur.
+The high ceiling is intricately worked and in the light you can see the true
+stoneworking skill of the dwarves exhibited to its fullest.
+   The hall extends about you to the east and south.
+~
+170 8 0 0 0 0 255 0
+D1
+The Great Hall Of the Dwarves extends to your east.
+~
+~
+0 0 17010
+D2
+The Great Hall Of the Dwarves extends to your south.
+~
+~
+0 0 17016
+S
+#17018
+The Mining Stores.~
+   In this room there are racks upon racks laden with mining equipment. This
+must be where the dwarves pick up their tools before heading off on their
+mining expeditions.
+~
+170 8 0 0 0 0 255 0
+D3
+To the west is the Great Hall Of the Dwarves.
+~
+~
+0 0 17007
+E
+rack~
+The racks are covered with tools.
+~
+E
+tools tool~
+The tools look like they are quite well crafted but they are too clumsy for
+use in a fight. They are designed solely for mining the hard rocks of the 
+depths of Moria.
+~
+S
+#17019
+Towards the Residences.~
+   You are in a small passageway which is heading towards the area in which the
+dwarves have made their homes. A wonderful smell wafts over you from the east
+where there are some homes and to the west is the grandeur of the great hall.
+~
+170 8 0 0 0 0 255 0
+D1
+To the east are some dwarven abodes.
+~
+~
+0 0 17020
+D3
+To the west is the Great Hall of the Dwarves.
+~
+~
+0 0 17009
+S
+#17020
+The Communal Fire Pit.~
+   Before you is the communal fire pit over which the dwarves do their cooking.
+There is a pot above the fire that has a broth stewing in it. It smells
+delicious but you wonder what they could possibly find down here to put in it.
+   There are houses to the north, east and south, while to the west there is
+a passageway leading back to the great hall.
+~
+170 8 0 0 0 0 255 0
+D0
+There is a home to the north.
+~
+~
+0 0 17023
+D1
+There is a home to the east.
+~
+~
+0 0 17022
+D2
+There is a home to the south.
+~
+~
+0 0 17021
+D3
+There is a passageway to the east heading towards the great hall.
+~
+~
+0 0 17019
+E
+pot~
+The pot seems to have a nice little broth brewing in it. You dont think that
+it is quite ready for eating yet.
+~
+E
+fire pit firepit~
+The fire pit is well recessed and looks like it has very little chance of any
+of the burning brands escaping and endangering any of the houses.
+~
+S
+#17021
+A Dwarven Home.~
+   This house looks very comfortable and you feel as though it would be a nice
+place for the dwarves to rest and forget about the troubles that assail them
+from all sides. The only exit is back to the fire pit.
+~
+170 8 0 0 0 0 255 0
+D0
+To the north is the communal fire pit.
+~
+~
+0 0 17020
+S
+#17022
+A Dwarven Home.~
+   This house looks very comfortable and you feel as though it would be a nice
+place for the dwarves to rest and forget about the troubles that assail them
+from all sides. The only exit is back to the fire pit.
+~
+170 8 0 0 0 0 255 0
+D3
+To the west is the communal fire pit.
+~
+~
+0 0 17020
+S
+#17023
+A Dwarven Home.~
+   This house looks very comfortable and you feel as though it would be a nice
+place for the dwarves to rest and forget about the troubles that assail them
+from all sides. The only exit is back to the fire pit.
+~
+170 8 0 0 0 0 255 0
+D2
+To the south is the communal fire pit.
+~
+~
+0 0 17020
+S
+#17024
+The Entrance to the Lords Chamber.~
+   You are in a side passage which joins the Great Hall to the seat of the
+Lord of Moria. There is a sturdy looking door to the west. It is usually kept
+locked as a last defence lest the stronghold be breached.
+   To the east if the great hall while to the west is the Chamber of Mazarbul.
+~
+170 8 0 0 0 0 255 0
+D1
+To the east is the Great Hall of the Dwarves.
+~
+~
+0 0 17016
+D3
+The Chamber of Mazarbul is through a door to the west.
+~
+door west~
+2 17003 17025
+E
+door sturdy~
+The door looks very secure, even more so than that at the southern entrance.
+~
+S
+#17025
+Inside the Chamber of Mazarbul.~
+   The walls of this large chamber are lined with bookshelves. It seems like
+this was some sort of library or records storage room at some stage. Now all
+the books have withered and all that remains on the shelves is dust. Despite
+this the room is now filled with activity as it has become the council chamber
+of the current Lord.
+   The chamber continues to the north and west, while to the east is a door
+and the only exit to the Chamber.
+~
+170 8 0 0 0 0 255 0
+D0
+The chamber continues to the north.
+~
+~
+0 0 17027
+D1
+There is a door to the west blocking the exit to the room.
+~
+door east~
+2 17003 17024
+D3
+The chamber continues to the west.
+~
+~
+0 0 17026
+E
+bookshelves book shelves~
+The shelves are empty but for a layer of dust, probably all that remains of
+the many books that once rested on them.
+~
+S
+#17026
+The Chamber Of Mazarbul.~
+   The walls of this large chamber are lined with bookshelves. It seems like
+this was some sort of library or records storage room at some stage. Now all
+the books have withered and all that remains on the shelves is dust. Despite
+this the room is now filled with activity as it has become the council chamber
+of the current Lord.
+   The chamber continues to the east while to the north is the seat of the Lord
+of Moria.
+~
+170 8 0 0 0 0 255 0
+D0
+To the north is the seat from which the Lord of Moria rules his people.
+~
+~
+0 0 17028
+D1
+To the east is the south-east corner of the chamber.
+~
+~
+0 0 17025
+E
+bookshelves book shelves~
+The shelves are empty but for a layer of dust, probably all that remains of
+the many books that once rested on them.
+~
+S
+#17027
+The Chamber Of Mazarbul.~
+   The walls of this large chamber are lined with bookshelves. It seems like
+this was some sort of library or records storage room at some stage. Now all
+the books have withered and all that remains on the shelves is dust. Despite
+this the room is now filled with activity as it has become the council chamber
+of the current Lord.
+   The chamber continues to the south while to the west is the seat of the Lord
+of Moria.
+~
+170 8 0 0 0 0 255 0
+D2
+To the south is the south-east corner of the chamber.
+~
+~
+0 0 17025
+D3
+To the west is the seat from which the Lord of Moria rules his people.
+~
+~
+0 0 17028
+E
+bookshelves book shelves~
+The shelves are empty but for a layer of dust, probably all that remains of
+the many books that once rested on them.
+~
+S
+#17028
+The Seat Of Mazarbul.~
+   The Lord of Moria has set up this spot as his seat of power within the
+stronghold. A stone chair sits behind a table and opposite this there are
+three more seats for those petitioning him to rest upon.
+   The chamber continues to the east and south.
+~
+170 8 0 0 0 0 255 0
+D1
+To the east is the Chamber of Mazarbul.
+~
+~
+0 0 17027
+D2
+To the south is the Chamber of Mazarbul.
+~
+~
+0 0 17026
+E
+seat throne~
+The throne is made of stone, and is really quite plain. You doubt that it is
+very comfortable, but the lord seems willing to endure the discomfort.
+~
+E
+table~
+The table is also made of stone and looks large enough that one could spread 
+many papers and maps across it.
+~
+S
+#17029
+The Hallway to the Mines.~
+   You are in a long hallway which connects the dwarven refuge to the mines of
+which they are so fond. Further along at the end of the corridor to the north is
+a large set of double doors while to the south is the Great Hall.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor continues to the north.
+~
+~
+0 0 17030
+D2
+The Great Hall of the Dwarves is to the south.
+~
+~
+0 0 17010
+S
+#17030
+The Hallway to the Mines.~
+   You are in a long hallway which connects the dwarven refuge to the mines of
+which they are so fond. Further along at the end of the corridor to the north is
+a large set of double doors while to the south is the Great Hall.
+~
+170 8 0 0 0 0 255 0
+D0
+There is a large set of double doors at the end of the corridor to your north.
+~
+~
+0 0 17031
+D2
+The corridor continues to the south towards the Great Hall.
+~
+~
+0 0 17029
+S
+#17031
+At the Great Doors.~
+   Before you stands an imposing set of double doors. The doors look
+impenetrable, and they need to be in order to keep out the denizens of the
+deep which constantly threaten the dwarven borders.
+   The doors block any further passage northwards and a corridor heads south
+towards the remainder of the dwarven sanctuary.
+~
+170 8 0 0 0 0 255 0
+D0
+A large set of double doors blocks any passage northwards.
+~
+double doors door n~
+2 17004 17032
+D2
+A corridor heads south towards a large hall.
+~
+~
+0 0 17030
+E
+double doors~
+The double doors are made of thick iron. They look like they are able to
+withstand any assault from without, much to the relief of the dwarves who
+reside here.
+~
+S
+#17032
+Outside the Dwarven Stronghold.~
+   You are just outside of a huge set of double doors that look incredibly
+strong. There are scratches and dents on the door as though something has been
+trying to break its way in, although very little dammage seems to have been
+done to the doors themselves.
+   Through the door to the south is the dwarven stronghold while to the north
+is an intersection in the tunnels.
+~
+170 13 0 0 0 0 255 0
+D0
+To the north is a four-way intersection in the tunnels, beyond that you can't
+tell because it seems your light is almost absorbed by the walls themselves.
+~
+~
+0 0 17033
+D2
+There are a large pair of double doors to the south barring entrance to the
+dwarven stronghold.
+~
+double door doors s~
+2 17004 17031
+E
+double doors~
+The double doors are made of thick iron. They look like they are able to
+withstand any assault from without, much to the relief of the dwarves who
+live within.
+~
+S
+#17033
+An intersection in the dark tunnels.~
+   You are standing at an intersection in the tunnels. There is an a sense of
+stillness coming from the east and a smell of burnt flesh coming from the west.
+Off to the north the passageway continues for as far as your light can
+penetrate.
+~
+170 9 0 0 0 0 255 0
+D0
+The corridor heads off into darkness to the north.
+~
+~
+0 0 17051
+D1
+There is an awful smell coming from the passage to the east.
+~
+~
+0 0 17044
+D2
+Off to the south there is a large set of doors.
+~
+~
+0 0 17032
+D3
+The corridor heads off to the west from where there is a smell of burning flesh.
+~
+~
+0 0 17034
+S
+#17034
+Into the Lair.~
+   Walking up this tunnel you think you can see some movement at the edge of
+your light. What are you getting yourself into here?
+~
+170 9 0 0 0 0 255 0
+D1
+There is an intersection off to your east.
+~
+~
+0 0 17033
+D3
+The corridor continues into darkness to your west.
+~
+~
+0 0 17035
+S
+#17035
+Further into the Darkness.~
+   This area of the tunnels seems incredibly dark, even your light seems to be
+having trouble penetrating the darkness. There is an intersection to your west
+and the corridor continues to your east.
+~
+170 9 0 0 0 0 255 0
+D1
+The corridor continues to your east.
+~
+~
+0 0 17034
+D3
+There is an intersection to your west.
+~
+~
+0 0 17036
+S
+#17036
+An intersection in the lair.~
+   You have reached an intersection in the passageway. There is a fair bit of
+activity around this area and you try hard not to be noticed.
+   There is a small room to the south, a short corridor to the west and back to
+the east the passageway leads out of the lair. As you cast your eyes northwards
+you see a corridor that turns to the west after a short period of time. Most of
+the inhabitants of the lair seem to be avoiding the northern passage.
+~
+170 9 0 0 0 0 255 0
+D0
+A dark passageway heads off to the north. There seem to be fewer of the lair's
+inhabitants in that direction.
+~
+~
+0 0 17037
+D1
+The passageway heads back out of trhe lair to the east.
+~
+~
+0 0 17035
+D2
+There is a small room to the south.
+~
+~
+0 0 17043
+D3
+There is a short corridor to the west.
+~
+~
+0 0 17041
+S
+#17037
+Deeper into the Lair.~
+   You are on a path that is leading towards a deserted part of the lair. You
+can't help but wonder what would cow these horrible yet fearless creatures.
+   The corridor continues to the north where it bends west, and there is an
+intersection to the south.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a bend in the passage to your north.
+~
+~
+0 0 17038
+D2
+There is an intersection in the lair to your south.
+~
+~
+0 0 17036
+S
+#17038
+The darkened corridor.~
+   This section of the lair is completely devoid of all Orogs which only serves 
+to make the darkness seem even more absolute and overpowering. You feel your
+instincts urging you not to continue up the corridor to the west, but to return
+and take your chances with the Orogs to the south.
+~
+170 13 0 0 0 0 255 0
+D2
+The corridor heads back south into the lair proper.
+~
+~
+0 0 17037
+D3
+To the west the darkened corridor continues. 
+~
+~
+0 0 17039
+S
+#17039
+Near the Bright Lair.~
+   As you round the bend you find yourself approaching a bright chamber which
+lies just to the north. This particular part of the lair is still devoid of any
+creatures and you wonder what lies to the north.
+~
+170 9 0 0 0 0 255 0
+D0
+To the north there is a bright room.
+~
+~
+0 0 17040
+D1
+To the east the dark corridor continues towards the main part of the lair.
+~
+~
+0 0 17038
+S
+#17040
+The Shaman's Chamber.~
+   This chamber is the only part of this lair that is lit. Perhaps this is why
+the rest of the Orogs avoid it, or perhaps they avoid this area in awe and fear
+of the magical power of their witch-doctor. Regardless, this room is full of
+various jars and pots containing all manner of awful ingredients for the
+shaman's evil spells.
+   The only exit is back to the south into the darkness.
+~
+170 8 0 0 0 0 255 0
+D2
+To the south is a dark corridor heading back towards the bulk of the lair.
+~
+~
+0 0 17039
+E
+jars pots~
+The jars and pots are full of many ingredients for the shaman's spells. You
+recognize some as toes and fingers and other assorted parts of humanoid bodies,
+which are all preseved in some foul smelling liquid.
+~
+E
+ingredients~
+You recognize some of the ingredients as toes and fingers and other assorted
+parts of humanoid bodies, which are all preseved in some foul smelling liquid.
+You dont think that any of the ingredients could possibly benefit you in any
+way.
+~
+S
+#17041
+The Entrance to the Hovel.~
+   This seems to be where the orogs bed up when they rest. This room dispels
+the myth that had these creatures never sleep. There are rows upon rows of
+blankets lying on the ground here, with little room between them. There are
+a few orogs sleeping here but it seems that the majority aren't even in the
+lair. You wonder where they could have gone and what evil they are perpetrating.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east is an intersection in the lair.
+~
+~
+0 0 17036
+D3
+There are more blankets and beds to the west.
+~
+~
+0 0 17042
+E
+bed beds~
+The beds are simply made up of blankets lying on the hard rock.
+~
+E
+blankets~
+The blankets are filthy, and full of holes. On top of this they absolutely
+stink of the filthy orogs. Dont they ever bathe?
+~
+S
+#17042
+Deep inside the Hovel.~
+   Having ventured deeper into this corridor of lice ridden beds, you are
+overcome by an obscene stench and wonder what on earth possessed you to come
+here in the first place.
+   The only exit seems to be back out to the east.
+~
+170 9 0 0 0 0 255 0
+D1
+The entrance to the hovel is off to your east.
+~
+~
+0 0 17041
+E
+bed beds~
+The beds are simply made up of blankets lying on the hard rock.
+~
+E
+blankets~
+The blankets are filthy, and full of holes. On top of this they absolutely
+stink of the filthy orogs. Dont they ever bathe?
+~
+S
+#17043
+At the Fire.~
+   There is a roaring fire here above which there is a large cooking pot.
+The smell of burnt flesh here is almost overpowering and you are certainly
+not left guessing what is on the menu for tonight.
+   The only way out of this room is to the north, back to the intersection.
+Another way out would be to hop into the pot, but you think that perhaps that
+is not the most desirable way to go.
+~
+170 8 0 0 0 0 255 0
+D0
+To the north is an intersection in the lair.
+~
+~
+0 0 17036
+E
+fire~
+The fire is stacked high with a kind of dried out moss that seems to burn
+quite well. It is built to quite an inferno as the cooking takes place.
+~
+E
+cooking pot cauldron~
+The cauldron is full of dismembered arms legs and otherwise. They seem to be
+quite humanoid in shape and you shudder to think that should the Orogs
+overpower you, you could meet with the same fate.
+~
+S
+#17044
+A deserted corridor.~
+   You are in a deserted corridor running east-west. The air here is very
+still as though nothing has passed this way for quite some time. You become
+quite concerned that whatever is at the end of this passage may be something
+you would do well to avoid.
+~
+170 9 0 0 0 0 255 0
+D1
+The dark and deserted corridor continues to the east.
+~
+~
+0 0 17045
+D3
+The deserted corridor heads back towards an intersection to your west.
+~
+~
+0 0 17033
+S
+#17045
+A deserted corridor.~
+   You are in a deserted corridor running east-west. The air here is very
+still as though nothing has passed this way for quite some time. You become
+quite concerned that whatever is at the end of this passage may be something
+you would do well to avoid.
+~
+170 9 0 0 0 0 255 0
+D1
+The dark and deserted corridor continues to the east.
+~
+~
+0 0 17046
+D3
+The deserted corridor heads back towards an intersection to your west.
+~
+~
+0 0 17044
+S
+#17046
+A deserted corridor.~
+   You are in a deserted corridor running east-west. The air here is very
+still as though nothing has passed this way for quite some time. You become
+quite concerned that whatever is at the end of this passage may be something
+you would do well to avoid.
+~
+170 9 0 0 0 0 255 0
+D1
+The dark and deserted corridor continues to the east, where it bends to the 
+north.
+~
+~
+0 0 17047
+D3
+The deserted corridor heads back towards an intersection to your west.
+~
+~
+0 0 17045
+S
+#17047
+A bend in the deserted corridor.~
+   You have come to a bend in the corridor. Back to the west it heads towards
+an intersection while to the north it heads off into the unknown.
+~
+170 9 0 0 0 0 255 0
+D0
+To the north the corridor bends eastwards once again.
+~
+~
+0 0 17048
+D3
+To the west the corridor heads back towards a major intersection.
+~
+~
+0 0 17046
+S
+#17048
+A bend in the deserted corridor.~
+   Here the stifling corridor bends once more. From here you can head east
+towards the end of the corridor or back to the south where it bends westwards
+once more.
+~
+170 9 0 0 0 0 255 0
+D1
+The corridor heads off towards its end to your east.
+~
+~
+0 0 17049
+D2
+To the south there is another bend in the corridor from where it heads back to
+the west.
+~
+~
+0 0 17047
+S
+#17049
+Nearing the Bitter End.~
+   The corridor continues east-west here. You can hear some grunting noises
+from the east, the first signs of life up this passageway. The noises sound
+quite angry, perhaps it would be wise not to annoy whatever is holed up there.
+~
+170 9 0 0 0 0 255 0
+D1
+The end of the corridor is to your east.
+~
+~
+0 0 17050
+D3
+Back to the west the corridor heads back towards relative safety, you feel
+the your sensible side pulling you back in that direction.
+~
+~
+0 0 17048
+S
+#17050
+The Chieftain's Lair.~
+   This is the lair of the Orog's Chieftain. There are some basic furnishings
+here and it seems that the chieftain lives a much richer life than that of his
+underlings. There is a large chest in the corner of the room, it looks very
+inviting. You feel as though the chieftain wouldn't mind you searching through
+it, but you've been wrong before.
+   The only exit from this room is back to the west from whence you came.
+~
+170 9 0 0 0 0 255 0
+D3
+To the west is a dark corridor, the only exit from this room.
+~
+~
+0 0 17049
+E
+furnishings~
+The furnishings of the room consist of a rough table and a chair, the latter
+of which must ba very sturdy to take the weight of the chieftain.
+~
+S
+#17051
+The path to the mine.~
+   You are on a path heading north-south between the Dwarven stronghold and the
+main mineshaft which is off to the north. For some reason the orogs dont seem
+to venture up this path. Maybe they know something about the mine depths that
+the dwarves dont.
+~
+170 9 0 0 0 0 255 0
+D0
+The path heads northwards towards the mineshaft.
+~
+~
+0 0 17052
+D2
+In the distance to the south is the doorway to the dwarven stronghold.
+~
+~
+0 0 17033
+S
+#17052
+The path to the mine.~
+   You are on a path heading north-south between the Dwarven stronghold and the
+main mineshaft which is off to the north. For some reason the orogs dont seem
+to venture up this path. Maybe they know something about the mine depths that
+the dwarves dont.
+~
+170 9 0 0 0 0 255 0
+D0
+The path heads northwards towards the mineshaft.
+~
+~
+0 0 17053
+D2
+In the distance to the south is the doorway to the dwarven stronghold.
+~
+~
+0 0 17051
+S
+#17053
+The path to the mine.~
+   You are on a path heading north-south between the Dwarven stronghold and the
+main mineshaft which is off to the north. For some reason the orogs dont seem
+to venture up this path. Maybe they know something about the mine depths that
+the dwarves dont.
+~
+170 9 0 0 0 0 255 0
+D0
+The path heads northwards towards the mineshaft.
+~
+~
+0 0 17054
+D2
+In the distance to the south is the doorway to the dwarven stronghold.
+~
+~
+0 0 17052
+S
+#17054
+At the top of the mineshaft.~
+   In front of you is one of the fabled mineshafts of Moria, the only mithril
+producing mines in the known world. For this reason the dwarves continue to
+mine here even knowing the peril that they face in doing so.
+   There is a mineshaft heading deeper into the depths of Caradhras here. The
+only other exit is back south towards the dwarven sanctuary.
+~
+170 9 0 0 0 0 255 0
+D2
+To the south is a path heading back to the dwarven stronghold.
+~
+~
+0 0 17053
+D5
+As you look down you see the true darkness that can only ever be found under
+the ground.
+~
+~
+0 0 17055
+S
+#17055
+In the mineshaft.~
+   You are on a small platform at the edge of the mineshaft. There is a ladder
+going up towards the surface and descending deeper into the mountain.
+~
+170 9 0 0 0 0 255 0
+D4
+Above you is the top of the mineshaft.
+~
+~
+0 0 17054
+D5
+The mineshaft continues downwards, descending into the depths.
+~
+~
+0 0 17056
+S
+#17056
+In the mineshaft.~
+   You are on a small platform at the edge of the mineshaft. There is a ladder
+going up towards the surface and descending deeper into the mountain.
+~
+170 9 0 0 0 0 255 0
+D4
+Above you, the mineshaft continues.
+~
+~
+0 0 17055
+D5
+The mineshaft continues downwards, descending into the depths.
+~
+~
+0 0 17057
+S
+#17057
+In the mineshaft.~
+   You are on a small platform at the edge of the mineshaft. There is a ladder
+going up towards the surface and descending to the bottom of the mineshaft which
+which is just below you.
+~
+170 9 0 0 0 0 255 0
+D4
+Above you, the mineshaft continues.
+~
+~
+0 0 17056
+D5
+Below you is the bottom of the mineshaft.
+~
+~
+0 0 17058
+S
+#17058
+Crossroad in the mines.~
+   You are at the bottom of the mineshaft, on the level of the largest mithril
+vein ever found in Moria. You can hear the sound of metal striking rock to the
+north and south. There are also corridors heading east and west.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a tunnel heading north from where the sounds of mining emanate.
+~
+~
+0 0 17059
+D1
+There is a long corridor heading to the east.
+~
+~
+0 0 17083
+D2
+There is a tunnel heading south towards another mining area.
+~
+~
+0 0 17092
+D3
+The corridor heads off to the west from where it bends north.
+~
+~
+0 0 17072
+D4
+A shaft heads upwards towards the surface.
+~
+~
+0 0 17057
+S
+#17059
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There are wooden beams supporting the roof and a cave-in seems very unlikely.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to your north.
+~
+~
+0 0 17060
+D2
+There is crossroads to your south.
+~
+~
+0 0 17058
+S
+#17060
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There are wooden beams supporting the roof and a cave-in seems very unlikely.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to your north.
+~
+~
+0 0 17061
+D2
+The tunnel continues to your south.
+~
+~
+0 0 17059
+S
+#17061
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There are wooden beams supporting the roof and a cave-in seems very unlikely.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to your north, where there is a side passage branching out
+to the east.
+~
+~
+0 0 17062
+D2
+The tunnel continues to your south.
+~
+~
+0 0 17060
+S
+#17062
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There is another tunnel heading off to the east at the end of which you can see
+a rock-face which some dwarves are working on.  There are wooden beams
+supporting the roof here and a cave-in seems very unlikely.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to your north. 
+~
+~
+0 0 17063
+D1
+There is a corridor branching off to the east at the end of which there is a
+rock-face.
+~
+~
+0 0 17067
+D2
+The tunnel continues to your south.
+~
+~
+0 0 17061
+S
+#17063
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There are wooden beams supporting the roof and a cave-in seems very unlikely.
+To your north the tunnel comes to an end at a rock-face while to the south
+there is a side passage heading off to the east.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to your north.
+~
+~
+0 0 17064
+D2
+The tunnel continues to your south.
+~
+~
+0 0 17062
+S
+#17064
+At the northern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock.
+   There is a corridor heading off to the south while the rock-face extends to
+the east and west.
+~
+170 9 0 0 0 0 255 0
+D1
+The rockface extends to your east.
+~
+~
+0 0 17065
+D2
+There is a tunnel heading off to the south.
+~
+~
+0 0 17063
+D3
+The rockface continues to your west.
+~
+~
+0 0 17066
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+S
+#17065
+At the northern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock.
+   The rock-face continues to the west where there is a tunnel branching off to
+the south.
+~
+170 9 0 0 0 0 255 0
+D3
+The rock-face continues to the west where there is a tunnel heading south.
+~
+~
+0 0 17064
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+S
+#17066
+At the northern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock.
+   The rock-face continues to the east from where there is a tunnel branching
+off to the south.
+~
+170 9 0 0 0 0 255 0
+D1
+To your east there is more of the rock-face being mined by the dwarves. There
+is also a tunnel branching off to the south to your east.
+~
+~
+0 0 17064
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+S
+#17067
+In a side tunnel.~
+   This tunnel seems newer than the main one to the west. There are fewer of
+the supporting beams and they are spread much wider apart. You get the feeling
+that you are still quite safe although you are staring to have your doubts.
+   The tunnel continues to your east while to the west is the main tunnel.
+~
+170 9 0 0 0 0 255 0
+D1
+The side tunnel continues to your east.
+~
+~
+0 0 17068
+D3
+To your west is the main tunnel, in which you feel much safer.
+~
+~
+0 0 17062
+S
+#17068
+In a side tunnel.~
+   This tunnel seems newer than the main one to the west. There are fewer of
+the supporting beams and they are spread much wider apart. You get the feeling
+that you are still quite safe although you are staring to have your doubts.
+   There is a rockface to your east and the tunnel continues to your west.
+~
+170 9 0 0 0 0 255 0
+D1
+There is a rock-face to your east which is being worked by the dwarves.
+~
+~
+0 0 17069
+D3
+The side tunnel continues to your west.
+~
+~
+0 0 17067
+S
+#17069
+At the eastern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock.
+   The rockface continues to your north and south and there is a passage heading
+to your west, back towards the bulk of the mine.
+~
+170 9 0 0 0 0 255 0
+D0
+The rock-face continues to your north.
+~
+~
+0 0 17070
+D2
+The rock-face continues to your south.
+~
+~
+0 0 17071
+D3
+There is a tunnel heading west, back towards the main passageway.
+~
+~
+0 0 17068
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+S
+#17070
+At the eastern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock. The rockface continues to your south from where there is a tunnel
+heading off to the west.
+~
+170 9 0 0 0 0 255 0
+D2
+The rock-face extends to your south from where a passageway heads westwards.
+~
+~
+0 0 17069
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+S
+#17071
+At the eastern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock. The rock-face continues to your north from where there is a tunnel
+heading off to the west.
+~
+170 9 0 0 0 0 255 0
+D0
+The rock-face extends to your north from where a passageway heads westwards.
+~
+~
+0 0 17069
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+S
+#17072
+A path in the mines.~
+   You are in a path in the mines. There doesn't seem to be as much activity in
+this corridor as elsewhere in the mines. There is an intersection to your east.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east there is an intersection in the mines.
+~
+~
+0 0 17058
+D3
+The path continues to your west.
+~
+~
+0 0 17073
+S
+#17073
+A path in the mines.~
+   You are in a path in the mines. There doesn't seem to be as much activity in
+this corridor as elsewhere in the mines. There is an intersection in the
+distance to your east.
+~
+170 9 0 0 0 0 255 0
+D1
+The path continues to your east.
+~
+~
+0 0 17072
+D3
+The path continues to your west.
+~
+~
+0 0 17074
+S
+#17074
+A bend in the path.~
+   You have come to a bend in the path. From here the path heads towards an
+intersection to your east or to the north where the corridor seems much less
+popular and somewhat more peaceful.
+~
+170 9 0 0 0 0 255 0
+D0
+The path heads off to the north where the mines are less populous.
+~
+~
+0 0 17075
+D1
+In the distance down the path to the east there is a junction.
+~
+~
+0 0 17073
+S
+#17075
+Further along the path.~
+   You are in a short straight stretch between two kinks in the path. To your
+north the path bends west while to your south the tunnel heads off eastwards.
+~
+170 9 0 0 0 0 255 0
+D0
+To your north the tunnel suddenly bends westwards.
+~
+~
+0 0 17076
+D2
+To the south there is an easterly bend in the tunnel.
+~
+~
+0 0 17074
+S
+#17076
+A bend in the tunnel.~
+   You have reached another bend in the tunnel. Off a ways to the west there is
+a T-intersection while off to the south there is another bend in the tunnel.
+~
+170 13 0 0 0 0 255 0
+D2
+To your south there is another bend in the tunnel.
+~
+~
+0 0 17075
+D3
+Heading west the tunnel approaches a T-intersection.
+~
+~
+0 0 17077
+S
+#17077
+The end of the tunnel.~
+   You are at the end of a winding tunnel. To your west you can see somewhat of
+a chamber which has a wooden wall in it with doors on the western wall at
+either end of the wall.
+~
+170 9 0 0 0 0 255 0
+D1
+The tunnel heads off to a bend to your east.
+~
+~
+0 0 17076
+D3
+There is a natural chamber to your west.
+~
+~
+0 0 17078
+S
+#17078
+In the natural cavern.~
+   You are in a natural cavern which was probably here well before the dwarves.
+There is a wooden partition on the western wall and at either end of it, to
+your north and south there is a door in the partition. This is the only part of
+this level of the mines which is permanently lit.
+~
+170 8 0 0 0 0 255 0
+D0
+The partition continues along the wall on the west, but off to your north there
+is a door leading through it.
+~
+~
+0 0 17079
+D1
+To your east there is a tunnel heading back to the main part of the mines.
+~
+~
+0 0 17077
+D2
+The partition continues along the wall on the west, but off to your south there
+is a door leading through it.
+~
+~
+0 0 17081
+S
+#17079
+Before the door.~
+   As you look about the chamber you see a partition to the west. There is a 
+door heading through the partition here.
+~
+170 8 0 0 0 0 255 0
+D2
+To your south there is an opening in the side of the chamber.
+~
+~
+0 0 17078
+D3
+There is a door to your west.
+~
+door west~
+2 0 17080
+E
+door~
+The door is made of wood and looks quite sturdy.
+~
+S
+#17080
+Mine Sub-Leader's Office.~
+   This office is where the sub-leader oversees the running of the mine. The
+office is quite sparse, there is just a table and a chair, and on the desk
+there are a number of sheets of paper, he doesn't look very organised.
+~
+170 8 0 0 0 0 255 0
+D1
+Through a door to the east is the hustle and bustle of the rest of the mine.
+~
+door east~
+2 0 17079
+E
+table~
+Well, its more of a desk than a table. It doesnt look very new and has no
+drawers, all it is good for is as a solid surface to write on.
+~
+E
+chair~
+The chair is a small wooden one, it doesn't look very comfortable.
+~
+E
+sheets paper~
+The papers have writing on them, presumably written in Dwarvish. You can't
+understand what they say but you think they would just be about the smooth
+running of the mine and not all that interesting anyways.
+~
+E
+door~
+The door is made of wood and looks quite sturdy.
+~
+S
+#17081
+Before the door.~
+   As you look about the chamber you see a partition to the west. There is a
+door heading through the partition here.
+~
+170 8 0 0 0 0 255 0
+D0
+To your north there is a tunnel opening on the eastern side of the cavern.
+~
+~
+0 0 17078
+D3
+There is a door to your west.
+~
+door west~
+2 0 17082
+E
+door~
+The door is made of wood and looks quite sturdy.
+~
+S
+#17082
+The Mine-Leaders Office.~
+   This is the nerve-centre of the mine. It is here that all of the sub-leaders
+reports end up to be checked over. The leader is sitting behind his desk, it
+looks like he has a lot on his mind.
+~
+170 8 0 0 0 0 255 0
+D1
+Through a door to the east is the hustle and bustle of the rest of the mine.
+~
+door east~
+2 0 17081
+E
+desk table~
+Well, its more of a desk than a table. It doesnt look very new and has no
+drawers, all it is good for is as a solid surface to write on.
+~
+E
+door~
+The door is made of wood and looks quite sturdy.
+~
+S
+#17083
+The long tunnel.~
+   You are in a long tunnel, it stretches off into the darkness to the east. You
+notice that it seems to run slightly downhill.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east the tunnel continues at a slight decline.
+~
+~
+0 0 17084
+D3
+There is an intersection in the mines to the west.
+~
+~
+0 0 17058
+S
+#17084
+The long tunnel.~
+   You are in a long tunnel, it heads off into the darkness to the east. You
+notice that it seems to run slightly downhill.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east the tunnel continues at a slight decline.
+~
+~
+0 0 17085
+D3
+To the west the tunnel continues at a slight incline.
+~
+~
+0 0 17083
+S
+#17085
+The long tunnel.~
+   You are in a long tunnel, it stretches off into the darkness to the east. You
+notice that it seems to run slightly downhill.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east the tunnel continues at a slight decline.
+~
+~
+0 0 17086
+D3
+To the west the tunnel continues at a slight incline.
+~
+~
+0 0 17084
+S
+#17086
+The long tunnel.~
+   You are in a long tunnel, it heads off into the darkness to the east. You
+notice that it seems to run slightly downhill.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east the tunnel continues at a slight decline.
+~
+~
+0 0 17087
+D3
+To the west the tunnel continues at a slight incline.
+~
+~
+0 0 17085
+S
+#17087
+The long tunnel.~
+   You are in a long tunnel, it heads off into the darkness to the east. You
+notice that it seems to run slightly downhill.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east the tunnel continues at a slight decline.
+~
+~
+0 0 17088
+D3
+To the west the tunnel continues at a slight incline.
+~
+~
+0 0 17086
+S
+#17088
+A junction in the long tunnel.~
+   You have come to a point where the tunnel still looks fairly much the same,
+except for an opening in the northern wall which leads into a small, well lit
+room. The tunnel continues west and downwards to the east.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a small, well lit room to the north.
+~
+~
+0 0 17089
+D1
+To the east the tunnel continues at a slight decline.
+~
+~
+0 0 17090
+D3
+To the west the tunnel continues at a slight incline.
+~
+~
+0 0 17087
+S
+#17089
+The Guard Chamber.~
+   This room is where the best of the dwarven guards stand to protect the
+miners from the awesome creatures that they have uncovered at the end of this
+tunnel. If these guards should fail in their duties then the entire dwarven
+stronghold would be in danger of being overrun. The only way out is through a
+gap in the wall to the south.
+~
+170 8 0 0 0 0 255 0
+D2
+The tunnel is though an exit to the south.
+~
+~
+0 0 17088
+S
+#17090
+The long tunnel.~
+   You are in a long tunnel, it heads off into the darkness to the east. You
+notice that it seems to run slightly downhill.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east the tunnel continues at a slight decline.
+~
+~
+0 0 17091
+D3
+To the west the tunnel continues at a slight incline.
+~
+~
+0 0 17088
+S
+#17091
+The End of the Tunnel.~
+   You have come to the end of the tunnel. The only exits from here are west
+back up the tunnel towards the dwarves, or down into the deepest darkest
+regions of Moria, where even the dwarves fear to tread.
+~
+170 13 0 0 0 0 255 0
+D3
+The tunnel heads up towards the mines to your west.
+~
+~
+0 0 17090
+D5
+Looking down all you can see is darkness. You think it looks even darker than
+the pitch blackness that which already surrounds your small pocket of light.
+~
+~
+0 0 17114
+S
+#17092
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There are wooden beams supporting the roof and a cave-in seems very unlikely.
+~
+170 9 0 0 0 0 255 0
+D0
+There is an intersection in the mines to your north.
+~
+~
+0 0 17058
+D2
+The tunnel continues to your south.
+~
+~
+0 0 17093
+S
+#17093
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There are wooden beams supporting the roof and a cave-in seems very unlikely.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to your north.
+~
+~
+0 0 17092
+D2
+The tunnel continues to your south.
+~
+~
+0 0 17094
+S
+#17094
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There are wooden beams supporting the roof and a cave-in seems very unlikely.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to your north.
+~
+~
+0 0 17093
+D2
+The tunnel continues to your south.
+~
+~
+0 0 17095
+S
+#17095
+A mining tunnel.~
+   You are in a mining tunnel which as near as you can tell runs north-south.
+There are wooden beams supporting the roof and a cave-in seems very unlikely.
+Just off to your south there is a rockface being mined.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to your north.
+~
+~
+0 0 17094
+D2
+The tunnel continues to your south.
+~
+~
+0 0 17096
+S
+#17096
+At the southern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock.
+   There is a corridor heading off to the north while the rock-face extends to
+the east and west.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a tunnel heading off to your north.
+~
+~
+0 0 17095
+D1
+The rockface extends to your east.
+~
+~
+0 0 17098
+D3
+The rockface continues to your west.
+~
+~
+0 0 17097
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+S
+#17097
+At the southern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock.
+   The rock-face continues to the east from where there is a tunnel branching
+off to the north.
+~
+170 9 0 0 0 0 255 0
+D1
+To your east there is more of the rock-face being mined by the dwarves. There
+is also a tunnel branching off to the north from your east.
+~
+~
+0 0 17096
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+S
+#17098
+At the southern rock-face.~
+   Before you stands a large rockface. There are some dwarves here working the
+rock in which substantial traces of mithril are visible to the naked eye. Small
+carts are used to ferry the stone away to where the metal is extracted from
+the rock.
+   The rock-face continues to the west where there is a tunnel branching off to
+the north.
+~
+170 9 0 0 0 0 255 0
+D2
+Nothing special there...
+~
+rock door south~
+2 0 17099
+D3
+The rock-face continues to the west where there is a tunnel heading north.
+~
+~
+0 0 17096
+E
+cart carts~
+The carts look like they would only be useful for mining, they are awkward and
+cumbersome, they couldn't benefit you in any way.
+~
+E
+wall rock~
+There seem to be some irregularities in the rock, you might be able to work
+your way through it somehow.
+~
+S
+#17099
+The entrance to the lair.~
+   You have entered a small entrance, almost a foyer. There is a ladder leading
+up from where there is a strange smell emanating. To your north there is a
+strange rock formation that you might be able to squeeze through.
+~
+170 9 0 0 0 0 255 0
+D0
+There is an makeshift door in the wall to the north of you.
+~
+door makeshift wall rock formation~
+2 0 17098
+D4
+Up the ladder above you there a flickering light, possibly candlelight.
+~
+~
+0 0 17100
+E
+ladder~
+The ladder looks old and clumsy, but you think it should hold your weight.
+~
+S
+#17100
+Above the hole.~
+   You are standing at the top of a ladder which leads out of the lair and into
+the darkness below. The air is quite still here and has a distinctive smell
+which you cant quite place. Besides the hole, the only exit leads off to the
+south.
+~
+170 9 0 0 0 0 255 0
+D2
+To your south there is a corridor.
+~
+~
+0 0 17101
+D5
+Below you there is nothing but darkness.
+~
+~
+0 0 17099
+E
+ladder~
+The ladder looks old and clumsy, but you think it should hold your weight.
+~
+S
+#17101
+In the passageway.~
+   As you look about you see signs of life everywhere. From the bones and other
+foodscraps, to the occasional pile of refuse, you get the idea that some
+creatures must have taken up residence here. The passageway continues to your
+east and west, while to your north there is a small alcove.
+~
+170 9 0 0 0 0 255 0
+D0
+To the north you see a small alcove. There is what appears to be a ladder there.
+~
+~
+0 0 17100
+D1
+The passage continues to your east.
+~
+~
+0 0 17107
+D3
+The passage continues to your west.
+~
+~
+0 0 17102
+S
+#17102
+In the passageway.~
+   As you look about you see signs of life everywhere. From the bones and other
+foodscraps, to the occasional pile of refuse, you get the idea that some
+creatures must have taken up residence here. The passage continues east and
+west.
+~
+170 9 0 0 0 0 255 0
+D1
+The passage continues to your east.
+~
+~
+0 0 17101
+D3
+To your west there is a junction.
+~
+~
+0 0 17103
+S
+#17103
+A junction in the lair.~
+   You have reached a junction from where the lair heads off in the four
+cardinal directions. There are small rooms to the south, north and west, while
+to the east there is a tunnel.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a small room of sorts to your north.
+~
+~
+0 0 17104
+D1
+There is a tunnel off to your east.
+~
+~
+0 0 17102
+D2
+There is a small room of sorts to your south.
+~
+~
+0 0 17105
+D3
+There is a small room of sorts to your west.
+~
+~
+0 0 17106
+S
+#17104
+A filthy cave.~
+   As you enter this room you feel as though you are stepping into a pigpen.
+There is a great deal of mess on the floor, as though whatever lives here
+doesn't care where it sleeps. The only exit is back out to the south.
+~
+170 9 0 0 0 0 255 0
+D2
+There is a junction to your south.
+~
+~
+0 0 17103
+S
+#17105
+A filthy cave.~
+   As you enter this room you feel as though you are stepping into a pigpen.
+There is a great deal of mess on the floor, as though whatever lives here
+doesn't care where it sleeps. The only exit is back out to the north.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a junction to your north.
+~
+~
+0 0 17103
+S
+#17106
+A filthy cave.~
+   As you enter this room you feel as though you are stepping into a pigpen.
+There is a great deal of mess on the floor, as though whatever lives here
+doesn't care where it sleeps. The only exit is back out to the east.
+~
+170 9 0 0 0 0 255 0
+D1
+There is a junction to your east.
+~
+~
+0 0 17103
+S
+#17107
+In the passageway.~
+   As you look about you see signs of life everywhere. From the bones and other
+foodscraps, to the occasional pile of refuse, you get the idea that some
+creatures must have taken up residence here. The passage continues east and
+west.
+~
+170 9 0 0 0 0 255 0
+D1
+To your east there is a junction.
+~
+~
+0 0 17108
+D3
+To your east is another intersection.
+~
+~
+0 0 17101
+S
+#17108
+A bend in the passage.~
+   There is a bend in the corridor here. The everpresent mess and refuse that
+litters the lair is still all about, making you gag and cover your nose. The
+exits from here are to the south and west.
+~
+170 9 0 0 0 0 255 0
+D2
+There is a tunnel heading off to the south.
+~
+~
+0 0 17109
+D3
+The tunnel heads off to the west.
+~
+~
+0 0 17107
+S
+#17109
+In the passageway.~
+   As you look about you see signs of life everywhere. From the bones and other
+foodscraps, to the occasional pile of refuse, you get the idea that some
+creatures must have taken up residence here. The passage continues north and
+south, where it reaches an junction.
+~
+170 9 0 0 0 0 255 0
+D0
+To your north is a bend in the tunnel.
+~
+~
+0 0 17108
+D2
+To your south there is a junction.
+~
+~
+0 0 17110
+S
+#17110
+A junction in the lair.~
+   You have reached a junction from where the lair heads off in the four
+cardinal directions. There are small rooms to the south, east and west, while
+to the north there is a tunnel.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a tunnel to your north.
+~
+~
+0 0 17109
+D1
+There is a small room of sorts to your east.
+~
+~
+0 0 17111
+D2
+There is a small room of sorts to your south.
+~
+~
+0 0 17112
+D3
+There is a small room of sorts to your west.
+~
+~
+0 0 17113
+S
+#17111
+A filthy cave.~
+   As you enter this room you feel as though you are stepping into a pigpen.
+There is a great deal of mess on the floor, as though whatever lives here
+doesn't care where it sleeps. The only exit is back out to the west.
+~
+170 9 0 0 0 0 255 0
+D3
+There is a junction to your west.
+~
+~
+0 0 17110
+S
+#17112
+A filthy cave.~
+   As you enter this room you feel as though you are stepping into a pigpen.
+There is a great deal of mess on the floor, as though whatever lives here
+doesn't care where it sleeps. The only exit is back out to the north.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a junction to your north.
+~
+~
+0 0 17110
+S
+#17113
+A filthy cave.~
+   As you enter this room you feel as though you are stepping into a pigpen.
+There is a great deal of mess on the floor, as though whatever lives here
+doesn't care where it sleeps. The only exit is back out to the east.
+~
+170 9 0 0 0 0 255 0
+D1
+There is a junction to your east.
+~
+~
+0 0 17110
+S
+#17114
+Deep in the heart of the mountain.~
+   You are now well down into the bowels of the mountain. The air down here is
+very still and there is a thick layer of dust covering the floor. You get the
+feeling that you are travelling a path that none have passed for many long
+years. From here you can go up towards the surface or you can ignore your
+better judgement and head off through the stillness to the west.
+~
+170 13 0 0 0 0 255 0
+D3
+To the west there is a junction.
+~
+~
+0 0 17115
+D4
+Looking up you think you can see a faint light.
+~
+~
+0 0 17091
+E
+dust~
+A thick layer of dust covers everthing down here. You cant see any imprints in
+it. It doesn't look like anyone really comes down here.
+~
+S
+#17115
+In the catacombs.~
+   The thick layer of dust is still presesnt here. From here you can go east,
+towards the exit, or south and west into the pressing darkness.
+~
+170 9 0 0 0 0 255 0
+D1
+Over to the east you can see a hole in the roof that you might be able to climb
+up through.
+~
+~
+0 0 17114
+D2
+To the south is a dark corridor.
+~
+~
+0 0 17116
+D3
+To your west is another junction.
+~
+~
+0 0 17118
+S
+#17116
+A dark tunnel.~
+   This tunnel is very dark and the walls seem to absorb your lights. You think
+you can hear a sound coming from the south, it seems like the whispering of the
+wind, but there is no movement in the air and the only disturbance in the dust
+is where you have trodden. From here you can go north and south.
+~
+170 9 0 0 0 0 255 0
+D0
+To your north is a small intersection.
+~
+~
+0 0 17115
+D2
+There is a bend in the corridor to your south.
+~
+~
+0 0 17117
+S
+#17117
+A bend in the dark tunnel.~
+   You have come to a bend in the tunnel. The whispering that you heard before
+is still evident and seems to be coming from the east.
+~
+170 9 0 0 0 0 255 0
+D0
+The dark tunnel continues to your north.
+~
+~
+0 0 17116
+D1
+The dark tunnel continues to your east.
+~
+~
+0 0 17116
+S
+#17118
+A junction in the catacombs.~
+   The thick layer of dust is still evident here. You are surrounded by
+darkness and the only thing stopping you from getting disoriented is the wall
+to your south.
+~
+170 9 0 0 0 0 255 0
+D0
+A tunnel breaks away to your north.
+~
+~
+0 0 17119
+D1
+There is another intersection to your east.
+~
+~
+0 0 17115
+D3
+To your west there is yet another intersection.
+~
+~
+0 0 17124
+S
+#17119
+A dark tunnel.~
+   You are in another tunnel where the very walls seem to absorb your lights.
+There are exits to the north and south where you can see a couple of junctions.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a small intersection to your north.
+~
+~
+0 0 17120
+D2
+There is a junction to your south.
+~
+~
+0 0 17118
+S
+#17120
+A junction in the catacombs.~
+   You have reached another intersection. There is dust everywhere and you find
+a little difficulty breathing. There are exits to your north, south and west.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a bend in the corridor to your north.
+~
+~
+0 0 17121
+D2
+To your south is a dark tunnel.
+~
+~
+0 0 17119
+D3
+Another corridor heads off to your west.
+~
+~
+0 0 17133
+S
+#17121
+A bend in the dark tunnel.~
+   The tunnel bends sharply to the east here. The dust still covers everything
+in a thick blanket.
+~
+170 9 0 0 0 0 255 0
+D1
+There is another bend in the corridor to your east.
+~
+~
+0 0 17122
+D2
+There is a junction to your south.
+~
+~
+0 0 17120
+S
+#17122
+A bend in the dark tunnel.~
+   The tunnel bends sharply to the south here. The dust still covers everything
+in a thick blanket. There is a light coming from your south, the first reprieve
+from the darkness for a long way.
+~
+170 9 0 0 0 0 255 0
+D2
+There is a lit room to your south.
+~
+~
+0 0 17123
+D3
+There is another bend in the corridor to your west.
+~
+~
+0 0 17121
+S
+#17123
+The end of the tunnel.~
+   You have come to the end of the tunnel. There is little dust on the floor
+here and the dust that is here has large footprints all over it. You wonder
+what lives here.
+~
+170 8 0 0 0 0 255 0
+D0
+To the north there is a bend in a dark corridor.
+~
+~
+0 0 17122
+E
+footprints~
+The footprints look very large, and in a way fresh. You think that it might
+be wise to leace this place as quick as possible.
+~
+S
+#17124
+A junction in the catacombs.~
+   From this point in the tunnels you can go either north, south, east or west.
+A thick layer of dust still blankets everything and there is no sign of life.
+~
+170 9 0 0 0 0 255 0
+D0
+A tunnel heads off to the north.
+~
+~
+0 0 17135
+D1
+There is another junction to your east.
+~
+~
+0 0 17118
+D2
+There is another tunnel heading off to the south.
+~
+~
+0 0 17125
+D3
+To your west there is a small cavern.
+~
+~
+0 0 17142
+S
+#17125
+A dark tunnel.~
+   You are in a dark tunnel heading north-south. The dust is still all around
+and the air very still.
+~
+170 9 0 0 0 0 255 0
+D0
+There is an intersection to your north.
+~
+~
+0 0 17124
+D2
+To your south there is a bend in the corridor.
+~
+~
+0 0 17126
+S
+#17126
+A bend in the dark tunnel.~
+   The tunnel bends sharply to the east here. There is dust everywhere and no
+discernible movement in the air. Your only other exit is to the north.
+~
+170 9 0 0 0 0 255 0
+D0
+The dark tunnel continues to your north.
+~
+~
+0 0 17125
+D1
+There is another junction to your east.
+~
+~
+0 0 17127
+S
+#17127
+A junction in the darkness.~
+   You have reached yet another of these underground junctions. From here the
+tunnels lead east, south and west. You are starting to feel as though you are
+wandering in circles.
+~
+170 9 0 0 0 0 255 0
+D1
+To your east there is a dark tunnel.
+~
+~
+0 0 17116
+D2
+The tunnel comes to an end to your south.
+~
+~
+0 0 17128
+D3
+To your west there is a bend in the tunnel.
+~
+~
+0 0 17126
+S
+#17128
+The end of the tunnel.~
+   At this point the tunnel comes to a dead end. The walls which surround you
+three sides are somewhat cracked and you dont think that this spot is very safe
+at all. The only way out of here is back to the north.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a junction to your north.
+~
+~
+0 0 17127
+D2
+You see some cracks in the wall and wonder if there may be a door there.
+~
+wall door south~
+2 17013 17129
+E
+cracks~
+The cracks in the south wall seem to form the outline of a door, and there is
+a small hole in the same wall.
+~
+S
+#17129
+Through the concealed door.~
+   As you step through the door the very wall behind you seems to solidify. It
+is as though you have stepped through a portal. The only way to go now is
+forward to the east and to wherever that may lead you.
+~
+170 8 0 0 0 0 255 0
+D1
+There is a corridor heading off to the east.
+~
+~
+0 0 17130
+S
+#17130
+In the bright corridor.~
+   The lit corridor continues east-west here.
+~
+170 8 0 0 0 0 255 0
+D1
+There is a bend in the corridor to your east.
+~
+~
+0 0 17131
+D3
+The corridor comes to a dead end to your west.
+~
+~
+0 0 17129
+S
+#17131
+A bend in the bright corridor.~
+   At this point the corridor bends sharply to the south. There is no dust in
+this area and it seems remarkably clean. A corridor heads off to the west.
+~
+170 8 0 0 0 0 255 0
+D2
+There is a dead end to your south.
+~
+~
+0 0 17132
+D3
+The corridor heads off to your west.
+~
+~
+0 0 17130
+S
+#17132
+The end of the bright corridor.~
+   You have reached the end of the bright corridor. You can feel a presence
+here as though something lives here, although, as you look around you can't
+seem to see anything. The only exit is back to the north.
+~
+170 8 0 0 0 0 255 0
+D0
+There is a bend in the corridor to your north.
+~
+~
+0 0 17131
+S
+#17133
+A dark tunnel.~
+   You are in another tunnel where the very walls seem to absorb your lights.
+The tunnel continues to your west and there is a junction to your east.
+~
+170 9 0 0 0 0 255 0
+D1
+There is a junction in the tunnels off to your east.
+~
+~
+0 0 17120
+D3
+The tunnels come to an end to your west.
+~
+~
+0 0 17134
+S
+#17134
+At the end of the dark tunnel.~
+   You have reached the end of the dark tunnel. From here your only exit is back
+to the east.
+~
+170 9 0 0 0 0 255 0
+D1
+The dark tunnel stretches off to the east.
+~
+~
+0 0 17133
+S
+#17135
+A bend in the dark tunnel.~
+   You are in another tunnel where the very walls seem to absorb your lights.
+At this point the tunnel bends to the west and heads off to the south.
+~
+170 9 0 0 0 0 255 0
+D2
+To the south there is an intersection.
+~
+~
+0 0 17124
+D3
+To the west the dark tunnel continues.
+~
+~
+0 0 17136
+S
+#17136
+A dark tunnel.~
+   You are in another tunnel where the very walls seem to absorb your lights.
+To your west the tunnel bends north and to the east it bends south.
+~
+170 9 0 0 0 0 255 0
+D1
+To your east the tunnel bends south.
+~
+~
+0 0 17135
+D3
+To your west the tunnel bends to the north.
+~
+~
+0 0 17137
+S
+#17137
+A bend in the dark tunnel.~
+   You are in another tunnel where the very walls seem to absorb your lights.
+At this point the tunnel bends to the north and heads off to the east.
+~
+170 9 0 0 0 0 255 0
+D0
+To your north the tunnel approaches a door.
+~
+~
+0 0 17138
+D1
+The dark tunnel heads off to the east.
+~
+~
+0 0 17136
+S
+#17138
+At the silver door.~
+   Before you stands an impressive looking silver door. It looks quite strong
+and you cant help but wonder what lies behind it. The only other exit other
+than through the door to your north is back down the dark corridor to your
+south.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a door barring your way northwards.
+~
+door great silver north~
+2 17014 17139
+D2
+To your south is a dark corridor.
+~
+~
+0 0 17137
+E
+door~
+The door is very large and strong. It looks as though it is made of silver,
+although it appears to have a strength far greater than that you would normally
+expect from silver.
+~
+S
+#17139
+The bright corridor.~
+   You are in a well lit corridor just to the north of a massive silver door.
+The corridor heads off to the east into the unknown.
+~
+170 8 0 0 0 0 255 0
+D1
+To the east the corridor stretches before you.
+~
+~
+0 0 17140
+D2
+There is a massive silver door blocking your way southwards.
+~
+door silver massive south~
+2 17014 17138
+E
+door~
+The door is very large and strong. It looks as though it is made of silver,
+although it appears to have a strength far greater than that you would normally
+expect from silver.
+~
+S
+#17140
+Along the bright corridor.~
+   You are in a well lit corridor just to the north of a massive silver door.
+The corridor heads off to the east where it reaches a dead and and back to the
+west where it reaches a great silver door.
+~
+170 8 0 0 0 0 255 0
+D1
+The corridor comes to a dead end to the east.
+~
+~
+0 0 17141
+D3
+To the west the corridor reaches a great silver door.
+~
+~
+0 0 17139
+S
+#17141
+The end of the bright corridor.~
+   At this end of the bright corridor you have stumbled across the lair of some
+sort of large creature. The air here is quite a bit warmer than that of the
+rest of the tunnels. The only way out of here is back towards the door to your
+west, your instincts tell you that that is where you should go, and quick!
+~
+170 8 0 0 0 0 255 0
+D3
+To your west the corridor heads off towards a large silver door.
+~
+~
+0 0 17140
+S
+#17142
+The Cavern.~
+   This large cavern does not look natural. There are discernible hammer and
+chisel marks on the wall and the floor is intricately tiled. The cavern
+extends to your west and south, while to the east there is a junction in the
+tunnels.
+~
+170 9 0 0 0 0 255 0
+D1
+There is an intersection in the tunnels to your east.
+~
+~
+0 0 17124
+D2
+The cavern extends to your south.
+~
+~
+0 0 17143
+D3
+The cavern extends to your west.
+~
+~
+0 0 17144
+E
+tiles floor~
+The mosaic on the floor seems to depict a large battle between the forces of
+good and evil. The centrepiece of the mosaic is an enormous winged demonic
+creature, surrounded by writhing flames. He seems to be directing the battle
+and there are many corpses surrounding him.
+~
+S
+#17143
+The Cavern.~
+   This large cavern does not look natural. There are discernible hammer and
+chisel marks on the wall and the floor is intricately tiled. The cavern
+extends to your north and west.
+~
+170 9 0 0 0 0 255 0
+D0
+The cavern extends to your north.
+~
+~
+0 0 17142
+D3
+The cavern continues to your west.
+~
+~
+0 0 17145
+E
+tiles floor~
+The mosaic on the floor seems to depict a large battle between the forces of
+good and evil. The centrepiece of the mosaic is an enormous winged demonic
+creature, surrounded by writhing flames. He seems to be directing the battle
+and there are many corpses surrounding him.
+~
+S
+#17144
+The Cavern.~
+   This large cavern does not look natural. There are discernible hammer and
+chisel marks on the wall and the floor is intricately tiled. The cavern
+extends to your east and south.
+~
+170 9 0 0 0 0 255 0
+D1
+The cavern extends to your east.
+~
+~
+0 0 17142
+D2
+The cavern extends to your south.
+~
+~
+0 0 17145
+E
+tiles floor~
+The mosaic on the floor seems to depict a large battle between the forces of
+good and evil. The centrepiece of the mosaic is an enormous winged demonic
+creature, surrounded by writhing flames. He seems to be directing the battle
+and there are many corpses surrounding him.
+~
+S
+#17145
+The Cavern.~
+   This large cavern does not look natural. There are discernible hammer and
+chisel marks on the wall and the floor is intricately tiled. The cavern
+extends to your north and east, while to the west and south it heads off into
+dark corridors.
+~
+170 9 0 0 0 0 255 0
+D0
+The cavern extends to your north.
+~
+~
+0 0 17144
+D1
+To your east the cavern continues.
+~
+~
+0 0 17143
+D2
+There is a corridor heading out to the south.
+~
+~
+0 0 17146
+D3
+There is a corridor heading off to your west.
+~
+~
+0 0 17156
+E
+tiles floor~
+The mosaic on the floor seems to depict a large battle between the forces of
+good and evil. The centrepiece of the mosaic is an enormous winged demonic
+creature, surrounded by writhing flames. He seems to be directing the battle
+and there are many corpses surrounding him.
+~
+S
+#17146
+The dark tunnel.~
+   You are in a dark tunnel which leads away from the cavern. To the south it
+makes a sharp turn westwards.
+~
+170 9 0 0 0 0 255 0
+D0
+There is a large cavern to your north.
+~
+~
+0 0 17145
+D2
+To your south the tunnel makes a sharp turn to the west.
+~
+~
+0 0 17147
+S
+#17147
+The winding tunnel.~
+   At this point the tunnel starts to wind greatly. There is an exit north
+heading towards a large cavern. The only other way out is down the corridor
+to the west.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel heads northwards towards a large cavern.
+~
+~
+0 0 17146
+D3
+The tunnel winds its way westwards.
+~
+~
+0 0 17148
+S
+#17148
+The winding tunnel.~
+   The tunnel continues to wind its way roughly south-west at this point. The
+only exits are to your east and south.
+~
+170 9 0 0 0 0 255 0
+D1
+The tunnel winds its way to the east.
+~
+~
+0 0 17147
+D2
+The tunnel winds its way southwards.
+~
+~
+0 0 17149
+S
+#17149
+The winding tunnel.~
+   The tunnel continues to wind its way roughly south-west at this point. The
+only exits are to your north and west.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel continues to wind northwards.
+~
+~
+0 0 17148
+D3
+The tunnel winds its way westwards.
+~
+~
+0 0 17150
+S
+#17150
+The winding tunnel.~
+   The tunnel continues to wind its way roughly south-west at this point. The
+only exits are to your east and south.
+~
+170 9 0 0 0 0 255 0
+D1
+The tunnel continues to wind its way eastwards.
+~
+~
+0 0 17149
+D2
+To your south is the end of the tunnel, and a large steel door.
+~
+~
+0 0 17151
+S
+#17151
+The end of the winding tunnel.~
+   You have come to the end of the winding tunnel. There is a large steel door
+on the western wall. The only exits are to the west throught the door and back
+to the north up the tunnel.
+~
+170 9 0 0 0 0 255 0
+D0
+The tunnel winds its way northwards from here.
+~
+~
+0 0 17150
+D3
+A large steel door blocks your way westwards.
+~
+door steel large west~
+2 17015 17152
+E
+door steel large~
+The door is very large, at least 12 feet high and is made of solid steel. It
+looks very strong and you dont think that there is any way you could knock it
+down.
+~
+S
+#17152
+At the crossroads.~
+   You are at a crossroads, just through a large steel door. There are exits in
+all four cardinal directions, that to the west is through a large steel door.
+This part of the tunnels is well lit and you have a little trouble adjusting to
+the sudden brightness.
+~
+170 8 0 0 0 0 255 0
+D0
+To your north is a guardians room.
+~
+~
+0 0 17153
+D1
+To your east there is a large steel door.
+~
+door steel large east~
+2 17015 17151
+D2
+To your north is a guardians room.
+~
+~
+0 0 17155
+D3
+To your west is a guardians room.
+~
+~
+0 0 17154
+E
+door steel large~
+The door is very large, at least 12 feet high and is made of solid steel. It
+looks very strong and you dont think that there is any way you could knock it
+down.
+~
+S
+#17153
+The guardians room.~
+   This room is the home to a large stone guardian. The only way out of this
+room is back to the south from whence you came.
+~
+170 8 0 0 0 0 255 0
+D2
+There is a crossroads to your south.
+~
+~
+0 0 17152
+S
+#17154
+The guardians room.~
+   This room is the home to a large stone guardian. The only way out of this
+room is back to the east from whence you came.
+~
+170 8 0 0 0 0 255 0
+D1
+There is a crossroads to your east.
+~
+~
+0 0 17152
+S
+#17155
+The guardians room.~
+   This room is the home to a large stone guardian. The only way out of this
+room is back to the north from whence you came.
+~
+170 8 0 0 0 0 255 0
+D0
+There is a crossroads to your north.
+~
+~
+0 0 17152
+S
+#17156
+Before the electrum door.~
+   Before you stands an electrum door with a large keyhole in it. The only exits
+from this room are to the west through the door and back into the cavern to the
+east.
+~
+170 9 0 0 0 0 255 0
+D1
+To the east is a large cavern.
+~
+~
+0 0 17145
+D3
+To the east is a large electrum door.
+~
+door electrum west~
+2 17016 17157
+E
+keyhole~
+You look through the keyhole but all you can see is darkness.
+~
+E
+door electrum~
+The door is made of an electrum alloy and looks like it has stood the test of
+time.
+~
+S
+#17157
+Between the doors.~
+   You are in a short corridor between a couple of doors. To your east is an
+electrum door and off to your west there is a door seemingly made of gold.
+~
+170 8 0 0 0 0 255 0
+D1
+There is an electrum door blocking your way eastwards.
+~
+door electrum east~
+2 17016 17156
+D3
+Down the corridor to your west there is a golden door.
+~
+~
+0 0 17158
+E
+door electrum~
+The door is made of an electrum alloy and looks like it has stood the test of
+time.
+~
+S
+#17158
+Between the doors.~
+   You are in a short corridor between a couple of doors. Off to your east is an
+electrum door and to your west there is a door seemingly made of gold.
+~
+170 8 0 0 0 0 255 0
+D1
+Down the corridor to your east there is an electrum door.
+~
+~
+0 0 17157
+D3
+To your west there is a door made of gold.
+~
+door golden west~
+2 17017 17159
+E
+door golden~
+The door looks like it is made of gold but isn't as weak as you would expect
+from that metal.
+~
+S
+#17159
+Between the doors.~
+   You are in a short corridor between a couple of doors. Off to your east is a
+golden door and to your west there is a corridor heading towards a platinum
+doorway.
+~
+170 8 0 0 0 0 255 0
+D1
+To your east is a door made of gold.
+~
+door golden east~
+2 17017 17158
+D3
+Down a corridor to your west there is a door made of platinum.
+~
+~
+0 0 17160
+E
+door golden~
+The door looks like it is made of gold but isn't as weak as you would expect
+from that metal.
+~
+S
+#17160
+Between the doors.~
+   You are in a short corridor between a couple of doors. Off to your east is a
+golden door and to your west there is a platinum door.
+~
+170 8 0 0 0 0 255 0
+D1
+The corridor heads off to your west towards a golden door.
+~
+~
+0 0 17159
+D3
+There is a platinum door blocking your way westwards.
+~
+door west platinum~
+2 17018 17161
+E
+door platinum~
+The door is made of platinum and isd extremely strong. You stand in awe at the
+base of its 20 feet of height.
+~
+S
+#17161
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. There is a platinum door blocking
+your way eastwards and there is a small corridor heading off to your west.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17162
+D1
+There is a platinum door blocking your way eastwards.
+~
+door platinum east~
+2 17018 17160
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17174
+D3
+There is a corridor heading off to your west.
+~
+~
+0 0 17169
+E
+door platinum~
+The door is made of platinum and isd extremely strong. You stand in awe at the
+base of its 20 feet of height.
+~
+S
+#17162
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17163
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17161
+S
+#17163
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17164
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17162
+S
+#17164
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17165
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17163
+S
+#17165
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17166
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17164
+S
+#17166
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17167
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17165
+S
+#17167
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17168
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17166
+S
+#17168
+At the end of the long corridor.~
+   You have reached an end of the long corridor. There is a large stone door
+to your north and the corridor extends off to the south.
+~
+170 8 0 0 0 0 255 0
+D0
+A large stone door blocks your way northwards.
+~
+door stone large~
+2 0 -1
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17167
+E
+door stone large~
+The door is very large and intricately carved. Wherever it leads must be a
+very perilous place indeed as it seems to have been completely sealed.
+~
+S
+#17169
+The warm corridor.~
+   This corridor is very warm. You must be approaching a source of considerable
+heat. You feel a little bit tentative about continuing onwards. Back to your
+east there is a long corridor and a huge platinum door and to your west is a
+turn in the corridor.
+~
+170 8 0 0 0 0 255 0
+D1
+To your east is another corridor and a large platinum door.
+~
+~
+0 0 17161
+D3
+There is a bend in the warm corridor to your west.
+~
+~
+0 0 17170
+S
+#17170
+A bend in the warm corridor.~
+   The warm corridor takes a sharp bend northwards here. The only exits are to
+your east, back towards the platinum door and to your north there is a bridge
+over a deep chasm.
+~
+170 8 0 0 0 0 255 0
+D0
+To your north you see a bridge, there appears to be a bonfire on it.
+~
+~
+0 0 17171
+D1
+To your east the warm corridor continues towards a platinum door.
+~
+~
+0 0 17169
+S
+#17171
+The Bridge of Khazad-Dum.~
+   As you approach the bridge the very rock you stand on seems to give way
+before you.  Only a thin sliver of rock spans the chasm and there is a pillar
+of flame in the middle of it.  The bridge across the chasm looks unnaturally
+sturdy given that it is merely 3 feet wide and you doubt if it is a foot in
+thickness.  On either side of the bridge the dark chasm looms ominously.    
+~
+170 8 2 0 0 0 255 0
+D0
+There is a bend in the corridor to the north.
+~
+~
+0 0 17172
+D1
+To your east is the Chasm.
+~
+~
+0 0 17178
+D2
+To your south there is a bend in the corridor.
+~
+~
+0 0 17170
+D3
+To your west is the Chasm.
+~
+~
+0 0 17178
+S
+#17172
+A bend in the warm corridor.~
+   The warm corridor bends south towards the bridge and east towards a dead end.
+You can't understand why the area is so strong.
+~
+170 8 0 0 0 0 255 0
+D1
+There is a dead end off to your east.
+~
+~
+0 0 17173
+D2
+To your south is a bridge with a writhing pillar of flame in the middle.
+~
+~
+0 0 17171
+S
+#17173
+At the end of the warm corridor.~
+   The warm corridor comes to an end here. It appears that there are no exits
+save the way you came.
+~
+170 8 0 0 0 0 255 0
+D3
+To your west is a bend in the warm corridor.
+~
+~
+0 0 17172
+S
+#17174
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17161
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17175
+S
+#17175
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17174
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17176
+S
+#17176
+In the long corridor.~
+   You are in a long, well lit corridor. As you cast your eyes down it you see
+a large door blocking the way at either end. You can go either north or south
+from here.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17175
+D2
+The corridor heads off to the south, towards a large door.
+~
+~
+0 0 17177
+S
+#17177
+At the end of the long corridor.~
+   You have reached an end of the long corridor. There is a large stone door
+to your south and the corridor extends off to the north.
+~
+170 8 0 0 0 0 255 0
+D0
+The corridor heads off to the north, towards a large door.
+~
+~
+0 0 17176
+D2
+There is a large stone door blocking your way southwards.
+~
+door stone large~
+2 0 -1
+E
+door stone large~
+The door is very large and intricately carved. Wherever it leads must be a
+very perilous place indeed,as the door seems to have been completely sealed.
+~
+S
+#17178
+The Chasm of Khazad-Dum.~
+   Maybe it wasn't such a bright idea walking off the side of the bridge after
+all. You fall...
+        and fall...
+           and fall...
+              and fall...
+
+
+Ages later you hit a great pool of water at the bottom. Unfortunately your
+body can't withstand the impact.
+~
+170 3 0 0 0 0 255 0
+D0
+The Chasm of Khazad-Dum is to your north.
+~
+~
+0 0 17178
+D1
+The Chasm of Khazad-Dum is to your east.
+~
+~
+0 0 17178
+D2
+The Chasm of Khazad-Dum is to your south.
+~
+~
+0 0 17178
+D3
+The Chasm of Khazad-Dum is to your west.
+~
+~
+0 0 17178
+S
+$~

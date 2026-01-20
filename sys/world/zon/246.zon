@@ -1,0 +1,60 @@
+#246
+Ancalador (level 15-30)~
+24699 30 2 0
+O 0 24614 10 24623   
+P 1 24621 10 24614   * Put : a rusty dagger
+P 1 24624 10 24614   * Put : a &09green flamed&00 torch
+O 1 24625 10 24623   
+M 0 24611 5 24623    * Mob : the &10yellow crystal spider&00
+M 0 24610 5 24623    * Mob : the &09green crystal spider&00
+O 0 24607 5 24651    
+M 0 24615 3 24651    * Mob : the necromancer
+E 1 24620 10 19      * Eqp : a grave beater
+G 1 24605 3 -1       * Give: a skeleton key
+O 0 24602 1 24646    
+P 1 24603 5 24602    * Put : a tonic of comfrey root
+P 1 24604 5 24602    * Put : an elixir of Adder's Tongue
+D 0 24646 3 1        
+D 0 24652 3 1        
+M 0 24615 3 24652    * Mob : the necromancer
+E 1 24620 10 19      * Eqp : a grave beater
+G 1 24619 10 -1      * Give: the embalmed flesh
+M 0 24615 3 24648    * Mob : the necromancer
+E 1 24620 10 19      * Eqp : a grave beater
+G 1 24601 10 -1      * Give: a chalice
+M 0 24614 6 24641    * Mob : the ochre jelly
+G 1 24622 10 -1      * Give: a puce potion
+G 1 24622 10 -1      * Give: a puce potion
+M 0 24614 6 24641    * Mob : the ochre jelly
+G 1 24621 10 -1      * Give: a rusty dagger
+M 0 24614 6 24638    * Mob : the ochre jelly
+G 1 24617 10 -1      * Give: some shabby mail
+M 0 24614 6 24637    * Mob : the ochre jelly
+G 1 24622 10 -1      * Give: a puce potion
+M 0 24614 6 24634    * Mob : the ochre jelly
+G 1 24623 10 -1      * Give: a large, shiny shield
+M 0 24614 6 24630    * Mob : the ochre jelly
+G 1 24621 10 -1      * Give: a rusty dagger
+M 0 24610 5 24619    * Mob : the &09green crystal spider&00
+G 1 24616 10 -1      * Give: a minstrel's glove
+M 0 24612 1 24626    * Mob : the Petrified Warden
+E 1 24615 10 19      * Eqp : a guisarme
+G 1 24618 3 -1       * Give: a granite key
+D 0 24626 1 2        
+M 0 24611 5 24626    * Mob : the &10yellow crystal spider&00
+D 0 24654 4 2        
+D 0 24653 5 2        
+D 0 24653 1 1        
+D 0 24647 1 1        
+D 0 24656 2 1        
+D 0 24656 3 2        
+D 0 24627 0 1        
+M 0 24611 5 24625    * Mob : the &10yellow crystal spider&00
+M 0 24610 5 24625    * Mob : the &09green crystal spider&00
+M 0 24611 5 24622    * Mob : the &10yellow crystal spider&00
+M 0 24611 5 24620    * Mob : the &10yellow crystal spider&00
+M 0 24611 5 24618    * Mob : the &10yellow crystal spider&00
+M 0 24610 5 24621    * Mob : the &09green crystal spider&00
+M 0 24610 5 24617    * Mob : the &09green crystal spider&00
+S
+$

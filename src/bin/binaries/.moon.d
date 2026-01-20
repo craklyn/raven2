@@ -1,0 +1,1 @@
+moon.o: moon.c

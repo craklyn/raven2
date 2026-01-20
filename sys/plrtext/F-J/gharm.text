@@ -1,0 +1,36 @@
+g c 'summon' dur
+corp get all all.corp
+r reelin
+h order fol kil $*
+ed c 'energy drain' $*
+silence c 'silenc' $*
+call c 'call to corpse' $*
+bone c 'bone' $*
+rune c 'create ward'
+debil c 'debil' $*
+f scan
+cl clan &02$* &00
+drain c 'life drain' $*
+nox c 'nox' $*
+consume c 'consume' $*
+eb c 'embalm' $*
+cwho clanwho
+sp c 'soul pierce' $*
+blind c 'blind' $*
+sense c 'sense life' $*
+shield c 'shield' $*
+infra c 'infra' $*
+di c 'detect inv' $*
+invis c 'invis' $*
+summon c 'summon' $*
+charm c 'charm corpse' $*
+embalm c 'embalm' $*
+gt gt &02$* &00
+' say &02$* &00
+fly c 'fly' $*
+slow c 'slow' $*
+rp c 'resist p' $*
+j order fol rescue $*
+wraith c 'wraithform'
+entomb c 'entomb corp' $*
+t get corp

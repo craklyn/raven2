@@ -1,0 +1,5 @@
+wak wake ; stand
+sa say &10 $* &00
+bs cast 'barkskin' asher
+sh cast 'shield' asher
+gs gt &10 $* &00

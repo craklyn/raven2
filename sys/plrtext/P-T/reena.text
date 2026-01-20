@@ -1,0 +1,50 @@
+gt gt &07{&00&14$*&00 &07}&00
+1 look in corpse
+2 look in 2.corpse
+qw drink water
+bli cast 'blink'
+skin cast 'stoneskin' $*
+y cast 'wrath of the ancients'
+c cast 'doom bolt' $*
+fm cast 'feeblemind' $*
+shi cast 'shield' $*
+sand cast 'sand storm' $*
+v cast 'slow' $*
+port cast 'portal' $*
+slow cast 'slow' $*
+ts cast 'true sight' $*
+ele cast 'conjure elemental'
+ice cast 'ice storm' $*
+j jump $*
+6 get all all.reena
+loc cast 'locate object' $*
+mm cast 'magic missile' $*
+spr cast 'create spring'
+5 rec rec rec
+str cast 'strength' $*
+b cast 'blindness' $*
+fb cast 'flame blade' $*
+inv cast 'invisibility' $*
+sum cast 'summon' $*
+id cast 'identify' $*
+sleep cast 'sleep' $*
+sil cast 'silence' $*
+fly cast 'fly' $*
+cs clan &07*&14$*&00 &07*&00
+gg get all all.corpse
+h cast 'haste' $*
+0 recite elven $*
+z scan $*
+nex cast 'nexus' $*
+sk cast 'stoneskin' $*
+fw clanwho
+air cast 'airsphere' $*
+x cast 'life drain' $*
+ga cast 'gate'
+blk cast 'blink'
+fi cast 'fireball' $*
+ok order followers kill $*
+lic look in corp
+o order followers $*
+m cast 'doom bolt' 1.
+a assist glab

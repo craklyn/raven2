@@ -1,0 +1,50 @@
+ew enter well
+wa wake;stand
+bw c 'bone wall' $*
+h calm
+grp c 'resist poison' group
+gshie c 'shield' group
+gdi c 'detect invis' group
+gfly c 'fly' group
+exc c 'explode corpse' $*
+cw c 'create ward' $*
+em c 'embalm' $*
+nox c 'noxious skin' $*
+wak order fol wake;order fol stand
+consume c 'consume corpse' $*
+ld c 'life drain' $*
+cc c 'charm corpse' $*
+rune c 'create warding'
+entomb c 'entomb' $*
+deb c 'debilitate' $*
+sil c 'silence' $*
+age c 'age' $*
+sense c 'sense life' $*
+rp c 'resist poison' $*
+fly c 'fly' $*
+shie c 'shield' $*
+bl c 'blind' $*
+invis c 'invis' $*
+infra c 'infravision' $*
+di c 'detect invis' $*
+title title :: &09Wanderer&00
+rr rec rec rec scr
+sum c 'summon' $*
+gn n;c 'soul pierce' grim
+slow c 'slow' $*
+k order fol kill $*
+wf c 'wraithform' $*
+silence c 'silence' $*
+ed c 'energy drain' $*
+ec c 'entomb corpse' $*
+ge e;c 'soul pierce' grimlock
+gw w;c 'soul pierce' grim
+dr drink thimble
+ee e
+ww w
+curse c 'curse' $*
+poison c 'poison' $*
+disease c 'disease' $*
+f c 'soul pierce' $*
+cs c 'summon corpse' $*
+1 gt sum

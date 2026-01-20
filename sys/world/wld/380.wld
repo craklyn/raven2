@@ -1,0 +1,437 @@
+#38000
+The Warrior's Guild of Samsera~
+The Warrior's Guild of Samsera lies in the south-west quarter of the town's Guild Way.
+Features of the guild include:
+A Skill and Idea Board
+A Shopkeeper
+A Saving Armory
+A Regen and Rest Room
+3 individual SOUNDPROOF Prep rooms.
+The Grandmaster of Warriors.
+A Challenge Room and Board
+A Proving Arena.
+
+More features may be added in the future.
+
+Kurse, Aug'00
+~
+380 1024 0 0 0 0 255 0
+S
+#38001
+The Warrior's Guild~
+   Statues of warriors you have heard about only in legend continue to line the
+walls here.  As all warriors who have gone before seem to be depicted in this
+chamber, to the west is the Guild Proper, where from all future warlords shall
+be born.    
+~
+380 1081864 0 0 0 0 0 0
+D0
+To the north stands the impressive guild guard and the streets of Samsera.
+~
+~
+0 0 18104
+D3
+~
+~
+0 0 38002
+S
+#38002
+The Path of the Fighter~
+   You stand in what would be considered the 'front' of the guildhall, where
+all warriors, friends or foes must pass one another to gain entry or exit.  It
+is here that the warrior's guild often holds meetings to discuss the state of
+affairs in their ranks, and make suggestions to improve the strength of their
+membership.  A large bulletin board hangs on the north wall here, covered in
+ideas on their Class.    
+~
+380 33288 0 0 0 0 255 0
+D1
+~
+~
+0 0 38001
+D2
+~
+~
+0 0 38004
+S
+#38003
+The Armory~
+   Inch thick walls of steel protect the contents of this airtight, fire, and
+magicproof vault.  Outsourced to the Guild of Mages to construct before the
+great Upheaval, this armory magically protects the most rare and powerful items
+left here by adventuring warriors.  It is used by the guild as a give and take
+system, allowing anyone to take its contents in a first-come first-serve
+manner, but with the hope that useful artifacts will be left here as well if
+not needed.    
+~
+380 1088008 0 0 0 0 0 0
+D3
+A large steel door in the west wall can seal the vault from all intruders.
+~
+steel door vault~
+1 0 38004
+S
+#38004
+Hall of the Blade~
+   You walk the square main hall of the Warrior's guild, where many fighters of
+different Races stand about.  Race and alignment are put aside in this place in
+deference to the power and teachings of the Guild itself.  While there still
+are arguments and fights that often break out, the more honorable set their
+prejudices aside to learn the ways of combat.    
+To the west is the guild shopkeep, who keeps warriors well equipped for
+a reasonable price. A steel door protects the Guild Armory to the east.
+~
+380 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38002
+D1
+A large steel door in the east wall protects the guild armory.
+~
+steel door vault~
+1 0 38003
+D2
+~
+~
+0 0 38007
+D3
+~
+~
+0 0 38005
+S
+#38005
+The Fighter's Shop~
+   Contributions from traveling adventurers and the guild blacksmith have
+turned this once meager shop into an impressive outfitter for the beginning
+warrior.  Suits of chainmail, shields, and assorted weaponry are hung along the
+walls.  Behind a glass cabinet filled with dagger and other smaller weapons of
+destruction, stands the shopkeeper.    
+~
+380 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38004
+S
+#38006
+The Practice Arena~
+   The only way to become better at battle is to experience it.  While not a
+perfect substitute, this practice arena can give students a good base of skills
+to draw upon.  Warriors of all skill levels train other in their skills, but
+there is no substitute for the feel of battle, eventually you must go out and
+try your hand at it.    
+~
+380 1081864 0 0 0 0 0 0
+D1
+More practice arenas are to the east.
+~
+arena door~
+1 -1 38009
+D3
+~
+~
+0 0 38007
+S
+#38007
+The Hall of Blades~
+   You stand in the main hallway of the Warrior's Guild, the centre of learning
+for fighters in Samsera.  Quite crowded with warriors from all over the realms,
+you peer about and spot the Guildmaster and Practice Arena to the east.  To the
+west lies the infirmary, where many go to rest and heal their wounds.    
+~
+380 1081864 0 0 0 0 0 0
+D0
+~
+~
+0 0 38004
+D1
+   To the east lies the Guildmaster's chamber.  The guildmaster is in charge of
+all training here in Samsera.    
+~
+~
+0 0 38006
+D3
+You see the infirmary, where many wounder lie resting.
+~
+~
+0 0 38008
+S
+#38008
+The Infirmary~
+   Scores of cots and stretchers sit in the infirmary, the place where those
+warriors injured in battle, plagued, or hurt in some other way, come to
+recuperate.  Two attendants rush about the room applying bandages and stitching
+wounds (rather sloppily).  Obviously, you want to spend as little time in here
+as possible.    
+~
+380 1344008 0 0 0 0 0 0
+D1
+~
+~
+0 0 38007
+S
+#38009
+Practice Arena - Swords and Axes~
+   Though many warriors prefer non-conventional weaponry, the standard of
+combat is the sword, the axe being a close second.  A warrior must learn to
+handle these dangerous weapons without thinking for their own and others
+safety.  Through much practice, a warrior will learn to make the blade an
+extension of themself.  Such more advanced skills as parry and riposte, thrust
+and disarm, will become reflexive over time.    
+~
+380 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38010
+D3
+The guildmaster shall appraise your abilities to the west.
+~
+arena door~
+1 -1 38006
+S
+#38010
+Practice Arena - Flails, Whips, and Blunt Weaponry~
+   Another sphere of weaponry are those of blunt design, used to crush,
+entangle, and whip, instead of slice and dismember.  Nets, flails, whips,
+mauls, hammers, maces, and morning stars are all types of blunt weaponry..  
+Each with a slightly different use.  Blunt weaponry such as mauls and hammers
+are usually preferred by the stronger races like Ogre and Troll.    
+~
+380 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38011
+D3
+~
+~
+0 0 38009
+S
+#38011
+Practice Arena - Polearms~
+   A weapon commonly overlooked is the polearm.  While ineffective at close
+range, a competent warrior equipped with a polearm can be a deadly opponent
+with a defensive advantage.  Pikes, awls, guisarme-voulges, and halberds are
+all variants on the same deadly design that allow the wielder to keep a healthy
+distance between them and an opponent while still being able to do a great deal
+of harm.    
+~
+380 1081864 0 0 0 0 0 0
+D1
+~
+~
+0 0 38012
+D3
+~
+~
+0 0 38010
+S
+#38012
+Practice Arena - Bows and Crossbows~
+   While warriors prefer close combat, there are still situations in which the
+use of a ranged weapon is quite useful.  This arena schools warriors on proper
+use of strung weaponry and how to quickly and accurately target with them.    
+~
+380 1081864 0 0 0 0 0 0
+D3
+~
+~
+0 0 38011
+S
+#38013
+The Chamber of Conquest~
+   Each guild of the land is said to have a Master, one that has proven
+themselves to be the most capable in combat by using their strength and wits.
+Of the warriors, there is only one who rightfully wears the title of Guild
+Warlord.  To denote their position in the guild, the Warlord is orbitted by a
+magical Icon.  If defeated in combat, the title 'Guild Warlord' as well as the
+Icon of the Warlord must be relinquished honorably to the successor.    
+~
+380 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 38007
+D2
+Behind steel doors lies the Arena of Challenge .
+~
+doors steel~
+1 -1 38014
+S
+#38014
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+~
+380 1049224 0 0 0 0 0 0
+D0
+These doors lead back outside the challenge arena.
+~
+doors steel~
+1 -1 38013
+D1
+~
+~
+0 0 38016
+D2
+~
+~
+0 0 38018
+D3
+~
+~
+0 0 38015
+S
+#38015
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+~
+380 1049224 0 0 0 0 0 0
+D1
+~
+~
+0 0 38014
+D2
+~
+~
+0 0 38017
+S
+#38016
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+~
+380 1049224 0 0 0 0 0 0
+D2
+~
+~
+0 0 38019
+D3
+~
+~
+0 0 38014
+S
+#38017
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+~
+380 1049224 0 0 0 0 0 0
+D0
+~
+~
+0 0 38015
+D1
+~
+~
+0 0 38018
+D2
+~
+~
+0 0 38020
+S
+#38018
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+This is the center of the arena.
+~
+380 1049224 0 0 0 0 0 0
+D0
+~
+~
+0 0 38014
+D1
+~
+~
+0 0 38019
+D2
+~
+~
+0 0 38021
+D3
+~
+~
+0 0 38017
+S
+#38019
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+~
+380 1049224 0 0 0 0 0 0
+D0
+~
+~
+0 0 38016
+D2
+~
+~
+0 0 38022
+D3
+~
+~
+0 0 38018
+S
+#38020
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+~
+380 1049224 0 0 0 0 0 0
+D0
+~
+~
+0 0 38017
+D1
+~
+~
+0 0 38021
+S
+#38021
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+~
+380 1049224 0 0 0 0 0 0
+D0
+~
+~
+0 0 38018
+D1
+~
+~
+0 0 38022
+D3
+~
+~
+0 0 38020
+S
+#38022
+The Arena of Conquest~
+   The arena is a square battlefield filled with obstacles that both warriors
+must be able to use to their advantage.  Two men enter, and only the Warlord
+shall emerge.  A corpse shall be proof of the fallen.    
+~
+380 1049224 0 0 0 0 0 0
+D0
+~
+~
+0 0 38019
+D3
+~
+~
+0 0 38021
+S
+$~

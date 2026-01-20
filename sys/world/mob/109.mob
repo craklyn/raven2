@@ -1,0 +1,80 @@
+#10901
+A T 0~
+worker ant~
+a Worker Ant~
+A worker ant moves around here...working.
+~
+The giant worker ant is about three feet long.  Other than that, it
+looks like any other ant you have ever seen.
+~
+16456 0 0 0 1024 0 0 0 500
+5 20 8 1d1+60 1d3+0
+35 40
+9 9 2 4 1 -1
+#10902
+A W 0~
+soldier ant~
+a Soldier Ant~
+A soldier ant stands here protecting the workers.
+~
+The giant soldier ant is almost four feet long with nasty looking
+mandibles.
+~
+72 0 0 0 0 0 0 0 500
+5 20 7 2d6+300 1d3+0
+35 40
+9 9 2 4 1 -1
+#10903
+A W 0~
+guardian ant~
+a Guardian Ant~
+A guardian ant stands here guarding the queen.
+~
+The guardian ant is nearly five feet long with REALLY nasty looking
+mandibles.
+~
+4170 0 0 0 0 0 0 0 500
+7 20 5 2d6+400 1d6+1
+35 40
+9 9 1 4 1 -1
+#10904
+A T 0~
+queen ant~
+the Queen Ant~
+The queen ant sits here laying eggs.
+~
+The queen ant is very big...close to six feet long.  Her bulky body
+is not built for fighting, but it may take a while to hack through it.
+~
+24650 0 0 0 128 0 0 0 0
+5 20 10 5d5+1500 1d6+1
+35 40
+6 9 2 4 -1 -1
+#10905
+A W 0~
+soldier ant~
+a Soldier Ant~
+A soldier ant stands here protecting the workers.
+~
+The giant soldier ant is almost four feet long with nasty looking
+mandibles.
+~
+74 0 0 0 0 0 0 0 0
+5 19 7 2d6+300 8d7+0
+35 40
+9 9 2 4 1 -1
+#10999
+A T 0~
+drone ant~
+a Drone Ant~
+A drone ant stands here in anticipation of his duties.
+~
+Created for only one purpose, this ant takes great pride and vigor in 
+completing his mission.  A faint smile lingers on his mandibles.
+
+~
+10 0 0 0 0 0 0 0 1000
+5 30 10 1d1+100 1d3+0
+35 40
+4 4 1 0 -1 -1
+$

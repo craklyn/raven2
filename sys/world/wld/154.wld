@@ -1,0 +1,1946 @@
+#15400
+A Fall to Bloody Death~
+   You're dead. R.I.P.
+~
+154 32774 0 0 0 1 255 0
+D4
+A graveyard.
+~
+~
+0 -1 15456
+S
+#15401
+Wharf~
+   This is the northern most wharf that connects directly to the waterfront.
+Far north you can see another wharf, but it is unreachable due to the cliffs.
+A huge three-masted ship rocks in the harbor on that northern dock, flying a 
+solid black flag.
+   South of here is a much smaller ship named "Rum Runner", sitting low in the
+water. Crew members are unloading crates from the ship. 
+~
+154 32768 8 0 0 1 255 0
+D0
+~
+~
+0 -1 3206
+D1
+The waterfront is east.
+~
+~
+0 -1 15405
+D2
+The "Rum Runner" is docked here, sitting low in the water.
+~
+~
+0 -1 15402
+S
+#15402
+"Rum Runner" Fore Deck~
+   This ship is little more than a merchant ship with a few ballista along
+each side. You cannot fathom how it could protect itself from the pirates
+that roam the ocean. Perhaps with its small size it can outrun any would-be
+villains. 
+   The deck is busy with seamen unloading crates from the cargo hold to the 
+wharf. 
+~
+154 32768 0 0 0 1 255 0
+D0
+The wharf is north.
+~
+~
+0 -1 15401
+D3
+The aft deck is west.
+~
+~
+0 -1 15403
+S
+#15403
+"Rum Runner" Aft Deck~
+   The aft section of the deck is slightly more crowded than the fore section.
+It seems to be in shambles. You wonder if the ship encountered bad weather
+on its trip to the port, or more likely pirates.
+   A set of narrow stairs lead down into the cargo hold.
+~
+154 32768 0 0 0 1 255 0
+D1
+The fore deck is east.
+~
+~
+0 -1 15402
+D5
+Stairs lead down into the cargo hold.
+~
+~
+0 -1 15404
+S
+#15404
+Cargo Hold~
+   Crates are piled ceiling high in here, obscuring most of the light. The
+boards below your feet creak with every step, making you wonder just how
+sturdy this ship is. You doubt it could make it through a serious attack
+by pirates.
+   Stairs lead up to the deck.
+~
+154 32777 0 0 0 0 255 0
+D4
+Stairs lead up to the deck.
+~
+~
+0 -1 15403
+S
+#15405
+Waterfront~
+   You have reached the northern end of the waterfront.  An ominous wall looms
+over you, preventing you from going any farther north.  A busy wharf with a 
+docked ship is to the west and a warehouse lies east.
+~
+154 32768 0 0 0 1 255 0
+D1
+A busy warehouse is to the east.
+~
+door warehouse~
+1 -1 15406
+D2
+The waterfront continues south.
+~
+~
+0 -1 15407
+D3
+A busy wharf lies west.
+~
+~
+0 -1 15401
+S
+#15406
+Warehouse~
+   The warehouse is almost completely empty at the moment, giving you the 
+impression that business is either very good or very bad.
+~
+154 32776 0 0 0 0 255 0
+D3
+The waterfront is west.
+~
+door warehouse~
+1 -1 15405
+S
+#15407
+Waterfront~
+   The waterfront is less crowded here, allowing you to take a deep breath
+and relax yourself. To the north and south the waterfront continues, crowded
+as ever, and a dark alley leads east.
+~
+154 32772 0 0 0 1 255 0
+D0
+The waterfront continues north.
+~
+~
+0 -1 15405
+D1
+A dark, narrow alley leads east.
+~
+~
+0 -1 15408
+D2
+The waterfront continues south.
+~
+~
+0 -1 15409
+S
+#15408
+Dark Alley~
+   This is a dark alley between the shops.  Here you grow cautious of what
+might lurk in the shadows.
+~
+154 32772 0 0 0 1 255 0
+D1
+The open market, teeming with people, lies east.
+~
+~
+0 -1 15426
+D3
+A waterfront is west.
+~
+~
+0 -1 15407
+S
+#15409
+Waterfront~
+   The waterfront continues north to south. There little change in the crowd
+or the scenery, although there is a towering warehouse to the east. It looks
+old, however, and very unused.
+~
+154 32768 0 0 0 1 255 0
+D0
+The waterfront continues north.
+~
+~
+0 -1 15407
+D1
+A warehouse stands to the east.
+~
+door warehouse~
+1 -1 15410
+D2
+The waterfront continues south.
+~
+~
+0 -1 15412
+S
+#15410
+Warehouse~
+    This place is dark and dusty and probably full of spiders, if not something
+worse. A thick layer of dust covers the floor and the few crates that have been
+left here. There is a marking on the crates in a foreign language, resembling
+a triangle with crossed swords.
+~
+154 32777 0 0 0 0 255 0
+D3
+~
+door warehouse~
+1 -1 15409
+S
+#15411
+Wharf~
+   The ocean stretches to the horizon on three sides of you. It is a beautiful
+view even with the dark silhouettes of ships on the horizon. In the distance
+is a ship apparently on fire. It casts a yellowish glow on the water, 
+resembling a morbid sunset. There doesn't seem to be anyone rushing to the aid
+of the ship, making you wonder how it got started in the first place. Suddenly
+you realize just how dangerous this city can be.
+~
+154 32768 0 0 0 1 255 0
+D1
+The waterfront lies east.
+~
+~
+0 -1 15412
+S
+#15412
+Waterfront~
+   This is a crossroads of sorts on the waterfront. The waterfront continues
+north and south, and a dark narrow alley leads east. A small, lonely wharf
+lies west.
+~
+154 32768 0 0 0 1 255 0
+D0
+The waterfront continues north.
+~
+~
+0 -1 15409
+D1
+A dark, narrow alley leads east.
+~
+~
+0 -1 15413
+D2
+The waterfront continues south.
+~
+~
+0 -1 15414
+D3
+A wharf is west.
+~
+~
+0 -1 15411
+S
+#15413
+Dark Alley~
+   This is a dark alley between the shops. Here you grow cautious of what
+might lurk in the shadows.
+~
+154 32772 0 0 0 1 255 0
+D1
+The open market, teeming with people, lies east.
+~
+~
+0 -1 15436
+D3
+A waterfront lies west.
+~
+~
+0 -1 15412
+S
+#15414
+Waterfront~
+   The crowd is considerably thicker here than before. The attraction seems
+to be the tavern to the east rather than the scenic view or even the few
+bodies that lie around. The sign above the tavern reads "Pirate's Fodder" and
+the odor coming from the doorway smells like its name. Inside there is either a
+rowdy party or massive brawl going on, or both perhaps. In this city the line 
+between the two are a little grey.
+   The waterfront continues south and north, where the crowd thins a little.
+~
+154 32768 0 0 0 2 255 0
+D0
+The waterfront continues north.
+~
+~
+0 -1 15412
+D1
+The Pirates' Fodder Tavern is to the east.
+~
+~
+0 -1 15415
+D2
+The waterfront continues south.
+~
+~
+0 -1 15418
+S
+#15415
+The Pirate's Fodder Tavern~
+   You have to squeeze by several people just to get in the doorway, and the 
+smell almost drives you out. It seems there has been some sort of dedicating
+contest, at least you hope that's not what the liquor smells like. The smell
+doesn't seem affect the tavern's popularity as every seat is taken and the
+floor is littered with inebriated bodies. Looking around you see that this 
+place is not only for drinking and the occasional defication. A knife throwing
+duel is taking place in one corner. In another you see a couple doing things
+they should do in private. Several eyes are fixed on you and your purse. But
+still, this place has a certain attraction. Perhaps it is the seediness.
+   There are exits to the waterfront west and south if you want to make your
+escape.
+~
+154 32908 0 0 0 0 255 0
+D1
+A door is almost hidden behind the bar.
+~
+door hidden~
+2 15410 15422
+D2
+The waterfront is south.
+~
+~
+0 -1 15419
+D3
+The waterfront is west.
+~
+~
+0 -1 15414
+S
+#15416
+Small Ship~
+   This is the smallest ship you've seen in the harbor. There are no 
+armaments that you can see. It seems an innocent little sailing ship, 
+almost recreational. You cannot fathom how it made it through the pirates 
+and weather to this place. It must have remarkable speed.
+~
+154 32772 0 0 0 1 255 0
+D2
+The wharf is south.
+~
+~
+0 -1 15417
+S
+#15417
+Wharf~
+   This wharf gives the same spectacular view of the ocean as the others 
+scattered around the waterfront. There is an small sailing ship docked on the
+north side of the wharf.
+~
+154 32768 0 0 0 1 255 0
+D0
+A small sailing ship is docked on the north side of the wharf.
+~
+~
+0 -1 15416
+D1
+The waterfront is east.
+~
+~
+0 -1 15418
+D3
+~
+~
+0 0 7908
+S
+#15418
+Waterfront~
+   You have reached a turn in the waterfront. From here it leads north and east
+as far as you can see, and the crowd continues in both directions. There are
+wharves to the west and south. The southern one is vacant, but a small ship is
+docked at the western wharf. A large building emits a questionable smell to
+the northeast, but there are no exits into it from here, which is probably
+better for your health.
+~
+154 33280 0 0 0 1 255 0
+D0
+The waterfront continues north.
+~
+~
+0 -1 15414
+D1
+The waterfront continues east.
+~
+~
+0 -1 15419
+D2
+A wharf is south.
+~
+~
+0 -1 15420
+D3
+A wharf is west.
+~
+~
+0 -1 15417
+S
+#15419
+Waterfront~
+   The crowd is thickest here. A steady stream of people flow into a building
+to the north, and a steady odor pours out. The noise level in the building must
+be as intolerable as the smell. You feel the claustrophobia out here. A crooked
+sign hangs over the doorway with a few missing letters, but you interpret it as
+the Pirate's Fodder Tavern, a fitting name.
+~
+154 32768 0 0 0 2 255 0
+D0
+The Pirates' Fodder Tavern is north.
+~
+~
+0 -1 15415
+D1
+The waterfront continues east.
+~
+~
+0 -1 15445
+D3
+The waterfront continues west.
+~
+~
+0 -1 15418
+S
+#15420
+Wharf~
+   The view here is spectacular. The ocean stretches to the west and to the
+south. To the east is a sturdy-looking ship with a great deal of activity
+on board 
+~
+154 32768 0 0 0 1 255 0
+D0
+The waterfront is north.
+~
+~
+0 -1 15418
+D1
+There's a ship with a rough-looking crew.
+~
+~
+0 -1 8208
+D5
+~
+~
+0 -1 -1
+S
+#15422
+Dark Office~
+   This place probably once resembled an office. There are the remains of a desk
+and chairs, but they have been pushed into the corner. The noise from the
+tavern is muffled here, so that you can actually think. A make-shift desk has
+been set up on the north wall, so there must be some sort of business conducted
+here. You are afraid to imagine what business that might be.
+   Rickety metal stairs lead down into the darkness.
+~
+154 32776 0 0 0 0 255 0
+D3
+A doorway leads west into the tavern.
+~
+door doorway~
+2 15410 15415
+S
+#15423
+Faligra's Magic Shop~
+   This place is decorated in bright colors to draw the shopper's attention.
+Shelves of potions and scrolls line the wall behind the counter, well out of
+reach of the customers. This store seems to be doing very well these days, as
+magic is one of the new fads of the wealthy.
+~
+154 32904 0 0 0 0 255 0
+D2
+The crowded open market is through the entrance to the south.
+~
+~
+0 -1 15427
+S
+#15424
+Narrow Path~
+   This is a dark path between two shops.  It curves east, where you see a
+faint glow of light.  The stronghold wall looms above you, blocking the way
+north.
+~
+154 32772 0 0 0 3 255 0
+D1
+A lighted entrance is east.
+~
+~
+0 -1 15425
+D2
+The crowded open market is south.
+~
+~
+0 -1 15428
+S
+#15425
+Before the Brothel~
+   A large two-story building stands before you, built into the wall itself.
+A glowing lantern hangs from a hook on either side of the door to the north.
+The glow from inside is warm and inviting. Giggles and murmurs come from just
+inside the doorway.
+~
+154 32768 0 0 0 1 255 0
+D0
+The brothel looks warm and inviting. Why not go inside?  They may have what you
+desire.
+~
+~
+0 -1 15472
+D3
+A narrow path leads west.
+~
+~
+0 -1 15424
+S
+#15426
+Open Market~
+   You are in the northwestern corner of the open market.  The constant bumping
+and pushing of the crowd makes walking slow and difficult.  The frenzy of trade
+continues to the south and east and a path to the waterfront leads west.
+~
+154 32768 0 0 0 4 255 0
+D1
+The open market, and the crowd, continues east.
+~
+~
+0 -1 15427
+D2
+The open market, and the crowd, continues south.
+~
+~
+0 -1 15431
+D3
+A dark alley leads west, where you hear the splash of waves.
+~
+~
+0 -1 15408
+S
+#15427
+Open Market~
+   The market is hot and crowded, and not without a few sharp elbows in the
+ribs. Several vendors stand around selling junk of some sort, trying to convince
+you that you can't live without whatever it is. A large building is north, with
+a painted sign reading "Faligra's Magic Shop".
+~
+154 32768 0 0 0 4 255 0
+D0
+Faligra's Magic Shop is north.
+~
+~
+0 -1 15423
+D1
+The open market, and the crowd, continues east.
+~
+~
+0 -1 15428
+D2
+The market center is south.
+~
+~
+0 -1 15432
+D3
+The open market, and the crowd, continues west.
+~
+~
+0 -1 15426
+S
+#15428
+Open Market~
+   You are growing weary of the jesting and rude comments of the people
+around you. The only hope of escape is a building to the east with a sign
+reading "Hammel's Exotic Foods". An inviting smell comes from within. A 
+narrow alley between two shops leads north, promising room to breathe.
+~
+154 32768 0 0 0 4 255 0
+D0
+A narrow path leads between two shops.
+~
+~
+0 -1 15424
+D1
+Hammel's Exotic Foods is east.
+~
+~
+0 -1 15429
+D2
+The open market, and the crowd, continues south.
+~
+~
+0 -1 15433
+D3
+The open market, and the crowd, continues west.
+~
+~
+0 -1 15427
+S
+#15429
+Hammel's Exotic Foods~
+   The sweet aroma of chocolate fills your nose as you enter. It is just as
+crowded in here as the open market, but you don't seem to mind as much. 
+Displays of sweets from countless lands line the walls.
+~
+154 32904 0 0 0 0 255 0
+D3
+The open market is west.
+~
+~
+0 -1 15428
+S
+#15430
+Jhovah's Armoury~
+   It is much cooler in here than in the open market, but still crowded. 
+Suits of mail of all types line the walls, and helmets are hung at every
+available opportunity. The display cases show off armor for every part of 
+the body.
+~
+154 32904 0 0 0 0 255 0
+D1
+The open market is east.
+~
+~
+0 -1 15431
+S
+#15431
+Open Market~
+   The crowd surrounds you like an ocean of sweat. The heat covers the
+crowd like a blanket, smothering everyone and everything. People brush 
+against you and into you then curse you for your carelessness. The only
+escape seems to be a large building to the west with a sign that says
+"Jhovah's Armoury".
+~
+154 32768 0 0 0 4 255 0
+D0
+The open market, and the crowd, continues north.
+~
+~
+0 -1 15426
+D1
+East is the market center.
+~
+~
+0 -1 15432
+D2
+The open market, and the crowd, continues south.
+~
+~
+0 -1 15436
+D3
+Jhovah's Armoury is west.
+~
+~
+0 -1 15430
+S
+#15432
+Market Center~
+   This is the center of the open market, and is the most crowded of the
+area. You have to wedge between people just to move, earning their curses.
+There is a foul mood about the crowd, and it all seems to be centered on you,
+or so you feel. A gallows occupies the center of the market, but even it
+cannot drive off the crowds. The noose sways in the wind.
+~
+154 32768 0 0 0 5 255 0
+D0
+The open market is north.
+~
+~
+0 -1 15427
+D1
+The open market is east.
+~
+~
+0 -1 15433
+D2
+The open market is south.
+~
+~
+0 -1 15437
+D3
+The open market is west.
+~
+~
+0 -1 15431
+S
+#15433
+Open Market~
+   The crowd is unbelievable. People are packed together so tightly that
+it is difficult to breathe, much less walk. There is no order to the madness
+before you that you can make out, just frenzied buying and selling. 
+   Seedy characters abound, skulking in the shadows, waiting for victims
+to wander within finger reach. You had better make sure your purse strings 
+are drawn tight before venturing into THIS crowd.
+~
+154 32768 0 0 0 4 255 0
+D0
+The open market, and the crowd, continues north.
+~
+~
+0 -1 15428
+D1
+The market entrance is east.
+~
+~
+0 -1 15434
+D2
+The open market, and the crowd, continues south.
+~
+~
+0 -1 15438
+D3
+The market center is west.
+~
+~
+0 -1 15432
+S
+#15434
+Inside the Gate~
+   This is a rather pleasant path between the front gate and the market.
+You can hear the din from the market ahead, but it doesn't seem to be too
+bad, perhaps a little more crowded than Midgaard's bazaar. The stroll is
+nice before your shopping begins. If only you could stop thinking of the
+body of those slain gate guard.
+~
+154 32772 0 0 0 1 255 0
+D1
+The front gate is east.
+~
+gate front~
+2 15414 15435
+D3
+The open market is west.
+~
+~
+0 -1 15433
+S
+#15435
+Front Gate~
+   An ornate gate interrupts the regularity of the wall that runs north to
+south here. The iron has been forged into shapes of ships and people and 
+swords. It would seem to tell a story if you stayed long enough to figure
+it out. The market inside calls you, however.
+~
+154 32768 0 0 0 1 255 0
+D0
+~
+~
+0 0 3569
+D1
+A shady trail through the forest leads east.
+~
+~
+0 -1 15497
+D3
+~
+gate front~
+2 15414 15434
+S
+#15436
+Open Market~
+   Just when you think the crowd will swallow you, there is escape.
+Dark alleys lead both west and south. They are a little dark and a little
+narrow for your taste, but they are preferable to your current situation.
+With caution you should have no trouble.
+~
+154 32768 0 0 0 4 255 0
+D0
+The open market, and the crowd, continues north.
+~
+~
+0 -1 15431
+D1
+The open market, and the crowd, continues east.
+~
+~
+0 -1 15437
+D2
+A dark, narrow alley leads south to the waterfront.
+~
+~
+0 -1 15441
+D3
+A dark, narrow alley leads west to the waterfront.
+~
+~
+0 -1 15413
+S
+#15437
+Open Market~
+   A break from the crowd beckons you southward, where a large building
+stands against the surrounding frenzy. A sign hangs above the doorway. It
+reads "Mahavy's Weapons".
+~
+154 32768 0 0 0 4 255 0
+D0
+The market center is north.
+~
+~
+0 -1 15432
+D1
+The open market, and the crowd, continues east.
+~
+~
+0 -1 15438
+D2
+Mahavy's Weapons is south.
+~
+~
+0 -1 15440
+D3
+The open market, and the crowd, continues west.
+~
+~
+0 -1 15436
+S
+#15438
+Open Market~
+   There are two possible escapes from the sweltering crowds. To the east
+is a small building with a sign declaring "Zephyr's Leather Goods". To the 
+south is a dark narrow alley that makes you uncomfortable, but not as
+uncomfortable as the crowd.
+~
+154 32768 0 0 0 4 255 0
+D0
+The open market, and the crowd, continues north.
+~
+~
+0 -1 15433
+D1
+Zephyr's Leather Shop is east.
+~
+~
+0 -1 15439
+D2
+A dark, narrow alley leads south to the waterfront.
+~
+~
+0 -1 15442
+D3
+The open market, and the crowd, continues west.
+~
+~
+0 -1 15437
+S
+#15439
+Zephyr's Leather Goods~
+   The smell of leather overwhelms you. Every surface is adorned with
+leather goods that Zephyr has created. They don't interest you very much,
+in fact the smell is starting to bother you.
+~
+154 32904 0 0 0 0 255 0
+D3
+The open market is west.
+~
+~
+0 -1 15438
+S
+#15440
+Mahavy's Weapon Shop~
+   The walls here are lined with weapons the likes of which you have never
+seen. Swords of varying lengths and cruelness hang on pegs, but they are not
+the only type of weapon here. Hammers, daggers, spears, pikes, halberds,
+any type of weapon imaginable, and many that aren't.
+~
+154 32904 0 0 0 0 255 0
+D0
+The open market is north.
+~
+~
+0 -1 15437
+S
+#15441
+Dark Alley~
+   The alley is dark and narrow. Here you grow cautious of what might lurk in 
+the shadows.
+~
+154 32772 0 0 0 1 255 0
+D0
+The open market, teeming with people, is north.
+~
+~
+0 -1 15436
+D2
+The waterfront is south.
+~
+~
+0 -1 15445
+S
+#15442
+Dark Alley~
+   The alley is dark and narrow. Here you grow cautious of what might lurk in
+the shadows.
+~
+154 32772 0 0 0 1 255 0
+D0
+The open market, teeming with people, is north.
+~
+~
+0 -1 15438
+D2
+The waterfront is south.
+~
+~
+0 -1 15447
+S
+#15443
+Empty Warehouse~
+   There is not much of interest here. A few shattered crates lie forgotten
+in the corner. There is what looks like a few old bones along one wall.
+You can't tell if they are human or not.
+~
+154 32777 0 0 0 0 255 0
+D2
+~
+door warehouse~
+1 -1 15446
+S
+#15444
+Warehouse~
+   This warehouse looks like all the others, vacant of anything of value. 
+The city thrives, yet all the warehouses you've seen are vacant. Either
+the items move too quickly to store, or there is something very questionable
+in the city's dealings.
+~
+154 32777 0 0 0 0 255 0
+D2
+~
+door warehouse~
+1 -1 15448
+S
+#15445
+Waterfront~
+   The waterfront continues west and east from here. It is still very crowded,
+but the crowds seem to thin to the east; to the west however, it get worse and
+is accompanied by a horrible stench. A narrow alley leads north to the open
+market and a small wharf is south, where a sailing ship is docked.
+~
+154 32768 0 0 0 1 255 0
+D0
+A dark, narrow alley leads north to the open market.
+~
+~
+0 -1 15441
+D1
+The waterfront continues east.
+~
+~
+0 -1 15446
+D2
+A wharf is south.
+~
+~
+0 -1 15449
+D3
+The waterfront continues west.
+~
+~
+0 -1 15419
+S
+#15446
+Waterfront~
+   The waterfront continues east to west here. There is an old warehouse
+north.
+~
+154 32768 0 0 0 1 255 0
+D0
+A warehouse is north.
+~
+door warehouse~
+1 -1 15443
+D1
+The waterfront continues east.
+~
+~
+0 -1 15447
+D3
+The waterfront continues west.
+~
+~
+0 -1 15445
+S
+#15447
+Waterfront~
+   You have almost reached the eastern end of the waterfront. It continues
+a little farther to the east, but looks pretty much dead. This entire end of
+the waterfront is relatively calm. A dark alley leads north to the open
+market.
+~
+154 32768 0 0 0 1 255 0
+D0
+A dark, narrow alley leads north to the open market.
+~
+~
+0 -1 15442
+D1
+The waterfront continues east.
+~
+~
+0 -1 15448
+D3
+The waterfront continues west.
+~
+~
+0 -1 15446
+S
+#15448
+Waterfront~
+   This is the eastern end of the waterfront. The walkway ends at the wall that
+surrounds the market. A small empty wharf is south, and a warehouse is north.
+~
+154 32768 0 0 0 1 255 0
+D0
+A warehouse lies north.
+~
+door warehouse~
+1 -1 15444
+D2
+A wharf is south.
+~
+~
+0 -1 15451
+D3
+The waterfront continues west.
+~
+~
+0 -1 15447
+S
+#15449
+Wharf~
+   The view here is as nice as the others, but the view upriver is blocked
+by a large sailing ship docked here. Several crewmen are busy on deck.
+~
+154 32772 0 0 0 1 255 0
+D0
+The waterfront is north.
+~
+~
+0 -1 15445
+D1
+A docked ship is east in the harbor.
+~
+~
+0 -1 15450
+S
+#15450
+Forecastle~
+   This ship doesn't seem as heavily armed as you expected, but then again,
+there are many people on board. Not one of them seems inexperienced at combat.
+~
+154 32768 0 0 0 1 255 0
+D2
+The ship continues south.
+~
+~
+0 -1 15453
+D3
+The wharf is west.
+~
+~
+0 -1 15449
+D5
+Stairs lead down to the captain's quarters.
+~
+~
+0 -1 15452
+S
+#15451
+Wharf~
+   Compared to the other wharves on the waterfront, this one is rather drab.
+The view upriver is blocked by trees hanging over the banks. The large ship
+docked at the wharf to the west blocks the ocean view. All that is left is
+a cloudy sky and the river before you.
+~
+154 32768 0 0 0 1 255 0
+D0
+The waterfront is north.
+~
+~
+0 -1 15448
+S
+#15452
+Captain's Quarters~
+   The owner of this ship must make a hefty profit from his cargo, as
+his quarters are furnished better than a noble's house. A large table is set
+on one wall, covered with maps and charts. Mounted fish and sea animals cover
+the walls. A large hammock takes up one wall.
+~
+154 32781 0 0 0 0 255 0
+D4
+Stairs lead up to the deck.
+~
+~
+0 -1 15450
+S
+#15453
+On Deck~
+   Sailors rush this way and that, brushing by you and occasionally bumping
+into you. They seem to be rigging the ship for voyage.
+~
+154 32768 0 0 0 1 255 0
+D0
+The forecastle is north.
+~
+~
+0 -1 15450
+D2
+The aftcastle is south.
+~
+~
+0 -1 15455
+D5
+Stairs lead below deck.
+~
+~
+0 -1 15454
+S
+#15454
+Below Deck~
+   This is a combination of a crew's quarters and a cargo hold. Scattered
+among the personal possessions of the crewmembers are crates stacked to the
+ceiling. It is very cramped, so much that you get claustrophobic just standing
+here. You can't imagine how someone could live like this for months at a time.
+~
+154 32776 0 0 0 0 255 0
+D4
+Stairs lead up to the deck.
+~
+~
+0 -1 15455
+S
+#15455
+Aftcastle~
+   Nothing spectacular here except a nice view up river off the starboard bow 
+and a view of the ocean to port.
+~
+154 32768 0 0 0 1 255 0
+D0
+The ship continues north.
+~
+~
+0 -1 15453
+D5
+Stairs lead below deck.
+~
+~
+0 -1 15454
+S
+#15456
+Graveyard~
+   You have wandered into what you would think would be an old graveyard,
+but many of the graves are fresh. The ones that do have tombstones are
+freshly cut, not one weathered with age. There must have been a slaughter
+nearby recently.
+   There is a mausoleum in the center of the graveyard. Nearing it, you see 
+that there are tiles missing from the floor, leaving a hole down into the
+darkness. You peer into the darkness and see that it is a long fall indeed.
+You certainly would not survive.
+~
+154 32772 0 0 0 2 255 0
+D2
+An alleyway starts south.
+~
+~
+0 -1 15457
+D5
+I wouldn't try that jump.
+~
+~
+0 -1 15400
+S
+#15457
+The End of the Alley~
+   The alley ends here, leading originally to the outskirts of the village.
+But now the village is gone and the open field to the north has been turned
+into a graveyard. One of the few standing buildings outside the market walls
+is east, light pouring through the doorway.
+~
+154 32768 0 0 0 2 255 0
+D0
+A graveyard is north.
+~
+~
+0 -1 15456
+D1
+A run-down old tavern is east.
+~
+~
+0 -1 15458
+D2
+The alley continues south.
+~
+~
+0 -1 15461
+S
+#15458
+An Old Tavern~
+   This place has definitely seen better days, but it is nice to be in
+a building that isn't completely destroyed. There are cracks in the walls
+and only a few tables, but it has a touch of atmosphere remaining.
+~
+154 32780 0 0 0 0 255 0
+D3
+The exit is west.
+~
+~
+0 -1 15457
+S
+#15459
+A Destroyed Shop~
+   This was apparently once a shop, but everything has been burned. There
+are scraps of armour and bits of metal, but all are burned and useless.
+There is more wreckage to the east, but it looks passable.
+~
+154 32768 0 0 0 5 255 0
+D1
+There is more debris east.
+~
+~
+0 -1 15460
+D2
+An old path is south.
+~
+~
+0 -1 15462
+S
+#15460
+In The Wreckage~
+   It is rough going here, but passable nonetheless. This is the remains
+of a building of some sort, but it is too burned to tell exactly what its
+purpose was.
+~
+154 32768 0 0 0 5 255 0
+D1
+There is a path to the east.
+~
+~
+0 -1 15481
+D3
+The remains of a shop is west.
+~
+~
+0 -1 15459
+S
+#15461
+Back Alley~
+   You continue along a back alley along the stronghold wall. It continues
+north and south, and an older path leads east into the wreckage.
+~
+154 32768 0 0 0 3 255 0
+D0
+The alley ends north.
+~
+~
+0 -1 15457
+D1
+An old path runs east.
+~
+~
+0 -1 15462
+D2
+The alley continues south.
+~
+~
+0 -1 15465
+S
+#15462
+Old Path~
+   This is a less used path, as you can tell by the weeds that have
+sprung up on the path itself. Everything around you has been destroyed
+by fire. The remains of a building, still half erect, are north and the
+path continues east.
+~
+154 32768 0 0 0 2 255 0
+D0
+The remains of a building lie to the north.
+~
+~
+0 -1 15459
+D1
+The path continues east.
+~
+~
+0 -1 15463
+D3
+An alley is west.
+~
+~
+0 -1 15461
+S
+#15463
+Blocked Path~
+   The path has been completely blocked by fallen rubble from what looks
+like the remains of a two story building. The only exit is west.
+~
+154 32768 0 0 0 5 255 0
+D3
+The path leads west.
+~
+~
+0 -1 15462
+S
+#15464
+A Burned House~
+   This is the remains of what looks like a once luxurious house. Everything
+of value has been taken, however, and everything else burned.
+~
+154 32768 0 0 0 5 255 0
+D2
+A path through the rubble is south.
+~
+~
+0 -1 15466
+S
+#15465
+Back Alley~
+   This is an alley running along the stronghold wall. It continues north
+and south. A path has been cleared through the rubble to the east.
+~
+154 32768 0 0 0 1 255 0
+D0
+The alley continues north.
+~
+~
+0 -1 15461
+D1
+A path leads east through the rubble.
+~
+~
+0 -1 15466
+D2
+The alley ends to the south.
+~
+~
+0 -1 15467
+S
+#15466
+Path Through The Rubble~
+   A path has been cleared through the rubble here. There are remains of
+a building to the north. You could probably tread the rubble to it. The
+cleared path continues east and an alley is west.
+~
+154 32768 0 0 0 4 255 0
+D0
+A burned building is north.
+~
+~
+0 -1 15464
+D1
+The path continues east.
+~
+~
+0 -1 15468
+D3
+An alley is west.
+~
+~
+0 -1 15465
+S
+#15467
+Dead End~
+   The alley ends abruptly here, as a wall has been built across it.
+The rubble is thick here, making walking difficult.
+~
+154 32768 0 0 0 4 255 0
+D0
+The alley leads north.
+~
+~
+0 -1 15465
+S
+#15468
+Intersection~
+   This is an intersection in the cleared rubble. A dirt path is east, free
+of rubble, and the cleared path continues west. Another path has been cleared
+through the rubble, deeper now, to the south.
+~
+154 32768 0 0 0 2 255 0
+D1
+The path continues east.
+~
+~
+0 -1 15492
+D2
+A path has been cleared through the rubble to the south.
+~
+~
+0 -1 15469
+D3
+The path continues west.
+~
+~
+0 -1 15466
+S
+#15469
+Path Through The Rubble~
+   A narrow path has been cleared here between the path to the north and
+a two story building built into the wall itself. There is a door in the 
+building, but it looks cold and unfriendly.
+~
+154 32772 0 0 0 5 255 0
+D0
+The path continues north.
+~
+~
+0 -1 15468
+D2
+The back door of a building is south.
+~
+door back~
+2 15446 15470
+S
+#15470
+Back Room~
+   This is where the all the supplies of the brothel are kept. You see
+crates of cheap liquor and stacks of bedclothes, but nothing of real value.
+The back door is north and an office door south.
+~
+154 32781 0 0 0 0 255 0
+D0
+~
+back door~
+2 15446 15469
+D2
+~
+office door~
+1 15446 15471
+S
+#15471
+Office~
+   This is the well-dressed office of the brothel. Many patrons have come
+here to seek their desires, and few have been turned away unsatiated. A
+dark wooden desk fills the room, accompanied by a few small chairs. An office
+door is in the back wall, behind the desk.
+~
+154 32904 0 0 0 0 255 0
+D0
+~
+door office~
+2 15446 15470
+D2
+The waiting room is south.
+~
+~
+0 -1 15472
+S
+#15472
+Waiting Room~
+   The waiting room is warm and cozy and strangely arousing. Perhaps it is 
+the insence, or the colored strips of cloth that hang along the walls. The
+lights are dim, making the corners dark and private.
+   There is an open office to the north, ready for business, and the exit is
+south. Stairs lead up to the second floor, where the business of the brothel
+is carried out in private.
+~
+154 32776 0 0 0 0 255 0
+D0
+The office is north.
+~
+~
+0 -1 15471
+D2
+The exit is south.
+~
+~
+0 -1 15425
+D4
+Stairs lead up to the second floor.
+~
+~
+0 -1 15477
+S
+#15473
+Master Bedroom~
+   This bedroom is luxuriously furnished for serving only one real purpose.
+The bed is large, accompanied by a nightstand on either side. A large mirror
+hangs over the bed.
+~
+154 32777 0 0 0 0 255 0
+D2
+~
+door red~
+1 15446 15475
+S
+#15474
+Bedroom~
+   There is little more to this room than a bed and nightstand. But then,
+what else is needed here?
+~
+154 32777 0 0 0 0 255 0
+D1
+~
+door blue~
+1 15446 15475
+S
+#15475
+Hallway~
+   A short hallway runs its length here, ended by a red door in the wall.
+There is a blue door in the west wall and green door in the east wall. You
+hear the muffled bumps and moans of customers getting their money's worth.
+~
+154 32776 0 0 0 0 255 0
+D0
+~
+red door~
+1 15446 15473
+D1
+~
+green door~
+1 15446 15476
+D2
+The stairs are south.
+~
+~
+0 -1 15477
+D3
+~
+blue door~
+1 15446 15474
+S
+#15476
+Bedroom~
+   This room has little more than a bed and nightstand, but what else is
+needed?
+~
+154 32777 0 0 0 0 255 0
+D3
+~
+door green~
+1 15446 15475
+S
+#15477
+Second Floor~
+   You are on the second floor of the brothel. A hallway runs north and stairs 
+lead down to the waiting room.
+~
+154 32776 0 0 0 0 255 0
+D0
+A hallway leads north.
+~
+~
+0 -1 15475
+D5
+Stairs lead down to the waiting room.
+~
+~
+0 -1 15472
+S
+#15478
+Small Hut~
+   This is a small hut built of straw. There are very few furnishings. The
+residents must be rather penniless.
+~
+154 32776 0 0 0 0 255 0
+D2
+The exit is south.
+~
+~
+0 -1 15482
+S
+#15479
+A Hut~
+   This is a larger hut in the village, but nothing really to speak of.
+It is built only of straw and twigs, but does give protection from the 
+weather, barely.
+~
+154 32776 0 0 0 0 255 0
+D2
+The exit is south.
+~
+~
+0 -1 15483
+S
+#15480
+Elder's Hut~
+   This is one of the largest huts in the village. It is made mostly of
+wood with a roof of thatched straw. An actual bed rests along one wall
+and a table sits on another. The person who lives here must have some
+social importance.
+~
+154 32776 0 0 0 0 255 0
+D2
+The exit is south.
+~
+~
+0 -1 15484
+S
+#15481
+Dirt Path~
+   The path ends here, cut off by forest the surrounding forest to the north.
+The remains of the old village is west and a path through the huts is east.
+The dirt path continues south.
+~
+154 32772 0 0 0 2 255 0
+D1
+A small village of huts is east.
+~
+~
+0 -1 15482
+D2
+The path continues south.
+~
+~
+0 -1 15488
+D3
+There is rubble to the west.
+~
+~
+0 -1 15460
+S
+#15482
+Among the Huts~
+   This path leads through the huts build on what was a field. All of the huts
+here are small and made of straw. The path through the village continues east
+where the huts get larger and a dirt path leads west out of the village.
+~
+154 32768 0 0 0 2 255 0
+D0
+A small hut is north.
+~
+~
+0 -1 15478
+D1
+The village center is east.
+~
+~
+0 -1 15483
+D2
+A small hut is south.
+~
+~
+0 -1 15486
+D3
+A path leads west.
+~
+~
+0 -1 15481
+S
+#15483
+Center of the Huts~
+   This is the center of the small village of huts, but there isn't really 
+anything to mark it as a village square, except a small depression carved
+into the path. Perhaps it is used for village gatherings and feasts. 
+   The village path continues west, east, and south, and a hut is north.
+~
+154 32768 0 0 0 2 255 0
+D0
+A hut is north.
+~
+~
+0 -1 15479
+D1
+A path leads east through the village.
+~
+~
+0 -1 15484
+D2
+A path leads south through the village.
+~
+~
+0 -1 15490
+D3
+A path leads west through the village.
+~
+~
+0 -1 15482
+S
+#15484
+Among the Huts~
+   The path ends here at a relatively large building made of wood. There
+are voices inside and the door is open. A large huts are north and south.
+~
+154 32768 0 0 0 2 255 0
+D0
+A large hut is north.
+~
+~
+0 -1 15480
+D1
+A crude wooden building is east.
+~
+~
+0 -1 15485
+D2
+A large hut is south.
+~
+~
+0 -1 15487
+D3
+The center of the village is west.
+~
+~
+0 -1 15483
+S
+#15485
+Crude Wooden Building~
+   This building was obviously built hurriedly and seems functional at best.
+The building is packed, however. It seems that everyone in the village is here.
+There is a gripping tension in the air, and grim mood comes over you. Nearby,
+you overhear a villager ask, "Do you think we have a chance against them?
+The market guards are tough alone."
+~
+154 32776 0 0 0 0 255 0
+D3
+The exit is west.
+~
+~
+0 -1 15484
+S
+#15486
+Small Hut~
+   This is a plain little hut with little furnishings and little of interest.
+~
+154 32776 0 0 0 0 255 0
+D0
+The exit is north.
+~
+~
+0 -1 15482
+S
+#15487
+A Well-Furnished Hut~
+   This is by far the most well furnished hut in the village. A bed rests
+in one corner, a nightstand beside it, and an old vanity sits against one
+wall. Some of the furniture has been scorched by fire, but is certainly
+still usable.
+~
+154 32780 0 0 0 0 255 0
+D0
+The exit is north.
+~
+~
+0 -1 15484
+S
+#15488
+Dirt Path~
+   The dirt path continues north and south.
+~
+154 32768 0 0 0 2 255 0
+D0
+The path continues north.
+~
+~
+0 -1 15481
+D2
+The path continues south.
+~
+~
+0 -1 15492
+S
+#15489
+Small Hut~
+   This is a small straw hut with little of interest.
+~
+154 32776 0 0 0 0 255 0
+D1
+The exit is east.
+~
+~
+0 -1 15490
+S
+#15490
+Among The Huts~
+   This path leads through the village of huts. A few people walk around,
+mindless of you. There are huts to the left and right, and the path continues
+north and south.
+~
+154 32768 0 0 0 2 255 0
+D0
+The center of the village is north.
+~
+~
+0 -1 15483
+D1
+A small hut is east.
+~
+~
+0 -1 15491
+D2
+A path leads south.
+~
+~
+0 -1 15493
+D3
+A small hut is west.
+~
+~
+0 -1 15489
+S
+#15491
+Small Hut~
+   There is little of interest here, as the hut is virtually bare of
+furnishings.
+~
+154 32776 0 0 0 0 255 0
+D3
+The exit is west.
+~
+~
+0 -1 15490
+S
+#15492
+Dirt Path~
+   A dirt path leads east to north here. Rubble blocks the way west, but a 
+path has been cleared, giving access.
+~
+154 32768 0 0 0 2 255 0
+D0
+The path continues north.
+~
+~
+0 -1 15488
+D1
+The path continues east.
+~
+~
+0 -1 15493
+D3
+The path continues west.
+~
+~
+0 -1 15468
+S
+#15493
+A Fork In The Path~
+   The path exits the woods into what was once a field. A village of huts has
+been built in the center of the field and a path leads west around it. It seems
+a cozy little village, but you can't understand why these people haven't 
+moved into the market interior. These huts can't be much protection from
+the elements, particularly the winters. It does make a picturesque scene, 
+however, especially with the flags of the High Tower above the forested
+horizon.
+~
+154 32772 0 0 0 3 255 0
+D0
+A path leads north through the huts.
+~
+~
+0 -1 15490
+D2
+The trail leads south.
+~
+~
+0 -1 15494
+D3
+A path leads west.
+~
+~
+0 -1 15492
+S
+#15494
+Turn In The Trail~
+   The trail turns north here, gradually letting more light through the
+canopy.
+~
+154 32768 0 0 0 3 255 0
+D0
+The trail continues north.
+~
+~
+0 -1 15493
+D1
+The trail continues east.
+~
+~
+0 -1 15495
+S
+#15495
+Bend In The Path~
+   The trail turns west and south here. It is rather dark here, and your
+steps are loud on the leaves that litter the ground.
+~
+154 32768 0 0 0 3 255 0
+D2
+The trail continues south.
+~
+~
+0 -1 15496
+D3
+The trail continues west.
+~
+~
+0 -1 15494
+S
+#15496
+Through The Woods~
+   This path leads north through the dark woods. There is enough light
+to see without aid, however. A shady path is south.
+~
+154 32768 0 0 0 3 255 0
+D0
+The trail continues north.
+~
+~
+0 -1 15495
+D2
+A shady path is south.
+~
+~
+0 -1 15498
+S
+#15497
+Shady Path~
+   The shady path leads west and east here. It is a pleasant day, and you
+wonder if you should stop for a rest. The large iron gate to the west
+draws you onward, however.
+~
+154 32768 0 0 0 2 255 0
+D1
+The shady path leads east.
+~
+~
+0 -1 15498
+D3
+A large gate is west.
+~
+~
+0 -1 15435
+S
+#15498
+Shady Path~
+   The shady path continues here, east to west. A narrow trail through the
+forest leads north, but is almost unnoticeable.
+~
+154 32768 0 0 0 2 255 0
+D0
+A trail leads north through the woods.
+~
+~
+0 -1 15496
+D1
+The shady path continues east.
+~
+~
+0 -1 15499
+D3
+The shady path continues west.
+~
+~
+0 -1 15497
+S
+#15499
+Shady Path~
+   You step from the dark forest of Haon-dor onto a shady path surrounded
+by forest on either side. It is much more pleasant here than in the dark of
+Haon-dor. If you wish, the dark Haon-dor is east, but the shady path leads
+west.
+~
+154 32768 0 0 0 2 255 0
+D1
+The dark forest Haon-dor is east.
+~
+~
+0 -1 6135
+D3
+The shady path continues west.
+~
+~
+0 -1 15498
+S
+$~

@@ -1,0 +1,27 @@
+rc c 'remove curse' $*
+h c 'heal' $*
+harm c 'harm' $*
+earth c 'earthquake
+cl c 'cleanse' $*
+sum c 'summon' $*
+bl c 'blind' $*
+infra c 'infra' $*
+rel c 'relocate' $*
+ward c 'ward' $*
+fort c 'fortify' $*
+sag c 'saga' $*
+bless c 'bless' $*
+word c 'word of recall' $*
+arm c 'armor' $*
+mal c 'maledict' $*
+sense c 'sense' $*
+fly c 'fly' $*
+r c 'revive' $*
+cw clanwho
+di c 'detect invis' $*
+rp c 'remove para' $*
+gt gt &09$*&00
+sanc c 'sanc' $*
+cb c 'cure blind' $*
+rpo c 'remove poison' $*
+reg c 'regenerate' $*

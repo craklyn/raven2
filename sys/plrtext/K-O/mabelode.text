@@ -1,0 +1,21 @@
+6 backstab
+sv c 'shadow vision'
+clan clan &10$* &11 &00
+shadows c 'dance of shadows'
+blur c 'blur'
+sphere c 'shadow sphere'
+invis c 'invisibility'
+say say &10$* &00
+gt gt &10$* &00
+blade c 'shadow blades'
+tr trip
+crack emote cracks his neck.
+sense cast 'sense life' $*
+bi cast 'blindness'$*
+bu cast 'blur'$*
+shadow cast 'shadow blades' $*
+dance cast 'dance of shadows'$*
+vision cast 'shadow vision' $*
+walk cast 'shadow walk' self $*
+sp cast 'shadow sphere' self $*
+1 kill eel

@@ -1,0 +1,42 @@
+z block
+go n;n
+rr retreat $*
+su scan u
+v c 'cure serious' $*
+x get all all.cor
+di c 'd i' $*
+sw scan w
+se scan e
+sd scan d
+sn scan n
+dis disarm $*
+ban c 'banish' $*
+blind c 'cure blind' $*
+holy c 'holy armor'
+regen c 'regen' $*
+rp c 'r p' $*
+eb eat way;eat way
+qwer get all q;drop all.scroll;drop all.way;drop all.cof;drop all.pot;drop all.carrot
+spiders s;w;w;w;u;n;n;e;u;s;e;w;n;w;s;w;d;w;w;w
+qc get cof q;q cof
+des des 1.
+pfe c 'protection from evil'
+cf c 'create food'
+armor c 'armor' $*
+b bash $*
+miss c 'divine mission' 
+wa wake;stand
+gn gt &09Going North!!&00;n;k 2.
+ge gt &09Going East!!&00;e;k 2.
+gw gt &09Going West!!&00;w;k 2. 
+gs gt &09Going South!!&00;s;k 2.
+gu gt &09Going Up!!&00;u;k 2.
+gd gt &09Going Down!!&00;d;k 2.
+see c 'righteous vision'
+gt gt &13K&00&14N&00&13I&00&14G&00&13H&00&14T&00&13-$* -&00&13K&00&14N&00&13I&00&14G&00&13H&00&14T&00
+crus c 'crusade'
+g get all purity;wear all;get all purity;wear all
+r rescue $*
+bl block
+ss scan s
+1 c 'dispel evil' $*

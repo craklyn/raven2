@@ -1,0 +1,1167 @@
+#40400
+The Guard Room~
+   This dimly lit chamber houses the guards that are assigned to keep an eye on
+those interred without.  Several stools surround a table laden with dice, small
+change and food, while hooks and pegs set into the wall between smoldering
+brands support cloaks, capes, satchels, vests and furs.  Kegs of wine, mead and
+spirits lie scattered about the floor, evidence of the ample amounts of free
+time these fellows have.  A loose stone on the floor near the east wall appears
+to have been dislodged by a careless giant.    
+~
+404 520 0 0 0 0 255 0
+D1
+~
+stone~
+1 0 40401
+D2
+~
+door~
+1 40415 40398
+S
+#40401
+A Blackened Chamber~
+   Not a single whisper of illumination penetrates the darkness that cloaks
+this room in shadow, it is impossible to proceed without moving very slowly so
+as to avoid barking one's shins on the many items of furniture that clutter the
+chamber.  A foul smell, of vermin, fills the chamber, adding to the unease
+created by the darkness.    
+~
+404 553 0 0 0 0 255 0
+D3
+~
+stone~
+1 0 40400
+D5
+~
+~
+0 0 40426
+S
+#40402
+A Narrow Corridor~
+   Howls and shrieks echo from the west, sending shivers up and down your spine
+as you proceed through this corridor that links whatever foul fate lurks there
+with a junction to the east.  A single cell door lies to the north, containing
+those who are due to be sacrificed to the dark gods soonest.  Shadows flicker
+and dance on the wall, made by the mass of tentacles to the west that shifts in
+the flickering torchlight.    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+door~
+1 40415 40403
+D1
+~
+~
+0 0 40381
+D3
+~
+~
+0 0 40375
+S
+#40403
+A Filthy Cell~
+   This claustrophobic chamber would be cramped for more than a couple of
+humans, and must be considered unbearably small for any giants who are ever
+imprisoned here.  Chains set in the wall are used to secure those interred
+within, while dirty straw covering the floor bears the signs of the lack of
+adequate toilet facilities in this filthy cell.  Food scraps hurled in through
+a space in the door litters the floor, barely edible scraps from the kitchens.
+  
+~
+404 520 0 0 0 0 255 0
+D2
+~
+door~
+1 40415 40402
+S
+#40404
+The Temple of the Eye~
+   Shifting, swirling patterns of light, of purple, mauve, violet and lavender
+shades, all coruscate throughout this chamber, making it impossible to
+accurately determine its function or dimensions.  The ground and walls appear
+to shift as you pass, morphing into several strange and curious shapes.  Globs
+of purplish substance run down the walls, plopping onto the floor, where they
+are quickly absorbed.  A massive mural covers the western wall.    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40407
+D1
+~
+~
+0 0 40405
+D5
+~
+~
+0 0 40374
+E
+mural~
+The mural depicts giants worshipping an amorphous golden eye, offering
+to it sacrifices of elves, dwarves and even fellow giants. 
+~
+S
+#40405
+The Temple of the Eye~
+   The floor here is of red and black, writhing in a nauseating mixture that
+appears to be flowing from the bases of a ring of obsidian pillars, arranged
+about this area.  The walls bear murals depicting a horrid tentacular beast,
+feeding on a writhing, screaming mass of humanoids, mostly gnolls and trolls.
+A foul odor issues from around the pillars, which are caked with blood.    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40408
+D1
+~
+~
+0 0 40406
+D3
+~
+~
+0 0 40404
+S
+#40406
+The Temple of the Eye~
+   Shifting, swirling patterns of light, of purple, mauve, violet and lavender
+shades, all coruscate throughout this chamber, making it impossible to
+accurately determine its function or dimensions.  The ground and walls appear
+to shift as you pass, morphing into several strange and curious shapes.  Globs
+of purplish substance run down the walls, plopping onto the floor, where they
+are quickly absorbed.    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40409
+D3
+~
+~
+0 0 40405
+S
+#40407
+The Temple of the Eye~
+   Splotched stone steps rise slightly to this area, which is walled by a
+cloudy substance that coalesces to the north and west, preventing passage.  An
+altar rises to the east, on a black step covered in red and purple veins.  
+Foul images cover the walls, depicting unspeakable acts performed to please the
+god that is worshipped herein.  Whatever god it is, it must be a terrible and
+cruel deity indeed, to demand such acts.    
+~
+404 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 40408
+D2
+~
+~
+0 0 40404
+S
+#40408
+The Altar of the Elder Elemental God~
+   Resting here, on the top stair, is a stone altar block of a dull stone, that
+appears to absorb the light from all around.  It is flanked by two braziers,
+corroded bronze, and filled with smoldering incense, which emanates a sicky
+sweet stench.  Fat black candles burn with lavender flame atop the altar, while
+a series of hollow cylinders hang from a long rod behind the altar, evidently
+to be struck during some obscene ritual.  Howls and shrieks can be heard at
+frequent intervals, their source unclear.    
+~
+404 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 40409
+D2
+~
+~
+0 0 40405
+D3
+~
+~
+0 0 40407
+S
+#40409
+The Temple of the Eye~
+   Splotched stone steps rise slightly to this area, which is walled by a
+cloudy substance that coalesces to the north and west, preventing passage.  An
+altar rises to the east, on a black step covered in red and purple veins.  
+Foul images cover the walls, depicting unspeakable acts performed to please the
+god that is worshipped herein.  Whatever god it is, it must be a terrible and
+cruel deity indeed, to demand such acts.    
+~
+404 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 40406
+D3
+~
+~
+0 0 40408
+S
+#40410
+A Rough Hewn Tunnel~
+   The stairs descend to a rough hewn tunnel, that worms its way through the
+rock of the volcano to the south.  This is the lowest level of the citadel,
+closest to the lava bed, and the heat even here is almost unbearable.  It is
+amazing that the giant's allies can stand to be in this lair.  The walls here
+are deeply scored, doubtless by the claws of trolls, en route to various
+assignments.  No light sources are present here, there are not even sconces set
+in the walls.    
+~
+404 521 0 0 0 0 255 0
+D2
+~
+door~
+1 40415 40411
+D4
+~
+~
+0 0 40381
+S
+#40411
+A Cavernous Hall~
+   Numerous passages meet here, stretching into the distance of the truly
+mammoth natural cave system that exists beneath the citadel.  Clumps of
+stalagmites and stalagtites obscure vision, making it hard to see what may lurk
+in the shadows ahead.  No sounds can be heard, though this is not a comfort as
+most subterranean denizens move very quietly through the underdark.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+door~
+1 40415 40410
+D1
+~
+~
+0 0 40412
+D2
+~
+~
+0 0 40413
+D3
+~
+~
+0 0 40431
+S
+#40412
+The Crimson Portal~
+   This section of the caverns is dominated by a massive red portal, set in the
+northern rock face, and covered in runes and symbols.  Thick red chains criss
+cross its glowing surface, which radiates intense heat, making it impossible to
+approach without suffering injury.  There does not appear to be a way to open
+it, nor does there seem to be a really compelling reason to do so, the door
+radiates evil as well as heat.  A roasted corpse, a gnoll perhaps, lies next to
+the door, burned to a crisp when it attempted to broach the valve.  A faint
+whispering, as of a thousand voices, echoes about the door, its source unclear.
+  
+~
+404 521 0 0 0 0 255 0
+D0
+~
+valve~
+2 40409 40497
+D2
+~
+~
+0 0 40414
+D3
+~
+~
+0 0 40411
+S
+#40413
+The Rock Pool~
+   At this point a rock pool fills most of the corner of this cave, fed from
+above by water, that drips down from some hidden source.  The acoustics in the
+cavern are superb, and the simple sound of a water drop hitting the pool
+tinkles like the music of a skilled elven bard.  The water is dark, and has a
+strong mineral odor, but is probably quite palatable.  Doubtless numerous
+denizens of the dark come here to drink.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40411
+D1
+~
+~
+0 0 40414
+D2
+~
+~
+0 0 40415
+S
+#40414
+The Great Caverns~
+   Looming rocky spires have burst forth from the ground over the centuries
+like the teeth of some behemoth intent on devouring you.  The air is hot and
+still, and little noise is carried.  The hard rocky ground underfoot holds
+little impression of previous travellers, making it hard to guess what may lurk
+down here.  Passages stretch into the distance, further in to the darkness.  
+
+~
+404 525 0 0 0 0 255 0
+D0
+~
+~
+0 0 40412
+D1
+~
+~
+0 0 40424
+D3
+~
+~
+0 0 40413
+S
+#40415
+A Meeting of Tunnels~
+   Three passages meet here, each leading into larger caverns in three
+directions.  A foul smell, of trolls no doubt, can be detected to the
+southwest, while only silence reigns to the southeast.  Markings on the floor
+indicate passage to and from the caverns to the southwest is frequent, and
+consists largely of trolls and other large humanoids.  The presence of these
+horrid foes bodes ill for further progress in that direction.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40413
+D1
+~
+~
+0 0 40416
+D2
+~
+~
+0 0 40417
+S
+#40416
+A Dead End~
+   Shattered skulls and splintered bones litter the floor of this small cave,
+which apparently has been the last thing many previous visitors have seen in
+their shortened lives.  Stalagmites and stalactites are profusely scattered
+through the area, making it difficult to discern what hidden foe may lie in
+wait, ready to pounce on an unsuspecting victim.    
+~
+404 521 0 0 0 0 255 0
+D3
+~
+~
+0 0 40415
+S
+#40417
+The Troll Cavern~
+   The stench that assails your nostrils as you advance down this corpse strewn
+tunnel is literally unbearable.  Violent retching and nausea sieze you, even a
+full blood orc would balk at braving such a foul odor.  It is said no creature
+save the troglodyte can produce such a vile stench as the dark trolls that
+reside far underground.  Were they to ever venture en masse to the surface,
+they would doubtlessly be put to the sword without delay by the offended
+surface dwellers.  No light penetrates the gloom here, save for your own
+source.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40415
+D1
+~
+~
+0 0 40421
+D2
+~
+~
+0 0 40418
+D3
+~
+~
+0 0 40419
+S
+#40418
+The Troll Cavern~
+   Huge mounts of rotting flesh and stinking hides rise from the rubble strewn
+floor of the cavern, interspersed with piles of skulls, arranged in macabre
+cairns as trophies of the hunt.  Trolls slip through the dark shadowy corners
+of the chamber with stealth that their bulk would not indicate was possible.  
+Dozens of the beasts must lair in these caves.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40417
+D3
+~
+~
+0 0 40420
+S
+#40419
+The Troll Cavern~
+   This chamber serves as some sort of horrid trophy room.  Gutted corpses in
+various stages of decomposition hang from rocky spires on the walls, while
+large hides of numerous beasts cover the floor and ceiling, for they are
+suspended by the sinew of fallen trolls and giants.  The smell is quite
+disgusting, as the trolls know (or care) little about the long process of
+curing hides.    
+~
+404 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 40417
+D2
+~
+~
+0 0 40420
+S
+#40420
+The Troll Cavern~
+   This cave contains more mounds, presumably where the trolls rest in between
+kills.  The mounds are crawling with lice, rats and vermin of unidentifiable
+types, disturbed and sent scurrying by your unexpected entrance.  Piles of
+skulls and femurs are arranged next to each mound as a mark of the prowess of
+each troll in battle.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40419
+D1
+~
+~
+0 0 40418
+S
+#40421
+The Troll Caves~
+   The larger trolls dwell in this section of the caves, enjoying greater
+comforts, including most of the tribe's supply of alcohol and other substances.
+Several large mounds of furs serve as bedding, while the walls bear skeletal
+remains of numerous foes bested in battle, pray that yours doesn't join them.
+  
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40422
+D3
+~
+~
+0 0 40417
+S
+#40422
+A Narrow Passage~
+   The cavern walls here are striated with layers of teal and green, which
+sparkle in your light source as you proceed.  Deposits of rare minerals can be
+seen near the surface of the near,translucent rock, as well as unidentifiable
+greenish deposits.  The sound of water dripping echoes in from the north.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40423
+D2
+~
+~
+0 0 40421
+S
+#40423
+A Rock Pool~
+   Water drips in from a hidden source above the large pool that fills a corner
+of this culdesac.  Brilliant metals embedded in the walls, along with many gems
+and jewels, shine in your torchlight, ah for a pick to mine here, and the time
+and resources to extract your yield.  Undoubtedly the giants are well aware of
+this fabulous natural deposit here in the heart of their volcano.    
+~
+404 521 0 0 0 0 255 0
+D2
+~
+~
+0 0 40422
+S
+#40424
+A Narrow Passage~
+   The first in a series of winding passages begins here, leading away from the
+central caves that begin this level of the citadel housed in the volcano.  No
+light or sound can be detected, apart from those made by yourself.  The hard
+ground underfoot shows little trace of passage, nor of habitation.  Absent are
+the tapestries and other artwork so very prevalent in the upper levels.  
+Instead, the cold grey stone walls lay bare and undecorated.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40426
+D1
+~
+~
+0 0 40425
+D3
+~
+~
+0 0 40414
+S
+#40425
+A Guard Post~
+   The entirety of this room is swathed in darkness, magical darkness that even
+your light cannot penetrate.  Whispered commands can be heard, in the shadows,
+and you can sense numerous shapes moving towards you, with weapons drawn!  
+Several bedrolls on the rubbble, strewn floor serve as obstacles as you prepare
+to meet whatever foes reside here.    
+~
+404 521 0 0 0 0 255 0
+D3
+~
+~
+0 0 40424
+S
+#40426
+A Command Post~
+   This chamber is dimly lit by luminescent fungi that sprout from small
+crevices in the rocky walls, and similar growths that cover the rocks scattered
+about the floor.  A broad pillar to the east partially hides a small stairway
+that winds upward to the upper level, while a series of bedrolls and blankets
+are neatly arranged near the center of this chamber, enabling those who reside
+within to keep a lookout in every direction for any intrustion.  Piles of
+supplies indicate that whoever does reside here is preparing for a long
+journey, or has just arrived from one.    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40438
+D2
+~
+~
+0 0 40424
+D3
+~
+~
+0 0 40427
+D4
+~
+~
+0 0 40401
+S
+#40427
+A Sentry Post~
+   Up till this point, it had seemed that this level was all but devoid of any
+giantish inhabitants, populated instead by fecund subterranean races.  
+However, the familiar iron cressets are seen here, supporting smoldering
+brands, which cast a pale illumination on this, which is a guard post for the
+giant barracks to the northwest.  A pile of rocks serves as a supply of
+impromptu missile weapons, arranged near a large wooden stool.    
+~
+404 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 40426
+D3
+~
+~
+0 0 40428
+S
+#40428
+A Barracks~
+   Several smoking brands light up most of this cavernous chamber, which
+contains several piles of cured hides and furs, as well as barrels of wine, ale
+and spirits, arranged haphazardly next to an array of dried meats and various
+other foodstuffs.  Little of it looks very edible to your eyes.  Hanging from
+the far wall is a long bronze horn, doubtless intended to be winded during
+times of strife, though the keen hearing of the giants' allies would not
+necessitate such a loud warning.    
+~
+404 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 40427
+D3
+~
+~
+0 0 40429
+S
+#40429
+A Sentry Post~
+   Up till this point, it had seemed that this level was all but devoid of any
+giantish inhabitants, populated instead by fecund subterranean races.  
+However, the familiar iron cressets are seen here, supporting smoldering
+brands, which cast a pale illumination on this, which is a guard post for the
+giant barracks to the northeast.  A pile of rocks serves as a supply of
+impromptu missile weapons, arranged near a large wooden stool.    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40430
+D1
+~
+~
+0 0 40428
+D2
+~
+~
+0 0 40431
+S
+#40430
+A Hound Pit~
+   This foul hellhole is literally that, several hell hounds are housed here,
+kenneled to serve the giants in times of war or on the hunt, which is usually a
+hunt for errant adventurers.  Their keen sense of smell makes them invaluable
+for detecting magically concealed foes.  Piles of rotting meat, the remains of
+a recent meal, stink the room up, left here for the hell hounds to dispose of
+as they see fit.  It appears the smell doesn't disturb these feral beasts.    
+~
+404 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 40429
+S
+#40431
+A Dark Junction~
+   Various passages branch off into the darkness here, penetrating the gloom
+like the hollow bones of some lithic beast.  Various sounds echo all around the
+caverns, the acoustics of this place carry the smallest scratching and make it
+sound like the claws of a sizeable creature, eager to rend flesh.  Those who
+are native to this rather harsh and unusual environment are well used to these
+and many other factors involved in surviving down here.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40429
+D1
+~
+~
+0 0 40411
+D2
+~
+~
+0 0 40432
+D3
+~
+~
+0 0 40433
+S
+#40432
+A Dead End~
+   The floor of this culdesac is littered with bones and scraps of old
+clothing, some of which have been here for decades.  Whatever dark creature of
+the underdark that resides here, it apparently has an appetite for adventurers,
+and giants too if the profusion of larger skeletons is any indication.  The
+walls are striated with bluish hues that betray the valuable minerals hidden
+not far beneath the surface.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40431
+S
+#40433
+A Long Tunnel~
+   The passage passes into a monstrous tunnel, that stretches away to the south
+as far as you can see.  It looks much like the tunnels made by the great worms
+of the old deserts, save that it has been bored through solid volcanic rock,
+encountering the occasional natural space in the stone.  It is far too large to
+be a lava tube, and shows no sign of any tooling.  It ends at a cave to the
+northeast.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40434
+D1
+~
+~
+0 0 40431
+D2
+~
+~
+0 0 40435
+S
+#40434
+The Lair of the False Dragon~
+   The tunnel ends here, in this cavern, which is filled with numerous jagged
+outcroppings of rock, obscuring vision and hindering travel.  The ground
+crunches underfoot, the scorched bones of previous foes that have entered this
+lair are the source.  The air reeks of sulfur and cordite, and something
+else...    
+~
+404 521 0 0 0 0 255 0
+D2
+~
+~
+0 0 40433
+S
+#40435
+A Long Tunnel~
+   The tunnel continues, stretching out of sight in either direction, its sheer
+size dwarfing even a fire giant.  Bones and assorted debris litter the floor,
+while thick stalactites depend from the ceiling, barely visible in the gloom.
+A hush has fallen over the entire tunnel, as few creatures indeed venture into
+its depths, its eerie appearance and size combined with its probable source
+serve as sufficient deterrent to all but the most dedicated of explorers.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40433
+D2
+~
+~
+0 0 40436
+S
+#40436
+A Long Tunnel~
+   The collection of bones grow more common now, and are covered here with a
+dimly luminescent fungus, another curious native of the gloomy subterranean
+world that lies beneath Snurre's Spire.  The air is humid and uncomfortable,
+more than once you pause to scratch at itches that have been caused by your
+sweat soaked clothing clinging to you.  It would almost be preferable to be
+back in the freezing wastes of the Jarl's Rift.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40435
+D1
+~
+~
+0 0 40437
+S
+#40437
+A Dead End~
+   At long last the tunnel ends, the final few metres filled by a huge
+skeleton, the remains of the clawed reptile that burrowed through the solid
+rock so many centuries ago.  In life, the beast must have been at least one
+hundred feet long, perhaps more, with claws large enough to tear down
+fortifications with a casual swipe.
+~
+404 521 0 0 0 0 255 0
+D3
+~
+~
+0 0 40436
+D4
+~
+stone~
+1 40415 40353
+S
+#40438
+Into the Darkness~
+   Northwards you plunge, deeper underground, and further into the ever,
+present gloom that by now bothers you less than the thought of what really does
+crawl about down here in the darkness.  Drow, trolls, giants and even worse
+creatures you have seen, what else remains down here?  Voices from up ahead may
+well herald the arrival of a new threat...  It seems every being that lives
+down here is intent on destroying you!    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40439
+D2
+~
+~
+0 0 40426
+S
+#40439
+A Choice~
+   At this point a narrow, twisting tunnel winds into the darkness to the west,
+and from this direction voices raised in argument can be heard.  No noise can
+be detected to the north or south, however, and light is absent in each
+direction, not surprisingly.  Large black bats swoop high above you, through
+the maze of outcroppings that decorate these cavern roofs, disturbed by your
+arrival.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40442
+D2
+~
+~
+0 0 40438
+D3
+~
+~
+0 0 40440
+S
+#40440
+A Very Small Tunnel~
+   This tunnel is cramped and narrow, allowing no more than two or three
+creatures to move through at any one time.  Strange growths cover the jagged
+walls, which tear at clothing and skin when you accidentally bump into them
+during this difficult journey.  Whomever lairs within these tunnels is
+certainly unlikely to receive many unexpected guests!    
+~
+404 781 0 0 0 0 255 0
+D1
+~
+~
+0 0 40439
+D3
+~
+~
+0 0 40441
+S
+#40441
+A Secret Base~
+   The cramped tunnel ends suddenly, opening onto a broad cavern, which is
+filled for the most part with supplies and sleeping gear for at least six
+people.  Weapons and armor lie neatly arranged on flat rocks, while a table
+surrounded by six chairs rests in the middle of this chamber.  Plans and maps
+cover the table, while several hastily hung tapestries on the walls depict the
+surrounding terrain.  Whoever lives here is certainly planning for something,
+but whether it is in concert with or opposition to the drow without is another
+matter entirely.    
+~
+404 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 40475
+E
+block_msg_char~
+$N says, 'Stay here a minute outlander...'
+~
+E
+block_msg_room~
+$N corners $n with a magical gesture.
+~
+E
+block_dir~
+east
+~
+S
+#40442
+The Jeweled Cavern~
+   The illumination from your light strikes hidden formations set in the walls
+of this cavern, and as you enter further it is bathed in a glittering,
+sparkling light, as of a stream of gems cascading down the walls.  The
+spectacle is stunning in its beauty, and in what it indicates about the
+tremendous amounts of natural resources that may one day be plumbed from the
+depths of this volcano.  Dwarves or even orcs could easily mine most of this
+cavern in a few weeks, and make a staggering profit, if they could get past the
+dozens of sentries and wild beasts that prowl the darkness.    
+~
+404 521 0 0 0 0 255 0
+D2
+~
+~
+0 0 40439
+D3
+~
+~
+0 0 40443
+S
+#40443
+A Short Passage~
+   This passage, while not equal to the finished corridors of the upper levels,
+is nonetheless better formed than the rough hewn chambers or natural tunnels to
+the south.  There has been a notable attempt to eventually make this a proper
+passageway, cressets have been set in the walls, though they lack torches.  
+Warm air comes in waves from the west, indicating perhaps that you are nearing
+the heart of the volcano.    
+~
+404 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 40442
+D3
+~
+~
+0 0 40444
+S
+#40444
+Approaching the River~
+   Wiping sweat from your hot face, you begin to pant slightly as you near the
+source of the red glow that is now visible to the southwest.  The walls here
+are suffused in the reddish glow, and you find it much easier to see without
+relying on your light source.  A narrow cavern lies to the northeast, it
+appears deserted, and filled with barrels of supplies.    
+~
+404 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 40445
+D1
+~
+~
+0 0 40443
+D3
+~
+~
+0 0 40446
+S
+#40445
+A Strange Chamber~
+   This circular cave is lined with barrels of supplies, that surround a
+glowing pentacle in the center of the floor, evidently a component in some sort
+of transportation spell.  Perhaps here you may be able to effect magical
+transport between yourself and the outside world?  Evidently someone,
+undoubtedly the drow, uses this room for a similar purpose, though their aid
+undoubtedly comes from somewhere further below...    
+~
+404 393229 0 0 0 0 255 0
+D2
+~
+~
+0 0 40444
+S
+#40446
+A River of Lava~
+   Waves of heat issue forth from the flowing, churning river of red hot lava
+that chugs past to the northeast, cutting through this passage and seperating
+it from the far side, where you can see it continues.  A rope bridge has been
+strung high above the lava, the magical strands treated so as not to catch fire
+from the heat or the occasional burst bubble in the river below.  The entire
+chamber is bathed in a hellish glow, this surely must be what the underworld
+looks like, when people perish and are sent hither, they would be advised to
+take some sort of protection against the heat.  The ledge you are on continues
+a short distance to the south.    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40448
+D1
+~
+~
+0 0 40444
+D2
+~
+~
+0 0 40447
+S
+#40447
+The End~
+   The ledge ends here, where it slopes down to enter the river.  The heat
+radiating from river is almost overwhelming.  In fact it IS overwhelming, it
+requires a great deal of stamina to withstand the furnace temperatures you are
+being subjected to.  What manner of creature could withstand such an
+environment?    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40446
+S
+#40448
+The Rope Bridge~
+   Teetering dangerously on the narrow strands of the bridge, you curse as you
+realize that this bridge is not as sturdy as it seemed from the ground.  While
+it can support the weight of a lightly clad drow scout, an armored adventurer
+bearing loot is another matter entirely.  It bucks and sways as you stagger
+back and forth, endeavouring to maintain your balance.  The far side of the
+river beckons, almost in a mocking fashion, as if intimating you will plunge
+into the roaring torrent of lava below before you will ever reach the far side.
+Even here the heat is almost killing you, you cannot imagine what would happen
+were you to plunge into the fiery molten rock that flows past below you.    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40450
+D2
+~
+~
+0 0 40446
+D5
+~
+~
+0 0 40449
+S
+#40449
+Instantly Vaporized~
+Why?
+~
+404 2 0 0 0 0 255 0
+D5
+~
+~
+0 0 18001
+S
+#40450
+The Far Side~
+   It is with a palpable sense of relief that you finally achieve the far side,
+and can turn your back on the precarious bridge that almost spilled you into
+the river that warms you even from here.  A short distance to the north you can
+see a cavern filled with tables, chairs and maps.  Voices echo all around you,
+you apparently have passed into some sort of private headquarters, and will not
+be welcome!    
+~
+404 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 40496
+D2
+~
+~
+0 0 40448
+S
+#40451
+The Council Chamber~
+   Dim light from several magical globes that bob about the ceiling cast
+sufficient illumination through this small cavern, which is dominated by a
+large slab of obsidian, flanked by several high backed chairs.  Several drow
+could meet here, in safety and seclusion, for even a giant would be vaporized
+by the river of lava, and would have no hope of effecting a crossing.  Maps on
+the wall reveal the full scale of the drow's efforts to incite the giant races
+to violence against humanity and other races, and there can now be no doubt as
+to who the true mastermind is, Eclavdra.  She and her house have been set back
+in their plans, however, by your meddlings, and will not be pleased by this new
+development.    
+~
+404 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 40450
+S
+#40452
+The Fiery Cavern~
+You find yourself suddenly standing in a large cavern, assaulted by
+waves of blistering heat and blinding red light. Shrieks and howls
+echo in from the northeast, while a fiery portal to the south opens
+onto a barely visible cavern, somewhere in the spire. Wrenching pain
+stabs at you, and you find it impossible to speak or concentrate 
+enough for spellcraft. Your mind is reeling, you cannot stand up as
+you'd like, and you can barely even remember who you are. All that 
+is clear is that you are near the heart of an ancient evil, and it
+knows you are here.
+~
+404 525028 0 0 0 0 255 0
+D2
+~
+valve~
+1 40415 40412
+S
+#40475
+A Very Small Tunnel~
+   This tunnel is cramped and narrow, allowing no more than two or three
+creatures to move through at any one time.  Strange growths cover the jagged
+walls, which tear at clothing and skin when you accidentally bump into them
+during this difficult journey.  You sense something else about this tunnel,
+something wicked...    
+~
+404 2097697 0 0 0 0 255 0
+D1
+~
+~
+0 0 40439
+D3
+~
+~
+0 0 40441
+E
+block_msg_char~
+$N grabs you by the arm and cries, 'By Kilsek's wrath you will pay for what you have done!'
+~
+E
+block_msg_room~
+$N cries, 'By Kilsek's wrath you will pay for what you have done!'
+~
+E
+block_dir~
+east
+~
+S
+#40496
+Council Chamber~
+Dim light from several magical globes that bob about the ceiling cast
+sufficient illumination through this small cavern, which is dominated
+by a large slab of obsidian, flanked by several high backed chairs.
+Several drow could meet here, in safety and seclusion, for even a giant
+would be vaporized by the river of lava, and would have no hope of
+effecting a crossing. Maps on the wall reveal the full scale of the
+drow's efforts to incite the giant races to violence against humanity
+and other races, and there can now be no doubt as to who the true 
+mastermind is- Eclavdra. She and her house have been set back in their
+plans, however, by your meddlings, and will not be pleased by this new
+development. But to truly lay this threat to civilization to rest, will
+simply slaying Eclavdra be sufficient...?
+
+~
+404 588 0 0 0 0 255 0
+D2
+~
+~
+0 0 40450
+S
+#40497
+The Fiery Chamber~
+You find yourself suddenly standing in a large cavern, assaulted by
+waves of blistering heat and blinding red light. Shrieks and howls
+echo in from the northeast, while a fiery portal to the south opens
+onto a barely visible cavern, somewhere in the spire. Wrenching pain
+stabs at you, and you find it impossible to speak or concentrate 
+enough for spellcraft. Your mind is reeling, you cannot stand up as
+you'd like, and you can barely even remember who you are. All that 
+is clear is that you are near the heart of an ancient evil, and it
+knows you are here.
+~
+404 525032 0 0 0 0 255 0
+D0
+~
+~
+0 0 40498
+D2
+~
+valve~
+2 40409 40412
+S
+#40498
+A Yawning Chasm~
+A deafening roar assaults your ears as you pass into this windswept
+area, and with horror you suddenly notice that you are standing in
+mid air, hovering above a yawning chasm, from which unearthly cries
+and shrieks echo, causing you pain and confusion. Despite your panic
+you do not plummet as expected to your death; some magical force is
+apparently preventing it. The howling almost distracted you from the
+true evil in this unearthly dimension you have passed into, the vile
+beast responsible for the scores of scorched bodies that are staked
+to the walls, some still wriggling or moaning as maggots devour the
+exposed organs that dangle from their rended abdomens.
+
+~
+404 616 0 0 0 9 255 0
+D2
+~
+~
+0 0 40497
+S
+$~

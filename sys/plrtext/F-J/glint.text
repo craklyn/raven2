@@ -1,0 +1,14 @@
+gg get all.mid all.corpse
+swalk cast 'shadow walk
+sp cast 'shadow sphere'
+sv cast 'shadow vision' $*
+pp back $*
+oo cast 'shadow blade' $*
+dc destroy corpse
+1 assist
+b cast 'blind' $*
+invis cast 'invis' $*
+rr recite rec rec
+dos cast 'dance of shadows'
+blur cast 'blur
+ii trip $*

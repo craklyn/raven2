@@ -1,0 +1,1027 @@
+#12101
+the High Road~
+  You are standing atop the Road leading towards the town of Freehold and the
+lands of Duke Arilan.  You have heard grim stories of the area and the dark
+ruler of the domain just north of the Duke's Lands.  Dark stories of an evil
+that is growing in mountains to the north of the Bremani Rim.  You shudder as
+you consider entering this troubled land.  A battered sign stands as a lone
+sentinel guarding the way.
+~
+121 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12104
+D2
+~
+~
+0 -1 4036
+E
+sign~
+                               The Irredenta
+                            The Unreedemed Land
+
+                       Designed by... The Epee artist
+
+                        for characters of level 25+
+~
+S
+#12102
+the Wood~
+  You stand in the dark wood surrounded by menacing trees.  To the east, you
+can hear the sound of running water, and to the west lies a rope bridge leading
+over a chasm to a dark forest.
+~
+121 1 0 0 0 3 255 0
+D0
+~
+~
+0 -1 12108
+D1
+~
+~
+0 -1 12103
+S
+#12103
+the Waterfall~
+  The river takes a sharp turn here, and cascades down a cliffside in a
+brilliant waterfall.  The trees are thinner here, and you can hear sounds of
+living creatures.  You see some footprints here.
+~
+121 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 12109
+D2
+~
+~
+0 -1 12601
+D3
+~
+~
+0 -1 12102
+E
+footprints~
+They lead south around behind the waterfall.... Hmmmmmm, maybe you should
+explore?
+~
+S
+#12104
+the High Road~
+  You are standing atop the Duke's highway.  Far to the north, you can see
+distant mountains.  A quickly flowing river is to your west, forming a
+waterfall.  To the east, you see smoke rising as if from a great fire.
+~
+121 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12110
+D1
+~
+~
+0 -1 12105
+D2
+~
+~
+0 -1 12101
+E
+river~
+  The river is flowing to quickly to attempt to cross it here.  Maybe somewhere
+up the road, the will be a bridge...
+~
+E
+smoke~
+You see the smoke curling up from what looks like a burning building.  You can
+see dark figures moving outside the house.
+~
+S
+#12105
+the burning house~
+A burning mansion stands before you, its only door to the east.  Crazed
+bandits are burning and looting all around you.  Some brave hero should stop
+this outrage...
+~
+121 0 0 0 0 2 255 0
+D0
+~
+~
+0 -1 12111
+D1
+you see a raging inferno that no one could survive~
+~
+0 -1 12106
+D2
+You see the gates to a small city.
+~
+~
+0 0 24701
+D3
+~
+~
+0 -1 12104
+E
+house~
+The house is burning at a ferocious rate.  Any attempt to enter it would be
+suicidal.
+~
+E
+bandits~
+The bandits look at you and laugh, but before you can take any action they
+have run away again.
+~
+S
+#12106
+inside the house~
+Maybe this wasn't one of your hottest ideas...
+~
+121 2 0 0 0 0 255 0
+D3
+~
+~
+0 -1 12105
+S
+#12107
+the campfire~
+  A giant bonfire fills this section of the forest.  Broken bones litter the
+ground, and pieces of meat lie spitted over the fire, cooking.
+~
+121 0 0 0 0 3 255 0
+D1
+~
+~
+0 -1 12108
+E
+meat~
+It looks like an adventurer... (or what used to be one)
+~
+E
+fire~
+The giant bonfire looks as if it was built by a REALLY BIG creature...
+~
+S
+#12108
+The Wood~
+  You stand in the woods surrounded by dark trees.  The sound of your own
+breathing is the only sound that you can hear in the darkness.
+~
+121 1 0 0 0 3 255 0
+D0
+~
+~
+0 -1 12113
+D1
+~
+~
+0 -1 12109
+D2
+~
+~
+0 -1 12102
+D3
+~
+~
+0 -1 12107
+S
+#12109
+The Wood~
+  A body lies nailed to a stake in the center of this clearing.  Stripped of
+skin, his skull lears at you daring you to come further.  You uneasily
+remember the tales of a demonic cult worshipping the Dead God hidden in this
+forest somewhere.  You shiver and look away.  The river blocks your progress
+to the west.
+~
+121 0 0 0 0 3 255 0
+D0
+~
+~
+0 -1 12114
+D2
+~
+~
+0 -1 12103
+D3
+~
+~
+0 -1 12108
+E
+body~
+The body is marked with the scars of an obscene ritual dedicated to Somm the
+Dead, God of Misery.
+~
+S
+#12110
+The High Road~
+  The road continues its path north.  The river still blocks progress to the
+west, but you see a bridge to the north.  An overturned wagon give testimony
+to the danger abroad in the land.
+~
+121 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12115
+D1
+~
+~
+0 -1 12111
+D2
+~
+~
+0 -1 12104
+E
+wagon~
+The cart is badly mauled and scarred by weapons.  You see the horribly
+mutilated body of its owner lying in a ditch along the road.
+~
+E
+body~
+The body has been mutilated as a sacrifice to the dread god Somm the Dead,
+thought killed over 500 years ago by Corryn Haldane, later to be known as the
+first Duke Arilan.
+~
+S
+#12111
+the mountain path~
+  A lonely path lead away from the High Road here.  It continues east up into
+the mountains.  As you look along the path, you can see airborne shapes
+circling the mountaintop.
+~
+121 0 0 0 0 4 255 0
+D0
+~
+~
+0 -1 12116
+D1
+~
+~
+0 -1 12112
+D2
+~
+~
+0 -1 12105
+D3
+~
+~
+0 -1 12110
+E
+mountain~
+The path winds a lonely circle up to the top of the mountain.
+~
+E
+shapes~
+The shapes look like giant birds of some type.  As you listen, a airborne
+scream reaches your ears chilling the very blood in your veins.
+~
+S
+#12112
+the winding path~
+  The path you were following stops at the mountain here.  Frightening screeches
+and screams eminate from the mountain top far above you.  It seems as if you
+could climb up from here if you set your mind to it.
+~
+121 0 0 0 0 5 255 0
+D3
+~
+~
+0 -1 12111
+D4
+~
+~
+0 -1 12139
+E
+mountain~
+The mountain rises high above you like a silent monolith.
+~
+S
+#12113
+the Wood~
+  You stand in the forest surrounded by trees.  You see motion out of the corner
+of your eye, but when you turn, it is gone.
+~
+121 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12118
+D1
+~
+~
+0 -1 12114
+D2
+~
+~
+0 -1 12108
+S
+#12114
+The Dark Wood~
+  This place is creepy!  Dark trees block the sun from view, and red eyes stare
+out at you from low bushes.  You feel as if this wood doesn't like outsiders.
+A single scream cuts through the silence as you consider your surroundings.
+~
+121 1 0 0 0 3 255 0
+D1
+~
+~
+0 -1 12142
+D2
+~
+~
+0 -1 12109
+D3
+~
+~
+0 -1 12113
+E
+eyes~
+The eyes disappear back into the forest when you attempt to get a closer look
+at them.
+~
+S
+#12115
+the High Road~
+  The road splits here, one branch going east over a wooden bridge, the other
+to the east.  To the north, a large field opens before you, and you can see 
+the signs of a large battle.  A sign stands here.
+~
+121 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12120
+D1
+~
+~
+0 -1 12116
+D2
+~
+~
+0 -1 12110
+D3
+~
+~
+0 -1 12142
+E
+bridge~
+  The bridge seems solidly constructed, but not very well used.  Maybe there is
+some reason that the bridge lies unused.
+~
+E
+sign~
+                      Freehold  ------------>
+
+                    <----------- Danger!!
+~
+S
+#12116
+the High Road~
+  The road that you are travelling on contibues to the north and west.  To the
+east, it leads to a tall keep with shining white walls, with brightly colored
+banners flying from the tops of the towers.
+~
+121 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12121
+D1
+~
+~
+0 -1 12117
+D2
+~
+~
+0 -1 12111
+D3
+~
+~
+0 -1 12115
+E
+keep~
+You see the Michaeline Chapterhouse, the center of the Knights activities in
+the area.
+~
+S
+#12117
+Drawbridge~
+  You stand before the drawbridge to the Michaeline Keep.  From the walls you
+can hear shouts as men prepare for war, and you see a bustle of people
+evacuating the countryside.
+~
+121 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 12701
+D3
+~
+~
+0 -1 12116
+E
+people~
+The people seem to be fleeing from some unknown terror.
+~
+S
+#12118
+the road~
+  A road leads north from the woods to the mountains.  Everything is very dark,
+and you see little evidence of life.
+~
+121 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12124
+D2
+~
+~
+0 -1 12113
+S
+#12119
+The Battlefield~
+  The forces of Lord Skul are staging their forces here to be sent against
+the Knights of St. Michael.  Despite there overwhelming superiority in
+numbers, Lord Skul's armies can't seem to beat the Knights.  Tall menacing
+mountains stand all around, and a river flows from the high peaks down into
+the plains.
+~
+121 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 12120
+S
+#12120
+The Battlefield~
+  Brave Michaeline Knights are engaged in combat against the forces of Lord
+Skul here.  The Knights are being forced back, but are being rallied by their
+leader and making their stand on a high hill.
+~
+121 0 0 0 0 2 255 0
+D1
+~
+~
+0 -1 12121
+D2
+~
+~
+0 -1 12115
+D3
+~
+~
+0 -1 12119
+E
+leader~
+The leader of the Knights is a tall knight dressed in silver armor and
+carrying a flag with the emblem of the Order of Saint Michael in one hand, and
+a giant sword in the other.  Wherever he goes, the forces of Lord Skul are
+pushed back.
+~
+E
+knight~
+The Michaeline order is staging a pitched battle to stop Lord Skul's army.
+~
+S
+#12121
+the High Road~
+  The Road continues to the North here.  Refugees crowd the road, and you can
+see fighting to your west.  A small path leads off east.
+~
+121 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12126
+D1
+~
+~
+0 -1 12122
+D2
+~
+~
+0 -1 12116
+D3
+~
+~
+0 -1 12120
+E
+path~
+The path looks overgrown and not well known.
+~
+E
+refugees~
+They seem to be fleeing from the invading army.
+~
+S
+#12122
+Hidden Path~
+  This Path is well hidden and probably not very well known.  Shrubs and bushes
+clog the path making it seemingly impassable, and trees hide the sun from view.
+~
+121 5 0 0 0 3 255 0
+D1
+~
+bushes shrubs~
+1 -1 12123
+D3
+~
+~
+0 -1 12121
+E
+trees~
+They are covered with moss and rotting bark.
+~
+S
+#12123
+the Hidden Path~
+  The path makes a sharp turn to the north and west here.  You can hear sounds
+of birds and other creatures in the background, but nothing else.
+~
+121 5 0 0 0 3 255 0
+D0
+~
+~
+0 -1 12128
+D3
+~
+shrubs bushes~
+1 -1 12122
+S
+#12124
+Twisted Path~
+  A twisted and rocky path leads north into the mountains.  The footprints of
+ironshod boots mar the dusty earth.  To the east, you can see the ruins of a
+outpost that tried to resist Lord Skul.  To the North, the path opens into
+a great mountain pass.
+~
+121 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12130
+D1
+~
+~
+0 -1 12125
+D2
+~
+~
+0 -1 12118
+E
+footprints~
+It looks as if a large army moved through here...
+~
+E
+pass~
+The pass looks well defended.
+~
+S
+#12125
+Broken Keep~
+   Broken ramparts, felled towers and smashed walls give testimony to the
+fierce fighting here.  Smoke still rises from the recent fighting, and you can
+here some sounds of combat that are still occurring.    
+~
+121 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12147
+D1
+~
+~
+0 -1 12144
+D3
+~
+~
+0 -1 12124
+S
+#12126
+the High Road~
+  The High Road continues to the north and south here.  The road is clogged with
+refugees fleeing the fighting armies.
+~
+121 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12131
+D2
+~
+~
+0 -1 12121
+E
+refugees~
+The are fleeing the approaching armies of Lord Skul.
+~
+S
+#12128
+The cliff face~
+  Amidst the undergrowth, a stone cliff face rises high above you.  The cliff
+rises far to steeply for it to be climbable.
+~
+121 1 0 0 0 3 255 0
+D0
+~
+~
+0 -1 12133
+D2
+~
+~
+0 -1 12123
+D3
+~
+granite door~
+1 12128 12525
+E
+cliff~
+You see the the faint outline of a door on the cliff face.
+~
+E
+door~
+It appears to be locked.  The lock is made out of granite...
+~
+S
+#12129
+Before the Keep~
+  A keep stands before you darkly towering over you.  The gates stand open and
+you can see dark shapes moving in the windows.  A large sign stands here.
+A large statue stand here as well.
+~
+121 4 0 0 0 1 255 0
+D0
+~
+~
+0 -1 5301
+D1
+~
+~
+0 -1 12130
+D2
+~
+gates~
+1 0 12801
+E
+sign~
+                            Dragonor Keep
+                     (owned by the Ravens Guild)
+
+             There is a quest involved in this section!!
+             The only way out (other than recall or summoning)
+             is to successfully complete the quest.  You will
+             need some serious firepower to succeed, as some
+             of the fights are tough.  Hint:  you need to get
+             four keys to escape.  This section will not reset
+             until all players leave.
+
+                   brought to you by:  the Epee Artist
+~
+E
+gate~
+You see a statue of a raven atop the gate.
+~
+E
+raven~
+Someone has scratched the word "Nevermore" onto the base of the statue.
+~
+E
+statue~
+It is a statue of a raven.
+~
+S
+#12130
+The High Pass~
+  You stand at the beginning of a high mountain pass.  To the west, Dragonor
+Keep guards the approach to the pass. The path continues north into the
+Bremani mountain range.
+~
+121 5 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12135
+D2
+~
+~
+0 -1 12124
+D3
+~
+~
+0 -1 12129
+E
+keep~
+The Keep stands silent and unmoving high on the cliff.  You see it faintly
+covered by a glowing shield.
+~
+S
+#12131
+the High Road~
+  The road travels south from here.  To the East, you can see the town gates of
+Freehold.
+~
+121 4 0 0 0 1 255 0
+D1
+~
+~
+0 -1 12132
+D2
+~
+~
+0 -1 12126
+S
+#12132
+outside the gates~
+  The High Road leads to the west from here.  Gates to the north lead into the
+city of Freehold.  
+~
+121 4 0 0 0 1 255 0
+D0
+~
+gates~
+1 0 12201
+D3
+~
+~
+0 -1 12131
+S
+#12133
+the Hidden Path~
+  The path passes over a small stream here.
+~
+121 1 0 0 0 3 255 0
+D1
+~
+~
+0 -1 12134
+D2
+~
+~
+0 -1 12128
+E
+stream~
+The stream is filled with small pebbles and rocks.
+~
+E
+rocks~
+As you lean over look at the rocks, you see a small note that was apparently
+dropped by its previous owner.
+~
+E
+pebbles~
+As you lean over to look at a pebble, you see a small note that was apparently
+dropped on the ground.
+~
+E
+note~
+the note reads:
+                    Nord,
+                         Have that key to the back entrance on you.
+                         When we attack the convoy, we will need to
+                         get away quick.
+                                        -the Honorable Man
+~
+S
+#12134
+the Hidden Path~
+  To the north, you can see a small clearing in front of the city gates of
+Freehold.  The path continues to the west into the dense undergrowth.
+~
+121 1 0 0 0 3 255 0
+D0
+~
+shrubs bushes~
+1 -1 12136
+D3
+~
+~
+1 -1 12133
+S
+#12135
+The High Pass~
+   You are travelling along a mountain pass, through the Bremani mountain
+range. The pass is little used by the inhabitants of Irredenta, as it leads
+into the domain of Lord Skul the Outcast... perhaps you should turn back while
+you still live.
+~
+121 5 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12137
+D2
+~
+~
+0 -1 12130
+S
+#12136
+outside the gates~
+  You are in a small clearing.  To the West, you can see the gates of Freehold.
+Hard-bitten guards stare at you with undisguised contempt. A highway has opened
+to the east leading you into the countryside.
+~
+121 1 0 0 0 3 255 0
+D1
+~
+~
+0 0 13990
+D2
+~
+shrubs bushes~
+1 -1 12134
+D3
+~
+gates~
+1 12147 12226
+S
+#12137
+Before the Mountain~
+   The pass leads directly to a large, gloomy mountain, which lies to the
+north. On the side of the mountain sits what was once a great castle, the 
+fortress of Lord Skul. It was sacked a decade past by Duke Arilan and his 
+vassals, but, in recent times, Lord Skul has arisen again and made war on 
+Irredenta. While Skul's black armoured troops can sometimes be seen exiting 
+from the pass, his old castle looks quite abandoned.
+~
+121 1 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12138
+D2
+~
+~
+0 -1 12135
+E
+mountains~
+The mountains are high and form the natural bounderies of Lord Skul's
+influence.
+~
+S
+#12138
+Nearing the Ruins~
+   Following the old road, you are now much closer to ruined castle. It appears
+abandoned, but... something doesn't feel quite right. Perhaps its not to late
+to turn back.
+~
+121 1 0 0 0 1 255 0
+D0
+A ruined castle lies ahead.
+~
+~
+0 0 20201
+D2
+~
+~
+0 -1 12137
+S
+#12139
+The plateau~
+  You stop your upward climb to rest in front of a large cave.  The mountain
+rises above you still higher, and you hear the screams even more vividly.  You
+start to wonder if this is still a good idea...
+~
+121 0 0 0 0 5 255 0
+D1
+~
+~
+0 -1 12141
+D4
+~
+~
+0 -1 12140
+D5
+~
+~
+0 -1 12112
+E
+cave~
+The cave stands ominously before you.  You can hear the noises of something
+moving around in there.  You hear sounds to as if from a smaller version of
+one of the creatures flying above you.
+~
+S
+#12140
+The Arie~
+  Griffins alight and rest all along this cliff.  You have a great view of the
+surrounding countryside.  To the north, you can see the glimmer of lights from
+the town of Freehold.  To the west, you see a small keep.  Further west, you
+see a raging river, and a dark wood.
+~
+121 0 0 0 0 5 255 0
+D5
+~
+~
+0 -1 12139
+E
+town~
+The town spreads out far to the north.
+~
+E
+keep~
+You see a keep owned by the Michaeline Knights.  Its white walls and high
+towers are a sign of safety and justice in this desolate land.
+~
+E
+river~
+The river lies several leagues to the east.
+~
+E
+wood~
+Looking towards the wood, a chill comes over you, and a cloud blocks the sun.
+~
+S
+#12141
+the cave~
+  You stand surrounded by piles of remnants from dead animals.  Suddenly, a
+scream interrupts you thoughts and you look into the eyes of a mother Griffin
+and her cubs.
+~
+121 9 0 0 0 5 255 0
+D3
+~
+~
+0 -1 12139
+E
+bones~
+Small bones cleaned of all the meat lie in heaps on the ground.
+~
+S
+#12142
+on the bridge~
+  You stand atop the bridge.  As you look out over the river, a ferral growl
+comes from under the bridge.  A dark forest begins to your west, and you see a
+road to the west.
+~
+121 4 0 0 0 1 255 0
+D1
+~
+~
+0 -1 12115
+D3
+~
+~
+0 -1 12114
+D5
+~
+~
+0 -1 12143
+S
+#12143
+Under the bridge~
+  A large creature lives here.  From the carnage of broken bodies and wagons,
+it obviously lives off of unwary travellers.  The smell here is alomst 
+unbearable.
+~
+121 1 0 0 0 1 255 0
+D4
+~
+~
+0 -1 12142
+S
+#12144
+Broken walls~
+  The walls of the keep are tossed down as if they were lego's.  You aren't
+sure you want to run into whatever did this...
+~
+121 0 0 0 0 1 255 0
+D0
+~
+~
+0 -1 12146
+D3
+~
+~
+0 -1 12125
+S
+#12146
+Broken Tower~
+  The defense seems to have centered around a tower in the center of the keep
+here.  The tower has been toppled, and broken stone lies everywhere...
+~
+121 0 0 0 0 1 255 0
+D2
+~
+~
+0 -1 12144
+D3
+~
+~
+0 -1 12147
+S
+#12147
+Broken buildings~
+  The barracks and main living quarters of the troops garrisoning the pass used
+to stand here.  All that is left is a smoking pile of rubble.
+~
+121 0 0 0 0 1 255 0
+D1
+~
+~
+0 -1 12146
+D2
+~
+~
+0 -1 12125
+S
+$~

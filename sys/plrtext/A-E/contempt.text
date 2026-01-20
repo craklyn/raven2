@@ -1,0 +1,37 @@
+k bash $*
+newquests nt 4s2wne
+safe nosum;norec
+home n;n;n;n;n;n;n;n;n;e;e;s;e;e;
+chaos cast 'chaos armor'
+1 close boulder
+cor get all all.contempt;wear all;get all all.contempt;wear all;wield darksword
+clan clan &08$* &13
+cw clanwho
+pest cast 'pestilence'
+aura cast 'aura of apoc'
+di cast 'detect invis' $*
+dart cast 'black dart' $*
+pfg cast 'protection from good'
+dead cast 'animate dead' $*
+bre cast 'black breath' $*
+reg cast 'regen' $*
+bl cast 'blind' $*
+arm cast 'armor' $*
+fe feed
+r rescue $*
+gs gsay &08$* &00
+inf cast 'eyes of the dead'
+say say &08$* &00
+gt gt &08$* &00
+regen c 'regen' $*
+bd c 'black dart' $*
+infra c 'eyes of the dead'
+fol ord fol $*
+rr rec rec
+rrr rec rec rec
+dis disarm $*
+b c 'blind' $*
+dt c 'death touch' $*
+f feed $*
+bb c 'black breath' $*
+g assist;feed

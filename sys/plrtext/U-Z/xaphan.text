@@ -1,0 +1,21 @@
+rgn cast 'regen'
+gas cast 'black breath'
+breath cast 'black breath' $1
+arm cast 'armor' $1
+garm cast 'armor' group
+dal cast 'deatect align' $1
+raise cast 'animate dead' $1
+unh cast 'unholy'
+blind cast 'blind' $1
+greg cast 'regen' group
+reg cast 'regen' self
+det cast 'detect inv' $1
+prot cast 'protection from good'
+dart cast 'black dart' $*
+drt cast 'black dart'
+aura cast 'aura'
+chaos cast 'chaos armor'
+pst cast 'pestilence'
+dispel cast 'dispel good' $1
+dsp cast 'dispel good'
+eyes cast 'eyes'

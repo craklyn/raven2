@@ -1,0 +1,40 @@
+#1000
+IMMortal Test Zone~
+   This zone is used to make temporary objects, mobiles, or rooms.    
+~
+10 0 0 0 0 0 255 0
+S
+#1001
+&08UNDERGROUND FIGHT CLUB&00~
+&01RULES OF FIGHT CLUB&00
+
+FIRST RULE: You do not talk about FIGHT CLUB
+SECOND RULE:  You DO NOT talk about FIGHT CLUB
+THIRD RULE:  If someone says "stop" or goes limp or taps out, the fight is over.
+FOURTH RULE:  Only two guys to a fight.  
+FIFTH RULE:  One fight at a time.
+SIXTH RULE:  No shirts, no shoes.
+SEVENTH RULE:  Fights will go on as long as they have to.
+EIGHTH RULE:  If this is your first night at FIGHT CLUB, you HAVE to fight.
+
+&01&25ALL BETS ARE FINAL&00
+~
+10 512 4 0 0 0 0 0
+D4
+~
+~
+0 0 1002
+S
+#1002
+&11SAFETY ROOM&00~
+You are in an unfinished room.
+This room is purely to keep you safe.  Please keep in mind, that I'd rather
+see you die.
+~
+10 528 4 0 0 0 0 0
+D5
+~
+~
+0 0 1001
+S
+$~

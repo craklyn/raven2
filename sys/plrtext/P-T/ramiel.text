@@ -1,0 +1,31 @@
+h kill grim
+cc c ' cure crit ' $*
+p scan
+clan clan &10$* &11
+cb c ' cure blind ' $*
+2 c ' holy armor '
+dm c ' divine mission '
+dd d;gs &11Going &00;kill $*
+uu u;gs &11Going &00;kill $*
+ss s;gs &11Going &00;kill $*
+nn n;gs &11Going &00;kill $*
+ww w;gs &11Going &00;kill $*
+ee e;gs &11Going &00;kill $*
+rr rescue $*
+z disarm $*
+44 c ' create food '
+4 kick $*
+a assist
+rpp c ' remove poison ' $*
+di c ' detect invis ' $*
+1 get all corpse
+pfe c ' prot '
+wo who
+say emote says, '&18$* &00'
+rc c ' remove curse ' $*
+r c ' reg ' $*
+cw clanwho
+gs gs &03[&10+&00&03]&00&10$*&00 &03[&00&10+&00&03]&00
+pp kill 3.
+tit tit :: &10Rapture&00 has come
+see c ' righteous vision '

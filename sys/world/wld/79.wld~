@@ -1,0 +1,1939 @@
+#7900
+The Ebony Queen~
+This is a well-armed, pirate vessel "The Ebony Queen."  This area
+will hopefully be for 15th and higher level player groups.  Created by Joe
+Hunter.
+~
+79 44 0 0 0 0 255 0
+S
+#7901
+On The Bow~
+You are standing at the tip of the foredeck. From here, you can look out over
+the water and the docks and see the other ships that are currently into port,
+or you can see into the city itself.  The foredeck extends aft.
+~
+79 32768 0 0 0 1 255 0
+D2
+The foredeck extends aft.
+~
+~
+0 -1 7902
+S
+#7902
+On The Foredeck~
+You are standing on the foredeck.  Directly in front of you are two huge
+ballista.  To the starboard and port are the deck railings.  To the fore is
+the bow and the foredeck extends to the aft.
+~
+79 32768 0 0 0 1 255 0
+D0
+You see the bow to the fore.
+~
+~
+0 -1 7901
+D2
+The foredeck continues to the aft.
+~
+~
+0 -1 7903
+S
+#7903
+On The Foredeck~
+You are standing on the foredeck.  Two huge ballistae are bolted to the deck
+to the fore and there are railings to the port and starboard sides.  On the
+deck, at your feet, you see the decklight.  To the aft is stairs leading down
+to the Ebony Queen's main deck.
+~
+79 32768 0 0 0 1 255 0
+D0
+The foredeck extends to the fore.
+~
+~
+0 -1 7902
+D5
+You see the stairs to the main deck.
+~
+~
+0 -1 7912
+S
+#7904
+On The Poop Deck~
+You are standing on the poop deck.  On the deck, at your feet, you see the
+decklight.  To the aft is a door and stairs leading up to the quarterdeck.
+To the fore of the ship is stairs leading down to the main deck.
+~
+79 32768 0 0 0 1 255 0
+D2
+You see a doorway to the aft.
+~
+door~
+2 -1 7905
+D4
+You see the stairs to the quarterdeck.
+~
+~
+0 -1 7907
+D5
+You see the stairs to the maindeck.
+~
+~
+0 -1 7923
+S
+#7905
+The Great Cabin~
+This room is dominated by a large work bench covered with a great number of
+magical apparatus bolted to the floor in the aft of the room.  On this side of
+the room, you see a small table, a bunk and a bookshelf bolted to the floor.
+Magic symbols cover the walls along with a few schorch marks where some spells
+have taken a toll.  To the fore of the room is the doorway to the poop deck
+and the room extends to the aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the doorway to the maindeck.
+~
+door~
+2 -1 7904
+D2
+You see the rest of the cabin.
+~
+~
+0 -1 7906
+S
+#7906
+The Great Cabin~
+This is the aft side of the cabin.  The huge work bench bolted here to the
+floor leaves little room for passage, much less other furniture.  Behind the
+bench is a single stool.  The cabin extends foreward.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the rest of the cabin.
+~
+~
+0 -1 7905
+S
+#7907
+On The Quarterdeck~
+You are standing on the quarterdeck.  You are surrounded on three sides by
+railings that look out over the sides of the ship.  Looking out over the
+stern, you see the some of the other ships docked here.  To the fore, are
+stairs leading down to the poop deck.
+~
+79 32768 0 0 0 1 255 0
+D5
+Stairs lead below to the poop deck.
+~
+~
+0 -1 7904
+S
+#7908
+On The Gangplank~
+You are standing on the plank.  Lucky for you, it doesn't extend out over
+open water.  To the east is the dock and the plank extends west toward 'The
+Ebony Queen'.
+~
+79 32772 0 0 0 1 255 0
+D1
+You see the docks to the east.
+~
+~
+0 0 15417
+D3
+The planks continues west.
+~
+~
+0 -1 7909
+S
+#7909
+On The Gangplank~
+You are standing on the plank.  To the west, through the ship's railing, is
+the maindeck of 'The Ebony Queen'.  The plank extends to the east.
+~
+79 32768 0 0 0 1 255 0
+D1
+The plank extends east.
+~
+~
+0 -1 7908
+D3
+You see the main deck.
+~
+railing~
+1 -1 7914
+S
+#7910
+In The Forecastle~
+This room contains mostly canvas although the foreward mast rises from the
+floor and travels up through the ceiling.  Wear and tear on the sails keeps
+the pirates unlucky enough to have sail duty busy sewing and patching by the
+light of the decklight grating above.  Along with this, barrels of tar and
+other gear needed for repairs to the ship are lined against the walls.  To
+the aft is the doorway to the main deck and there is a door to the port side
+of the room.
+~
+79 32768 0 0 0 1 255 0
+D2
+You see the doorway to the main deck.
+~
+door~
+2 -1 7913
+D3
+You see a door.
+~
+door~
+2 -1 7911
+S
+#7911
+Storage Locker~
+This room is used to store the ballistae bolts.  Boxes and boxes of the giant
+bolts are stored here. The door to the forecastle is to the starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the door to the forecastle.
+~
+door~
+2 -1 7910
+S
+#7912
+The Foreward End Of The Main Deck (Port)~
+You are at the foreward end of the main deck.  From here, you can look
+aftward and see the hustle and bustle of the crew.  Stairs lead above to the
+foredeck and the maindeck stretches starboard and aftward.
+~
+79 32768 0 0 0 1 255 0
+D1
+The main deck.
+~
+~
+0 -1 7913
+D2
+The main deck.
+~
+~
+0 -1 7916
+D4
+The stairs to the foredeck.
+~
+~
+0 -1 7903
+S
+#7913
+The Foreward End Of The Main Deck (Starboard)~
+You are at the foreward end of the main deck.  From here, you can look
+aftward and see the hustle and bustle of the crew.  The maindeck stretches
+both port and aft form here.
+~
+79 32768 0 0 0 1 255 0
+D0
+You see a door.
+~
+door~
+2 -1 7910
+D2
+The main deck.
+~
+~
+0 -1 7915
+D3
+The main deck.
+~
+~
+0 -1 7912
+S
+#7914
+The Starboard Side of the Main Deck~
+You are standing near the starboard railing of the main deck.  From here, you
+can look out on the water and see the other ships in port.  The main deck
+continues port and aft of here and the gangplank extends east through the
+railing.
+~
+79 32768 0 0 0 1 255 0
+D1
+You see the plank.
+~
+railing~
+1 -1 7909
+D2
+The main deck.
+~
+~
+0 -1 7921
+D3
+The main deck.
+~
+~
+0 -1 7915
+S
+#7915
+The Main Deck~
+You are standing on the main deck.  All around you, the pirates scurry about
+preparing the ship for another voyage.  To the aft you see the main mast and
+the landing boat.  The main deck continues port, starboard, fore and aft.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main deck.
+~
+~
+0 -1 7913
+D1
+The main deck.
+~
+~
+0 -1 7914
+D2
+The main deck.
+~
+~
+0 -1 7920
+D3
+The main deck.
+~
+~
+0 -1 7916
+S
+#7916
+The Main Deck~
+You are standing on the main deck.  All around you, the pirates scurry about
+preparing the ship for another voyage.  To the aft you see the main mast and
+the hatch.  The main deck continues port, starboard, fore and aft.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main deck.
+~
+~
+0 -1 7912
+D1
+The main deck.
+~
+~
+0 -1 7915
+D2
+The main deck.
+~
+~
+0 -1 7919
+D3
+The main deck.
+~
+~
+0 -1 7917
+S
+#7917
+The Port Side Of The Main Deck~
+You are standing on the main deck of 'The Ebony Queen'.  All around you,
+pirates are rushing to and fro', preparing the ship to sail.  The main deck
+continues starboard and aft from here.
+~
+79 32768 0 0 0 1 255 0
+D1
+The main deck.
+~
+~
+0 -1 7916
+D2
+The main deck.
+~
+~
+0 -1 7918
+S
+#7918
+The Port Side Of The Main Deck~
+You are standing near the port railing of the main deck.  Here is where men and
+beast alike tremble.  A large wooden plank seems to stretch on forever to the
+west.  Certain death awaits those who walk it.  To the starboard side you see
+the main mast and main hatch.  The main deck continues starboard, fore and aft
+of here.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main deck.
+~
+~
+0 -1 7917
+D1
+The main deck.
+~
+~
+0 -1 7919
+D2
+The main deck.
+~
+~
+0 -1 7925
+D3
+~
+~
+0 0 7993
+S
+#7919
+At The Main Hatch~
+You are in the middle of the heaviest activity on the deck.  Spoils brought
+on-board are quickly brought topside through the hatch to be taken into town
+to one of the many fences the Captain does business with.  Next to the hatch
+is the main mast.  The main deck continues fore, aft, starboard and port and
+the hatch leads below.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main deck.
+~
+~
+0 -1 7916
+D1
+The main deck.
+~
+~
+0 -1 7920
+D2
+The main deck.
+~
+~
+0 -1 7924
+D3
+The main deck.
+~
+~
+0 -1 7918
+D5
+Down the hatch.
+~
+hatch~
+1 -1 7942
+S
+#7920
+At The Main Mast~
+You are standing on the main deck between the main mast and the landing boat.
+The main deck stretches all around you and a ladder goes up the side of the
+mast.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main deck.
+~
+~
+0 -1 7915
+D1
+The main deck.
+~
+~
+0 -1 7921
+D2
+The main deck.
+~
+~
+0 -1 7923
+D3
+The main hatch.
+~
+~
+0 -1 7919
+D4
+The ladder up the mast.
+~
+~
+0 -1 7981
+S
+#7921
+The Starboard Side of the Main Deck~
+You are standing near the starboard railing of the main deck.  From here, you
+can look out on the water and see the other ships in port.  The main deck
+continues fore and aft of here and the main mast and landing boat is to the
+port side.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main deck.
+~
+~
+0 -1 7914
+D2
+The main deck.
+~
+~
+0 -1 7922
+D3
+The main mast.
+~
+~
+0 -1 7920
+S
+#7922
+The Starboard Side of the Main Deck~
+You are standing near the starboard railing of the main deck.  From here, you
+can look out on the water and see the other ships in port.  The main deck
+continues fore and port from here.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main deck.
+~
+~
+0 -1 7921
+D3
+The main deck.
+~
+~
+0 -1 7923
+S
+#7923
+The Aft End Of The Main Deck~
+You are standing on the main deck.  Foreward you see the main mast and the
+landing boat, as well as, pirates moving about their business of readying the
+ship for sail.  Aft you see a door and stairs here lead up to the poop deck.
+The main deck continues port and starboard.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main mast.
+~
+~
+0 -1 7920
+D1
+The main deck.
+~
+~
+0 -1 7922
+D2
+You see a door.
+~
+door~
+2 -1 7928
+D3
+The main deck.
+~
+~
+0 -1 7924
+D4
+You see the stairs to the poop deck.
+~
+~
+0 -1 7904
+S
+#7924
+The Aft End Of The Main Deck~
+You are standing on the main deck.  Foreward you see the main hatch as well
+as pirates moving about their business of readying the ship for sail.  Aft
+you see a door and the main deck continues port and starboard.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main hatch.
+~
+~
+0 -1 7919
+D1
+The main deck.
+~
+~
+0 -1 7923
+D2
+You see a door.
+~
+door~
+2 -1 7927
+D3
+The main deck.
+~
+~
+0 -1 7925
+S
+#7925
+The Port Side Of The Main Deck~
+You are standing near the port railing of the main deck.  From here, you can
+look over the railing and see the docks.  Out on the deck, pirates are racing
+to prepare the ship to sail.  The main deck continues to the fore and
+starboard sides.
+~
+79 32768 0 0 0 1 255 0
+D0
+The main deck.
+~
+~
+0 -1 7918
+D1
+The main deck.
+~
+~
+0 -1 7924
+S
+#7926
+The Map Room~
+This is obviously the navigator's working area.  Bolted to the floor of the
+room is a large, rectangular table although only one chair accompanies it.  A
+great number of nautical maps cover the table and even more are rolled and
+stacked on the shelves that line the walls.  The only door is on the
+starboard wall.
+~
+79 32776 0 0 0 0 255 0
+D1
+There is a door here.
+~
+door~
+1 -1 7927
+S
+#7927
+In The Helm~
+You are standing in the helm area.  Being a work area, it is kept fairly
+plain.  To the port side you notice a door and in the opposite direction is
+the large capstan.  To the aft you see the helmsman's platform and to the
+foreward end is the door to the main deck. An open hatch in the floor reveals
+stairs leading below deck.
+~
+79 32780 0 0 0 0 255 0
+D0
+The door to the main deck.
+~
+door~
+2 -1 7924
+D1
+The helm room.
+~
+~
+0 -1 7928
+D2
+The helmsman's platform.
+~
+~
+0 -1 7931
+D3
+You see a door.
+~
+door~
+1 -1 7926
+D5
+You see stairs leading down
+~
+hatch~
+1 -1 7950
+S
+#7928
+In The Helm~
+You are standing in the helm area.  Directly in front of you is the large
+capstan which is used to hoist the mainsail yardarm.  To the starboard side
+you see a door, to port is a hatch leading below.  Aft of here you see the
+helmsman's platform and foreward is the door to the main deck.
+~
+79 32780 0 0 0 0 255 0
+D0
+The door to the main deck.
+~
+door~
+2 -1 7923
+D1
+You see a door here.
+~
+door~
+2 7910 7929
+D2
+You see the helmsman's platform.
+~
+~
+0 -1 7930
+D3
+The helmroom.
+~
+~
+0 -1 7927
+S
+#7929
+The Ship's Armory~
+This room is lined with shelves and weapon racks.  The racks are kept well
+stocked with all the neccesary implements for hand-to-hand piracy.  The only
+way out is the door to the port side.
+~
+79 33037 0 0 0 0 255 0
+D3
+The door to the helm.
+~
+door~
+2 7910 7928
+S
+#7930
+The Helmsman's Platform~
+You are standing on an elevated platform.  From here, the helmsman guides the
+ship while watching through a window that looks out over the main deck.
+Foreward you see the capstan and the platform continues portward.  To the aft
+you see a door.
+~
+79 32776 0 0 0 0 255 0
+D0
+The helmroom.
+~
+~
+0 -1 7928
+D2
+You see a door.
+~
+door~
+2 7911 7933
+D3
+The helmsman's platform.
+~
+~
+0 -1 7931
+S
+#7931
+The Helmsman's Platform~
+You are standing on an elevated platform.  From here, the helmsman guides the
+ship while watching through a window that looks out over the main deck.
+Foreward you see a hatch leading below and the platform continues starboard.
+~
+79 32776 0 0 0 0 255 0
+D0
+The helmroom.
+~
+~
+0 -1 7927
+D1
+The helmsman's platform.
+~
+~
+0 -1 7930
+S
+#7932
+The Captain's Cabin~
+The captain's cabin is incredibly decadent and filthy.  Most everything is
+thrown around to lie where it fell.  Provacative paintings depicting scantily
+clad women in various vunerable positions line the walls.  The captain
+obviously enjoys travelling in order to sample the foreign brothels.  The
+cabin extends to the starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+The captain's cabin.
+~
+~
+0 -1 7933
+S
+#7933
+The Captain's Cabin~
+The captain's cabin is incredibly decadent and filthy.  Most everything is
+thrown around to lie where it fell.  Provacative paintings depicting scantily
+clad women in various vunerable positions line the walls.  The captain
+obviously enjoys travelling in order to sample the foreign brothels.  The
+cabin extends to the starboard side.
+~
+79 32780 0 0 0 0 255 0
+D0
+The door to the helm.
+~
+door~
+2 7911 7930
+D3
+The captain's cabin.
+~
+~
+0 -1 7932
+S
+#7934
+At The Windlass~
+Directly in front of you is the windlass, a large, double winch, by which one
+or both anchors can be raised or lowered as needed.  On shelves are the
+equipment needed to maintain the windlass and on the floor you see the spare
+anchor.  The only exit is aft.
+~
+79 32776 0 0 0 0 255 0
+D2
+The cargo area of the passenger deck.
+~
+~
+0 -1 7936
+S
+#7935
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 7936
+S
+#7936
+Pathway Through The Cargo Holds~
+You are standing in an aisle in the middle of the cargo area.  To both the
+port and starboard, cargo holds await the spoils of piracy.  Foreward is the
+windlass, and the pathway continues aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the windlass.
+~
+~
+0 -1 7934
+D1
+You see the cargo hold.
+~
+~
+0 -1 7937
+D2
+The path continues aft.
+~
+~
+0 -1 7939
+D3
+You see the cargo hold.
+~
+~
+0 -1 7935
+S
+#7937
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 7936
+S
+#7938
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 7939
+S
+#7939
+Pathway Through The Cargo Holds~
+You are standing in an aisle in the middle of the cargo area.  To both the
+port and starboard, cargo holds await the spoils of piracy.  The pathway
+continues fore and aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+The path continues foreward.
+~
+~
+0 -1 7936
+D1
+You see the cargo hold.
+~
+~
+0 -1 7938
+D2
+The path continues aft.
+~
+~
+0 -1 7942
+D3
+You see the cargo hold.
+~
+~
+0 -1 7940
+S
+#7940
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 7939
+S
+#7941
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway and the main hatch
+is back to the starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 7942
+S
+#7942
+Pathway Through The Cargo Holds~
+You are standing in front of the main hatch the an aisle between the cargo
+holds.  To both the port and starboard, cargo holds await the spoils of
+piracy.  Stairs here go both below and above deck.  The pathway continues
+foreward and to the aft is the passage between the sleeping rooms.
+~
+79 32776 0 0 0 0 255 0
+D0
+The aisle continues forward.
+~
+~
+0 -1 7939
+D1
+You see a cargo hold.
+~
+~
+0 -1 7943
+D2
+The passage between the sleeping rooms.
+~
+~
+0 -1 7945
+D3
+You see a cargo hold.
+~
+~
+0 -1 7941
+D4
+The stairs leading topside.
+~
+~
+1 -1 7919
+D5
+The stairs to the lower decks.
+~
+~
+0 -1 7958
+S
+#7943
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 7942
+S
+#7944
+Bunk Area~
+This room is sparsely furnished with ten sleeping bunks, and foot lockers at
+the foot of each one.  It appears all personal affects are locked up tight.
+There must not actually be any honor among thieves.  The only exit is the door
+you came in.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the door out to the passage.
+~
+door~
+2 -1 7948
+S
+#7945
+The Passage Between Sleeping Rooms~
+You are standing amidship between the sleeping rooms.  To the port side is
+the door to one of these rooms.  The cargo area is foreward and this passage
+continues aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+To the cargo aisle.
+~
+~
+0 -1 7942
+D2
+The passage continues aftward.
+~
+~
+0 -1 7948
+D3
+You see a door.
+~
+door~
+2 -1 7946
+S
+#7946
+Bunk Area~
+This room is sparsely furnished with six sleeping bunks, and foot lockers at
+the foot of each one.  All personal affects are locked up to prevent them
+from becoming the property of some other member of the crew.  The only exit
+is the door you came in.
+~
+79 32776 0 0 0 0 255 0
+D1
+The door to the passage.
+~
+door~
+2 -1 7945
+S
+#7947
+Bunk Area~
+This room is sparsely furnished with six sleeping bunks, and foot lockers at
+the foot of each one.  All personal affects are locked up to prevent them
+from becoming the property of some other member of the crew.  The only exit
+is the door you came in.
+~
+79 425992 0 0 0 0 255 0
+D1
+The door to the passage.
+~
+door~
+2 -1 7948
+S
+#7948
+The Passage Between Sleeping Rooms~
+You are standing amidship between the sleeping rooms.  To each side is a door
+to a sleeping area.  This passage continues fore and aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+The passage between sleeping rooms.
+~
+~
+0 -1 7945
+D1
+You see a door.
+~
+door~
+2 -1 7944
+D2
+The passage continues.
+~
+~
+0 -1 7950
+D3
+There is a door here.
+~
+door~
+2 -1 7947
+S
+#7949
+A Storage Room~
+This looks to be a storage room for cargo of a precious nature.  The lock on
+the door attests to that.  The only exit is the door you came in through.
+~
+79 32776 0 0 0 1 255 0
+D3
+The door out to the passageway.
+~
+door~
+2 7915 7950
+S
+#7950
+The End Of The Passage~
+You have reached the aft end of the passage.  Stairs lead up and down, the
+passage extends foreward, and you see doors to the port, starboard and aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+The passage leads foreward.
+~
+~
+0 -1 7948
+D1
+You see a door.
+~
+door~
+2 7915 7949
+D2
+You see a door.
+~
+door~
+2 -1 7952
+D3
+You see a door.
+~
+door~
+2 7915 7951
+D4
+The stair lead up.
+~
+~
+0 -1 7927
+D5
+The stairs lead below deck.
+~
+~
+0 -1 7967
+S
+#7951
+A Storage Room~
+This looks to be a storage room for cargo of a precious nature.  The lock on
+the door attests to that.  The only exit is the door you came in through.
+~
+79 32776 0 0 0 1 255 0
+D1
+The door out to the passageway.
+~
+door~
+2 7915 7950
+S
+#7952
+The Bridge Crew's Cabin~
+This cabin has comfortable sleeping bunk arrange for maximum use of the space
+provided.  All the furnishings are built in and bolted down to prevent them
+from flying free in rough seas.  Footlockers are bolted to floor at the foot
+of each bunk.  The only exit is the way you came in.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the door to the hallway.
+~
+door~
+2 -1 7950
+S
+#7953
+The Rope Locker~
+This room is used to store the ropes for the anchors and the grappling hooks.
+When the ship hoists anchor, the hawsers feed through holes in the ceiling
+and pirates carefully coil them on the floor of this room.  The only exit is
+aft.
+~
+79 32776 0 0 0 0 255 0
+D2
+The cargo area.
+~
+~
+0 -1 7955
+S
+#7954
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 7955
+S
+#7955
+Pathway Through The Cargo~
+You are standing in an aisle in the middle of the cargo area.  To both the
+port and starboard, cargo holds await the spoils of piracy.  Foreward is the
+rope locker, and the pathway continues aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the rope locker.
+~
+~
+0 -1 7953
+D1
+You see the cargo hold.
+~
+~
+0 -1 7956
+D2
+The path continues aft.
+~
+~
+0 -1 7958
+D3
+You see the cargo hold.
+~
+~
+0 -1 7954
+S
+#7956
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 7955
+S
+#7957
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 7958
+S
+#7958
+Pathway Through The Cargo~
+You are standing in an aisle in the middle of the cargo area.  To both the
+port and starboard, cargo holds await the spoils of piracy.  Stairs here go
+both below and above deck.  The pathway continues foreward and aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+The aisle continues forward.
+~
+~
+0 -1 7955
+D1
+You see a cargo hold.
+~
+~
+0 -1 7957
+D2
+The aisle continues aft.
+~
+~
+0 -1 7961
+D3
+You see a cargo hold.
+~
+~
+0 -1 7959
+D4
+The stairs leading topside.
+~
+~
+1 -1 7942
+D5
+The stairs to the lower decks.
+~
+~
+0 -1 7975
+S
+#7959
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 7958
+S
+#7960
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 7961
+S
+#7961
+Pathway Through The Cargo~
+You are standing in an aisle in the middle of the cargo area.  To both the
+port and starboard, cargo holds await the spoils of piracy.  Foreward is the
+hatch and the pathway continues aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the hatch.
+~
+~
+0 -1 7958
+D1
+You see the cargo hold.
+~
+~
+0 -1 7962
+D2
+The path continues aft.
+~
+~
+0 -1 7964
+D3
+You see the cargo hold.
+~
+~
+0 -1 7960
+S
+#7962
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 7961
+S
+#7963
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 7964
+S
+#7964
+Pathway Through The Cargo~
+You are standing in an aisle in the middle of the cargo area.  To both the
+port and starboard, cargo holds await the spoils of piracy.  The pathway
+continues fore and and a door is aft.
+~
+79 32776 0 0 0 0 255 0
+D0
+The aisle between the holds.
+~
+~
+0 -1 7961
+D1
+You see the cargo hold.
+~
+~
+0 -1 7963
+D2
+You see a door.
+~
+door~
+2 -1 7967
+D3
+You see the cargo hold.
+~
+~
+0 -1 7965
+S
+#7965
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 7964
+S
+#7966
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the aisle between the holds.
+~
+~
+0 -1 7967
+S
+#7967
+Pathway Through The Cargo~
+You are standing in an aisle in the middle of the cargo area.  To both the
+port and starboard, cargo holds await the spoils of piracy.  You see a door
+both fore and aft and stairs lead up to the deck above.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see a door.
+~
+door~
+2 -1 7964
+D1
+You see the cargo hold.
+~
+~
+0 -1 7968
+D2
+You see a door with a skeleton painted on it.
+~
+door~
+2 7917 7969
+D3
+You see the cargo hold.
+~
+~
+0 -1 7966
+D4
+There are stairs leading up.
+~
+~
+0 -1 7950
+S
+#7968
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the aisle between the holds.
+~
+~
+0 -1 7967
+S
+#7969
+The Holding Cell~
+This room consists of two cots bolted to the floor and a single chamber pot.
+When the opportunity to ransom a wealthy prisoner presents itself, this is
+where they will be confined.  The only exit is foreward through the door you
+came in.
+~
+79 32777 0 0 0 0 255 0
+D0
+You see a door.
+~
+door~
+2 7917 7967
+S
+#7970
+Food Storage Room~
+This room contains all the foodstuffs the pirates will be eating while they
+are out to sea.  Dried meats, grains, vegatables, spices - they are all kept
+here.  Aft of here you see the galley itself.
+~
+79 32776 0 0 0 0 255 0
+D2
+You see the cooking area.
+~
+~
+0 -1 7972
+S
+#7971
+Firewood Storage Area~
+Stored on the bulkheads is a huge supply of firewood.  It's obvious this ship
+is preparing for a voyage on the open sea. If they were going to be traveling
+on a river or coastline excursion, they would devote most of this area to
+cargo storage and send sailors ashore to cut wood every few days.  The galley
+area is starboard of here.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the cooking area.
+~
+~
+0 -1 7972
+S
+#7972
+The Galley~
+The galley has a stone fireplace for cooking that can be dismantled and
+stored when the sailing get rough.  A kettle hangs from an iron hook that can
+be swung over the fire.  The food preparation area is starboard, you see a
+huge supply of firewood to port and all the food is stored foreward from
+here.  An open section of deck to the aft is used as a mess area.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the food storage area.
+~
+~
+0 -1 7970
+D1
+The food preparation area.
+~
+~
+0 -1 7973
+D2
+An open area and the hatch.
+~
+~
+0 -1 7975
+D3
+You see huge stacks of firewood.
+~
+~
+0 -1 7971
+S
+#7973
+Food Preparation Area~
+There is some counter space and shelves here.  Various cooking implements are
+thrown about the room.  Back to the port side you see the galley.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the cooking area.
+~
+~
+0 -1 7972
+S
+#7974
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  A few barrels and crates are
+being stored unstacked to provide a makeshift tabletop and chair for the
+pirates to eat on.  During mess hours, the pirates will drag these out into
+the mess area.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the mess area.
+~
+~
+0 -1 7975
+S
+#7975
+The Mess Area~
+At the moment, the deck here is bare.  The only feature it possesses is the
+hatch that leads above deck.  During mess hours, the sailors will drag crates
+and barrels into this area and create a makeshift dining hall.  To either
+side you see cargo holds.  Foreward is the galley and aft is a path through
+more holds.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the cooking area.
+~
+~
+0 -1 7972
+D1
+You see a cargo hold.
+~
+~
+0 -1 7974
+D2
+A path through the cargo.
+~
+~
+0 -1 7978
+D3
+You see a cargo hold.
+~
+~
+0 -1 7976
+D4
+The stairs leading topside.
+~
+~
+1 -1 7958
+S
+#7976
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  A few barrels and crates are
+being stored unstacked to provide a makeshift tabletop and chair for the
+pirates to eat on.  During mess hours, the pirates will drag these out into
+the mess area.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the mess area.
+~
+~
+0 -1 7975
+S
+#7977
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from the
+sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+starboard side.
+~
+79 32776 0 0 0 0 255 0
+D1
+You see the path between the holds.
+~
+~
+0 -1 7978
+S
+#7978
+Pathway Through The Cargo~
+You are standing in an aisle in the middle of the cargo area.  To both the
+port and starboard, cargo holds await the spoils of piracy.  Foreward is the
+mess area.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the mess area.
+~
+~
+0 -1 7975
+D1
+You see a cargo hold.
+~
+~
+0 -1 7979
+D2
+You see a cargo hold.
+~
+~
+0 -1 7980
+D3
+You see the cargo hold.
+~
+~
+0 -1 7977
+S
+#7979
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from
+the sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is back to the
+port side.
+~
+79 32776 0 0 0 0 255 0
+D3
+You see the path between the holds.
+~
+~
+0 -1 7978
+S
+#7980
+A Cargo Hold~
+The greatest portion of this area is devoted to storage of the spoils from
+the sea.  Ropes fastened to iron rings in the wall will be used to secure any
+booty they happen to 'find' in their travels.  The pathway is foreward.
+~
+79 32776 0 0 0 0 255 0
+D0
+You see the path between the holds.
+~
+~
+0 -1 7978
+S
+#7981
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The base of the mast
+is below and the ladder continues up the mast.
+~
+79 33028 0 0 0 5 255 0
+D4
+The ladder climbs upward.
+~
+~
+0 -1 7982
+D5
+You see the base of the mast.
+~
+~
+0 -1 7920
+S
+#7982
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The ladder continues
+up and down the mast from here.
+~
+79 33024 0 0 0 5 255 0
+D4
+The ladder climbs upward.
+~
+~
+0 -1 7983
+D5
+The ladder goes down the mast.
+~
+~
+0 -1 7981
+S
+#7983
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The ladder continues
+up and down the mast from here.
+~
+79 33024 0 0 0 5 255 0
+D4
+The ladder climbs upward.
+~
+~
+0 -1 7984
+D5
+The ladder goes down the mast.
+~
+~
+0 -1 7982
+S
+#7984
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The ladder continues
+up and down the mast from here.
+~
+79 33024 0 0 0 5 255 0
+D4
+The ladder climbs upward.
+~
+~
+0 -1 7985
+D5
+The ladder goes down the mast.
+~
+~
+0 -1 7983
+S
+#7985
+On The Main Mast~
+You are climbing the ladder that goes up the mast.  While it appears sturdy
+enough for several people, there is only room for one.  The ladder continues
+up to the crow's nest and down the mast from here.
+~
+79 33024 0 0 0 5 255 0
+D4
+You can the crow's nest above.
+~
+~
+0 -1 7986
+D5
+The ladder goes down the mast.
+~
+~
+0 -1 7984
+S
+#7986
+The Crow's Nest~
+You are standing on a platform, high above the deck.  From this vantage, you
+can see a great distance in any direction.  The veiw below makes you realize
+this is no place for the faint of heart or the weak of stomach.  A ladder
+retreats down the side of the mast.
+~
+79 32768 0 0 0 1 255 0
+D5
+The ladder down the mast.
+~
+~
+0 -1 7985
+S
+#7987
+MOB CHUTE 1~
+Mob chute for the main deck.
+~
+79 0 0 0 0 1 255 0
+D0
+NORTH CHUTE.
+~
+~
+0 -1 7916
+D1
+EAST CHUTE.
+~
+~
+0 -1 7918
+D2
+SOUTH CHUTE.
+~
+~
+0 -1 7921
+D3
+WEST CHUTE.
+~
+~
+0 -1 7924
+S
+#7988
+MOB CHUTE 2~
+Mob chute for the passenger deck.
+~
+79 0 0 0 0 1 255 0
+D0
+NORTH CHUTE.
+~
+~
+0 -1 7935
+D1
+EAST CHUTE.
+~
+~
+0 -1 7937
+D2
+SOUTH CHUTE.
+~
+~
+0 -1 7938
+D3
+WEST CHUTE.
+~
+~
+0 -1 7940
+D4
+UPPER CHUTE.
+~
+~
+0 -1 7941
+D5
+LOWER CHUTE.
+~
+~
+0 -1 7943
+S
+#7989
+MOB CHUTE 3~
+Mob chute for the cargo deck.
+~
+79 0 0 0 0 1 255 0
+D0
+NORTH CHUTE.
+~
+~
+0 -1 7954
+D1
+EAST CHUTE.
+~
+~
+0 -1 7956
+D2
+SOUTH CHUTE.
+~
+~
+0 -1 7957
+D3
+WEST CHUTE.
+~
+~
+0 -1 7960
+D4
+UPPER CHUTE.
+~
+~
+0 -1 7965
+S
+#7990
+MOB CHUTE 4~
+Mob chute for the lower deck.
+~
+79 0 0 0 0 1 255 0
+D0
+NORTH CHUTE.
+~
+~
+0 -1 7970
+D1
+EAST CHUTE.
+~
+~
+0 -1 7974
+D2
+SOUTH CHUTE.
+~
+~
+0 -1 7977
+D3
+WEST CHUTE.
+~
+~
+0 -1 7979
+S
+#7991
+Kord's War Room~
+You are standing in the room where Kord once planned out strategy in the days
+when the Immortals took sides with the mortals. Those were the days when the
+struggles that raged amongst the gods were fought by mortals and immortals
+alike.  A large, mahogony table with matching chairs dominates the center of
+the room like a hulking menace.  Maps of various sizes and places still sit in
+the racks that line the walls in preparation for the next time the gods march
+off to war.  At this time, Kord uses this room as a place to meet or simply be
+alone and think where no distractions can intrude.
+~
+79 393276 0 0 0 0 255 0
+D0
+You see Kord's Spellroom to the north.
+~
+door~
+1 0 7992
+D4
+You aren't sure what you see up there.
+~
+~
+0 0 1204
+D5
+Looking THROUGH the floor, you see Samsera.
+~
+~
+0 0 18001
+S
+#7992
+Kord's Spell Room~
+You are standing in a very simple room.  No decorations adorn the walls at 
+all.  The only thing preventing the walls of the room from being the same dull
+gray all the way around is the various and intermittently spaced scorch marks.
+These marks attest to the seething forces that can be summoned by the gods but
+this room serves as more than just a place to vent angers and frustrations.
+This is the room from which Kord creates.  Here is where he stands when he
+reaches forth into the chaos and builds the worlds and inhabitants for which
+he is so well known and respected.
+~
+79 393224 0 0 0 0 255 0
+D2
+You see Kord's War Room to the south.
+~
+door~
+1 0 7991
+D4
+You can't tell what you see up there.
+~
+~
+0 0 1204
+D5
+You can look THROUGH the floor and see the Towne Square in Samsera.
+~
+~
+0 0 18001
+S
+#7993
+Walk the Plank!~
+Why would anyone want to walk the plank?  As the edge comes closer time seems to
+slow down.  Battles, ships, islands, and people have been engraved into it.  
+Reaching the end of the plank, you tumble into the &13icy&00 waters below.  Down 'nta
+the depths ya go.
+
+
+&08If ye be brave or fool enough to face a pirates curse, proceed.
+Dead men tell no tales...&00
+
+
+~
+79 32935 0 0 0 1 255 0
+D1
+~
+~
+0 0 7918
+D3
+~
+~
+0 0 7994
+S
+#7994
+Taking the plunge~
+How this room even exists is a mystery.  You are floating above a vast ocean.  
+Whatever you think you may have saw, was simply an illusion.  The only way to
+exit this suspended state is east, towards a large pirate ship.
+~
+79 2719925 4 0 0 0 255 0
+D1
+~
+~
+0 0 7993
+D3
+~
+~
+0 0 7994
+S
+$~

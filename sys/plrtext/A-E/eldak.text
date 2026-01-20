@@ -1,0 +1,16 @@
+word c 'word of recall' $*
+a order followers assist lundessa
+gt gt &09$* &00
+ofkill order followers kill $*
+sanc c 'sanc' $*
+infra c 'infra' $*
+fly c 'fly' $*
+heal c 'heal' $*
+blind c 'blind' $*
+armor c 'armor' $*
+ward c 'ward' $*
+bless c 'bless' $*
+food c 'create food'
+regen c 'regenerate' $*
+assistant c 'assistant'
+fort c 'fortify' $*

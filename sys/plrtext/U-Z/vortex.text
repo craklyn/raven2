@@ -1,0 +1,23 @@
+grec c 'word of recall' group
+h c 'heal' $*
+wake wake;stand
+regen c 'regen' $*
+food c 'create food'
+fly c 'fly' $*
+ward c 'ward' $*
+sum c 'summon' $*
+infra c 'infravision' $*
+sense c 'sense life' $*
+di c 'detect invis' $*
+wr c 'word of recall' $*
+sanc c 'sanct' $*
+b c 'blindness' $*
+harm c 'harm' $*
+arm c 'armor' $*
+cw clanwho
+cl clan &14$* &11
+fort c 'fortify' $*
+bless c 'bless' $*
+assistant c 'assistant'
+tit title ::&03OD&00::$*
+gt gsay &09$* &00

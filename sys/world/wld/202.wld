@@ -1,0 +1,2941 @@
+#20200
+Credits for Blackheart Keep~
+    This area was created with the Knight and Death Knight classes in mind.
+Hopefully, Blackheart Keep will give good-aligned knights a place to kill 
+evil mobs, and Death Knights and evil warriors a place for some good EQ.  I 
+have also included some nice little items for Assassins, Thieves, Clerics, 
+and even Good Knights.  Most items are evil, but there are a couple of 
+rewards for those few good Knights who would brave the dangers of the castle 
+and attempt to wipe-out the evil of this place...or something like that.
+
+A few of the names used are from Arthurian Legend and the AD&D Deities &
+Demigods book.
+
+Smythe
+Summer 1995
+Revised Feb '96
+~
+202 8 0 0 0 0 255 0
+S
+#20201
+Before the Ruins~
+You see before you the remains of a once great fortress.  It looks like
+a combination of several earthquakes and raids have reduced most of it
+to rubble.  Directly to the north, you see the crumbled gates and rusted
+portcullis.
+~
+202 32768 0 0 0 5 255 0
+D0
+~
+~
+0 -1 20202
+D2
+~
+~
+0 -1 12138
+S
+#20202
+Crumbled Gatehouse~
+You are standing in what is left of the gatehouse.  Crumbled walls lie to
+the east and west and you can exit the ruins by going south.  To the north
+you notice a path through the grass of the courtyard...maybe someone still
+lives here after all?
+~
+202 32768 0 0 0 5 255 0
+D0
+~
+~
+0 -1 20203
+D2
+~
+~
+0 -1 20201
+S
+#20203
+Overgrown Courtyard~
+Piles of rock and rotting wood clutter the courtyard.  The path through
+the tall grass leads in all four directions from here.  To the north you
+see the remains of the inner keep of the fortress, South is the crumbled
+gatehouse, east and west you see more grassy courtyard.
+~
+202 32772 0 0 0 2 255 0
+D0
+You can see the remains of the inner keep to the north.
+~
+~
+0 -1 20204
+D1
+More grass-covered courtyard lies to the east.
+~
+~
+0 -1 20211
+D2
+To the south you see the crumbled remains of the gatehouse.
+~
+~
+0 -1 20202
+D3
+More grass-covered courtyard lies to the west.
+~
+~
+0 -1 20217
+S
+#20204
+In Front of the Inner Keep~
+Directly to the  north lies the  entrance to the  ruined inner keep.  The
+doorway you see before you is quite large -- 15 feet tall and at least 10
+feet wide -- and the path you have  followed from the front gate seems to
+lead inside.
+~
+202 32768 0 0 0 2 255 0
+D0
+To the north you see the entrance to the inner keep.
+~
+~
+0 -1 20205
+D2
+The center of the courtyard lies to the south.
+~
+~
+0 -1 20203
+S
+#20205
+Entrance of the Inner Keep~
+As you look around the inner keep, you realize just how large this castle
+must have been.  Above, you can see the rotting floorboards of the several
+upper storeys that once made up the keep.  Across the great hall to the
+north, you can see where centuries of earthquakes and mudslides have
+buried at least half of the inner keep.
+~
+202 32777 0 0 0 0 255 0
+D0
+To the north is what used to be the center of the inner keep.
+~
+~
+0 -1 20206
+D1
+To the east are the remains of the Southeast tower of the inner keep.
+~
+~
+0 -1 20208
+D2
+You see the courtyard to the south.
+~
+~
+0 -1 20204
+D3
+The remains of the Southwest tower lie to the west.
+~
+~
+0 -1 20210
+D4
+Above you, you can see the rotting floorboards of the upper storeys.
+~
+~
+0 -1 4522112
+D5
+The black marble floor tiles are in remarkably good shape.
+~
+~
+0 -1 4522112
+S
+#20206
+Center of the Inner Keep~
+Centuries ago, this was more than just the center of a ruined keep. It was
+the center of culture, of science, and basically of civilization for the
+entire populous of the surrounding mountains.  Now, however, it is the
+center of greatness in memory and song only.
+~
+202 32777 0 0 0 0 255 0
+D0
+To the north is the side of the mountain where it has reclaimed the Keep.
+~
+~
+0 -1 4522112
+D1
+There is a path through the rubble to the east.
+~
+~
+0 -1 20207
+D2
+You see the entrance to the inner keep, off the the south
+~
+~
+0 -1 20205
+D3
+There is a path through the rubble to the west.
+~
+~
+0 -1 20209
+D4
+High above, you can see the roof of the inner keep.  Watch out for birds!
+~
+~
+0 -1 4522112
+D5
+The floor tiles are cracked and broken, but there is little dust here...
+~
+~
+0 -1 4522112
+S
+#20207
+Eastern Wall of the Inner Keep~
+This area show definate signs of recent use.  There is an iron bound, wooden
+door in the  north wall, and it  looks like the rubble  has been purposely
+arranged to  conceal its  location from the  other areas of the Keep.
+~
+202 32777 0 0 0 0 255 0
+D0
+You see a heavy, iron-bound, wooden door.
+~
+door wooden heavy iron~
+1 20201 20220
+D1
+You notice that the east wall is quite solid here.
+~
+~
+0 -1 4522112
+D2
+You see the remains of the Southeast tower off to the South.
+~
+~
+0 -1 20208
+D3
+The center of the inner keep lies to the west.
+~
+~
+0 -1 20206
+D4
+The roof above this area of the inner keep looks quite sturdy.
+~
+~
+0 -1 4522112
+D5
+The floor tiles here are in good shape and have been cleaned recently.
+~
+~
+0 -1 4522112
+S
+#20208
+Remains of the Southeast Tower~
+You are standing in the rubble of the southeast tower.  The roof here is
+virtually non-existent, and several small creatures scurry about under
+the rubble.
+~
+202 32768 0 0 0 5 255 0
+D0
+You think you see a door off to the north across some rubble.
+~
+~
+0 -1 20207
+D1
+There are several holes in the east wall here, but the rubble is loose.
+~
+~
+0 -1 4522112
+D2
+There are several holes in the south wall here, but the rubble is loose.
+~
+~
+0 -1 4522112
+D3
+You can see the entrance to the inner keep.
+~
+~
+0 -1 20205
+D4
+You can see the open sky through the many gaps in the roof here.
+~
+~
+0 -1 4522112
+D5
+The rubble here is quite thick...you think you see movement beneath you.
+~
+~
+0 -1 4522112
+S
+#20209
+Western Wall of the Inner Keep~
+As you follow the path through the rubble to this area, you realize that
+you have stumbled into something's home.  A couple of straw beds are spread
+out here and there is a large pile of bones in the corner.
+~
+202 32777 0 0 0 0 255 0
+D0
+In the northwest corner you see a large pile of bones.
+~
+~
+0 -1 4522112
+D1
+To the east is the center of the inner keep.
+~
+~
+0 -1 20206
+D2
+Over the piles of rubble to the south, you can see the Southwest tower.
+~
+~
+0 -1 20210
+D3
+The west wall has a couple arrow slits in it here.
+~
+~
+0 -1 4522112
+D4
+The roof here looks pretty solid.
+~
+~
+0 -1 4522112
+D5
+The floor here is strewn with straw and debris, all blood-stained.
+~
+~
+0 -1 4522112
+S
+#20210
+Remains of the Southwest Tower~
+You are standing in what is left of the southwest tower.  The rubble here
+is quite thick, and you think you can see small animals scurrying around
+beneath you.
+~
+202 32768 0 0 0 5 255 0
+D0
+You can see what appears to be a living area over the rubble to the north.
+~
+~
+0 -1 20209
+D1
+The entrance to the inner keep lies to the east.
+~
+~
+0 -1 20205
+D2
+There are several gaps in the wall, but the rubble looks treacherous.
+~
+~
+0 -1 4522112
+D3
+There are several gaps in the wall, but the rubble looks treacherous.
+~
+~
+0 -1 4522112
+D4
+You look up to see open sky through the many holes in the roof.
+~
+~
+0 -1 4522112
+D5
+The rubble under your feet is quite deep...you think you can see movement.
+~
+~
+0 -1 4522112
+S
+#20211
+Path Through the Courtyard~
+You are on a path through the tall grass of the courtyard.
+~
+202 32768 0 0 0 2 255 0
+D0
+You can see the inner keep over some impassable rubble to the north.
+~
+~
+0 -1 4522112
+D1
+The path continues through the grass to the east.~
+~
+0 -1 20212
+D2
+A large pile of rubble that used to be the outer wall lies to the south.~
+~
+0 -1 4522112
+D3
+The center of the grassy courtyard lies to the west.~
+~
+0 -1 20203
+D4
+Nothing but open sky is above you....at the moment.~
+~
+0 -1 4522112
+D5
+A dirt path through the grass is below your feet.~
+~
+0 -1 4522112
+S
+#20212
+Meeting Place of the Bloody Hand~
+You are standing in a large open space in the grass and rubble. In the
+middle of the clearing is a large fire pit.  To the north is a building
+built from left-over wood and well camouflaged to look like a pile of
+rubble.  East of you, there is a similar building built up against the
+remnants of the east wall.
+~
+202 32768 0 0 0 2 255 0
+D0
+You see a building built from wood and rubble.~
+~
+0 -1 20213
+D1
+You see a building built from wood and rubble leaning against the wall.~
+~
+0 -1 20214
+D2
+A large pile of loose rubble is all that is left of the outer wall here.~
+~
+0 -1 4522112
+D3
+You see a path through the tall grass to the west~
+~
+0 -1 20211
+D4
+You see open sky above you.~
+~
+0 -1 4522112
+D5
+The ground here is well-trampled dirt with small rocks strewn about.~
+~
+0 -1 4522112
+S
+#20213
+Headquarters of the Bloody Hand~
+Animal skins and bones are the main decorations of this large, single-room
+building.  This is the headquarters of the Bloody Hand Orcs.
+~
+202 32777 0 0 0 0 255 0
+D0
+The north wall is covered with various bones and skins of vanquished foes.
+~
+~
+0 -1 4522112
+D1
+The east wall is covered with animal skins and diagrams of famous battles.~
+~
+0 -1 4522112
+D2
+To the south is the exit of the building.~
+~
+0 -1 20212
+D3
+The east wall is covered with animal skins and diagrams of past battles.~
+~
+0 -1 4522112
+D4
+The roof is made up of a combination of wood and animal skins.~
+~
+0 -1 4522112
+D5
+The floor is mostly dirt with straw and bones scattered about.~
+~
+0 -1 4522112
+S
+#20214
+Barracks of the Bloody Hand~
+Straw beds make up most of the floor space with crude bunks along the 
+walls.  There are arrow slits cut into the east wall of the building 
+and a doorway leads south into the southeast bastion of the outer wall.
+~
+202 32777 0 0 0 0 255 0
+D0
+The north wall is covered with crude bunk beds.~
+~
+0 -1 4522112
+D1
+There are several arrow slits in the wall.~
+~
+0 -1 4522112
+D2
+You can see a doorway that leads to the old southwest bastion of the wall.~
+~
+0 -1 20215
+D3
+The doorway leads out to the meeting place.~
+~
+0 -1 20212
+D4
+The roof is made up of animal skins and wood.~
+~
+0 -1 4522112
+D5
+The floor is strewn with bones and bits of trash.~
+~
+0 -1 4522112
+S
+#20215
+Southeast Bastion~
+This bastion has somehow stood the test of time...or maybe it has been
+recently rebuilt.  Either way, it is currently being used by the orcs
+of the Bloody Hand tribe as a lookout point.
+~
+202 32777 0 0 0 0 255 0
+D0
+The doorway north leads to the barracks building.~
+~
+0 -1 20214
+D1
+There are several arrow slits in the east wall of the bastion.~
+~
+0 -1 4522112
+D2
+There are several arrow slits in the south wall of the bastion.~
+~
+0 -1 4522112
+D3
+There are a couple of crude bunks set up along the west wall.~
+~
+0 -1 4522112
+D4
+There is a ladder going up to the top of the bastion here.~
+~
+0 -1 20216
+D5
+The floor here is bloodstained cobblestones.~
+~
+0 -1 4522112
+S
+#20216
+Top of the Bastion~
+From here, you can see the surrounding country quite well.  A crenelated
+parapet circles the top of the bastion, affording excellent protection
+for archers and crossbowmen.
+~
+202 32768 0 0 0 1 255 0
+D0
+You can see the overgrown, debris covered courtyard.~
+~
+0 -1 4522112
+D1
+You see the surrounding countryside.~
+~
+0 -1 4522112
+D2
+You see the surrounding countryside.~
+~
+0 -1 4522112
+D3
+You see the remains of the outer wall and the gatehouse to the west.~
+~
+0 -1 4522112
+D4
+Nothing but open sky.~
+~
+0 -1 4522112
+D5
+A ladder goes down the the ground floor of the bastion.~
+~
+0 -1 20215
+S
+#20217
+Path Through the Courtyard~
+The path runs east and west through the tall grass and rubble of the
+courtyard.
+~
+202 32768 0 0 0 2 255 0
+D0
+Over the rubble to the north, you can see the inner keep.~
+~
+0 -1 4522112
+D1
+To the east you see the center of the courtyard.~
+~
+0 -1 20203
+D2
+You see the rubble of the outer wall...it looks pretty unstable.~
+~
+0 -1 4522112
+D3
+The path continues west through the tall grass and rubble.~
+~
+0 -1 20218
+D4
+open sky.~
+~
+0 -1 4522112
+D5
+The dirt path looks like it has seen recent use.~
+~
+0 -1 4522112
+S
+#20218
+Path Through the Courtyard.~
+The path runs east and west through the tall grass and rubble of the
+courtyard.
+~
+202 32768 0 0 0 2 255 0
+D0
+Over the rubble to the north, you can see the inner keep.~
+~
+0 -1 4522112
+D1
+The path continues east toward the center of the couryard.~
+~
+0 -1 20217
+D2
+You see the rubble of the outer wall...it looks pretty unstable.~
+~
+0 -1 4522112
+D3
+The path continues west around a large pile of rubble.~
+~
+0 -1 20219
+D4
+open sky.~
+~
+0 -1 4522112
+D5
+The dirt path looks like it has seen recent use.~
+~
+0 -1 4522112
+S
+#20219
+Lair of the Mountain Troll~
+As you come around the large pile of rubble you notice a very nasty smell.
+You see all around you, bones and remains of corpses of varying kinds...
+some human, some orc, some unrecognizeable.  In the north side of the
+clearing is a shelter dug out of the rubble of an old building.
+~
+202 32768 0 0 0 2 255 0
+D0
+You see the Troll's shelter in the north side of the clearing.~
+~
+0 -1 4522112
+D1
+A dirt path leads east through the tall grass and rubble.~
+~
+0 -1 20218
+D2
+You see the rubble of the outer wall...it looks pretty unstable.~
+~
+0 -1 4522112
+D3
+You see the rubble of the outer wall...it looks pretty unstable.~
+~
+0 -1 4522112
+D4
+Sky ~
+~
+0 -1 4522112
+D5
+Bones and half-rotten remains of the troll's victims.~
+~
+0 -1 4522112
+S
+#20220
+Guard Room.~
+You move into a 10'X 10' guard room.  The walls look to be made of the same
+black marble as the tiles of the floor on the other side of this door.
+There is a stairway leading down to the north.
+~
+202 32777 0 0 0 0 255 0
+D0
+A stairway leads down into the darkness to the north.~
+~
+0 -1 20221
+D1
+The east wall is smooth-cut black marble. ~
+~
+0 -1 4522112
+D2
+An iron-bound wooden door is in the south wall.
+~
+iron-bound wooden door~
+1 20201 20207
+D3
+There are four chairs and a small table against the west wall.~
+~
+0 -1 4522112
+D4
+The ceiling is made of smooth, black marble.~
+~
+0 -1 4522112
+D5
+The floor is made up of smooth, black marble tiles.~
+~
+0 -1 4522112
+S
+#20221
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel continues to the north.~
+~
+0 -1 20222
+D2
+A starway leads up into the guard room to the south.~
+~
+0 -1 20220
+S
+#20222
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel slopes down to the north.~
+~
+0 -1 20223
+D2
+The tunnel slopes up to the south.~
+~
+0 -1 20221
+S
+#20223
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel slopes down to the north.~
+~
+0 -1 20224
+D2
+The tunnel slopes up to the south.~
+~
+0 -1 20222
+S
+#20224
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D2
+The tunnel slopes up to the south.~
+~
+0 -1 20223
+D3
+The tunnel turns to the west here, still sloping downward slightly.~
+~
+0 -1 20225
+S
+#20225
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D1
+The tunnel slopes up to the east.~
+~
+0 -1 20224
+D3
+The tunnel slopes down to the west.~
+~
+0 -1 20226
+S
+#20226
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D1
+The tunnel slopes up to the east.~
+~
+0 -1 20225
+D2
+The tunnel slopes down to the south.~
+~
+0 -1 20227
+S
+#20227
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel slopes up to the north.~
+~
+0 -1 20226
+D2
+The tunnel slopes down to the south.~
+~
+0 -1 20228
+S
+#20228
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel slopes up to the north.~
+~
+0 -1 20227
+D3
+The tunnel slopes down to the west.~
+~
+0 -1 20229
+S
+#20229
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel slopes down to the north.~
+~
+0 -1 20230
+D1
+The tunnel slopes up to the east.~
+~
+0 -1 20228
+S
+#20230
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel seems to level off here.~
+~
+0 -1 20231
+D2
+The tunnel slopes up to the south.~
+~
+0 -1 20229
+S
+#20231
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel seems to level off here.~
+~
+0 -1 20232
+D2
+The tunnel seems to level off here.~
+~
+0 -1 20230
+S
+#20232
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel seems to level off here.~
+~
+0 -1 20233
+D2
+The tunnel seems to level off here.~
+~
+0 -1 20231
+S
+#20233
+Tunnel in the Mountain~
+The tunnel walls are made of the same black marble.  Torches in sconces
+line the walls.
+~
+202 32777 0 0 0 0 255 0
+D0
+The tunnel seems to level off here. You think you see light to the north.~
+~
+0 -1 20234
+D2
+The tunnel seems to level off here.~
+~
+0 -1 20232
+S
+#20234
+End of the Tunnel~
+The tunnel ends in a stairway that leads out into the open on the north
+side of the room.
+~
+202 32768 0 0 0 0 255 0
+D0
+The stairway leads up into the open.~
+~
+0 -1 20235
+D2
+The tunnel seems to level off here.~
+~
+0 -1 20233
+S
+#20235
+Road to Blackheart Keep~
+You are on a twenty-foot wide road cut into the rock of the mountain.  As
+you look up to the south, you realize that you are now on the other side
+of the same mountain as the ruins.
+~
+202 32768 0 0 0 1 255 0
+D0
+The road continues north from here.  Nearby to the north, you see a tower.~
+~
+0 -1 20236
+D2
+The road goes down a wide stairway into a dark tunnel.~
+~
+0 -1 20234
+S
+#20236
+Road to Blackheart Keep~
+You are on a twenty-foot wide road cut into the rock of the mountain.  To
+the south looms the mountain while slightly to the north you see a tall
+tower.
+~
+202 32768 0 0 0 1 255 0
+D0
+Just to the north, you see a bridge-tower.~
+~
+0 -1 20237
+D2
+The road goes south toward the mountain.~
+~
+0 -1 20235
+S
+#20237
+Ground Floor of Bridge-tower.~
+The ground floor of this tower is at least 30' X 30' with a 20' tall
+ceiling.  The entire north wall is actually a large drawbridge that can
+be dropped for horses, wagons and the like.  The south entrance contains
+a giant portcullis, which is currently raised.  There is a ramp along the
+east wall that leads up to the second storey of the tower.
+~
+202 32776 0 0 0 0 255 0
+D0
+The gigantic wooden drawbridge is closed at the moment.~
+~
+0 -1 4522112
+D1
+Along the east wall, there is a ramp that leads up to the second storey.~
+~
+0 -1 4522112
+D2
+To the south, you see a road that runs all the way into the mountain.~
+~
+0 -1 20236
+D4
+You can go up to the second storey via this ramp.~
+~
+0 -1 20238
+S
+#20238
+Second Floor of the Bridge-tower.~
+This floor of the tower is where the guards stay during their duty here.
+Along the west wall are several bunks and a table and chairs are situated
+along the south wall.  There is a doorway in the north wall that opens onto
+a bridge made of wood and rope.  A ladder leads up to the battlements atop
+the tower.
+~
+202 32776 0 0 0 0 255 0
+D0
+A wooden-floored bridge supported by ropes leads to the north.~
+~
+0 -1 20240
+D2
+A table and some chairs are situated along the south wall.~
+~
+0 -1 4522112
+D3
+Some bunks are set up along the west wall.~
+~
+0 -1 4522112
+D4
+A ladder leads up to the battlements.~
+~
+0 -1 20239
+D5
+A large ramp leads down to the first floor.~
+~
+0 -1 20237
+S
+#20239
+Battlements of Bridge-tower.~
+A ballista sits here, pointed down at the road leading south toward the
+mountain.  The view here is breathtaking.  As you look to the north, you
+can see the deep chasm over which the rope bridge extends as it connects
+this tower to an identical one on the other side.  Also to the north lies
+Blackheart Keep.  East and west, the view is of mountain tops and deep
+canyons.
+~
+202 32768 0 0 0 1 255 0
+D0
+You can see Blackheart Keep across a deep chasm.~
+~
+0 -1 4522112
+D1
+You see that the mountain range extends to the horizon in this direction.~
+~
+0 -1 4522112
+D2
+A road leads into the mountain from the base of this tower.~
+~
+0 -1 4522112
+D3
+You see that the mountain range extends to the horizon in this direction.~
+~
+0 -1 4522112
+D4
+Looking up like this can make your neck hurt.~
+~
+0 -1 4522112
+D5
+A ladder leads down to the second floor.~
+~
+0 -1 20238
+S
+#20240
+Rope Bridge Across the Chasm.~
+This rope bridge is surprisingly steady.  If you dare to look over the
+edge, you see that it is a VERY long drop to the bottom of the canyon
+you are crossing.
+~
+202 32768 0 0 0 1 255 0
+D0
+The bridge continues north toward Blackheart Keep.~
+~
+0 -1 20241
+D1
+Wow, what a view.~
+~
+0 -1 4522112
+D2
+The south bridge-tower lies in this direction.~
+~
+0 -1 20238
+D3
+Wow, what a view.~
+~
+0 -1 4522112
+D4
+Now your neck is really sore.~
+~
+0 -1 4522112
+D5
+DON'T LOOK DOWN!~
+~
+0 -1 4522112
+S
+#20241
+Rope Bridge Across the Chasm~
+This rope bridge is surprisingly steady.  If you dare to look over the
+edge, you see that it is a VERY long drop to the bottom of the canyon
+you are crossing.
+~
+202 32768 0 0 0 1 255 0
+D0
+The entrance to the north bridge-tower.~
+~
+0 -1 20243
+D1
+Wow, What a view!~
+~
+0 -1 4522112
+D2
+The rope bridge continues toward the south bridge-tower.~
+~
+0 -1 20240
+D3
+Wow! What a view!~
+~
+0 -1 4522112
+D4
+Sky...a cloud.~
+~
+0 -1 4522112
+D5
+DON'T LOOK DOWN!  You'll throw up or something.~
+~
+0 -1 4522112
+S
+#20242
+Ground Floor of Bridge-tower.~
+The ground floor of this tower is at least 30' X 30' with a 20' tall
+ceiling.  The entire south wall is actually a large drawbridge that can
+be dropped for horses, wagons and the like.  The north entrance contains
+a giant portcullis, which is currently raised.  There is a ramp along the
+east wall that leads up to the second storey of the tower.
+~
+202 32776 0 0 0 0 255 0
+D0
+A road leads north, up to the front gate of Blackheart Keep.~
+~
+0 -1 20245
+D1
+Along the east wall, there is a ramp that leads up to the second storey.~
+~
+0 -1 4522112
+D2
+The drawbridge is closed.~
+~
+0 -1 4522112
+D4
+You can go up to the second storey via this ramp.~
+~
+0 0 20243
+S
+#20243
+Second Floor of the Bridge-tower.~
+This floor of the tower is where the guards stay during their duty here.
+Along the west wall are several bunks and a table and chairs are situated
+along the north wall.  There is a doorway in the south wall that opens onto
+a bridge made of wood and rope.  A ladder leads up to the battlements atop
+the tower.
+~
+202 32776 0 0 0 0 255 0
+D0
+A table and some chairs are situated along the north wall.~
+~
+0 -1 4522112
+D2
+A wooden-floored rope bridge leads to the south.~
+~
+0 -1 20241
+D3
+Some bunks are set up along the west wall.~
+~
+0 -1 4522112
+D4
+A ladder leads up to the battlements.~
+~
+0 -1 20244
+D5
+A large ramp leads down to the first floor.~
+3~
+0 -1 20242
+S
+#20244
+Battlements of Bridge-tower.~
+A ballista sits here, pointed down at the bridge leading south across the
+Chasm.  The view here is breathtaking.  As you look to the south, you
+can see the deep chasm over which the rope bridge extends as it connects
+this tower to an identical one on the other side.  To the north lies
+Blackheart Keep.  The view of the Keep doesn't match the name at all. It is
+actually quite majestic.  Situated on an island of rock among the clouds,
+the walls of the keep are clean and shine white in the sun.  Several sky-blue
+flags fly over the towers and walls of the keep.  In the center of the Keep,
+you see the standard of Lord Skul...A black heart on a sky-blue background.
+~
+202 32768 0 0 0 1 255 0
+D0
+You can see Blackheart Keep down a short road to the north.~
+~
+0 -1 4522112
+D1
+You see that the mountain range extends to the horizon in this direction.~
+~
+0 -1 4522112
+D2
+A rope bridge extends across the canyon to the south.~
+~
+0 -1 4522112
+D3
+You see that the mountain range extends to the horizon in this direction.~
+~
+0 -1 4522112
+D4
+Looking up like this can make your neck hurt.~
+~
+0 -1 4522112
+D5
+A ladder leads down to the second floor.~
+~
+0 -1 20243
+S
+#20245
+Road to Blackheart Keep~
+This road is made up of cobblestones and leads from the north bridge-
+tower to the front gate of Blackheart Keep.  The gates of the keep are at
+least 20' tall and 20' wide.  To the east and west are deep trenches filled
+with something black and gooey.
+~
+202 32772 0 0 0 1 255 0
+D0
+The gates of the Keep are currently open...maybe they are waiting for you?~
+~
+0 -1 20246
+D2
+The road leads to the north bridge-tower.~
+~
+0 -1 20242
+S
+Z 13
+#20246
+Gallows Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall. Several gibbets line line one wall.
+~
+202 32780 0 0 0 0 255 0
+D0
+More Great Hall~
+~
+0 -1 20249
+D1
+More Great Hall~
+~
+0 -1 20247
+D2
+Front gate of Blackheart Keep...the gate is currently open.~
+~
+0 -1 20245
+D3
+More Great Hall~
+~
+0 -1 20248
+D4
+The ceiling is hung with banners and chandeliers of magical light.~
+~
+0 -1 4522112
+D5
+The floor is made of white marble and covered with expensive carpets.~
+~
+0 -1 4522112
+S
+Z 19
+#20247
+Gallows Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall. Several gibbets line line one wall.
+~
+202 32780 0 0 0 0 255 0
+D0
+More Great Hall~
+~
+0 -1 20250
+D1
+A thick wooden door with a Red Dragon emblazoned on it is here.
+~
+door thick wooden~
+1 -1 20264
+D2
+You see a tapestry of a beautiful woman holding a human heart in her hands.~
+~
+0 -1 4522112
+D3
+More Great Hall~
+~
+0 -1 20246
+D4
+You see a banner of a Red Dragon on a Gold background above you.~
+~
+0 -1 4522112
+D5
+You see a carpet with a Red Dragon on a Gold background beneath your feet.~
+~
+0 -1 4522112
+S
+#20248
+Gallows Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall. Several gibbets line line one wall.
+~
+202 32780 0 0 0 0 255 0
+D0
+More Great Hall~
+~
+0 -1 20251
+D1
+More Great Hall~
+~
+0 -1 20246
+D2
+You see a tapestry of a small boy being pushed from the top of a tower.~
+~
+0 -1 4522112
+D3
+A thick wooden door with a Silver Unicorn emblazoned on it is here.
+~
+door thick wooden~
+1 -1 20261
+D4
+Above you is a banner of a Silver Unicorn on a Dark blue background.~
+~
+0 -1 4522112
+D5
+A silver unicorn on a dark blue background is embroidered on a carpet here.~
+~
+0 -1 4522112
+S
+#20249
+Gallows Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall. Several blood-stained nooses sway from the rafters.
+~
+202 32780 0 0 0 0 255 0
+D0
+More Great Hall~
+~
+0 -1 20252
+D1
+More Great Hall~
+~
+0 -1 20250
+D2
+More Great Hall~
+~
+0 -1 20246
+D3
+More Great Hall~
+~
+0 -1 20251
+D4
+The ceiling is hung with colorful banners and chandeliers of magical light.~
+~
+0 -1 4522112
+D5
+Expensive-looking carpet covers the floor here.~
+~
+0 -1 4522112
+S
+#20250
+Great Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall.
+~
+202 32776 0 0 0 0 255 0
+D0
+More Great Hall~
+~
+0 -1 20253
+D1
+A thick wooden door is in the east wall
+~
+door thick wooden~
+1 -1 20265
+D2
+More Great Hall~
+~
+0 -1 20247
+D3
+More great hall~
+~
+0 -1 20249
+D4
+Colorful banners and chandeliers of magical light hang from the ceiling~
+~
+0 -1 4522112
+D5
+A sky-blue carpet lies below your feet~
+~
+0 -1 4522112
+S
+#20251
+Gallows Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall. Several gibbets line line one wall.
+~
+202 32780 0 0 0 0 255 0
+D0
+More great hall~
+~
+0 -1 20254
+D1
+More great hall~
+~
+0 -1 20249
+D2
+More great hall~
+~
+0 -1 20248
+D3
+A thick wooden door is in the west wall here.
+~
+door wooden thick~
+1 -1 20260
+D4
+Colorful banners and chandeliers of magical light hang from the ceiling~
+~
+0 -1 4522112
+D5
+A blue carpet lies below your feet~
+~
+0 -1 4522112
+S
+#20252
+Great Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall.
+~
+202 32776 0 0 0 0 255 0
+D0
+More Great Hall~
+~
+0 -1 20255
+D1
+More Great Hall~
+~
+0 -1 20253
+D2
+More great hall~
+~
+0 -1 20249
+D3
+More great hall~
+~
+0 -1 20254
+D4
+Colorful banners and chandeliers of magical light hang from the ceiling~
+~
+0 -1 4522112
+D5
+There is a fuzzy, black carpet beneath your feet~
+~
+0 -1 4522112
+S
+#20253
+Great Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall.
+~
+202 32776 0 0 0 0 255 0
+D0
+More great hall~
+~
+0 -1 20256
+D1
+A thick wooden door is in the east wall
+~
+door wooden thick~
+1 -1 20266
+D2
+More great hall~
+~
+0 -1 20250
+D3
+More great hall~
+~
+0 -1 20252
+D4
+Colorful banners and chandeliers of magical light hang from the ceiling~
+~
+0 -1 4522112
+D5
+A sky blue carpet covers the floor here.~
+~
+0 -1 4522112
+S
+#20254
+Great Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall.
+~
+202 32776 0 0 0 0 255 0
+D0
+More great hall~
+~
+0 -1 20257
+D1
+More great hall~
+~
+0 -1 20252
+D2
+More great hall~
+~
+0 -1 20251
+D3
+A tapestry depicting a large feast hangs on the wall here~
+~
+0 -1 4522112
+D4
+Colorful banners and chandeliers of magical light hang here~
+~
+0 -1 4522112
+D5
+A blue carpet covers the floor here~
+~
+0 -1 4522112
+S
+#20255
+Great Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall. In most great hall's, this is where the head table
+would stand.  But here in Lord Skul's castle, the knights and troops all
+intermix and are treated as equals by those preparing and distributing
+the food and drink.
+~
+202 32776 0 0 0 0 255 0
+D0
+A very large flag bearing Lord Skul's black heart on sky-blue hangs here.~
+~
+0 -1 4522112
+D1
+More great hall~
+~
+0 -1 20256
+D2
+More great hall~
+~
+0 -1 20252
+D3
+More great hall~
+~
+0 -1 20257
+D4
+Lord Skul's battle flag hangs from the ceiling here~
+~
+0 -1 4522112
+D5
+A sky blue carpet covers the floor here~
+~
+0 -1 4522112
+S
+#20256
+Great Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall.
+~
+202 32776 0 0 0 0 255 0
+D0
+A tapestry depicting a blacksmith wielding a hammer against a knight is here~
+~
+0 -1 4522112
+D1
+A thick wooden door with a hammer emblazoned on it is in the east wall
+~
+door thick wooden~
+1 -1 20267
+D2
+More great hall~
+~
+0 -1 20253
+D3
+More great hall~
+~
+0 -1 20255
+D4
+A banner of a grey hammer on a black background hangs here~
+~
+0 -1 4522112
+D5
+A carpet with a grey hammer on a black background is here~
+~
+0 -1 4522112
+S
+#20257
+Great Hall~
+Banners, tapestries, paintings and expensive carpets adorn this huge hall.
+There are several long tables with various types of food and drink on them
+throughout the hall.
+~
+202 32776 0 0 0 0 255 0
+D0
+A tapestry depicting a man in shining plate armor being knighted hangs here~
+~
+0 -1 4522112
+D1
+More great hall~
+~
+0 -1 20255
+D2
+More great hall~
+~
+0 -1 20254
+D3
+A thick wooden door with a red heart emblazoned on it is in the west wall
+~
+door thick wooden~
+1 -1 20258
+D4
+A banner of a red heart on a sky blue background hangs here~
+~
+0 -1 4522112
+D5
+A carpet with a woven red heart on a sky blue background is here~
+~
+0 -1 4522112
+S
+#20258
+Tower of Sir Derrik Firstborn~
+This room is where the squires of Sir Derrik and Sir Mylandor are housed.
+The room contains several bunks, clothes racks, and a few pieces of armor.
+Swords and shields hang on the walls and the floor is covered with plush
+carpet.
+~
+202 32780 0 0 0 0 255 0
+D0
+A thick wooden door with a Red Stag emblazoned on it is in the north wall
+~
+door wooden thick~
+1 20202 20259
+D1
+A thick wooden door leads out into the great hall
+~
+door wooden thick~
+1 -1 20257
+D2
+A thick wooden door is in the south wall
+~
+door wooden thick~
+1 -1 20260
+D3
+Bunks line the west wall of the room~
+~
+0 -1 4522112
+D4
+A spiral stairway leads up to the second floor of the tower.~
+~
+0 -1 20270
+D5
+A thick carpet covers the floor of this room.~
+~
+0 -1 4522112
+S
+#20259
+Sir Mylandor's Room~
+You are in the private room of Sir Mylandor Deerbourne, first lieutenant
+of Sir Derrik Firstborne.  The walls are each covered by an enormous
+tapestry, and the floor is covered by one large carpet.  The dominating
+feature of this room is the gigantic, four poster bed against the north
+wall.
+~
+202 32777 0 0 0 0 255 0
+D0
+Above the bed is a banner of a Red Stag on a sky blue background.~
+~
+0 -1 4522112
+D1
+A tapestry showing a small child being chased from a castle by horsemen.~
+~
+0 -1 4522112
+D2
+A large tapestry with a scene of the front of a fortress with the door
+to the bedroom matching where the doors of the fortress are.
+~
+door wooden thick~
+1 20202 20258
+D3
+A tapestry showing a young man being given food and military training at
+a large fortress...the fortress looks familiar.~
+~
+0 -1 4522112
+D4
+The ceiling has been painted red.~
+~
+0 -1 4522112
+D5
+The floor is covered by a large, plush carpet~
+~
+0 -1 4522112
+S
+#20260
+Kitchen~
+Large fireplaces line the west wall of this very long room.  Several
+cabinets and tables line the other walls and pots and pans are everywhere.
+~
+202 32776 0 0 0 0 255 0
+D0
+A thick wooden door leads to the northwest tower.
+~
+door wooden thick~
+1 -1 20258
+D1
+A thick wooden door leads to the Great Hall
+~
+door thick wooden~
+1 -1 20251
+D2
+A thick wooden door leads to the Southwest tower
+~
+door thick wooden~
+1 -1 20261
+D3
+Fireplaces line this wall~
+~
+0 -1 4522112
+D4
+Several vents catch the smoke of this room and send it out through the
+west wall~
+~
+0 -1 4522112
+D5
+A surprisingly clean stone floor lies beneath your feet~
+~
+0 -1 4522112
+S
+#20261
+Tower of Sir Karik the Mighty~
+This room is where the squires of Sir Karik and Madam Xillery are housed.
+The room contains several bunks, clothes racks, and a few pieces of armor.
+Swords and shields hang on the walls and the floor is covered with plush
+carpet.
+~
+202 32780 0 0 0 0 255 0
+D0
+A thick wooden door leads to the kitchen
+~
+door thick wooden~
+1 -1 20260
+D1
+A thick wooden door leads out into the Great Hall
+~
+door thick wooden~
+1 -1 20248
+D2
+A thick wooden door with a Blue Mace emblazoned on it is in the south wall
+~
+door wooden thick~
+1 20203 20262
+D3
+The west wall is lined with bunk beds~
+~
+0 -1 4522112
+D4
+A spiral staircase leads up to the second floor of the tower~
+~
+0 -1 20272
+D5
+The floor is covered with thick blue carpet~
+~
+0 -1 4522112
+S
+#20262
+Room of Madam Xillery Longstride~
+Beautiful hangings, carpets and a long bed decorate this room.  Several
+Magical light holders line the walls alternating with silvered mirrors.
+This is the room of Madam Xillery Longstride, first lieutenant of Sir
+Karik the Mighty.
+~
+202 32776 0 0 0 0 255 0
+D0
+A thick wooden door leads out to the squires' room
+~
+door wooden thick~
+1 20203 20261
+D1
+A tapestry shows a woman standing over the dead body of a man wielding a
+club~
+~
+0 -1 4522112
+D2
+A banner of a Blue mace on a white background hangs above a bed~
+~
+0 -1 4522112
+D3
+A tapestry show a woman winning a joust in front of a large crowd.~
+~
+0 -1 4522112
+D4
+The ceiling here has been painted to look like a sky at dawn~
+~
+0 -1 4522112
+D5
+The floor is covered with a thick blue carpet.~
+~
+0 -1 4522112
+S
+#20263
+Room of Sir Briene the Bastard~
+The walls of this room, rather than the normal tapestrys, is lined with
+diagrams of weapons, and scenes of various weapon techniques.  The other
+funrniture of the room is built for function rather than comfort.  Sir
+Briene is Sir Damanstian Darkblade's first lieutenant.  He also acts as
+the Castle's weapon instructor.
+~
+202 32777 0 0 0 0 255 0
+D0
+A thick wooden door leads out to the squire's room
+~
+door wooden thick~
+1 20204 20264
+D1
+Diagrams of several weapons line the wall~
+~
+0 -1 4522112
+D2
+A banner of a crimson sword dripping blood on a black background hangs here~
+~
+0 -1 4522112
+D3
+Diagrams of several weapons line the wall~
+~
+0 -1 4522112
+D4
+Stone ceiling~
+~
+0 -1 4522112
+D5
+Clean, stone floor~
+~
+0 -1 4522112
+S
+#20264
+Tower of Sir Damanstian Darkblade~
+This room is where the squires of Sir Damanstian and Sir Briene are housed.
+The room contains several bunks, clothes racks, and a few pieces of armor.
+Swords and shields hang on the walls and the floor is covered with plush
+carpet.
+~
+202 32780 0 0 0 0 255 0
+D0
+There is a long table and several chairs along the north wall.~
+~
+0 -1 4522112
+D1
+Bunks line the east wall~
+~
+0 -1 4522112
+D2
+A thick wooden door with a crimson sword emblazoned on it is in the wall
+~
+door wooden thick~
+1 20204 20263
+D3
+A thick wooden door leads out into the Great hall
+~
+door wooden thick~
+1 -1 20247
+D4
+A spiral staircase leads to the second floor of the tower~
+~
+0 -1 20276
+D5
+Carpet covers the floor here~
+~
+0 -1 4522112
+S
+#20265
+Serving Wench's Quarters~
+Colorful curtains separate the many beds that line the walls of this 
+large room.  This is where the Keep's serving wench's live.
+~
+202 32776 0 0 0 0 255 0
+D0
+Beds surrounded by curtains line the wall~
+~
+0 -1 4522112
+D1
+Beds surrounded by curtains line the wall~
+~
+0 -1 4522112
+D2
+Beds surrounded by curtains line the wall~
+~
+0 -1 4522112
+D3
+A thick wooden door leads out into the great hall
+~
+door thick wooden~
+1 -1 20250
+D4
+The ceiling is painted blue~
+~
+0 -1 4522112
+D5
+The floor is covered by carpet~
+~
+0 -1 4522112
+S
+#20266
+Serving Boy's Quarters~
+This is were the serving boys live.  Bunks and clothes racks line the walls
+of this room.
+~
+202 32776 0 0 0 0 255 0
+D0
+The north wall is lined with bunks and clothes racks~
+~
+0 -1 4522112
+D1
+The east wall is lined with bunks and clothes racks~
+~
+0 -1 4522112
+D2
+The south wall is lined with bunks and clothes racks~
+~
+0 -1 4522112
+D3
+A thick wooden door leads out into the Great Hall
+~
+door wooden thick~
+1 -1 20253
+D4
+The ceiling is made of stone~
+~
+0 -1 4522112
+D5
+The floor is covered by a thick carpet~
+~
+0 -1 4522112
+S
+#20267
+Tower of Sir Dael Hammerhand~
+This room is where the squires of Sir Dael and Sir Gilbere are housed. The
+room contains several bunks, clothes racks, and a few pieces of armor.
+Swords and shields hang on the walls and the floor is covered with plush
+carpet.
+~
+202 32780 0 0 0 0 255 0
+D0
+A thick wooden door with a Yellow Rose emblazoned on it is in the wall
+~
+door wooden thick~
+1 20205 20268
+D1
+Bunks and clothes racks line the wall~
+~
+0 -1 4522112
+D2
+Bunks and clothes racks line the wall~
+~
+0 -1 4522112
+D3
+A thick wooden door leads out to the Great Hall
+~
+door wooden thick~
+1 -1 20256
+D4
+There is a spiral stairway leading up to the second floor of the tower~
+~
+0 -1 20282
+D5
+The floor is covered with blue carpet~
+~
+0 -1 4522112
+S
+#20268
+Room of Sir Gilbere Degrasse~
+Heavy drapes and silk wall hangings decorate this room.  This is the room
+of Sir Gilbere Degrasse, first lieutenant to Sir Dael Hammerhand.  Sir
+Gilbere also acts as the Keep's Herald and instructs the knights in the
+other areas of courtliness such as etiquette, poetry and music.
+~
+202 32777 0 0 0 0 255 0
+D0
+Above the bed, on the wall is a banner of a Yellow Rose on sky-blue~
+~
+0 -1 4522112
+D1
+The east wall contains a tapestry depicting a colorful sunset~
+~
+0 -1 4522112
+D2
+A thick wooden door is in the south wall
+~
+door wooden thick~
+1 20205 20267
+D3
+A silk wall hanging embroidered with woodland seens hangs here~
+~
+0 -1 4522112
+D4
+The ceiling is painted a bright white color~
+~
+0 -1 4522112
+D5
+A blue carpet covers the floor~
+~
+0 -1 4522112
+S
+#20269
+Room of Sir Derrik Firstborne~
+The room is well furnished and decorated.  A full-length silver mirror
+is in the north wall next to a large canopied bed.  This is the room of
+Sir Derrik Firstborne, older half-brother of Lord Skul.
+~
+202 32777 0 0 0 0 255 0
+D0
+Above the bed is a banner of a red heart on a sky-blue background~
+~
+0 -1 4522112
+D1
+A tapestry shows a young knight surrounded by foes in a large battle~
+~
+0 -1 4522112
+D2
+A thick wooden door leads out to the guardroom.
+~
+door wooden thick~
+1 20206 20270
+D3
+A tapestry shows two knights fighting back-to-back astride the bodies of
+fallen comrades~
+~
+0 -1 4522112
+D4
+The ceiling here is painted a bright white color~
+~
+0 -1 4522112
+D5
+A blue carpet covers the floor here~
+~
+0 -1 4522112
+S
+#20270
+Guardroom~
+This is a guardroom for the Troopers who are on duty in this tower.  A
+ladder leads up to the tower's battlements.
+~
+202 32780 0 0 0 0 255 0
+D0
+A thick wooden door with a Red Heart emblazoned on it is in the wall
+~
+door thick wooden~
+1 20206 20269
+D1
+Chairs and a table line the wall~
+~
+0 -1 4522112
+D2
+A thick wooden door is in the wall here
+~
+door wooden thick~
+1 -1 20271
+D3
+Arrow slits dominate the wall here~
+~
+0 -1 4522112
+D4
+A ladder leads up to the battlements through a trap door
+~
+door trap~
+1 -1 20285
+D5
+A spiral staircase leads down to the first floor~
+~
+0 -1 20258
+S
+#20271
+Hallway~
+This hallways is lined with portraits of the knights of the Keep.  Along
+the east wall are a couple of comfortable-looking chairs.
+~
+202 32776 0 0 0 0 255 0
+D0
+A thick wooden door is in the wall here.
+~
+door thick wooden~
+1 -1 20270
+D1
+A thick wooden door is in the wall here
+~
+door wooden thick~
+1 -1 20280
+D2
+A thick wooden door is in the south wall here
+~
+door wooden thick~
+1 -1 20272
+D3
+Portraits of the Knights of Blackheart Keep line the wall here~
+~
+0 -1 4522112
+D4
+Stone ceiling~
+~
+0 -1 4522112
+D5
+A plush, blue carpet covers the floor here~
+~
+0 -1 4522112
+S
+#20272
+Guardroom~
+This is a guardroom for the Troopers who are on duty in this tower.  A
+ladder leads up to the battlements.
+~
+202 32780 0 0 0 0 255 0
+D0
+A thick wooden door is in the wall here
+~
+door thick wooden~
+1 -1 20271
+D1
+A thick wooden door is in the wall here
+~
+door thick wooden~
+1 -1 20274
+D2
+A thick wooden door with a Silver unicorn emblazoned on it is here
+~
+door wooden thick~
+1 20207 20273
+D3
+Arrow slits dominate this wall~
+~
+0 -1 4522112
+D4
+A ladder leads up to the battlements through a trapdoor
+~
+door trap~
+1 -1 20287
+D5
+A spiral staircase leads down to the first floor~
+~
+0 -1 20261
+S
+#20273
+Room of Sir Karik the Mighty~
+This room is functionally furnished, with some plain, but sturdy furniture
+and very little in the way of decorations.  This is the room of Sir Karik
+the Mighty.
+~
+202 32777 0 0 0 0 255 0
+D0
+A thick wooden door with several throwing daggers stuck in it is here
+~
+door thick wooden~
+1 20207 20272
+D1
+The wall is covered with a large, dark blue tapestry.~
+~
+0 -1 4522112
+D2
+Above the bed hangs a banner of a silver unicorn on a dark blue background~
+~
+0 -1 4522112
+D3
+The wall is covered by a large, dark blue tapestry~
+~
+0 -1 4522112
+D4
+The ceiling has been painted bright white~
+~
+0 -1 4522112
+D5
+The floor is covered by a dark blue carpet~
+~
+0 -1 4522112
+S
+#20274
+Barracks~
+This very long room is lined with bunks for the troopers of Blackheart
+Keep.
+~
+202 32776 0 0 0 0 255 0
+D0
+The wall is lined with bunks.~
+~
+0 -1 4522112
+D1
+A thick wooden door is in this wall
+~
+door thick wooden~
+1 -1 20276
+D2
+The wall here is pierced with arrow slits~
+~
+0 -1 4522112
+D3
+A thick wooden door is here
+~
+door wooden thick~
+1 -1 20272
+D4
+The ceiling here is stone~
+~
+0 -1 4522112
+D5
+The floor here is covered by several carpets~
+~
+0 -1 4522112
+S
+#20275
+Room of Sir Damanstian Darkblade~
+This room is sparsely furnished.  The only feature of the room that
+catches one's eye is the silver mirror on a nightstand beside the bed.
+This is the private room of Damanstian Darkblade.  He spends much of his
+time away from the Keep.
+~
+202 32777 0 0 0 0 255 0
+D0
+A thick wooden door lies in the wall here.  The wall is painted black.
+~
+door wooden thick~
+1 20208 20276
+D1
+The east wall is covered with a plain, red tapestry.~
+~
+0 -1 4522112
+D2
+There is a battle flag of a Red Dragon on a Gold background above the bed~
+~
+0 -1 4522112
+D3
+The west wall is covered with a Gold colored tapestry.~
+~
+0 -1 4522112
+D4
+The ceiling is stone~
+~
+0 -1 4522112
+D5
+The floor here is stone~
+~
+0 -1 4522112
+S
+#20276
+Guardroom~
+This is a guardroom for the Troopers who are on duty in this tower.  A
+ladder leads up to the battlements.
+~
+202 32780 0 0 0 0 255 0
+D0
+A thick wooden door is in the north wall
+~
+door wooden thick~
+1 20209 20277
+D1
+Arrow slits dominate this wall~
+~
+0 -1 4522112
+D2
+A thick wooden door is in this wall
+~
+door thick wooden~
+1 20208 20275
+D3
+A thick wooden door is in this wall
+~
+door thick wooden~
+1 -1 20274
+D4
+A ladder leads up to the battlements through a trap door
+~
+door trap~
+1 -1 20288
+D5
+A spiral staircase leads down to the first floor.~
+~
+0 -1 20264
+S
+#20277
+Room of Skelon the Magnificent~
+Thick furs cover the walls and floor of this room.  A massive fireplace
+dominates the east wall, and a large, comfortable looking bed takes up 
+most of the north wall.  This is the room of Skelon the Magnificent, 
+Lord Skul's magist.
+~
+202 32780 0 0 0 0 255 0
+D0
+There is a black banner with lightening bolts hanging on the wall.~
+~
+0 -1 4522112
+D1
+A fireplace takes up most of this wall~
+~
+0 -1 4522112
+D2
+A thick wooden door is in this wall
+~
+door wooden thick~
+1 20209 20276
+D3
+A thick wooden door is in this wall
+~
+door wooden thick~
+1 -1 20278
+D4
+The ceiling here is painted black~
+~
+0 -1 4522112
+D5
+The floor is covered with thick furs~
+~
+0 -1 4522112
+S
+#20278
+Lab of Skelon the Magnificent~
+Magic equipment of all kinds clutters this room.  Lead sheathing covers 
+the walls, floor and ceiling of this room.  This is where Skelon spends 
+most of his time.
+~
+202 32781 0 0 0 0 255 0
+D0
+Lead sheathing lines the wall~
+~
+0 -1 4522112
+D1
+There is a thick wooden door with lead sheathing on it in the wall
+~
+door thick wooden~
+1 -1 20277
+D2
+Lead sheathing lines the wall~
+~
+0 -1 4522112
+D3
+Lead sheathing lines the wall~
+~
+0 -1 4522112
+D4
+Lead sheathing lines the ceiling~
+~
+0 -1 4522112
+D5
+Lead sheathing lines the floor, even.  A lot of lead in this room.~
+~
+0 -1 4522112
+S
+#20279
+Guard Room~
+There is a small table and four chairs close to a fireplace in the south
+wall of this room.  A spiral staircase leads up to the rooms above.
+~
+202 32781 0 0 0 0 255 0
+D0
+A thick wooden door leads to the council chamber
+~
+door thick wooden~
+1 -1 20280
+D1
+Stone wall~
+~
+0 -1 4522112
+D2
+A fireplace with a table and chairs near it~
+~
+0 -1 4522112
+D3
+Stone wall~
+~
+0 -1 4522112
+D4
+A spiral stair leads up to the room above~
+~
+0 -1 20289
+D5
+Stone floor~
+~
+0 -1 4522112
+S
+#20280
+Council Chamber~
+A very large table made of black marble, surrounded by ornate, highbacked
+wooden chairs, dominates this room.  Heavy draperies line the walls and a
+large fireplace take up much of the north wall.
+~
+202 32776 0 0 0 0 255 0
+D0
+A thick wooden door with a black heart emblazoned on it is in the wall
+~
+door wooden thick~
+1 20210 20283
+D1
+A thick wooden door is in the wall
+~
+door wooden thick~
+1 -1 20281
+D2
+A thick wooden door is in the wall
+~
+door thick wooden~
+1 -1 20279
+D3
+A thick wooden door is in the wall
+~
+door wooden thick~
+1 -1 20271
+D4
+Chandeliers of magical lights hang from the ceiling~
+~
+0 -1 4522112
+D5
+The floor is covered with plush, blue carpet.~
+~
+0 -1 4522112
+S
+#20281
+Guest Room~
+This room is well-furnished and cozy looking.  A large bed lies against 
+the east wall, and a fireplace takes up most of the south wall.
+~
+202 32781 0 0 0 0 255 0
+D0
+A thick wooden door is in this wall
+~
+door thick wooden~
+1 -1 20282
+D1
+A bed takes up much of the wall~
+~
+0 -1 4522112
+D2
+A fireplace takes up most of the wall~
+~
+0 -1 4522112
+D3
+A thick wooden door is in this wall
+~
+door thick wooden~
+1 -1 20280
+D4
+The ceiling is stone~
+~
+0 -1 4522112
+D5
+The floor is carpeted~
+~
+0 -1 4522112
+S
+#20282
+Guardroom~
+This is a guardroom for the Troopers who are on duty in this tower.  A
+ladder leads up to the battlements.
+~
+202 32780 0 0 0 0 255 0
+D0
+A thick wooden door with a Grey Hammer emblazoned on it is here
+~
+door wooden thick~
+1 20211 20284
+D1
+Arrow slits dominate this wall~
+~
+0 -1 4522112
+D2
+A thick wooden door is in the wall
+~
+door thick wooden~
+1 -1 20281
+D3
+A thick wooden door with a Black Heart emblazoned on it is here
+~
+door wooden thick~
+2 20210 20283
+D4
+A ladder leads up to the battlements through a trap door
+~
+door trap~
+1 -1 20286
+D5
+A spiral stair leads down to the first floor~
+~
+0 -1 20267
+S
+#20283
+Lord Skul's Room~
+Draperies, clothes racks, and a huge wooden bed adorn this room.  Silver
+and golden wall sconces glow with magical light, and two silver mirrors
+flank a statue of a Great Knight on the west wall.  To the north is
+a billowing cloud of inpenetrable darkness, thwarting all attempts
+to see what may lie there. This is Lord Skul's private room.
+~
+202 32780 0 0 0 0 255 0
+D0
+A fog of pure darkness blots out everything in this direction.
+~
+~
+0 -1 1441
+D1
+A thick wooden door leads out into the guard room
+~
+door thick wooden~
+2 20210 20282
+D2
+A thick wooden door leads to the council chamber
+~
+door thick wooden~
+1 20210 20280
+D3
+Two mirrors flank a statue of Lord Skul's father, Uther Pendragon
+~
+~
+0 -1 4522112
+D4
+The ceiling is painted to resemble the sky at sunrise~
+storm~
+0 -1 4522112
+D5
+The floor is covered in sky-blue carpet~
+~
+0 -1 4522112
+S
+Z 19
+#20284
+Room of Sir Dael Hammerhand~
+This room is furnished almost entirely with metal furniture.  Several
+small metal crafts lie scattered about.  This is the room of Sir Dael
+Hammerhand.  Sir Dael spends much of his time in the smithy, working
+the craft of his father.
+~
+202 32777 0 0 0 0 255 0
+D0
+Above the bed is a banner of a grey hammer on a black background~
+~
+0 -1 4522112
+D1
+This wall is covered with fine furs, sewn together.~
+~
+0 -1 4522112
+D2
+A thick wooden door leads out into the guard room
+~
+door wooden thick~
+1 20211 20282
+D3
+This wall is covered with grey draperies~
+~
+0 -1 4522112
+D4
+Stone ceiling~
+~
+0 -1 4522112
+D5
+The floor is covered by fine carpet~
+~
+0 -1 4522112
+S
+#20285
+Upper battlement~
+You can see miles and miles from here.  This battlement offers excellent
+protection against attackers from below.
+~
+202 32768 0 0 0 1 255 0
+D0
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D1
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D2
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D3
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D4
+This makes your neck hurt~
+~
+0 -1 4522112
+D5
+A ladder leads down through a trap door
+~
+door trap~
+1 -1 20270
+S
+#20286
+Upper battlement~
+You can see miles and miles from here.  This battlement offers excellent
+protection against attackers from below.
+~
+202 32768 0 0 0 1 255 0
+D0
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D1
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D2
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D3
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D4
+This makes your neck hurt~
+~
+0 -1 4522112
+D5
+A ladder leads down through a trap door
+~
+door trap~
+1 -1 20282
+S
+#20287
+Upper battlement~
+You can see miles and miles from here.  This battlement offers excellent
+protection against attackers from below.
+~
+202 32768 0 0 0 1 255 0
+D0
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D1
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D2
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D3
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D4
+This makes your neck hurt~
+~
+0 -1 4522112
+D5
+A ladder leads down through a trap door
+~
+door trap~
+1 -1 20272
+S
+#20288
+Upper battlement~
+You can see miles and miles from here.  This battlement offers excellent
+protection against attackers from below.
+~
+202 32768 0 0 0 1 255 0
+D0
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D1
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D2
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D3
+You can see mountain tops and deep canyons stretching to the horizon~
+~
+0 -1 4522112
+D4
+This makes your neck hurt~
+~
+0 -1 4522112
+D5
+A ladder leads down through a trap door
+~
+door trap~
+1 -1 20276
+S
+#20289
+Hallway~
+This small hallway links to four doors, one in each wall.  In the middle
+of the hall are a couple of chairs and a small table where the guards
+can rest while they are on duty here.
+~
+202 32780 0 0 0 0 255 0
+D0
+An iron-bound wooden door with a small hatch in the middle of it is here
+~
+door iron wooden thick~
+1 20212 20291
+D1
+An iron-bound wooden door with a small hatch in the middle of it is here
+~
+door iron wooden thick~
+1 20212 20290
+D2
+An iron-bound wooden door with a small hatch in the middle of it is here
+~
+door iron wooden thick~
+1 20212 20292
+D3
+An iron-bound wooden door with a small hatch in the middle of it is here
+~
+door iron wooden thick~
+1 20212 20293
+D4
+Stone ceiling~
+~
+0 -1 4522112
+D5
+A spiral stair leads down to the guard room~
+~
+0 -1 20279
+S
+#20290
+Cell~
+This room looks more like a guest room than a prison cell.  A large bed,
+two comfortable chairs, a small table, clothes racks, and a fireplace
+furnish the room.
+~
+202 32781 0 0 0 0 255 0
+D0
+Stone wall.~
+~
+0 -1 4522112
+D1
+Stone wall~
+~
+0 -1 4522112
+D2
+Stone wall~
+~
+0 -1 4522112
+D3
+An iron bound door with a small view port in it is here
+~
+door iron wooden~
+1 20212 20289
+D4
+Stone ceiling~
+~
+0 -1 4522112
+D5
+Stone floor~
+~
+0 -1 4522112
+S
+#20291
+Cell~
+This room looks more like a guest room than a prison cell.  A large bed,
+two comfortable chairs, a small table, clothes racks, and a fireplace
+furnish the room.
+~
+202 32781 0 0 0 0 255 0
+D0
+Stone wall.~
+~
+0 -1 4522112
+D1
+Stone wall~
+~
+0 -1 4522112
+D2
+An iron bound door with a small viewing-hatch in it is here.~
+door iron wooden~
+1 20212 20289
+D3
+Stone wall~
+~
+0 -1 4522112
+D4
+Stone ceiling~
+~
+0 -1 4522112
+D5
+Stone floor~
+~
+0 -1 4522112
+S
+#20292
+Cell~
+This room looks more like a guest room than a prison cell.  A large bed,
+two comfortable chairs, a small table, clothes racks, and a fireplace
+furnish the room.
+~
+202 32781 0 0 0 0 255 0
+D0
+An iron bound door with a small view port in it is here
+~
+door iron wooden~
+1 20212 20289
+D1
+Stone wall~
+~
+0 -1 4522112
+D2
+Stone wall.~
+~
+0 -1 4522112
+D3
+Stone wall~
+~
+0 -1 4522112
+D4
+Stone ceiling~
+~
+0 -1 4522112
+D5
+Stone floor~
+~
+0 -1 4522112
+S
+#20293
+Cell~
+This room looks more like a guest room than a prison cell.  A large bed,
+two comfortable chairs, a small table, clothes racks, and a fireplace
+furnish the room.
+~
+202 32781 0 0 0 0 255 0
+D0
+Stone wall.~
+~
+0 -1 4522112
+D1
+An iron bound door with a small view-port in it is here
+~
+door iron wooden~
+1 20212 20289
+D2
+Stone wall~
+~
+0 -1 4522112
+D3
+Stone wall~
+~
+0 -1 4522112
+D4
+Stone ceiling~
+~
+0 -1 4522112
+D5
+Stone floor~
+~
+0 -1 4522112
+S
+#20294
+Mob Chute for Karik and Xillery~
+This chute will allow Karik and Xillery to walk out into a random area
+of the keep every re-pop.  This chute connects to the following rooms:
+20262, 20251, 20273, 20280, 20287, and 20271.
+~
+202 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 20262
+D1
+~
+~
+0 -1 20251
+D2
+~
+~
+0 -1 20273
+D3
+~
+~
+0 -1 20280
+D4
+~
+~
+0 -1 20287
+D5
+~
+~
+0 -1 20271
+S
+#20295
+Briene's Chute~
+This chute will drop Briene in one of the following rooms:
+20263, 20264, 20246, 20265, 20280, 20288.
+~
+202 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 20263
+D1
+~
+~
+0 -1 20264
+D2
+~
+~
+0 -1 20246
+D3
+~
+~
+0 -1 20265
+D4
+~
+~
+0 -1 20280
+D5
+~
+~
+0 -1 20288
+S
+#20296
+Gilbere's Chute~
+This chute will drop Gilbere into one of the following rooms:
+20268, 20256, 20286, 20280, 20252, 20262.
+~
+202 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 20268
+D1
+~
+~
+0 -1 20256
+D2
+~
+~
+0 -1 20286
+D3
+~
+~
+0 -1 20280
+D4
+~
+~
+0 -1 20252
+D5
+~
+~
+0 -1 20262
+S
+#20297
+Mylandor's Chute~
+This will drop Mylandor into one of the following rooms:
+20259, 20259, 20259, 20258, 20257, 20244...he has a 50% chance of
+re-poping in his room.
+~
+202 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 20259
+D1
+~
+~
+0 -1 20259
+D2
+~
+~
+0 -1 20259
+D3
+~
+~
+0 -1 20258
+D4
+~
+~
+0 -1 20257
+D5
+~
+~
+0 -1 20244
+S
+#20298
+Dael's Chute~
+This will drop Dael into one of the following rooms:
+20267, 20282, 20286, 20280, 20284, 20274
+~
+202 12 0 0 0 0 255 0
+D0
+~
+~
+0 -1 20267
+D1
+~
+~
+0 -1 20282
+D2
+~
+~
+0 -1 20286
+D3
+~
+~
+0 -1 20280
+D4
+~
+~
+0 -1 20284
+D5
+~
+~
+0 -1 20274
+S
+$~

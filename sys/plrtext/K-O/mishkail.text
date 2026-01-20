@@ -1,0 +1,43 @@
+ctc cast 'call to corpse' $*
+where who -z
+ed cast 'energy drain' $*
+cur cast 'curse' $*
+ok order follower kill $*
+i scan
+o order follower $*
+summon cast 'summon' $*
+ps cast 'nox' $*
+dra cast 'energy drain' $*
+ec cast 'explode corpse' $*
+dis cast 'disease' $*
+c clan &10$* &00
+bl cast 'blindness' $*
+sil cast 'silence' $*
+cc cast 'consume corpse' $*
+res cast 'resist poison' $*
+life cast 'sense life'
+cha cast 'charm corpse' $*
+pi cast 'soul pierce' $*
+bone cast 'bone wall' $*
+ward cast 'create ward
+wraith cast 'wraith'
+curse cast 'curse' $*
+fly cast 'fly' $*
+shield cast 'shield' $*
+age cast 'age' $*
+di cast 'detect invis' $*
+invis cast 'invis' $*
+infra cast 'infra'
+male cast 'maledict' $*
+cw clanwho
+say say &11$* &00
+ld cast 'life drain' $*
+slow cast 'slow' $*
+deb cast 'deb' $*
+entomb cast 'entomb corpse' $*
+embalm cast 'embalm' $*
+kurdoth 16w10swse14s7e2s4e3n7ese
+gt gt &10$* &00
+title tit - &03O&07rgan&00 &03D&07onor&00
+pos cast 'poison' $*
+os o follower sa &10$* &00

@@ -1,0 +1,94 @@
+#1200
+Aid the Cityguard - test quest~
+Say, do you think you could help me out?  I'm really
+hungry, but my shift doesn't end for six hours.  Could
+you fetch me some of our fine local bread to eat?
+~
+Get some bread and take it to the Cityguard.
+~
+51 60 0 2 5 3
+O OBJ 3010
+O MOB 3062
+R QP 1
+&18$n tells you, 'Here's one quest point for your trouble.'&00~
+R EXP 50000
+You gain 50000 experience points!~
+R OBJ 8118
+$n gives you $p for your trouble.~
+R SPELL 36
+$n waves $s hand at you magically!~
+R PRAC 5
+$n whispers secrets to you, you feel you can learn more now!~
+#1201
+New Thalos protection quest~
+&12Hear ye!  Hear ye!  Hear Ye!&00
+A glorious tale of times long ago, but troubles that persist today!
+A story of a Dragon, golden in color, with fiery breath that burns so hot
+that no mortal man can stand within one hundred yards of it and survive!
+A mighty protector, &10Antilanthulanu Magorious&00 was sent from the heavens above,
+to protect New Thalos from all that is Evil!
+&08However&00! I hear that he has gone quite rogue, and must be stopped!
+Rumor has it that he has devised a great plan in taking over the great lands of
+Samsera after crushing New Thalos!  He must be stopped!
+Of course, not a single Hero that occupies this great city would let that
+happen, &08RIGHT&00?!  Band together, your friends and allys, and save New Thalos from what may be
+its final demise!  Hurry dear Hero travel to New Thalos and slay this vile
+beast before Samsera is Next!
+~
+Return the ashes of the blasted &10golden&00 dragon to me, and for it, Samsera
+and New Thalos will reward you greatly... Be a Hero, for us all!
+~
+50 60 25165824 10 10 20
+O MOB 1250
+O OBJ 1273
+R QP 3
+   You have been awarded 3qps.    
+~
+R OBJ 1272
+The Elite Royal Guardsman utters a few words, and waves his hands over the
+ashes of the &10golden&00 dragon.  In a flash the ashes solidify into a &10glowing&00
+sphere.
+The Royal Guardsman extends his hands towards you and says, "Take this sphere dear
+Hero, a reminder of what always will be, a lasting unification between the great
+city states of New Thalos and Samsera."
+~
+#1210
+Easter Quest~
+Peter Cankersore is launching all the Easter eggs into the air as we speak.  
+Lease help find the Easter eggs he has scattered all around the world before
+it's too late!  Keep an eye out for some very special golden eggs that Peter
+stole as well.  Those are magic eggs that help make Easter possible.
+~
+Collect Easter eggs to give to the Mother Easter Rabbit.
+~
+1 50 0 2 1 1
+G 1241
+O OBJ 43452
+R GOLD 250000
+The Mother Easter Rabbit carefully takes the egg and places it in her basket.
+The Mother Easter Rabbit says, 'With your help and all the other searchers, we might yet save Easter!'
+The Mother Easter Rabbit says, 'But we still need to find the rest of the eggs. Please keep looking!'
+&10You have received 250,000 gold coins!&00
+~
+#1211
+Golden Easter Egg~
+Can you believe this foo'?  This Peter Cankersore rabbit been trying to mess
+with my b'niss!  You gots to help me brother!  Ya know what I mean?  I love
+&10gold&00, and he's messin' wit' MY &10gold&00!  This rat bastard has the nerve!  Get, my,
+&10golden&00 eggs before I lose my patience.
+~
+Collect &10Golden&00 Easter eggs for &00&03the &10Golden&00&03 Easter Rabbit.  &00
+~
+1 50 0 2 1 1
+G 1242
+O OBJ 7633
+R QP 1
+&00&03The &10Golden&00&03 Easter Rabbit&00 carefully takes the egg and places it in her basket.'
+
+&00&03The &10Golden&00&03 Easter Rabbit&00 says, 'THAT is what I'm talkin' about! Sweet gold!'
+
+&00&03The &10Golden&00&03 Easter Rabbit&00 says, 'But there are MORE! Bring them TO me!'
+
+&10You have received a piece of the gold! One quest point!&00
+~
+$~

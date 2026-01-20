@@ -1,0 +1,1756 @@
+#10800
+A Cliff Ledge~
+High on the side of a mountain, you are finding the thin air hard to breathe.
+Far below you lies the foot of the mountain and the ledge continues to the
+south.  Farther up rests a large landing set into the mountain.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10802
+D4
+~
+~
+0 -1 10801
+D5
+~
+~
+0 -1 10799
+S
+#10801
+A Large Landing~
+You feel very fatigued now because of the elevation.  Your mind must be 
+playing tricks on you as you think you see the silhouette of a man sitting
+high atop the mountain.  A path leads north and ends in a set of sturdy 
+double doors inset into the mountain itself, and below you is a cliff ledge.
+You think you hear the faint sound of chanting.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 11051
+D5
+~
+~
+0 -1 10800
+S
+#10802
+A Cliff Ledge~
+High on the side of a mountain, you are finding the thin air hard to breathe.
+Far below you lies the foot of the mountain and the ledge continues to the
+north and west.
+~
+108 0 0 0 0 5
+D0 
+~
+~
+0 -1 10800
+D3
+~
+~
+0 -1 10803
+S
+#10803
+A Cliff Ledge~
+High on the side of a mountain, you are finding the thin air hard to breathe.
+Far below you lies the foot of the mountain and the ledge continues to the
+east.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10802
+D5
+~
+~
+0 -1 10796
+S
+#10804
+A Narrow Valley~
+Set between rising cliffs, this north and south running valley is long 
+and narrow.  The valley continues to the north while large rocky foothills
+lie to the south.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10805
+D2
+~
+~
+0 -1 10743
+S
+#10805
+A Narrow Valley~
+Set between rising cliffs, this north and south running valley is long
+and narrow.  The valley continues to the south and a steep rising slope 
+lies off to the east.  To the north seems like smooth level ground.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10896
+D1
+~
+~
+0 -1 10806
+D2
+~
+~
+0 -1 10804
+S
+#10806
+A Steep Slope~
+Rising from the side of a narrow valley to the west, this slope connects 
+to cliff wall to the north.  Rocky foothills lie to the south and you 
+think you hear the sounds of rushing water somewhere to the east.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10807
+D2
+~
+~
+0 -1 10745
+D3
+~
+~
+0 -1 10805
+S
+#10807
+A Cliff Wall~
+Almost straight up, you are wondering if you should have sprung for that 
+potion of flying at the local apothecary.  Up puts you on the side of a 
+mountain, south connects to a steep slope downward and to the east you
+hear rushing water.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10808
+D2
+~
+~
+0 -1 10806
+D4
+~
+~
+0 -1 10809
+S
+#10808
+The River Overlook~
+This part of the mountain you are on hangs directly over a fast moving
+river. You don't know if it would be a good idea to jump from here, but
+you see no other way to get to the river. To the west lies a cliff wall.
+~
+108 0 0 0 0 5
+D3
+~
+~
+0 -1 10807
+D5
+~
+~
+0 -1 10715
+S
+#10809
+A Steep Mountainside~
+Rocky and steep, this is just one more mountainside in the mountain range.
+The mountainside continues to the north and you see what might be a small 
+foothold on a rock face to the east.  A smooth mesa lies to the west and 
+down sets you on a cliff wall.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10812
+D1
+~
+~
+0 -1 10810
+D3
+~
+~
+0 -1 10819
+D5
+~
+~
+0 -1 10807  
+S
+#10810
+Clinging to a Rock Face~
+With barely enough room to stand, you don't think this was such a good 
+idea now.  You can barely maneuver, but you might be able to reach either
+a ledge to the north or the side of a mountain to the west.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10811
+D3
+~
+~
+0 -1 10809
+S
+#10811
+A Treacherous Ledge~
+Dry and rocky, this ledge seems to be crumbling beneath your weight.  The 
+ledge continues to the north, a steep mountainside awaits you farther up, 
+and you think you spot a small foothold to the south.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10814
+D2
+~
+~
+0 -1 10810
+D4
+~
+~
+0 -1 10812
+S
+#10812
+A Steep Mountainside~
+The incline of the mountain coupled with the many small rocks that lie on 
+the slop provide for very poor footing.  To the west lies a flat smooth 
+mesa and the mountainside continues south.  A crumbling ledge is below 
+you, and farther up the moutain comes to a point.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10809
+D3
+~
+~
+0 -1 10820
+D4
+~
+~
+0 -1 10813
+D5
+~
+~
+0 -1 10811
+S
+#10813
+Lookout Point~
+One of the tallest mountains in the range, lookout point was named not 
+only because of its pointy structure, but because it gives one of the 
+best views of the entire range.  A steep mountainside lies below you.
+~
+108 0 0 0 0 5
+D4
+~
+ancient stone door~
+0 -1 701
+D5
+~
+~
+0 -1 10812
+S
+#10814
+Hazardous Footing~
+Much of the ground has fallen into some hidden space below ground and you 
+are forced to do a 'dance' as you jump from rock to rock trying to find 
+stable footing.  You see an open chasm descending down and a narrow rocky
+ledge to the south.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10811
+D5
+~
+~
+0 -1 10815
+S
+#10815
+An Open Chasm~
+Dropping quickly below ground, this looks like an old underground cave that 
+has recently been exposed to the to the surface.  Numerous openings shoot 
+off from this chasm, but all except a large hole leading down are closed by 
+rubble at the moment.  Above you lies the rough ground before the chasm.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10814
+D5
+~
+~
+0 -1 10894
+S
+#10816
+Boulders~
+Huge round boulders dominate this small passage between cliffs, you think 
+you can squeeze in between if you try.  A small gully runs off to the 
+north and a rocky trail runs by to the south.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10817
+D2
+~
+~
+0 -1 10752
+S 
+#10817
+A Narrow Gully~
+Dropping smoothly from a group of boulders to the south, this ditch-like 
+gully come out at the foot of a large mesa off to the north.  You can 
+imagine swept away here when the winter snows melt.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10818
+D2
+~
+~
+0 -1 10816
+S
+#10818
+Foot of a Large Mesa~
+Situated among the surrounding mountains, you find yourself at the foot 
+of a large flat mesa.  You spot a narrow water eroded gully to the south 
+and a short climb will put you on top of the mesa.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10816
+D4
+~
+~
+0 -1 10819
+S
+#10819
+A Smooth Mesa~
+Completely flat, this mesa is nestled among the mountains of the range.  
+The mesa continues to the north and west and a steep mountainside rests 
+up against the mesa to the east.  A short climb takes you down.
+~
+108 0 0 0 0 5
+D0 
+~
+~
+0 -1 10820
+D1
+~
+~
+0 -1 10809
+D3
+~
+~
+0 -1 10822
+D5
+~
+~
+0 -1 10818
+S
+#10820
+A Smooth Mesa~
+Completely flat and free from loose pebbles, this mesa lies nestled among 
+the mountains of the range.  A steep mountainside rests against the mesa 
+to the east and the mesa continues to the south and west.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10812
+D2
+~
+~
+0 -1 10819
+D3
+~
+~
+0 -1 10821
+S
+#10821
+A Smooth Mesa~
+This part of a large mesa looks between two mountains where you catch the 
+view of a large valley.  It is too steep to climb down from here, so you 
+continue either east or south.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10820
+D2
+~
+~
+0 -1 10822
+S
+#10822
+A Smooth Mesa~
+Completely flat and smooth, this large mesa lies situated among the 
+many mountains of the range.  A deep ravine rests below you and the 
+mesa continues to the north and east.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10821
+D1
+~
+~
+0 -1 10819
+D5
+~
+~
+0 -1 10860
+S
+#10823
+A Steep Climb~
+On the side of an amost verticle mountainside, you find plenty of 
+handholds to aid you in your climb.  Above you, you see a rocky mountain 
+ledge and below you rests sharp rocky foothills.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10824
+D5
+~
+~
+0 -1 10741
+S
+#10824
+A Rocky Ledge~
+Running along the side of a mountain, this wide ledge is littered by  
+small sharp rocks.  North of this ledge lies the beginning of a break of 
+two mountains while the ledge continues east and west.  A steep climb down 
+takes you to the foothills of the mountain range.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10831
+D1
+~
+~
+0 -1 10858
+D3
+~
+~
+0 -1 10825
+D5
+~
+~
+0 -1 10823 
+S
+#10825
+A Rocky Ledge~
+Running mostly east and west through the mountains, this wide ledge is 
+littered with sharp rocks.  You can't seem to find any other way to go 
+except by following the ledge.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10824
+D3
+~
+~
+0 -1 10826
+S
+#10826
+A Rocky Ledge~
+Winding through the mountains of the range, this wide ledge littered with 
+rocks take a sharp turn.  The ledge continues to the north and east and 
+you think you can climb down to a break between the mountains.
+~
+108 0 0 0 0 5
+D0 
+~
+~
+0 -1 10827
+D1
+~
+~
+0 -1 10825
+D5
+~
+~
+0 -1 10834
+S
+#10827
+A Rocky Ledge~
+Littered with sharp rocks, this wide ledge continues to the north and 
+south.  Looking up at the huge birds that constantly fly about, you think 
+you may be able to climb up to a jutting cliff.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10830
+D2
+~
+~
+0 -1 10826
+D4
+~
+~
+0 -1 10828
+S
+#10828
+A Jagged Cliff~
+Jutting out from a mountainside, this cliff comes to a point in sharp 
+jagged rocks which you use to aid you in your climb.  Above you, lies the 
+top of this mountain and below you winds a natural rocky ledge.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10829
+D5
+~
+~
+0 -1 10827
+S
+#10829
+A Mountaintop~
+The mountain range seems to have a life of itself from up here.  Large 
+birds constantly fly among the peaks and you occasionally see the movement 
+of indigenous life.  You rub your eyes and squint to the northwest where 
+you thought you saw a man sitting on another mountain.  A jagged cliff lies 
+below you.
+~
+108 0 0 0 0 5
+D5
+~
+~
+0 -1 10828
+S
+#10830
+A Dead End~
+The Rocky ledge you were travelling on to the south has ended abruptly in 
+a sheer rock face that is too smooth to climb.  A recent earthquake seems
+to have opened a crumbling passageway to the north.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 20201
+D2
+~
+~
+0 -1 10827
+S
+#10831
+A Huge Gorge~
+This break in the mountain range could have only been caused by a 
+shifting of the earth itself.  Tall cliff walls create this deep narrow
+furrow in the rock.  The gorge continues below you and a rocky ledge
+lies to the south.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10824
+D5
+~
+~
+0 -1 10832
+S
+#10832
+Middle of Gorge~
+Thrust deep down between rising cliff walls, this gorge is extremely 
+narrow and it is hard to see what might be just a few feet in front or 
+behind you.  The gorge continues to the south and above you lies the 
+rift in the mountains that caused this path.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10833
+D4
+~
+~
+0 -1 10831
+S
+#10833
+End of the Gorge~
+The wide rift suddenly ends in a deep narrow pathway and you find yourself 
+with a limited choice. Go forward into the unknown or retreat like a
+coward.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 6601 
+D2
+~
+~
+0 -1 10832  
+S
+#10834
+A Craggy Pass~
+Water has washed out smooth holes in the walls on either side of you 
+giving this small pass a pocked appearance.  A rocky ledge overlooks
+your position and the pass continues to the north.
+~
+108 0 0 0 0 5
+D0 
+~
+~
+0 -1 10835
+D4
+~
+~
+0 -1 10826
+S
+#10835
+A Craggy Pass~
+Small rounded holes dominate the rock walls of this small pass, at least
+you hope that is what has caused the holes.  A canyon opens up before you
+to the north and the pass continues to the south.
+~
+108 0 0 0 0 5
+D0 
+~
+~
+0 -1 10836
+D2
+~
+~
+0 -1 10834
+S
+#10836
+A Canyon Opening~
+The ground drops away somewhat and reveals a large canyon to the north.  
+Rock is still the dominate scenery of the this area of the mountain range.
+The Canyon opens up to the north and south runs a small pass.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10837
+D2
+~
+~
+0 -1 10835
+S
+#10837
+A Secluded Canyon~
+Almost domed by mountains and cliff walls, this canyon enjoys a privacy 
+that is common throughout the many secret regions of the range.  Jagged
+ledges rest on either side of you and the ground drops even more to reveal
+a large canyon floor.  Southward is a canyon opening.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10838
+D2
+~
+~
+0 -1 10836
+D3
+~
+~
+0 -1 10841
+D5
+~
+~
+0 -1 10843
+S
+#10838
+A Jagged Ledge~
+Sharp shards of rock seem to literally push themselves through the 
+bottom of this ledge that rings the southern side of the canyon.  The 
+ledge continues to the east while a large portion of the canyon rests 
+to the west.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10839
+D3
+~
+~
+0 -1 10837
+S
+#10839
+A Jagged Ledge~
+Sharp shards of rock seem to litterally push themselves up through the 
+bottom of this ledge giving a jagged appearance.  Stepping between them, 
+you barely notice a chasm below you.  The ledge continues west.
+~
+108 0 0 0 0 5
+D3
+~
+~
+0 -1 10838
+D5
+~
+~
+0 -1 10840
+S
+#10840
+A Hidden Chasm~
+Almost completely invisible from the ledge above you, this chasm would be 
+a great place to play hide-and-seek.  You notice droppings of some kind 
+in the bottom of the dark chasm and wonder how long you should stay here.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10839
+S
+#10841
+A Jagged Ledge~
+This ledge rings the southern side of a large canyon and is scattered 
+with shards of rock.  A domed portion of the canyon lies off to the east
+and you see no other exits to the canyon floor.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10837
+S
+#10842
+The Canyon Floor~
+Surrounded by mountains and cliff walls on all sides, this canyon enjoys 
+a bit of seclusion from the rest of the range.  The sandy floor reveals
+prints of all types of wildlife.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10846
+D1
+~
+~
+0 -1 10843
+S
+#10843
+The Canyon Floor~
+Surrounded by mountains and cliffs walls on all sides, this canyon enjoys 
+a measure of seclusion from the rest of the mountain range.  The canyon
+floor continues to the north, east, and west.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10847
+D1
+~
+~
+0 -1 10844
+D3
+~
+~
+0 -1 10842
+D4
+~
+~
+0 -1 10837 
+S
+#10844
+The Canyon Floor~
+Mountains loom over you on all sides and you are beginning to feel like 
+you are at the bottom of a hole.  From the look of all the tracks, this 
+place would seem to be well travelled.  The canyon floor continues to
+the north and west.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10845
+D3
+~
+~
+0 -1 10843
+S
+#10845
+The Canyon Floor~
+Surrounded by rising mountains and cliff walls, this canyon remains 
+reasonably secluded to the rest of the range.  The canyon floor continues 
+to the south and west.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10844
+D3
+~
+~
+0 -1 10847
+S
+#10846
+The Canyon Floor~
+Resting at the bottom of a ring of mountains and cliff walls, this canyon
+floor remains mostly out of view from the rest of the range.  The floor
+continues to the south and east.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10847
+D2
+~
+~
+0 -1 10842 
+S
+#10847
+The Canyon Floor~
+Ringed by mountains and rising cliff walls, this canyon is secluded 
+somewhat from the rest of the mountain range.  The floor of the canyon
+continues to the east, west, and south and you think you spot a way to 
+climb up out from here.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10845
+D2
+~
+~
+0 -1 10843
+D3
+~
+~
+0 -1 10846 
+D4
+~
+~
+0 -1 10848
+S
+#10848
+A Rough Climb~
+Loose rocks litter this steep slope and make every climbing step very
+hazardous.  You spot places to step off of the slope to the east and
+west and you think you can slide down to a canyon below.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10851
+D3
+~
+~
+0 -1 10849
+D5
+~
+~
+0 -1 10847
+S 
+#10849
+Deep in the Mountains~
+Without really realizing it, you find yourself deep in the Northern 
+Mountain Range.  The crisp wind howls through the many clefts and crevices 
+of the range and nips at any exposed skin.  You spot a wide ledge to the 
+north.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10850
+D1
+~
+~
+0 -1 10848
+S
+#10850
+A Feathery Ledge~
+Large feathers ranging from black to green to blue lie strewn about this 
+wide tall ledge.  You have noticed many of the large birds flying over 
+the range, but the only way all these feathers could be here is if some 
+bird-like creature lived nearby.  The ledge ends in a large black cave 
+mouth to the north.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10899
+D2
+~
+~
+0 -1 10849
+S
+#10851
+A Rocky Overhang~
+Perched high in the mountains, this jutting cliff litterally hangs out 
+over thin air.  Wind whips all around and you wonder if it is enough to 
+carry you off into the breathtaking view.
+~
+108 0 0 0 0 5
+D3
+~
+~
+0 -1 10848
+D4
+~
+~
+0 -1 10852
+S
+#10852
+Atop a Mountain~
+Yet another mountaintop rises up among the range and you are afforded a 
+look about the countryside.  The range continues both to the east and west
+and you think you may see some type of civilization far off to the north.
+~
+108 0 0 0 0 5
+D5
+~
+~
+0 -1 10851
+S
+#10853
+A Long Valley~
+Hidden among the foothills, this long wide valley is extremely fertile 
+and seems to have retained much of the vegetation from the grassland.  
+The valley continues east and foothills lie to the south.
+~
+108 0 0 0 0 4
+D1
+~
+~
+0 -1 10854
+D2
+~
+~
+0 -1 10736
+S
+#10854
+A Long Valley~
+Hidden among the foothills, this long wide valley is extremely fertile
+and seems to have retained much of the vegetation from the grassland.
+The valley continues to the west and foothills lie to the south.
+~
+108 0 0 0 0 4
+D2
+~
+~
+0 -1 10737
+D3
+~
+~
+0 -1 10853
+S
+#10855
+A Long Canyon~
+Long and Narrow, this east-west running canyon is just the first of many 
+in the range.  Rocky walls with little vegetation make up the canyon and 
+seems to give an idication of the terrain encountered further north.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10856
+D2
+~
+~
+0 -1 10740
+S
+#10856
+Middle of a Long Canyon~
+Rocky walls enclose this long narrow canyon which will certainly be just 
+the first of many to be seen in the mountain range to the north.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10857
+D3
+~
+~
+0 -1 10855
+S
+#10857
+A Long Canyon~
+Long and Narrow, this east-west running canyon is just the first of many
+in the range.  Rocky walls with little vegetation make up the canyon and
+seems to give an idication of the terrain encountered further north.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10742
+D3
+~
+~
+0 -1 10856
+S
+#10858
+A Rocky Ledge~
+This wide ledge littered with shards of sharp rocks ends abrupty into the 
+side of a mountain.  Below you, a deep ravine shoots through the range 
+and the ledge continues to the west.
+~
+108 0 0 0 0 5
+D3
+~
+~
+0 -1 10824
+D5
+~
+~
+0 -1 10859
+S
+#10859
+A Deep Ravine~
+This deep hollow seems to have been worn away from the ground by the 
+spring showers coursing through the mountain range.  The ravine continues 
+to the north and break in the smooth walls allows you to descend further.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10860
+D4
+~
+~
+0 -1 10858
+D5
+~
+~
+0 -1 10896
+S
+#10860
+A Deep Ravine~ 
+Worn away by the spring rains, this deep hollow in the earth has rounded 
+the edges of the rock and gives the walls a smooth appearance.  North, 
+the ravine breaks open into a large valley and up, you see a large mesa.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10861
+D2
+~
+~
+0 -1 10859
+D4
+~
+~
+0 -1 10822
+S
+#10861
+A Large Valley~
+Eroded out of the solid rock by years of rushing water, this large valley 
+is currently dry.  A small breeze gives this place a fresh clean smell.  
+The valley smooths off to the north and squeezes down into a ravine further
+south.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10863
+D2
+~
+~
+0 -1 10860
+S
+#10862
+Floor of the Mountain Range~
+This southwest corner of the floor is just a flat as the rest of it.  The 
+air is warmer here and seems to not be as thin.  You see large birds 
+circling the mountains all around.  The floor continues north and east.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10867
+D1
+~
+~
+0 -1 10863
+S
+#10863
+Floor of the Mountain Range~
+Broad and flat this wide expanse of level ground must be part of the 
+original ground from which the mountain range sprang up.  The air is 
+warmer here and full of oxygen.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10866
+D1
+~
+~
+0 -1 10864
+D2
+~
+~
+0 -1 10861
+D3
+~
+~
+0 -1 10862
+S
+#10864
+Floor of the Mountain Range~
+This southeast corner of the mountain floor resembles every other part of 
+the area.  Broad, flat, and easy to walk around, the floor continues to 
+the north and west.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10865
+D3
+~
+~
+0 -1 10863
+S
+#10865
+Floor of the Mountain Range~
+This eastern side of the floor is enclosed by a small mountain.  You 
+think you can see a way up from here or you can continue to explore the
+floor all around you.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10870
+D2
+~
+~
+0 -1 10864
+D3
+~
+~
+0 -1 10866
+D4
+~
+~
+0 -1 10874
+S
+#10866
+Floor of the Mountain Range~
+You find yourself in the center of the floor and are surrounded by a 
+large expanse of level ground.  The floor is ringed on all sides by 
+mountains and other formations.  The floor continues in all directions.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10869
+D1
+~
+~
+0 -1 10865
+D2
+~
+~
+0 -1 10863
+D3
+~
+~
+0 -1 10867
+S
+#10867
+Floor of the Mountain Range~
+This western side of the floor is much like the rest of it in that it is 
+flat and wide.  A plateau in the mountain range encloses the floor on 
+this side, and you think you may be able to climb up to it.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10868
+D1
+~
+~
+0 -1 10866
+D2
+~
+~
+0 -1 10862
+D4
+~
+~
+0 -1 10873
+S
+#10868
+Floor of the Mountain Range~
+You find yourself situated in the northwester corner of a large level 
+area circled by rock formations of all types.  You spot a small rim above 
+you and the floor continues to the south and east.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10869
+D2
+~
+~
+0 -1 10867
+D4
+~
+~
+0 -1 10878
+S
+#10869
+Floor of the Mountain Range~
+This northern part of the floor gives a good view of the flat area to the 
+south.  Mountains circle the floor entirely, but you think you can see 
+what looks like a large hole in the rock wall to the north.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10871
+D1
+~
+~
+0 -1 10870
+D2
+~
+~
+0 -1 10866
+D3
+~
+~
+0 -1 10868
+S
+#10870
+Floor of the Mountain Range~
+This northeastern portion of the floor is also ringed by mountains of all 
+types.  Above you is a rim that circles the northern side and the floor 
+continues both south and west.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10865
+D3
+~
+~
+0 -1 10869
+D4
+~
+~
+0 -1 10883
+S
+#10871
+A Natural Tunnel~
+Burrowing through solid rock, this large smooth tunnel does not look at 
+all man-made.  You see light both to the north and south and a cool gentle
+breeze blows through the dark tunnel.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10872
+D2
+~
+~
+0 -1 10870
+S
+#10872
+A Lovely Meadow~
+Hidden behind a natural tunnel, this small meadow is filled with green 
+grass and a bubbling spring which feeds a small pool.  The sky opens up 
+to you through tall cliff walls and you can't help but be taken in by the 
+beauty of this peaceful place.  
+~
+108 20 0 0 0 4
+D0
+You see a path
+~
+~
+0 -1 11551
+D2
+~
+~
+0 -1 10871
+D5
+hold your breath
+~
+pool~
+1 11526 11557
+S
+#10873
+A Dead End Plateau~
+Almost like a large step up from the mountain floor, this tiered land 
+remains flat but is much smaller than it's brother farther down.  The 
+plateau is enclosed by rock walls and ends abruptly in all directions.
+~
+108 0 0 0 0 5
+D5
+~
+~
+0 -1 10867
+S
+#10874
+A Small Mountain~
+Little bigger than the foothills far to the south, this smooth rounded 
+mountain helps enclose a large area of flat land farther down.  A pointed 
+ridge meets up with this mountain to the east.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10875
+D5
+~
+~
+0 -1 10865
+S
+#10875
+A Pointed Ridge~
+High and rocky this rigde comes to a sharp point and you actually have 
+to put feet on both sides to traverse it.  Waddling like a duck, you can 
+either move north to a narrow ledge or west onto a small mountain.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10876
+D3
+~
+~
+0 -1 10874
+S
+#10876
+A Narrow Ledge~
+This ledge leaves little room to maneuver and you have to put you back up 
+against the cliff wall in order to sidestep along it.  You spot the end 
+of the ledge to the north and a pointed ridge allows you access southward.
+~
+108 0 0 0 0 5
+D0 
+~
+~
+0 -1 10877
+D2
+~
+~
+0 -1 10875
+S
+#10877
+Suicide Leap~
+As the name suggests, this abrupt end to a narrow ledge overlooks a VERY
+long drop and is legendary for its use by old mountain men that cannot 
+further take the lonesome life of the mountain range.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10876
+S
+#10878 
+A Mountain Rim~
+This thin rim circles the mountain floor to the south and offers little 
+view of the rest of the range.  The opening of a cave lies off to the 
+north and the rock face at the end of the rim looks climable.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10879
+D4
+~
+~
+0 -1 10880
+D5
+~
+~
+0 -1 10868
+S
+#10879
+A Deserted Cave~
+Smelling of wet fur, this cold stale cave looks to be long abondoned.  
+Bones of various wildlife litter the floor of the cave and the deep 
+shadows shifting on the rock walls give you an eerie feeling.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10878
+S
+#10880
+Verge of Death~
+You never dreamed that this cliff wall was so far up from the ground.  
+Clinging precariously to the rock, you hope to stop climbing soon.  A 
+large mountain peak rests off to the south or you can keep climbing.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10881
+D4
+~
+~
+0 -1 10882
+D5
+~
+~
+0 -1 10878
+S
+#10881
+A Contemplative Peak~
+Situated high in the mountain range, this lofty peak allows a wonderful 
+view of the surrounding scenery.  Snow capped mountains to the far north 
+give way to a level grassland far to the south, and a complete range of 
+rocky hills, ledges, and canyons lie somewhere in between.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10880
+S
+#10882
+A Snow Capped Mountain~
+Far in the norther portion of the mountain range, this mountaintop is 
+sparsely covered with clusters of light snow.  Cold air condenses as you 
+exhale and your warm body seems to giving off steam after the hard climb.
+~
+108 0 0 0 0 5
+D5
+~
+~
+0 -1 10880
+S
+#10883
+A Mountain Rim~
+Encircling the large level area to the south, this mountain rim 
+disappears between some cliffs to the east.  A break in the mountains 
+to the north gives you a glimpse of some strange rock formations.
+~
+108 0 0 0 0 5
+D0
+~
+~
+0 -1 10884
+D1
+~
+~
+0 -1 10885
+D5
+~
+~
+0 -1 10870
+S
+#10884
+A Stone Ring~
+What you first thought were natural rock formations have turned out to be 
+rock hewn from an unknown source and stacked in a large ring.  The stones
+stand up to 20 feet tall in some places and remain balanced due to some
+unknown force.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10883
+S
+#10885
+A Mountain Rim~
+Running through the mountain range, this rim provides a base to ascend an 
+extremely large mountain.  The rock wall going up disappears into the 
+clouds and the mountain rim continues to the west.
+~
+108 0 0 0 0 5
+D3
+~
+~
+0 -1 10883
+D4
+~
+~
+0 -1 10886
+S
+#10886
+Loose Footing~
+This near vertical rock wall is proving very difficult to climb as pieces 
+of the rock face crumble and peel off when you put your weight on them.  
+You have to be very cautious at every step and the progress seems slow.  
+You think you see the top of the mountain above you.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10887 
+D5
+~
+~
+0 -1 10885
+S
+#10887
+A False Peak~
+From below, this peak seems to be the top of what must be the largest 
+mountain in the range.  Upon further inspection, however, you see that 
+the mountain does indeed loom farther and farther up.  A convenient 
+resting spot lies off to the west and a ridge connects to the east.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10891
+D3
+~
+~
+0 -1 10888
+D4
+~
+~
+0 -1 10889
+D5
+~
+~
+0 -1 10886
+S
+#10888
+Out of Breath~
+The air is very thin at this altitude and you are finding it harder and 
+harder to get your breath.  Your equipment seems so heavy and cumbersome, 
+you wish you could throw it off the mountain and take a nap.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10887
+S
+#10889
+The Climber's Summit~
+Even with the cloud level, this small summit off the main mountain is 
+as far as most climbers get.  The view is spetacular, but you find it 
+difficult to think about anything other than getting more oxygen to your
+lungs.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10890
+D5
+~
+~
+0 -1 10887
+S
+#10890
+The Roof of the World~
+Gasping for every breath, only your sturdy adventuring constitution has 
+allowed you to reach the top of a mountain that few will ever see.  High 
+above any other peak, only a few other mountains dare to peek their heads 
+out from the blanket of clouds lain about the range.
+~
+108 0 0 0 0 5
+D5
+~
+~
+0 -1 10889
+D4
+~
+~
+0 -1 13801
+S
+#10891
+A Saddle~
+Situated between two mountain summits, this short ridge resembles a large 
+saddle sitting in the range.  A tall pointed peak to the east is circled
+by large birds, and to the west the ridge rests against a large mountain.
+~
+108 0 0 0 0 5
+D1
+~
+~
+0 -1 10892
+D3
+~
+~
+0 -1 10887
+S
+#10892
+Eagle Point~
+Named because of the large birds that constantly circle this sharp peak, 
+Eagle Point is one of the farthest mountains in the eastern portion of 
+the range.  Will all these birds flying overhead, you think it might be
+a good idea to cover your head.  You never know what might be falling 
+around here.
+~
+108 0 0 0 0 5
+D3
+~
+~
+0 -1 10891
+D5
+~
+~
+0 -1 10893
+S
+#10893
+A Hidden Ledge~
+Invisible from view atop the sharp peak above you, this large ledge can 
+only be found by a literal leap of faith or from past knowledge.  Falling
+rock has blocked the ledge and you wonder how you are going to get back
+up to the peak.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10892
+S
+#10894
+A Dark Descent~
+Shielded from the daylight, this passageway is completely dark and your
+ears begin to pick up on scurrying sounds that seem to emanate from every 
+direction.  You pause to listen and decide to continue on.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10815
+D5
+~
+~
+0 -1 10895
+S
+#10895
+A Natural Cavern~
+Hewn from some unseen underground river, this natural cavern now acts as 
+a dark foreboding place made to give adventurer's the creeps.  You light
+barely touches the cave walls and you wonder if there are other passages 
+out of here besides up.
+~
+108 0 0 0 0 5
+D4
+~
+~
+0 -1 10894
+D5
+~
+~
+0 -1 19380
+S
+#10896
+A Resting Spot~
+Nestled among the sharp rocks of the mountain range, this pleasant 
+looking spot looks like an ideal place to take a break from climbing.
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10805
+D4
+~
+~
+0 -1 10859
+S
+#10897
+Point of Tranquility~
+High above a huge mountain, this peak allows you the most beautiful view 
+you have ever seen.  As the sun touches the horizon, you feel as though 
+all the problems of the world might be solved from this very spot.  A small 
+weatherbeaten man seems to agree with you as he sits here and meditates
+silently.  As you look back over your shoulder to where you came
+from, you see that the doorway is gone.... 
+~
+108 620 0 0 0 5
+D5
+~
+~
+0 -1 11051
+S
+#10898
+A Steep Descent~
+Half climbing and half falling, you are beginning to wonder at the wisdom 
+of trying to descend here.  Trying to go back from where you came seems
+hopeless now and you try to hold on for the ride.
+~
+108 0 0 0 0 5
+D5
+~
+~
+0 -1 10846
+S  
+#10899
+Nest of the Peryton~
+Deep in a natural cavern, you have stumbled on a sight not meant for 
+human eyes.  On a nest made of stone and driftwood, a freakish creature
+with the upper body of an antelope or deer, and the torso of a huge eagle 
+sits amid bones of all types.  You have just enough time to see a human
+body swinging upside down in the back of the cave, it's legs crammed into
+an unseen crevice.  The furious peryton attacks with a vengeance!
+~
+108 0 0 0 0 5
+D2
+~
+~
+0 -1 10850
+S
+#99999
+$~
+

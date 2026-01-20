@@ -1,0 +1,29 @@
+clan clan &14$* &00&11
+gad get all.dag
+gg group all
+gaac get all all.cor
+rr retreat $*
+r rescue $*
+armor rem dagger;hold oak;use oak self;rem oak;hold dagger
+qwer get all q;drop all.scroll;drop all.bread;drop all.cof;drop all.pot;drop all.carrot;drop all.steak;drop all.oak
+b bash $*
+od open door $*
+afk title &00&03A&14F&10K&00i&10s&00&03h&00
+db doorbash $* ;stand
+say emote Grumbles, '&10$*&00'
+gt gt &10|&08!&10|&14- &10$* &14 -&10|&08!&10|&00
+dd disarm $*
+wa wake;stand
+sn scan n
+sd scan d
+se scan e
+sw scan w
+ss scan s
+su scan up
+gn gt &09Going North!!&00;n;k 2.
+ge gt &09Going East!!&00;e;k 2.
+gw gt &09Going West!!&00;w;k 2.
+gu gt &09Going Up!!&00;u;k 2.
+gd gt &09Going Down!!&00;d;k 2.
+spiders s;w;w;w;u;n;n;e;u;s;e;w;n;w;s;w;op rock;d
+lic look in $*.cor

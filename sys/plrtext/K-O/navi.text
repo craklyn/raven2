@@ -1,0 +1,17 @@
+f c 'shadow blades' $*
+sh c 'shadow sphere' $*
+norm rem eth;wear circ;rem bone;hold peb
+lvl rem circ;wear eth;rem peb;hold bone
+home e;s;enter fume;w;w;s;w;w;w
+tr trip $*
+guild e;e;e;n;e;e;enter flame
+sx cast 'blindness' $*
+wa wake;stand
+sv cast 'shadow vision' $*
+inv cast 'invisibility' $*
+sw cast 'shadow walk'
+blur cast 'blur'
+shad cast 'dance of shadows'
+drink dri thim;drink thi
+se c 'sense life'
+j get all all.navi;wear all;get all all.navi;wiel dag;hol peb;wear all

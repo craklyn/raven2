@@ -1,0 +1,19 @@
+cf cast 'create food'
+bli cast 'blindness' $*
+war cast 'ward' $*
+cb cast 'cure blind' $*
+di cast 'detect invis'
+gt gt &02$* &00
+ma cast 'maledict'
+ble cast 'bless' $*
+arm cast 'armor' $*
+cc cast 'cure critical' $*
+cs cast 'cure serious' ramiel
+inf cast 'infravision'
+cl clan &02$* &00
+fly cast 'fly' $*
+word cast 'word of recall' $*
+h cast 'heal' $*
+tit title of the &14Rapture&00
+sum cast 'summon' $*
+rpo cast 'remove poison' $*

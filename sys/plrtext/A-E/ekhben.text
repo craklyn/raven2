@@ -1,0 +1,25 @@
+sum tell dhask sum
+fk feign;sta;kill $*
+gt gt &07$* &00
+unelf junk all.longsword;junk all.chainmail;junk all.rabbit;junk all.biscuit
+dis disarm;disarm;disarm;disarm;disarm;disarm;disarm;disarm;disarm;disarm
+sanc rem balrog;rem veneer;wear veneer cloak;put balrog beet;get balance beet;wear balance
+dam rem balance;put balance beet;rem veneer;wear veneer about;get balrog beet;wear balrog
+fa stand;feign;stand;assist
+wtset title the &09Wanderer&00:$*
+] assist
+gg get all.gold all.corpse;get all.stick all.corpse
+tidy put all beet;get all.recall beet
+dg drop all;get all
+armor rem eye_hyd;hold oak;use oak $1;rem oak;hold hyd
+died get all all.ekhben;wear all;hold eye_hydra
+rr rec recall scroll
+m sit
+wt title the &09Wanderer&00
+fst feign;stand
+fstk feign;sta;kill $1
+rise wake;sta
+go stand;gt going $1 on $2;$1;hit $2
+tt kill tourist
+foo s;blind king;feign;stand;n
+blind soul;diag $*;blind $*

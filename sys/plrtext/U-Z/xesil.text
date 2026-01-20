@@ -1,0 +1,40 @@
+cl clan &07$* &00
+g get all all.corp
+t get corp
+summon c 'summon' $*
+f scan
+sp c 'soul pierce' $*
+charm cast 'charm corp' $*
+1 c 'embalm' corpse
+ofres order followers rescue $*
+rune c 'create warding'
+cc c 'charm corpse' $*
+curse c 'curse' $*
+entomb c 'entomb corpse' $*
+consume c 'consume corpse' $*
+embalm c 'embalm' $*
+of order followers $*
+sense c 'sense'
+shield c 'shield' $*
+fly c 'fly' $*
+ld c 'life drain' $*
+blind c 'blind' $*
+di c 'detect invis' $*
+age c 'age' $*
+infra c 'infra'
+invis c 'invis' $*
+nox c 'noxious skin' $*
+slow c 'slow' $*
+wake wake;stand
+silence c 'silence' $*
+debil c 'debilitate' $*
+wraith c 'wraithform'
+explode c 'explode corpse' $*
+bone c 'bone wall' $*
+cw clanwho
+rp c 'resist poi' $*
+h order fol kill $*
+drain c 'life drain' $*
+cwho clanwho
+corp get all all.corp
+dur gtell assist

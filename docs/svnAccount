@@ -1,0 +1,21 @@
+RavenMUD SVN Information
+•	SVN Version: 1.1.3
+•	Reference Material: http://svnbook.red-bean.com/en/1.1/
+•
+
+1.	Get the latest version of Netbeans here. Obviously, you’ll want the C/C++
+    development pack. http://www.netbeans.org/downloads/index.html
+2.	NetBeans can be installed with default values.
+3.	Install Cygwin, following Netbeans Windows setup
+    http://www.netbeans.org/kb/60/cnd/setup-Windows.html
+
+
+SVN Authentication
+Authenticated User = Full Access
+Anonymous = None
+Realm = rdev
+User List Location = /home/raven/svnRepo/conf/ravenpass
+
+Svnserve Port: 6065
+Command Line Startup: svnserve -d --listen-port=6065 -r /home/raven/svnRepo
+SVN Client Path: svn://ravenmud.com:6065/RavenMUD

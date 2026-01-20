@@ -1,0 +1,315 @@
+CircleMUD v3.0 Shop File~
+#21200~
+21206
+21207
+21208
+21209
+-1
+1.20
+0.80
+19
+17
+0
+0
+0
+-1
+%s I'm sorry, but I don't have that item to sell.~
+%s Why don't you get one first, then I'll think about buying it.~
+%s Sorry, I only buy food and drink.~
+%s I couldn't afford that if I wanted it.~
+%s I don't sell on credit, get some gold and we'll talk.~
+%s That will cost you %d coins, thank you.~
+%s Thanks for the merchandise, here's your %d gold pieces.~
+0
+0
+21206
+0
+21212
+-1
+0
+28
+0
+0
+#21201~
+21286
+21240
+21241
+21243
+-1
+1.20
+0.60
+2
+3
+4
+0
+0
+-1
+%s Do you expect me to just "magic" it up out of thin air?~
+%s Try to sell me something you don't have again & I'll turn you into a frog!~
+%s I have no need for junk like that.~
+%s Maybe some other time, I need my money for more important things.~
+%s You can't afford that, but I can give you a fireball for free.~
+%s That will cost you %d coins, anything else?~
+%s Here is your %d gold pieces for that item.~
+0
+0
+21205
+0
+21236
+-1
+0
+28
+0
+0
+#21202~
+21301
+21202
+21201
+21270
+-1
+1.50
+0.30
+18
+21
+13
+0
+0
+-1
+%s I don't have that right now, but I'll try to make one for ye.~
+%s I am greatly sorry, but you do not own such an item.~
+%s I am a small business man, I don't deal in such items.~
+%s I can only pray that one day I could afford such a treasure.~
+%s Check yer purse again m'lord.~
+%s I'll need %d coins, here's your purchase.~
+%s Thank you, here is your %d gold coins.~
+0
+0
+21210
+0
+21268
+-1
+0
+28
+0
+0
+#21203~
+21213
+21214
+21215
+21216
+-1
+1.20
+0.80
+17
+0
+0
+0
+0
+-1
+%s Is that a drink? Sorry, I don't know of it.~
+%s I think someone pilfered it, check your packs again.~
+%s I don't buy, I just serve.~
+%s I can't afford that.~
+%s Sorry pal, I think you've had enough to drink already.~
+%s That'll be %d coins, ask when you want another.~
+%s Here's %d coins, but I really shouldn't buying this, tell a god.~
+0
+0
+21215
+0
+21211
+-1
+0
+28
+0
+0
+#21204~
+21222
+21221
+21223
+21224
+15858
+-1
+1.10
+0.90
+5
+0
+0
+0
+0
+-1
+%s All I have is what you see.~
+%s Perhaps ye lost it in battle, I don't see that item.~
+%s All I'll buy is weapons.~
+%s That is truely a weapon of the gods, I only wish I could afford it.~
+%s You can't afford my wares, go adventure some more.~
+%s That'll be %d gold pieces, may your weapon serve you valiantly.~
+%s Here's your %d gold, thanks for the sale.~
+0
+0
+21217
+0
+21220
+-1
+0
+28
+0
+0
+#21205~
+21229
+21230
+21231
+21232
+21233
+-1
+1.20
+0.40
+9
+0
+0
+0
+0
+-1
+%s All I have is what you see.~
+%s Perhaps ye lost it in battle, I don't see that item.~
+%s All I buy is armor, sorry.~
+%s What magnificent armor, if only I could afford it.~
+%s You can't afford my wares, go adventure some more.~
+%s That'll be %d gold pieces, may your armor serve you well.~
+%s Here's your %d gold, thanks for the sale.~
+0
+0
+21218
+0
+21298
+-1
+0
+28
+0
+0
+#21206~
+21225
+21227
+21226
+21228
+-1
+1.00
+0.80
+1
+9
+13
+22
+0
+-1
+%s Ummm.... nope, aint got it.~
+%s Bzzt, try again.~
+%s Sorry, I don't buy things like that.~
+%s I'd love to, but I'm broke.~
+%s You better check your pockets again friend.~
+%s That'll cost you %d gold.~
+%s Thanks for the new item, here's your %d gold.~
+0
+0
+21219
+0
+21229
+-1
+0
+24
+0
+0
+#21207~
+21234
+21235
+21236
+21237
+21238
+-1
+1.20
+0.70
+10
+0
+0
+0
+0
+-1
+%s I haven't been able to brew that up yet, but I'll keep trying.~
+%s Ye doesn't have such an item.~
+%s Potions, potions, alls I buy is potions.~
+%s I can't afford such an elixir.~
+%s Perhaps a kender made off with yer purse lad.~
+%s That's %d gold, here's your potion, don't choke on it.~
+%s Why thank you, here's your %d gold as promised.~
+0
+0
+21233
+0
+21237
+-1
+0
+24
+0
+0
+#21209~
+21275
+21276
+21277
+21278
+-1
+1.40
+0.60
+11
+13
+23
+9
+0
+-1
+%s What ye be, daft? cant you see i don't have that?~
+%s Perhaps ye need to have yer eyes checked, ye don't have that!~
+%s Even I wouldn't by that, go try that crazy fella down the street.~
+%s Dopt, that's a little out of my pricerange...~
+%s Alright, if you don't have the money im going to have to ask ye to leave!~
+%s Thankie for the %d coins, and may ye enjoy that too!~
+%s Okie dokie, here's your %d coins as promised!~
+1
+0
+21234
+0
+21206
+-1
+0
+24
+0
+0
+#21210~
+21218
+21219
+21220
+21244
+-1
+1.50
+0.50
+1
+15
+21
+0
+0
+-1
+%s Oh dear, someone must have walked off with that, perhaps you would like something i have?~
+%s You have that? Where? Show me...~
+%s Can't you see this isn't the store for that!?~
+%s Im a poor old man and could never afford such a treasure...~
+%s Don't tease an old man with money you don't have..~
+%s Ya know i hate of part with it, but ill take %d coins for it.~
+%s Yippie! more stuff for me!~
+0
+0
+21204
+0
+21213
+-1
+0
+20
+0
+0
+$~

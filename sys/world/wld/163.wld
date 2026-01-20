@@ -1,0 +1,370 @@
+#16300
+The Isle of Mysts III~
+This is Level 3 of myst, a group venture.
+List below.
+~
+163 6220 0 0 0 0 255 0
+S
+#16301
+The Pit~
+  Nine sharp spikes pierce your body.
+  Blood spills out onto the dust covered floor.
+  You hear a laughing voice say.....
+       You Fail.
+~
+163 9 0 0 0 0 255 0
+D4
+~
+~
+0 0 16303
+S
+#16302
+The Air Test~
+  You carefully edge around the pit. To the south is another door and to the north is the door out.
+~
+163 72 0 0 0 0 255 0
+D0
+you see the door out
+~
+~
+0 -1 16299
+D2
+~
+~
+0 0 16321
+S
+#16303
+The Fire Test~
+  After the howling of the unnatural gale ceases, you see another
+corridor lit only by a single flickering candle.
+~
+163 584 0 0 0 0 255 0
+D0
+~
+small door~
+1 -1 16302
+D2
+~
+~
+0 -1 16304
+S
+#16304
+The Fire Test~
+  To the south is yet another door, this one composed of thick oak
+timbers, reinforced with iron.
+~
+163 584 0 0 0 0 255 0
+D0
+~
+~
+0 -1 16302
+D2
+~
+oak door~
+1 -1 16305
+S
+#16305
+The Earth Test~
+  This is an unadorned chamber. The floor is covered with deep, black
+soil that stretches from wall to wall. At the south end of the room
+you see a stone basin.
+~
+163 584 0 0 0 0 255 0
+D0
+~
+oak door~
+1 -1 16304
+D2
+~
+~
+0 -1 16306
+S
+#16306
+The Earth Test~
+  An overpowering scent of organic soil wafts into your nose. The air
+is humid and sticky, causing you discomfort. Also the black soil you
+walk on seems to be moving.
+~
+163 584 0 0 0 0 255 0
+D0
+~
+~
+0 -1 16305
+D2
+~
+~
+0 -1 16307
+S
+#16307
+The Water Test~
+  On closer examination you see that the outside of the basin is
+engraved with fanciful patterns. A small trickle of water runs out of
+the mouth of a carved stone fish into the basin. At the bottom of the
+basin is a grate, green and corroded with age. Just below the grate
+you see the glint of something gold.
+~
+163 584 0 0 0 0 255 0
+D0
+~
+~
+0 -1 16306
+D2
+~
+grate~
+1 -1 16308
+S
+#16308
+The Drain~
+  You sure you want to be here?
+~
+163 840 0 0 0 0 255 0
+D0
+~
+grate~
+1 -1 16307
+S
+#16309
+The Woodland Room~
+  The room is quite large, with high ceilings. Life sized, full color
+statues of sylvan creatures line the walls. In the center is a very
+unusual but very beautiful statute.
+~
+163 584 0 0 0 0 255 0
+D2
+~
+laughing gold ivory oak~
+2 16301 16297
+S
+#16310
+The Hallway~
+  The hallway starts to become particularly dusty and dark.
+~
+163 584 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16288
+D3
+~
+~
+0 -1 16311
+S
+#16311
+The Hallway~
+  The hallways twists and turns like a maze.
+~
+163 585 0 0 0 0 255 0
+D0
+~
+~
+0 -1 16312
+D1
+~
+~
+0 -1 16310
+S
+#16312
+The Hallway~
+  You feel as if you are walking in circles.
+~
+163 585 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16313
+D2
+~
+~
+0 -1 16311
+S
+#16313
+The Hallway~
+  Gray, dusty walls start to close in on you.
+~
+163 585 0 0 0 0 255 0
+D0
+~
+~
+0 -1 16314
+D3
+~
+~
+0 -1 16312
+S
+#16314
+The Hallway~
+  Twists and turns, dust and darkness. Are you sure you want to
+continue?
+~
+163 585 0 0 0 0 255 0
+D2
+~
+~
+0 -1 16313
+D3
+~
+~
+0 -1 16315
+S
+#16315
+The Hallway~
+  You almost faint. Just to the west you see three doors.
+~
+163 585 0 0 0 0 255 0
+D1
+~
+~
+0 -1 16314
+D3
+~
+~
+0 -1 16316
+S
+#16316
+The Choice~
+  Now that you have explored this place and hopefully have the right
+key, you must make your Choice.
+~
+163 584 0 0 0 0 255 0
+D0
+~
+choice~
+2 16302 16319
+D1
+~
+~
+0 -1 16315
+D2
+~
+choice~
+2 16302 16317
+D3
+~
+choice~
+2 16302 16318
+S
+#16317
+The Forest~
+  I regret to inform you that this is the wrong choice.
+~
+163 8 0 0 0 0 255 0
+S
+#16318
+The Forest~
+Congratulations! You have made the correct choice!
+~
+163 584 0 0 0 0 255 0
+D0
+~
+~
+0 0 16320
+D1
+~
+choice~
+2 16302 16316
+S
+#16319
+The Forest~
+  I regret to inform you that this is the wrong choice.
+~
+163 8 0 0 0 0 255 0
+D2
+~
+~
+0 0 18002
+S
+#16320
+The Forest~
+Before you sits an ancient figure of a man of druidism nature. A
+soft green glow surrounds him and the throne he sits upon.
+~
+163 584 0 0 0 0 255 0
+S
+#16321
+An Empty Room~
+Relaxing slightly when a thorough examination from the entrance revealed
+no potential threat, you are taken totally by surprise when on your first
+step you slip and land on your behind, bruising it badly! But you don't
+stop there, as you connect you begin to slide, bouncing into one of the 
+walls, then rebounding into another, skidding across the floor with no
+control over your movements whatsoever. Confused and a little frightened,
+you put your hands out in an attempt to slow your movement, but to no avail.
+~
+163 76 0 0 0 0 255 0
+D1
+~
+~
+0 0 30844
+D5
+~
+~
+0 0 30846
+S
+#16350
+Pax's Space~
+   You find yourself in a curious position, complete weightlessness.  At first
+the feeling is a little strange even out of place.  After becoming accustom to
+this environment you  begin to feel refreshed now that  gravity no longer is a
+burden. Below you is the most spectacular view of Raven against the background
+of the  Galaxy and the universe beyond.   Many odd objects and half  finished
+creations float nearby,  you turn to investigate but something tells you that
+it would be better to stay put and enjoy the view.    
+~
+163 2490880 4 0 0 9 255 0
+D0
+~
+~
+0 0 13506
+D1
+A wormhole leads to Pax's Play Ground.
+~
+wormhole~
+1 -1 16351
+D2
+~
+~
+0 0 21201
+D3
+~
+~
+0 0 3005
+D4
+~
+~
+0 0 1204
+D5
+~
+~
+0 0 18001
+E
+worm hole~
+The worm hole reflects and bends light in a kalidascope of colors.
+~
+E
+Raven~
+You can see all the oceans and continents from here, isn't it beautiful!
+~
+S
+#16351
+Pax's Play Ground~
+   Upon entering Pax's play ground you notice various scorch marks, blood
+stains, and body parts littering the room, someone was haveing a good time.  
+
+~
+163 513 4 0 0 2 255 0
+D1
+&07Authorized Personnel Only!&00
+~
+secret~
+1 0 13900
+D3
+A wormhole leads to Pax's Space.
+~
+wormhole~
+1 -1 16350
+E
+worm hole~
+The worm hole reflects and bends light in a kalidascope of colors.
+~
+S
+$~

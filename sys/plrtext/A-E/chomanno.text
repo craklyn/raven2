@@ -1,0 +1,36 @@
+fort cast 'fort' $*
+harm cast 'harm' $*
+gt gt &08$*&00 
+bless cast 'bless' $*
+regen cast 'regen' $*
+fly cast 'fly' $*
+= get all chomanno;wear all;get all chomanno;wear all;
+armor cast 'armor' $*
+ward cast 'ward' $*
+di cast 'detect invi' $*
+sanc cast 'sanc' $*
+sense c 'sense life' $*
+assistant c 'assistant' $*
+relocate c 'relocate' $*
+sagacity c 'sagacity' $*
+word c 'word of recall' $*
+revive c 'revive' $*
+information auc -info
+blind c 'blind' $*
+food 'create food' $*
+cure c 'cure blind' $*
+dispel c 'dispel evil' $*
+summon c 'summon' $*
+curse c 'rem curse' $*
+poison c 'rem poison' $*
+banish c 'banish' $*
+flame c 'flame strike' $*
+paralysis c 'rem paralysis' $*
+holy c 'holy word' $*
+convert c 'convert' $*
+quake c 'earthquake' $*
+heal c 'heal' $*
+demon c 'demon fire' $*
+cleanse c 'cleanse' $*
+dishearten c 'dishearten' $*
+familiar c 'familiarize' $*

@@ -1,0 +1,45 @@
+title title &08Forsaken's Drunk&00
+sac c 'sac' *$*
+sup c 'fly'; c 'regenerate'; c 'detect invisibility'; c 'infravision'; c 'armor'; c 'sense life'
+rv c 'revive' $*
+cle c 'cleanse' $*
+say say &14*&13*&14*&08$*&14*&13*&14*&00
+clan clan &14*&13*&14*&08$*&14*&13*&14*&00
+gt gt &14(&13*&14*&13*&08$*&13*&14*&13*&14)&00
+lvlgear remove gold; remove gold; remove heav; remove mask; wear jew; wear jew; wear wire; wear maid
+hx c 'heal' xan
+hms h 'mas'
+sag c 'sag' $*
+hy c 'heal' yash
+wake wake; stand
+cda cast 'detect alignment'
+assi c 'assistant'
+harm cast 'harm' $*
+fort cast 'fortify' $*
+sum cast 'summon' $*
+b cast 'blindness' $*
+dti c 'detect invisibility' $*
+h cast 'heal' $*
+word c 'word of recall' $*
+inf cast 'infravision'
+sen c 'sense life'
+arm c 'armor' $*
+cc c 'cure crit' $*
+mal c 'maledict' $*
+fly c 'fly' $*
+reg c 'regenerate' $*
+ward c 'ward' $*
+caon cast 'convert' $*
+cov convert $*
+ear cast 'earthquake' $*
+hm cast 'harm' $*
+way cast 'create food' 
+sanc c 'sanc' $*
+ooc ooc &08$*&00
+delvl remove wire; remove jewlled; remove maiden; wear mask; wear en; wear gold; put all crap; get heart crap
+lanlock  n; open locker;  get crap lock; get heart crap; close lock; s 
+rc c 'remove curse' $*
+&08forsaken&00 Needs to talk to yashiro sawako omis and who ever is leading Genesis and wanderers please
+wa wake; stand
+rl c 'relocate' $*
+cs c 'create spring'

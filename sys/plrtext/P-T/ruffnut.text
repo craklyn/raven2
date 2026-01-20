@@ -1,0 +1,32 @@
+5 summon dodong
+ma c 'maledict' $*
+bw c 'bone wall' $*
+co c 'consum corpse' $*
+o order follower $*
+sl c 'slow' $*
+cu c 'curse' $*
+no c 'nox' $*
+a c 'charm corpse' $*
+invis c 'invis' $*
+se c 'sense' $*
+z flee
+p rec rec rec
+dr c 'life drain' $*
+fly c 'fly' $*
+di c 'detect invis' $*
+infra c 'infra'
+sum c 'summon' $*
+b c 'blind' $*
+br breath $*
+kaon get bread bag;eat bread
+re c 'resist poison' $*
+em c 'embalm' $*
+si c 'silence' $*
+sh c 'shield' $*
+de c 'debilitate' $*
+wr c 'wraith'
+cw c 'create warding' $*
+wa wake;stand
+1 rec rec rec
+cc c 'callcorpse' $*
+en c 'entomb' $*

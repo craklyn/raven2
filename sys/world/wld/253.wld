@@ -1,0 +1,1688 @@
+#25300
+A dank office~
+You have entered the office of Merodach, chief of Dispater's guard force.  The
+office is dark, but large enough to comfortably support the bulk of Merodach
+and his officers.  There is no furniture visible, and no source of light.  The
+only exit is north, back into the hallway.    
+~
+253 521 0 0 0 0 255 0
+D0
+~
+door iron heavy~
+1 0 25293
+S
+#25301
+A stone corridor~
+You are at a corner in a stone corridor, which stretches away east and south of
+you.  As elsewhere in the tower, the floor and ceiling is smooth, and the walls
+are mostly smooth, with a few pockmarks.  It is a bit warmer here than on the
+higher floors, however.    
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25302
+D2
+~
+~
+0 0 25308
+S
+#25302
+A stone corridor~
+You are in a stone corridor, which continues to the east and west.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.    
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25303
+D3
+~
+~
+0 0 25301
+S
+#25303
+A stone corridor~
+You are in a stone corridor, which continues to the east and west.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.    
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25304
+D3
+~
+~
+0 0 25302
+S
+#25304
+A stone corridor~
+You are in a stone corridor, which continues to the east and west.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.    
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25305
+D3
+~
+~
+0 0 25303
+S
+#25305
+A stone corridor~
+You are in a stone corridor, which continues to the east and west.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.  Set
+into the north wall is a set of stairs leading down.    
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25306
+D3
+~
+~
+0 0 25304
+D5
+~
+~
+0 0 25355
+S
+#25306
+A stone corridor~
+You are in a stone corridor, which continues to the east and west.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.  Set in
+the south wall is a door.    
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25307
+D2
+~
+door~
+1 0 25313
+D3
+~
+~
+0 0 25305
+S
+#25307
+A stone corridor~
+You are at a corner in a stone corridor, which stretches away south and west of
+you.  As elsewhere in the tower, the floor and ceiling is smooth, and the walls
+are mostly smooth, with a few pockmarks.  It is a bit warmer here than on the
+higher floors, however.    
+~
+253 521 0 0 0 0 255 0
+D2
+~
+~
+0 0 25314
+D3
+~
+~
+0 0 25306
+S
+#25308
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.  A door
+is set into the east wall.    
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25301
+D1
+~
+door~
+1 0 25309
+D2
+~
+~
+0 0 25315
+S
+#25309
+The Chamber of Titivilus~
+You are in the private chamber of Titivilus, the messenger of Dispater.
+The room is mute testimony to the cruel nature of Titivilus, as the walls
+are decorated with tapestries featuring dismemberment and torture, often
+with Titivilus himself performing the deed.  The southern wall has a pair
+of iron rings set near each other, with blood stains behind them.
+~
+253 521 0 0 0 0 255 0
+D3
+~
+door~
+1 0 25308
+S
+#25310
+A wood panelled hallway~
+You are in a bend in a tastefully decorated hallway.  Smooth marble floors
+lead off to the south and east, with polished wood panels on the walls.
+Two softly glowing balls of light hang on the north and west walls, and in
+the northwest corner a plinth supports an intricate sculpture of gold and
+silver.
+~
+253 552 0 0 0 0 255 0
+D1
+~
+~
+0 0 25311
+D2
+~
+~
+0 0 25317
+E
+sculpture~
+The sculpture is made of thin strands of gold and silver, twisted around each
+other in a complex and intricate design.  The light from above plays off the
+metal, providing highlights and contrasts.
+~
+S
+#25311
+A wood panelled hallway~
+You are in a tastefully decorated hallway, with smooth marble floors and
+polished wood panels on the walls.  Spaced evenly along the north wall, balls
+of light provide a soft illumination, with precious vases and small statuettes
+underneath each one.   A wooden door is set into the south wall.
+~
+253 552 0 0 0 0 255 0
+D1
+~
+~
+0 0 25312
+D2
+~
+wooden door~
+1 0 25318
+D3
+~
+~
+0 0 25310
+S
+#25312
+A wood panelled hallway~
+You are in a bend in a tastefully decorated hallway.  Smooth marble floors
+lead off to the south and west, with polished wood panels on the walls.
+Two softly glowing balls of light hang on the north and east walls, and in
+the northeast corner a plinth supports a strange device of copper and silver
+wires.
+~
+253 552 0 0 0 0 255 0
+D2
+~
+~
+0 0 25319
+D3
+~
+~
+0 0 25311
+E
+device copper silver wires~
+As you move closer to inspect the device, several of the wires suddenly
+start vibrating.  Suddenly, the air is filled with beatiful and melancholy
+music, sorrowful enough to make your soul weep and pure enough to make your
+heart sing.
+~
+S
+#25313
+Ashtaron's Quarters~
+You stand in a bare stone room, with blackened scorch marks across every
+surface.  There is the occasional pile of ash in a corner, as if a wall hanging
+met an untimely end.  The only visible exit is a door leading north into a
+corridor of stone.    
+~
+253 585 0 0 0 0 255 0
+D0
+~
+door~
+1 0 25306
+S
+#25314
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25307
+D2
+~
+~
+0 0 25321
+S
+#25315
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.    
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25308
+D2
+~
+~
+0 0 25322
+S
+#25316
+A wood panelled room~
+You are in a small room, with polished wood panels on the walls, and a smooth
+marble floor.  There is a glowing ball of light hanging from the ceiling in
+each of the four corners of the room, providing plenty of light.  A wooden door
+is set into the east wall.    
+~
+253 393768 0 0 0 0 255 0
+D1
+~
+wooden door~
+1 0 25317
+S
+#25317
+A wood panelled hallway~
+You are in a tastefully decorated hallway, with smooth marble floors and
+polished wood panels on the walls.  Spaced evenly along the east wall, balls
+of light provide a soft illumination, with precious vases and small statuettes
+underneath each one.   A wooden door is set into the west wall.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+~
+0 0 25310
+D2
+~
+~
+0 0 25324
+D3
+~
+wooden door~
+1 0 25316
+S
+#25318
+A wood panelled room~
+You are in a small room, with polished wood panels on the walls, and a smooth
+marble floor.  There is a glowing ball of light hanging from the ceiling in
+each of the four corners of the room, providing plenty of light.  A wooden door
+is set into the north wall.    
+~
+253 40 0 0 0 0 255 0
+D0
+~
+wooden door~
+1 0 25311
+S
+#25319
+A wood panelled hallway~
+You are in a tastefully decorated hallway, with smooth marble floors and
+polished wood panels on the walls.  Spaced evenly along the west wall, balls
+of light provide a soft illumination, with precious vases and small statuettes
+underneath each one.   A wooden door is set into the east wall.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+~
+0 0 25312
+D1
+~
+wooden door~
+1 0 25320
+D2
+~
+~
+0 0 25326
+S
+#25320
+A wood panelled room~
+You are in a small room, with polished wood panels on the walls, and a smooth
+marble floor.  There is a glowing ball of light hanging from the ceiling in
+each of the four corners of the room, providing plenty of light.  A wooden door
+is set into the west wall.    
+~
+253 393768 0 0 0 0 255 0
+D3
+~
+wooden door~
+1 0 25319
+S
+#25321
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25314
+D2
+~
+~
+0 0 25328
+S
+#25322
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.    
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25315
+D2
+~
+~
+0 0 25329
+S
+#25323
+A wood panelled room~
+You are at the top of a flight of stairs, which lead down into an iron hallway.
+The stairs exit into a small room, with polished wood panels on the walls,
+and a smooth marble floor.  There is a glowing ball of light hanging from
+the ceiling in each of the four corners of the room, providing plenty of 
+light.  A wooden door is set into the east wall.
+~
+253 393768 0 0 0 0 255 0
+D1
+~
+wooden door~
+1 0 25324
+D5
+~
+~
+0 0 25373
+S
+#25324
+A wood panelled hallway~
+You are in a tastefully decorated hallway, with smooth marble floors and
+polished wood panels on the walls.  Spaced evenly along the east wall, balls
+of light provide a soft illumination, with precious vases and small statuettes
+underneath each one.   A wooden door is set into the west wall.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+~
+0 0 25317
+D2
+~
+~
+0 0 25331
+D3
+~
+wooden door~
+1 0 25323
+S
+#25325
+Base of the stairs~
+You are at the base of an ornate set of wooden stairs.  The room is softly
+lit by a glowing ball in each corner, illuminating polished wooden panels on
+all the walls.  The floor and the balustrade are of a smooth marble, while
+the staircase itself is polished wood, without a trace of wear.  The only
+other exit is a door set in the east wall.
+~
+253 552 0 0 0 0 255 0
+D1
+~
+wooden door~
+2 25227 25326
+D4
+~
+~
+0 0 25283
+S
+#25326
+A wood panelled hallway~
+You are in a tastefully decorated hallway, with smooth marble floors and
+polished wood panels on the walls.  Spaced evenly along the west wall, balls
+of light provide a soft illumination, with precious vases and small statuettes
+underneath each one.  A wooden door is set into the east and west walls.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+~
+0 0 25319
+D1
+~
+wooden door~
+1 0 25327
+D2
+~
+~
+0 0 25333
+D3
+~
+wooden door~
+2 25227 25325
+S
+#25327
+A wood panelled room~
+You are in a small room, with polished wood panels on the walls, and a smooth
+marble floor.  There is a glowing ball of light hanging from the ceiling in
+each of the four corners of the room, providing plenty of light.  A wooden door
+is set into the west wall.    
+~
+253 393768 0 0 0 0 255 0
+D3
+~
+wooden door~
+1 0 25326
+S
+#25328
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25321
+D2
+~
+~
+0 0 25336
+S
+#25329
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.    
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25322
+D2
+~
+~
+0 0 25337
+S
+#25330
+A wood panelled room~
+You are in a small room, with polished wood panels on the walls, and a smooth
+marble floor.  There is a glowing ball of light hanging from the ceiling in
+each of the four corners of the room, providing plenty of light.  A wooden door
+is set into the east wall.    
+~
+253 393768 0 0 0 0 255 0
+D1
+~
+wooden door~
+1 0 25331
+S
+#25331
+A wood panelled hallway~
+You are in a tastefully decorated hallway, with smooth marble floors and
+polished wood panels on the walls.  Spaced evenly along the east wall, balls
+of light provide a soft illumination, with precious vases and small statuettes
+underneath each one.   A wooden door is set into the west wall.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+~
+0 0 25324
+D2
+~
+~
+0 0 25339
+D3
+~
+wooden door~
+1 0 25330
+S
+#25332
+A wood panelled room~
+You are in a small room, with polished wood panels on the walls, and a smooth
+marble floor.  There is a glowing ball of light hanging from the ceiling in
+each of the four corners of the room, providing plenty of light.  A wooden door
+is set into the south wall.    
+~
+253 552 0 0 0 0 255 0
+D2
+~
+wooden door~
+1 0 25340
+S
+#25333
+A wood panelled hallway~
+You are in a tastefully decorated hallway, with smooth marble floors and
+polished wood panels on the walls.  Spaced evenly along the west wall, balls
+of light provide a soft illumination, with precious vases and small statuettes
+underneath each one.   A wooden door is set into the east wall.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+~
+0 0 25326
+D1
+~
+wooden door~
+1 0 25334
+D2
+~
+~
+0 0 25341
+S
+#25334
+A wood panelled room~
+You are in a small room, with polished wood panels on the walls, and a smooth
+marble floor.  There is a glowing ball of light hanging from the ceiling in
+each of the four corners of the room, providing plenty of light.  A wooden door
+is set into the west wall.    
+~
+253 393768 0 0 0 0 255 0
+D3
+~
+wooden door~
+1 0 25333
+S
+#25336
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25328
+D2
+~
+~
+0 0 25343
+S
+#25337
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.    
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25329
+D2
+~
+~
+0 0 25344
+S
+#25338
+Genzakis's Chambers~
+You are in a darkened stone room, with irregular walls.  Protruding from
+every surface are barbs of differing lengths, all gleaming dully.  The floor
+is smoother than the walls, and the barbs are much smaller, yet still
+spotlessly clean.  The only visible exit is a large iron door to the south.
+~
+253 9 0 0 0 0 255 0
+D2
+~
+door iron~
+1 0 25345
+S
+#25339
+A wood panelled hallway~
+You are in a bend in a tastefully decorated hallway.  Smooth marble floors
+lead off to the north and west, with polished wood panels on the walls.
+Two softly glowing balls of light hang on the south and east walls, and in
+the southeast corner a plinth supports an ever shifting display of light.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+~
+0 0 25331
+D1
+~
+~
+0 0 25340
+E
+display light~
+The display of light is a remarkable work of magical art.  Gentle sheets of
+coloured light weave and dance around each other, merging and separating
+endlessly to produce different colours.
+~
+S
+#25340
+A wood panelled hallway~
+You are in a tastefully decorated hallway, with smooth marble floors and
+polished wood panels on the walls.  Spaced evenly along the south wall, balls
+of light provide a soft illumination, with precious vases and small statuettes
+underneath each one.   A wooden door is set into the north wall.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+wooden door~
+1 0 25332
+D1
+~
+~
+0 0 25341
+D3
+~
+~
+0 0 25339
+S
+#25341
+A wood panelled hallway~
+You are in a bend in a tastefully decorated hallway.  Smooth marble floors
+lead off to the north and west, with polished wood panels on the walls.
+Two softly glowing balls of light hang on the south and east walls, and in
+the southeast corner a plinth stands empty.
+~
+253 552 0 0 0 0 255 0
+D0
+~
+~
+0 0 25333
+D3
+~
+~
+0 0 25340
+S
+#25342
+Furcas' Quarters~
+The private quarters of General Furcas are truly disgusting.  Slime from his
+slug-like hind quarters covers everything, giving off a nauseating odour of
+decay.  Bits of flesh showing teeth and claw marks are scattered on the floor,
+rotting into dust.  Shredded tapestries hang limply on the walls, showing
+scenes of violence and destruction.  A dirty pile of straw in one corner would
+appear to be where Furcas sleeps.    
+~
+253 524809 0 0 0 0 255 0
+D1
+~
+door~
+2 25219 25343
+S
+#25343
+A stone corridor~
+You are in a stone corridor, which continues to the north and south.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  To the west a large door stands set in the wall.
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25336
+D2
+~
+~
+0 0 25350
+D3
+~
+door~
+2 25219 25342
+S
+#25344
+A stone corridor~
+You are at a corner in a stone corridor, which stretches away north and east of
+you.  As elsewhere in the tower, the floor and ceiling is smooth, and the walls
+are mostly smooth, with a few pockmarks.  It is a bit warmer here than on the
+higher floors, however.  A staircase leads upwards.    
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25337
+D1
+~
+~
+0 0 25345
+D4
+~
+~
+0 0 25294
+S
+#25345
+A stone corridor~
+You are in a stone corridor, which continues to the west and east.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  A solid iron door is set into the northern wall.
+~
+253 521 0 0 0 0 255 0
+D0
+~
+door iron~
+1 0 25338
+D1
+~
+~
+0 0 25346
+D3
+~
+~
+0 0 25344
+S
+#25346
+A stone corridor~
+You are in a stone corridor, which continues to the west and east.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25347
+D3
+~
+~
+0 0 25345
+S
+#25347
+A stone corridor~
+You are in a stone corridor, which continues to the west and east.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25348
+D3
+~
+~
+0 0 25346
+S
+#25348
+A stone corridor~
+You are in a stone corridor, which continues to the west and east.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25349
+D3
+~
+~
+0 0 25347
+S
+#25349
+A stone corridor~
+You are in a stone corridor, which continues to the west and east.  As is now
+familiar, the floor and ceiling are smooth, while the walls have a number of
+small pockmarks.  There are a few obligatory blood stains on the floor.
+~
+253 521 0 0 0 0 255 0
+D1
+~
+~
+0 0 25350
+D3
+~
+~
+0 0 25348
+S
+#25350
+A stone corridor~
+You are at a corner in a stone corridor, which stretches away north and west of
+you.  As elsewhere in the tower, the floor and ceiling is smooth, and the walls
+are mostly smooth, with a few pockmarks.  It is a bit warmer here than on the
+higher floors, however.    
+~
+253 521 0 0 0 0 255 0
+D0
+~
+~
+0 0 25343
+D3
+~
+~
+0 0 25349
+S
+#25351
+The end of the hallway~
+The hallway ends here, with rough stone walls to the north, east and west.
+The hallway's glow is less here, as the floor is in better condition than
+elsewhere, but the air is still quite warm.  Set in the eastern wall is a
+large iron door.
+~
+253 520 0 0 0 0 255 0
+D1
+~
+iron door~
+2 25215 25352
+D2
+~
+~
+0 0 25358
+S
+#25352
+Between two doors~
+You are standing in a cramped space between two large, iron doors.  There is
+barely room for you to check your pockets for keys, and in the tight quarters
+the heat is all the more oppresive.  You start to feel slightly light headed
+from the fumes.
+~
+253 8913672 0 0 0 0 255 0
+D1
+~
+iron door~
+2 25216 25353
+D3
+~
+iron door~
+2 25215 25351
+S
+#25353
+Between two doors~
+You are standing in a cramped space between two large, iron doors.  There is
+barely room for you to check your pockets for keys, and in the tight quarters
+the heat is all the more oppresive.  You start to feel slightly light headed
+from the fumes.
+~
+253 8913672 0 0 0 0 255 0
+D1
+~
+iron door~
+2 25217 25354
+D3
+~
+iron door~
+2 25216 25352
+S
+#25354
+Between two doors~
+You are standing in a cramped space between two large, iron doors.  There is
+barely room for you to check your pockets for keys, and in the tight quarters
+the heat is all the more oppresive.  You start to feel slightly light headed
+from the fumes.
+~
+253 8913672 0 0 0 0 255 0
+D2
+~
+iron door~
+2 25218 25361
+D3
+~
+iron door~
+2 25217 25353
+S
+#25355
+The base of the stairs~
+You are at the base of a flight of stairs leading upwards to a dark stone
+hallway.  Leading off to the east is another stone hallway, though this one
+is lit by a harsh red glow coming up through cracks in the floor.  The air
+to the east is noticably warmer than the air above you.
+~
+253 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 25356
+D4
+~
+~
+0 0 25305
+S
+#25356
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+your east is a turn in the hallway, and to the west a set of roughly cut
+stairs lead up into darkness.
+~
+253 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 25357
+D3
+~
+~
+0 0 25355
+S
+#25357
+A turn in the hallway~
+You are in a turn in a stone hallway.  The floor is cracked and broken, with
+a dull red glow rising up on waves of heat.  The broken walls cast strange
+shadows on the ceiling, and a faint sulphurous smell hangs in the air.
+~
+253 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 25364
+D3
+~
+~
+0 0 25356
+S
+#25358
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25351
+D2
+~
+~
+0 0 25365
+S
+#25359
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D1
+~
+~
+0 0 25360
+D2
+~
+~
+0 0 25366
+S
+#25360
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D3
+~
+~
+0 0 25359
+S
+#25361
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+iron door~
+2 25218 25354
+D1
+~
+~
+0 0 25362
+S
+#25362
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D1
+~
+~
+0 0 25363
+D3
+~
+~
+0 0 25361
+S
+#25363
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D2
+~
+~
+0 0 25370
+D3
+~
+~
+0 0 25362
+S
+#25364
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+your north is a turn in the hallway, and to the south the hallway continues
+for some distance.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25357
+D2
+~
+~
+0 0 25371
+S
+#25365
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25358
+D2
+~
+~
+0 0 25372
+S
+#25366
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25359
+D2
+~
+~
+0 0 25373
+S
+#25367
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D1
+~
+~
+0 0 25368
+D2
+~
+~
+0 0 25374
+S
+#25368
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D1
+~
+~
+0 0 25369
+D2
+~
+~
+0 0 25375
+D3
+~
+~
+0 0 25367
+S
+#25369
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D2
+~
+~
+0 0 25376
+D3
+~
+~
+0 0 25368
+S
+#25370
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25363
+D2
+~
+~
+0 0 25377
+S
+#25371
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25364
+D2
+~
+~
+0 0 25378
+S
+#25372
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25365
+D2
+~
+~
+0 0 25379
+S
+#25373
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25366
+D2
+~
+~
+0 0 25380
+D4
+~
+~
+0 0 25323
+S
+#25374
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25367
+D2
+~
+~
+0 0 25381
+S
+#25375
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25368
+D2
+~
+~
+0 0 25382
+S
+#25376
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25369
+D2
+~
+~
+0 0 25383
+S
+#25377
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25370
+D2
+~
+~
+0 0 25384
+S
+#25378
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25371
+D2
+~
+~
+0 0 25385
+S
+#25379
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25372
+D2
+~
+~
+0 0 25386
+S
+#25380
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25373
+D2
+~
+~
+0 0 25387
+S
+#25381
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25374
+D2
+~
+~
+0 0 25388
+S
+#25382
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25375
+D2
+~
+~
+0 0 25389
+S
+#25383
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25376
+D2
+~
+~
+0 0 25390
+S
+#25384
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25377
+D2
+~
+~
+0 0 25391
+S
+#25385
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25378
+D2
+~
+~
+0 0 25392
+S
+#25386
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25379
+D2
+~
+~
+0 0 25393
+S
+#25387
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25380
+D1
+~
+~
+0 0 25388
+S
+#25388
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25381
+D3
+~
+~
+0 0 25387
+S
+#25389
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25382
+S
+#25390
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25383
+D1
+~
+~
+0 0 25391
+S
+#25391
+An iron hallway~
+You are in a hallway whose walls, floor and ceiling are all made of solid
+iron.  Spaced evenly along the walls are torches in sconces, casting
+firelight onto the darkly reflective surfaces.  Small pits and scars are
+scattered around, suggesting a history of violence.
+~
+253 544 0 0 0 0 255 0
+D0
+~
+~
+0 0 25384
+D3
+~
+~
+0 0 25390
+S
+#25392
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the north and south, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25385
+D2
+~
+~
+0 0 25399
+S
+#25393
+A turn in the hallway~
+You are in a turn in a stone hallway.  The floor is cracked and broken, with
+a dull red glow rising up on waves of heat.  The broken walls cast strange
+shadows on the ceiling, and a faint sulphurous smell hangs in the air.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25386
+D1
+~
+~
+0 0 25394
+S
+#25394
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the east and west, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 25395
+D3
+~
+~
+0 0 25393
+S
+#25395
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the east and west, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 25396
+D3
+~
+~
+0 0 25394
+S
+#25396
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the east and west, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 25397
+D3
+~
+~
+0 0 25395
+S
+#25397
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the east and west, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 25398
+D3
+~
+~
+0 0 25396
+S
+#25398
+A glowing stone hallway~
+You are in a stone hallway, with rough walls and a cracked and broken floor.
+Through the cracks, a dull red light glows, and waves of heat rise up.  To
+the east and west, the hallway continues.
+~
+253 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 25399
+D3
+~
+~
+0 0 25397
+S
+#25399
+A turn in the hallway~
+You are in a turn in a stone hallway.  The floor is cracked and broken, with
+a dull red glow rising up on waves of heat.  The broken walls cast strange
+shadows on the ceiling, and a faint sulphurous smell hangs in the air.
+~
+253 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 25392
+D3
+~
+~
+0 0 25398
+S
+$~

@@ -1,0 +1,14 @@
+sw cast 'shadow walk'
+aucc auc -info
+ss cast 'sleep' $*
+b backstab $*
+gg des cor
+sv cast 'shadow vision' $*
+bli cast 'blindness' $*
+hide hide; look
+sp cast 'shadow sphere' $*
+slapp slap 1.; slap 2. sllap 3,; slap 4.; slap 5.;slap 6.; slap 7.
+t trip $*
+blur cast 'blur' $*
+ds cast 'dance of shadows' $*
+sa emote growls, '$* '

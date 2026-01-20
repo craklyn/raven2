@@ -1,0 +1,27 @@
+o order follower $*
+re retreat $*
+ww w;gt Going WEST;k $*
+ss s;gt Going SOUTH;k $*
+ee e;gt Going EAST;k $*
+nn n;gt Going NORTH;k $*
+uu u;gt Going UP;k $*
+dd d;gt Going DOWN;k $*
+wa wa;st
+str cast 'stren' $*
+en cast 'entangle' $*
+how cast 'hands of wind' $*
+ref cast 'refresh' $*
+sw cast 'swarm' $*
+call cast 'call of the wild'
+ff cast 'fleet foot' $*
+shi cast 'shield' $*
+rpo cast 'rem poi' $*
+infra cast 'infravis' $*
+bri cast 'bri'
+flet cast 'fletch'
+a assist $*
+ag aggressive $*
+c calm
+as assist $*;o foll assist cgreth
+sense cast 'sense life'
+lore cast 'forest lore

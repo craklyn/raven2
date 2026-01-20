@@ -1,0 +1,40 @@
+f c 'revive' talid
+r c 'revive' bluto
+check look d;look u;look e;look w;look n;look s
+t c 'harm' $*
+heal c 'heal' $*
+shots e;s;s;d;e;e;e;e;e;s;s;e;buy 40 whisk;put all.shot beet;buy 40 whisk;w;n;n;w;w;w;w;w;n;n;n;n;n;n;n;n;n;e;e;s;e;n;w;sleep
+saga c 'sagacity'
+dis c 'dishearten' $*
+dc destroy corpse
+word c 'word' $*
+rr c 'word' group
+di cast 'detect invis' $*
+bl cast 'blindness' $1
+g get all all.corpse
+ward c 'ward' $*
+sense c 'sense life'
+ww cast 'word' $*
+df drink fou
+sanc c 'sanc' $*
+regen c 'regen' $*
+fly c 'fly' $*
+infra c 'infra'
+ttt title the &09Wandering&00 Travelocity Gnome
+sum c 'summon' $*
+cb c 'cure blind' $*
+fort c 'fort' $*
+cleanse c 'cleanse' $*
+rev c 'revive' $*
+armor c 'armor' $*
+flame c 'flame strike' $*
+y c 'summon' alf
+ee c 'earth'
+ga get all
+1 c 'sanc' Grym
+gg get all.coin all.corpse
+hh c 'heal' $*
+ass ord vamp assist
+gs gt &02|&00&13$*&00 &02|&00
+q toss rev
+h c 'heal' $*

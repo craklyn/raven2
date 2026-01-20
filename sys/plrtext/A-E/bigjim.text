@@ -1,0 +1,33 @@
+col cast 'color spray'
+cp cast 'color spray' $1
+shield cast 'shield' $1
+awa cast 'awaken' $1
+life cast 'life drain'
+ld cast 'life drain' $1
+infra cast 'infra' self
+practice wake;;stand;;cast 'haste' me;;cast 'haste' me;;sleep
+sh cast 'shield' $1
+sl order follower sleep;;sleep
+wa wake;;stand;;order fol wake;;order fol stand
+dr cast ' life drain' $1
+inf cast 'infravision' $1
+ch cast 'charm person' $1
+fl cast 'flame blade' $1
+4 order fol rest
+ts cast 'true sight' $1
+con cast 'conjure elemental'
+co cast 'color spray'
+qw drink sus
+invis cast 'invis' $1
+str cast 'strength' $1
+sum cast 'summon' $1
+id cast 'identify' $1
+bl cast 'blind' $1
+fly cast 'fly' $1
+mon cast 'monster summon'
+aw cast 'awaken' $1
+in cast 'invisibility' $1
+ha cast 'haste' $1
+3 or kill water
+0 look 1.;;look 2.;;look 3.
+1 or ele kill 3.;;as

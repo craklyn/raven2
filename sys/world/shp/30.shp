@@ -1,0 +1,387 @@
+CircleMUD v3.0 Shop File~
+#3000~
+3010
+3011
+0
+0
+0
+-1
+1.50
+0.10
+0
+0
+0
+0
+0
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3001
+0
+3009
+-1
+0
+28
+0
+0
+#3001~
+0
+0
+0
+3000
+3001
+-1
+1.10
+1.00
+10
+0
+0
+0
+0
+-1
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I'm sorry, you seem to have lost that!~
+%s Pah! What would I want with that?~
+%s I'm sorry, business hasn't been that good this month, maybe next time?~
+%s Are you drunk or what?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s At %d coins, thats a steal!~
+0
+2
+3040
+0
+3007
+-1
+0
+28
+0
+0
+#3002~
+3020
+3021
+3022
+3023
+3024
+3093
+3094
+3095
+-1
+1.20
+0.80
+5
+6
+7
+4
+0
+-1
+%s I haven't got that kind of a weapon!~
+%s You don't carry that weapon!~
+%s I only buy weapons.~
+%s I can't afford such a great weapon!~
+%s sorry, but NO CREDIT!~
+%s That costs just %d coins.~
+%s Here, you can have %d coins for that.~
+0
+2
+3003
+0
+3011
+-1
+0
+28
+0
+0
+#3003~
+1205
+3030
+3032
+0
+0
+-1
+1.20
+0.80
+1
+15
+8
+-1
+%s Sorry, I don't have that item, try using list.~
+%s You don't have that item, check your inventory again.~
+%s I don't buy that kind of stuff, check some other shops here in town.~
+%s You need to travel outside of Midgaard to sale such treasures.~
+%s You can't afford this, better go treasure hunting!~
+%s That'll be %d coins, thank you for shopping at Waldorf's General Store.~
+%s You'll get %d coins for that!~
+0
+2
+3002
+0
+3010
+-1
+0
+28
+0
+0
+#3004~
+3046
+3047
+3048
+3049
+3042
+-1
+1.20
+0.80
+9
+11
+12
+0
+0
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy armors.. Go away!~
+%s That is too expensive for me - Try a wizard!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+2
+3004
+0
+3020
+-1
+0
+28
+0
+0
+#3005~
+3036
+3037
+3038
+3039
+3040
+-1
+1.20
+0.80
+9
+8
+13
+12
+15
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy armors.. Go away!~
+%s That is too expensive for me - Try a wizard!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+2
+3007
+0
+3086
+-1
+0
+28
+0
+0
+#3006~
+3051
+3054
+3055
+0
+0
+-1
+1.20
+0.80
+10
+2
+1
+15
+0
+-1
+%s I do not have that on storage presently.~
+%s You don't seem to have that.~
+%s I only buy potions.~
+%s That is too expensive for me.~
+%s You can not, it seems, afford it at the moment.~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it.~
+0
+2
+3008
+0
+3084
+-1
+0
+28
+0
+0
+#3007~
+3004
+3003
+3002
+0
+0
+-1
+1.50
+1.00
+0
+0
+0
+0
+0
+-1
+%s That item is not currently available.~
+%s I do not buy~
+%s I do not buy~
+%s I do not buy~
+%s If you have no money, you'll have to go.~
+%s That'll be %d coins.~
+%s I will give %d coins for that, though I normally don't buy.~
+0
+2
+3098
+0
+3071
+-1
+0
+28
+0
+0
+#3008~
+3050
+3052
+3053
+0
+0
+-1
+1.20
+0.80
+2
+3
+4
+0
+0
+-1
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+2
+3000
+0
+3033
+-1
+0
+28
+0
+0
+#3009~
+3060
+3061
+0
+0
+0
+-1
+1.20
+0.90
+22
+12
+13
+15
+0
+-1
+%s Sorry matey, I don seem ta hav't in me invintary.~
+%s Ok, but let me see it first.~
+%s I only trade ships, matey.~
+%s I can nay affard such a fine ship.~
+%s This ship is too expensive for you.~
+%s Here is your ship, I'll take %d gold coins.~
+%s What a fine deal, you get %d gold coins.~
+0
+2
+3006
+0
+3049
+-1
+0
+28
+0
+0
+#3010~
+3004
+3003
+0
+0
+0
+-1
+1.00
+1.00
+0
+0
+0
+0
+0
+-1
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3046
+0
+3048
+-1
+0
+28
+0
+0
+#3011~
+3005
+3006
+3007
+0
+0
+-1
+1.00
+1.00
+0
+0
+0
+0
+0
+-1
+%s Sorry, I don't have that -- try list!~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, but here, no money means no water!~
+%s That will be %d coins, please.  Thank you.~
+%s Oops - %d a minor bug - please report.~
+0
+2
+3009
+0
+3058
+-1
+0
+28
+0
+0
+$~

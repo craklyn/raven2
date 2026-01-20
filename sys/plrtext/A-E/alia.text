@@ -1,0 +1,28 @@
+hw c ' holy word ' 
+clan clan &14 $* &11
+1 get all corpse
+qt quest take
+qo quest off
+qi quest info
+cc c ' cure crit ' $*
+pfe c ' protection '
+cp c ' cure plague ' $*
+see c ' righteous vision ' $*
+rpp c ' remove poison ' $*
+rp c ' remove paralysis ' $*
+cb c ' cure blind ' $*
+r c ' regenerate ' $*
+dm c ' divine mission '
+cru c ' crusade '
+2 c ' holy armor ' 
+11 c ' prayer ' $*
+di c ' detect invis ' $*
+4 kick $*
+b bash $*
+tit tit :: &09Wanderer&00
+p scan
+wo who
+cw clanwho
+a assist
+rc c ' remove curse ' $*
+z c ' prayer ' erza

@@ -1,0 +1,708 @@
+#3100
+tea cup~
+a cup~
+A cup has been set here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 11 0
+1 5 80
+E
+cup~
+It is a small simple cup.
+~
+B
+0 0 0 0
+#3101
+coffee cup~
+a cup~
+A cup has been set here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 12 0
+1 7 80
+E
+cup~
+It is a small simple cup.
+~
+B
+0 0 0 0
+#3102
+water cup~
+a cup~
+A cup has been set here.~
+~
+17 0 0 0 0 1 0 0 0
+12 12 15 0
+1 2 120
+E
+cup~
+It is a large simple cup.
+~
+B
+0 0 0 0
+#3103
+water bottle~
+a bottle~
+A bottle of Evian natural spring water is here.~
+~
+17 0 0 0 0 1 0 0 0
+24 24 15 0
+1 10 240
+E
+bottle~
+It is a large, clean bottle.
+~
+E
+label~
+You've been ripped off!  It says here at the bottom of the label, in really
+really small letters, "Bottled in the Midgaard branch of Evian Inc.  This
+water is from the natural, mostly clean River of Midgaard."
+~
+B
+0 0 0 0
+#3104
+water canteen~
+a canteen~
+A canteen has been set on the ground here.~
+~
+17 0 0 0 0 1 0 0 0
+15 15 0 0
+10 45 150
+E
+canteen~
+It's a fairly big canteen.  Looks like it can hold a lot of liquid.
+~
+B
+0 0 0 0
+#3107
+corn~
+a kernal of corn~
+A small kernal of corn lies here.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+0 0 72
+B
+0 0 0 0
+#3120
+sink~
+the Kitchen Sink~
+A small sink has been left here.~
+~
+15 0 0 0 0 1 0 0 0
+500 5 -1 0
+1 5000 500
+E
+key iron~
+The iron key is not special.  In fact, it's quite boring.
+~
+B
+0 0 0 0
+#3121
+key rusty~
+a rusty key~
+A rusty key has been left here.~
+~
+18 4096 32 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+key rusty~
+The key is a fairly large rusty key.  You notice a lot of dirt it.
+~
+B
+0 0 0 0
+#3122
+key wooden~
+a wooden key~
+A wooden key has been left here.~
+~
+18 4096 32 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+key wooden~
+The wooden key is not special.  In fact it's just about the most boring key
+you've ever seen in your life.
+~
+B
+0 0 0 0
+#3123
+key brass~
+a brass key~
+A brass key has been left here.~
+~
+18 4096 32 0 0 1 0 0 0
+0 0 0 0
+1 0 0
+E
+key brass~
+The brass key is small and looks like it fits a very complicated lock.
+~
+B
+0 0 0 0
+#3130
+desk drawer~
+the desk~
+A desk is set against the western wall.~
+The desk looks very sparse, there is a drawer in the left side.
+~
+15 0 0 0 0 0 0 0 0
+1000 1 -1 0
+1000 0 1000
+E
+drawer~
+You notice a keyhole in the drawer.
+~
+B
+0 0 0 0
+#3131
+safe~
+the safe~
+A safe is placed in a dark corner of the room.~
+The safe has a keyhole.
+~
+15 0 0 0 0 0 0 0 0
+34 15 3123 0
+999 0 34
+E
+safe~
+The safe is very heavy.
+~
+B
+0 0 0 0
+#3132
+gold coins~
+the gold~
+A lot of gold is here.~
+Looks like at least 10,000 coins.
+~
+20 0 0 0 0 1 0 0 0
+32385 0 0 0
+0 32385 0
+B
+0 0 0 0
+#3133
+city key~
+the City Key~
+The very big City Key is lying here.~
+It is probably the biggest key you have seen in your life.  It is made from
+polished gold and has various patterns on it along with the Midgaard Coat of
+Arms.
+~
+18 4096 32 0 0 1 0 0 0
+0 0 0 0
+30 10000 0
+B
+0 0 0 0
+#3134
+bench~
+the Bench~
+A white-painted wooden bench is standing here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+100 600 0
+E
+bench~
+It is a quite heavy but very comfortable bench.  It is placed with its front
+towards the river so you can sit and watch the river and the houses on the
+other side.
+~
+B
+0 0 0 0
+#3135
+fountain~
+a fountain~
+A small white fountain is standing here, gurgling happily.~
+~
+23 0 0 0 0 0 0 0 0
+99999 99999 15 0
+500 0 0
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+B
+0 0 0 0
+#3136
+coins gold~
+a small pile of gold coins~
+A small pile of gold coins lies here.~
+~
+20 0 0 0 0 1 0 0 0
+37 0 0 0
+0 0 0
+B
+0 0 0 0
+#3137
+chainmail hauberk~
+a chainmail hauberk~
+A suit of chainmail lies here.~
+~
+9 5001280 32 0 0 9 0 0 0
+7 0 0 0
+10 1000 115
+E
+chainmail hauberk~
+This suit of chainmail was crafted by the armorer of Midgaard for the
+Captain of the Cityguard.  Wear it with pride.
+~
+A
+19 1
+B
+0 0 0 0
+#3138
+baronial signet~
+a Baronial Signet Ring~
+A large ring with the official Seal of Midgaard on it lies here.~
+~
+9 67 0 0 0 3 0 0 0
+2 0 0 0
+1 5000 70
+E
+baronial signet ring~
+This ring was once worn by the Baron of Midgaard, may he rest in peace.
+~
+A
+3 1
+A
+4 1
+B
+0 0 0 0
+#3139
+halberd~
+a halberd~
+A large halberd has been left here.~
+~
+5 5009472 32 0 0 8193 0 0 0
+0 2 11 3
+10 200 110
+B
+0 0 0 0
+#3140
+dark muslin sleeves~
+&07dark muslin sleeves&00~
+A pile of dark cloth has been dropped here.~
+~
+9 524288 0 0 0 257 0 0 0
+4 0 0 0
+4 500 260
+A
+1 2
+A
+12 15
+A
+19 1
+B
+0 0 0 0
+#3141
+dark water pearl earring~
+a &07darkwater pearl earring&00~
+A small black pearl has been left here.~
+~
+12 0 0 0 0 262145 0 0 0
+0 0 0 0
+1 500 180
+A
+3 2
+A
+12 15
+B
+0 0 0 0
+#3142
+dark muslin veil~
+a &07dark muslin veil&00~
+A strip of dark cloth has been left here.~
+~
+12 0 0 0 0 524289 0 0 0
+0 0 0 0
+2 500 180
+A
+4 2
+A
+1 2
+B
+0 0 0 0
+#3143
+dark muslin gloves~
+&07dark muslin gloves&00~
+A pair of cloth gloves have been left here.~
+~
+9 524288 0 0 0 129 0 0 0
+4 0 0 0
+2 500 260
+A
+2 2
+A
+12 15
+A
+19 1
+B
+0 0 0 0
+#3144
+dull metallic slippers~
+dull metallic slippers~
+A pair of slippers has been left here.~
+~
+9 524288 0 0 0 65 0 0 0
+5 0 0 0
+4 500 345
+A
+5 2
+A
+3 2
+A
+12 20
+B
+0 0 0 0
+#3145
+cryosilk sash~
+a cryosilk sash~
+A piece of silk has been dropped here.~
+~
+12 0 0 0 0 2049 0 0 0
+0 0 0 0
+3 500 270
+A
+3 2
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#3146
+ancient treant branch~
+an ancient treat branch~
+An old tree branch has fallen here.~
+~
+5 64 0 0 0 8193 0 0 0
+0 5 8 5
+5 1000 1445
+A
+1 2
+A
+18 2
+A
+19 2
+B
+0 0 0 0
+#3147
+dark muslin leggings~
+&07dark muslin leggings&00~
+A pair of dark pants have been left here.~
+~
+12 0 0 0 0 33 0 0 0
+0 0 0 0
+4 500 320
+A
+2 2
+A
+4 2
+A
+12 20
+B
+0 0 0 0
+#3148
+black ceremonial tunic~
+a &07black ceremonial tunic&00~
+A piece of black cloth has been dropped here.~
+~
+9 524288 0 0 0 9 0 0 0
+6 0 0 0
+2 500 230
+A
+3 2
+A
+18 1
+A
+19 1
+B
+0 0 0 0
+#3150
+poignard~
+a poignard~
+A very fine dagger has been carelessly left here.~
+NOACTDESC~
+5 8040456 32 0 0 8193 0 0 0
+0 6 2 11
+5 1000 90
+E
+poignard~
+This is a very sharp looking dagger that would be fitting for an assassin or
+thief.    
+~
+A
+18 1
+B
+0 0 0 0
+#3151
+mesh belt~
+a mesh belt~
+A mesh leather belt has been left here.~
+NOACTDESC~
+11 8138760 32 0 0 2049 0 0 0
+0 0 0 0
+4 900 60
+E
+mesh belt~
+This mesh belt could come in handy if one wishes to keep their drawers up.    
+~
+A
+5 1
+A
+13 5
+A
+17 -2
+B
+0 0 0 0
+#3152
+quilted armor pilferer~
+quilted armor of the &04pilferer&00~
+A nice vest of quilted armor has been left on the ground.~
+NOACTDESC~
+9 8302600 32 0 0 9 0 0 0
+5 0 0 0
+5 2700 165
+E
+armor quilted pilferer~
+This quilted armor is extremely light and allows good flexibility when worn.  
+Only the Midgaard Thief Guild is known to produce such an item, usually for new
+members to their hall.    
+~
+A
+19 1
+A
+14 10
+A
+5 1
+B
+0 0 0 0
+#3153
+soft leather boots~
+a pair of soft leather boots~
+A set of incredibly soft boots are sitting here.~
+NOACTDESC~
+11 3833864 0 0 0 65 0 0 0
+0 0 0 0
+3 800 115
+A
+2 1
+A
+14 15
+A
+17 -2
+B
+0 0 0 0
+#3160
+newb torch~
+newb torch~
+An unfinished object is lying here.~
+~
+1 0 0 0 0 17 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3161
+newb ring~
+newb ring~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 3 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3162
+newb ring2~
+newb ring2~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 3 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3163
+newb cloak~
+newb cloak~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 5 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3164
+newb body~
+newb body~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 9 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3165
+newb head~
+newb head~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 131089 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3166
+newb legs~
+newb legs~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 33 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3167
+newb feet~
+newb feet~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 65 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3168
+newb hands~
+newb hands~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 129 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3169
+newb hands~
+newb hands~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 257 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3170
+newb shield~
+newb shield~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 513 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3171
+newb about~
+newb about~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 1025 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3172
+newb waist~
+newb waist~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 2049 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3173
+newb wrist~
+newb wrist~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 4097 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3174
+newb wrist~
+newb wrist~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 4097 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3175
+newb wield~
+newb wield~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 8193 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3176
+newb hold~
+newb hold~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 16385 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3177
+newb neck~
+newb neck~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 32769 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3178
+newb ankle~
+newb ankle~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 131073 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3179
+newb ear~
+newb ear~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 262145 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+#3180
+newb face~
+newb face~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 524289 0 0 0
+0 0 0 0
+0 0 0
+B
+0 0 0 0
+$~

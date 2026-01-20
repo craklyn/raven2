@@ -1,0 +1,118 @@
+# @configure_input@
+
+#*
+#* <DISCLAIMER BEGIN>
+#*
+#* Copyright (c) 1997 Solipsys Corporation. All Rights Reserved.
+#*
+#* This software is the confidential and proprietary information of 
+#* Solipsys Corporation. ("Solipsys Proprietary").  You shall not 
+#* disclose such Confidential Information and shall use it only in 
+#* accordance with the terms of the license agreement you entered 
+#* into with Solipsys.
+#*
+#* SOLIPSYS MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SUITABILITY OF THE
+#* SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+#* IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+#* PURPOSE, OR NON-INFRINGEMENT. SOLIPSYS SHALL NOT BE LIABLE FOR ANY DAMAGES
+#* SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING
+#* THIS SOFTWARE OR ITS DERIVATIVES.
+#*
+#* <DISCLAIMER END>
+#/
+
+TOPSRC      = @top_builddir@
+CONFIG_DIR  = $(TOPSRC)
+
+# CLASS    -
+#    This target is used in conjunction with the LIBRARY target. When
+#    a developer wishes to build and maintain object file in an ar
+#    library, the LIBRARY is defined and the source file that comprise
+#    the library are listed here.
+# CLASS       =
+
+# LIBRARY  -
+#    This target allows the developer to build lib.a files with the
+#    Unix ar command. The target that is used to do this is a GNU
+#    make specific target. The use of this target is optional and
+#    unneeded if the developer will not be creating a lib.a file.
+# LIBRARY     =
+
+# BINARIES -
+#    This target should define the name(s) of any executables that
+#    need to be built in the current directory. By default, this
+#    target expects to be a list of C files that contain a main.
+BINARIES    = moon autowiz choretoggle delobjs dumptally lockers mudpasswd \
+     purgeclan purgeplay qpcheck sortme
+
+# INSTALL_BINS -
+# INSTALL_LIBS -
+#    These targets are only used when 'make install' is invoked. The
+#    installation targets will copy the files listed in these two macros
+#    to the configuration areas defined by the configure process. These
+#    targets will rarely be invoked by the average user but should ALWAYS
+#    be defined so that once the software is checked in and configured
+#    configuration manager can simply do a 'make install' to install the
+#    new library/header/binary files. Add utility files in this location
+#    that don't require regular recompilation.
+INSTALL_BINS= moon autowiz choretoggle delobjs dumptally lockers mudpasswd \
+     purgeclan purgeplay qpcheck sortme
+# INSTALL_LIBS=
+
+# INSTALL_SDIR -
+# INSTALL_HDRS -
+#    These targets allow the user to customize how and where header files
+#    are installed. By default, header files will end up in the subdirectory
+#    defined by the INC_DIR_I variable, but some installations need to add
+#    another level within the default include directory. This allows the
+#    user to create directory  structures like $INC_DIR_I/include/somedir
+#    to install the class header files. Programs needing access to the class
+#    could then include <somedir/someclass.H> to reference the class.
+# INSTALL_SDIR=
+# INSTALL_HDRS=
+
+# CFLAGS -
+#    This macro can be used to define special compiler switches that need
+#    to be set when compiling the code listed above. For example, after the
+#    is fully debugged the -g switch may be changed to -O for optimization.
+# CFLAGS      = $(SHLIB_CFLAGS)
+
+# CPPFLAGS -
+#    This macro should contain any special define switches needed to build
+#    special version of the code.
+# CPPFLAGS    =
+
+# LIBDEPEND -
+#    This macro should contain any additional libraries needed to
+#    build the executables listed in the BINARIES line from above. These
+#    libraries will be used for dependency checks as well as linking. The
+#    'lm' library is the math C library, which must be linked at compile
+#    time (so don't remove it during cleanings!).
+#
+LIBDEPEND   = -lgeneral -lactions -lmagic -lspecials -lolc -lutil -lgeneral \
+              -lm -lscripts
+
+# INCLUDE_DIRS -
+# LIBRARY_DIRS -
+#    These two macros can be used to define additional subdirectories for
+#    make to look in for various libraries and include files.
+#
+#    INC Examples: -I../.. -I$(TESTS)/include
+#    LIB Examples: -L../.. -L$(MY_TOP) -L/home/users/john/mystuff
+#
+# INCLUDE_DIRS=
+# LIBRARY_DIRS=
+
+# all -
+#    This target has been left in here so that users can customize it to suite
+#    their needs. The definitions that are pulled in from the Makedefs should
+#    be able to construct 90 percent of all source code into usable libraries
+#    and binaries.
+
+include ${CONFIG_DIR}/Makedefs
+
+all: ${BINARIES}
+
+install: all ${INSTALL_BINARIES}
+
+include ${CONFIG_DIR}/Makerules

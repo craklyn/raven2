@@ -1,0 +1,380 @@
+#43
+The Castle of Swords.~
+4399 30 2 0
+M 0 4301 1 4387      * Mob : Lady Dawn
+E 1 4309 1 9         * Eqp : some doe skin leggings
+M 0 4354 1 4387      * Mob : Sir James
+D 0 4333 2 2         
+M 0 4303 1 4333      * Mob : King of Swords
+E 1 4315 1 19        * Eqp : the Sword of the Lake
+M 0 4304 1 4333      * Mob : Queen of Swords
+E 1 4301 1 2         * Eqp : a runic ring
+M 0 4319 1 4301      * Mob : Knight
+D 0 4345 0 2         
+D 0 4337 3 2         
+D 0 4338 1 2         
+D 0 4310 4 2         
+D 0 4368 5 2         
+D 0 4351 4 2         
+D 0 4372 5 2         
+D 0 4355 4 2         
+D 0 4364 5 2         
+D 0 4359 4 2         
+D 0 4360 5 2         
+M 0 4305 1 4340      * Mob : the Soothsayer
+E 1 4321 15 11        * Eqp : a pair of leather sandals
+E 1 4322 20 17       * Eqp : a carved wooden bracelet
+E 1 4323 10 0        * Eqp : a crystal orb
+E 1 4378 20 16       * Eqp : a small leather pouch
+P 1 4373 20 4378     * Put : a long stemmed white rose
+P 1 4374 10 4378     * Put : a peppermint potion
+P 1 4375 10 4378     * Put : a lavender potion
+P 1 4376 10 4378     * Put : a potion made from nightshade
+P 1 4377 10 4378     * Put : a pulsating potion
+M 0 4308 1 4373      * Mob : Little Shade
+E 1 4331 15 19       * Eqp : a singing sword
+E 1 4332 15 20       * Eqp : a lion-headed lyre
+E 1 4333 15 6        * Eqp : a plumed beret
+M 0 4309 1 4351      * Mob : Second Knight of the Sword
+E 1 4334 60 19       * Eqp : a knight's sword
+E 1 4335 60 14       * Eqp : a knight's shield
+E 1 4304 1 17        * Eqp : a harp-handled key
+M 0 4310 1 4355      * Mob : Third Knight of the Sword
+E 1 4334 60 19       * Eqp : a knight's sword
+E 1 4335 60 14       * Eqp : a knight's shield
+E 1 4303 1 17        * Eqp : a cross-handled key
+M 0 4311 1 4310      * Mob : Fourth Knight of the Sword
+E 1 4334 60 19       * Eqp : a knight's sword
+E 1 4335 60 14       * Eqp : a knight's shield
+E 1 4302 1 17        * Eqp : an eagle-handled key
+M 0 4312 1 4359      * Mob : the Knight of the Forest
+E 1 4334 60 19       * Eqp : a knight's sword
+E 1 4335 60 14       * Eqp : a knight's shield
+E 1 4305 1 17        * Eqp : a copper key
+M 0 4313 1 4385      * Mob : the Door
+M 0 4314 1 4303      * Mob : an older Knight
+E 1 4336 100 19      * Eqp : a noble knight's sword
+E 1 4337 100 3       * Eqp : a blue cape
+E 1 4338 100 12       * Eqp : a pair of blue gloves
+E 1 4339 100 15      * Eqp : a blue tunic
+E 1 4340 100 9       * Eqp : a pair of blue hosier
+E 1 4341 100 11       * Eqp : a pair of soft leather boots
+E 1 4342 100 2       * Eqp : a gold poesy ring
+M 0 4326 1 4334      * Mob : an older Knight
+E 1 4336 100 19      * Eqp : a noble knight's sword
+E 1 4337 100 3       * Eqp : a blue cape
+E 1 4338 111 12       * Eqp : a pair of blue gloves
+E 1 4339 111 15      * Eqp : a blue tunic
+E 1 4340 111 9       * Eqp : a pair of blue hosier
+E 1 4341 111 11       * Eqp : a pair of soft leather boots
+E 1 4342 111 2       * Eqp : a gold poesy ring
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4327 1 4335      * Mob : an older Knight
+E 1 4336 111 19      * Eqp : a noble knight's sword
+E 1 4337 111 3       * Eqp : a blue cape
+E 1 4338 111 12       * Eqp : a pair of blue gloves
+E 1 4339 111 15      * Eqp : a blue tunic
+E 1 4340 111 9       * Eqp : a pair of blue hosier
+E 1 4341 111 11       * Eqp : a pair of soft leather boots
+E 1 4342 111 2       * Eqp : a gold poesy ring
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4328 1 4344      * Mob : an older Knight
+E 1 4336 111 19      * Eqp : a noble knight's sword
+E 1 4337 111 3       * Eqp : a blue cape
+E 1 4338 111 12       * Eqp : a pair of blue gloves
+E 1 4339 111 15      * Eqp : a blue tunic
+E 1 4340 111 9       * Eqp : a pair of blue hosier
+E 1 4341 111 11       * Eqp : a pair of soft leather boots
+E 1 4342 111 2       * Eqp : a gold poesy ring
+M 0 4329 1 4347      * Mob : an older Knight
+E 1 4336 111 19      * Eqp : a noble knight's sword
+E 1 4337 111 3       * Eqp : a blue cape
+E 1 4338 111 12       * Eqp : a pair of blue gloves
+E 1 4339 111 15      * Eqp : a blue tunic
+E 1 4340 111 9       * Eqp : a pair of blue hosier
+E 1 4341 111 11       * Eqp : a pair of soft leather boots
+E 1 4342 111 2       * Eqp : a gold poesy ring
+M 0 4330 1 4388      * Mob : an older Knight
+E 1 4336 111 19      * Eqp : a noble knight's sword
+E 1 4337 111 3       * Eqp : a blue cape
+E 1 4338 111 12       * Eqp : a pair of blue gloves
+E 1 4339 111 15      * Eqp : a blue tunic
+E 1 4340 111 9       * Eqp : a pair of blue hosier
+E 1 4341 111 11       * Eqp : a pair of soft leather boots
+E 1 4342 111 2       * Eqp : a gold poesy ring
+M 0 4315 1 4306      * Mob : a young Knight
+E 1 4343 111 19      * Eqp : a young knight's sword
+E 1 4344 111 12       * Eqp : a pair of emerald gloves
+E 1 4345 111 15      * Eqp : a emerald tunic
+E 1 4346 111 9       * Eqp : a pair of emerald hosier
+M 0 4331 1 4313      * Mob : a young Knight
+M 0 4332 1 4319      * Mob : a young Knight
+M 0 4333 1 4325      * Mob : a young Knight
+M 0 4334 1 4331      * Mob : a young Knight
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4335 1 4332      * Mob : a young Knight
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4316 1 4303      * Mob : Squire
+M 0 4342 1 4315      * Mob : Squire
+M 0 4343 1 4323      * Mob : Squire
+M 0 4344 1 4328      * Mob : Squire
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4345 1 4329      * Mob : Squire
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4346 1 4338      * Mob : Squire
+M 0 4317 1 4342      * Mob : a snap-dragon
+E 1 4354 10 20       * Eqp : a leaf
+M 0 4318 1 4343      * Mob : Grey dog
+E 1 4355 20 19       * Eqp : a pair of claws
+E 1 4356 20 4        * Eqp : a dog collar
+G 1 4384 50 -1       * Give: a bowl of water
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4320 1 4330      * Mob : Lady
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4358 35 3        * Eqp : a green cape
+E 1 4359 35 4        * Eqp : a silk scarf
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4336 1 4331      * Mob : Lady
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4358 35 3        * Eqp : a green cape
+E 1 4359 35 4        * Eqp : a silk scarf
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4337 1 4332      * Mob : Lady
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4358 35 3        * Eqp : a green cape
+E 1 4359 35 4        * Eqp : a silk scarf
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4338 1 4334      * Mob : Lady
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4358 35 3        * Eqp : a green cape
+E 1 4359 35 4        * Eqp : a silk scarf
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4339 1 4334      * Mob : Lady
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4358 35 3        * Eqp : a green cape
+E 1 4359 35 4        * Eqp : a silk scarf
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4340 1 4335      * Mob : Lady
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4358 35 3        * Eqp : a green cape
+E 1 4359 35 4        * Eqp : a silk scarf
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4341 1 4335      * Mob : Lady
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4358 35 3        * Eqp : a green cape
+E 1 4359 35 4        * Eqp : a silk scarf
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4321 1 4330      * Mob : Maid
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4362 35 15       * Eqp : a black shawl
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+E 1 4364 35 3        * Eqp : an embroidered sash
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4347 1 4331      * Mob : Maid
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4362 35 15       * Eqp : a black shawl
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+E 1 4364 35 3        * Eqp : an embroidered sash
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4348 1 4332      * Mob : Maid
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4362 35 15       * Eqp : a black shawl
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+E 1 4364 35 3        * Eqp : an embroidered sash
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4349 1 4334      * Mob : Maid
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4362 35 15       * Eqp : a black shawl
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+E 1 4364 35 3        * Eqp : an embroidered sash
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4350 1 4334      * Mob : Maid
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4362 35 15       * Eqp : a black shawl
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+E 1 4364 35 3        * Eqp : an embroidered sash
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4351 1 4335      * Mob : Maid
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4362 35 15       * Eqp : a black shawl
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+E 1 4364 35 3        * Eqp : an embroidered sash
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4352 1 4335      * Mob : Maid
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4362 35 15       * Eqp : a black shawl
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+E 1 4364 35 3        * Eqp : an embroidered sash
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4353 1 4334      * Mob : Maid
+E 1 4357 70 19       * Eqp : a jewelled knife
+E 1 4360 70 16       * Eqp : a chastity belt
+E 1 4362 35 15       * Eqp : a black shawl
+E 1 4363 70 9        * Eqp : a long flowing tight skirt
+E 1 4364 35 3        * Eqp : an embroidered sash
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4385 50 -1       * Give: a round bread
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4322 9 4327      * Mob : a serving wench
+E 1 4365 45 19       * Eqp : an iron knife
+E 1 4366 45 11        * Eqp : a pair of thigh-high leather boots
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4383 50 -1       * Give: a goblet of mead
+M 0 4322 9 4328      * Mob : a serving wench
+E 1 4365 45 19       * Eqp : an iron knife
+E 1 4366 45 11        * Eqp : a pair of thigh-high leather boots
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+M 0 4322 9 4329      * Mob : a serving wench
+E 1 4365 45 19       * Eqp : an iron knife
+E 1 4366 45 11        * Eqp : a pair of thigh-high leather boots
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4322 9 4330      * Mob : a serving wench
+E 1 4365 45 19       * Eqp : an iron knife
+E 1 4366 45 11        * Eqp : a pair of thigh-high leather boots
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4383 50 -1       * Give: a goblet of mead
+G 1 4383 50 -1       * Give: a goblet of mead
+M 0 4322 9 4331      * Mob : a serving wench
+E 1 4365 45 19       * Eqp : an iron knife
+E 1 4366 45 11        * Eqp : a pair of thigh-high leather boots
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+M 0 4322 9 4332      * Mob : a serving wench
+E 1 4365 45 19       * Eqp : an iron knife
+E 1 4366 45 11        * Eqp : a pair of thigh-high leather boots
+G 1 4384 50 -1       * Give: a bowl of water
+G 1 4384 50 -1       * Give: a bowl of water
+G 1 4384 50 -1       * Give: a bowl of water
+G 1 4384 50 -1       * Give: a bowl of water
+G 1 4384 50 -1       * Give: a bowl of water
+M 0 4322 9 4334      * Mob : a serving wench
+E 1 4365 45 19       * Eqp : an iron knife
+E 1 4366 45 11        * Eqp : a pair of thigh-high leather boots
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+G 1 4385 50 -1       * Give: a round bread
+M 0 4322 9 4335      * Mob : a serving wench
+E 1 4365 45 19       * Eqp : an iron knife
+E 1 4366 45 11        * Eqp : a pair of thigh-high leather boots
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+G 1 4386 50 -1       * Give: a chunk of salt beef
+M 0 4323 1 4337      * Mob : the cook
+E 1 4367 10 19       * Eqp : an iron skewer
+E 1 4368 10 16       * Eqp : a leather apron
+P 1 4306 1 4368      * Put : an iron key
+P 1 4385 50 4368     * Put : a round bread
+P 1 4385 50 4368     * Put : a round bread
+P 1 4385 50 4368     * Put : a round bread
+P 1 4385 50 4368     * Put : a round bread
+P 1 4386 50 4368     * Put : a chunk of salt beef
+P 1 4386 50 4368     * Put : a chunk of salt beef
+P 1 4386 50 4368     * Put : a chunk of salt beef
+P 1 4386 50 4368     * Put : a chunk of salt beef
+M 0 4324 5 4328      * Mob : a court entertainer
+E 1 4369 20 19       * Eqp : a swinging staff
+M 0 4324 5 4329      * Mob : a court entertainer
+E 1 4369 20 19       * Eqp : a swinging staff
+M 0 4324 5 4330      * Mob : a court entertainer
+E 1 4369 20 19       * Eqp : a swinging staff
+M 0 4324 5 4334      * Mob : a court entertainer
+E 1 4369 20 19       * Eqp : a swinging staff
+M 0 4324 5 4335      * Mob : a court entertainer
+E 1 4369 20 19       * Eqp : a swinging staff
+M 0 4325 5 4327      * Mob : a court entertainer
+E 1 4370 20 19       * Eqp : a dancing dagger
+E 1 4371 20 15       * Eqp : a chequered tabard
+M 0 4325 5 4330      * Mob : a court entertainer
+E 1 4370 20 19       * Eqp : a dancing dagger
+E 1 4371 20 15       * Eqp : a chequered tabard
+M 0 4325 5 4331      * Mob : a court entertainer
+E 1 4370 20 19       * Eqp : a dancing dagger
+E 1 4371 20 15       * Eqp : a chequered tabard
+M 0 4325 5 4332      * Mob : a court entertainer
+E 1 4370 20 19       * Eqp : a dancing dagger
+E 1 4371 20 15       * Eqp : a chequered tabard
+S
+$

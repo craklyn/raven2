@@ -1,0 +1,46 @@
+2 c 'summon' cyr
+tit title :: &09Wanderer&00
+arm c 'armor' $1
+wa wa;st
+f c 'revive' madsen
+bl c 'blind' $*
+sac c 'sacrifice' $*
+relo c 'relocate' $*
+gsanc c 'sanc' group
+regen c 'regen' $*
+reg cast 'regen' $*
+sag cast 'sagacity' $*
+bless cast 'bless' $*
+sanc cast 'sanctuary' $*
+fort cast 'fortify' $*
+rel cast 'relocate' $*
+rc cast 'rem curse' $*
+cl cast 'cleanse' $*
+sam sa samsera
+cleanse c 'cleanse' $*
+life c 'sense life'
+infra c 'infra'
+heal c 'heal' $*
+male c 'maledict' $*
+gheal c 'heal' group
+say say &08$* &00
+gt gt &08$* &00
+sum c 'summon' $*
+rev c 'revive' $*
+clan clan &08$* &00
+di c 'detect invis' $*
+fly c 'fly' $*
+rp c 'remove para' $*
+r c 'revive' $*
+h c 'heal' $*
+gh c 'heal' group
+cp c 'remove poison' $*
+cb c 'cure blind' $*
+armor c 'armor' $*
+cw clanwho
+word c 'word of recall' $*
+sense c 'sense
+g c 'heal' group
+calm c 'calm' $*
+fs c 'flam strike
+1 c 'cleanse' alius

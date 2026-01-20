@@ -1,0 +1,41 @@
+11 c 'soul pierce' $*
+2 poke char
+4 calm
+dis c 'disease' $*
+pp c 'poison' $*
+ene c 'energy drain' $*
+resp c 'resist poison' $*
+entom c 'entomb corpse' $*
+wra c 'wraith'
+deb c 'debil' $*
+slo c 'slow' $*
+consu c 'consume' $*
+nox c 'nox' $*
+22 stop
+of order follower $*
+b c 'blind' $*
+di c 'detect invis' $*
+age c 'age' $*
+shi c 'shield' $*
+0 wake;;stand
+life c 'life drain' $*
+sil c 'silence' $*
+invis c 'invis' $*
+sense c 'sense
+fly c 'fly' $*
+infra c 'infra
+sp c 'soul pierce' $*
+sum c 'summon' $*
+mal c 'maledic' $*
+gt gt &04""&00 &10$*  &00&04""&00
+/ rec elv
+emb c 'embalm' $*
+slow c 'slow' $*
+bw c 'bone wall' $*
+exp c 'explode' $*
+6 get all all.cor
+xx c 'create warding'
+curse c 'curse' $*
+su c 'summon' $*
+1 c 'soul pierce' $*
+cc c 'charm corpse' $*

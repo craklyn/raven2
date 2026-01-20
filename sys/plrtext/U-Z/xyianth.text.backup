@@ -1,0 +1,22 @@
+. get mid bag; rec mid
+' get mid bag; rec rec mid
+ew get bread bag; get bread bag; eat bread; eat bread
+reg get cof bag; q cof
+fly get dust bag; q dust
+wake wake; stand
+sha cast 'shadow sphere' self
+/ put all bag
+sv cast 'shadow vision' $*
+sb cast 'shadow blades' $*
+bl cast 'blindness' $*
+say say &07-&08=&07-&09$* &07-&08=&07-&00
+gt gt &07-&08=&07-&09$* &07-&08=&07-&00
+title title &07-&08=&07- &13L&00&06o&13s&00&06t &13S&00&06o&13u&00&06l &07-&08=&07-&00
+dr get water bag; dr water; dr water; put water bag
+inv cast 'invisibility' $*
+sw cast 'shadow walk' self
+arm cast 'blur' self
+z sit
+x st
+a assist dendro
+v assist ceres

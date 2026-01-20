@@ -1,0 +1,38 @@
+bl flashbang $*
+0 get ice;wiel ice
+zz get all corp
+mm mug $*
+rrr rec elv elven
+gw emote is &00&14GOING &16west&00;w;$*
+ge emote is &00&14GOING &16east&00;e;$*
+gs emote is &00&14GOING &16south&00;s;$*
+gn emote is &00&14GOING &16north&00;n;$*
+gu emote is &00&14GOING &16up&00;u;$*
+gd emote is &00&14GOING &16down&00;d;$*
+ll scan $*
+cc cower $*
+yy say &13 $* &00
+sd steal gold $*
+1 feign;sta
+bb cutth $*
+dd dust $*
+c circ $*
+xx distr $*
+go mist $*
+ddd disarm $*
+t trip $*
+ss steal $*
+h hide
+k kick $*
+no norec;nosum
+x exam $*
+g palm $*
+xxx spy $*
+tt gt &13 $*  &00
+wake wak;sta
+clan clan &00&10.&00&02$&00 &13$*&00 &02$&00&10.&00&11
+who who;save
+pick pick $*;pick $*;pick $*;pick $*;pick $*
+wq get all all.ebin;wear all;hol spec
+qq get all.roll all.corp
+qw ass gaara

@@ -1,0 +1,20 @@
+sl cast 'sense life' $*
+worg cast 'word of recall' group
+cw cast 'create water' $*
+ft cast 'fort' $*
+rp reply $*
+h cast 'harm' $*
+san cast 'sanc' $*
+wor cast 'word of recall' self
+sum cast 'summon' $*
+fo cast 'create food' $*
+c cast $*
+aa assist $*
+bl cast 'blind' $*
+r cast 'heal' $*
+ll cast 'call light' $*
+dti cast 'detect invis' $*
+infra cast 'infra' $*
+fly cast 'fly' $*
+ar cast 'armor' $*
+wa cast 'ward' $*

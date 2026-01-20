@@ -1,0 +1,45 @@
+cor wear all;wield war;hold word
+z c 'revive' madsen
+cc get all all.keso;wear all;get all all.keso;wield ham;hol word;des keso;des keso
+dr drink thim
+ew get bread bas;eat bre
+hh c 'heal' $*
+ass c 'assistant'
+cb c 'cure blind' $*
+cl c 'cleanse' $*
+j 
+gt emote tells the group, '&22$* &00'
+g c 'heal' $*
+relo c 'relocate' $*
+fort c 'fortify' $*
+id buy identify $*
+remc c 'remove curse' $*
+sanc c 'sanct' $*
+fly c 'fly' $*
+reg c 'regen' $*
+inf c 'infra' $*
+word c 'word' $*
+ward c 'ward' $*
+bl c 'blind' $*
+arm c 'armor' $*
+sum c 'summon' $*
+di c 'detect invis' $*
+sen c 'sense life'
+wa wake;stand
+funny [  1 Wa Gia] Grog the Swordpupil
+gs gs &09*&00&10$*&00 &09*&00
+clan clan &09*&00&10$*&00 &09*&00
+harm c 'harm' $*
+m get shot beetle;brew $1 shot;give $1 $2
+1 c 'word of recall'
+da c 'detect align' $*
+cla cast 'cleanse' $*
+cle cast 'cleanse' $*
+f flee
+rc c 'remove curse' $*
+rp c 'remove para' $*
+r cast 'revive' $*
+lc l in corpse
+h cast 'heal' $*
+a assist
+gp get all corpse

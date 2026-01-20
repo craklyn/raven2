@@ -1,0 +1,466 @@
+#24000
+E P 0~
+maschel duAngnain paladin undead slayer~
+Maschel duAngnain~
+An armored elf clad in the raiments of a paladin sworn to destroy undead stands here.
+~
+A tall, striking nobleman, Maschel duAngnain is a knight of both Malathar
+and Maritshome, and is a sworn enemy of undead everywhere. He is currently
+preparing to enter the Forest of the Dead once more, in another attempt to
+lay low the evil that fester here, a sore blight on the Elven holdings.
+If asked politely, he may be able to shed some light on some of the evil
+forces that control the forest, and where they may be found.
+~
+63756 0 0 0 1213608 0 0 0 1000
+51 -30 -10 10d10+20000 8d7+100
+90 100
+9 9 1 13 21 -1
+#24001
+U M 0~
+cresslix lich~
+Cresslix~
+A diabolical creature of the undead cackles hideously.
+~
+Utterly evil, Cresslix the damned is a vile creature, in life a necromancer
+of incredible power who has become an even greater threat in undeath. He
+sits within his blackened tower of twisted metal, plotting the eventual
+destruction of the Elven kingdom of Malathar, and many fear that he may well
+one day succeed.
+~
+9500718 0 0 0 5407912 0 0 0 -1000
+51 -20 -10 10d10+26000 14d14+100
+90 100
+9 9 1 12 19 21
+#24002
+P T 0~
+evil treant~
+an evil treant~
+A treant, warped and corrupted by the evil here, looms before you.
+~
+This tainted woodland being now exists only to slay and devour the
+living, whatever race or class they may be. The antithesis of its kindly
+cousins of the southern woods, this creature is a hated and feared menace
+to travellers here.
+~
+256042 0 0 0 1213608 0 0 0 -1000
+45 -10 -10 1d1+18500 5d4+50
+65 75
+9 9 1 13 21 -1
+#24003
+U P 0~
+ghost robert ascerguin~
+the ghost of Robert Ascerguin~
+A shimmering, translucent figure hovers here.
+~
+A paladin of Maritshome who was slain horribly by a wraith, Robert's
+ghost now remains, seeking to avenge his death. The experience has driven
+him quite mad, and he cannot differentiate between friend and foe.
+~
+256042 0 0 0 1213608 0 0 0 0
+50 -10 -10 1d1+18500 5d4+100
+80 90
+9 9 1 13 21 -1
+#24004
+P T 0~
+shambling mound~
+a shambling mound~
+A pile of rotting garbage and plant matter rises in the clearing.
+~
+This semi-intelligent, malevolent creature destroys any and all in its
+path. An overgrown plant, it can nevertheless inflict considerable
+damage on its victims.
+~
+256042 0 0 0 1213608 0 0 0 -1000
+35 -10 -10 1d1+1850 5d4+35
+50 60
+9 9 1 13 21 -1
+#24005
+U W 0~
+skeleton ~
+a skeleton warrior~
+A skeleton clad in moldering armor stumbles through the trees.
+~
+This is the remains of one of the many soldiers who died in the bloody
+wars fought in these parts in centuries past. Now it is condemned to
+wander eternally, in search of something it can never find- peace.
+~
+8453932 0 0 0 1213484 0 0 0 -1000
+35 -10 -10 1d1+1850 5d4+30
+50 60
+9 9 1 13 21 -1
+#24006
+U W 0~
+forest ghoul~
+a forest ghoul~
+A rotting corpse covered in twigs and other debris crawls out of the pit.
+~
+Unlike its more urban cousins, the forest ghoul is not the reanimated
+corpse of a slain human, but the remains of a human whose spirit was stolen
+by evil forces and replaced by vile spirits of the dark forests, thus
+making it resistant to many of the conventional weapons used against
+"true" undead.
+~
+256042 0 0 0 1213608 0 0 0 -1000
+35 -10 -10 1d1+1850 5d4+40
+50 60
+9 9 1 13 21 -1
+#24007
+P T 0~
+tangle thorn~
+a tanglethorn~
+A thick, spiky plant with long thorny tendrils waves in the wind.
+~
+This is one of the many evil, semi-intelligent plants that thrives
+in this cursed wood. It subsists on the flesh of creatures it incapacitates
+and kills with its potent acidic venom.
+~
+256042 0 0 0 1213608 0 0 0 -1000
+35 -10 -10 1d1+1850 5d4+30
+50 60
+9 9 1 13 21 -1
+#24008
+P R 0~
+leshy~
+a leshy~
+A treelike humanoid with backwards feet charges towards you.
+~
+An evil forest creature, the Leshy resembles a humanoid tree, save
+that its feet are inverted, so that tracks that appear to head away
+from you are actually heading towards you...
+~
+61230 0 0 0 1213608 131072 0 0 -1000
+50 -10 -10 1d1+30000 10d10+60
+80 90
+9 9 1 13 21 -1
+#24009
+U W 0~
+zombie~
+a zombie warrior~
+A zombie spearman shambles through the dark woods.
+~
+This is the remains of one of the many soldiers who died in the bloody
+wars fought in these parts in centuries past. Now it is condemned to
+wander eternally, in search of something it can never find- peace.
+~
+8452140 0 0 0 1213608 0 0 0 -1000
+40 -10 -10 1d1+1850 5d4+40
+65 75
+9 9 1 13 21 -1
+#24010
+P W 0~
+slime beast~
+the slime beast~
+A gruesome, slimecovered thing rises from the mire.
+~
+This thing just looks slimmy.
+~
+256042 0 0 0 1213608 0 0 0 -1000
+34 -10 -10 1d1+1850 5d4+35
+50 60
+9 9 1 13 21 -1
+#24011
+U W 0~
+wight~
+a barrow wight~
+A shimmering, translucent figure rises from the tomb.
+~
+The undead result of a semi-successful bid by an ancient necromancer
+for immortality, this undead is immortal, but at the price of being
+trapped in a partially-corporeal form, and unable to leave its tomb.
+Enraged at this situation, it vents its anger on those unfortunate fools
+that disturb it.
+~
+8452142 0 0 0 1213608 0 0 0 -1000
+50 -10 -10 1d1+20000 10d6+45
+80 90
+9 9 1 13 21 -1
+#24012
+U T 0~
+unholy spirit~
+an unholy spirit~
+A snarling, drooling clawed creature flies screaming at you!
+~
+This thing is to grusome to describe.
+~
+8452140 0 0 0 1213480 0 0 0 -1000
+45 -10 -10 1d1+10000 10d6+45
+65 75
+9 9 1 13 21 -1
+#24013
+U R 0~
+wood golem statue~
+a wood golem~
+A twisted, gnarled wooden statue rises from a carpet of moss.
+~
+This statue has been here for centuries, judging by the thick moss that
+covers it. A grim smile has been hacked into its face, making it look at
+once both ludicrous and disturbingly macabre.
+~
+8648750 0 0 0 1213608 0 0 0 -1000
+45 -10 -10 1d1+20000 10d6+45
+65 75
+9 9 1 13 21 -1
+#24014
+E C 0~
+druid shenaria~
+She'naria~
+A rather homely elf, clad in simple brown robes, sits meditating.
+~
+An island of purity in a sea of corruption, She'naria resides in the
+dark heart of this foul wood in the hopes of one day finding a way to 
+reverse the evil this place contains. She is curt, abrupt and distrustful,
+as she has an annoying habit of seeing the worst in people.
+~
+63646 0 0 0 1213608 0 0 0 1000
+50 -10 -10 1d1+18500 5d4+60
+80 90
+9 9 2 13 21 -1
+#24015
+A T 0~
+rabbit~
+a rabbit~
+A rather confused rabbit sits here.
+~
+This poor thing doesn't know which way to go.
+~
+256042 0 0 0 1213608 0 0 0 -1000
+25 -10 -10 1d1+1850 5d4+25
+40 40
+9 9 1 13 21 -1
+#24016
+A W 0~
+deer~
+a deer~
+A deer blinks in confusion at its surrounds.
+~
+She is a graceful creature on long, slender legs, and with large, brown eyes
+looking back at you with an air of watchful interest.
+~
+256042 0 0 0 1213608 0 0 0 -1000
+25 -10 -10 1d1+1850 5d4+25
+40 40
+9 9 1 13 21 -1
+#24017
+A W 0~
+boar~
+a boar~
+A ferocious boar grunts and lowers its head.
+~
+He's going to attack!
+~
+256042 0 0 0 1213608 0 0 0 -1000
+30 -10 -10 1d1+1850 5d4+30
+50 60
+9 9 1 13 21 -1
+#24018
+A W 0~
+giant spider~
+a giant spider~
+A spider the size of a small pony scuttles across the webs.
+~
+Loathsome arachnids infest most of the forests of Brythunia, a constant
+hazard to locals and visitors alike.
+~
+65326 0 0 0 1213480 0 0 0 -1000
+40 -10 -10 1d1+18500 5d4+40
+65 75
+9 9 1 13 21 -1
+#24019
+A W 0~
+harpy~
+a harpy~
+A cackling harpy pecks at bits of flesh.
+~
+One of the many evil creatures that took over the stockade, it now
+returns frequently to assault curious adventurers.
+~
+8452142 0 0 0 1213608 0 0 0 -1000
+45 -10 -10 1d1+10000 8d7+45
+65 75
+9 9 1 13 21 -1
+#24020
+E W 0~
+elven wraith~
+an elven wraith~
+An elvish soldier slain in the battle has returned as a wraith.
+~
+Unable to rest after its violent death, this elf has returned to a
+semblance of existence as a wraith, doomed to haunt this place until
+it is laid to rest.
+~
+8648748 0 0 0 1213496 0 0 0 1000
+45 -10 -10 1d1+1850 5d4+45
+65 75
+9 9 1 13 21 -1
+#24021
+V W 0~
+vampire commander~
+the commander~
+The commander of the fort welcomes you to his office.
+~
+What? Impossible. How could the commander have survived the slaughter
+outside? You shake your head, suspending disbelief to consider the 
+facts. The commander certainly is an odd fellow, all tall and gaunt.
+Frowning, you peer closer; are those FANGS?
+~
+8452142 0 0 0 1213608 0 0 0 -1000
+50 -10 -10 1d1+18500 10d6+75
+80 90
+9 9 1 13 21 -1
+#24022
+N W 0~
+behemoth~
+the behemoth~
+A mammoth creature lies here, deep in slumber.
+~
+The sleeping behemoth is a pet of Cresslix, which he releases to feed
+at a point in the forest at regular intervals. It is rumored to be
+unkillable, save by the Gods themselves. But if it is slain, its hide
+is of considerable value...
+~
+256042 0 0 0 1213608 0 0 0 -1000
+50 -10 -10 1d1+18500 10d6+100
+80 90
+4 9 1 13 21 -1
+#24023
+F M 0~
+manifestation chaos~
+a chaotic manifestation~
+A glowing black sphere of evil energy hovers here.
+~
+This sphere of energy has only a dim consciousness, and will do 
+nothing except feed off the ambient evil in the air, unless it is
+provoked or molested.
+~
+256042 0 0 0 1213608 0 0 0 -1000
+51 -10 -10 1d1+18500 5d4+100
+90 100
+9 9 1 13 21 -1
+#24024
+U T 0~
+haunt~
+a haunt~
+A ghostly apparition weeps silently.
+~
+This is the cursed spirit of a former noble of this once fair city,
+doomed to remain and watch it slowly decay into nothing, helpless to
+leave or prevent this or its own suffering. Coupled with this is the
+fact that anyone who could speak her language died milennia ago.
+~
+8648718 0 0 0 1999914 0 0 0 -1000
+45 -10 -10 1d1+18500 5d4+45
+65 75
+9 9 1 13 21 -1
+#24027
+W T 0~
+goblin spy~
+a goblin spy~
+A small goblin creeps furtively through the woods.
+~
+Sent by tribes from the south, this creature's mission is to locate
+any possible allies in this fell wood, and maybe even find the legendary
+Cresslix, the mad necromancer that is rumored to reside here, in the shifting
+halls of T'kemp.
+~
+8452108 0 0 0 1213480 0 0 0 -1000
+40 -10 -10 1d1+18500 5d4+40
+65 75
+9 9 1 13 21 -1
+#24028
+U W 0~
+clay golem~
+a clay golem~
+A berserk clay golem is smashing marble and stone.
+~
+Once a faithful and loyal guardian of the owner of this home, this creature
+and its brethren now runs amuck, smashing all in its path.
+~
+8452140 0 0 0 1213480 0 0 0 -1000
+45 -10 -10 1d1+10000 5d4+45
+65 75
+9 9 1 13 21 -1
+#24029
+U M 0~
+mad mage aczeal~
+Aczeal~
+A gibbering, drooling mage casts spells at everything.
+~
+An adventurer like yourself, Aczael became trapped by the golems in
+this ruined tower, and, being unable to leave, slowly went mad.
+~
+8452138 0 0 0 1213608 0 0 0 -1000
+45 -10 -10 1d1+18500 5d4+50
+65 75
+9 9 1 13 21 -1
+#24030
+I W 4~
+gargoyle~
+a gargoyle~
+As you enter, one of the visages breaks free from the wall and comes to life!
+~
+This bestial creature is one of the many twisted magical creations of
+the lich cresslix, left to guard his domain.
+~
+8452142 0 0 0 1213480 0 0 0 -1000
+45 -10 -10 1d1+18500 5d4+45
+65 75
+9 9 1 13 21 -1
+#24031
+V A 0~
+pennig vampyr~
+the Vampyr Pennig~
+A slim, nubile young girl, scarcely in her teens, steps out of the shadows.
+~
+The kidnapped daughter of Maschel, Cresslix's minions brought her here
+to be used by the lich, and he corrupted her into another member of his
+legion of undead. Despite her appearance, she is vile, conniving and
+utterly twisted and evil, her mind permanently warped by the trauma her
+body and soul has been subjected to.
+~
+8452158 0 0 0 1213608 0 0 0 -1000
+50 -10 -10 1d1+18500 5d4+50
+80 90
+9 9 2 13 21 -1
+#24032
+H W 0~
+marshal klein~
+Marshal Klein~
+A battered, beaten man sits in a corner of the chamber.
+~
+A friend of Maschel who sought to rescue Pennig, Klein has been reduced
+to being Pennig's plaything to relieve her boredom, and now awaits only
+his death, or possible rescue by Maschel.
+~
+63630 0 0 0 1213480 0 0 0 1000
+40 -10 -10 1d1+10000 5d4+50
+65 75
+9 9 1 13 21 -1
+#24033
+U W 0~
+zombie chopper~
+Chopper zombie~
+A zombie with a slight gleam of intelligence in his eyes stands here.
+~
+A former servant of Cresslix, this chef-turned-mercenary-turned-undead
+has been punished by being turned into a living zombie and placed here
+to guard the lower chambers.
+~
+8452142 0 0 0 1213480 0 0 0 -1000
+40 -10 -10 1d1+10000 5d4+40
+65 75
+9 9 1 13 21 -1
+#24034
+U W 0~
+zombie~
+a living zombie~
+A former associate of Chopper staggers to his boss' aid.
+~
+A former servant of Cresslix, this chef-turned-mercenary-turned-undead
+has been punished by being turned into a living zombie and placed here
+to guard the lower chambers.
+~
+8452142 0 0 0 1213480 0 0 0 -1000
+40 -10 -10 1d1+1850 5d4+40
+65 75
+9 9 1 13 21 -1
+$

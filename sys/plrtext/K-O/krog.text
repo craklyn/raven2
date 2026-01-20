@@ -1,0 +1,11 @@
+t track ratleif
+clan clan &14$* &00
+door open door n;open door e;open door s;open door w;open door up;open door down
+tit title :: the &09Wandering&00 Highwayman
+wa wake;stand
+blah put all bag;get all.scroll bag;get all.potion bag
+c circle $*
+bj blackjack $*
+j feign;stand;back $*
+say emote says, '&15$* &00'
+g feign;stand;kill spider

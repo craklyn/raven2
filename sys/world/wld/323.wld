@@ -1,0 +1,1919 @@
+#32300
+Village of Turra.~
+        The village of Turra is the opening area to the Turra storyline.
+The village is mainly an exp setup for low levels, 2k-15k exp range,
+It links to the first room of the forest of turra at room 20.
+
+Also if given more areas it will link with a dwarven underground city.
+if readers pay attention they will notice this is also the same area
+as Lands of Chaos only it is before the chaos hordes arrive. Actually
+it is leading up to them arriving.~
+323 0 0 0 0 2 255 0
+S
+#32301
+Approaching the village.~
+        The open plains give way to a small village that is placed almost
+like a gateway to the mountain range on the northern horizon. The village
+has a wall stretching from east and west before turning and heading north.
+A short tower is just inside the wall with a few people watching anyone
+that approaches. The clouds overhead in the sky are a dark crimson color
+with large thunderstorms spreadin across the sky.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32302
+D2
+~
+~
+0 0 39543
+S
+#32302
+Approaching a village.~
+   The Village is where King Turra himself was born and spent his first years
+tending to his families sheep.  The village was on the verge of being abandoned
+by the constant attacks from goblins and other creatures in the area when he
+witnessed a light streaking across the heavens and land on the mountain.  The
+mountain itself is now the ultimate prize over a very large and intense war
+that has been going on for almost a hundred years now.  
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32303
+D2
+~
+~
+0 0 32301
+S
+#32303
+Outside the village.~
+        Turra left the sheep that night and began his short quest of climbing
+the mountain to see what the light was. Tur as he was known then, had always
+thought there had to be something else to life other than a shepherd. The
+villagers have since built a small temple on the mountaintop as a shrine
+to Turra and his angel. A few sages proclaimed this shrine to possibly the
+resting place of some long sought after prize that the gods once placed
+on the world for any mortal to claim.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32306
+D2
+~
+~
+0 0 32302
+S
+#32304
+Before the village.~
+        As word spread of a young knight collecting an army to fight off all
+of the evil hordes in the area those jealous of him began to try and
+figure out how a peasant boy had become so popular. As travel to the mountain
+increased Turra founded a city at the base of the mountain and this village
+became the gateway to the valley of Turra. As a result the village can not
+always handle the amount of people traveling the road.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32306
+S
+#32305
+Outside a village~
+        Due to the amount of people using the road the village had to start
+making some wait outside the village for a chance to travel through to the
+now holy city of Turra. Pilgrims by the thousands were coming to try and
+be blessed at the top of the mountain. The pilgrims were soon replaced by
+soldiers from every race across the world, a dark cloud started forming
+overhead soon after the war erupted.
+~
+323 0 0 0 0 1 255 0
+D3
+~
+~
+0 0 32306
+S
+#32306
+Before the village.~
+        The village is not as large or glamorous as most think the birthplace
+of a mighty king blessed by an angel should be. The village tries to be nice
+to those passing through but over the years has become disenchanted by the
+amount of beggers and homeless pilgrims thinking the entire valley is here
+to help others and give them anything they need. Now with the war over
+the mountain and the amount of soldiers coming through they are flat out
+hostile.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32307
+D1
+~
+~
+0 0 32305
+D2
+~
+~
+0 0 32303
+D3
+~
+~
+0 0 32304
+S
+#32307
+Intersection of paths.~
+        The road going through the village is made of carved stone and
+has held up to the constant flow of armies flowing through since the start of
+the war. Paths go east and west leading to several rows of small huts and
+continues north and south into or out of the village. A small sign has been
+hammered into the ground here.
+A sign is posted here.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32308
+D1
+~
+~
+0 0 32321
+D2
+~
+~
+0 0 32306
+D3
+~
+~
+0 0 32327
+E
+sign~
+To all who enter this village.
+We the citizens of this village have left the road open for
+anyone wanting to go to the city or the mountain. Do not attempt
+to leave the road or ask for food or shelter, we have nothing left
+and what we have will not share. To all the armies coming through,
+this village is not your personal supply village and the next
+army through will just kill you here instead of on the mountain.
+~
+S
+#32308
+The village road.~
+        The road is kept in good condition from the villagers even though
+they want nothing to do with anyone going through it anymore. They feel that
+by keeping the road in good condition noone will have broken down wagons
+or get stuck in the mud and ask for assistance. The road continues north towards
+the mountain and south towards the plains.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32309
+D2
+~
+~
+0 0 32307
+S
+#32309
+The village road.~
+        The road is well maintained by the village and has no spot for anyone
+to stop and rest at. The villagers do not look at anyone coming through the
+village and when they do it is a mean heartened glare meant to keep anyone
+traveling through from stopping.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32310
+D2
+~
+~
+0 0 32308
+S
+#32310
+Village center.~
+        The road actually forks here with another path intersecting it from the
+west and east, it is not as well cared for and several tough looking villagers
+seem to be standing around making sure that noone stops and enjoys the view.
+A small fountain is off to the side so as not to get in the way of wagons or
+marching troops.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32311
+D1
+~
+~
+0 0 32348
+D2
+~
+~
+0 0 32309
+D3
+~
+~
+0 0 32347
+S
+#32311
+The village road.~
+        The road is well cared for with no spots to stop or pull over to repair
+or rest. A small fence has been built along each side of the road that is
+almost eight feet tall. The villagers do not care about any prophesies or
+religious beliefs, they just want their privacy.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32312
+D2
+~
+~
+0 0 32310
+S
+#32312
+The village road.~
+        The road is well cared for with no space to stop or rest at. The
+outline of a large mountain is visible on the northern horizon with the
+walls on each side of the road blocking the view in either direction.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32313
+D2
+~
+~
+0 0 32311
+S
+#32313
+The village road.~
+        The road is well maintained with eight foot walls running along
+both sides of the road. The fog covered Mountain formerly known as
+Mount Turra but now renamed Mount Everwar due to the constant war that
+has been raging on the mountain ever since some sage misread a prophesy.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32314
+D2
+~
+~
+0 0 32312
+S
+#32314
+The village road.~
+        Everwar mountain looms large on the northern horizon like a sleeping
+angel ready to accept someone into heaven. Unfortunately the real truth
+will be soon apparent by the hordes of soldiers fighting all over the mountain
+top.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32315
+D2
+~
+~
+0 0 32313
+D4
+~
+~
+0 0 32397
+S
+#32315
+The village road.~
+        The village itself comes to an end here as the walls lining each side of
+the road give way to the village wheat fields. A large guard tower is to the
+east side of the road with several archers watching the road.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+gate~
+1 0 32316
+D2
+~
+~
+0 0 32314
+S
+#32316
+The village road.~
+        The road goes through the middle of a large wheatfield that once
+grew enough wheat to feed the villagers and the city of Turra. Now the wheat
+is only half grown and weeds have grown all over the field. The villagers
+can no longer spend all of their time in the fields due to the amount of
+people being killed by marauding soldiers.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32317
+D1
+~
+~
+0 0 32368
+D2
+~
+gate~
+1 0 32315
+D3
+~
+~
+0 0 32367
+S
+#32317
+The village road.~
+        As long as noone is spotted on the roads the villagers will tend to
+fields as best they can, as soon as the guard towers notice anything they
+sound the alarm for the villagers to hide out until it is clear again. The
+village can not wait until one race finally wins the war and figures out
+that they were wrong all along.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32318
+D1
+~
+~
+0 0 32378
+D2
+~
+~
+0 0 32316
+D3
+~
+~
+0 0 32377
+S
+#32318
+The village road.~
+        The reason so many armies keep coming to Mt Everwar is that long ago
+some raving mad seer proclaimed that the gods would bless immortality upon
+whomever has posession of the the sacred relic. For years people were looking
+for any sign of where this relic might be, when Tur met the fallen angel
+on the mountaintop and the villagers made a shrine to the sacred spot some
+sage said that this must be the hiding place of the sacred relic.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32319
+D1
+~
+~
+0 0 32388
+D2
+~
+~
+0 0 32317
+D3
+~
+~
+0 0 32387
+S
+#32319
+The village road.~
+        For a few years Tur was able to raise a mighty army to vanquish all of
+the evil in the area with the help of the dwarves and the elves in the valley.
+The dwarves became angered when Turra could no longer stop the onslaught of
+the invading armies and they themselves entered the battle for the mountain.
+Although to them they are fighting not for immortality, but for their homeland.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32320
+D2
+~
+~
+0 0 32318
+S
+#32320
+The village road.~
+        The road is on the outskirts of the wheat fields and the entrance to the
+valley of Turra leading to the forest of Turra and eventually Mt Everwar.
+The road is not as cared for anymore and several broken wagons litter the road
+side.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32601
+D2
+~
+~
+0 0 32319
+S
+#32321
+A small path.~
+        The path intersects with the main road and goes next to the village
+guard tower looking over the southern approach and the plains. A small row of
+huts line the path to the north while it follows the southern wall.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32322
+D3
+~
+~
+0 0 32307
+D4
+~
+~
+0 0 32325
+S
+#32322
+A small path.~
+        The path begins to fork off leading north to a small hut and heads 
+east towards more huts and west to the guard tower and the road. The huts are
+small and made out of wood and clay. The ground is muddy and the sounds of
+crying children can be heard coming from the huts.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32336
+D1
+~
+~
+0 0 32323
+D3
+~
+~
+0 0 32321
+S
+#32323
+A small path.~
+        The path is well used with little overgrowth on it except on the side
+near the southern wall. A row of small huts line the northern side of
+the path and the trail continues east and west towards more small huts.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32337
+D1
+~
+~
+0 0 32324
+D3
+~
+~
+0 0 32322
+S
+#32324
+A small path.~
+        The path is lined with small huts to the north and a large wall
+along the southern edge of the path. The huts are small run and run down
+made of wood and mud. The path continues west and to the east is a turn.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32338
+D1
+~
+~
+0 0 32326
+D3
+~
+~
+0 0 32323
+S
+#32325
+Lookout tower.~
+        The tower is rather short for a lookout tower but the line of sight is
+good enough for the archers and lookouts to see anyone approaching the village
+for a long enough distance to warn the village. The archers have a perfect 
+shot at anyone who is walking down the road from one side of the village to the
+other.
+~
+323 0 0 0 0 1 255 0
+D5
+~
+~
+0 0 32321
+S
+#32326
+A small path.~
+        The path takes a turn north and west with a wall running along the
+southern side. There are a few larger huts along this path to the east
+and look much nicer than the ones heading west.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32340
+D3
+~
+~
+0 0 32324
+S
+#32327
+A small path.~
+        The path intersects the road and continues east on the other side of
+the road and heads west from here. A few old run down looking shacks line
+the path on the north side while heading west. The path is a little overgrown
+and does not seem to be used alot.
+~
+323 0 0 0 0 12 255 0
+D1
+~
+~
+0 0 32307
+D3
+~
+~
+0 0 32328
+S
+#32328
+A small path.~
+        The path is somewhat overgrown with little use compared to other
+places in the village and has several run down huts to the north. The huts
+look like they are made out of reeds and clay with a few pieces of wood used
+to hold them up. The path heads east and west towards some more huts and
+a hut is north.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32335
+D1
+~
+~
+0 0 32327
+D3
+~
+~
+0 0 32329
+S
+#32329
+A small path.~
+        The path is somewhat overgrown and has some trash laying around here
+and there. A small run down looking hut is to the north made out of old wood
+and patched together with reeds and clay. The path continues east and west 
+where it seems to take a turn.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32334
+D1
+~
+~
+0 0 32328
+D3
+~
+~
+0 0 32330
+S
+#32330
+A small path.~
+        Over the years the village population has slowly become smaller
+and smaller. The huts along this path are not used anymore since the families
+who lived in them left for the city after the young boys joined the
+Turrian Knights as squires.
+~
+323 0 0 0 0 12 255 0
+D1
+~
+~
+0 0 32329
+D3
+~
+~
+0 0 32331
+S
+#32331
+A small path.~
+        The path takes a turn heading north and east towards some small abandoned
+huts. Most of the younger members of the village were recruited to fight and
+defend the kingdom against all of the other races who were intent on taking
+the mountain.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32332
+D1
+~
+~
+0 0 32330
+S
+#32332
+An old path.~
+        The path is now completely overgrown with little to no signs of use
+of any sort on it. Since some of the families began dying or leaving the village
+all together the council decided it was better to keep the families closer
+incase of an attack.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32333
+D2
+~
+~
+0 0 32331
+S
+#32333
+An old path.~
+        The path shows little to no signs of use anymore since most of the
+families who lived over here moved away. Once the Turrian Knights were no longer
+able to guard the village against all of the other armies some took it as a sign
+to leave for good.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32343
+D2
+~
+~
+0 0 32332
+S
+#32334
+Run down hut.~
+        The hut has several holes in the room where wind and rain continues
+to come through and damage more and more of the old hut. The hut is bare
+with no furniture or items of any use left after the family moved away.
+~
+323 0 0 0 0 1 255 0
+D2
+~
+~
+0 0 32329
+S
+#32335
+An old hut.~
+        The hut is almost on the verge of collapsing with barely any roof left
+on it and not much of the way in walls to even keep it up. Nothing is left in
+the hut to show any signs that anyone ever even lived here.
+~
+323 0 0 0 0 1 255 0
+D2
+~
+~
+0 0 32328
+S
+#32336
+A small hut.~
+        The hut is modest in furnishings and has several pallets for beds
+laying around the room with a central fire and cooking pit located in the
+center of the room. A small hole for smoke to leave is directly above the fire
+pit. Several families share this hut as a way to protect themselves better at
+night.
+~
+323 0 0 0 0 1 255 0
+D2
+~
+~
+0 0 32322
+S
+#32337
+A small hut.~
+        The hut has several pallets for beds scattered about the room and
+has a firepit and cooking area located in the center of the room. A small
+hole is in the roof to allow smoke to leave while a fire is burning.
+~
+323 0 0 0 0 2 255 0
+D2
+~
+~
+0 0 32323
+S
+#32338
+A small hut.~
+        Most of the room is littered with small pallets for sleeping on
+and has a small fire in the middle for cooking on. Most families try
+to fit as many people into one hut as they can to try and intimidate anyone
+trying to rob or kidnap anyone. The years of war have left the villagers
+weary and demoralized.
+~
+323 0 0 0 0 1 255 0
+D2
+~
+~
+0 0 32324
+S
+#32339
+A large hut.~
+        The huts on this path are much nicer than the ones near the road
+and do not have as many beds in them, it also has a small room to the side
+for cooking and eating. The wealthier members of the village live in these
+huts.
+~
+323 0 0 0 0 1 255 0
+D3
+~
+~
+0 0 32340
+S
+#32340
+A small path.~
+        The path is well cared for and still shows some signs of new work done
+on it where water starts to puddle up at. Several larger and nicer huts line
+the east side of the path compared to the ones south west of the path.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32341
+D1
+~
+~
+0 0 32339
+D2
+~
+~
+0 0 32326
+S
+#32341
+A small path.~
+        The path is well cared for with no signs of wear or tear compared to
+other pahs in the village. A row of nice huts line the path to the east
+while a large hut can be seen on the path going west.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32352
+D1
+~
+~
+0 0 32342
+D2
+~
+~
+0 0 32340
+S
+#32342
+A large hut.~
+        The hut has a few well padded pallets for beds and a small room off
+to the side for cooking and eating. The wealthier members of the village use
+the hut like this for their families.
+~
+323 0 0 0 0 2 255 0
+D3
+~
+~
+0 0 32341
+S
+#32343
+End of market row.~
+        The market is just east with several vendors selling what little
+produce they have for the village. Armed guards wander around making sure none
+of the invading armies fighting for control of the mountain try to wander
+in and cause problems. An old overgrown path heads south while the path
+north is blocked.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32344
+D2
+~
+~
+0 0 32333
+S
+#32344
+Market row.~
+        The market was once a thriving bustling hotbed and the heart of the
+village, now it barely draws anyone except those in desperate need of goods
+for their families. The vendors themselves do not spend much time out, just
+enough to sell some goods and try to get a few things for themselves.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32345
+D3
+~
+~
+0 0 32343
+S
+#32345
+Market row.~
+        The once full market stalls are now mostly empty with only a few
+produce growers selling half rotten or wilted goods. The vendors that are
+out trying to sell their goods look untrusting at anyone not from the
+village that is walking around.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32346
+D3
+~
+~
+0 0 32344
+S
+#32346
+Market row.~
+        Most vendors have already left for the day or didn't even show up
+to try and sell anything. The wheat crops are getting less and less each
+year from the strange weather that has replaced the normal seaons. What wheat
+does grown the Turrian Knights come out and take half of it for the city
+to eat through the winter. The gnomes and dwarves stopped trading in the
+village soon after the war started.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32347
+D3
+~
+~
+0 0 32345
+S
+#32347
+Market row.~
+        Market row used to be one the main trading destinations for most
+vendors in the valley, dwarves would bring their jewelry and weapons while
+the gnomes would bring healing potions and other odd brews to aid in the
+growing of the crops. Even the merchants of the great city of Turra
+would come and haggle for goods.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32310
+D3
+~
+~
+0 0 32346
+S
+#32348
+The main path.~
+        This is the main path that the villagers use to get from their homes
+to the market and the council chambers. Since the war started it is now 
+the only way almost all of the village uses to move around. Most side
+paths have been abandoned due to the amount of mobs wandering around
+the outskirts of the village.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32349
+D3
+~
+~
+0 0 32310
+S
+#32349
+The main path.~
+        This is the main path most of the villagers use to get from their 
+homes to the market or the fields to work. Since the outbreak of the war
+most others have been abandoned or are not guarded. The main council
+hall is along the north side of the path.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32350
+D3
+~
+~
+0 0 32348
+S
+#32350
+The main path.~
+        Most villagers use this path now to go anywhere in the village and
+in case of emergency or attacks the massive hall to the north is where
+everyone goes. The path goes west towards the road and east towards some
+huts.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32351
+D3
+~
+~
+0 0 32349
+S
+#32351
+Before the council hall.~
+        The path leads north towards the large council hall where the villagers
+hide in cases of emergency or attack by any of the armies. The building has
+several burn spots on it and parts of the wall show signs of being hacked
+at or smashed with large blunt objects.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32353
+D1
+~
+~
+0 0 32352
+D3
+~
+~
+0 0 32350
+S
+#32352
+The main path.~
+        The path is well maintained and is the main way for most of the
+villagers to move around. The large council hallis to the west and several
+nice huts are to the south. The path north is blocked by large planks
+and a few cut down trees.
+~
+323 0 0 0 0 12 255 0
+D2
+~
+~
+0 0 32341
+D3
+~
+~
+0 0 32351
+S
+#32353
+The council hall.~
+        The hall is even larger on the inside that it looks from the outside,
+it is partially underground with most of the walls being made from
+very large ironwood trees from the forest. A small well is in the middle of
+hall that is used for extended sieges on the hall or to put out fires that
+anyone trying to burn the villagers out might set.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+secret~
+1 0 32354
+D2
+~
+~
+0 0 32351
+S
+#32354
+Village treasure.~
+        This small stockpile is for the villagers to use in times of emergency
+or lobbying the city of Turra or the dwarves. The gnomes never had much use
+for gold so they found other means of paying them.
+~
+323 0 0 0 0 2 255 0
+D2
+~
+secret~
+1 0 32353
+S
+#32355
+Path to gnomes.~
+        The path is well used with little footprints in the mud, the footprints
+seem a tad odd as they are three to four feet apart. Gnomes not being the
+tallest creatures in the world normally do not make footprints so far apart,
+either the gnome was skipping down the path happily, or was running very
+fast to warn the village about something. 
+~
+323 0 0 0 0 1 255 0
+D0
+~
+gate~
+1 0 32372
+D2
+~
+~
+0 0 32356
+S
+#32356
+Path to the gnomes.~
+        The path shows some signs of large footprints but for the most
+part the only footprints in the mud are of gnomes. The path is lined by
+some small trees that seem to part just enough for a small person to walk
+through or a large one to bend over to go under.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32355
+D2
+~
+~
+0 0 32357
+S
+#32357
+Approaching gnodder.~
+        The path takes a turn before the gnome village of Gnodder, the
+village gets its' name from the fact that when the gnomes first came to this
+valley they didn't speak the same languege as the humans in the village. All
+the gnomes could do was nod their head at the villagers when they showed
+them something they wanted, so the villagers started calling it Gnodder.
+The gnomes don't seem to care, or if they do noone actually pays them
+much attention.
+~
+323 0 0 0 0 12 255 0
+D0
+~
+~
+0 0 32356
+D1
+~
+~
+0 0 32358
+S
+#32358
+Gnome village.~
+                The gnomes came to this valley in search of a more peaceful
+place for them to continue their studies into new types of alchemy and other
+strange inventions. For years most other residents in the valley ignored the
+gnomes and their explosions until the gnome started caving in some of the
+dwarven mines.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32359
+D3
+~
+~
+0 0 32357
+S
+#32359
+Gnome village.~
+        The village is small with a few small mounds to the north, south and
+a few more small ones northeast, a large mound is to the southeast with
+several more important mounds farther east.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32360
+D1
+~
+~
+0 0 32362
+D2
+~
+~
+0 0 32361
+D3
+~
+~
+0 0 32358
+S
+#32360
+Gnome mound.~
+        The mound has several small beds scattered about the room with large
+tables covered with vials holding assorted colors of bubbling and stinking
+liquids in them. Scorch marks are abundant in the room with a few burned piles
+of sheets off in one corner.
+~
+323 0 0 0 0 0 255 0
+D2
+~
+~
+0 0 32359
+S
+#32361
+Gnome mound.~
+        A few bads are off to one corner while a very large boiling cauldron
+has a pungent pink liquid coming to a full boil. A very large burn mark with
+a cracked cauldron much like the one boiling over is off to one side.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32359
+S
+#32362
+Gnome village.~
+        The path leading through the village is very well cared for and
+a few gnomes have even planted small strange looking pink and orange
+plants off to one side. A small mound is north while a very large one is
+to the south.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32390
+D1
+~
+~
+0 0 32391
+D2
+~
+~
+0 0 32380
+D3
+~
+~
+0 0 32359
+S
+#32363
+Wheat field.~
+        The fields used to be filled with acres and acres of wheat just waiting
+to be picked each season, now there is barely enough food to feed the villagers
+after the city takes some of it. Most of the ground is dried almost like
+in a drought, only the ominous dark sky continues to dump water onto the ground.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32373
+D1
+~
+~
+0 0 32364
+D2
+~
+~
+0 0 32383
+D3
+~
+~
+0 0 32367
+S
+#32364
+Wheat field~
+        The wheat that remains in the field is barely two feet tall now,
+normally by this time of season the wheat is taller than most humans. Most
+blame it on the dark sky that never seems to clear since the war started.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32374
+D1
+~
+~
+0 0 32365
+D2
+~
+~
+0 0 32384
+D3
+~
+~
+0 0 32363
+S
+#32365
+Wheat field.~
+        The dead looking wheat doesn't even look like it would be of much use
+if someone was to pick it. The dark ominous clouds that have been forming
+around the mountain since the start of the war continue to get worse and worse
+and at times it seems as if the clouds are smiling.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32375
+D1
+~
+~
+0 0 32366
+D2
+~
+~
+0 0 32385
+D3
+~
+~
+0 0 32364
+S
+#32366
+Wheat field.~
+        The wheat that has actually grown this season is barely a few feet tall
+and does not seem to be worth the trouble to cut down. A few villagers are
+out here trying to fertilize the ground.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32376
+D1
+~
+~
+0 0 32367
+D2
+~
+~
+0 0 32386
+D3
+~
+~
+0 0 32365
+S
+#32367
+Wheat field.~
+        The ground is wet and muddy yet the wheat looks like it hasn't had
+any water or sun since it started growing. Clouds continue to fill the sky
+and the villagers say it has been like this since the start of the war.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32377
+D1
+~
+~
+0 0 32316
+D2
+~
+~
+0 0 32387
+D3
+~
+~
+0 0 32366
+S
+#32368
+Wheat field.~
+        Lightening races across the sky  and a loud thunderclap makes most of
+the people in the field jump and look up with a startled look. The clouds
+continue to form in darker and darker colors, even in the middle of the day
+it seems like dusk.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32378
+D1
+~
+~
+0 0 32369
+D2
+~
+~
+0 0 32388
+D3
+~
+~
+0 0 32316
+S
+#32369
+Wheat field.~
+        More and more of the villagers continue to head towards the city
+in hopes of finding a better life away from the dying fields and war torn
+countryside. Hardly any wheat grows here and where the field stops a small
+path works its way towards some trees.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32379
+D1
+~
+~
+0 0 32370
+D2
+~
+~
+0 0 32379
+D3
+~
+~
+0 0 32368
+S
+#32370
+A small trail.~
+        The trail is at the edge of the village wheat field and heads into
+a small grove of trees where the hills start to form the Turrian mountains.
+The trail was used for years by the gnomes  and dwarves who were headed to
+the village markets. The gnomes and dwarves haven't gone to the village
+for awhile now since their last dispute with the humans.
+~
+323 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 32371
+D3
+~
+~
+0 0 32369
+S
+#32371
+A small trail.~
+        The trail weaves through some small pine trees at the edge of the
+fields. The gnome village is somewhere to the east and then south while
+the entrance to the dwarven caverns is somewhere near the gnome gate.
+The clouds seem to be moving towards the mountain in a slow purposeful march.
+The mountain itself isn't covered by the darkening clouds yet, almost like
+a hallucination the mountain seems to have a perfect ring around it like
+an angels halo fighting off the darkening clouds.
+~
+323 0 0 0 0 2 255 0
+D1
+~
+~
+0 0 32372
+D3
+~
+~
+0 0 32370
+S
+#32372
+End of the trail.~
+        Several trees form a natural wall along the south for awhile and a small
+wooden gate is between two large trees. The gate is supposed to lead to the
+gnomes and a crack in the ground seems to have small steps carved into it.
+A few bolts of lightening strike the ground a few hundred feet away and  loud
+laughter like thunder echoes through the valley.
+~
+323 0 0 0 0 2 255 0
+D2
+~
+gate~
+1 0 32355
+D3
+~
+~
+0 0 32371
+S
+#32373
+Wheat fields.~
+        The fields barely have any wheat growing in them and what wheat that
+is growing is nearly dead. The village shamans, who departed the village at
+the onset of the war, declared long before the war that a horrible disease
+was spreading through the valley.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32383
+D1
+~
+~
+0 0 32374
+D2
+~
+~
+0 0 32363
+D3
+~
+~
+0 0 32377
+S
+#32374
+Wheat fields.~
+        The cloudy skies continue to drop rain onto the ground but it is more
+like poison as the people do not look all that healthy and no crops will grow
+more than a few feet tall.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32384
+D1
+~
+~
+0 0 32375
+D2
+~
+~
+0 0 32364
+D3
+~
+~
+0 0 32373
+S
+#32375
+Wheat fields.~
+        The fields show no real sign of growth, as most fields this time
+of year should by vibrant and healthy. If the fields continue to yield fewer
+and fewer crops like they have been for the last few years most villagers will
+have to leave.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32385
+D1
+~
+~
+0 0 32376
+D2
+~
+~
+0 0 32365
+D3
+~
+~
+0 0 32374
+S
+#32376
+Wheat fields.~
+        The fields continue to die more and more every day from the lack
+of sun and overdose of water. The water is acting more like a poison now
+after the weeks of continuous rain. The village shamans are nowhere around
+anymore to do their prayers to the gods for better weather.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32386
+D1
+~
+~
+0 0 32377
+D2
+~
+~
+0 0 32366
+D3
+~
+~
+0 0 32375
+S
+#32377
+Wheat fields.~
+        The weather continues to worsen as the days go by and more and more 
+of the wheat is dying or not growing at all. Few villagers are willing to try
+and tough the bad times out as more and more soldiers come through the valley
+to continue the war.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32387
+D1
+~
+~
+0 0 32317
+D2
+~
+~
+0 0 32367
+D3
+~
+~
+0 0 32376
+S
+#32378
+Wheat fields.~
+        The wheat barely breaks the surface of the ground here drowing in the
+large puddles of water that are slowly turning the field into a swamp. More
+soldiers go by ignoring the field entirely now instead of trying to torture
+the villagers or stealing food.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32388
+D1
+~
+~
+0 0 32379
+D2
+~
+~
+0 0 32368
+D3
+~
+~
+0 0 32317
+S
+#32379
+Wheat fields.~
+        No wheat is growing at all here and several blackened spots mark there
+ground where lightning has been hitting the ground at a more menacing pace.
+The villagers don't even try to help the wheat here anymore.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32369
+D1
+~
+~
+0 0 32378
+D2
+~
+~
+0 0 32369
+D3
+~
+~
+0 0 32378
+S
+#32380
+Before a large mound.~
+        The small path stops before a very large mound that is easily three
+times the size of any other mound in the village. A few gnomes come by
+talking about who should do what and if the chief has lost control of the
+village now.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32362
+D2
+~
+door~
+1 0 32381
+S
+#32381
+Inside a large mound.~
+        This is the main meeting hall for the gnomes, a large but short table
+forms a half moon around part of the room and a large firepit takes up the
+eastern side of the room. Several rather strange paintings adorn the wall
+of so called great minds of gnomish ancestory.
+~
+323 0 0 0 0 0 255 0
+D0
+~
+door~
+1 0 32380
+D1
+~
+fire pit~
+1 0 32382
+S
+#32382
+Small room.~
+        This room is where the true leaders of the gnome village meet. The other
+room is for the villagers who like to talk and act like they know what 
+the gnomes should be doing in these times of troubles. Most of the adults 
+including some females have left for the mountain to join their gnome cousins
+in defeating the other races.
+~
+323 0 0 0 0 0 255 0
+D3
+~
+~
+1 0 32381
+S
+#32383
+Wheat field.~
+        The wheat has grown somewhat better here compared to other parts of the
+field but still isn't anywhere near what is should be at. A few villagers run
+around frantically trying to dig drainage trenches to help the field
+drain of the excess water.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32363
+D1
+~
+~
+0 0 32384
+D2
+~
+~
+0 0 32373
+D3
+~
+~
+0 0 32387
+S
+#32384
+Wheat field.~
+        The wheat looks somewhat better here than other places but still looks
+closer to dying than to growing. The water is several inches thick and the
+clouds overhead show no sign of clearing up.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32364
+D1
+~
+~
+0 0 32385
+D2
+~
+~
+0 0 32374
+D3
+~
+~
+0 0 32383
+S
+#32385
+Before a small cave.~
+        The wheat fields give way to a small cave opening in the ground. The
+children of the village used to play in the cave until a few years back when
+some wayward soldiers took to hiding out in here and waylaying some villagers
+until a cave-in killed the soldiers and the villagers blocked up what
+was left of the cave.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32365
+D1
+~
+~
+0 0 32386
+D2
+~
+~
+0 0 32375
+D3
+~
+~
+0 0 32384
+D5
+~
+~
+0 0 32399
+S
+#32386
+Wheat field.~
+        The fields look very pathetic and show no signs of life as the villagers
+try franticaly to do anything to save them. More rain seems to fall than
+the villagers can handle and most of the wheat looks wilted before
+ever growing.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32366
+D1
+~
+~
+0 0 32387
+D2
+~
+~
+0 0 32376
+D3
+~
+~
+0 0 32385
+S
+#32387
+Wheat field.~
+        The wheat shows no signs of actually trying to grow and some villagers
+just stand around with a defeated look on their face staring up at the sky now
+and then with a pleading look. The road is just to the east and more dead
+fields are around.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32367
+D1
+~
+~
+0 0 32318
+D2
+~
+~
+0 0 32377
+D3
+~
+~
+0 0 32386
+S
+#32388
+Wheat field.~
+        The remaining villagers don't seem to notice that the rain is steadily
+getting harder and more lightning is hitting the ground all around the fields.
+The soldiers going by towards the mountain do not even seem very pleased about
+entering the valley now.
+~
+323 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 32368
+D2
+~
+~
+0 0 32378
+D3
+~
+~
+0 0 32318
+S
+#32389
+Cave in.~
+        The cave stops abruptly as a large amount of rocks and other debris
+has been piled here to keep anyone from entering the cave. Years ago the
+villagers used this cave to keep excess stores of food and other items
+in case the village was ever attacked or other disasters.
+~
+323 0 0 0 0 2 255 0
+D4
+~
+~
+0 0 32385
+S
+#32390
+A gnome mound.~
+        The gnomes do not keep much in the way of valuable items unless your
+a gnome and understand half of what all these odd items do. A few small beds
+are burnt off to one side and a large table with a broken glass and red bubbling
+liquid is dripping off of the table.
+~
+323 0 0 0 0 1 255 0
+D2
+~
+~
+0 0 32362
+S
+#32391
+Gnome village.~
+        Few gnomes walk around and those that do are either old and
+crippled or very young and energetic. Most of the adults went to join
+the other gnomes in the war for the mountain. A very large mound is off to the
+south and a large elaborate mound is off in the northern direction.
+~
+323 0 0 0 0 1 255 0
+D1
+~
+~
+0 0 32392
+D3
+~
+~
+0 0 32362
+S
+#32392
+Gnome intersection.~
+        The path stops at an intersection of several guarded paths now, a large
+elaborate mound is to the north with several guards standing in front and
+a small mound to the south has a few guards wandering around in it. A large and
+very sturdy mound to the east has several weapons laying against it
+and a few gnomes in some type of uniform walk around.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32393
+D1
+~
+door~
+1 0 32395
+D2
+~
+~
+0 0 32396
+D3
+~
+~
+0 0 32391
+S
+#32393
+Before the chief gnome.~
+        The chief of the gnome village has his own large mound with several
+gnome guards standing at attention outside it. The gnome chief used to be a
+very friendly and outgoing little gnome, when the other gnome armies came
+through and asked his for his aid in the fight for the mountain the chief
+refused to join them, after several attempts at making him join he now keeps
+himself guarded constantly.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+door~
+1 0 32394
+D2
+~
+~
+0 0 32392
+S
+#32394
+Gnome chief's mound.~
+        The room is rather large for a gnome and has several lavish  blankets
+and pillows making up a large bed. Unlike other races where the chief stays in
+charge until someone beats him in challenge, here the chief stays until he dies
+or just gets tired of being chief. Since the war started however he has been very
+busy in keeping his village together.
+~
+323 0 0 0 0 0 255 0
+D2
+~
+door~
+1 0 32393
+S
+#32395
+Soldiers mound.~
+        What few gnomes stayed in the village of fighting age and skills have 
+become soldiers to defend the village against any other attacks. Prisoners
+are also kept in a small room off to the side.
+~
+323 0 0 0 0 0 255 0
+D3
+~
+door~
+1 0 32392
+S
+#32396
+Treasure mound.~
+        What little bit of valuables the gnomes have left are in here safely
+guarded, extra provisions are also kept locked up in here so that noone
+can eat too much food or drink too much wine.
+~
+323 0 0 0 0 1 255 0
+D0
+~
+~
+0 0 32392
+S
+#32397
+Lookout tower.~
+        The small tower is large enough to accomodate several archers and also
+tall enough to see across the valley to the edge of the forest. The lookouts
+also keep an eye on the wheat fields to keep any thieves away from their
+precious food source.
+~
+323 0 0 0 0 2 255 0
+D4
+~
+~
+0 0 32398
+D5
+~
+~
+0 0 32314
+S
+#32398
+Lookout tower.~
+        The tower is tall enough to see whatever comes out of the forest
+to the north and also anything getting past the front watch tower to the
+south. There is enough room for several archers on the tower.
+~
+323 0 0 0 0 2 255 0
+D5
+~
+~
+0 0 32397
+S
+#32399
+Before a golden door.~
+        The entrance to the dwarven caverns used to be open to anyone but
+in the years since the war started the dwarves have erected this door
+to keep anyone not welcome out. The doors have dwarven runes written on them
+depicting great dwarven battles for several centuries.
+~
+323 0 0 0 0 2 255 0
+D4
+~
+~
+1 0 32372
+S
+$~

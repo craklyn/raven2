@@ -1,0 +1,55 @@
+earth cast 'earthquake'
+lo get all all.corpse
+icehouse load obj 6999
+fc goto 1225
+wall cast 'bone wall' $1
+port cast 'portal' $1
+ttemple goto 18102
+mmail goto 18036
+m kill vine
+ggold load obj 27333
+bc battlecry
+ee cast 'earthquake'
+bw cast 'bone wall' $1
+sac destroy corpse
+pig load mob 1481
+mert goto 43701
+fb cast 'flame blade' $1
+deb cast 'debilit' $1
+slow cast 'slow' $1
+blind cast 'blind' $1
+ts cast 'true sight' $1
+rc cast 'remove curse' $1
+home goto 1204
+j exit
+black set $* team black
+gold set $* team gold
+rogue set $* team rogue
+sams goto 18001
+no peace
+di cast 'detect invis' $1
+fort cast 'fortify' $1
+charm cast 'charm' $1
+sanc cast 'sanctuary' $1
+titt title &14#&08LetsMakeRavenGreatAgain&00
+heal cast 'heal' $1
+rev cast 'revive' $1
+haste cast 'haste' $1
+rp cast 'remove poison' $1
+emb cast 'embalm' corpse
+tit title &14#&08LetsMakeRavenGreatAgain&00
+rb cast 'cure blind' $1
+ward cast 'create warding'
+cs cast 'summon corpse' $1
+10trials goto 19909
+gecho gecho &08Mathayus&00 ::  &11$* &00
+math load mob 27897
+ff cast 'fleet foot' $1
+armor cast 'armor' $1
+gt gt &11 $* &00
+chute goto 10558
+q attach mtr 805 2.
+a attach mtr 802 2.
+cb cast 'cure blind' $1
+1 cast 'revive' talidar
+shield cast 'shield' $1

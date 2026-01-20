@@ -1,0 +1,218 @@
+#6201
+Pirate Raider~
+Arr, so ye think yers a pirate?  You'll have to
+prove yerself against these challenges!  If ye's 
+be a pirate raider, competition can hurt your haul!
+Other raiders ply these waters.  Best a Pirate Raider
+and good fortune will be yours.
+~
+Remove the Pirate Raiders from the seas!
+~
+30 50 8388608 15 45 30
+G 6299
+O MOB 6201
+R GOLD 300000
+
+~
+R QP 2
+&03Ahoy ye dastardly dawg.  You were victorious!&00
+&03Treasures will be your booty and two points &00
+&03your quest was worth.  May the other pirates&00
+&03know and fear your power on the seas!&00
+~
+#6202
+Merchant Trader~
+Arr, so ye think yers a pirate?  You'll have to
+prove yerself against these challenges!
+How fares you versus the merchant class?
+Tough you say?  Then prove it.  Bring me the
+head of a Merchant Trader who plies these waters! 
+~
+&03Loot a Merchant Trader and bring me his head!&00
+~
+30 50 8388608 15 45 30
+G 6299
+O MOB 6202
+R QP 2
+&03Not bad, you mangy dog.  Yer gonna have to do&00
+&03a lot more to prove yer a full right pirate! I can&00
+&03rewards ya now for this here head.  Take these coins&00
+&03and these two quest points and trouble me no more!&00
+~
+R GOLD 300000
+~
+#6203
+Whaler~
+Arr, so ye think yers a pirate?  You'll have to
+prove yerself against these challenges!  A
+pirates life is a life of opportunity. Today 
+a strange one lies before you.  Someone callin' 
+'emselfs a treee hugger has it out for these here
+whalers.  There's a price on their head.  Waylay 
+two whalers and might split the prize with ye.
+~
+Waylay two whalers for the vengeful tree hugger!
+~
+45 50 8388608 15 45 30
+G 6299
+O MOB 6205
+O MOB 6204
+R QP 2
+&03I sees it went well for ye.  Harpooned them, didja?&00
+&03Doubts about you I had.  Well fair's fair so here's&00
+&03your share.  Two QPs.  The gold I'ma keepin' as me&00
+&03commission. &00 
+~
+#6204
+Orca, Hard Final Turn & Frozen Captive near cutter~
+~
+~
+30 50 8388608 15 45 15
+G 6299
+O MOB 6265
+O MOB 6270
+O MOB 6251
+#6205
+Everfull Mug & Gambling Pirate near Lord Vulture~
+~
+~
+6 50 0 20 30 15
+G 6299
+O MOB 6245
+O OBJ 6248
+#6206
+Lalila & Ettin's Blood~
+Aye, we've got another mission-for-hire for you.
+This one's &08HOT&00!  If you want paid there is
+no need to pull out your beard.  Just track down
+Lalila the elven prince and bring back his bloody
+head.  Also, grab the jar of ettin's blood.  
+~
+This &08HOT&00 one requires you to bring me back Lalila's head and a jar of ettin's
+blood!
+~
+30 50 0 15 45 30
+G 6299
+O MOB 6229
+O OBJ 6229
+R GOLD 300000
+~
+R QP 2
+&03Impressive you sly mutt.  Were you able to sneak&00
+&03past Redbeard or did he go down too?  Your pirate&00
+&03skills are impressive.  For this your reward is&00 
+&03300,000 gold coins and two quest points.&00
+~
+#6207
+Smallbody & Navigator near One-Eye~
+~
+~
+30 50 8388608 15 45 15
+G 6299
+O MOB 6218
+O OBJ 6218
+O MOB 6217
+#6208
+Ceres~
+~
+~
+30 50 8388608 15 45 15
+G 6299
+O MOB 22921
+#6209
+Harbormaster - Samsera~
+~
+~
+45 50 8388608 4 30 35
+G 6299
+O OBJ 18062
+O OBJ 18061
+O OBJ 18060
+#6210
+Captain - Midgaard~
+~
+~
+30 50 8388608 4 30 45
+G 6299
+O OBJ 3061
+O OBJ 3060
+#6213
+Shifty & stiggs near Mizzenmast~
+~
+~
+30 50 0 15 45 15
+G 6299
+O MOB 6234
+O MOB 6232
+#6218
+whitecap~
+~
+~
+30 50 8388608 15 45 15
+G 6299
+O MOB 22925
+#6220
+shipwright - Bazaar~
+~
+~
+30 50 8388608 4 45 35
+G 6299
+O OBJ 31235
+O OBJ 31234
+O OBJ 31232
+#6221
+Seashell Ring from Hightower~
+~
+~
+30 50 0 30 30 25
+G 6299
+O OBJ 13044
+#6222
+greek fire~
+Arr, so ye think yers a pirate?  You'll have to
+prove yerself against these challenges!  
+Rumor has it that there be a fire that
+water can't quench.  It was invented by the
+ancients of Athens and Sparta.  I needs me some
+for a... project.  Bring me a couple jugs of it!
+~
+Bring me two jugs of Greek Fire.
+~
+30 50 8388608 15 45 30
+G 6299
+P 6201
+O OBJ 6202
+O OBJ 6202
+R QP 2
+~
+R GOLD 300000
+&03Well done!  Don't tell anyone about this.  And&00
+&03don't be near the harbor tomorrow at midnight!&00
+~
+#6223
+Tiger Shark~
+~
+~
+30 50 8388608 15 45 15
+G 6299
+O MOB 6235
+#6224
+Mystic sea guardians~
+~
+~
+30 50 8388608 15 45 15
+G 6299
+O MOB 3903
+O MOB 3902
+O MOB 3901
+#6225
+Mystic sea mobs~
+~
+~
+30 50 8388608 10 45 30
+G 6299
+O MOB 3906
+O MOB 3909
+O MOB 3908
+O MOB 3907
+$~

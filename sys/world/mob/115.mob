@@ -1,0 +1,287 @@
+#11501
+H W 0~
+ruffian man~
+a Ruffian~
+A man stands here, looking for a fight.
+~
+The man wears dirty clothes and grins at you as you stare...just the
+reason he needs to start a fight with you.
+~
+22764 0 0 0 1024 0 0 0 -1000
+30 0 -5 1d1+1500 2d10+20
+50 60
+9 9 1 0 -1 -1
+#11502
+H W 0~
+tuff man~
+a Tuff~
+A man stands here, wondering if he can bully you or not.
+~
+The man looks like he is used to pushing weaker people around.  He
+apparantly hasn't decided whether you are weaker than him or not.
+~
+19164 0 0 0 1032 0 0 0 -1000
+25 0 -5 1d1+950 2d10+15
+40 40
+9 9 1 0 -1 -1
+#11503
+H W 0~
+mercenary killer man~
+a Mercenary~
+A trained killer awaits hire here.
+~
+This man looks like he has seen a LOT of combat.  He meets your gaze with
+calm eyes.  This man is a cold killer.
+~
+19038 0 0 0 263200 0 0 0 -500
+30 0 -5 1d1+2000 6d5+15
+50 60
+9 9 1 0 -1 -1
+#11504
+H W 0~
+sec member man officer cop~
+a Sec Man~
+A member of the baron's "security corps" stands here.
+~
+Sec men must be extremely confident in their abilities in order to work
+in Shaden.  This man fits the bill.
+~
+23260 0 0 0 5243912 0 0 0 -300
+30 0 -8 1d100+1500 5d5+20
+50 60
+9 9 1 0 -1 -1
+#11505
+H W 0~
+sec chief man~
+the Sec Chief~
+The Chief of the baron's security corps stands here.
+~
+The Sec Chief looks like he can handle his duties...even in this town.
+~
+22748 0 0 0 5276776 0 0 0 0
+40 0 -8 1d1+3500 6d4+20
+65 75
+9 9 1 0 -1 -1
+#11506
+H W 0~
+baron shaden man~
+the Baron~
+The Baron of Shaden stands here.
+~
+The baron isn't particularly imposing physically, but once your gaze
+meets with his, it isn't hard to see why he is so feared here.
+~
+153692 0 0 0 5276712 0 0 0 -1000
+40 0 -10 1d1+5000 10d2+30
+65 75
+9 9 1 0 -1 -1
+#11507
+H W 0~
+guard door warrior guardian~
+the Door Guard~
+A well-armed man guards the door here.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+16832602 0 0 0 6194426 0 0 0 0
+51 -30 -15 1d1+30000 100d10+100
+90 100
+9 9 1 0 -1 -1
+#11508
+H W 0~
+shopkeeper fence vendor baker m11508~
+the Baker~
+A man stands here awaiting your order.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+40 -30 -10 1d1+3000 10d3+15
+65 75
+9 9 1 0 -1 -1
+#11509
+H W 0~
+shopkeeper fence vendor mage m11509~
+the Mage~
+A man stands here, awaiting your order.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+40 -30 -10 1d1+3000 10d3+20
+65 75
+9 9 1 0 -1 -1
+#11510
+H C 0~
+alchemist shopkeeper fence vendor m11510~
+the Alchemist~
+A man stands here, awaiting your order.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+1 -30 -10 1d1+3000 10d3+20
+35 40
+9 9 1 0 -1 -1
+#11511
+H W 0~
+armorsmith shopkeeper fence vendor m11511~
+the Armorsmith~
+A man stands here, awaiting your order.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+40 -30 -10 1d1+3000 10d3+20
+65 75
+9 9 1 0 -1 -1
+#11512
+H W 0~
+weaponsmith shopkeeper fence vendor m11512~
+the Weaponsmith~
+A man stands here, buying and selling wares.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+50 -30 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11513
+H W 0~
+cryogenist shopkeeper fence vendor m11513~
+the Cryogenist~
+The cryogenist stands here, waiting to see you to your cubicle.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+50 -30 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11514
+H W 0~
+receptionist shopkeeper fence vendor m11514~
+the Receptionist~
+The receptionist stands here.
+~
+She looks like she could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+50 -30 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11515
+H W 0~
+shopkeeper fence man vendor m11515~
+a Fence~
+A man stands here, buying and selling wares.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+50 -30 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11516
+H W 0~
+shopkeeper fence vendor m11516~
+a Fence~
+A man stands here, buying and selling wares.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+50 -30 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11517
+H W 0~
+shopkeeper fence vendor m11517~
+a Fence~
+A man stands here, buying and selling wares.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+61530 0 0 0 1213624 0 0 0 0
+50 -30 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11518
+H W 0~
+shopkeeper fence vendor m11518~
+a Fence~
+A man stands here, buying and selling wares.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+57434 0 0 0 1213624 0 0 0 0
+50 -30 -10 1d1+30000 100d10+100
+80 90
+9 9 1 0 -1 -1
+#11519
+H W 0~
+bartender shopkeeper fence vendor m11519~
+the Bartender~
+A man stands here, ready to fill your mug.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+61530 0 0 0 1213624 0 0 0 0
+40 -30 -10 1d1+3000 10d3+20
+65 75
+9 9 1 0 -1 -1
+#11520
+H W 0~
+bodyguard man vendor m11520~
+a Bodyguard~
+A man stands here, guarding his client.
+~
+He looks like he could handle just about any trouble you might try to
+cause.
+~
+61530 0 0 0 1213624 0 0 0 0
+40 -30 -10 1d1+1500 5d5+20
+65 75
+9 9 1 0 -1 -1
+#11522
+C T 0~
+rogue prince~
+the Rogue Prince~
+A rich-looking creature stands here
+~
+A fat and ugly, but opulently dressed, creature stands here perusing the wares
+for sale.  The beauty of it's fine attire is matched only by the greed and
+cunning etched on its foul features.    
+~
+17116 0 0 0 40 0 0 0 -500
+35 10 1 1d1+7500 4d4+15
+50 60
+9 9 1 2 8 9
+#11525
+H C 0~
+doomed pilgrim~
+the doomed pilgrim~
+a pilgrim shuffles by you
+~
+Obessessed with the thirst for the ultimate gift this pilgrim seeks the source
+of yesterday and tomorrow
+~
+200 0 0 0 0 0 0 0 500
+15 5 1 1d1+650 5d5+15
+35 40
+9 9 2 0 -1 -1
+$

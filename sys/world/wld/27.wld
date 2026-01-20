@@ -1,0 +1,2222 @@
+#2700
+The Abyss~
+This area (2701-2799) was written by an unknown builder. If you should happen
+to know who did write it, please include them in the credits here and in the
+general area listing. This is a preety dangerous area, characters coming here
+should be at least 30th lvl and no one should come here alone. There are items 
+here for characters of all alignments, althou the bias is towards evil.
+
+Modified by Vex 31/12/95 for RavenMud.
+~
+27 0 0 0 0 1 255 0
+S
+#2711
+Desolation~
+     Standing in the perpetual noon day sun of this bleak desert like terrain, 
+you find yourself wishing for the simple comforts of home that you have left 
+behind. Stretched out before you in all directions, is a bleak and miserable 
+terrain. Obviously once a great forest, twas long ago burned, or decimated, 
+leaving behind only the charred stumps and burned ashes that you now see.  
+~
+27 0 0 0 0 3 255 0
+D0
+A road runs north leading on into a seeming infinity.
+~
+Iron Gate~
+2 0 2712
+E
+inscription writing top~
+     The inscription at the top of the arch reads:
+			   Highway to Hell
+~
+E
+arch grand archway~
+     The rough stone arch sweeps 30 feet overhead. Once possibly a grand and 
+majestic piece of  architecture, it is now much less. It's smooth, sweeping 
+bands having become chipped and decrepit over the years, the inscription at 
+the very top of the arch has become almost unreadable.
+~
+S
+#2712
+Highway to Hell~
+     On and on, this simple dirt road runs endlessly over the terrain with no 
+obvious destination in sight. The road itself seems to be well tended, if not 
+well used. All bramble having been tossed off of the path, and out of reach 
+from the road. The charred forest lying all around you gives off a feeling of 
+regret, an ill omen that prevents you from straying off of the main highway.
+~
+27 0 0 0 0 3 255 0
+D0
+The highway runs endlessly northward, with no destination in sight.
+~
+~
+0 0 2713
+D2
+The highway runs southward, the lone stone arch barely discernible in the 
+distance.
+~
+~
+0 -1 2711
+S
+#2713
+Highway Intersection~
+     The end of the highway, lies mercifully in sight just to the north, where 
+the main dirt path running north-south finally meets with a small clearing in 
+these lost woods. The highway running south, however is without any distinction
+other then it is the only way to travel in this accursed land.
+     A smaller path intersects the highway here, heading off to the east and 
+west. As you peer down the lesser roads, you see them bend to the north, not 
+too far along. They obviously encircle the glade to the north.
+~
+27 0 0 0 0 3 255 0
+D0
+The highway ends soon to the north at a glade in these accursed woods.
+~
+~
+0 0 2721
+D1
+A lesser path, which runs encircles the glade to the north intersects the main 
+highway here.
+~
+~
+0 0 2714
+D2
+A lonely high extends to a seeming infinity to the south.
+~
+~
+0 0 2712
+D3
+A lesser path, which runs encircles the glade to the north intersects the main
+highway here.
+~
+~
+0 0 2720
+S
+#2714
+Southeast Stony Path~
+     This thin trail encircles a small glade to the northwest. It is barely 
+kept up, very much unlike the main highway. Rocks and burnt out shells of trees
+lie along all sides of the path. The wind having blown smaller twigs and rocks 
+into the path itself. It would appear to be some sort of game or hunting trail.
+Though with the size of the stones along the path, some larger then a giant, 
+which give the trail an almost tunnel like appearance you can hardly imagine 
+what kind of animal would be stupid enough to allow itself to get trapped in 
+here. From here the trail circles to the west and to the north.
+~
+27 0 0 0 0 3 255 0
+D0
+A small path circles to the north.
+~
+~
+0 0 2715
+D3
+A small path circles to the west, where an intersection with the main highway 
+can be seen.
+~
+~
+0 0 2713
+S
+#2715
+East Stony Path~
+     This thin trail encircles a small glade to the northwest. It is barely 
+kept up, very much unlike the main highway. Rocks and burnt out shells of trees
+lie along all sides of the path. The wind having blown smaller twigs and rocks 
+into the path itself. It would appear to be some sort of game or hunting trail.
+Though with the size of the stones along the path, some larger then a giant, 
+which give the trail an almost tunnel like appearance you can hardly imagine 
+what kind of animal would be stupid enough to allow itself to get trapped in 
+here. From here the trail circles to the north and to the south.
+~
+27 0 0 0 0 3 255 0
+D0
+A small path circles to the north.
+~
+~
+0 0 2716
+D1
+A large stone with a crack in it blocks the east side of the path.
+~
+stone boulder rock~
+2 2701 2722
+D2
+A small path circles to the south.
+~
+~
+0 0 2714
+S
+#2716
+Northeast Stony Path~
+     This thin trail encircles a small glade to the northwest. It is barely 
+kept up, very much unlike the main highway. Rocks and burnt out shells of trees
+lie along all sides of the path. The wind having blown smaller twigs and rocks 
+into the path itself. It would appear to be some sort of game or hunting trail.
+Though with the size of the stones along the path, some larger then a giant, 
+which give the trail an almost tunnel like appearance you can hardly imagine 
+what kind of animal would be stupid enough to allow itself to get trapped in 
+here. From here the trail circles to the west and to the south.
+~
+27 0 0 0 0 3 255 0
+D2
+A small path circles to the south.
+~
+~
+0 0 2715
+D3
+A small path circles to the west.
+~
+~
+0 0 2717
+S
+#2717
+North Stony Path~
+     This thin trail encircles a small glade to the northwest. It is barely
+kept up, very much unlike the main highway. Rocks and burnt out shells of trees
+lie along all sides of the path. The wind having blown smaller twigs and rocks
+into the path itself. It would appear to be some sort of game or hunting trail.
+Though with the size of the stones along the path, some larger then a giant,
+which give the trail an almost tunnel like appearance you can hardly imagine
+what kind of animal would be stupid enough to allow itself to get trapped in
+here. From here the trail circles to the west and to the east.
+~
+27 0 0 0 0 3 255 0
+D1
+A small path circles to the east.
+~
+~
+0 0 2716
+D3
+A small path circles to the west.
+~
+~
+0 0 2718
+S
+#2718
+Northwest Stony Path~
+     This thin trail encircles a small glade to the northwest. It is barely
+kept up, very much unlike the main highway. Rocks and burnt out shells of
+trees lie along all sides of the path. The wind having blown smaller twigs
+and rocks into the path itself. It would appear to be some sort of game or
+hunting trail. Though with the size of the stones along the path, some larger
+then a giant, which give the trail an almost tunnel like appearance you can
+hardly imagine what kind of animal would be stupid enough to allow itself to
+get trapped in here. From here the trail circles to the east and to the south.
+~
+27 0 0 0 0 3 255 0
+D1
+A small path circles to the east.
+~
+~
+0 0 2717
+D2
+A small path circles to the south.
+~
+~
+0 0 2719
+S
+#2719
+West Stony Path~
+     This thin trail encircles a small glade to the northwest. It is barely
+kept up, very much unlike the main highway. Rocks and burnt out shells of
+trees lie along all sides of the path. The wind having blown smaller twigs
+and rocks into the path itself. It would appear to be some sort of game or
+hunting trail. Though with the size of the stones along the path, some larger
+then a giant, which give the trail an almost tunnel like appearance you can
+hardly imagine what kind of animal would be stupid enough to allow itself to
+get trapped in here. From here the trail circles to the south and to the
+north.
+~
+27 0 0 0 0 3 255 0
+D0
+A small path circles to the north.
+~
+~
+0 0 2718
+D2
+A small path circles to the south.
+~
+~
+0 0 2720
+S
+#2720
+Southwest Stony Path~
+     This thin trail encircles a small glade to the northwest. It is barely
+kept up, very much unlike the main highway. Rocks and burnt out shells of
+trees lie along all sides of the path. The wind having blown smaller twigs
+and rocks into the path itself. It would appear to be some sort of game or
+hunting trail. Though with the size of the stones along the path, some larger
+then a giant, which give the trail an almost tunnel like appearance you can
+hardly imagine what kind of animal would be stupid enough to allow itself to
+get trapped in here. From here the trail circles to the east and to the north.
+~
+27 0 0 0 0 3 255 0
+D0
+A small path circles to the north.
+~
+~
+0 0 2719
+D1
+A small path circles to the east.
+~
+~
+0 0 2713
+S
+#2721
+Temple of the Abyss~
+     The highway ends abruptly here, in a small glade. Large stones and burnt
+out trees stand guard around the perimeter, keeping safe this sacred place. 
+The ground here, is a polished black marble, made to reflect the night sky
+eternally. At first glance, the darkness of the surface seems perfect, but as
+you look more closely, you can see small white specks  of diamond sparkling
+within the surface. And after a time you come to realize that this is a
+perfect model of the night sky, the small dots being the stars. However,
+unlike the true celestial heavens, only the constellations of those gods of
+evil are represented here. This revelation sends shivers down your spine.
+~
+27 0 0 0 0 0 255 0
+D2
+The desolate highway tends the only path out of the clearing.
+~
+~
+0 0 2713
+D5
+In the very center of the marble surface, a small circle has been carved into
+the ground.
+~
+center circle floor marble~
+2 2702 2739
+E
+stars constellations~
+     Upon this model, only the gods of darkness are represented:
+	  Sargonnas       - God of Vengeance
+	  Morgion         - God of Disease, Decay and Plague
+	  Chemosh         - Lord of the Undead
+	  Zeboim          - Sea Queen
+	  Hiddukel        - God of Trickery and Deals
+	  Nuitari         - God of Evil Magic
+	 *Takhisis        - The Queen of Darkness, DragonQueen
+~
+S
+#2722
+Within The Stone~
+     The inside of this stone appears to be a cave that turns after a few feet
+from the entrance, and heads north into darkness. The tunnel extends much
+further then the outside of the stone ever possibly could in that direction.
+Perhaps it is just a trick of the geography for the tunnel does slope downwards
+at a rather extreme angle.
+     A dim light calls to you from the depths of the rough hewn tunnel
+flickering ominously in the distant cave. Even the dread, heated, light of the
+eternal summer noon's day outside looks more inviting.
+~
+27 12 0 0 0 2 255 0
+D0
+A faint flickering light can be seen in the depths of the tunnel.
+~
+~
+0 0 2723
+D3
+An opening in the cave wall to the west leads out, back to the main trail.
+~
+stone boulder rock~
+1 2701 2715
+S
+#2723
+Before the Gates~
+     The tunnel, which descended from above to the south, ends here before a
+large, heavy portal. The cave, lit by simple torches on either side of the
+large stone doorway, seems to absorb the dancing lights of the flames, as if
+torturing them. The portal itself is covered with runes and glyphs of ancient
+design, and though most are illegible, the serpents and the skeletal figures
+interwoven with the ominous scripts give you full warning that this gateway
+leads to a less then hospitable area. A small phrase along the side of the
+door appears to be written in a text that you can read.
+~
+27 8 0 0 0 2 255 0
+D2
+A steep tunnel leads back up to the surface
+~
+~
+0 0 2722
+D3
+A large stone portal, covered in ancient glyphs stands on the west wall.
+~
+portal stone gate door~
+1 -1 2724
+E
+phrase text writing~
+Looking at the door, this phrase can be discerned from the rest of the writing:
+     ...and in the cradle of evil's arms, only the strong are embraced.
+~
+S
+#2724
+Evil's Arms~
+     The moment you step through the doors into this labyrinth of tunnels
+which twist and turn mercilessly into the heart of the darkness, a feeling of
+loss settles over you. You turn around and look at the portal on the west wall
+several times, simply to reassure yourself that it is indeed still there. That
+escape is still possible. The door remains, however so does the overwhelming
+hopeless feeling. Tunnels lead off to the north and the west, quickly
+disappearing into darkness, and from the shadows of their openings you hear
+the rustles and hushed noises of others in the caves. You are not alone.
+~
+27 13 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2725
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2730
+S
+#2725
+Evil's Arms~
+     The caverns walls in these caves are completely smooth, as if they were
+subjected to an extreme heat, melting them centuries in the past only to have
+them cool into the high gloss finish. Sounds echo throughout the cavern, your
+own breathing heard as clearly as a spoken voice. In the center of the room,
+upon the floor lies a plaque with a single word written upon it.
+~
+27 9 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2726
+D1
+A tunnel leads north into the darkness.
+~
+~
+0 0 2727
+D2
+A tunnel leads south into the darkness.
+~
+~
+0 0 2724
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2730
+E
+plaque word floor~
+The plaque upon the floor reads: 
+			 -=- EVIL'S -=-
+~
+S
+#2726
+Evil's Arms~
+     The caverns walls in these caves are completely smooth, as if they were
+subjected to an extreme heat, melting them centuries in the past only to have
+them cool into the high gloss finish. Sounds echo throughout the cavern, your
+own breathing heard as clearly as a spoken voice. In the center of the room,
+upon the floor lies a plaque with a single word written upon it.
+~
+27 9 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2724
+D1
+A tunnel leads east into the darkness.
+~
+~
+0 0 2730
+D2
+A tunnel leads south into the darkness.
+~
+~
+0 0 2725
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2727
+E
+plaque word floor~
+The plaque upon the floor reads: 
+			 -=- EMBRACE -=-
+~
+S
+#2727
+Evil's Arms~
+     The caverns walls in these caves are completely smooth, as if they were
+subjected to an extreme heat, melting them centuries in the past only to have
+them cool into the high gloss finish. Sounds echo throughout the cavern, your
+own breathing heard as clearly as a spoken voice. In the center of the room,
+upon the floor lies a plaque with a single word written upon it.
+~
+27 9 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2730
+D1
+A tunnel leads east into the darkness.
+~
+~
+0 0 2726
+D2
+A tunnel leads south into the darkness.
+~
+~
+0 0 2724
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2728
+E
+plaque word floor~
+The plaque upon the floor reads: 
+			 -=- BEGINS -=-
+~
+S
+#2728
+Evil's Arms~
+     The caverns walls in these caves are completely smooth, as if they were
+subjected to an extreme heat, melting them centuries in the past only to have
+them cool into the high gloss finish. Sounds echo throughout the cavern, your
+own breathing heard as clearly as a spoken voice. In the center of the room,
+upon the floor lies a plaque with a single word written upon it.
+~
+27 9 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2726
+D1
+A tunnel leads east into the darkness.
+~
+~
+0 0 2727
+D2
+A tunnel leads south into the darkness.
+~
+~
+0 0 2729
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2731
+E
+plaque word floor~
+The plaque upon the floor reads: 
+			 -=- SWORD'S -=-
+~
+S
+#2729
+Evil's Arms~
+     The caverns walls in these caves are completely smooth, as if they were
+subjected to an extreme heat, melting them centuries in the past only to have
+them cool into the high gloss finish. Sounds echo throughout the cavern, your
+own breathing heard as clearly as a spoken voice. In the center of the room,
+upon the floor lies a plaque with a single word written upon it.
+~
+27 9 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2728
+D1
+A tunnel leads east into the darkness.
+~
+~
+0 0 2730
+D2
+A tunnel leads south into the darkness.
+~
+~
+0 0 2724
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2726
+E
+plaque word floor~
+The plaque upon the floor reads: 
+			 -=- THE -=-
+~
+S
+#2730
+Evil's Arms~
+     The caverns walls in these caves are completely smooth, as if they were
+subjected to an extreme heat, melting them centuries in the past only to have
+them cool into the high gloss finish. Sounds echo throughout the cavern, your
+own breathing heard as clearly as a spoken voice. In the center of the room,
+upon the floor lies a plaque with a single word written upon it.
+~
+27 9 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2726
+D1
+A tunnel leads east into the darkness.
+~
+~
+0 0 2724
+D2
+A tunnel leads south into the darkness.
+~
+~
+0 0 2724
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2729
+E
+plaque word floor~
+The plaque upon the floor reads: 
+			 -=- WITH -=-
+~
+S
+#2731
+Evil's Arms~
+     The caverns walls in these caves are completely smooth, as if they were
+subjected to an extreme heat, melting them centuries in the past only to have
+them cool into the high gloss finish. Sounds echo throughout the cavern, your
+own breathing heard as clearly as a spoken voice. In the center of the room,
+upon the floor lies a plaque with a single word written upon it.
+~
+27 9 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2728
+D1
+A tunnel leads east into the darkness.
+~
+~
+0 0 2732
+D2
+A tunnel leads south into the darkness.
+~
+~
+0 0 2729
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2725
+E
+plaque word floor~
+The plaque upon the floor reads: 
+			 -=- DESCENT -=-
+~
+S
+#2732
+Evil's Embrace~
+     Stepping into the room, you find yourself in the center of Evil's Arms.
+Cradled in the very heart of the maze, passages lead out in the 4 cardinal
+directions, letting you back into the labyrinth. However, it is what is in 
+the very center of this room that catches your attention. Upon the floor is 
+a carving. A circle of five serpents, each consuming the tail of the one in 
+front of itself forming a complete circle. In the center of the carving, 
+however, is the sword. Thrust firmly into the stone, the sword cracks the 
+very floor, splintering it to the limits of the carving.
+~
+27 9 0 0 0 2 255 0
+D0
+A tunnel leads north into the darkness.
+~
+~
+0 0 2727
+D1
+A tunnel leads east into the darkness.
+~
+~
+0 0 2725
+D2
+A tunnel leads south into the darkness.
+~
+~
+0 0 2730
+D3
+A tunnel leads west into the darkness.
+~
+~
+0 0 2731
+D5
+The floor about the sword looks rather untrustworthy.
+~
+to~
+0 -1 2733
+S
+#2733
+The Sword's Descent~
+    Chill winds of unbearable cold whip past you as you find yourself
+plummeting down a pit of blackness. There is no light. As far as you can tell
+your light source can only illuminate yourself, for the walls of the pit, if
+there are any, are far beyond the reach of the light.
+~
+27 13 0 0 0 0 255 0
+D5
+Well, seeing as you are falling down it is the only way you can go.
+~
+falls down~
+0 0 2734
+S
+Z 14
+#2734
+The Sword's Descent~
+    Unbearably you still find yourself falling. The further you go, the colder
+it becomes. Looking down into the pit, you can not as yet see any end in to
+your fall in sight.
+~
+27 9 0 0 0 0 255 0
+D5
+Yup.. that's down, and it's where you are going, inevitably.
+~
+falls down into the black void.~
+0 0 2735
+S
+Z 14
+#2735
+The Sword's Descent~
+    Further and further you fall into the ever more chilling void. Far down
+below you think you can see an faint light. But perhaps it is just your
+imagination and wishful thinking.
+~
+27 9 0 0 0 0 255 0
+D5
+Your plummeting seems endless. The light you see below is likely not real.
+~
+falls down into the black void.~
+0 0 2736
+S
+Z 14
+#2736
+The Sword's Descent~
+    The chill that surrounds freezes you to the bone. But there is hope in
+sight. The light that you saw earlier is indeed real. And though it is faint
+and flickering, the light is just below you.
+~
+27 9 0 0 0 0 255 0
+D5
+Down below you can see the flickering light.
+~
+~
+0 0 2737
+S
+Z 14
+#2737
+Tunnel of Night~
+    A light whistle echoes through the tunnel which extends into darkness to
+the south. It is caused by the wind that blows down from the large opening in
+the ceiling. The walls that lead up are unclimbable, though to the south you
+can barely discern a lone, shimmering figure.
+~
+27 9 0 0 0 0 255 0
+D2
+A shimmering light, in the form of a man emanates from south of here.
+~
+~
+0 0 2738
+S
+#2738
+Chamber of the Night Guardian~
+    A lone, shimmering figure stalks this portion of the hallway. From him,
+you can feel a certain draining power. Set here, in this hallway to guard
+the way, you can see the blood and bones of all those who have tried to pass
+him before, and failed.
+~
+27 13 0 0 0 0 255 0
+D0
+The tunnel continues into darkness to the north.
+~
+~
+0 0 2737
+D2
+The tunnel continues into darkness to the south.
+~
+~
+0 0 2739
+S
+#2739
+Tunnel of Night~
+     The draining feeling that you felt to the north, is still present here
+in this end of the tunnel. Along the rough rock walls here is a ladder of
+sorts, carved right into the wall with rough hand holds. Looking up, to the
+top of the ladder you can see a type of hatch with a keyhole. The tunnel also
+continues to the south, where you can see many figures moving around, and
+bustling.
+~
+27 9 0 0 0 0 255 0
+D0
+The tunnel continues into darkness to the north.
+~
+~
+0 0 2738
+D2
+To the south, the tunnel seems to widen into a room where you can see many,
+many figures moving around.
+~
+~
+0 0 2740
+D4
+A rough, carved ladder leads up to a hatch in the ceiling with a keyhole.
+~
+hatch~
+2 2702 2721
+S
+#2740
+The School of Darkness~
+     Having penetrated the outer defenses of this temple of darkness, you
+find yourself in what looks to be an initiation chamber of sorts. The rough
+walls of the passageway to the north, smooth and even out into sculpted walls
+of dark design. Pillars decorate the hallway, and rise into the ceiling.
+Studying here are many acolytes of the dark queen, and they don't appear to
+be very happy to see you.
+~
+27 9 0 0 0 0 255 0
+D0
+The tunnel turns back into a rough hewn passage to the north.
+~
+~
+0 0 2739
+D1
+The temple hall continues to the east.
+~
+~
+0 0 2755
+D3
+The temple hall continues to the west.
+~
+~
+0 0 2741
+S
+#2741
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. To the south you think you can see a faint red glow.
+~
+27 13 0 0 0 0 255 0
+D1
+The temple hall continues to the east.
+~
+~
+0 0 2740
+D2
+The temple hall continues to the south. A faint red glow can be seen.
+~
+~
+0 0 2742
+S
+#2742
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. Upon the floor, or more or less, within the floor here
+you can see a gem of inestimable value. It lies there, unguarded, and looks
+as though it could easily be pried loose.
+~
+27 9 0 0 0 0 255 0
+D0
+The temple hall continues to the north.
+~
+~
+0 0 2741
+D3
+The temple hall continues to the west.
+~
+~
+0 0 2743
+S
+#2743
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. To the east, you can see a faint red glow.
+~
+27 9 0 0 0 0 255 0
+D1
+The temple hall continues to the east. A faint red glow is seen.
+~
+~
+0 0 2742
+D2
+The temple hall continues to the south.
+~
+~
+0 0 2744
+S
+#2744
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. Upon the west wall, however, a door, darker then even
+the black of the walls of the temple, stands out against the darkness.
+~
+27 9 0 0 0 0 255 0
+D0
+The temple hall continues to the north.
+~
+~
+0 0 2743
+D2
+The temple hall continues to the south.
+~
+~
+0 0 2745
+D3
+A large black door.
+~
+door large black~
+1 0 2756
+S
+#2745
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. To the east, you can detect a faint green glow.
+~
+27 9 0 0 0 0 255 0
+D0
+The temple hall continues to the north.
+~
+~
+0 0 2744
+D1
+The temple hall continues to the east. You can detect a faint green glow.
+~
+~
+0 0 2746
+S
+#2746
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. Upon the floor, or more or less, within the floor here
+you can see a gem of inestimable value. It lies there, unguarded, and looks
+as though it could easily be pried loose.
+~
+27 9 0 0 0 0 255 0
+D2
+The temple hall continues to the south.
+~
+~
+0 0 2747
+D3
+The temple hall continues to the west.
+~
+~
+0 0 2745
+S
+#2747
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. To the north, you can detect a fain green glow.
+~
+27 9 0 0 0 0 255 0
+D0
+The temple hall continues to the north, where you can see a faint green light.
+~
+~
+0 0 2746
+D1
+The temple hall continues to the east.
+~
+~
+0 0 2748
+S
+#2748
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. However, the southern and northern walls of this part
+of the hall are notably different. On the southern wall is a large black door,
+while to the north a large iron gate blocks further passage, though you can
+feel a great coldness emanating from that direction.
+~
+27 9 0 0 0 0 255 0
+D0
+A large iron gate, blocks passage into the cold hall to the north.
+~
+gate iron~
+2 2703 2759
+D1
+The temple hall continues to the east.
+~
+~
+0 0 2749
+D2
+A large black door sits in the center of the southern wall.
+~
+door black~
+1 0 2758
+D3
+The temple hall continues to the west.
+~
+~
+0 0 2747
+S
+#2749
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. To the north, you can detect a faint blue glow.
+~
+27 9 0 0 0 0 255 0
+D0
+The temple hall continues to the north. You can detect a faint blue glow.
+~
+~
+0 0 2750
+D3
+The temple hall continues to the west.
+~
+~
+0 0 2748
+S
+#2750
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. Upon the floor, or more or less, within the floor here
+you can see a gem of inestimable value. It lies there, unguarded, and looks
+as though it could easily be pried loose.
+~
+27 9 0 0 0 0 255 0
+D1
+The temple hall continues to the east.
+~
+~
+0 0 2751
+D2
+The temple hall continues to the south.
+~
+~
+0 0 2749
+S
+#2751
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. To the west, you can detect a faint blue glow.
+~
+27 9 0 0 0 0 255 0
+D0
+The temple hall continues to the north.
+~
+~
+0 0 2752
+D3
+The temple hall continues to the west. You can detect a faint blue glow.
+~
+~
+0 0 2750
+S
+#2752
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. However, in the this section of the hallway, there is
+a large black door upon the the eastern wall.
+~
+27 9 0 0 0 0 255 0
+D0
+The temple hall continues to the north.
+~
+~
+0 0 2753
+D1
+A large black door on the east wall.
+~
+door black~
+1 0 2757
+D2
+The temple hall continues to the south.
+~
+~
+0 0 2751
+S
+#2753
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. To the west, you can detect a faint white glow.
+~
+27 9 0 0 0 0 255 0
+D2
+The temple hall continues to the south.
+~
+~
+0 0 2752
+D3
+The temple hall continues to the west. You can detect a faint white glow.
+~
+~
+0 0 2754
+S
+#2754
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. Upon the floor, or more or less, within the floor here
+you can see a gem of inestimable value. It lies there, unguarded, and looks
+as though it could easily be pried loose.
+~
+27 9 0 0 0 0 255 0
+D0
+The temple hall continues to the north.
+~
+~
+0 0 2755
+D1
+The temple hall continues to the east.
+~
+~
+0 0 2753
+S
+#2755
+Dark Temple~
+     The dark hallway of this temple of evil, extends on and on into the
+depths of the ground. To the south you think you can see a faint white glow.
+~
+27 9 0 0 0 0 255 0
+D2
+The temple hall continues to the south. You can detect a faint white glow.
+~
+~
+0 0 2754
+D3
+The temple hall continues to the west.
+~
+~
+0 0 2740
+S
+#2756
+The Dragon Room~
+     All along the walls of this room, are the trophies and treasures of a
+life's worth of plundering and conquering as the general of the dragon armies
+for the dark queen. Now, Ariakus has been posted here to guard one of the
+three keys to her realm.
+~
+27 13 0 0 0 0 255 0
+D1
+A large black door adorns the east wall.
+~
+door black~
+1 0 2744
+S
+#2757
+The Magic Room~
+    It is as if the mists of the magic, and arcane power of the world have
+focused and accumulated in this room. The knowledge, and the self-sacrifice
+of a life devoted to magic and the dark arts have earned Fistandantilus a
+place here, to guard of the keys to realm of the dark queen.
+~
+27 13 0 0 0 0 255 0
+D3
+A large black door adorns the west wall.
+~
+door black~
+1 0 2752
+S
+#2758
+The Distorted Room~
+    The occupant of this room is one of the three ring keepers of the dark
+queen. But this fact seems almost secondary to the room itself, if indeed it
+is a room. The dimensions of the room, twist and convulse warping by some
+unknown power.
+~
+27 13 0 0 0 0 255 0
+D0
+A large black door adorns the north wall.
+~
+door black~
+1 0 2748
+S
+#2759
+The Corridor of Cold~
+    A strong, cold wind blows south through the gate to north, chilling you
+to the bone. But it is more then this. The walls of this very place seem to
+draw the life from your body, making you colder then you can ever remember.
+The gate on the north wall almost seems to warn you, more then block your way.
+~
+27 9 0 0 0 0 255 0
+D0
+A gate of iron blocks the way northward.
+~
+gate iron~
+2 2704 2760
+D2
+The gate to the south lies open.
+~
+~
+0 0 2748
+S
+#2760
+The Corridor of Cold~
+    The winds from the north blow ever stronger as you proceed through each
+gate. Through the gate to the north, you can hear the whistle of the whatever
+is letting the wind into this place. However, there is still one last gate
+barring the way.
+~
+27 9 0 0 0 0 255 0
+D0
+A gate of iron blocks the way northward.
+~
+gate iron~
+2 2705 2761
+D2
+The gate to the south lies open.
+~
+~
+0 0 2759
+S
+#2761
+The Pit of Despair~
+    A wind, colder than anything you have ever experienced comes up from out
+of pit before you. Looking down into the pit, all you can see is darkness..
+despair.. endless.. wait!
+    A very very very faint light can be seen at the bottom of the pit, far,
+far down. The only way to get to it, it seems is to jump in. But who knows
+what you will encounter down there.
+~
+27 9 0 0 0 0 255 0
+D2
+The gate to the south lies open.
+~
+~
+0 0 2760
+D5
+The pit of the despair.. icky poo!
+~
+into the Pit of Despair! Ta ta!~
+0 0 2762
+S
+#2762
+Halls of the Pantheon~
+      You now walk the halls of the gods of evil. The chill winds that chilled
+your bones, now chills your heart. For this is the very heart of evil. All
+that opposes good are housed somewhere in this place. The thought makes your
+heart race, and also scares you to the bone. For these gods are not ready to
+be ousted from their thrones. The pit you fell down looms above, unclimbable.
+~
+27 520 0 0 0 0 255 0
+D0
+To the north, you see a large chamber.
+~
+~
+0 0 13447
+D2
+The corridor extends to the south.
+~
+~
+0 0 2763
+S
+#2763
+Intersection of the Halls of the Pantheon~
+     The evil of this place is almost overwhelming. Although to the north, the
+hallway seems structured, recognizable, once you start to penetrate this
+domain, all sense of familiarity, of security is lost. The walls, twist and
+mishape, blending away until all that you have is a sense of ability to move
+in directions without knowing why.
+~
+27 520 0 0 0 0 255 0
+D0
+You feel you can move to the north.
+~
+~
+0 0 2762
+D1
+You feel you can move to the east.
+~
+~
+0 0 2766
+D2
+You feel you can move to the south.
+~
+~
+0 0 2765
+D3
+You feel you can move to the west.
+~
+~
+0 0 2764
+S
+#2764
+The Halls of the Pantheon~
+    You move westward, as far as you can, sensing no other direction to go but
+back the way you came.  On and on you move, time losing all sense or meaning
+until the 'hall' you are walking down ends. Not because you see the walls, but
+simply because you feel you cannot go on. And as you sit there and rest,
+considering going back, two doors, both black as midnight appear on the west
+and the south walls.
+~
+27 520 0 0 0 0 255 0
+D1
+You feel you can move to the east.
+~
+~
+0 0 2763
+D2
+The door to the south is black as midnight. In the center of the door is a
+symbol that shifts and contorts, first being a upside-down axe, the shifting
+into a rat's claw, and finally turning into a hood with two red eyes that
+stare back at you with pure hatred.
+~
+door black~
+2 2706 2768
+D3
+The door to the west is black as midnight. In the center of the door is a
+symbol that shifts and contorts, first representing a blood red fist, then
+changing into a stylized red condor.
+~
+door black~
+2 2706 2767
+S
+#2765
+The Halls of the Pantheon~
+    You move to the south, through the evilness until you finally reach a
+point where you must rest. As you sit for a moment, collecting you breath
+and your wits, two doors, on opposite sides of the 'hall' materialize. Though
+you may still continue to the north, and the south, you feel and very
+distinct evilness, even more then the rest of the place, emanating from the
+south.
+~
+27 520 0 0 0 1 255 0
+D0
+You feel you can move to the north.
+~
+~
+0 0 2763
+D1
+The door to the east is black as midnight. In the center of the door is a
+symbol, a simple black sphere that spins slowly through the emptiness of the
+door.
+~
+door black~
+2 2706 2772
+D2
+You feel you can move to south, though the sense of evil you feel makes you
+think twice.
+~
+~
+0 0 2773
+D3
+The door to the west is black as midnight. In the center of the door is a
+symbol that shifts and contorts, showing you different angles of a nasty
+turtle shell pattern.
+~
+door black~
+2 2706 2771
+S
+#2766
+The Halls of the Pantheon~
+    After moving a long distance through the evilness of these halls, you
+come to a 'turn'. For the feel that this place gives you, lets you know that
+you can no longer move freely to the east. However, even as you stand here a
+large black door phases into existence upon the east 'wall'. The corridor
+seems to extend to the south as well, though the feel is distinctly different.
+~
+27 520 0 0 0 0 255 0
+D1
+The door to the east is black as midnight. In the center of the door is a
+symbol, that of a yellow skull that grins at you as it peers into your soul.
+~
+door black~
+2 2706 2769
+D2
+You feel you can move to the south, though the way is distinctly different.
+~
+~
+0 0 2770
+D3
+You feel you can move to the west.
+~
+~
+0 0 2763
+S
+#2767
+The Realm of Sargonnas~
+    Little is known of Takhisis's consort. Perhaps the Queen of Darkness casts
+intentional shadows over him. Thereby, Takhisis keeps him obscure, little
+worshiped, non-threatening. He is the brooding, sometime explosive god of
+vengeance, rage, deserts and volcanos. And now that you have disturbed his
+plotting, he is the god that will bring about your demise!
+~
+27 8 0 0 0 0 255 0
+D1
+A black door lies on the east wall.
+~
+door black~
+2 2706 2764
+S
+#2768
+The Realm of Morgion~
+     Morgion, god of disease and decay, refuses the company of the other gods
+and does not discuss his plans with them. Alone, Morgion broods here or in a
+bronze tower at the edge of the Abyss, keeping thoughts secret from all but
+his loyal minions. Those unfortunate to encounter him, soon meet their death,
+as you are about to.
+~
+27 8 0 0 0 0 255 0
+D0
+A black door lies on the north wall.
+~
+door black~
+2 2706 2764
+S
+#2769
+The Realm of Chemosh~
+     In the Age of Dreams, Chemosh, lord of Undead, was drawn by Takhisis to
+this realm. She needed a lieutenant to marshal the legions of death.  As lord
+of false redemption, Chemosh offers 'eternal life': recipients spend
+immortality in an undead and eternally corrupted body. Chemosh rarely explains
+this when making a pact with Evil undead. Before they can reconsider, they 
+find themselves minions of Chemosh. To you who have disturbed his rest, he 
+offers only damnation.
+~
+27 8 0 0 0 0 255 0
+D3
+A black door lies on the west wall.
+~
+door black~
+2 2706 2766
+S
+#2770
+The Halls of the Pantheon~
+     This portion of the hall seems 'thinner' then the rest, in fact, you soon
+find yourself totally isolated from your companions. And just as the complete
+terror of being alone in this evil place starts to overwhelm you, a door of
+black midnight appears on the south wall, offering haven.
+~
+27 520 0 0 0 0 255 0
+D0
+You feel you can move to the north.
+~
+~
+0 0 2766
+D2
+The door to the south is black as midnight. In the center of the door is a
+symbol that shifts and contorts, showing the image of a broken set of
+merchant's scales that shift in weight from side to side.
+~
+door black~
+2 2706 2799
+S
+#2771
+The Realm of Zeboim~
+     Zeboim the Sea Queen is the impetuous and volatile daughter of Takhisis
+and Sargonnas. Her unpredictable tempers make her a dangerous foe and a lethal
+friend. As creator of the sea, tempests, and weather, Zeboim receives petitions
+and sacrifices from seamen wishing good weather and safe journey. Though some
+have managed to avoid her rage, you have caught her in a bad mood and have no
+such luck.
+~
+27 8 0 0 0 0 255 0
+D1
+A door lies on the east wall.
+~
+door black~
+2 2706 2765
+S
+#2772
+The Realm of Nuitari~
+     Nuitari, god of black magic, drew his Evil nature from his parents,
+Takhisis and Sargonnas. Like the other gods of magic, Nuitari left his home
+plane to orbit this realm from the Ethereal plane. Now, found here in his
+avatar form, he is none too happy to be disrupted in his studying.
+~
+27 8 0 0 0 0 255 0
+D3
+A door of black midnight lies on the west wall.
+~
+door black~
+2 2706 2765
+S
+#2773
+The Altar of the Dark Queen~
+     The haze of evil that composes the hallways slowly coalesces into a more
+solid, familiar type of terrain. Unfortunately, the relief of solid ground 
+does not last long, for you find yourself in the most horrific of places 
+imaginable. An altar, made of bone and gold, and serpent skin, lies blood 
+stained in the center of the room. Standing in back of it is a portal, the 
+likes of which you've never seen. Five dragon heads, form a circle around a 
+central mirror. Each head a different color, black, white, green, blue and 
+red, and each caught in act of what looks to be a scream of exquisite agony. 
+Looking through the mirror, you see a land that twists and convulses, 
+ever-changing, chaotic. You look upon the Abyss, the home of the Dark Queen 
+herself.
+~
+27 8 0 0 0 0 255 0
+D0
+The corridor of evil lies back to the north.
+~
+~
+0 0 2765
+D2
+&07A portal to the lowest level of the chaotic plane of the &11Abyss&00 stands
+on the south wall. Circular in shape, its frame is made of the ornamental 
+heads of all the evil dragons, mouths open, as if screaming at you in hate.
+~
+portal~
+2 2707 2776
+S
+#2774
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097665 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2794
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2775
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2779
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2778
+S
+#2775
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097160 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2795
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2776
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2780
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2774
+S
+#2776
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2796
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2777
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2781
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2775
+S
+#2777
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097672 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2797
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2778
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2782
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2776
+S
+#2778
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097664 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2798
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2774
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2783
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2777
+S
+#2779
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097408 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2774
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2780
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2784
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2783
+S
+#2780
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097664 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2775
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2781
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2785
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2779
+S
+#2781
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2776
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2782
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2786
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2780
+S
+#2782
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2777
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2783
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2787
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2781
+S
+#2783
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2778
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2779
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2788
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2782
+S
+#2784
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 96 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2779
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2785
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2789
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2788
+S
+#2785
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097344 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2780
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2786
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2790
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2784
+S
+#2786
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2781
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2787
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2791
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2785
+S
+#2787
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2782
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2788
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2792
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2786
+S
+#2788
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097952 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2783
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2784
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2793
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2787
+S
+#2789
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 6291456 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2784
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2790
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2794
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2793
+S
+#2790
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097184 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2785
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2791
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2795
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2789
+S
+#2791
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2786
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2792
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2796
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2790
+S
+#2792
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2787
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2793
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2797
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2791
+S
+#2793
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097473 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2788
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2789
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2798
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2792
+S
+#2794
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097160 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2789
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2795
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2774
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2798
+S
+#2795
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2790
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2796
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2775
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2794
+S
+#2796
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097160 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2791
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2797
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2776
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2795
+S
+#2797
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2792
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2798
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2777
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2796
+S
+#2798
+The Abyss~
+    The abyss is a plane of sheer chaos, whose only method of madness can 
+discerned by it's ruler, the Queen of Darkness. The terrain in front of your
+eyes wavers even as you watch from, tropical forest, to desert, to freezing
+tundra, and yet what you see never truly matches what you feel you are 
+standing in. Going is difficult at best.
+~
+27 2097152 0 0 0 0 255 0
+D0
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2793
+D1
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2794
+D2
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2778
+D3
+The Abyss continues infinitely in all directions.
+~
+~
+0 0 2797
+S
+#2799
+The Realm of Hiddukel~
+     Hiddukel, god of ill-gotten wealth and deals, is patron god of Evil 
+businessmen and dishonest merchants. A cunning deal maker, Hiddukel trades in 
+living souls. Some say Hiddukel can even barter with Takhisis and come out 
+ahead. In fact, even now if you could check his list, he even has a deal for 
+you.
+~
+27 0 0 0 0 0 255 0
+D0
+A large black door lies on the north wall.
+~
+door black~
+2 2706 2770
+S
+$~

@@ -1,0 +1,8 @@
+1 pick door e;pick door w;pick door n;pick door s;pick door u;pick door d
+cw clanwho
+gt gt &06*&00&03$* &06*&00
+say say &06*&00&03$* &06*&00
+sense cast 'sense' 
+track track $*
+wanderer title :: &09Wanderer&00
+afk toggle afk;norec;nosum;gt Toggling Nosum/Norec.

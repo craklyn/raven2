@@ -1,0 +1,159 @@
+A summary of all the previous bugs can be found here.  
+This file made 12/04/05 by Craklyn:
+
+Memnoch  (Mar  4) [39837] charmed mobs need to obey weapon restrictions
+Nihilanthus (Jul 10) [ 6603] someone blinded is able to see skill evasions, meaning the person that attempted and the person that evaded are seen by a blind person in the room
+Janthalanus (Jul 20) [ 8825] need to cap off "You can only quaff potions." when quaffing non-potion items with a \r\n
+Sratk    (Jul 24) [ 6934] Mobs in a shadow sphere, although you cannot see them or assist somebody fighting them, it has a message to the order of Oblena : AAAAHHHHHHHH! Real Forsaken Monster is here, fighting an Assassin from hell!(Glowing) 
+Sratk    (Jul 24) [ 6938] It reveals the name of invisible mobs on failed circles
+Sratk    (Jul 24) [23370] Evaded fists show an invisible mob's name to a 3rd party
+Nevyn    (Jul 24) [38114] the bracket after not learned is white
+Denigrath (Aug 16) [18001] art of the wind kicks in even when utopia is paralyzed
+Janthalanus (Oct  4) [ 8809] backstab still has chance of failure on a sleeping mob?
+Enki     (Oct 16) [ 1204] hunted bugs... trolls eating eq while hunted...DTing and summoning... maybe hunted cant enter DTs
+Cleophus (Apr  2) [ 1325] Your black dart pierces the bandit guard's eye and enters him brain...
+Veeshan  (Jan 20) [ 6259] Amara shoudlnt sink in water!
+Bvlgari  (Mar  9) [38313] questmaster in cleric guild should have no strength problems, shop keepers should not be limited by strength. Maybe a room inwhich the shop keepers list eq from would probably fix this problem.
+Brutal   (Mar 12) [19929] You put your finger to you lips, SHH!
+Tomi     (Jun 19) [ 2302] excuse the formating:  You obliterate the Weeping Willow with your deadly pierce. The Weeping Willow has quite a few wounds. You cower behind the Weeping Willow!.....yes, it is strange. not very important, but strange nonetheless
+Ralen    (Aug 27) [34877] If my blade is envenomed in a suffer room, I get the blinded poisoned and paralyzed. it also removeds the envenom from my dagger. surely this isnt right?
+Rincewind (Sep  4) [ 6384] the room after the coral gate in sellatr is apparently coded to misport. there's been talk of it being a "looting spot" and whatnot
+Ava      (Sep 30) [15825] I thought one didn't acquire a killer flag when they attacked a killer - shouldn't it be the same for casting?
+Rincewind (Oct  8) [18001] If you have excess mana, as in 1000/500, convert does not drop your current mana down to your maximum
+Telchar  (Oct 12) [38608] having a pet steal from a player does not flag the master
+Tomi     (Oct 22) [10930] a failed cut throat attempt generates no message, just does damage
+Asmana   (Oct 27) [35702] a Mermaid Guard says, 'fat chance air-breather!'..I'm an Amara! Shouldn't I be allowed through? :( (the area is Underwater Haven.)
+Tomi     (Nov  2) [19302] um, i just got naughty naughtied out of the ether because i have a thief flag
+Azrael   (Nov  4) [35727] Im losing moves again in the UW Haven. Dunno what to make of that...
+Soth     (Nov  6) [ 2926] suffer room makes undead not lose hp
+Soth     (Nov  7) [34085] blind mobs can heal each other
+Nfora    (Nov 15) [38008] I was attacked by a summoned monster, and when i killed it i gained a killer flag. I did not initiate combat.
+Jimmy    (Nov 20) [ 2646] You manage to evade a valley elf's kick - when blind
+Rincewind (Dec  7) [19302] assassins get disable trap 26 levels before thieves. that's a bug if i've ever seen one.
+Zechariah (Dec  8) [18053] The Samsera map is outdated
+Telchar  (Dec 11) [18658] You join the fight! Telchar assists you!
+Banx     (Dec 11) [39644] just wondering why it takes vig when on the reggid ocean thought amara didn't use vig on water thats it nothing big thanx
+Zechariah (Dec 12) [ 6386] in aliases, the $* adds a space before the arguement
+Zarathustra (Dec 25) [13501] calm can -never- initiate combat with another player. there is no reason for it to give a KILLER flag then. fix that, yet make it still uncastable in peace rooms
+Zechariah (Dec 28) [ 6959] When a sheild cracks as I get hurt from poison, it displays the message in third and first person to me
+Zechariah (Jan  2) [21932] evaded kicks will deplay the character's names to bilnded players
+Felicia  (Jan  9) [18146] you shouldn't be able to fish while blinded
+Sratk    (Jan 15) [18001] After the command shadowstep, if you include more than one space between it and the dirction, it fails to work.  For example "Shadowstep  west".  This is a particular problem with the alias $*, which includes an extra space before the input
+Veeshan  (Jan 22) [19357] if you try and go into a tunnel room that is blocked by a mob and has a closed door, it tells you there is no room(it reads that the room is blocked before it reads that the door is barring your way)
+Nagash   (Jan 23) [ 5113] message for adrenaline is a little messed up... it gives the person killed the message it should give the killer
+Banx     (Jan 24) [10700] didn't realize that i didn't prac mug yet i could still mug didn't know what thanx for you time
+Prettz   (Feb  2) [18001] sometimes the shou veteran skill takes vigor, sometimes it doesn't, success, failure, it's all kindof iffy
+Nfora    (Feb  2) [19382] in do_score , the Status display should read closer to "Status[%7d]" then "Status[%9d]"
+Zechariah (Apr 13) [ 9097] wierd phenomenon occurs with faeries and their max str.  Specifically they can get up to 18str, and if the strength spell is applied to them past that, they fall back down to 13, which is what they 'should' be, according to help files
+Rincewind (May  4) [19302] yeah, sacrifice still puts you into the negatives instead of killing you.
+Rincewind (May 10) [36581] mobs can avoid dust when paralyzed
+Zechariah (Jul 12) [19967] Let's say I am leading a group.  I have autogold on.  Someone else in my group kills a mob, and i should autotake the gold.  If that someone else is blind, I don't autogold.
+Tezek    (Aug  1) [40010] sw room of "the painted boat" area of Samsera has erroneous door on west wall
+Sratk    (Sep 16) [18001] Pets can shadowjump, although they don't move anywhere.  It still is a bug though that they should even be able to try it.
+Tomi     (Sep 21) [18199] the practice command breaks hide for some reason
+Tomi     (Sep 27) [20315] dunno if it's a bug or not, but if you fail cut throat, you end up getting first attack each round
+Raskolnikov (Oct  4) [18001] When wearing a main gauche, you cannot initiate the skill sneak
+Sratk    (Oct  6) [ 3003] You can quit out while dance of dreamed, and when you reenter you'll be awake and can't have dance of dreams cast on you again
+Sratk    (Oct 12) [18001] If a mount 'evades' a trip, it still throws the rider.
+Zechariah (Oct 14) [18001] Pets can fail a shadowmeld
+Zechariah (Oct 19) [ 2927] suffer rooms can knock you unconscious with nox skin
+Sratk    (Oct 19) [18102] Your blood pumps with an adrenaline rush.  -- I got this message when killed by an assassin
+Telchar  (Oct 30) [18001] befriend can be used in peace rooms, this may or may not have been intended but any plant clanguards could be moved as is
+Tomi     (Nov  7) [ 7815] apprently the ranger veteran/legend? skill befriend works in safe rooms
+Augustine (Nov 25) [18667] most of these tombs dont have anything in them. Description doesn't fit
+Augustine (Nov 28) [13041] if you look through the window the location of Midguard is wrong in this room.
+Augustine (Nov 28) [13064] another undefined mob in this room
+Augustine (Nov 28) [13125] shouldnt the Necromancer in this room be a "necromancer" and not a mage?
+Augustine (Dec  4) [15435] desc for patron doesn't match the area
+Nfora    (Dec 31) [ 5541] clanwho is inaccessible when paralyzed, but regular who isn't.
+Augustine (Jan  8) [24549] If your looking at the bug report read THIS. This zone is incomnplete and has no mobs that load in it. Very sloppy, it should not be left in the game.
+Zechariah (Jan 17) [20097] there should be a newline characters after "But you are not the member of a team!"
+Zechariah (Jan 21) [18001] While we have new imms, I'd like to mention that Shadow step has about 5288925178 bugs associated with it.
+Zechariah (Jan 23) [18001] Wraithforms are brewable potions.
+Sratk    (Feb  2) [20198] undead players in flag games rot to death in jail.
+Tomi     (Feb  4) [ 7815] I don't know if it's been fixed yet, but for the newer equipment slots like ears and face, steal has a 100% success rate.
+Memnoch  (Feb 10) [22244] assassinate causes damage even on imm nohassle misses
+Tomi     (Feb 15) [18051] faerie permafly doesn't show up. i.e. it says i'm standing there when i have my about body off
+Augustine (Feb 20) [ 5057] mobs undefined and you cant kill them either
+Tomi     (Mar  1) [19315] disease can kill a faerie thief from full hp. i call foul
+Morlock  (Mar  2) [24260] when blind, and someone reports to the group you can still see who reports
+Mandorallen (Mar  3) [18001] selling multi scrolls will sell for the value of the first scroll
+Hibiki   (Mar  7) [10954] faeries still can get 18 str
+Morlock  (Mar 11) [18051] was blind as saw this A huge bear looks at Cojiro and starts to slobber
+Mandrake (Mar 14) [ 6389] butcher    buy        calm       camp       capture    cast       
+Tomi     (Mar 25) [19315] If a necromancer ungroups a charmed corpse before it falls apart, the falling apart thingy is disabled.
+Deception (Mar 31) [18001] in the massage self command, practice is spelled wrong, practise
+Telchar  (Apr  4) [19315] disarming doesn't give you a killer flag, can end up costing the other person gobs of xp
+Nfora    (Apr  8) [40175] the messages for doorbash are really awkward
+Marlash  (Apr 10) [19398] your able to transmigrate into clan halls.
+Vine     (Apr 13) [19054] craps fleeing after i entangle it
+Nfora    (Apr 15) [18102] norecall is not listed on the toggle command
+Zechariah (Apr 24) [ 2013] sometimes it's possible to assist yourself with the assist (no target) command
+Slayn    (Apr 24) [18199] Problem with Doom Bolt: I was able to strike Acadia and Astyanax in the arena with Doom Bolt and walk away
+Zechariah (Apr 30) [40325] You can see the message The door is opened from the other side. while asleep
+Tomi     (May  7) [27316] the suffer room script causes noxious skin to affect the person who has it for some reason
+Morlock  (May 24) [20100] Someone stares at you and utters the words, 'yriwo ghfuto The force field around you crackles as Mordi's flame strike strikes it!
+Oblena   (May 28) [18001] Pudortu and Kaijin say they meta'd strength and it maxed them from three off.
+Schism   (May 31) [ 1636] you can step past sisyphus if shadowstep fails
+Zechariah (Jun  3) [24386] In the dark, you can still see a globe of darkness
+Tomi     (Jun 10) [19316] For some utterly idiotic reason, setting a container to be trapped on the builder's port also flags it as a corpse, causing it to rot...yeah.
+Krudge   (Jun 25) [18838] type look east in this zone
+Krudge   (Jul  3) [ 8455] isstvaan tracks and he is !combat mob
+Deception (Jul 12) [19302] the idea file is full
+Krudge   (Jul 15) [19398] ebony dagger is a duplicate name on two different mobs
+Krudge   (Jul 15) [24538] this whole area has been depopulated of its mobs
+Krudge   (Jul 15) [24538] where the hell have the mobs gone here?
+Krudge   (Jul 15) [ 7411] here is another area that use to be well populated with mobs, but they have all mysteriously disappeared
+Augustine (Jul 17) [15652] make a key for this gate so you dont need a picker to do the area
+Krudge   (Aug  6) [ 7795] none of these dragons are actually dragons, corwin did a great job of converting this area to circle
+Krudge   (Aug 28) [ 2566] why doesnt the red dragon master load in this room?
+Radagast (Aug 28) [18102] fireball south of hydra crashes the mud
+Flagg    (Sep  2) [35443] there is direct sunlight in amara city....underwater
+Yashiro  (Oct 13) [22201] Sweep:  Naosis and Pud were able to type in commands in only 2 rounds of violence, help file says that if successful it would take 4 rounds
+Morlock  (Nov 17) [16466] there is a typo in the desc of mosqitos
+Radagast (Nov 18) [25067] The rooms called deslation in hell say that i am in infinite darkness...yet there is still sunlight affecting my retarded drow eyes
+
+
+The below existed as a "to do" list before I came around:
+
+Hayena   (Aug 17) [ 1281] can't cast shadow sphere me
+Hayena   (Aug 17) [ 3005] can't attck with pets
+Kern     (Aug 17) [ 3005] pet MOBs wont follow
+Taco     (Aug 17) [ 3040] the rec rec mid thing to go to sam is not working
+*Kern     (Aug 17) [18078] The Peace Keeper slowly fades into existence., the Peace Keeper looks really sick and shivers uncomfortably.   he wasnt invis
+Drez     (Aug 17) [18115] dragon breath!  i think when bob fails a breate on john the text the room sees is backwards
+Drez     (Aug 17) [18115] i mean draconian breath
+Drez     (Aug 17) [18025] invisibility.  you can't cast it on eq to make eq invis.(you can't do this on normal mud either)
+Jugotai  (Aug 17) [30588] my summoned mob doesn't seem to be following me
+Jugotai  (Aug 17) [30628] about the charmed/summoned mobs..they won't follow you into an !mob room
+Jugotai  (Aug 17) [ 1342] I can re-cast call of the wild the next tick after I ungroup my previous mob
+*Malkav   (Aug 17) [ 1403] invis goes away, but without a message
+*Kern     (Aug 18) [18091] i dont have det i on, the baker is invis, and i can still buy bread from him
+*Kurse    (Aug 18) [18905] Poisoned Message spelling error - Kord has somehow become poisIoned.
+Newbee   (Aug 18) [18133] it possible to get into thief guild without walkin past thir guard
+Jugotai  (Aug 18) [13563] don't remember if I sent this or not, but my mobs won't follow me into !mob rooms
+Jugotai  (Aug 18) [13563] also, call of the wild resets itself the tick after I lose the current mob
+Jugotai  (Aug 18) [30435] seems there's something wrong with the shoot code...I can't hit a damn thing!
+Newbee   (Aug 18) [20324] i can scan into a dark room without infra or light that dark when i go in
+*Jugotai  (Aug 19) [ 2339] spell combat doesn't break invisibility..I ordered my ungrouped mob to use an ice storm staff so it would hit me while I was invis...got hit by the ice storm, another mob killed my mob, and i was still visible
+*Jugotai  (Aug 19) [20313] There were 15 gnolls in one room when I tried to use an earthquake staff, mud crashed as soon as I hit enter
+*Jugotai  (Aug 19) [20313] after the crash I went back, and there were only 5 gnolls there...used the staff successfully
+*Savante  (Aug 19) [ 3020] things that are donated aren't given a !sell flag
+*Jugotai  (Aug 19) [10757] verbeeg's desc is wacky! Standing 0 0 0 over 0 0 0 9 E large humans who have been shunned because of their fearsome presence.
+Drez     (Aug 19) [18033] go 3n2w.   go another w and you can't go back east
+Drez     (Aug 19) [18033] that was from center of samsera
+Kern     (Aug 19) [ 3008] when ya loot a player corpse, ya dont get a hunted flag
+Drez     (Aug 19) [ 6500] area spells do hit shop keepers, they can be killed
+Magus    (Aug 19) [ 3019] not sure if it's just me, but it seems as if it takes a lot longer than normal for hunger/thirst to kick in.. which is fine by me :)
+Drez     (Aug 19) [18115] throw/shoot.  make the mobs track from that
+Deranged (Aug 19) [ 3005] my mobs wont follow me...
+Drez     (Aug 19) [ 2013] mobs that are thrown/shot at have no memory
+Jugotai  (Aug 20) [18063] if you use a staff of any kind, even beneficial, it doesn't affect you
+Asmodean (Aug 20) [18361] I can do this on raven 1 as well, but.... you can close and open doors without being able to see.
+*Jugotai  (Aug 20) [ 1281] Tried an earthquake staff again, with 12 mobs in room..mud crashed
+*Jugotai  (Aug 20) [30609] tried to go 27w from below samsera docks, ran into the Silver Serpent..aggroed me and mud crashed
+Mananan  (Aug 21) [18001] gore does different delays upon missing/landing, sometimes faster to gore after a miss, other times its not.
+
+
+
+

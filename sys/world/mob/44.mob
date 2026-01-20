@@ -1,0 +1,331 @@
+#4401
+E W 0~
+Elf Guardian Elven~
+the Elven guardian~
+An Elven Guardian is standing here guarding the portal.
+~
+This is a robust built elf in his best years and as far as you can tell
+~
+33554506 0 0 0 8 0 0 0 1000
+19 2 -3 3d6+240 3d5+6
+35 40
+9 9 1 0 -1 -1
+#4402
+E W 0~
+Elf Soldier guard elven~
+the Elven soldier~
+An Elven Soldier is standing here guarding the path.
+~
+This is an elf in his youth, sent by the chief of the village guards, to guard 
+the path from any intruder not wanted here.
+~
+10 0 0 0 8 0 0 0 1000
+10 10 2 1d12+200 1d8+3
+35 40
+9 9 1 0 -1 -1
+#4403
+E W 0~
+Elf Soldier guard elven~
+the Elven guard~
+An Elven Guard is walking around, protecting the villagers.
+~
+This is an elf in her youth, sent by the chief of the village guards, to guard 
+the village from unwanted intruders.
+~
+8 0 0 0 8 0 0 0 1000
+10 10 2 1d12+200 1d8+3
+35 40
+9 9 2 0 -1 -1
+#4404
+E W 0~
+Elf weaponsmith smith elven~
+the Elven weaponsmith~
+A Large Elven weaponsmith is walking behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 0 0 0 0 0 0 900
+23 2 -2 6d10+390 1d8+12
+40 40
+9 9 1 0 -1 -1
+#4405
+E W 0~
+Elf armorsmith smith elven~
+the Elven armorsmith~
+A Large Elven armorsmith is walking around behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 0 0 0 0 0 0 900
+23 2 -2 6d10+390 1d8+12
+55 40
+9 9 1 0 -1 -1
+#4406
+E M 0~
+Elf mage elven~
+the Elven mage~
+A Tiny Elven mage is floating behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 0 0 0 0 0 0 900
+50 -10 -10 1d5000+5000 5d10+30
+80 90
+9 9 1 0 -1 -1
+#4407
+E W 0~
+Elf Quintor grocer~
+the Elf named Quintor~
+An Elf named Quintor is here counting money behind the counter.
+~
+You notice a tired look on his face.
+~
+16394 0 0 0 1064 0 0 0 900
+23 2 -2 6d10+390 1d8+12
+40 40
+9 9 1 0 -1 -1
+#4408
+E T 0~
+elf bartender elven~
+the Elven bartender~
+A fat Elf is standing behind the bar taking orders.
+~
+You notice a tired look on his face.
+~
+10 0 0 0 0 0 0 0 900
+23 2 -2 6d10+390 1d8+12
+40 40
+9 9 1 0 -1 -1
+#4409
+E W 0~
+elf receptionist elven~
+the Elven receptionist~
+A nice-looking Elf is standing in the reception.
+~
+You notice a tired look on her face.
+~
+24587 0 0 0 0 0 0 0 900
+23 2 -10 6d10+390 1d8+12
+40 40
+9 9 2 0 -1 -1
+#4410
+E W 0~
+elf chief elven guard~
+the Chief of the elven guard.~
+A lazy-looking Elf lies on his bed snoring loudly.
+~
+This elf looks somehow more experienced than any guard in the village guard.
+By the look of the uniform he is probably the chief of the village guard.
+You notice some scars on the hands and one on the neck of the elf. He has
+obviously been in battle in his days.
+~
+264 0 0 0 136 0 0 0 1000
+30 0 -4 1d50+500 4d6+8
+69 60
+4 4 1 0 -1 -1
+#4411
+E W 0~
+Elf Soldier guard elven~
+the Elven guard~
+An Elven Guard is playing cards at the table.
+~
+This is an elf in his youth, sent by the chief of the village guards, to guard the path from any intruder not wanted here.
+~
+266 0 0 0 8 0 0 0 1000
+10 15 2 1d12+200 1d8+3
+35 40
+7 7 1 0 -1 -1
+#4412
+E R 0~
+Elf bard Elven~
+the Elven bard~
+An Elven bard is sitting here playing on his lute and singing.
+~
+This Elf is dressed in green, with brown pants. He is playing on a fine rose-tree lute with silver strings.
+~
+10 0 0 0 8 0 0 0 750
+19 2 -1 3d6+200 3d3+6
+35 40
+7 7 1 0 -1 -1
+#4413
+E R 0~
+druid old man human~
+the old Druid~
+An old Druid is standing on the hill chanting an arcane spell.
+~
+This is a human in his old days. He is dressed in a heavy cloak and holds a Staff made of oak in his hands.
+~
+17230 0 0 0 524424 0 0 0 1
+20 0 -4 3d12+500 1d8+20
+40 40
+9 9 1 0 -1 -1
+#4414
+F M 1~
+elemental fire huge~
+a Huge Fire Elemental~
+A Huge Fire Elemental is standing here burning everything.
+~
+You see only Flames in the shape of a humanoid.
+~
+72 0 0 0 8 0 0 0 1
+35 0 -5 1d12+400 3d8+8
+50 60
+9 9 0 21 -1 -1
+#4415
+A W 0~
+large enlarged animal bear~
+the enlarged Bear~
+A enlarged Bear is looming around the glade.
+~
+It is large, brown and furry.
+~
+40 0 0 0 0 0 0 0 0
+23 15 2 2d10+190 1d6+3
+40 40
+9 9 0 8 4 -1
+#4416
+A W 0~
+enlarged animal large tiger~
+the Enlarged Tiger~
+A Enlarged Tiger is looming around in the glade.
+~
+You notice that it is large, striped and furry.
+~
+40 0 0 0 0 0 0 0 0
+23 2 2 2d10+160 1d8+8
+40 40
+9 9 0 8 4 -1
+#4417
+E W 0~
+elf elven champion~
+the Champion~
+An elven Champion is standing here looking at the trophies.
+~
+The elf in front of you is quite good looking and robustly build (for an elf).
+As far as you can see
+~
+147464 0 0 0 128 0 0 0 1000
+50 -5 -8 1d4000+4128 10d6+33
+80 90
+9 9 1 0 -1 -1
+#4420
+E W 0~
+elf female woman elven~
+an elven woman~
+An elven woman smiles warmly at you.
+~
+Kind face and sweet smile lets you know she's an instant friend.
+~
+24588 0 0 0 1064 0 0 0 1000
+10 5 -4 5d5+120 1d6+2
+35 40
+9 9 2 0 -1 -1
+#4421
+E W 0~
+child elven elf ~
+an elven child~
+An elven child giggles as he tries to get you to play.
+~
+A bright ring of laughter fills your heart and the shilly eyes offer you a chance to forget your troubles.
+~
+20492 0 0 0 1064 0 0 0 1000
+5 5 2 2d8+50 1d4+1
+35 40
+9 9 0 0 -1 -1
+#4422
+E W 0~
+elven elf woman ~
+an elven woman~
+An elven woman wipes her hands on her apron and smiles.
+~
+She offers some warm food, fresh from the oven.
+~
+24590 0 0 0 1064 0 0 0 1000
+15 5 -4 5d5+120 1d7+3
+35 40
+9 9 2 0 -1 -1
+#4423
+E W 0~
+elven elf scribe~
+the elven scribe~
+A scribe sits here writting away.
+~
+He is so engrossed in his work, he doesn't even notice you.
+~
+24590 0 0 0 1064 0 0 0 1000
+15 5 -4 5d5+150 1d7+3
+35 40
+9 9 1 0 -1 -1
+#4424
+A W 0~
+cat kitten~
+the cat~
+A small cat sleeps in front of the fireplace.
+~
+Soft purring noises come from this tiny ball of fur.
+~
+16394 0 0 0 0 0 0 0 1000
+5 5 2 2d8+50 1d4+1
+35 40
+4 9 0 4 0 0
+#4425
+E W 0~
+young elf elven~
+the young elf~
+A young elven practices with his friends.
+~
+High hopes of becoming an elven guard fill this young elvens head.
+~
+24586 0 0 0 1064 0 0 0 1000
+15 5 -4 5d5+120 1d7+3
+35 40
+9 9 1 0 -1 -1
+#4426
+E W 0~
+guard elf elven~
+the guard~
+A guard snores away after a long day of work.
+~
+He looks very tired.
+~
+16394 0 0 0 1064 0 0 0 1000
+15 5 -4 5d5+200 1d7+3
+35 40
+4 9 1 0 -1 -1
+#4427
+E W 0~
+elf elven maid woman~
+the maid~
+A maid is busy dusting.
+~
+To her it's an endless chore.
+~
+16398 0 0 0 1064 0 0 0 1000
+15 5 -4 5d5+120 1d7+3
+35 40
+9 9 2 0 -1 -1
+#4428
+E W 0~
+cook elven elf woman~
+the cook~
+The cook bustles around humming happily.
+~
+She loves her work.
+~
+16394 0 0 0 1064 0 0 0 1000
+15 5 -4 5d5+200 1d7+3
+35 40
+9 9 2 0 -1 -1
+#4429
+E M 0~
+elf questmaster mage~
+the Elf Questmaster~
+The Elf Questmaster stands here.
+~
+Pointed ears, slim of build, fair of hair and skin... yep, an Elf.
+~
+134299656 0 0 0 1049768 0 0 0 1000
+51 -20 0 1d1+15000 1d1+90
+90 100
+9 9 2 0 -1 -1
+$

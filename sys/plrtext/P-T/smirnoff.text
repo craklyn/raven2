@@ -1,0 +1,50 @@
+0 w;w;w;w;w;w;w;w;w;w;w;w;n;n;n;n;w;w;w;s;s;s;s;d;e;e;e;e;e;e;d;n;
+invis cast 'invis' $*
+rr recite elv
+quick cast 'quicken' $*
+goo s;order glab kill zombie
+gooo s;order bodak kill khisanth
+cu cast 'call to corpse' $*
+say say &08$* &00
+b cast 'bone wall' $*
+cor cast 'summon corpse' $*
+gtell gtell &08$* &00
+se cast 'disease' $*
+clan clan &10$* &00
+susring w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;w;w;n;w;n;e;e;e;e;n;
+entomb cast 'entomb' $*
+iv cast 'invisi' $*
+skin cast 'nox' $*
+emb cast 'embalm' cor
+rune cast 'create ward'
+fly cast 'fly' $*
+call cast 'charm corpse' 1.cor
+t drop 1.
+scroll buy 34 elven;buy sc; sell 35 sc;
+p cast 'poison' $*
+sum cast 'sum' $*
+di cast 'det inv' $*
+deb cast 'debilitate' $*
+en cast 'energy drain' $*
+sp cast 'soul pierce' $*
+age cast 'age' $*
+infra cast 'infra'
+trans cast 'summon' $*
+slow cast 'slow' $*
+dr cast 'life drain' $*
+curse cast 'curse' $*
+consume cast 'consume corpse' corpse
+y des 1.
+bl cast 'blind' $*
+sh cast 'shield' $*
+res cast 'resist poison' $*
+wraith cast 'wraith'
+ex cast 'explode corpse' $*
+sense cast 'sense'
+dis cast 'dishearten' $*
+gel buy 30 gel;buy brown;sell 31 pot;
+bt  w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;s;e;s;s;s;s;s;s;s;s;s;s;s;s;s;s;e;e;e;e;e;e;e;s;s;s;e;e;e;e;e;n;n;n;n;e;e;e;e;e;
+nox cast 'noxious skin' $*
+resist cast 'resist poison' $*
+det cast 'detect invis' $*
+port cast 'portal' $*

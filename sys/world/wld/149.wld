@@ -1,0 +1,521 @@
+#14900
+The Ancient Road~
+This is a small area, representing an ancient road leading to the Great Tower
+of Xerxes from the Great Eastern Desert. The road winds along a dry gorge
+until it reaches a plateau upon which lies the Tower itself. I have no further
+plans for this particular area itself, feel free to extend it if you wish.
+Bear in mind thou, that Xerxes would not tolerate another major power close
+to him.
+
+The connection points are as follows:
+West of 14925 is connected to 5062 (the rope bridge).
+South of 14901 is connected to 14001 (Entrance to the Great Tower of Xerxes).
+
+This area was written by Vex.
+~
+149 0 0 0 0 5 255 0
+S
+#14901
+Before the Gates~
+You've come before the mighty bronze gates that lead into the tower itself.
+Looking up, you see the top of the tower pierces the clouds themselves, you
+can't help but marvel at what a great achievement it's construction is. The
+great gates themselves must weigh many tons, you wonder at how you will move
+them even if they are not barred from the other side. You note that the tower
+is built right to the very edge of the plateau, thus your only options are to
+follow the road back to the desert or attempt to open the bronze gates to the
+south.
+~
+149 4 0 0 0 2 255 0
+D0
+To the north the plateau juts out slightly.
+~
+~
+0 0 14902
+D2
+A pair of bronze gates bar entry into the tower.
+~
+bronze gates~
+1 -1 14001
+S
+Z 13
+#14902
+Approaching the Tower~
+You've climbed to the top of the plateau, which juts out slightly here. To
+the south the path leads to the tower itself.
+~
+149 0 0 0 0 2 255 0
+D2
+To the south you see the vast bulk of the tower itself.
+~
+~
+0 0 14901
+D5
+A path leads down.
+~
+~
+0 0 14903
+S
+#14903
+Path leading up the plateau~
+Your climbing up a steep path leading up the side of the plateau. Looking up,
+you see the edge of the plateau ahead, or you can follow the path to the 
+north.
+~
+149 0 0 0 0 5 255 0
+D0
+The path continues to the north.
+~
+~
+0 0 14904
+D4
+The path reaches the top of the plateau ahead.
+~
+~
+0 0 14902
+S
+#14904
+Path leading up the plateau~
+The pathway turns here, to the south you see the path climbs up to the top of
+the plateau, while to the west it leads down.
+~
+149 0 0 0 0 5 255 0
+D2
+The path continues up the plateau to the south.
+~
+~
+0 0 14903
+D3
+The path leads down the plateau to the west.
+~
+~
+0 0 14905
+S
+#14905
+Path leading up the plateau~
+Your following an old path leading up a massive plateau. The strange 
+rectangular tower of grey stone is clearly visible to the south. The path
+continues down and to the east.
+~
+149 0 0 0 0 5 255 0
+D1
+The path continues to the east.
+~
+~
+0 0 14904
+D5
+The path continues down.
+~
+~
+0 0 14906
+S
+#14906
+Path leading up the plateau~
+Your following an old path leading up the side of a great plateau. Built to
+the edge of the plateau, is a great tower of grey stone. The top of the tower
+dissapears into the clouds themselves. The path continues up and to the west.
+~
+149 0 0 0 0 5 255 0
+D3
+The path continues to the west.
+~
+~
+0 0 14907
+D4
+The path continues up.
+~
+~
+0 0 14905
+S
+#14907
+Path leading up the plateau~
+Your following an old worn path leading up the side of a great plateau. The
+path continues to the east and west.
+~
+149 0 0 0 0 5 255 0
+D1
+The path continues to the east.
+~
+~
+0 0 14906
+D3
+The path continues to the west.
+~
+~
+0 0 14908
+S
+#14908
+Path leading up the plateau~
+Your walking along a steep path that leads to the top of a great plateau. Atop
+the plateau you can see a great rectangular tower. You can follow the path
+down or to the east from here.
+~
+149 0 0 0 0 5 255 0
+D1
+The path continues to the east.
+~
+~
+0 0 14907
+D5
+The path leads downwards.
+~
+~
+0 0 14909
+S
+#14909
+Path leading up the plateau~
+Your standing upon an old path that leads up the side of an enourmous plateau.
+The path is quite wide and safe to walk upon, it was probably a road a few
+centuries ago. You can follow the path up or to the west from here.
+~
+149 0 0 0 0 5 255 0
+D3
+The path continues to the west.
+~
+~
+0 0 14910
+D4
+The path leads upwards.
+~
+~
+0 0 14908
+S
+#14910
+Path leading up the plateau~
+Your at the beginning of a long pathway that climbs up the side of the great
+plateau. Atop the plateau is surely the greatest construction in all the 
+world, an enourmous tower of grey stone quite literally as big as mountain
+sits atop the plateau. The tower pierces the clouds and rises up higher even
+then the mountains around you. You note that it only tapers off slightly at
+the top. The path continues to the east, while to the west is an ancient road.
+~
+149 0 0 0 0 5 255 0
+D1
+The path continues to the east.
+~
+~
+0 0 14909
+D3
+An ancient road leads through a dry valley to the west.
+~
+~
+0 0 14911
+S
+#14911
+An ancient road~
+The road comes right to the base of the plateau here, and you can see a path
+carved into the northern face of the plateau climbs upwards. You can follow
+the path to the east or take the road back to the west.
+~
+149 0 0 0 0 2 255 0
+D1
+The road dwindles to a path leading up the side of the plateau.
+~
+~
+0 0 14910
+D3
+The road continues to the west.
+~
+~
+0 0 14912
+S
+#14912
+An ancient road~
+Your following an ancient road that bends around the corner of a great plateau
+here, leading further to the east and south. Looking along the northern face
+of the plateau, you see a pathway has been cut into the side leading up to
+the great tower itself.
+~
+149 0 0 0 0 2 255 0
+D1
+The road continues to the east.
+~
+~
+0 0 14911
+D2
+The road continues to the south.
+~
+~
+0 0 14913
+S
+#14913
+An ancient road~
+The southern ridge of mountains gives way to an immense plateau here. Standing
+at the base of the plateau you see it's formed from some kind of grey stone,
+much like the tower upon it. While the plateau appears weathered by the 
+elements, you note just how regular it's shape is. There is not a single 
+living thing growing on the grey stone of the plateau, and even the small
+hardy shrubs in the valley seem wilted as you approach the tower. The road
+continues to the north, following the base of the plateau and extends for
+some distance to the west.
+~
+149 0 0 0 0 2 255 0
+D0
+The road continues to the north.
+~
+~
+0 0 14912
+D3
+The road continues to the west.
+~
+~
+0 0 14914
+S
+#14914
+An ancient road~
+The plateau looms large to the east and the great tower casts a shadow over
+this portion of the valley. Apart from the tower's great size, nothing is
+outwardly unusual about it. None the less, you feel ill at ease. The valley
+turns to the east as it meets the plateau while the road leads back to the
+west.
+~
+149 0 0 0 0 2 255 0
+D1
+The road continues to the east.
+~
+~
+0 0 14913
+D3
+The road continues to the west.
+~
+~
+0 0 14915
+S
+#14915
+An ancient road~
+Your walking along an old road through a dry valley. Your guess is that the
+road was built to link the great tower upon the plateau with other lands.
+The road continues to the east and west.
+~
+149 0 0 0 0 2 255 0
+D1
+The road continues to the east.
+~
+~
+0 0 14914
+D3
+The road continues to the west.
+~
+~
+0 0 14916
+S
+#14916
+An ancient road~
+Your following an ancient road along the floor of a barren valley. The winds
+are less strong here as this section is sheltered from the prevailing breeze.
+Up ahead you can see the mountain ridge to the south gives way to a plateau
+upon which is built a tower of colossal size. You can follow the road to the
+east or west from here.
+~
+149 0 0 0 0 2 255 0
+D1
+The road continues to the east.
+~
+~
+0 0 14915
+D3
+The road follows a turn in the valley to the west.
+~
+~
+0 0 14917
+S
+#14917
+An ancient road~
+The valley turns again here, leading to the east and north. To the east you
+can see more of the great tower you saw earlier. It is situated upon a high
+plateau, built right to the very brink. The tower then rises a considerable
+distance above the plateau itself, it's no wonder you mistook it for another
+mountain at first.
+~
+149 0 0 0 0 2 255 0
+D0
+The road continues to the north.
+~
+~
+0 0 14918
+D1
+The road continues to the east.
+~
+~
+0 0 14916
+S
+#14918
+An ancient road~
+Your following an ancient road that follows a barren valley in this small
+mountain range. As you look to the east, you can see past the shoulder of a
+mountain what appears to be an enourmous rectangular mountain, very odd, how
+would a mountain have that shape... then it dawns on you that what you are
+seeing is no mountain, but a tower of gargantuan size. Most of the tower is
+obscured from here, but from what you can see it rises above the mountains
+that surround it. The ancient road follows the valley as it turns to the east
+up ahead.
+~
+149 0 0 0 0 2 255 0
+D0
+The road continues to the north.
+~
+~
+0 0 14919
+D2
+The road follows a turn in the valley to the south.
+~
+~
+0 0 14917
+S
+#14919
+An ancient road~
+You are following an ancient cobbled road through a barren valley. The wind howls
+down this long straight section, blowing dust into your eyes. You can see the
+wind has carved the sides of the valley somewhat, wearing away the soft stone
+to carve out caves in the sides of the small mountains. There appears to be
+no way up to the caves from here, how ever. The road continues to the north
+and south.
+~
+149 0 0 0 0 2 255 0
+D0
+The road continues to the north.
+~
+~
+0 0 14920
+D2
+The road continues to the south.
+~
+~
+0 0 14918
+S
+#14920
+An ancient road~
+Your following an ancient cobbled road through a barren valley. The wind howls
+down this long straight section, blowing dust into your eyes. You can see the
+wind has carved the sides of the valley somewhat, wearing away the soft stone
+to carve out caves in the sides of the small mountains. There appears to be
+no way up to the caves from here, how ever. The road continues to the north
+and south.
+~
+149 0 0 0 0 2 255 0
+D0
+The road continues to the north.
+~
+~
+0 0 14921
+D2
+The road continues to the south.
+~
+~
+0 0 14919
+S
+#14921
+An ancient road~
+Your following an ancient cobbled road through a barren valley. The wind howls
+down this long straight section, blowing dust into your eyes. You can see the
+wind has carved the sides of the valley somewhat, wearing away the soft stone
+to carve out caves in the sides of the small mountains. There appears to be
+no way up to the caves from here, how ever. The road continues to the north
+and south.
+~
+149 0 0 0 0 2 255 0
+D0
+The road follows a turn in the valley up ahead.
+~
+~
+0 0 14922
+D2
+The road continues to the south.
+~
+~
+0 0 14920
+S
+#14922
+An ancient road~
+The valley takes a turn here, leading further to the south and west.  The
+mountains on either side of the valley are fairly small in size, there is not
+even any snow on their peaks.  A sinkhole has opened up in the ground here.  
+There also seems to be a new path to the north.
+~
+149 0 0 0 0 2 255 0
+D0
+~
+~
+0 0 37001
+D1
+~
+~
+0 0 43945
+D2
+The road continues to the south.
+~
+~
+0 0 14921
+D3
+The road continues to the west.
+~
+~
+0 0 14923
+D5
+A sinkhole has formed in the ground here.
+~
+sinkhole~
+1 0 37101
+S
+#14923
+An ancient road~
+Your following an ancient road that follows a dry valley. The road is cobbled 
+with large grey stone blocks, while over grown in parts and obscured by dirt, 
+it is still fairly easy to travel on. You wonder who constructed the road and 
+where it might lead. The road continues back to the west while you can see it 
+follows a turn in the valley to the east.
+~
+149 0 0 0 0 2 255 0
+D1
+The road follows a turn in the valley there.
+~
+~
+0 0 14922
+D3
+The road continues to the west.
+~
+~
+0 0 14924
+S
+#14924
+An ancient road~
+The road enters the valley here. The valley was most likely formed by a river
+many centuries ago, it was probably a tributary to the one flowing through
+the deep gorge visible to the west. The valley is quite dry now thou, with
+only a few tough bushes clinging to the rocky sides. The road leads east into
+the valley or back to the west across the gorge.
+~
+149 0 0 0 0 2 255 0
+D1
+The road continues to the east.
+~
+~
+0 0 14923
+D3
+The ancient road ends at a rope bridge there.
+~
+~
+0 0 14925
+S
+#14925
+An ancient road~
+Your standing on the eastern side of a great gorge that divides the mountains
+to the east from the great desert that stretches endlessly to the west. It 
+becomes clear that the rope bridge must have been part of an ancient road
+leading from other lands. The desert has obliterated all traces of the road
+there, but here the road is still visible, and follows a barren valley to the
+east.
+~
+149 0 0 0 0 2 255 0
+D1
+The road follows a dry valley.
+~
+~
+0 0 14924
+D3
+A rope bridge leads across the gorge.
+~
+~
+0 -1 5062
+S
+$~

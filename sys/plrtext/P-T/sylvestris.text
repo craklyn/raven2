@@ -1,0 +1,22 @@
+str cast 'strength' $*
+elven s;s;s;e;e;s;d;w;s;s;s;s;s;s;e;e;e;e;e;e;e;u;n;w;w;w;w;n;n;n;n;n;n;n
+id cast 'identify' $*
+blind cast 'blindness' $*
+fly cast 'fly' $*
+shield cast 'shield' $*
+gt gt &08<&13-&14$* &13-&08>&00
+ice cast 'ice storm' $*
+sum cast 'summon' $*
+ms cast 'monster summon'
+life cast 'life drain' $*
+color cast 'color spray' $*
+0 des corp
+as order aara stand
+av order aara k aver
+locate cast 'locate object' $*
+- cast 'true sight' $*
+charm cast 'charm person' $*
+1 order dog k cot
+invis cast 'invis' $*
+flame cast 'flame blade' $*
+awaken cast 'awaken' $*

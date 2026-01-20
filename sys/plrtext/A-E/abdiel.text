@@ -1,0 +1,46 @@
+bl ca 'blind' $*
+mal ca 'maledict' $*
+ss ca 'soul' $*
+dd cast 'deb' gua
+fff order follower kill 2.min
+emb cast 'embalm' $*
+consume cast 'consume corpse' $*
+deb cast 'deb' $*
+silence cast 'silence' $*
+ed cast 'energy drain' $*
+slow cast 'slow' $*
+age cast 'age' $*
+nox cast 'nox' $*
+embalm cast 'embalm' $*
+say say &07$* &00
+invis cast 'invis' $*
+rp cast 'resist poison'
+sum cast 'summon' $*
+blind cast 'blind' $*
+fly cast 'fly' $*
+gt gt &07$* &00
+life cast 'life' $*
+di cast 'detect invis' $*
+shield cast 'shield' $*
+soul cast 'soul' $*
+cw clanwho
+sp cast 'soul pierce' $*
+sense cast 'sense life'
+ff order follower kill $*
+wraith cast 'wraith'
+sss cast 'slow' 2.min
+ddd cast 'deb' 2.min
+charm cast 'charm corpse' $*;gr all
+ent cast 'entomb' $*
+entomb cast 'entomb' $*
+bone cast 'bone wall' $*
+ward cast 'create ward'
+disease cast 'disease' $*
+poison cast 'poison' $*
+ec ca 'entomb' $*
+si ca 'silence' $*
+wall ca 'bone wall' $*
+or order fol $*
+xpl ca 'explode corpse' $*
+dri ca 'life drain' $*
+oar order fol rescue abdiel

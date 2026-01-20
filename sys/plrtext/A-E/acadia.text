@@ -1,0 +1,25 @@
+v shadow $*
+mm c 'dance of mist' $*
+o order followers $*
+cha c 'charm person' $*
+arm c 'blur'
+sha c 'shadow sphere'
+j trip $*;stand
+charm cast 'charm' $*
+sv cast 'shadow vis' $*
+cw clanwho
+clan clan &14$* &00
+say emote says,&09$*&00
+gs gs &09$* &00
+bl c 'blindness' $*
+wa wake;stand
+dr c 'dance of dreams' $*
+sen c 'sense life'
+sb c 'shadow blades' $*
+sw c 'shadow walk'
+hide c 'dance of shadows'
+in c 'invis' $*
+dis disarm $*
+x wear all
+rrow, Chimay, Xandor/Crypt at the end'
+z gs Khan tells the group, ' Khan, Vafal, Aillen, Oblena, Lyth, Casey, Visual, Yeshua, Sliver, Madsen, Kazul, Renegade, Lanfear, So

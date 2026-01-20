@@ -1,0 +1,6216 @@
+#200
+potion youth rand_item~
+a potion of youth~
+A potion stands here.~
+~
+10 67108864 0 0 0 1 0 0 0
+50 307 0 0
+1 1 0
+B
+0 0 0 0
+#201
+potion knowledge rand_item~
+a potion of knowledge~
+A potion stands here.~
+~
+10 67108864 0 0 0 1 0 0 0
+50 308 0 0
+1 1 0
+B
+0 0 0 0
+#202
+amethyst scale gemscale cuirass rand_item~
+an amethyst gemscale cuirass~
+A cuirass of sparkling lavender has been left here~
+~
+9 70780505 0 0 0 9 0 0 0
+13 0 0 0
+16 982500 1180
+E
+cuirass scale gemscale~
+This cuirass is comprised of flawless, surprisingly strong amethyst scales.
+~
+A
+23 -5
+A
+18 2
+A
+19 3
+A
+3 2
+A
+4 3
+B
+0 0 0 0
+#203
+amethyst bracelet rand_item~
+a bracelet of pure amethyst~
+A bracelet of the finest amethyst has been left here~
+~
+15 67110730 0 0 0 4097 0 0 0
+400 0 -1 0
+1 899000 995
+E
+bracelet amethyst~
+Looking in one direction through this hoop if pure amethyst you see nothing
+unusual, through the other direction however you can see that this bracelet
+is more than it would seem to be, for it looks as if you could fit an entire
+house inside of it.
+~
+A
+17 -7
+A
+18 4
+A
+24 -2
+A
+4 1
+A
+19 1
+B
+0 0 0 0
+#204
+sapphire potion heal rand_item~
+&04a sapphire potion&00~
+A sapphire-colored liquid is contained within a large beaker here.~
+~
+10 1 0 0 0 16385 0 0 0
+50 98 36 3
+1 5000 500
+B
+0 0 0 0
+#205
+knife serrated blade wicked rand_item~
+a wicked-looking, serrated knife~
+A nasty-looking knife has been discarded here.~
+~
+5 71020746 32 0 0 16385 0 0 0
+0 8 3 14
+2 50000 395
+E
+knife serrated blade wicked~
+Although too small to be wielded to its fullest potential as a primary
+blade, this weapon would be quite deadly in an off-hand.  Coated in
+a greenish ichor, the blade is serrated into a jagged deadly-looking
+edge.
+~
+A
+18 2
+B
+0 0 0 0
+#206
+potion purple rand_item~
+a purple potion~
+A purple potion is here.~
+~
+10 0 0 0 0 16385 0 0 0
+17 14 36 33
+1 3500 350
+E
+potion purple~
+It looks rather strange!
+~
+B
+0 0 0 0
+#207
+toadstool rand_item~
+a toadstool~
+A large toadstool grows nearby.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+5 20 36
+E
+toadstool~
+It is a large, brown boletus that must weigh nearly five pounds.  The top
+surface is covered in a thin layer of transparent slime that emits a weak,
+musty smell.  Not the most delicious thing you have seen.
+~
+B
+0 0 0 0
+#208
+toadstool rand_item~
+a toadstool~
+A large toadstool grows nearby.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 1
+5 20 36
+E
+toadstool~
+It is a large, brown boletus that must weigh nearly five pounds.  It has small
+white spots and the top surface is covered in a thin layer of transparent slime
+that emits a weak, musty smell.  Not the most delicious thing you have seen.
+~
+B
+0 0 0 0
+#209
+coins gold rand_item~
+a big pile of gold coins~
+A big pile of gold coins is lying here.~
+~
+20 0 0 0 0 1 0 0 0
+15326 0 0 0
+0 0 0
+B
+0 0 0 0
+#210
+potion blue rand_item~
+a blue potion~
+A blue potion has been left here.~
+~
+10 64 0 0 0 1 0 0 0
+15 37 37 37
+2 6800 680
+E
+potion blue~
+It has a nice deep blue color and a smell like peppermint.
+~
+B
+0 0 0 0
+#211
+potion yellow musky rand_item~
+a musky yellow potion~
+A yellow potion has been left here.~
+~
+10 64 0 0 0 1 0 0 0
+35 39 0 0
+2 1000 100
+E
+potion yellow~
+It has a deep yellow color and and a strong spicy smell.
+~
+B
+0 0 0 0
+#212
+knife thief's rand_item~
+a very sharp knife~
+A very sharp knife lies here.~
+~
+4 2112 0 0 0 24577 0 0 0
+1 8 1 11
+9 1000 290
+E
+knife~
+A keen knife, very sharp -- you could cut the air in two!
+~
+A
+2 2
+A
+18 3
+B
+0 0 0 0
+#213
+hat wizard's rand_item~
+a wizard's hat~
+A blue wizard's hat lies here.~
+~
+9 524384 0 0 0 17 0 0 0
+6 0 0 0
+5 20000 340
+E
+hat~
+A hat made of blue cloth.  It looks very comfortable.
+~
+A
+3 3
+A
+12 17
+B
+0 0 0 0
+#214
+headress pontiff's rand_item~
+a pontiff's headress~
+A white cone-shaped head ornament with religious symbols lies here.~
+~
+9 134742112 0 0 0 17 0 0 0
+6 0 0 0
+5 20000 300
+E
+headress~
+A starchy headress worn by powerful secular types.
+~
+A
+4 3
+A
+12 13
+B
+0 0 0 0
+#215
+visor black knight's rand_item~
+a black knight's visor~
+A black visor sits here.~
+~
+9 524384 0 0 0 17 0 0 0
+8 0 0 0
+5 20000 190
+E
+visor~
+A visor that protects the head, good for warriors.
+~
+A
+1 1
+A
+5 2
+B
+0 0 0 0
+#216
+potion thick white rand_item~
+a thick white potion~
+A thick white potion has been left here.~
+~
+10 64 0 0 0 1 0 0 0
+25 15 35 19
+9 2100 210
+E
+potion thick white~
+It is disgusting thick white gunk which looks like liquid web and smells like
+medicine.
+~
+B
+0 0 0 0
+#217
+ring silver rand_item~
+a tiny silver ring~
+A lovely silver ring has been left here.~
+~
+11 64 16875008 0 0 3 0 0 0
+0 0 0 0
+1 500 80
+A
+12 10
+A
+18 1
+B
+0 0 0 0
+#218
+ring gold goldring rand_item~
+a golden ring~
+A shiny gold ring has been abandoned here.~
+~
+13 4096 32 0 0 3 0 0 0
+0 0 0 0
+1 0 650
+E
+warning gold ring goldring~
+This isn't what you think it is...
+~
+A
+3 -5
+B
+0 0 0 0
+#219
+sword bastard rand_item~
+a huge bastard sword~
+There is a huge bastard sword here.~
+slash~
+5 74208512 32 0 0 8193 0 0 0
+0 4 9 3
+18 17000 1045
+E
+bastard sword~
+Quite a heavy weapon, with a pure white hilt.
+~
+A
+18 1
+A
+19 3
+B
+0 0 0 0
+#220
+plate breast silvery rand_item~
+a silvery breast plate~
+There is a silvery breast plate on the floor.~
+~
+9 74208512 32 0 0 9 0 0 0
+12 0 0 0
+110 25000 500
+E
+plate breast~
+On the breast plate you notice a relief of large rose. The metal seems to be 
+some kind of silver or platinum.
+~
+A
+19 3
+B
+0 0 0 0
+#221
+greaves silvery rand_item~
+a pair of silvery greaves~
+On the floor you see a shiny pair of greaves.~
+~
+9 74208512 32 0 0 33 0 0 0
+12 0 0 0
+40 12500 340
+E
+greaves~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+A
+19 2
+B
+0 0 0 0
+#222
+gauntlets silvery rand_item~
+a pair of silvery gauntlets~
+You can see a pair of gauntlets on the floor.~
+~
+9 74208512 32 0 0 129 0 0 0
+8 0 0 0
+24 9000 270
+E
+gauntlets~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+A
+18 1
+A
+19 2
+B
+0 0 0 0
+#223
+helmet silvery rand_item~
+a silvery helmet~
+A silvery helmet lies here.~
+~
+9 208426240 32 0 0 17 0 0 0
+12 0 0 0
+40 12000 580
+E
+helmet~
+The helmet is made from platinum or silver and has a white fur brush attached
+on the top.
+~
+A
+4 2
+A
+13 15
+A
+19 2
+B
+0 0 0 0
+#224
+shield rose rand_item~
+a shield of the rose~
+A shield of the rose rests on the floor.~
+~
+9 74208512 32 0 0 513 0 0 0
+12 0 0 0
+60 15000 370
+E
+shield~
+On the shield you see a clear and perfect painting of a dark red rose on a 
+white background.  You also notice the inscription :'Pax Est Sanctuum'.
+~
+A
+2 1
+A
+19 2
+B
+0 0 0 0
+#225
+boots silvery rand_item~
+a pair of silvery plated boots~
+A pair of heavy plated boots stand on the floor.~
+~
+9 74208512 32 0 0 65 0 0 0
+8 0 0 0
+40 2000 330
+E
+boots~
+The boots are made from a silvery metal.
+~
+A
+14 20
+A
+19 2
+B
+0 0 0 0
+#226
+plates arm silvery rand_item~
+a pair of silvery arm plates~
+On the floor you see some arm plates.~
+~
+9 74208512 32 0 0 257 0 0 0
+12 0 0 0
+40 12500 340
+E
+plates arm~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+A
+19 2
+B
+0 0 0 0
+#227
+potion blue rand_item~
+an neon blue potion~
+A neon blue potion stands on the floor.~
+~
+10 64 0 0 0 1 0 0 0
+14 6 15 16
+4 100 10
+E
+potion blue~
+In the flask is a transparent electric blue liquid.
+~
+B
+0 0 0 0
+#228
+treasure coins rand_item~
+a huge treasure~
+There is a huge treasure here, looking very valuable.~
+~
+20 0 0 0 0 1 0 0 0
+6522 0 0 0
+0 0 0
+E
+treasure~
+This looks like a whole lot of coins.
+~
+B
+0 0 0 0
+#229
+rod devil rand_item~
+the devil rod~
+The mysterious devil rod lies on the floor.~
+crush~
+5 64 0 0 0 8193 0 0 0
+0 2 5 3
+6 16000 250
+E
+devil rod~
+This is indeed a mysterious rod.  It is dark black at the base but has four
+very sharp purple tentacles at the end.
+~
+A
+18 3
+A
+1 -1
+B
+0 0 0 0
+#230
+ring pewter rand_item~
+a pewter ring~
+There is a pewter ring lying here.~
+~
+11 96 0 0 0 3 0 0 0
+0 0 0 0
+5 15000 100
+A
+13 10
+A
+2 1
+B
+0 0 0 0
+#231
+bronze belt rand_item~
+a bronze belt~
+There is a bronze belt on the ground here.~
+~
+9 32 0 0 0 2049 0 0 0
+4 0 0 0
+5 10000 150
+A
+1 -2
+A
+18 1
+B
+0 0 0 0
+#232
+helmet combat rand_item~
+a combat helmet~
+A combat helmet has been left here.~
+~
+9 134742017 0 0 0 17 0 0 0
+8 0 0 0
+25 12000 200
+A
+2 -2
+A
+18 1
+B
+0 0 0 0
+#233
+hairpin rand_item~
+a hairpin~
+A woman's hairpin is lying here.~
+~
+11 256 0 0 0 17 0 0 0
+0 0 0 0
+1 3000 60
+A
+1 -1
+A
+3 1
+B
+0 0 0 0
+#234
+apple rand_item~
+an apple~
+A delicious looking apple has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 5 12
+B
+0 0 0 0
+#235
+orange rand_item~
+an orange~
+A sun-ripened orange has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 6 18
+B
+0 0 0 0
+#236
+sandals rand_item~
+a pair of leather sandals~
+A pair of leather sandals has been dropped here.~
+~
+9 524288 0 0 0 65 0 0 0
+2 0 0 0
+2 250 10
+B
+0 0 0 0
+#237
+bracelet silver gold rand_item~
+a silver and gold bracelet~
+A bracelet, made from silver and gold, has been carelessly left here.~
+~
+11 130 0 0 0 4097 0 0 0
+0 0 0 0
+14 10000 380
+A
+12 25
+A
+19 -2
+B
+0 0 0 0
+#238
+sapphire ring rand_item~
+a sapphire ring~
+A sapphire ring has been left here.~
+~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+20 35000 210
+A
+18 2
+A
+17 -10
+B
+0 0 0 0
+#239
+pendant jade rand_item~
+a jade pendant~
+A beautiful jade pendant has been left here.~
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0
+30 16500 60
+A
+3 1
+A
+4 1
+B
+0 0 0 0
+#240
+tempered sword rand_item~
+a tempered sword~
+A nasty looking tempered sword is lying here.~
+~
+5 2 0 0 0 8193 0 0 0
+0 3 8 3
+16 15000 245
+A
+18 -2
+B
+0 0 0 0
+#241
+quenched sword rand_item~
+a quenched sword~
+A very bloody, but quenched, sword has been left here.~
+~
+5 32 0 0 0 8193 0 0 0
+0 3 5 3
+14 10000 50
+B
+0 0 0 0
+#242
+bracers moorish rand_item~
+a pair of Moorish bracers~
+A pair of Moorish bracers has been dropped here.~
+~
+9 524289 0 0 0 257 0 0 0
+8 0 0 0
+15 25000 220
+A
+2 -2
+A
+19 1
+B
+0 0 0 0
+#243
+plate breast combat rand_item~
+a combat breast plate~
+A piece of military combat plate has been left here.~
+~
+9 524289 0 0 0 9 0 0 0
+8 0 0 0
+135 50000 210
+A
+2 1
+A
+18 -2
+B
+0 0 0 0
+#244
+boots combat rand_item~
+a pair of combat boots~
+A pair of boots have been left here.~
+~
+9 524289 0 0 0 65 0 0 0
+8 0 0 0
+45 8750 220
+A
+1 2
+A
+19 -1
+B
+0 0 0 0
+#245
+crystal necklace rand_item~
+a crystal necklace~
+Someone has left the crystal necklace of knowledge here.~
+~
+11 2 0 0 0 32769 0 0 0
+0 0 0 0
+35 50000 180
+A
+3 2
+A
+4 2
+B
+0 0 0 0
+#246
+dark grey scroll rand_item~
+a dark grey scroll~
+A scroll has been carelessly left here.~
+~
+2 32 0 0 0 16385 0 0 0
+20 4 15 1
+2 5000 500
+B
+0 0 0 0
+#247
+ornate scroll rand_item~
+an ornate scroll~
+An ornate scroll has been left here.~
+~
+2 0 0 0 0 16385 0 0 0
+18 10 10 16
+2 7000 700
+B
+0 0 0 0
+#248
+plain scroll rand_item~
+a plain scroll~
+A plain scroll is lying on the ground.~
+~
+2 0 0 0 0 16385 0 0 0
+15 7 15 1
+2 8000 800
+B
+0 0 0 0
+#249
+bag herbs rand_item~
+a bag of herbs~
+There is a small, sweet-smelling bag here on the ground.~
+~
+3 2 0 0 0 16385 0 0 0
+30 4 4 43
+5 15000 1500
+B
+0 0 0 0
+#250
+staff kodarta rand_item~
+a Kodarta staff~
+A Kodarta staff has been carelessly left here.~
+~
+4 0 0 0 0 16385 0 0 0
+17 3 3 15
+6 35000 0
+B
+0 0 0 0
+#251
+wand prototype rand_item~
+a prototype wand~
+There is a prototype of a new magical wand lying here.~
+~
+3 672 0 0 0 16385 0 0 0
+30 4 3 26
+26 20000 2500
+A
+18 -3
+A
+24 6
+B
+0 0 0 0
+#252
+blaze orange flask potion rand_item~
+a flask~
+There is a flask, containing a blaze orange potion, resting here.~
+~
+10 0 0 0 0 1 0 0 0
+9 4 17 33
+8 1000 100
+B
+0 0 0 0
+#253
+mace rand_item~
+an executioner's mace~
+An executioner's mace is lying here.~
+~
+5 128 0 0 0 8193 0 0 0
+0 5 1 7
+13 3000 190
+A
+2 -2
+A
+1 -2
+B
+0 0 0 0
+#254
+Water Bucket rand_item~
+a water bucket~
+The bucket is full of fresh water.~
+~
+17 128 0 0 0 1 0 0 0
+150 150 0 0
+2 75 1500
+E
+Water Bucket~
+The water bucket is made of sturdy wood.  It contains clean and pure water.
+~
+B
+0 0 0 0
+#255
+Femur Bone rand_item~
+a large femur bone~
+A well gnawed femur bone lays on the ground.~
+~
+5 0 0 0 0 8193 0 0 0
+0 6 3 7
+8 22430 170
+E
+Femur Bone~
+The bone is heavy and thick.  You are unsure what kind of animal it came from,
+but it would make a nice club.  It looks like something has gnawed on it.
+~
+A
+1 1
+A
+2 1
+B
+0 0 0 0
+#256
+White Fur Plush rand_item~
+a plush white fur~
+A plush white fur is being tanned here.~
+~
+9 0 0 0 0 5 0 0 0
+6 0 0 0
+4 22127 130
+E
+White Fur~
+The fur is thick and warm.  A leather thong has been added so it can be tied
+around your neck.
+~
+A
+2 2
+B
+0 0 0 0
+#257
+Ceramic Jar rand_item~
+a ceramic jar~
+A crude ceramic jar rests on the ground.~
+~
+15 0 0 0 0 1 0 0 0
+30 5 0 0
+3 295 30
+E
+Ceramic Jar~
+The jar is made out of crudely molded clay.  A simple repetitive pattern is
+imprinted in the clay.  A lid sits loosely on the top.
+~
+B
+0 0 0 0
+#258
+Dried Meat Strip rand_item~
+a strip of dried meat~
+A strip of dried meat is hangs here.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+1 18 72
+E
+Dried Meat Strip~
+Dry and hard, the meat is not exactly tasty.  It has been cut into long strips.
+~
+B
+0 0 0 0
+#259
+Flat Bread rand_item~
+a piece of flat bread~
+A piece of flat bread makes your mouth water.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+1 13 36
+E
+Flat Bread~
+The flat bread is a small flat circular piece of bread.  Approximately six
+inches in diameter.  It is cooked on hot stones placed at the edge of a fire.
+~
+B
+0 0 0 0
+#260
+Gleaming Treasure Pile rand_item~
+a gleaming pile of treasure~
+A huge gleaming pile of treasure is your for the taking.~
+~
+8 1 0 0 0 1 0 0 0
+0 0 0 0
+35 29033 0
+E
+Gleaming Treasure Pile~
+Gems, jewelery, gold, and  silver is heaped in a great pile.  You could get
+a lot of money for this stuff.
+~
+B
+0 0 0 0
+#261
+Saurian Egg rand_item~
+a large saurian egg~
+A large saurian egg is here.~
+~
+10 0 0 0 0 1 0 0 0
+10 39 54 0
+5 21400 2140
+E
+Saurian Egg~
+The egg is very large and has a thick shell.  It is dark grey with light purple
+spots on it.  You don't want to meet whatever laid this egg.
+~
+B
+0 0 0 0
+#262
+Large Red Fruit rand_item~
+large red fruit~
+A large red piece of fruit is here.~
+~
+10 64 0 0 0 1 0 0 0
+7 87 16 0
+2 1680 168
+E
+Large Red Fruit~
+The fruit is large and red.  It looks kind of like a cross between a strawberry
+and an apple.
+~
+B
+0 0 0 0
+#263
+Large Red Fruit rand_item~
+red fruit~
+A large red piece of fruit is here.~
+~
+19 0 0 0 0 1 0 0 0
+20 0 0 0
+2 20 60
+E
+Large Red Fruit~
+The fruit is large and red.  It looks kind of like a cross between a strawberry
+and an apple.
+~
+B
+0 0 0 0
+#264
+barrel rand_item~
+a large barrel~
+A large barrel rests in the corner.~
+~
+15 0 0 0 0 1 0 0 0
+250 5 0 0
+20 350 250
+B
+0 0 0 0
+#265
+Wooden Crate rand_item~
+a wooden crate~
+A small wooden crate is stacked here.~
+~
+15 0 0 0 0 1 0 0 0
+100 5 0 0
+10 285 100
+B
+0 0 0 0
+#266
+Bolt Fine Cloth rand_item~
+a bolt of cloth~
+A bolt of finely embroidered cloth lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+4 16250 0
+B
+0 0 0 0
+#267
+dried rations rand_item~
+dried rations~
+Dried rations have been left here.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+1 25 72
+B
+0 0 0 0
+#268
+medicinal herbs rand_item~
+medicinal herbs~
+Someone has left medicinal herbs sitting here.~
+~
+10 64 0 0 0 1 0 0 0
+25 14 16 43
+1 5281 528
+E
+Medicinal Herbs~
+The herbs are bundled in a small bag.  They have a funky smell to them.
+~
+B
+0 0 0 0
+#269
+Blade Steel Scalpel rand_item~
+a steel scalpel~
+A finely crafted steel blade rests here.~
+~
+5 64 0 0 0 8193 0 0 0
+0 6 3 3
+1 19365 170
+E
+Blade Steel Scalpel~
+The blade is small and lightweight.  It is made of very pure steel, though the
+blade is thin it is very strong.  It has a razor sharp edge to it.
+~
+A
+2 1
+A
+3 1
+B
+0 0 0 0
+#270
+Blank Scroll Vellum rand_item~
+a blank scroll~
+A blank piece of vellum is here.~
+~
+13 8314944 0 0 0 16385 0 0 0
+0 0 0 0
+1 1 140
+E
+Blank Scroll ~
+The scroll is blank.  It is made of finely prepared vellum perfect for scroll
+making.  It feels slightly warm in your hands.
+~
+A
+12 10
+A
+24 -2
+B
+0 0 0 0
+#271
+Meditation Focus Stone rand_item~
+a meditation focus ~
+A small stone shaped like a magic rune hums quietly.~
+~
+1 8314979 0 0 0 16385 0 0 0
+0 0 -1 0
+2 26056 1220
+E
+Meditation Focus ~
+The stone is shaped into the form of a magic rune.  The color seems to change
+with the level of your mana.  It has a soft glow and hums quietly.
+~
+A
+12 25
+B
+0 0 0 0
+#272
+Bottle Potion Swirling Metallic rand_item~
+a swirling metallic potion~
+An unlabled bottle of swirling metallic liquid is sitting here.~
+~
+10 65 0 0 0 1 0 0 0
+30 36 34 0
+2 13986 1398
+B
+0 0 0 0
+#273
+Glass Clear Bottle rand_item~
+a clear bottle~
+A clear glass bottle has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+150 0 0 0
+1 78 1500
+B
+0 0 0 0
+#274
+sewing needle rand_item~
+a sewing needle~
+A sewing needle has been left here.~
+~
+5 0 16875008 0 0 8193 0 0 0
+0 7 3 11
+1 1000 260
+E
+Sewing Needle~
+The needle is small and light, it is made out of silver.  There is an eye in
+the end of the needle.
+~
+A
+19 1
+A
+18 1
+B
+0 0 0 0
+#275
+Book Knowledge rand_item~
+the Book of Knowledge~
+A large thick book lies here.~
+~
+3 65 0 0 0 16385 0 0 0
+47 5 5 117
+5 68366 6956
+E
+Book Knowledge~
+The Book of Knowledge is a large leather bound book.  It is very thick.  It
+contains all the knowledge of the mages the Ravens guild.  Thousands of items
+are listed in this book.
+~
+A
+3 1
+A
+4 2
+B
+0 0 0 0
+#276
+Glass Beaker rand_item~
+a beaker~
+A glass beaker sits here.~
+~
+17 0 0 0 0 1 0 0 0
+150 0 0 0
+1 70 1500
+B
+0 0 0 0
+#277
+Mithril Ring Power rand_item~
+the Ring of Power~
+A thick mithril ring glows brightly.~
+~
+9 3835235 0 0 0 16387 0 0 0
+10 0 0 0
+2 85890 380
+E
+Mithril Ring Power~
+The ring is formed from a thick mithril band.  It glows fiercely and hums
+loudly.  The energies contained within seem to be straining for release.
+~
+A
+19 1
+A
+12 25
+B
+0 0 0 0
+#278
+Silver Gold Ring Enhancement rand_item~
+the Ring of Enhancement~
+A light silver and gold ring hums softly.~
+~
+9 816483 32 0 0 16387 0 0 0
+10 0 0 0
+2 85930 690
+E
+Silver Gold Ring Enhancement~
+Gold and silver intertwined form this ring.  It seems to vibrate slightly as
+you hold it in your hand.
+~
+A
+18 2
+A
+13 25
+B
+0 0 0 0
+#279
+Faded Scroll rand_item~
+a faded scroll~
+An old faded scroll is lying here.~
+~
+2 64 0 0 0 1 0 0 0
+45 24 0 0
+2 34079 3407
+E
+Faded Scroll~
+The faded scroll is old and brittle.  It is sealed with wax stamped with the
+likeness of a snake.
+~
+B
+0 0 0 0
+#280
+Maroon Scroll rand_item~
+a maroon scroll~
+A maroon scroll is lying here.~
+~
+2 64 0 0 0 1 0 0 0
+20 7 0 0
+2 20082 2008
+B
+0 0 0 0
+#281
+Violet Scroll rand_item~
+an violet scroll~
+An violet scroll is lying here.~
+~
+2 64 0 0 0 1 0 0 0
+20 67 0 0
+2 20085 2008
+B
+0 0 0 0
+#282
+Fungus Glowing rand_item~
+some glowing fungus~
+A patch of fungus glows brightly.~
+~
+1 1 0 0 0 16385 0 0 0
+0 0 800 0
+1 2367 1100
+E
+Fungus Glowing~
+The fungus is kind of slimy and doesn't smell too great.  It glow brightly with
+a natural bio-luminescence.
+~
+A
+24 -6
+B
+0 0 0 0
+#283
+dead roach rand_item~
+a dead roach~
+A dead roach is lying on it's back.~
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0
+1 15 45
+B
+0 0 0 0
+#284
+Shark Tooth Necklace rand_item~
+a shark tooth necklace~
+A shark tooth necklace is here.~
+~
+9 67 0 0 0 32769 0 0 0
+8 0 0 0
+2 48436 280
+E
+Shark Tooth Necklace~
+A large shark's tooth is strung on a thin leather thong.  It is very sharp. The
+tooth is a dingy white color.
+~
+A
+24 -2
+A
+18 2
+B
+0 0 0 0
+#285
+Lizard Eye rand_item~
+a lizard's eye~
+A large eye stares up at you.~
+~
+10 64 0 0 0 1 0 0 0
+15 50 18 19
+3 2188 218
+E
+Lizard Eye~
+The large eye has a glassy look to it.  It has begun to dry up and shrink.
+~
+B
+0 0 0 0
+#286
+Snake Skin rand_item~
+a snake skin~
+A long strip of dead snake skin is being blown about in the breeze.~
+~
+9 0 0 0 0 1025 0 0 0
+4 0 0 0
+4 2453 110
+E
+Snake Skin~
+The strip of skin is long and brown.  It seems light and fragile but is really
+quite tough.
+~
+A
+2 2
+B
+0 0 0 0
+#287
+green iridescent beetle wing rand_item~
+an iridescent wing~
+A green iridescent beetle wing is on the ground.~
+~
+9 524353 0 0 0 257 0 0 0
+2 0 0 0
+4 860 40
+E
+Green Beetle Wing~
+The wing is very hard and light.  It is iridescent green, the light dances
+playfully across it's surface.
+~
+A
+5 1
+B
+0 0 0 0
+#288
+green leaf cloak~
+a &09green&00 leaf cloak~
+Lying on the ground is a green leaf.~
+~
+9 97 16875008 0 0 5 0 0 0
+4 0 0 0
+1 100 90
+E
+Leaf Green Cloak~
+The cloak is thick and leaf green.  It seems to be woven out of leaves.  The
+leaves show no signs of turning brown or dying.
+~
+A
+12 10
+A
+5 1
+B
+0 0 0 0
+#289
+Stickler Plate rand_item~
+a Stickler plate~
+You see a large spiny plate sitting on the ground.~
+~
+9 524291 0 0 0 521 0 0 0
+4 0 0 0
+9 5236 120
+A
+5 2
+A
+17 -2
+B
+0 0 0 0
+#290
+egg shell~
+an egg shell~
+A piece of egg shell has been left here.~
+~
+9 524355 16875008 0 0 17 0 0 0
+6 0 0 0
+1 1000 250
+E
+Saurian Egg Shell~
+The Saurian egg shell is broken in half.  It is very thick and strong.  The
+shell is grey with purple spots.  It looks like it might fit on your head.
+~
+A
+19 1
+A
+13 15
+B
+0 0 0 0
+#291
+seed pod rand_item~
+a seed pod~
+A tiny seed pod is trying to sprout.~
+~
+10 66 0 0 0 1 0 0 0
+12 35 69 0
+1 1639 163
+B
+0 0 0 0
+#292
+Ox Yoke rand_item~
+a yoke~
+A yoke has been dropped here.~
+~
+9 128 0 0 0 5 0 0 0
+3 0 0 0
+10 1938 15
+E
+Yoke Ox~
+The yoke is very large and heavy.  It is made of hardened wood.  The two halves
+of the yoke are held together with a locking pin.
+~
+B
+0 0 0 0
+#293
+Iron Bracer rand_item~
+an iron bracer~
+A thick iron circle is laying on the ground.~
+~
+9 3 0 0 0 4097 0 0 0
+5 0 0 0
+5 12830 135
+E
+Iron Bracer~
+The bracer is made of heavy iron.  It has been polished and coated to resist
+rust and corrosion.
+~
+A
+13 10
+A
+12 10
+B
+0 0 0 0
+#294
+Bronze Ring rand_item~
+a bronze ring~
+Lying on the ground you notice a small bronze ring.~
+~
+9 354 0 0 0 3 0 0 0
+4 0 0 0
+2 5342 90
+E
+Bronze Ring~
+The ring is made of solid bronze.  It has holy symbols engraved all the way
+around it.
+~
+A
+12 10
+A
+4 1
+B
+0 0 0 0
+#295
+arm band rand_item~
+a gold arm band~
+A shiny gold arm band lies on the ground.~
+~
+9 524354 0 0 0 257 0 0 0
+4 0 0 0
+4 3069 120
+A
+12 10
+A
+19 1
+B
+0 0 0 0
+#296
+Frying Pan rand_item~
+a frying pan~
+A heavy iron frying pan rests on the ground.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 5 7
+8 11215 50
+B
+0 0 0 0
+#297
+Golden Gold Bracer rand_item~
+a golden bracer~
+You see a bright golden bracer.~
+~
+9 99 0 0 0 4097 0 0 0
+6 0 0 0
+4 18300 170
+A
+19 1
+A
+12 10
+A
+3 -1
+B
+0 0 0 0
+#298
+Tree Branch rand_item~
+a tree branch~
+A branch has fallen off a tree.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 3 2
+5 4033 100
+A
+1 1
+A
+4 1
+B
+0 0 0 0
+#299
+bark shield~
+a piece of bark~
+You see a piece of tree bark on the ground.~
+~
+9 524352 16875008 0 0 513 0 0 0
+5 0 0 0
+1 1000 115
+E
+Piece Bark~
+The piece of bark is large enough to be worn as a chest plate.  It is very
+sturdy and kind of heavy.
+~
+A
+5 1
+A
+19 1
+B
+0 0 0 0
+#300
+Hard Wood Shield rand_item~
+a hard wood shield~
+On the ground you see a hard wood shield.~
+~
+9 524608 0 0 0 513 0 0 0
+4 0 0 0
+9 8425 110
+E
+Hard Wood Shield~
+The shield is made out of the hardest wood you've ever seen.  It has been
+polished until it shines.  A large tree has been inlaid on the front of it.
+~
+A
+4 1
+A
+19 1
+B
+0 0 0 0
+#301
+Deer Skin Leggings rand_item~
+a pair of deer skin leggings~
+A large piece of deer skin lies in the dirt.~
+~
+9 524418 0 0 0 33 0 0 0
+4 0 0 0
+6 2480 80
+E
+Deer Skin Leggings~
+The leggings are white with brown spots.  They are thick and soft to the touch.
+~
+A
+2 1
+A
+5 1
+B
+0 0 0 0
+#302
+Large Iron Sickle rand_item~
+a large iron sickle~
+There is a large iron sickle on the ground.~
+~
+5 448 0 0 0 8193 0 0 0
+0 2 4 3
+6 1858 40
+E
+Large Iron Sickle~
+The sickle has a long curved iron blade, it seems very sharp.  The rural women
+use them to harvest grains.
+~
+A
+4 1
+B
+0 0 0 0
+#303
+iron ring rand_item~
+an iron ring~
+You notice an iron ring on the ground.~
+~
+9 0 0 0 0 3 0 0 0
+3 0 0 0
+1 800 65
+E
+Iron Ring~
+The iron ring is dull and shows signs of rust.  It seems worthless.  The ring
+probably fell off some farm implement.
+~
+A
+5 1
+A
+13 5
+B
+0 0 0 0
+#304
+Stones Stone Necklace rand_item~
+a stone necklace~
+Some stones on a piece of leather have been left here.~
+~
+9 67 0 0 0 32769 0 0 0
+5 0 0 0
+5 13280 115
+E
+Stone Necklace~
+The stones have been shaped into simple geometric forms.  The center stone is
+larger than the others.  It seems to glow and hum softly.  They are strung on
+a long strip of leather.
+~
+A
+19 1
+A
+2 1
+B
+0 0 0 0
+#305
+Stone Skull Cap rand_item~
+a stone skull cap~
+There is a stone cap lying here.~
+~
+9 524642 0 0 0 17 0 0 0
+4 0 0 0
+6 5381 90
+E
+Stone Skull Cap~
+The skull cap is carved out of stone.  Holy symbols are engraved all along the
+rim of the cap.
+~
+A
+12 10
+A
+3 1
+B
+0 0 0 0
+#306
+Fish Basket rand_item~
+a fish basket~
+A woven reed basket has been dropped here.~
+~
+15 128 0 0 0 16385 0 0 0
+300 1 0 0
+8 1980 390
+A
+3 2
+B
+0 0 0 0
+#307
+dead fish rand_item~
+a dead fish~
+A dead lake fish stares blankly up at you.~
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0
+1 17 45
+B
+0 0 0 0
+#308
+Bone Fish Hook rand_item~
+a bone fish hook~
+You nearly step on a small bone fish hook.~
+~
+5 130 0 0 0 8193 0 0 0
+0 3 2 11
+2 835 38
+A
+2 1
+B
+0 0 0 0
+#309
+Dark Crimson Cloak rand_item~
+a dark crimson cloak~
+A pile of dark crimson cloth is here.~
+~
+9 536643 32 0 0 1029 0 0 0
+6 0 0 0
+4 38000 190
+E
+Dark Crimson Cloak~
+The cloak is made out of the finest cloth, gold embroidery lines the edges of
+the cloak.  It is dark crimson and very soft to the touch.
+~
+A
+13 15
+B
+0 0 0 0
+#310
+Bracelet Jewelled rand_item~
+a jewelled bracelet~
+You are nearly blinded by a brightly jewelled bracelet.~
+~
+9 8306785 0 0 0 4097 0 0 0
+6 0 0 0
+3 28382 290
+E
+Bracelet Jeweled~
+Encrusted with dozens of large gems, the bracelet sparkles with an almost
+unnatural light.
+~
+A
+19 2
+A
+12 15
+B
+0 0 0 0
+#311
+Crocheted Shawl rand_item~
+a shawl~
+A crocheted shawl flutters in the breeze.~
+~
+9 5009665 32 0 0 1025 0 0 0
+6 0 0 0
+5 19366 142
+E
+Crocheted Shawl~
+Crocheted out of bright red wool, the shawl is soft and warm.  The ends have
+dark blue fringe.
+~
+A
+13 12
+B
+0 0 0 0
+#312
+Silver Gold Ring rand_item~
+a silver and gold ring~
+A ring of silver and gold sparkles brightly.~
+~
+9 67 0 0 0 3 0 0 0
+6 0 0 0
+1 18453 100
+E
+Silver Gold Ring~
+The ring is made out of gold and silver.  The gold and silver form a large
+braided pattern.  A large amethyst gem tops the band.
+~
+A
+4 1
+A
+5 1
+B
+0 0 0 0
+#313
+Feathered Cloak rand_item~
+a feathered cloak~
+You see a very colorful feathered cloak here.~
+~
+9 8308067 0 0 0 1025 0 0 0
+10 0 0 0
+7 78000 990
+E
+Feathered Cloak~
+The cloak is made of thousands of brightly colored feathers.  They form very
+intricate and hypnotic patterns.  The colors seem to dance as the cloak moves.
+It is surprisingly light for it's size.
+~
+A
+12 45
+A
+14 -20
+A
+1 -1
+B
+0 0 0 0
+#314
+Yergen's Crown rand_item~
+Yergen's crown~
+A valuable looking crown with large wings is here.~
+~
+9 8308195 0 0 0 17 0 0 0
+10 0 0 0
+15 100000 930
+E
+Yergen's Crown~
+The crown is a polished mithril semi-circular band.  It is about three inches
+wide.  There are two large white wings attached to the sides of the crown.
+~
+A
+12 40
+A
+13 15
+A
+5 -2
+A
+1 -1
+B
+0 0 0 0
+#315
+Omega Blue Robe rand_item~
+Omega Robe~
+A thick pile of blue material rests on the ground.~
+~
+9 8307811 0 0 0 9 0 0 0
+8 0 0 0
+12 74989 300
+E
+Omega Blue Robe~
+The robe is made of heavy blue material.  It is thick and soft.  There is a
+large omega symbol on the front of the robe.
+~
+A
+12 20
+A
+19 1
+A
+1 -1
+B
+0 0 0 0
+#316
+Soft Leather Boots rand_item~
+a pair of soft leather boots~
+On the ground you notice a pair of soft leather boots.~
+~
+9 3847267 32 0 0 65 0 0 0
+8 0 0 0
+4 56661 160
+E
+Soft Leather Boots~
+The boots are made out of a soft blue leather.  They seem to mold themselves
+around your feet.
+~
+A
+2 1
+A
+19 1
+B
+0 0 0 0
+#317
+Vegetable Peeler rand_item~
+a vegetable peeler~
+A vegetable peeler is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 5 3
+2 22325 340
+A
+2 1
+A
+23 -4
+B
+0 0 0 0
+#318
+Holy Mace rand_item~
+the Holy Mace~
+A large mace seems to radiate goodness.~
+~
+5 8312163 131616 0 0 8193 0 0 0
+0 7 4 7
+10 59420 725
+E
+Holy Mace~
+The head of the mace is solid mithril.  The handle is very hard wood, polished
+until it shines with a dark life all it's own.  There are holy symbols engraved
+along the handle.  The mace seems to radiate goodness.
+~
+A
+12 20
+A
+24 -4
+B
+0 0 0 0
+#319
+Arcane Dagger rand_item~
+the Arcane Dagger~
+A faint dagger shaped shadow comes from somewhere.~
+~
+5 8316003 0 0 0 8193 0 0 0
+0 7 4 11
+5 59425 725
+E
+Arcane Dagger~
+The dagger is formed of pure silver.  Arcane symbols seem to glow along it's
+blade.  The dagger's edge is very sharp.  It is cloaked in magical darkness,
+making it hard to see without the aid of magic.
+~
+A
+12 20
+A
+24 -4
+B
+0 0 0 0
+#320
+Experimental Potion rand_item~
+an experimental potion~
+A vibrant blue potion lies on the ground.~
+~
+10 67 0 0 0 1 0 0 0
+42 28 0 0
+4 60000 6000
+E
+Experimental Potion~
+The potion seems ready to explode with the energies it contains.  It is one of
+the Master Alchemists most secret formulas.
+~
+B
+0 0 0 0
+#321
+Deformed Ring rand_item~
+a deformed ring~
+A ring of twisted metal lies on the ground.~
+~
+9 65 0 0 0 3 0 0 0
+6 0 0 0
+2 34265 350
+E
+Deformed Ring~
+The ring is twisted and deformed.  The metal seems to have been subjected to an
+intense heat or stress.
+~
+A
+4 1
+A
+13 20
+B
+0 0 0 0
+#322
+Wood Spear rand_item~
+a wood spear~
+A long wood spear with a bronze tip has been left here.~
+~
+5 2 0 0 0 8193 0 0 0
+0 5 4 11
+6 25130 340
+A
+2 1
+A
+24 -4
+B
+0 0 0 0
+#323
+banded mail rand_item~
+a glowing suit of banded mail~
+A glowing suit of banded mail lies on the ground.~
+~
+9 524353 0 0 0 9 0 0 0
+9 0 0 0
+0 75000 195
+A
+2 1
+A
+17 -4
+A
+19 1
+B
+0 0 0 0
+#324
+halberd rand_item~
+a halberd~
+A mighty halberd lies against the wall.~
+slash~
+5 320 0 0 0 8193 0 0 0
+0 5 5 3
+16 12000 285
+A
+18 1
+A
+19 1
+B
+0 0 0 0
+#325
+amulet rand_item~
+an amulet~
+A mushroom shaped amulet lies on the ground.~
+~
+9 64 0 0 0 32769 0 0 0
+0 0 0 0
+2 1500 90
+A
+5 2
+B
+0 0 0 0
+#326
+bone rand_item~
+a large leg bone~
+A large leg bone rests on the ground.~
+crush~
+5 0 0 0 0 8193 0 0 0
+0 3 4 7
+5 300 30
+B
+0 0 0 0
+#327
+bracelet copper rand_item~
+a copper bracelet~
+A tarnished copper bracelet lies at your feet.~
+~
+9 192 0 0 0 4097 0 0 0
+-5 0 0 0
+10 23000 655
+A
+13 10
+A
+19 -4
+B
+0 0 0 0
+#328
+gem ruby rand_item~
+a large ruby~
+A large ruby lies on the ground, collecting dust.~
+~
+8 192 0 0 0 1 0 0 0
+0 0 0 0
+9 4000 0
+B
+0 0 0 0
+#329
+gem diamond rand_item~
+a glittering diamond~
+A glittering diamond lies at your feet.~
+~
+8 64 0 0 0 1 0 0 0
+0 0 0 0
+10 9500 0
+B
+0 0 0 0
+#330
+gem sapphire rand_item~
+a brilliant sapphire~
+A brilliant sapphire lies here, twinkling happily.~
+~
+8 64 0 0 0 1 0 0 0
+0 0 0 0
+7 3500 0
+B
+0 0 0 0
+#331
+gem lapis rand_item~
+a deep blue lapis lazuli~
+A deep blue lapis lazuli gem lies here.~
+~
+8 64 0 0 0 1 0 0 0
+0 0 0 0
+11 8500 0
+B
+0 0 0 0
+#332
+jewel tiger rand_item~
+the Tiger Jewel~
+The Tiger Jewel lies here blazing.~
+~
+8 256 0 0 0 16385 0 0 0
+0 0 0 0
+23 43000 140
+A
+2 1
+A
+18 2
+B
+0 0 0 0
+#333
+jewel red-eyed rand_item~
+the red-eyed jewel~
+The red-eyed jewel glares at you greedily.~
+~
+8 128 0 0 0 16385 0 0 0
+0 0 0 0
+30 35000 90
+A
+3 -2
+B
+0 0 0 0
+#334
+gem emerald rand_item~
+a fiery green emerald~
+A fiery green emerald sits here.~
+~
+8 64 0 0 0 1 0 0 0
+0 0 0 0
+7 5500 0
+B
+0 0 0 0
+#335
+Bottle Potion Misty rand_item~
+a misty potion~
+An unlabled bottle of misty liquid is sitting here.~
+~
+10 65 0 0 0 1 0 0 0
+30 19 29 0
+2 4200 420
+B
+0 0 0 0
+#336
+Bronze Chest Plate rand_item~
+a bronze chest plate~
+Somebody has left a bronze chest plate here.~
+~
+9 524288 0 0 0 9 0 0 0
+8 0 0 0
+9 5403 270
+A
+24 -2
+A
+23 -2
+B
+0 0 0 0
+#337
+Bronze Helm rand_item~
+a bronze helm~
+Somebody has left a bronze helm here.~
+~
+9 134742016 0 0 0 17 0 0 0
+8 0 0 0
+9 5419 270
+A
+24 -2
+A
+23 -2
+B
+0 0 0 0
+#338
+Bronze Arm Plates rand_item~
+bronze arm plates~
+Somebody has left a bronze arm plates here.~
+~
+9 524288 0 0 0 257 0 0 0
+8 0 0 0
+9 5426 270
+A
+24 -2
+A
+23 -2
+B
+0 0 0 0
+#339
+Bronze Leg Plates rand_item~
+bronze leg plates~
+Somebody has left a bronze leg plates here.~
+~
+9 524288 0 0 0 33 0 0 0
+8 0 0 0
+9 5428 270
+A
+24 -2
+A
+23 -2
+B
+0 0 0 0
+#340
+Bronze Sword rand_item~
+a bronze sword~
+Someone has dropped a bronze sword here.~
+~
+5 536576 32 0 0 8193 0 0 0
+0 7 4 3
+9 5464 585
+A
+24 -2
+A
+23 -2
+B
+0 0 0 0
+#341
+Trainee's Bronze Sword rand_item~
+a trainee's bronze sword~
+Someone has dropped a bronze sword here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 7 3 3
+9 4233 160
+B
+0 0 0 0
+#342
+Vermilion Scroll rand_item~
+a vermilion scroll~
+A vermilion scroll is lying here.~
+~
+2 64 0 0 0 1 0 0 0
+25 57 0 0
+2 2683 268
+B
+0 0 0 0
+#343
+indigo scroll rand_item~
+an indigo scroll~
+An indigo scroll is lying here.~
+~
+2 64 0 0 0 1 0 0 0
+25 56 0 0
+2 2643 264
+B
+0 0 0 0
+#344
+Emerald Scroll rand_item~
+an emerald scroll~
+An emerald scroll is lying here.~
+~
+2 64 0 0 0 1 0 0 0
+40 4 0 0
+2 2643 264
+B
+0 0 0 0
+#345
+Bronze Dagger rand_item~
+a bronze dagger~
+Someone has dropped a bronze dagger here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 7 3 3
+9 4233 160
+B
+0 0 0 0
+#346
+Bronze Mace rand_item~
+a bronze mace~
+Someone has dropped a bronze mace here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 7 3 3
+9 4233 160
+B
+0 0 0 0
+#347
+Potion Red Blood Cure rand_item~
+a blood red potion~
+A blood red potion lies here.~
+~
+10 1 0 0 0 1 0 0 0
+25 62 0 0
+1 1552 155
+B
+0 0 0 0
+#348
+Rainbow Triangle rand_item~
+a rainbow triangle~
+A rainbow triangle casts a peaceful light.~
+~
+1 1027 0 0 0 16385 0 0 0
+0 0 -1 0
+1 10000 1190
+E
+Rainbow Triangle~
+The small metal triangle is brightly colored like a rainbow.  It casts a warm
+soothing light that seems to come from every direction at once.  As you gaze
+into it's bright surface, all feelings of violence seem to leave you.
+~
+A
+19 2
+A
+4 1
+B
+0 0 0 0
+#349
+wild mushroom rand_item~
+a wild mushroom~
+A wild mushroom is lying here.~
+~
+10 64 0 0 0 1 0 0 0
+20 43 94 0
+1 849 84
+B
+0 0 0 0
+#350
+Dried Weed rand_item~
+a dried weed~
+A dried weed is lying here.~
+~
+10 64 0 0 0 1 0 0 0
+20 44 0 0
+1 816 81
+B
+0 0 0 0
+#360
+X~
+X~
+An X is lying here.~
+~
+13 16842764 0 0 0 1 0 0 0
+0 0 0 0
+1 10 0
+B
+0 0 0 0
+#361
+testing sword~
+a testing sword~
+A sword designed for testing is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 30 1 3
+0 0 3185
+B
+0 0 0 0
+#388
+grab bag~
+a grab bag~
+A grab bag~
+~
+15 0 0 0 0 1 0 0 0
+100 0 -1 0
+10 10000 100
+B
+0 0 0 0
+#401
+a crooked walking stick~
+a crooked walking stick~
+A wooden stick with "the Curse" inscribed on its side lies here.~
+~
+8 33620040 0 0 0 16385 0 0 0
+0 0 0 0
+20 1000000 6060
+A
+19 4
+A
+17 -50
+A
+17 -50
+A
+29 30
+A
+27 -60
+A
+31 10
+B
+16809984 524288 0 0
+#500
+cracker food~
+a baked cracker~
+A baked cracker has been dropped here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 5 18
+E
+cracker~
+Baked flour paste and pressed into thick crackers this is sure to hit the spot.
+~
+B
+0 0 0 0
+#501
+slice bread food~
+a slice of bread~
+A slice of bread has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+1 10 36
+E
+slice bread~
+Golden brown and still warm to the touch. The smell makes your mouth water.
+~
+B
+0 0 0 0
+#502
+loaf bread food~
+a loaf of bread~
+A fresh loaf of bread sits here cooling.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+1 8 72
+E
+loaf bread~
+A rather large loaf of bread, it should fill you right up.
+~
+B
+0 0 0 0
+#503
+beef strip food~
+a strip of beef~
+A strip of dried beef has been dropped here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 5 18
+E
+strip dried meat~
+It looks pretty disgusting, but it fills an empty stomach.
+~
+B
+0 0 0 0
+#504
+meat food~
+a slab of meat~
+Freshly cooked meat lies here.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+1 5 36
+E
+slab meat food~
+A nice chunk of meat slowly roasted over the spits, should do the trick.
+~
+B
+0 0 0 0
+#505
+pot roast food~
+a pot roast~
+A steaming pot roast lies here.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+2 10 72
+E
+pot roast~
+A large pot roast should end your hunger for a while.
+~
+B
+0 0 0 0
+#506
+fruit dried food~
+some dried fruit~
+A pressed waffer of dried fruit lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 3 18
+E
+fruit dried~
+This fruit has been dried of all moisture but it should be a tasty treat.
+~
+B
+0 0 0 0
+#507
+cake food~
+a piece of cake~
+A piece of cake has been dropped here.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+1 5 36
+E
+cake~
+White frosting chocolate cake, yummy.
+~
+B
+0 0 0 0
+#508
+pie food~
+a pie~
+An entire pie sits here.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+2 10 72
+E
+pie~
+Made with ginger and spices, the smell of apples makes your stomach growl.
+~
+B
+0 0 0 0
+#601
+Helm_of_champions_warrior_quest~
+Helm of Champions~
+A helm of champions lies on the ground unattended.~
+~
+9 109015176 32 0 0 17 0 0 0
+13 0 0 0
+8 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#602
+Leggings_of_Champions_warrior_quest_gear~
+Leggings of Champions~
+The leggings of a champion are laying here in the dirt.~
+~
+9 109015176 32 0 0 33 0 0 0
+13 0 0 0
+8 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#603
+Gloves of a Champion_warrior_quest_gear~
+Gloves of a Champion~
+A pair of gloves from a champion lay here in the dirt.~
+~
+9 109015176 32 0 0 129 0 0 0
+13 0 0 0
+5 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#604
+Belt of Champions_warrior_quest_gear~
+Belt of Champions~
+A belt of champions lies folded on the ground.~
+~
+9 109015176 4194336 0 0 2049 0 0 0
+13 0 0 0
+6 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#605
+Cloak of Champions_warrior_quest_gear~
+Cloak of Champions~
+A cloak lies bundled up on the ground here.~
+~
+9 109015176 32 0 0 5 0 0 0
+13 0 0 0
+5 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#606
+Necklace of Champions_warrior_quest_gear~
+Necklace of Champions~
+A champions necklace lies here unattended.~
+~
+9 109015176 32 0 0 32769 0 0 0
+13 0 0 0
+5 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#607
+Armplates of the Champion_warrior_quest_gear~
+Armplates of the Champion~
+Heavy armplates of the champion are lying here in the dirt.~
+~
+9 109015176 32 0 0 257 0 0 0
+13 0 0 0
+10 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#608
+Shield of Champions_warrior_quest_gear~
+Shield of Champions~
+A huge shield of champions rests against the wall.~
+~
+9 109015176 32 0 0 513 0 0 0
+13 0 0 0
+12 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#609
+Helm of the Knight_sk_quest_gear~
+Helm of the Knight~
+A shiny helm lays here in the dirt.~
+~
+9 108000396 32 0 0 17 0 0 0
+15 0 0 0
+8 2000 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#610
+Leggings of a Knight_sk_quest_gear~
+Leggings of a Knight~
+A pair of shiny leggings lay in the dirt here.~
+~
+9 108000392 4194336 0 0 33 0 0 0
+15 0 0 0
+10 2000 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#611
+Gloves of the Knight_sk_quest_gear~
+Gloves of the Knight~
+A pair of shiny gloves rest on the ground here waiting to be used.~
+~
+9 108000396 32 0 0 129 0 0 0
+15 0 0 0
+5 2000 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#612
+Girdle of the Knight_sk_quest_gear~
+Girdle of the Knight~
+A shiny girdle is here waiting to be used.~
+~
+9 108000396 32 0 0 2049 0 0 0
+15 0 0 0
+10 2000 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#613
+Cloak of the Knight_sk_quest_gear~
+Cloak of the Knight~
+A long shiny cloak is bundled up in the corner.~
+~
+9 108000396 32 0 0 5 0 0 0
+15 0 0 0
+5 2000 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#614
+Necklace of the Knight_sk_quest_gear~
+Necklace of the Knight~
+A shiny necklace lies here in the dirt.~
+~
+9 108000396 32 0 0 32769 0 0 0
+15 0 0 0
+5 2000 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#615
+armband of the knight_sk_quest_gear~
+Armband of the Knight~
+A shiny pair of armbands lie here unused.~
+~
+9 108000392 32 0 0 257 0 0 0
+15 0 0 0
+8 2003 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#616
+shield of the knight_sk_quest_gear~
+Shield of the Knight~
+A huge silvery shield rests against the wall, waiting to be used in battle.~
+~
+9 108000392 32 0 0 513 0 0 0
+15 0 0 0
+12 2000 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#617
+Helm of Death_dk_quest_gear~
+Helm of Death~
+A dark helm is lying here glowing with power.~
+~
+9 106953352 32 0 0 17 0 0 0
+15 0 0 0
+5 2000 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#618
+Leggings of Death_dk_quest_gear~
+Leggings of Death~
+A pair of dark leggings lay in the dirt here.~
+~
+9 106953352 32 0 0 33 0 0 0
+15 0 0 0
+8 2000 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#619
+Gloves of Death_dk_quest_gear~
+Gloves of Death~
+A pair of dark gloves lay here unused.~
+~
+9 106953352 32 0 0 129 0 0 0
+15 0 0 0
+5 2000 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#620
+girdle death death_dk_quest_gear~
+Girdle of Death~
+A dark girdle lies here waiting to be used.~
+~
+9 106953352 32 0 0 2049 0 0 0
+15 0 0 0
+6 2000 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#621
+Cloak of Death_dk_quest_gear~
+Cloak of Death~
+A dark cloak glows in the moon light.~
+~
+9 106953352 32 0 0 5 0 0 0
+15 0 0 0
+5 2000 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#622
+Necklace of Death_dk_quest_gear~
+Necklace of Death~
+A dark black necklace is half buried in the dirt.~
+~
+9 106953356 32 0 0 32769 0 0 0
+15 0 0 0
+5 2000 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#623
+Armbands of Death_dk_quest_gear~
+Armbands of Death~
+A pair of dark armbands lay here unattended.~
+~
+9 106950792 32 0 0 257 0 0 0
+15 0 0 0
+8 2003 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#624
+Shield of Death_dk_quest_gear~
+Shield of Death~
+A long dark powerful shield rests against the wall glowing in the moon light.~
+~
+9 106953356 32 0 0 513 0 0 0
+15 0 0 0
+12 2000 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#625
+Helm of the Forest_ra_quest_gear~
+Helm of the Forest~
+A bright helm seems to blend in with its surroundings.~
+~
+9 108916872 32 0 0 17 0 0 0
+13 0 0 0
+5 2000 2050
+A
+19 5
+A
+13 30
+A
+12 15
+A
+14 10
+B
+0 0 0 0
+#626
+Leggings of the Forest_ra_quest_gear~
+Leggings of the Forest~
+A pair of forest green leggings lay here unattended.~
+~
+9 108916872 32 0 0 33 0 0 0
+13 0 0 0
+8 2000 2050
+A
+19 5
+A
+13 30
+A
+12 15
+A
+14 10
+B
+0 0 0 0
+#627
+Gloves of the forest_ra_quest_gear~
+Gloves of the Forest~
+A pair of gloves lay here blending into its surroundings.~
+~
+9 108916872 32 0 0 129 0 0 0
+13 0 0 0
+5 2000 2050
+A
+19 5
+A
+13 30
+A
+12 15
+A
+14 10
+B
+0 0 0 0
+#628
+Belt of the Forest_ra_quest_gear~
+Belt of the Forest~
+A belt lies here unattended waiting to be put to use.~
+~
+9 108916872 32 0 0 2049 0 0 0
+13 0 0 0
+6 2000 2050
+A
+19 5
+A
+13 30
+A
+12 15
+A
+14 10
+B
+0 0 0 0
+#629
+Cloak of the Forest_ra_quest_gear~
+Cloak of the Forest~
+The cloak of the forest lies here waiting to be put to use.~
+~
+9 108916872 32 0 0 5 0 0 0
+13 0 0 0
+5 2000 2050
+A
+19 5
+A
+13 30
+A
+12 15
+A
+14 10
+B
+0 0 0 0
+#630
+Necklace of the Forest_ra_quest_gear~
+Necklace of the Forest~
+A forest green necklace is here, waiting to be used.~
+~
+9 108916872 32 0 0 32769 0 0 0
+13 0 0 0
+5 2000 2050
+A
+19 5
+A
+13 30
+A
+12 15
+A
+14 10
+B
+0 0 0 0
+#631
+Armbands of the Forest_ra_quest_gear~
+Armbands of the Forest~
+Some armplates lay here unattended.~
+~
+9 108916872 32 0 0 257 0 0 0
+13 0 0 0
+10 2000 2050
+A
+19 5
+A
+13 30
+A
+12 15
+A
+14 10
+B
+0 0 0 0
+#632
+Shield of the Forest_ra_quest_gear~
+Shield of the Forest~
+A huge shield is here blending in with its surroundings.~
+~
+9 108916872 32 0 0 513 0 0 0
+13 0 0 0
+12 2000 2050
+A
+19 5
+A
+13 30
+A
+12 15
+A
+14 10
+B
+0 0 0 0
+#633
+Helm of the Assassin_as_quest_gear~
+Helm of the Assassin~
+A dull helm lies here unattended.~
+~
+9 108785800 32 0 0 17 0 0 0
+13 0 0 0
+6 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#634
+Leggings of the Assassin_as_quest_gear~
+Leggings of the Assassin~
+A pair of dull leggings lay here waiting to be used.~
+~
+9 108785800 32 0 0 33 0 0 0
+13 0 0 0
+6 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#635
+Gloves of the Assassin_as_quest_gear~
+Gloves of the Assassin~
+A pair of dull gloves lay here waiting to be used.~
+~
+9 108785800 32 0 0 129 0 0 0
+13 0 0 0
+5 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#636
+Belt of the Assassin_as_quest_gear~
+Belt of the Assassin~
+A dull belt is here waiting to be put to use.~
+~
+9 108785800 32 0 0 2049 0 0 0
+13 0 0 0
+6 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#637
+Cloak of the Assassin_as_quest_gear~
+Cloak of the Assassin~
+A dull cloak lies here unattended.~
+~
+9 108785800 32 0 0 5 0 0 0
+13 0 0 0
+5 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#638
+Necklace of the Assassin_as_quest_gear~
+Necklace of the Assassin~
+The necklace of the assassin lies here.~
+~
+9 108785800 32 0 0 32769 0 0 0
+13 0 0 0
+5 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#639
+Armbands of the Assassin_as_quest_gear~
+Armbands of the Assassin~
+Some assassin left his armbands laying here.~
+~
+9 108785800 32 0 0 257 0 0 0
+13 0 0 0
+9 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#640
+Shield of the Assassin_as_quest_gear~
+Shield of the Assassin~
+A dull shield is lying here.~
+~
+9 108785800 32 0 0 513 0 0 0
+13 0 0 0
+12 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#641
+Helm of the Thief_th_quest_gear~
+Helm of the Thief~
+A helm is here, waiting to be taken.~
+~
+9 109031560 32 0 0 17 0 0 0
+13 0 0 0
+5 2000 1835
+A
+19 5
+A
+18 4
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#642
+Leggings of the Thief_th_quest_gear~
+Leggings of the Thief~
+A thieves leggings lay here in the dirt.~
+~
+9 109031560 32 0 0 33 0 0 0
+13 0 0 0
+6 2000 1835
+A
+19 5
+A
+18 4
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#643
+Gloves of the Thief_th_quest_gear~
+Gloves of the Thief~
+A pair of old torn gloves lay here unattended.~
+~
+9 109031560 32 0 0 129 0 0 0
+13 0 0 0
+5 2000 1835
+A
+19 5
+A
+18 4
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#644
+Belt of the Thief_th_quest_gear~
+Belt of the Thief~
+An old leather belt lays here in the dirt.~
+~
+9 109031560 32 0 0 2049 0 0 0
+13 0 0 0
+6 2000 1835
+A
+19 5
+A
+18 4
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#645
+Cloak of the Thief_th_quest_gear~
+Cloak of the Thief~
+An old torn cloak lays here gathering dust.~
+~
+9 109031560 32 0 0 5 0 0 0
+13 0 0 0
+5 2000 1835
+A
+19 5
+A
+18 4
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#646
+Necklace of the Thief_th_quest_gear~
+Necklace of the Thief~
+A broken necklace lays here unattended.~
+~
+9 109031560 32 0 0 32769 0 0 0
+13 0 0 0
+5 2000 1835
+A
+19 5
+A
+18 4
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#647
+Armband of the Thief_th_quest_gear~
+Armband of the Thief~
+A thieves armband is lying here collecting dust.~
+~
+9 109031560 32 0 0 257 0 0 0
+13 0 0 0
+9 2000 1835
+A
+19 5
+A
+18 4
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#648
+Shield of the Thief_th_quest_gear~
+Shield of the Thief~
+An old torn up shield lies here.~
+~
+9 109031560 32 0 0 513 0 0 0
+13 0 0 0
+13 2000 1835
+A
+19 5
+A
+18 4
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#649
+Helm of Shadows_sd_quest_gear~
+Helm of Shadows~
+The shadows of a helm lay here.~
+~
+9 104853640 32 0 0 17 0 0 0
+13 0 0 0
+6 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#650
+Leggings of Shadows_sd_quest_gear~
+Leggings of Shadows~
+A pair of dark leggings lie here.~
+~
+9 104853640 32 0 0 33 0 0 0
+13 0 0 0
+7 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#651
+Gloves of Shadows_sd_quest_gear~
+Gloves of Shadows~
+A pair of dark gloves lie here unattended.~
+~
+9 104853640 32 0 0 129 0 0 0
+13 0 0 0
+5 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#652
+Belt of Shadows_sd_quest_gear~
+Belt of Shadows~
+A dark shaded belt lies here.~
+~
+9 104853640 32 0 0 2049 0 0 0
+13 0 0 0
+6 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#653
+Cloak of Shadows_sd_quest_gear~
+Cloak of Shadows~
+A dark swirling cloak lies here.~
+~
+9 104853640 32 0 0 5 0 0 0
+13 0 0 0
+5 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#654
+Necklace of Shadows_sd_quest_gear~
+Necklace of Shadows~
+A necklace is partially hidden in the dirt.~
+~
+9 104853640 32 0 0 32769 0 0 0
+13 0 0 0
+5 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#655
+Armbands of Shadows_sd_quest_gear~
+Armbands of Shadows~
+Dark armbands lie in here in the dirt.~
+~
+9 104853640 4194336 0 0 257 0 0 0
+13 0 0 0
+9 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#656
+Shield of Shadows_sd_quest_gear~
+Shield of Shadows~
+A dark shield is partially covered here in the dirt.~
+~
+9 104853640 32 0 0 513 0 0 0
+13 0 0 0
+13 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#657
+Helm of the Magician_mu_quest_gear~
+Helm of the Magician~
+A magical helm is lying here.~
+~
+9 109043848 32 0 0 17 0 0 0
+13 0 0 0
+6 2000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#658
+Leggings of the Magician_mu_quest_gear~
+Leggings of the Magician~
+A pair of leggings lie here glowing with a magical force.~
+a glowing arrow
+~
+9 109043848 32 0 0 33 0 0 0
+13 0 0 0
+6 2000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#659
+Gloves of the Magician_mu_quest_gear~
+Gloves of the Magician~
+A pair of magical gloves lie here in the dirt.~
+~
+9 109043848 32 0 0 129 0 0 0
+13 0 0 0
+5 2000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#660
+Girdle of the Magician_mu_quest_gear~
+Girdle of the Magician~
+A magical girdle is half buried in the dirt here.~
+~
+9 109043848 32 0 0 2049 0 0 0
+13 0 0 0
+6 2000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#661
+Cloak of the Magician_mu_quest_gear~
+Cloak of the Magician~
+A magical cloak lays here unattended.~
+~
+9 109043848 0 0 0 5 0 0 0
+13 0 0 0
+6 2000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#662
+Necklace of the Magician_mu_quest_gear~
+Necklace of the Magician~
+A necklace lies here glowing with magic.~
+$p is no longer as restorative.
+~
+9 109043848 32 0 0 32769 0 0 0
+13 0 0 0
+5 2000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#663
+Armbands of the Magician_mage_quest_gear~
+Armbands of the Magician~
+A pair of glowing armbands are lying here.~
+~
+9 109043848 32 0 0 257 0 0 0
+13 0 0 0
+8 2000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#664
+Shield of the Magician_mage_quest_gear~
+Shield of the Magician~
+A glowing shield is lying against the nearby wall.~
+~
+9 109043848 32 0 0 513 0 0 0
+13 0 0 0
+12 2000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#665
+Helm of Healing_cleric_quest_gear~
+Helm of Healing~
+A small helm is lying here.~
+~
+9 109039752 32 0 0 17 0 0 0
+13 0 0 0
+8 2000 1850
+A
+19 4
+A
+13 10
+A
+12 50
+A
+18 1
+B
+0 0 0 0
+#666
+Leggings of Healing_cleric_quest_gear~
+Leggings of Healing~
+A pair of small leggings are on the ground here.~
+~
+9 109039752 32 0 0 33 0 0 0
+13 0 0 0
+8 2000 1850
+A
+19 4
+A
+13 10
+A
+12 50
+A
+18 1
+B
+0 0 0 0
+#667
+Gloves of Healing_cleric_quest_gear~
+Gloves of Healing~
+A pair of small gloves lay here collecting dust.~
+~
+9 109039752 32 0 0 129 0 0 0
+13 0 0 0
+8 2000 1850
+A
+19 4
+A
+13 10
+A
+12 50
+A
+18 1
+B
+0 0 0 0
+#668
+Belt of Healing_cleric_quest_gear~
+Belt of Healing~
+A small belt lies here.~
+~
+9 109039752 32 0 0 2049 0 0 0
+13 0 0 0
+8 2000 1850
+A
+19 4
+A
+13 10
+A
+12 50
+A
+18 1
+B
+0 0 0 0
+#669
+Cloak of Healing_cleric_quest_gear~
+Cloak of Healing~
+A small cloak lies here.~
+~
+9 109039752 32 0 0 5 0 0 0
+13 0 0 0
+8 2000 1850
+A
+19 4
+A
+13 10
+A
+12 50
+A
+18 1
+B
+0 0 0 0
+#670
+Necklace of Healing_cleric_quest_gear~
+Necklace of Healing~
+A small necklace lies here in the dirt.~
+~
+9 109039752 32 0 0 32769 0 0 0
+13 0 0 0
+8 2000 1850
+A
+19 4
+A
+13 10
+A
+12 50
+A
+18 1
+B
+0 0 0 0
+#671
+Armbands of Healing_cleric_quest_gear~
+Armbands of Healing~
+A pair of small armbands lie here unattended.~
+~
+9 109039752 32 0 0 257 0 0 0
+13 0 0 0
+8 2000 1850
+A
+19 4
+A
+13 10
+A
+12 50
+A
+18 1
+B
+0 0 0 0
+#672
+Shield of Healing_cleric_quest_gear~
+Shield of Healing~
+A small shield is lying against a nearby wall.~
+~
+9 109039752 32 0 0 513 0 0 0
+13 0 0 0
+12 2000 1850
+A
+19 4
+A
+13 10
+A
+12 50
+A
+18 1
+B
+0 0 0 0
+#673
+Helm of Balance_shou_quest_gear~
+Helm of Balance~
+A unique helm is lying here.~
+~
+11 108523656 32 0 0 17 0 0 0
+0 0 0 0
+8 3002 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#674
+Leggings of Balance_shou_quest_gear~
+Leggings of Balance~
+A pair of unique leggings lie here unattended.~
+~
+9 109047944 32 0 0 33 0 0 0
+13 0 0 0
+8 3004 2070
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#675
+Gloves of Balance_shou_quest_gear~
+Gloves of Balance~
+A pair of unique gloves lie here.~
+~
+9 109047944 32 0 0 129 0 0 0
+13 0 0 0
+8 3042 2070
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#676
+Girdle of Balance_shou_quest_gear~
+Girdle of Balance~
+A unique looking girdle lies here.~
+~
+11 108523656 32 0 0 2049 0 0 0
+0 0 0 0
+8 2000 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#677
+Cloak of Balance_shou_quest_gear~
+Cloak of Balance~
+A unique cloak is bundled up on the floor here.~
+~
+9 108523656 32 0 0 5 0 0 0
+0 0 0 0
+8 2000 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#678
+Necklace of Balance_shou_quest_gear~
+Necklace of Balance~
+A unique looking necklace lies here unattended.~
+~
+9 108523656 32 0 0 32769 0 0 0
+0 0 0 0
+8 2000 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#679
+Armbands of Balance_shou_quest_gear~
+Armbands of Balance~
+A pair of unique armbands lie here.~
+~
+11 108523656 32 0 0 257 0 0 0
+0 0 0 0
+8 2007 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#680
+Shield of Balance_shou_quest_gear~
+Shield of Balance~
+A unique shield rests on the ground here.~
+~
+12 108523656 4194336 0 0 513 0 0 0
+0 0 0 0
+12 2005 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#681
+Helm of the Necromancer_necro_quest_gear~
+Helm of the Necromancer~
+A small dark helm lies here.~
+~
+9 109047944 0 0 0 17 0 0 0
+13 0 0 0
+8 2000 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#682
+Leggings of the Necromancer_necro_quest_gear~
+Leggings of the Necromancer~
+A pair of small dark leggings lie here.~
+~
+9 109047944 0 0 0 33 0 0 0
+13 0 0 0
+8 2000 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#683
+Gloves of the Necromancer_necro_quest_gear~
+Gloves of the Necromancer~
+A pair of small dark gloves lie here.~
+~
+9 109047944 0 0 0 129 0 0 0
+13 0 0 0
+8 2000 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#684
+Belt of the Necromancer_necro_quest_gear~
+Belt of the Necromancer~
+A small dark belt is on the ground collecting dust.~
+~
+9 109047944 0 0 0 2049 0 0 0
+13 0 0 0
+8 2000 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#685
+Cloak of the Necromancer_necro_quest_gear~
+Cloak of the Necromancer~
+A dark cloak lies here unattended.~
+~
+9 109047944 0 0 0 5 0 0 0
+13 0 0 0
+8 2000 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#686
+Necklace of the Necromancer_necro_quest_gear~
+Necklace of the Necromancer~
+A small dark necklace lies here collecting dust.~
+~
+9 109047944 0 0 0 32769 0 0 0
+13 0 0 0
+8 2000 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#687
+Armbands of the Necromancer_necro_quest_gear~
+Armbands of the Necromancer~
+A pair of dark armbands lie here in the dirt.~
+~
+9 109047944 0 0 0 257 0 0 0
+13 0 0 0
+8 2000 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#688
+Shield of the Necromancer_necro_quest_gear~
+Shield of the Necromancer~
+A dark shield is rested against the nearby wall.~
+~
+9 109047944 0 0 0 513 0 0 0
+13 0 0 0
+8 2000 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#689
+anklets death~
+Anklets of Death~
+A menacingly dark chain linked to a manacle that drinks in the light lies here.~
+~
+9 39841792 32 0 0 131073 0 0 0
+15 0 0 0
+1 1000000 2120
+A
+19 5
+A
+18 1
+A
+13 30
+A
+12 15
+B
+0 0 0 0
+#690
+Anklets of the Magician mage_quest_gear~
+Anklets of the Magician~
+Golden ropes with small glowing balls orbiting around them lie here.~
+~
+9 8380480 32 0 0 131073 0 0 0
+13 0 0 0
+1 236000 1660
+A
+19 4
+A
+13 20
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#691
+mask assassin quest~
+Mask of the Assassin~
+A black mask is lying here.~
+~
+9 41676808 32 0 0 524289 0 0 0
+13 0 0 0
+5 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#692
+leggings balance~
+Leggings of Balance~
+A pair of unique leggings lie here unattended.~
+~
+9 109047944 32 0 0 33 0 0 0
+13 0 0 0
+8 3004 2070
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#693
+Ring of the Thief~
+Ring of the Thief~
+A small ring has been tossed to the ground. ~
+~
+9 109031432 32 0 0 3 0 0 0
+8 0 0 0
+2 666 1755
+A
+19 5
+A
+18 4
+A
+17 -8
+A
+13 20
+A
+14 15
+B
+0 0 0 0
+#700
+Anklets of Shadows_sd_quest_gear~
+Anklets of Shadows~
+A pair of dark anklets lay here unattended.~
+~
+9 104583304 32 0 0 131073 0 0 0
+13 0 0 0
+8 2001 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#701
+Mask of Shadows_sd_quest_gear~
+Mask of Shadows~
+A dark mask lies here in the dirt.~
+~
+9 104585352 32 0 0 524289 0 0 0
+13 0 0 0
+8 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#702
+A Ball of Magic_mage_quest_gear_held~
+a Ball of Magic~
+A magical ball is lying here.~
+~
+24 67 0 0 0 1 0 0 0
+18001 -1 8 0
+8 9 1640
+Z 700
+A
+19 4
+A
+13 25
+A
+12 40
+A
+18 1
+B
+0 0 0 0
+#703
+Earring of the Champion_wa_quest_gear~
+Earring of the Champion~
+A small earring lies here unattended.~
+~
+9 109015176 32 0 0 262145 0 0 0
+13 0 0 0
+8 2001 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#704
+Earring of shadows_SD_quest_gear~
+Earring of Shadows~
+A pair of dark earings lay here.~
+~
+9 104853640 32 0 0 262145 0 0 0
+13 0 0 0
+1 2000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#705
+Boots of the Necromancer_necro_quest_gear~
+Boots of the Necromancer~
+A pair of small dark boots lie here unattended.~
+~
+9 109047944 0 0 0 65 0 0 0
+13 0 0 0
+8 2003 1730
+A
+19 4
+A
+13 25
+A
+12 35
+A
+18 1
+B
+0 0 0 0
+#706
+Armplates of Death_dk_quest_gear_ONE_strength~
+Armplates of Death with one strength~
+A pair of dark armbands lay here unattended.~
+~
+9 106953352 32 0 0 257 0 0 0
+15 0 0 0
+8 2459 2150
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+A
+1 1
+B
+0 0 0 0
+#707
+Helm of Balance_shou_quest_gear~
+Helm of Balance~
+A small unique helm lies here.~
+~
+11 108523656 32 0 0 17 0 0 0
+0 0 0 0
+8 2003 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#708
+Leggings of Balance_shou_quest_gear~
+Leggings of Balance~
+A pair of small leggings lay in the dirt.~
+~
+11 108523656 32 0 0 33 0 0 0
+0 0 0 0
+8 2003 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#709
+Armbands of Balance_shou_quest_gear~
+Armbands of Balance~
+A pair of small armbands lay here.~
+~
+11 108523528 32 0 0 257 0 0 0
+0 0 0 0
+8 2034 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#710
+Shield of Balance_shou_quest_gear~
+Shield of Balance~
+A small shield is here.~
+~
+11 109047944 32 0 0 513 0 0 0
+0 0 0 0
+12 2004 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#711
+The Mask of Soth_dk_quest_gear~
+the Mask of Soth~
+A mask of pure black is lying here.~
+~
+9 106953224 0 0 0 524289 0 0 0
+15 0 0 0
+11 1000000 2120
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+B
+0 0 0 0
+#712
+Mask of a Champion_warrior_quest_gear~
+Mask of a Champion~
+A mask of a Champion is laying here.~
+~
+9 8351880 32 0 0 524289 0 0 0
+13 0 0 0
+8 2000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#713
+armbands of shadows_SD_quest_gear~
+Armbands of shadows~
+A pair of dark armbands are lying here.~
+~
+9 104853512 32 0 0 257 0 0 0
+13 0 0 0
+8 1000000 1790
+A
+19 5
+A
+13 25
+A
+12 20
+A
+18 1
+B
+0 0 0 0
+#714
+yomar drop earwax quest_eq_warrior~
+a drop of &10Earwax&00~
+Yomar left a gooey drop of earwax lying here!  Ewwww!~
+~
+9 8286208 32 0 0 262273 0 0 0
+13 0 0 0
+1 50000 3400
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#715
+earring knight knight_quest_earring~
+Earring of the Knight~
+The earring of a legendary knight lays forsaken on the ground.~
+~
+9 40891392 32 0 0 262145 0 0 0
+15 0 0 0
+0 0 2130
+A
+19 5
+A
+13 30
+A
+12 20
+B
+0 0 0 0
+#716
+armor assassin assassin_quest_armor~
+Armor of the Assassin~
+A dull armor is is lying here.~
+~
+9 8056832 32 0 0 9 0 0 0
+13 0 0 0
+10 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#717
+tiny ff charm~
+&07a tiny '&08FF&07' charm&00~
+A tiny charm glistens in the light.~
+~
+9 41676808 32 0 0 262145 0 0 0
+13 0 0 0
+3 1000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#718
+earing unforgiven xandor~
+&07Earring of the&00 &01U&00&07nforgiven&00~
+An opal on a black chain lies here.~
+~
+9 39844363 32 0 0 262145 0 0 0
+15 0 0 0
+3 1000 2120
+A
+19 5
+A
+18 1
+A
+13 30
+A
+12 15
+B
+0 0 0 0
+#719
+khog thorn~
+a &05Giant&00 thorn~
+A pretty sweet earring lies here.~
+~
+9 8351755 32 0 0 262145 0 0 0
+13 0 0 0
+10 100 3400
+E
+thorn~
+This is one big earring what kind of crack-whore wears something like this?
+~
+A
+19 5
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#720
+Anklets of the Assassin_as_quest_gear~
+Anklets of the Assassin~
+A pair of shimmering anklets lay here.~
+~
+9 41676936 32 0 0 131073 0 0 0
+13 0 0 0
+6 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#721
+Boots_of_the_Champion_warrior_quest_gear~
+Boots of the champion~
+A pair of shimmering boots lay here.~
+~
+9 41906312 32 0 0 65 0 0 0
+13 0 0 0
+6 2000 3600
+A
+19 5
+A
+18 3
+A
+13 50
+A
+14 10
+B
+0 0 0 0
+#722
+Boots of Balance_shou_quest_gear~
+Boots of Balance~
+A pair of glittering boots lay here.~
+~
+11 41414784 4194336 0 0 65 0 0 0
+0 0 0 0
+6 2000 1850
+A
+19 5
+A
+13 30
+A
+12 15
+A
+17 -8
+B
+0 0 0 0
+#723
+Helm_of_champions_warrior_quest~
+&14Helm&00 of the &14D&08estroyer&00~
+A glittering helm lays here.~
+~
+9 41906176 32 0 0 17 0 0 0
+13 0 0 0
+6 2000 3850
+A
+19 5
+A
+18 3
+A
+13 50
+A
+14 10
+A
+24 -5
+B
+0 0 0 0
+#724
+battlelaces punja o724~
+&03Battlelaces&00 &06of the&00 &07Punja&00~
+A pair of dark anklets lay here unattended.~
+~
+11 37679240 4194336 0 0 131073 0 0 0
+0 0 0 0
+8 2001 1690
+A
+19 5
+A
+13 25
+A
+12 20
+A
+19 1
+A
+17 -10
+B
+0 0 0 0
+#725
+blood diamond reid~
+&08Blood&00 &21Diamond&00~
+A &08blood red&00 diamond pulsating with power lies here.~
+NOACTDESC~
+11 39844363 32 0 0 262145 0 0 0
+0 0 0 0
+3 1000 1920
+A
+19 5
+A
+13 30
+A
+12 15
+A
+18 1
+A
+17 -10
+B
+0 0 0 0
+#726
+earring assassin quest~
+Earing of the Assassin~
+An earring is lying here.~
+~
+9 41676808 32 0 0 262145 0 0 0
+13 0 0 0
+5 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#727
+Boots of the Assassin~
+Boots of the Assassin~
+An old pair of boots waits to be used.~
+~
+11 108785667 32 0 0 65 0 0 0
+0 0 0 0
+4 666 3930
+A
+13 50
+A
+14 50
+A
+19 5
+A
+18 5
+B
+0 0 0 0
+#728
+Sliver_assassin_cloak~
+Sliver_assassin_cloak~
+Adull cloak lies here unattended.~
+~
+9 108785672 32 0 0 5 0 0 0
+13 0 0 0
+5 2000 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+65536 0 0 0
+#729
+Ring of the Assassin~
+Ring of the Assassin~
+A dull ring lies here, clearly forgotten.~
+~
+9 75231240 32 0 0 3 0 0 0
+13 0 0 0
+0 0 1710
+A
+19 5
+A
+18 3
+A
+13 20
+A
+14 20
+B
+0 0 0 0
+#800
+qi sphere gods quest-item~
+Sphere of the Gods~
+&00A glowing orb of spiritual power lies here.~
+~
+1 65609 0 0 0 16385 0 0 0
+0 0 -1 0
+1 100000 1620
+E
+sphere gods quest-item~
+   A transparent spherical sheath contains a mass of spiritual energy
+within. Housed in the sphere are the emotions and desires of all
+humanity, for the user to observe and manipulate. Allowed to float 
+over the head, this mass of spiritual light brightens the area for
+many feet.
+~
+A
+19 4
+A
+19 1
+B
+0 0 0 0
+#801
+qi triton warhelm quest-item~
+the Triton Warhelm~
+&00A bell-shaped helmet, the likes of which you have never seen, lies here.~
+~
+9 589897 0 0 0 17 0 0 0
+10 0 0 0
+1 100000 1360
+E
+triton warhelm quest-item~
+   Made of a strange material found in the greatest depths of the
+ocean, this infinitely strong helm is emblazed with the sigil of
+the trident, a symbol of rulership and power. Worn, this great helmet
+colveres your entire head and face, but mysteriously, rather than 
+impairing your vision, it seems to enhance it.
+~
+A
+19 4
+A
+12 25
+A
+13 25
+B
+0 0 0 0
+#802
+qi winds storm quest-item~
+Winds of the Storm~
+&00Winds swirl about as if a small tornado has been contained here.~
+~
+9 589897 0 0 0 33 0 0 0
+10 0 0 0
+1 100000 1510
+E
+winds storm~
+Much more of a force than a mere piece of equipment, stepping into this 
+breezy aura gives one the feeling of being carried on the shoulders of 
+the winds themselves.  Indeed, your lower torso vanishes in a whirlwind of 
+swirling mist.
+~
+A
+14 100
+A
+18 4
+A
+19 4
+B
+0 0 0 0
+#803
+qi magma dagger quest-item~
+the Magmatic Dagger~
+&00A short bladed weapon of pure &08m&00&03a&00&08g&00&03m&00&08a&00 lies here, melting all around it.~
+~
+5 65609 0 0 0 8193 0 0 0
+0 18 2 11
+1 100000 3675
+E
+magma dagger quest-item~
+   Crafted of the hottest material known to man, this dagger is
+enchanted so that its lethal heat will harm all but the user of it.
+You gaze on it in wonder as its glow casts a red-orange tinge
+over all things near you.
+~
+A
+18 4
+A
+19 4
+A
+13 25
+B
+0 0 0 0
+#804
+qi coat elements quest-item~
+the Coat of the Elements~
+&00A strange coat rests on the ground here, pulsing ominously.~
+~
+15 33554513 0 0 0 1025 0 0 0
+1000 1 0 0
+15 1000000 1960
+E
+coat element quest_item~
+This coat was formed by the Gods to contain the leftover energy of
+the elements used to create this world. It is all colors, yet none..hot
+to the touch, yet cool,...and seems to whisper words of chaos and
+order in your ear. You wonder what new mysteries it will reveal to you in
+time.
+~
+A
+19 4
+A
+17 -15
+A
+14 20
+B
+0 0 0 0
+#806
+qi armor centurion quest-item~
+Armor of the Centurion~
+&00A superbly crafted suit of armor is laying here.~
+~
+9 589897 0 0 0 9 0 0 0
+15 0 0 0
+10 5000000 1640
+E
+armor centurion quest-item~
+This piece or armor was obviously forged by the greatest of master
+craftsmen. Intricately covered with ornate designs of gold and onyx,
+this armor was meant for Kings, even Gods! You are amazed with how
+perfect it fits you, seemingly molding itself to the contours of your body.
+~
+A
+13 30
+A
+19 4
+B
+0 0 0 0
+#807
+qi hammer fields wyn silver mallet quest-item~
+the Hammer of the Fields~
+A massive silver mallet lies here, cracking the earth beneath it.~
+~
+5 38015307 32 0 0 8193 0 0 0
+0 4 10 6
+16 5000000 2325
+E
+mallet hammer fields silver quest_item~
+This massive mallet shaped hammer is so heavy it takes both of your arms to
+lift it off the ground. Made of some metal you have never seen before,
+the Hammer of the fields is rumored in legend to have been used by the
+Gods to forge the heart of the world.
+~
+A
+19 4
+A
+18 3
+A
+13 25
+B
+0 0 0 0
+#808
+black storm qi cloud quest-item~
+&27Great Black Stormcloud&00~
+&00An ominous cloud of darkness hovers here.~
+~
+9 33620043 0 0 0 65537 0 0 0
+10 0 0 0
+9 25000 730
+E
+quest-item cloud black storm~
+You see a small but very dark and very threatening cloud
+floating off the ground. A low rumbling is coming from within
+and small brilliant stabs of blue-white spear outwards. It
+appears this nasty little storm is very protective of its owner
+and will attack anything that threatens.
+~
+A
+19 3
+A
+18 3
+A
+12 10
+A
+13 10
+B
+0 0 0 0
+#809
+ancient spirit qi quest-item~
+&13an Ancient Spirit&00~
+A dark ethereal prescence hovers about you in a blur.~
+~
+9 33620291 0 0 0 65537 0 0 0
+0 0 0 0
+9 20000 1180
+A
+19 3
+A
+18 1
+A
+12 25
+A
+17 -10
+A
+24 -5
+A
+20 -5
+B
+0 0 0 0
+#810
+nicodaemus maelstrom quest-item o810~
+&07A dark swirling maelstrom&00~
+A swirling maelstrom of storm power floats here.~
+~
+9 65609 0 0 0 65537 0 0 0
+10 0 0 0
+10 1000000 1710
+E
+maelstrom quest-item~
+Created by the Storm Lord, this small maelstrom contains within it all the
+power of nature's greatest storms.
+~
+A
+19 4
+A
+18 4
+A
+12 25
+A
+13 25
+B
+0 0 0 0
+#811
+band universe~
+the Band of the Universe~
+A cool circlet of crystal that radiates all the forces and natures of the universe lies here.~
+~
+11 65859 0 0 0 3 0 0 0
+0 0 0 0
+0 0 1480
+E
+band universe~
+   The band seems to be made of some sort of transparent crystal.  It swirls
+and spins with great speed, yet its details remain clear.  It emits light from
+deep within and it changes between all the colors of the spectrum.  This is
+definitely a heavenly source of arcane power and nature.    
+~
+A
+12 50
+A
+19 3
+A
+18 3
+B
+0 0 0 0
+#812
+rainstorm cloak quest storm~
+the Rainstorm Cloak~
+A refreshing shower of rain falls here.~
+~
+11 65859 0 0 0 5 0 0 0
+0 0 0 0
+5 100000 1420
+E
+rainstorm cloak storm~
+   The rain falls from and disappears to someplace unknown, but the Rainstorm
+Cloak falls none the less.  The water falls about the wearer, following their
+curves, but they do not become wet.  Such arcane phenomena could only come from
+divine sources.    
+~
+A
+12 45
+A
+17 -10
+A
+19 4
+B
+0 0 0 0
+#813
+trophy fool biggest~
+&15The Biggest Fool Trophy&00~
+A black halo floats above the ground here.~
+~
+11 67174401 0 0 0 65537 0 0 0
+0 0 0 0
+5 1000000 1710
+A
+13 25
+A
+12 25
+A
+18 4
+A
+18 1
+A
+19 4
+A
+19 1
+B
+524288 0 0 0
+D1200
+#814
+halo black champion lesser 814 quest~
+&07the greater black halo of champions&00~
+An unfinished object is lying here.~
+~
+11 67174400 0 0 0 65537 0 0 0
+0 0 0 0
+3 1000000 1020
+A
+19 4
+A
+18 4
+A
+12 10
+A
+13 10
+B
+0 0 0 0
+#815
+crystal sphere~
+an orbiting &14Crystaline&00 Sphere~
+An unfinished object is lying here.~
+~
+9 0 0 0 0 65537 0 0 0
+1 0 0 0
+0 1000000 1985
+A
+18 4
+A
+19 4
+A
+12 20
+A
+13 20
+A
+17 -20
+A
+29 30
+B
+1114112 0 0 0
+#816
+SuperBloodBowl 2012 Participant Statuette~
+SuperBloodBowl 2012 Participant Statuette~
+A silver trophy representing the losing team lies here.~
+This polished silver trophy is engraved with the words, "We came, we tried, we fell short."  There's always next year!~
+12 0 37748736 0 0 65537 0 0 0
+0 0 0 0
+0 0 170
+A
+13 10
+A
+12 10
+A
+19 1
+B
+0 0 0 0
+D72000
+#817
+SuperBloodBowl 2012 Champion Statuette~
+SuperBloodBowl 2012 Champion Statuette~
+A golden trophy representing the winning team lies here.~
+This gleaming monument is a testament to Teamwork.  Through hard work and dedication the members of the 2012 SuperBloodBowl team persevered over their rivals and emerged victorious.~
+12 0 37748736 0 0 65537 0 0 0
+0 0 0 0
+0 0 925
+A
+13 25
+A
+14 25
+A
+19 3
+B
+0 0 0 0
+D72000
+#818
+SuperBloodBowl 2012 MVP Award Statuette~
+SuperBloodBowl 2012 MVP Award Statuette~
+A golden statuette bust lies here.~
+This awe inspiring trophy is a complete bust cast in gold.  It is an honor to be in the presence of such greatness.  You truly are a Most Valuable Player.~
+12 0 37748736 0 0 65537 0 0 0
+0 0 0 0
+0 0 4090
+A
+13 50
+A
+12 50
+A
+19 5
+B
+0 0 0 0
+D72000
+#820
+death quest statue~
+a platinum statue~
+A small vampire statue molded of platinum lies here.~
+Vex statue - 20 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#821
+digger quest statue~
+a platinum statue~
+A small shoulin statue molded of platinum lies here.~
+Digger statue - 20 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#822
+kurse quest statue~
+a white gold statue~
+A small death knight statue molded of white gold lies here.~
+Kurse statue - 7 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#823
+baal quest statue~
+a white gold statue~
+A small assassian statue molded of white gold lies here.~
+Baal - 7 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#824
+morgana quest statue~
+a white gold statue~
+A small mage statue molded of white gold lies here.~
+Morgana - 7 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#825
+memnoch quest statue~
+a sterling silver statue~
+A small dragon statue molded of sterling silver lies here.~
+Memnoch statue - 4 points each
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#826
+enki quest statue~
+a sterling silver statue~
+A small warrior statue molded of sterling silver lies here.~
+Enki statue - 4 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#827
+jester quest statue~
+a sterling silver statue~
+A small assassian statue molded of sterling silver lies here.~
+Jester statue - 4 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#828
+hasana quest statue~
+a palladium statue~
+A small fairy statue molded of palladium lies here.~
+Hasana statue - 2 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#829
+corwin quest statue~
+a palladium statue~
+A small warrior statue molded of palladium lies here.~
+Corwin statue - 2 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#830
+kord quest statue~
+a palladium statue~
+A small warrior statue molded of palladium lies here.~
+Kord statue - 2 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#831
+tarin quest statue~
+a palladium statue~
+A small cleric statue molded of palladium lies here.~
+Tarin statue - 2 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#832
+kaidon quest statue~
+a palladium statue~
+A small death knight statue molded of palladium lies here.~
+Kaidon statue - 2 points each statue
+~
+8 67174408 0 0 0 1 0 0 0
+0 0 0 0
+0 10000 0
+B
+0 0 0 0
+#833
+quest lesser storm cloud~
+the Lesser StormCloud~
+A small black stormcloud hovers in mid-air right before you!.~
+~
+9 65611 0 0 0 65537 0 0 0
+8 0 0 0
+2 100000 590
+A
+19 3
+A
+18 3
+B
+0 0 0 0
+#834
+quest rain cloud~
+a Large Raincloud~
+A large grey cloud hovers here.~
+~
+9 65608 0 0 0 65537 0 0 0
+7 0 0 0
+1 50000 325
+A
+19 2
+A
+18 2
+B
+0 0 0 0
+#835
+quest lesser rain cloud~
+the Lesser Raincloud~
+A small grey cloud hovers in front of your eyes!~
+~
+9 65608 0 0 0 65537 0 0 0
+6 0 0 0
+1 30000 140
+A
+19 1
+A
+18 1
+B
+0 0 0 0
+#836
+Team1 Clue1~
+Team1 Clue1~
+Team1 Clue1~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Special Seats   
+ 
+ 
+hint for next clue look for something spooky
+~
+B
+0 0 0 0
+#837
+Team1 Clue2~
+Team1 Clue2~
+Team1 Clue2~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Reserved In Hades
+ 
+ 
+ 
+hint for next clue look for something that crawls
+~
+B
+0 0 0 0
+#838
+Team1 Clue3~
+Team1 Clue3~
+Team1 Clue3~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+For Whiskered Guys
+ 
+ 
+ 
+hint for next clue look for something that flies
+~
+B
+0 0 0 0
+#839
+Team1 Clue4~
+Team1 Clue4~
+Team1 Clue4~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Who Scratch Their Ladies
+ 
+ 
+ 
+hint for last clue look for one who is full of prayer
+~
+B
+0 0 0 0
+#840
+Team1 Clue5~
+Team1 Clue5~
+Team1 Clue5~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Burma Shave
+~
+B
+0 0 0 0
+#841
+Team2 Clue1~
+Team2 Clue1~
+Team2 Clue1~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Henry the VIII
+ 
+ 
+ 
+hint for next clue look for something spooky
+~
+B
+0 0 0 0
+#842
+Team2 Clue2~
+Team2 Clue2~
+Team2 Clue2~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Sure Had Troubles
+ 
+ 
+ 
+hint for next clue look for something that crawls
+~
+B
+0 0 0 0
+#843
+Team2 Clue3~
+Team2 Clue3~
+Team2 Clue3~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Short Term Wives
+ 
+ 
+hint for next clue look for something that flies
+~
+B
+0 0 0 0
+#844
+Team2 Clue4~
+Team2 Clue4~
+Team2 Clue4~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Long Term Stubble
+ 
+ 
+ 
+hint for last clue look for one who is full of prayer
+~
+B
+0 0 0 0
+#845
+Team2 Clue5~
+Team2 Clue5~
+Team2 Clue5~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Burma Shave
+~
+B
+0 0 0 0
+#846
+Team3 Clue1~
+Team3 Clue1~
+Team3 Clue1~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+The Bearded Lady
+ 
+ 
+ 
+hint for next clue look for something spooky
+~
+B
+0 0 0 0
+#847
+Team3 Clue2~
+Team3 Clue2~
+Team3 Clue2~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Tried A Jar
+ 
+ 
+ 
+hinr for next clue look for something that crawls
+~
+B
+0 0 0 0
+#848
+Team3 Clue3~
+Team3 Clue3~
+Team3 Clue3~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Now She's A
+ 
+ 
+ 
+hint for next clue look for something that flies
+~
+B
+0 0 0 0
+#849
+Team3 Clue4~
+Team3 Clue4~
+Team3 Clue4~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Famous Movie Star       
+ 
+ 
+ 
+hint for last clue look for one who is full of prayer
+~
+B
+0 0 0 0
+#850
+Team3 Clue5~
+Team3 Clue5~
+Team3 Clue5~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Burma Shave     
+~
+B
+0 0 0 0
+#851
+Team4 Clue1~
+Team4 Clue1~
+Team4 Clue1~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+A Chin Where
+ 
+ 
+ 
+hint for next clue look for something spooky
+~
+B
+0 0 0 0
+#852
+Team4 Clue2~
+Team4 Clue2~
+Team4 Clue2~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Barbed Bristles Stand
+ 
+ 
+ 
+hint for next clue look for something that crawls
+~
+B
+0 0 0 0
+#853
+Team4 Clue3~
+Team4 Clue3~
+Team4 Clue3~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Is Bound To Be
+ 
+ 
+ 
+hint for next clue look for something that flies
+~
+B
+0 0 0 0
+#854
+Team4 Clue4~
+Team4 Clue4~
+Team4 Clue4~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+A No Ma'ams Land
+ 
+ 
+ 
+hint for last clue look for one who is full of prayer
+~
+B
+0 0 0 0
+#855
+Team4 Clue5~
+Team4 Clue5~
+Team4 Clue5~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Burma Shave     
+~
+B
+0 0 0 0
+#856
+Team5 Clue1~
+Team5 Clue1~
+Team5 Clue1~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+To Kiss A Mug   
+ 
+ 
+ 
+hint for next clue look for something spooky
+~
+B
+0 0 0 0
+#857
+Team5 Clue2~
+Team5 Clue2~
+Team5 Clue2~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+That's Like A Cactus
+ 
+ 
+ 
+hint for next clue look for something that crawls
+~
+B
+0 0 0 0
+#858
+Team5 Clue3~
+Team5 Clue3~
+Team5 Clue3~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Takes More Nerve Than
+ 
+ 
+ 
+hint for next clue look for something that flies
+~
+B
+0 0 0 0
+#859
+Team5 Clue4~
+Team5 Clue4~
+Team5 Clue4~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+It Does Practice
+ 
+ 
+ 
+hint for last clue look for one who is full of prayer
+~
+B
+0 0 0 0
+#860
+Team5 Clue5~
+Team5 Clue5~
+Team5 Clue5~
+~
+13 67174540 0 0 0 1 0 0 0
+0 0 0 0
+2 100 0
+E
+clue~
+Burma Shave     
+~
+B
+0 0 0 0
+#861
+quest obelisk~
+Quest Obelisk~
+The Quest Obelisk stands here. Type read quest to see rules~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0
+E
+quest obelisk~
+Object - to take your group and seek out the clues for your team, put them together to form the short poem and be the first to tell Corwin what your
+poem is. To tell Corwin the answer for your team use Mudmail ONLY.
+
+Rules - no PK of other questers to slow them down or rob them is permitted
+Rules - No holding of other teams clues is permitted but you may make a note
+of the content of their clue(s) and dest them. Removing other team's clues
+    from the game IS permitted as a tactic.
+Rules You must mudmail me your team member's names and your team leader.
+Rules - You may not recall or summon other teams away from their searches but
+of course you may track them without using follow command.
+Bonus - After you have sent me the answer for your team and I have mudmailed
+    you back to say its right you may then proceed to try to solve the other
+    teams poems. Each additional poem you solve ups your prize IF you are
+    the first to send in your own poem correctly. You may keep solving other
+    teams poems until the Quest time limit is up.
+Time limit - This quest will last 3 days...72 hours from start time.
+Prizes - each team member will receive an equal share of prize(s) no MVP awards
+~
+B
+0 0 0 0
+#865
+stormcloud greater doofus orbit l~
+a greater StormCloud~
+Some &18&25Loser&00 left their badge here~
+~
+12 33554443 0 0 0 65537 0 0 0
+0 0 0 0
+1 0 940
+A
+19 -4
+A
+3 -3
+A
+4 -3
+B
+0 0 0 0
+#867
+sanji quest human ring standard~
+a ring with the words "Human Standard" written on it~
+The Human Standard ring lies here.~
+~
+8 33554444 0 0 0 3 0 0 0
+0 0 0 0
+0 0 3505
+E
+scroll list quest~
+a Land-Dweller milkshake
+some Land-Dweller Fries
+a Seaweed Salad
+a Land-Dweller Burger
+a "club sandwich"
+a Ring of Illusion
+the Robe of Valor
+a golden apple
+the First Dagger
+a bottle of Jyx
+the Key to the First Gateway
+the Key to the Second Gateway
+the Key to the Third Gateway
+the Key to the Fourth Gateway
+the Key to the Fifth Gateway
+the Key to the Sixth Gateway
+the Key to the Seventh Gateway
+the Key to the Eighth Gateway
+the Key to the Ninth and Final Gateway
+The corpse of an imprisoned githzerai
+a silverish two-handed Githyanki sword
+a devilish talisman
+a crimson ring
+a thin two-handed sword
+a black skull ring
+the Wand of Death
+supple black boots
+Thieve's eyepatch
+the brains of an alien god
+a shimmering band of energy
+Nuada's silver hand
+a suit of amethyst armor
+a steel fan
+a pair of Silverish Gauntlets
+a polished silver coin
+a black and yellow emblem
+a guised cloak
+a bejewelled staff
+a black leather belt
+a spider shaped dagger
+Sleeves of the Spider
+a spider pendant
+a small obsidian sphere
+Demon Horn
+~
+A
+13 50
+A
+14 75
+A
+19 4
+A
+18 4
+B
+1048576 0 0 0
+#868
+sanji quest halfling standard ring~
+a ring with the words "halfling standard" written on it~
+The halfling standard ring lies here.~
+~
+8 33554444 0 0 0 3 0 0 0
+0 0 0 0
+0 0 4465
+A
+12 50
+A
+13 50
+A
+14 75
+A
+19 4
+A
+18 4
+B
+128 0 0 0
+#869
+cloak sanji quest standard elf~
+a cloak with the words "elf standard" embroidered on it~
+The elf standard cloak lies here.~
+~
+8 33554444 0 0 0 5 0 0 0
+0 0 0 0
+0 0 6840
+A
+18 4
+A
+19 4
+A
+17 -50
+A
+12 50
+A
+13 50
+B
+262144 0 0 0
+#870
+pendant sanji quest drow standard~
+a pendant with the words "drow standard" written on it~
+The drow standard pendant lies here.~
+~
+8 33554444 0 0 0 32769 0 0 0
+0 0 0 0
+0 0 4340
+A
+13 50
+A
+18 4
+A
+19 4
+A
+12 50
+A
+14 50
+B
+1073742848 0 0 0
+#871
+jacket quest sanji dwarf standard~
+a jacket with the words "dwarf standard" stitched on it~
+The dwarf standard jacket lies here.~
+~
+8 33554444 0 0 0 9 0 0 0
+0 0 0 0
+0 0 6840
+A
+19 4
+A
+18 4
+A
+13 50
+A
+12 50
+A
+17 -50
+B
+40 0 0 0
+#872
+sanji quest minotaur standard helmet~
+a helmet with the words "minotaur standard" emblazoned on it~
+The minotaur standard helmet lies here.~
+~
+8 33554444 0 0 0 17 0 0 0
+0 0 0 0
+0 0 6130
+A
+18 4
+A
+19 4
+A
+17 -50
+A
+13 50
+A
+14 50
+B
+4194304 0 0 0
+#873
+ogre earring sanji quest standard~
+earrings with the words "ogre standard" written on them~
+The ogre standard earrings lie here.~
+~
+8 33554444 0 0 0 262145 0 0 0
+0 0 0 0
+0 0 4340
+A
+18 4
+A
+19 4
+A
+13 50
+A
+12 50
+A
+14 50
+B
+8192 0 0 0
+#874
+sanji quest troll standard mask~
+a mask with the words "troll standard" written on it~
+The troll standard mask lies here.~
+~
+8 33554444 0 0 0 524289 0 0 0
+0 0 0 0
+0 0 6130
+A
+18 4
+A
+19 4
+A
+17 -50
+A
+14 50
+A
+13 50
+B
+0 1024 0 0
+#875
+sanji quest gnome standard leggings~
+leggings with the words "gnome standard" written on them~
+The gnome standard leggings lie here.~
+~
+8 33554444 0 0 0 33 0 0 0
+0 0 0 0
+0 0 4870
+A
+18 4
+A
+19 4
+A
+17 -50
+A
+12 50
+A
+14 50
+B
+0 2048 0 0
+#876
+sanji quest anklets draconian standard~
+anklets with the words "draconian standard" written on them~
+The draconian standard anklets lie here.~
+~
+8 33554444 0 0 0 131073 0 0 0
+0 0 0 0
+0 0 6130
+A
+18 4
+A
+19 4
+A
+13 50
+A
+14 50
+A
+17 -50
+B
+196608 0 0 0
+#877
+sanji quest boot orc standard~
+boots with the words "orc standard" written on them~
+Orc standard boots lie here.~
+~
+8 33554444 0 0 0 65 0 0 0
+0 0 0 0
+0 0 6255
+A
+18 4
+A
+19 4
+A
+17 -50
+A
+14 75
+A
+13 50
+B
+32768 0 0 0
+#878
+sanji quest gloves standard demon~
+gloves with the words "demon standard" written on them~
+Demon standard gloves lie here.~
+~
+8 33554444 0 0 0 129 0 0 0
+0 0 0 0
+0 0 4410
+A
+18 4
+A
+19 4
+A
+1 5
+A
+14 20
+A
+17 -50
+B
+524288 0 0 0
+#879
+bracers sanji quest izarti standard~
+bracers with the words "Izarti standard" written on them~
+The Izarti standard bracers lie here.~
+~
+8 33554444 0 0 0 257 0 0 0
+0 0 0 0
+0 0 4340
+A
+18 4
+A
+19 4
+A
+12 50
+A
+13 50
+A
+14 50
+B
+4096 0 0 0
+#880
+werewolf sanji quest standard shield~
+a shield with the words "werewolf standard" emblazoned on it~
+The werewolf standard shield lies here.~
+~
+8 33554444 0 0 0 513 0 0 0
+0 0 0 0
+0 0 4190
+A
+18 4
+A
+19 4
+A
+12 50
+A
+13 50
+A
+14 20
+B
+0 524288 0 0
+#881
+vampire sanji quest standard cape~
+a cape with the words "vampire standard" embroidered on it~
+The vampire standard cape lies here.~
+~
+8 33554444 0 0 0 1025 0 0 0
+0 0 0 0
+0 0 4740
+A
+18 4
+A
+19 4
+A
+13 50
+A
+12 50
+A
+2 5
+B
+536870914 0 0 0
+#882
+faerie sash quest sanji standard~
+a sash with the words "faerie standard" stitched on it~
+The faerie standard sash lies here.~
+~
+8 33554444 0 0 0 2049 0 0 0
+0 0 0 0
+0 0 4740
+A
+18 4
+A
+19 4
+A
+12 50
+A
+13 50
+A
+3 5
+B
+128 0 0 0
+#883
+elemental bracelet standard quest sanji~
+a bracelet with the words "elemental standard" written on it~
+The elemental standard bracelet lies here.~
+~
+8 33554444 0 0 0 4097 0 0 0
+0 0 0 0
+0 0 4340
+A
+18 4
+A
+19 4
+A
+12 50
+A
+13 50
+A
+14 50
+B
+1048576 0 0 0
+#884
+giant quest sanji standard bracelet~
+a bracelet with the words "giant standard" written on it~
+The giant standard bracelet lies here.~
+~
+8 33554444 0 0 0 4097 0 0 0
+0 0 0 0
+0 0 4340
+A
+18 4
+A
+19 4
+A
+12 50
+A
+13 50
+A
+14 50
+B
+128 0 0 0
+#886
+rotting head undead standard sanji quest~
+a rotting head with "undead standard" scratched into its forehead~
+The undead standard rotting head lies here.~
+~
+8 33554444 0 0 0 16385 0 0 0
+0 0 0 0
+0 0 4740
+A
+18 4
+A
+19 4
+A
+12 50
+A
+13 50
+A
+2 5
+B
+8192 0 0 0
+#890
+quest unrestrained gratitude ariel~
+the unrestrained gratitude of Princess Ariel~
+The affections of a beautiful princess fill you with warmth.~
+~
+12 6189376 32 0 0 524289 0 0 0
+0 0 0 0
+1 1000000 1500
+E
+ariel gratitude mask~
+What is this?  Its a smothering of kisses and blessings.  Don't you feel special?
+~
+A
+19 4
+A
+17 -10
+A
+23 -5
+A
+13 25
+A
+18 2
+B
+0 0 0 0
+#891
+blessed guide path sephriana quest~
+the path of Sephriana's guide~
+The path that brought Sephriana out of the darkness lies before you.~
+~
+12 8302912 32 0 0 65 0 0 0
+0 0 0 0
+1 1000000 1270
+A
+19 4
+A
+2 2
+A
+14 50
+A
+1 4
+B
+0 0 0 0
+#892
+quiver runed o892~
+a runed quiver~
+A quiver lies here, covered in quicksilver runes.~
+~
+15 65600 0 0 0 16385 0 0 0
+400 1 -1 0
+1 10 400
+B
+0 0 0 0
+#893
+arrow magical o893~
+a magical arrow~
+An arrow made of pure magic is lying here.~
+a glowing arrow~
+7 16842828 0 0 0 0 0 0 0
+1 8 12 1
+1 0 0
+B
+0 0 0 0
+#894
+vial youth o894~
+a vial of water~
+A vial from the fountain of youth is lying here.~
+~
+10 33620236 0 0 0 1 0 0 0
+50 307 0 0
+5 0 0
+B
+0 0 0 0
+#895
+darkness veil o895~
+a veil of darkness~
+A veil of darkness hangs over the room.~
+~
+26 33554432 0 0 0 0 0 0 0
+1 0 0 0
+0 0 0
+B
+0 0 0 0
+#896
+dice 896 immortal~
+a set of dice~
+A set of dice, carved out of human bone, rest on the ground here.~
+~
+12 67108884 0 0 0 1 0 0 0
+0 0 0 0
+1 10000 0
+B
+0 0 0 0
+#897
+campsite site 897~
+a campsite~
+A campsite has been set up here, looking restorative.~
+$p is no longer as restorative.
+~
+26 0 0 0 0 0 0 0 0
+18 19 0 0
+1 10000 0
+B
+0 0 0 0
+#898
+runes warding o898~
+glowing runes~
+A string of glowing runes hang in midair.~
+The runes start to fade, dissipating quickly.
+~
+26 0 0 0 0 0 0 0 0
+3 0 0 0
+0 0 0
+B
+0 0 0 0
+#899
+multi list~
+a list of ok multi sites(read list)~
+A list of ok multi sites~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0
+E
+list~
+142.194.204.38
+203.54.39.190
+24.176.8.208 
+zis###.zbzoom.net
+*mozcom.net
+ap-ilongo-49.tac.pworld.net.ph
+*.southwest.com.au
+*.netcom.ca
+65.66.69.38/adsl-65-66-69-38.dsl.ltrkar.swbell.net
+gso28-229-158.triad.rr.com
+216-248-169-123.deltacom.net
+192.168.2.32
+d212-151-122-78.swipnet.se      baldur, morcai, angmar
+203.215.73.192  cafe in the Phillipines 4 players
+adsl-57.84.97.info.com.ph    is pierre.  max of 4 people. office line
+210.49.181.98
+ip142166091169.nbtel.net ONLY for the chars cirus and dane.
+Arys Xun and Ashkelon on some site.  No other names.  3 chars max
+68.84.130.2
+166.82.186.2 -msg.vnet.net  
+208.61.50.118 
+ 202.138.166.163 
+65.70.18.167 
+208-141-162-68.ida.net           3 ppl
+fl.24.96.25.184.cablemodem.gte.net  2ppl
+ppp-67-37-50-102.dialup.milwwi.ameritech.net 2 chars max
+24.210.119.71 2 chars Max
+156.34.21.99 max 2ppl
+65.31.149.102 max 2ppl
+68.205.2.94 3ppl
+Dardeene-68.188.39.56.charter-stl.com
+69.199.226.241 - Talis and Sen
+Thoth and Deleto - internet cafe users
+68-233-196-119.pittpa.adelphia.net - sorrow and atinap
+Aralin is the wife of Nagash/Soth
+Gutter and Shadowmax are roommates, same router
+Mordi and Blizzard mud together
+~
+B
+0 0 0 0
+$~

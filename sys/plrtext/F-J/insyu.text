@@ -1,0 +1,42 @@
+cb c 'cure blind' $*
+demon c 'demon' $*
+assistant c 'assistant
+hg c 'heal' group
+harm c 'harm' $*
+gc get all cor
+dc des cor
+recall c 'word' $*
+sag c 'sagacity' $*
+heal c 'heal' $*
+earth c 'earth' 
+assist c 'assistant'
+fort c 'fort' $*
+relocate c 'relocate' $*
+gt gs &08$* &00
+say say &08$* &00
+invis c 'detect invis' $*
+food cas 'create food'
+cleanse cast 'cleanse' $*
+sense cast 'sense life'
+di cast 'detect invi' $*
+cc cast 'cure crit'$*
+rel c 'relocate' $*
+summon c 'summon' $*
+fire  c 'demon fire' $*
+fly c 'fly' $*
+ward c 'ward' $*
+sum c 'summon' $*
+infra c 'infra' $*
+sac c 'sacrifice' $*
+sanc c 'sanc' $*
+regen c 'regen' $*
+da cast 'detect ali' $*
+armor cast 'armor' $*
+curse cast 'remove curse' $*
+blind c 'blind' $*
+banish c 'banish' $*
+b brew sanc shot
+ga group all
+rev c 'revive' $*
+x prac remove para
+flam c 'flame' $*

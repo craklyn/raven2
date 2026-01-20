@@ -1,0 +1,29 @@
+eee expose
+9 hold bow;wield grays;wear all;save
+aa o fol assist tiny
+sss get arrow quiv;shoot arrow $1 $2
+flet get all quiv;junk quiv;cast 'fletc';put all.arrow quiv
+3 get steak pouch;eat steak
+2 get all corpse;butcher corpse;put all.steak pouch
+tt track $1;track $1;track $1
+ds get all.steak pouch;drop all.steak
+kk get arrow quiv;shoot arrow $1
+a cast 'shield
+rrr recite recall recall
+pou put all.arrow quiv;put all pou;get all.rec pou;get quiv pou;save;group all
+rr rec rec
+q get arrow quiv;shoot arrow
+1 kick
+11 stand
+cw cast 'call of the wild'
+oo kill $1;o foll assist
+ee retreat east
+ss retreat south
+ww retreat west
+nn retreat n
+uu retreat up
+dd retreat down
+rf cast 'refr
+sw cast 'swarm'
+hw cast 'hands of wind'
+wak wake;stand

@@ -1,0 +1,50 @@
+ep explode corpse
+wra c 'wraith
+qi quest info
+loot get all all.sanson;wear all;wield will;hold broom
+gt gt &12$*&00 
+ok o fol kill $*
+ctc c 'call to corpse' $*
+fr o fol rescue $*
+ck close chest
+oc open chest
+dir l n;l e;l s;l w;l up;l down
+hall n;n;n;n;n;n;n;n;n;e;e;s;e;e
+cs c 'summon corpse' $*
+emb c 'emb' corpse
+wake wak;stand
+regen get regen beet;q regen
+co drop 1 coin
+exp c 'explode corpse' $*
+cc c 'charm corpse' corpse
+os o fol stand
+rep c 'resist poison' $*
+bw c 'bone wall' $*
+de destroy corpse
+crw c 'create warding'
+ed c 'energy drain' $*
+age c 'age' $*
+mal c 'male' $*
+fl c 'fly' $*
+bl c 'blind' $*
+invis c 'invis' $*
+ld c 'life drain' $*
+cw clanwho
+sp c 'soul pierce' $*
+sum c 'summon' $*
+csc c 'consume corpse' $*
+slo c 'slow' $*
+deb c 'debili' $*
+ent c 'entomb corpse' $*
+dis c 'disease' $*
+sil c 'silence' $*
+key get all.key all.corpse
+det c 'detect invis' $*
+sen c 'sense life' $*
+inf c 'infra' $*
+shi c 'shield' $*
+nox c 'nox' $*
+gc get corpse
+ai auction -info
+all get all all.corpse
+as o fol assist

@@ -1,0 +1,49 @@
+4 cast 'soul pierce' $*
+mobs q'ua-taro, priest of xerxes
+44 cast 'life drain' $*
+- recite elven
+6 cast 'maledict' $*
+9 cast 'disease' $*
+7 cast 'blind' $*
+/ gl gak
+11 take all all.cor
+o ord foll $*
+t scan $*
+res cast 'resist' $*
+a cast 'fly' $*
+3 cast 'consume corpse' $*
+invis cast 'invis' $*
+2 cast 'embalm' $*;take cor
+nox cast 'nox' $*
+[ gr
+[] gr
+wa wa;st
+p cast 'poison' $*
+sh cast 'shield' $*
+jj ungroup
+vv e;e;e;e;e;e;e;e;e;e;d;d;say ff
+v flee
+ff say ff
+]o ord foll assist
+wr cast 'wraith'
+ts cast 'sense'
+g cast 'charm corpse' $*;gr all
+q take all.gold all.cor
+1 take all all.cor
+vamp w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;s;e;s;s;s;s;s;s;s;s;s;s;s;s;s;s;e;e;e;e;e;e;e;s;s;s;e;e;e;e;n;n;n;n;e;e;e;s;s;s;
+j flee
+\\ ord foll doorbash e;st
+\ gl war
+eth cast 'wraith'
+bone cast 'bone wall' $*
+fly cast 'fly'
+di cast 'detect invis'
+sv cast 'infra'
+sum cast 'summon' $*
+deb cast 'debil' $*
+8 cast 'slow' $*
+'' cast 'explode corpse' $*
+''' cast 'explode corpse' $*
+] assist
+uu cast 'silence' mage
+' ord foll kill $*

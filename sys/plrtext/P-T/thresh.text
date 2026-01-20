@@ -1,0 +1,50 @@
+vine or urk k vine;;or fol ass;;ass;;c 'doom
+gak or urk k gak;;or fol ass;;ass;;c 'doom
+z or fol k op;;ass;;c 'doom
+skel or urk k skel;;or fol ass;;ass;;c 'doom
+0 rem thor;;wear fea;;rec pig pig;;rem fea;;wear thor
+vamp or urk k vampire_war;;or fol ass;;ass;;c 'doom
+haste remove thorn;;wear feather;;cast 'haste' group;;remove feather;;wear thorn
+gua or urk k chis;;or fol ass;;ass;;c 'doom
+vam or urk k vampire_War;;or fol ass;;ass;;c 'doom
+mer or fol k mer;;ass;;c 'doom
+cit or urk k cit;;or fol ass;;ass;;c 'doom
+lar or bod k larg;;or fol ass;;ass
+pas toggle passive
+o get all all.corpse
+rc cast 'remove curse' $1
+sle or fol sle;;sleep
+wa wake;;stand;;or fol wake;;or fol stand
+spring cast 'create spring'
+nex cast 'nexus' $1
+air cast 'airsphere' $1
+wra c 'wrath of the ancien'
+doom cast 'doom bolt'
+db cast 'doom bolt' $1
+port c 'portal' $1
+awa c 'awaken' self
+loc c 'locate objec' $1
+invis c 'invis' $1
+life c 'life drain'
+ld c 'life drain' $1
+sum c 'summon' $1
+bl c 'blind' $1
+shield c 'shield' $1
+id c 'identify' $1
+ts c 'true sight' $1
+col c 'colo spray'
+cp c 'color spray' $1
+web c 'web' $1
+conj c 'conjur ele'
+mon c 'monster summon'
+gate c 'gate'
+fb c 'flame blade' $1
+fly c 'fly' $1
+ch c 'charm person' $1
+infra c 'infra' self
+qw drink water;;drink fount
+shr c 'shriek'
+shri c 'shriek' $1
+bolt cast 'light bolt' $1
+ske or urk k skel;;or fol ass;;ass
+zom or urk k zomb;;or fol ass;;ass;;c 'doom

@@ -1,0 +1,725 @@
+#19201
+Below a Dark Stairway~
+You are beneath a dark stairway.  Little light filters through from above, 
+allowing you to see only a dim passage leading to the south.  You see around
+you decaying wood, and a musty smell assails your nostrils.  You look down
+and realize you are stepping on some type of feces.
+~
+192 32780 0 0 0 0 255 0
+D0
+~
+~
+0 0 7450
+D1
+~
+~
+0 0 7021
+D2
+You see the dim passage leading south.
+~
+~
+0 0 19202
+D4
+You see your way out of this dark hole.
+~
+grate~
+1 -1 3030
+S
+#19202
+A Hallway~
+You are in a dim hallway.  Unlit torches hang from the walls, but the
+little light coming from the north is enough for you to see around.  This
+hallway continues south and north, with doors to the west and east.
+~
+192 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 19201
+D1
+~
+door~
+1 -1 19206
+D2
+~
+~
+0 0 19203
+D3
+~
+door~
+1 -1 19205
+S
+#19203
+A Dim Hallway~
+You are in a dim hallway, deeper into this decrepit place.  You realize that
+this place used to be a basement of some sort.  This hallway leads north and
+south, with doors to the west and east.  There is less and less light coming
+from the north, and you can barely see what's south of you.  Hanging on the
+walls are some torches.
+~
+192 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 19202
+D1
+~
+door~
+1 -1 19208
+D2
+~
+~
+0 0 19204
+D3
+~
+door~
+1 -1 19207
+S
+#19204
+A Dim Hallway Above the Stairway~
+You are at the end of the dim hallway.  Below you are some old wooden stairs
+You can see that what's available of the light from the north can not penetrate
+the lower floor.  A room is to the west and to the east.  Hanging on the walls
+are some torches that look serviceable.
+~
+192 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 19203
+D1
+~
+door~
+1 -1 19210
+D3
+~
+door~
+1 -1 19209
+D5
+You see nothing in the gloom below.
+~
+~
+0 0 19211
+S
+#19205
+A Small Storage Room~
+You are in a small storage room.  Ripped up flour sacks litter this floor,
+along with some animal droppings.  The exit is to the east.
+~
+192 32776 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 19202
+S
+#19206
+A Small Storage Room~
+You are in a small storage room.  A pile of rags is against the far wall. You
+think you saw something move in the pile of rags!  The exit is to the west.
+~
+192 32776 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 19202
+S
+#19207
+A Small Storage Room~
+You are in a small storage room.  A horrid stench fills this room, smelling
+like some dead animal is rotting away here.  The exit is to the east.
+~
+192 32776 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 19203
+S
+#19208
+A Small Storage Room~
+You are in a small storage room.  A pile of filthy rags is against the far
+wall.  The exit is to the west.
+~
+192 32776 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 19203
+S
+#19209
+A Small Storage Room~
+You are in a small storage room.  A pile of filthy rags is against the far
+wall.  The exit is to the east.
+~
+192 32780 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 19204
+S
+#19210
+A Small Storage Room~
+You are in a small storage room.  Nothing of interest is here.  The exit is
+to the west.
+~
+192 32776 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 19204
+S
+#19211
+Beneath the Old Stairway~
+You are beneath the old stairway.  It reeks of dead meat and fecal matter here
+and the combined darkness makes this place quite forbidding.  Small rooms can
+be seen in the west and east, and a hallway leads north.  Unlit torches adorn
+the walls.
+~
+192 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 19212
+D1
+~
+door~
+1 -1 19216
+D3
+~
+door~
+1 -1 19215
+D4
+You see the relative safety of the upper floor.
+~
+~
+0 0 19204
+S
+#19212
+A Dark Hallway~
+You are in a dark hallway.  It appears that this part of the basement area is
+not fully complete in construction, and that the inhabitants here have made
+some make-shift arrangements.  The hallway leads north and south, with rooms
+to the west and east.  Unlit torches adorn the walls.
+~
+192 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 19213
+D1
+~
+door~
+1 -1 19218
+D2
+~
+~
+0 0 19211
+D3
+~
+door~
+1 -1 19217
+S
+#19213
+A Dark Hallway~
+You are in a dark hallway that leads north to south.  West and east of you are
+some roughly made rooms.  You can see that the wooden walls are incomplete, and
+parts of the walls are just dug from rock and packed soil.  Unlit torches
+are on the walls.
+~
+192 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 19214
+D1
+~
+door~
+1 -1 19220
+D2
+~
+~
+0 0 19212
+D3
+~
+door~
+1 -1 19219
+S
+#19214
+A Dark Hallway~
+You are in a dark hallway.  You see more exposed rock than wood now, as this
+unfinished place reveals it's state of incompleteness.  Someone must have 
+abandoned this place for a reason.  To the west and east are some makeshift
+bedrooms, and this hallway leads north and south.
+~
+192 32777 0 0 0 0 255 0
+D0
+~
+~
+0 0 19223
+D1
+~
+door~
+1 -1 19222
+D2
+~
+~
+0 0 19213
+D3
+~
+door~
+1 -1 19221
+S
+#19215
+A Storage Room~
+You are in a storage room.  Weapons and some armor are on the floor.  Most are
+broken, however, so they are useless to you.  The exit is to the east.
+~
+192 32777 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 19211
+S
+#19216
+A Storage Room~
+You are in a storage room.  "Food" and some useless tools are scattered all
+over the floor, but they sure don't look like anything you'd dare get near!
+The exit is to the west.
+~
+192 32777 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 19211
+S
+#19217
+A Bedroom~
+You are in a makeshift bedroom.  A pile of rags against a wall makes a bed,
+and some boards nailed together make a table.  The exit is to the east.
+~
+192 32777 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 19212
+S
+#19218
+A Bedroom~
+You are in a makeshift bedroom.  A pile of rags against a wall makes a bed,
+and a crate on it's side makes a rough cabinet.  The exit is to the west.
+~
+192 32777 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 19212
+S
+#19219
+A Bedroom~
+You are in a makeshift bedroom.  The only thing in this room is a bed made of
+a pile of rags.  The exit is to the east.
+~
+192 32777 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 19213
+S
+#19220
+A Bedroom~
+You are in a makeshift bedroom.  The only thing in this room is a bed made
+of a pile of rags.  The exit is to the west.
+~
+192 32777 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 19213
+S
+#19221
+A Bedroom~
+You are in a makeshift bedroom.  All you see in this room is a bed made of
+rags and a wooden box.  The exit is to the east.
+~
+192 32777 0 0 0 0 255 0
+D1
+~
+door~
+1 -1 19214
+S
+#19222
+A Bedroom~
+You are in a makeshift bedroom.  All you can see in this room is a bed made
+of rags and a shabbily built stool in the corner.  The exit is to the west.
+~
+192 32777 0 0 0 0 255 0
+D3
+~
+door~
+1 -1 19214
+S
+#19223
+A Stairway~
+You are on a landing of an old stairway.  The stairs creak as you put any 
+pressure on it, and the combined gloom of this place gives you the creeps. 
+The stairs lead both up and down, and a hallway is to the south.
+~
+192 32777 0 0 0 0 255 0
+D2
+~
+~
+0 0 19214
+D4
+~
+~
+0 0 19224
+D5
+~
+~
+0 0 19225
+S
+#19224
+A Meeting Room~
+You are in a roughly dug room, about 20 paces by 20 paces, and 8 paces high
+A table is in the center, with about a dozen chairs surrounding it.  A lit
+torch is on a wall, and you can tell that someone must do some upkeep here,
+because the obnoxious smell is less in this room.  The exit is down the
+stairway.
+~
+192 32776 0 0 0 0 255 0
+D5
+~
+~
+0 0 19223
+S
+#19225
+At the Bottom of the Stairs~
+You are at the bottom of the stairs, in a roughly dug room.  This area smells
+like swamp, with a warm and humid odor assailing your nostrils.  An ominously
+red light comes from the south, the other exit to this room being the
+stairs back up.
+~
+192 32777 0 0 0 0 255 0
+D2
+You think you smell smoke coming from the south.
+~
+~
+0 0 19226
+D4
+~
+~
+0 0 19223
+S
+#19226
+The Firedrake's Lair~
+You are in a large, roughly dug room, about 15 paces by 15 paces and 10 paces
+high.  A light smoke fills the air, and you see burn marks all around you. A
+steel door is to the east, another is to the west, and tunnels lead north and
+south.
+~
+192 32768 0 0 0 0 255 0
+D0
+~
+~
+0 0 19225
+D1
+~
+door steel~
+1 19202 19227
+D2
+~
+~
+0 0 19229
+D3
+~
+door steel~
+1 19202 19228
+S
+#19227
+The Treasure Room~
+You are in a small, unlit room.  There is nothing of interest here other than
+the obvious treasure piled in the center of this room!  The steel door leads
+west out of here.
+~
+192 32777 0 0 0 0 255 0
+D3
+~
+door steel~
+1 19202 19226
+S
+#19228
+The Leader's Quarters~
+You are in a small room.  A large desk and large chair make up the furnishings
+in this room, other than a painting on the north wall.  The steel door leads
+east out of here.
+~
+192 32777 0 0 0 0 255 0
+D1
+~
+door steel~
+1 19202 19226
+S
+#19229
+A Rough Tunnel~
+You are in a roughly dug tunnel.  The inhabitants of this lair must have begun
+to expand by excavating this area.  A lit lantern casts wavy shadows across
+this tunnel, which leads north and south.
+~
+192 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 19226
+D2
+~
+~
+0 0 19230
+S
+#19230
+A T-Intersection in the Tunnels~
+You are in an intersection in the tunnels.  A lit lantern casts a orange light
+in this tunnel, showing cages to the west, and side branches leading north and
+east.
+~
+192 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 19229
+D1
+~
+~
+0 0 19232
+D3
+You hear the pathetic whimpers of slaves.
+~
+cage~
+1 19203 19231
+S
+#19231
+A Large Cage~
+You are in a large, unlit cage.  It smells bad here, and you here squishing
+sounds as you tread around in this room.  The exit is to the east.
+~
+192 32777 0 0 0 0 255 0
+D1
+~
+cage~
+1 19203 19230
+S
+#19232
+A Bend in the Tunnels~
+You are in a bend in the tunnels.  A lantern blazes on a low ceiling.  The 
+exits are to the west and south.
+~
+192 32776 0 0 0 0 255 0
+D2
+~
+~
+0 0 19233
+D3
+~
+~
+0 0 19230
+S
+#19233
+A T-Intersection in the Tunnels~
+You are in a T-intersection in the tunnels.  A lantern shows exits in the
+cardinal directions.
+~
+192 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 19232
+D1
+~
+~
+0 0 19235
+D2
+~
+~
+0 0 19236
+D3
+~
+~
+0 0 19234
+S
+#19234
+An End of the Tunnel~
+You are at an end of the tunnel, and you can see signs of digging here.  The
+walls glitter from a lantern hung on a wall.  The exit is to the east.
+~
+192 32776 0 0 0 0 255 0
+D1
+~
+~
+0 0 19233
+S
+#19235
+An End of the Tunnel~
+You are at an end of the tunnel, and you can see signs of digging here.  The
+walls glitter from a lantern hung on a wall.  The exit is to the west.
+~
+192 32776 0 0 0 0 255 0
+D3
+~
+~
+0 0 19233
+S
+#19236
+The Tunnel~
+You are in the tunnels.  A high lantern shows exits to the north and south.
+The walls glitter slightly.
+~
+192 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 19233
+D2
+~
+~
+0 0 19237
+S
+#19237
+An End of the Tunnel~
+You are at an end of the tunnels.  A high lantern shows a large silver door
+to the south.  The door seems to glow.  The tunnel leads back north.  There is
+a large sign here, scribbled on it, 'Do NOT Enter!'
+~
+192 32776 0 0 0 0 255 0
+D0
+~
+~
+0 0 19236
+D2
+The sign says, 'Do NOT Enter!'
+~
+door silver~
+2 19201 19238
+E
+sign~
+The sign says, 'Do NOT Enter!'
+~
+S
+#19238
+A Small Shrine~
+You are in a small room.  For some reason, this room is much cleaner
+than the others in this decrepit area.  A candle burns smokelessly on a table
+in the middle of the room, and a small shrine is against the far wall.  The
+occupants of this area must avoid this room for some reason.  Some words are
+inscribed next to the shrine.  The exit is to the north.  A strange portal is
+to the west.
+~
+192 32780 0 0 0 0 255 0
+D0
+~
+door~
+2 19201 19237
+D3
+The portal has no keyhole, and you see no way to get through it.  You have
+the feeling that this portal takes you to a different plane of existence!
+~
+portal~
+1 -1 19239
+E
+words inscription inscribed walls wall~
+The inscribed words say,
+
+My Goddess Icaza,
+     My love for you shall never end, for you are the love of my life.  I
+dedicate this room to you, and I bless it so that no evil may ever enter
+this room.
+					Your Mortal Paladin,
+					Hatchet
+~
+S
+#19239
+On the Other Side of the Dimensional Portal~
+You are on the other side of this dimensional portal!  You look around, and
+see walls made of a golden substance harder than titanium and atlantium.  A
+divine light illuminates this room.  To the west, you see the rest of this
+estate, and to the east, you see a small room with a shrine through a hazy
+portal.
+~
+192 32776 0 0 0 0 255 0
+D1
+You see the small room with the shrine.~
+portal~
+1 -1 19238
+D3
+~
+~
+0 0 19240
+S
+#19240
+The Living Room of Icaza and Hatchet~
+You are in a large room.  Walls made of a golden substance harder than titanium
+and atlantium rise high to the ceilings.  Paintings, tapestries, and other
+beautiful objects of art merge into the walls, as if they are part of the
+walls themselves.  Two large thrones are in the center of this room.  A large
+door wrought from a platinum-like metal is to the north, and an equally large
+door wrought from a gold-like metal is to the south.  The other exit from this
+room is the hallway to the east, and a mysterious portal to the west.
+~
+192 32776 0 0 0 0 255 0
+D0
+The door looks impenetrable by mundane means.  A small sign says,
+'Hatchet'.
+~
+door~
+1 -1 19241
+D1
+~
+~
+0 0 19239
+D2
+The door looks impenetrable by mundane means.  A small sign says, 'Icaza'.
+~
+door~
+1 -1 19242
+E
+portal west~
+This portal seems impenetrable by mortal means.
+~
+S
+#19241
+Hatchet's Study~
+You are in a small, cluttered room.  You are amazed by the amount of trash in
+this room, especially compared to the large, opulent room this is connected to.
+A picture of the fair lady Icaza is on a wall, next to a Cindy Crawford
+calendar.  You can hear the song 'Somewhere Out There' in the background. 
+The exit is to the south.
+~
+192 32768 0 0 0 0 255 0
+D2
+~
+door~
+1 0 19240
+S
+#19242
+Icaza's Study~
+You are in a small room.  A large bed is in the corner, and a wooden rocker
+creaks of it's own will on the hardwood floors.  You can see a stuffed ducky
+and a stuffed piggie on the bed.  This bed looks like it's for display use
+only, as the owner of this room must sleep somewhere else.  You can hear
+the ringing of a small bell in the background.  The exit is to the north.
+~
+192 32768 0 0 0 0 255 0
+D0
+~
+door~
+1 0 19240
+S
+#19299
+Icaza's and Hatchet's Bedroom~
+You are in a large room.  Strangely, you see THREE beds in this room, a large
+brass bed, an equally large waterbed, and a smaller low futon.  All three look
+used, as if the owners of this room use all three beds depending on their 
+moods.  The smell of roses and perfumes permeates this room, and you can hear
+some soft jazzy music (Kenny G?) in the background.  There is no mortal
+exit from this room.
+~
+192 512 0 0 0 0 255 0
+S
+$~

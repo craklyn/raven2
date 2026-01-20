@@ -1,0 +1,19 @@
+portal cast 'portal'$*
+mana rem thorns;wear feather
+nomana rem feather;wear thorns
+tit title :: &09Wandering&00 Shaman
+ts cast 'true sight'$*
+clan clan &08$* &00
+sh cast 'shield'$*
+mm cast 'mag mis' $1 $2
+f cast 'fly'$*
+sum cast 'summon'$*
+fb cast 'flame blade'$*
+id cast 'identify'$*
+cs cast 'color spray'$*
+de cast 'infra'
+wa wake;stand
+str cast 'strength'$*
+i cast 'ice storm'
+haste cast 'haste'$*
+g assist warr

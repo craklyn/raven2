@@ -1,0 +1,23 @@
+r rescue $*
+b bash $*
+bli cast 'blindness' $*
+clan clan &14$*&00
+cl close door $*
+cp cast 'pestilence'
+ep enter portal
+lp look in portal
+cca cast 'chaos armor'
+cg cast 'black dart' grim $*
+caa cast 'aura of apocalypse'
+gt gtell &13[&00&06$*&00 &13]&00
+wo who
+pfg cast 'protection from good'
+ca cast 'armor' $*
+gac get all all.corpse
+zg rec elv elv
+z rec elv $*
+a assist $*
+cbd cast 'black dart' $*
+cda cast 'detect alignment' $*
+cdi cast 'detect invisibility' $*
+cbb cast 'black breath' $*

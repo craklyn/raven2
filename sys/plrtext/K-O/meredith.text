@@ -1,0 +1,21 @@
+j scan
+a assist thog
+arm cast 'armor' $*
+wf wear feather neck
+animate cast 'animate dead' $*
+da cast 'detect align' $*
+sa assist augustus
+r rescue $*
+wa wake;stand
+b bash $*
+re retreat east
+rn retreat north
+rw retreat west
+rs retreat south
+rd retreat down
+ru retreat up
+pfg cast 'protection from good'
+k murder $*
+aa cast 'aura of apocalypse'
+bd cast 'black dart' $*
+m meditate

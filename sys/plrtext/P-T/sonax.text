@@ -1,0 +1,18 @@
+\ kick $*
+- pick $*
+t kill 2.
+hall d;e;e;e;e;e;e;e;e;e;n;say gs
+3 l in corpse
+9 drink thimble
+00 l in beetle
+p scan
+wa wake;stand
+4 get all corpse
+2 rec elven
+m backstab $*
+1000 put all beetle;get all.sc beetle;get thimble beetle
+tt who -z
+] trip $*;stand
+cl clan $*
+5 cast 'sense life' $*
+/ pick $*

@@ -1,0 +1,20 @@
+tre e; take all; w
+d d;ex
+wake wake;stand
+u u;ex
+e e;ex
+n n;ex
+s s;ex
+w w;ex
+danceshad cast 'dance of shadows' self
+vision cast 'shadow vision' self
+walk cast 'shadow walk' self
+blur cast 'blur' self
+blade cast 'shadow blades'
+invis cast 'invis' self
+sphere cast 'shadow sphere'
+skills h shadow dancer
+blind cast 'blind'
+gt gtell &04 {> &01 $* &04 <} &00
+' ' &01 $* &00
+ls take all hunterkiller; wear all; take all hunterkiller; wear all; wield shad; hold g; east

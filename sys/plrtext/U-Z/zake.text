@@ -1,0 +1,29 @@
+` drink thim
+rc c 'remove curse' $*
+rr rem ankh;wear kerchief
+r rem kerchief;wear ankh
+spiders w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;u;n;n;e;u;s;e;w;n;w;s;w;d
+earth c 'earth'
+h c 'heal' $*
+fly c 'fly' $*
+infra c 'infra' $*
+g w;w;w;n;n;n;n;n;w;n;n;sleep
+gt gt (-(&14$*&00 )-)
+say say (-(&14$*&00 )-)
+sense c 'sense' $*
+cb c 'cure blind' $*
+summon c 'summon' $*
+regen c 'regen' $*
+ward c 'ward' $*
+word c 'word' $*
+gword c 'word' group
+di c 'detect invis' $*
+bl c 'blindness' $*
+armor c 'armor' $*
+cw c 'create water' $*
+food c 'create food'
+gtt gt &07(>&00&08"&00&07)>&00&14$*&00 &07<(&00&08"&00&07<)&00
+sanc c 'sanc' $*
+title tit :: &08DL&00
+a assist caine
+q c 'heal' akari

@@ -1,0 +1,17 @@
+tit3 title &01+&00 Angel of &07Death&00
+tit title &01+&00 Before you see the &14light&00 you must &01die&00
+tit2 title &00&01+ &04T&10h&08e&00 &01Butcher&00
+b shield $*
+= follow eye
+0 get all.paper all.corpse
+regen invi
+invi regen
+1 assist
+g gsay &01+&00&07$*&00 &01+&00
+t toss revive
+2 follow aba
+o order follower $1
+added: =
+f clan &01$* &00
+9 get all.black all.corp
+test &07th&00e &14Angel of D&00e&07ath&00

@@ -1,0 +1,1339 @@
+#23200
+Sietch Tabr Credits room~
+Most of this area is taken from Dune (the book) by
+Frank Herbert.  It has been adapted to suit the environment
+of RavenMUD.
+~
+232 1536 0 0 0 0 255 0
+S
+#23201
+&10Edge of the Great Erg&00~
+A vast expanse of sand stretches as far as you can see.  The heat here is
+unbelievable, you can literally feel the sun baking the moisture out of your
+body.  The air is perfectly still, and all you can hear is your own breathing.
+  
+~
+232 68 0 0 0 16 255 0
+D0
+~
+~
+0 0 23202
+D2
+~
+~
+0 0 31877
+S
+#23202
+&10The Great Erg&00~
+Your footprints fade away behind you.  A hot wind has come up, and tan dust
+swirls around your ankles.  &14Sparks&00 flash over your armor and skin from
+the static in the air.  You hear a dry rasping in the distance which makes your
+skin crawl.    
+~
+232 512 0 0 0 0 255 0
+D1
+   The dunes continue as far as you can see, however the land seems far to flat
+to be safe.  You get a terrible feeling in your soul about this....    
+~
+~
+0 0 23203
+D3
+~
+~
+0 0 23204
+S
+#23203
+&09A Tidal Dust Basin&00~
+As soon as take your first step, you regret it.  You sink up to your hips in
+tan colored dust the consistency of ground glass.  You attempt to turn around
+and go back, but your feet sleep, and you slip below the surface.  Dust fills
+your mouth and nose.  The dust swirls around you as you plummet to the bottom
+of the chasm.  You hit bottom with a bone-jarring thump, involuntarily gasping,
+and getting a lung full of the clinging dust.  Choking and gagging, you lose
+consciousness.    
+~
+232 518 0 0 0 0 255 0
+D1
+~
+~
+0 0 23204
+D2
+~
+~
+0 0 23201
+D3
+~
+~
+0 0 23202
+S
+#23204
+&10The Great Erg&00~
+Your footprints fade away behind you.  A hot wind has come up, and tan dust
+swirls around your ankles.  &14Sparks&00 flash over your armor and skin from
+the static in the air.  The rasping seems louder here and you see ripples in
+sand to the north.    
+~
+232 512 0 0 0 0 255 0
+D0
+~
+~
+0 0 23205
+D1
+~
+~
+0 0 23202
+D2
+~
+~
+0 0 23201
+D3
+   The dunes continue as far as you can see, however the land seems far to flat
+to be safe.  You get a terrible feeling in your soul about this....    
+~
+~
+0 0 23203
+S
+#23205
+&10The Great Erg&00~
+Your footprints fade away behind you.  A hot wind has come up, and tan dust
+swirls around your ankles.  &14Sparks&00 flash over your armor and skin from
+the static in the air.  The rasping is deafening here.  Lightning arcs from
+dune to dune.    
+~
+232 512 0 0 0 0 255 0
+D1
+~
+~
+0 0 23206
+D2
+The dunes continue as far as you can see, however the land seems far to flat
+to be safe. You get a terrible feeling in your soul about this....
+~
+~
+0 0 23203
+D3
+~
+~
+0 0 23204
+E
+block_dir~
+east
+~
+E
+block_msg_char~
+The worm is far too close for that!
+~
+E
+block_msg_room~
+The worm is far too close for that!
+~
+S
+#23206
+&10The Funeral Plain&00~
+Oddly, there are almost no dunes ahead of you.  The sand has turned to small
+flakes of rock, and white chalky dust rises after each step you take.  Off to
+the north you see a wide rocky canyon, and you start to worry about an ambush.
+  
+~
+232 512 0 0 0 0 255 0
+D0
+~
+~
+0 0 23210
+D1
+~
+~
+0 0 23207
+D3
+~
+~
+0 0 23205
+S
+#23207
+&10Drum Sand&00~
+Suddenly a deafening booming comes from around you, You'd better get out of
+here before a worm shows up!    
+~
+232 524832 0 0 0 16 255 0
+D1
+   You hear a dusty rasping sound coming from this direction, before your eyes
+you see the ground start to swirl in the wind, as if insubstantial.    
+~
+~
+0 0 23203
+D2
+   You hear a dusty rasping sound coming from this direction, before your eyes
+you see the ground start to swirl in the wind, as if insubstantial.    
+~
+~
+0 0 23203
+S
+#23208
+&07The Smuggler Base&00~
+Smugglers hurry around you, largly ignoring you.  You hear low conversations
+about a Harkonnen patrol in the area.    
+~
+232 8 0 0 0 0 255 0
+D1
+~
+stone~
+2 23225 23209
+S
+#23209
+&10The&00 &03Spice&00 &10Mine&00~
+Men scurry over the sand here mining the precious melange from the sand before
+the worm arrives.  Spotters keep any eye out for worm-sign from rocky ledges
+above.  After a few glances at you, most of the spice miners ignore you,
+~
+232 512 0 0 0 16 255 0
+D0
+~
+~
+0 0 23213
+D1
+~
+~
+0 0 23210
+D2
+   The dunes look perfectly normal, but you get a very bad feeling when you
+look that direction.    
+~
+~
+0 0 23203
+D3
+~
+stone~
+2 23225 23208
+S
+#23210
+&10Tuono Basin&00~
+The air is still as you walk across the sandy floor of the basin.  You flinch
+as a hawk screams high above, sensing your water.  A tower of tan colored dust
+rises to the west.    
+~
+232 512 0 0 0 16 255 0
+D0
+~
+~
+0 0 23214
+D1
+~
+~
+0 0 23211
+D2
+~
+~
+0 0 23206
+D3
+~
+~
+0 0 23209
+S
+#23211
+&10Tuono Basin&00~
+The air is still as you walk across the sandy floor of the basin.  A tower of
+tan colored dust rises off to the west.    
+~
+232 512 0 0 0 16 255 0
+D0
+~
+~
+0 0 23215
+D1
+~
+boulder~
+2 23211 23212
+D2
+~
+~
+0 0 23201
+D3
+~
+~
+0 0 23210
+S
+#23212
+&10The Cave of Riches&00~
+In the darkness here, you hear the drip of water.  As your eyes adjust to the
+lack of light, you see a row of storage cabinets across the back of the cavern.
+  
+~
+232 652 0 0 0 0 255 0
+D3
+~
+boulder~
+2 23211 23211
+S
+#23213
+&10Tuono Basin&00~
+The air is still as you walk across the sandy floor of the basin.  A tower of
+tan colored dust rises to the south.    
+~
+232 512 0 0 0 16 255 0
+D1
+~
+~
+0 0 23214
+D2
+~
+~
+0 0 23209
+S
+#23214
+&10Before Sietch Tabr&00~
+There is rock underfoot now, and you hear the quiet chirrup of some desert
+bird.  The feeling of being watched is overwhelming now, and you feel tension
+in the air.    
+~
+232 516 0 0 0 16 255 0
+D0
+~
+wall~
+1 23204 23217
+D1
+~
+~
+0 0 23215
+D2
+~
+~
+0 0 23210
+D3
+~
+~
+0 0 23213
+S
+#23215
+&10Tuono Basin&00~
+The air is still as you walk across the sandy floor of the basin.  You feel as
+if you were being watched, but you see nothing but the distant specs of birds
+in the cloudless sky.    
+~
+232 512 0 0 0 0 255 0
+D2
+~
+~
+0 0 23211
+D3
+~
+~
+0 0 23214
+S
+#23216
+&07A Water Reclamation Chamber&00~
+As the door closes behind you, you realize that this must be where the fremen
+reclaim the water from their dead.  You turn around to leave, but notice that
+there is no handle on the inside.  A bright light blinds you, and you feel
+incredible heat, as your body is drained of it's water.    
+~
+232 6 0 0 0 0 255 0
+D5
+~
+~
+0 0 23218
+S
+#23217
+&07The Entryway&00~
+You follow the tunnel up steps, a turn, more steps, out of the tunnel into a
+narrow passage with yellow rock walls and ceiling.  The air here is much
+cooler, and you hear the people wandering about, hard at work surviving in this
+hellish land.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23229
+D1
+~
+~
+0 0 23221
+D2
+~
+door~
+1 23204 23214
+S
+#23218
+&07A Large Kitchen&00~
+Sinks, ovens, grills, and supply shelves dominate this kitchen.  Huge pots of
+soup boil over a fire pit, and some unfortunate desert animal turns slowly on a
+spit over a hot grill.  While the food smells wonderful, it all seems to be
+saturated with melange.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23222
+D1
+~
+~
+0 0 23219
+S
+#23219
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  A sheet
+of dull, rock colored canvas cover a door to the west here.  A solid looking
+stone door to the south has strange markings on it.  The odors of this place
+assail you, unwashed bodies, distillate esthers of unreclaimed wastes,
+everywhere the sour effluvia of humanity with, over all of it, a turbulence of
+the spice melange.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23231
+D1
+~
+barrier~
+2 23227 23220
+D2
+Ima Trava Okolo
+I Korejna Okolo
+From water does all life begin
+For they who have been called by Him
+by Shai-Hulud, who has ordained
+the phases of the moons, that daily wane and -
+in the end, appear as bent and withered twigs.
+~
+Stone~
+1 0 23216
+D3
+~
+~
+0 0 23218
+E
+markings sign~
+Ima Trava Okolo
+I Korejna Okolo
+From water does all life begin
+For they who have been called by Him
+by Shai-Hulud, who has ordained
+the phases of the moons, that daily wane and -
+in the end, appear as bent and withered twigs.
+
+Perhaps it would not be wise to enter this place...
+
+~
+S
+#23220
+&07The Base of the Stairs.&00~
+You stand at the base of a short staircase leading up.  A wide arch leads to
+the west.    
+~
+232 12 0 0 0 0 255 0
+D3
+~
+barrier~
+2 23227 23219
+D4
+~
+~
+0 0 23234
+S
+#23221
+&07The Guard room&00~
+Stone benches carved into the walls provide a place for the gate keepers to
+relax while on duty.    
+~
+232 520 0 0 0 0 255 0
+D3
+~
+~
+0 0 23217
+S
+#23222
+&07A Large Kitchen&00~
+Sinks, ovens, grills, and supply shelves dominate this kitchen.  Huge pots of
+soup boil over a fire pit, and some unfortunate desert animal turns slowly on a
+spit over a hot grill.  While the food smells wonderful, it all seems to be
+saturated with melange.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23223
+D2
+~
+~
+0 0 23218
+S
+#23223
+&07A Large Kitchen&00~
+Sinks, ovens, grills, and supply shelves dominate this kitchen.  Huge pots of
+soup boil over a fire pit, and some unfortunate desert animal turns slowly on a
+spit over a hot grill.  While the food smells wonderful, it all seems to be
+saturated with melange.    
+~
+232 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 23232
+D2
+~
+~
+0 0 23222
+S
+#23224
+&07A Melange processing room.&00~
+The cinnamon smell of the spice Melange permeates the room, almost making your
+eyes water.  A large tub boils in the corner, and a table with pots full of
+unprocessed spice stands against the back wall.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23232
+S
+#23225
+&07A Melange processing room.&00~
+The cinnamon smell of the spice Melange permeates the room, almost making your
+eyes water.  A large tub boils in the corner, and a table with pots full of
+unprocessed spice stands against the back wall.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23233
+S
+#23226
+&07A Melange processing room.&00~
+The cinnamon smell of the spice Melange permeates the room, almost making your
+eyes water.  A large tub boils in the corner, and a table with pots full of
+unprocessed spice stands against the back wall.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23230
+S
+#23227
+&07A Training Room&00~
+This small room has a sand floor with a large stone ring around the center.  
+It appears to be a practice room for knife fighting.  From the size of the
+footprints in the sand, these people begin fighting at a very young age.    
+~
+232 520 0 0 0 0 255 0
+D3
+~
+~
+0 0 23230
+S
+#23228
+&07A Training Room&00~
+This small room has a sand floor with a large stone ring around the center.  
+It appears to be a practice room for knife fighting.  From the size of the
+footprints in the sand, these people begin fighting at a very young age.    
+~
+232 520 0 0 0 0 255 0
+D3
+~
+~
+0 0 23229
+S
+#23229
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  A sheet
+of dull, rock colored canvas covers a door to the east here.  The odors of this
+place assail you, unwashed bodies, distillate esthers of unreclaimed wastes,
+everywhere the sour effluvia of humanity with, over all of it, a turbulence of
+the spice melange.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23230
+D1
+~
+~
+0 0 23228
+D2
+~
+~
+0 0 23217
+S
+#23230
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  Sheets
+of dull, rock colored canvas cover doors to the east and north here.  The odors
+of this place assail you, unwashed bodies, distillate esthers of unreclaimed
+wastes, everywhere the sour effluvia of humanity with, over all of it, a
+turbulence of the spice melange.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23226
+D1
+~
+~
+0 0 23227
+D2
+~
+~
+0 0 23229
+D3
+~
+~
+0 0 23233
+S
+#23231
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  A sheet
+of dull, rock colored canvas covers a door to the west here.  The odors of this
+place assail you, unwashed bodies, distillate esthers of unreclaimed wastes,
+everywhere the sour effluvia of humanity with, over all of it, a turbulence of
+the spice melange.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23232
+D2
+~
+~
+0 0 23219
+S
+#23232
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  Sheets
+of dull, rock colored canvas cover doors to the west and north here.  The odors
+of this place assail you, unwashed bodies, distillate esthers of unreclaimed
+wastes, everywhere the sour effluvia of humanity with, over all of it, a
+turbulence of the spice melange.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23224
+D1
+~
+~
+0 0 23233
+D2
+~
+~
+0 0 23231
+D3
+~
+~
+0 0 23223
+S
+#23233
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  A sheet
+of dull, rock colored canvas covers a door to the north here.  The odors of
+this place assail you, unwashed bodies, distillate esthers of unreclaimed
+wastes, everywhere the sour effluvia of humanity with, over all of it, a
+turbulence of the spice melange.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23225
+D1
+~
+~
+0 0 23230
+D3
+~
+~
+0 0 23232
+S
+#23234
+&07At the top of the stairs.&00~
+You stand at the top of the lower stair.  A Wide arch leads to the east.  The
+walls are smooth stone.  Glow globes provide enough light to see by.    
+~
+232 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 23237
+D5
+~
+~
+0 0 23220
+S
+#23235
+&07Base of the Upper Staircase&00~
+Brightly polished stone stairs lead up from here.  The walls are covered in blue
+and green cloth, and somehow the noise of the corridor behind is muted.
+~
+232 12 0 0 0 0 255 0
+D0
+~
+barrier~
+2 23228 23248
+D4
+~
+~
+0 0 23252
+S
+#23236
+&07A Corridor in Sietch Tabr&00~
+  You hear a low babble of voices, all speaking at once. The walls of this
+place seem to reflect the sound, so that you cannot determine the location.
+Wide arches covered with brightly colored fabrics lead the the south and east.
+~
+232 0 0 0 0 0 255 0
+S
+#23237
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  Wide
+arches covered with brightly colored fabrics lead the the south and east.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23246
+D1
+~
+~
+0 0 23238
+D2
+~
+~
+0 0 23251
+D3
+~
+~
+0 0 23234
+S
+#23238
+&07A Spartan Sleeping Chamber&00~
+A row of low cots line the back of this room, the floor and walls are rough
+hewn stone.  A single glow globe is hung from the ceiling, providing enough
+light to see by.    
+~
+232 520 0 0 0 0 255 0
+D3
+~
+~
+0 0 23237
+S
+#23239
+&07A Spartan Sleeping Chamber&00~
+A row of low cots line the back of this room, the floor and walls are rough
+hewn stone.  A single glow globe is hung from the ceiling, providing enough
+light to see by.    
+~
+232 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 23248
+S
+#23240
+&07A Spartan Sleeping Chamber&00~
+A row of low cots line the back of this room, the floor and walls are rough
+hewn stone.  A single glow globe is hung from the ceiling, providing enough
+light to see by.    
+~
+232 520 0 0 0 0 255 0
+D3
+~
+~
+0 0 23246
+S
+#23241
+&07A Spartan Sleeping Chamber&00~
+A row of low cots line the back of this room, the floor and walls are rough
+hewn stone.  A single glow globe is hung from the ceiling, providing enough
+light to see by.    
+~
+232 520 0 0 0 0 255 0
+D3
+~
+~
+0 0 23247
+S
+#23242
+&07A Spartan Sleeping Chamber&00~
+A row of low cots line the back of this room, the floor and walls are rough
+hewn stone.  A single glow globe is hung from the ceiling, providing enough
+light to see by.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23247
+S
+#23243
+&07A Spartan Sleeping Chamber&00~
+A row of low cots line the back of this room, the floor and walls are rough
+hewn stone.  A single glow globe is hung from the ceiling, providing enough
+light to see by.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23250
+S
+#23244
+&07A Spartan Sleeping Chamber&00~
+A row of low cots line the back of this room, the floor and walls are rough
+hewn stone.  A single glow globe is hung from the ceiling, providing enough
+light to see by.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23249
+S
+#23245
+&07A Spartan Sleeping Chamber&00~
+A row of low cots line the back of this room, the floor and walls are rough
+hewn stone.  A single glow globe is hung from the ceiling, providing enough
+light to see by.    
+~
+232 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 23249
+S
+#23246
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  A wide
+arch covered with brightly colored fabric lead the the east.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23247
+D1
+~
+~
+0 0 23240
+D2
+~
+~
+0 0 23237
+S
+#23247
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  Wide
+arches covered with brightly colored fabrics lead the the east and north.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23242
+D1
+~
+~
+0 0 23241
+D2
+~
+~
+0 0 23246
+D3
+~
+~
+0 0 23250
+S
+#23248
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  A wide
+arch covered with brightly colored fabric lead the the west, and a narrow arch
+leads to the south.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23249
+D2
+~
+barrier~
+2 23228 23235
+D3
+~
+~
+0 0 23239
+S
+#23249
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  Wide
+arches covered with brightly colored fabrics lead the the north and west.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23244
+D1
+~
+~
+0 0 23250
+D2
+~
+~
+0 0 23248
+D3
+~
+~
+0 0 23245
+S
+#23250
+&07A Corridor in Sietch Tabr&00~
+You hear a low babble of voices, all speaking at once.  The walls of this place
+seem to reflect the sound, so that you cannot determine the location.  A wide
+arch covered with brightly colored fabric lead the the north.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23243
+D1
+~
+~
+0 0 23247
+D3
+~
+~
+0 0 23249
+S
+#23251
+&07The Look Out Room&00~
+Lookouts can keep any eye out across Tuono basin via a small slit window
+covered with canvas.  A low bench stands against one corner.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23237
+E
+window slit~
+&10Tuono Basin&00
+  The air is still as you walk across the sandy floor of the basin.
+You flinch as a hawk screams high above, sensing your water. A tower
+of tan colored dust rises to the west.
+~
+S
+#23252
+&07At the Top of the Stairs&00~
+Brightly polished stone stairs lead down from here.  The walls are covered in
+blue and green cloth.  The corridor ahead seems strangely quiet compared to the
+noise in the lower sietch.    
+~
+232 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 23253
+D5
+~
+~
+0 0 23235
+S
+#23253
+&07A Quiet Corridor&00~
+The walls of this passage are smooth stone and the floor is cleanly swept.  
+There is very little noise here, only muted rustling, and low whispers.  
+Globes of light are mounted on the walls providing a dim yellow light.  The
+corridor continues to the east and west.    
+~
+232 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 23254
+D3
+~
+~
+0 0 23252
+S
+#23254
+&07A Quiet Corridor&00~
+The walls of this passage are smooth stone and the floor is cleanly swept.  
+There is very little noise here, only muted rustling, and low whispers.  
+Globes of light are mounted on the walls providing a dim yellow light.  There
+are simple stone arches to the south and east, while the corridor continues to
+the west and north.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23259
+D1
+~
+~
+0 0 23255
+D3
+~
+~
+0 0 23253
+S
+#23255
+&07A Meeting Room&00~
+You enter a square chamber with smooth walls, and a long conference table in
+the center.  A large map of &10Tuono Basin&00 covers the eastern wall.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23260
+D3
+~
+~
+0 0 23254
+S
+#23256
+&07Stilgar's Quarters&00~
+This chamber seems almost drab, compared to the bright colors of the corridor
+outside.  A low table stands in the center of the room, cluttered with battle
+plans, messages marked URGENT, and maps.  A bed that seems not to have been
+used in several days is pushed against the north wall.    
+~
+232 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 23257
+S
+#23257
+&07The End of a Secured Passage&00~
+You feel a sense of awe looking at the portrait of Duke Atriedes III mounted at
+the end of the corridor.  The Flag of Duke Paul Maud'Dib Atreides hangs over an
+arch to the east, while the war banner of Sietch Tabr hangs over an arch to the
+west.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+barrier~
+2 23210 23262
+D1
+~
+~
+0 0 23258
+D3
+~
+~
+0 0 23256
+S
+#23258
+&07Maud'Dib's Quarters&00~
+This room is about 18 feet square.  Thick blue carpets cover the floor, sheets
+of blue and green fabric hide stone walls.  You feel a slight breeze from an
+air shaft cunningly concealed in a pattern of hangings directly in front of
+you.    
+~
+232 520 0 0 0 0 255 0
+D3
+~
+~
+0 0 23257
+S
+#23259
+&07A Quiet Corridor&00~
+The walls of this passage are smooth stone and the floor is cleanly swept.  
+There is very little noise here, only muted rustling, and low whispers.  
+Globes of light are mounted on the walls providing a dim yellow light.  There
+is a simple stone arch to the east, while the corridor continues to the north
+and south.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23264
+D2
+~
+~
+0 0 23254
+S
+#23260
+&07A Meeting Room&00~
+You enter a square chamber with smooth walls, and a long conference table in
+the center.  A large map of &10Tuono Basin&00 covers the eastern wall.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23265
+D2
+~
+~
+0 0 23255
+S
+#23261
+&07Lady Jessica's Quarters&00~
+This place has thick rugs on the floor, soft cushions, a low coffee table at
+the center of the room, and multicolored wall hangings cover the walls.  You
+smell the rich aroma of spiced coffee, as well as an almost harsh melange odor.
+  
+~
+232 520 0 0 0 0 255 0
+D1
+~
+~
+0 0 23262
+S
+#23262
+&07A Secured Passage&00~
+The walls of this passage are lined in brightly colored war-banners, the floors
+carpeted in thick rugs.  Globes of light are mounted on the walls providing a
+dim yellow light.  There are stone arches to the north and west, while the
+corridor continues to the east and south.    
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23266
+D1
+~
+barrier~
+2 23207 23263
+D2
+~
+barrier~
+2 23210 23257
+D3
+~
+~
+0 0 23261
+S
+#23263
+&07A Secure Passage.&00~
+The walls of this passage are lined in brightly colored war-banners, the floors
+carpeted in thick rugs.  Globes of light are mounted on the walls providing a
+dim yellow light.  There is a stone arch to the north, while the corridor
+continues to the east and west.
+~
+232 520 0 0 0 0 255 0
+D0
+~
+~
+0 0 23267
+D1
+~
+~
+0 0 23264
+D3
+~
+barrier~
+2 23207 23262
+S
+#23264
+&07A Quiet Corridor&00~
+There is very little noise here, only muted rustling, and low whispers.  
+Globes of light are mounted on the walls providing a dim yellow light.  There
+are simple stone arches to the north and east, while the corridor continues to
+the west and south.    
+~
+232 524 0 0 0 0 255 0
+D0
+~
+~
+0 0 23268
+D1
+~
+~
+0 0 23265
+D2
+~
+~
+0 0 23259
+D3
+~
+~
+0 0 23263
+S
+#23265
+&07A Meeting Room&00~
+You enter a square chamber with smooth walls, and a long conference table in
+the center.  A large map of &10Tuono Basin&00 covers the eastern wall.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23260
+D3
+~
+~
+0 0 23264
+S
+#23266
+&07Otheym's Quarters&00~
+This is quite obviously the sleeping quarters of a competent warrior.  Tokens
+of battles long since won or lost cover the walls.  While fremen do not believe
+in medals, these are more than likely the quarters of a high-ranking
+lieutenant.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23262
+S
+#23267
+&07Fedaykin Guard Room&00~
+A stone bench lies against the north wall, but it would appear that the
+fedaykin rarely use it.  A pot of spice coffee brews on a counter to the east.
+A roster of the guards hangs on the wall.    
+~
+232 520 0 0 0 0 255 0
+D2
+~
+~
+0 0 23263
+S
+#23268
+&07A Large Practice Chamber&00~
+A large stone ring filled with sand is carved into the floor here.  The walls
+are covered in tan fabric.  A practice dummy is mounted against the north wall.
+  
+~
+232 524 0 0 0 0 255 0
+D2
+~
+~
+0 0 23264
+S
+#23280
+A Maze Room (80)~
+This is room 80
+~
+232 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 23280
+D1
+~
+~
+0 0 23282
+D2
+~
+~
+0 0 23281
+D3
+~
+~
+0 0 23283
+S
+Z 23280
+#23281
+A Maze Room (81)~
+This is room 81.
+~
+232 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 23280
+D1
+~
+~
+0 0 23282
+D2
+~
+~
+0 0 23281
+D3
+~
+~
+0 0 23283
+S
+Z 23280
+#23282
+A Maze Room (82)~
+This is room 82.
+~
+232 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 23282
+D1
+~
+~
+0 0 23281
+D2
+~
+~
+0 0 23280
+D3
+~
+~
+0 0 23283
+S
+Z 23280
+#23283
+A Maze Room (83)~
+This is Maze Room 83
+~
+232 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 23283
+D1
+~
+~
+0 0 23281
+D2
+~
+~
+0 0 23282
+D3
+~
+~
+0 0 23280
+S
+Z 23280
+#23298
+An interrogation room~
+You appear to be on the shiny side of a one-way mirror.
+~
+232 0 0 0 0 0 255 0
+S
+#23299
+A viewing room.~
+You are on the dark side of a one-way mirror
+~
+232 0 0 0 0 0 255 0
+D0
+~
+~
+0 0 23298
+S
+$~

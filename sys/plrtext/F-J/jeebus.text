@@ -1,0 +1,49 @@
+x c 'life drain' $*
+goto mist $*
+awaken c 'awaken' $*
+nex c 'nex' $*
+v c 'doom' $*
+shie c 'shield' $*
+has c 'haste' $*
+z scan
+o order follower $*
+3 as
+fire c 'fireball' $*
+gate c 'gate
+nexus c 'nexus' $*
+mm c 'magic miss' $*
+ghost c 'magic miss' ghost east;c 'magic miss' ghost s;c 'magic miss' ghost w;c 'magic miss' ghost n
+pigho rec pig pig
+bolt c 'lightning bolt' $*
+scrib rem chest;hold qui;scribe $* parch;rem qui;hold chest
+slow c 'slow' $*
+locate c 'locat' $*
+ts c 'true sight' $*
+p enter portal
+flame c 'flame blade' $*
+str c 'str' $*
+fly c 'fly' $*
+b c 'blind' $*
+invis c 'invis' $*
+8 tit Kryst the &08Forsaken&00 messiah
+sam sa samsera
+elven sa elven
+r order follower rescue jeebus
+0 get all jeebus;wear all;get all jeebus;wie staf;hold chest;wear amule
+sil c 'silence' $*
+sum c 'summon' $*
+id c 'ident' $*
+life c 'sens life' $*
+infra c 'infra
+drain c 'life drain' $*
+ice c 'ice
+shriek c 'shriek' $*
+port c 'portal' $*
+charm c 'charm' $*
+blink c 'blink
+air c 'airsphere' $*
+feeb c 'feeb' $*
+wrath c 'wrath
+1 c 'blind' misfit
+q get all jeeb;wear all;wie staff;hold broom;get all jeeb;wear all
+wa wake;stand

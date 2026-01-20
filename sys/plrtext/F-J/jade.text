@@ -1,0 +1,13 @@
+bl cast 'blindness' $*
+blind cast 'blindness' $*
+invis cast 'invisibility' $*
+sleep cast 'sleep'$*
+elven rec elven
+sit rest
+gt gt &12$*&00
+thim drink thim
+coven rec elven;w;w;s;d;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;n;n;w;n;w;n;n
+bre get bre bag
+say say &09$*&00
+gate open gate
+mid rec mid

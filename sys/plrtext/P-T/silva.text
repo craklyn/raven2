@@ -1,0 +1,26 @@
+2 butcher corpse
+1 get all corpse
+tit title the &09Park&00 &03Ranger&00
+r rescue $*
+bu butcher $*
+wa wa;sta
+bri cast 'briarskin
+ki kick $*
+ww retreat w
+ee retreat e
+nn retreat n
+ss retreat s
+uu retreat u
+dd retreat d
+gt gt &09$*&00
+say say &09$*&00
+tr trip $*
+shi cast 'shield' $*
+sense cast 'sense life'
+stock put all chalice;get clock chalice;get thimble chalice;get all.elven chalice
+food get steak chalice;eat steak;get steak chalice;eat steak
+drink drink thim;drink thim
+call cast 'call of the wild
+o order follower $*
+hide hide;sc
+lore cast 'forest lore
