@@ -161,7 +161,15 @@ stop_singing (CharData *ch)
       act ("$n ends his prayer prematurely.\r\n", FALSE, ch, 0, 0, TO_ROOM);
       break;
     case SONG_MINOR_REFRESHMENT:
-      send_to_char ("You stop singing.\r\n\r", ch);
+    case SONG_BRAVERY:
+    case SONG_HEALING:
+    case SONG_PROTECTION:
+    case SONG_SILENCE:
+    case SONG_DISCORD:
+    case SONG_SPEED:
+    case SONG_REVELATIONS:
+    case SONG_HERO:
+      send_to_char ("You stop singing.\r\n", ch);
       act ("$n ends $s song.\r\n", FALSE, ch, 0, 0, TO_ROOM);
       break;
     case SPELL_FIREBALL:
@@ -214,6 +222,92 @@ enact_song (CharData *ch, CharData *tch, int songnum)
       GET_HIT (tch) += 5;
       if (GET_HIT(tch) > GET_MAX_HIT(tch))
         GET_HIT(tch) = GET_MAX_HIT(tch);
+      break;
+    case SONG_BRAVERY:
+      if (grouped) {
+          // Applying a short duration affect that is refreshed every pulse
+          struct affected_type af;
+          af.type = SONG_BRAVERY;
+          af.duration = 2; // Lasts 2 pulses (refreshed every pulse)
+          af.modifier = GET_LEVEL(ch) / 10 + 1;
+          af.location = APPLY_HITROLL;
+          af.bitvector = 0;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+          af.location = APPLY_DAMROLL;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+      }
+      break;
+    case SONG_HEALING:
+      if (grouped) {
+          int heal = GET_LEVEL(ch) / 5 + number(1, 10);
+          GET_HIT(tch) = MIN(GET_MAX_HIT(tch), GET_HIT(tch) + heal);
+      }
+      break;
+    case SONG_PROTECTION:
+      if (grouped) {
+          struct affected_type af;
+          af.type = SONG_PROTECTION;
+          af.duration = 2;
+          af.modifier = -(GET_LEVEL(ch) / 5 + 5);
+          af.location = APPLY_AC;
+          af.bitvector = 0;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+      }
+      break;
+    case SONG_SILENCE:
+      if (!grouped && !mag_savingthrow(tch, SAVING_SPELL)) {
+          struct affected_type af;
+          af.type = SONG_SILENCE;
+          af.duration = 1;
+          af.modifier = 0;
+          af.location = APPLY_NONE;
+          af.bitvector = AFF_SILENCE;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+      }
+      break;
+    case SONG_DISCORD:
+      if (!grouped && !mag_savingthrow(tch, SAVING_SPELL)) {
+          int dam = dice(GET_LEVEL(ch)/4, 8);
+          damage(ch, tch, dam, SONG_DISCORD);
+      }
+      break;
+    case SONG_SPEED:
+      if (grouped) {
+          struct affected_type af;
+          af.type = SONG_SPEED;
+          af.duration = 2;
+          af.modifier = 0;
+          af.location = APPLY_NONE;
+          af.bitvector = AFF_HASTE;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+      }
+      break;
+    case SONG_REVELATIONS:
+      if (grouped) {
+          struct affected_type af;
+          af.type = SONG_REVELATIONS;
+          af.duration = 2;
+          af.modifier = 0;
+          af.location = APPLY_NONE;
+          af.bitvector = AFF_DETECT_INVIS;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+      }
+      break;
+    case SONG_HERO:
+      if (grouped) {
+          struct affected_type af;
+          af.type = SONG_HERO;
+          af.duration = 2;
+          af.modifier = GET_LEVEL(ch) / 5;
+          af.location = APPLY_HITROLL;
+          af.bitvector = 0;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+          af.location = APPLY_DAMROLL;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+          af.modifier = GET_LEVEL(ch);
+          af.location = APPLY_HIT;
+          affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
+      }
       break;
     }
 
@@ -367,6 +461,15 @@ perform_song (CharData *ch)
         return 1;
 
       default:
+        if (songnum >= SONG_FIRST && songnum <= MAX_SONGS) {
+            int move_drain = SINFO.mana_min;
+            if (GET_MOVE(ch) < move_drain) {
+                send_to_char("You are too exhausted to continue singing.\r\n", ch);
+                return 0;
+            }
+            GET_MOVE(ch) -= move_drain;
+            return 1;
+        }
         return 0;
         break;
       }
@@ -459,6 +562,41 @@ perform_song (CharData *ch)
         ch->state = SHIELD1;
         break;
       case SONG_MINOR_REFRESHMENT:
+        send_to_char ("You begin to sing a light, refreshing tune.\r\n", ch);
+        act ("$n begins to sing a light, refreshing tune.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
+      case SONG_BRAVERY:
+        send_to_char ("You begin to sing a song of courage and bravery!\r\n", ch);
+        act ("$n begins to sing a song of courage and bravery!\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
+      case SONG_HEALING:
+        send_to_char ("You begin to sing a soothing melody of healing.\r\n", ch);
+        act ("$n begins to sing a soothing melody of healing.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
+      case SONG_PROTECTION:
+        send_to_char ("You begin to sing a rhythmic chant of protection.\r\n", ch);
+        act ("$n begins to sing a rhythmic chant of protection.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
+      case SONG_SILENCE:
+        send_to_char ("You begin to sing a low, muting dirge.\r\n", ch);
+        act ("$n begins to sing a low, muting dirge.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
+      case SONG_DISCORD:
+        send_to_char ("You begin to sing a jarring song of discord!\r\n", ch);
+        act ("$n begins to sing a jarring song of discord!\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
+      case SONG_SPEED:
+        send_to_char ("You begin to sing a fast-paced, energetic anthem!\r\n", ch);
+        act ("$n begins to sing a fast-paced, energetic anthem!\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
+      case SONG_REVELATIONS:
+        send_to_char ("You begin to sing a clear song of revelations.\r\n", ch);
+        act ("$n begins to sing a clear song of revelations.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
+      case SONG_HERO:
+        send_to_char ("You begin to sing a legendary epic of heroes!\r\n", ch);
+        act ("$n begins to sing a legendary epic of heroes!\r\n", FALSE, ch, 0, 0, TO_ROOM);
+        break;
       default:
         send_to_char ("You clear your throat and begin singing.\r\n", ch);
         act ("$n clears $s throat and begins to sing.\r\n", FALSE, ch, 0, 0, TO_ROOM);

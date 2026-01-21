@@ -158,6 +158,7 @@ int parse_class(char arg)
     case 't': return CLASS_THIEF;
     case 'w': return CLASS_WARRIOR;
     case 'n': return CLASS_NECROMANCER;
+    case 'b': return CLASS_BARD;
     default: return CLASS_UNDEFINED;
     }
 }
@@ -1272,7 +1273,8 @@ const char *class_menu[NUM_CLASSES] = {
 "  [P] - Solamnic Knight\r\n",/* Solamnic Knight */
 "  [D] - Death Knight\r\n",   /* Death Knight */
 "  [H] - Shadow Dancer\r\n",  /* Shadow Dancer */
-"  [N] - Necromancer\r\n"     /* Necromancer */
+"  [N] - Necromancer\r\n",    /* Necromancer */
+"  [B] - Bard\r\n"            /* Bard */
 };
 
 const char *race_menu =
@@ -1362,44 +1364,44 @@ const char race_stat_limits[NUM_RACES][7] = {
 
 /* Classes allowed for PC races.*/
 const signed short int classes_allowed[NUM_RACES][NUM_CLASSES] = {
-/* 	 Ma Cl Th Wa Ra As Sl Kn Dk Sd Nm*/
-	{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},	/* 0 - RACE_HUMAN */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 1 - RACE_PLANT */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 2 - RACE_ANIMAL */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 3 - RACE_DRAGON */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 4 - RACE_UNDEAD */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 5 - RACE_VAMPIRE */
-	{0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0},	/* 6 - RACE_HALFLING */
-	{1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0},	/* 7 - RACE_ELF */
-	{0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0},	/* 8 - RACE_DWARF */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 9 - RACE_GIANT */
-	{0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1},	/* 10 - RACE_MINOTAUR */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 11 - RACE_DEMON */
-	{1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0},	/* 12 - RACE_OGRE */
-	{0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0},	/* 13 - RACE_TROLL */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 14 - RACE_WEREWOLF */
-	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 15 - RACE_ELEMENTAL */
-	{1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1},	/* 16 - RACE_ORC */
-	{1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1},	/* 17 - RACE_GNOME */
-	{1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1},	/* 18 - RACE_DRACONIAN */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 19 - RACE_FAERIE */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 20 - RACE_AMARA */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 21 - RACE_IZARTI */
-        {1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1},      /* 22 - RACE_DROW */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 23 - RACE_SHUMAN */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 24 - RACE_SHALFLING   */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 25 - RACE_SELF */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 26 - RACE_SDROW */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 27 - RACE_SDWARF */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 28 - RACE_SMINOTAUR */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 29 - RACE_SOGRE */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 30 - RACE_STROLL */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 31 - RACE_SDRACONIAN */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 32 - RACE_SGNOME */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 33 - RACE_SORC */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 33 - RACE_TERRAN */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 33 - RACE_ZERG */
-        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 33 - RACE_PROTOSS */
+/* 	 Ma Cl Th Wa Ra As Sl Kn Dk Sd Nm Ba*/
+	{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},	/* 0 - RACE_HUMAN */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 1 - RACE_PLANT */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 2 - RACE_ANIMAL */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 3 - RACE_DRAGON */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 4 - RACE_UNDEAD */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 5 - RACE_VAMPIRE */
+	{0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1},	/* 6 - RACE_HALFLING */
+	{1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1},	/* 7 - RACE_ELF */
+	{0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1},	/* 8 - RACE_DWARF */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 9 - RACE_GIANT */
+	{0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0},	/* 10 - RACE_MINOTAUR */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 11 - RACE_DEMON */
+	{1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0},	/* 12 - RACE_OGRE */
+	{0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0},	/* 13 - RACE_TROLL */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 14 - RACE_WEREWOLF */
+	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},	/* 15 - RACE_ELEMENTAL */
+	{1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0},	/* 16 - RACE_ORC */
+	{1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0},	/* 17 - RACE_GNOME */
+	{1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0},	/* 18 - RACE_DRACONIAN */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 19 - RACE_FAERIE */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 20 - RACE_AMARA */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 21 - RACE_IZARTI */
+        {1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1},      /* 22 - RACE_DROW */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 23 - RACE_SHUMAN */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 24 - RACE_SHALFLING   */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 25 - RACE_SELF */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 26 - RACE_SDROW */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 27 - RACE_SDWARF */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 28 - RACE_SMINOTAUR */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 29 - RACE_SOGRE */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 30 - RACE_STROLL */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 31 - RACE_SDRACONIAN */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 32 - RACE_SGNOME */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 33 - RACE_SORC */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 33 - RACE_TERRAN */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 33 - RACE_ZERG */
+        {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},      /* 33 - RACE_PROTOSS */
 };
 
 /* This is the % of exp that they actually get WHILE on this level.  If a

@@ -716,7 +716,72 @@ const struct title_type titles[ NUM_CLASSES ][ LVL_IMPL + 2 ] = {
 /*59*/{ "God of Death",       "God of Death",       1717084832 }, // 631516
 /*60*/{ "Implementor",        "Implementor",        1717264560 }, // 179728
 /*61*/{ "INVALID LEVEL",      "INVALID LEVEL",      2147483647 }, // --
-}
+},
+
+  { /*          Class ID [Ba] = BARD             */
+    /* 0  */ { "Man",                            "Woman",                        1600        },
+    /* 1  */ { "Apprentice Bard",                "Apprentice Bard",              2200        },
+    /* 2  */ { "Street Performer",               "Street Performer",             3150        },
+    /* 3  */ { "Minstrel",                       "Minstress",                    4650        },
+    /* 4  */ { "Troubadour",                     "Troubadour",                   6950        },
+    /* 5  */ { "Singer",                         "Songstress",                   10500       },
+    /* 6  */ { "Musician",                       "Musician",                     16500       },
+    /* 7  */ { "Lutenist",                       "Lutenist",                     24700       },
+    /* 8  */ { "Gleeman",                        "Gleewoman",                    36700       },
+    /* 9  */ { "Bard",                           "Bard",                         54700       },
+    /* 10 */ { "Skald",                          "Skald",                        81200       },
+    /* 11 */ { "Skald",                          "Skald",                        119700      },
+    /* 12 */ { "Skald",                          "Skald",                        175300      },
+    /* 13 */ { "Skald",                          "Skald",                        254800      },
+    /* 14 */ { "Skald",                          "Skald",                        367600      },
+    /* 15 */ { "Master Bard",                    "Master Bard",                  527000      },
+    /* 16 */ { "Master Bard",                    "Master Bard",                  748000      },
+    /* 17 */ { "Master Bard",                    "Master Bard",                  969000      },
+    /* 18 */ { "Master Bard",                    "Master Bard",                  1387000     },
+    /* 19 */ { "Master Bard",                    "Master Bard",                  1953000     },
+    /* 20 */ { "Loremaster",                     "Lore mistress",                2714000     },
+    /* 21 */ { "Loremaster",                     "Lore mistress",                3724000     },
+    /* 22 */ { "Loremaster",                     "Lore mistress",                5064000     },
+    /* 23 */ { "Loremaster",                     "Lore mistress",                6814000     },
+    /* 24 */ { "Loremaster",                     "Lore mistress",                9084000     },
+    /* 25 */ { "Loremaster",                     "Lore mistress",                11900000    },
+    /* 26 */ { "Loremaster",                     "Lore mistress",                15000000    },
+    /* 27 */ { "Loremaster",                     "Lore mistress",                18710000    },
+    /* 28 */ { "Loremaster",                     "Lore mistress",                23390000    },
+    /* 29 */ { "Loremaster",                     "Lore mistress",                29240000    },
+    /* 30 */ { "Virtuoso",                       "Virtuoso",                     36480000    },
+    /* 31 */ { "Virtuoso",                       "Virtuoso",                     45350000    },
+    /* 32 */ { "Virtuoso",                       "Virtuoso",                     54200000    },
+    /* 33 */ { "Virtuoso",                       "Virtuoso",                     67200000    },
+    /* 34 */ { "Virtuoso",                       "Virtuoso",                     82700000    },
+    /* 35 */ { "Virtuoso",                       "Virtuoso",                     100900000   },
+    /* 36 */ { "Virtuoso",                       "Virtuoso",                     119000000   },
+    /* 37 */ { "Virtuoso",                       "Virtuoso",                     143000000   },
+    /* 38 */ { "Virtuoso",                       "Virtuoso",                     171000000   },
+    /* 39 */ { "Virtuoso",                       "Virtuoso",                     203000000   },
+    /* 40 */ { "Maestro",                        "Maestra",                      238000000   },
+    /* 41 */ { "Maestro",                        "Maestra",                      278000000   },
+    /* 42 */ { "Maestro",                        "Maestra",                      313000000   },
+    /* 43 */ { "Maestro",                        "Maestra",                      359400000   },
+    /* 44 */ { "Maestro",                        "Maestra",                      408900000   },
+    /* 45 */ { "Maestro",                        "Maestra",                      461100000   },
+    /* 46 */ { "Maestro",                        "Maestra",                      515500000   },
+    /* 47 */ { "Maestro",                        "Maestra",                      571300000   },
+    /* 48 */ { "Maestro",                        "Maestra",                      627600000   },
+    /* 49 */ { "Maestro",                        "Maestra",                      685000000   },
+    /* 50 */ { "Voice of Ages",                  "Voice of Ages",                775000000   },
+    /* 51 */ { "Bard Hero",                      "Bard Hero",                    1000000000  },
+    /* 52 */ { "Immortal Bard",                  "Immortal Bard",                1451304654  },
+    /* 53 */ { "Immortal Bard",                  "Immortal Bard",                1514366649  },
+    /* 54 */ { "Immortal Bard",                  "Immortal Bard",                1567039843  },
+    /* 55 */ { "Immortal Bard",                  "Immortal Bard",                1608072385  },
+    /* 56 */ { "Immortal Bard",                  "Immortal Bard",                1636468698  },
+    /* 57 */ { "Immortal Bard",                  "Immortal Bard",                1651529611  },
+    /* 58 */ { "Immortal Bard",                  "Immortal Bard",                1652880971  },
+    /* 59 */ { "Immortal Bard",                  "Immortal Bard",                1640489097  },
+    /* 60 */ { "Implementor",                    "Implementress",                1614662169  },
+    /* ?? */ { "INVALID LEVEL",                  "INVALID LEVEL",                2147483647  }
+  }
 
 };
 
@@ -905,6 +970,14 @@ const int thaco[ NUM_CLASSES ][ LVL_IMPL + 2 ] = {
      10, 10, 10, 10, 10, 10, 10, 10, 10, 10, /*   to lvl 30 */
      10, 10, 10, 10, 10, 10, 10, 10, 10, 10, /*   to lvl 40 */
      10, 10, 10, 10, 10, 10, 10, 10, 10, 10, /*   to lvl 50 */
+     -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, /*   to lvl 60 */
+     99 },
+   { 99,                                     /* THACO table for BARD(Ba) (delta=0.35) */
+      7,  7,  7,  7,  7,  7,  7,  7,  7,  7, /*   to lvl 10 */
+      7,  7,  7,  7,  7,  7,  7,  7,  7,  7, /*   to lvl 20 */
+      7,  7,  7,  7,  7,  7,  7,  7,  7,  7, /*   to lvl 30 */
+      7,  7,  7,  7,  7,  7,  7,  7,  7,  7, /*   to lvl 40 */
+      7,  7,  7,  7,  7,  7,  7,  7,  7,  7, /*   to lvl 50 */
      -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, /*   to lvl 60 */
      99 }
 }; /* End of the THACO table */
@@ -1357,6 +1430,54 @@ const int saving_throws[ NUM_CLASSES ][ SAVING_MAX ][ LVL_IMPL + 2 ] = {
      },
 
    { /* Saving throw table for SHADOW_DANCER(Sd) (delta=1.0) */
+     /*        Against Paralysis               */
+     { 99,
+       69, 68, 67, 66, 65, 64, 63, 62, 61, 60, /*   to lvl 10 */
+       59, 58, 57, 56, 55, 54, 53, 52, 51, 50, /*   to lvl 20 */
+       49, 48, 47, 46, 45, 44, 43, 42, 41, 40, /*   to lvl 30 */
+       39, 38, 37, 36, 35, 34, 33, 32, 31, 30, /*   to lvl 40 */
+       29, 28, 27, 26, 25, 24, 23, 22, 21, 20, /*   to lvl 50 */
+       -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, /*   to lvl 60 */
+       99 },
+     /*        Against Rods                    */
+     { 99,
+       54, 53, 52, 51, 50, 49, 48, 47, 46, 45, /*   to lvl 10 */
+       44, 43, 42, 41, 40, 39, 38, 37, 36, 35, /*   to lvl 20 */
+       34, 33, 32, 31, 30, 29, 28, 27, 26, 25, /*   to lvl 30 */
+       24, 23, 22, 21, 20, 19, 18, 17, 16, 15, /*   to lvl 40 */
+       14, 13, 12, 11, 10,  9,  8,  7,  6,  5, /*   to lvl 50 */
+       -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, /*   to lvl 60 */
+       99 },
+     /*        Against Petrification           */
+     { 99,
+       64, 63, 62, 61, 60, 59, 58, 57, 56, 55, /*   to lvl 10 */
+       54, 53, 52, 51, 50, 49, 48, 47, 46, 45, /*   to lvl 20 */
+       44, 43, 42, 41, 40, 39, 38, 37, 36, 35, /*   to lvl 30 */
+       34, 33, 32, 31, 30, 29, 28, 27, 26, 25, /*   to lvl 40 */
+       24, 23, 22, 21, 20, 19, 18, 17, 16, 15, /*   to lvl 50 */
+       -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, /*   to lvl 60 */
+       99 },
+     /*        Against Breath Weapons          */
+     { 99,
+       74, 73, 72, 71, 70, 69, 68, 67, 66, 65, /*   to lvl 10 */
+       64, 63, 62, 61, 60, 59, 58, 57, 56, 55, /*   to lvl 20 */
+       54, 53, 52, 51, 50, 49, 48, 47, 46, 45, /*   to lvl 30 */
+       44, 43, 42, 41, 40, 39, 38, 37, 36, 35, /*   to lvl 40 */
+       34, 33, 32, 31, 30, 29, 28, 27, 26, 25, /*   to lvl 50 */
+       -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, /*   to lvl 60 */
+       99 },
+     /*        Against Spells                  */
+     { 99,
+       59, 58, 57, 56, 55, 54, 53, 52, 51, 50, /*   to lvl 10 */
+       49, 48, 47, 46, 45, 44, 43, 42, 41, 40, /*   to lvl 20 */
+       39, 38, 37, 36, 35, 34, 33, 32, 31, 30, /*   to lvl 30 */
+       29, 28, 27, 26, 25, 24, 23, 22, 21, 20, /*   to lvl 40 */
+       19, 18, 17, 16, 15, 14, 13, 12, 11, 10, /*   to lvl 50 */
+       -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, /*   to lvl 60 */
+       99 }
+     },
+
+   { /* Saving throw table for BARD(Ba) (delta=1.0) */
      /*        Against Paralysis               */
      { 99,
        69, 68, 67, 66, 65, 64, 63, 62, 61, 60, /*   to lvl 10 */

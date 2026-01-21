@@ -372,6 +372,7 @@
 #define SKILL_CHARGE                293
 #define SKILL_FLASHBANG		    294
 #define SKILL_INSTANT_POISON	    295
+#define SKILL_WAYFARERS_STEP        296
 
 /*
  *  NON-PLAYER AND OBJECT SPELLS AND SKILLS
@@ -424,6 +425,14 @@
 /* Player songs, numbered from SONG_FIRST to MAX_SONGS */
 #define SONG_FIRST                   351
 #define SONG_MINOR_REFRESHMENT       351
+#define SONG_BRAVERY                 352
+#define SONG_HEALING                 353
+#define SONG_PROTECTION              354
+#define SONG_SILENCE                 355
+#define SONG_DISCORD                 356
+#define SONG_SPEED                   357
+#define SONG_REVELATIONS             358
+#define SONG_HERO                    359
 
 #define MAX_SONGS                    399
 

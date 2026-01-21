@@ -489,6 +489,11 @@ do_simple_move( CharData * ch, int dir, int following)
   else if (affected_by_spell(ch, SPELL_FLEET_FOOT))
     moveCost = ( moveCost <= 3 ? 1 : moveCost - 2 );
 
+  if (GET_SKILL(ch, SKILL_WAYFARERS_STEP)) {
+    moveCost = MAX(1, moveCost / 2);
+    if (GET_MOVE(ch) < moveCost) moveCost = 0;
+  }
+
   if((world[EXIT(ch, dir)->to_room].sector_type == SECT_FLYING) &&
      (!CAN_FLY(ch)))
   {

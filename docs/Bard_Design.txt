@@ -1,0 +1,54 @@
+# Bard Class Design Document
+
+## Overview
+The Bard (ID 11) is a utility and support class that leverages Charisma (CHA) and music to manipulate the environment and empower allies.
+
+## Core Mechanics
+
+### 1. Song System (ID 351-359)
+*   **Type:** Aura-based pulses.
+*   **Command:** `sing <song name>`
+*   **Cost:** Drains Movement Points (MP) per pulse (uses `mana_min` as pulse cost).
+*   **Scaling:** Effects scale with level.
+*   **Restriction:** Only one song can be active at a time.
+*   **Interference:** Any command stops the current song. Movement stops songs flagged with `SST_MOVEMENT`.
+
+#### Implemented Songs:
+*   **Minor Refreshment (351):** Level 1. Small HP regen pulse.
+*   **Bravery (352):** Level 5. Group Hitroll/Damroll buff.
+*   **Healing (353):** Level 12. Group HP regen pulse.
+*   **Protection (354):** Level 18. Group AC bonus.
+*   **Silence (355):** Level 25. Chance to silence enemies in room.
+*   **Discord (356):** Level 32. Damage pulse to enemies.
+*   **Speed (357):** Level 40. Group Haste buff.
+*   **Revelations (358):** Level 45. Group Detect Invisibility.
+*   **Hero (359):** Level 50. Massive group buff (Hit/Dam/MaxHP).
+
+### 2. Wayfarer's Step (ID 296)
+*   **Type:** Passive.
+*   **Level:** 1.
+*   **Effect:** Reduces movement point cost of traversing rooms by 50% (minimum 1).
+*   **Implementation:** Hooked into `do_simple_move` in `movement.c`.
+
+### 3. Ventriloquate (Level 10)
+*   **Type:** Tactical Skill (ID 41).
+*   **Command:** `ventriloquate <room direction> <sound direction>`
+*   **Effect:** Projects sound into an adjacent room to lure aggressive mobs.
+*   **Mechanic:** Aggressive, non-sentinel mobs must save vs Spell or move in the specified sound direction.
+*   **Cost:** 20 Mana.
+
+### 4. Scouting & Utility
+*   **Scan:** Available at level 10 (Skill ID 194).
+*   **Standard Spells:** Bards have access to Invisible, Haste, and Silence at appropriate levels.
+
+## Implementation Progress
+
+- [x] Class Definition (ID 11, NUM_CLASSES 12)
+- [x] Base Stats (THAC0, Saving Throws, Titles)
+- [x] Spell Parser Support (12-class spello signature)
+- [x] Ventriloquate Tactical Logic
+- [x] Level Sync (Scan/Ventriloquate at Level 10)
+- [x] Wayfarer's Step Passive Hook
+- [x] Song System Engine (MP drain/Pulse)
+- [x] Specific Song Effects (Aura definitions)
+- [x] Command Integration (Enabling 'sing', renaming 'sing' social to 'carol')

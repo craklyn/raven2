@@ -342,6 +342,7 @@ ACMD(do_wiznet);
 ACMD(do_wizslap);
 ACMD(do_wizutil);
 ACMD(do_write);
+ACMD(do_ventriloquate);
 ACMD(do_xname);
 ACMD(do_zombies);
 ACMD(do_zombiegift);

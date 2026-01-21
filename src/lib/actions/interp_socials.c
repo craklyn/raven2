@@ -151,7 +151,7 @@
     { "shrug"      , POS_RESTING , do_action, 0, 0, AFF_HIDE },
     { "shudder"    , POS_RESTING , do_action, 0, 0, AFF_HIDE },
     { "sigh"       , POS_RESTING , do_action, 0, 0, AFF_HIDE },
-    { "sing"       , POS_STANDING, do_action, 0, 0, AFF_HIDE },
+    { "carol"      , POS_STANDING, do_action, 0, 0, AFF_HIDE },
     { "slam"       , POS_STANDING, do_action, 0, 0, AFF_HIDE },
     { "slap"       , POS_RESTING , do_action, 0, 0, AFF_HIDE },
     { "smile"      , POS_RESTING , do_action, 0, 0, AFF_HIDE },

@@ -1173,281 +1173,286 @@ void mag_assign_spells(void)
   int i;
 
   for (i = 1; i <= TOP_SPELL_DEFINE; i++)
-    spello(i,XX,XX,XX,XX,XX,XX,XX,XX,XX,XX,XX,0,0,0,0,0,0,0,ZZ);
+    spello(i,XX,XX,XX,XX,XX,XX,XX,XX,XX,XX,XX,XX,0,0,0,0,0,0,0,ZZ);
 
   spello(SPELL_ARMOR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX,  3, XX, XX, XX, XX, XX,  7,  7, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX,  3, XX, XX, XX, XX, XX,  7,  7, XX, XX,  5,
          30, 15, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 12);
 
   spello(SPELL_TELEPORT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 45,
          400, 300, 10, POS_FIGHTING, TAR_CHAR_ROOM, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_BLESS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX,  5, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX,  5, XX, XX, XX, XX, XX, XX, XX, XX, XX, 10,
          35, 5, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_BLINDNESS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          9, 11, XX, XX, XX, XX, XX, XX, 33, 13, 12,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          9, 11, XX, XX, XX, XX, XX, XX, 33, 13, 12, XX,
          35, 25, 1, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT | TAR_NOT_SELF, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_AIRSPHERE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 35, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 35, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          100, 65, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 8);
 
   spello(SPELL_BURNING_HANDS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          40, 15, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_CALL_LIGHTNING,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 18, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 18, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          40, 25, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_CHARM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          8, XX, XX, XX, XX, XX, XX, XX, XX, 30, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          8, XX, XX, XX, XX, XX, XX, XX, XX, 30, XX, XX,
          75, 50, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_NOT_SELF, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_CHILL_TOUCH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          5, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          5, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          40, 10, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE | MAG_AFFECTS, ZZ);
 
   spello(SPELL_CLONE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          80, 65, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_COLOR_SPRAY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         20, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         20, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          45, 15, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_CONTROL_WEATHER,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          75, 25, 5, POS_STANDING, TAR_IGNORE, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_CREATE_FOOD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX,  1, XX, XX, XX, XX, XX,  2, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX,  1, XX, XX, XX, XX, XX,  2, XX, XX, XX, XX,
          30, 5, 4, POS_STANDING, TAR_IGNORE, FALSE, MAG_CREATIONS, ZZ);
 
   spello(SPELL_CREATE_WATER,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX,  2, XX, XX,  5, XX, XX,  2, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX,  2, XX, XX,  5, XX, XX,  2, XX, XX, XX, XX,
          30, 5, 4, POS_STANDING, TAR_OBJ_INV | TAR_OBJ_EQUIP, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_CURE_BLIND,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 11, XX, XX, XX, XX, XX, 33, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 11, XX, XX, XX, XX, XX, 33, XX, XX, XX, XX,
          30, 5, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_UNAFFECTS, 15);
 
   spello(SPELL_CURE_CRITIC,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX,  8, XX, XX, XX, XX, XX, 35, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX,  8, XX, XX, XX, XX, XX, 35, XX, XX, XX, XX,
          40, 20, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_POINTS, 10);
 
   spello(SPELL_CURE_LIGHT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 10, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 10, XX, XX, XX, XX,
          40, 20, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_POINTS, 10);
 
   spello(SPELL_CURSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 23, 33, 15,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 23, 33, 15, XX,
          80, 40, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_OBJ_INV, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_DETECT_ALIGN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX,  4, XX, XX, XX, XX, XX,  5,  5, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX,  4, XX, XX, XX, XX, XX,  5,  5, XX, XX, XX,
          20, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_DETECT_INVIS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          2,  9, XX, XX, XX, XX, XX, 13, 13, XX, 10,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          2,  9, XX, XX, XX, XX, XX, 13, 13, XX, 10, XX,
          20, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_DETECT_MAGIC,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          2, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          2, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          20, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_DETECT_POISON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          15, 5, 1, POS_STANDING, TAR_OBJ_INV | TAR_OBJ_ROOM, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_DISPEL_EVIL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 22, XX, XX, XX, XX, XX, 30, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 22, XX, XX, XX, XX, XX, 30, XX, XX, XX, XX,
          40, 25, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_DISPEL_GOOD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 22, XX, XX, XX, XX, XX, XX, 30, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 22, XX, XX, XX, XX, XX, XX, 30, XX, XX, XX,
          40, 25, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_EARTHQUAKE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 20, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 20, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          40, 25, 3, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_ENCHANT_WEAPON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         20, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         20, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          150, 100, 10, POS_STANDING, TAR_OBJ_INV | TAR_OBJ_EQUIP, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_LIFE_DRAIN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         23, XX, XX, XX, XX, XX, XX, XX, XX, XX,  1,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         23, XX, XX, XX, XX, XX, XX, XX, XX, XX,  1, XX,
          40, 25, 1, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT | TAR_NOT_SELF, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_GROUP_ARMOR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 30, 2, POS_STANDING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 
   spello(SPELL_FIREBALL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         45, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         45, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 30, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_GROUP_HEAL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          80, 60, 5, POS_FIGHTING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 
   spello(SPELL_HARM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 25, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 25, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          75, 50, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_HEAL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 20, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 20, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 40, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_POINTS | MAG_AFFECTS | MAG_UNAFFECTS, 15);
 
   spello(SPELL_INFRAVISION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         11, 17, XX, XX,  9, 15, XX, XX, XX, XX, 17,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         11, 17, XX, XX,  9, 15, XX, XX, XX, XX, 17, XX,
          25, 10, 1, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_INVISIBLE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          2, XX, XX, XX, XX, XX, XX, XX, XX,  5, 18,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          2, XX, XX, XX, XX, XX, XX, XX, XX,  5, 18, 15,
          35, 25, 1, POS_STANDING, TAR_CHAR_ROOM | TAR_OBJ_INV | TAR_OBJ_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_LIGHTNING_BOLT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         35, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         35, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 40, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_LOCATE_OBJECT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         18, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         18, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          80, 40, 4, POS_STANDING, TAR_OBJ_WORLD, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_MAGIC_MISSILE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          1, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          1, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          40, 10, 10, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT | TAR_CHAR_DIR | TAR_CHAR_ZONE, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_POISON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 23,  7,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 23,  7, XX,
          50, 20, 3, POS_STANDING, TAR_CHAR_ROOM | TAR_NOT_SELF | TAR_FIGHT_VICT | TAR_OBJ_INV, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_PROT_FROM_EVIL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 10, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 10, XX, XX, XX, XX,
          40, 10, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_REMOVE_CURSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         15, 20, XX, XX, XX, XX, XX, 23, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         15, 20, XX, XX, XX, XX, XX, 23, XX, XX, XX, XX,
          45, 25, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_OBJ_INV, FALSE, MAG_UNAFFECTS|MAG_ALTER_OBJS, ZZ);
 
   spello(SPELL_SANCTUARY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 30, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 30, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          110, 85, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 10);
 
   spello(SPELL_SHOCKING_GRASP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         10, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         10, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          45, 20, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_SLEEP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          7, XX, XX, XX, XX, XX, XX, XX, XX, 13, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          7, XX, XX, XX, XX, XX, XX, XX, XX, 13, XX, 14,
          40, 25, 5, POS_STANDING, TAR_CHAR_ROOM, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_STRENGTH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          9, XX, XX, XX, 21, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          9, XX, XX, XX, 21, XX, XX, XX, XX, XX, XX, XX,
          40, 20, 2, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_SUMMON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          5, 16, XX, XX, XX, XX, XX, XX, XX, XX, 14,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          5, 16, XX, XX, XX, XX, XX, XX, XX, XX, 14, XX,
          75, 50, 3, POS_STANDING, TAR_CHAR_WORLD | TAR_NOT_SELF, FALSE, MAG_MANUAL, ZZ);
 
+  spello(SPELL_VENTRILOQUATE,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 10,
+         30, 15, 3, POS_STANDING, TAR_IGNORE, FALSE, MAG_MANUAL, ZZ);
+
   spello(SPELL_WORD_OF_RECALL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX,  6, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX,  6, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          20, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_MANUAL, 20);
 
   spello(SPELL_REMOVE_POISON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 14, XX, XX,  9, XX, XX, 18, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 14, XX, XX,  9, XX, XX, 18, XX, XX, XX, XX,
          40, 8, 4, POS_STANDING, TAR_CHAR_ROOM | TAR_OBJ_INV, FALSE, MAG_UNAFFECTS, ZZ);
 
   spello(SPELL_SENSE_LIFE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 13, XX, XX, 18, 23, XX, XX, XX, 28, 21,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 13, XX, XX, 18, 23, XX, XX, XX, 28, 21, XX,
          20, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_FLY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         12, 18, XX, XX, XX, XX, XX, XX, XX, XX, 11,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         12, 18, XX, XX, XX, XX, XX, XX, XX, XX, 11, XX,
          30, 15, 3, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 10);
 
   spello(SPELL_BARKSKIN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 12, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 12, XX, XX, XX, XX, XX, XX, XX,
          35, 20, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, 10);
 
   spello(SPELL_AWAKEN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         21, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         21, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          55, 25, 3, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_REGENERATE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 18, XX, XX, XX, XX, XX, 28, 28, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 18, XX, XX, XX, XX, XX, 28, 28, XX, XX, XX,
          50, 40, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_ICE_STORM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         25, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         25, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          80, 50, 3, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_METEOR_SWARM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         40, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         40, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          90, 60, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_PORTAL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         37, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         37, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 #ifdef CAN_PORTAL_TO_OBJ
          250, 200, 10, POS_STANDING, TAR_CHAR_WORLD|TAR_OBJ_WORLD, FALSE, MAG_MANUAL, ZZ);
 #else
@@ -1455,38 +1460,38 @@ void mag_assign_spells(void)
 #endif
 
   spello(SPELL_CAUSE_WOUND,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX,  2, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX,  2, XX, XX, XX,
          20, 8, 2, POS_FIGHTING, TAR_CHAR_ROOM|TAR_FIGHT_VICT,TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_MALEDICT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 4, XX, XX, XX, XX, XX, XX, XX, XX, 4,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 4, XX, XX, XX, XX, XX, XX, XX, XX, 4, XX,
          45, 40, 1, POS_FIGHTING, TAR_CHAR_ROOM|TAR_FIGHT_VICT,TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_CAUSE_CRITIC,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          20, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM|TAR_FIGHT_VICT,TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_CURE_SERIOUS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX,  XX, XX, XX, XX, XX, XX, 25, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX,  XX, XX, XX, XX, XX, XX, 25, XX, XX, XX, XX,
          40, 20, 5, POS_FIGHTING, TAR_CHAR_ROOM, FALSE, MAG_POINTS, ZZ);
 
   spello(SPELL_CALM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 37, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 37, XX, XX, XX, XX, XX, XX, XX, XX, XX, 30,
          120, 80, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_CHAIN_LIGHTNING,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 33, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 33, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          100, 80, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_BANISH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 30, XX, XX, XX, XX, XX, 33, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 30, XX, XX, XX, XX, XX, 33, XX, XX, XX, XX,
          110, 50, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_MANUAL, ZZ);
 
   /* Jan 24, 1995 Liam
@@ -1495,600 +1500,600 @@ void mag_assign_spells(void)
    *  
    */
   spello(SPELL_DEMON_FIRE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 40, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 40, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          100, 50, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_FLAME_STRIKE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 40, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 40, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          100, 50, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_PROT_FROM_GOOD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 10, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 10, XX, XX, XX,
          40, 10, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_SHIELD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         10, XX, XX, XX, 18, XX, XX, XX, XX, XX, 9,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         10, XX, XX, XX, 18, XX, XX, XX, XX, XX, 9, XX,
          40, 20, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_ARMOR_OF_CHAOS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 30, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 30, XX, XX, XX,
          50, 20, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_HOLY_ARMOR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 30, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 30, XX, XX, XX, XX,
          50, 20, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_CREATE_SPRING,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         10, 35, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         10, 35, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          70, 40, 5, POS_STANDING, TAR_IGNORE, FALSE, MAG_CREATIONS, ZZ);
 
   spello(SPELL_MINOR_CREATION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 10, 5, POS_STANDING, TAR_IGNORE, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_SAND_STORM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         29, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         29, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          110, 50, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_SILENCE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 33,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 33, 20,
          70, 30, 5, POS_STANDING, TAR_CHAR_ROOM, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_WEB,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         6, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         6, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          70, 40, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_AFFECTS, ZZ);
          
   spello(SPELL_PARALYZE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          100, 70, 5, POS_STANDING, TAR_CHAR_ROOM, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_HASTE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         33, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         33, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 35,
          150, 100, 2, POS_STANDING, TAR_CHAR_ROOM |  TAR_CHAR_GROUP,
          FALSE, MAG_AFFECTS, 5);
 
   spello(SPELL_SLOW,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 32,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 32, 35,
          80, 40, 5, POS_STANDING, TAR_CHAR_ROOM, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_SHRIEK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         30, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         30, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 30, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_MONSTER_SUMMON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-          5, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+          5, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          120, 90, 5, POS_FIGHTING, TAR_IGNORE, FALSE, MAG_SUMMONS, ZZ);
 
   spello(SPELL_REMOVE_PARALYSIS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 27, XX, XX, XX, XX, XX, 35, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 27, XX, XX, XX, XX, XX, 35, XX, XX, XX, XX,
          50, 20, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_UNAFFECTS, ZZ);
 
   spello(SPELL_CONJURE_ELEMENTAL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         30, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         30, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          120, 80, 5, POS_FIGHTING, TAR_IGNORE, FALSE, MAG_SUMMONS, ZZ);
 
   spello(SPELL_GATE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         40, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         40, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          300, 200, 10, POS_FIGHTING, TAR_IGNORE, FALSE, MAG_SUMMONS, ZZ);
 
   spello(SPELL_GATE_MAJOR_DEMON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          200, 150, 10, POS_FIGHTING, TAR_IGNORE, FALSE, MAG_SUMMONS, ZZ);
 
   spello(SPELL_ANIMATE_DEAD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX,  6, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX,  6, XX, XX, XX,
          120, 80, 1, POS_FIGHTING, TAR_OBJ_ROOM, FALSE, MAG_SUMMONS, ZZ);
 
   spello(SPELL_FORGET,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 30, 5, POS_STANDING, TAR_CHAR_ROOM, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_GROUP_RECALL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          80, 60, 5, POS_FIGHTING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 
   spello(SPELL_GROUP_SANCTUARY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          200, 140, 5, POS_STANDING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 
   spello(SPELL_REFRESH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 35, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 35, XX, XX, XX, XX, XX, XX, XX,
          50, 30, 2, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_POINTS, 10);
 
   spello(SPELL_TRUE_SIGHT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         31, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         31, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          70, 40, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_BALL_OF_LIGHT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         01, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         01, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 20, 5, POS_STANDING, TAR_IGNORE, FALSE, MAG_CREATIONS, ZZ);
 
   spello(SPELL_FEAR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 33, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 33, XX, XX, XX,
          70, 30, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_FLEET_FOOT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 36, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 36, XX, XX, XX, XX, XX, XX, XX,
          50, 30, 2, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 10);
 
   spello(SPELL_HANDS_OF_WIND,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 45, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 45, XX, XX, XX, XX, XX, XX, XX,
          55, 35, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_FIRE_BREATH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 40, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_FROST_BREATH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 40, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_ACID_BREATH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 40, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_GAS_BREATH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 40, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_LIGHTNING_BREATH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 40, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_YOUTHEN,
-  /*    Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-        XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*    Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+        XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
         50, 40, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_KNOWLEDGE,
-  /*    Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-        XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*    Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+        XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
         50, 40, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_RECHARGE,
-  /*    Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-        XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*    Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+        XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
         50, 40, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_MANUAL, ZZ);
   
   spello(SPELL_PLAGUE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 20, 3, POS_STANDING, TAR_CHAR_ROOM | TAR_NOT_SELF | TAR_OBJ_INV, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_CURE_PLAGUE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 35, XX, XX, XX, XX, XX, 37, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 35, XX, XX, XX, XX, XX, 37, XX, XX, XX, XX,
          100, 25, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_UNAFFECTS, 10);
 
   spello(SPELL_RELOCATE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 45, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 45, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          200, 20, 2, POS_STANDING, TAR_CHAR_WORLD | TAR_NOT_SELF, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_GROUP_HASTE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         100, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         100, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          500, 300, 11, POS_STANDING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 
   spello(SPELL_BLUR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 19, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 19, XX, XX,
          45, 15, 1, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_REVIVE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 45, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 45, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          75, 50, 5, POS_FIGHTING, TAR_CHAR_ROOM, FALSE, MAG_POINTS | MAG_AFFECTS | MAG_UNAFFECTS, ZZ);
   
   spello(SPELL_CHANGE_ALIGN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          80, 65, 5, POS_STANDING, TAR_SELF_ONLY, FALSE, MAG_POINTS, ZZ);
 
   spello(SPELL_CALL_OF_THE_WILD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 22, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 22, XX, XX, XX, XX, XX, XX, XX,
          120, 80, 2, POS_FIGHTING, TAR_IGNORE, FALSE, MAG_SUMMONS, ZZ);
 
   spello(SPELL_DOOM_BOLT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         50, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         50, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          25, 25, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_WRATH_OF_THE_ANCIENTS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         50, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         50, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 50, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ); 
 
   spello(SPELL_PRAYER_OF_LIFE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 45, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 45, XX, XX, XX, XX,
          60, 30, 6, POS_FIGHTING, TAR_CHAR_ROOM, FALSE, MAG_POINTS, ZZ);
 
   spello(SPELL_HOLY_WORD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 43, XX, XX, XX, XX, XX, 45, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 43, XX, XX, XX, XX, XX, 45, XX, XX, XX, XX,
          140, 90, 10, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_UNHOLY_WORD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 43, XX, XX, XX, XX, XX, XX, 45, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 43, XX, XX, XX, XX, XX, XX, 45, XX, XX, XX,
          140, 90, 10, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_BLACK_DART,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 10, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 10, XX, XX, XX,
          40, 20, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT | TAR_CHAR_DIR, TRUE, MAG_DAMAGE | MAG_AFFECTS, ZZ);
 
   spello(SPELL_BLACK_BREATH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 35, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 35, XX, XX, XX,
          60, 30, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE | MAG_AFFECTS, ZZ);
 
   spello(SPELL_DEATH_TOUCH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 45, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 45, XX, XX, XX,
          40, 40, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE | MAG_AFFECTS, ZZ);
 
   spello(SPELL_EYES_OF_THE_DEAD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 40, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 40, XX, XX, XX,
          70, 40, 3, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_RIGHTEOUS_VISION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 40, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 40, XX, XX, XX, XX,
          70, 40, 3, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_WARD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 10, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 10, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 40, 4, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 10);
 
   spello(SPELL_GROUP_WARD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          120, 80, 4, POS_STANDING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 
   spello(SPELL_SHADOW_VISION,
-  /*	 Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX,  8, XX,
+  /*	 Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX,  8, XX, XX,
 	 60, 30, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP | TAR_CHAR_WORLD, FALSE, MAG_AFFECTS, 27);
 
   spello(SPELL_SHADOW_BLADES,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX,  4, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX,  4, XX, XX,
 	 60, 30, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_GROUP_SHADOW_VISION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 100, 60, 5, POS_STANDING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 
   spello(SPELL_SHADOW_SPHERE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, 15, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, 15, XX, XX,
 	 95, 25, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_SHADOW_WALK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 20, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 20, XX, XX,
          30, 15, 3, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_IDENTIFY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         11, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         11, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 15,
          60,  20,  2, POS_STANDING,  TAR_CHAR_ROOM | TAR_OBJ_INV | TAR_OBJ_ROOM, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_GROUP_FLY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 100, 60, 5, POS_STANDING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 
   spello(SPELL_GROUP_INVISIBILITY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 100, 60, 5, POS_STANDING, TAR_IGNORE, FALSE, MAG_GROUPS, ZZ);
 	 
   spello(SPELL_BLINK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         41, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         41, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          90, 50, 10, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE,
          MAG_AFFECTS, ZZ);
          
   spello(SPELL_PESTILENCE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 30, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 30, XX, XX, XX,
          100, 50, 5, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
   
   spello(SPELL_ENTANGLE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 31, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 31, XX, XX, XX, XX, XX, XX, XX,
          60, 35, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE | MAG_AFFECTS, ZZ);
 
   spello(SPELL_FEEBLEMIND,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         48, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         48, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          90, 20, 50, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_FLAME_BLADE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         17, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         17, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          80, 30, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 10);
           
   spello(SPELL_NEXUS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         35, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         35, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          200, 20, 100, POS_STANDING, TAR_CHAR_WORLD | TAR_NOT_SELF, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_ASSISTANT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 34, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 34, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          150, 100, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
   
   spello(SPELL_SAGACITY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 38, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 38, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          90, 20, 50, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_CLEANSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 41, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 41, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          130, 80, 10, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_MANUAL, 9);
 
   spello(SPELL_FORTIFY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 31, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 31, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          180, 130, 10, POS_STANDING, TAR_CHAR_ROOM , FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_DISHEARTEN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 39, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 39, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          50, 25, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT |TAR_NOT_SELF, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_SACRIFICE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 48, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 48, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          300, 300, 0, POS_FIGHTING, TAR_CHAR_ROOM | TAR_NOT_SELF, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_PULSE_HEAL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          100, 100, 0, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_PULSE_GAIN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          100, 100, 0, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_DANCE_SHADOWS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 19, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 19, XX, XX,
 	 40, 20, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_DANCE_DREAMS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 29, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 29, XX, XX,
          40, 25, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_DANCE_MISTS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 39, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 39, XX, XX,
          35, 25, 1, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT | TAR_NOT_SELF, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_CRUSADE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 42, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 42, XX, XX, XX, XX,
          50, 25, 4, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_UNUSED,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          100, 75, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_APOCALYPSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 27, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 27, XX, XX, XX,
          75, 50, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_MISSION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 27, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 27, XX, XX, XX, XX,
          75, 50, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_FOREST_LORE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 25, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 25, XX, XX, XX, XX, XX, XX, XX,
          40, 40, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_SWARM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 27, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 27, XX, XX, XX, XX, XX, XX, XX,
          60, 30, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE | MAG_AFFECTS, ZZ);
 
   spello(SPELL_WALL_OF_FIRE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 10, 2, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_TREMOR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 10, 2, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_TSUNAMI,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 10, 2, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_TYPHOON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 10, 2, POS_FIGHTING, TAR_IGNORE, TRUE, MAG_AREAS, ZZ);
 
   spello(SPELL_TERROR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_AFFECTS | MAG_DAMAGE, ZZ);
 
   spello(SPELL_FAST_LEARNING,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          10, 10, 0, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SKILL_SHOWDAM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          10, 10, 0, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_DISPEL_MAGIC,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          10, 10, 0, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_CONSUME_CORPSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 25,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 25, XX,
          90, 70, 3, POS_STANDING, TAR_OBJ_ROOM, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_EXPLODE_CORPSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 41,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 41, XX,
          90, 60, 4, POS_FIGHTING, TAR_OBJ_ROOM, TRUE, MAG_MANUAL, ZZ);
 
   spello(SPELL_CREATE_WARDING,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 37,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 37, XX,
          70, 50, 5, POS_FIGHTING, TAR_IGNORE, FALSE, MAG_CREATIONS, ZZ);
 
   spello(SPELL_BONE_WALL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 43,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 43, XX,
          200, 100, 15, POS_FIGHTING, TAR_DIRECTION, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_WRAITHFORM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 38,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 38, XX,
          200, 120, 20, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_NOXIOUS_SKIN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 28,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 28, XX,
          45, 35, 1, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, 8);
 
   spello(SPELL_DISEASE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 45,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 45, XX,
          90, 80, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_NOT_SELF, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_SUMMON_CORPSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          200, 200, 0, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_MANUAL, 15);
 
   spello(SPELL_EMBALM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 26,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 26, XX,
          40, 25, 1, POS_FIGHTING, TAR_OBJ_ROOM, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_CHARM_CORPSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 23,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 23, XX,
          65, 35, 3, POS_FIGHTING, TAR_OBJ_ROOM, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_ENTOMB_CORPSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 40,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 40, XX,
          125, 75, 5, POS_STANDING, TAR_OBJ_ROOM | TAR_CHAR_ROOM, FALSE, MAG_MANUAL, ZZ);
 
     spello(SPELL_CALL_TO_CORPSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 47,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 47, XX,
          100, 50, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_RESIST_POISON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  8,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  8, XX,
          40, 20, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE, MAG_AFFECTS, 15);
 
   spello(SPELL_AGE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 20,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 20, XX,
          40, 30, 1, POS_STANDING, TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, 20);
 
   spello(SPELL_QUICKEN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          125, 125, 1, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_ENERGY_DRAIN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 31,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 31, XX,
          40, 25, 5, POS_STANDING, TAR_CHAR_ROOM, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_SOUL_PIERCE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 3,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 3, XX,
          40, 30, 1, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE, ZZ);
 
   spello(SPELL_DEBILITATE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 35,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 35, XX,
          80, 40, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_NOT_SELF, TRUE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_FOUNT_OF_YOUTH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          200, 200, 0, POS_STANDING, TAR_IGNORE, FALSE, MAG_CREATIONS, ZZ);
 
   spello(SPELL_CALL_STEED,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          60, 60, 0, POS_STANDING, TAR_IGNORE, FALSE, MAG_MANUAL, ZZ);
 
   spello(SPELL_REFLECTION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          35, 35, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS, ZZ);
 
   spello(SPELL_FLETCH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          15, 15, 0, POS_STANDING, TAR_IGNORE, FALSE, MAG_MANUAL, ZZ);
 
 
@@ -2104,563 +2109,563 @@ void mag_assign_spells(void)
 
   /* Ma  Cl  Th  Wa  */
   spello(SKILL_BACKSTAB,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX,  5, XX, XX, 1, XX, XX, XX, 10, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX,  5, XX, XX, 1, XX, XX, XX, 10, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_BASH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX,  1, XX, XX, XX,  9,  9, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX,  1, XX, XX, XX,  9,  9, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_HIDE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX,  4, XX,  3,  1, XX, XX, XX,  3, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX,  4, XX,  3,  1, XX, XX, XX,  3, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_KICK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 15,  1, 12,  9,  1,  1,  1, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 15,  1, 12,  9,  1,  1,  1, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_PICK_LOCK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX,  5, XX, XX, 20, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX,  5, XX, XX, 20, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_RESCUE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX,  2, 20, XX, XX,  5,  5, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX,  2, 20, XX, XX,  5,  5, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SNEAK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX,  2, XX,  2,  5,  2, XX, XX,  1, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX,  2, XX,  2,  5,  2, XX, XX,  1, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_STEAL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX,  1, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX,  1, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_MUG,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 33, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 33, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_TRACK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 30, XX,  1, 17, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 30, XX,  1, 17, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_DISARM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 10, 10, 24, XX, 15, 20, 20, 22, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 10, 10, 24, XX, 15, 20, 20, 22, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SECOND_ATTACK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 22,  5, 15,  8,  9, 15, 15, 25, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 22,  5, 15,  8,  9, 15, 15, 25, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_THIRD_ATTACK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 35, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 35, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SCAN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         35, 35, 10, 35, 20,  9, 35, 35, 35, 30, 35,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         35, 35, 10, 35, 20,  9, 35, 35, 35, 30, 35, 10,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_LAY_HANDS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 01, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 01, XX, XX, XX, XX, XX,
          60, 40, 3, POS_FIGHTING, TAR_CHAR_ROOM, FALSE, MAG_POINTS | MAG_AFFECTS | MAG_UNAFFECTS, ZZ);
 
   spello(SKILL_FISTS_OF_FURY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 33, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 33, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_THROW,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 15, XX, XX, 18, XX, XX, XX, 15, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 15, XX, XX, 18, XX, XX, XX, 15, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SHOOT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 10,  2, 39, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 10,  2, 39, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_KNOCK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 23, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 23, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_TRIP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX,  3, XX, 15, 13, XX, XX, XX, 16, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX,  3, XX, 15, 13, XX, XX, XX, 16, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_BLINDING_STRIKE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 18, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 18, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_HAMSTRING,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, 12, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, 12, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_ENHANCED_DAMAGE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 25, 25, 20, XX, 25, 25, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 25, 25, 20, XX, 25, 25, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_RETREAT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 15,  5, XX,  5, 15, 15, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 15,  5, XX,  5, 15, 15, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_TURN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX,  6, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX,  6, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_BUTCHER,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX,  3, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX,  3, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_DODGE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 18, XX, 14, 15,  9, XX, XX, 18, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 18, XX, 14, 15,  9, XX, XX, 18, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_TRAP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, 16, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, 16, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_BLACKJACK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 42, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 42, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_SEARCH_TRAP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 38, XX, XX, 16, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 38, XX, XX, 16, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_PALM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 20, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 20, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_FIND_WEAKNESS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 13, XX, XX, 10, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 13, XX, XX, 10, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SKIN,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_FEIGN_DEATH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 40, XX, XX, XX, 27, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 40, XX, XX, XX, 27, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_ART_WIND,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 20, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 20, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_ART_TIGER,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 25, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 25, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_ART_SNAKE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 30, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 30, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_ART_MONKEY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 35, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 35, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_ART_CRANE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 40, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 40, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_ART_FLOWER,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 45, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 45, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_ART_DRAGON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 50, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 50, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_CIRCLE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 25, XX, XX, 25, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 25, XX, XX, 25, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_DUST,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 25, XX, XX, 29, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 25, XX, XX, 29, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_STALK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, 20, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, 20, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_ENVENOM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, 35, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, 35, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_PARRY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 30, 28, 40, 28, XX, 38, 38, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 30, 28, 40, 28, XX, 38, 38, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_RIPOSTE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 50, 50, XX, XX, 50, 50, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 50, 50, XX, XX, 50, 50, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SWEEP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, 12, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, 12, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_DOORBASH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 38, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 38, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_PENUMBRAE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 6, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 6, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_PICKPOCKET,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_APPRAISE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_DELUSION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 35, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 35, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_CUTPURSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_COWER,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 35, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 35, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_DANGER_SENSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_THIEF_SENSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_ASSASSINATION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, 40, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, 40, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_DIRTY_TACTICS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 29, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 29, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_AGGRESSIVE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 30, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 30, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SHADOW_DANCE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, 40, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, 40, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SHADOW_STEP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */  
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, 42, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */  
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, 42, XX, XX,
          0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_SHADOW_MIST,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 44, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 44, XX, XX,
          0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_GORE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_BREATHE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_BERSERK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, 45, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, 45, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_GUARD,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, 20, XX, XX, XX, 20, 20, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, 20, XX, XX, XX, 20, 20, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_HEIGHTENED_SENSES,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, 35, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, 35, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
    spello(SKILL_AMBUSH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, 43, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, 43, XX, XX, XX, XX, XX, XX,
          0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
  spello(SKILL_CUT_THROAT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 30, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 30, XX, XX, XX, XX, XX, XX, XX, XX, XX,
          0, 0, 0, 0, 0, TRUE, 0, ZZ);
          
   spello(SKILL_CONVERT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 25, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 25, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
          
   spello(SKILL_FAMILIARIZE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, 32, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, 32, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_ESCAPE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, 38, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, 38, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_DANCE_DEATH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 49, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 49, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SHADOWBOX,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, 46, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, 46, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_FENCE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 16, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 16, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_SPY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 29, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 29, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_DISTRACT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, 27, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, 27, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_RETARGET,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 47, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 47, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_DEVOUR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, 42, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, 42, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_BLOCK,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, 36, 36, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, 36, 36, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SHIELD_BASH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 32, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 32, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_INVIGORATE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 20, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 20, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_REDOUBT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 48, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 48, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_WEAPON_MASTERY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 47, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 47, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_STEADFASTNESS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, 40, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, 40, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_SCOUT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 33, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 33, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_BULLSEYE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 27, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 27, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_EXPOSE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 41, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 41, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_CAMP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 46, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 46, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_POULTICE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, 28, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, 28, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_CALM,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_FEED,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_STING,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_MIST,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_BATTLECRY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_WARCRY,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_STANCE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_POWERSTRIKE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_FOCUS,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_DEVOTION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_FERVOR,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_FALSE_TRAIL,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_ENHANCED_STEALTH,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_SHADOW_JUMP,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_EVASION,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_CRITICAL_HIT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_ADRENALINE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_BEFRIEND,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, FALSE, 0, ZZ);
 
   spello(SKILL_CHARGE,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+	 XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
 
   spello(SKILL_FLASHBANG,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX,  45, XX, XX, XX, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX,  45, XX, XX, XX, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
   
   spello(SKILL_INSTANT_POISON,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, 45, XX, XX, XX, XX, XX,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, 45, XX, XX, XX, XX, XX, XX,
 	 0, 0, 0, 0, 0, TRUE, 0, ZZ);
   /*
    *
@@ -2686,10 +2691,64 @@ void mag_assign_spells(void)
    */
 
   spello(SONG_MINOR_REFRESHMENT,
-  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  ??  ??  ??  ??  ?? */
-         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  2,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  2,  1,
 	 10, 3, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
          SST_FIGHTING | SST_MOVEMENT, 18);
+
+  spello(SONG_BRAVERY,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  5,
+	 15, 5, 1, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
+         MAG_AFFECTS, 10);
+
+  spello(SONG_HEALING,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 12,
+	 25, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
+         MAG_POINTS, 15);
+
+  spello(SONG_PROTECTION,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 18,
+	 30, 15, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
+         MAG_AFFECTS, 20);
+
+  spello(SONG_SILENCE,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 25,
+	 40, 20, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE,
+         MAG_AFFECTS, 25);
+
+  spello(SONG_DISCORD,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 32,
+	 50, 25, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE,
+         MAG_AFFECTS, 30);
+
+  spello(SONG_SPEED,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 40,
+	 60, 30, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
+         MAG_AFFECTS, 35);
+
+  spello(SONG_REVELATIONS,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 45,
+	 70, 40, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
+         MAG_AFFECTS, 40);
+
+  spello(SONG_HERO,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 50,
+	 100, 50, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
+         MAG_AFFECTS, 45);
+
+  spello(SKILL_WAYFARERS_STEP,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  1,
+	 0, 0, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE,
+         MAG_MANUAL, ZZ);
 
 }
 

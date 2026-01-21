@@ -58,7 +58,8 @@ Class Definitions
 #define CLASS_DEATH_KNIGHT    8
 #define CLASS_SHADOW_DANCER   9
 #define CLASS_NECROMANCER     10
-#define NUM_CLASSES           11
+#define CLASS_BARD            11
+#define NUM_CLASSES           12
 
 /* ============================================================================
 Race Definitions
@@ -173,6 +174,7 @@ Class & Race Macros
 #define IS_DEATH_KNIGHT(ch)    (GET_CLASS(ch) == CLASS_DEATH_KNIGHT)
 #define IS_SHADOW_DANCER(ch)   (GET_CLASS(ch) == CLASS_SHADOW_DANCER)
 #define IS_NECROMANCER(ch)     (GET_CLASS(ch) == CLASS_NECROMANCER)
+#define IS_BARD(ch)            (GET_CLASS(ch) == CLASS_BARD)
 
 /* ============================================================================
 Misc. class/race related stuff
