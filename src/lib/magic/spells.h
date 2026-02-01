@@ -372,7 +372,7 @@
 #define SKILL_CHARGE                293
 #define SKILL_FLASHBANG		    294
 #define SKILL_INSTANT_POISON	    295
-#define SKILL_WAYFARERS_STEP        296
+#define SKILL_LEY_SLUICING          296
 
 /*
  *  NON-PLAYER AND OBJECT SPELLS AND SKILLS
@@ -422,19 +422,19 @@
 #define SPELL_CHARM_CORPSE2          339
 #define NPC_SPELL_TOP                SPELL_CHARM_CORPSE2 /* Track the spells currently defined */
 
-/* Player songs, numbered from SONG_FIRST to MAX_SONGS */
-#define SONG_FIRST                   351
-#define SONG_MINOR_REFRESHMENT       351
-#define SONG_BRAVERY                 352
-#define SONG_HEALING                 353
-#define SONG_PROTECTION              354
-#define SONG_SILENCE                 355
-#define SONG_DISCORD                 356
-#define SONG_SPEED                   357
-#define SONG_REVELATIONS             358
-#define SONG_HERO                    359
+/* Player manifestations, numbered from MANIFEST_FIRST to MAX_MANIFESTS */
+#define MANIFEST_FIRST                   351
+#define MANIFEST_BREATH_TUNDRA           351
+#define MANIFEST_MANTLE_MAGMA            352
+#define MANIFEST_SPRING_LIFE             353
+#define MANIFEST_EARTHEN_BASTION         354
+#define MANIFEST_VACUUM                  355
+#define MANIFEST_ELEMENTAL_STORM         356
+#define MANIFEST_TAILWIND                357
+#define MANIFEST_TREMORSENSE             358
+#define MANIFEST_AVATAR_ELEMENTS         359
 
-#define MAX_SONGS                    399
+#define MAX_MANIFESTS                    399
 
 #define TOP_SPELL_DEFINE         399
 const char *spell_wear_off_msg[NUM_SPELLS];

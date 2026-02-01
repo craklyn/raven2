@@ -134,6 +134,7 @@ char get_class_char(int class)
   case CLASS_THIEF: 		return 'T';
   case CLASS_WARRIOR: 		return 'W';
   case CLASS_NECROMANCER:       return 'N';
+  case CLASS_ELEMANCER:         return 'E';
   default:
 	mudlog(NRM, LVL_IMMORT, TRUE, "class.c -> Unknown class passed to get_class_char");
 	return 'W';
@@ -158,7 +159,7 @@ int parse_class(char arg)
     case 't': return CLASS_THIEF;
     case 'w': return CLASS_WARRIOR;
     case 'n': return CLASS_NECROMANCER;
-    case 'b': return CLASS_BARD;
+    case 'e': return CLASS_ELEMANCER;
     default: return CLASS_UNDEFINED;
     }
 }
@@ -1139,6 +1140,7 @@ const char *pc_class_types[] = {
     "Death Knight",
     "Shadow Dancer",
     "Necromancer",
+    "Elemancer",
     "\n"
 };
 
@@ -1195,6 +1197,7 @@ const char *class_abbrevs[NUM_CLASSES + 1] = {
     "De",         /* (8) - DEATH_KNIGHT    */
     "Sd",         /* (9) - SHADOW_DANCER   */
     "Nm",	  /* (10) - NECROMANCER	   */
+    "El",         /* (11) - ELEMANCER      */
     "\n"
 };
 
@@ -1274,7 +1277,7 @@ const char *class_menu[NUM_CLASSES] = {
 "  [D] - Death Knight\r\n",   /* Death Knight */
 "  [H] - Shadow Dancer\r\n",  /* Shadow Dancer */
 "  [N] - Necromancer\r\n",    /* Necromancer */
-"  [B] - Bard\r\n"            /* Bard */
+"  [E] - Elemancer\r\n"       /* Elemancer */
 };
 
 const char *race_menu =

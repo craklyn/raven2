@@ -1,0 +1,73 @@
+# Elemancer Design Document
+# Replaces Class: Bard (ID 11)
+
+## Overview
+The **Elemancer** is a conduit of primal forces. Unlike wizards who study arcane formulas or clerics who pray to deities, the Elemancer draws fire, ice, earth, and wind directly from their own **Force of Will** (Charisma). They channel these volatile energies through rhythmic chants, dances, and intense focus.
+
+This class replaces the "Bard" prototype. It retains the unique **Movement Point (MV)** resource mechanic (representing physical and mental exhaustion from channeling) but shifts the theme from "Music/Support" to "Elemental Channeling/Environment".
+
+## Core Stats
+*   **Primary Attribute:** **Charisma (CHA)**. Represents the force of personality required to bind elemental forces to one's will.
+*   **Secondary Attribute:** **Constitution (CON)**. Required to sustain the physical toll of channeling (High Max Move).
+*   **Resource:** **Willpower** (represented mechanically by **Movement Points**).
+
+## Core Mechanic: Elemental Invocations (The "Song" System)
+Elemancers do not "cast" in the traditional sense. They **Invoke** rites.
+*   **Command:** `invoke <rite name>` (Replaces `sing`)
+*   **Mechanic:**
+    *   Initiating a Rite costs an initial amount of Will (Move).
+    *   Maintaining a Rite drains Will (Move) every "pulse" (tick).
+    *   Only one Rite can be active at a time.
+    *   **Interruption:** Movement or taking other strenuous actions breaks the channel.
+
+### The Rites (Reskinned & Expanded Songs)
+
+| Bard Song (Old) | Elemancer Rite (New) | Element | Effect |
+| :--- | :--- | :--- | :--- |
+| **Minor Refreshment** | **Breath of the Tundra** | Ice/Air | Soothes wounds (Minor Group HP Regen). Cools the air. |
+| **Bravery** | **Mantle of Magma** | Fire | Envelops allies in heat, increasing aggression (Group Hitroll/Damroll). |
+| **Healing** | **Spring of Life** | Water | Powerful regenerative aura (Major Group HP Regen). |
+| **Protection** | **Earthen Bastion** | Earth | Hardens skin like stone (Group AC Bonus). |
+| **Silence** | **Vacuum** | Air | Sucks the sound out of the room (Silence enemies). |
+| **Discord** | **Elemental Storm** | Chaos | Randomly lashes enemies with Fire/Ice/Lightning damage pulses. |
+| **Speed** | **Tailwind** | Air | Reduces air resistance (Group Haste). |
+| **Revelations** | **Tremorsense** | Earth | Detects vibrations of unseen beings (Group Detect Invis/Hidden). |
+| **Hero** | **Avatar of the Elements** | All | Infuses allies with raw power (Massive Stat Buff). |
+
+## New Mechanics & Skills
+
+### 1. Geomancy (Passive)
+*   **Concept:** The Elemancer draws power from the land.
+*   **Effect:** Invocations cost **20% less Will (Move)** when standing in a sector matching the element:
+    *   **Fire:** Desert, Volcano.
+    *   **Water:** Water, Underwater, Ocean.
+    *   **Earth:** Hills, Mountains, Forest.
+    *   **Air:** City, Field, Sky.
+
+### 2. Elemental Attunement (Toggle/Stance)
+*   **Command:** `attune <element>`
+*   **Effect:** Shifts the Elemancer's internal balance.
+    *   **Fire:** +Damroll, -AC.
+    *   **Ice:** +AC, -Hitroll.
+    *   **Earth:** +MaxHP (temp), -Dex.
+    *   **Wind:** +MaxMove (temp), -Str.
+
+### 3. Terraform (Active Skill)
+*   **Command:** `terraform`
+*   **Effect:** Temporarily alters the **Sector Type** of the current room to suit the Elemancer's needs.
+    *   *Example:* Turns a `SECT_CITY` room into `SECT_DESERT` (Heat) or `SECT_FIELD` (Nature).
+    *   **Utility:** Enables "Geomancy" bonuses anywhere.
+    *   **Combat:** Can disrupt enemy pathing or give elemental advantages.
+
+## Implementation Plan (Migration from Bard)
+
+1.  **Rename & Refactor:**
+    *   Update `class.c` names and titles.
+    *   Update `spell_parser.c`: Rename `SPELL_SONG_*` constants to `SPELL_RITE_*`.
+    *   Update `sing.c` to `invoke.c` (or `rites.c`).
+2.  **Command Changes:**
+    *   Remove `do_sing`.
+    *   Add `do_invoke`.
+3.  **Skill Updates:**
+    *   Replace `Wayfarer's Step` with `Geomancy` (Passive logic in `spell_parser` cost check).
+    *   Implement `Terraform` (New skill in `act.other.c` or similar).

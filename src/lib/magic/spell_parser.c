@@ -2690,61 +2690,61 @@ void mag_assign_spells(void)
    * TAR_NOT_SELF       - cannot be sung to oneself
    */
 
-  spello(SONG_MINOR_REFRESHMENT,
+  spello(MANIFEST_BREATH_TUNDRA,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  2,  1,
 	 10, 3, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
          SST_FIGHTING | SST_MOVEMENT, 18);
 
-  spello(SONG_BRAVERY,
+  spello(MANIFEST_MANTLE_MAGMA,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  5,
 	 15, 5, 1, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
          MAG_AFFECTS, 10);
 
-  spello(SONG_HEALING,
+  spello(MANIFEST_SPRING_LIFE,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 12,
 	 25, 10, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
          MAG_POINTS, 15);
 
-  spello(SONG_PROTECTION,
+  spello(MANIFEST_EARTHEN_BASTION,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 18,
 	 30, 15, 2, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
          MAG_AFFECTS, 20);
 
-  spello(SONG_SILENCE,
+  spello(MANIFEST_VACUUM,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 25,
 	 40, 20, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE,
          MAG_AFFECTS, 25);
 
-  spello(SONG_DISCORD,
+  spello(MANIFEST_ELEMENTAL_STORM,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 32,
 	 50, 25, 3, POS_FIGHTING, TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE,
          MAG_AFFECTS, 30);
 
-  spello(SONG_SPEED,
+  spello(MANIFEST_TAILWIND,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 40,
 	 60, 30, 4, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
          MAG_AFFECTS, 35);
 
-  spello(SONG_REVELATIONS,
+  spello(MANIFEST_TREMORSENSE,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 45,
 	 70, 40, 5, POS_STANDING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
          MAG_AFFECTS, 40);
 
-  spello(SONG_HERO,
+  spello(MANIFEST_AVATAR_ELEMENTS,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, 50,
 	 100, 50, 5, POS_FIGHTING, TAR_CHAR_ROOM | TAR_CHAR_GROUP, FALSE,
          MAG_AFFECTS, 45);
 
-  spello(SKILL_WAYFARERS_STEP,
+  spello(SKILL_LEY_SLUICING,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  1,
 	 0, 0, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE,

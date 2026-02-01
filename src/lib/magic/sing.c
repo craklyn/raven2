@@ -160,17 +160,17 @@ stop_singing (CharData *ch)
       send_to_char ("You end your prayer prematurely.\r\n", ch);
       act ("$n ends his prayer prematurely.\r\n", FALSE, ch, 0, 0, TO_ROOM);
       break;
-    case SONG_MINOR_REFRESHMENT:
-    case SONG_BRAVERY:
-    case SONG_HEALING:
-    case SONG_PROTECTION:
-    case SONG_SILENCE:
-    case SONG_DISCORD:
-    case SONG_SPEED:
-    case SONG_REVELATIONS:
-    case SONG_HERO:
-      send_to_char ("You stop singing.\r\n", ch);
-      act ("$n ends $s song.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+    case MANIFEST_BREATH_TUNDRA:
+    case MANIFEST_MANTLE_MAGMA:
+    case MANIFEST_SPRING_LIFE:
+    case MANIFEST_EARTHEN_BASTION:
+    case MANIFEST_VACUUM:
+    case MANIFEST_ELEMENTAL_STORM:
+    case MANIFEST_TAILWIND:
+    case MANIFEST_TREMORSENSE:
+    case MANIFEST_AVATAR_ELEMENTS:
+      send_to_char ("You stop manifesting.\r\n", ch);
+      act ("$n ends $s manifestation.\r\n", FALSE, ch, 0, 0, TO_ROOM);
       break;
     case SPELL_FIREBALL:
       do_fireball (ch, TARGET(ch));
@@ -218,16 +218,16 @@ enact_song (CharData *ch, CharData *tch, int songnum)
 
   switch(songnum)
   {
-    case SONG_MINOR_REFRESHMENT:
+    case MANIFEST_BREATH_TUNDRA:
       GET_HIT (tch) += 5;
       if (GET_HIT(tch) > GET_MAX_HIT(tch))
         GET_HIT(tch) = GET_MAX_HIT(tch);
       break;
-    case SONG_BRAVERY:
+    case MANIFEST_MANTLE_MAGMA:
       if (grouped) {
           // Applying a short duration affect that is refreshed every pulse
           struct affected_type af;
-          af.type = SONG_BRAVERY;
+          af.type = MANIFEST_MANTLE_MAGMA;
           af.duration = 2; // Lasts 2 pulses (refreshed every pulse)
           af.modifier = GET_LEVEL(ch) / 10 + 1;
           af.location = APPLY_HITROLL;
@@ -237,16 +237,16 @@ enact_song (CharData *ch, CharData *tch, int songnum)
           affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
       }
       break;
-    case SONG_HEALING:
+    case MANIFEST_SPRING_LIFE:
       if (grouped) {
           int heal = GET_LEVEL(ch) / 5 + number(1, 10);
           GET_HIT(tch) = MIN(GET_MAX_HIT(tch), GET_HIT(tch) + heal);
       }
       break;
-    case SONG_PROTECTION:
+    case MANIFEST_EARTHEN_BASTION:
       if (grouped) {
           struct affected_type af;
-          af.type = SONG_PROTECTION;
+          af.type = MANIFEST_EARTHEN_BASTION;
           af.duration = 2;
           af.modifier = -(GET_LEVEL(ch) / 5 + 5);
           af.location = APPLY_AC;
@@ -254,10 +254,10 @@ enact_song (CharData *ch, CharData *tch, int songnum)
           affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
       }
       break;
-    case SONG_SILENCE:
+    case MANIFEST_VACUUM:
       if (!grouped && !mag_savingthrow(tch, SAVING_SPELL)) {
           struct affected_type af;
-          af.type = SONG_SILENCE;
+          af.type = MANIFEST_VACUUM;
           af.duration = 1;
           af.modifier = 0;
           af.location = APPLY_NONE;
@@ -265,16 +265,16 @@ enact_song (CharData *ch, CharData *tch, int songnum)
           affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
       }
       break;
-    case SONG_DISCORD:
+    case MANIFEST_ELEMENTAL_STORM:
       if (!grouped && !mag_savingthrow(tch, SAVING_SPELL)) {
           int dam = dice(GET_LEVEL(ch)/4, 8);
-          damage(ch, tch, dam, SONG_DISCORD);
+          damage(ch, tch, dam, MANIFEST_ELEMENTAL_STORM);
       }
       break;
-    case SONG_SPEED:
+    case MANIFEST_TAILWIND:
       if (grouped) {
           struct affected_type af;
-          af.type = SONG_SPEED;
+          af.type = MANIFEST_TAILWIND;
           af.duration = 2;
           af.modifier = 0;
           af.location = APPLY_NONE;
@@ -282,10 +282,10 @@ enact_song (CharData *ch, CharData *tch, int songnum)
           affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
       }
       break;
-    case SONG_REVELATIONS:
+    case MANIFEST_TREMORSENSE:
       if (grouped) {
           struct affected_type af;
-          af.type = SONG_REVELATIONS;
+          af.type = MANIFEST_TREMORSENSE;
           af.duration = 2;
           af.modifier = 0;
           af.location = APPLY_NONE;
@@ -293,10 +293,10 @@ enact_song (CharData *ch, CharData *tch, int songnum)
           affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
       }
       break;
-    case SONG_HERO:
+    case MANIFEST_AVATAR_ELEMENTS:
       if (grouped) {
           struct affected_type af;
-          af.type = SONG_HERO;
+          af.type = MANIFEST_AVATAR_ELEMENTS;
           af.duration = 2;
           af.modifier = GET_LEVEL(ch) / 5;
           af.location = APPLY_HITROLL;
@@ -561,41 +561,41 @@ perform_song (CharData *ch)
         act("$n creates a sphere of loosely bound particles around $mself.", FALSE, ch, 0, 0, TO_ROOM);
         ch->state = SHIELD1;
         break;
-      case SONG_MINOR_REFRESHMENT:
-        send_to_char ("You begin to sing a light, refreshing tune.\r\n", ch);
-        act ("$n begins to sing a light, refreshing tune.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_BREATH_TUNDRA:
+        send_to_char ("You draw a deep breath, and the air around you begins to freeze.\r\n", ch);
+        act ("$n draws a deep breath, causing the air to chill noticeably.\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
-      case SONG_BRAVERY:
-        send_to_char ("You begin to sing a song of courage and bravery!\r\n", ch);
-        act ("$n begins to sing a song of courage and bravery!\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_MANTLE_MAGMA:
+        send_to_char ("You stomp the ground, calling forth the heat of the earth!\r\n", ch);
+        act ("$n stomps the ground, and waves of heat rise around $m!\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
-      case SONG_HEALING:
-        send_to_char ("You begin to sing a soothing melody of healing.\r\n", ch);
-        act ("$n begins to sing a soothing melody of healing.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_SPRING_LIFE:
+        send_to_char ("You focus your will, and a spring of vitality bubbles up around you.\r\n", ch);
+        act ("$n focuses $s will, and the air smells of fresh spring rain.\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
-      case SONG_PROTECTION:
-        send_to_char ("You begin to sing a rhythmic chant of protection.\r\n", ch);
-        act ("$n begins to sing a rhythmic chant of protection.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_EARTHEN_BASTION:
+        send_to_char ("You clench your fists, and your skin hardens like stone.\r\n", ch);
+        act ("$n clenches $s fists, and $s skin takes on a grey, stony hue.\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
-      case SONG_SILENCE:
-        send_to_char ("You begin to sing a low, muting dirge.\r\n", ch);
-        act ("$n begins to sing a low, muting dirge.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_VACUUM:
+        send_to_char ("You make a sharp gesture, sucking the sound from the air.\r\n", ch);
+        act ("$n makes a sharp gesture, and all sound is suddenly sucked away.\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
-      case SONG_DISCORD:
-        send_to_char ("You begin to sing a jarring song of discord!\r\n", ch);
-        act ("$n begins to sing a jarring song of discord!\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_ELEMENTAL_STORM:
+        send_to_char ("You unleash a chaotic storm of fire and ice!\r\n", ch);
+        act ("$n unleashes a chaotic storm of fire and ice!\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
-      case SONG_SPEED:
-        send_to_char ("You begin to sing a fast-paced, energetic anthem!\r\n", ch);
-        act ("$n begins to sing a fast-paced, energetic anthem!\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_TAILWIND:
+        send_to_char ("You summon a rushing wind to hasten your allies!\r\n", ch);
+        act ("$n summons a rushing wind that swirls around the group!\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
-      case SONG_REVELATIONS:
-        send_to_char ("You begin to sing a clear song of revelations.\r\n", ch);
-        act ("$n begins to sing a clear song of revelations.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_TREMORSENSE:
+        send_to_char ("You close your eyes and feel the vibrations of the earth.\r\n", ch);
+        act ("$n closes $s eyes and presses a hand to the ground.\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
-      case SONG_HERO:
-        send_to_char ("You begin to sing a legendary epic of heroes!\r\n", ch);
-        act ("$n begins to sing a legendary epic of heroes!\r\n", FALSE, ch, 0, 0, TO_ROOM);
+      case MANIFEST_AVATAR_ELEMENTS:
+        send_to_char ("You channel the raw fury of the elements into your group!\r\n", ch);
+        act ("$n channels the raw fury of the elements into the group!\r\n", FALSE, ch, 0, 0, TO_ROOM);
         break;
       default:
         send_to_char ("You clear your throat and begin singing.\r\n", ch);
@@ -621,30 +621,30 @@ perform_song (CharData *ch)
 
     if (s == NULL || *s == '\0')
       {
-        send_to_char ("You raise your clear (?) voice towards the sky.\r\n", ch);
-        act ("SEEK SHELTER AT ONCE!  $n has begun to sing.", FALSE,
+        send_to_char ("You prepare to channel the elements.\r\n", ch);
+        act ("$n prepares to manifest the elements.", FALSE,
              ch, 0, 0, TO_ROOM);
         return;
       }
 
     songnum = find_skill_num (s);
 
-    if ((songnum < SONG_FIRST) || (songnum > MAX_SONGS))
+    if ((songnum < MANIFEST_FIRST) || (songnum > MAX_MANIFESTS))
       {
-        send_to_char ("Sing what!?!\r\n", ch);
+        send_to_char ("Manifest what?\r\n", ch);
         return;
       }
 
     if (GET_LEVEL (ch) < SINFO.min_level[(int) GET_CLASS (ch)])
       {
-        send_to_char ("You do not know that song!\r\n", ch);
+        send_to_char ("You do not know that manifestation!\r\n", ch);
         return;
       }
 
     if (!IS_NPC (ch))
       if (GET_SKILL (ch, songnum) == 0)
         {
-          send_to_char ("You have not learned that song.\r\n", ch);
+          send_to_char ("You have not learned that manifestation.\r\n", ch);
           return;
         }
 
@@ -652,7 +652,7 @@ perform_song (CharData *ch)
 
     if (moves > GET_MOVE (ch) && GET_LEVEL (ch) < LVL_IMMORT)
       {
-        send_to_char ("You are too exhausted to start singing.\r\n", ch);
+        send_to_char ("You are too exhausted to manifest.\r\n", ch);
         return;
       }
 

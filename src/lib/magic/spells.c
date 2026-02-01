@@ -2240,7 +2240,7 @@ char *spells[TOP_SPELL_DEFINE + 2] =
   "charge",
   "flashbang",
   "instant poison",	/* 295 */
-  "!UNUSED!",
+  "ley sluicing",
   "!UNUSED!", 
   "!UNUSED!", 
   "!UNUSED!",
@@ -2266,11 +2266,10 @@ char *spells[TOP_SPELL_DEFINE + 2] =
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 345 */
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 350 */
 
-  /* SONGS */
+  /* MANIFESTATIONS */
 
-  "minor refreshment",
-  "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 355 */
-  "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 360 */
+  "breath of the tundra", "mantle of magma", "spring of life", "earthen bastion", "vacuum", /* 355 */
+  "elemental storm", "tailwind", "tremorsense", "avatar of the elements", "!UNUSED!", /* 360 */
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 365 */
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 370 */
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 375 */

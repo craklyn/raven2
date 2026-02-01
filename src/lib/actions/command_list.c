@@ -204,6 +204,7 @@ const struct command_info cmd_info[] = {
 **     CMD          MIN_POSITION    FUNCNAME        MINLVL          SUBCMD          UNAFFECT
 */
     { "inventory" , POS_DEAD      , do_inventory  , 1             , 0             , NONE },
+    { "invoke"    , POS_FIGHTING  , do_sing       , 1             , 0             , HIDE },
     { "idea"      , POS_DEAD      , do_gen_write  , 5             , SCMD_IDEA     , NONE },
     { "imotd"     , POS_DEAD      , do_gen_ps     , LVL_IMMORT    , SCMD_IMOTD    , NONE },
     { "immlist"   , POS_DEAD      , do_gen_ps     , 1             , SCMD_IMMLIST  , NONE },
@@ -253,6 +254,7 @@ const struct command_info cmd_info[] = {
     { "motd"      , POS_DEAD      , do_gen_ps     , 1             , SCMD_MOTD     , NONE },
     { "mount"     , POS_STANDING  , do_mount      , 1             , 0             , HIDE },
     { "mail"      , POS_STANDING  , do_not_here   , 1             , 0             , HIDE },
+    { "manifest"  , POS_FIGHTING  , do_sing       , 1             , 0             , HIDE },
     { "muckle"    , POS_DEAD      , do_muckle     , 1      , 0             , NONE },
     { "mute"      , POS_DEAD      , do_wizutil    , LVL_CREATOR   , SCMD_SQUELCH  , NONE },
     { "murder"    , POS_FIGHTING  , do_hit        , 1             , SCMD_MURDER   , HIDE },
