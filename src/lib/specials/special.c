@@ -196,20 +196,7 @@ int chIsNonCombatant(CharData *ch)
 *  Special procedures for rooms                                       *
 ******************************************************************** */
 
-const char *prac_types[] = {
-  "spell",
-  "skill"
-};
-
-#define LEARNED_LEVEL	0	/* % known which is considered "learned" */
-#define MAX_PER_PRAC	1	/* max percent gain in skill per practice */
-#define MIN_PER_PRAC	2	/* min percent gain in skill per practice */
-#define PRAC_TYPE	3	/* should it say 'spell' or 'skill'?	 */
-
 /* actual prac_params are in class.c */
-#define MINGAIN(ch) (prac_params[MIN_PER_PRAC][(int)GET_CLASS(ch)])
-#define MAXGAIN(ch) (prac_params[MAX_PER_PRAC][(int)GET_CLASS(ch)])
-#define SPLSKL(ch) (prac_types[prac_params[PRAC_TYPE][(int)GET_CLASS(ch)]])
 
 char *exitIsClanGuarded(int cmd, CharData *ch)
 {
@@ -512,29 +499,8 @@ SPECIAL(guild)
     }
 
     if(CMD_IS("practice")) {
-        if(GET_PRACTICES(ch) <= 0) {
-            sendChar(ch, "You lack the capacity to learn more %ss right now.\r\n", SPLSKL(ch));
-            return 1;
-        }
-
-        if( GET_SKILL(ch, skill_num) >= MAX_PRACTICE_LEVEL ) {
-            send_to_char("Go out and use thy skills to improve.\r\n", ch);
-            return 1;
-        }
-
-        send_to_char("You practice for a while...\r\n", ch);
-        GET_PRACTICES(ch) -= 1;
-
-        skill_delta = (int)(((float)GET_INT(ch)/(float)INT_LEARNING_RATIO)*100.0);
-        percent     = GET_SKILL(ch, skill_num);
-
-        percent += MIN(MAXGAIN(ch), MAX(MINGAIN(ch), skill_delta ));
-        
-        SET_SKILL(ch, skill_num, MIN(MAX_PRACTICE_LEVEL, percent));
-
-        if (GET_SKILL(ch, skill_num) >= MAX_PRACTICE_LEVEL)
-            send_to_char("You are now learned in that area.\r\n", ch);
-
+        if (perform_practice(ch, skill_num))
+            send_to_char("You practice for a while...\r\n", ch);
         return 1;
     }
 

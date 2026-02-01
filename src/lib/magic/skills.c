@@ -555,3 +555,36 @@ victimIsAngry( int chanceToAnger )
     return( percentSuccess( chanceToAnger ));
 
 }/* victimIsAngry */
+
+/*
+** Perform practice logic (extracted from SPECIAL(guild))
+** Returns 1 if practice successful, 0 otherwise.
+*/
+int perform_practice(struct char_data *ch, int skill_num) {
+    #define INT_LEARNING_RATIO 150.0
+    int percent, skill_delta;
+
+    if(GET_PRACTICES(ch) <= 0) {
+        sendChar(ch, "You lack the capacity to learn more %ss right now.\r\n", SPLSKL(ch));
+        return 0;
+    }
+
+    if( GET_SKILL(ch, skill_num) >= MAX_PRACTICE_LEVEL ) {
+        send_to_char("Go out and use thy skills to improve.\r\n", ch);
+        return 0;
+    }
+
+    GET_PRACTICES(ch) -= 1;
+
+    skill_delta = (int)(((float)GET_INT(ch)/INT_LEARNING_RATIO)*100.0);
+    percent     = GET_SKILL(ch, skill_num);
+
+    percent += MIN(MAXGAIN(ch), MAX(MINGAIN(ch), skill_delta ));
+    
+    SET_SKILL(ch, skill_num, MIN(MAX_PRACTICE_LEVEL, percent));
+
+    if (GET_SKILL(ch, skill_num) >= MAX_PRACTICE_LEVEL)
+        send_to_char("You are now learned in that area.\r\n", ch);
+
+    return 1;
+}

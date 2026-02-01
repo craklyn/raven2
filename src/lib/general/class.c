@@ -1128,6 +1128,11 @@ int invalid_race(CharData *ch, ObjData *obj)
 Constants used by races and classes.
 ============================================================================ */
 
+const char *prac_types[] = {
+  "spell",
+  "skill"
+};
+
 const char *pc_class_types[] = {
     "Magic User",
     "Cleric",

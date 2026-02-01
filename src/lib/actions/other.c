@@ -342,9 +342,32 @@ ACMD(do_steal)
 ACMD(do_practice)
 {
   int save_vis;
+  int skill_num;
 
   if (IS_NPC(ch))
     return;
+
+  /* Elemancer Self-Practice Logic */
+  if (IS_ELEMANCER(ch) && ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) {
+      skip_spaces(&argument);
+
+      if (*argument) {
+          skill_num = find_skill_num(argument);
+          
+          if (skill_num < 1 || 
+              GET_LEVEL(ch) < spell_info[skill_num].min_level[(int)GET_CLASS(ch)]) {
+              sprintf(buf, "You do not know of that %s.\r\n", SPLSKL(ch));
+              send_to_char(buf, ch);
+              return;
+          }
+
+          if (perform_practice(ch, skill_num)) {
+              send_to_char("You center yourself, drawing inspiration from the universal ebb and flow...\r\n", ch);
+              act("$n centers $mself, seemingly drawing power from the air around $m.", FALSE, ch, 0, 0, TO_ROOM);
+          }
+          return;
+      }
+  }
 
   save_vis = GET_INVIS_LEV(ch);
   GET_INVIS_LEV(ch) = LVL_IMPL + 1;
