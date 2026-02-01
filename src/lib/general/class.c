@@ -1089,7 +1089,8 @@ int invalid_class(CharData *ch, ObjData *obj) {
       (IS_OBJ_STAT(obj, ITEM_ANTI_SHADOW_DANCER) && IS_SHADOW_DANCER(ch)) ||
       (IS_OBJ_STAT(obj, ITEM_ANTI_RANGER) && IS_RANGER(ch)) ||
       (IS_OBJ_STAT(obj, ITEM_ANTI_THIEF) && IS_THIEF(ch)) ||
-      (IS_OBJ_STAT(obj, ITEM_ANTI_NECROMANCER) && IS_NECROMANCER(ch)))
+      (IS_OBJ_STAT(obj, ITEM_ANTI_NECROMANCER) && IS_NECROMANCER(ch)) ||
+      (IS_OBJ_STAT(obj, ITEM_ANTI_ELEMANCER) && IS_ELEMANCER(ch)))
        return 1;
   else
        return 0;

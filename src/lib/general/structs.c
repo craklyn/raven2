@@ -461,6 +461,7 @@ char *extra_bits[NUM_ITEM_FLAGS + 1] = {
   "!REMORT",    /* 55 */
   "!PREMORT",
   "TROPHY",
+  "!ELEMANCER",
   "\n"
 };
 
