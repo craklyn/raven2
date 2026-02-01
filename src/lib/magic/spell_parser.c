@@ -2756,5 +2756,11 @@ void mag_assign_spells(void)
 	 0, 0, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE,
          MAG_MANUAL, ZZ);
 
+  spello(SKILL_TERRAFORM,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  10,
+	 30, 15, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE,
+         MAG_AFFECTS, ZZ);
+
 }
 

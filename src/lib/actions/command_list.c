@@ -436,6 +436,7 @@ const struct command_info cmd_info[] = {
     { "taste"     , POS_RESTING   , do_eat        , 0             , SCMD_TASTE    , NONE },
     { "tally"     , POS_DEAD      , do_tally      , LVL_ANGEL     , 0             , NONE },
     { "tedit"     , POS_DEAD      , do_tedit      , LVL_DEITY     , 0             , NONE },
+    { "terraform" , POS_STANDING  , do_terraform  , 1             , 0             , NONE },
     { "teleport"  , POS_DEAD      , do_teleport   , LVL_ANGEL     , 0             , NONE },
     { "throw"     , POS_STANDING  , do_throw      , 1             , 0             , HIDE },
     { "thaw"      , POS_DEAD      , do_wizutil    , LVL_LRGOD     , SCMD_THAW     , NONE },

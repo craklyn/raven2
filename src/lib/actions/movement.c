@@ -577,6 +577,11 @@ do_simple_move( CharData * ch, int dir, int following)
     return 0;
   }
 
+  if (affected_by_spell(ch, SKILL_TERRAFORM)) {
+      affect_from_char(ch, SKILL_TERRAFORM);
+      send_to_char("Your terraformed environment collapses as you move.\r\n", ch);
+  }
+
   if( IS_MORTAL(ch) && !IS_NPC(ch)) {
       if (GET_SKILL(ch, SKILL_LEY_SLUICING)) {
           if (GET_MOVE(ch) > 0)

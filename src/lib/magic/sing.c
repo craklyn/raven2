@@ -485,6 +485,13 @@ perform_song (CharData *ch)
         if (songnum >= MANIFEST_FIRST && songnum <= MAX_MANIFESTS) {
             int move_drain = SINFO.mana_min;
             int sect = world[ch->in_room].sector_type;
+            struct affected_type *af;
+            for (af = ch->affected; af; af = af->next) {
+                if (af->type == SKILL_TERRAFORM) {
+                    sect = af->modifier;
+                    break;
+                }
+            }
             int bonus = 0;
 
             if (GET_SKILL(ch, SKILL_GEOMANCY)) {
@@ -764,4 +771,52 @@ perform_song (CharData *ch)
           }
       }
 
+  }
+
+  ACMD(do_terraform)
+  {
+    char arg[MAX_INPUT_LENGTH];
+    int sect = -1;
+    struct affected_type af;
+
+    if (IS_NPC(ch)) return;
+
+    one_argument(argument, arg);
+
+    if (!*arg) {
+        send_to_char("Terraform into what environment? (tundra, magma, life, bastion, storm)\r\n", ch);
+        return;
+    }
+
+    if (is_abbrev(arg, "tundra")) sect = SECT_WATER_SWIM;
+    else if (is_abbrev(arg, "magma")) sect = SECT_MOUNTAIN;
+    else if (is_abbrev(arg, "life")) sect = SECT_FOREST;
+    else if (is_abbrev(arg, "bastion")) sect = SECT_HILLS;
+    else if (is_abbrev(arg, "storm")) sect = SECT_FLYING;
+    else {
+        send_to_char("You cannot terraform that environment.\r\n", ch);
+        return;
+    }
+
+    if (affected_by_spell(ch, SKILL_TERRAFORM)) {
+        send_to_char("You are already maintaining a terraformed environment!\r\n", ch);
+        return;
+    }
+
+    if (GET_MOVE(ch) < 30) {
+        send_to_char("You are too exhausted to terraform.\r\n", ch);
+        return;
+    }
+
+    GET_MOVE(ch) -= 30;
+
+    af.type = SKILL_TERRAFORM;
+    af.duration = 2; 
+    af.modifier = sect;
+    af.location = APPLY_NONE;
+    af.bitvector = 0;
+    affect_to_char(ch, &af);
+
+    send_to_char("You channel your will, overlaying the reality of the room with your element!\r\n", ch);
+    act("$n channels intensely, and the environment seems to shimmer and shift around $m.", FALSE, ch, 0, 0, TO_ROOM);
   }

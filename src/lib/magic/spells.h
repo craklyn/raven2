@@ -374,6 +374,7 @@
 #define SKILL_INSTANT_POISON	    295
 #define SKILL_LEY_SLUICING          296
 #define SKILL_GEOMANCY              297
+#define SKILL_TERRAFORM             298
 
 /*
  *  NON-PLAYER AND OBJECT SPELLS AND SKILLS

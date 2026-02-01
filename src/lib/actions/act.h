@@ -304,6 +304,7 @@ ACMD(do_steadfastness);
 ACMD(do_switch);
 ACMD(do_tally);
 ACMD(do_tedit);
+ACMD(do_terraform);
 ACMD(do_teleport);
 ACMD(do_tell);
 ACMD(do_tick);

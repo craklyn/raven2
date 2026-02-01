@@ -12086,5 +12086,28 @@ Additionally, Elemancers can continue to move even when completely exhausted,
 allowing them to flow with the land endlessly.
 
 SEE ALSO: ELEMANCER
+#0
+TERRAFORM
+
+Usage       : terraform <environment>
+Accumulative: No
+Duration    : Instant (Effect lasts while stationary)
+Description :
+
+   The Elemancer forces their will upon the world, overlaying the current
+   environment with an elemental reality of their choosing. This allows them to
+   create favorable conditions for their manifestations (Geomancy).
+
+   Available Environments:
+   - Tundra  (Water/Ice)
+   - Magma   (Fire/Earth)
+   - Life    (Nature)
+   - Bastion (Earth/Protection)
+   - Storm   (Air/Chaos)
+
+   The effect persists as long as the Elemancer remains in the room. Moving
+   will break the concentration and collapse the terraformed environment.
+
+SEE ALSO: ELEMANCER, GEOMANCY
 #51
 $~

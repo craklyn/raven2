@@ -2242,6 +2242,7 @@ char *spells[TOP_SPELL_DEFINE + 2] =
   "instant poison",	/* 295 */
   "ley sluicing",
   "geomancy",
+  "terraform",
   "!UNUSED!", 
   "!UNUSED!",
   "!UNUSED!",           /* 300 */
