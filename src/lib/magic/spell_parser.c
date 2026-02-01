@@ -1127,7 +1127,7 @@ void spello(int spl, int lv0, int lv1, int lv2, int lv3, int lv4, int lv5, int l
   spell_info[spl].min_level[CLASS_DEATH_KNIGHT] = lv8;
   spell_info[spl].min_level[CLASS_SHADOW_DANCER] = lv9;
   spell_info[spl].min_level[CLASS_NECROMANCER] = lv10;
-  spell_info[spl].min_level[CLASS_BARD] = lv11;
+  spell_info[spl].min_level[CLASS_ELEMANCER] = lv11;
   spell_info[spl].mana_max = max_mana;
   spell_info[spl].mana_min = min_mana;
   spell_info[spl].mana_change = mana_change;
@@ -2745,6 +2745,12 @@ void mag_assign_spells(void)
          MAG_AFFECTS, 45);
 
   spello(SKILL_LEY_SLUICING,
+  /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
+         XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  1,
+	 0, 0, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE,
+         MAG_MANUAL, ZZ);
+
+  spello(SKILL_GEOMANCY,
   /*     Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm  Ba  ??  ??  ??  ?? */
          XX, XX, XX, XX, XX, XX, XX, XX, XX, XX, XX,  1,
 	 0, 0, 0, POS_STANDING, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE,

@@ -219,7 +219,10 @@ enact_song (CharData *ch, CharData *tch, int songnum)
   switch(songnum)
   {
     case MANIFEST_BREATH_TUNDRA:
-      GET_HIT (tch) += 5;
+      if (ch == tch)
+        GET_HIT (tch) += 40;
+      else
+        GET_HIT (tch) += 20;
       if (GET_HIT(tch) > GET_MAX_HIT(tch))
         GET_HIT(tch) = GET_MAX_HIT(tch);
       break;
@@ -239,8 +242,19 @@ enact_song (CharData *ch, CharData *tch, int songnum)
       break;
     case MANIFEST_SPRING_LIFE:
       if (grouped) {
-          int heal = GET_LEVEL(ch) / 5 + number(1, 10);
-          GET_HIT(tch) = MIN(GET_MAX_HIT(tch), GET_HIT(tch) + heal);
+          int heal_self = 50;
+          int heal_group = 25;
+          
+          if (GET_SKILL(ch, MANIFEST_BREATH_TUNDRA) > 0 && 
+              number(1, 101) <= GET_SKILL(ch, MANIFEST_BREATH_TUNDRA)) {
+              heal_self += 10;
+              heal_group += 10;
+          }
+
+          if (ch == tch)
+              GET_HIT(tch) = MIN(GET_MAX_HIT(tch), GET_HIT(tch) + heal_self);
+          else
+              GET_HIT(tch) = MIN(GET_MAX_HIT(tch), GET_HIT(tch) + heal_group);
       }
       break;
     case MANIFEST_EARTHEN_BASTION:
@@ -267,8 +281,9 @@ enact_song (CharData *ch, CharData *tch, int songnum)
       break;
     case MANIFEST_ELEMENTAL_STORM:
       if (!grouped && !mag_savingthrow(tch, SAVING_SPELL)) {
-          int dam = dice(GET_LEVEL(ch)/4, 8);
-          damage(ch, tch, dam, MANIFEST_ELEMENTAL_STORM);
+          int dam = 3 * dice(GET_LEVEL(ch)/4, 8);
+          int types[] = {SPELL_FIRE_BREATH, SPELL_FROST_BREATH, SPELL_ACID_BREATH, SPELL_LIGHTNING_BREATH};
+          damage(ch, tch, dam, types[number(0, 3)]);
       }
       break;
     case MANIFEST_TAILWIND:
@@ -295,10 +310,16 @@ enact_song (CharData *ch, CharData *tch, int songnum)
       break;
     case MANIFEST_AVATAR_ELEMENTS:
       if (grouped) {
+          int bonus = 10;
+          if (ch == tch && GET_SKILL(ch, MANIFEST_MANTLE_MAGMA) > 0 &&
+              number(1, 101) <= GET_SKILL(ch, MANIFEST_MANTLE_MAGMA)) {
+              bonus = 15;
+          }
+
           struct affected_type af;
           af.type = MANIFEST_AVATAR_ELEMENTS;
           af.duration = 2;
-          af.modifier = GET_LEVEL(ch) / 5;
+          af.modifier = bonus;
           af.location = APPLY_HITROLL;
           af.bitvector = 0;
           affect_join(tch, &af, TRUE, FALSE, FALSE, FALSE);
@@ -461,10 +482,45 @@ perform_song (CharData *ch)
         return 1;
 
       default:
-        if (songnum >= SONG_FIRST && songnum <= MAX_SONGS) {
+        if (songnum >= MANIFEST_FIRST && songnum <= MAX_MANIFESTS) {
             int move_drain = SINFO.mana_min;
+            int sect = world[ch->in_room].sector_type;
+            int bonus = 0;
+
+            if (GET_SKILL(ch, SKILL_GEOMANCY)) {
+                switch (songnum) {
+                    case MANIFEST_BREATH_TUNDRA:
+                    case MANIFEST_SPRING_LIFE:
+                        if (sect == SECT_WATER_SWIM || sect == SECT_WATER_NOSWIM || 
+                            sect == SECT_UNDERWATER || sect == SECT_UNDERWATER_RIVER)
+                            bonus = 1;
+                        break;
+                    case MANIFEST_MANTLE_MAGMA:
+                    case MANIFEST_EARTHEN_BASTION:
+                    case MANIFEST_TREMORSENSE:
+                        if (sect == SECT_MOUNTAIN || sect == SECT_HILLS || 
+                            sect == SECT_ROCKY || sect == SECT_SAND)
+                            bonus = 1;
+                        break;
+                    case MANIFEST_VACUUM:
+                    case MANIFEST_TAILWIND:
+                    case MANIFEST_ELEMENTAL_STORM:
+                        if (sect == SECT_FLYING || sect == SECT_FIELD || sect == SECT_CITY)
+                            bonus = 1;
+                        break;
+                    case MANIFEST_AVATAR_ELEMENTS:
+                        if (sect != SECT_INSIDE)
+                            bonus = 1;
+                        break;
+                }
+            }
+            
+            if (bonus) {
+                move_drain = MAX(1, (move_drain * 8) / 10); // 20% reduction
+            }
+
             if (GET_MOVE(ch) < move_drain) {
-                send_to_char("You are too exhausted to continue singing.\r\n", ch);
+                send_to_char("You are too exhausted to continue manifesting.\r\n", ch);
                 return 0;
             }
             GET_MOVE(ch) -= move_drain;

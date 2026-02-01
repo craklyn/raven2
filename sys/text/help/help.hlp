@@ -11955,10 +11955,23 @@ Duration    : Sustained (Pulse)
 Description :
 
    The Elemancer lowers the ambient temperature, soothing wounds and slowing
-bleeding. This manifestation provides a minor regeneration effect to the
-Elemancer.
+bleeding for everyone in the room. This manifestation provides a minor
+regeneration effect to all present, with the Elemancer receiving double the
+benefit as they resonate with the chill.
 
 SEE ALSO: ELEMANCER, MANIFEST
+#0
+GEOMANCY
+
+Usage       : Passive
+Description :
+
+   Elemancers are intrinsically linked to the environment. This passive skill
+allows them to manifest elemental Rites with 20% less mental effort (Movement
+Points) when they are standing in a terrain sector that matches the element
+being channeled.
+
+SEE ALSO: ELEMANCER, MANIFEST, LEY-SLUICING
 #0
 MANTLE-OF-MAGMA MAGMA
 
@@ -12069,6 +12082,8 @@ Description :
    Elemancers learn to read the natural flow of energy in the land (Ley Lines).
 By stepping into these flows, they can travel with significantly reduced
 effort. This passive skill reduces the Movement Point cost of walking by 50%.
+Additionally, Elemancers can continue to move even when completely exhausted,
+allowing them to flow with the land endlessly.
 
 SEE ALSO: ELEMANCER
 #51

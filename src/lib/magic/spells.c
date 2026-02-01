@@ -2241,7 +2241,7 @@ char *spells[TOP_SPELL_DEFINE + 2] =
   "flashbang",
   "instant poison",	/* 295 */
   "ley sluicing",
-  "!UNUSED!", 
+  "geomancy",
   "!UNUSED!", 
   "!UNUSED!",
   "!UNUSED!",           /* 300 */

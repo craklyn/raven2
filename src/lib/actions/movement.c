@@ -527,7 +527,7 @@ do_simple_move( CharData * ch, int dir, int following)
       IS_SUNLIGHT(world[chRoom].dir_option[dir]->to_room))
     moveCost = moveCost*2;
 
-  if(GET_MOVE(ch) < moveCost && !IS_NPC(ch))
+  if(GET_MOVE(ch) < moveCost && !IS_NPC(ch) && !GET_SKILL(ch, SKILL_LEY_SLUICING))
   {
     if(following && ch->master) {
       sendChar( ch, "You are too exhausted to follow.\r\n" );
@@ -577,7 +577,14 @@ do_simple_move( CharData * ch, int dir, int following)
     return 0;
   }
 
-  if( IS_MORTAL(ch) && !IS_NPC(ch)) GET_MOVE(ch) -= moveCost;
+  if( IS_MORTAL(ch) && !IS_NPC(ch)) {
+      if (GET_SKILL(ch, SKILL_LEY_SLUICING)) {
+          if (GET_MOVE(ch) > 0)
+              GET_MOVE(ch) = MAX(0, GET_MOVE(ch) - moveCost);
+      } else {
+          GET_MOVE(ch) -= moveCost;
+      }
+  }
 
   /* Mortius */
   if (!UNDERWATER(ch)) 
