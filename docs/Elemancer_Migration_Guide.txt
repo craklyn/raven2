@@ -1,0 +1,71 @@
+# Elemancer Equipment Migration Guide
+
+This document outlines the procedure for updating the game's equipment database to include the new `!ELEMANCER` flag. This is necessary because the Elemancer class replaced the Bard class, and existing items need proper class restrictions applied.
+
+## Logic
+The migration applies the following rule:
+*   Any item that is currently flagged `!THIEF` will have the `!ELEMANCER` flag added.
+*   This logic assumes that Elemancers share similar equipment restrictions to Thieves (e.g., restricted from heavy plate/weapons).
+
+## Tools Created
+We created two tools to handle this migration safely:
+
+1.  **`update_obj_files.py`**
+    *   **Target:** World files (`sys/world/obj/*.obj`).
+    *   **Function:** Parses the text files and appends the `!ELEMANCER` flag (ASCII 'A' in the 3rd flag column) to matching items.
+    *   **Status:** **ALREADY RUN**. The world files in this repo are updated. Future object loads will be correct.
+
+2.  **`src/bin/binaries/elemancer_migrate.c`**
+    *   **Target:** Binary player/locker files (`sys/plrobjs/*`, `sys/lockers/*`).
+    *   **Function:** Iterates through binary files, reads the object structures, checks for `ITEM_ANTI_THIEF`, sets `ITEM_ANTI_ELEMANCER` bit (58), and saves in-place.
+    *   **Safety:** Unlike `equpdate`, this tool **DOES NOT** reload the object prototype. It modifies the existing binary data directly. This ensures that:
+        *   **Forged Weapons** retain their custom stats.
+        *   **Renamed Items** keep their names.
+        *   **Randomized Items** do not get re-rolled.
+
+## Execution Procedure (Production)
+
+### 1. Compile the Migration Tool
+You must compile the C utility in the environment where it will run.
+
+```bash
+cd src/bin/binaries
+gcc -o elemancer_migrate elemancer_migrate.c
+```
+*Note: You may need to adjust include paths (`-I`) if the relative paths in the code (`../../lib/...`) do not match your build environment's structure.*
+
+### 2. Shutdown the MUD
+**CRITICAL:** The MUD must be offline to ensure no players are saving files while the migration runs.
+
+### 3. Backup Data
+Create a backup of the player and locker directories.
+```bash
+cp -r sys/plrobjs sys/plrobjs_backup
+cp -r sys/lockers sys/lockers_backup
+```
+
+### 4. Run the Migration
+Execute the tool from the root directory (so it finds the `sys/` paths).
+
+```bash
+./src/bin/binaries/elemancer_migrate
+```
+
+**Expected Output:**
+```
+Starting Elemancer Item Migration...
+Updated 5 items in sys/plrobjs/A-E/alucard.objs
+Updated 12 items in sys/lockers/guild.objs
+...
+Migration complete.
+```
+
+### 5. Verify
+*   Log in as an Immortal.
+*   Load a player who had Thief/Warrior gear.
+*   Identify the items. They should now show `!ELEMANCER` (or `!BARD` if the text strings haven't been updated yet, but the effect will apply).
+
+## Post-Migration
+Once the migration is confirmed successful on Production:
+1.  You may delete the `elemancer_migrate` binary and source.
+2.  You may delete `update_obj_files.py`.
