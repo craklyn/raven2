@@ -50,3 +50,4 @@ sys/corpses/*
 
 # Secrets (we will use secrets.h.example as a template)
 src/include/general/secrets.h
+src/lib/general/secrets.c

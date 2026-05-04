@@ -25,7 +25,8 @@ CSRCS       = comm.c      \
               modify.c    \
               objsave.c   \
               rmath.c     \
-              chores.c
+              chores.c    \
+              secrets.c
 
 # LIBRARY  -
 #    This target allows the developer to build lib.a files with the

@@ -347,10 +347,12 @@ void    SET_DAMROLL(CharData *ch, int dam);
 /** 1 if flag is set in the extra bits of obj, 0 if not. */
 #define OBJ_FLAGGED(obj, flag) (IS_SET_AR(GET_OBJ_EXTRA(obj), (flag)))
 
+#include "general/secrets.h"
+
 #define EXPLORE_LEVEL(ch)   ((ch)->player_specials->saved.chore_count)
-#define PLR_IS_EXPLORER(ch) (EXPLORE_LEVEL((ch)) >= 5)
-#define PLR_IS_VETERAN(ch)  (EXPLORE_LEVEL((ch)) >= 10)
-#define PLR_IS_LEGEND(ch)   (EXPLORE_LEVEL((ch)) >= 15)
+#define PLR_IS_EXPLORER(ch) (EXPLORE_LEVEL((ch)) >= STATUS_EXPLORER_THRESHOLD)
+#define PLR_IS_VETERAN(ch)  (EXPLORE_LEVEL((ch)) >= STATUS_VETERAN_THRESHOLD)
+#define PLR_IS_LEGEND(ch)   (EXPLORE_LEVEL((ch)) >= STATUS_LEGEND_THRESHOLD)
 
 // Generic consolidated flag tests.
 //
