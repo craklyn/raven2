@@ -1,9 +1,0 @@
-j kill 2.
-title title the Necromancer formerly known as Corpsi
-1 cast 'life'
-2 cast 'soul'
-3 cast 'mal'
-4 cast 'pois' $1
-5 cast 'blind' $1
-a assist
-r get all all.cor

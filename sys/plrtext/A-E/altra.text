@@ -1,4 +1,0 @@
-sphere  c 'shadow sphere' $*
-blades  c 'shadow blades' $*
-vision  c 'shadow vision' $*
-x {backstab @target}

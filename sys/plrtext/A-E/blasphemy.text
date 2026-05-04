@@ -1,9 +1,0 @@
-bli c 'blind' $*
-h c 'heal' lan
-blind c 'blind' $*
-food c 'create foo
-c "heal' $*
-heal c 'heal' $*
-recall c 'word of recall'
-water c 'create water' $*
-sense c 'sense life' $*

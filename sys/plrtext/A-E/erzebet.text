@@ -1,7 +1,0 @@
-sw scan
-bli cast 'blindness' $*
-ss cast 'shadow sphere'
-bs backstab $*
-sv cast 'shadow vision' $*
-sb cast 'shadow blades' $*
-ne backstab 2.

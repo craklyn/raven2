@@ -1,7 +1,0 @@
-des destroy corpse
-gac get all corpse
-bl cast 'blindness' $*
-ss cast 'shadow sphere'
-sb cast 'shadow blades' $*
-sv cast 'shadow vision' $*
-wake wake;stand

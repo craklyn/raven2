@@ -1,8 +1,0 @@
-f fist $*
-cla cla &14 $* &00
-x feed  $*
-h hands self
-bl blind $*
-title! title &01Kyouketsuki &14Shugenja&00
-5 feed off
-gt gtell &08$*&00
