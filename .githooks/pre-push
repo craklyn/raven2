@@ -1,0 +1,10 @@
+#!/bin/sh
+remote="$1"
+if [ "$remote" = "public" ]; then
+    echo "SAFEGUARD: Checking for secrets in outgoing commits..."
+    # Check if any secret files are part of the commits being pushed
+    if git diff --name-only HEAD @{u} 2>/dev/null | grep -E "secrets.c$|secrets.h$"; then
+        echo "ERROR: Attempted to push secrets to public! Push aborted."
+        exit 1
+    fi
+fi
