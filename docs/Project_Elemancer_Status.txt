@@ -1,0 +1,71 @@
+# Project Elemancer: Status Report & Handoff
+
+**Date:** February 3, 2026
+**Status:** Code Complete / Marketing In-Production
+
+---
+
+## 1. Codebase Implementation (COMPLETED)
+The **Elemancer** class has replaced the Bard (ID 11) with a fully functional elemental mechanic set.
+
+### **Core Mechanics**
+*   **Manifestations:** Replaced "Songs" with sustained elemental rites (Pulse-based).
+*   **Geomancy:** Passive skill. Reduces Manifestation cost by 20% if standing in a matching sector (e.g., Magma in Mountains).
+*   **Ley-Sluicing:** Passive skill. Reduces movement cost by 50% and grants immunity to exhaustion-based movement stops.
+*   **Terraform:** Active skill. Temporarily alters the player's effective sector type to trigger Geomancy bonuses.
+
+### **Key Files Modified**
+*   `src/lib/general/class.c`: Renamed class, added `ITEM_ANTI_ELEMANCER` logic.
+*   `src/lib/magic/sing.c`: Core Manifestation logic, Geomancy checks, Terraform implementation.
+*   `src/lib/actions/movement.c`: Ley-Sluicing logic (exhaustion bypass).
+*   `src/lib/actions/other.c`: `do_practice` refactored to allow Elemancer self-practice in safe rooms.
+*   `src/lib/magic/spells.c/h`: Registered new spell IDs (296-298, 351-359).
+*   `sys/text/help/help.hlp`: Comprehensive help entries added.
+
+### **Migration Tools**
+*   `src/bin/binaries/elemancer_migrate.c`: C utility to update binary player/locker files (Adds `!ELEMANCER` flag to `!THIEF` items).
+*   `update_obj_files.py`: Python script to update world `.obj` text files (Already executed).
+*   **Guide:** `docs/Elemancer_Migration_Guide.txt` contains full instructions for Prod deployment.
+
+---
+
+## 2. Marketing & Trailer (IN PROGRESS)
+**Concept:** "The Many Faces of the Flow" - An anthology trailer showcasing different races and elements.
+
+### **Visual Assets (Status: READY)**
+You have generated video clips for all 5 scenes:
+*   **Scene 1 (Earth):** Dwarf Elemancer armoring up with stone.
+*   **Scene 2 (Fire):** Fire Elemental (Remort) buffing a party in a dungeon.
+*   **Scene 3 (Ice):** Elf freezing a lake with breath.
+*   **Scene 4 (Air):** Gnome utilizing Ventriloquate/Stealth.
+*   **Scene 5 (Terraform):** Human transforming a gray city into a green jungle.
+
+### **Narrative Assets (Status: READY)**
+*   **In-Game Teaser:** Posted to message board ("The Clay Beneath Your Feet").
+*   **Narration Script:** Finalized (See below for synthesis).
+
+---
+
+## 3. Immediate TODOs (Post-Reboot)
+
+### **A. Trailer Assembly**
+1.  **Generate Voiceover:** Use Qwen3-TTS with the prompt: *"Male, deep, resonant, cinematic trailer voice."*
+    *   *Script:*
+        *   "In a world of studied magic... and borrowed prayers..."
+        *   "...true power is not asked for. It is... unleashed."
+        *   "The elements do not merely serve you. They *are* you."
+        *   "A whisper on the wind... can topple empires."
+        *   "Reshape the earth. Ignite the soul. Become the conduit."
+        *   "The Elemancer. Play RavenMUD today."
+2.  **Edit:** Stitch the 5 video clips.
+    *   **0:00:** Dwarf (Earth sounds)
+    *   **0:06:** Fire Elemental (Roaring fire sounds)
+    *   **0:12:** Elf (Silence + Wind)
+    *   **0:18:** Gnome (Quiet + armor clank)
+    *   **0:24:** Human (Orchestral swell + growth sounds)
+    *   **0:32:** Title Card.
+
+### **B. Production Deployment**
+1.  **Compile:** Build the code on the production server.
+2.  **Migrate:** Run the `elemancer_migrate` tool on the player/locker files (See `docs/Elemancer_Migration_Guide.txt`).
+3.  **Boot:** Restart the MUD.
