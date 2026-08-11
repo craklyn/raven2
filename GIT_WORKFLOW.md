@@ -9,6 +9,7 @@ We utilize a **Dual-Remote, Two-Branch** strategy to ensure that engine improvem
 ### Branches
 *   **`main` (Public/Community):** Contains the core game engine and the standard open-source world files (matching `raven2`). Proprietary zones and real secrets are **excluded**.
 *   **`production` (Private/Full-Game):** Inherits from `main` but includes the **full proprietary game world** and the actual **`secrets.c/h`** data.
+*   **`master` (Historical):** A legacy branch preserved on the public `raven2` repository as a 12-year historical record (circa 2012). It is **not** used for active development.
 
 ### Remotes
 *   **`origin`:** Points to `raven2-private` (GitHub Private). Receives both `main` and `production` branches.
