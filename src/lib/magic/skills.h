@@ -150,6 +150,8 @@
 #define STUN_USER_MAX        WAIT_STATE( ch,     SET_STUN( STUN_MAX ))
 #define STUN_USER_RANGE      WAIT_STATE( ch,     SET_STUN(number( STUN_MIN, STUN_MAX )))
 
+extern void apply_stun_duration(CharData *victim, int pulse_duration);
+
 #define STUN_VICTIM_MIN      WAIT_STATE( victim, SET_STUN( STUN_MIN ))
 #define STUN_VICTIM_MAX      WAIT_STATE( victim, SET_STUN( STUN_MAX ))
 #define STUN_VICTIM_RANGE    WAIT_STATE( victim, SET_STUN(number( STUN_MIN, STUN_MAX )))

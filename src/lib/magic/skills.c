@@ -588,3 +588,24 @@ int perform_practice(struct char_data *ch, int skill_num) {
 
     return 1;
 }
+
+void apply_stun_duration(CharData *victim, int pulse_duration) {
+    if (!IS_NPC(victim) && GET_CLASS(victim) == CLASS_ELEMANCER && GET_SKILL(victim, SKILL_GEOMANCY) > 0) {
+        // Calculate up to a 10% reduction based on Geomancy skill (0 to 100)
+        int reduction_percent = GET_SKILL(victim, SKILL_GEOMANCY) / 10;
+        int reduction = (pulse_duration * reduction_percent) / 100;
+        
+        pulse_duration -= reduction;
+        
+        // Ensure we don't drop below a minimum of 1 pulse
+        pulse_duration = MAX(1, pulse_duration);
+        
+        // To avoid spam, we only print the flavor text roughly 20% of the time they are stunned.
+        // The reduction ALWAYS happens mechanically, but the text is intermittent.
+        if (reduction > 0 && number(1, 5) == 1) {
+            send_to_char("Your earthen attunement absorbs some of the impact!\r\n", victim);
+        }
+    }
+    
+    WAIT_STATE(victim, pulse_duration);
+}
