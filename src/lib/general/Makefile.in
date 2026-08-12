@@ -63,7 +63,7 @@ INSTALL_LIBS=
 #    to install the class header files. Programs needing access to the class
 #    could then include <somedir/someclass.H> to reference the class.
 INSTALL_SDIR= general
-INSTALL_HDRS= conf.h sysdep.h
+INSTALL_HDRS= conf.h sysdep.h secrets.h
 
 # CFLAGS -
 #    This macro can be used to define special compiler switches that need

@@ -288,7 +288,7 @@ doTheMove( CharData *ch, int dir )
 
     if( !IS_NPC(ch) ) deathTrapKill(ch);
 
-    return;
+    return 0;
   }
 
   // This code below is terrible.  I should remember to clean it up some day.

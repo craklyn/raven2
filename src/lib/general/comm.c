@@ -2426,3 +2426,18 @@ setConnectState(DescriptorData *d, int newState)
     }
 }
 
+/* DUMMY STUBS ADDED FOR LINKING */
+int chGroupedWithTarget(CharData *ch, CharData *target) { return 0; }
+ACMD(do_land) { send_to_char("Not implemented.\r\n", ch); }
+ACMD(do_locate) { send_to_char("Not implemented.\r\n", ch); }
+ACMD(do_noteam) { send_to_char("Not implemented.\r\n", ch); }
+ACMD(do_recall) { send_to_char("Not implemented.\r\n", ch); }
+ACMD(do_vote) { send_to_char("Not implemented.\r\n", ch); }
+void general_log(const char *msg, const char *file) { mlog("general_log to %s: %s", file, msg); }
+int has_owner(ObjData *obj) { return 0; }
+void logItem(int vnum, char *fileName) {}
+int owns_item(CharData *ch, ObjData *obj) { return 0; }
+void perform_immort_vis(CharData *ch) {}
+int set_owner(CharData *ch, ObjData *obj) { return 0; }
+void water_activity(int pulse) {}
+

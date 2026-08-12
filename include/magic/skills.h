@@ -283,5 +283,6 @@ raceSkillAvoid( CharData *ch, CharData *vict, int the_skill);
 extern int victimIsAngry( int chanceToAnger );
 extern int artMonkey( CharData *ch, CharData *victim, int skill_id );
 extern int equipmentSkillSuccess(CharData *ch);
+extern int perform_practice(struct char_data *ch, int skill_num);
 
 #endif

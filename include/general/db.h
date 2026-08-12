@@ -642,7 +642,7 @@ typedef struct player_special_data {
     char *poofout; /* Description upon a god's exit.      */
     struct alias *aliases; /* Character's aliases                 */
     struct ignore *ignores; /* Character's list of ignored people */
-    long *last_tell; /* last tell from                      */
+    long last_tell; /* last tell from                      */
     void *last_olc_targ; /* If oasis does'nt use this, nuke it. */
     int last_olc_mode; /* If oasis does'nt use this, nuke it. */
     PlayerQuestData quest; /* vars related to questing            */

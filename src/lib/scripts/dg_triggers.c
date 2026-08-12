@@ -356,7 +356,7 @@ int entry_memory_mtrigger(char_data *ch)
   char buf[MAX_INPUT_LENGTH];
 
   if (!SCRIPT_MEM(ch) || AFF_FLAGGED(ch, AFF_CHARM))
-    return;
+    return 0;
  
   if (IN_ROOM(actor) < 0) {
     mudlog( BRF, LVL_IMMORT, TRUE, "SCRIPTS: %s not in a valid room", GET_NAME(actor));

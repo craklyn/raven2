@@ -203,7 +203,7 @@ char *exitIsClanGuarded(int cmd, CharData *ch)
     int i, j;
 
     if (cmd < CMD_NORTH || cmd > CMD_DOWN)
-        return NOBODY;
+        return NULL;
 
     for (i = 0; i < clan_count; i++) {
         for (j = 0; j < 3; j++) {

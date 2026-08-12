@@ -707,7 +707,7 @@ perform_drop (CharData * ch, ObjData * obj,
 
   // this was in perform_put for some bizarre reason
   if (!drop_otrigger (obj, ch))
-    return;
+    return 0;
 
   if (IS_OBJ_STAT (obj, ITEM_CURSED))
   {

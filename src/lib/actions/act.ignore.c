@@ -178,7 +178,7 @@ int prefers_ignore(CharData *ch, CharData *talker)
     sprintf(talkerName, "%s", GET_NAME(talker));
     any_one_arg(talkerName, talkerName);
 
-    if(a = (find_ignore(GET_IGNORES(ch), talkerName)) != NULL)
+    if((a = find_ignore(GET_IGNORES(ch), talkerName)) != NULL)
         return 1;
     else
         return 0;

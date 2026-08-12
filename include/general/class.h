@@ -58,7 +58,8 @@ Class Definitions
 #define CLASS_DEATH_KNIGHT    8
 #define CLASS_SHADOW_DANCER   9
 #define CLASS_NECROMANCER     10
-#define NUM_CLASSES           11
+#define CLASS_ELEMANCER       11
+#define NUM_CLASSES           12
 
 /* ============================================================================
 Race Definitions
@@ -173,6 +174,7 @@ Class & Race Macros
 #define IS_DEATH_KNIGHT(ch)    (GET_CLASS(ch) == CLASS_DEATH_KNIGHT)
 #define IS_SHADOW_DANCER(ch)   (GET_CLASS(ch) == CLASS_SHADOW_DANCER)
 #define IS_NECROMANCER(ch)     (GET_CLASS(ch) == CLASS_NECROMANCER)
+#define IS_ELEMANCER(ch)       (GET_CLASS(ch) == CLASS_ELEMANCER)
 
 /* ============================================================================
 Misc. class/race related stuff
@@ -208,10 +210,20 @@ global buffering system - allow access to global variables within class.c
 extern const TitleType titles[][ LVL_IMPL + 2 ];
 extern const int   thaco[][ LVL_IMPL + 2 ];
 extern const int   saving_throws[][SAVING_MAX][LVL_IMPL+2];
+extern const char  *prac_types[];
 extern const char  *pc_class_types[];
 extern const char  *class_abbrevs[];
 extern const char  *class_menu[];
 extern       int   prac_params[][NUM_CLASSES];
+
+#define LEARNED_LEVEL	0	/* % known which is considered "learned" */
+#define MAX_PER_PRAC	1	/* max percent gain in skill per practice */
+#define MIN_PER_PRAC	2	/* min percent gain in skill per practice */
+#define PRAC_TYPE	3	/* should it say 'spell' or 'skill'?	 */
+
+#define MINGAIN(ch) (prac_params[MIN_PER_PRAC][(int)GET_CLASS(ch)])
+#define MAXGAIN(ch) (prac_params[MAX_PER_PRAC][(int)GET_CLASS(ch)])
+#define SPLSKL(ch) (prac_types[prac_params[PRAC_TYPE][(int)GET_CLASS(ch)]])
 /* Race global variables */
 extern const char *race_menu;
 extern const char *breath_menu;

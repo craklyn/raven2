@@ -93,11 +93,11 @@ void listpfile( char *playername )
 		fseek(fl, -sizeof(player), SEEK_CUR);
 		fwrite(&player, sizeof(player), 1, fl);
 		printf("Restored from %s\n", playername);
-		close(outfile);
+		fclose(outfile);
             } else if (outfile = fopen(playername, "w+")) {
 		fwrite(&player, sizeof(player), 1, outfile);
 		printf("Saved to %s\n", playername);
-		close(outfile);
+		fclose(outfile);
 	    }
 	}
     }

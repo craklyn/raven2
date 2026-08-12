@@ -639,7 +639,7 @@ ObjData *raw_kill(CharData * ch, CharData * killer)
      * of them, do so! */
     if (shouldMakeZombie() && ZOMBIE_OK(ch)) {
       make_zombie(ch);
-      return;
+      return NULL;
     }
 
     if (killer) {
@@ -927,7 +927,7 @@ die( CharData *ch, CharData *killer, int pkill)
   */
 
   if(pvpHoliday(ch) && !IN_ARENA(ch))
-      return;
+      return NULL;
 
   /*
   ** Check for quest/chore kills
@@ -987,12 +987,12 @@ die( CharData *ch, CharData *killer, int pkill)
             affect_from_char(ch, SPELL_CHARM_CORPSE);
         }
 
-        return;
+        return NULL;
     }
     if (IN_QUEST_FIELD(ch))
     {
       jail_char(ch, FALSE);
-      return;
+      return NULL;
     }
     
     end_fight(ch);
@@ -1002,7 +1002,7 @@ die( CharData *ch, CharData *killer, int pkill)
     if( inBloodBowl( ch ) )
     {
       dieInBloodBowl( ch );
-      return;
+      return NULL;
     }
     else
     {
@@ -1039,7 +1039,7 @@ die( CharData *ch, CharData *killer, int pkill)
       act( "$n materializes before you.", TRUE, ch, 0, 0, TO_ROOM );
     }
 
-    return;
+    return NULL;
   }
 
   gain_exp(ch, xp_gain(NULL, ch, pkill, TRUE)); 

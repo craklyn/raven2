@@ -30,6 +30,7 @@
 #include "scripts/dg_scripts.h"
 #include "specials/flag_game.h"
 #include "magic/skills.h"
+#include "magic/sing.h"
 #include "specials/mail.h"       /* for has_mail() */
 #include "util/weather.h"
 
@@ -253,7 +254,7 @@ ACMD(do_steal)
     percent = -1;       /* ALWAYS SUCCESS */
 
   /* NO NO With Imp's and Shopkeepers! */
-  if ((GET_LEVEL(vict) >= LVL_IMMORT) || (IS_NPC(vict) && MOB_FLAGGED(vict, MOB_NOKILL)))
+  if ((GET_LEVEL(vict) >= LVL_IMMORT) || (IS_NPC(vict) && MOB_FLAGGED(vict, MOB_AWARE)))
     percent = 101;      /* Failure */
 
   if (str_cmp(obj_name, "coins") && str_cmp(obj_name, "gold")) {
@@ -490,7 +491,7 @@ ACMD(do_group)
     return;
   }
   if (!(vict = get_char_room_vis(ch, buf)))
-    send_to_char(NOPERSON, ch);
+    send_to_char(CONFIG_NOPERSON, ch);
   else if ((vict->master != ch) && (vict != ch))
     act("$N must follow you to enter your group.", FALSE, ch, 0, vict, TO_CHAR);
   else {
@@ -546,7 +547,7 @@ ACMD(do_ungroup)
     return;
   }
   if (!(vict = get_char_room_vis(ch, buf))) {
-    send_to_char(NOPERSON, ch);
+    send_to_char(CONFIG_NOPERSON, ch);
     return;
   }
   if ((vict->master != ch) && (vict != ch)) {
@@ -698,7 +699,7 @@ ACMD(do_use)
       send_to_char(buf2, ch);
       return;
     default:
-      log("SYSERR: Unknown subcmd %d passed to do_use.", subcmd);
+      mlog("SYSERR: Unknown subcmd %d passed to do_use.", subcmd);
       return;
     }
   }
@@ -754,7 +755,7 @@ ACMD(do_wimpy)
       else if (wimp_lev > (GET_MAX_HIT(ch) >> 1))
 	send_to_char("You can't set your wimpy level above 50% of your hit points.\r\n", ch);
       else {
-	ssprintf(buf, "Okay, you'll wimp out if you drop below %d hit points.\r\n",
+	sprintf(buf, "Okay, you'll wimp out if you drop below %d hit points.\r\n",
 		wimp_lev);
 	send_to_char(buf, ch);
 	GET_WIMP_LEV(ch) = wimp_lev;
@@ -846,7 +847,7 @@ ACMD(do_gen_write)
     perror("Error statting file");
     return;
   }
-  if (fbuf.st_size >= config_info.play.max_filesize) {
+  if (fbuf.st_size >= CONFIG_MAX_FILESIZE) {
     send_to_char("Sorry, the file is full right now.. try again later.\r\n", ch);
     return;
   }
@@ -857,7 +858,8 @@ ACMD(do_gen_write)
   }
   gecho("%s\n", argument);
   
-  tmp = asctime(localtime(&time(0)));
+  time_t t = time(0);
+  tmp = asctime(localtime(&t));
   *(tmp + strlen(tmp) - 1) = '\0';
 
   fprintf(fl, "%s (%s) [%5d] %s\n", GET_NAME(ch), tmp,
@@ -868,8 +870,6 @@ ACMD(do_gen_write)
 
 #define TOG_OFF 0
 #define TOG_ON  1
-
-#define PRF_TOG_CHK(ch,flag) ((TOGGLE_BIT_AR(PRF_FLAGS(ch), (flag))) & (flag))
 
 ACMD(do_gen_tog)
 {
@@ -915,10 +915,10 @@ ACMD(do_gen_tog)
     onset = "You can now hear shouts.";
     offset = "You are now deaf to shouts.";
     break;
-  case SCMD_NOGOSSIP:
-    result = PRF_TOG_CHK(ch, PRF_NOGOSS);
-    onset = "You can now hear gossip.";
-    offset = "You are now deaf to gossip.";
+  case SCMD_NORPLAY:
+    result = PRF_TOG_CHK(ch, PRF_NORPLAY);
+    onset = "You can now hear roleplay.";
+    offset = "You are now deaf to roleplay.";
     break;
   case SCMD_NOGRATZ:
     result = PRF_TOG_CHK(ch, PRF_NOGRATZ);
@@ -936,7 +936,7 @@ ACMD(do_gen_tog)
     offset = "You are no longer part of the Quest.";
     break;
   case SCMD_ROOMFLAGS:
-    result = PRF_TOG_CHK(ch, PRF_ROOMFLAGS);
+    result = PRF_TOG_CHK(ch, PRF_SHOWVNUMS);
     onset = "You will now see room flags.";
     offset = "You will no longer see room flags.";
     break;
@@ -951,7 +951,7 @@ ACMD(do_gen_tog)
     offset = "HolyLight mode on.";
     break;
   case SCMD_SLOWNS:
-    result = (nameserver_is_slow = !nameserver_is_slow);
+    result = (CONFIG_NS_IS_SLOW = !CONFIG_NS_IS_SLOW);
     onset = "Nameserver is fast.";
     offset = "Nameserver is slow.";
     break;
@@ -971,22 +971,10 @@ ACMD(do_gen_tog)
           ch->char_specials.timer = 0;
       }
       break;
-  case SCMD_TRACK:
-      result = PRF_TOG_CHK(ch, PRF_NOTRACK);
-      onset = "You can now be tracked.";
-      offset = "You can no longer be tracked.";
-      break;
-  case SCMD_BUILDWALK:
-      if (GET_LEVEL(ch) < LVL_BUILDER) {
-          sendChar(ch, "You aren't high enough level for this.\r\n");
-          return;
-      }
-      result = PRF_TOG_CHK(ch, PRF_BUILDWALK);
-      onset = "Buildwalk disabled.";
-      offset = "Buildwalk enabled.";
-      break;
+
+
   default:
-    log("SYSERR: Unknown subcmd %d in do_gen_tog.", subcmd);
+    mlog("SYSERR: Unknown subcmd %d in do_gen_tog.", subcmd);
     return;
   }
 
@@ -1009,8 +997,8 @@ ACMD(do_ventriloquate)
     struct char_data *vict, *next_vict;
     bool found = FALSE;
 
-    /* Check for Bard class or skill */
-    if (!IS_BARD(ch) && GET_LEVEL(ch) < LVL_IMMORT) {
+    /* Check for Elemancer class or skill */
+    if (!IS_ELEMANCER(ch) && GET_LEVEL(ch) < LVL_IMMORT) {
         send_to_char("You are not musically inclined enough to do that.\r\n", ch);
         return;
     }
@@ -1039,7 +1027,7 @@ ACMD(do_ventriloquate)
         return;
     }
     
-    if (IS_SET_AR(EXIT(ch, room_dir)->exit_info, EX_CLOSED)) {
+    if (IS_SET(EXIT(ch, room_dir)->exit_info, EX_CLOSED)) {
         send_to_char("You can't throw your voice through a closed door.\r\n", ch);
         return;
     }

@@ -67,7 +67,7 @@ SPECIAL( healer )
     if(IS_SET_AR( ROOM_FLAGS( IN_ROOM(ch)), ROOM_CLAN ) &&
         ( world[IN_ROOM(ch)].clan_id != GET_CLAN(ch))) {
         sendChar(ch, "I will never serve you, infidel!\r\n");
-        return;
+        return TRUE;
     }
 
     if ( CMD_IS("list") )

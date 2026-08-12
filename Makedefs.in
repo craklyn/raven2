@@ -36,7 +36,7 @@ CONFIG_DIR      = $(TOPSRC)
 # following variables are set via m4 macros in the acsite.m4 file.
 #
 noautodeps      = @noautodeps@
-nosharedlibs    = @nosharedlibs@
+nosharedlibs    = 1
 
 ifdef nosharedlibs
 LIBEXT          = a

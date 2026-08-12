@@ -36,7 +36,7 @@ CONFIG_DIR      = $(TOPSRC)
 # following variables are set via m4 macros in the acsite.m4 file.
 #
 noautodeps      = 
-nosharedlibs    = 
+nosharedlibs    = 1
 
 ifdef nosharedlibs
 LIBEXT          = a
@@ -49,9 +49,9 @@ CUR_SUB        := $(subst $(TOPSRC)/,$(empty),$(CUR_DIR))
 
 # The rest of this file contains standard variable settings.
 #
-CC              = gcc
+CC              = gcc -std=gnu23
 CXX             = @CXX@
-INSTALL         = /usr/bin/install -c
+INSTALL         = /usr/local/bin/ginstall -c
 INSTALL_PROGRAM = ${INSTALL}
 INSTALL_DATA    = ${INSTALL} -m 644
 RANLIB          = ranlib

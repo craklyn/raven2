@@ -516,8 +516,9 @@
 #define ITEM_ANTI_REMORT          55    /* Item cannot be worn by remorts */
 #define ITEM_ANTI_PREMORT         56    /* Item cannot be worn by premorts */
 #define ITEM_TROPHY               57    /* Item is a trophy, and will dissapear eventually */
+#define ITEM_ANTI_ELEMANCER       58    /* Item can't be worn by elemancers */
 /* Total number of item flags */
-#define NUM_ITEM_FLAGS            58
+#define NUM_ITEM_FLAGS            59
 
 /* Modifier constants used with obj affects ('A' fields) */
 #define APPLY_NONE              0	/* No effect			*/

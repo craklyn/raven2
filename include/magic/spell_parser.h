@@ -1,4 +1,6 @@
 
+extern char *mag_current_extra_arg;
+
 extern struct spell_info_type spell_info[TOP_SPELL_DEFINE + 1];
 extern int mag_manacost(CharData * ch, int spellnum, int spellCostImmutable);
 
