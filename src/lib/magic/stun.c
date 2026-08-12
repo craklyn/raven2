@@ -280,7 +280,7 @@ CharData *tch, *next_tch;
                     do_stand(victim, "", 0, 0);
             }
             else
-                STUN_VICTIM_RANGE;
+                apply_stun_duration(victim, SET_STUN(number(STUN_MIN, STUN_MAX)));
 
             damage(ch, victim, stun_damage, the_skill);
             /* 1 in 30 chance a shield bash will knock target out of room */

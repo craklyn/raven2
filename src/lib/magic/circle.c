@@ -205,7 +205,7 @@ ACMD(do_circle)
         }
 
         else {
-            STUN_VICTIM_MIN;
+            apply_stun_duration(victim, SET_STUN(STUN_MIN));
             hit(ch, victim, THIS_SKILL);
         }
     }/* if */

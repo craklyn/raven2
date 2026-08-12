@@ -190,7 +190,7 @@ ACMD(do_brain)
             af.location  = APPLY_NONE;
             affect_join(victim, &af, FALSE, FALSE, FALSE, FALSE);
             STUN_USER_MIN;
-            STUN_VICTIM_MAX;
+            apply_stun_duration(victim, SET_STUN(STUN_MAX));
         } else {
              damage(ch, victim, dam, THIS_SKILL);
              STUN_USER_MAX;

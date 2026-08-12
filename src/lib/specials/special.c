@@ -786,7 +786,7 @@ SPECIAL(roomFall)
     update_pos( victim );
 
     /* randomly stun */
-    STUN_VICTIM_RANGE;
+    apply_stun_duration(victim, SET_STUN(number(STUN_MIN, STUN_MAX)));
 
     perform_move( ch, DOWN, 0 );
     return 1;

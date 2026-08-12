@@ -215,7 +215,7 @@ void flashbang_explode(CHAR_DATA *ch, CHAR_DATA *victim)
             
             if(GET_LEVEL(victim) < LVL_IMMORT) {
                 if(number(1, 30) > GET_CON(victim)) {
-                    STUN_VICTIM_RANGE;
+                    apply_stun_duration(victim, SET_STUN(number(STUN_MIN, STUN_MAX)));
                     act("The concussion report sends you reeling!", TRUE, victim, 0, victim, TO_VICT);
                     act("The concussive report sends $N reeling!", FALSE, victim, NULL, victim, TO_ROOM);
                     act("The concussive report sends $N reeling!", FALSE, victim, NULL, victim, TO_CHAR);

@@ -230,7 +230,7 @@ void knock_internal(CharData *ch, CharData *victim) {
             affect_join(victim, &af, FALSE, FALSE, FALSE, FALSE);
             
             GET_POS(victim) = POS_SLEEPING;
-            STUN_VICTIM_RANGE;
+            apply_stun_duration(victim, SET_STUN(number(STUN_MIN, STUN_MAX)));
         }/* if KO */
         else if(stunned)
         {
@@ -238,7 +238,7 @@ void knock_internal(CharData *ch, CharData *victim) {
             act( "$N lands on $S butt from $n's knockout punch.", TRUE, ch, NULL, victim, TO_NOTVICT );
             act( "$n sends you to the ground with a knockout punch!", TRUE, ch, NULL, victim, TO_VICT );
             GET_POS(victim) = POS_SITTING;
-            STUN_VICTIM_MAX;
+            apply_stun_duration(victim, SET_STUN(STUN_MAX));
         }
 
         STUN_USER_MIN;

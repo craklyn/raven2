@@ -142,7 +142,7 @@ ACMD(do_backstab)
                       SKILL_ADVANCE_STRING,
                       DEX_AFFECTS, INT_AFFECTS, WIS_AFFECTS );
     hit(ch, victim, THIS_SKILL);
-    STUN_VICTIM_MIN;
+    apply_stun_duration(victim, SET_STUN(STUN_MIN));
     STUN_USER_RANGE;
   }
   else

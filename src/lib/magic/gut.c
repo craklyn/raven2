@@ -168,7 +168,7 @@ ACMD(do_gut)
 			  SKILL_ADVANCE_STRING, DEX_AFFECTS, 
 		          INT_AFFECTS, WIS_AFFECTS );
         damage(ch, victim, dam, THIS_SKILL);
-        STUN_VICTIM_RANGE;
+        apply_stun_duration(victim, SET_STUN(number(STUN_MIN, STUN_MAX)));
         STUN_USER_MIN;
     } else {
          damage(ch, victim, 0, THIS_SKILL);

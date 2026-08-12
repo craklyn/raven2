@@ -211,7 +211,7 @@ ACMD(do_escape)
         DEX_AFFECTS, INT_AFFECTS, WIS_AFFECTS );
     
 	if(IS_BOUNTY_HUNTER(ch) && GET_ADVANCE_LEVEL(ch) >= 5 && percentSuccess(50))
-		STUN_VICTIM_MIN;
+		apply_stun_duration(victim, SET_STUN(STUN_MIN));
 	else STUN_USER_MIN;
     
 	if (number(1,100) < PERCENT_CHECK) {

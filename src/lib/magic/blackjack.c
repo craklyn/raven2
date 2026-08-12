@@ -149,7 +149,7 @@ ACMD(do_blackjack)
                 0, 0, 20, AFF_PARALYZE, FALSE, FALSE, FALSE, FALSE);
 
         STUN_USER_MIN;
-        STUN_VICTIM_MAX;
+        apply_stun_duration(victim, SET_STUN(STUN_MAX));
     } else {
         act("Your blackjack is easily sidestepped by $N.", FALSE, ch, 0, victim, TO_CHAR);
         act("You easily sidestep $n's attempt to blackjack you.", FALSE, ch, 0, victim, TO_VICT);

@@ -133,7 +133,7 @@ ACMD(do_shadowdance)
             if( victimIsAngry( 30 ) ) set_fighting(victim, ch);
         }
         else {
-            STUN_VICTIM_RANGE;
+            apply_stun_duration(victim, SET_STUN(number(STUN_MIN, STUN_MAX)));
 	    act("Shadows play around $n... $n vanishes!", FALSE, ch, 0, victim, TO_ROOM );
 	    act("$n appears from the darkness.", FALSE, ch, 0, victim, TO_ROOM );
             hit(ch, victim, SKILL_SHADOW_DANCE);

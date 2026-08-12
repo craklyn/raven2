@@ -170,7 +170,7 @@ ACMD(do_cower)
                 do_backstab(ch, tmp_ch->player.name, 0, 0);
             }
 
-            STUN_VICTIM_MIN;
+            apply_stun_duration(victim, SET_STUN(STUN_MIN));
         }/* skill success */
         else
             send_to_char("Ack! You can't get away!\r\n", ch);

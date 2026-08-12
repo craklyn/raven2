@@ -145,7 +145,7 @@ void char_rescue_char(CharData *ch, CharData *victim)
         act("You are rescued by $N, you are confused!", FALSE, victim, 0, ch, TO_CHAR);
         act("$n heroically rescues $N!", FALSE, ch, 0, victim, TO_NOTVICT);
 
-        STUN_VICTIM_MAX;
+        apply_stun_duration(victim, SET_STUN(STUN_MAX));
 
     }/* if */
 

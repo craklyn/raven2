@@ -140,7 +140,7 @@ ACMD(do_expose)
 
                 if((GET_INT(ch) + GET_DEX(ch)*number(7, 10) > (GET_INT(victim) + GET_DEX(ch))*number(7, 9))) {
                     victim = victim;
-                    STUN_VICTIM_MAX;
+                    apply_stun_duration(victim, SET_STUN(STUN_MAX));
                 }
 
                 // Now that it's exposed, we might want to attack it.

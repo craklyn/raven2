@@ -227,7 +227,7 @@ ACMD(do_charge)
         if (victim->mount) awkward_dismount(victim);
         dam = calculateDamage(ch, victim, THIS_SKILL, 0) * i;
         GET_POS(victim) = POS_SITTING;
-        STUN_VICTIM_MAX;
+        apply_stun_duration(victim, SET_STUN(STUN_MAX));
         damage(ch, victim, dam, THIS_SKILL);
     } else {
         damage(ch, victim, 0, THIS_SKILL);
