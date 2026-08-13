@@ -298,7 +298,7 @@ const char *GREETINGS =
 " and                        |      ravenmud.com 6060     |  \r\n"
 " Hans Henrik Staerfeldt     |      www.ravenmud.com      |  \r\n"
 "                            |                            |   \r\n"
-"                            |      Running Raven 2.3     |   \r\n"
+"                            |      Running Raven 2.4     |   \r\n"
 "                           {------------------------------}  \r\n"
 "                    The Immortals of Raven reserve the right to\r\n"
 "                     reject any name that is inappropriate and\r\n"
