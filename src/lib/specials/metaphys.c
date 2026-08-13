@@ -541,6 +541,7 @@ int reroll(CharData *ch, int choice) {
                 break;
             case CLASS_ASSASSIN:
             case CLASS_THIEF:
+            case CLASS_ELEMANCER:
                 add_hp += 60;
                 add_move += 40;
                 break;
@@ -569,81 +570,24 @@ int reroll(CharData *ch, int choice) {
         add_mana += int_app[(int)race_stat_limits[(int)GET_RACE(ch)][INTELLIGENCE_INDEX]].manap;
         mana_bonus += 2*int_app[(int)race_stat_limits[(int)GET_RACE(ch)][INTELLIGENCE_INDEX]].extra;
 
-        switch (GET_CLASS(ch)) {
+        int class = GET_CLASS(ch);
+        int hp_min = class_gains[class][0][0];
+        int hp_max = class_gains[class][0][1];
+        add_hp += (hp_min + hp_max) / 2;
+        if ((hp_min + hp_max) % 2 != 0) hp_bonus += 3;
 
-            case CLASS_MAGIC_USER:
-                add_hp  += 6;
-                add_mana += 6;
-                mana_bonus += 3;
-                add_move += 2;
-                break;
+        int mana_min = class_gains[class][1][0];
+        int mana_max = class_gains[class][1][1];
+        add_mana += (mana_min + mana_max) / 2;
+        if ((mana_min + mana_max) % 2 != 0) mana_bonus += 3;
 
-            case CLASS_CLERIC:
-                add_hp  += 7;
-                hp_bonus += 3;
-                add_mana += 5;
-                add_move += 2;
-                break;
+        int move_min = class_gains[class][2][0];
+        int move_max = class_gains[class][2][1];
+        add_move += (move_min + move_max) / 2;
+        if ((move_min + move_max) % 2 != 0) move_bonus += 3;
 
-            case CLASS_THIEF:
-                add_hp  += 10;
-                add_mana = 0;
-                mana_bonus = 0;
-                add_move += 2;
-                move_bonus += 3;
-                break;
-
-            case CLASS_WARRIOR:
-                add_hp  += 13;
-                add_mana = 0;
-                mana_bonus = 0;
-                add_move += 2;
-                move_bonus += 3;
-                break;
-
-            case CLASS_RANGER:
-                add_hp  += 12;
-                hp_bonus += 3;
-                add_mana += 2;
-                add_move += 3;
-                break;
-
-            case CLASS_ASSASSIN:
-                add_hp  += 10;
-                add_mana = 0;
-                mana_bonus = 0;
-                add_move += 2;
-                move_bonus += 3;
-                break;
-
-            case CLASS_SHOU_LIN:
-                add_hp  += 10;
-                add_mana += 2;
-                add_move += 2;
-                break;
-
-            case CLASS_SOLAMNIC_KNIGHT:
-            case CLASS_DEATH_KNIGHT:
-                add_hp  += 12;
-                hp_bonus += 3;
-                add_mana += 2;
-                mana_bonus += 3;
-                add_move += 2;
-                break;
-
-            case CLASS_SHADOW_DANCER:
-                add_hp  += 10;
-                add_mana += 3;
-                mana_bonus += 3;
-                add_move += 2;
-                break;
-
-            case CLASS_NECROMANCER:
-                add_hp  += 6;
-                add_mana += 6;
-                add_move += 2;
-                break;
-
+        if (IS_ELEMANCER(ch)) {
+            add_move += MAX(0, (race_stat_limits[(int)GET_RACE(ch)][CHARISMA_INDEX] - 12) / 2);
         }
 
         // drow get a little more mana : Sanji

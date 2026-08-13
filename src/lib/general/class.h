@@ -235,6 +235,8 @@ extern const char *drc_subrace_abbrevs[];
 extern const char race_stat_limits[][7];
 /* This array determines which classes a pc of a particular race can be. */
 extern const sh_int classes_allowed[][NUM_CLASSES];
+/* This array determines the base min and max gains for each class per level */
+extern const short class_gains[][3][2];
 
 #endif /* __CLASS_C__ */
 

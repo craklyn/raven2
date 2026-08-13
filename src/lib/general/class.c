@@ -928,22 +928,31 @@ void do_start(CharData * ch)
 }
 
 #define LOSS_HP 0
-#define LOSS_MP 0
-#define LOSS_MV 0
+#define LOSS_MP 1
+#define LOSS_MV 2
 
-/* HP/MP/MV loss table */
-const short int losses[3][NUM_CLASSES] = {
-/*   Mu  Cl  Th  Wa  Ra  As  Sl  Kn  Dk  Sd  Nm*/
-    { 8, 10, 13, 16, 15, 13, 13,  0,  0, 13,  8},  /* MAXHIT */
-    { 9,  7,  0,  0,  3,  3,  3,  4,  4,  5,  8},  /* MAXMANA */
-    { 3,  3,  3,  3,  4,  3,  3,  3,  3,  3,  3},  /* MAXMOVE */
+/* HP/MP/MV min and max gain table */
+const short class_gains[NUM_CLASSES][3][2] = {
+    /* MU */ { { 4,  8}, { 4,  9}, { 1,  3} },
+    /* CL */ { { 5, 10}, { 3,  7}, { 1,  3} },
+    /* TH */ { { 7, 13}, { 0,  0}, { 2,  3} },
+    /* WA */ { {10, 16}, { 0,  0}, { 2,  3} },
+    /* RA */ { {10, 15}, { 1,  3}, { 2,  4} },
+    /* AS */ { { 7, 13}, { 0,  0}, { 2,  3} },
+    /* SL */ { { 7, 13}, { 1,  3}, { 1,  3} },
+    /* KN */ { {10, 15}, { 1,  4}, { 1,  3} },
+    /* DK */ { {10, 15}, { 1,  4}, { 1,  3} },
+    /* SD */ { { 7, 13}, { 2,  5}, { 1,  3} },
+    /* NM */ { { 4,  8}, { 4,  8}, { 1,  3} },
+    /* EL */ { { 9, 14}, { 0,  0}, { 6, 10} },
 };
 
 void retreat_level(CharData *ch)
 {
-    ch->points.max_hit  -= losses[LOSS_HP][GET_CLASS(ch)];
-    ch->points.max_mana -= losses[LOSS_MP][GET_CLASS(ch)];
-    ch->points.max_move -= losses[LOSS_MV][GET_CLASS(ch)];
+    int class = GET_CLASS(ch);
+    ch->points.max_hit  -= class_gains[class][LOSS_HP][1];
+    ch->points.max_mana -= class_gains[class][LOSS_MP][1];
+    ch->points.max_move -= class_gains[class][LOSS_MV][1];
     GET_LOST_LEVELS(ch) += 1;
 
     save_char(ch, NOWHERE);
@@ -967,74 +976,14 @@ void level_up(CharData * ch)
   if (int_app[(int)GET_INT(ch)].extra >= number(1,3))
 	add_mana += 1;
 
-  switch (GET_CLASS(ch)) {
+  int class = GET_CLASS(ch);
 
-  case CLASS_MAGIC_USER:
-    add_hp  += number(4, 8);
-    add_mana += number(4, 9);
-    add_move += number(1, 3);
-    break;
+  add_hp   += number(class_gains[class][LOSS_HP][0], class_gains[class][LOSS_HP][1]);
+  add_mana += number(class_gains[class][LOSS_MP][0], class_gains[class][LOSS_MP][1]);
+  add_move += number(class_gains[class][LOSS_MV][0], class_gains[class][LOSS_MV][1]);
 
-  case CLASS_CLERIC:
-    add_hp  += number(5, 10);
-    add_mana += number(3, 7);
-    add_move += number(1, 3);
-    break;
-
-  case CLASS_THIEF:
-    add_hp  += number(7, 13);
-    add_mana = 0;
-    add_move += number(2, 3);
-    break;
-
-  case CLASS_WARRIOR:
-    add_hp  += number(10, 16);
-    add_mana = 0;
-    add_move += number(2, 3);
-    break;
-
-  case CLASS_RANGER:
-    add_hp  += number(10, 15);
-    add_mana += number(1, 3);
-    add_move = number(2, 4);
-    break;
-
-  case CLASS_ASSASSIN:
-    add_hp  += number(7, 13);
-    add_mana = 0;
-    add_move = number(2, 3);
-    break;
-
-  case CLASS_SHOU_LIN:
-    add_hp  += number(7, 13);
-    add_mana += number(1, 3);
-    add_move += number(1, 3);
-    break;
-
-  case CLASS_SOLAMNIC_KNIGHT:
-    add_hp  += number(10, 15);
-    add_mana += number(1, 4);
-    add_move += number(1, 3);
-    break;
-
-  case CLASS_DEATH_KNIGHT:
-    add_hp  += number(10, 15);
-    add_mana += number(1, 4);
-    add_move += number(1, 3);
-    break;
-
-  case CLASS_SHADOW_DANCER:
-    add_hp  += number(7, 13);
-    add_mana += number(2, 5);
-    add_move += number(1,3);
-    break;
-
-  case CLASS_NECROMANCER:
-    add_hp  += number(4, 8);
-    add_mana += number(4, 8);
-    add_move += number(1, 3);
-    break;
-
+  if (IS_ELEMANCER(ch)) {
+      add_move += MAX(0, (GET_CHA(ch) - 12) / 2);
   }
 
   // drow get a little more mana : Sanji
@@ -1042,9 +991,9 @@ void level_up(CharData * ch)
 
   /* whew! glad we did all that work!  but, if they lost levels ... */
   if (GET_LOST_LEVELS(ch) > 0) {
-    ch->points.max_hit  += losses[LOSS_HP][GET_CLASS(ch)];
-    ch->points.max_mana += losses[LOSS_MP][GET_CLASS(ch)];
-    ch->points.max_move += losses[LOSS_MV][GET_CLASS(ch)];
+    ch->points.max_hit  += class_gains[class][LOSS_HP][1];
+    ch->points.max_mana += class_gains[class][LOSS_MP][1];
+    ch->points.max_move += class_gains[class][LOSS_MV][1];
     GET_LOST_LEVELS(ch) -= 1;
   } else {
     ch->points.max_hit  += MAX(1, add_hp);
